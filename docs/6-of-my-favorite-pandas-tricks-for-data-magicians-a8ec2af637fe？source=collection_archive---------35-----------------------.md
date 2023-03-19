@@ -1,0 +1,177 @@
+# 我最喜欢的熊猫数据魔术师的 6 个戏法
+
+> 原文：<https://towardsdatascience.com/6-of-my-favorite-pandas-tricks-for-data-magicians-a8ec2af637fe?source=collection_archive---------35----------------------->
+
+## 展示了我最喜欢的 Pandas Python 库的一些功能，其中有一些你以前可能没有见过
+
+![](img/bf1e00149e9c304d7fbb8e5b34267e91.png)
+
+(src =[https://pixabay.com/images/id-4421395/](https://pixabay.com/images/id-4421395/)
+
+# 介绍
+
+Python 无疑已经脱颖而出，并在许多方面证明了自己是一种有效且可用的数据科学编程语言。事实证明这一点的部分原因是 Python 有一个最不可思议的生态系统，用于数学、统计、机器学习的高级声明包，最重要的是；
+
+> 数据管理。
+
+现在，数据科学领域已经成为数据管理概念的代名词，并且已经为 Python 程序员提供了 Pandas.py 这个光荣的礼物。这已经成为管理数据的行业标准，不仅是在 Python 编程方面，而且基本上是整个数据科学学科。不用说，Pandas 是一个非常棒的软件包，任何有抱负的数据科学家、数据工程师，甚至在某些情况下软件工程师都应该学习。熊猫可以被认为是一种工具，掌握你工具箱中的所有工具是很重要的。考虑到这一点，我决定采用一些相对不为人知的熊猫技巧，我发现这些技巧对数据科学非常有价值。希望这些提示能帮助程序员成为熊猫图书馆的绝对专家！另外，对于那些希望看到本文中的代码运行的人来说，您也可以查看笔记本(我在本文中使用的 ipynb)文件如下:
+
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/7%20Of%20My%20Favorite%20Pandas%20Tricks.ipynb) [## Emmetts-DS-NoteBooks/7 我最喜欢的熊猫戏法
+
+### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
+
+github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/7%20Of%20My%20Favorite%20Pandas%20Tricks.ipynb) 
+
+## 创建数据框
+
+显然，为了演示这些小技巧，你需要一个数据框。我将包含这些代码的唯一目的是为了文章中包含的所有代码的连续性和可运行性。
+
+```
+import pandas as pddf = pd.DataFrame({"A" : [5, 10, 15, 20], "B" : ['a', 'c', 'c', 'e']})df.head()
+```
+
+# №1:存取方法
+
+制作一个像 Pandas 这样的数据管理框架的问题是有太多不同形式的数据需要考虑。在这方面相信我；凭经验我知道。实际上，我正在为 Julia 语言开发我自己的面向对象数据框架包，我遇到了许多问题，我相信熊猫的创造者也必须克服这些问题。虽然表面上看起来很简单，但是管理这种类型的数据实际上非常困难！
+
+无论如何，有点跑题了——但是如果你想看看我的 Julia 包(即使你不写 Julia，只写 Python，我想你会欣赏我正在做的事情)，这里有一个 OddFrames 的 Github 的链接。jl:
+
+[](https://github.com/ChifiSource/OddFrames.jl) [## GitHub-chifi source/odd frames . JL:面向对象的、基于 dict 的 DataFrames 包！
+
+### jl 是 Julia 的一种新的数据管理和操作包。然而，许多类似的软件包…
+
+github.com](https://github.com/ChifiSource/OddFrames.jl) 
+
+我感谢所有的支持给这个包的发展(观点，拉请求，叉，克隆，明星)它意味着我的世界。即使在试图解析简单的逗号分隔值(。CSV)文件，我遇到了很多问题，尤其是在输入方面。我还写了一篇关于那场灾难的文章——如果你也想看的话，你当然也可以在这里看到:
+
+[](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) [## 我在 Julia 中创建 CSV 阅读器时经历的痛苦
+
+### 想知道 CSV 文件是如何解析的吗？这是字符串处理的好方法！
+
+towardsdatascience.com](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) 
+
+我跑题了，咆哮着说像熊猫这样的东西实际上是多么难以创建，现在让我们讨论什么是访问器——以及它们如何应用于这种类型的问题。访问器只是一个简单的解决方案，可以用来以令人难以置信的流畅轻松实现 Pandas 库中的新类型和更改。访问器扩展了 Pandas 的功能，并提供了特定的操作。当然，这取决于类型。在 Pandas 中实现访问器的一个很好的例子是日期-时间访问器。
+
+默认情况下，Pandas 库将附带以下访问器:
+
+*   Str:字符串数据类型
+*   分类数据类型
+*   Dt:日期时间、时间增量、周期数据类型
+*   稀疏:稀疏数据类型
+
+也就是说，访问器的全部目的是为新的数据类型提供一个进入 series 类型的入口——也就是熊猫数据帧。也就是说，如果您打算使用 Python 和 Pandas，我肯定会花时间了解这些访问器。对于下面的例子，我将用字符串访问器 str 来演示这一点:
+
+```
+print(df.B.str)<pandas.core.strings.accessor.StringMethods object at 0x7efd127c09d0>
+```
+
+基本上，因为我们的数据框架上的 B 列对于每个观察都是 string 类型的，所以我们可以使用这个访问器来调用这个系列中给定类的成员变量和方法。这意味着我们不需要为了实际使用 d-type 而将它们取出并更改它们的类型，例如在这个连接示例中:
+
+```
+print(df.B.str.cat(sep = " "))a c c e
+```
+
+# №2 剪贴板数据
+
+很多时候，数据工程师和数据科学家都要经过大量的工作才能获得数据。数据争论是数据科学和机器学习的一部分，很容易熟悉，但似乎不可能掌握。也就是说，有一些更简单的方法可以用来处理某些类型的数据，当涉及到争论数据时，这些方法肯定可以节省一些时间。
+
+在处理数据(特别是来自 web 的数据)时，这种节省时间和精力的方法的一个主要例子是使用剪贴板。正如许多人可能知道的，剪贴板只是内核在内存中的一个临时槽，可以在整个系统中访问。这些数据基本上是通过复制/粘贴来存储和擦除的。请记住，考虑到这种方法，您实际上可以将数据复制并粘贴到您的 Pandas 数据帧中。对于 web 抓取这样的事情来说，这可以节省大量时间，因为有时人们可能会抓取一个简单的 HTML5 文档来获取一些给定的数据。
+
+利用这些数据实际上非常容易。也就是说，根据我的经验，这实际上并不适用于所有的操作系统。我冒昧地猜测，这可能与权限有关。也就是说，我使用的是 Fedora WS，该模块会产生以下严重错误:
+
+```
+data **=** pd.read_clipboard()PyperclipException                        Traceback (most recent call last)
+<ipython-input-23-0300c28fab31> in <module>
+----> 1 data = pd.read_clipboard()
+
+/usr/lib64/python3.9/site-packages/pandas/io/clipboards.py in read_clipboard(sep, **kwargs)
+ **36**     from pandas.io.parsers import read_csv
+ **37** 
+---> 38     text = clipboard_get()
+ **39** 
+ **40**     # Try to decode (if needed, as "text" might already be a string here).
+```
+
+# №3:更改显示设置
+
+我能为使用 Pandas 库的 Pythonistas 提供的另一个很好的建议是定制显示设置实际上是多么有用。虽然我并不是这个特性的大力支持者和用户，但实际使用这个特性已经揭示了利用这些选项的可变性来更好地理解数据确实有很多价值。
+
+不用说，为了理解数据，清楚地了解数据是很重要的。当然，如果 Pandas 呈现数据的方式在默认情况下不适合您的特定数据集，这可能会非常困难。尽管这看起来相对简单，甚至毫无用处，但它实际上可以用作研究数据的探索性技术。从新的角度和角度看数据，无论这是更多的数据，更少的数据，更宽的数据，还是更长的数据等等。肯定有助于提供一些有价值的见解。
+
+为了改变数据的显示方式，我们需要使用 pd.get_option()和 pd.set_option()方法。可以想象，get_option()方法返回当前设置，set_option()方法更改所述设置。要获得可更改选项的完整列表，您可以在此处阅读 Pandas 文档:
+
+ [## 选项和设置- pandas 1.3.3 文档
+
+### 熊猫有一个选项系统，让你定制它的行为的某些方面，显示相关的选项是那些…
+
+pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html#available-options) 
+
+与该表一起，将该示例用作模板并插入任何想要更改给定选项应该相对容易:
+
+```
+pd.set_option("colheader_justify", "left")
+```
+
+# №4:行和列切片
+
+有一件事 Pandas 已经很明显了，那就是索引数据是一个非常有用和有价值的东西。有许多突出的方法，Pandas 库允许人们索引他们的数据框架，这些技术通常使使用 Pandas 模块的体验更加流畅和一致。
+
+也就是说，接下来的两个小技巧可以帮助人们从数据帧中选择合适的数据。让我们考虑一下，我们想要获得一个新的数据帧，该数据帧包含指向某一点的行。例如，我们想从数据中提取前 5 个观察值。假设我们可能希望保持不同特征之间的观测值的相关性完整性，那么我们希望保留这些行中每一行的位置可能是合理的。在原始 Python 中，我们对此的最佳选择可能是迭代的以下用法:
+
+```
+# As you can see, this will print our column names.
+for col in df: print(col)A
+B# We can however call the row index of that value
+for row in df: print(df[row])0     5
+1    10
+2    15
+3    20
+Name: A, dtype: int64
+0    a
+1    c
+2    c
+3    e
+```
+
+然后，当然，我们需要使用范围迭代器，找出这些中的哪一个对应或符合范围。不用说，这是一个大混乱。可能有一些其他的方法，但是确实没有很好的理由使用它们。请考虑下面的例子，我们可以用一个范围来索引观察值。这样做的好处还在于返回的类型，我们得到了一个数据帧，它可以直接返回到操作的世界——很容易！
+
+```
+df[1:3]
+```
+
+# №5:布尔索引
+
+还是关于索引的话题，Pandas 有另一种相当健壮的索引方法，对数据科学非常有用。虽然有其他数据框架具有布尔过滤或掩码过滤，但我认为索引语法很有意义，并且确实允许代码很好地流动。使用简单；我们提供一个位掩码，它只是一个由 1 和 0 组成的数组，代表给定条件是否满足的真和假。我们可以为此使用条件运算符:
+
+```
+less_than15 = df[df["A"] < 15]less_than15.head()
+```
+
+虽然这可能看起来相对简单和无效，但实际上这是我认为使熊猫比许多其他解决方案更令人愉快的特性之一。例如，DataFrames.jl 使用内置的 Base.filter 进行过滤，这种方法要奇怪得多！()方法。在我的使用中，我发现有些地方需要改进——熊猫的例子肯定不是这样。如果您想要执行一些假设检验，这是一个很好的选择，因为您可以在一行中非常有效地拟合只存在于一些相关组中的样本。
+
+# №6:应用
+
+如果您是一名有抱负的数据科学家、数据工程师，或者只是来自任何可能使用 Python 的领域，那么您需要了解 apply()。apply()方法是 Python 标准库内部提供的一种方法，用于改变数组。它非常强大，因为它可以比迭代更快地获取并应用表达式。最重要的是，它肯定比 for 循环更容易使用。
+
+为了使用 apply()，首先需要熟悉 lambda。Lambda 只是一个关键字，也是 Python 语言提供的，它允许人们非常容易地使用私有变量进行内联表达式。考虑以下带有 apply()和 lambda()的示例:
+
+```
+add5 = lambda x: x + 5
+df.A.apply(add5)0    10
+1    15
+2    20
+3    25
+Name: A, dtype: int64
+```
+
+显然，这是一些写得非常好的 Python 代码…为什么？因为它很简单，利用了已经存在的 Python，比我们用这种语言编写的任何迭代循环都更有效，而且它读起来像英语。当然，这是在读者分别理解这些方法的应用的前提下。此外，我还有一篇文章，更详细地介绍了 lambda 及其在科学上的应用，如果你感兴趣，可以在这里阅读:
+
+[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
+
+### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
+
+towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+
+# 结论
+
+这里有很多兔子洞和很深的洞，人们可以和熊猫一起下潜。也就是说，我认为一些使用软件包的程序员应该优先考虑一些事情。这个包也有很多非常棒的扩展，这也会使事情变得复杂。也就是说，这些只是关于熊猫的一些很酷的事情，我想我可以向那些没有和熊猫一起工作过或者以前没有见过熊猫的人展示一下。非常感谢你的阅读，我很感激！

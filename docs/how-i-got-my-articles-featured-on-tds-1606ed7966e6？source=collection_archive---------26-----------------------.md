@@ -1,0 +1,69 @@
+# 我如何让我的文章出现在 TDS 上
+
+> 原文：<https://towardsdatascience.com/how-i-got-my-articles-featured-on-tds-1606ed7966e6?source=collection_archive---------26----------------------->
+
+## 如果你感兴趣的话，以下是对我有效的方法
+
+![](img/7e78ed65203fa8602fd63eb55e5e04e2.png)
+
+照片由 Unsplash 上的思想目录
+
+我在 Medium 上写文章已经一年半了，对我来说这是一段非常有趣的旅程。我在 LinkedIn 上收到关于我如何发表关于数据科学的文章以及我如何获得追随者的问题。以下是对我有效的策略总结:
+
+## 写作是为了帮助他人理解/清晰地写作
+
+对我来说，这是技术写作最重要的目标。大多数关于 TDS 的文章本质上都是技术性的，所以帮助你的读者理解你的观点是关键。
+
+如果我的受众是数据科学初学者，我会分解技术概念，甚至使用隐喻。我解释所有的缩写，我有时制作定制的视觉效果，我保持段落简短，等等。例如，查看我写的一篇关于数据科学初学者的文章:
+
+[](/machine-learning-models-explained-to-a-five-year-old-f2f540d9dcea) [## 向一个五岁的孩子解释机器学习模型
+
+### 尽可能简单地解释 ML 模型是如何工作的
+
+towardsdatascience.com](/machine-learning-models-explained-to-a-five-year-old-f2f540d9dcea) 
+
+如果我的文章更适合在数据领域有经验的人，我仍然喜欢清晰透彻地解释技术和方法。你不需要证明你聪明或者有经验——只要写得像你试图帮助学生理解你的想法就行了(不需要过于复杂的语言)。
+
+![](img/5e63e5574b8183c3d1e45e919fc94f58.png)
+
+由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的[absolute vision](https://unsplash.com/@freegraphictoday?utm_source=medium&utm_medium=referral)拍摄
+
+## 写一个你了解的主题(或者引用你的资料来源)
+
+这是不言自明的，但是让我继续解释一下:如果你必须为你的文章做研究，引用你的资料来源。如果你不做研究，确保你知道你在说什么。如果你走的是第二条路，拥有相关的职称、大学专业或过去的经验有助于建立你的可信度。
+
+## 写一篇独特的文章
+
+我开始在媒体上阅读数据科学文章。我发现他们通常有助于故障排除，向更有经验的数据科学专业人士或教师学习也很棒。然而，我觉得没有太多的内容充满了技术概念，但面向初学者。所以我从那里开始。
+
+我喜欢认为我在 TDS 上发表的文章是独一无二的。为了被接受，他们至少要有足够的独创性*。我的阅读量最高的文章都有不同的突出标题*。以下是我根据浏览量和掌声数得出的最受欢迎的一个:*
+
+*[](/i-worked-through-500-data-science-interview-questions-51e2e4dead9d) [## 我研究了 500 多个数据科学面试问题
+
+### 以下是我一路走来学到的东西
+
+towardsdatascience.com](/i-worked-through-500-data-science-interview-questions-51e2e4dead9d) 
+
+*免责声明:你希望你的标题突出而不被点击诱饵。
+
+我也喜欢写一些我希望几个月前就能读到的东西。然后，我根据经验*和*写作来填补我看到的一些内容空白。
+
+![](img/234d9b5c434a5241ccb950ab1c786c3e.png)
+
+[艾蒂安·吉拉尔代](https://unsplash.com/@etiennegirardet?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+## 为乐趣而写作&带着激情
+
+我把最好的留到了最后——为个人享受而写作！
+
+我觉得我最好的文章是那些自己写出来的，因为我对它们感到兴奋，或者文字是从我的经历中流出的。如果你按照严格的时间表写作，并且已经没有文章的思路了，或者试图强迫自己写作，那么你的写作质量很可能会下降。同样，发表一篇你喜欢写并引以为豪的文章也是值得的。然后，如果碰巧没人看到它——我认为这不太可能——对你来说就没那么重要了。
+
+有趣的事实:对我来说最容易或最有趣的文章是 TDS 决定在他们的社交媒体平台上发布的文章。* 
+
+*有什么数据科学写作小技巧吗？欢迎在评论中留下它们。祝每个人在写作生涯中好运！*
+
+*当然，如果你想知道如何在 TDS 上发表文章的最真实的来源，请直接访问他们的指导方针:*
+
+*[](/questions-96667b06af5) [## 为迈向数据科学而写作
+
+towardsdatascience.com](/questions-96667b06af5)*

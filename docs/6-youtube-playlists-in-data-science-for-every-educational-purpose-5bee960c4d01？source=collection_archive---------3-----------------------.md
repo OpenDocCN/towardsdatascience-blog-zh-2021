@@ -1,0 +1,103 @@
+# 用于各种教育目的的 6 个数据科学 YouTube 播放列表
+
+> 原文：<https://towardsdatascience.com/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01?source=collection_archive---------3----------------------->
+
+## [地面零点](https://pedram-ataee.medium.com/list/ground-zero-e79c47975d14)
+
+## **每个播放列表都针对您数据科学之旅中的特定需求。**
+
+![](img/ad8eacb864014a7863e49a440e7b03f3.png)
+
+照片由[穆罕默德·诺哈西](https://unsplash.com/@coopery?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+如今，你可以在网上找到许多数据科学课程。**问题是很多都有类似的内容。通过学习类似课程，你不会获得新的技能或知识。作为一名数据科学家，您需要多种技能，例如“如何开发模型”、“如何调整模型”和“如何解释结果”。例如，如果你参加的课程只涵盖算法背后的数学，你可能不会在你的旅程中取得成功。**
+
+另一方面，您可能会阅读许多为您列出数据科学课程的文章。我也见过他们！这些列表中的大多数没有根据课程或教育目的对课程进行分类，而是根据教师或平台的名气来列出课程。你没有足够的时间把它们都拿出来，得出同样的结论。这就是为什么我决定与你分享这些 YouTube 播放列表。**下面列出的每个 YouTube 播放列表(或课程)都针对您数据科学之旅中的特定需求。**
+
+如果你想成为一名数据科学家，你需要学习数据科学的各个方面。你必须…
+
+*   学习算法背后的纯**数学**，
+*   获得关于他们的洞察力，
+*   用一系列**实用** **小贴士**武装自己，
+*   熟悉**高级**算法，以及
+*   学习使用**开发** **工具**。
+
+我不想说纯数学比开发工具*更重要，而后者不是*。然而，如果你想成为一名经验丰富的数据科学家，你别无选择，只能学习所有这些方面。如果你是新手，建议先看看下面的文章。
+
+[](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) [## 给那些想成为数据科学家的人的一封信
+
+### 我试图通过自己的故事来阐明这个行业。
+
+towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) 
+
+# —数学落后
+
+你可能只想学习机器学习算法背后的纯数学，以增强你的知识深度。如果你热爱纯数学，我推荐 YouTube 上一个名为“ [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk) 的频道。”虽然导师的身份不明，但在撰写本文时，该频道已有超过 80K 名快乐订户。他们教授一些最可靠的经典机器学习课程。如果你想学习算法背后的数学，没有什么能打败这个[程序](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)。几年前我参加了这些课程，现在我仍然在需要的时候查阅频道。
+
+❤ **为什么我喜欢这个播放列表？**讲师通过解释机器学习算法的数学而不过度简化它们来教授机器学习算法。**😮**
+
+# —获得洞察力
+
+要成为某个话题的专家，你必须获得洞察力。例如，对算法和方法论有一个表层的理解是令人钦佩的，但是如果你不知道底层的事实，你将无法解决关键的问题。为了做到这一点，我鼓励你在 YouTube 上查看麻省理工学院开放式课程项目的人工智能课程(课程编号:[6–034 F10](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi))。
+
+既然这些是人工智能课程，它们当然涵盖了机器学习以外的主题。讲师，已故的帕特里克·温斯顿教授，是一位世界知名的讲师，他将在几秒钟内抓住你的注意力。我知道你会在看完第一个视频后继续看所有的视频。这些课程可以在麻省理工开放式课程项目的 YouTube 频道上找到。开放式课程(OCW)是麻省理工学院(MIT)在 2002 年发起的一个非凡的项目。
+
+❤ **为什么我喜欢这个播放列表？**导师帮助你全面理解概念，而不是只和你分享他的知识。**💪**
+
+帕特里克·温斯顿教授(1943 年 2 月 5 日—2019 年 7 月 19 日)
+
+[](https://www.amazon.com/gp/product/B08D2M2KV1) [## 人工智能:非正统的教训:如何获得洞察力和建立创新的解决方案
+
+### 亚马逊网站:人工智能:非正统课程:如何获得洞察力和建立创新的解决方案电子书…
+
+www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1) 
+
+# —实用技巧
+
+你可能正在准备一个工作面试，需要一个关于人工智能某些方面的复习课程。一系列的视频有很多可视化和一个有趣的教练会有所帮助。一张图片绝对(至少)胜过千言万语。StatQuest 是一个 YouTube 频道，在撰写本文时拥有约 46.6 万订户。**它提供了数学和视觉的完美结合。**讲座以激光为中心，尽可能简短。
+
+此外，讲师[约书亚·斯塔默](https://www.linkedin.com/in/joshua-starmer-phd-95a554130/)教授课程的方式让你不可能觉得无聊。例如，如果你需要准备一次工作面试，但时间紧迫，那么他的课程非常值得探索。有一次，我想更多地了解一个当时相对较新的 boosting 算法，名为 [XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E) ，这个频道帮助我快速了解了我需要知道的一切。
+
+❤ **为什么我喜欢这个播放列表？**讲师通过一系列带有实用技巧的短视频教授复杂的概念。我也说了有趣的方式吗？😊
+
+# —高级算法
+
+麻省理工学院的课程“深度学习入门”是最新深度学习材料的精彩集合。如果你正在寻找一门深度学习课程，它采用实用的方法，将基础知识与编码经验和酷应用相结合，我强烈推荐它。他们保持了教育视频中你可能想要的一切的理想平衡。这是一门入门课程，所以不要期望在计算机视觉或自然语言处理方面有深入的课程，但它将照亮你学习该领域最新进展的道路。
+
+❤ **为什么我喜欢这个播放列表？**这是最好的入门深度学习课程，知识和编码结合得非常好。👍
+
+# —开发工具
+
+[1] [AI Adventures](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) 是一个涵盖 AI 开发主题的优秀系列视频。它可以在[谷歌云技术](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg) YouTube 频道上获得。如果你已经知道机器学习的概念，这是学习关键开发工具的完美工具。通过参加一两门在线课程，你不会成为开发机器学习解决方案的专家，但这些视频提供了基本开发工具的非常体面的介绍。
+
+❤ **为什么我喜欢这个播放列表？**当开发一个人工智能产品时，简单明了地学习所需的开发工具是必不可少的。[👨‍💻](https://emojipedia.org/man-technologist/)
+
+[2] Python 是 AI 开发的主流编程语言。您可以在网上找到大量开源项目，它们将加速您在 Python 方面的发展。一个名为 [PyData](https://pydata.org/) 的 Python 社区在世界各地举办了许多活动，他们在以该社区命名的 YouTube 频道上分享这些场合的视频。在撰写本文时， [PyData 频道](https://www.youtube.com/user/PyDataTV)拥有超过 114，000 个订户。他们的视频涵盖了包括编码在内的各种主题，并且提供了大量与 Python 相关的实用技巧。
+
+❤ **为什么我喜欢这个播放列表？**PyData 频道通过非正统的课程解释了现实世界数据科学项目的具体细节。🤖
+
+[](https://www.youtube.com/user/PyDataTV) [## PyData
+
+### PyData 是美国 501(c)3 非营利组织 NumFOCUS 的一个教育项目。PyData 提供了一个…
+
+www.youtube.com](https://www.youtube.com/user/PyDataTV) 
+
+# 遗言
+
+我把几个免费数据科学课程的信息放在了一起。至少在某些方面，这些课程都是独一无二的。由于我已经参加了这些课程的部分或全部，我可以诚实而毫不犹豫地向您推荐它们。这篇文章解释了为什么这些课程是独特的，谁可能能够充分利用它们。这些课程非常适合各种学习风格和教育目的。我知道它们将为您的数据科学研究节省时间和精力。我希望它们对你有所帮助。
+
+# 感谢阅读！
+
+如果你喜欢这个帖子，想支持我…
+
+*   *跟我上* [*中*](https://medium.com/@pedram-ataee) *！*
+*   *在* [*亚马逊*](https://www.amazon.com/Pedram-Ataee/e/B08D6J3WNW) *上查看我的书！*
+*   *成为* [*中的一员*](https://pedram-ataee.medium.com/membership) *！*
+*   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
+*   *跟我上* [*推特*](https://twitter.com/pedram_ataee) *！*
+
+[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
+
+### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
+
+pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)

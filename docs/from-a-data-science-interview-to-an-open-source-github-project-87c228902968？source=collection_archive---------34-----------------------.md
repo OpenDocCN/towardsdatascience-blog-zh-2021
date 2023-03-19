@@ -1,0 +1,85 @@
+# 从数据科学访谈到开源 GitHub 项目
+
+> 原文：<https://towardsdatascience.com/from-a-data-science-interview-to-an-open-source-github-project-87c228902968?source=collection_archive---------34----------------------->
+
+## [社区笔记](https://pedram-ataee.medium.com/list/notes-on-community-cc93416f5a13)
+
+## 我分享了我的故事以及从这次旅程中学到的教训
+
+![](img/f6325f0c066b0833e18965591c0f1902.png)
+
+由 [Avel Chuklanov](https://unsplash.com/@chuklanov?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+一切从几年前的一次数据科学面试开始。这次采访没有让我找到工作，但帮助我建立了一个开源项目，现在已经有几个贡献者，在过去的一年里，它的媒体白皮书每天都有超过百次的浏览量。我们所有人在生活中都会经历失败。那不重要。重要的是从失败中吸取教训，并把它变成有影响力的事情。我们可以用积极的态度从失败中建立一个发射台。然而，这篇文章并不具有激励性。相反，我分三集分享了我构建这个开源项目的故事，以及一些可能对你的职业道路有所帮助的经验教训。
+
+## [第 1 集]获得数据科学面试
+
+几年前，我面试了一家科技公司的数据科学家职位。作为带回家的作业，我被要求解决一个典型的旅行推销员问题。在问题描述中，据说该解决方案将在超过 100 个节点的数据集上进行测试，执行时间最多为 5 分钟。从描述(尤其是时间限制)中，我可以猜到面试官期待一个为行业量身定制的创意解决方案。
+
+我对这家公司感到兴奋，喜欢这种挑战。我发现一种叫做 **2-opt** 的优化方法被强烈推荐给 TSP，主要是因为它的启发式算法与问题相关。我以前曾经使用过启发式优化技术，而且，完整地说，它们是我的最爱！我决定实施 2-opt 算法，这样我就能在面试中胜出。那是一个周末。我呆在家里，完美地完成了作业。几天后，我见到了我的采访者，他们都对这个实施感到惊讶。面试进入了下一轮，由于一些内部政治，我的申请被停止了。这对我来说不是一个快乐的时刻，但我必须离开。
+
+> 你的时间和精力是有限的。你不能奢侈地花掉它们而没有回报。总是考虑一个应急计划。
+
+## [第 2 集]创建了一个 GitHub 项目，构建了一个 PyPi 包
+
+面试几个月后，我决定把这个带回家的作业做成一个 Github 项目。最后，拥有一个 Github 项目是向外界展示我的编码技能和知识的最好方式之一。同时，我相信一个不符合软件开发最佳实践的 Github 项目是不值得的。所以，我决定让它更专业。怎么会？通过编写好的文档，开发几个测试，构建 CI/CD 管道，并在项目中进行最佳的编程实践。
+
+[](https://github.com/pdrm83/py2opt) [## GitHub — pdrm83/py2opt:如何用 2-opt 算法解决旅行商问题，a…
+
+### 在优化中，2-opt 是一个简单的局部搜索算法，具有特殊的交换机制，非常适合于解决
+
+github.com](https://github.com/pdrm83/py2opt) 
+
+我还构建了一个名为 [py2opt](https://pypi.org/project/py2opt/) 的 PyPi 包。我以前用过很多社区开发的 Python 包。所以，我在想为什么我不应该回报。在这次旅行中，我学到了很多东西。在 PyPi 包的第一个版本发布几个月后，我收到了一封来自 10000 英里外的学生的电子邮件，感谢我并问了我一个问题。感觉很好。你可以感觉到你开发的东西解决了某人的问题。
+
+> 如果你想创建一个 Github 项目，请注意所有的细节。仅仅将代码推送到一个随机的存储库是不会有任何结果的。
+
+[](https://pypi.org/project/py2opt/) [## py2opt
+
+### 在优化中，2-opt 是一个简单的局部搜索算法，具有特殊的交换机制，非常适合于解决
+
+pypi.org](https://pypi.org/project/py2opt/) 
+
+## 【第三集】写了一篇中等文章，并使之官方化！
+
+在确信 py2opt 包的质量之后，我写了一份白皮书解释我的实现。我将 2-opt 算法与动态规划和模拟退火进行了比较，并展示了我的实现执行得有多好。这对我来说是一个转折点。白皮书已经被 Google 通过搜索关键词“如何解决 TSP”索引到`wikipedia.com`、`math.uwaterloo.ca`等多个合法网站之上。这有助于我的文章和 Github 库获得非常稳定的日访问量(大约 100 次/天)。
+
+[](/how-to-solve-the-traveling-salesman-problem-a-comparative-analysis-39056a916c9f) [## 如何解决旅行商问题—比较分析
+
+### 通过 3 种优化方法:动态规划、模拟退火和 2-opt
+
+towardsdatascience.com](/how-to-solve-the-traveling-salesman-problem-a-comparative-analysis-39056a916c9f) 
+
+持续的每日流量有助于我的开源项目获得社区的关注。我的 2-opt 实现高效而快速。然而，在一个公共拉请求中，实现变得更快了。谢谢， [Clawsoon](https://github.com/clawsoon) ！这就是社区的力量。目前，我正在到处宣传这个项目，以确保更多的人了解这个项目。
+
+> 如果没有适当的公告，即使是最好的开源项目也可能无法吸引社区的注意。一篇 TDS 文章有助于获得这一点。
+
+最后，看看克劳森在他的个人主页上的留言。我也非常感谢你，克劳森！
+
+> 感谢对 2-opt 算法的精彩介绍！这篇文章和代码对我都很有帮助。
+> 
+> 我找到了一个优化，使得我的旧的、慢的机器上的较大数据集更快。我意识到该算法只需比较交换中涉及的距离，而不是每次都重新计算整个路径长度。这使得我计算 1000 个随机生成的城市的 2-opt 路径的时间从 10 分钟减少到了 5 秒。
+> 
+> 我希望你会发现我的贡献有用！请随意纠正你看到的任何错误。
+
+## 遗言
+
+在 py2opt 项目之后，我又开发了三个开源项目，尤其是其中一个名为 [sent2vec](https://github.com/pdrm83/sent2vec) (一个很酷的 NLP 工具)的项目吸引了社区的更多关注。然而，我的旅程是从 [py2opt](https://github.com/pdrm83/py2opt) 开始的，我永远不会忘记看到其他开发人员对项目的贡献时的感受。我相信这个简单的工具甚至可以为大项目做很多事情。
+
+如果你想找一个数据科学的职位，我建议你创建一个开源项目，或者参与其中。尝试在项目中使用(并展示)你的编程技能。它或者帮助你找到一份理想的工作，或者建立一些你几年后会引以为豪的东西。谁知道呢！
+
+## 感谢阅读！❤️
+
+如果你喜欢这个帖子，想支持我…
+
+*   *跟我上* [*中*](https://medium.com/@pedram-ataee) *！*
+*   *在* [*亚马逊*](https://www.amazon.com/Pedram-Ataee/e/B08D6J3WNW) *上查看我的书！*
+*   *成为* [*中的一员*](https://pedram-ataee.medium.com/membership) *！*
+*   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
+*   *关注我的* [*推特*](https://twitter.com/pedram_ataee) *！*
+
+[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
+
+### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
+
+pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
