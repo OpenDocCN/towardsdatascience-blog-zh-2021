@@ -1,0 +1,127 @@
+# 2021 年获得数据科学家工作的“严肃”路线图
+
+> 原文：<https://towardsdatascience.com/the-2021-no-nonsense-roadmap-to-getting-a-data-scientist-job-70131e50c356?source=collection_archive---------32----------------------->
+
+![](img/259a44c1c0822d554d0760fd88599fdc.png)
+
+作者图片
+
+## 有抱负的数据科学家实用指南
+
+我碰巧接到许多朋友的电话，以及朋友的朋友打来的关于如何进入数据科学家工作的电话。所以我想，为了所有有类似问题的人的利益，这将是一个找到所有答案的明确的地方。
+
+# 数据科学家:角色和职责
+
+尽管数据科学家的角色和职责的确切范围可能会因您加入的公司类型而有所不同，但核心职责是非常标准的:
+
+1.  数据分析和可视化
+2.  构建人工智能/人工智能模型
+3.  跨职能沟通技巧
+4.  基础到中级软件开发技能
+
+除了这些，如果你在一家遵循敏捷软件开发原则的公司工作，你可能还需要了解这些原则的基础。您可能不需要这样做，但是您必须学习使用 Github 或类似的工具来控制版本。如果你为一家初创公司工作，你可能需要负责端到端的软件开发，这意味着你可能需要了解软件架构、微服务等。
+
+## 数据分析
+
+这基本上是数据科学家的饭碗。你的模型和你的数据分析一样强大。这意味着您需要能够完美地进行探索性数据分析。不仅分析数据很重要，而且向你的团队、管理层等展示你的分析也很重要。为了证明你的决定。呈现你的分析的最好方式是通过数据可视化。事实上，它是如此重要，以至于有一个完整的数据可视化技术的研究领域！
+
+您需要采取双管齐下的方法来征服数据分析和可视化:
+
+1.  **获得你的统计数据！**:没有复盘统计。为了能够执行完美的特征工程和模型构建，您需要了解基本的描述性和推断性统计数据:均值、中值、众数、方差、标准差、协方差、相关性等。你还需要了解概率、数据分布和分布的性质。
+    有很多免费的资源，比如 DataCamp 提供的 Numpy 基础统计学课程，但是你可以试试 Coursera 上的一些，也很棒！
+
+[](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=13) [## Numpy:基本统计| Python
+
+### 下面是 Numpy 的一个例子:基本统计:。
+
+campus.datacamp.com](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=13) [](https://www.coursera.org/learn/data-analysis-with-python#syllabus) [## 使用 Python 进行数据分析
+
+### 由 IBM 提供。了解如何使用 Python 分析数据。本课程将带你从 Python 的基础学到…
+
+www.coursera.org](https://www.coursera.org/learn/data-analysis-with-python#syllabus) [](https://www.coursera.org/specializations/statistics-with-python#courses) [## 使用 Python 进行统计
+
+### 由密歇根大学提供。这种专业化的目的是教初学者和中级…
+
+www.coursera.org](https://www.coursera.org/specializations/statistics-with-python#courses) 
+
+2.可视化:可视化数据与理解和分析数据一样重要，甚至更重要。尤其是因为你的目标是在一家机构工作。向非技术利益相关者提供业务见解并证明您的决策是正确的，这一点非常重要。
+
+视觉传达的数据最有效。因此，知道哪种图表用于哪种数据是很重要的。对于你的客户来说，最好也有交互式的图表。下面是我个人学习各种数据可视化框架的几个选择(Python: Matplotlib 和 Seaborn 用于静态可视化；Plotly 和 Dash 的互动可视化。Javascript: D3.js)。
+
+[](https://www.coursera.org/learn/python-for-data-visualization) [## 用 Python 实现数据可视化
+
+### 由 IBM 提供。“一图胜千言”。我们都熟悉这个表达。它尤其适用于…
+
+www.coursera.org](https://www.coursera.org/learn/python-for-data-visualization) [](https://www.coursera.org/specializations/information-visualization#courses) [## 信息可视化
+
+### 由纽约大学提供。这种专业化为学习者提供必要的知识和实践技能…
+
+www.coursera.org](https://www.coursera.org/specializations/information-visualization#courses) [](https://www.udemy.com/share/101WaOB0UddlxbQng=/) [## 互动课程:使用 Python 仪表盘和 Plotly & Dash
+
+### 本课程将教授您使用 Python 创建交互式仪表盘所需的一切知识
+
+www.udemy.com](https://www.udemy.com/share/101WaOB0UddlxbQng=/) 
+
+## 构建人工智能/人工智能模型
+
+这是显而易见的。要想得到一份数据科学家的工作，你需要具备这方面的硬技能:机器学习和数据分析。有大量的 MOOcs，它们从基础开始，带你一路到机器学习、深度学习、NLP 等先进概念。当学习这些概念并获得模型构建的实践经验时，多即是少！
+
+您需要征服模型构建的以下方面:
+
+1.  探索性数据分析
+2.  特征工程和特征选择
+3.  型号选择
+4.  模型构建(创建训练和测试数据，如果您还希望运行验证，则创建验证数据、模型训练、预测、选择正确的评估指标等。)
+5.  模型比较
+
+由于不可能为这些方面中的每一个列出一组资源，我当然提供我的选择。本课程以全面的方式涵盖了所有这些方面，并且还提供了帮助你自我评估你的理解的作业。
+
+[](https://www.udemy.com/share/101Y5KB0UddlxbQng=/) [## 机器学习模型的部署
+
+### 什么是模型部署？部署机器学习模型，或者简单地说，将模型投入生产，意味着…
+
+www.udemy.com](https://www.udemy.com/share/101Y5KB0UddlxbQng=/) 
+
+## 跨职能沟通技巧
+
+这是你工作中最关键的部分！如果你不能和你的团队交流你的模型的细节，事情就很难进行下去。你需要能够和你的产品团队(如果你有的话)交流，说他们的语言:什么是特性，如何在 sprints 中工作，什么是 MVP，如何。建造原型等。
+
+你还需要和将你的模型投入生产的技术团队谈谈。你需要理解什么是 API，以及如何构建 API，这是软件架构的基础(目前微服务非常流行，但是理解整体架构也无妨)。除此之外，您需要有一个关于使用数据库的基本概念(关系数据库系统的 SQL，可能还有一种 NOSQL 数据库查询语言，因为现在许多公司都在向 NOSQL 数据库发展)。
+
+[](https://www.udemy.com/share/101WhkB0UddlxbQng=/) [## 用于数据操作和分析的完整 SQL 训练营
+
+### 您将学习如何使用最受欢迎的技能之一- PostgreSQL 来读写复杂的数据库查询
+
+www.udemy.com](https://www.udemy.com/share/101WhkB0UddlxbQng=/) 
+
+这三驾马车的第三条腿是商务沟通技巧。你可能需要和你的客户甚至你的上级谈谈，他们了解他们所在的行业，但不一定了解所有的技术细节。你需要能够用非常简单的语言，尽可能少地使用行话，解释你的模型、结果以及你的目标是什么(一些你打算优化的 KPI)。养成这种习惯，它也会帮助你在面试中取得进步！
+
+## 基础到中级软件开发技能
+
+从我的个人经历中，我意识到用软件开发技能武装自己是非常重要的。考虑到整个世界目前正朝着基于服务的架构发展，了解如何在您的模型之外构建 web 服务是非常重要的。以下是掌握如何使用各种策略部署模型的一个很好的课程:
+
+[](https://www.udemy.com/share/102PIIB0UddlxbQng=/) [## [2020]部署机器学习模型-完整指南
+
+### 嗨，我们是宇宙人。从专业角度来说，我们是在金融、科技、房地产等领域拥有超过六年经验的企业家
+
+www.udemy.com](https://www.udemy.com/share/102PIIB0UddlxbQng=/) 
+
+您需要熟悉 API、路由、有效负载等概念。您还需要理解如何构建一个具有多个路由的 API。
+
+最后但同样重要的是，您需要对测试方法有所了解，尤其是单元测试和负载测试。你可以阅读[这篇文章](https://medium.com/swlh/load-testing-your-aiml-models-using-jmeter-26dfe6b739e8),对什么是负载测试以及如何进行负载测试有一个基本的了解。
+
+至于好的资源，我个人正在学习 Udemy 的课程:
+
+[](https://www.udemy.com/share/101tEiB0UddlxbQng=/) [## 带有 Flask、Docker、MongoDB 和 AWS DevOps 的 Python REST APIs
+
+### 所以你知道一点 Python，并想了解 RESTful API 和其他酷技术，如 Flask，Docker…
+
+www.udemy.com](https://www.udemy.com/share/101tEiB0UddlxbQng=/) 
+
+# 额外小费
+
+除了上面列出的技能，你绝对需要的一件事是毅力:无论是在准备还是面试期间。通往你梦寐以求的工作的道路可能会令人望而生畏，有时会让人筋疲力尽，但是相信我，回报是巨大的！
+
+如果你曾经失去动力，那就稍微休息一下，重新开始！但是坚持下去。你会一天比一天好。我的情况尤其如此。
+
+在 2021 年的新年里，我祝你在获得梦想中的工作时一切顺利！！

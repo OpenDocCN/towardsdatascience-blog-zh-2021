@@ -1,0 +1,273 @@
+# 机器学习 101:ML 大师
+
+> 原文：<https://towardsdatascience.com/machine-learning-101-master-ml-66b20003404e?source=collection_archive---------11----------------------->
+
+## 学习初学者掌握该领域所需的机器学习的所有必要和核心概念
+
+![](img/21be522cbfbf49eead85f7cbbcfc66fa.png)
+
+Jorge Ramirez 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+> “机器学习将使大多数人认为只能由人完成的工作自动化。”
+> 
+> ——[**戴夫·沃特斯**](https://www.supplychaintoday.com/machine-learning-quotes-supply-chain-today/)
+
+机器学习领域是现代世界中最重要的研究领域之一。机器学习每天都越来越受欢迎，这是当代最有趣的新兴趋势之一。它强调了人类在过去几十年中取得的进步和快速发展。
+
+人工智能、数据科学和机器学习对现代时代的发展和技术做出了巨大贡献。机器学习尤其为当今世界的大多数行业和公司做出了巨大贡献。
+
+为了考虑日常使用中机器学习的几个例子，我们可以从简单的 web 浏览器或 YouTube 开始。当浏览互联网时，大量的用例如自动更正和自动完成对人脑来说变得更加明显。如果你正在寻找一个 YouTube 视频或一部关于网飞的电影，这些设备中使用了高水平的推荐系统。
+
+所有这些应用程序都集成了某种机器学习。很明显，机器学习目前在许多领域都表现出色。几乎每个大公司或行业都有大量的机器学习应用。在我们深入了解我们可以做些什么来掌握机器学习之前，让我们首先了解一些专家为我们提供的一些理论定义。
+
+定义机器学习的第一种方法可以定义如下:
+
+> "给予计算机无需明确编程就能学习的能力的研究领域."
+> —亚瑟·塞缪尔
+
+机器学习的第二种或现代解释可以被视为如下:
+
+> “如果一个计算机程序在 T 中的任务上的性能，如 P 所测量的，随着经验 E 的增加而提高，那么就说它从关于某类任务 T 和性能测量 P 的经验 E 中学习。”
+> —汤姆·米切尔
+
+机器学习有很多定义。但是，上述两个理论解释应该让大多数初学者直观地了解我们可以从这些机器学习方法中期待什么。
+
+如果你想了解更多关于数据科学的知识，以及如何掌握这门学科，我强烈建议你通过下面的链接查看下面这篇文章，它讲述了数据科学初学者在 12 个月内成为专业人士的 12 个步骤。
+
+[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
+
+### 每月遵循一步，到第二年年底掌握数据科学！
+
+towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+
+在本文中，我们的主要目标将是涵盖机器学习的大多数基本方面。我们还将探索机器学习的各种功能，以及您可以做些什么来掌握该领域的大多数关键项目。因此，事不宜迟，让我们开始探索机器学习的这些特性以及随之而来的多个概念。
+
+# 数学:
+
+![](img/2411f2d4c581201a430a3e90d5591b3e.png)
+
+[JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍照
+
+不可否认，数学是机器学习最重要的方面。学习数学对于理解机器学习中涉及的一些整数编码方面至关重要。任何开始机器学习的初学者的主要焦点和目标必须是关注数学中特定的主题。
+
+线性代数、微积分(积分和微分都有，但大多是微分的方面)、概率、统计一定是你在努力掌握机器学习的同时所热衷关注的话题。
+
+在线性代数中，你应该关注的主要主题如下——学习线性代数的目的、向量和维度空间、点积及其角积、投影和单位向量、与 2d 和 3d 空间中涉及的所有主要主题相关的其他基本方程，如圆、矩形、球体等。
+
+你们关注微分学的主要原因是因为像反向传播这样的主题，这对理解神经网络的概念是极其重要的。微分对于从头开始分解大量的概念和主题是至关重要的，并获得对这些算法、过程和计算的更直观的理解。
+
+概率和统计在学习机器学习的整体方面也非常重要。统计对于理解图形数据和探索性数据分析的复杂细节至关重要。通常对于机器学习模型的构建，这些图形结构和大量的图被用于分析我们手中的数据集和数据类型。对于理解直方图和分析张量板图，在深度学习模型中也是极其必要的。
+
+机器学习涉及很多不确定性。无论您执行的是分类还是回归之类的任务，几乎都有一些度量是模型对可能的结果没有信心的。出于这个原因，概率知识对于分解机器学习的众多概念至关重要。此外，需要注意的是，像朴素贝叶斯算法这样的主题和机器学习算法需要使用概率来掌握以下思想。
+
+从下面的链接，你可以看到我以前的一篇文章，主题是“开始你的 Python 机器学习之旅”
+
+[](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) [## 开始使用 Python 掌握机器学习的旅程
+
+### 了解精通机器学习的基本要求
+
+towardsdatascience.com](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) 
+
+# 编程:
+
+![](img/70b8e6cfd2c75765eab5836b18bbf49a.png)
+
+在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由[法扎德·纳齐菲](https://unsplash.com/@euwars?utm_source=medium&utm_medium=referral)拍摄的照片
+
+编程是掌握机器学习所需的另一个基本特征。机器学习中的主要项目和任务将要求机器学习爱好者具有丰富的编码知识，以便他们可以更方便地遇到问题陈述。虽然数学对于直观地理解概念极其重要，但是您需要将这些信息解释为其他人可以查看和利用的形式，这可以在编程的帮助下完成。
+
+对于每一个机器学习工程师或爱好者来说，编码技能都是必不可少的。如果你渴望从事与机器学习相关的工作，或者任何其他涉及使用机器学习的领域，那么编程是一个非常重要的专业领域。我强烈推荐从下面提供的链接中查看下面的文章资源。它们是提高您的编码技能的很好的指南，也涵盖了为什么您应该保持更新和继续练习您的编程的原因。
+
+[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
+
+### 即使它只是每天一点点编码，你也必须考虑它
+
+towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
+
+### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
+
+towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) 
+
+在学习机器学习编程时，请确保您专注于重要的基本主题，如列表和字典的操作，并了解 Python 的基础知识，如果这是您选择用于机器学习的编程语言的话。通过利用你的编程技能，专注于学习更多的数学实现。练习并不断提高你的编码知识。
+
+随着 auto ml 和其他工具的引入，使得机器学习变得更加容易，一些人可能会想，执行机器学习任务是否真的需要编程。核心观点仍然是，要理解这些概念背后的逻辑和直觉，编程和编码是必须的。否则，你将无法对你计划学习的基本主题有一个直观的了解。
+
+在机器学习中，你需要学习一些特定的编码模式集。此外，某些库和模块对于解决机器学习问题比其他的更有用。我们将在文章的下一部分详细讨论这个话题。无论如何，编程在机器学习中起着至关重要的作用，也是每一个对这门学科充满热情的人必须努力学习的东西。
+
+# 库和模块:
+
+![](img/4948449d0a7dae2a3ff569bc81fac52e.png)
+
+在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Valdemaras D.](https://unsplash.com/@deko_lt?utm_source=medium&utm_medium=referral) 拍摄的照片
+
+Python 中的库和模块使得处理机器学习问题更加容易。有各种各样的 Python 模块可用于与机器学习相关的不同类型的任务。这些库简化了大多数复杂的任务，因为您不必从头开始编写复杂的架构和建模需求。让我们看看一些对完成机器学习模型有用的基本库模块。
+
+Pandas 是机器学习和数据科学从收集的数据集中探索和分析可用数据的最佳工具之一。它可以读取 CSV 文件等多种格式，您可以使用该工具查看数据中的模式，并计划如何利用这些数据点来创建、构建或构建您的机器学习模型。您还可以使用以下库执行其他数据操作活动。我们将在以后的文章中进一步研究细节。
+
+Matplotlib 和 seaborn 是绘制数据点和可视化数据外观的两个最好的可视化工具。这些库为开发人员提供了一个线索，让他们知道在构建机器学习模型时需要关注的最重要的细节是什么。机器学习中的探索性数据分析(EDA)是所有用户必须关注的关键步骤，以开发创造性的、有效的、高效的和独特的机器学习模型和项目。我们将在以后的文章中进一步研究这些库模块的细节。
+
+Scikit-learn 是另一个很棒的库模块，可以作为 Python 中的附加库模块安装使用。一旦你安装了这个模块，你只需要几行代码就可以轻松地实现各种各样的机器学习任务、问题和算法。使用这个库模块，解决复杂的机器学习项目或任务所需的大部分复杂工作都大大减少了。拥有这样一个库的知识将增强你在编码时执行更快计算的能力。
+
+Python 中有如此多令人惊叹的机器学习库模块。这个列表需要一整篇文章。因此，我们将在以后讨论这些主题。从下面提供的链接中可以找到 Python 中其他令人惊叹的独特库模块，它们将帮助您构建很酷的机器学习和数据科学项目。如果观众有兴趣了解更多关于这些库的信息，我强烈推荐他们去看看。
+
+[](/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae) [## 5+独特的 Python 模块，用于创建脱颖而出的机器学习和数据科学项目！
+
+### 超过 5 个酷 Python 库模块的指南，用于创建令人敬畏的机器学习和数据科学项目。
+
+towardsdatascience.com](/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae) 
+
+# 算法
+
+![](img/062c04929127364286ac71356b8375ce.png)
+
+约书亚·阿拉贡在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+机器学习的一个最重要的方面是开发了许多算法，用户可以使用这些算法来创建和构建机器学习模型和项目。机器学习算法对于开发您的机器学习项目以及构建和建立您的模型至关重要。让我们讨论几个基本的机器学习算法，每个初学者和爱好者都必须立即开始工作。
+
+初学机器学习的爱好者必须开始研究和掌握的一些基本算法是一些基本的监督算法，如逻辑回归、线性回归、支持向量机(SVM)和朴素贝叶斯算法。这些是一些最重要的算法，每个机器学习的渴望者都必须探索并开始工作，通过从事大量的任务和项目来立即掌握这些算法。
+
+除了前面提到的算法之外，其他需要重点学习的基本算法包括决策树、K 近邻(KNN)和随机森林监督机器学习算法。这些是一些解决各种复杂任务和项目的有用算法，也是每个机器学习爱好者在遇到复杂问题时必须拥有的武器。除此之外，你还必须获得关于无监督学习算法的知识，比如聚类和推荐系统。
+
+尝试通过从头开始执行这些机器学习算法的实现来获得直观的理解，而不使用这些外部库模块，如 scikit-learn。通过从头开始实现它们，您将对这些架构和算法的内部工作有更好的直觉和更强的理解。我还建议从下面提供的链接中查看下面这篇关于无监督聚类学习简明指南的文章。
+
+[](/concise-guide-to-unsupervised-learning-with-clustering-4924cdbb27cb) [## 聚类无监督学习简明指南！
+
+### 借助聚类算法详细理解无监督学习的概念。
+
+towardsdatascience.com](/concise-guide-to-unsupervised-learning-with-clustering-4924cdbb27cb) 
+
+# 项目:
+
+![](img/845a69ce324179ed0d3b44bf258ce7c6.png)
+
+[Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上 [AltumCode](https://unsplash.com/@altumcode?utm_source=medium&utm_medium=referral) 拍摄的照片
+
+机器学习最棒的部分是你可以在机器学习领域从事大量的项目。所有机器学习爱好者都可以有如此多的选择来整合他们的想法并构建新的结构。你可以用机器学习建立这么多令人敬畏的项目，并在一些数学和编程知识的帮助下，自己从头开始创建它们。
+
+从事机器学习项目的最大好处之一是，它给你经验和头衔，你可以把它们添加到你的简历或投资组合中。当你能够在这些项目想法上工作，并且协作你的想法来构建一些惊人的构建时，你可以部署它们并且确保每个人都能利用它们。更多的观众可以从你的技术创新中受益。
+
+机器学习的真正魅力只能通过在众多项目中工作来探索和学习。选择一个你喜欢的话题，然后开始着手去做。在特定项目中尽可能多地尝试机器学习算法，找出最适合问题陈述的解决方案。每种机器学习算法的性能可能互不相同，因为一些模型的性能优于其他模型。
+
+我强烈推荐从下面提供的链接查看这篇文章。它包含了 15 个非常棒的 Python 和数据科学项目，你应该在 2021 年及以后去看看。
+
+[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
+
+### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
+
+towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+
+# 资源:
+
+![](img/3b5f590f1c8d3cdd03d31c2eac9fe229.png)
+
+威廉·艾文在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+在我的其他一些文章中，我已经广泛地涉及了这个主题。机器学习和数据科学拥有巨大的资源，可供爱好者探索和利用，以获得最大的好处。
+
+每一个有抱负的机器学习爱好者都应该学会谷歌一些事实，并找到一些对他们来说最好的技术资源，同时完成一个特定的项目。查看下面的文章，进一步了解一些最好的网站，这些网站可供机器学习爱好者探索并充分利用这些资源。
+
+[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
+
+### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
+
+towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+
+# 优势:
+
+![](img/7f585af9ab2bf25a0fcb3054029e2736.png)
+
+照片由[费尔南多·巴西](https://unsplash.com/@nandovish?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 拍摄
+
+机器学习有一些优势，这可能是一个巨大的保守说法。机器学习流行的主要原因是由于它拥有广泛的应用和优势。你可以用它创造出如此多美妙的产品。让我们快速看一下机器学习的一些优势，以便有更好的理解。
+
+*   他们有能力很容易地识别群体中的模式和其他共同元素。聚类算法是下面的一个很好的例子。
+*   运行机器学习算法的设备可以精确地运行任务，而不会出现任何人为错误。利用这些机器学习模型，任务的自动化是可能的。
+*   可以对建立的机器学习算法和模型进行持续的改变和改进。因此，这是一种更快的执行任务的方法。
+*   使用机器学习算法可以更容易地处理复杂的问题和复杂的数据集。
+*   如前所述，它们也有广泛的应用。它们在现代世界的几乎每个重要领域都有应用，包括医疗保健、金融等。
+
+![](img/fde36afea83c540617c720856fab76f2.png)
+
+照片由[埃里克·沃德](https://unsplash.com/@ericjamesward?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 拍摄
+
+虽然机器学习有几个优势，但知道它无论如何都不是完美的也是至关重要的。不幸的是，机器学习也有一定的局限性。让我们更详细地分析和研究机器学习的一些局限性。它们如下:
+
+*   有时，机器学习任务将需要大量数据来产生期望的结果。因此，收集所有需要的结果有点昂贵。
+*   在创建机器学习模型时，过拟合和欠拟合是经常发生的。处理这些产生的问题可能会很困难。
+*   完成某些任务可能需要大量资源。因此，机器学习模型要解决的一些问题和任务在计算上是昂贵的。
+*   它们容易受到离群值的影响，这可能会在部署模型后导致潜在的大量问题。
+*   在自然语言处理领域，对于机器学习问题，很难找到单词和句子的语义或实际意义。在建立或构造机器学习模型时，许多问题都是由于这个原因引起的。
+
+为了更深入地了解这些利弊话题，我建议查看一篇广泛涉及这个话题的类似文章。您可以从下面提供的参考资料中找到此链接。
+
+[](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
+
+### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
+
+towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) 
+
+# 应用:
+
+![](img/2469bcb3fb25ce5d3fbe6cd653549844.png)
+
+[博伊图梅洛·菲特拉](https://unsplash.com/@writecodenow?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍照
+
+机器学习和数据科学在现代世界有许多应用。每个大公司和行业都在投入时间和精力来找出新的方法来改善机器学习模型的工作，以使他们的产品更好，并相应地满足客户的需求。这些机器学习模型和算法的重要性和应用正在显著上升。
+
+> 正如我们之前讨论和考虑的一些日常使用中的机器学习的例子，我们可以从简单的 web 浏览器或 YouTube 开始。当浏览互联网时，大量的用例如自动更正和自动完成对人脑来说变得更加明显。如果你正在寻找一个 YouTube 视频或一部关于网飞的电影，这些设备中使用了高水平的推荐系统。
+
+要了解更多关于人工智能和机器学习在众多现实世界应用中的现实应用，请随时通过下面提供的链接查看下面的文章。
+
+[](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) [## 数据科学和人工智能的 10 个令人敬畏的现实世界应用
+
+### 理解和分析人工智能和数据科学在现实世界中的日常使用！
+
+towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) 
+
+# 结论:
+
+![](img/cb2041e19fd282d5b8f9709a7c6a58c8.png)
+
+在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Boitumelo Phetla](https://unsplash.com/@writecodenow?utm_source=medium&utm_medium=referral) 拍摄的照片
+
+> “我们正在进入一个新世界。机器学习、语音识别和自然语言理解的技术正在达到一种能力的结合。最终结果是，我们很快就会有人工智能助手在生活的各个方面帮助我们。”
+> 
+> ——[艾米·斯台普顿](https://datasemantics.co/36-inspirational-quotes-on-big-data-machine-learning-and-artificial-intelligence/)
+
+现代世界中的机器学习是发展的一个重要方面。随着机器学习领域这些年来的快速发展和进步，我们可以感觉到在未来的几十年里，这个学科将会有更多辉煌的发现和发明。因此，如果你对这个领域感兴趣，这可能是学习机器学习的最佳时机。
+
+在本文中，我们已经涵盖了掌握机器学习所需的大部分基本要求，包括数学、编程、重要的库和模块、掌握机器学习的项目和资源、机器学习的众多优势和轻微限制，以及机器学习在现代的主要应用。
+
+这个时候或许是每个有志于追求机器学习的人投入资源，致力于掌握这门学科的最好、最理想的场景。多年来，机器学习的普及程度将继续上升，这一新兴趋势似乎不会很快放缓。所以这个机会一定要被每一个发烧友充分利用！
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [## 可能会让你惊讶的 5 个独特的人工智能用例
+
+### 找出人工智能在现实世界中令人着迷的五个独特应用
+
+towardsdatascience.com](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
+
+### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
+
+towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) [](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
+
+### 开始学习数据科学时，您应该主要关注哪些主题和领域？
+
+towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
+
+### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
+
+towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
+
+### 你有没有可能给你的人工智能编程来发展情绪？
+
+towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
+
+### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
+
+towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) 
+
+谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

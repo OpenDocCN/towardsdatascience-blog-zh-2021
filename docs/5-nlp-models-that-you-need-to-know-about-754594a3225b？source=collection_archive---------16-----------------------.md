@@ -1,0 +1,123 @@
+# 你需要了解的 5 个 NLP 模型
+
+> 原文：<https://towardsdatascience.com/5-nlp-models-that-you-need-to-know-about-754594a3225b?source=collection_archive---------16----------------------->
+
+## 数据科学的很大一部分是与新技术和模型保持同步。
+
+![](img/1bd52b337446b144c8a07a9cca7181af.png)
+
+艾蒂安·吉拉尔代在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+语言，是我们生活中最复杂的方面之一。我们用它来相互交流，与世界交流，与我们的过去和未来交流。但是语言不仅仅是一种交流方式；这是唯一的方法，我们可以知道发生在我们时代之前的故事，并让我们的故事传到我们的后代。
+
+因为语言在很大程度上是我们生活的中心，我们总是渴望计算机理解我们的语言，并以我们完全理解的方式与我们交流。这种欲望和计算机本身的反转一样古老。
+
+这就是为什么研究人员孜孜不倦地驱动算法、建立模型和开发软件，以使计算机更容易理解我们并与我们交流。然而，在过去的几十年里，技术爆炸式发展，使得新算法比以往任何时候都更复杂、更准确、更简单、更好、更快。
+
+[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
+
+### 开启数据科学未来的 10 步路线图
+
+towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+
+作为一名数据科学家，工作的一个重要部分是跟上技术的最新发展，以便我们能够更好、更高效地开展工作。我们需要收集、分析和处理的数据量越来越大，但我们需要做得更快、更好。
+
+实现这一目标的唯一途径是改变我们做事的方式；我们需要找到更好的方法，更复杂的方法，更先进的方法。那是研究人员的工作；作为数据科学家，我们的工作思路是了解最新进展，并知道使用它们的最佳方式。
+
+本文将向您介绍 5 种自然语言处理模型，如果您想跟上该领域的发展并希望您的模型更准确地运行，您需要熟悉这些模型。
+
+[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
+
+### 迈向更高效的自然语言处理
+
+towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+
+# №1:伯特
+
+[BERT](https://arxiv.org/abs/1810.04805) 代表来自变压器的双向编码器表示。BERT 是一个预先训练好的模型，旨在从单词的左右两边驱动单词的上下文。BERT 代表了 NLP 的一个新时代，因为尽管它非常准确，但它基本上是基于两个简单的想法。
+
+BERT 的核心是两个主要步骤，预训练和微调。在模型的第一步中，用各种训练任务针对未标记的数据训练 BERT。这是通过执行两个无人监督的任务来完成的:
+
+1.  **Masked ML:** 在这里，通过覆盖——屏蔽——一些输入标记来随机训练深度双向模型，以避免被分析的单词可以看到自己的循环。
+2.  **下一句预测:**在这个任务中，每一次预训练各设定 50%的时间。如果一句 S1 后面跟着 S2，那么 S2 就会被贴上`IsNext`的标签。但如果 S2 是一个随机的句子，那么它将被标记为`NotNext`。
+
+完成之后，就是微调的时候了。在这一阶段，模型的所有参数都将使用标记数据进行优化。这个标记的数据是从“下游任务”中获得的每个下游任务都是具有微调参数的不同模型。
+
+BERT 可以应用于很多领域，例如命名实体识别和问答。如果你想使用 BERT 模型，你可以使用 [TensorFlow](https://github.com/google-research/bert) 或 [PyTorch](https://github.com/codertimo/BERT-pytorch) 来实现。
+
+# №2: XLNet
+
+XLNet 由谷歌和卡内基梅隆大学的一组研究人员开发。它是为处理常见的自然语言处理应用而开发的，如情感分析和文本分类。
+
+XLNet 是一个广义自回归模型，经过预训练，可以同时获得 Transformer-XL 和 BERT 的优点。XLNet 利用了 Transformer-XL 的自回归语言模型和自动编码或 BERT。XLNet 的主要优点是它被设计成具有 Transformer-XL 和 BERT 的优点，而没有它们的局限性。
+
+XLNet 包含了与 BERT 相同的基本思想，即双向上下文分析。这意味着它会查看正在分析的令牌之前和之后的单词，以预测它可能是什么。XLNet 超越了这一点，计算了一个单词序列的对数似然性，涉及到它的可能排列。
+
+XLNet 避免了 BERT 的局限性。它不依赖于数据损坏，因为它是一个自回归模型。实验证明，XLNet 的性能优于 BERT 和 Transformer-XL。
+
+如果你想在你的下一个项目中使用 XLNet，开发它的研究人员在 [Tensorflow](https://github.com/zihangdai/xlnet) 中发布了 XLNet 的官方实现。另外，XLNet 的一个实现可以在 [PyTorch](https://github.com/pingpong-ai/xlnet-pytorch) 上获得。
+
+[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
+
+### 构建强大 NLP 基础的 10 个步骤
+
+towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+
+# 第三名:罗伯塔
+
+[RoBERTa](https://arxiv.org/abs/1907.11692) 是一个自然语言处理模型，它建立在 BERT 的基础上，专门用来克服它的一些弱点并增强它的性能。罗伯塔是脸书·艾和华盛顿大学的研究人员进行研究的结果。
+
+研究小组致力于分析双向上下文分析的性能，并确定了一些可以通过使用更大的新数据集来训练模型并删除下一句预测来增强 BERT 性能的更改。
+
+这些修改的结果是 RoBERTa，它代表稳健优化的 BERT 方法。BERT 和 RoBERTa 之间的差异包括:
+
+1.  160GB 的大型训练数据集。
+2.  更大的数据集和迭代次数增加到 500K 导致训练时间更长。
+3.  移除模型的下一句预测部分。
+4.  更改应用于定型数据的掩码 LM 算法。
+
+RoBERTa 的实现作为 PyTorch 包的一部分在 Github 上开源。
+
+# №4:阿尔伯特
+
+艾伯特是另一个伯特修正模型。在使用 BERT 时，谷歌的研究人员注意到预训练数据集的大小不断增加，这影响了运行模型所需的内存和时间。
+
+为了克服这些缺点，谷歌的研究人员推出了一个更轻版本的 BERT，或如他们所称的，ALBERT。ALBERT 包括两种方法来克服 BERT 的内存和时间问题。这是通过分解嵌入式参数化并以跨层方式共享参数来实现的。
+
+此外，ALBERT 包括自我监督损失来执行下一句预测，而不是在预训练阶段建立该预测。这一步是为了克服 BERT 在句子间连贯性方面的局限性。
+
+如果你想体验 ALBERT，谷歌开发的原始代码库可以在 [Github](https://github.com/google-research/google-research/tree/master/albert) 上的谷歌研究知识库中找到。您也可以使用使用 [TensorFlow](https://github.com/brightmart/albert_zh) 和 [PyTorch](https://github.com/lonePatient/albert_pytorch) 的实现 ALBERT。
+
+[](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) [## NLP 101:什么是自然语言处理？
+
+### NLP 是怎么开始的？
+
+towardsdatascience.com](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) 
+
+# №5:结构伯特
+
+也许到目前为止最新的扩展或 BERT 是 [StructBERT](https://arxiv.org/abs/1908.04577) 。StructBERT 是由阿里巴巴研究团队开发和构建的 BERT 的新增强模型。到目前为止，BERT 只考虑了文本的句子级排序，而 ALBERT 通过使用单词级和句子级排序克服了这一点。
+
+这些技术包括在我们执行预训练过程时捕获句子的语言结构。他们对 BERT 的主要扩展可以概括为两个主要部分:一是单词结构，二是句子结构目标。
+
+ALBERT 通过在掩蔽 LM 阶段混合特定数量的标记，提高了 BERT 预测正确句子和单词结构的能力。
+
+使用 ALBERT 进行的实验表明，它在不同的自然语言处理任务中表现得比 BERT 好得多，例如 BERT 被开发用于的原始任务，包括问答和情感分析。
+
+BERT 的源代码还没有以开源的形式提供，研究团队将来把它放在 Github 上的意图还不清楚。
+
+# 外卖食品
+
+总的来说，数据科学领域，尤其是自然语言处理领域，发展非常迅速。有时，对于已经在该领域工作了一段时间的有经验的数据科学家和打算从事数据科学职业的初学者来说，这种快速的步伐可能会令人不知所措。
+
+老实说，阅读研究论文从来都不是一件有趣的事情；它们很长，故意以复杂的格式编写，并且通常不容易导航。这就是为什么我总是欣赏一篇概括算法的主要思想以及何时可以使用它们的直截了当的文章。
+
+[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
+
+### 让您的学习之旅更加轻松。
+
+towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+
+在本文中，我经历了 5 个自然语言处理模型，它们比之前的模型更先进、更复杂、更准确，并且只是朝着更好的模型迈出了一步。
+
+我希望这篇文章能让你了解外面有什么，不同的模型是如何工作的，也许，仅仅是也许，激发了一个新的项目想法，在你读完这篇文章后，你可以马上投入进去。

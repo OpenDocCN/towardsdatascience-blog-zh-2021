@@ -1,0 +1,222 @@
+# 7 个真实世界数据集，了解机器学习所需的一切
+
+> 原文：<https://towardsdatascience.com/7-real-world-datasets-to-learn-everything-needed-about-machine-learning-d77e0935b4ad?source=collection_archive---------18----------------------->
+
+## 参考示例用例实现
+
+![](img/c5618d1b4e79f24ed191ac7fa2bc109c.png)
+
+弗兰基·查马基在 [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄的照片
+
+我积极参与指导和训练数据科学领域的人员。我还指导学生为数据科学领域的职业生涯做准备。根据我与他们的互动，我发现他们中的许多人在选择项目时忽略了数据集。仍然有许多人在他们的数据科学组合项目中使用虚拟数据集。作品集项目的目标是更好地学习和帮助数据科学工作。在你的作品集项目中使用虚拟数据对学习和找工作都没有帮助。
+
+在项目中使用真实世界的数据集有以下好处:
+
+*   真实数据有其自身的挑战，因此这是了解典型数据问题和处理这些问题的好机会
+*   更容易理解和关联数据集
+*   属性特征中的动态可以驱动进一步的学习
+*   有助于区分你的工作，从而也有助于你的个人资料
+
+在本文中，我将向您展示如何使用一些有趣的真实世界数据集来详细了解机器学习算法的关键类，如
+
+*   回归算法
+*   分类算法
+*   推荐系统
+*   情感分析
+*   图像识别
+
+为了参考和学习的目的，我还分享了一些有趣用例的受欢迎的实现。如果你喜欢视频格式，点击这里—【https://www.youtube.com/watch?v=8agqUFZOsO0 
+
+# 房价数据集
+
+[波士顿房价数据集](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)和[墨尔本房价数据集](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=MELBOURNE_HOUSE_PRICES_LESS.csv)是两个流行的房价数据集。波士顿房价数据集相对较小，大约有 500 条记录。该数据集为资产的位置提供了更多的权重。关于资产位置的属性包括离高速公路的距离、师生比、犯罪率、污染等。这影响了房地产价格。
+
+墨尔本房价数据集要大得多，并且该数据集的属性侧重于房产而非地点。该数据集的一些属性包括车棚数量、建筑面积、土地面积、建造年份等。这两个数据集为同一问题提供了不同的视角。了解这两个数据集中影响房地产价格的关键属性将是有益的。
+
+## **用例**
+
+*   预测房价-在分析和预处理后，将数据集分为训练和测试，然后实现一个模型来预测房价。如果你正在寻找一个参考，这里有一个 kaggle 笔记本，它评估了不同回归算法对房价预测的性能。
+
+[](https://www.kaggle.com/shreayan98c/boston-house-price-prediction) [## 波士顿房价预测
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用波士顿房价数据
+
+www.kaggle.com](https://www.kaggle.com/shreayan98c/boston-house-price-prediction) 
+
+*   对影响房地产价格的重要因素的分析。这里有一个 Kaggle 笔记本供参考，以了解如何使用墨尔本住房数据执行探索性数据分析。
+
+[](https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis) [## 墨尔本||综合住房市场分析
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自墨尔本住房市场的数据
+
+www.kaggle.com](https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis) 
+
+## **算法和工具**
+
+*   线性回归和 SVM 等回归算法
+*   对于数据分析，像 Pandas 和 NumPy 这样的库是有用的，而像 Seaborn 和 Matplotlib 这样的库对于实现良好的可视化是有用的
+
+# 商场客户数据集
+
+[商场顾客数据集](https://www.kaggle.com/shwetabh123/mall-customers)是关于逛商场的人。它包括性别、年龄、收入和支出分数等属性。这个数据集实际上不是真实的，但我发现这个数据集反映了真实世界数据集的动态和特征。我还发现这是一个很好的数据集，可以用来了解客户细分。
+
+该数据集中的属性“支出分数”是反映个人购买力的派生属性，最有可能基于客户的购买历史、访问频率和关于客户的其他类似交易数据而派生。
+
+## **用例**
+
+*   识别不同的客户群—您可以学习使用此数据集构建聚类或客户群。下面是一个很好的客户细分参考
+
+[](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) [## 客户细分(K 均值)|分析
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
+
+www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) 
+
+*   研究性别和年龄在消费中的作用——以下是使用 SweetViz 进行探索性分析的快速参考
+
+[](https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers) [## 弹指间的 EDA！！！
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
+
+www.kaggle.com](https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers) 
+
+## **算法和工具**
+
+*   聚类算法，如 K-Means 算法和 DBSCAN 聚类
+*   分类算法，如随机森林、KNN 和朴素贝叶斯
+
+# 信用卡欺诈数据集
+
+[信用卡欺诈](https://www.kaggle.com/mlg-ulb/creditcardfraud)数据集包含欧洲客户的信用卡交易。该数据集的一个特点是高度不平衡，在 50 万笔交易中，只有 492 笔是欺诈交易，其余的是真实交易。这种数据集的问题是，当您预测所有交易都是真实交易时，模型的准确性超过 99%，这是一种误导，因为重点应该是预测数据集中异常的能力。
+
+此外，由于这些是金融交易，准确识别欺诈交易非常重要，但不建议将真实交易标记为欺诈，因为这可能会引起客户不满。这是一个很好的数据集，有助于更好地理解不平衡数据集的问题，并了解在这种情况下可以使用的方法、技术和算法。
+
+## **用例**
+
+*   预测欺诈性交易(即异常检测)—下面的参考资料是一个很好的例子，解释了一些处理高度不平衡数据集的最佳技术
+
+[](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) [## 信用欺诈||处理不平衡的数据集
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用信用卡欺诈检测数据
+
+www.kaggle.com](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) 
+
+## **算法**
+
+*   类似隔离森林的无监督学习算法
+*   像 GBM 和 XG 这样的监督学习算法自夸
+
+# 假新闻检测数据集
+
+[这个数据集](https://www.kaggle.com/c/fake-news/data)包含标题、作者、文章内容等属性，以及捕捉文章是否可靠的标志。在这个数据集中有很多 NLP 技术的应用空间。这个问题可以用两种方法来解决，一种是对文本数据使用词干和停用词去除，然后使用神经网络，另一种是基于文本数据生成特征，然后这些特征可以用于解决作为分类问题的问题。
+
+随着社交媒体上分享的新闻越来越多，假新闻可以快速传播误导信息。大多数时候，它们是无害的，但有时假新闻会导致严重的问题，因此预测并阻止它们传播是很重要的，直到今天，这仍然是一个挑战。
+
+## **用例**
+
+*   预测新闻是真是假——这个用例可以通过深度学习来有效实现。这里是一个简单的初学者友好的例子，了解如何使用 TensorFlow 和 Keras 来实现假新闻预测
+
+[](https://www.kaggle.com/barkhaverma/fake-news-detection) [## 假新闻检测
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用假新闻中的数据
+
+www.kaggle.com](https://www.kaggle.com/barkhaverma/fake-news-detection) 
+
+*   对于那些对阅读和实施研究论文中讨论的方法论感兴趣的人，请查看研究论文[这里](https://scholar.smu.edu/cgi/viewcontent.cgi?article=1036&context=datasciencereview)它解释了假新闻预测的实施
+
+## **算法**
+
+*   LSTM
+*   XG 自夸、逻辑回归和/或其他分类算法
+
+# Yelp 数据集
+
+[Yelp 数据集](https://www.yelp.com/dataset)由超过 190 万用户提供的 130 万条提示组成。它还包括超过 140 万个业务属性，如时间、停车、可用性、氛围、评论等。该数据集以 JSON 格式提供，包括 4 个主要文件，它们是
+
+*   ***业务*** :该文件包含有关业务的详细信息，如地址、位置、评级、时间等。
+*   ***评论*** :包含评论文本，包括撰写评论的用户以及评论所涉及的业务。它还包括细节，如这些评论如何被更广泛的受众所接受
+*   ***用户*** :包含用户的详细信息，用户提供的评分和评论，用户的好友映射，以及其他与用户相关联的元数据
+*   ***提示*** :这些比评论要短，向企业传达建议
+
+这是大量的文本数据，各种 NLP 技术的应用有很大的空间，并且由于它有大量的用户基础，它也是研究用户行为的很好的数据集。
+
+## **使用案例**
+
+*   预测企业的成功和失败——评论、提示以及位置和其他企业属性可用于预测企业的成功和失败。这是一个帮助找到受欢迎的餐馆的笔记本示例
+
+[](https://www.kaggle.com/niyamatalmass/finding-the-perfect-restaurants-on-yelp) [## 在 Yelp 上寻找完美的餐厅
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
+
+www.kaggle.com](https://www.kaggle.com/niyamatalmass/finding-the-perfect-restaurants-on-yelp) 
+
+*   基于评论和提示的情感分析——这是一个参考笔记本，使用分类树实现了情感分类器
+
+[](https://www.kaggle.com/suzanaiacob/sentiment-analysis-of-the-yelp-reviews-data) [## Yelp 评论数据的情感分析
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
+
+www.kaggle.com](https://www.kaggle.com/suzanaiacob/sentiment-analysis-of-the-yelp-reviews-data) 
+
+*   分析用户行为，如具有特定特征或来自特定位置的用户的兴趣等——该笔记本是对评论数据进行探索性分析的一个很好的例子
+
+[](https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-ratings-eda) [## 评论里有什么？- Yelp 评级 EDA
+
+### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
+
+www.kaggle.com](https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-ratings-eda) 
+
+*   网络分析以了解影响因素-可以使用基于用户数据的网络分析来识别关键影响因素
+
+## **算法**
+
+*   决策树或随机森林
+*   分类算法，如 KNN、SVM 和/或朴素贝叶斯
+
+# 亚马逊评论数据集
+
+这个[亚马逊数据集](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)包含大约 2.33 亿条关于他们产品的顾客评论，这些评论被分成 30 个类别。该数据集非常灵活，可以根据产品类别下载，并且它还提供了一个选项来下载数据的子集，用于小规模实施或实验目的。
+
+这是实现推荐系统的一个很好的数据集。有几篇研究论文是关于提高推荐系统准确性的实现和技术的。
+
+## **用例**
+
+*   为用户构建产品推荐——这是一个 Git 存储库，它使用 Amazon review 数据集实现了产品推荐
+
+[](https://github.com/mandeep147/Amazon-Product-Recommender-System) [## mandeep 147/亚马逊产品推荐系统
+
+### 对 http://snap.stanford.edu/data/web-Amazon.html 在线提供的亚马逊评论数据集进行情感分析…
+
+github.com](https://github.com/mandeep147/Amazon-Product-Recommender-System) 
+
+*   基于客户评论的情感分析——可以基于评论数据构建情感分析模型。此外，由于这是一个大规模数据集，在此数据集上训练的模型可以在不同的数据集上进行测试
+
+## **算法**
+
+*   推荐系统中的协同过滤算法
+
+# ImageNet 数据集
+
+ImageNet 是一个庞大的图像数据库，包含 1400 万张图像和 2 万个视觉类别。该数据集广泛用于对象检测/识别用例。它通常用于学术界，通过深度学习来学习图像识别。这个数据集是图像识别领域革命的主要原因。
+
+## **使用案例**
+
+*   目标检测
+*   目标定位
+*   图像字幕
+
+## **算法**
+
+*   卷积神经网络
+*   基于区域的卷积神经网络
+*   单发探测器
+
+# 关于我
+
+我是一名拥有超过 10 年经验的数据科学专家，并且已经撰写了 2 本数据科学方面的书籍。我写数据科学相关的内容是为了让它简单易懂。在 [**中**](https://medium.com/@rsharankumar) **跟我上来。**我也有一个 YouTube 频道，在那里我教授和谈论各种数据科学概念。如果有兴趣，可以订阅我下面的频道。
+
+[](https://www.youtube.com/c/DataSciencewithSharan) [## 莎兰的数据科学
+
+### 我是一名数据科学专业人员，在高级分析和应用机器领域拥有十多年的经验…
+
+www.youtube.com](https://www.youtube.com/c/DataSciencewithSharan)

@@ -1,0 +1,79 @@
+# 4 个数据可视化工具，改变您的数据叙述方式
+
+> 原文：<https://towardsdatascience.com/4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba?source=collection_archive---------29----------------------->
+
+## 虽然 Tableau 很棒，但这不是唯一的选择。
+
+![](img/f7273de7f4bcd21fbafe14b9ab12c9ed.png)
+
+杰森·库德里特在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+乍一看，数据科学似乎总是一个错综复杂的领域，或者我应该说是多个领域的集合。它非常宽泛模糊，而且可以争论复杂。但是，事实是，数据科学可以用一句话非常简单地定义。
+
+数据科学是将从不同资源收集的数据解释成有用信息的领域。或者换句话说，这就是倾听和翻译一些数据试图传递的故事。
+
+我喜欢将数据科学视为讲述数据故事的艺术。你越擅长讲故事，这个故事就越有吸引力。也就是说，找到数据所讲述的故事并不总是容易的。事实上，这从来都不容易。简化寻找故事过程的一种方法是通过数据可视化。
+
+[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
+
+### 开启数据科学未来的 10 步路线图
+
+towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+
+数据可视化不仅仅是数据科学项目的一个步骤；这是它的核心。然而，通常情况下，开发人员不希望花很长时间来设计可视化。这就是为什么像 Tableau 这样的工具为开发人员提供了一个很好的选择，让他们在代码上花更多的时间，同时产生有价值的、清晰的、引人注目的数据可视化。
+
+Tableau 可能是最知名和最常用的数据可视化工具；它健壮、有效，可以用来生成你能想到的任何类型的可视化。然而，Tableau 并不是唯一优秀的数据可视化工具。
+
+本文将介绍 4 种免费和付费的数据可视化工具，它们将帮助您创建引人注目的可视化效果，并让您以最佳方式讲述数据的故事。
+
+# №1:谷歌数据工作室
+
+我们列表上的第一个工具是[谷歌数据工作室](https://marketingplatform.google.com/about/data-studio/)。谷歌数据工作室是谷歌营销平台的一部分，旨在帮助开发人员构建、设计和使用交互式、引人注目的数据可视化和数据仪表板，可以在团队成员以及客户和公司之间共享。
+
+Google Data Studio 允许您同时创建不同数据集的可视化，它是为团队访问相同的数据和仪表板而设计的，并且是免费的。Google Data Studio 可以与其他 Google 产品集成，如 Google Analytics、Ads、Google cloud 和 BigQuery，以创建强大、健壮的配对，可用于各种数据探索任务。
+
+[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
+
+### 用引人注目的视觉效果讲述您的数据故事。
+
+towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+
+# 2 号:数据包装器
+
+创建和设计引人注目的数据可视化本身就是一种艺术形式，但对于没有强大艺术技能的人来说，它也需要简单易用。我们列表中的第二个工具是 [Datawrapper。](https://www.datawrapper.de/)这个工具是由艺术家、平面设计师、开发人员和记者设计的。它被设计成学习速度快，使用灵活，功能强大，足以创建美观、易于理解的可视化效果。
+
+Datawrapper 是一个完全基于网络的服务，为不同需求的开发者提供付费和免费计划。免费计划允许你生成 10，000 个图表，这给你时间来决定这个工具是否适合你。Datawrapper 还提供了一些类和教程，教您如何最有效地使用该平台并尽可能创建最佳的可视化效果。
+
+# №3:信息图
+
+十几年前，一种新的创建演示文稿的工具进入了市场，这种方法可以创建一个令人惊叹的充满动感的演示文稿，保证能抓住观众的注意力。那个工具就是 [Prezi](https://prezi.com/) 。该工具后来扩展到包括其他致力于创建引人注目的可视化的服务。今天出现在我们名单上的工具是我一直以来最喜欢的工具之一，[信息图](https://infogram.com/)。
+
+Infogram 是一个界面友好的易用工具。它提供了 30 多种类型的图表和可视化，可以从 A 到 z 进行定制。Infogram 还为我们这些没有太多时间的人提供了使用预制模板创建数据仪表板的选项。Infogram 提供了选项有限的免费版本和每月 19 美元的付费版本。
+
+[](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) [## 数据可视化 101:如何选择 Python 绘图库
+
+### 如何选择不同用途的绘图库
+
+towardsdatascience.com](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) 
+
+# №4:融合图表
+
+名单上最后但同样重要的是[融合图表](https://www.fusioncharts.com/)。FusionCharts 是一个基于 JavaScript 的工具，允许您为 web 和移动用户创建通用的数据仪表板。fision charts 150 多种图表类型和 1000 多种地图类型。为了使该工具更加健壮，它可以与 React 和 jQuery 等其他 JavaScript 框架以及 Python(Django)和 Ruby on Rails 等其他编程语言集成。
+
+如果您不想编写代码来生成可视化，FusionCharts 还为所有包含的图表和地图提供了现成的代码，以简化嵌入、设计和创建可视化的过程。
+
+# 最后的想法
+
+作为一名数据科学家，我们需要完成的主要任务是成功地解释数据讲述的故事，从故事中提取见解，然后使用它们做出更好的决策或预测未来的数据。这些任务是所有数据科学分支的核心，从简单的回归到自然语言处理、神经网络、计算机版本和深度学习。
+
+寻找和讲述数据故事的最佳方式是将其可视化。数据可视化不仅仅是任何数据科学项目的另一个步骤。这是决定你整个项目成败的关键步骤之一。如果您在数据探索步骤中使用了错误的数据可视化技术，那么您可能会错过一些基本的模式、趋势或见解。
+
+[](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [## 数据可视化 101:如何选择图表类型
+
+### 如何选择最能描述数据的图表类型
+
+towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) 
+
+如果你花了这么多时间开发和训练你的模型，最后，你以一种枯燥的、不可描述的方式来可视化你的结果，你的客户可能会对你的结果不屑一顾，并努力寻找你工作的真正意义。这就是为什么数据可视化应该是每个数据科学家应该努力的主要技能之一。
+
+幸运的是，有许多工具可以用来创建引人注目的、漂亮的、有意义的可视化和数据仪表板。这些工具将是您构建的数据科学工具的重要补充，可以帮助您构建更好、更健壮的项目。

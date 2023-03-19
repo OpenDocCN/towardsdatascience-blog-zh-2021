@@ -1,0 +1,57 @@
+# 从初级数据分析师到高级数据分析师的建议
+
+> 原文：<https://towardsdatascience.com/advice-to-go-from-junior-to-senior-data-analyst-4680b7c126ed?source=collection_archive---------17----------------------->
+
+## 如何展示你已准备好进入下一阶段
+
+![](img/9667a62058031960db00fa1ecf7a70d8.png)
+
+照片由 [Pexels](https://www.pexels.com/photo/hands-holding-a-2021-calendar-5408689/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 的 [Olya Kobruseva](https://www.pexels.com/@olyakobruseva?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 拍摄
+
+现在是 2021 年，是时候进行年度绩效评估并为这一年设定新目标了。如果你想从初级数据分析师晋升到高级数据分析师，这是我根据与已经晋升到下一级的初级分析师共事的经验给出的建议。
+
+## 学会独立
+
+由于缺乏经验，初级分析师往往会问更多的问题。高级分析师问的问题更少，因为他们能够根据过去的经验做出决策。这并不意味着作为初级分析师你不应该提问。不提问和犯错，你永远不会获得经验。然而，避免你的第一直觉马上问问题，想想你可能如何解决这个问题，为什么。然后向你的经理或资深分析师寻求建议，并解释你为什么想出这种方法。你可能仍然没有在正确的轨道上，但这表明你在寻求帮助之前尝试独立解决问题。
+
+## 从大处着眼
+
+初级分析师孤立地处理请求，不会超出请求的范围来确定它与全局的关系。高级分析师会提出更多试探性的问题，以抓住问题的症结并提供最佳解决方案。这种能力来自经验，但这并不意味着初级分析师不能更快地达到那个阶段。通过要求就他们如何处理特定项目进行知识分享会议，了解高级分析师如何处理问题。我在一家公司工作，在那里我们每两周开一次会，展示数据团队一直在做的有趣的分析。我学到了新的方法，这些方法后来应用到了我自己的项目中，否则我是学不到的。
+
+## 要求更具挑战性的项目
+
+初级分析师通常从事较简单的任务，而经理则倾向于将较复杂的分析任务分配给高级分析师。要想成长为一名分析师，问问自己是否能接受更具挑战性的项目来学习，并走出自己的分析舒适区。一句警告的话是，不要问，直到你觉得准备好接受这些新的挑战。如果你成功地完成了留给高级分析师的任务，你的经理就更容易证明给你升职是正确的。
+
+## 学习如何用数据讲故事
+
+我把“用数据讲故事”描述为回答一个商业问题并解释为什么它对听众很重要的能力。初级分析师只是提供所需的数据。高级分析师更进一步了解公司的 KPI，以及他们的结果如何与影响业务的 KPI 相关联。了解利益相关者关注的关键绩效指标，并尝试将您的分析结果与这些关键绩效指标联系起来。这将展示你理解业务和像高级分析师一样思考的能力。
+
+[](/how-to-a-tell-story-with-data-3200bfadce6d) [## 如何用数据讲故事
+
+### 有效展示数据结果的技巧
+
+towardsdatascience.com](/how-to-a-tell-story-with-data-3200bfadce6d) 
+
+## 学会以清晰的方式传达结果
+
+作为一名高级分析师，沟通技巧是一项必备的软技能。学习如何很好地沟通需要练习，但这并不意味着作为初级分析师你不能很快提高。每一个展示结果的机会都是练习沟通技巧的机会。如果你的团队没有知识分享会议，建议每月一次。这将提供一个练习演示的机会，并观察高级分析师如何演示他们的结果。你也可以借此机会要求反馈，以改善你的沟通，为未来的演示。
+
+## 寻求反馈
+
+这是最显而易见的，但请向你的经理寻求反馈，以达到更高的水平。这些建议可以纳入你的年度目标，如果你能实现这些目标，你的经理就更容易证明你的晋升是合理的。
+
+当你第一次开始做数据分析师时，并不清楚如何达到下一个级别。既然你已经知道了成为高级分析师所需要的关键技能，我希望你的晋升早点到来。
+
+## 你可能也会喜欢…
+
+[](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [## 如何应对糟糕的经理
+
+### 当放弃不是一个选项时——还不是
+
+medium.com](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [](/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766) [## 如何成为一名出色的数据分析员工
+
+towardsdatascience.com](/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766) [](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537) [## 不良数据分析师的 4 个习惯
+
+### 以及如何避免成为其中一员
+
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537)

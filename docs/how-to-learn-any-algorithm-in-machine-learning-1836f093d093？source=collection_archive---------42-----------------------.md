@@ -1,0 +1,53 @@
+# 如何学习机器学习中的任何算法
+
+> 原文：<https://towardsdatascience.com/how-to-learn-any-algorithm-in-machine-learning-1836f093d093?source=collection_archive---------42----------------------->
+
+## 这个简单的方法也可以让你很好地学习它
+
+![](img/ef2abc32158e72e6862022a8a99985bc.png)
+
+Jorge Fernández Salas 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+我们都知道机器学习是一个快速扩展的领域，似乎每分钟都在创造新的技术。虽然在进入这些新的、通常是先进的论文之前，最好从该领域的基础开始，但对于该领域的新手来说，经常会出现一个问题:
+
+> 我如何学习这个领域中的各种算法，以及如何学好它们？
+
+如果你是这个领域的新手，最好的方法是对基本面有一个坚定的理解，这很简单。简单地说，当你学习算法时，尝试用你最喜欢的编程语言从头开始构建它。请允许我解释…
+
+当在这个高度技术性的领域学习一个新概念时，我相信从零开始构建东西不仅可以加强你的编程技能，还可以让你对算法实际上是如何工作的有一个自下而上的基本理解。需要记住的一点是，在机器学习中，我们所做的一切本质上都是数学化的。如果你不理解算法背后的数学，你就不能有效地将结果的关键见解传递给那些非技术人员——我可以补充一句，你和那些**技术人员打交道一样多。**
+
+虽然这应该是常识，但让我从现在开始提出一个小小的免责声明:你从零开始构建算法**不应该**代替高度优化的库来完成特定的任务。相反，你构建的算法应该作为学习数学的补充，并看到它一步一步地实时求解。如果您以前从未构建过神经网络，您可能无法理解 PyTorch 或 TensorFlow 库中 API 调用的底层机制。
+
+我真的相信，如果你正在学习一个新的算法，了解它是如何工作的是一个很好的开始，但是学习如何自己构建它真的会让你迷失在 ***为什么*** 它会工作的美丽中，在我看来，这是这个领域中最有趣的地方。
+
+![](img/964ab512627df3ae8d1f35ec02d703e8.png)
+
+在(随机)森林中迷路比想当然地使用 API 调用更有趣。||照片由[塞巴斯蒂安·恩劳](https://unsplash.com/@sebastian_unrau?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+不要成为一个阅读公式，使用 API 调用来解决问题，并说你熟悉这个概念的人。这不会长期强化你的学习。你可能会假装自己知道什么是 SVD 分解，因为你可以在 Python 中键入`SVD(X)`,但是如果你在面试中被要求解释它，你应该解释它是什么——并且解释得很好。
+
+即使你是该领域经验丰富的工程师，花一个下午的时间从零开始构建一个分类器或聚类算法也是重建基础和进一步巩固基础的好方法。仅仅因为你有经验并不意味着你的技能不会随着时间的推移而生疏。花时间回到基础会让你更擅长你的手艺，这是必然的。
+
+> “学习吧，就像你永远无法掌握它一样；拿着它，好像你会害怕失去它。”——孔子
+
+你有什么想法？我很乐意讨论你是否有自己学习新算法或巩固基础的方法。
+
+请继续关注，因为我也计划在闲暇时重建一些算法。我非常喜欢许多机器学习算法背后的数学，从零开始构建它们的能力在我看来非常有趣。
+
+感谢您的阅读。
+
+## 我的一些文章:
+
+[](/in-data-science-its-specialize-or-die-7ede67a58676) [## 在数据科学中，要么专门化，要么死亡
+
+### 数据科学通才是指在该领域了解不多的人。
+
+towardsdatascience.com](/in-data-science-its-specialize-or-die-7ede67a58676) [](https://medium.com/swlh/why-you-must-use-linux-dddf7cabb266) [## 为什么你必须使用 Linux
+
+### 为历史上最好的操作系统辩护。
+
+medium.com](https://medium.com/swlh/why-you-must-use-linux-dddf7cabb266) [](/analyzing-campaign-contributions-from-individual-citizens-8fae00b40f5b) [## 分析公民个人的竞选捐款
+
+### r 的一项研究。
+
+towardsdatascience.com](/analyzing-campaign-contributions-from-individual-citizens-8fae00b40f5b)

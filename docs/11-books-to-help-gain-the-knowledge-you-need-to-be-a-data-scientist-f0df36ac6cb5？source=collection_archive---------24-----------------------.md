@@ -1,0 +1,179 @@
+# 帮助您获得成为数据科学家所需知识的 11 本书
+
+> 原文：<https://towardsdatascience.com/11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5?source=collection_archive---------24----------------------->
+
+## 帮助你成为更好的数据科学家的书籍。
+
+![](img/c3ebc555211556078375aa0740ade28f.png)
+
+莎伦·麦卡琴在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+成为一名杰出的数据科学家往往是一条崎岖不平的道路。因为数据科学是一个跨学科的领域，你需要了解很多领域才能掌握它，全面理解它的构建模块。
+
+你需要了解一些数学、统计学、商业模式基础、编程、可视化和科学交流技能。您还需要了解一些核心技术技能，例如处理 docker 图像，熟悉 Git，完全熟悉数据库。
+
+我能理解这对刚加入这个领域的人来说是多么的难以承受。我不否认成为一名数据科学家的道路可能会很漫长，但成为一名数据科学家是最有成就感、最具挑战性的工作之一。
+
+[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
+
+### 开启数据科学未来的 10 步路线图
+
+towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+
+一旦你有了路线图和一些资源，你就可以了解基础知识并准备好处理现实生活中的项目，成为数据科学家的所有复杂性和麻烦就会变得更好，更少。
+
+在本文中，我将为您提供 11 本书，您可以浏览这些书，以熟悉数据科学的所有基础知识，从编程、数学和统计开始，到自然语言处理和机器学习等核心数据科学主题的书籍结束。
+
+我会按照我阅读的顺序来浏览这些书，这对我来说是有意义的。你可以从中间开始，也可以从学习过程中的任何地方开始。
+
+# №1:Python 的搭便车指南
+
+迈向数据科学的第一步是学习如何编码。目前，Python 是数据科学家最熟知的编程语言。许多软件包和模块为您提供了实现最复杂的数据科学算法所需的所有技术支持。
+
+我教 Python 已经有 5 年多了，既教孩子也教成人；我读过的关于在逻辑进程中教授 Python 的最好的书之一是[的 Python 搭便车指南](https://docs.python-guide.org/)。
+
+这本书讲述了从安装 Python 和选择文本编辑器来编写好的 Python 代码到虚拟环境，甚至是您可以在不同领域使用 Python 构建的应用程序，如网络、GUI、数据库和科学应用程序。
+
+[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
+
+### 语法不应该是第一步！
+
+towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+
+# №2:机器学习的数学
+
+我知道数学是这些倾向于让人们远离特定领域的主题之一，但是数据科学中涉及的数学一点也不复杂。事实上，这很简单，也很符合逻辑，其中一个能让你更适应的方法就是，读正确的书。
+
+[机器学习数学](https://mml-book.github.io/)是一本很棒的书，涵盖了你理解数据科学算法所需的数学的所有方面。它包含关于线性代数，矩阵分解，和概率理论和分布的章。
+
+而且，书中包含了使用 Python 和 Jupyter notebook 的应用和教程。最棒的是，你可以从官方图书网站免费获得 PDF。
+
+[](/probability-theory-in-data-science-bacb073edf1f) [## 数据科学是关于概率的
+
+### 数据科学中最常用的 4 种概率分布
+
+towardsdatascience.com](/probability-theory-in-data-science-bacb073edf1f) 
+
+# №3:数据科学家实用统计学
+
+在数据科学中，数学是用来推动决策的，但是首先你如何做出决策呢？这就是统计学发挥作用的地方。
+
+我找到的关于统计学的最好的书以简短、简明和直接的方式涵盖了理论。Python 和 R 语言的实现是[数据科学家实用统计](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) s。当你阅读这本书时，你会得到第一个真正的数据科学的提示。您将了解不同数据类型的含义和用法，以及它们在不同应用程序中的表现方式。
+
+这本书的另一个好处是你可以免费获得它的 PDF 版本。
+
+# №4:实用 SQL
+
+数据科学完全是关于数据的；它是关于收集数据，清理数据，分析数据，并从中得出模式和结论。换句话说，这是关于理解数据试图用数字告诉你的故事。这个故事需要保存在某个地方。
+
+每个数据科学项目的一个基本步骤是从/向数据库读取或存储数据。与数据库交互的最有效方式是使用 SQL。[实用 SQL](https://practicalsqlbook.com/) 将带你从一个绝对的数据库初学者走向成为数据库和 SQL 高手。
+
+这本书是那种你觉得看小说，而不是技术书的书。它使用了一种易于理解的方法，使得来自各种背景的人都能轻松阅读。
+
+[](/databases-101-introduction-to-databases-for-data-scientists-ee18c9f0785d) [## 数据库 101:数据科学家数据库简介
+
+### 如何开始接触数据库世界？
+
+towardsdatascience.com](/databases-101-introduction-to-databases-for-data-scientists-ee18c9f0785d) 
+
+# №5: Pro Git
+
+一旦你进入了软件开发的世界，无论你是打算成为一名数据科学家、网络开发人员，还是仅仅热爱编码，你都会遇到 Github 和开源软件。
+
+许多 Python 数据科学包都是开源项目，一旦你对自己的技能驾轻就熟，你就可以把它们加入到你的简历中。即使你不打算为开源项目做贡献，你也需要完全熟悉 Git 和 Github 才能在事业上取得成功。
+
+没有什么比从源头学到东西更好的了。Pro Git 是 Git 开发人员编写的一本书，旨在教所有开发人员如何掌握版本控制的艺术。这本书将涵盖基本主题，如创建一个存储库，克隆一个，以及更高级的主题，如 Git 的内部工作。
+
+你可以从 Git 官方网站免费获得该书的 PDF 版本。
+
+[](/version-control-101-getting-started-with-git-3b2c78d91184) [## 版本控制 101:Git 入门
+
+### Git 如何工作的简要概述
+
+towardsdatascience.com](/version-control-101-getting-started-with-git-3b2c78d91184) 
+
+# №6:人人都有熊猫
+
+Python 中几乎没有不使用熊猫的数据科学项目。Pandas 是一个怪物包，它允许你使用 Python 来解析、读取和操作数据。
+
+[《熊猫为大家》](https://www.oreilly.com/library/view/pandas-for-everyone/9780134547046/)是一本很棒的书，关注熊猫的内在工作，如何快速有效地分析数据。这本书将涵盖许多主题，如可视化数据框架，处理丢失的数据点，和数据建模。
+
+这本书的第一章将带你深入了解熊猫的核心构件数据框架。如何正确使用，如何轻松应对。
+
+# №7:使用 pytest 进行 Python 测试
+
+您完成了您的项目；你很高兴让全世界都看到你的发现，但是在这之前，你需要确保你的项目是完美的，没有错误的。唯一的方法就是测试你的工作。
+
+或许 Python 最知名的测试库是 Pytest。Pytest 是最可靠的库之一，它提供了不同的测试类型，比如单元测试和回归测试。单元测试是常用于测试数据科学应用程序的测试方法。
+
+[使用 Pytest 进行 Python 测试](https://pragprog.com/titles/bopytest/python-testing-with-pytest/)将向您介绍测试的概念以及如何在 Python 中利用它。它将教你如何编写简短、健壮的测试来验证你的项目，并在你与世界分享它之前确保它是完美的。
+
+[](/a-brief-introduction-to-software-testing-38499dd4189) [## 软件测试简介
+
+### 您的应用程序需要什么样的测试？
+
+towardsdatascience.com](/a-brief-introduction-to-software-testing-38499dd4189) 
+
+# №8:数据科学的 Docker
+
+当您开始深入研究数据科学并开始使用真实数据开发项目时，您会发现数据量每天都在呈指数级增长。数据量的增长使得软件开发人员存储和分析这些数据变得非常困难。
+
+解决这个问题的一个方法是使用 docker 容器。 [Docker for Data Science](https://www.apress.com/gp/book/9781484230114) 将教你如何使用 Jupyter 作为处理核心，使用 Docker 容器作为存储和处理数据的基础设施，来创建一个交互式开发环境。
+
+[](/getting-started-with-docker-for-data-scientists-a2ed505e2a09) [## 面向数据科学家的 Docker 入门
+
+### 使用 Docker 的快速入门指南和最佳实践
+
+towardsdatascience.com](/getting-started-with-docker-for-data-scientists-a2ed505e2a09) 
+
+# №9:使用 PyTorch 进行自然语言处理
+
+到目前为止，我们只讨论了涵盖全面理解数据科学构建模块所需的核心技术基础的书籍。现在，我们来谈谈实际的数据科学分支。
+
+最著名和被谈论的数据科学分支是自然语言处理。在我看来，它是一个新兴的领域，在各个领域都有许多重要的应用。[使用 PyTorch 进行自然语言处理](https://www.oreilly.com/library/view/natural-language-processing/9781491978221/)是一本向您介绍自然语言处理以及如何使用 Python 和 PyTorch 构建实际应用程序的好书。
+
+该书对 Github 上的自然语言处理和代码项目的思想和算法进行了简单的解释。该书的 Jupyter 笔记本可以在[官方图书回购](https://github.com/joosthub/PyTorchNLPBook)上找到。
+
+[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
+
+### 构建强大 NLP 基础的 10 个步骤
+
+towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+
+# №10:使用 scikit-learn 和科学 Python 工具包进行机器学习
+
+我们不能写一篇关于数据科学书籍的文章而不提到——至少——一本机器学习书籍。有许多机器学习书籍，但今天，我将谈论一本最近出版的书。
+
+[使用 scikit-learn 和科学 Python 工具包进行机器学习](https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048)是一本适合机器学习初学者的好书。它涵盖了机器学习理论的基本知识，机器学习算法中决策背后的数学，以及许多现实生活中的应用程序及其代码实现。
+
+这本书涵盖了机器学习的所有方面，从聚类算法到图像处理和文本处理，再到神经网络和推荐系统。想了解机器学习的所有基础算法，这本书就是给你的。
+
+[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
+
+### 如果您是数据科学的新手，这里是一个很好的起点
+
+towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+
+# №11: IPython 交互式计算和可视化食谱
+
+这个列表中的最后一本书实际上是关于我最喜欢的话题，可视化。正如我经常说的，数据科学就是从数据中讲述一个故事，还有什么比将它可视化更好的方式来讲述一个故事呢？
+
+我们大多数人——数据科学家——使用 Jupyter 笔记本来构建交互式、可复制的数据科学项目。IPython 交互式计算和可视化食谱将向您介绍 IPython，并使用 Jupyter notebook 设置它，然后使用它创建有效的可视化。
+
+此外，这本书还教你如何编写运行得更快更好的高效 Python 代码。你可以在这本书的官方网站上免费查阅这本书的章节。
+
+[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
+
+### 用引人注目的视觉效果讲述您的数据故事。
+
+towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+
+# 外卖食品
+
+数据科学是目前引人注目和有趣的领域之一。这是一个什么都有点的领域，有些编程，有些数学，有些可视化，还有些商业。但是由于这个领域的性质，进入这个领域是非常困难的。尤其是在网上有这么多可用资源的情况下。
+
+有如此多的好书，你可以通过阅读来了解数据科学的某个特定方面，或者生活中的任何事情。在这篇文章中，我关注了我读过的 11 本书，我觉得它们对我的知识库贡献最大。
+
+我按照我推荐阅读的顺序把书呈现给你，但那只是推荐。我们每个人都有自己独特的学习和寻找新信息的方式，所以阅读可以填补你目前知识空白的书，跳过或浏览其他人关于你在学习过程中已经获得的知识。
+
+记住，即使你知道一些东西，也总会有新的东西要学，即使你已经熟悉了这个话题。

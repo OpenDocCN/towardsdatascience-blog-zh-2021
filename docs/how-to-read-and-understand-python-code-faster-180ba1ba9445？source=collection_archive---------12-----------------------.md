@@ -1,0 +1,127 @@
+# 如何更快地阅读和理解 Python 代码
+
+> 原文：<https://towardsdatascience.com/how-to-read-and-understand-python-code-faster-180ba1ba9445?source=collection_archive---------12----------------------->
+
+## 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
+
+![](img/61c22033d78554322da2d5ebce093205.png)
+
+Marc-Olivier Jodoin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+> **“我们并不总是需要做得更多，而是需要关注得更少。”—** [**内森·w·莫里斯**](https://www.tameday.com/motivational-quotes-for-work-productivity/)
+
+你是否曾经想要了解关于某个特定主题或模块的更多信息，然后打开一些关于这个概念的笔记或文档。然后，你看了一眼，觉得不知所措，立马关机？
+
+不要担心，因为你不是一个人！
+
+当您试图学习一个关于 Python 的主题时，您通常会发现冗长的文档，其中包含简明的细节，以及您需要了解的关于该特定领域的每个概念的几乎所有内容。
+
+找到一份写得很好的文档、高质量的研究论文和包含代码的好内容一定感觉像是天堂，但事实并非总是如此。
+
+尽管找到了很棒的资源，但如果你不能充分利用这些可供选择的资源，那就没有意义了。这就像你发现了一本辉煌的历史古董书，可以揭示这么多的秘密，但不幸的是，你不懂语言。
+
+虽然 Python 是一门简单的编程语言，但在学习更复杂的概念时经常会出现问题。然而，学习更快地阅读和理解 Python 文档和代码的能力是一门艺术。
+
+在这篇文章中，让我们看看一些主要的方法，这些方法将帮助我们客观地更快地学习如何快速阅读代码，特别是对于数据科学和人工智能。我们开始吧！
+
+# 快速浏览一下目录
+
+![](img/364ee9aab23967bbb4285da95cdedf88.png)
+
+照片由[杰米街](https://unsplash.com/@jamie452?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 拍摄
+
+> **“预读是游戏规则的改变者。它改变了我的生活…每个人在看过这些材料后都会变得更聪明。你也会的。”—** [**彼得·罗杰斯医学博士**](https://www.goodreads.com/quotes/tag/speed-learning)
+
+假设您偶然发现了一个有用的资源，它将使您能够学习更多与编码相关的知识。诀窍是快速浏览代码或文档的大部分行。
+
+一旦你看完了大部分代码行，你要么会因为什么都不懂而恐慌，要么会因为至少懂了一些东西而高兴。
+
+不管你躺在什么谱上，都完全没问题。这一步的目标是获得对未来内容的基本直觉。一旦你阅读了代码，你的大脑就有更大的机会与特定的主题联系起来。
+
+因此，养成浏览以下代码块或代码行的好习惯。虽然一开始你可能不明白所有的事情，但你仍然会对未来的事情有一个简要的了解。
+
+# 理解有用的内容
+
+你不需要记下整个代码块或文档。
+
+因为你已经浏览完了内容，你甚至对你可以客观处理的许多概念有了一个简单的概念。
+
+你猜怎么着？你不需要学习完整的代码或者阅读完整的官方模块文档。
+
+你所要做的就是对那些代码块或文档中提到的基本内容有一个直观的理解。考虑一个 Python 中列表的简单例子。在这个数据结构中有大量的函数可用，但是您只需要知道其中的一些就可以处理 Python 中的大多数常见任务。
+
+因此，使用您的批判性和分析性思维来找出哪些主题或哪些代码块对于您试图实现的特定任务或项目是最重要的。一旦你发现了这一步，你的生活会变得更容易。
+
+# 使用引用
+
+你不需要成为独狼主角，因为你有愿意帮助你的酷朋友。
+
+使用 Python 代码和与数据科学和人工智能相关的项目的最大好处是，您可以获得大量精彩的资源。你需要充分利用这些资源，这样你就可以发展和积累更多的技能。
+
+假设你必须学习一个特定的 scikit-learn 代码用于机器学习，或者一个复杂的 TensorFlow 代码用于深度学习。使用这些代码的最大好处是，你不需要浪费宝贵的时间一遍又一遍地严格学习同样的东西，却不理解它。
+
+互联网上有这么多有用的内容，你可以利用它们来提高理解这些代码块的可信度，并更快地理解它们背后的直觉。尽可能充分利用指南、参考资料和视频教程来开发并更直观地理解编码块和文档。
+
+请随意查看我之前关于十大免费网站的文章，通过下面提供的链接了解更多关于数据科学和机器学习的信息。
+
+[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
+
+### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
+
+towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+
+# 保持联系
+
+我怎么强调这个因素都不为过。
+
+如果你不保持与编码的联系，或者你长时间停止练习，很有可能你会忘记一些东西或者不能更快地解决问题。
+
+因此，让坚持练习一些代码成为一种日常习惯。此外，如果您正在处理特定的库模块，请确保您继续学习这些主题的更多内容，不要留下间隔。这样做有助于你保持参与度，更快地完成概念。
+
+如果你能做些笔记供以后参考，对你将来也会有很大帮助。一旦你记下你所理解的内容，过一个月左右再回头看，你仍然可以非常快地重温这个话题。
+
+为了理解每日编码的更多优点，我强烈推荐你们大家去看看我以前写的关于这个主题的文章。
+
+[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
+
+### 即使它只是每天一点点编码，你也必须考虑它
+
+towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+
+# 结论:
+
+![](img/e973f7cb3d8ae688eaf438cb64153b2b.png)
+
+照片由[卡勒姆·肖](https://unsplash.com/@callumshaw?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+在本文中，我们讨论了在学习代码的过程中，根据自己的风格实施一些技巧和游戏计划会如何影响和改变理解代码的结果。
+
+为了总结我们所学的内容，快速浏览一下代码块，这会让你对将要发生的事情有一个简单的概念。之后，你可以有选择地找出最有用的内容，把注意力集中在那些话题上。
+
+在参考资料、指南和视频的帮助下，您可以简化工作量。最后，不断练习，让自己更快地学习这些代码！
+
+将这些策略运用到你的日常习惯中可能需要时间来抑制，这完全没问题。一旦你投入精力在这些方法上，你将自动获得不仅更快地阅读和学习代码的能力，而且发展理解你正在处理的概念背后的简单直觉的能力。
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
+
+### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
+
+towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
+
+### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
+
+towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [## 作为数据科学家要避免的 11 个关键错误！
+
+### 初学数据科学的爱好者会犯的十一个关键性错误是什么？
+
+towardsdatascience.com](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
+
+### 通过代码和示例理解 Python 中的字典和集合的概念
+
+towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+
+谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

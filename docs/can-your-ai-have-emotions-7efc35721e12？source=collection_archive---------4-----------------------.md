@@ -1,0 +1,193 @@
+# 你的 AI 可以有情感吗？
+
+> 原文：<https://towardsdatascience.com/can-your-ai-have-emotions-7efc35721e12?source=collection_archive---------4----------------------->
+
+## 你有没有可能给你的人工智能编程来发展情绪？
+
+![](img/e196649adff5378854241321dff0565e.png)
+
+[腾雅特](https://unsplash.com/@tengyart?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+> “世界上最美好的东西是看不见的，也摸不着的。他们必须用心感受"
+> ― [**海伦·凯勒**](https://www.goodreads.com/quotes/tag/emotions)
+
+像人类这样的智慧生物的一个基本特征是他们能够感受不同类型的想法、表达和感情。情感在动物和人类等生物的生活中起着不可或缺的作用。
+
+没有情感，我们的生存状态可能会处于危险之中。我们可能会生活在社会耻辱和不安全感的威胁下，而不是生活在一个幸福和充满爱的世界里。
+
+思考人类情感和智力的价值是浪费时间，因为没有它，我们将走在一个充满精神病患者和反社会者的星球上。
+
+由于我们的科幻电影喜欢将人工智能描述为人类生存的祸根，以及将接管整个世界的东西，因此研究人工智能尚未被发现的这一方面是耐人寻味和令人着迷的。
+
+人类的大脑是一个复杂的结构，很明显，这些项目是不可替代的。虽然深度学习和人工神经网络已经发展了多年，但它们只是受到了人脑的生物学启发。值得注意的是，人工神经网络不是也可能永远不会永久取代我们的人脑。
+
+这些场景引出了几个有趣的问题，这些问题浮现在我们脑海深处。我们可能想要回答的一些看似熟悉但却很奇怪的问题包括这样的问题—
+
+1.  AI 可以有情感吗？
+2.  有可能编程出这样的 AI 技术吗？
+3.  这个 AI 会对人类的存在造成潜在威胁吗？
+
+你可能在某个时间点对这些令人困惑和有趣的问题感到疑惑。这篇文章的主要目的是提供一个更详细的方法来理解这些概念，并最终回答标题中的问题——“你的人工智能有情感吗？”
+
+在我们开始讨论重要性这个话题之前，我强烈建议观众去看一下我以前写的一篇关于揭开人工智能神秘面纱的文章。它将帮助您更好地理解我们将在接下来的章节中讨论的各种主题。
+
+[](/demystifying-artificial-intelligence-d2887879aaf1) [## 揭秘人工智能！
+
+### 打破人工智能领域和它的未来。
+
+towardsdatascience.com](/demystifying-artificial-intelligence-d2887879aaf1) 
+
+# 探索情感分析
+
+![](img/70b4de7dce29b1b51587f287163a267b.png)
+
+米 PHAM 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+[**情感分析**](https://en.wikipedia.org/wiki/Sentiment_analysis) (又称观点挖掘或情感 AI)是指利用自然语言处理、文本分析、计算语言学、生物特征识别等技术，对情感状态和主观信息进行系统的识别、提取、量化和研究。
+
+情感分析在理解人工智能如何在特定场景下潜在工作背后的一些心理学方面发挥着至关重要的作用。仅举一个简单情感分析问题的快速工作示例，考虑以下任务—
+
+> “给定一个特定的陈述，你的情感分析 AI 程序需要确定下面的评论是积极的还是消极的陈述。对于以下上下文，可以忽略中性语句。
+
+您通常用于这类任务的数据集可以是来自网站的评论(如亚马逊评论数据集)，您可以将一星和二星评级视为负面，将四星和五星评级视为正面。三星评级可以忽略不计，因为它们被视为中性评论。
+
+不管你使用哪种机器学习或深度学习算法来处理这个问题陈述，有很大的概率，通过一个发展良好的模型，你可以完成这个任务。
+
+像好的，不错的，开心的等积极的词。，都被认为是有助于情感分析的积极方面。这些词的更高使用率可以与更积极的方法相关联。
+
+不好的、悲伤的、可怕的等否定词的用法。，被认为是有助于情感分析的负面因素。这些词的高使用率可能与一种更消极的方式相关。
+
+好吧！所以看起来我们已经用这些分析方法达到了一个相当高的水平。一切似乎都与我们的现代机器学习和深度学习算法完美结合。
+
+我们有先进的方法，如注意顺序到顺序模型，以及像 BERT 这样的转换器，用于解决复杂的问题陈述。
+
+像 GPT-3 模型这样的例子可以自己生成整篇文章，看起来人工智能已经达到了现代发展的顶峰。
+
+但是，不幸的是，故事并没有就此结束。人工智能仍然面临着一个相当大的问题。主要问题是缺乏人工智能识别语言语义的能力。
+
+虽然预测型搜索在各自的目的上做得很好，但它们并没有真正理解单词或句子背后的实际含义。与人脑不同，神经网络在不理解实际语义的情况下识别句子中的模式。
+
+如果您要删除停用词(包括 not)，这恰好是预测模型生成过程中的一个步骤，也可能会产生错误的分类。
+
+我们可以使用许多方法来提高训练模型的效率，比如使用二元模型或三元模型。但是，不管怎样，训练是基于上下文，而不是真正的语义。
+
+为了更详细地了解这个话题，我想让观众从下面提供的链接中查看两个基于下一个单词预测的项目和一个创新的聊天机器人。这些项目将帮助你更好地理解本文中的大部分内容。
+
+[](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [## 基于自然语言处理和深度学习的下一个单词预测
+
+### 使用 LSTM 设计单词预测系统
+
+towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
+
+### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
+
+towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) 
+
+# 人工智能中的情感分析
+
+![](img/299bbc8dfe241e244fa6c3092e68703d.png)
+
+布鲁克·卡吉尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+在上一节中，我们的讨论主要集中在自然语言处理相关的问题和类似陈述的方法上。现在，我们将把注意力转移到肢体语言和人类的情感和倾向上。
+
+虽然人类大脑可以方便地识别感觉或感觉，也可以理解其他生物如何感受，但在人工神经网络、深度学习和人工智能的情况下，这更是一个复杂的场景。
+
+让我们考虑一些人工智能用于计算机视觉任务的例子，如面部识别、图像分割和情感或手势识别。这些是人工智能能够出色表现的常见用例。但是，让我们逐一分析这些任务，看看它们在现实世界中的表现如何。
+
+深度学习中的人脸识别不断进化，达到了一个新的里程碑。随着现代技术的进步，我们可以用一张图像识别一张人脸，准确率接近 99.2%。
+
+然而，即使有了这些快速的进步，也很难否认在这个特定的领域中存在某些缺点。我强烈推荐你看看我下面这篇关于人脸识别项目的文章，这篇文章更详细地介绍了这个概念。
+
+[](/smart-face-lock-system-6c5a77aa5d30) [## 智能面部锁定系统
+
+### 建立高精度人脸识别模型
+
+towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30) 
+
+像图像分割这样的任务，其中掩蔽图像的概念用于识别周围的各种物体，也可以在自动驾驶汽车中找到它们的用途。随着人工智能领域的快速发展，这些汽车被称为我们社会的未来。
+
+最后，我们有情感识别。我最后一次检查 Kaggle 的结果时，对于七种情绪来说，执行这项任务所取得的最好成绩大约是 74%。人工智能在训练有素的模型上识别情绪的能力相当高。但是，在不久的将来可能会有某些改进。
+
+认识到这些技术正在识别和验证这些情绪是至关重要的。然而，他们实际上并没有感受到这些，因为认可和表达是两个不同的方面。
+
+尽管在能够识别众多表情或手势方面做了非凡的工作，但这些模型没有为自己表达任何东西的遗传能力。虽然在这一领域进行了明显的研究，但取得的结果仍不令人满意。
+
+为了更深入地理解和直觉人类情感和手势背后的工作，我强烈建议观众看看下面的两部分系列，这将帮助你构建一个深度学习项目，从零开始完成以下任务。
+
+[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
+
+### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
+
+towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
+
+### 深入探究人类情感和手势识别
+
+towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+
+# AI 可以有情感吗？
+
+![](img/e09177b8b6c5eaf57965b8533c6449e9.png)
+
+[梁杰森](https://unsplash.com/@ninjason?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+我们在人工智能领域取得了重大进展。随着每天的快速进步，还会有持续的发展。
+
+然而，类似于人工通用智能，我们距离实现将情感翻译成 AI 的目标似乎还相当遥远。
+
+虽然我们尚未达到可以训练我们的人工智能模型表达情感的水平，这可能有点令人沮丧，但值得注意的是，我们迄今为止取得的进展在很大程度上是相当可观和显著的。
+
+目前，人工智能还不可能复制人类的情感。然而，[的研究](https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained)表明人工智能有可能模仿特定的表达形式。
+
+现在，让我们试着弄清楚获得这些情绪是否会影响 AI 对人类的行为？简单来说，会不会是对人类生存的潜在危险？
+
+这个问题很难找到一个直截了当的答案。但是，情感人工智能有许多好处。它可能会改变商业格局，为世界提供一个完全不同的氛围。
+
+它可以在许多方面造福于人类，为有需要的人提供社会安慰、理解和表达情感，以及大量的工业应用。
+
+威胁未知，对未知的恐惧最大。虽然表达情感对人类来说自然是一件好事，而且它最终构成了我们作为一个生命体的本质，但很难弄清楚人工智能的要求是什么，以及事情究竟会如何发展。
+
+只有时间能回答这些耐人寻味的问题。不管怎样，推测在不久的将来可以达到的辉煌是很有趣的。随着人工智能和神经科学领域的快速发展，我对我们所有人的未来感到兴奋。
+
+# 结论:
+
+![](img/34bb0eafbf05ce47cb124f17a2fcd1fa.png)
+
+泰勒·史密斯在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+> "对于感觉的人来说，世界是一出悲剧，但对于思考的人来说，世界是一出喜剧."
+> ― [**霍勒斯沃波尔**](https://www.goodreads.com/quotes/tag/emotions)
+
+有情感的人工智能是一个对未来将要发生的事情进行推测和预测的绝妙话题。在这个主题中有如此多的领域，我真的很兴奋看到未来等待着我。
+
+在这篇文章中，我们发现人工智能在情感方面的峰值潜力尚未实现。虽然人工智能可以在一定程度上模仿人类的情感，但它还没有完全复制人类的情感。
+
+我很想听听你对这个问题的看法。你可以就这个话题发表你的看法和意见。此外，你对人工通用智能和情感人工智能在不久的将来的崛起感到兴奋吗？
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
+
+### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
+
+towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
+
+### 即使它只是每天一点点编码，你也必须考虑它
+
+towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
+
+### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
+
+towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
+
+### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
+
+towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
+
+### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
+
+towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) 
+
+谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！
