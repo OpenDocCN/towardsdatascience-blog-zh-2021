@@ -1,0 +1,161 @@
+# 写了一年的数据科学文章
+
+> 原文：<https://towardsdatascience.com/an-year-of-writing-data-science-articles-96c1e17b09ec?source=collection_archive---------36----------------------->
+
+## 简短的背景故事、学习经历和关键要点！
+
+![](img/b781293d56d59085d9b682e9cc59adf2.png)
+
+照片由[思想目录](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+一年前，我欣喜若狂地发表了我的第一篇文章《走向数据科学》，这是我长期关注的最好的平台之一。
+
+在写这篇文章的时候，我已经在这个平台上写了近百篇文章，聚集了大约 800 名追随者，并多次成为人工智能和生产力领域的顶级作家，同时也获得了这个平台上 1000 名顶级作家的荣誉。
+
+虽然文章的统计数据和表现对我来说并不重要，但它仍然是一个压倒性的积极影响，从社区获得了大量的积极和爱。接触到广泛的受众并分享最好的知识，希望能够帮助所有有志于这门学科的人和爱好者，这是一种巨大的快乐。
+
+我的文章的目标是接触到所有层次的研究人员和开发人员，并为大多数读者提供一些信息。由于我一直忙于我的全职工作，几个月来发表文章的速度略有下降。但是，我打算长期坚持写下去，把最好的资源分享给大家！
+
+下面是我个人最喜欢的文章之一，我会推荐大多数数据科学初学者查看，以深入探索该主题的大多数复杂细节和方面。
+
+[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
+
+### 每月遵循一步，到第二年年底掌握数据科学！
+
+towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+
+通过这篇文章，我希望分享我在一年多的时间里写数据科学和人工智能文章时积累的一些重要知识和经验。在我们深入讨论关键要点之前，我想分享一些关于我的背景的小细节，我被问了好几次。事不宜迟，让我们开始吧！
+
+# 简短背景故事:
+
+![](img/d0819adb42bf11157fc43b916b18d377.png)
+
+照片由[大流士巴沙尔](https://unsplash.com/@dariusbashar?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+
+经过三年从众多资源中学习数据科学和人工智能，我开始构建一些很酷的项目。虽然我总是构建一些项目来将我的理解与特定的概念相关联，但我觉得我能够在那个学习阶段执行一些相当高水平的项目。因此，我认为分享我的想法和项目是一个很好的主意，这样可以帮助其他人，也可以在一个受欢迎的平台上传播我的想法。
+
+在写我的第一篇文章的时候，我正在进行一个深度学习项目，在人类情感和手势检测的任务上使用迁移学习和定制模型。我以两部分系列的形式发表了这些关于迈向数据科学的文章，并由此开始了我的文章写作之旅。如果您有兴趣探索更多，请点击下面的链接。
+
+[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
+
+### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
+
+towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
+
+### 深入探究人类情感和手势识别
+
+towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+
+最初的想法是写几篇文章，可能只是转移到我的其他爱好上。然而，在我早期的帖子中收到的爱和鼓励越来越多地激励我继续学习和写作。
+
+在写了几个月的大量文章后，我不得不过渡到一个更平衡的系统，因为我在该国一家知名机构实习了三个月，现在我正全职从事深度学习的研发工作。
+
+尽管我很忙，但我计划只要有时间就为我所有的读者写有用的文章，这样每个人都可以从中找到最好的效用！
+
+# 我的经历和主要收获:
+
+![](img/c45aac374bed9a95e2cb8564bbaefe7c.png)
+
+照片由[UX](https://unsplash.com/@uxindo?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+现在我们有了一个简短的背景故事，我的许多观众都对它感兴趣，我将尝试探索我的一些主要经验和在这个平台上作为一名作家不断发展的主要学习。在这一部分，我将解释五个最重要的知识，它们对我帮助很大，增加了我对概念的理解和个性的全面发展。
+
+## 1.增长的学习曲线:
+
+虽然我最初开始写文章来展示我的工作和开发更多的项目，但随着我写更多的文章，我开始有每天学习新东西的冲动。写文章的时候，我的学习曲线总体上有所增长，因为我不断地理解更多的新概念，并在我已经简单了解的主题上磨练我的技能。
+
+定期写文章的主要好处之一是，我可以不断地用新的现代技术和人工智能世界中不断发现的其他新技术来更新自己。在与其他了不起的读者分享它们的同时，我也有机会对每个主题有了更多的个人了解。
+
+## 2.新的思想渠道:
+
+虽然我通常在随意拖延和想一些最愚蠢的事情时得到大多数最好的想法，但我发现对我个人来说，写作帮助我将我的想法引向积极的方向。它使我能够思考不同的事情，并且不会忘记我在想什么，因为我把它写下来，然后对这个话题进行更多的探索。
+
+这种方法可能不太适合大多数人，但对我来说非常有效，我建议试一试。你也可以写一些笔记来确保你的想法朝着正确的方向发展。每个不同的人都有不同的获取新概念和理解新思想的方法。
+
+## 3.了解在线博客的复杂细节:
+
+对我个人来说，最大的好处之一是理解了在线博客错综复杂的细节。在这一年中，我有过几次学习经历。作为一个完全不熟悉在线撰写数据科学文章的人，我意识到了在线遵循正确的程序以获得更有成效的结果。
+
+TDS 的编辑团队在整个旅程中给予了我特别的支持，他们在几个方面帮助我提高了写作技巧，并从整体上提高了我的在线形象。他们有益的反馈有助于提高文章的质量以及我对这个主题的总体了解。
+
+由于我获得了持续的知识，在许多其他项目或其他工作组织中工作对我来说也是一次奇妙的经历。有了一些学习经验，如图像版权声明、提供真实来源、抄袭规则和其他类似的规定，我对如何进行大多数任务有了清晰的理解。
+
+## 4.支持性社区:
+
+一般来说，学习人工智能、数据科学或 Python 编程的一个最好的方面就是从社区中获得大量的支持和鼓励。有几个网站、YouTube 视频、discord 频道、slack 频道、GitHub 和许多其他优秀的资源可供我们探索和利用。
+
+除了这些资源丰富的材料之外，在这些领域中的每一个领域都有不断的更新，并且社区积极地致力于有效地完善每一个需求。如果你在某个问题上陷入困境，像 Stack Overflow 或 just friends online 这样的社区总是愿意提供帮助。利用这些机会，你可以建立令人敬畏的联系，共同繁荣！
+
+## 5.终极满足感:
+
+选择一个主题，研究特定的主题以获得额外的信息，写文章，反复检查和验证事实和信息，最后发表文章的整个过程是最愉快的经历之一。虽然有时工作可能会变得乏味，但分享新事物和学习新经验永远不会扼杀整体的兴奋感。
+
+我从观众、读者、朋友和编辑团队那里得到了大量的鼓励，帮助我茁壮成长，并获得了巨大的满足感。因此，我将热爱在这个平台上长期从事以下写文章的爱好。
+
+# 关键要点:
+
+![](img/f9b9622429442eb244fc49136fdb711d.png)
+
+[杰森·D](https://unsplash.com/@jasondeblooisphotography?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+虽然我已经介绍了我想在本文中介绍的大部分主题，但我还是建议所有感兴趣的读者注意一些要点，这样他们就有希望从这些建议中受益。
+
+1.  数据科学的关键方面是要弄清楚，你花在学习这个主题上的时间越多，你获得的知识就越多。在这个广阔的领域没有捷径可走。
+2.  尝试利用你获得的知识，以某种方式对你的研究方法和风格有用和有成效。
+3.  如果你真的被数据科学的奇迹所鼓舞，继续追求你认为对你有意义的东西。
+4.  在构建任何数据科学项目时，在取得成功之前经历多次失败的情况应该被视为一个预先确定的结论。对于任何复杂的数据科学问题，第一次尝试就取得最佳结果几乎是不可能的。
+5.  对于任何对追求数据科学感兴趣的人来说，关键因素是你对学习该领域不断发生的新方面和发展的兴趣和持续的动力。
+
+如果你仍然在选择数据科学的中途，还没有完全决定你在不久的将来想从事什么工作，我建议查看我以前的一篇文章，其中我谈到了成为数据科学家的十个错误理由。下面提供了链接。
+
+[](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
+
+### 分析追求数据科学成为数据科学家的 10 个错误原因
+
+towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+
+# 结论:
+
+![](img/bed865c4d431a96c4a455049a0d5b7bb.png)
+
+照片由[达维德·扎维亚](https://unsplash.com/@davealmine?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+*“如果你在做你真正关心的事情，你就不需要被逼。愿景拉着你。”* — **史蒂夫·乔布斯**
+
+这篇文章与我平时写的文章大不相同。主要目标是涵盖我的观众想要回答的一些关于我的问题，我在一年的写作过程中所学到的主要经验，并给每个人一些关键的收获，以便他们最终能以某种方式从中受益。
+
+总结我最后的想法，到目前为止这是一个神话般的旅程，我计划在未来继续撰写大量与人工智能和数据科学相关的文章。如果我的观众有什么具体的事情要讨论，请随时在下面的评论区联系我，或者在 LinkedIn 上联系我。
+
+Medium 启动了一个新项目，让读者订阅他们最喜欢的作家的作品，以获得最快的更新。如果你喜欢我的内容，那么从下面的链接订阅，每当我发表文章时，你就会收到闪电般的通知！
+
+[](https://bharath-k1297.medium.com/subscribe) [## 当我发布时收到闪电般的速度通知！
+
+bharath-k1297.medium.com](https://bharath-k1297.medium.com/subscribe) 
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [## 每个人都必须知道的 10 个计算机视觉术语！
+
+### 十个基本的计算机视觉术语，每个人都应该学习，以更加精通计算机视觉…
+
+towardsdatascience.com](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
+
+### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
+
+towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [## CBAM 天气模式的数据科学和可视化
+
+### 了解如何使用数据科学可视化和 CBAM 解释大量天气模式
+
+towardsdatascience.com](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
+
+### 关于 14 种最基本的熊猫手术的完整指南
+
+towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
+
+### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
+
+towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+
+谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

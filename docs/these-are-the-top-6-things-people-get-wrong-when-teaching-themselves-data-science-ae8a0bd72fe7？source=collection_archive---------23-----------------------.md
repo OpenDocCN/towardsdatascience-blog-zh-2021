@@ -1,0 +1,188 @@
+# 这是人们在自学数据科学时最容易犯的 6 个错误
+
+> 原文：<https://towardsdatascience.com/these-are-the-top-6-things-people-get-wrong-when-teaching-themselves-data-science-ae8a0bd72fe7?source=collection_archive---------23----------------------->
+
+## 以及如何避免自己犯同样的错误。
+
+![](img/b21d7b10f4b9c27a9834a6925a11a30f.png)
+
+克里斯汀·威尔森在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+我现在可以告诉你，你学习数据科学的方式是错误的。
+
+当然，你最终可能会成为一名数据科学家，但是这个过程会尽可能的顺利和轻松吗？不太可能，如果你正在做以下六件事情中的任何一件，这些事情绝对会阻碍你的进步。
+
+好消息是，这些都是简单的错误，通过更简单的修复，可以保证提高数据科学教育的成功、速度和完整性。
+
+# 1.他们把自己的进步建立在别人的旅程上。
+
+当我刚开始学习数据科学时，我会阅读我能找到的每一篇关于那些做了我试图做的事情的人的文章:成为一名自学成才的数据科学家。
+
+像我之前的许多人和我之后的许多人一样，我如饥似渴地阅读了这些文章，这些文章概述了没有计算机科学学位的人如何克服困难，在令人难以置信的短时间内自学成为数据科学家。最吸引人的故事自然是这些人实际上被 FAANG 公司当场雇用的故事。
+
+标题耸人听闻的文章，如“我如何在 3 个月内成为一名数据科学家”或“我如何在学习数据科学一年后成为一名谷歌数据科学家，同时全职工作”散落在我的阅读清单上，向我承诺，如果我也“忙碌”，我可以实现我最疯狂的梦想，成为一名获得职业满足感和六位数薪水的数据科学家，所有这些都是在明年的这个时候。
+
+这里显而易见的问题是，我进入数据科学的旅程与我读过的其他旅程完全不同。公平地说，只有一小部分进入数据科学领域的人会有与那些耸人听闻的文章中所描述的相似的旅程。事实上，正是那些贴满希望和喧嚣魅力的少数文章代表了少数数据科学家，他们能够在没有学位或几年研究期的情况下取得成功。
+
+将你在数据科学方面的进步建立在他人的经历之上有三个问题:
+
+1.  优势就是一切。
+2.  仅仅因为它对一个人有效并不意味着它对每个人都有效。
+3.  在不到一年的时间里学会成为一名数据科学家应该被认为是一个奇迹。
+
+首先，几个不言而喻的优势可能有助于这些现象在短时间内学习数据科学。这些人可能拥有的优势包括每天学习八小时的能力、使用电脑的能力、支付得起 MOOCs 和训练营的费用，甚至仅仅是位于科技中心。
+
+第二，对一个人有效的方法可能对你有效，也可能无效。试图跟别人走同样的成功之路，这确实是瞎猜的。其他人可能有技术背景，他们可能能够很快地学习概念，或者他们可能有联系，甚至不需要面试就能得到工作。所有这些情况对你来说可能都不一样。
+
+第三，我为任何能在不到一年的时间里自学数据科学的人鼓掌。幸运的是，很少有人完成这一壮举，所以我不用鼓掌太久。事实是，数据科学可以说是最难钻研和心血来潮学习的知识领域之一。你需要吸收数学、编程和行业知识的独特组合，才能称自己为数据科学家，这是一个庞大而复杂的过程。因此，如果你能学到足够多的东西让你进入职场，你就已经是一个天才了。
+
+简而言之，将你旅程的进展建立在他人的进步或成功之上，会很快让你感到沮丧或更糟，从而寻找快速解决方法。
+
+# 2.他们学数据科学，不做数据科学。
+
+任何曾经雇佣过计算机科学或软件工程毕业生的人最大的抱怨之一就是他们不知道如何编码。虽然新员工可能拥有顶级的理论知识，但一旦到了办公室，他们基本上就没用了，因为他们写不出一行有内容或清晰的代码。
+
+数据科学家也面临同样的问题。
+
+学习数据科学是一回事，应用数据科学是另一回事。雇主会更关心哪一个？
+
+你猜对了。
+
+一个不能分析数据的数据科学家和一个理论上只能让飞船登陆月球的宇航员一样有用。
+
+你必须应用你学到的每一课，而不是被动地坐着听你的数据科学讲座。记忆巩固是通过频繁检索知识来强化你对知识的理解。您通过听数据科学讲座获得的知识的短期记忆只能通过重复和实践该知识来巩固记忆，从而转移到您的长期记忆中(也称为允许您在未来应用所学知识的记忆部分)。
+
+因此，无论是手动尝试数学，看看你是否能得到相同的答案，还是写一行代码，看看它是否按照老师说的那样做，或者把你所有的知识放在一起，尝试自己的分析，知识的应用应该始终处于你学习的最前沿。
+
+**以下是一些帮助您入门的资源:**
+
+[](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [## 我计划在 2021 年完成的 7 个数据科学项目
+
+### 我计划如何在年底前利用这些项目来提高我的数据科学技能。
+
+towardsdatascience.com](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [](/object-oriented-programming-for-data-scientists-8d4d976b6af8) [## 面向数据科学家的面向对象编程
+
+### 切换如何使您的代码可以投入生产，如何降低代码复杂性，以及如何提高团队效率。
+
+towardsdatascience.com](/object-oriented-programming-for-data-scientists-8d4d976b6af8) [](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [## 数据科学家的软件工程最佳实践
+
+### 如何弥合数据科学和软件工程之间差距的速成课程。
+
+towardsdatascience.com](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [](https://www.datasciencecentral.com/profiles/blogs/four-interesting-math-problems) [## 四个有趣的数学问题
+
+### 在这篇文章的水平是为大学生熟悉微积分，这种材料也将感兴趣…
+
+www.datasciencecentral.com](https://www.datasciencecentral.com/profiles/blogs/four-interesting-math-problems) 
+
+# 3.他们没有方向。
+
+数据科学是一个巨大的领域，几乎包括了世界上所有口味的冰淇淋。
+
+在数据科学界，争论仍然是数据科学家是否应该保持通才或成为专家。双方的观点都很吸引人，因此很难看穿这种诽谤。
+
+然而，如果自学数据科学是目标，那么考虑专攻数据科学的广泛领域可能是个好主意。我这么说是什么意思？
+
+以我为例。我是一名理科学士，就读于一所网络大学，基本上是自学所有的东西。我可以修一个宽泛的学位，学习生物学、化学、物理学、地球科学等等。然而，因为我什么都是自学的，所以我想在学习中有方向和连续性。所以，我专门学了地学。
+
+因此，当谈到学习数据科学时，专注于数据科学的一个*广泛的*领域并不是一个坏主意。作为一种想法，这可能意味着更多地关注数据工程师、数据分析师、数据架构师、数据科学家或软件工程师等。事情的一面。这些领域中的每一个都有自己的专业主题，而且足够广泛，这样你以后找工作时就不会被束缚住了。
+
+**这里有一些资源可以帮助你开始:**
+
+[](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/) [## 数据分析师 vs 数据工程师 vs 数据科学家| Edureka
+
+### 数据分析师 vs 数据工程师 vs 数据科学家数据对于任何决策都至关重要。今天的…
+
+www.edureka.co](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/) [](https://medium.com/@writuparnabanerjee/the-difference-in-the-career-options-in-data-science-data-scientist-vs-data-engineer-vs-data-33209d0ac880) [## 数据科学职业选择的差异:数据科学家 vs 数据工程师 vs 数据…
+
+### 我们许多人都想知道数据科学家、数据分析师、ML 工程师和数据工程师之间的区别是什么？什么…
+
+medium.com](https://medium.com/@writuparnabanerjee/the-difference-in-the-career-options-in-data-science-data-scientist-vs-data-engineer-vs-data-33209d0ac880) 
+
+# 4.他们试图重新思考轮子。
+
+早在 20 世纪 60 年代，凯瑟琳·约翰逊(Katherine Johnson)和美国宇航局的团队就在努力开发精确计算和执行太空舱轨迹变化所需的数学方法，为了将宇航员约翰·格里恩安全返回地球，太空舱需要从椭圆轨道移动到抛物线轨道。当人们不再试图发展新的数学来解决问题，而是准确地使用旧的数学(欧拉方法)时，这个无法解决的问题很快被意识到。
+
+这个故事的寓意是，凯瑟琳·约翰逊没有试图重新思考轮子，而是找到了一个已经存在的解决方案。与其花费数年时间试图开发当时并不存在的数学，不如利用已经存在的数学将与俄罗斯的太空竞赛推向新的高度。
+
+简而言之，有抱负的数据科学家总是在寻找新的、非凡的方法来解决数据科学问题，这些问题是不可思议的、独特的。问题在于，雇主们通常希望及时得到结果，这意味着，当一个简单的解决方案摆在你面前时，不必要地过度处理问题，在就业市场上对你没有好处。
+
+事实是，如果你能在合理的时间内获得清晰、可操作的结果，你将会作为一名数据科学家受到钦佩。这意味着，如果一个完全可行的解决方案就在你面前，不要试图寻找最奇特或最短的方法来解决问题。
+
+**以下是一些帮助您入门的资源:**
+
+[](/9-steps-for-solving-data-science-problems-dc3c238cb58c) [## 解决数据科学问题的 9 个步骤
+
+### 这里列出了你今天必须采取的步骤，以解决你组织中的任何机器学习问题。
+
+towardsdatascience.com](/9-steps-for-solving-data-science-problems-dc3c238cb58c) [](/the-six-types-of-data-analysis-75517ba7ea61) [## 数据分析的六种类型
+
+### 数据科学就是问问题，但是你能问什么问题呢？
+
+towardsdatascience.com](/the-six-types-of-data-analysis-75517ba7ea61) [](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) [## 数据科学家需要掌握的 10 项统计技术
+
+### 不管你在数据科学性感问题上的立场如何，都不可能忽视持续的…
+
+www.kdnuggets.com](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 
+
+# 5.他们没有先学会游泳就跳进深水区。
+
+甚至在能够编写“Hello World”之前就直接进入机器学习、非线性统计模型和深度学习的人数令人担忧。
+
+当谈到数据科学时，每个人都希望立即开始工作的“性感”方面(数据分析、模型构建、趋势预测等等)，但不想处理丑陋的方面(学习统计模型如何工作、理解编程、犯错误)。
+
+诚然，要理解数据科学，你需要开始解决让你不舒服的话题，但事实仍然是，如果没有坚实的数学、计算机科学和行业知识基础，你将无法在成功构建成功的机器学习模型之前成为一名数据科学家。简而言之，每个人都认为他们可以驾驶飞机，直到他们真正面对驾驶飞机。
+
+相反，如果您执意要通过艰苦的方式学习数据科学，快速进入数据科学世界的一个更好的方法是采用一种强化的学习方法，如 Ultralearning，首先培养您对该学科基础的理解。通过这种方式，你理解了该领域基础领域的基础知识，然后可以扩展到机器学习和其他更复杂的主题。
+
+**以下是一些帮助您入门的资源:**
+
+[](/ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4) [## 超学习是艰难掌握数据科学技能的极端方法
+
+### 这种硬核学习风格非常适合数据科学的艰巨性。
+
+towardsdatascience.com](/ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4) 
+
+# 6.他们没有养成学习的习惯。
+
+学会学习是数据科学之旅的一个心照不宣的要求。
+
+许多过于热情的人梦想成为数据科学家，他们将获得工作满足感和六位数的薪水，直接投入到他们的学习中，而不太考虑他们是否知道如何学习。按照这些人的说法，谁不知道学习？每个人都知道如何学习。然而，在六周内(或更短时间，取决于他们的热情能让他们坚持多久)，这些人将放弃他们的学习，去获得更即时的满足感。
+
+学会学习不仅是学习数据科学的一项要求，而且养成学习的习惯也将带你走向成功。
+
+诀窍是从学会如何学习开始。这意味着发现你如何学得最好，练习不同类型的学习，找出什么能让你保留和应用最多的信息。
+
+第二步是把学习变成一种习惯。这意味着每天留出专门的学习时间，用于学习和实践数据科学。
+
+**这里有一些资源可以帮助你开始:**
+
+[](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7) [## 微学习如何帮助您在每天不到 10 分钟的时间内提高数据科学技能
+
+### 这种电子学习趋势可用于高效满足您的数据科学目标。
+
+towardsdatascience.com](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7) [](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43) [## 费曼技巧会让你记住你读过的东西
+
+### 如何把这个简单的原理用在你身上。
+
+medium.com](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43) [](https://medium.com/the-ascent/7-powerful-habits-that-help-you-become-a-learner-for-life-7f8139903f3c) [## 帮助你成为终身学习者的 7 个强大习惯
+
+### 因为终身学习是你能培养的最有价值的技能。
+
+medium.com](https://medium.com/the-ascent/7-powerful-habits-that-help-you-become-a-learner-for-life-7f8139903f3c) [](https://medium.com/mind-cafe/a-quick-mental-trick-to-optimize-your-learning-f525ba12a260) [## 优化学习的快速心法
+
+### 你所要做的就是添加第二个循环。
+
+medium.com](https://medium.com/mind-cafe/a-quick-mental-trick-to-optimize-your-learning-f525ba12a260) [](/7-proven-ways-to-develop-a-coding-habit-3727914c3489) [## 培养编码习惯的 7 种行之有效的方法
+
+### 让 2021 年成为你建立一个易于维护并产生效果的编码习惯的一年。
+
+towardsdatascience.com](/7-proven-ways-to-develop-a-coding-habit-3727914c3489) 
+
+# 关键要点。
+
+*   把你的旅程建立在别人的基础上，肯定会让你气馁。
+*   将数据科学的理论概念应用到实际问题中，将有助于巩固您的理解，以及用您获得的知识进行数据分析的能力。
+*   选择一个学习的方向会帮助你不至于不知所措，同时也让你在就业市场上保持一个有吸引力的选择。
+*   学习如何完成有效的数据分析比学习如何用古怪的方式解决问题更重要。
+*   在数据分析的基础上发展坚实的基础将允许你快速扩展到更复杂的主题，如深度学习，机器学习和复杂的统计模型。
+*   养成早期学习的习惯将有助于你坚持成为数据科学家的目标，并将推动你度过学习复杂学科必然会遇到的艰难时期。

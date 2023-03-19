@@ -1,0 +1,79 @@
+# DaaS —数据即服务
+
+> 原文：<https://towardsdatascience.com/daas-data-as-a-service-78494933253f?source=collection_archive---------36----------------------->
+
+## 它是什么，为什么它是下一件大事？
+
+![](img/f9a271fedcf8b583c1214f0669fc0b0e.png)
+
+里卡多·安南达尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+每周我都喜欢对数据科学领域发生的事情做一些研究。最近，我对前途光明的工作领域更感兴趣，甚至对需要熟悉的新词汇更感兴趣。本周，我读了一篇关于 2025 年前五大数据科学工作/行业的文章。在列表中，有常见的和预期的术语，如大数据或云。没有什么是如此令人震惊的，因为这些似乎是很多讨论的话题。
+
+清单上有一个话题，但是，我以前从未听说过。主题是“数据即服务”(DaaS)。诚然，这是我第一次听说它，所以我没有什么背景知识。当然，根据标题，你可以推断出它可能是什么。但是数据是一个很大的概念。在这方面，我的意思是数据是如此广泛，那么他们到底在卖什么类型的数据呢？由于不熟悉，我首先想到的是谷歌和脸书这样的大公司是如何出售数据的。但是数据肯定不仅仅是这些？这是我研究的灵感，所以和我一起探索什么是 DaaS，为什么它对企业的发展如此重要。
+
+# **什么是数据即服务？**
+
+与听起来的方式不同，数据即服务不是出售数据。相反，它是关于数据管理的。更多的是数据管理策略。一家 DaaS 公司提供存储选项，这些选项通常在云上。在 DaaS，数据不仅被存储，而且被整合和处理。公司不需要下载不同的软件进行处理，这项服务允许所有繁重的工作已经完成。
+
+与仓库和硬件相比，云存储是管理大型数据集的一种更便宜的方式。DaaS 也是可扩展的，甚至是灵活的。因为服务托管在云上，所以不太可能出现干扰、停机或其他形式的中断。此外，一旦选择了 DaaS 解决方案，几乎可以立即开始存储和处理数据。DaaS 平台还提供自动维护，同时所需人员较少。在云上，数据可以通过网络在各种不同的设备上访问，这使得访问变得更加容易。全球都可以访问。然而，DaaS 不会将数据锁定在一个单一的平台上。相反，它以平台间的可移植性而自豪。数据完整性控制也可以添加到 DaaS 中。对于协作和管理来说也很容易。
+
+尽管 DaaS 听起来像是一个完美的解决方案，但它也有缺点。例如，通过网络访问数据时，可能会有安全问题。在传输过程中，需要对这些数据进行加密，以应对安全风险。但是，通过事先建立严格的规则，仍然可以确保 DaaS 环境和组织之间的数据治理。尽管 DaaS 可能提供了一系列工具，但可用的数量仍然有限。这意味着用户只能选择与他们的 DaaS 兼容的工具，而不能自由选择他们想要的任何工具。因为潜在的敏感数据存储在云上，所以为了保证用户和数据的安全，需要考虑额外的合规性步骤。因此，在您承诺任何 DaaS 解决方案之前，请务必检查您所在国家和行业的任何隐私法规。据推测，网络带宽也可能是一个问题，因为由于带宽的原因，大量数据可能需要更长的时间来传输。数据压缩，如压缩文件，可以加快文件传输速度。
+
+# **对数据的独到见解**
+
+回到开始，记得我最初的猜测是，数据即服务指的是出售数据，作为其他公司人口统计的一部分，用于研究和解决问题。尽管从我们目前所了解的情况来看，这不是真的，但这并不意味着这是最离谱的事情。DaaS 解决方案的一个特点是，公司不需要提供所有的数据。相反，DaaS 解决方案可以托管提供给它的任何数据。然而，提供数据的不是 DaaS。它只处理数据。相反，DaaS 的解决方案可以作为一个数据市场。这是组织可以从第三方访问数据的地方。这就是数据的来源。因此，DaaS 解决方案不是提供和处理信息，而是更侧重于存储和处理数据，而第三方资源收集和提供数据。
+
+# **结论**
+
+在今天的文章中，我们了解了什么是数据即服务。正如我们所发现的，DaaS 是一种简化存储和处理大量数据的策略。这种存储可以来自云，然后由组织通过网络(通常是互联网连接)进行访问。DaaS 模型是为那些不想购买多块拼图，而是拥有成品的人而构建的解决方案。有许多好处，例如自动维护、灵活性、可移植性和节约成本的措施。但这并非没有失败。在选择解决方案之前，诸如安全性、数据治理和法规遵从性规则等问题是需要注意和仔细研究的。
+
+读了更多关于 DaaS 的书，我现在明白了为什么它是一个在未来几年需要关注的领域。随着大数据、机器学习和云的扩展，支持这些数据的更简单方法将变得至关重要。更不用说任何成本节约了。我喜欢阅读关于这个话题的更多内容，我希望你也喜欢阅读关于 DaaS 的内容。欢迎对你认为值得了解的任何 DaaS 解决方案发表评论，或者对最好使用的云服务发表评论。下次见，干杯！
+
+***用我的*** [***每周简讯***](https://crafty-leader-2062.ck.page/8f8bcfb181) ***免费阅读我的所有文章，谢谢！***
+
+***想阅读介质上的所有文章？成为中等*** [***成员***](https://miketechgame.medium.com/membership) ***今天！***
+
+看看我最近的一些文章:
+
+[](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [## 一年的媒介写作
+
+### 回想我写博客第一年的起起落落。
+
+miketechgame.medium.com](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [](/deep-learning-in-data-science-f34b4b124580) [## 数据科学中的深度学习
+
+### 它是什么，为什么使用它？
+
+towardsdatascience.com](/deep-learning-in-data-science-f34b4b124580) [](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [## 美汤网刮
+
+### 用于解析 HTML 的 Python 库
+
+python .平原英语. io](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [## 这周我学到了一些东西——para miko 的远程文件管理
+
+### 另一个 Python 包来拯救…
+
+python .平原英语. io](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [](/all-about-big-data-ae01afacc081) [## 关于大数据的一切
+
+### 深入探讨什么是大数据以及如何存储大数据
+
+towardsdatascience.com](/all-about-big-data-ae01afacc081) 
+
+参考资料:
+
+[](https://www.rocketsource.co/blog/data-as-a-service/) [## 数据即服务:什么、为什么、如何、谁和何时
+
+### 数据即服务(DaaS)的想法经常让人联想到复杂的算法和机器学习，但在…
+
+www.rocketsource.co](https://www.rocketsource.co/blog/data-as-a-service/) [](https://searchdatamanagement.techtarget.com/definition/data-as-a-service) [## 什么是数据即服务(DaaS)？来自 WhatIs.com 的定义
+
+### 数据即服务(DaaS)是一种信息提供和分发模型，其中数据文件(包括文本…
+
+searchdatamanagement.techtarget.com](https://searchdatamanagement.techtarget.com/definition/data-as-a-service) [](https://www.techslang.com/definition/what-is-data-as-a-service/) [## 什么是数据即服务？-由技术术语定义
+
+### 数据即服务是一种数据管理策略，其前提是数据可以通过以下方式按需交付给用户…
+
+www.techslang.com](https://www.techslang.com/definition/what-is-data-as-a-service/) [](https://www.talend.com/resources/what-is-data-as-a-service/) [## 什么是数据即服务(DaaS)？塔伦德
+
+### 随着越来越多的组织转向云来实现基础架构和工作负载的现代化，数据即服务或…
+
+www.talend.com](https://www.talend.com/resources/what-is-data-as-a-service/)

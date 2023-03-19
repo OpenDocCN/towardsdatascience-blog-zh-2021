@@ -1,0 +1,99 @@
+# 关于大数据的一切
+
+> 原文：<https://towardsdatascience.com/all-about-big-data-ae01afacc081?source=collection_archive---------21----------------------->
+
+## 深入探讨什么是大数据以及如何存储大数据
+
+![](img/b139d1d9793ba4cdbbdb89cf5a22c640.png)
+
+约书亚·索蒂诺在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+在我最近的一篇文章中，我列出了一系列常见的数据科学术语，并对它们进行了简要描述。在列表中，我提到了大数据。但即使只是描述大数据的术语，也不足以描绘出数据究竟是如何存储的清晰画面。大数据被认为是太大而无法存储在单台计算机上的数据。但是，这些数据究竟是如何存储的呢？
+
+本文的目标是了解关于大数据的更多信息，它是如何定义的，以及它存储在哪里。我们还将非常简要地讨论如何处理数据，尽管这可能是一个单独的主题。
+
+# **什么是大数据？**
+
+如果您的数据太大，无法存储在单台计算机上，数据可能会快速增长，或者使用任何传统方法处理起来太困难或太耗时，那么您就拥有了大数据。随着结构化或非结构化数据集多样性的增长，数据的流入也可能是不可预测的。无论是从复杂性还是从数量上来看，大数据都难以用标准方法处理。例如，处理 SELECT 语句可能需要几天甚至几周，而不是几秒钟/几分钟。
+
+因为数据太大，无法存储和处理，所以大数据在存储中的处理方式不同。大数据的一个存储位置是数据仓库，而不是计算机上的数据库。
+
+# **什么是数据仓库？**
+
+为了存储和处理大量数据，数据仓库是数据存储的中心点。它是一个允许数据流入单一来源的系统，支持分析、数据挖掘、机器学习等。虽然它的目标是在一个位置存储数据，但不是在一台计算机上，另一个目标是处理数据。这从使用 ETL(提取、转换、加载)进行处理的数据管道开始。仓库收集数据，并以可用的方式对其进行格式化。无论数据来自哪里，它都是原始数据，可以被处理成有用的东西。
+
+数据仓库处理大量的旧数据或新数据。但是，它存储的数据必须是结构化的。然后，可以将数据组织成模式，以供以后分析。
+
+如上所述，数据仓库通常建立在结构化数据的基础上，并且通常使用关系数据库来保存数据。但是，如果数据是非结构化的，不适合关系数据库模型，该怎么办呢？这就是数据湖的由来。
+
+数据一旦存储，就可以进行处理。这通常在处理系统中单独完成。处理需要单独进行，因为数据量，甚至其复杂性，对底层计算基础设施提出了很高的要求。在许多情况下，处理是在云中执行的。
+
+# **什么是数据湖？**
+
+当数据是非结构化甚至不相关时，可以使用数据湖。数据湖存储没有定义模式的数据，因此数据不能存储在关系数据库中。但这并不意味着数据湖不能处理数据。数据湖可以创建各种可视化、实时分析等，但首先需要结构化数据。就像仓库一样，它是一个集中的存储场所，可以由多个来源提供信息。原始数据被存储起来供以后处理，但是数据湖可以简单地存储数据而不进行任何整理，而不是构造和添加模式。因为数据不需要结构化，所以它是高度可伸缩的，因为它可以容纳更多种类的数据。
+
+回到模式，我们刚刚提到，您不需要创建任何模式来容纳数据，因为它不需要结构化。然而，模式仍然是数据湖的一部分。它们只是使用方式不同而已。例如，数据仓库将数据清理和过滤到模式中，这些模式是在预处理数据之前设计的。这被认为是写模式。有了数据湖，你就不用提前设计模式了。相反，模式是在分析数据时创建的。这被认为是读取模式。
+
+为了存储数据，可以使用几种不同的存储设备。可以考虑云存储。如果需要数据库，数据湖使用非结构化或非关系模型，如 NoSQL 数据库。数据湖也可以存在于 Hadoop 集群等设备上。Hadoop 集群使用一系列称为节点的计算机，它们通过网络连接在一起。有一个主节点连接到剩余的节点(或工作节点),根据该节点的可用性分配任务。这允许在更大的数据集上进行并行计算。
+
+您为数据湖选择的系统总是有可能不够用。这就是为什么数据湖可以与使用分布式体系结构的多个系统相结合。在这种情况下，数据湖将是存储和处理的集中点，但可以与其他平台分支。这可以是从多种存储类型到包括关系数据库和/或数据仓库的任何地方。尽管数据湖允许流入的数据保持其原始形式供以后处理，但您也可以选择使用不同的数据挖掘工具或数据准备软件进行预处理。
+
+数据湖中的处理与数据仓库中的处理非常相似。两者的数据都太大，无法正常处理，因为这对底层基础架构的要求太高。值得注意的是，Hadoop 引擎还具有处理数据的能力。
+
+# **结论**
+
+在本文中，我们深入探讨了大数据。我们定义了什么是大数据，以及如果大数据不能存储在单台计算机上，剩余的数据存储在哪里。在这个过程中，我们对什么是数据仓库有了更多的了解。我们还定义了什么是数据湖，以及如何在使用这种类型的流程中存储非结构化数据。
+
+虽然没有详细介绍处理过程，但我们更关注什么是数据仓库，什么是数据湖。即使对 Hadoop 有一点了解，尽管不是很广泛。我希望你觉得这篇文章很有趣，也希望你能像我一样学到一些新东西。请随意留下您处理大数据的首选方法或您使用的存储类型的评论。下次见，干杯！
+
+***用我的*** [***每周简讯***](https://crafty-leader-2062.ck.page/8f8bcfb181) ***免费阅读我的所有文章，谢谢！***
+
+***想阅读介质上的所有文章？成为中等*** [***成员***](https://miketechgame.medium.com/membership) ***今天！***
+
+看看我最近的一些文章:
+
+[](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [## 我不擅长编码
+
+### 使用 Pylint 审查我的代码…
+
+python .平原英语. io](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) [## Python 中的数组、列表和字典
+
+### 比较 Python 中不同的数据存储类型
+
+python .平原英语. io](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) [](https://python.plainenglish.io/converting-a-cli-app-to-typer-6c7462f5a9ff) [## 将 CLI 应用程序转换为 Typer
+
+### 会有多难呢？
+
+python .平原英语. io](https://python.plainenglish.io/converting-a-cli-app-to-typer-6c7462f5a9ff) [](/commonly-used-words-in-data-science-ea06a8f17577) [## 数据科学中的常用词
+
+### 定义数据科学术语
+
+towardsdatascience.com](/commonly-used-words-in-data-science-ea06a8f17577) [](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) [## 这周我学到了一些东西——实体框架对主键很挑剔
+
+### 当一个简单的任务变得比预期的更难时
+
+medium.com](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) 
+
+参考资料:
+
+[](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/) [## 什么是数据湖？
+
+### 数据湖是一个集中的存储库，允许您在任何地方存储所有结构化和非结构化数据…
+
+aws.amazon.com](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/) [](https://www.ibm.com/analytics) [## 分析学
+
+### 了解 IBM Data 和 AI 如何帮助您收集、组织和分析您的数据，以加速您的 AI 之旅。
+
+www.ibm.com](https://www.ibm.com/analytics) [](https://searchdatamanagement.techtarget.com/definition/big-data) [## 什么是大数据，为什么它很重要？
+
+### 大数据是由组织收集的结构化、半结构化和非结构化数据的组合，可以是…
+
+searchdatamanagement.techtarget.com](https://searchdatamanagement.techtarget.com/definition/big-data) [](https://databricks.com/glossary/hadoop-cluster) [## 什么是 Hadoop 集群？
+
+### 回到词汇表 Apache Hadoop 是一个开源的、基于 Java 的软件框架和并行数据处理引擎…
+
+databricks.com](https://databricks.com/glossary/hadoop-cluster)  [## 什么是大数据？甲骨文
+
+### 大数据到底是什么？大数据的定义是包含更多种类的数据，包括越来越多的…
+
+www.oracle.com](https://www.oracle.com/big-data/what-is-big-data/)

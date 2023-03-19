@@ -1,0 +1,218 @@
+# 如何有效地用 Python 写代码
+
+> 原文：<https://towardsdatascience.com/how-to-write-code-effectively-in-python-105dc5f2d293?source=collection_archive---------3----------------------->
+
+## 分析使用 Python 编写代码时应该遵循的最佳实践
+
+![](img/48bfdfce9b1dd22d6616a8569f9fab40.png)
+
+布鲁斯·马斯在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+编码是现代技术时代最流行的实践之一。这是一个非常普遍的技能，被认为是大多数处理软件开发或数据分析的热门领域的强制性要求之一。
+
+编码本质上是让你的计算机程序理解你的思维逻辑，使你能够完成手头的任务。随着我们在编程领域变得越来越先进，理解编写高效代码的重要性变得非常重要。
+
+对于大多数初级程序员来说，Python 是最容易学习和入门的编程语言之一。它不仅提供了简单性，还提供了广泛的库来执行各种任务，使其成为最通用的语言之一。它还允许用户在许多领域工作，如数据科学、人工智能、机器人、天文学等等。
+
+虽然 Python 是大多数任务的最佳选择之一，但程序员无法适应编码的最佳选择。在本文中，我们将介绍编写高效代码所需的大部分基本要素。在我们探索如何做到这一点的一些最佳实践之前，我们将在本文的下一部分详细讨论为什么我们都应该有效地编码。
+
+如果您不太熟悉 Python 的一些核心概念，并且您仍然需要习惯它们，请查看下面提供的文章，该文章更详细地讨论了这个主题。它涵盖了您学习 Python 以掌握机器学习所需的大多数基本细节。
+
+[](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) [## 开始使用 Python 掌握机器学习的旅程
+
+### 了解精通机器学习的基本要求
+
+towardsdatascience.com](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) 
+
+# 为什么有效地编码？
+
+![](img/b4ed6097562cb21f14619cdc2f3e5ad3.png)
+
+由[都铎·巴休](https://unsplash.com/@baciutudor?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+在程序员的初级阶段，我们倾向于养成一些习惯，使我们能够以最简单的方式获得特定程序或任务的解决方案。然而，值得质疑的是，这种获得答案的简单方法是否是计算下面问题的最有效和高效的方法。
+
+对有效和高效代码的需求是必须的。在编程或创建简单项目的过程中，似乎没有必要这样做。但是随着您变得更加高级和有经验，您将需要以系统的方式调试和测试您的代码。您需要努力使您的代码更加 pythonic 化，并确保它满足空间和时间复杂性的最佳要求。
+
+让我们假设一个简单的例子，用 print 语句打印五次名为“Hello”的语句。你可以用许多方法来完成这项任务。我们将研究三种这样的方法，您可以利用它们来执行相同的代码，并分析它们的效率以及以下每种方法的不同之处。第一种方法是将语句打印五次。
+
+```
+***Approach-1:***print("Hello \n")
+print("Hello \n")
+print("Hello \n")
+print("Hello \n")
+print("Hello")
+```
+
+第二种方法是打印一次语句，并使用一个乘数来接收所需的输出。
+
+```
+***Approach-2:***print("Hello \n"*5)
+(OR)
+print("Hello \n"*5, end="")
+```
+
+我们要研究的最后一种方法是利用 for 循环来执行这个操作。
+
+```
+***Approach-3:***for i in range(5):
+ print("Hello")
+```
+
+很容易推断出你可以用多种方式完成一个特定的程序。然而，对于一个好的程序员来说，最重要的是使他所需要的代码尽可能的高效，这样它更可读，并产生最好的输出。让我们在下一节通过探索五个关键步骤来探索如何编写更好的代码。
+
+# 如何有效编码？
+
+![](img/4e46d76f6c1d40ccf9be16839639fe38.png)
+
+Nubelson Fernandes 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+既然我们已经对有效地编写代码的重要性有了一些简单的了解，在这一节中，我们将重点了解如何才能完成这项任务。我们将涵盖编写最有效的代码来解决所有程序、任务和项目的主要需求的技术和实践方面。
+
+## 1.有效文件:
+
+```
+***Approach-1:***
+
+def treat():
+    """
+    Creating the function for manipulating the motion of the turtle    object as desired. 
+    """
+    speed(0)
+    penup()
+    goto(-140, 140)
+```
+
+首先，要遵循的最佳实践之一是确保您记录了代码。我越是开始编码和从事大量的项目，我就越意识到有效文档的重要性。在编程过程中，一种常见的做法是迷失在自己的编码世界中，直到您获得了所遇到的特定问题或项目的完美解决方案。
+
+然而，当你如此深入地沉浸在你的代码中时，一个值得注意的问题是，你没有太注意通过评论你在整个程序中使用的不同函数来记录或解释你的代码。主要的问题是，当你决定退出特定的任务，并在几周或几个月后重新访问它时，它会引起什么问题。
+
+如果没有适当的文档和对特定代码块或代码段的用途类型的理解，几乎不可能确定您试图完成的确切任务。更重要的是，你到底是如何完成任务的。
+
+因此，有了有效的文档，你不仅可以帮助那些长时间阅读代码的人，还可以帮助那些想要阅读和理解你的代码的人。因此，输入几行注释来解释代码的用途是一个很好的做法，尤其是在平台上发布代码供他人查看时。
+
+```
+***Approach-2:***if __name__ == "__main__":
+ # create a GUI window
+ gui = Tk() # set the background colour of GUI window
+ gui.configure(background="light green") # set the title of GUI window
+ gui.title("Simple Calculator")
+```
+
+## 2.让您的代码更加 Pythonic 化:
+
+为您的程序获得最佳结果的方法之一是使它们更 pythonic 化。通过对您的编码风格进行适当的修改以适应更 Python 化的编程方式，您可以使您的代码更具可读性、更好看，并且更高效。
+
+您可以遵循的一些最佳实践包括利用变量来分配特定的语句，然后确保这些变量执行特定的操作。不要用特定的条件硬编码 if 语句，而是尝试将下面的内容分配给两个变量，并相应地计算下面的内容。
+
+其他最佳实践包括利用函数的默认参数，以防经过身份验证的用户不希望传递任何特定的命令，并确保所描述的函数将返回值。使用下划线变量(_)作为一次性变量，以便在需要时过滤掉不必要的元素。
+
+您可以对各自的 Python 代码进行一些改进和调整。要记住的重要方面是修改后的代码效率如何，pythonic 化程度如何。除了提供的示例之外，还有几个因素和改进可以使您的代码 pythonic 化。我们将在以后的文章中更深入地研究以下内容。
+
+## 3.使用匿名函数:
+
+函数在大多数主要 Python 项目的构建中起着至关重要的作用。函数通常用于重复性和创建 Python 程序的结构。使用关键字**‘def’，**定义函数，可以使用已定义或未定义的参数调用这些函数。当您调用特定的函数时，python 编译器会解释将要返回的任何值。
+
+在 Python 中，匿名函数是定义时没有名字的函数。在 Python 中，普通函数是使用 def 关键字定义的，而匿名函数是使用 lambda 关键字定义的。使用 lambda 函数的主要优点是执行一个 lambda 函数，该函数计算其表达式，然后自动返回其结果。
+
+下面是一个例子，它向我们展示了如何解决只打印元素列表的偶数的问题。有和没有匿名函数的方法都有解释，很容易注意到下面哪种方法更好。
+
+```
+***Approach-1:***def even(a):
+    new_list = []
+    for i in a:
+        if i%2 == 0:
+            new_list.append(i)
+    return(new_list)
+
+a = [1,2,3,4,5]
+even(a)
+```
+
+下面是具有高级功能的第二种方法。请注意，两个代码块提供的输出将产生相同的值。
+
+```
+***Approach-2:***a = [1, 2, 3, 4, 5]
+even = list(filter(lambda x: (x%2 == 0), a))
+print(even)
+```
+
+有关 Python 中高级函数概念的完整指南和理解，以及完整的代码和示例，请参考下面提供的文章参考。它涵盖了在代码块中开始使用这些高级函数以优化它们并使它们更高效所需的大多数基本概念。
+
+[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
+
+### 详细了解 python 中的匿名函数和高级函数及其实际应用…
+
+towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+
+## 4.尝试和测试备选方案:
+
+当你在做一个程序，并且成功地完成了手头的复杂任务时，给自己一个鼓励和兴奋的感觉是令人惊奇的。一旦你的兴奋消退，再一次检查你的代码，试着分析你可以做得更好的地方。
+
+通过进一步检查和仔细查看您的程序，您可以找出一些微小或重大的变化，您可以添加到您的程序中，使它更加有效，并与特定的任务兼容。分析你自己、朋友或专家能做出的最佳改变变得至关重要。
+
+有时，当您的时间安排很紧时，您只想能够以最快的方式实现最可靠的解决方案。在这种情况下，遵循传统的方法就可以得到最理想的解决方案。
+
+然而，一旦您完成了计算和项目，请确保再次访问该主题，以进一步优化您的代码，供将来参考。
+
+## 5.严格练习:
+
+既然我们已经对一些最基本的概念有了简单的了解，对如何有效地编码有了基本的想法，下一个关键的步骤就是严格地练习。有了完美的实践技巧，并在你着手的每一个程序或编码问题中重复这些适应的方法，你就能达到最好的结果。
+
+另一个需要注意的要点是，您必须学会始终如一地集成一些更新的技术，这些技术是您在升级编码学习过程中不断学到的。如果你对每一个项目、任务或简单的问题都坚持这样做，你最终会发现你的代码写作风格有了巨大的改进。
+
+关于这一点的更广泛的解释，请参考下面的文章，在那里我已经彻底地解释了为什么作为一名数据科学家，每个程序员每天编码是重要的。
+
+[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
+
+### 即使它只是每天一点点编码，你也必须考虑它
+
+towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+
+# 结论:
+
+![](img/3b28969b162869612c491606da900ded.png)
+
+Jo Szczepanska 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+*“有时候周一呆在床上比花一周的时间调试周一的代码更划算。”* —丹·所罗门
+
+随着您在该领域的发展，编写有效的代码来执行 Python 中的大量操作成为一项基本要求。当程序变得越来越复杂，而您的计算资源有限时，在您的代码中保持持续的进步、改进和发展，以保持其在未来几年的相关性就变得非常重要。
+
+在本文中，我们讨论了高效编码所需的大部分概念。首先，我们通过一个简单的例子理解了有效编码的重要性，然后继续学习五个主要的实践，这将使我们在编程方面变得更加熟练，不管你是什么水平的学习者。
+
+如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅电子邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
+
+[](https://bharath-k1297.medium.com/membership) [## 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事
+
+### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
+
+bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
+
+### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
+
+towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
+
+### 关于 14 种最基本的熊猫手术的完整指南
+
+towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
+
+### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
+
+towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
+
+### 使用 sympy Python 库简化用于机器学习的微积分
+
+towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
+
+### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
+
+towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+
+谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！
