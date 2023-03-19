@@ -1,0 +1,114 @@
+# 匿名函数到底是什么？
+
+> 原文：<https://towardsdatascience.com/what-on-earth-is-an-anonymous-function-f8043eb845f3?source=collection_archive---------27----------------------->
+
+## 揭开 Julia 中匿名函数和类型的来龙去脉
+
+![](img/81c2f2dec2da7c5ed6d6dd652924d3e7.png)
+
+(图片由[Unsplash.com](https://unsplash.com/photos/wJ7atxTNeQE)的 Bermix 工作室提供)
+
+# 介绍
+
+ulia 是一种有很多疯狂的细节的语言，允许人们用许多编程概念来解释他们的包。这种事情的一个例子是在一个叫做匿名函数的 Julia 特性中。今天我想向你们介绍 Julia 中的一个概念，一些人可能不熟悉，匿名函数——以及一种创建匿名类型的简洁方法。
+
+匿名函数的伟大之处在于，它们非常容易编写，有自己的作用域，但是是环境声明的。它的伟大之处在于它可以创建一些非常高级的语法。从很多方面来说，我们通常用匿名函数做的事情就是 Python 的 Lambda 在 Python 中做的事情，如果你想深入了解 Lambda 和 Python，我写了一整篇文章，你可以在这里读到:
+
+[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
+
+### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
+
+towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+
+此外，像往常一样，Github 上有一个笔记本可用于这个项目，所以如果您想好好看看这个代码并自己使用它，您可以在这里:
+
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/What%20is%20an%20anonymous%20function%3F.ipynb) [## emmetts-DS-NoteBooks/什么是匿名函数？。ipynb at master emmett GB/Emmetts-DS-笔记本电脑
+
+### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
+
+github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/What%20is%20an%20anonymous%20function%3F.ipynb) 
+
+# 匿名函数
+
+我们可以通过使用“使用连字符的右箭头”标点符号`->`(我认为它基本上是一个操作符)来声明一个匿名函数或构造函数(稍后会详细介绍)。)我选择这些词来描述这个符号，因为这是这种语言的文档描述它的方式，它让我想到的只是 R，而是倒过来。我们将事先定义变量，我们也可以为这样的事情设置一个回报。
+
+```
+x -> x == 5
+#3 (generic function with 1 method)
+```
+
+我们看到当我们运行这段代码时，我们得到了一个方法。这可能很难识别，但是这里有一个简单的方法结构，它是内联的。首先我们有函数定义，它是用参数和->…来完成的，因此函数的等价形式是这样的:
+
+```
+function ourfunc(x)end
+```
+
+然后加上我们的算术，
+
+```
+function ourfunc(x)
+    x == 5
+end
+```
+
+现在，如果我们调用我们的函数，它将反映我们的匿名函数的算法，但是我们如何调用匿名函数本身呢？匿名类型和函数不是在 Julia 的常规方法范围内声明的，而是包含在 Core.box 对象中。这使事情变得复杂和简单。它对于不同的应用程序肯定是有用的，在这些应用程序中，人们可能想做一些疯狂的事情，比如移动方法。我们所要做的就是断言一些等同于这个方法的东西，以及那个值的别名，并且永远带着这个装箱的方法。
+
+```
+our_otherfunc = x -> x == 5
+```
+
+现在我们看到，通过这两种方法传递 5 的结果是一样的:
+
+```
+println(our_otherfunc(5))
+println(ourfunc(5))
+```
+
+值得注意的是，这些方法的定义方式有一个关键的区别，因为我们的新“东西”是一些奇怪的 Julia 对象，有时这会导致许多非常奇怪和令人困惑的错误。我在开发 Hone.jl 包时经常遇到这种情况。如果你想看看我遇到的一些挣扎，你可以看看我在 Hone.jl 上写的一些文章:
+
+[](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) [## Hone.jl 的元编程网格和标签
+
+### 为 Julia 修复我的网格并将轴标签添加到我的图形库中
+
+towardsdatascience.com](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) 
+
+# 匿名类型
+
+匿名类型只是匿名函数的一个扩展功能——我们甚至可以定义在返回类型之前运行的算法。我们可以使用匿名函数很容易地在 Julia 中组装一个类型，但是技巧实际上是得到一个类型作为回报。如果我们使用断言操作符，并尝试在内联中这样做，Julia 会做算术，我们不会以类型结束。因此，必须通过快速方法返回该类型。首先让我们写一个快速结构来限制:
+
+```
+mutable struct type1
+    data1::Dict
+    data2::Int64
+end
+```
+
+现在，我们将定义要放入的数据:
+
+```
+one = Dict(:A => [4, 1, 2], :B => [2, 3, 8])
+two = 5
+```
+
+下面是我们的匿名 new()函数。这就好像我们正在编写一个内部构造函数。
+
+```
+function methodinstead(one, two)
+    (one)->(one;two)
+end
+```
+
+现在我们需要调用这个方法来构造我们的类型:
+
+```
+type2 = methodinstead(one, two)
+reg_const = type1(one, two)
+```
+
+这里有一个关键的区别，我们不能从这个构造函数的系统化版本中得到装箱的数据。有条理的版本中有装箱的类型和结构。
+
+# 结论
+
+匿名函数是另一个激进特性的例子，在 Julia 语言中，这种激进特性的原因很模糊。这些函数可以以非常经典的科学计算方式使用，我非常喜欢 Julia 的这一部分提供的语法。我认为这对于使用方法技术中的类型进行虚拟化可能是有用的。也许它对一些东西的原型制作也是有用的。
+
+到目前为止，你在 Julia 中看到的这类函数的最大用法是在方法头中创建的。这是因为它们经常在 Julia 中使用，相当于 apply()之类的方法。例如，findall()和 filter()都经常使用这些类型的表达式。非常感谢你阅读这篇文章，我很高兴我能够对这个话题有点热情！
