@@ -1,0 +1,60 @@
+# 为什么你会辞去数据科学的工作
+
+> 原文：<https://towardsdatascience.com/why-youll-quit-your-data-science-job-6079d407bbeb?source=collection_archive---------0----------------------->
+
+## 你应该做些什么来防止这种情况发生
+
+![](img/8ef2720746ff698f839123cb0c0cea2b.png)
+
+来自 [Pexels](https://www.pexels.com/photo/woman-sitting-on-chair-while-leaning-on-laptop-3791136/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 的 Andrea Piacquadio 的照片
+
+[哈佛商业评论](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)称数据科学家为“21 世纪最性感的工作”,但许多工作并不“性感”,人们经常辞职，因为[期望与现实](https://www.kdnuggets.com/2018/04/why-data-scientists-leaving-jobs.html)。作为一个曾经做过数据科学家和数据分析师的人，我想分享我的建议，告诉你如何避免在开始工作的几个月内就想辞去数据科学家的工作。
+
+## 期望 1:我可以使用最先进的机器学习算法来解决影响业务的复杂问题。
+
+遗憾的是，大多数数据科学工作并非如此，因为你必须平衡业务需求和时间。当一个简单的算法将产生类似的结果时，很难向高级管理层证明你将花费时间来追求闪亮的新算法在准确性上的边际改进。
+
+作为一名数据科学家，我支持电子邮件营销，并将大部分时间用于构建购买倾向模型。我没有机会尝试其他类型的模型，因为没有业务需求。我的工作影响不大，因为电子邮件营销只占总收入的一小部分。我太想离开了，几乎没有找到另一份工作就辞职了。从我的错误中吸取教训。
+
+**如何更接近自己的期望:**
+
+*   ***仔细阅读岗位说明书*** 。主要职责是建立机器学习模型吗？当心职称，因为[数据分析师的工作可能有数据科学家的头衔](/why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747)。
+*   *在面试中阐明对该职位的期望。如果工作描述包括创建仪表板或 ETL 管道，询问你的时间将分配给这些职责的百分比。如果建模只占你时间的一小部分，那就不适合你。*
+*   ****问问你会支持公司里的哪些群体*** 。并非所有群体都生而平等。如果您的贡献能够影响销售或产品等创收团队的 KPI，他们将获得更多的可见性。询问关于[商业模式](https://hbr.org/2015/01/what-is-a-business-model)和公司如何赚钱的问题。哪些团体有助于业务增长？如果你的角色支持这些群体，那么你的模型可能会对收入产生重大影响。这并不意味着如果这个职位支持[成本中心](https://www.investopedia.com/terms/c/cost-center.asp)，你就应该拒绝这个提议，但是你应该考虑一下。*
+
+## *期望 2:我可以整天做模型。*
+
+*为了能够整天构建模型，您需要合适的数据基础设施和技术来支持这一点。在我工作过的所有公司中，我不得不处理分散的、肮脏的、未记录的或者三者兼而有之的数据。*
+
+***如何更接近自己的期望:***
+
+*   ***询问技术栈**。如果面试官提到 Excel 电子表格和 Access 数据库，那就避而远之。(不幸的是，当时我是顾问，而这是客户，所以我只能按兵不动。)如果面试官提到最近的*你熟悉的软件和工具，这是一个好迹象。**
+*   ****询问数据可用性**。确认公司有一个包含数据的数据库。一些公司刚刚起步，可能很少有数据可用于建模。有数据工程师帮助您加载新数据吗，或者您需要自己进行 ETL 开发吗？如果数据很少，或者你整天都在加载数据，你就没有时间建立模型，这不是你想要的工作。**
+*   ****询问数据团队是如何组织的**。检查你是否是第一个数据雇员，因为你可能会从事任何与数据相关的工作，建模将是你最后要做的事情。询问团队中还有多少其他数据科学家。检查是否有独立的数据分析师团队。最好的情况是为拥有独立数据科学和数据分析团队的公司工作。拥有两个团队意味着您更有可能在数据分析师创建仪表板和运行数据分析的同时构建模型。**
+
+## **期望 3:公司了解数据科学的价值，否则他们为什么会雇佣我。**
+
+**德勤的一份报告称“数据分析的重要性日益增加，并作为高管的决策资源发挥着关键作用。”然而，[数据素养](https://searchbusinessanalytics.techtarget.com/news/252485551/Lack-of-data-literacy-still-a-problem-for-many-organizations)是组织中普遍存在的问题。公司希望像其他人一样成为“数据驱动型”，但大多数公司不明白如何利用数据科学来增加业务价值。**
+
+****如何更接近你的期望:****
+
+*   *****求以往问题的例子，用什么模型解决的。*** 这个问题将帮助你衡量公司的数据科学成熟度。如果你不能得到一个好的答案，这是一个危险信号。他们可能对数据科学如何做出贡献没有一个很好的想法，而你会因为缺乏数据素养而感到沮丧。小心不要在数据科学还未被证实的公司工作，因为你会遇到更多的阻力。**
+*   *****学习如何将*** [***机器学习呈现给非技术人员***](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) 。您可能需要向多种类型的观众展示您的模型结果。他们中的许多人不会理解什么是机器学习。学会解释你的模型如何给企业带来好处。拥有这一技能将使你在任何数据科学岗位上受益，并帮助你的利益相关者欣赏你所增加的价值。**
+
+**希望这些小技巧能帮助你找到一份更接近你期望的数据科学家工作。虽然有时令人沮丧，但付出的努力是值得的。感谢阅读，请不要放弃数据科学！**
+
+## **你可能也会喜欢…**
+
+**[](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770) [## 如何成为一名成功的数据故事讲述者
+
+### 数据演示初学者指南
+
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770) [](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
+
+### 将数据科学与数据分析相结合
+
+medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e) [## 为什么数据科学家应该首先成为数据分析师
+
+### 确保成功的职业战略
+
+towardsdatascience.com](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e)**

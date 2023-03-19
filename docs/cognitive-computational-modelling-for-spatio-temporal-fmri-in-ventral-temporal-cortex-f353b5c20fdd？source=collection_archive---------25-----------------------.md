@@ -1,0 +1,151 @@
+# 腹侧颞叶皮层时空功能磁共振成像的认知计算模型
+
+> 原文：<https://towardsdatascience.com/cognitive-computational-modelling-for-spatio-temporal-fmri-in-ventral-temporal-cortex-f353b5c20fdd?source=collection_archive---------25----------------------->
+
+## 解码和理解人类大脑
+
+![](img/755e95e7d184c557275f3000646084fb.png)![](img/988231925d298f43a02f315481f64ece.png)
+
+玻璃大脑可视化(图片由作者提供)
+
+**材料**
+
+在这一系列文章中，我们将回顾以下文章
+
+*   人脑认知计算模型导论(上)
+*   发现神经影像分析(第二部分)
+*   人脑的功能连接和相似性分析(下)
+*   人脑分布区域的无监督表示学习(四)
+*   基于机器学习和深度学习的时空 fMRI 解码(五)
+
+所有相关资料都放在我的 Github 页面上。别忘了去看看。如果你是一个纸质爱好者，你可以阅读这一系列文章的纸质版，也可以在我的回购中找到。
+
+[](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) [## 腹侧颞叶皮层的时空功能磁共振成像认知计算模型
+
+### 人类腹侧颞叶皮层分布区域的视觉解码、显著性和注意力一直很活跃…
+
+github.com](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) 
+
+在进入技术面之前，先了解
+
+*   计算神经科学
+*   无监督学习和机器学习的基础
+*   简单的神经网络(MLPs，CNN，…)
+
+会很有帮助的。但是，不用担心。这些将是高水平的、实践的、代码优先的文章。那么，我们开始吧。
+
+在本文中，我们将简要讨论人脑腹侧颞叶皮层的多体素模式分析(MVPA)。多体素模式分析和识别目前被用来研究包含在神经活动的分布式模式中的信息，以推断大脑区域和网络的功能作用。
+
+从机器学习的角度来看，这是一个直接监督的分类问题。这里，输入通常是来自神经科学实验的 fMRI 数据。输出是感兴趣类别的概率分布。在我们的例子中，我们将尝试解码人类主体看到的视觉刺激类别(人脸、猫、椅子、鞋子……)。
+
+> MVPA 被认为是一个监督分类问题，其中分类器试图捕捉功能磁共振成像活动的空间模式和实验条件之间的关系。
+
+在我们的例子中，fMRI 数据将是由空间和时间成分组成的 4D 时间序列数据。
+
+## 目录
+
+1.  在第一部分，我们将在计算认知神经科学的背景下讨论人类腹侧颞叶皮层分布区域的视觉解码。然后，我们将理解为什么我们需要构造时空解码算法来执行认知任务。(第一部分)
+2.  在第二部分中，我们通过功能磁共振成像(fMRI)方法研究了人脑中物体视觉通路的功能结构，以解码人类受试者所看到的视觉刺激。我们进行了最先进的解释性回波平面，感兴趣区域(RoI)，统计图，解剖和玻璃脑预分析，以从人脸和物体表征的研究中发现块设计的 4-D 时间序列 fMRI 数据集，即 Haxby 数据集。(第二部分)
+3.  在第三部分中，为了理解腹侧颞掩蔽的 fMRI 样本中的测地线关系，我们进行了基于相关性、精确度和偏相关的功能连接性分析，以及基于余弦、闵可夫斯基和欧几里得距离的相似性分析。(第三部分)
+4.  在第四部分中，流形学习和维数约减方法在每个受试者的腹侧时间掩模上执行，以提取时空掩模的潜在表示，这将有助于 fMRI 的进一步解码。(第四部分)
+5.  在第五部分中，开发了从感知器到 FREMs 的端到端机器学习算法，以根据腹侧颞叶皮层中的分布和重叠区域对刺激进行分类。通过利用不同视觉表示流之间的交互作用，我们进一步构建了认知神经网络，准确地说是 MLPs、2D 和 3D CNNs。(第五部分)
+
+## 文章链接
+
+1.  **发表文章**
+
+[](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) [## 人脑认知计算模型导论(上)
+
+### 这是该系列的第一篇文章，即“时空功能磁共振成像的认知计算建模…
+
+cankocagil.medium.com](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) 
+
+2.
+
+[](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) [## 发现神经影像分析(第二部分)
+
+### 这是该系列的第二篇文章，即“腹侧部时空功能磁共振成像的认知计算模型……
+
+cankocagil.medium.com](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) 
+
+3.
+
+[](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) [## 人脑的功能连接和相似性分析(下)
+
+### 人脑的空间分析
+
+cankocagil.medium.com](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) 
+
+4.
+
+[](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) [## 人脑分布式区域的无监督表示学习(下)
+
+### 无监督学习和人脑的交集
+
+cankocagil.medium.com](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) 
+
+2.**在路上(即将到来…)**
+
+1.  第五部分的占位符
+
+## 进一步阅读
+
+*   【https://www.hindawi.com/journals/cmmm/2012/961257/ 
+
+我在机器学习和神经科学方面的研究中使用了以下参考文献列表。我强烈建议复制粘贴参考资料，并简要回顾一下。
+
+# 参考
+
+[1]巴、基罗斯和辛顿。图层归一化，2016。
+
+[2] L. Buitinck，G. Louppe，M. Blondel，F. Pedregosa，A. Mueller，O. Grisel，V. Niculae，P. Prettenhofer，A. Gramfort，J. Grobler，R. Layton，J. VanderPlas，a .乔利，B. Holt，10 和 G. Varoquaux。机器学习软件的 API 设计:scikit-learn 项目的经验。在 ECML PKDD 研讨会:数据挖掘和机器学习的语言，第 108–122 页，2013。
+
+[3]褚，田，王，张，任，魏，夏，沈。双胞胎:重新审视《视觉变形金刚》中空间注意力的设计，2021。
+
+[4] K .克拉默、o .德克、j .凯舍特、s .沙莱夫-施瓦兹和 y .辛格。在线被动攻击算法。2006.
+
+[5] K. J .弗里斯顿。统计参数映射。1994.
+
+[6]格罗斯、罗查-米兰达和本德。猕猴下颞皮质神经元的视觉特性。神经生理学杂志，35(1):96–111，1972。
+
+[7] S. J .汉森、t .松坂和 J. V .哈克斯比。用于物体识别的腹侧颞叶组合编码。
+
+[8]哈克斯比、戈比尼、富里、伊沙伊、斯豪滕和彼得里尼。《视觉物体识别》，2018。
+
+[9]赫克曼、哈伊纳尔、贾巴尔、吕克特和哈默斯。结合标记传播和决策融合的自动解剖脑 mri 分割。神经影像，33(1):115–126，2006。
+
+10d .亨德里克斯和 k .金佩尔。高斯误差线性单位(gelus)，2020。
+
+[11]黄少华，邵文伟，王明林，张德庆.人脑活动视觉信息的功能解码:简要综述。国际自动化和计算杂志，第 1-15 页，2021。
+
+[12] R. Koster、M. J. Chadwick、Y. Chen、D. Berron、A. Banino、E. Duzel、D. Hassabis 和 D. Kumaran。海马系统内的大循环复发支持跨发作的信息整合。神经元，99(6):1342–1354，2018。
+
+[13]马奥尔。勾股定理:4000 年的历史。普林斯顿大学出版社，2019。
+
+[14] K. A. Norman、S. M. Polyn、G. J. Detre 和 J. V. Haxby 超越读心术:功能磁共振成像数据的多体素模式分析。认知科学趋势，10(9):424–430，2006。
+
+[15]奥图尔、江、阿卜迪和哈克斯比。腹侧颞叶皮层中物体和面孔的部分分布表征。认知神经科学杂志，17(4):580–590，2005。
+
+[16] F .佩德雷戈萨、g .瓦洛夸、a .格拉姆福特、v .米歇尔、b .蒂里翁、o .格里塞尔、m .布隆德尔、p .普雷登霍弗、r .魏斯、v .杜伯格、j .范德普拉斯、a .帕索斯、d .库尔纳波、m .布鲁彻、m .佩罗特和 e .杜切斯内。sci kit-learn:Python 中的机器学习。机器学习研究杂志，12:2825–2830，2011。
+
+17 r . a .波尔德拉克。功能磁共振成像的感兴趣区域分析。社会认知和情感神经科学，2(1):67–70，2007。
+
+[18] M. Poustchi-Amin、S. A. Mirowitz、J. J. Brown、R. C. McKinstry 和 T. Li。回波平面成像的原理和应用:普通放射科医师回顾。放射学，21(3):767–779，2001。
+
+[19] R. P. Reddy，A. R. Mathulla 和 J. Rajeswaran。心理健康专家的观点采择和情绪传染的初步研究:移情的玻璃脑观点。印度心理医学杂志，0253717620973380，2021 页。
+
+[20]史密斯、米勒、萨利米-科尔希迪、韦伯斯特、贝克曼、尼科尔斯、拉姆齐和伍尔利奇。功能磁共振成像的网络建模方法。神经影像，54(2):875–891，2011。
+
+21 田中先生。下颞叶皮层和物体视觉。神经科学年度评论，19(1):109–139，1996。
+
+[22] M. S .特雷德。Mvpa-light:一个多维数据的分类和回归工具箱。神经科学前沿，14:289，2020。
+
+[23] M. P .范登赫维尔和 H. E .波尔。探索大脑网络:静息态功能磁共振成像功能连接综述。欧洲神经精神药理学，20(8):519–534，2010。
+
+[24] G. Varoquaux，A. Gramfort，J. B. Poline 和 B. Thirion。大脑协方差选择:使用群体先验的更好的个体功能连接模型。arXiv 预印本 arXiv:1008.5071，2010。
+
+[25] Y. Wang，J. Kang，P. B. Kemmer 和 Y. Guo。一种利用偏相关估计大规模脑网络功能连接的有效可靠的统计方法。神经科学前沿，10:123，2016。
+
+26s . Wold、K. Esbensen 和 P. Geladi。主成分分析。化学计量学和智能实验室系统，2(1–3):37–52，1987。
+
+27s . Wold、K. Esbensen 和 P. Geladi。主成分分析。化学计量学和智能实验室系统，2(1–3):37–52，1987。

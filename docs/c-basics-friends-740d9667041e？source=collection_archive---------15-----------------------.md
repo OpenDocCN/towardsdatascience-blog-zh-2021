@@ -1,0 +1,153 @@
+# C++基础:朋友
+
+> 原文：<https://towardsdatascience.com/c-basics-friends-740d9667041e?source=collection_archive---------15----------------------->
+
+## 在什么场景下应该使用 C++中的 Friend？
+
+![](img/331529a075e0b312e6490595c35e3141.png)
+
+由 [Pakata Goh](https://unsplash.com/@pakata?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+# 介绍
+
+C++中 Friend 的使用对于初学者来说往往是比较混乱的，因为网上有很多关于使用它是会增加封装性还是会打破封装性的争论。
+
+如果您是面向对象编程的新手，这一点尤其正确——面向对象编程的要点是封装的概念，即通过阻止其他类访问类的内部状态来限制对类的内部状态的访问。
+
+C++中的友元概念是一种机制，一个类可以*故意*让其他类或函数访问它的内部状态。现在你可以明白为什么有些人认为这违背了 OOP 的要点。
+
+在这篇文章中，我们将看到 C++中的 friend 概念，它的用途，以及如何使用 friend 函数和 Friend 类的细节。在那之后，我们将会看到我们应该在什么样的场景中使用它们，从不同的来源中总结。
+
+# C++中的朋友概念
+
+当我们在一个类中声明一个*友元*时，我们授予该友元对该类的*私有*和*受保护* **成员**的访问权。这意味着朋友可以访问类的成员变量和成员函数。
+
+如果我们不将其声明为友元，访问私有或受保护的成员将导致编译错误。
+
+编译这段代码给我们提供了:
+
+```
+In function ‘void Print(const Test&)’:
+error: ‘void Test::Print() const’ is private within this context
+```
+
+C++中的访问规则由编译器检查，因此编译错误。
+
+在这个例子中， ***Print()*** 函数 ***违反了访问规则*** 导致编译错误被抛出。为了使编译通过，我们可以将 ***Print()*** 函数声明为 ***Test*** 类的朋友。
+
+只需添加一个朋友声明，我们就可以构建并执行我们的程序，该程序将打印号码:
+
+```
+2 3
+```
+
+## 我可以把好友声明放在哪里？
+
+我们可以把友元声明放在类体的任何地方，因为访问说明符不会影响它。在这个例子中，我把它公开，但它可以在任何地方。
+
+## 朋友不是继承的，不是传递的，也不是互惠的
+
+在引言部分，提到了宣布朋友是一个深思熟虑和明确的过程。这意味着我们有以下限制:
+
+*   朋友不是继承的:朋友类的孩子不是朋友。
+*   朋友是不可传递的:朋友的朋友不是朋友。
+*   朋友不是对等的:我不能访问我朋友的内部状态，除非他/她也声明我是朋友。
+
+所有这些限制都是为了确保类的作者慎重选择是否允许朋友访问其他类和函数。
+
+在下一节中，我们将看到如何声明友元函数和类的细节。
+
+# 朋友函数
+
+我们可以在类体中将成员函数和自由函数都声明为友元。
+
+对于自由函数，它非常简单，不需要前向声明。我们可以简单地声明朋友如下:
+
+***void Print(const Test&Test)***函数可以访问 *Test* 类的私有成员。
+
+对于成员函数，它不像自由函数那样简单。即使向前声明具有该函数的类也是不够的。以下内容将导致编译错误。
+
+```
+error: invalid use of incomplete type ‘class Printer’
+In member function ‘void Printer::Print(const Test&)’:
+error: ‘void Test::Print() const’ is private within this context
+```
+
+原因是 *Printer* 类中没有声明***void Printer::Print(const Test&Test)***函数。编译器只从 forward 声明中知道有一个名为 *Printer* 的类。我们可以通过向上移动*打印机*类并向前声明*测试*类来修复错误。
+
+# 朋友类
+
+不仅仅是函数，我们还可以声明一个类作为我们类的朋友。在现代 C++中，有两种方法可以声明友元类:
+
+*   朋友类 F；
+*   朋友 F；
+
+如果没有现有的类，前者将声明一个新的类，而后者只有在该类存在的情况下才起作用。以下代码编译无误，因为声明友元时引入了一个新的类 *Printer* 。
+
+但是下面的代码失败了，因为编译器找不到*打印机*类。
+
+```
+error: ‘Printer’ does not name a type
+```
+
+当然，我们可以通过向前声明打印机类或者改变类声明的顺序(并向前声明测试类)来简单地解决这个问题。所以最简单的解决方法是前者。
+
+# 什么时候我们应该使用朋友？
+
+现在我们已经了解了如何在 C++中正确声明友元，我们需要知道何时应该使用它们。
+
+一些使用案例如下:
+
+*   界面设计灵活性
+*   运算符重载
+
+两者都是自由函数，对于成员函数和类，我能找到的唯一用例是数据结构实现的一部分(细节和例子见 [Wikipedia](https://en.wikipedia.org/wiki/Friend_class) )。
+
+## 界面设计灵活性
+
+从下面的例子中，我们有两个不同的选项来调用 *Print()* 函数。
+
+我们可以从以下表格中选择可读性更强的表格:
+
+```
+Test test(2, 3);test.Print(); // Option 1
+Print(test);  // Option 2
+```
+
+有些人认为选项 2 比选项 1 可读性更强。无论如何，你可以灵活地选择如何设计你的界面。
+
+## 运算符重载
+
+出于调试目的，我们希望重载的最常见的操作符是插入操作符。例如:
+
+```
+std::cout << test;
+```
+
+我们不能将这个操作符实现为成员函数，因为第一个参数的类型是 std::ostream。
+
+## 如何将单元测试类声明为友元类？
+
+对此有相反的意见，但就个人而言，我同意这种观点，即我们应该只测试公共接口。
+
+如果我们发现很难涵盖公共接口的所有情况，这可能表明我们的类太大了，做了太多的事情，因此我们可能想要重构它。
+
+# 参考
+
+ [## 标准 C++
+
+### 允许你的类授予访问另一个类或函数的权限。朋友可以是函数，也可以是其他…
+
+isocpp.org](https://isocpp.org/wiki/faq/friends) [](https://docs.microsoft.com/en-us/cpp/cpp/friend-cpp?view=msvc-160) [## 朋友(C++)
+
+### 在某些情况下，对不是类成员的函数授予成员级访问权限会更方便…
+
+docs.microsoft.com](https://docs.microsoft.com/en-us/cpp/cpp/friend-cpp?view=msvc-160) [](https://stackoverflow.com/questions/4171310/what-is-wrong-with-making-a-unit-test-a-friend-of-the-class-it-is-testing) [## 让一个单元测试成为它正在测试的类的朋友有什么错？
+
+### 在 C++中，我经常把一个单元测试类作为我正在测试的类的朋友。我这样做是因为我有时觉得…
+
+stackoverflow.com](https://stackoverflow.com/questions/4171310/what-is-wrong-with-making-a-unit-test-a-friend-of-the-class-it-is-testing)  [## 朋友类-维基百科
+
+### C++中的友元类可以访问声明为友元的类的私有和受保护成员。一个…
+
+en.wikipedia.org](https://en.wikipedia.org/wiki/Friend_class)

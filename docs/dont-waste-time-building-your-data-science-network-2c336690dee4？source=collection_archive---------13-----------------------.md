@@ -1,0 +1,130 @@
+# 不要浪费时间构建您的数据科学网络
+
+> 原文：<https://towardsdatascience.com/dont-waste-time-building-your-data-science-network-2c336690dee4?source=collection_archive---------13----------------------->
+
+## 意见
+
+## 专注于重要的事情
+
+![](img/a783c775e2af0d1d7c6c43d90142b5c5.png)
+
+在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Aron 视觉](https://unsplash.com/@aronvisuals?utm_source=medium&utm_medium=referral)拍摄的照片
+
+对于经常阅读我文章的人来说，你可能会认为我是这个星球上最矛盾的人。我不怪你。
+
+我最近注意到，在与人的口头或书面交流中，我对与我交流的人做了许多假设。我不会明确地定义非常重要的方面，然后才确切地说出我要说的内容，这取决于上下文，有可能冲淡我希望传达的实际信息。
+
+最近，我写了一篇关于我们如何通过网络简化进入数据科学的初始阶段的文章。作为对这篇文章的回应，我在 LinkedIn 上收到了许多联系请求，声称他们希望与我联系，这样他们就可以建立自己的职业网络。
+
+[](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [## 不要让闯入数据科学变得比需要的更难
+
+### 我是如何在没有学位或工作经验的情况下找到第一份数据相关工作的
+
+towardsdatascience.com](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) 
+
+不要误解我，我对和我联系的人没有意见。事实上，我在每篇文章的结尾都鼓励它。我非常感激我处在一个人们希望与我联系并跟随我踏上数据科学之旅的位置。与大家分享我的经历的目的是，我希望从我的角度表达作为一名数据科学家或自由职业者的现实，因为我们都努力成为不可或缺的人。
+
+坦率地说…
+
+**联网是浪费时间**！
+
+哎呀，我又做了一次。让我解释一下…我们所知道的，或者我们被告知要去做的联网方式已经完全死亡了。
+
+事实上，我还没能想出一个足够好的名字来描述什么是真正的网络，所以我仍然把**称为网络。**
+
+**建立数据科学网络很可能会浪费时间。这是它的样子。**
+
+*   **随意与人联系，因为他们的工作描述是“*数据科学家*”**
+*   **纯粹为了个人利益— *即一份工作***
+*   **为未来的机会而联系— *例如，我正在学习数据科学，但也许将来有一天我们可以一起做一个项目。***
+
+**在我看来，这种形式的网络不是网络。这完全是一个哑弹。浪费时间。**
+
+## **真正的网络**
+
+**以下是我对网络的看法…**
+
+> **如果你正在创造一些有趣的东西，那么总会有人想要了解你。**
+
+**简单明了。**
+
+**为什么有人想见埃隆·马斯克？如果你说因为他是亿万富翁，你又一次掉进了陷阱。是心态不对。如果你在想他的亿万身家，很可能你在想这对你有什么好处。那是接受者的心态。**
+
+**人们希望见到埃隆·马斯克，因为他制造人们想要的东西。他是一个解决问题的人，我们需要他！**
+
+**如果你因为上面列出的三个原因中的任何一个而试图建立一个网络，你绝对是在浪费你的时间，这些时间本可以用来建立人们想要的有趣的东西，从而让人们想要认识你。**
+
+**如果你看一看 LinkedIn 上讨论数据科学的受欢迎的人，你就会明白我在说什么；**
+
+*   **[Vin Vashista](https://www.linkedin.com/in/vineetvashishta/) —围绕数据科学中应采取的最佳实践建立思维模式。这包括从生产中的机器学习到招聘的一切。**
+*   **[harp reet sa hota](https://www.linkedin.com/in/harpreetsahota204/)——建立一个社区，让所有级别的数据科学家都能安全地分享经验和提出问题。他还建立了一个播客，在那里他采访了一些数据科学领域最有趣的人，以及与该领域毫无关系的人。**
+*   **Kate Strachnyi —建立一个数据故事讲述者的社区。这包括利用数据教育人们如何成为更好的故事讲述者。**
+
+**这份清单还在继续…**
+
+**我知道当你阅读我与你分享的名单时你在想什么**
+
+*****这些人都是在外地多年的*** 。**
+
+**这是非常正确的…每一个建筑都必须从某个地方开始。**
+
+**[](/start-your-data-science-journey-in-4-steps-f5b5a6e7e80b) [## 用 4 个步骤开始您的数据科学之旅
+
+### 开始数据科学职业生涯的自以为是的路径指南
+
+towardsdatascience.com](/start-your-data-science-journey-in-4-steps-f5b5a6e7e80b) 
+
+## 合适的人会找到你
+
+本质上，当我提到网络时，我想说的是你应该专注于创造人们想要的东西。做一个创造者。这样，合适的人就会来找你。
+
+从我的观察来看，与我有联系的人最令人难忘的是那些出于以下原因与我有联系的人；
+
+*   他们希望跟上我分享的内容
+*   他们对我创作的内容提出了一个经过深入研究的问题
+*   他们有一个他们认为对我们双方都有价值的机会
+
+这并不是说我没有人和我联系，问我工作或者其他不在这个清单上的事情，我有。但是，这些人很快就消失了。
+
+在我看来，如果你发现自己试图在网上与这三个原因之外的人联系，那么我建议你在行动中抓住自己。无论你做什么或说什么，都可能让人绝望，并可能在关系开始前就危及它。
+
+> 如果你真的想建立一个强大的关系网，在你决定开始创造的时候，合适的人会找到你。
+
+要开始创作，你不需要像我一样从博客开始；你有很多不同的方法来创造人们想要的东西。
+
+*   项目
+*   摘要
+*   个案研究
+*   vlog/博客
+*   分享高排名竞争解决方案
+*   将研究论文转换为代码
+
+这些想法不一定要从细微处开始。重要的是，你开始创造并分享你正在创造的东西——最终，合适的人会来找你。
+
+[](/the-most-important-data-science-project-458d016ef8a6) [## 最重要的数据科学项目
+
+### 每个数据科学家都必须做的项目
+
+towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6) 
+
+## 最后的想法
+
+成为一名创作者并在网上分享你正在做的事情起初可能看起来是一项艰巨的任务，尤其是如果你像我一样天生内向的话——克服这个问题要从分享一件事情开始，然后永远不要停止。如果你希望发展一个强大而健康的网络，那么重要的是你要站在创造者的立场上——从那时起，一切都会向你走来。
+
+在 LinkedIn 和 T2 Twitter 上与我保持联系，了解我关于数据科学、人工智能和自由职业的最新消息。
+
+## 相关文章
+
+[](https://medium.com/analytics-vidhya/a-strategic-approach-to-becoming-a-data-scientist-2e0f1bf65ebf) [## 成为数据科学家的战略方法
+
+### 克服进入数据科学的困难
+
+medium.com](https://medium.com/analytics-vidhya/a-strategic-approach-to-becoming-a-data-scientist-2e0f1bf65ebf) [](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) [## 吸引自由数据科学客户的 5 种方法
+
+### 我做的一件简单的事
+
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) [](/finding-a-mentor-in-data-science-9863de5b3620) [## 寻找数据科学领域的导师
+
+### 如何爬上巨人的肩膀
+
+towardsdatascience.com](/finding-a-mentor-in-data-science-9863de5b3620)**

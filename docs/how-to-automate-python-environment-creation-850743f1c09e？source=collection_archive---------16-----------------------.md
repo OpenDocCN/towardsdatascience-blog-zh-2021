@@ -1,0 +1,88 @@
+# 如何自动创建 Python 环境
+
+> 原文：<https://towardsdatascience.com/how-to-automate-python-environment-creation-850743f1c09e?source=collection_archive---------16----------------------->
+
+## 创建环境，并通过一个命令将它们集成到 Jupyter 笔记本中
+
+![](img/b700ca006918dc067eb80a1ca19c3a94.png)
+
+照片由 [Florian Olivo](https://unsplash.com/@florianolv?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+[](https://learningfrommachines.substack.com/) [## 向机器学习
+
+### 了解向我们学习的算法。
+
+learningfrommachines.substack.com](https://learningfrommachines.substack.com/) 
+
+# 介绍
+
+对于那些在数据科学领域的人来说，自动化是他们最喜欢的词之一。将经常占用不必要时间的简单任务自动化是最好的技能之一。你不仅可以用一行代码完成 10/15 分钟的工作，而且你不必担心必须记住过程的每一步，因为你已经为自己开发了这些步骤。
+
+在本文中，我将向您展示如何使用`bash`脚本在`conda`和`ipykernel`中自动开发 Python 环境。我已经写了如何将您的环境链接到 Jupyter 内核，所以如果您不知道如何做，您可以在下面找到它的链接:
+
+[](/link-your-virtual-environment-to-jupyter-with-kernels-a69bc61728df) [## 用内核将你的虚拟环境链接到 Jupyter
+
+### 立即开始原型制作。
+
+towardsdatascience.com](/link-your-virtual-environment-to-jupyter-with-kernels-a69bc61728df) 
+
+我将在一个 Unix shell 上工作，默认情况下，这个 shell 可用于 Linux 和 macOS。本文不会讨论如何在 Windows 上实现这一点，所以请注意这一点。
+
+事不宜迟，我们开始吧！
+
+# 项目大纲
+
+在开始任何项目之前，不管是简单的还是复杂的，最好有一个简单的大纲，说明需要做什么，为手边的用户所做的假设，以及程序本身将要采取的行动。
+
+## 用户的假设:
+
+*   用户的系统上安装了`conda`
+*   每次创建新环境时，用户都希望指定 Python 版本
+
+## 程序的操作:
+
+*   创建指定名称和 Python 版本的环境。
+*   将`ipykernel`安装到 Python 环境中
+*   将环境链接到 Jupyter 内核
+
+一旦所有这些操作完成，您就可以激活环境，安装您需要的任何包，并立即在 Jupyter 中使用它们。
+
+# 开发脚本
+
+首先，在主目录中，创建一个名为`scripts`的新文件夹。这将允许您将您选择制作的任何其他脚本也放在该文件中。假设您已经这样做了，首先在文件夹中创建两个文件。对于这个项目，我将称它们为`env1.sh`和`env2.sh`。
+
+然后，您可以用您喜欢的任何文本编辑器打开该脚本。确保你知道你的`bash`在哪里。这可以通过以下命令完成:
+
+```
+$ which bash
+```
+
+由于我运行的是 Linux，所以我的结果是`user/bin/bash`。使用一个 shebang，或`#!`，我们可以把它放在我们的路径前面，以确保我们的文件是可执行的。这将是我们两个脚本中的第一行。
+
+我们将使用两个脚本来完成这项工作。第一个脚本将创建虚拟环境，并使用其名称(第一个参数)和 Python 版本(第二个参数)。)
+
+虽然这只是一行代码，但我们将它放在一个不同的文件中，因为执行在环境完成后结束。这就是第二个文件出现的地方，它允许我们调用第一个脚本来创建环境，然后使用脚本的其余部分来创建 Jupyter 内核。
+
+下面是第一个文件的样子:
+
+如果您不熟悉`bash`语法，`$1`代表运行文件所需的第一个参数，而`$2`代表第二个参数。
+
+对于第二个文件，我们将调用`env1.sh`并继续内核创建过程。看起来是这样的:
+
+首先，我们用需要的参数调用`env1.sh`。这意味着两个文件将使用相同的参数。一旦完成，我们必须找到 anaconda，这样我们就可以激活 bash 脚本中的环境。一旦完成，我们就可以激活环境，使用`pip`安装`ipykernel`，并将环境链接到与环境同名的内核。
+
+# 运行脚本
+
+为了简化本文(我假设您以前从未构建过命令行界面)，您可以使用以下代码运行脚本:
+
+```
+$ bash scripts/env2.sh automated 3.8
+```
+
+这将使用 Python 版创建一个名为`automated`的新`conda`环境。此外，正如我们在`env2.sh`中看到的，它还将创建一个 Jupyter 内核，也称为`automated`，我们可以在启动 Jupyter 笔记本后立即开始使用它。
+
+# 最后的想法
+
+虽然我试图保持简短，但这个项目还可以做一些改进。主要是，我们可以用必要的参数运行`chmod`，这样文件就是可执行的。然而，如果你有兴趣在空闲时间从事这项工作，我将把它留给你。然而对我来说，运行这一行来自动化这个过程比过程本身要容易得多！
+
+我希望这是一个有用的有趣的项目，你可以从中学习。如果你有任何问题，请在下面留下。

@@ -1,0 +1,99 @@
+# 6 篇关于机器学习部署阶段的研究论文
+
+> 原文：<https://towardsdatascience.com/6-research-papers-about-machine-learning-deployment-phase-11866c1ab657?source=collection_archive---------17----------------------->
+
+## 采用学术思维和习惯
+
+![](img/fa71d47cf20de7573d5333427759aba1.png)
+
+安妮·斯普拉特在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+初学者的错误是忽视研究。阅读研究是令人畏惧的，尤其是当你不像我一样来自学术背景的时候。尽管如此，这件事还是应该做。
+
+忽视研究很容易导致你的技能落后，因为研究描绘了当前正在解决的问题的范围。因此，作为一名机器学习实践者，要保持相关性，就需要(在某种程度上)采用学术思维和习惯。
+
+对于我的研究，我已经策划了 6 篇研究论文，我将阅读这些论文以了解更多关于未来机器学习部署的信息。以下是按非时间顺序排列的研究论文:
+
+## 1.
+
+[**部署机器学习的挑战:案例研究调查**](https://arxiv.org/abs/2011.09926v2) **， *Paleyes 等人*，2021 年 1 月**
+
+在生产系统中部署机器学习模型期间，机器学习实践者和研究人员面临许多挑战。
+
+*“这项调查回顾了在各种用例、行业和应用中部署机器学习解决方案的已发布报告，并提取了与机器学习部署工作流程的各个阶段相对应的实际考虑因素。我们的调查显示，从业者在部署的每个阶段都面临挑战。本文的目标是制定一个研究议程，探索应对这些挑战的方法。”*
+
+## 2.
+
+[**机器学习系统中隐藏的技术债务**](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) **，*斯卡利等人*，2015 年 12 月**
+
+这是一篇流行的论文，试图从成本的角度记录现实世界中机器学习的现实。论文指出,“机器学习为快速构建有用的复杂预测系统提供了一个非常强大的工具包。这篇论文认为，认为这些快速成功是免费的是危险的。
+
+本质上，本文的目标是探索在现实世界中实现机器学习所涉及的不同的 ML 特定风险。
+
+## 3.
+
+[**一个系统视角到生产机器学习领域的再现性**](https://openreview.net/forum?id=Byl4vavigX) **，*甘塔等人*，2018 年 6 月**
+
+机器学习中并不总是被吹嘘的部分是物流，但它的重要性是巨大的。为了再现已经部署在生产中的机器学习流水线，机器学习实践者必须捕捉模型的历史状态以及其当前状态。这是一项极其复杂的任务，但这篇论文据称有一些解决方案。
+
+*“我们展示了一个从系统角度解决这些问题的系统，使 ML 专家能够在生产中跟踪和再现 ML 模型和管道。这有助于快速诊断生产中出现的问题。”*
+
+## 4.
+
+[**机器学习的软件工程:案例研究**](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf) ， ***Amershi 等人*，2019 年 5 月**
+
+与许多公司不同，微软多年来一直在实施机器学习。从他们丰富的经验中，微软试图分享他们认为应该作为其他开发人工智能应用程序和数据科学工具的组织的一套最佳实践。
+
+*“我们已经确定了人工智能领域的三个方面，这些方面使它与以前的软件应用领域有着根本的不同:*
+
+1.  与其他类型的软件工程相比，发现、管理和管理机器学习应用所需的数据要复杂和困难得多
+2.  *模型定制和模型重用需要与软件团队中常见的技能非常不同的技能*
+3.  与传统软件组件相比，人工智能组件作为不同的模块更难处理——模型可能以复杂的方式“纠缠”在一起，并经历非单调的错误行为。”
+
+## 5.
+
+[**ML 测试分数:ML 生产准备就绪和技术债务削减的一项指标**](https://research.google/pubs/pub46555/) **， *Breck 等人*，2017 年 12 月**
+
+在我名单上的所有论文中，我对这篇论文最不熟悉(意思是我最近才碰到它)。在摘要中，作者表示他们将“提出 28 个具体的测试和监控需求，这些测试和监控需求是从大量生产 ML 系统的经验中得出的，以帮助量化这些问题，并提出一个易于遵循的路线图来提高生产就绪性和偿还 ML 技术债务。”。
+
+## 6.
+
+[**构建可复制的机器学习流水线**](https://arxiv.org/abs/1810.04570) **，*杉村。哈特尔。F* ，2018 年 10 月**
+
+所有机器学习从业者(即工业界或学术界)都需要建立可复制的模型。如果没有办法恢复过去的实验，不这样做可能会导致重大的经济损失、时间损失和个人名誉损失。本文涵盖了实践者在机器学习工作流程的整个生命周期中可能面临的再现性的各种挑战。本文接着描述了作者创建的一个合适的框架，以克服上述挑战。
+
+*“该框架由四个主要组件(数据、特征、评分和评估层)组成，这些组件本身又由定义明确的转换组成。这使得我们不仅能够精确地复制一个模型，而且能够跨不同的模型重用转换。因此，该平台极大地提高了离线和在线实验的速度，同时还确保了模型的重现性。”*
+
+这份清单绝非详尽。吴恩达建议从业者应该阅读[并理解]50-100 篇关于一个主题的论文，以便对该领域的需求有非常深刻的理解。
+
+理解研究论文不仅仅来自于阅读大量的研究。你可能需要偏离可信的在线资源，如博客文章和视频内容。因此，我添加了一些有价值的资源，以便更容易理解机器学习部署。
+
+*   [如何部署机器学习模型](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
+*   [以影子模式部署机器学习模型](https://christophergs.com/machine%20learning/2019/03/30/deploying-machine-learning-applications-in-shadow-mode/)
+*   [数据科学家十大软件开发基础](https://christophergs.com/machine%20learning/2019/04/21/software-engineering-fundamentals-for-data-scientists/)
+*   [监控生产中的机器学习模型](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+*   [监控是手段，不是目的](https://www.robustperception.io/author/brian)
+
+## 包裹
+
+许多从业者陷入了思维陷阱，认为他们不需要阅读研究论文——这经常发生在不那么学术的从业者身上(像我一样)。决定忽略研究很容易导致你在这个领域落后，因此重要的是要有一个学术头脑和习惯，同时仍然要实际应用自己。
+
+感谢阅读！
+
+如果你喜欢这篇文章，请通过订阅我的**[每周简讯](https://mailchi.mp/ef1f7700a873/sign-up)与我联系。不要错过我写的关于人工智能、数据科学和自由职业的帖子。**
+
+## **相关文章**
+
+**[](/building-reproducible-machine-learning-pipelines-c80407c4319f) [## 构建可复制的机器学习管道
+
+### 如何安全地部署机器学习模型
+
+towardsdatascience.com](/building-reproducible-machine-learning-pipelines-c80407c4319f) [](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [## 机器学习模型部署
+
+### 被遗忘的阶段
+
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [](/4-machine-learning-system-architectures-e65e33481970) [## 4 机器学习系统架构
+
+towardsdatascience.com](/4-machine-learning-system-architectures-e65e33481970) [](/the-machine-learning-workflow-1d168cf93dea) [## 机器学习工作流程
+
+towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea)**

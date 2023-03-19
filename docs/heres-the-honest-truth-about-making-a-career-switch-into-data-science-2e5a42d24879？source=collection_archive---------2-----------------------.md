@@ -1,0 +1,104 @@
+# 以下是将职业转向数据科学的真相。
+
+> 原文：<https://towardsdatascience.com/heres-the-honest-truth-about-making-a-career-switch-into-data-science-2e5a42d24879?source=collection_archive---------2----------------------->
+
+## 有志成为数据科学家的必读书目。
+
+![](img/028c4173a77535c22cc619bda45a6ffc.png)
+
+马库斯·温克勒在 [Unsplash](https://unsplash.com/s/photos/truth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上的照片
+
+2018 年初，我很想成为一名数据科学家。我认为这个标题听起来很有声望，我认为构建“机器学习模型”听起来很不错，而且这是一个很热门的职业。
+
+如果以上任何一点引起了你的共鸣，那么我鼓励你继续阅读。
+
+经常有人问我，如何从完全不相关的职业转向数据科学，比如会计或化学工程。
+
+这个问题我想了很多。一，因为当我想进入数据科学时，这是我过去常常问自己的问题。第二，因为我认为对数据科学有一种强烈的误解，而这正是本文的主要目的。
+
+# 闯入数据科学的真相。
+
+数据科学的真实情况是:
+
+## **1。不是每个数据科学家都做“数据科学”的工作。**
+
+“数据科学”一词涵盖了如此广泛的技能和工作职责，以至于一家公司的数据科学家可能看起来与另一家公司的数据科学家完全不同。根据我的经验，几乎没有任何数据科学家纯粹花时间构建机器学习模型。许多数据科学家还扮演数据工程师和/或数据分析师的角色。
+
+## **2。不是每个从事“数据科学”工作的人都有数据科学家的头衔。**
+
+另一方面，我认识很多从事数据科学项目的数据分析师和数据工程师，比如预测模型、异常检测模型和推荐系统。
+
+所以，你可以从中得到一些启示:
+
+1.  **思考数据科学家角色的哪一部分让你感兴趣，而不是职位本身。**你喜欢建立机器学习模型的想法吗？你想深入统计的世界吗？现在，我意识到，虽然我最初想成为数据科学家的理由并不是无效的，但它们也让我一开始就陷入了错误的心态——理解这一点将为你的职业生涯提供更多的方向和意义。
+2.  任何与数据相关的工作都是进入数据科学的良好开端。除了找“数据科学”的岗位，我还推荐看看数据分析师岗位、Python 开发者岗位、产品分析师岗位等等。原因是你仍将发展核心数据科学技能，如 SQL 和 Python，这也为你自己打开了许多机会。
+
+# 下一步是什么？开始一个项目。
+
+一旦你发现数据科学激发了你的兴趣，接下来要做的就是开始你自己的项目。我个人认为，完成一个个人项目比完成一个在线证书更有价值 100 倍，因为它让你为数据科学家的实际工作做更好的准备。
+
+我也明白想出一个项目创意可能很难，所以我会在下面留下一些想法:
+
+*   如果你是一个篮球迷，你能收集数据，看看什么因素最能代表一个球队赢得比赛吗？是 3 分命中率最高的球队吗？是主队吗？等等…
+*   如果你喜欢烹饪，看看你是否能找到一个食谱数据集(或收集你自己的数据)，并创建一个模型，为缺失的成分建议一种替代成分。
+*   如果你想进入深度学习的世界，你能创建一个检测某人是否戴着面具的模型吗？(YouTube 上有很多教程！)
+*   对于更多的项目想法，我会检查如下:
+
+[](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) [## 圣诞节 12 天的 12 个数据科学项目
+
+### 一天就能完成的相关且有价值的数据科学项目！
+
+towardsdatascience.com](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) 
+
+# 如果你还没有为一个项目做好准备…
+
+如果你觉得自己还没有准备好开始自己的项目，这里有一些切实可行的后续步骤，可以用来指导你的学习:
+
+1.  **从统计数据**开始。我认为统计学非常重要，因为大多数机器学习概念和数据科学应用都围绕着统计学。如果你害怕统计，数据科学可能不适合你。我会查看佐治亚理工学院名为[统计方法](https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m)的课程，或者[汗学院的视频系列](https://www.khanacademy.org/math/statistics-probability)。
+2.  **学习 Python 和 SQL** 。如果你更像 R 型的人，那就去吧。我个人从未和 R 合作过，所以我对此没有意见。您对 Python 和 SQL 掌握得越好，数据收集、操作和实现就越容易。我也熟悉 Python 库，如 Pandas、NumPy 和 Scikit-learn。我还建议您学习二叉树，因为它是 XGBoost 等许多高级机器学习算法的基础。
+3.  **学习线性代数基础知识。当你处理任何与矩阵相关的事情时，线性代数变得极其重要。这在推荐系统和深度学习应用中很常见。如果这些听起来像是你将来想要学习的东西，不要跳过这一步。**
+4.  **学习数据操作**。这至少占了数据科学家工作的 50%。更具体地说，了解更多关于特征工程、探索性数据分析和数据准备的知识。
+
+最后，这里有几个资源可以帮助你开始:
+
+[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
+
+### 连续 52 周，每周学点东西！
+
+towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [](/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12) [## 在你第一份工作之前获得现实生活数据科学经验的 3 种方法
+
+### 如何通过以下方式发展您的数据科学技能
+
+towardsdatascience.com](/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12) 
+
+# 感谢阅读！
+
+我希望你发现这很有见地！这是一篇固执己见的文章，但我认为许多人会同意我关于数据科学家的两个真理:
+
+1.不是每个数据科学家都做“数据科学”的工作。
+
+2.不是每个从事“数据科学”工作的人都有数据科学家的头衔。
+
+一如既往，我祝你学习一切顺利！:)
+
+**不确定接下来该读什么？我为你挑选了另一篇文章:**
+
+[](/why-you-should-consider-being-a-data-engineer-instead-of-a-data-scientist-2cf4e19dc019) [## 为什么你应该考虑成为一名数据工程师而不是数据科学家。
+
+### 一个新的丛林之王出现了
+
+towardsdatascience.com](/why-you-should-consider-being-a-data-engineer-instead-of-a-data-scientist-2cf4e19dc019) 
+
+**又一个！**
+
+[](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) [## 想成为数据科学家？不要从机器学习开始。
+
+### 有抱负的数据科学家最大的误解是
+
+towardsdatascience.com](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) 
+
+# 特伦斯·申
+
+*   ***如果你喜欢这个，*** [***跟我上媒***](https://medium.com/@terenceshin) ***了解更多***
+*   ***有兴趣合作吗？让我们连线上***[***LinkedIn***](https://www.linkedin.com/in/terenceshin/)
+*   ***报名我的邮箱列表*** [***这里***](https://forms.gle/tprRyQxDC5UjhXpN6) ***！***

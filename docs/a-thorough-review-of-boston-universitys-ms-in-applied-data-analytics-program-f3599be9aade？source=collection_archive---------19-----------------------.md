@@ -1,0 +1,89 @@
+# 波士顿大学应用数据分析硕士课程的全面回顾
+
+> 原文：<https://towardsdatascience.com/a-thorough-review-of-boston-universitys-ms-in-applied-data-analytics-program-f3599be9aade?source=collection_archive---------19----------------------->
+
+![](img/f2f71f6507dadca591bd0620d2564437.png)
+
+[alevision.co](https://unsplash.com/@alevisionco?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍照
+
+## 试着不要有偏见
+
+在我开始这个硕士项目之前，我正在寻找不同硕士项目的课程，并试图找到其他人的评论，以了解哪个项目适合我。现在，由于我的硕士课程即将完成，我想我应该写一篇评论来帮助其他正在寻找数据科学或分析硕士课程的学习者。
+
+在我进入 MS 程序之前，这里是我的背景。我有土木工程学士学位和环境工程硕士学位。所以，我不是计算机专业出身。我参加了为期六个月的编程训练营，并在 Coursera 上学习了很多关于 Python、应用数据科学、机器学习和统计学的在线课程。所以，我有一个很好的基础，即使我没有计算机科学的背景。
+
+> 我会试着详细解释如果你不带偏见或评判地选择这样做，你会得到什么
+
+## 微软程序
+
+这是一个完整的基于课程的硕士项目。但是在整个项目中会有很多项目。总共有八道菜。六门必修课和两门选修课。六要素是算法分析，用 R 打好分析基础，用 R 打好数据分析和可视化，用 Python 打好 Web 分析和挖掘、数据挖掘、数据科学。选修课有多种选择，如机器学习、大数据分析、高级数据库管理、设计和实现数据仓库、数理统计。
+
+我肯定选择了所有的要点，并选择了机器学习和大数据分析作为选修课。我就从这六个要领开始一个一个来说。
+
+> **算法分析**
+
+这是一门强化课程。研究了算法的时间和空间复杂度，以及常用的算法，如搜索排序算法、图论算法、动态规划、记忆算法等。要在这七周内真正掌握所有这些是不可能的，但它提供了一个很好的基础。有时候，所有的材料对于一个没有计算机科学背景的学生来说可能是压倒性的，但它是可以管理的。特别是，我们每周都有很棒的辅导员会议来帮助完成作业。
+
+> **R 分析的基础**
+
+本课程从一开始就教授 R 编程的基础知识。如果你没有任何 R 编程知识，没问题。从头说起。但是它移动得非常快。因为我已经非常了解 Python，所以我学得相当快。所以，如果你知道另一种编程语言，你是好的。本课程讲授使用 base R 进行数据分析和数据可视化的不同库。在本课程的稍后部分，将转向概率分布和抽样方法等统计主题。本课程还涉及正则表达式和文本挖掘。
+
+> **数据分析和可视化与 R**
+
+这是前一门课的续篇。它从上一门课程结束的地方开始，继续学习更高级的统计学主题。本课程教授一些更高级的库，用于数据分析、假设检验和数据建模。学完这两门关于 R 的课程后，任何人都应该对使用 R 进行数据分析和建模感到舒服了。
+
+> **网络分析和挖掘**
+
+本课程涵盖文本挖掘、web 数据挖掘、文本数据建模、从社交媒体中提取数据以及使用文本数据生成仪表板。你可以看到，在文本数据上做了很多工作。这大部分时间使用 R 编程语言。仅在前两周允许使用 Python。
+
+> **数据挖掘**
+
+坦白说，我在这门课中第一次知道机器学习模型属于数据挖掘，这感觉很奇怪。这个课程几乎没有编码。它涵盖了机器学习的一些基本构建模块，我们必须手动完成所有计算。我认为这很有帮助，因为它很好地教会了我很多概念。甚至一些流行的机器学习模型也是用简单的案例手工完成的。手动处理复杂的数据集几乎是不可能的。在学习了简单的数据集之后，我们使用 Weka 和 JMP Pro 来处理更大更复杂的数据集。在使用 Python 和它的库之前，我几乎完成了我在这个类中所做的所有事情，而不知道幕后发生了什么。这次我学到了幕后部分。
+
+> **使用 Python 的数据科学**
+
+学习这门课程需要了解 Python。因为它不教 python。它教授 Python 的数据科学库，如 Numpy、Pandas、Matplotlib、Seaborn 和 scikit-Learn。这意味着使用 Python 中不同的库进行数据分析、可视化和机器学习。这是一门强化课程，因为要在 6 周内涵盖很多内容。这对我来说并不难，因为我以前从网上课程中学到了大部分材料。但是如果对一个学生来说是新的，那就要花很多时间去掌握每周的材料。
+
+> **机器学习**
+
+正如你从前面的描述中看到的，一些课程已经关注机器学习和数据建模。所以，期望你在来上这门课之前，已经了解了机器学习。虽然课程的名称是“机器学习”，但它实际上专注于神经网络和深度学习。从从头开始开发基本的神经网络开始，然后使用 Tensorflow 执行更高级的主题。本课程重点学习 TensorFlow 和 Keras 功能背后的概念，并使用 TensorFlow 和 Keras 构建深度学习模型。
+
+这些是我能谈论的所有课程。我还没上过大数据分析。那是我唯一剩下的课程。所以，我不能谈论这个。
+
+## 结论
+
+我不是在这里谈论利弊。我只想详细分享你在课程中学到的东西。因为在课程网站上看课程表可能没那么清楚。我试着在这里多解释一些。如果你注意到，六门基础课程中的四门涵盖了一些或大量的预测建模。所以，如果这就是你想要的，这太好了！
+
+最后，我应该提到每门课程都需要很多时间。每周都有作业，有些课程每周都有作业和测验。大多数课程每周都有很多内容。我目前没有工作，但在学期快结束的时候，感觉还是很忙碌。不过，我对此很认真。因为我想改变我的职业道路。根据你的水平，可能需要每周至少 20 小时或更多的学习时间。
+
+我只能分享这么多了！
+
+请随时在 Twitter 上关注我。
+
+## 更多阅读
+
+[](/how-i-switched-to-data-science-f070d2b5954c) [## 我如何转向数据科学
+
+### 我的旅程、错误和收获
+
+towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
+
+### 我作为波士顿大学数据分析专业硕士学生的经历和体会
+
+towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [## 关于 Keras 和 Tensorflow 中情感分析的一步一步的完整教程
+
+### 用于数据准备、深度学习模型开发和训练网络的完整工作代码
+
+towardsdatascience.com](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
+
+### 开发一个分类模型和计算所有流行的性能评估指标使用…
+
+towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
+
+### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
+
+towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b) [## 完全控制 Matplotlib 中的支线剧情
+
+### 使用支线剧情和 GridSpec 一起更好地控制
+
+towardsdatascience.com](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b)

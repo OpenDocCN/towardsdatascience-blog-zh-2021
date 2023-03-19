@@ -1,0 +1,179 @@
+# 帮助你理解人工智能和机器学习论文的 8 个伟大的 YouTube 频道
+
+> 原文：<https://towardsdatascience.com/7-great-youtube-channels-to-learn-the-latest-advancements-in-machine-learning-and-ai-f3a9b5f56b65?source=collection_archive---------23----------------------->
+
+## 如果你很难理解机器学习论文，这些可以帮助你
+
+![](img/2ec8f6ef1bb8a865a97923174c0e8c4b.png)
+
+丹·迪莫克在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+随着机器学习和人工智能的快速发展，我们见证了一个越来越大的挑战，即跟上步伐，因为该领域的发展速度快于我们可能能够跟上的速度。
+
+此外，一篇新论文通常是建立在其他先前发表的作品之上的，他们可能不会给你关于它的细节，而你也需要去阅读那篇特定的论文。
+
+在你理解一篇你即将阅读的论文之前，你需要查阅和理解的这一系列论文越来越长。
+
+幸运的是，至少有人可以帮你。
+
+*你还记得 YouTube 吗？*
+
+是啊，那个大平台，有更多你这辈子可以看的视频。
+
+事实证明，它不仅仅是另一个可以让你观看有趣视频的平台。还有很多有用的渠道，甚至可以帮助你理解论文。
+
+你可能以前听说过其中的一些渠道，也许你还知道其他渠道，它们在帮助我们更好地理解论文方面做得很好。
+
+他们非常节省时间，为许多论文准备了 YouTube 视频。
+
+你可能知道，它们当然是免费的 YouTube 视频，你可以观看并更好地理解许多论文。
+
+一些视频是简短的总体概述，而另一些则是深入探讨。
+
+你可以浏览一些短的，如果你感兴趣的话，你当然可以直接去看长的。
+
+事不宜迟，这是清单。
+
+# 扬尼克·基尔彻
+
+[](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) [## 扬尼克·基尔彻
+
+### 我制作关于机器学习研究论文、编程和人工智能社区问题的视频，以及更广泛的…
+
+www.youtube.com](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) 
+
+Yannic Kilcher 最近完成了苏黎世联邦理工学院的博士学位。他自己是一名研究人员，所以他已经完全沉浸在研究世界中了。
+
+他有非常翔实的视频，详细介绍了许多与深度学习、自然语言处理和强化学习特别相关的论文。
+
+他通常对自己准备的视频也很快，这使得其他人更容易去了解那些在 Twitter 上或整个研究社区吸引了很多注意力的热门论文。
+
+他也非常迷人，看起来很有趣。
+
+你可以看到一段他详细解释 GPT 3 号论文的视频。
+
+他有时甚至会讨论一些与机器学习相关的模因:
+
+# 阿拉丁·佩尔森
+
+[](https://www.youtube.com/c/AladdinPersson/about) [## 阿拉丁·佩尔森
+
+### 我制作的视频大多与机器学习和深度学习有关，但有时我也会做其他随机的东西。我的目标…
+
+www.youtube.com](https://www.youtube.com/c/AladdinPersson/about) 
+
+Aladdin 是一名数学专业的学生，但他已经上传了许多实践教程，如关于 Pytorch、Tensorflow 的视频，以及论文的实现。
+
+此外，它包括论文的深入解释，带领你通过一些论文的所有本质细节。
+
+在写这篇文章的时候，它通常包括回顾一些相对旧的论文的视频。
+
+然而，这对许多人来说仍然是很有帮助的，尤其是那些刚刚入门的人，或者那些自己没有理解这些论文的人。
+
+这个频道相对来说比较新，但是它在不断地更新，它可以让你放心，你可能会定期看到新的视频。
+
+# 2 分钟纸
+
+[](https://www.youtube.com/user/keeroyz/) [## 两份会议记录文件
+
+### 活着是多么美好的时光啊！
+
+www.youtube.com](https://www.youtube.com/user/keeroyz/) 
+
+这是发展迅速的最受欢迎的频道之一，在撰写本文时已经吸引了近百万的订户。
+
+虽然现在大多数情况下，它的视频都没有预期的 2 分钟长，但 Károly Zsolnai-Fehé的解释很快就提到了论文的要点。
+
+他经常发表文章，通常会给你一个关于某篇论文的简要概述，给你相关论文的链接和参考。
+
+此外，他的视频标题通常非常有吸引力，甚至可以引发非技术人员的兴趣，他们可能希望大致了解机器学习和人工智能领域的进展，如下所示:
+
+在他的许多视频中，他还通过以下方式表达了对该领域进步的惊叹:
+
+> “活着是多么美好的时光啊！”卡罗利·佐尔奈-费希尔
+
+# 亨利·艾实验室
+
+[](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) [## 亨利·艾实验室
+
+### 欢迎来到亨利人工智能实验室！我对深度学习和人工智能技术感到非常兴奋！我试着每周更新…
+
+www.youtube.com](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) 
+
+除了大量涵盖研究领域最新消息的视频外，该频道还发布与研究相关的视频。
+
+这里是 OpenAI 发表的令人印象深刻的 DALL-E 论文的视频摘要。
+
+你可以在这里找到一个[完整的播放列表](https://www.youtube.com/playlist?list=PLnn6VZp3hqNs49KDVpzEAYP0OVcRoZape)，其中有许多视频，以及许多深度学习论文的简短摘要，这些论文的主题包括计算机视觉、自然语言处理、图形嵌入、生成对抗网络、强化学习等。
+
+你可以在下面 GitHub 上的自述文件中看到他整理的[视频](https://github.com/CShorten/HenryAILabs-VideoList)。
+
+# 蒂姆·斯卡夫的机器学习道场
+
+[](https://www.youtube.com/c/MachineLearningDojowithTimScarfe) [## 蒂姆·斯卡夫的机器学习道场
+
+### 欢迎来到机器学习道场 YouTube 频道！这个频道是由蒂姆·斯卡夫博士和一群…
+
+www.youtube.com](https://www.youtube.com/c/MachineLearningDojowithTimScarfe) 
+
+这个频道由 Tim Scarfe 博士与其他人合作运营，在这里你不仅可以找到论文评论，还可以找到与项目相关的讨论、采访以及对机器学习主题的深入研究。
+
+在这段简短的介绍视频中，你可以看到他的兴奋之情:
+
+他们还有一个 [Discord group](https://discord.gg/s8zEsAK) ，以防你想在那里进一步讨论你的研究想法和潜在的合作。
+
+此外，Tim 博士与 Yannic Kilcher 和 Connor Shorten 一起举办了一个名为“机器学习街谈”的[播客](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)。
+
+# 深度学习的点滴
+
+[](https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg) [## 深度学习的点滴
+
+### 分解深度学习，一点一点。在这个频道中，我解释了我认为有用的深度学习论文…
+
+www.youtube.com](https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg) 
+
+该频道包括解释主要与计算机视觉、自然语言处理等相关的深度学习论文的视频。
+
+这个频道不太为人所知，在我写这篇文章的时候，它也没有很多你可以观看的视频。
+
+这里有一篇论文的快速回顾，你可以看看，更好地理解他们解释事物的方式:
+
+然而，不要让这阻止你看这些内容，至少从中学到一些东西。
+
+# 机器学习和人工智能学院
+
+[](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos) [## 机器学习和人工智能学院
+
+### 为了让我们知道你们想知道什么，请随意填写这份调查…
+
+www.youtube.com](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos) 
+
+这个频道由一些已经完成博士学位的人组成。
+
+他们在其频道中包含的主题列表是深度强化学习、深度学习、概率建模、高斯过程、概率论、线性代数以及凸和非凸优化。
+
+虽然在撰写本文时，它只包含 13 个视频，但根据您的兴趣，有一些非常有价值的视频值得您花时间观看。
+
+以下是对 Wasserstein 鲁棒强化学习的深入回顾:
+
+# Arxiv 见解
+
+[](https://www.youtube.com/c/ArxivInsights) [## Arxiv 见解
+
+### 我的名字是史云光·斯廷布鲁格，我阅读了大量关于机器学习和人工智能的论文。但是纸张可能有点干燥
+
+www.youtube.com](https://www.youtube.com/c/ArxivInsights) 
+
+距离这个频道最后一次发布视频已经一年多了，到目前为止它只包含 11 个视频。
+
+尽管如此，Arxiv Insights 还是有一些很棒的内容值得一看。
+
+它包含深入的探讨，也有评论者本人，史云光·斯廷布鲁格，在视频中向你解释那些可以让你与你正在听的人有更私人联系的论文。
+
+在写这篇文章的时候，他还没有发布很多视频，但已经发布的视频组织得非常好，值得观看和学习。
+
+下面是一个视频，它详细介绍了变型自动编码器:
+
+差不多就是这样。
+
+如果你知道我们应该保留的任何其他好的频道，请不要犹豫，在下面的评论部分告诉我们。

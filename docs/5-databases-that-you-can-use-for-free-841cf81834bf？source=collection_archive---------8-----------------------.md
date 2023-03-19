@@ -1,0 +1,81 @@
+# 5 个可以免费使用的数据库
+
+> 原文：<https://towardsdatascience.com/5-databases-that-you-can-use-for-free-841cf81834bf?source=collection_archive---------8----------------------->
+
+## 你不需要在高质量的数据库管理上花很多钱
+
+![](img/82130f64495d1a59c14cb0eaab78477a.png)
+
+美国宇航局在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 拍摄的照片
+
+没有数据就不能说数据科学；数据科学本质上是一个科学领域，它试图翻译和传递数据的故事，并使用该故事在未来做出更好的业务决策。所以我认为，挖掘数据试图讲述的隐藏故事本质上是数据科学家在每个项目中所做的事情。
+
+处理可能是您最重要的任务，通常您会使用某种数据库来完成这项任务，无论是本地数据库还是基于服务器的数据库。通常，当你是一名专业数据科学家时，无论你是独立工作还是在公司工作，你将在项目中使用的数据都会提供给你，所以你所要做的就是使用它，利用它并揭示它的模式和趋势。
+
+你需要将大部分注意力和精力放在这项任务上，而不是如何管理数据、存储数据或扩展存储。此外，如果你是一个自由职业的数据科学家，或者是一个初学者，找到一个灵活而强大的好数据库并不总是负担得起的。并不是所有的免费选项都是好的。
+
+[](/databases-101-sql-vs-nosql-which-fits-your-data-better-45e744981351) [## 数据库 101: SQL 与 NoSQL:哪个更适合你的数据？
+
+### 差异和最佳实践
+
+towardsdatascience.com](/databases-101-sql-vs-nosql-which-fits-your-data-better-45e744981351) 
+
+当我学习数据科学的基础知识时，我陷入了寻找好的、免费的数据库系统的困境，这些系统给了我所需要的所有能力和灵活性，而没有任何隐藏的成本。因此，我可以专注于讲述我的数据故事，而不是浪费时间管理和处理数据的存储和处理。
+
+在本文中，我将带您浏览 5 个数据库管理系统，您可以免费使用它们，它们提供了灵活性、强大的功能以及顺利管理项目数据所需的一切。
+
+# №1: HarperDB
+
+让我们从 [HarperDB](https://harperdb.io/product/harperdb-cloud/) 开始吧。HarperDB 是一个 SQL/ NoSQL 数据管理平台，它是完全索引的，易于扩展，具有永久免费的权限，并且比 MongoDB 快得多。它还可以处理不同格式的数据，从 CSV 到 JSON，并带有一个简单的 REST API 端点，便于与大多数编程语言集成。
+
+HarperDB 除了离线管理工作室之外，还提供了一个云平台，该平台易于安装和导航，与语言无关，并且不需要复杂的数据库配置。开发人员为开发人员构建了它，使他们的数据管理高效而快速。
+
+# №2:重新思考 DB
+
+开源帮助技术领域进入了一个新的层次，这个列表中的第二个数据库系统是第一个开源的、可伸缩的数据库。 [RethinkDB](https://rethinkdb.com) 。RethinkDB 是通过在发生变化时推送 JSON 数据而专门为实时应用程序构建的。
+
+由于当今现实生活中的应用程序在规模上快速增长，RethinkDB 提供了一个快速且简单易用的 web 界面，只需点击几下鼠标即可帮助您扩展项目和应用程序。我最喜欢 RethinkDB 的一点是它的社区，以及他们如何一直致力于改进它，使它对全世界的开发者更有用。
+
+[](/databases-101-how-to-choose-a-python-database-library-cf19d1157d45) [## 数据库 101:如何选择 Python 数据库库
+
+### SQL，NoSQL，所有你需要知道的 Python 数据库库
+
+towardsdatascience.com](/databases-101-how-to-choose-a-python-database-library-cf19d1157d45) 
+
+# №3: FaunaDB
+
+接下来，我们有[的 FaunaDB](https://fauna.com/) 。FaunaDB 是另一个以开发者为中心的；它是作为一个安全的 web 本地 GraphQL API 提供的。此外，它是一个灵活的关系型查询数据库，无需编写额外的代码或手动分配新的资源，就可以轻松扩展。
+
+FaunaDB 提供了 n 个索引数据文档，您可以使用这些文档根据项目需求和数据类型创建不同的数据模型。此外，它使您能够组合关系、文档和图形，并消除不限制键数的异常。
+
+# №4:蟑螂 DB
+
+接下来是一个有趣的命名数据库，我第一次看到它时忍不住笑了，[cocroach db](https://www.cockroachlabs.com/product/)。CockroahDB 是一个可靠的数据库，可以以相同的效率和速度用于小型和大型应用程序。它提供了一个分布式 SQL，具有关系文档数据库的易用性和云平台的强大可扩展性。
+
+CockroachDB 是基于 Kubernetes for SQL 构建的，可以支持 ORM(对象关系映射)。它提供数据安全性，并允许您轻松扩展您的应用程序。
+
+[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
+
+### 不管你的技术背景如何，都要学习 Python。
+
+towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+
+# №5: CouchDB
+
+最后但同样重要的是一个 Apache 数据库，正如它的名字所暗示的那样，使用起来很舒服。CouchDB 是一个多主同步数据库，可以针对大数据应用轻松扩展。与 RethinkDB 类似，CouchDB 是一个开源数据库，您可以对其进行个性化设置，以使其对您和您的数据更好。
+
+您可以使用 CouchDB 和 JSON API 在本地、全球、在线或离线服务器上安全地存储您的数据，couch db 和 JSON API 是为效率和可靠性而设计和构建的。此外，CouchDB 复制协议允许您通过友好的查询语言和利用 MapReduce 进行高效数据检索的能力，在不同的服务器集群之间自由轻松地移动数据。
+
+# 最后的想法
+
+每个数据科学家需要完成的基本任务之一是以高效、灵活和强大的方式管理他们的数据库。在每个数据科学项目中，我们设计解决方案、实施算法并编写代码，以帮助我们更好地理解数据并基于数据做出更好的决策。
+
+理解数据、其趋势以及其含义应该是数据科学家的主要关注点，因为这是项目的核心。但是，如果我们没有一个坚实的数据库结构，使我们能够有效地与数据通信，在需要时使用数据，并在可能的情况下添加数据，我们就无法真正专注于这一部分。
+
+[](/7-tools-used-by-data-scientists-to-increase-efficiency-a0eb1edcc892) [## 数据科学家用来提高效率的 7 种工具
+
+### 让您的工作流程更简单、更快速、更省时。
+
+towardsdatascience.com](/7-tools-used-by-data-scientists-to-increase-efficiency-a0eb1edcc892) 
+
+如果您正在寻找一个灵活、高效、可扩展的数据库，那么您一定像我一样在网上到处跑，测试和尝试可用的选项，寻找一个最适合您和您的数据而又不花费大量金钱的数据库。在我今天的文章中，我在你面前展示了 5 个免费的强大的数据库，你可以在你的下一个项目中轻松使用，而不用担心任何额外的成本。

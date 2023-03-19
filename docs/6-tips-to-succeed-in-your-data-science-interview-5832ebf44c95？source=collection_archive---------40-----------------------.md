@@ -1,0 +1,108 @@
+# 在数据科学面试中创造转折点的 6 个技巧
+
+> 原文：<https://towardsdatascience.com/6-tips-to-succeed-in-your-data-science-interview-5832ebf44c95?source=collection_archive---------40----------------------->
+
+## 如何避免一些重大错误，增加你获得工作的机会
+
+如果你在寻找一名数据科学家/工程师/分析师，那么如今被选中参加面试真的很难。市场上有越来越多的人，现在世界上大多数地方的就业市场都在略微好转。
+
+![](img/f7a419b92842fc4f7a1a2799f6707cca.png)
+
+克里斯蒂娜@ wocintechchat.com 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+在我之前的文章[从大三学生那里获得数据科学工作的一些技巧](/a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47)中，我解释说，我使用求职网站 LinkedIn 的回电率大约是 5-6%。我还可以使用其他一些策略来增加回电次数，比如通过 LinkedIn 建立关系网，或者通过电子邮件联系招聘经理。我可能会在另一篇文章中扩展我的想法，敬请关注。
+
+回到文章的主要话题，在我找工作的时候，接到招聘人员的回电(很有可能)对我来说是很少见的。
+
+面试是一个奇怪的过程，你需要向招聘人员或招聘经理展示你有资格申请你刚刚在网上看到的职位。根据我的个人经验，在与招聘人员、朋友、招聘经理交谈后，以及从书中(我在文章底部列出了一些)，我从我的失败中获得了一些提示。
+
+如果你已经学习了几个月的数据科学，最终得到了面试的机会，你可能会认为你已经完成了。不幸的是，你很可能错了，因为面试中有一套全新的技能，非常特别。
+
+## **1 —了解你申请的业务**
+
+这是我在面试失败后从招聘经理那里得到的第一个反馈。我和咨询公司的招聘经理完成了面试的第二步，他问我是否知道这家公司在从事哪些领域的工作。可悲的是，当时因为有一份全职工作，我没有分配足够的时间来充分了解业务，我失败了。
+
+从那以后，每次我被选中参加面试，甚至是第一轮面试，我都会对公司正在做的事情做一点研究。有时候这很容易，因为大多数公司都有一个网站，你可以了解他们的工作领域。此外，一些公司可能会在 Medium 上写一篇关于数据科学的文章，你可以得到一些关于他们正在使用的技术的提示，这些提示可以在你与经理交谈时对你有利。
+
+## **2-不知道所有的技能没关系，但是……**
+
+我记得的一个案例是，我在一家大公司面试，他们问了我很多越来越难的软件工程和数据工程问题。他们问了我一些非常学术的问题。
+
+当我给出答案时，面试官显然很失望。我觉得面试官问的问题与其说是展示我的想法，不如说是一个小游戏。
+
+*有一份工作是关于你解决你不知道的事情的足智多谋。这不是你走进一个房间就知道所有你需要知道的事情的能力。*
+
+— ***艾米丽·罗宾逊和杰奎琳·诺利斯在数据科学领域开创事业***
+
+但是，我不建议人们对一个问题说“我不知道”，相反，我总是试图论证我的思维方式。例如，我记得有人问我关于建设一条通往 GCP 的微服务管道的问题。由于我没有使用这个平台的经验，我试图解释我将如何在 AWS 中使用它，因为我一直在使用这个平台。
+
+## **3-询问你是否知道**
+
+突发新闻！我们是人类，我们不是机器(到目前为止)。因此，不理解招聘人员、招聘经理等的提问是完全正常的。如果你没有清楚地理解问题，那么要求重复问题是完全可以的。随时让你的面试官重复这个问题。
+
+![](img/80735b358fef7c36bca4da59af990dbd.png)
+
+照片由 [Akhilesh Sharma](https://unsplash.com/@fotonium?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+## **4-对你的面试官表现出兴趣**
+
+作为一名申请人，我有时觉得面试是公司测试你的机会，看你是否适合。不过，这也是你看看自己是否喜欢他们的机会。面试过程有点像你、求职者和公司之间的调情。
+
+在会议开始前，我通常会写一些问题，在对这个角色/公司有更多了解后，我通常会增加一些问题。根据你得到的回答，你可以判断这家公司是否适合你。
+
+在我看来，不提问对面试官来说是一个危险信号，他或她会认为你对这个职位和/或公司不感兴趣。
+
+![](img/968cfa772a7c459137de9fee063ccdc9.png)
+
+照片由 [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+## 做好准备
+
+很常见的想法是(我也是其中之一)相信你可以不做任何准备就走进面试，认为你的经历和简历会让面试官印象深刻，但事实并非如此。
+
+你很容易难以回答这样的问题，比如“告诉我们一次你遇到麻烦或与你的经理意见相左的时候”，除非你真的准备好了，你可以喋喋不休地和圈子里的人说话。在我看来，没有什么比有人这样说话更糟糕的了。学习这种技能的一个方法是尽可能多地进行面试，但是如果你的回电率是 5%，你需要一点时间来学习。否则，我发现的方法是检查你将要面对的典型问题。
+
+因为无论你在哪里面试，你都要遵循同样的步骤，你会面临行为问题，技术问题，可能还有一些商业案例问题。
+
+![](img/c39103d31fcfa78d8b6890d8a1efbebe.png)
+
+在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Jametlene Reskp](https://unsplash.com/@reskp?utm_source=medium&utm_medium=referral) 拍摄的照片
+
+我的建议是，了解常见的行为问题。还要检查向数据科学家/工程师/分析师提出的技术问题的类型，你可以在网上找到很多，大多数大公司都在使用相同的问题集！
+
+这里有一篇来自[特伦斯·申](https://medium.com/u/360a9d4d19ab?source=post_page-----5832ebf44c95--------------------------------)的关于微软常见问题的精彩文章。
+
+[](/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) [## 微软数据科学面试问答！
+
+### 微软面试中一些数据科学问题的演练
+
+towardsdatascience.com](/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) 
+
+## 6 —反馈帮助你变得更好
+
+我喜欢反馈，在体育或职业环境中。好的反馈可以帮助你变得更好，了解你的差距。因此，每次我面试失败，我总是试图从招聘经理那里得到反馈。但是不要试图在面试中寻求反馈，你可能会让面试官尴尬，让情况变得不舒服。我认为更好的方法是，如果你收到一封电子邮件说你失败了，你可以跟进并寻求反馈，只是要知道招聘经理可能没有时间回答你和/或在法律上可以不提供任何反馈。
+
+并不是说你已经学会了我的成功面试的 6 个技巧，你知道该怎么做，我不能向你保证这些技巧会给你一份工作，但我认为你可以增加获得工作的机会。如果你没有达到这一步，我写了另一篇关于如何准备简历的文章。
+
+[](/a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47) [## 从大三学生那里获得数据科学工作的一些技巧
+
+### 一位前求职者给现在求职者的建议
+
+towardsdatascience.com](/a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47) 
+
+祝你旅途好运！
+
+# 感谢您的阅读！
+
+如果你喜欢我的工作，想支持我…
+
+1.  你可以从我在**媒体** [这里](https://medium.com/@laurentrisser67)跟我开始。
+2.  在 **LinkedIn** [这里](https://www.linkedin.com/in/risserl/)关注我。
+
+## 如果你喜欢这个主题，请继续阅读:
+
+[在数据科学领域建立职业生涯](https://www.manning.com/books/build-a-career-in-data-science)艾米丽·罗宾逊和杰奎琳·诺利斯
+
+[像数据科学家一样思考](https://www.manning.com/books/think-like-a-data-scientist?gclid=CjwKCAjw7J6EBhBDEiwA5UUM2p0_Dr6hFMw3IkQwNIWsotU9zXxrFlo_30doECOxK_Z92_E_n_YiUhoCJ-EQAvD_BwE)Brian Godsey 著
+
+[在数据科学访谈中听到的:超过 650 个最常见的访谈问题&答案](https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320/ref=cm_cr_arp_d_product_top?ie=UTF8)由 Kal Mishra 提供

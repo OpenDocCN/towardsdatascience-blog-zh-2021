@@ -1,0 +1,69 @@
+# 回答“这需要多长时间？”的 4 步流程
+
+> 原文：<https://towardsdatascience.com/a-4-step-process-to-answer-how-long-will-this-take-d0b44250ab90?source=collection_archive---------33----------------------->
+
+## 如何解决这个共同的利益相关者问题
+
+![](img/fb1c9157e492ccbddb34ce5a0e2f57f7.png)
+
+来自[佩克斯](https://www.pexels.com/photo/black-and-yellow-analog-clock-3283142/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)的[斯塔斯·克诺普](https://www.pexels.com/@stasknop?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)的照片
+
+作为数据科学家或数据分析师，利益相关者会问你一个常见的问题:“这需要多长时间？”当我第一次成为数据科学家时，我发现这个问题很难回答。如果我说我花了一个月的时间来构建一个模型，但是我不能交付，这会伤害我的涉众对我能力的看法吗？如果我更快地构建模型，我的涉众会认为我倾向于高估吗？如果你发现自己像我一样难以提供更好的时间估计，试试这个我开发的帮助我提供更准确时间表的 4 步过程。
+
+## 1.确定项目范围
+
+与风险承担者召开会议，确定项目范围和预期的可交付成果。确定项目干系人想要解决的业务目标和问题。
+
+例如，市场营销要求您建立一个模型来预测客户流失。根据模型的使用方式，项目的范围会有很大的不同。如果营销计划向可能流失的客户发送电子邮件，那么这意味着如果没有数据工程师的帮助，您将需要更多时间在建立模型后将模型投入生产。如果营销只是想知道预测客户流失可能性的首要因素，那么这将是一个不需要投入生产的特别模型。
+
+## 2.确认数据可用性
+
+确定项目范围后，确认完成项目所需的数据可用。此外，检查是否有足够的历史数据来建立一个有意义的模型或进行详细的分析。
+
+如果您需要将新数据引入数据仓库，请安排额外的时间来完成这项工作。如果您需要数据工程师或其他团队的帮助，请确保将此作为项目完成的一个依赖项。
+
+## 3.列出项目任务
+
+为项目创建一个高级任务列表，并估计完成每个任务所需的时间。例如，要构建客户流失模型，任务示例可以是:
+
+*   探索性数据分析
+*   数据准备和特征工程
+*   模型开发
+*   模型调整
+*   总结模型结果以供利益相关方签署
+*   生产模型
+
+把所有任务的时间加起来，你就会对完成项目所需的时间有一个初步的估计。
+
+## 4.应用蒙混因素
+
+当您处理一个项目时，总会有一些您没有预算时间的意外事件—更长的数据准备、模型运行时间或模型调整。你可能需要其他团队的帮助，这会增加项目时间。考虑到这些不可预见的情况，应用一个蒙混因素。蒙混因素还应该考虑到你通常花在会议和回答问题上的时间，这些时间会占用你在项目上的时间。
+
+使用过去项目的估计和实际完成时间来计算出你的蒙混因素。如果你估计 20 天，但实际上花了 30 天，那么你的蒙混因素是 30 除以 20 或 1.5。如果您在步骤 3 中估计当前项目需要 25 天，则用 25 乘以 1.5，给出 38 天(或大约 7.5 周)作为完成项目的估计时间。
+
+## 最后的想法
+
+无论您是数据科学家还是数据分析师，被问到“这需要多长时间”并不是一个很难回答的问题。
+
+概括来说，使用以下 4 个步骤:
+
+1.  确定项目范围。
+2.  确认项目所需的数据可用性。
+3.  定义高级任务，并计算每项任务的预计时间。
+4.  对步骤 3 的总数应用一个模糊系数，以考虑意外事件、会议时间和回答问题。
+
+## 你可能也会喜欢…
+
+[](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
+
+### 将数据科学与数据分析相结合
+
+medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [## 如何向非技术人员展示机器学习结果
+
+### 展示利益相关者能够理解的模型结果
+
+towardsdatascience.com](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [## 如何创建成功的数据演示
+
+### 针对不同受众的演示技巧
+
+towardsdatascience.com](/how-to-create-a-successful-data-presentation-7eae7a9a41f)

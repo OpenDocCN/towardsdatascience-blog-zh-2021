@@ -1,0 +1,93 @@
+# 聊天机器人一瞥
+
+> 原文：<https://towardsdatascience.com/a-brief-look-at-chatbots-98cfc846b0f7?source=collection_archive---------49----------------------->
+
+## [自然语言处理笔记](https://towardsdatascience.com/tagged/nlpnotes)
+
+## 探索聊天机器人分类
+
+![](img/23ffb5f7ffbe25d2a25cef08d333402d.png)
+
+照片由 [Jeffery Ho](https://unsplash.com/@jefferyho?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
+
+## 什么是聊天机器人？
+
+我不会定义聊天机器人是什么，我会把它留给一些可靠的来源…
+
+“聊天机器人是一种软件应用程序，用于通过文本或文本到语音进行在线聊天，而不是提供与真人代理的直接联系”**来源** : [维基百科](https://en.wikipedia.org/wiki/Chatbot)。
+
+“聊天机器人是一种互动系统，允许用户用自然语言进行互动。他们通常通过文本进行互动，但也可以使用语音界面。
+
+“在最基本的层面上，聊天机器人是一种模拟和处理人类对话(无论是书面还是口头)的计算机程序，允许人类与数字设备进行交互，就像他们与真人进行交流一样”**来源** : [甲骨文](https://www.oracle.com/uk/chatbots/what-is-a-chatbot/)。
+
+[](/a-primer-on-conversational-ai-d20c7a4b2a87) [## 对话式人工智能入门
+
+### 了解对话式人工智能及其如何帮助人类
+
+towardsdatascience.com](/a-primer-on-conversational-ai-d20c7a4b2a87) 
+
+## 目标导向&闲聊
+
+聊天机器人可以分为两大类:面向目标的对话或闲聊。
+
+**面向目标的对话框**
+
+作为一种习惯，人类倾向于参与谈话以达到某种目的。为了在对话结束时达到既定目标，一方会从另一方寻求相关信息，因此，寻求信息的一方需要确切知道他们在对话结束时想要达到的目标。当订购比萨饼或预订火车票时，可以找到这些类型的对话代理的例子。
+
+由于一个关键方面，可推广性和可伸缩性受到显著阻碍。他们的定义。基于它们的定义，面向目标的对话系统通常是特定领域的，这意味着它们需要特定领域的知识。
+
+**闲聊**
+
+如果我们所有的对话都像面向目标的对话所描绘的那样是事务性的，那就奇怪了；人类也有缺乏结构和方向的一般性对话。这些互动形式自由，观点鲜明，涵盖了一系列不同的主题。
+
+正如你可能已经猜到的那样，目标的缺失使得聊天对话代理成为一个非常难以解决的任务，因此它被认为是一个展现出巨大希望的未来。例如，想象一下创造一个聊天机器人的想法，它可以与孤独和抑郁的人进行积极的对话——它甚至可以提供护理，但我超越了自己。
+
+## 进一步分解它…
+
+**基于流量的机器人**
+
+基于流的对话代理遵循预定义的对话流；对话以类似流程图的方式映射，因此每次查询方向系统发送请求时，机器人都会理解并记录整个对话过程中的信息，这将允许它始终提供适当的响应。
+
+比方说，我们用基于流的对话代理订购比萨饼。用户会逐渐建立他们喜欢的比萨饼来表达他们的偏好，因此，要求机器人能够理解并记住用户过去说过的所有事情，并询问相关问题来帮助用户达到订购比萨饼的目标。
+
+**开放式机器人**
+
+开放式对话代理主要用于娱乐目的，这意味着这些类型的机器人的一个重要方面是，它们能够与用户就一系列主题进行对话，而不必保持特定的方向或流程。这些类型的代理在不利用预先存在的模板或固定问答对的情况下进行对话，并且非常擅长从一个主题转移到下一个主题。
+
+例如，你可以问机器人它在做什么，它会回答并问你同样的问题。当你回复它的回复时，它会要求你根据你的回复提供更多的信息，等等。
+
+**常见问题机器人**
+
+FAQ 对话代理具有一组固定的响应，它们可以在确定用户发送的查询的含义时使用这些响应。在这些代理中，来自用户的响应不依赖于先前的响应。
+
+在我题为 [*的文章中，我用深度学习*](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) 用 Python 构建了一个非常简单的聊天机器人。请务必查看它，以了解关于这种类型的对话代理的更多信息。
+
+[](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) [## 一个简单的深度学习的 Python 聊天机器人
+
+### 如何建立自己的朋友
+
+towardsdatascience.com](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) 
+
+## 包裹
+
+聊天机器人开启了一个新的科技时代；这些对话界面使企业能够简化人与他们必须提供的产品或服务之间的交互，从而显著改善客户体验——这对企业来说也很好，因为企业仍然可以以客户为中心，但价格更低。
+
+感谢您的阅读！
+
+如果你喜欢这篇文章，请通过订阅我的**[每周简讯](https://mailchi.mp/ef1f7700a873/sign-up)与我联系。不要错过我写的关于人工智能、数据科学和自由职业的帖子。**
+
+## **相关文章**
+
+**[](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
+
+### 一定要看看这些书
+
+towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
+
+### 为什么你仍然应该学习启发式和基于规则的方法
+
+towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7) [## 提示和技巧:为 NLP 任务增加数据
+
+### 扩大 NLP 数据集的方法
+
+towardsdatascience.com](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7)**

@@ -1,0 +1,105 @@
+# SQLite vs TinyDB
+
+> 原文：<https://towardsdatascience.com/sqlite-vs-tinydb-7d6a6a42cb97?source=collection_archive---------13----------------------->
+
+## 轻量级数据库之战
+
+![](img/2945eff6bdd254afa27c651dd76f0b93.png)
+
+罗曼·辛克维奇在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+就在最近我写了一篇关于 TinyDB 是什么以及如何使用它的文章。在解释 TinyDB 时，我注意到了与 SQLite 的一些相似之处。这让我想知道这两个数据库有多相似。理论上，这两个数据库有相对相同的目标。这两个数据库都是轻量级的、基于文档的数据库，易于设置和维护。虽然它们似乎有着相同的目标，但我们可以看看 TinyDB 与 SQLite 有多大的不同。这也将帮助我们确定哪个数据库更适合我们的项目，这取决于您的目标。注意，每个 SQL 变体的语法都是不同的，但是我们仍然会讨论一些主要的函数与子句的差异。因此，让我们大致了解一下它们的区别，看看我们能从 TinyDB 和 SQLite 中学到什么。
+
+# **它们有多“轻”？**
+
+SQLite 被认为是一个小型快速的 SQL 数据库引擎。截至 2018 年，合并文件超过 220，000 行。这些文件包含在 100 多个文件中，其中有 102 个主 C 文件。SQLite 包含在文件格式中，这意味着数据库在系统中是通用的。这意味着 SQLite 可以在电脑和手机上运行。如前所述，SQLite 是用 C 库编写的。SQLite 的最初版本是在 2000 年。
+
+TinyDB 是另一个小型 SQL 数据库。它当前的源代码大约有 1800 行。这些行有大约 40%的文档。还有大约 1600 行测试。TinyDB 是用纯 Python 编写的，因此没有外部依赖性。TinyDB 最初发布是在 2013 年。
+
+这两个数据库都声称运行速度很快。两者都足够快，可以在手机或电脑上运行。然而，与 TinyDB 相比，SQLite 有更多的文件和代码行。此外，SQLite 更像是一个数据库引擎，而 TinyDB 主要只是数据库存储。然而，两者都是包含在文件中的自包含数据库。因为它们包含在文件中，所以不需要服务器来保存数据。这也意味着数据库是特定于项目的，因为文件是在项目的目录中访问的。
+
+# **语法差异**
+
+SQLite 是用 C 语言编写的，但是用 SQL 语法执行。相比之下，TinyDB 是用纯 Python 编写的，在更 Python 化的 SQL 版本中执行。这是一个既定的，因为它已经提到。然而，我们仍然可以看到一些查询类型的差异。SELECT 语句就是一个例子。在 SQLite 中，您使用典型的 SQL SELECT(语法因 SQL 和 SQLite 而异)。与 SELECT 相反，TinyDB 使用一些不同的变体。
+
+首先，如果试图从数据库中选择所有内容，TinyDB 只需使用“all”函数。这个函数类似于没有“WHERE”子句的 SELECT 语句，SQLite 将遵循该语句。收集文件中包含的所有记录。
+
+当需要一个特定的记录时，您可以在典型的 SQL 中制定一个 WHERE 子句。对于 SQLite 也是如此。但是，TinyDB 有点不一样。对于如何找到所需的记录，有几个选项。我在教程中使用的第一个选项是“搜索”功能。使用该功能，您可以搜索找到任何指定键的所需值。类似地，您可以使用“get”函数。就像“搜索”功能一样，您可以指定键和所需的值。
+
+注意，我在这方面没有做太多的研究，我确信再多一点努力就会有结果，但是我们至少可以讨论一下难度。因此，在 SQLite 中，如果您想要排序，只需使用 ORDER BY 子句。这是一个高于入门水平的头发，对于已经学会了基本选择的人来说。然而，在 TinyDB 中没有简单的 ORDER BY 或等价函数。这也是我做的一点点研究，所以如果你找到了解决方案，请随意分享。我在搜索中发现，没有简单的排序函数。相反，因为它是用纯 Python 编写的，所以你可以做的是将结果排序，就像它们是一本字典一样。对初学者来说，整理字典可能需要更多的研究和努力，在我看来，这比使用 ORDER BY 要复杂得多。
+
+TinyDB 过去使用“清除”功能而不是“截断”来清空文件中的记录。然而，在一些更新中,“清除”被改为“截断”。SQLite 使用 TRUNCATE TABLE 命令来清空一个表，因此在这种情况下，它们可以被视为语法相同。
+
+# **可扩展性**
+
+SQLite 被认为是可靠的 ACID(原子的、一致的、隔离的和持久的),即使在电源故障或崩溃期间。SQLite 甚至可以支持一个完整的万亿字节大小的数据库。尽管 SQLite 在设计时更多地考虑了单个用户，但它也可以支持多个用户。然而，用户越多，性能就越成问题。在写入数据库时，多个用户可能是一个问题。然而，SQLite 确实允许单个用户写入数据库。对于各种用途，SQLite 也有超过 225 个 API，使用范围和难度各不相同。
+
+TinyDB 被认为是快速且容易学习的。只需很少的设置就可以让数据库工作。然而，代价是性能和一些可靠性。例如，这个数据库不保证有 ACID。尽管 TinyDB 为易用性进行了优化，但它不能轻松处理多个进程或线程。此外，不能保证管理表之间的关系。TinyDB 也没有索引。更重要的是，TinyDB 不提供 HTTP 服务器。TinyDB 确实有几个 API 可供使用。它还允许在存储和中间件方面进行扩展。
+
+相比之下，这两个数据库都做得又小又快。然而，SQLite 具有一定的可伸缩性。例如，SQLite 可以保存 1tb 的数据。对于 TinyDB，大小主要由设备决定。如果该设备是移动的，不仅安装时间长得多，而且会因快速消耗内存而降低设备本身的速度。TinyDB 也不使用 HTTP 服务器，所以 SQLite 是更合适的选择。同样，TinyDB 不处理索引或维护表之间的关系。这些都是 SQLite 所具备的功能，因为它是一个更加成熟的数据库引擎。然而，SQLite 确实有它的问题。例如，需要对 SQLite 数据库进行写访问的多个用户会导致问题。然而，它支持 ACID，而 TinyDB 不保证 ACID。
+
+# **结论**
+
+作为描述的一般概述，听起来 SQLite 和 TinyDB 非常相似。理论上，它们有相同的基本目标:拥有一个小型、轻量级、易于建立的数据库。然而，一旦我们深入到更多的规范，我们可以看到 TinyDB 和 SQLite 是不同的。除了语言和实际大小(我们预计会有所不同)之外，还有一些不同的语法。更重要的是，在可伸缩性方面，SQLite 有一些 TinyDB 没有的选项。一个这样的选项是 HTTP 服务器。另一个选择是多用户读取，如果用户没有写入数据库，SQLite 可以处理。相比之下，TinyDB 不支持多进程。另一个关键特征是维持和保证酸性的能力。对于 SQLite，ACID 很重要，因此有保证。然而，TinyDB 更侧重于设置的简单和快速，没有外部依赖性，因此特别是随着它的发展和使用，ACID 不能得到保证。
+
+最后，对于不需要太多高级功能的小型项目来说，这两个数据库都是不错的选择。当决定使用哪一个时，它将取决于你的项目。如果您的项目需要一个前端，您可能希望选择 SQLite。同理，如果需要酸有保障，就选 SQLite。但是如果您正在为个人项目寻找一种快速保存数据的方法，并且您更担心快速查看数据，TinyDB 将是您的选择。需要注意的是，如果您需要更高级的功能，比如对数据库的并发写请求，您可能需要选择一个比 SQLite 更强大的数据库，因为它对于这些类型的应用程序来说可能太轻量级了。然而，对于像移动项目这样的东西，SQLite 和 TinyDB 都是轻量级的数据库，足以在移动设备上工作。下次见，干杯！
+
+***用我的*** [***每周简讯***](https://crafty-leader-2062.ck.page/8f8bcfb181) ***免费阅读我的所有文章，谢谢！***
+
+***想阅读介质上的所有文章？成为中等*** [***成员***](https://miketechgame.medium.com/membership) ***今天！***
+
+查看我最近的文章:
+
+[](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [## 关于 Python 虚拟环境你需要知道什么
+
+### 如果你没有使用它们，你应该…
+
+python .平原英语. io](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [](https://python.plainenglish.io/tinydb-b646e3270fd7) [## 使用 TinyDB 的简要指南
+
+### 纯 Python 项目的内置数据库
+
+python .平原英语. io](https://python.plainenglish.io/tinydb-b646e3270fd7) [](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [## Python 数据库转储
+
+### 备份您的数据人员！
+
+python .平原英语. io](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [](/learning-graphql-4e913f12640d) [## 学习图表 QL
+
+towardsdatascience.com](/learning-graphql-4e913f12640d) [](/a-dive-into-dash-ed5561f11021) [## 一头扎进 Dash
+
+towardsdatascience.com](/a-dive-into-dash-ed5561f11021) 
+
+参考资料:
+
+ [## 简介- TinyDB 4.4.0 文档
+
+### 很高兴你花时间查看 TinyDB 文档！在我们开始研究 TinyDB 本身之前，让我们先看一些…
+
+tinydb.readthedocs.io](https://tinydb.readthedocs.io/en/latest/intro.html)  [## SQLite 合并
+
+### 100 多个单独的源文件被连接成一个名为“sqlite3.c”的大型 C 代码文件，并称为“the…
+
+www.sqlite.org](https://www.sqlite.org/amalgamation.html) [](https://www.sqlite.org/features.html) [## SQLite 的特性
+
+### 物联网数据库。SQLite 是手机、PDA、MP3 播放器中数据库引擎的流行选择…
+
+www.sqlite.org](https://www.sqlite.org/features.html) [](https://www.sqlite.org/whentouse.html) [## SQLite 的适当用法
+
+### SQLite 不能直接与客户机/服务器 SQL 数据库引擎相提并论，如 MySQL、Oracle、PostgreSQL 或 SQL…
+
+www.sqlite.org](https://www.sqlite.org/whentouse.html) [](https://www.sqlite.org/cintro.html) [## SQLite C/C++接口简介
+
+### 以下两个对象和八个方法构成了 SQLite 接口的基本元素
+
+www.sqlite.org](https://www.sqlite.org/cintro.html)  [## 高级用法- TinyDB 4.3.0 文档
+
+### 在我们深入研究 TinyDB 的用法之前，我们应该停下来讨论一下 TinyDB 是如何存储数据的。至…
+
+tinydb.readthedocs.io](https://tinydb.readthedocs.io/en/stable/usage.html) [](https://stackoverflow.com/questions/43168631/app-inventor-tinydb-record-limit-or-size-limit) [## 应用程序发明者:TinyDB 记录限制或大小限制
+
+### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
+
+stackoverflow.com](https://stackoverflow.com/questions/43168631/app-inventor-tinydb-record-limit-or-size-limit) [](https://www.python-engineer.com/posts/tinydb/) [## Python 中的 TinyDB 用于个人项目的简单数据库| Python 工程师
+
+### 在这篇 Python 教程中，我想向您展示如何使用 TinyDB。TinyDB 是一个面向文档的小型数据库，它…
+
+www.python-engineer.com](https://www.python-engineer.com/posts/tinydb/)

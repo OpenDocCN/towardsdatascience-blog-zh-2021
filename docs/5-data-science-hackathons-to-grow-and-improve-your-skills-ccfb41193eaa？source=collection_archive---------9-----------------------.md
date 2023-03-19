@@ -1,0 +1,91 @@
+# 5 次数据科学黑客马拉松，增长和提高您的技能
+
+> 原文：<https://towardsdatascience.com/5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa?source=collection_archive---------9----------------------->
+
+## 结识新朋友，帮助解决世界问题。
+
+![](img/1dda81e83d31a2c4314d4eea6c8857d5.png)
+
+照片由[西格蒙德](https://unsplash.com/@sigmund?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 拍摄
+
+当你进入一个像数据科学这样的领域，一个理论上永无止境的领域，总是在发展，总是在进步，总是在移动，这将是一个挑战，当然要找到一个好的点，在那里你可以说，“现在，我有足够的知识开始申请工作。”
+
+在大多数技术和科学领域，没有一个明确的停顿点，让你觉得你知道的“足够了”在这些领域，尝试掌握所有的东西是不可能的，所以你什么时候知道你有足够的能力找到你想要的工作呢？
+
+参加数据科学黑客马拉松或竞赛是一种既有趣又有保证的方式，既能运用现有知识，同时又能获得新技能。在科技领域，众所周知，黑客马拉松是一个应用你的知识、结识兴趣相投的人、帮助解决一些现实生活中的问题的绝佳机会，而且在大多数情况下，还能赢得丰厚的奖金。
+
+今年，作为一名数据科学学习者或从业者，你有机会在舒适的家中参与一些令人惊叹的虚拟黑客马拉松。寻找黑客马拉松或任何活动并不总是一件容易的事情。尽管我们被信息所包围，但跟踪如此大量的信息总是具有挑战性。
+
+[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
+
+### 有比你想象的更多的选择。
+
+towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+
+一如既往，我喜欢帮助你用最少的努力得到你想要的，因为你应该把精力放在真正的黑客马拉松上，而不是试图找到一个。在这篇文章中，我们将介绍 5 个即将到来的黑客马拉松，你现在就可以注册。
+
+# №1:黑客之家 II
+
+时间:2021 年 4 月 30 日至 5 月 2 日
+
+让我们从最接近的黑客马拉松开始我们的列表；还有不到一周的时间，[黑客大联盟](https://mlh.io/about)将举办第二届夏季黑客马拉松[黑客主场 II](https://organize.mlh.io/participants/events/6794-hack-at-home-ii) 。大联盟黑客是官方学生黑客马拉松联盟之一；他们主要目标是支持和培养来自世界各地的学生的计算机科学和技术技能。通过这样做，帮助塑造下一代技术领导者。
+
+hack in Home II 不仅仅是一个黑客马拉松；它更像是一系列研讨会、讲座和小型活动的集合，分布在一个学习、建设和知识共享的周末。这个黑客马拉松对所有人开放，不管他们的年龄、教育背景或年龄。所以，如果你热衷于在应用现有知识的同时学习新技能，Hack in Home II 就是你的机会。
+
+# №2:在家办公——脱碳 2021
+
+时间:2021 年 5 月 15 日至 17 日
+
+全球变暖是当今人类面临的最严重的问题之一。 [Hack from Home](https://www.hackfromhome.com/about-1) 是由各种公司组织的虚拟黑客马拉松，如 [Dataswift.io](http://dataswift.io/) 、[东伦敦大学](https://www.uel.ac.uk/)和[伦理技术联盟](https://ethicaltechalliance.org/)。他们黑客马拉松的主要目标是找到解决环境问题的技术方案。
+
+[脱碳 2021](https://www.eventbrite.com/e/hack-from-home-decarbonisation-2021-tickets-148337352013?aff=ebdssbonlinesearch&keep_tld=1) 黑客马拉松将专注于开发和探索降低碳活动的新解决方案。这是通过分析和汇总能源消费者的数据来实现的。本次黑客马拉松面向数据科学家、分析师、web 开发者和前端开发者开放。
+
+[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
+
+### 有时我们需要一个简短扼要的资源。
+
+towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+
+# №3:哈肯 2.0
+
+时间:2021 年 5 月 28 日至 30 日
+
+大联盟 Hack 的另一个事件是 [HackOn 2.0](https://hackon.tech/) 。这次黑客马拉松将持续 48 小时的研讨会和讲座，并将关注一个经常被忽视的问题，即提高对心理健康和多样性的认识。加入 HackOn 并不需要成为 hackathon 专家。
+
+无论你的知识水平如何，如果你有一个想法并想实现它，HackOn 就是你的理想之地。这个想法可能不会有任何结果，也可能是改变世界的一步；然而，这是一个值得追求的想法。
+
+# №4: COP26 数据黑客马拉松
+
+时间:2021 年 6 月 21 日
+
+我们名单上的下一个黑客马拉松是由牛津大学工程科学系组织的。[COP 26 数据黑客马拉松](https://www.eventbrite.com/e/cop26-data-hackathon-tickets-149683799273?aff=ebdssbonlinesearch&keep_tld=1)是一场为期 5 天的黑客马拉松，旨在传播对未来能源系统气候变化风险的理解。
+
+COP26 黑客马拉松的目标是开发和构建有助于理解和量化爱尔兰能源系统气候变化的解决方案。你可以以团队或个人的身份报名参加这次黑客马拉松。
+
+[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
+
+### 从社区获得支持和灵感
+
+towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+
+# №5:西格玛哈克 3.0
+
+时间:2021 年 6 月 25 日至 27 日
+
+最后同样重要的是 [SigmaHacks 3.0](https://sigmahacks.org/) 。SigmaHacks 3.0 是一个虚拟黑客马拉松，旨在为来自世界各地的开发人员提供解决现实问题的机会，同时促进创新和鼓励多样性。
+
+要注册 SigmaHacks，你甚至不需要任何以前的技术背景。即使你不知道如何编码，也会有导师和导师在整个黑客马拉松期间指导你。SigmaHacks 还将提供研讨会和参与式会议，以及现金和技术奖励。
+
+# 外卖食品
+
+如果你正在成为一名数据科学家，你已经学习了基础知识，并试图掌握尽可能多的数据科学方面，以便你可以准备好申请工作；停下来。让我告诉你，数据科学就业市场现在是如此饱和，你永远无法掌握一切；没人能。
+
+[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
+
+### 让您的学习之旅更加轻松。
+
+towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+
+所以，你只需要非常了解基础知识，并在实际应用中练习使用它们。在我看来，实践构建项目、与团队合作以及运用你的知识的最佳方式是参加黑客马拉松。
+
+幸运的是，每年都有数百场黑客马拉松在世界各地举行，解决不同类型的问题，你可以虚拟地加入其中。在本文中，我们经历了 5 个即将到来的黑客马拉松；所有这些都将在接下来的两个月内进行。因此，如果你是一名数据科学家，这是你挑战自我并有所作为的机会。

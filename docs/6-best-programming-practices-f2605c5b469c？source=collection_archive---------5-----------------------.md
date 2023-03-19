@@ -1,0 +1,141 @@
+# 6 最佳编程实践
+
+> 原文：<https://towardsdatascience.com/6-best-programming-practices-f2605c5b469c?source=collection_archive---------5----------------------->
+
+## 每个程序员和数据科学家都应该遵循的六个编程技巧
+
+![](img/30913e58fc5fe7af9986996e9500636d.png)
+
+由 [Pakata Goh](https://unsplash.com/@pakata?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
+
+> ***“编程不在于你知道什么；而是你能想出什么。”****——*克里斯·派恩
+
+软件行业中众多趋势的演变使得编码成为一个开发人员所拥有的最重要的技能之一。在现代世界中，编程是程序员和开发人员专注于特定任务以完成预期结果并将其公开给广泛的公众受众以从中受益和利用的能力。
+
+掌握基本的编码技能对于成功大多数面试和开发一系列可以添加到你的简历或文件夹中的酷项目来说是非常棒的。然而，为了达到预期的结果并有效地完成您的目标，个人必须注意的最佳编程实践是什么？
+
+在本文中，我们将介绍六种最佳编程实践和技巧，每个程序员和数据科学家都应该遵循这些实践和技巧，以从编码中获得最佳结果。在我们开始阅读这篇文章之前，我建议读者阅读下面这篇文章，它涵盖了学习编程的十个最佳免费网站。
+
+[](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
+
+### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
+
+towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) 
+
+# 1.完善你的缩进，利用注释行:
+
+缩进是 Python 中用来区分不同代码块的空格。在其他编程语言中，比如 Java，我们使用花括号“{ }”来达到这个目的。适当缩进代码在项目工作中起着至关重要的作用。确保你相应地记录你的间距。通常，键盘上的 tab 键(或四个空格)用于 Python 代码的缩进。
+
+另一方面，注释行在编程中也起着至关重要的作用。尽管您在注释行中编写的文本不会以任何方式影响您的代码块或程序，但它在大型项目的开发中起着至关重要的作用。在代码块的帮助下，您可以将您的思维过程和想法传达给其他想要查看您的代码以便更好地阅读和理解它们的熟练开发人员和爱好者。
+
+您应该使用注释行的另一个原因是，当您在很长一段时间后重新访问自己的代码和代码块时，您可能无法立即理解为什么要执行某个特定的操作。在这些情况下，注释行通常会帮助你回忆你的思维过程和想法，使你更快更有效地回忆代码。
+
+# 2.代码的简化:
+
+当你经常被分配一个复杂的问题时，你的第一个想法通常会导致一个复杂的解决方案，有一个冗长而笨拙的代码块。虽然这并不完全是消极的一面，因为你最终找到了解决问题的方法之一，但重要的是要意识到这还不够。你需要深入思考，探索更多独特的方法来获得解决方案。
+
+在技术或编程面试中，测试你的方式之一是你简化代码的方式。修剪代码并使它们看起来更有效的主要目的是减少问题的整体时间和空间复杂性。在部署阶段，删除额外和不必要的代码块以在更高的级别编写更好的代码，从而以更少的硬件消耗获得更好的性能，这一点至关重要。
+
+举个例子，你的编程水平越高，尽量限制不必要的 for 循环的使用。相反，尝试有效地使用类、函数和匿名函数来产生尽可能好的预期结果。您可以随意查看我的文章《理解 Python 中的高级函数》,以及下面提供的链接中的代码和示例。
+
+[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
+
+### 详细了解 python 中的匿名函数和高级函数及其实际应用…
+
+towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+
+# 3.规划您的方法:
+
+在您一头扎进问题并接触一些代码之前，对于编程爱好者来说，相应地规划他们的方法是至关重要的。对你来说，对一个复杂的问题进行编码并不总是最好的主意。有效地计划你的行动过程并详述细节通常是一个更好的建议。
+
+当你在处理一个你觉得会导致复杂的问题或编程任务时，写下你为这个特殊问题计划的方法通常是一个好主意。你可以选择做更多的研究，更深入地了解如何解决这个问题，或者你可以选择自己尝试在纸上解决这个问题。这样做将有助于你找到如何处理特定任务的方向，而不是一味地编码并希望得到正确的答案。
+
+假设你想解决二分搜索法问题。如果你是一个编程的初学者，你想实现二分搜索法算法的代码，对你来说，了解这个项目的直观理解和工作是必不可少的。如果没有先验知识和对方案背后的模式的基本理解，您将很难理解确切的编码设计。下面提供的文章链接应该是理解二分搜索法算法在 Python 中的实现的一个极好的起点。
+
+[](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) [## 理解 Python 中的二分搜索法算法
+
+### 详细了解二分搜索法算法的工作原理及其在 python 中的实现。
+
+towardsdatascience.com](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) 
+
+# 4.有效调试:
+
+编程的一个重要方面是遇到和处理错误。有效的调试是每个程序员都必须习惯的一个重要方面，因为无论你在解决程序块或问题上有多擅长，你总是会陷入一个困境，你不知道如何继续。
+
+调试代码有许多方法。对于程序员来说，调试可能涉及一些步骤或方法来找出特定任务的正确解决方案。你可以用谷歌搜索来找出实际错误发生的原因，并访问一些网站来纠正你的错误。
+
+你也可以不断尝试各种解决方案来自己破解答案。我鼓励读者阅读我以前的一篇文章，这篇文章介绍了如何利用 Python 中的内置工具来调试代码。
+
+[](/must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe) [## 必须使用内置工具来调试你的 Python 代码！
+
+### python 调试器模块指南，包含有用的代码和命令。有效且高效地利用这一工具…
+
+towardsdatascience.com](/must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe) 
+
+# 5.开发项目:
+
+使用任何编程语言进行编码的最大好处是可以用它们开发大量精彩的项目。你可以创建一大堆独特而令人惊叹的项目来添加到你的文件夹或简历中，或者你可以构建这些项目只是为了好玩，来学习一些新的东西并获得进一步的知识。
+
+从零开始完成一个成熟的项目后，你获得的知识量是首屈一指的。在你开始从事大量项目之后，你获得了如此多的经验，并作为一名开发人员和程序员得到了发展。在研究、批判性思维和改进的编程技能的指导下，您获得了将问题可视化并找到适当解决方案的能力。
+
+如果你对自己想要探索什么想法或者想要构建什么独特的项目感到困惑，那么我有一个十五个令人敬畏的 Python 和数据科学项目的列表，你可以开发它们。这些项目将有助于增加你 2021 年及以后的简历和作品集！
+
+[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
+
+### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
+
+towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+
+# 6.每天编码:
+
+这一点无疑是本文列出的所有其他点中最好的编程实践。实践是在大多数领域取得成功的重要一步。编程就是这样一个领域，你写得越多，你就能想出越多的东西。在编码时，你一定会犯错误。改正这些错误的精神，会让你不会更经常的重复错误，会让你作为程序员的整体发展。
+
+即使你一天都很忙，也要尽量坚持每天至少花几分钟写代码。通过每天编码并保持你的练习时间表，你将使你的大脑不犯重复性错误并提高你的整体效率。除了持续改进，你还将获得更多的知识，发现新的方法和思路来处理不同类型的问题。
+
+我们已经知道每天编码对程序员来说是非常重要的。不管你是什么级别的程序员。不管你是一个刚刚开始学习编码的新手，还是一个正在寻找高水平项目的高级开发人员。每天编码必须被视为你系统中固有的日常活动。查看下面这篇文章，它揭示了为什么每个数据科学家都应该每天编码的五个原因。
+
+[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
+
+### 即使它只是每天一点点编码，你也必须考虑它
+
+towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+
+# 结论:
+
+![](img/4b13584ec65c50c48c9a2e2fef3c8b2b.png)
+
+由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的[窗口](https://unsplash.com/@windows?utm_source=medium&utm_medium=referral)拍摄
+
+> *“任何傻瓜都能写出计算机能理解的代码。优秀的程序员会写出人类能理解的代码。”—马丁·福勒*
+
+不可否认，编程是当代人需要掌握的最酷、最好的技能之一。对于每一个希望提高编码技能来设计新职业的个人来说，都有广泛的机会。然而，必须利用一些最佳的编程实践来最佳地利用这项技能。
+
+在本文中，我们了解了一些最佳编程实践，它们将帮助大多数程序员随机应变，提高他们的整体编码技能，成为更有才华、更有技能的开发人员。本文中提到的要点对于您选择使用的任何编程语言取得最大成功都是至关重要的。
+
+如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
+
+看看我的其他一些文章，你可能会喜欢读！
+
+[](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
+
+### 探索每个成功的数据科学家必须具备的五项重要软技能！
+
+towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
+
+### 应该添加到简历中的五个高级自然语言处理主题和项目想法
+
+towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
+
+### 揭示人工智能，神经网络和深度学习的进步导致快速…
+
+towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [## 破解数据科学和机器学习面试的 7 个技巧！
+
+### 帮助你在数据科学和机器学习面试中表现更好的 7 个详细技巧
+
+towardsdatascience.com](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
+
+### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
+
+towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+
+谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

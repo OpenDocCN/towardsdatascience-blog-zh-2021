@@ -1,0 +1,184 @@
+# (高度)分布式 DNN 训练指南
+
+> 原文：<https://towardsdatascience.com/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3?source=collection_archive---------16----------------------->
+
+## 将培训扩展到多名员工时需要注意什么
+
+![](img/cc183a6f7c1fb3bdadd3ec4402d9115e.png)
+
+劳拉·奥克尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
+
+如今，数据分布式培训风靡一时。在数据分布式培训中，学习是在多名员工身上并行进行的。多个工人可以驻留在一个或多个训练机器上。每个工人从其自己的完全模型的相同副本开始，并在训练数据的不同子集(本地批次)上执行每个训练步骤。在每个训练步骤之后，它发布其结果梯度，并考虑所有工人所学习的组合知识来更新其自己的模型。用 *k* 表示工人数量，用 *b* 表示**局部批量**，对 *k* 工人进行分布式训练的结果是，在每一个训练步骤中，模型在 *k*b* 样本的**全局批量**上进行训练。很容易看出数据分布式培训的吸引力。每个训练步骤更多的样本意味着更快的训练，更快的训练意味着更快的收敛，更快的收敛意味着更快的部署。如果我们能在一个中训练 ImageNet，为什么要训练 29 个小时？如果我们能在 76 分钟内训练出伯特，为什么还要训练 3 天呢？对于特别大或复杂的网络，分布式训练对于模型在足够低的时间周期内进行训练以使模型可用来说几乎是必不可少的。
+
+问题是，许多关于该主题的教程可能会给你这样的印象，即转换训练脚本以执行数据分布式训练几乎就像轻按开关一样容易，并且训练收敛的线性缩放几乎是有保证的。然而，对于许多模型，当然是复杂的模型，这与事实相去甚远。要在分布式培训中取得成功，需要解决许多细节问题，包括如何调整优化器设置，如何最小化共享梯度的开销，以及如何处理培训数据。这篇博文的目的是让您了解数据分布式训练的“真实情况”。我们将讨论一些实现细节和挑战，并强调设定明确的性能目标和使用适当的工具来衡量这些目标的重要性。
+
+虽然我的重点是 TensorFlow 2 Keras 模型(特别是 TensorFlow 2.3)，但我们将涵盖的要点也与其他培训框架相关。
+
+亚马逊网络服务(AWS)、谷歌云平台(GCP)或微软 Azure 等云服务环境是多员工培训的自然环境。最明显的原因是提供了几乎无限的规模。在云中，我可以根据我的开发进度承诺和成本限制，扩展到任意数量的员工。在云中培训的另一个好处是，它为您节省了为多员工培训设置和维护您自己的机器的时间和麻烦。此外，云环境通常提供特定的服务来促进多员工培训。我将引用一些 AWS 提供的服务，但是同样，一般的评论也适用于其他环境，并且在其他云环境中也可能存在等效或类似的支持。
+
+**重要声明**:我已经在这篇文章的草稿上坐了很久了。我的感觉是，这个帖子从来都不完整。总是有更多的框架、其他数据梯度共享方法和其他优化器需要考虑。过了一会儿，我意识到，随着所有新论文、算法和技术的不断引入，这篇文章永远不会完整。所以在这里，为了它的价值…我的不完整的博客帖子。如果你认为还有什么需要补充的，请不要犹豫，联系我。
+
+**注意**:在本文的上下文中，*工作者*指的是一个单独的处理核心(例如 GPU)。在其他上下文中，术语 *worker* 可能指可能包含多个内核的训练实例。例如，在 TensorFlow 文档中，*工作者*指的是由一个或多个计算设备组成的训练实例。
+
+我要感谢我尊敬的同事 [Dennis Kreinovich](https://www.linkedin.com/in/dennis-kreinovich-8b256321/?originalSubdomain=il) 和 [Amit Weizner](https://il.linkedin.com/in/amitweizner) ，他们对分布式训练算法解决方案的研究为这篇文章做出了贡献。
+
+# 序幕
+
+运行数据分布式培训时有两个主要挑战:
+
+**模型收敛:** *模型收敛*是指模型在预定义测试集上的评估达到期望结果时的训练点。假设当在单个工人上运行时，我们的模型在对 *n* 个样本进行训练之后，或者在训练数据的 *N* 次遍历之后收敛。当扩展到相同类型的多个工作者时，我们的目标是在训练数据的相同样本/遍历总数之后收敛。例如，如果我们扩展到 *k* 个工人，我们的目标是在每个工人看到 *n/k* 个样本或遍历 *N/k* 次训练数据时收敛。正如我们将在下面看到的，达到这个目标通常需要调整训练算法的一些元素。
+
+**训练时间表现** : *训练时间表现*是指我们能够训练的速度。我们将通过模型每秒训练的样本数来衡量这一点。如果我们能够在单个工人上以每秒 *R* 个样本的速度进行训练，我们的目标将是在相同类型的 *k* 个工人上以每秒 *R*k* 个样本的速度进行训练。*先验*，考虑到数据分布培训包括对单个工人进行培训时不存在的额外步骤的开销，即梯度共享，如何实现这一目标并不明显。我们将在下面讨论最小化这种开销的不同技术，以及其他可能影响训练速度的实现细节
+
+如果我们能够实现这两个目标，在相同的样本总数和 1/ *k* 的时间内收敛，那么我们已经成功地将我们的培训作为工人数量的函数进行线性扩展。线性比例意味着如果对单个工人的培训需要 *T* 时间，那么对 *k* 工人的培训将需要 *T/k* 。在许多情况下，您可能会发现，您能够成功地培训多名员工，但无法实现线性扩展。这可能已经足够好了。如果你能在明显少于 *T* 的时间内训练，那么运行 *k* 工人的成本可能值得加速开发。在这种情况下，您需要明确决定什么是可接受的权衡。很明显，如果对 *k* 工人的培训花费 *T* 时间，也就是说，只要一个工人，那么你最好坚持一个工人。但是如果你能够用 4 个工人将开发时间减少一半呢？在某些情况下，这可能是一个可以接受的，尽管不太理想的权衡。
+
+注意，虽然测量不同实现细节对训练速率(每秒样本数)的影响只需要几次训练迭代，但是测量对收敛时间的影响可能需要更多的时间。
+
+在整个讨论过程中，我们将牢记这两个基本挑战，并研究它们如何受到不同实现选择的影响。
+
+# 第 1 章—性能分析
+
+*绩效分析*是指对培训运行速度(每秒样本数)和培训资源利用方式的测量。
+
+在以前的帖子中(例如[这里](/tensorflow-performance-analysis-314b56dceb59)和[这里](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851))，我提倡使用强大的工具和方法来分析性能，并将性能分析集成到您的 DNN 开发过程中。当扩展到多个工作人员时，性能分析的重要性甚至更大。事实上，在我看来，这是一个先决条件。如上所述，分布式培训的主要挑战之一是保持可接受的培训时间性能。显然，为了做到这一点，我们需要适当的工具，以便全面了解:我们单个员工的绩效，当我们扩展到多个员工时，绩效如何变化，以及这如何受到不同实施决策的影响。
+
+在考虑扩展到多个员工之前，您应该首先确保您已经用尽了所有潜力来从单个员工那里获得最大的绩效。这不仅是一种提高培训速度的更廉价的方式，而且当你最终扩展到多个员工时，它还会放大潜在的绩效收益。例如，如果您的单个工作人员利用率为 25%，那么在考虑数据分布之前，您最好先确定并解决性能瓶颈。您可以将性能提升四倍，而无需额外的工人成本和梯度共享的额外开销。
+
+衡量绩效有许多不同的工具和技术。 [TensorFlow Profiler](https://www.tensorflow.org/tensorboard/tensorboard_profiling_keras) 提供了许多性能统计数据，用于评估 TensorFlow 中的模型训练，包括步进时间、轨迹查看、内存利用率、设备到设备的数据传输(梯度共享)等。使用 Amazon SageMaker 服务时，您可以利用 [Amazon SageMaker 调试器](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html)的分析功能来测量系统资源利用率，并找到资源利用率模式和训练阶段之间的相关性。
+
+请务必查看我以前发表的一些关于性能分析的文章，了解这个重要主题的更多细节。
+
+[](/tensorflow-performance-analysis-314b56dceb59) [## 张量流性能分析
+
+### 如何从您的培训资源中获得最大价值
+
+towardsdatascience.com](/tensorflow-performance-analysis-314b56dceb59) [](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) [## 使用 TensorFlow 数据服务、NVIDIA DALI 和其他解决方案克服数据预处理瓶颈
+
+### 最大限度地提高培训资源利用率，加速学习，节省资金
+
+towardsdatascience.com](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) [](https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/) [## 使用 Amazon SageMaker 识别培训瓶颈和系统资源利用不足…
+
+### 在 AWS re:Invent 2020 上，AWS 发布了 Amazon SageMaker 调试器的评测功能。在本帖中，我们展开…
+
+aws.amazon.com](https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/) 
+
+# 第 2 章—分布式培训框架
+
+当扩展到多员工培训时，你需要做的第一个决定就是使用什么样的框架。在本帖中，我们将重点关注两个可用选项:
+
+1.  [Horovod](https://horovod.readthedocs.io/en/stable/index.html) —一个流行的库，支持 TensorFlow、Keras、PyTorch 和 Apache MXNet，以及
+2.  TensorFlow 内置的[分布式培训](https://www.tensorflow.org/guide/distributed_training)支持。
+
+这两个选项的共同点是，它们都使您能够通过几行代码将您的培训脚本转换为在多个工作人员上运行。两者的文档都很全面且易于使用，并且有大量的教程。梯度共享算法也非常相似(下面将详细介绍)。TensorFlow 分布式培训选项集成到 TensorFlow 中，因此对其内部工作方式有更深入的了解。在每个实例上调用训练脚本的单个实例，TensorFlow 处理多个工人上的模型复制、工人之间的输入分布以及梯度共享。另一方面，Horovod 更像是一个黑盒解决方案，因为它只有几个与训练周期交互的点，主要是梯度累积。在 Horovod 选项中，为每个工人运行培训脚本。脚本的每次调用都会在其对应的 worker 上创建一个模型副本，并独立管理输入数据流。
+
+很难指出两种选择中的任何一种比另一种更好。在许多情况下，框架的性能依赖于模型架构、模型超参数和分布式训练实现的其他细节。我强烈建议你熟悉这两者。首先，有选择总是好的。更重要的是，您可能会发现您的一些模型在一个框架中比在另一个框架中伸缩得更好。此外，您可能会遇到其中一个选项不可用的情况。例如，直到 TensorFlow 版本，内置的分布式训练代码中存在一个错误，该错误禁止用户在 *renorm* 标志设置为 *False* 的情况下使用[批处理规范化层](https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization?version=nightly)。另一方面，如果您选择在 TPU 核心上运行您的培训，您别无选择，只能使用内置的 TensorFlow [TPU 分发策略](https://www.tensorflow.org/api_docs/python/tf/distribute/TPUStrategy?version=nightly)。最后，您可能会发现一些理想的特性只在其中一个框架上实现。例如，在最近的一篇[帖子](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700)中，我对 [Elastic Horovod](https://horovod.readthedocs.io/en/stable/elastic_include.html) 进行了扩展，这是 Horovod 的一个引人注目的功能，即使在一些工人被打断的情况下，也能实现连续培训。
+
+[](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700) [## 使用 Elastic Horovod 和 Amazon EC2 Spot 实例进行经济高效的分布式培训
+
+### 根据员工系统的可用性动态调整您的培训课程
+
+towardsdatascience.com](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700) 
+
+另外一个值得一提的框架是亚马逊 SageMaker 的分布式数据并行库。正如我们上面提到的，并将在下一节详细讨论的，分布式训练的主要挑战之一是如何减少梯度共享的开销。SageMaker 库引入了一种新的算法，该算法利用特定的亚马逊云基础设施内部来优化梯度数据通信。更多细节请看[最近发布的这个功能的](https://aws.amazon.com/blogs/aws/managed-data-parallelism-in-amazon-sagemaker-simplifies-training-on-large-datasets/)。
+
+2022 年 8 月 30 日更新——查看[这篇](https://neptune.ai/blog/distributed-training-frameworks-and-tools)博客文章，了解关于额外分布式培训框架的精彩调查。
+
+[](https://neptune.ai/blog/distributed-training-frameworks-and-tools) [## 分布式培训:框架和工具- neptune.ai
+
+### 深度学习的最新发展已经带来了一些令人着迷的最新成果，特别是在以下领域……
+
+海王星. ai](https://neptune.ai/blog/distributed-training-frameworks-and-tools) 
+
+# 第 3 章—梯度共享策略
+
+成功的数据分布式训练运行的核心要素是梯度共享策略。一个强有力的战略需要。确保所有工人的培训同步进行。以最小化开销的方式进行。如果你的梯度共享算法不能成功地保持工人模型之间的同步，那么你还不如对每个工人运行许多独立的(浪费的)训练会话。如果你的算法成功地保持了同步，但是以一种三倍于步骤时间的方式，那么使用多个工人的价值将会很低。
+
+我们将把讨论分成两部分。首先，我们将讨论梯度共享算法的一些主要不同之处。然后，假设有一个固定的梯度共享算法，我们将介绍一些减少数据流量开销的技术。
+
+## 梯度共享算法
+
+梯度共享算法可以根据以下两个参数大致分类:
+
+**参数服务器与对等通信:**在基于**参数服务器**的算法中，一个或多个专用参数服务器从所有工人收集梯度更新，然后将结果广播回工人。在使用多参数服务器的解决方案中，变量分布在服务器之间。根据实现的不同，参数服务器可能位于 CPU 上，也可能位于 GPU 上。它们可以驻留在专用服务器或现有的培训资源上。例如，参见 TensorFlow 基于[参数服务器](https://www.tensorflow.org/tutorials/distribute/parameter_server_training)的梯度共享解决方案。
+
+在基于**对等**的解决方案中，每个工作者交流其结果梯度，并从其他工作者收集梯度更新。有多种 *AllReduce* 算法用于收集和累积梯度。一个简单的 AllReduce 算法的例子是，每个工人把它的梯度发送给其他工人。这导致总数据有效载荷为 *k*(k-1)*G* ，其中 *k* 是工人的数量，而 *G* 是所有梯度的大小。然而，还有许多更好的算法。最常见的是*环-所有减少*，其中多个消息在单向环中的工人之间传递。使用这种技术，总的数据有效载荷可以减少到分布在 *2*(k-1)* 通信跳*上的 *2*(k-1)*G* 。*看看这个帖子，详细描述了 *Ring-AllReduce* 的工作原理:
+
+[](/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da) [## 面向分布式深度学习的环形全递归视觉直觉
+
+### 最近，我发现自己正在处理一个非常大的数据集，这是一个需要并行学习才能实现的数据集…
+
+towardsdatascience.com](/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da) 
+
+通常， *AllReduce* 算法将被设计为最大化底层硬件的利用率。例如，参见 TensorFlow 的[HierarchicalCopyAllReduce](https://www.tensorflow.org/api_docs/python/tf/distribute/HierarchicalCopyAllReduce)。
+
+“参数服务器”或“对等通信”这两种选项的具体实现决定了数据流的分布图，即通信通道和每个通道上传输的数据量。
+
+**同步与异步算法**:在同步算法中，所有工人的培训步骤同步进行。在每一步之后，每个工作者等待所有其他工作者共享他们的梯度，并在将结果参数更新应用到其自己的模型副本之后继续下一步。同步算法确保模型副本在训练的所有阶段都是对齐的。在异步算法中(通常与基于参数服务器的策略相关联),工作人员不会等待。他们收集任何可用的更新，立即应用它们，并继续下一步。因此，每个复制品上的模型状态在每一步都可能不同。自然，异步方法将具有更低的延迟。另一方面，由模型复制品中的差异导致的附加噪声可能对收敛速度有负面影响。
+
+显然，算法的最佳选择在很大程度上取决于具体的模型和训练环境。今天提供的最常见的算法，也是一个很好的起点，是同步*环-所有减少*算法或它的一些变体。这是 Horovod 使用的底层算法，也是 TensorFlow 的[镜像策略](https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy?version=nightly)使用的默认算法。查看 TensorFlow 的[分布式培训指南](https://www.tensorflow.org/guide/distributed_training)，了解支持的其他分布式策略的概述。
+
+## 优化数据传输
+
+显然，梯度共享算法的选择将影响数据通信量，从而影响训练时间的总开销。在本节中，我们假设一个固定的算法，并讨论减少数据流开销的不同技术。
+
+1.  **利用专用硬件加快数据传输速率**:例如，如果您的员工通过高速互连进行连接，他们应该是首选的通信渠道。在大多数情况下，您应该更喜欢将您的培训分布在具有 8 个互连工作人员的单个实例上，而不是通过网络进行通信的 8 个单个工作人员实例上。另一个例子是上面提到的[亚马逊 SageMaker 的分布式数据并行库](https://docs.aws.amazon.com/sagemaker/latest/dg/data-parallel.html)，它实现了一个基于参数服务器的解决方案，能够通过利用底层 AWS 云基础设施的特定组件来提供有竞争力的结果。详见[白皮书](https://assets.amazon.science/ba/69/0a396bd3459294ad940a705ad7f5/herring-rethinking-the-parameter-server-at-scale-for-the-cloud.pdf)。
+    最后一个例子，像[谷歌 TPU](https://cloud.google.com/tpu) 和 [Habana Gaudi](https://habana.ai/) 这样的专用培训加速器之所以能够展示出令人印象深刻的规模速率，其中一个主要原因是它们经过了专门设计，旨在最大化单个员工之间的数据流速率。
+2.  **调整梯度共享控制**:一些梯度共享算法可能包括微调其性能的控制。例如，某些算法的性能可能会受到分配给它们的系统资源量的影响。
+3.  **降低渐变精度**:你可以通过降低渐变精度(比如用 float16 代替 float32)或者使用其他一些压缩方法来降低渐变共享的有效负载。确保你的训练不会受到这种操纵。
+4.  **与反向传播重叠梯度共享**:一个普通算法将等到所有梯度计算完毕后再传播结果。然而，一旦计算出各个梯度，人们就可以传达它们。通过将梯度更新消息分成包含梯度子集的多个分组，这些子集根据它们被计算的时间来排序，我们可以通过将其与反向传播重叠来减少梯度共享的开销。
+
+要了解如何在 TensorFlow 中实现这些技术，我推荐以下来自去年 TFDevSummit 的视频。
+
+**注意**:我们在这一部分的重点是引入训练步骤时间的潜在开销。但是，您应该注意渐变共享可能带来的其他副作用。例如，训练实例的网络 IO 带宽有上限。然而，在具有单个实例的训练环境中，该带宽几乎专门用于数据输入，而在通过网络执行梯度共享的多实例环境中，该网络带宽现在在数据输入和梯度消息之间共享。如果您的单个实例存在网络 IO 瓶颈，这将对您的线性扩展能力产生负面影响。同样，如果您遇到了 CPU 瓶颈，并且选择了需要 CPU 周期的梯度共享算法，那么您也将面临越来越多的线性扩展挑战。
+
+# 第 4 章—培训数据输入
+
+在数据分布式培训场景中，管理输入数据有两种主要策略。首先，我们通过*分割*(拆分)输入来确保每个工作者处理数据的不相交子集。在第二种情况下，我们简单地将完整数据集的随机混洗副本提供给所有工人。虽然这听起来很简单，但有许多实施细节会对你成功训练的能力产生有意义的影响。
+
+## **数据集分片**
+
+有多种方法可以对数据进行分片。您可以在数据集创建过程中对数据进行分片。如果数据被分组到文件中，则可以在创建 Dataset 对象的过程中共享文件列表。最糟糕的做法是处理所有的输入数据，并在输入时将其分发给工作人员，因为这样会带来浪费的开销，可能会在 CPU 和/或网络输入上带来性能瓶颈，并可能会大大降低您的培训速度。不幸的是，这有时是 [TensorFlow 的数据集分布](https://www.tensorflow.org/api_docs/python/tf/distribute/MultiWorkerMirroredStrategy?version=nightly#experimental_distribute_dataset)的默认行为。正如这里的[所记录的](https://www.tensorflow.org/api_docs/python/tf/data/experimental/DistributeOptions)，TesnorFlow 将尝试按文件分片，但如果不成功，它将在数据集记录级别分片。注意，在 TensorFlow 文档的上下文中，一个 *worker* 指的是一个训练实例。
+
+**示例—tensor flow with Pipe Mode dataset:**正如我在过去[所详述的](https://julsimon.medium.com/making-amazon-sagemaker-and-tensorflow-work-for-you-893365184233)，在亚马逊的 SageMaker 环境中对大型数据集进行训练的一种令人信服的方式是使用[亚马逊 SageMaker 管道模式](https://aws.amazon.com/blogs/machine-learning/accelerate-model-training-using-faster-pipe-mode-on-amazon-sagemaker/)。不幸的是，TensorFlow 在 [PipeModeDataset](https://aws.amazon.com/blogs/machine-learning/accelerate-model-training-using-faster-pipe-mode-on-amazon-sagemaker/) 上的默认行为将是记录级别的分片。回想一下，在每个培训实例中，Tensorflow 将管理所有工人的数据输入。假设我们运行 4 个实例，每个实例有 8 个 GPU 工作线程，总共有 32 个工作线程。每个训练实例最终将提取和处理 4 倍于其实际需要的数据量。考虑到网络输入带宽和 CPU 周期的限制，这可能会引入瓶颈并降低速度。一种解决方案是配置[管道输入创建](https://sagemaker.readthedocs.io/en/stable/api/utility/inputs.html#inputs)，将*分发*设置设置为*‘shardedbys 3 key*’并使用[distribute _ datasets _ from _ function](https://www.tensorflow.org/api_docs/python/tf/distribute/MultiWorkerMirroredStrategy?version=nightly#distribute_datasets_from_function)函数定制数据集分片。这样，我们可以确保每个实例只处理将要使用的记录。
+
+## 整个数据集的随机洗牌
+
+分片的一种替代方法是简单地向每个工人输入完整数据集的随机洗牌。请注意，产生的数据遍历可能与分片的情况不同。特别地，随机混洗可能导致某些记录在训练开始时被处理多次，而在接近训练结束时根本不被处理，而不是在训练过程中被均匀地分散。在大多数情况下，这种选择不会影响收敛速度，但可能会有对此敏感的模型。
+
+**示例—Horovod with pipe mode dataset:**与 TensorFlow 相反，在 horo VOD 中，每个工人的输入都是独立处理的。特别是，在 *k* 工人的情况下，分片选项将需要定义 *k* 唯一数据集。然而，如果你使用[亚马逊 SageMaker 管道模式](https://aws.amazon.com/blogs/machine-learning/accelerate-model-training-using-faster-pipe-mode-on-amazon-sagemaker/)，你会发现你被限制在每个培训工作 20 个管道。即使你只需要每个工人一根管子，你也只能有 20 个工人。如果你需要每个工人更多的管道，你将有一个较低的限制。一种可能的解决方案是将分片和洗牌结合起来。假设每个工作线程需要一个管道，您有 4 个实例，每个实例有 8 个 GPU 工作线程。[创建](https://medium.com/r?url=https%3A%2F%2Fsagemaker.readthedocs.io%2Fen%2Fstable%2Fapi%2Futility%2Finputs.html%23inputs) 8 个管道，索引从 1 到 8，全部指向同一个数据源，每个管道的*分布*设置都设置为*‘shardedbys 3 key*’，并且每个管道都有一个唯一的 [ShuffleConfig](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_ShuffleConfig.html) 实例，即唯一的 shuffle 种子。在每个实例中，将具有本地 id (local_rank) *i* 的 worker 连接到具有相同 id 的管道。结果是 8 个管道中的每一个将包含唯一的混洗，并且对于每个时期，本地 id 为 *i* 的所有工作者将遍历与管道 *i* 相关联的完整数据集。使用这种解决方案，您可以扩展到无限数量的训练实例，而不需要额外的管道。您仍将被限制为每个工人最多 2 根管道(例如*训练*和*测试*)，因为 3 将需要 3*8=24 根总管道，这大于 20 根管道的限制，但这一限制更易于管理。
+
+# 第 5 章—训练算法更新
+
+正如我们在第一节中所述，成功的分布式训练的两个主要挑战之一是最小化达到模型收敛所需的总样本数(或训练数据集的总遍历数)的增加。当使用 *k* 名员工在分布式环境下进行培训时，全球批量规模会增加 *k* 倍。在许多情况下，您会发现用于学习原始批量的模型超参数不再适用于大批量。如果批量大得多，即我们有大量工人的情况下，尤其如此。许多教程可能会让您相信，所需要的只是对所选模型优化器的学习速率进行(线性)校正。可悲的是，对于非平凡的模型，情况往往并非如此。您可能会发现，在 *k* 工人的情况下，找到合适的收敛超参数可能会很困难。你甚至会得出这样的结论:这是不可能的。更糟糕的是，你可能成功地找到了适用于 k 名员工的方法，却发现同样的方法不适用于不同数量的员工。更糟糕的是，如果你不能在一个特定的全球批量上达成一致，可能不清楚这是因为你还没有找到正确的配方，还是因为你已经达到了批量增加的极限。参见[此处](https://arxiv.org/pdf/1812.06162.pdf)了解为什么会有这样的限制(感谢 [Denis Akhiyarov](https://www.linkedin.com/in/denisakhiyarov/) 作为参考)。
+
+您可能会遇到的另一个现象是执行大批量训练时的 ***泛化差距*** 问题。随着全局批量的增加，您可能会发现在训练集和验证集上测量的指标度量之间的差距越来越大。正如这篇[论文](https://arxiv.org/pdf/1609.04836.pdf)中所描述的，这是因为大批量训练比小批量训练更倾向于收敛于不同的最小值。感谢 Denis Akhiyarov 让我注意到这一现象。
+
+解决大批量情况下的模型收敛问题是一个活跃的研究领域，为此任务提出了专门的训练策略，如[兰姆](https://arxiv.org/abs/1904.00962)、[拉尔斯](https://arxiv.org/abs/1708.03888)、[阿达姆](https://arxiv.org/pdf/2006.02924.pdf)等等。请记住，更改优化器或其他某个超参数可能会增加训练步骤的时间，使达到线性伸缩的目标变得更加困难。例如， [TensorFlow 插件库](https://www.tensorflow.org/addons/)包含了一个 [LAMB](https://www.tensorflow.org/addons/api_docs/python/tfa/optimizers/LAMB) 优化器的实现。然而，您可能会发现，与您的默认优化器相比，它增加了步骤时间，在这种情况下，您可能想要考虑[创建一个定制的内核](https://www.tensorflow.org/guide/create_op)来确保它的最优性。
+
+底线是，虽然实现(高度)数据并行化训练的机制可能很容易，但确保模型收敛以及时的方式有时可能相当困难。
+
+# 第 6 章—提高成本效率的技巧
+
+培训资源非常昂贵，而且成本通常与员工数量成线性比例关系。虽然高成本是分布式培训的一个不容置疑的症状，但我们应该始终意识到这一点，并寻找机会调整我们的开发习惯以降低成本。以下是一些建议:
+
+**使用低成本“现货”实例**:许多云服务提供商为多余的计算实例提供大幅折扣。在 AWS 中这些被称为 [**亚马逊 EC2 Spot 实例**](https://aws.amazon.com/ec2/spot/?cards.sort-by=item.additionalFields.startDateTime&cards.sort-order=asc) ，在 Google Cloud 中它们被称为 [**可抢占 VM 实例**](https://cloud.google.com/compute/docs/instances/preemptible) ，在微软 Azure 中它们被称为 [**低优先级 VM**](https://docs.microsoft.com/en-us/azure/batch/batch-low-pri-vms)。权衡的结果是，如果对它们的需求增加，这样的实例可能会在使用过程中被终止，并且如果其中一个工作人员变得不响应，大多数现代框架将无法通过分布式培训。但是，假设您的培训会话不在关键路径中，并且您定期捕获检查点，在发生中断时可以从这些检查点恢复，那么使用 spot 实例可能对您来说是一个有吸引力的选择。您还可以考虑使用容错解决方案，如 [Elastic Horovod](https://horovod.readthedocs.io/en/stable/elastic_include.html) ，这是 Horovod 的一项引人注目的功能，即使在现场终止的情况下也可以不间断地进行培训，同时允许根据不断变化的工人数量动态更新培训超参数。看看我最近关于这个话题的文章。
+
+**培训课程的自动化监控和管理**:您必须引入自动化方法来监控培训课程，识别失败的运行，并终止它们。如果你只依靠手动发现，你可能会发现自己为无意义的训练周期付出了过多的代价。
+
+**使用高级超参数调整方法**:高级(通常基于贝叶斯)超参数调整相对于简单方法(如手动搜索或网格搜索)有众所周知的优势。如上所述，考虑到高成本和增加识别适当超参数的复杂性的可能性，这种技术在分布式设置中更加重要。
+
+**将评估卸载到单个工作实例**:使用多个实例将需要对您的培训流程进行一些修改。检查点管理应该只由其中一个工人(主要工人)来处理。如果您正在使用 Horovod，并且您的培训会话需要安装依赖包，那么您需要确保每个实例仅由一个工人执行安装(当其他工人睡觉时),以避免竞争情况。一个经常被忽视的因素是评估。训练流程通常会穿插定期评估，以便监控评估指标如何随时间变化。虽然您当然可以对多个工作人员执行*分布式评估*(有一些简单的方法可以在工作人员之间累积指标，并且可以调整批处理大小以最大化资源利用率),但是让我大胆地猜测，加速评估并不是您使用多个实例的原因。您可以考虑的一件事是将评估生成到其他单个工作实例上，而不是在多实例环境中运行它们。这不仅会节省你的 d *分布式评估*的开销，而且你还会享受到不间断训练带来的额外训练速度提升。当然，如果您需要快速评估和/或您的培训流程取决于评估的结果，这可能不是一个好的选择。
+
+明智地开展分布式培训:明智地选择何时开展培训可以节省大量成本。这可以通过例子得到最好的证明:假设你已经成功地扩展到一个 *k* 工人设置，这样你的培训时间已经减少了一个 *2/k* 的因子(与期望的因子 *1/k* 相反)，并且你已经决定，在一般情况下，额外的成本值得加速开发时间。现在假设你在一个特定的环境中开始一个新的培训课程，在这个环境中，你不关心培训是及时完成 *T* 还是及时完成 *2T/k* ，例如，就在回家过周末之前。在这种情况下，您可能需要重新考虑运行分布式培训，以便将培训成本减半。
+
+在最近的一篇文章中，我谈到了一些额外的提高培训效率的发展习惯。这样的习惯在分布式训练环境中变得更加重要。
+
+[](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) [## 提高云 ML 生产力的 6 个开发习惯
+
+### 回归基础:重新思考云计算时代的开发最佳实践
+
+towardsdatascience.com](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) 
+
+# 摘要
+
+运行数据分布式培训是加速您的培训、减少您的开发周期时间和增加您的市场竞争力的一种令人信服的方式。然而，成功的数据分布训练可能也需要大量的开发工作。在开始这次冒险之前，确保你有合适的工具来评估你的进展。为可接受的比例因子设定清晰的目标、清晰的成功标准和清晰的界限。尝试尽早了解调整模型的复杂性，以确保收敛于较高的全局批量。通过仅在回报合理的时间和地点实施数据分布式培训，明智地计算您的决策。
