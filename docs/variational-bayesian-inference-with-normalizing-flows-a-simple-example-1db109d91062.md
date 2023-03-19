@@ -26,7 +26,7 @@
 
 MCMC 采样的一种替代方法是对难以求解的积分使用[解析近似法](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1467-9868.2008.00700.x)。这是 [R-INLA](https://www.r-inla.org/home) 采用的方法，它使用集成嵌套拉普拉斯近似。这种方法非常快，R-INLA 在地理空间统计建模中特别受欢迎，尽管这种方法不如 MCMC 普遍适用。
 
-MCMC 的另一种替代方法是[](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)****(VI)变分推理，这种方法的应用，使用张量流概率，是本文的重点。一篇优秀的关于 VI 的概括性介绍和评论在[这里](https://arxiv.org/abs/1601.00670)有[stand](https://mc-stan.org/)具体文章[这里](https://arxiv.org/abs/1506.03431)。变分推理试图找到一个尽可能接近后验分布的(已知)概率分布。使用已知的分布避免了计算难以解决的积分的需要。变分推理通过最大化通常被称为 ELBO 的证据下限来实现这一点，ELBO 与[kull back-lei bler-divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)(KL-divergence)密切相关，后者是一种量化两种概率分布彼此相似程度的指标。最大化 ELBO 使真实后验分布和替代分布之间的 KL 偏差最小化。****
+MCMC 的另一种替代方法是<https://en.wikipedia.org/wiki/Variational_Bayesian_methods>****(VI)变分推理，这种方法的应用，使用张量流概率，是本文的重点。一篇优秀的关于 VI 的概括性介绍和评论在[这里](https://arxiv.org/abs/1601.00670)有[stand](https://mc-stan.org/)具体文章[这里](https://arxiv.org/abs/1506.03431)。变分推理试图找到一个尽可能接近后验分布的(已知)概率分布。使用已知的分布避免了计算难以解决的积分的需要。变分推理通过最大化通常被称为 ELBO 的证据下限来实现这一点，ELBO 与[kull back-lei bler-divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)(KL-divergence)密切相关，后者是一种量化两种概率分布彼此相似程度的指标。最大化 ELBO 使真实后验分布和替代分布之间的 KL 偏差最小化。****
 
 # ****1.3 机器学习****
 

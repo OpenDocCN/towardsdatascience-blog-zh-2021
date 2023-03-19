@@ -122,16 +122,4 @@ AWS 自己提供的在线电子学习模块经过精心规划和交付，使概�
 
 欢迎您来到**，与我一起踏上数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的数据科学内容。同时，祝你考试顺利！
 
-[](/no-frills-guide-to-passing-the-aws-certified-machine-learning-specialty-exam-55624579353f) [## 通过 AWS 认证机器学习专业考试的简明指南
-
-### 获得亚马逊网络服务(AWS)机器学习专业认证的高效方法
-
-towardsdatascience.com](/no-frills-guide-to-passing-the-aws-certified-machine-learning-specialty-exam-55624579353f) [](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) [## 两周内获得 Tableau 桌面认证的 3 个步骤
-
-### 获得 Tableau 专家认证，展示您的数据可视化技能和产品知识
-
-towardsdatascience.com](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) [](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [## 新冠肺炎疫苗——公众情绪如何？
-
-### 使用 NLP (Stanza、NLTK Vader 和 TextBlob)对新冠肺炎疫苗推文进行逐步情感分析
-
-towardsdatascience.com](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99)
+</no-frills-guide-to-passing-the-aws-certified-machine-learning-specialty-exam-55624579353f>  </3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de>  </covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99> 

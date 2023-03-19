@@ -92,23 +92,7 @@
 
 我将把它留给另一篇文章。如果你喜欢这个，这里还有一些！
 
-[](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f) [## 自然语言处理中的位置敏感哈希算法
-
-### 关于如何通过区分位置来减少搜索空间以加快文档检索的实践教程…
-
-towardsdatascience.com](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f) [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [## 处理具有高基数的要素
-
-### 一个简单的实用程序，我用来处理具有许多唯一值的分类特征
-
-towardsdatascience.com](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) 
+</locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f>  </dealing-with-features-that-have-high-cardinality-1c9212d7ff1b>  </regex-essential-for-nlp-ee0336ef988d>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  
 
 # 参考
 

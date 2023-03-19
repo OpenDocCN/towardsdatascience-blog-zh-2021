@@ -56,15 +56,7 @@
 
 **如果你有兴趣更多地了解咨询数据科学家的世界，你可以阅读以下博客:**
 
-**[](/working-as-a-data-science-consultant-e626669ab72b) [## 担任数据科学顾问
-
-### 具有企业意识的数据科学家的职业战略
-
-towardsdatascience.com](/working-as-a-data-science-consultant-e626669ab72b) [](https://research.aimultiple.com/data-science-consulting/#necessary-skills-for-data-science-consultants) [## 2021 年的数据科学咨询与顾问:深度指南
-
-### 正如您在上面看到的，在过去 5 年中，人们对数据科学的兴趣增长了 5 倍以上。据普华永道称，将会有更多…
-
-research.aimultiple.com](https://research.aimultiple.com/data-science-consulting/#necessary-skills-for-data-science-consultants) 
+**</working-as-a-data-science-consultant-e626669ab72b>  <https://research.aimultiple.com/data-science-consulting/#necessary-skills-for-data-science-consultants>  
 
 ## 科技公司的数据科学家:学习机器学习工程技能的机会
 
@@ -76,15 +68,7 @@ research.aimultiple.com](https://research.aimultiple.com/data-science-consulting
 
 近年来，模型产品化已经成为进入数据科学世界的一条不同的职业道路，称为机器学习工程。如果你想了解这个令人兴奋的话题，你可以阅读这些博客:
 
-[](https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699) [## 但是这个“机器学习工程师”实际在做什么呢？
-
-### 受到最近在 O'reilly 数据秀播客“机器学习工程师需要知道什么”的启发，我决定…
-
-medium.com](https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699) [](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) [## ML Ops:作为工程学科的机器学习
-
-### 随着 ML 从研究走向应用商业解决方案的成熟，我们是否需要提高其运营的成熟度…
-
-towardsdatascience.com](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) 
+<https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699>  </ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f>  
 
 根据我自己和关系更密切的同事的经验，以下是科技公司数据科学的一些利弊:
 

@@ -575,45 +575,13 @@ A/B 测试中最常用的**非参数**测试有:
 
 # ***额外资源***
 
-***[](https://github.com/TatevKaren) [## TatevKaren -概述
-
-### 我是 Tatev Karen Aslanyan，数据科学家和定量分析师，在数学、统计…
-
-github.com](https://github.com/TatevKaren) 
+***<https://github.com/TatevKaren>  
 
 **Github 库进行 A/B 测试:** [这里](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing)*** 
 
 # ***如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:***
 
-***[](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [## 机器学习中的偏差-方差权衡
-
-### 机器学习和统计模型中偏差-方差权衡的介绍
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [## Python 中的数据采样方法
-
-### 使用不同的数据采样技术创建 Python 中的随机样本的现成代码
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [## 蒙特卡罗模拟和 Python 变种
-
-### 蒙特卡洛模拟指南，必须了解 Python 实现的统计抽样技术
-
-towardsdatascience.com](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) [## PySpark 备忘单:大数据分析
-
-### 这里是基本 PySpark 命令和函数的备忘单。在 PySpark 中开始您的大数据分析。
-
-medium.com](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) [](https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf) [## 在推荐系统中使用客户和产品特征
-
-### 提出了一种基于矩阵分解的向推荐系统添加额外用户和项目特征的方法
-
-medium.com](https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf) 
+***<https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847>  <https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b>  </fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7>  </simple-and-complet-guide-to-a-b-testing-c34154d0ce5a>  </monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f>  <https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185>  <https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf>  
 
 # 调查:完美的数据科学课程对你来说是什么样的？
 

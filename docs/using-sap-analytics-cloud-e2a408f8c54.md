@@ -81,11 +81,7 @@ HANA 不一样。它是从零开始设计的，旨在消除所有这些问题，
 
 正如我提到的，泰坦尼克号是一个非常好的使用和研究的数据集。在《走向数据科学》上，我找到了 Niklas Donges 的一篇文章。
 
-[](/predicting-the-survival-of-titanic-passengers-30870ccc7e8) [## 预测泰坦尼克号乘客的生存
-
-### 在这篇博文中，我将讲述在著名的泰坦尼克号上创建机器学习模型的整个过程…
-
-towardsdatascience.com](/predicting-the-survival-of-titanic-passengers-30870ccc7e8) 
+</predicting-the-survival-of-titanic-passengers-30870ccc7e8>  
 
 Niklas 为每个字段提供了方便的描述，如图 6 所示
 
@@ -166,15 +162,7 @@ SAP SAC 提供两种类型的数据模型。这些是:-
 
 ## **Udemy**
 
-[](https://www.udemy.com/course/sap-analytics-cloud-sac/) [## 完整的 SAP 分析云课程 2021
-
-### SAP 分析云顾问是科技界最热门的职业之一。你有没有想过什么是…的最佳路径
-
-www.udemy.com](https://www.udemy.com/course/sap-analytics-cloud-sac/) [](https://www.udemy.com/course/sap-analytics-cloud-sac/) [## 完整的 SAP 分析云课程 2021
-
-### SAP 分析云顾问是科技界最热门的职业之一。你有没有想过什么是…的最佳路径
-
-www.udemy.com](https://www.udemy.com/course/sap-analytics-cloud-sac/) 
+<https://www.udemy.com/course/sap-analytics-cloud-sac/>  <https://www.udemy.com/course/sap-analytics-cloud-sac/>  
 
 ## SAP [培训](https://training.sap.com/)
 

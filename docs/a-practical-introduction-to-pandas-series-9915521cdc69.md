@@ -123,11 +123,7 @@ Name: product, dtype: object
 
 请看看下面这篇关于熊猫的文章`read_csv()`
 
-[](/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) [## 所有你应该知道的熊猫 read_csv()加速你的数据分析
-
-### 一些最有帮助的熊猫技巧来加速你的数据分析
-
-towardsdatascience.com](/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) 
+</all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3>  
 
 # 2.检索元素
 

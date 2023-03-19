@@ -161,30 +161,10 @@ $ manim -p -qh more.py Graph
 
 本文的源代码可以在这里找到:
 
- [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/visualization/manim_exp) 
+  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [## 可视化的 6 大 Python 库:使用哪一个？
-
-### 对使用哪种可视化工具感到困惑？我为你分析了每个图书馆的利弊
-
-towardsdatascience.com](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) [## 如何用 Altair 创建交互式剧情
-
-### 在 5 行简单的 Python 代码中利用您的数据分析
-
-towardsdatascience.com](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a)
+</pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc>  </top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658>  </how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a> 

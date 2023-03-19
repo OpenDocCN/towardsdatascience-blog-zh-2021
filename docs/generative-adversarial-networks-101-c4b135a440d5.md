@@ -104,11 +104,7 @@ GANs 基于一个有趣的简单想法:让两个神经网络相互竞争，希�
 
 **先说前者。查看下一篇文章，在这篇文章中，我们将 GAN 向前推进了一步，在生成器和鉴别器中添加了卷积，以构建所谓的深度卷积 GAN 或 DCGAN！**
 
-**[](https://michaloleszak.medium.com/generative-adversarial-networks-102-dcgan-mode-collapse-ef119aa31a6f) [## 生成性对抗网络 102: DCGAN 和模式崩溃
-
-### 卷积简单的 GAN 以提高生成图像的质量。
-
-michaloleszak.medium.com](https://michaloleszak.medium.com/generative-adversarial-networks-102-dcgan-mode-collapse-ef119aa31a6f) ![](img/17162962021aaecbc1e67715dd0a3466.png)
+**<https://michaloleszak.medium.com/generative-adversarial-networks-102-dcgan-mode-collapse-ef119aa31a6f>  ![](img/17162962021aaecbc1e67715dd0a3466.png)
 
 ## 感谢
 
@@ -124,16 +120,4 @@ michaloleszak.medium.com](https://michaloleszak.medium.com/generative-adversaria
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/activation-functions-you-might-have-missed-79d72fc080a5) [## 你可能错过的激活功能
-
-### 你应该“嗖嗖”一下这些新发明，还是继续使用老掉牙的东西？
-
-towardsdatascience.com](/activation-functions-you-might-have-missed-79d72fc080a5) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/statistics-is-dead-long-live-statistics-df6c71262187) [## 统计死了，统计万岁！
-
-### 认识一下重采样，这是一种通用的现代统计方法
-
-towardsdatascience.com](/statistics-is-dead-long-live-statistics-df6c71262187)**
+</activation-functions-you-might-have-missed-79d72fc080a5>  </monte-carlo-dropout-7fd52f8b6571>  </statistics-is-dead-long-live-statistics-df6c71262187> **

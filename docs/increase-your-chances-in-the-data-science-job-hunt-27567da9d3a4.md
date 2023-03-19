@@ -16,11 +16,7 @@
 
 作为一个一直在申请工作的人，有一个主要的技巧大大提高了我的机会，我也想与你分享。我希望你能从这篇文章中得到一些有价值的东西。
 
-[](https://learningfrommachines.substack.com/welcome) [## 向机器学习
-
-### 了解向我们学习的算法。
-
-learningfrommachines.substack.com](https://learningfrommachines.substack.com/welcome) 
+<https://learningfrommachines.substack.com/welcome>  
 
 # 对自己诚实
 

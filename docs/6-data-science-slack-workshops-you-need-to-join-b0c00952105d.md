@@ -14,11 +14,7 @@
 
 一旦我找到一个社区来帮助我，支持我，并在我的学习旅程中激励我，旅程就变得容易多了。我最终得到的不仅仅是技术知识；我最终有了朋友、志同道合的人，以及一个帮助塑造了我今天这个数据科学家的网络。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 在本文中，我将与您分享一些令人惊叹、支持和欢迎的数据科学社区 Slack workspaces，以便您可以与来自世界各地的数据科学家交流、学习和交朋友。这 6 个 Slack 工作空间将为您提供在数据科学学习之旅中取得成功所需的社区感和归属感。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 在[女性程序员中最活跃的章节之一是数据科学](https://www.womenwhocode.com/datascience)章节。本章为数据科学家提供了许多网络研讨会、支持、工作公告板和机会。尽管名为女性代码组织，但它欢迎任何人加入他们的活动，并充分利用这些活动。你可以通过[这个](https://join.slack.com/t/wwcodedatascience/shared_invite/zt-fpm2dfia-pyyW5Gqlf4B9MViRxpqDqA)链接加入数据科学章节。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 # №3: Kaggle Noobs
 
@@ -52,11 +44,7 @@ Kaggle 还为不同的数据科学主题(如 NLP、可视化、机器学习和�
 
 人工智能研究人员和爱好者是一个超过 6k 名研究人员的社区，爱好者聚集在一起讨论人工智能领域的最新进展。您可以通过[此](https://ai-researchers-invite.herokuapp.com/)链接加入讨论并获得最新消息。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # №5:数据会谈。俱乐部
 
@@ -70,11 +58,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 此外，TWIML 社区组织了许多流行的数据科学主题的学习小组，如人工智能、深度学习和 NLP。通过社区的 Slack workspace，你可以和聪明能干的人讨论你需要的所有话题。你可以通过[这个](https://twimlai.com/community/)链接加入 TWIML 社区。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # 最后的想法
 

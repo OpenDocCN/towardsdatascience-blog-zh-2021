@@ -102,8 +102,4 @@
 
 最后，人类心理学非常复杂，但我发现这个简化的框架帮助我成功地指导我的工作。
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

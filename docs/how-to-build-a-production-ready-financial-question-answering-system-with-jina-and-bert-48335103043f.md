@@ -10,7 +10,7 @@
 
 (图片由作者提供)
 
-*第 1 部分—学习如何使用神经搜索框架，* [***【纪娜】***](https://github.com/jina-ai/jina) *，构建一个* ***金融问答(QA)搜索应用*** *与*[*FiQA*](https://sites.google.com/view/fiqa/home)*数据集，*[*py torch*](https://pytorch.org/)*，以及*[](https://github.com/huggingface/transformers)
+*第 1 部分—学习如何使用神经搜索框架，* [***【纪娜】***](https://github.com/jina-ai/jina) *，构建一个* ***金融问答(QA)搜索应用*** *与*[*FiQA*](https://sites.google.com/view/fiqa/home)*数据集，*[*py torch*](https://pytorch.org/)*，以及*<https://github.com/huggingface/transformers>
 
 *[*第二部分*](/search-engine-evaluation-in-jina-856616eb7f6f) *—和纪娜一起学习如何评估和改善你的财务问答搜索结果**
 
@@ -357,11 +357,7 @@ export JINA_SHARDS='1'*
 *python app.py index*
 ```
 
-*[](https://asciinema.org/a/381671) [## 指数
-
-### 元比特录制
-
-asciinema.org](https://asciinema.org/a/381671) 
+*<https://asciinema.org/a/381671>  
 
 最后，您将看到以下内容:
 

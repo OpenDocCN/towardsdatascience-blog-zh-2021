@@ -32,15 +32,7 @@
 
 这是两个例子:
 
-[](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) [## Python 中从头开始的完整逻辑回归算法:一步一步
-
-### 使用真实世界的数据集开发算法
-
-towardsdatascience.com](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) 
+</a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593>  </a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703>  
 
 我们做了一些探索性的数据分析，也提供了 Kaggle 中特性的细节。
 
@@ -62,19 +54,11 @@ towardsdatascience.com](/a-complete-logistic-regression-algorithm-from-scratch-i
 
 在本文中，我剪切了数据集的一部分，并将其用于多元线性回归:
 
-[](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) 
+</detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3>  
 
 这里我用它来做一些可视化演示:
 
-[](/pair-plot-and-pairgrid-in-details-f782975032ea) [## 详细的 Pair plot 和 PairGrid
-
-### 用真实数据演示 Pandas 和 Seaborn 库中的配对图
-
-towardsdatascience.com](/pair-plot-and-pairgrid-in-details-f782975032ea) 
+</pair-plot-and-pairgrid-in-details-f782975032ea>  
 
 [从这里下载](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv)
 
@@ -88,19 +72,11 @@ towardsdatascience.com](/pair-plot-and-pairgrid-in-details-f782975032ea)
 
 *这是我使用该数据集的教程:*
 
-*[](/clear-understanding-of-a-knn-classifier-with-a-project-for-the-beginners-865f56aaf58f) [## 学习使用 Python 的 Scikit_learn 库通过项目开发 KNN 分类器
-
-### 适合机器学习新手
-
-towardsdatascience.com](/clear-understanding-of-a-knn-classifier-with-a-project-for-the-beginners-865f56aaf58f) 
+*</clear-understanding-of-a-knn-classifier-with-a-project-for-the-beginners-865f56aaf58f>  
 
 以下是使用该数据集的一些 pandas 函数的演示:
 
-[](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) [## 熊猫总结数据的三个非常有用的功能
-
-towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) 
-
-这里是[到这个数据集](https://github.com/rashida048/Datasets/blob/master/titanic_data.csv)的链接
+</three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370> 的链接
 
 ## 人口普查数据集
 
@@ -122,11 +98,7 @@ towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-
 
 GitHub 页面中的一个例子:
 
-[](https://github.com/rashida048/Credit-Card-Fraud-Detection/blob/master/creditCardFraudDetection.ipynb) [## 信用卡欺诈检测/credcardfrauddetection . ipynb at master…
-
-### 使用 learn 开发了一个信用卡欺诈检测系统-信用卡欺诈检测/credcardfrauddetection . ipynb…
-
-github.com](https://github.com/rashida048/Credit-Card-Fraud-Detection/blob/master/creditCardFraudDetection.ipynb) 
+<https://github.com/rashida048/Credit-Card-Fraud-Detection/blob/master/creditCardFraudDetection.ipynb>  
 
 该数据集也可用于**探索性数据分析和可视化**。
 
@@ -142,11 +114,7 @@ github.com](https://github.com/rashida048/Credit-Card-Fraud-Detection/blob/maste
 
 以下是使用该数据集的电影推荐算法演示:
 
-[](/a-complete-recommendation-system-algorithm-using-pythons-scikit-learn-library-step-by-step-guide-9d563c4db6b2) [## 使用 Python 的 Scikit-Learn 库的完整推荐系统算法:分步指南
-
-### 一个简单、容易、有用的算法，只有几行代码
-
-towardsdatascience.com](/a-complete-recommendation-system-algorithm-using-pythons-scikit-learn-library-step-by-step-guide-9d563c4db6b2) 
+</a-complete-recommendation-system-algorithm-using-pythons-scikit-learn-library-step-by-step-guide-9d563c4db6b2>  
 
 [从此链接下载该数据集。](https://github.com/rashida048/Datasets/blob/master/movie_dataset.csv)
 
@@ -156,11 +124,7 @@ towardsdatascience.com](/a-complete-recommendation-system-algorithm-using-python
 
 *以下是使用此数据集的项目示例:*
 
-*[](https://pub.towardsai.net/similar-texts-search-in-python-with-a-few-lines-of-code-an-nlp-project-9ace2861d261) [## 用几行代码在 Python 中搜索相似的文本:一个 NLP 项目
-
-### 使用 Python 中的计数矢量器和最近邻法查找类似的维基百科简介，这是一个简单而有用的…
-
-pub.towardsai.net](https://pub.towardsai.net/similar-texts-search-in-python-with-a-few-lines-of-code-an-nlp-project-9ace2861d261) 
+*<https://pub.towardsai.net/similar-texts-search-in-python-with-a-few-lines-of-code-an-nlp-project-9ace2861d261>  
 
 这是这个数据集的[链接](https://www.kaggle.com/sameersmahajan/people-wikipedia-data)
 
@@ -172,11 +136,7 @@ pub.towardsai.net](https://pub.towardsai.net/similar-texts-search-in-python-with
 
 我有一个情感分析项目和一篇文章，其中我使用了这个数据集。请点击此处查看:
 
-[](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [## 关于 Keras 和 Tensorflow 中情感分析的一步一步的完整教程
-
-### 用于数据准备、深度学习模型开发和训练网络的完整工作代码
-
-towardsdatascience.com](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) 
+</a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f>  
 
 从[此链接](https://www.kaggle.com/bittlingmayer/amazonreviews)下载此数据集。
 
@@ -200,19 +160,11 @@ towardsdatascience.com](/a-complete-step-by-step-tutorial-on-sentiment-analysis-
 
 这是一个逻辑回归算法:
 
-[](/a-complete-logistic-regression-algorithm-for-image-classification-in-python-from-scratch-c1d0266409b8) [## Python 中用于图像分类的完全逻辑回归算法
-
-### 带有项目的逻辑回归算法的详细布局
-
-towardsdatascience.com](/a-complete-logistic-regression-algorithm-for-image-classification-in-python-from-scratch-c1d0266409b8) 
+</a-complete-logistic-regression-algorithm-for-image-classification-in-python-from-scratch-c1d0266409b8>  
 
 以下是 python 中神经网络的演示:
 
-[](/a-complete-neural-network-algorithm-from-scratch-in-python-fdf985f258dd) [## Python 中从头开始的一个完整的神经网络算法
-
-### 使用数字识别数据集在项目中学习
-
-towardsdatascience.com](/a-complete-neural-network-algorithm-from-scratch-in-python-fdf985f258dd) 
+</a-complete-neural-network-algorithm-from-scratch-in-python-fdf985f258dd>  
 
 从这个链接下载[这个数据集。](https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex3d1.xlsx)
 
@@ -222,11 +174,7 @@ towardsdatascience.com](/a-complete-neural-network-algorithm-from-scratch-in-pyt
 
 在这个项目中，我使用 Tensorflow 和 Keras 对这个数据集尝试了不同的神经网络结构:
 
-[](https://github.com/rashida048/Image-Recognition-with-Tensorflow/blob/master/Final_Results_on_cipher10_dataset.ipynb) [## 主服务器上使用 tensor flow/Final _ Results _ on _ cipher 10 _ dataset . ipynb 进行图像识别…
-
-### 通过在 GitHub 上创建一个帐户，为 rashida 048/使用 Tensorflow 进行图像识别的开发做出贡献。
-
-github.com](https://github.com/rashida048/Image-Recognition-with-Tensorflow/blob/master/Final_Results_on_cipher10_dataset.ipynb) 
+<https://github.com/rashida048/Image-Recognition-with-Tensorflow/blob/master/Final_Results_on_cipher10_dataset.ipynb>  
 
 ## 猫 vs 狗
 
@@ -274,15 +222,7 @@ github.com](https://github.com/rashida048/Image-Recognition-with-Tensorflow/blob
 
 以下是使用该数据集的一些时间序列分析和可视化教程:
 
-[](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81) [](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) [## Python 时序数据可视化完全指南
-
-### 这应该给你足够的资源来制作时间序列数据的视觉效果
-
-towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) 
+</an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81>  </a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01>  
 
 [这里是链接](https://github.com/rashida048/Datasets/blob/master/FB_data.csv)
 
@@ -300,11 +240,7 @@ towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-p
 
 如果您对地理空间分析感兴趣，我想添加一个包含纬度和经度数据的数据集。我将这个数据集用于一些可视化实践:
 
-[](/interactive-choropleth-map-for-geospatial-data-visualization-a53688c8ef21) [## 用于地理空间数据可视化的交互式地形图
-
-### 详细教程
-
-towardsdatascience.com](/interactive-choropleth-map-for-geospatial-data-visualization-a53688c8ef21) 
+</interactive-choropleth-map-for-geospatial-data-visualization-a53688c8ef21>  
 
 ## 结论
 

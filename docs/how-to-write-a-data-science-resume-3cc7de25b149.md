@@ -37,11 +37,7 @@
 
 我推荐读一篇关于这个话题的优秀文章:
 
-[](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html) [## 我训练了一个模特。下一步是什么？
-
-### 我在 Kaggle 等平台参加机器学习(ML)比赛，打造机器学习肌肉。我…
-
-ternaus.blog](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html) 
+<https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html>  
 
 ## 项目不会推销自己
 

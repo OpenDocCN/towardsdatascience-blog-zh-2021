@@ -38,28 +38,16 @@ pip install quiffen
 
 Quiffen 还支持 QIF 结构的创建和导出！你可以创建自己的`Qif`对象，添加账户、交易、类别、类等等。下面显示了一个例子，但是完整的 API 参考可以在 Quiffen 文档中找到:
 
- [## Quiffen -一个读/写 Quicken 交换格式文件的 Python 库
-
-### 编辑描述
-
-quiffen.readthedocs.io](https://quiffen.readthedocs.io/en/latest/) 
+  
 
 您可以在 GitHub 上查看 Quiffen 包的完整源代码。任何反馈或(建设性的！)批评不胜感激！
 
-[](https://github.com/isaacharrisholt/quiffen) [## isaacharrisholt/quiffen
-
-### Quiffen 是一个用于解析 QIF (Quicken Interchange Format)文件的 Python 包。该软件包允许用户阅读…
-
-github.com](https://github.com/isaacharrisholt/quiffen) 
+<https://github.com/isaacharrisholt/quiffen>  
 
 我强烈建议用你自己的交易数据来试试 Quiffen，如果你也想看看这个让我的金融屁股进入状态的程序，请也这样做！
 
 此外，如果您有任何问题，请随时在 [**GitHub**](https://github.com/isaacharrisholt/) 上发送给我，或在 [**LinkedIn**](https://www.linkedin.com/in/isaac-harris-holt/) 上与我联系！我喜欢写我的项目，所以你可能也想在 [**Medium**](https://isaacharrisholt.medium.com/) 上关注我。
 
-[](/beating-monzo-plus-with-python-and-pandas-83cb066c1b95) [## 用蟒蛇和熊猫打败 Monzo Plus
-
-### 我如何用编程超越英国银行的新星
-
-towardsdatascience.com](/beating-monzo-plus-with-python-and-pandas-83cb066c1b95) 
+</beating-monzo-plus-with-python-and-pandas-83cb066c1b95>  
 
 ***这一条就这么多了！我希望你喜欢它，任何反馈都非常感谢！***

@@ -260,11 +260,7 @@ Total Costs = **92,981,000 ($/Month)**
 
 在本文中，我们将了解如何使用数据分析来设计最佳供应链网络，以最小化成本和环境影响。
 
-[](https://www.samirsaci.com/what-is-sustainable-sourcing/) [## 什么是可持续采购？
-
-### 可持续发展考虑到可持续发展指标，您如何使用数据分析来选择最佳供应商…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-sustainable-sourcing/) 
+<https://www.samirsaci.com/what-is-sustainable-sourcing/>  
 
 ## 改进您的模型
 
@@ -284,11 +280,7 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-sustainable-sourcing/)
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

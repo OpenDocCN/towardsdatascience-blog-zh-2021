@@ -126,16 +126,4 @@ ROP 越高，可以达到的距离越快。公司总是想尽可能快地钻探�
 
 ***请关注我即将发布的关于我在我们惊人的能源行业中的更多人工智能实验的文章！💡***
 
-*[](/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) [## 基于机器学习的 Volve 油田声波测井预测
-
-### 使用 Scikit-Learn 逐步解释
-
-towardsdatascience.com](/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) [](/oilfield-lithology-prediction-from-drilling-data-with-machine-learning-520ee9ff6e7c) [## 基于机器学习的钻井数据油田岩性预测
-
-### 实际工作流程和经验教训
-
-towardsdatascience.com](/oilfield-lithology-prediction-from-drilling-data-with-machine-learning-520ee9ff6e7c) [](https://medium.com/analytics-vidhya/machine-learning-for-prediction-in-hydraulic-fracturing-43de92b0e10a) [## 水力压裂预测的机器学习
-
-### 预测每个阶段性能簇数量的决策树
-
-medium.com](https://medium.com/analytics-vidhya/machine-learning-for-prediction-in-hydraulic-fracturing-43de92b0e10a)*
+*</prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8>  </oilfield-lithology-prediction-from-drilling-data-with-machine-learning-520ee9ff6e7c>  <https://medium.com/analytics-vidhya/machine-learning-for-prediction-in-hydraulic-fracturing-43de92b0e10a> *

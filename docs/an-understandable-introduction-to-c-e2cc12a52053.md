@@ -16,11 +16,7 @@ C 编程语言可能是计算机历史上最重要的编程语言之一。这种
 
 如果您想通过 Github 访问本文中使用的代码，可以在这里查看:
 
-[](https://github.com/emmettgb/C-CrashCourse/blob/main/1/christmas_tree.c) [## C-crash course/Christmas _ tree . C at main emmett GB/C-crash course
-
-### C 编程语言速成教程！通过创建帐户，为 emmettgb/C-CrashCourse 开发做出贡献…
-
-github.com](https://github.com/emmettgb/C-CrashCourse/blob/main/1/christmas_tree.c) 
+<https://github.com/emmettgb/C-CrashCourse/blob/main/1/christmas_tree.c>  
 
 事不宜迟，现在让我们讨论更多关于 C 编程语言的内容，并开始我们对这种语言的第一印象吧！
 
@@ -34,7 +30,7 @@ github.com](https://github.com/emmettgb/C-CrashCourse/blob/main/1/christmas_tree
 
 如果你想了解更多关于这如何应用于数据科学的知识，我专门写了一整篇文章。因为有很多材料我想看完，而不是把这篇文章写成一本书，所以我在这本书上练习提取方法，那些感兴趣的人可以阅读更多。尤其是因为我已经写过这个话题，没有必要再重复同样的话:
 
-[](/why-c-comes-in-handy-for-data-science-76071206bb5) [## 为什么 C 对于数据科学来说很方便
+</why-c-comes-in-handy-for-data-science-76071206bb5> [## 为什么 C 对于数据科学来说很方便
 
 towardsdatascience.com](/why-c-comes-in-handy-for-data-science-76071206bb5) 
 
@@ -79,11 +75,7 @@ sudo man install gcc
 **brew update****brew install gcc**
 ```
 
-[](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos) [## 如何在 macOS 上安装和使用 home brew | digital ocean
-
-### 命令行界面是一种与计算机交互的非图形方式。而不是用你的…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos) 
+<https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos>  
 
 > 旁注——谢天谢地有人做了一个 MacOS 软件包管理器。我不明白没有包管理器人们怎么生活。
 
@@ -91,11 +83,7 @@ www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-in
 
 对于我的 Windows 朋友来说，我相信 C 编译器的安装是非常典型的常规 Windows 安装。我会从下面的链接下载`setupx86_64.exe`，然后运行它:
 
-[](https://www.mingw-w64.org/) [## Mingw-w64
-
-### Mingw-w64 是最初的 mingw.org 项目的改进，创建它是为了在 Windows 系统上支持 GCC 编译器…
-
-www.mingw-w64.org](https://www.mingw-w64.org/) 
+<https://www.mingw-w64.org/>  
 
 # 编写我们的第一个程序
 

@@ -6,7 +6,7 @@
 
 ![](img/8ea38a27b0b5d4ff7597f3b458d15c4f.png)
 
-**照片由**[](https://www.pexels.com/@abhiram2244?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)****[**像素**](https://www.pexels.com/photo/man-sitting-on-edge-facing-sunset-915972/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 组成****
+**照片由**<https://www.pexels.com/@abhiram2244?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>****[**像素**](https://www.pexels.com/photo/man-sitting-on-edge-facing-sunset-915972/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 组成****
 
 ## ****为什么需要管道？****
 
@@ -20,19 +20,11 @@
 
 ****从这个[链接](https://raw.githubusercontent.com/BexTuychiev/medium_stories/master/2021/february/6_pipelines/Untitled.ipynb)下载笔记本或者在 Kaggle [这里](https://www.kaggle.com/bextuychiev/lasso-regression-with-pipelines-tutorial)运行。****
 
-****[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+****<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## Scikit 简介-学习管道
 

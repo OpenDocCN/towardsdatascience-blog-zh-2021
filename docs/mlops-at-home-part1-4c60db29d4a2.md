@@ -132,20 +132,8 @@ Google 有一个优秀的 MLOps 框架。他们定义了 3 个级别。让我们
 
 ## 了解更多信息
 
-[](/5-project-ideas-91da0da17b31) [## 启动您的数据科学职业生涯的 5 个项目创意
-
-### 成功项目的框架。
-
-towardsdatascience.com](/5-project-ideas-91da0da17b31) [](https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c) [## 面向数据科学家的高级 SQL
-
-### 掌握 SQL 以节省时间和炫耀
-
-medium.com](https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c) 
+</5-project-ideas-91da0da17b31>  <https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c>  
 
 ## 联系我
 
-[](https://www.linkedin.com/in/adamshafi/) [## 亚当·沙菲-数据科学家-凯捷| LinkedIn
-
-### 拥有 4 年以上分析经验的数据科学家，包括管理团队、交付项目和转变…
-
-www.linkedin.com](https://www.linkedin.com/in/adamshafi/)
+<https://www.linkedin.com/in/adamshafi/> 

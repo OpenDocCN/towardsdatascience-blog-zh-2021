@@ -931,4 +931,4 @@ app.put('/users', (req, res) => {
 
 这个应用程序的完成版本可以在我的 GitHub repo 中找到。你可以在这里找到[。](https://github.com/ratracegrad/node-crud-demo)
 
-*原载于 2021 年 2 月 15 日 https://www.jenniferbland.com*[](https://www.jenniferbland.com/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app/)**。**
+*原载于 2021 年 2 月 15 日 https://www.jenniferbland.com*<https://www.jenniferbland.com/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app/>**。**

@@ -80,11 +80,7 @@ GCP 控制台——来自作者
 
 ***最重要的是:***AWS 中还有另外一个服务，可以部署大型变形金刚:
 
-[](https://aws.amazon.com/sagemaker/) [## 亚马逊 SageMaker -机器学习-亚马逊网络服务
-
-### 让更多的人通过选择工具用 ML 进行创新——集成的数据开发环境…
-
-aws.amazon.com](https://aws.amazon.com/sagemaker/) 
+<https://aws.amazon.com/sagemaker/>  
 
 # 云服务中的存储桶
 
@@ -100,22 +96,6 @@ aws.amazon.com](https://aws.amazon.com/sagemaker/)
 
 # 参考资料:
 
-[](https://cloud.google.com/ai-platform/prediction/docs/deploying-models) [## 部署模型|人工智能平台预测|谷歌云
-
-### 这一页解释了如何将你的模型部署到人工智能平台预测以获得预测。为了部署您的…
-
-cloud.google.com](https://cloud.google.com/ai-platform/prediction/docs/deploying-models) [](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/) [## 如何使用 Amazon SageMaker | AWS 构建、训练和部署机器学习模型
-
-### 了解如何在 10 分钟内使用 Amazon SageMaker 构建、训练和部署机器学习模型。
-
-aws.amazon.com](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/) [](https://www.tensorflow.org/tutorials/keras/save_and_load) [## 保存和加载模型| TensorFlow 核心
-
-### 如果使用 SavedModel 格式，可以跳过这一节。HDF5 和 SavedModel 的主要区别在于…
-
-www.tensorflow.org](https://www.tensorflow.org/tutorials/keras/save_and_load) [](https://acloudguru.com/videos/cloud-provider-comparisons/cloud-provider-comparisons-aws-vs-azure-vs-gcp-storage?utm_campaign=11244863417&utm_source=google&utm_medium=cpc&utm_content=469352928666&utm_term=_&adgroupid=115625160932&gclid=Cj0KCQiA2NaNBhDvARIsAEw55hjHEBCHxdry4t-gA2qgkNZll1W-yT1ELlVPnKOkzP1e_0UgutXWVvMaAk9iEALw_wcB) [## ACG 视频
-
-### 在云提供商比较中，我们看一下三大公共云提供商的相同云服务…
-
-acloudguru.com](https://acloudguru.com/videos/cloud-provider-comparisons/cloud-provider-comparisons-aws-vs-azure-vs-gcp-storage?utm_campaign=11244863417&utm_source=google&utm_medium=cpc&utm_content=469352928666&utm_term=_&adgroupid=115625160932&gclid=Cj0KCQiA2NaNBhDvARIsAEw55hjHEBCHxdry4t-gA2qgkNZll1W-yT1ELlVPnKOkzP1e_0UgutXWVvMaAk9iEALw_wcB) 
+<https://cloud.google.com/ai-platform/prediction/docs/deploying-models>  <https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/>  <https://www.tensorflow.org/tutorials/keras/save_and_load>  <https://acloudguru.com/videos/cloud-provider-comparisons/cloud-provider-comparisons-aws-vs-azure-vs-gcp-storage?utm_campaign=11244863417&utm_source=google&utm_medium=cpc&utm_content=469352928666&utm_term=_&adgroupid=115625160932&gclid=Cj0KCQiA2NaNBhDvARIsAEw55hjHEBCHxdry4t-gA2qgkNZll1W-yT1ELlVPnKOkzP1e_0UgutXWVvMaAk9iEALw_wcB>  
 
 这篇文章中的所有源代码以及更多内容可以在我的 GitHub 上找到:[https://gist.github.com/A-safarji](https://gist.github.com/A-safarji)

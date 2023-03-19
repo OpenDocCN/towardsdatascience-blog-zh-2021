@@ -15,11 +15,7 @@
 
 > 下面会解释这段代码，GitHub 上也有！
 
- [## GitHub-ma 921/xr identifier:py torch 实现从 COD
-
-### COD 数据库中 XRD 光谱鉴定的 Pytorch 实现。详细情况在我在 Medium 上的博客里有解释…
-
-github.com](https://github.com/ma921/XRDidentifier) 
+  
 
 # 机器学习策略
 

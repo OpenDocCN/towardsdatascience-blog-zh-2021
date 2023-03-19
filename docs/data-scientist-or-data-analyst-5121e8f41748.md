@@ -14,11 +14,7 @@ Benjamin Balázs 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 在很长一段时间里，当我开始我的数据科学之旅时，我认为它们是同一件事，但有不同的说法。数据科学是一个模糊、宽泛的术语，这一事实对我的困惑没有帮助。在大量的阅读和研究之后，我终于理解了数据科学和数据分析之间的微妙区别。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 事实是，数据科学和数据分析是相互关联的术语；这两个术语有许多重叠之处。然而，每一条道路都需要稍微不同的学习路径，并且将提供不同的结果。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 任何数据科学项目的主要目标都是探索数据，发现模式和趋势，并使用这些信息来预测未来的模式和趋势，使用不同的工具和技术，其核心往往是机器学习算法。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 ## 所需技能
 
@@ -63,11 +55,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 为了找到这些问题的答案，数据分析师需要能够对数据集进行统计分析，创建工具来收集和组织数据，并在未来从中提取类似的信息。简而言之，数据分析师的工作是根据数据的当前状态回答答案未知的问题，并推动立即采取行动。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 ## 所需技能
 
@@ -90,11 +78,7 @@ towardsdatascience.com](/5-data-science-programming-languages-not-including-pyth
 
 进入数据科学是一项具有挑战性的任务，但当您不知道该领域中不同术语的含义时，这将变得更加具有挑战性，不仅是在该领域内，而且是该领域本身的名称。也许最令人困惑的术语是数据科学和数据分析。
 
-[](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) [## 您现在可以开始学习的 5 门在线数据科学课程
-
-### 在家舒适地学习数据科学的所有基础知识。
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) 
+</5-online-data-science-courses-you-can-start-now-748e4a2b5403>  
 
 这两个术语是如此的相互关联，以至于他们混淆了任何新手和这个领域的人。由于这两个术语之间的相关性，很难对它们进行简明、清晰的区分。
 

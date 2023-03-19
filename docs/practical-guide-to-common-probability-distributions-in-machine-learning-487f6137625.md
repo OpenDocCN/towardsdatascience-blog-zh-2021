@@ -12,13 +12,13 @@
 
 这篇文章的部分灵感来自于我写的一篇关于贝叶斯统计的文章(下面的链接)。我注意到这个话题很少被讨论，但它是需要学习的更重要的知识之一，尤其是对于那些正在构建机器学习模型的人来说。
 
-[](/bayesian-statistical-programming-an-introduction-4ca3e2ddae76) [## 贝叶斯统计程序设计:导论
+</bayesian-statistical-programming-an-introduction-4ca3e2ddae76> [## 贝叶斯统计程序设计:导论
 
 towardsdatascience.com](/bayesian-statistical-programming-an-introduction-4ca3e2ddae76) 
 
 你可以在这里找到第二部分。那么，事不宜迟，我们开始吧！
 
-[](/practical-guide-to-common-probability-distributions-in-machine-learning-part-2-5bcb910218c0) [## 机器学习中常见概率分布实用指南(第二部分)
+</practical-guide-to-common-probability-distributions-in-machine-learning-part-2-5bcb910218c0> [## 机器学习中常见概率分布实用指南(第二部分)
 
 towardsdatascience.com](/practical-guide-to-common-probability-distributions-in-machine-learning-part-2-5bcb910218c0) 
 

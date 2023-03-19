@@ -54,12 +54,4 @@
 
 如果你喜欢阅读这篇文章，并想从我和其他作家那里听到更多，请[加入 Medium](https://medium.com/@arfinda/membership) 和[订阅我的时事通讯](https://medium.com/subscribe/@arfinda)。或者直接点击下面的链接。谢谢大家！
 
-[](https://medium.com/@arfinda/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@arfinda/membership) [](https://medium.com/subscribe/@arfinda) [## 每当 Arfinda Ilmania 发布时，都会收到一封电子邮件。
-
-### 每当 Arfinda Ilmania 发布时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@arfinda)
+<https://medium.com/@arfinda/membership>  <https://medium.com/subscribe/@arfinda> 

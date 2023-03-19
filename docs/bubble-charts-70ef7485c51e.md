@@ -148,19 +148,11 @@ fig2.show()
 
 带 Plotly Express、跟踪和布局的面积图
 
-[](/area-charts-with-plotly-express-510a1f12ac11) [## 带 Plotly Express 的面积图
-
-### 轨迹和布局
-
-towardsdatascience.com](/area-charts-with-plotly-express-510a1f12ac11) 
+</area-charts-with-plotly-express-510a1f12ac11>  
 
 带有 Plotly Express、主题和模板的直方图
 
-[](/histograms-with-plotly-express-e9e134ae37ad) [## 用 Plotly 表示的直方图
-
-### 主题和模板
-
-towardsdatascience.com](/histograms-with-plotly-express-e9e134ae37ad) 
+</histograms-with-plotly-express-e9e134ae37ad>  
 
 **参考文献**
 

@@ -10,11 +10,7 @@
 
 在上一篇文章中，我们开始了解可以执行的基本 SQL 操作。这些操作帮助我们对数据集有了初步的了解。他们确保我们优化了解释器，以有效地分析数据。
 
-[](https://medium.com/codex/weathering-the-sql-interpreter-13ebaa175955) [## 经受 SQL 解释器的考验
-
-### 理解解释器是如何构造 SQL 查询的，可以使数据专家的工作变得更加容易
-
-medium.com](https://medium.com/codex/weathering-the-sql-interpreter-13ebaa175955) 
+<https://medium.com/codex/weathering-the-sql-interpreter-13ebaa175955>  
 
 本文旨在更深入地研究和回顾更高级的 SQL 操作。
 

@@ -18,11 +18,7 @@ Matplotlib 可以说是 Python 中最流行的可视化库。还有，其他一�
 
 让我们先导入并读取数据集。我用的是 Kaggle 的自动数据集。以下是数据集的链接:
 
-[](https://github.com/rashida048/Data-visualization-in-python/blob/main/auto_clean.csv) [## main rashida 048/Data-visualization-in-python/auto _ clean . CSV
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/rashida048/Data-visualization-in-python/blob/main/auto_clean.csv) 
+<https://github.com/rashida048/Data-visualization-in-python/blob/main/auto_clean.csv>  
 
 这是一个开放的数据集，这里提到的。
 
@@ -132,28 +128,4 @@ fig.add_artist(conn4)
 
 ## 更多阅读
 
-[](/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d) [## Python Matplotlib 的日常备忘单
-
-### 完整的可视化课程
-
-towardsdatascience.com](/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d) [](/five-advanced-plots-in-python-matplotlib-134bfdaeeb86) [## Python 中的五个高级绘图— Matplotlib
-
-### 带示例的交互式 3d 绘图
-
-towardsdatascience.com](/five-advanced-plots-in-python-matplotlib-134bfdaeeb86) [](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [## Matplotlib 和 Seaborn 中的高级可视化集合，带有示例
-
-### 丰富可视化技术和技能
-
-towardsdatascience.com](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [## Matplotlib 和 Seaborn 中的高级数据可视化集合
-
-### 让你的故事更有趣
-
-towardsdatascience.com](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) [## 熊猫数据可视化的终极备忘单
-
-### 熊猫的所有基本视觉类型和一些非常高级的视觉…
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937)
+</your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d>  </five-advanced-plots-in-python-matplotlib-134bfdaeeb86>  </a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323>  </a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14>  </an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937> 

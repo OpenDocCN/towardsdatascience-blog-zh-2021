@@ -42,11 +42,7 @@ Excel 自动化—(图片由作者提供)
 
 财务部门将使用此报告来分析过去 3 年的成本，并了解趋势。您的工具将有助于在单个报告中获得可见性，而无需使用额外的资源来手动执行。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 2.你的解决方案
 
@@ -80,11 +76,7 @@ samirsaci.com](http://samirsaci.com)
 
 如果你感兴趣，我写了一篇关于如何分享你的 python 脚本的文章，供没有任何 Python 经验的同事使用。
 
-[](https://www.samirsaci.com/build-excel-automation-tools-with-python/) [## 用 Python 构建 Excel 自动化工具
-
-### 用于销售分析的 Excel 自动化工具的自动化和报告设计可供您的同事使用，无需…
-
-www.samirsaci.com](https://www.samirsaci.com/build-excel-automation-tools-with-python/) 
+<https://www.samirsaci.com/build-excel-automation-tools-with-python/>  
 
 如果您遵循本文中解释的不同步骤，您将获得一个可执行文件(。exe)准备好与将运行该脚本的同事共享(即使他们没有安装 python)。
 
@@ -92,19 +84,7 @@ www.samirsaci.com](https://www.samirsaci.com/build-excel-automation-tools-with-p
 
 在开始构建报告之前，您需要从 ERP 中收集数据。如果您正在使用 SAP，您可能会对这一系列关于 ERP 自动化的文章感兴趣
 
-[](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/) [## SAP 零售订单创建自动化
-
-### 函数 PO_Function() '(1)声明变量 Dim W_BPNumber，W_SearchTerm，PONDim line items As long Dim Sht _ Name As…
-
-www.samirsaci.com](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/) [](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/) [## 零售产品列表的 SAP 自动化
-
-### 自动化和报告使用 Visual Basic 自动化产品，通过 SAP GUI 脚本工具在 SAP 中自动列出产品…
-
-www.samirsaci.com](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/) [](https://www.samirsaci.com/sap-automation-for-retail/) [## 面向零售业的 SAP 自动化
-
-### 自动化和报告设计 RPA 解决方案使用通过 SAP GUI 脚本工具构建的 Visual Basic 脚本设计 RPA…
-
-www.samirsaci.com](https://www.samirsaci.com/sap-automation-for-retail/) 
+<https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/>  <https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/>  <https://www.samirsaci.com/sap-automation-for-retail/>  
 
 # 关于我
 
@@ -112,8 +92,4 @@ www.samirsaci.com](https://www.samirsaci.com/sap-automation-for-retail/)
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+<https://samirsaci.com> 

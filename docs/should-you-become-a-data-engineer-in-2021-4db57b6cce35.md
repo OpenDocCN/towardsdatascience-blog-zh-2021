@@ -132,21 +132,13 @@ Photo by [金 运](https://unsplash.com/@jinyun?utm_source=medium&utm_medium=ref
 **那么，数据工程师是做什么的呢？
 好吧，我已经在我之前的[帖子](/why-are-data-engineers-equally-as-important-as-data-scientists-545898929444)中写了这些。**
 
-**[](/why-are-data-engineers-equally-as-important-as-data-scientists-545898929444) [## 为什么数据工程师与数据科学家同等重要
-
-### 数据工程师重要吗？
-
-towardsdatascience.com](/why-are-data-engineers-equally-as-important-as-data-scientists-545898929444) 
+**</why-are-data-engineers-equally-as-important-as-data-scientists-545898929444>  
 
 从本质上讲，数据工程师管理着公司数据在数据仓库中如何组织的核心基础。任务范围从设计表结构到构建 **ETL/ELT 管道**以确保可扩展的高性能基础设施满足公司的所有数据需求。
 
 他们还处理几乎所有与数据自动化有关的事情。我之前做过的一个例子是我创建的 [Gmail 数据管道](/data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282)。
 
-[](/data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282) [## 数据工程——如何在 Apache Airflow 上构建 Gmail 数据管道
-
-### 黑掉你的 Gmail 收件箱
-
-towardsdatascience.com](/data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282) 
+</data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282>  
 
 数据工程师能够回答这样的问题—
 
@@ -172,11 +164,7 @@ towardsdatascience.com](/data-engineering-how-to-build-a-gmail-data-pipeline-on-
 
 这些技能完美地结合在一起，就形成了一个数据工程师。要真正了解如何构建管道，请看一看我写的关于如何使用 Apache Airflow 构建您的第一个管道的指南。
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 # 摘要
 

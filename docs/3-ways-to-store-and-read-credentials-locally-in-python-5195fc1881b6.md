@@ -21,11 +21,7 @@
 
 吉姆·梅德洛克的这篇文章对环境变量、它们的用例以及如何使用它们进行了深入的解释。
 
-[](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa) [## 环境变量及其使用方法介绍
-
-### 从应用程序中分离配置
-
-medium.com](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa) 
+<https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa>  
 
 # 将它们存储为全局环境变量
 
@@ -184,11 +180,7 @@ python3 main.py
 
 要了解更多关于 Python 中虚拟环境的知识，请查看达科塔·莉莉艾的这篇文章
 
-[](https://medium.com/@dakota.lillie/an-introduction-to-virtual-environments-in-python-ce16cda92853) [## Python 中虚拟环境的介绍
-
-### 最近我从项目中抽出了一些时间，主要是为了自学数学，但也是为了学习数学。
-
-medium.com](https://medium.com/@dakota.lillie/an-introduction-to-virtual-environments-in-python-ce16cda92853) 
+<https://medium.com/@dakota.lillie/an-introduction-to-virtual-environments-in-python-ce16cda92853>  
 
 # 将它们存储在. env 文件中
 

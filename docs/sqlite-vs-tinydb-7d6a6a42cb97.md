@@ -50,56 +50,8 @@ TinyDB 被认为是快速且容易学习的。只需很少的设置就可以让�
 
 查看我最近的文章:
 
-[](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [## 关于 Python 虚拟环境你需要知道什么
-
-### 如果你没有使用它们，你应该…
-
-python .平原英语. io](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [](https://python.plainenglish.io/tinydb-b646e3270fd7) [## 使用 TinyDB 的简要指南
-
-### 纯 Python 项目的内置数据库
-
-python .平原英语. io](https://python.plainenglish.io/tinydb-b646e3270fd7) [](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [## Python 数据库转储
-
-### 备份您的数据人员！
-
-python .平原英语. io](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [](/learning-graphql-4e913f12640d) [## 学习图表 QL
-
-towardsdatascience.com](/learning-graphql-4e913f12640d) [](/a-dive-into-dash-ed5561f11021) [## 一头扎进 Dash
-
-towardsdatascience.com](/a-dive-into-dash-ed5561f11021) 
+<https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586>  <https://python.plainenglish.io/tinydb-b646e3270fd7>  <https://python.plainenglish.io/python-database-dumping-9a8658994e5a>  </learning-graphql-4e913f12640d>  
 
 参考资料:
 
- [## 简介- TinyDB 4.4.0 文档
-
-### 很高兴你花时间查看 TinyDB 文档！在我们开始研究 TinyDB 本身之前，让我们先看一些…
-
-tinydb.readthedocs.io](https://tinydb.readthedocs.io/en/latest/intro.html)  [## SQLite 合并
-
-### 100 多个单独的源文件被连接成一个名为“sqlite3.c”的大型 C 代码文件，并称为“the…
-
-www.sqlite.org](https://www.sqlite.org/amalgamation.html) [](https://www.sqlite.org/features.html) [## SQLite 的特性
-
-### 物联网数据库。SQLite 是手机、PDA、MP3 播放器中数据库引擎的流行选择…
-
-www.sqlite.org](https://www.sqlite.org/features.html) [](https://www.sqlite.org/whentouse.html) [## SQLite 的适当用法
-
-### SQLite 不能直接与客户机/服务器 SQL 数据库引擎相提并论，如 MySQL、Oracle、PostgreSQL 或 SQL…
-
-www.sqlite.org](https://www.sqlite.org/whentouse.html) [](https://www.sqlite.org/cintro.html) [## SQLite C/C++接口简介
-
-### 以下两个对象和八个方法构成了 SQLite 接口的基本元素
-
-www.sqlite.org](https://www.sqlite.org/cintro.html)  [## 高级用法- TinyDB 4.3.0 文档
-
-### 在我们深入研究 TinyDB 的用法之前，我们应该停下来讨论一下 TinyDB 是如何存储数据的。至…
-
-tinydb.readthedocs.io](https://tinydb.readthedocs.io/en/stable/usage.html) [](https://stackoverflow.com/questions/43168631/app-inventor-tinydb-record-limit-or-size-limit) [## 应用程序发明者:TinyDB 记录限制或大小限制
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/43168631/app-inventor-tinydb-record-limit-or-size-limit) [](https://www.python-engineer.com/posts/tinydb/) [## Python 中的 TinyDB 用于个人项目的简单数据库| Python 工程师
-
-### 在这篇 Python 教程中，我想向您展示如何使用 TinyDB。TinyDB 是一个面向文档的小型数据库，它…
-
-www.python-engineer.com](https://www.python-engineer.com/posts/tinydb/)
+    <https://www.sqlite.org/features.html>  <https://www.sqlite.org/whentouse.html>  <https://www.sqlite.org/cintro.html>    <https://stackoverflow.com/questions/43168631/app-inventor-tinydb-record-limit-or-size-limit>  <https://www.python-engineer.com/posts/tinydb/> 

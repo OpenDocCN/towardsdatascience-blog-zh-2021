@@ -33,11 +33,7 @@ Reddit 上以交易为中心的子页面是大量关于市场动态的讨论的�
 
 在这个项目中，我们将通过`requests`直接与 Reddit API 接口——但是您可以随意使用您喜欢的任何方法。你可以在这里找到通过`requests`连接的指南:
 
-[](/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c) [## 如何在 Python 中使用 Reddit API
-
-### Reddit API 数据收集简单指南
-
-towardsdatascience.com](/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c) 
+</how-to-use-the-reddit-api-in-python-5e05ddfd1e5c>  
 
 我们将使用[这个脚本](https://github.com/jamescalam/transformers/blob/main/course/named_entity_recognition/01_getting_reddit_data.ipynb)提取 Reddit 数据。你可以在这里找到我们使用的数据(如果你想跳过这一部分)。
 

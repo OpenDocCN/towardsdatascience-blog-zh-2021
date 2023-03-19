@@ -14,11 +14,7 @@
 
 如果你问任何一位认为自己成功或被视为成功的数据科学家，他们可能会从他们在整个旅程中获得的个人角度告诉你他们是如何取得成功的。但是，有趣的是，尽管成功是个人的和主观的，但是如果你问 100 个甚至 1000 个数据科学家，我们最终会得到一些共同的答案和一些独特的答案。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 虽然独一无二的会让每次学习之旅变得特别，但常见的才是你需要关注的。因为在你的整个旅程中，你将为成功发展你自己独特的品质。因此，在本文中，我将重点关注所有数据科学家都认同的作为一名成功的数据科学家需要具备的 5 大特质。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5
 
 能够适应新工具、新算法、新数据、新问题、新队友和新情况。如果你是一名自由职业的数据科学家或正在换工作，这变得更加重要。将您的知识应用于任何应用程序和数据的能力可以让您要么构建一个伟大的项目，要么无法超越众人。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №3:批判性思考者和问题解决者
 
@@ -56,11 +48,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 我故意把技能放在最后。这并不是说技术技能不重要。事实上，没有扎实的技术功底，你很可能无法成为一名数据科学家。但是，如果你正在尝试进入数据科学或者已经进入了数据科学，而我们其他人每天都在努力提高你的技能，那么你知道技术技能是许多在线材料的核心焦点。
 
-[](/getting-into-data-science-self-study-vs-bootcamps-a38d84b92c2a) [## 进入数据科学:自学与训练营
-
-### 哪种方法更好？
-
-towardsdatascience.com](/getting-into-data-science-self-study-vs-bootcamps-a38d84b92c2a) 
+</getting-into-data-science-self-study-vs-bootcamps-a38d84b92c2a>  
 
 所以，无论如何你都要学习技术技能，因为这些技能在求职过程中经常被测试。我把技术技能放在最后，因为我提到的其他 4 个特质经常被忽视或不被关注，尤其是新数据科学家。然而，在数据科学领域建立职业生涯是必不可少的。
 
@@ -70,10 +58,6 @@ towardsdatascience.com](/getting-into-data-science-self-study-vs-bootcamps-a38d8
 
 数据科学是一个正在发展的领域；每天都有新的算法和模型被设计出来，以提供更好的效率和性能以及更低的错误率。此外，由于数据科学的跨学科性质，您将需要学习各种主题和概念，这些主题和概念起初可能看起来并不相关。尽管如此，一旦你开始建设项目并涉足该领域，他们的联系就会显现出来。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 重要的是要记住，每个人都有独特的学习历程、独特的经历和独特的成功定义。尽管如此，在这种独特性中，我们都有一些共同的特征，这些特征使我们能够展示我们的个性，证明我们的技能，并成为我们可能成为的最好的数据科学家，因此，简而言之，这些共同的特征使我们能够成功。

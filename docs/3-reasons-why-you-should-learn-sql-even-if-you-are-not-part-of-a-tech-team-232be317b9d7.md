@@ -81,8 +81,4 @@ SQL 代表**结构化查询语言**。它是一种编程语言，用于管理存
 
 你喜欢读这篇文章吗？ [*成为会员*](https://marie-lefevre.medium.com/membership) *加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) [## 加入 Medium！
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-marie-lefevre.medium.com](https://marie-lefevre.medium.com/membership)
+<https://marie-lefevre.medium.com/membership> 

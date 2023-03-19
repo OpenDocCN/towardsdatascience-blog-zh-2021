@@ -27,11 +27,7 @@
 
 > 跟随我以前的文章来了解自动编码器的应用或用法
 
-[](/6-applications-of-auto-encoders-every-data-scientist-should-know-dc703cbc892b) [## 每个数据科学家都应该知道的自动编码器的 7 种应用
-
-### 自动编码器及其使用基本指南
-
-towardsdatascience.com](/6-applications-of-auto-encoders-every-data-scientist-should-know-dc703cbc892b) 
+</6-applications-of-auto-encoders-every-data-scientist-should-know-dc703cbc892b>  
 
 # 想法:
 
@@ -91,11 +87,7 @@ towardsdatascience.com](/6-applications-of-auto-encoders-every-data-scientist-sh
 
 另外，请阅读我以前的一些文章来提高模型性能:
 
-[](https://medium.com/geekculture/essential-guide-to-improve-imbalanced-data-classification-model-performance-c8cf0125b731) [## 提高不平衡数据分类模型性能的基本指南
-
-### 结合过采样和欠采样技术
-
-medium.com](https://medium.com/geekculture/essential-guide-to-improve-imbalanced-data-classification-model-performance-c8cf0125b731) 
+<https://medium.com/geekculture/essential-guide-to-improve-imbalanced-data-classification-model-performance-c8cf0125b731>  
 
 # 参考资料:
 
@@ -103,10 +95,6 @@ medium.com](https://medium.com/geekculture/essential-guide-to-improve-imbalanced
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

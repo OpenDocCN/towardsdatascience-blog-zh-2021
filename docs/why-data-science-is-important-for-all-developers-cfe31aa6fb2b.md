@@ -60,36 +60,8 @@
 
 看看我最近的一些文章:
 
-[](https://miketechgame.medium.com/making-python-read-my-emails-9e3b3a48887c) [## 让 Python 阅读我的电子邮件
-
-### 一个有趣的尝试，让你拥有更好的习惯和更高的生产力
-
-miketechgame.medium.com](https://miketechgame.medium.com/making-python-read-my-emails-9e3b3a48887c) [](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) [## OAuth 的简单介绍
-
-### 学习 OAuth 而不用打开同义词库
-
-medium.com](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) [](/mysql-vs-mariadb-6dda1649de44) [## MySQL vs. MariaDB
-
-### 比较两个非常相似但完全不同的 Rational 数据库管理系统
-
-towardsdatascience.com](/mysql-vs-mariadb-6dda1649de44) [](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) [## 将近五年后，我离职了
-
-### 回想我在那里的时光，以及为什么我要寻找一个新的机会
-
-miketechgame.medium.com](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) [](/three-popular-machine-learning-methods-7cb2dcb40bd0) [## 三种流行的机器学习方法
-
-### 了解基本的机器学习类型
-
-towardsdatascience.com](/three-popular-machine-learning-methods-7cb2dcb40bd0) 
+<https://miketechgame.medium.com/making-python-read-my-emails-9e3b3a48887c>  <https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589>  </mysql-vs-mariadb-6dda1649de44>  <https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4>  </three-popular-machine-learning-methods-7cb2dcb40bd0>  
 
 参考资料:
 
-[](https://www.kdnuggets.com/2017/07/4-types-data-analytics.html) [## 数据分析的 4 种类型——KD nuggets
-
-### 由托马斯梅登，普林西帕。在我们过去的博客文章中，我们已经讨论了数据分析的一些基本原理和陷阱。在…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2017/07/4-types-data-analytics.html) [](https://www.analytixlabs.co.in/blog/why-do-we-need-data-science/) [## 为什么数据科学很重要，为什么我们需要它？
-
-### 数据科学的重要性汇集了从编程，数学和统计领域的专业知识…
-
-www.analytixlabs.co.in](https://www.analytixlabs.co.in/blog/why-do-we-need-data-science/)
+<https://www.kdnuggets.com/2017/07/4-types-data-analytics.html>  <https://www.analytixlabs.co.in/blog/why-do-we-need-data-science/> 

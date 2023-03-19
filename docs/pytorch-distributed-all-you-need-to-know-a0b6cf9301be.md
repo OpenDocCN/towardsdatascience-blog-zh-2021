@@ -18,11 +18,7 @@
 
 在之前的[文章](/distributed-deep-learning-101-introduction-ebfc1bcd59d9)中，我们关注于基础知识，并实现了一个简单的示例来巩固基础。在这个故事中，我们编写了一个 PyTorch 分布式应用程序，它解决了一个真实世界的用例:我们将通过接管 [RANZCR CLiP](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification) Kaggle 挑战来扩展我们的限制。
 
-[](/distributed-deep-learning-101-introduction-ebfc1bcd59d9) [## 分布式深度学习 101:简介
-
-### 如何用 PyTorch 编写分布式深度学习应用的指南
-
-towardsdatascience.com](/distributed-deep-learning-101-introduction-ebfc1bcd59d9) 
+</distributed-deep-learning-101-introduction-ebfc1bcd59d9>  
 
 > [学习率](https://www.dimpo.me/newsletter?utm_source=medium&utm_medium=article&utm_campaign=pytorch_distributed_ranzcr)是为那些对 AI 和 MLOps 的世界感到好奇的人准备的时事通讯。你会在每周五收到我关于最新人工智能新闻和文章的更新和想法。在这里订阅！
 

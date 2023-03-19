@@ -109,11 +109,7 @@ lightgbm.train(**params=...,
 
 ****与此同时，你可以通过下面的链接注册成为会员，以获得我写的每一个故事的全部信息，我会收到你的一部分会员费。****
 
-****[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+****<https://rukshanpramoditha.medium.com/membership>  
 
 还有，再也不要错过我的一个故事。订阅获取这样的故事:
 

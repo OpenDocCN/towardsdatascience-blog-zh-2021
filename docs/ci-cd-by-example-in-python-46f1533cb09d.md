@@ -56,11 +56,7 @@ Github 静态漏洞分析警报
 
 我们在下面的存储库中使用了一个非常简单的“CI/CD 管道”。我们的预提交钩子做一些静态分析。你可以在`.pre-commit-config.yaml`里观察它们。我们的定制预提交钩子`create-requirements`确保我们的`requirements.txt`与我们的诗歌 toml 和`poety.lock`同步，也就是我们的本地虚拟环境。
 
-[](https://github.com/edkrueger/poetry-template) [## 爱德华·克鲁格/诗歌模板
-
-### 运行诗歌安装来安装环境。运行诗歌运行预提交安装初始化 git 挂钩。跑诗跑…
-
-github.com](https://github.com/edkrueger/poetry-template) 
+<https://github.com/edkrueger/poetry-template>  
 
 这自动更新到`requirements.txt`，所以我们需要更新的只是诗歌 toml。如果我们不能更新我们的`requirements.txt`,任何改变或依赖都会导致我们的改变不出现，或者在最坏的情况下，使我们的应用崩溃。
 
@@ -68,11 +64,7 @@ github.com](https://github.com/edkrueger/poetry-template)
 
 *关于这个定制钩子或者如何用 Bash 编写自己的钩子的更多信息，请阅读下面的内容:*
 
-[](/how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05) [## 用 Bash 实现自己的 Python 预提交钩子
-
-### 创建自己的预提交挂钩，用于静态分析和与 Git repo 的持续集成。
-
-towardsdatascience.com](/how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05) 
+</how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05>  
 
 在某些情况下，应用程序崩溃几分钟可能会对企业、开发人员的声誉或两者都造成灾难性的影响。如果你的应用程序是一个简单的内部仪表盘来衡量 KPI，而你的老板决定在你破坏它时检查它的性能，这不是一个好的外观。对于面向客户的应用程序，崩溃的时间意味着失去客户和收入。
 

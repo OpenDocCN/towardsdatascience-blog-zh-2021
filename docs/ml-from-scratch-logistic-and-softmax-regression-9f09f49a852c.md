@@ -208,6 +208,6 @@ ML 从头开始系列的这一部分到此结束。我们现在有一个机器�
 
 ## 额外资源
 
-[](/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076) [## ML 从零开始:线性、多项式和正则化回归模型
+</ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076> [## ML 从零开始:线性、多项式和正则化回归模型
 
 towardsdatascience.com](/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076)

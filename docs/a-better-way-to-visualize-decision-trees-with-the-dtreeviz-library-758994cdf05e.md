@@ -47,7 +47,7 @@ dtreeviz 库填补了这些漏洞，提供了一个更清晰、更容易理解�
 
 以上摘录摘自我写的一篇关于理解决策树的文章。本文深入解释了算法通常如何做出决策。
 
-[](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb) [## 理解决策树
+<https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb> [## 理解决策树
 
 ### 我在“分析优势”课程中关于决策树的笔记](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb) 
 

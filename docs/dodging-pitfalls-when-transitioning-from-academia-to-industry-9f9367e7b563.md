@@ -170,4 +170,4 @@
 *   [组织应用 ML 研究](http://deberker.com/archy/organizing-applied-machine-learning-research/)
 *   [了解初创公司的科学技术](https://medium.com/swlh/seeing-the-science-in-startups-db64bc414f77)
 
-【http://deberker.com】原载于 2021 年 2 月 20 日[](http://deberker.com/archy/dodging-pitfalls-when-transitioning-from-academia-to-industry/)**。**
+【http://deberker.com】原载于 2021 年 2 月 20 日<http://deberker.com/archy/dodging-pitfalls-when-transitioning-from-academia-to-industry/>**。**

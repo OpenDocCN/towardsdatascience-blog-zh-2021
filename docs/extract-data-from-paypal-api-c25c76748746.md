@@ -115,7 +115,7 @@
 
 # 第一步。创建一个开发人员访问和沙箱的贝宝帐户
 
-> *转到 developer.paypal.com*[](https://developer.paypal.com)**，创建一个* ***应用*** *。这将是对 Node.js 应用程序的集成。**
+> *转到 developer.paypal.com*<https://developer.paypal.com>**，创建一个* ***应用*** *。这将是对 Node.js 应用程序的集成。**
 > 
 > **创建一个* ***沙盒账号*** *在 PayPal 的测试环境中集成和测试代码。**
 > 

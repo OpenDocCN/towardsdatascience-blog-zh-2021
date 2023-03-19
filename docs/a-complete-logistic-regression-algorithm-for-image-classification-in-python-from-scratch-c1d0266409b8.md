@@ -12,11 +12,7 @@
 
 如果你对逻辑回归完全陌生，请先阅读这篇文章。本文详细解释了简单的逻辑回归算法是如何工作的。
 
-[](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) [## Python 中从头开始的完整逻辑回归算法:一步一步
-
-### 使用真实世界的数据集开发算法
-
-towardsdatascience.com](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) 
+</a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703>  
 
 如果你已经熟悉了逻辑回归，这将会很有帮助。如果没有，我希望你仍然理解这里的概念。我试着解释清楚。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/a-complete-logistic-regression-algorithm-from-scratch-i
 
 该数据集包含从 0 到 9 的数字的像素值。但是因为本教程是关于二进制分类的，所以这个模型的目标是如果数字是 1 就返回 1，否则返回 0。请随时从下面的链接下载数据集，以便跟进:
 
-[](https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex3d1.xlsx) [## rashida 048/用 Python 进行机器学习
-
-### 通过在 GitHub 上创建一个帐户，为 rashida 048/用 Python 进行机器学习开发做出贡献。
-
-github.com](https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex3d1.xlsx) 
+<https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex3d1.xlsx>  
 
 我在这里导入数据集:
 
@@ -357,24 +349,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [## 免费的 Python 全长机器学习课程
-
-### 吴恩达用 Python 写的机器学习教程
-
-towardsdatascience.com](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [## Matplotlib 和 Seaborn 中的高级数据可视化集合
-
-### 让你的故事更有趣
-
-towardsdatascience.com](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 一些有趣的数据集提升你的技能和投资组合
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5) [](/how-i-switched-to-data-science-f070d2b5954c) [## 我如何转向数据科学
-
-### 我的旅程、错误和收获
-
-towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c)
+</a-full-length-machine-learning-course-in-python-for-free-f2732954f35f>  </a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593>  </a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5>  </how-i-switched-to-data-science-f070d2b5954c> 

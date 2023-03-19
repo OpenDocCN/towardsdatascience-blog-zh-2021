@@ -10,11 +10,7 @@
 
 如果你正准备开始建立你的机器学习模型，那么我希望你已经完成了探索性数据分析(EDA ),并且现在你已经熟悉了你的数据集。如果你不知道，我建议你看一下我写的关于 EDA 的故事，这是为了解决我在这里将要介绍的同样的问题。这个故事将带你回到分析数据，然后跳到机器学习部分，我将在这里介绍。
 
-[](/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af) [## 使用 SQL 和 Seaborn (SNS)在 Python 中进行探索性数据分析(EDA)
-
-### 探索性数据分析(EDA)是一种分析数据集以总结其主要特征的方法，通常…
-
-towardsdatascience.com](/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af) 
+</exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af>  
 
 在上面的故事中，我们使用了一个 [Fitbit 数据集](https://github.com/quaesito/ml-fitbit/tree/main/data)。
 

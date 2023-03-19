@@ -26,11 +26,7 @@
 
 你可以在 [NBViewer](https://nbviewer.jupyter.org/github/scsanjay/case-studies/blob/main/02.%20Not%20Hotdog/Not-HotDog.ipynb) 上查看笔记本，也可以在 GitHub 上找到，
 
-[](https://github.com/scsanjay/case-studies/tree/main/02.%20Not%20Hotdog) [## 案例研究/02。主餐/案例研究中没有热狗
-
-### 在 GitHub 上创建一个帐户，为 scsanjay/案例研究的发展做出贡献。
-
-github.com](https://github.com/scsanjay/case-studies/tree/main/02.%20Not%20Hotdog) 
+<https://github.com/scsanjay/case-studies/tree/main/02.%20Not%20Hotdog>  
 
 # 数据
 

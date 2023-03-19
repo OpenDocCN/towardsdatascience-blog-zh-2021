@@ -98,15 +98,7 @@ Azure studio 以使用 R 脚本的工程管道为特色
 
 如果你有空闲时间，我建议你看看这个:
 
-[](/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea) [## 高级特征工程和预处理的 4 个技巧
-
-### 创建新要素、检测异常值、处理不平衡数据和估算缺失值的技术。
-
-towardsdatascience.com](/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea) [](/exploratory-data-analysis-feature-engineering-and-modelling-using-supermarket-sales-data-part-1-228140f89298) [## 使用超市销售数据进行探索性数据分析、特征工程和建模。第一部分。
-
-### 深入探索数据探索、特征工程和建模的神奇世界。
-
-towardsdatascience.com](/exploratory-data-analysis-feature-engineering-and-modelling-using-supermarket-sales-data-part-1-228140f89298) 
+</4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea>  </exploratory-data-analysis-feature-engineering-and-modelling-using-supermarket-sales-data-part-1-228140f89298>  
 
 **希望你喜欢，继续探索！**
 

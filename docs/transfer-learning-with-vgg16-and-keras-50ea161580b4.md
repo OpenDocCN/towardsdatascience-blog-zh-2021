@@ -102,11 +102,7 @@ GPU 对训练神经网络更有效，但它们在普通计算机上并不常见�
 
 ***如果你想查看完整的代码和一个 jupyter 笔记本，这里有 GitHubrepo:***
 
-***[](https://github.com/gabrielcassimiro17/object-detection) [## gabrielcassimiro 17/对象检测
-
-### 在 GitHub 上创建一个帐户，为 gabrielcassimiro 17/对象检测开发做出贡献。
-
-github.com](https://github.com/gabrielcassimiro17/object-detection)*** 
+***<https://github.com/gabrielcassimiro17/object-detection> *** 
 
 # ***额外:与手工制作的模型相比***
 

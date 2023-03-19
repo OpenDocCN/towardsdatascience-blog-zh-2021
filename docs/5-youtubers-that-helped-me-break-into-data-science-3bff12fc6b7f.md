@@ -30,11 +30,7 @@ StatQuest 的创始人约书亚·斯塔默(Joshua Starmer)将永远是我复习�
 
 我在阅读艾玛的鼓舞人心的故事时遇到了她，她讲述了如何获得 4 份数据科学工作，并在被解雇后两个月内将收入翻了一番。我强烈建议你读一读。请参见下面的链接:
 
-[](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) [## 我是如何获得 4 份数据科学工作邀请，并在被解雇后两个月内收入翻倍的
-
-### 获得 100%现场报价率的秘诀
-
-towardsdatascience.com](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) 
+</how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938>  
 
 我亲自联系了艾玛，只是想听听她是如何做到这一点的。她的 YouTube 频道真的帮我选择了适合我的数据科学职位。除此之外，她关于[如何在求职期间管理时间](https://www.youtube.com/watch?v=o5JoWtypDAs)和[面试前该做什么](https://www.youtube.com/watch?v=OD1Ajq3ULTk)的视频确实帮助我制定了一个成功找到工作的战略计划。
 
@@ -42,8 +38,4 @@ towardsdatascience.com](/how-i-got-4-data-science-offers-and-doubled-my-income-2
 
 我希望上面的列表对你的旅程有所帮助。我希望我开始的时候有一个可以追随的人的名单。如果你想起来 YouTube 上还有谁在如何提高技能或职业建议方面帮助过你，请在下面的评论区写下他们的名字。如果你能在任何社交媒体平台上分享这篇文章，我将不胜感激。谢谢，下次再见！✌️
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我已经在分析行业工作了四年多，并且热爱其中的每一秒钟。我是一个高度…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

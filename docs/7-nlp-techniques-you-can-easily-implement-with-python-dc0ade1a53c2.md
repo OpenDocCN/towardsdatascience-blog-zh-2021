@@ -44,11 +44,7 @@ NLP 的目标是让计算机理解非结构化文本，并从中检索有意义�
 
 *注:VADER 针对社交媒体文本进行了优化，因此我们应该对结果持保留态度。你可以使用更完整的算法，或者用机器学习库开发自己的算法。在下面的链接中，有一个完整的指南，介绍如何使用 sklearn 库用 Python 从头创建一个。*
 
-[](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [## Scikit-Learn 简单指南—用 Python 构建机器学习模型
-
-### Python 中的第一个 ML 模型。
-
-towardsdatascience.com](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) 
+</a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a>  
 
 # 2.命名实体识别(NER)
 
@@ -169,11 +165,7 @@ df_dtm
 
 总的来说，我们可以说 CountVectorizer 在标记文本、构建词汇表和生成向量方面做得很好；但是，它不会为您清理原始数据。我做了一个关于如何在 Python 中清理和准备数据的指南，如果你想学习最佳实践，可以去看看。
 
-[](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) [## 用 Python 清理和准备数据的简单指南
-
-### 如何识别和处理脏数据？
-
-towardsdatascience.com](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) 
+</a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33>  
 
 # 6.术语频率-逆文档频率(TF-IDF)
 
@@ -261,11 +253,7 @@ import stylecloudstylecloud.gen_stylecloud(file_path='SJ-Speech.txt',
 
 你可以通过改变颜色，删除停用词，选择你的图片，甚至添加你自己的图片作为单词云的遮罩来进一步定制。有关更多详细信息，请查看下面的指南。
 
-[](/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5) [## 如何用 Python 轻松制作漂亮的文字云
-
-### 使用 stylecloud 和 wordcloud 库来定制你的 wordcloud。
-
-towardsdatascience.com](/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5) 
+</how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5>  
 
 *就是这样！您刚刚学习了 7 种 NLP 技术的核心概念，以及如何用 Python 实现它们。本文所写的所有代码都可以在我的*[*Github*](https://github.com/ifrankandrade/data-science-projects.git)*上找到。*
 

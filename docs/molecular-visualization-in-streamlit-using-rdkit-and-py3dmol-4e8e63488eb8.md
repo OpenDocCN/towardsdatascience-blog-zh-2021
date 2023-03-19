@@ -85,11 +85,7 @@ st.image('mol.png')
 
 如果你喜欢这篇文章，可以考虑订阅邮件列表:
 
-[](https://jnapoles.medium.com/subscribe) [## 每当 joséMANUEL náPOLES du arte 发表文章时都会收到电子邮件。
-
-### 每当 joséMANUEL náPOLES du arte 发表文章时都会收到电子邮件。通过注册，您将创建一个中型帐户，如果您…
-
-jnapoles.medium.com](https://jnapoles.medium.com/subscribe) 
+<https://jnapoles.medium.com/subscribe>  
 
 ## 参考资料:
 

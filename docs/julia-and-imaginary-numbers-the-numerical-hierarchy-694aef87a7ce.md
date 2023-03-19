@@ -16,11 +16,7 @@ Julia 的《数字的神奇世界》深入探讨了它的类型和超类型层�
 
 如果你想了解更多关于 Julia 的超级类型特征，我写了一整篇文章，你可以在这里查看！：
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 # 数字
 

@@ -83,8 +83,4 @@ const io = socketio(server)
 
 希望上面在 NodeJS 中实现 [Socket.io](https://socket.io/) 的例子对您有用，非常感谢您的阅读！❤:如果你想阅读我即将发表的应对工作挑战的文章(包括人和技术问题)，请跟随我！会非常感激😀
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

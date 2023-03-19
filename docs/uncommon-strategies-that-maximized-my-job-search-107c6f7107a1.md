@@ -10,11 +10,7 @@ Clem Onojeghuo 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 作为一个刚刚结束求职过程的人，我理解这有多么疯狂和令人沮丧。就我而言，我希望打入科技行业。但是，问题是我以前没有任何专业技术经验。因此，我参加了一个编码训练营的数据科学项目，获得了一些必要的经验。在他们的帮助下，我开始了数据科学家的新事业！(*你可以在下面*了解更多关于这个过程的信息):
 
-[](/how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742) [## 从编码训练营到编码工作
-
-### 我毕业后的旅程——不像你想的那么简单
-
-towardsdatascience.com](/how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742) 
+</how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742>  
 
 完成训练营项目后，我学到了一些求职技巧，但这些技巧并没有得到应有的广泛关注。这些技术不是科技行业独有的，几乎可以应用于任何行业。希望你可以利用这些独特的技巧来开始你自己的职业生涯！
 
@@ -162,11 +158,7 @@ towardsdatascience.com](/how-i-found-a-coding-job-after-attending-a-coding-bootc
 
 我每天都按照上面的建议找工作。我写过文章。我上网了。我不断给联系人发信息，提到我的文章。最终，有人因为我的文章向我提供了一个数据科学家的职位！(*如果你想知道，那篇文章是*):
 
-[](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) [## 我用机器学习和人工智能做了一个约会算法
-
-### 利用无监督学习
-
-towardsdatascience.com](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) 
+</dating-algorithms-using-machine-learning-and-ai-814b68ecd75e>  
 
 如果上面的策略中有一点我认为是最重要的，那就是 ***创造在线内容*** 。我的文章是我今天有工作的原因。我认为从你的内容中诞生的机会比你想象的更有优势。
 

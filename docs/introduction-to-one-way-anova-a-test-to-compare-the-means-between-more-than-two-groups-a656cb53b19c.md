@@ -123,33 +123,17 @@ pip install statsmodels
 
 **本文的源代码可以在这里找到:**
 
-**[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/ANOVA_examples.ipynb) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/statistics/ANOVA_examples.ipynb)** 
+**<https://github.com/khuyentran1401/Data-science/blob/master/statistics/ANOVA_examples.ipynb> ** 
 
 **我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。**
 
 **星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:**
 
-**[](/how-to-match-two-people-with-python-7583b51ff3f9) [## 如何用 Python 找到最佳匹配
-
-### 给定个人偏好，如何匹配使得总偏好最大化？
-
-towardsdatascience.com](/how-to-match-two-people-with-python-7583b51ff3f9) [](/how-to-turn-a-dinosaur-dataset-into-a-circle-dataset-with-the-same-statistics-64136c2e2ca0) [## 恐龙和圆圈的数据集可以有相同的统计数据吗？
-
-### 它们有相同的中位数和标准差，但它们是两个明显不同的数据集！
-
-towardsdatascience.com](/how-to-turn-a-dinosaur-dataset-into-a-circle-dataset-with-the-same-statistics-64136c2e2ca0) 
+**</how-to-match-two-people-with-python-7583b51ff3f9>  </how-to-turn-a-dinosaur-dataset-into-a-circle-dataset-with-the-same-statistics-64136c2e2ca0>  
 
 [https://towards data science . com/top-6-python-libraries-for-visualization-which-one-to-use-Fe 43381 CD 658](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658)
 
-[](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) 
+</pytest-for-data-scientists-2990319e55e6>  
 
 # 参考
 

@@ -116,12 +116,4 @@ ReLU 和 Leaky ReLU 的图形比较(图片由作者提供)
 
 欢迎您**加入我的数据科学学习之旅！**关注此[媒体](https://kennethleungty.medium.com/)页面或查看我的 [GitHub](https://github.com/kennethleungty) 以了解更多精彩的数据科学内容。同时，享受在你的网络中应用 ReLU 的乐趣！
 
-[](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) [## PyTorch Ignite 教程—使用高效网络对微型图像网络进行分类
-
-### 使用 PyTorch Ignite 简化 PyTorch 深度学习实施的分步指南
-
-towardsdatascience.com](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) [](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现许多数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96)
+</pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f>  </the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96> 

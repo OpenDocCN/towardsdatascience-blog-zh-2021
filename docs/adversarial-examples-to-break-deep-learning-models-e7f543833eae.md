@@ -274,7 +274,7 @@ PyTorch 中的一个实现如下:
 
 例如，如果我们将 10+个例子添加到训练集中，并将它们都标记为 *redbone* ，我们可以消除在上一节中发现的对立例子。
 
-这种防御对于使用快速梯度符号方法的攻击非常有效。然而，还有更强大的攻击，我们在这篇文章中没有提到，可以绕过这种防御。如果你想知道更多，我鼓励你读一读尼古拉斯·卡里尼和戴维·瓦格纳写的这篇令人惊叹的论文[](https://arxiv.org/abs/1608.04644)**。**
+这种防御对于使用快速梯度符号方法的攻击非常有效。然而，还有更强大的攻击，我们在这篇文章中没有提到，可以绕过这种防御。如果你想知道更多，我鼓励你读一读尼古拉斯·卡里尼和戴维·瓦格纳写的这篇令人惊叹的论文<https://arxiv.org/abs/1608.04644>**。**
 
 **这就是为什么对抗性防御是机器学习和网络安全中的一个公开问题的原因。**
 
@@ -282,15 +282,11 @@ PyTorch 中的一个实现如下:
 
 **对抗性的例子是网络安全和机器学习交汇处的一个有趣的话题。然而，这仍然是一个有待解决的开放性问题。**
 
-**在这篇文章中，我用代码示例对这个主题进行了实际介绍。如果你想进一步工作，我推荐 [**cleverhans**](https://github.com/cleverhans-lab/cleverhans) ，这是一个由伟大的 Ian Goodfellow 和 Nicolas Papernot 开发的用于对抗性机器学习的 Python 库，目前由多伦多大学[](https://cleverhans-lab.github.io/)**维护。****
+**在这篇文章中，我用代码示例对这个主题进行了实际介绍。如果你想进一步工作，我推荐 [**cleverhans**](https://github.com/cleverhans-lab/cleverhans) ，这是一个由伟大的 Ian Goodfellow 和 Nicolas Papernot 开发的用于对抗性机器学习的 Python 库，目前由多伦多大学<https://cleverhans-lab.github.io/>**维护。****
 
 ****本文中我展示的所有源代码都在 [**这个 Github repo**](https://github.com/Paulescu/adversarial-machine-learning) 中。****
 
-****[](https://github.com/Paulescu/adversarial-machine-learning) [## GitHub-Paulescu/adversarial-machine-learning:我关于“打破…
-
-### “也可能只是美好的东西太容易被世界打破了。”卡桑德拉·克莱尔，堕落天使之城…
-
-github.com](https://github.com/Paulescu/adversarial-machine-learning) 
+****<https://github.com/Paulescu/adversarial-machine-learning>  
 
 *你想成为(甚至)更好的数据科学家，接触机器学习和数据科学的顶级课程吗？*
 

@@ -114,15 +114,7 @@ Matplotlib 图一开始在 Flask 中工作似乎有点困难，但最终证明�
 If I’ve inspired you to join medium I would be really grateful if you did it through this [link](https://jamesasher4994.medium.com/membership) — it will help to support me to write better content in the future.If you want to learn more about data science, become a certified data scientist, or land a job in data science, then checkout [365 data science](https://365datascience.pxf.io/c/3458822/791349/11148) through my [affiliate link.](https://365datascience.pxf.io/c/3458822/791349/11148)
 ```
 
-[](/how-to-use-data-and-psychology-to-get-more-data-1749996ea704) [## 如何利用数据(和心理学)获得更多数据
-
-### 在进行研究调查时，使用这些技巧平均能让我多得到 70%的回答。
-
-towardsdatascience.com](/how-to-use-data-and-psychology-to-get-more-data-1749996ea704) [](/how-to-analyze-survey-data-in-python-c131764ea02e) [## 如何用 Python 分析调查数据
-
-### 以下是一些使用 Python 清理、分析和可视化调查数据的技巧和代码。
-
-towardsdatascience.com](/how-to-analyze-survey-data-in-python-c131764ea02e) 
+</how-to-use-data-and-psychology-to-get-more-data-1749996ea704>  </how-to-analyze-survey-data-in-python-c131764ea02e>  
 
 干杯，
 

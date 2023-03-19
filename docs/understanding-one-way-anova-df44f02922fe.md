@@ -110,11 +110,7 @@ F = (SS_between/df_between) / (SS_within/df_within)
 
 这是我们的测试统计。如果您需要复习假设检验，我在这里介绍了一些基础知识:
 
-[](/data-science-fundamentals-a-b-testing-cb371ceecc27) [## 数据科学基础— A/B 测试
-
-### 我们用一个简单的例子来探究 A/B 测试的来龙去脉
-
-towardsdatascience.com](/data-science-fundamentals-a-b-testing-cb371ceecc27) 
+</data-science-fundamentals-a-b-testing-cb371ceecc27>  
 
 但是在高水平上，F-统计量越大，我们观察到由于随机机会而观察到的情况的可能性就越小。在这种情况下，我们的零假设是均值在统计上没有差异——或者组内的差异胜过组间的差异。
 

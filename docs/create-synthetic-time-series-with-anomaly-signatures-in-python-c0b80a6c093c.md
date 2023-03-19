@@ -14,11 +14,7 @@
 
 正如我在被大量引用的文章[中所写的，合成数据集是以编程方式生成的数据的存储库。所以，它没有被任何现实生活中的调查或实验所收集。因此，它的主要目的是足够灵活和丰富，以帮助 ML 从业者用各种分类、回归和聚类算法进行有趣的实验。](/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae)
 
-[](/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae) [## 合成数据生成—新数据科学家的必备技能
-
-### 为自驱动数据科学项目和深潜生成合成数据的包和想法的简要概述…
-
-towardsdatascience.com](/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae) 
+</synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae>  
 
 合成时间序列也不例外，它可以帮助数据科学家试验各种算法方法，并为现实生活中的部署做准备，而这种部署方式仅使用真实数据集是不可能的。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/synthetic-data-generation-a-must-have-skill-for-new-dat
 
 数字从未停止过。这是[工业 4.0](https://www.epicor.com/en-us/resource-center/articles/what-is-industry-4-0/) 或智能工厂时代的新规范。虽然结构化和半结构化数据都在增加，但其中许多仍然是来自现代工厂中嵌入的所有测量抽头的各种各样的时间序列(或类时间序列)数据。
 
-[](https://metrology.news/factory-2030-the-coming-of-age-of-the-smart-factory/) [## 工厂 2030 -智能工厂的“时代来临”-计量和质量新闻-在线…
-
-### 1913 年 12 月，亨利·福特引进了第一条移动装配线，使整个…
-
-计量新闻](https://metrology.news/factory-2030-the-coming-of-age-of-the-smart-factory/) ![](img/327cb7f9a3d85aa533e46fafb964ff5d.png)
+<https://metrology.news/factory-2030-the-coming-of-age-of-the-smart-factory/>  ![](img/327cb7f9a3d85aa533e46fafb964ff5d.png)
 
 **图片来源** : [Pixabay](https://pixabay.com/illustrations/industry-web-network-artificial-4330186/) (免费使用)
 
@@ -175,8 +167,4 @@ towardsdatascience.com](/synthetic-data-generation-a-must-have-skill-for-new-dat
 
 Y ou 可以查看作者的 [**GitHub**](https://github.com/tirthajyoti?tab=repositories) **知识库**获取机器学习和数据科学方面的代码、思想和资源。如果你和我一样，对人工智能/机器学习/数据科学充满热情，请随时[在 LinkedIn 上添加我](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)或[在 Twitter 上关注我](https://twitter.com/tirthajyotiS)。
 
-[](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) [## Tirthajyoti Sarkar -数据科学和解决方案工程经理- Adapdix 公司|…
-
-### 将 AI/ML 的力量放在工业 4.0 和下一代智能工厂的边缘。将人工智能引入工业领域…
-
-www.linkedin.com](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
+<https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/> 

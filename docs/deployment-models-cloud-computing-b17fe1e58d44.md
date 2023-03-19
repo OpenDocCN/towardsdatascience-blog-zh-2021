@@ -48,24 +48,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0) [## 选择 AWS 地区时需要考虑的 5 件事
-
-### 如何为你的亚马逊网络服务找到合适的区域
-
-better 编程. pub](https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0) [](/kafka-no-longer-requires-zookeeper-ebfbf3862104) [## 卡夫卡不再需要动物园管理员了
-
-### 2.8.0 版本让你提前接触到没有动物园管理员的卡夫卡
-
-towardsdatascience.com](/kafka-no-longer-requires-zookeeper-ebfbf3862104) [](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8) [## 使用 MLFlow 和 LakeFS 实现高效工作流的数据版本控制
-
-### 构建弹性、原子和版本化的数据湖操作
-
-pub.towardsai.net](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8)
+<https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0>  </kafka-no-longer-requires-zookeeper-ebfbf3862104>  <https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8> 

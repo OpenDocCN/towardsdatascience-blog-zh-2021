@@ -30,11 +30,7 @@
 
 当每个人都忙着跳上数据科学的宣传列车时，弄清楚数据科学是否是你喜欢学习的东西是极其重要的。如果您对数据科学的众多特性、功能和其他方面不感兴趣或着迷，那么您最好考虑掌握一个不同的领域。数据科学需要坚持不懈的努力和奉献精神，才能坚持不懈地开发出造福当代人和社会的令人惊叹的项目。
 
-[](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
-
-### 分析追求数据科学成为数据科学家的 10 个错误原因
-
-towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+</10-wrong-reasons-to-become-a-data-scientist-319531bb874e>  
 
 在本文中，我们将尝试涵盖每个数据科学爱好者必须关注并发展其技能以实现最佳结果和成果的技术和心理方面。提到的 15 个要点中的大部分将使浏览者能够衡量一个方面，这是掌握数据科学的基本要求。对数据科学有了基本的了解，并对本文的目标有了现实的期望，让我们深入了解这些概念，并逐一理解这些技巧。
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874
 
 在实施项目的过程中，我强烈建议制定一个待办事项清单，不断提醒你需要完成的各种任务，以便准确地完成你想要的结果。下面提供的链接是一个项目构想，它将帮助您实现一个提醒应用程序，该应用程序将不断提醒您执行任务。
 
-[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) 
+</python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  
 
 基本上，努力保持动力，高度关注数据科学的积极方面。当你开始准备学习新的目标时，要更加乐观。无论您期望的最终结果是什么，都要做好接受失败的心理准备，并以绝对的信心和绝对的意志继续您掌握数据科学的旅程！
 
@@ -68,11 +60,7 @@ towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new
 
 下一步是尝试从零开始实现整个逻辑回归函数，而不使用像 scikit-learn 这样的外部库。在我以前的一篇文章中，可以看到一个不使用任何外部库(如 numpy)来实现数学问题(如矩阵乘法)的例子。下面提供了链接。
 
-[](/python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726) [## Python 从头编码:没有任何机器学习库的矩阵乘法！
-
-### 从零开始了解如何在没有任何机器学习库的情况下实现矩阵乘法！
-
-towardsdatascience.com](/python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726) 
+</python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726>  
 
 另一个重要的提示是，当你试图研究和学习某个特定的主题时，试着抓住你力所能及的所有可能的资源。要特别注意深入研究这些资源，以获得尽可能多的知识。
 
@@ -108,11 +96,7 @@ towardsdatascience.com](/python-coding-from-scratch-matrix-multiplication-withou
 
 这些基本步骤将帮助你更好地分析你的项目。对于在 12 个月内掌握数据科学的学习计划，我强烈建议从下面提供的链接中查看下面的文章。是初学者入门的简明指南。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # 5.致力于提高特定的数学和编程技能
 
@@ -134,11 +118,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 为了获得掌握数据科学 Python 的能力，我强烈推荐阅读下面的文章，其中包括从头开始掌握数据科学 Python 的十个步骤。这是一个循序渐进的指导过程，下面提供了链接。
 
-[](/10-steps-to-master-python-for-data-science-f54199bb328d) [## 掌握数据科学 Python 的 10 个步骤
-
-### 成为数据科学和机器学习的 Python 大师的 10 个步骤
-
-towardsdatascience.com](/10-steps-to-master-python-for-data-science-f54199bb328d) 
+</10-steps-to-master-python-for-data-science-f54199bb328d>  
 
 # 6.尝试多种可视化技术
 
@@ -174,11 +154,7 @@ towardsdatascience.com](/10-steps-to-master-python-for-data-science-f54199bb328d
 
 因此，重要的是保持你的镇定，保持专注，直到你的目标达成。我强烈推荐通过下面的链接查看下面这篇关于成功数据科学家的五大品质的文章。
 
-[](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) [## 成功数据科学家的 5 大品质！
-
-### 找出将成功的数据科学家与其他人区分开来的独特特质
-
-towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) 
+</top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca>  
 
 # 8.需要时寻求帮助
 
@@ -196,11 +172,7 @@ towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f
 
 互联网上有大量免费内容可供探索和检查关于数据科学和机器学习的大量细节和功能。查看我以前关于这个主题的一篇文章，了解更多关于一些潜在资源的信息，您可以从中利用信息并获得更多知识。
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 你也可以根据你的舒适程度来选择一些免费或付费的课程。如果你对从事数据科学有百分之百的信心，并且你觉得你需要一些外部帮助或资源，确保你在这个主题上做了明显的研究。完成这些步骤后，您可以继续选择您认为对您的长期需求和要求有益的最佳选择。
 
@@ -234,11 +206,7 @@ towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-
 
 我强烈推荐您阅读我以前的一篇文章，这篇文章略微深入地介绍了您必须关注的主题，以便尽快掌握数据科学。您可以通过下面提供的链接访问下面的文章。
 
-[](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) 
+</best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  
 
 有时候，当你在数据科学中处理一个特定的问题、任务或项目时，你可以多次短暂休息，除非你没有偏离你的主要目标。如果你在解决问题的过程中多次失败，那么暂停一项特定的任务也是完全可以的。
 
@@ -278,11 +246,7 @@ towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-
 
 最后一点是用于解决特定问题的激活函数和优化器。虽然 ReLU 通常被认为是最好的激活函数，Adam 是执行大多数任务的首选优化器，但探索其他激活函数和优化器，看看哪一个为特定任务产生最好的结果，总是一个好主意。下面是一篇在五分钟左右解释 ReLU 激活功能的文章。如果你想了解更多关于这个话题的信息，请查看。
 
-[](/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f) [## 了解 ReLU:5 分钟最受欢迎的激活功能！
-
-### 5 分钟左右深度学习的整流线性单元概念理解。
-
-towardsdatascience.com](/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f) 
+</understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f>  
 
 # 14.只是探索和享受乐趣
 
@@ -308,11 +272,7 @@ Artem Kniaz 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 数学概念和数据科学的其他主题可以每月或每周查找一次，但我强烈建议将编码和编程实践融入到您的日常生活中。请查看下面的文章，其中我涵盖了每个数据科学家必须考虑的五个原因，包括在日常生活中编码的各个方面，以实现最佳结果并变得更加成功。
 
-[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+</5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  
 
 在练习期间，你不需要像人们通常建议的那样非常努力。只要聪明地练习，继续尽可能有效地完成你的其他任务。你不需要从头开始一遍又一遍地重写和重新分析每一个概念或主题。快速浏览一下你想再次回顾的主题就足够了。最后，我想说，坚持练习，尽你最大的努力来结束我的演讲。你会实现你想要的一切！
 
@@ -336,26 +296,6 @@ towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/machine-learning-101-master-ml-66b20003404e) [## 机器学习 101:ML 大师
-
-### 学习初学者掌握该领域所需的机器学习的所有必要和核心概念
-
-towardsdatascience.com](/machine-learning-101-master-ml-66b20003404e) [](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [## 可能会让你惊讶的 5 个独特的人工智能用例
-
-### 找出人工智能在现实世界中令人着迷的五个独特应用
-
-towardsdatascience.com](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) [](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) 
+</machine-learning-101-master-ml-66b20003404e>  </5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf>  </10-best-free-websites-to-learn-programming-939ec029009b>  </5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

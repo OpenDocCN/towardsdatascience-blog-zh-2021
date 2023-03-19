@@ -457,14 +457,6 @@ matplotlib 的建议后续步骤如下:
 
 如果你想了解更多，一定要看看我为新数据科学家写的[书](https://www.datasciencesouth.com/blog/books-new-data-scientists)！
 
-[](/seven-steps-to-generate-data-science-project-ideas-8fb69400634d) [## 产生数据科学项目想法的七个步骤
-
-### 通过这七个步骤找到数据科学组合项目创意
-
-towardsdatascience.com](/seven-steps-to-generate-data-science-project-ideas-8fb69400634d) [](/mistakes-data-scientists-make-e915abd3b2df) [## 数据科学家犯的十二个错误
-
-### 成为更好的数据科学家。
-
-towardsdatascience.com](/mistakes-data-scientists-make-e915abd3b2df) 
+</seven-steps-to-generate-data-science-project-ideas-8fb69400634d>  </mistakes-data-scientists-make-e915abd3b2df>  
 
 *最初发表于*[*https://www.datasciencesouth.com*](https://www.datasciencesouth.com/blog/python-libraries-new-data-scientists)*。*

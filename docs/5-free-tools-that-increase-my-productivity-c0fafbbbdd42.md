@@ -92,16 +92,4 @@ Pocket 还有其他一些优点。首先，您可以使用自定义标签，它�
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8) [## 在 VS 代码中调试 Python 脚本的综合指南
-
-### 了解如何在 10 分钟内高效调试您的脚本！
-
-towardsdatascience.com](/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8) [](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [## 懒惰预测:拟合和评估 scikit 中的所有模型——用一行代码学习
-
-### 查看哪些模型最适合您的数据集的最简单方法！
-
-towardsdatascience.com](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [](/my-10-favorite-resources-for-learning-data-science-online-c645aa3d0afb) [## 我最喜欢的 10 个在线学习数据科学的资源
-
-### 这些网站将帮助您跟上数据科学的最新趋势
-
-towardsdatascience.com](/my-10-favorite-resources-for-learning-data-science-online-c645aa3d0afb)
+</a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8>  </lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281>  </my-10-favorite-resources-for-learning-data-science-online-c645aa3d0afb> 

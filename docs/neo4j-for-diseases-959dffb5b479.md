@@ -26,11 +26,7 @@
 
 在这篇文章中，我将集中讨论疾病、病原体和药物之间的关系。这个项目的代码存放在我的 Github 库中:
 
-[](https://github.com/dgg32/kegg_disease) [## GitHub-dgg 32/kegg _ 疾病
-
-### 这个存储库包含我的文章“疾病的 Neo4j”的代码和数据。脚本是用于数据处理的。的…
-
-github.com](https://github.com/dgg32/kegg_disease) 
+<https://github.com/dgg32/kegg_disease>  
 
 # 1.将数据导入 Neo4j
 
@@ -180,8 +176,4 @@ MATCH p=(n:disease) <-[]-() RETURN p;
 
 这篇文章是我自己翻译成中文的:[https://blog.csdn.net/dgg32/article/details/119081851](https://blog.csdn.net/dgg32/article/details/119081851)
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

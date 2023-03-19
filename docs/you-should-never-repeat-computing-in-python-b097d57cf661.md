@@ -26,11 +26,7 @@
 
 在我们开始之前，需要澄清一些概念。我们今天要讨论的`lru_cache`是一个 Python 装饰器。如果你仍然不知道什么是室内设计师，请看看这篇文章。
 
-[](/the-simplest-tutorial-for-python-decorator-dadbf8f20b0f) [## Python 装饰者的最简单教程
-
-### 添加任何函数/类的“Pythonic 式”包装，而不修改它们
-
-towardsdatascience.com](/the-simplest-tutorial-for-python-decorator-dadbf8f20b0f) 
+</the-simplest-tutorial-for-python-decorator-dadbf8f20b0f>  
 
 然后，它涉及到 LRU 的概念。它代表“最近最少使用的”。当最近的调用是即将到来的调用的最佳预测时，LRU 缓存工作得最好。例如，虽然我已经写了近 100 篇关于数据科学的文章，但前 10 篇文章贡献了近 80%的总阅读量。如果我要写一个网站来托管这些文章，缓存这 10 篇文章是个好主意，这样大多数读者就可以以最佳性能加载它们。
 
@@ -246,10 +242,6 @@ for n in 8, 290, 308, 320, 8, 218, 320, 279, 289, 320, 9991:
 
 这两个实例表明，LRU 缓存在递归函数、动态编程以及 Web 服务等需要重复的场景中有很大的价值。正确使用 LRU 缓存将节省我们大量的硬件资源和执行时间。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

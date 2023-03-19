@@ -12,11 +12,7 @@
 
 虽然大多数数据科学家最喜欢使用的语言可能是 Python，或者不太可能是 R，但我最喜欢的编程语言是 Julia。Julia 语言是一种相当年轻的、实时(JIT)编译的编程语言，它的范例围绕着通用编程概念多重分派。他们不仅使用这种泛型，而且在语言的任何地方都使用它，结果非常惊人。如果你想阅读我写的关于 Julia 和该语言中的 genius multiple dispatch 用法的整篇文章，你可以在这里查看这篇文章:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 几天前，我写了一篇关于我认为 Julia 作为编程语言所面临的问题的文章。正如一些人可能预料的那样，这些问题中第一个也是最重要的一个是，朱莉娅需要一个更好的生态系统来合作。最后一点是，该语言的开发者没有明确表达该语言在行业中的定位，尽管他们明确说明了该语言的发展方向。然而，这种事情背后是否有更多的隐含意义——我真的不能说，因为我不是他们团队的成员。无论如何，在这两个问题之间是我想集中讨论的一整篇文章:
 
@@ -24,11 +20,7 @@ towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2)
 
 另外，如果你对那篇文章感兴趣，你可以在这里单独阅读:
 
-[](/the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7) [## 2021 年 Julia 编程语言面临的令人沮丧的挑战
-
-### Julia 要在 2021 年末取得数据科学优势需要克服的障碍。
-
-towardsdatascience.com](/the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7) 
+</the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7>  
 
 # 成因
 

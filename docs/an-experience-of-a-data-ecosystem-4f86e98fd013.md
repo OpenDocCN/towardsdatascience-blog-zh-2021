@@ -112,10 +112,6 @@
 
 特别感谢***Supriya Pathak***对这件作品的宝贵见解和合作。
 
-[](https://www.linkedin.com/in/supriya-pathak-57485459/) [## Supriya Pathak -高级产品分析师- OkCredit | LinkedIn
-
-### 在分析和洞察产品管理方面的丰富经验。我领导了对不同垂直行业的分析…
-
-www.linkedin.com](https://www.linkedin.com/in/supriya-pathak-57485459/) 
+<https://www.linkedin.com/in/supriya-pathak-57485459/>  
 
 图形是使用 diagrams.net 的[***(draw . io)***](https://app.diagrams.net/)*和[***flat icon***](https://www.flaticon.com/)开发的。巨大的资源！这篇文章是思想的原创作品。*

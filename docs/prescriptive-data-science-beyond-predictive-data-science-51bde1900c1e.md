@@ -54,8 +54,4 @@
 
 *   SciPy。优化链接
 
-[](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html) [## 优化(SciPy。优化)-SciPy 1 . 7 . 0 版手册
-
-### SciPy。优化包提供了几种常用的优化算法。详细的列表是…
-
-docs.scipy.org](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
+<https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html> 

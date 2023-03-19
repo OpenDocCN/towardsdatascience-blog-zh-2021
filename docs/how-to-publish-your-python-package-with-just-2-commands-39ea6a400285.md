@@ -118,14 +118,6 @@ poetry build
 
 # *有用的链接*
 
-*[](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795) [## Python 环境、依赖和包管理指南:Conda +诗歌
-
-### 如何将包自动添加到您的环境文件中，而不必担心依赖关系
-
-towardsdatascience.com](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795)  [## 简介|文档|诗歌——Python 依赖管理和打包变得简单。
-
-### 诗歌是 Python 中进行依赖管理和打包的工具。它允许您将库声明为您的项目…
-
-python-poetry.org](https://python-poetry.org/docs/)* 
+*</a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795>   * 
 
 **最初发表于*[*【https://www.ealizadeh.com】*](https://www.ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands/)*。**

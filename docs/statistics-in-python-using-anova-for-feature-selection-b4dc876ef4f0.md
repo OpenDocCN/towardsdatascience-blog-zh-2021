@@ -20,19 +20,7 @@ Gabriel Gurrola 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 如果你需要复习一下**皮尔森相关性**、**斯皮尔曼等级相关性**和**卡方**，我建议你现在就去查阅它们(见下面的链接)，一旦你完成了就回来看这篇文章。本文中讨论的一些概念类似于卡方检验，所以我建议您查看一下。
 
-[](/statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745) [## Python 中的统计数据-使用卡方进行要素选择
-
-### 在我之前的两篇文章中，我谈到了如何度量数据集中各列之间的相关性，以及…
-
-towardsdatascience.com](/statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745) [](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) [## Python 中的统计数据-共线性和多重共线性
-
-### 了解如何发现数据集中的多重共线性
-
-towardsdatascience.com](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) [](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) [## Python 中的统计学-了解方差、协方差和相关性
-
-### 理解你的数据之间的关系，知道皮尔逊相关系数和…
-
-towardsdatascience.com](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) 
+</statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745>  </statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f>  </statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01>  
 
 # 什么是方差分析？
 
@@ -403,8 +391,4 @@ sm.stats.anova_lm(model, typ=2)
 
 希望这篇文章对你有用。敬请期待下一篇文章！
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

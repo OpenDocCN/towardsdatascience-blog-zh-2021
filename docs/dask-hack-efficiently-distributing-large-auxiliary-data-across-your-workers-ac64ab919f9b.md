@@ -14,11 +14,7 @@
 
 请参见下面的用例。
 
-[](https://github.com/gjoseph92/once-per-worker) [## gjoseph 92/每名员工一次
-
-### 每工作人员一次是一个实用程序，用于围绕您只希望每次运行一次的函数创建 dask.delayed 对象…
-
-github.com](https://github.com/gjoseph92/once-per-worker) 
+<https://github.com/gjoseph92/once-per-worker>  
 
 # 用例
 
@@ -65,8 +61,4 @@ github.com](https://github.com/gjoseph92/once-per-worker)
 
 如果您也经常使用大于内存的数据集，那么一定要看看 Coiled——我怎么推荐都不为过！
 
- [## 盘绕
-
-### Coiled |使用 Dask 的可扩展数据科学和机器学习
-
-coiled.io](https://coiled.io/)
+ 

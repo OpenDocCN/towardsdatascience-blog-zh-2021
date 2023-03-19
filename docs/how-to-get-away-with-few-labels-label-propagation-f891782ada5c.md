@@ -241,7 +241,7 @@ weighted avg       0.95      0.95      0.95      1617
 1.  **想支持我多写点机器学习和**
 2.  **无论如何都要计划获得中等订阅量，**
 
-**为什么不通过此链接**[](https://dr-robert-kuebler.medium.com/membership)****？这将对我帮助很大！😊****
+**为什么不通过此链接**<https://dr-robert-kuebler.medium.com/membership>****？这将对我帮助很大！😊****
 
 ***说白了，给你的价格不变，但大约一半的订阅费直接归我。***
 

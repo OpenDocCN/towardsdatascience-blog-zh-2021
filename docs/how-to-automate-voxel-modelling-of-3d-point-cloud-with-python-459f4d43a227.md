@@ -44,31 +44,19 @@ Guillermo Momplet 制作的乐高模型动画示例。
 
 💡**提示** : I *如果你想更好地理解如何表示 3D 数据以及每种方法之间的技术差异，我鼓励你阅读下面的文章。*
 
-[](/how-to-represent-3d-data-66a0f6376afb) [## 如何表示 3D 数据？
-
-### 帮助在 3D 点云、网格、参数模型、深度图、RGB-D……
-
-towardsdatascience.com](/how-to-represent-3d-data-66a0f6376afb) ![](img/d5fa09f44b18711111343683962237bf.png)
+</how-to-represent-3d-data-66a0f6376afb>  ![](img/d5fa09f44b18711111343683962237bf.png)
 
 Dassault Systèmes，Spatial Corp. [所见的体素作为 3D 表示的主要优势来源](https://blog.spatial.com/the-main-benefits-and-disadvantages-of-voxel-modeling)
 
 现在你是一个真正的被破坏的体素🥑，是时候动手学习如何以自动化的方式将 3D 点云快速转化为体素集合了。准备好了吗？
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 # 步骤 1:编码选择
 
 免责声明:当编码解决一个确定的问题时，没有一个唯一的方向。我给你的解决方案依赖于一些聪明的技巧，使用`open3d`和可用的函数栈。但是，如果您希望依赖最少数量的库，您也可以遵循下面的文章，将体素采样策略调整为体素创建策略。
 
-[](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [## 如何使用 Python 自动处理激光雷达点云
-
-### 使用 Python 从头开始点云子采样的终极指南。它涵盖了激光雷达输入/输出，三维体素网格处理…
-
-towardsdatascience.com](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) 
+</how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c>  
 
 在本教程中，我们将只依赖于三个函数库:`laspy` ( `pip install laspy`)、`open3d` ( `conda install -c open3d-admin open3d`)和`numpy` ( `conda install numpy`)，python 版本为 3.8。为此，这三行简单的代码:
 
@@ -90,11 +78,7 @@ import open3d as o3d
 
 💡**提示** : I *如果您是从零开始，并且想要按照一个食谱在 5 分钟内启动并运行 Python，我建议您遵循下面这篇文章，它给出了设置您的环境的所有细节。如果您不想安装任何东西，您也可以使用我在文章结尾提供的 Google Colab 笔记本在云上运行它。*
 
-[](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) [## 使用 Python 探索 3D 点云处理
-
-### 教程简单地设置 python 环境，开始处理和可视化 3D 点云数据。
-
-towardsdatascience.com](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) 
+</discover-3d-point-cloud-processing-with-python-6112d9ee38e7>  
 
 # 步骤 2:加载数据
 
@@ -256,19 +240,11 @@ o3d.io.write_triangle_mesh(input_path+”4_vox_mesh_r.ply”, vox_mesh.transform
 
 您刚刚学习了如何导入点云，将它们转换为体素网格，欺骗系统使它们成为 3D 网格，然后完全自动地导出它们！干得好！有趣的是，能够在 Python 中使用体素也将允许更好地掌握任何点云场景的关系和拓扑，如[2]所示。为了扩展学习之旅的成果，未来的文章将深入探讨体素处理、点云文件格式、3D 数据结构、语义和实例分割[2–4]、动画以及深度学习[1]。我们将研究如何管理大点云数据，如下文所述。
 
-[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [## 三维点云的未来:一个新的视角
-
-### 被称为点云的离散空间数据集通常为决策应用奠定基础。但是他们能不能…
-
-towardsdatascience.com](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) 
+</the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9>  
 
 我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。您可以从今天开始，在[地理数据学院](https://learngeodata.eu/)开始。
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 # 参考
 

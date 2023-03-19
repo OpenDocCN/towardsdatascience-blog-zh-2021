@@ -51,11 +51,7 @@
 
 > 阅读下面的文章，了解更多关于如何使用开源 python 库创建人工影像数据集的信息。
 
-[](https://medium.com/swlh/create-custom-image-dataset-for-ai-ml-projects-using-python-72a62520f072) [## 使用 Python 为 AI/ML 项目创建自定义图像数据集
-
-### 使用 Python 库的自定义影像数据集
-
-medium.com](https://medium.com/swlh/create-custom-image-dataset-for-ai-ml-projects-using-python-72a62520f072) 
+<https://medium.com/swlh/create-custom-image-dataset-for-ai-ml-projects-using-python-72a62520f072>  
 
 # 结论:
 

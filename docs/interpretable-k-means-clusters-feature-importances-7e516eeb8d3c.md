@@ -208,7 +208,7 @@ git clone [https://github.com/YousefGh/kmeans-feature-importance.git](https://gi
 
 当事实标签在开发阶段不可用时，聚类的可解释性变得至关重要。由于内部验证指标的性质，它不仅阻止了数据科学家对聚类有效性的直接评估，还妨碍了向利益相关者简单直观地解释聚类性能。我们提出了两种可能的方法，旨在通过提取基于聚类的特征重要性来解决这一问题，这使我们能够知道为什么 K-Means 算法选择了每个聚类。该方法将其自身扩展到利益相关者通信、简单直观的评估、NLP 中基于聚类的关键词提取以及通用特征选择技术。
 
-*本文笔记本，* `*KMeansInterp*` *类，连同 Colab 上的直接用法示例，可在这里找到*[](https://github.com/YousefGh/kmeans-feature-importance)****。*** *快乐演绎！**
+*本文笔记本，* `*KMeansInterp*` *类，连同 Colab 上的直接用法示例，可在这里找到*<https://github.com/YousefGh/kmeans-feature-importance>****。*** *快乐演绎！**
 
 ***参考文献:***
 

@@ -127,8 +127,4 @@ AbstractCRE 的接口向分析师建议租赁抽象。图片作者。
 
 在第二篇文章中，我们将看看如何定义机器学习项目的成功标准。请在 Medium 上关注我，了解更多关于人工智能和产品的文章。同时，看看这些其他的帖子:
 
-[](/we-need-a-better-definition-of-ai-and-we-need-it-now-81fb8102a9b6) [## 我们需要一个更好的人工智能定义，而且我们现在就需要
-
-### 连我的烤面包机都打上了 AI 的烙印。我们需要一个更好的行业定义来消除品牌噪音。
-
-towardsdatascience.com](/we-need-a-better-definition-of-ai-and-we-need-it-now-81fb8102a9b6)
+</we-need-a-better-definition-of-ai-and-we-need-it-now-81fb8102a9b6> 

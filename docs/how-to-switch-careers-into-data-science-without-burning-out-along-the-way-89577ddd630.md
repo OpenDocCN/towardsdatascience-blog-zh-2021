@@ -58,7 +58,7 @@ Julia 目前正在攻读可持续发展管理硕士学位的最后一个学期�
 
 *   *[**数据科学促进可持续发展**](/data-science-for-sustainability-b912d5fb5d24) ( *TDS* ，2021 年 1 月)
     这篇文章向读者展示了数据科学和可持续发展工作如何相互交叉和相互影响，并包括几个令人信服的真实案例。*
-*   *[](/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)****【2020 年 9 月*TDS*】
+*   *</5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b>****【2020 年 9 月*TDS*】
     如果你正在经历灵感滑坡，Julia 关于启动新项目的实用建议可能会有所帮助。它们从基于你的日常事务产生新的话题，到寻找没有被其他人广泛使用的数据集。*****
 *   *****[**用 AdaBoost、random forests 和 XGBoost 进行时间序列预测**](/go-highly-accurate-or-go-home-61828afb0b13)**(*TDS*，2020 年 2 月)
     当你的模型没有产生整齐、完美的结果时，你怎么办？在本帖中，Julia 分享了她在一个极具挑战性的项目中所学到的有用的经验。*******

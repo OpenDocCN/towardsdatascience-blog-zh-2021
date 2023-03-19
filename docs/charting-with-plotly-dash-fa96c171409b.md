@@ -210,16 +210,8 @@ df3b = df[df['Attrition_Flag'] == 'Attrited Customer']fig3a = px.histogram(df3a,
 
 ****“平行坐标标绘有 Plotly，规范化还是标准化？****
 
-****[](/parallel-coordinates-plots-with-plotly-dffe3f526c6b) [## 平行坐标用 Plotly 绘制
-
-### 常态化还是标准化？
-
-towardsdatascience.com](/parallel-coordinates-plots-with-plotly-dffe3f526c6b) 
+****</parallel-coordinates-plots-with-plotly-dffe3f526c6b>  
 
 饼图和甜甜圈图，带有 Plotly，Why & How
 
-[](/pie-donut-charts-with-plotly-d5524a60295b) [## Plotly 的饼图和圆环图
-
-### 为什么和如何
-
-towardsdatascience.com](/pie-donut-charts-with-plotly-d5524a60295b)****
+</pie-donut-charts-with-plotly-d5524a60295b> ****

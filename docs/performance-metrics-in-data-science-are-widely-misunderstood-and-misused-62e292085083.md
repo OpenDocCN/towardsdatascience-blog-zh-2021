@@ -26,11 +26,7 @@
 
 我想你已经明白 ROC 是做什么的了。我在这里简单介绍一下。不过，如果你是新手或者有点生疏，我有更详细的介绍。
 
-[](/intuitively-understand-roc-and-implement-it-in-r-and-python-b6aa1e8508d) [## 直观理解 ROC 并用 R 和 Python 实现
-
-### 一个基于案例研究的 ROC 介绍，如何设置阈值，它的关系…
-
-towardsdatascience.com](/intuitively-understand-roc-and-implement-it-in-r-and-python-b6aa1e8508d) 
+</intuitively-understand-roc-and-implement-it-in-r-and-python-b6aa1e8508d>  
 
 ROC 曲线是评估分类器性能的最广泛使用的性能度量之一。
 
@@ -104,8 +100,4 @@ ROC 为例。曲线下的面积是选择更好模型的方便指标。随机分�
 
 > “怯懦会问这样的问题，‘安全吗？’权宜之计提出了这样一个问题，“这是策略吗？”虚荣问这个问题，“它受欢迎吗？”但是，良心会问这样一个问题，“这是对的吗？”总有一天，一个人必须采取一种既不安全，也不政治，也不受欢迎的立场，但他必须这样做，因为他的良心告诉他这是正确的”**马丁·路德·金**
 
-[](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)
+<https://ahmarshah.medium.com/membership> 

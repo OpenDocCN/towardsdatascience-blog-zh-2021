@@ -18,11 +18,7 @@
 
 这是我在 Kaggle 上看到数据集时问自己的问题:
 
-[](https://www.kaggle.com/selfishgene/historical-hourly-weather-data) [## 2012-2017 年的历史每小时天气数据
-
-### 30 个美国和加拿大城市+ 6 个以色列城市的每小时天气数据
-
-www.kaggle.com](https://www.kaggle.com/selfishgene/historical-hourly-weather-data) 
+<https://www.kaggle.com/selfishgene/historical-hourly-weather-data>  
 
 我想要的结果是有一个极坐标热图，其中每个楔形由该桶中的平均温度来着色。当我在网上寻找是否有什么可以产生一个漂亮干净的图像时，我就倒霉了！
 

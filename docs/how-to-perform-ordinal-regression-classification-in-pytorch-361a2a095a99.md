@@ -16,11 +16,7 @@
 
 让我们首先找到一个数据集进行测试。我最近写了一篇关于[如何预测化学分子的性质](/chemical-predictions-with-3-lines-of-code-c4c6a4ce7378)的帖子——通常对于这类问题，预测分子性质是否在给定范围内是很有趣的，例如，我们可能在预测不同分子对于给定任务的效率，我们希望将这种效率分为*高>中>低*。
 
-[](/chemical-predictions-with-3-lines-of-code-c4c6a4ce7378) [## 三行代码的化学预测
-
-### 使用 Chemprop & graph 神经网络的最新结果
-
-towardsdatascience.com](/chemical-predictions-with-3-lines-of-code-c4c6a4ce7378) 
+</chemical-predictions-with-3-lines-of-code-c4c6a4ce7378>  
 
 为了测试，我从 [GitHub](https://github.com/chemprop/chemprop) 获取了一个“亲脂性”回归数据集，其中包含 2100 个分子及其相关的亲脂性测量值(在油中的溶解度)。我将数据集转换为多类有序分类问题，目标是将分子分为 5 类:*最低<低<中<高<最高。*
 

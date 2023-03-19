@@ -261,14 +261,6 @@
 
 # **在 LinkedIn 和 Medium 上关注我**
 
-**如果你喜欢这篇文章，**可以随时联系 LinkedIn**[](https://www.linkedin.com/feed/)****(我欢迎个性化的连接请求)**并关注我的** [**媒体**](https://medium.com/@andrea.ialenti) **！********
+**如果你喜欢这篇文章，**可以随时联系 LinkedIn**<https://www.linkedin.com/feed/>****(我欢迎个性化的连接请求)**并关注我的** [**媒体**](https://medium.com/@andrea.ialenti) **！********
 
-******[](/javascript-charts-on-jupyter-notebooks-dd25f794cf6a) [## Jupyter 笔记本上的 JavaScript 图表
-
-### 用漂亮的 JavaScript 可视化将 Jupyter 推向新的高度
-
-towardsdatascience.com](/javascript-charts-on-jupyter-notebooks-dd25f794cf6a) [](/clustering-pollock-1ec24c9cf447) [## 聚类波洛克
-
-### 杰森·布拉克绘画的聚类分析——如何利用 k-means 进行色彩分组
-
-towardsdatascience.com](/clustering-pollock-1ec24c9cf447)******
+******</javascript-charts-on-jupyter-notebooks-dd25f794cf6a>  </clustering-pollock-1ec24c9cf447> ******

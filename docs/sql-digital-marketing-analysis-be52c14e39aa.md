@@ -430,14 +430,6 @@ COUNT(CASE WHEN device_type = ‘mobile’ THEN website_session_id ELSE NULL END
 
 *在分析方面，任务是分析流量来源和竞价优化，以了解付费流量各部分的价值，改善营销预算。*
 
-*[](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [## 关于移动营销活动的 15 个商业问题:ROAS(广告支出回报)
-
-### 探索性营销数据分析，用于监控和评估移动营销活动(EDA)的绩效
-
-towardsdatascience.com](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [## 机器学习:营销活动的成本预测(探索性数据分析——第一部分)
-
-### 预测营销活动最佳目标候选人的数据科学方法
-
-towardsdatascience.com](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) 
+*</15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6>  </machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4>  
 
 感谢阅读。*

@@ -100,15 +100,7 @@ df.groupby("side").price.describe()
 
 您可能还会对以下内容感兴趣:
 
-[](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [## mpl finance——matplolib 相对不为人知的用于绘制金融数据的库
-
-### 包括快速创建图表的方法，如烛台，连科，或点和图
-
-towardsdatascience.com](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [](/stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f) [## stock stats——一个方便的面向股票的熊猫数据框架包装器
-
-### 只需调用列名即可访问各种技术指标！
-
-towardsdatascience.com](/stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f) [](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) [## 用 Python 创建交互式烛台图表的最简单方法
+</mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd>  </stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f>  </the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8> [## 用 Python 创建交互式烛台图表的最简单方法
 
 towardsdatascience.com](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) 
 

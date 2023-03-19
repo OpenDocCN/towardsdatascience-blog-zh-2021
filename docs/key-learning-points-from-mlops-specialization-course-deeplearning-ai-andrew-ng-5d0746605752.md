@@ -147,8 +147,4 @@
 
 ***在这里继续第 2 部分！***
 
-***[](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [## MLOps 专业化认证的关键学习点—课程 2
-
-### 面向生产的机器学习工程(MLOps)课程的见解摘要(含课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)***
+***</key-learning-points-from-mlops-specialization-course-2-13af51e22d90> ***

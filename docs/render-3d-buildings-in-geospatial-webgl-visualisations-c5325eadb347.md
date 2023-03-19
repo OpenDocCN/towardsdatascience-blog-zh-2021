@@ -52,11 +52,7 @@
 
 *—要了解如何抓取某个地区/城市/国家的地址列表，请参考我下面的文章(带代码实现):*
 
-[](/how-i-crawled-the-entire-list-of-postal-codes-in-a-country-with-java-fde6259a8353) [## 我是如何用 Java 爬取一个国家的邮政编码列表的
-
-### 从 OneMap.sg 中检索新加坡的 141，848 个邮政编码—代码实现
-
-towardsdatascience.com](/how-i-crawled-the-entire-list-of-postal-codes-in-a-country-with-java-fde6259a8353) 
+</how-i-crawled-the-entire-list-of-postal-codes-in-a-country-with-java-fde6259a8353>  
 
 这一步的输出文件可以在我的 GitHub 链接中找到: [HDB_Only.json](https://gist.githubusercontent.com/incubated-geek-cc/20cdf422ba6488c3ac963a364858be7b/raw/045a9a5c73e4320865b03ce91daecc9cb9aedd29/HDB_Only.json)
 
@@ -94,11 +90,7 @@ towardsdatascience.com](/how-i-crawled-the-entire-list-of-postal-codes-in-a-coun
 
 对于那些对此工具感兴趣的人，请随意查看下面的文章，该文章深入探讨了如何基于自定义边界实施 [TurfJS](http://turfjs.org/) 进行地理编码:
 
-[](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) [## 使用 Turf.js 通过自定义边界对坐标进行地理编码
-
-### 这个位置属于❝Which 地区/区域/区域吗？❞
-
-towardsdatascience.com](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) 
+</using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0>  
 
 结果输出由唯一的多边形标识符**【ID】**&**【SUBID】**组成，专门标记到每个点坐标。此后，基于这些标识符字段，最终得到的住宅建筑多边形层被输出为:[hdb _ building _ polygons . geo JSON](https://github.com/incubated-geek-cc/sg-hdb-building-layer-in-3D/raw/main/public/data/hdb_building_polygons.geojson)*(请注意文件大小超过 30MB)*
 
@@ -112,11 +104,7 @@ towardsdatascience.com](/using-turf-js-to-geocode-coordinates-with-custom-bounda
 
 作者图片| MapBox web GL 上的 3D 模型地图演示|部署在以下链接
 
- [## 地图框 WebGL 中的 SG HDB 建筑层
-
-### 一个地理空间 web 应用程序，展示了通过拉伸以 3D 方式渲染的新加坡 HDB 建筑图层。
-
-sg-hdb-building-layer-in-3d.onrender.com](https://sg-hdb-building-layer-in-3d.onrender.com/) 
+  
 
 这个的源代码可以在我的 GitHub Repo: [链接](https://github.com/incubated-geek-cc/sg-hdb-building-layer-in-3D)找到
 
@@ -140,8 +128,4 @@ ThreeJS + [OneMap 底图](https://www.onemap.gov.sg/docs/maps/grey.html) **(纯�
 
 ## 非常感谢你坚持到这篇文章的结尾！❤ *希望你喜欢我这边项目的叙述，如果你想了解更多 GIS、数据分析& Web 应用相关内容，请随时* [*关注我。会非常感激😀TGIF！*](https://medium.com/@geek-cc)
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

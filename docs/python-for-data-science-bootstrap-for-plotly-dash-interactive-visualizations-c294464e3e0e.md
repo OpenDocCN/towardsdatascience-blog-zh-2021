@@ -24,15 +24,7 @@ Gif by [**师叔运气**](https://giphy.com/channel/abbeyluck)
 
 也就是说，**数据可视化**将永远是数据探索阶段的必需品。没有可视化的帮助，没有人能正确理解数据。谢天谢地，今天我们有许多图书馆来帮助我们。这里有几个。
 
-[](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) [## 面向数据科学的 python——Plotly 数据可视化指南
-
-### 现在是 2020 年，是时候停止使用 Matplotlib 和 Seaborn 了
-
-towardsdatascience.com](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) [](/python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724) [## 用于数据科学的 Python 使用 Plotly 进行数据可视化的高级指南
-
-### 如何在 Plotly 中添加和自定义滑块、下拉菜单和按钮
-
-towardsdatascience.com](/python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724) 
+</python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c>  </python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724>  
 
 因此，作为一名数据科学家，你能够通过**干净**和**漂亮** **的可视化**来传达你的发现是非常重要的。毫无疑问，它会让你鹤立鸡群。
 
@@ -46,11 +38,7 @@ towardsdatascience.com](/python-for-data-science-advance-guide-to-data-visualiza
 
 达什是这个街区的新成员。我在这里写了一下。
 
-[](/python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e) [## 面向数据科学的 python——Plotly Dash 交互式可视化指南
-
-### 构建您的第一个 web 应用程序！
-
-towardsdatascience.com](/python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e) 
+</python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e>  
 
 **Dash** 是新的开源 **Python 库**，让你无需了解任何 **HTML、CSS 或 Javascript** 就能构建令人惊叹的数据可视化应用。
 
@@ -102,15 +90,11 @@ bootstrap 的惊人特性之一是**网格系统**。默认情况下，Bootstrap
 
 # 先决条件
 
-Dash 可视化基于 Plotly。如果你已经和[](/python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e)**相处得很好，那会有很大帮助。**
+Dash 可视化基于 Plotly。如果你已经和</python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e>**相处得很好，那会有很大帮助。**
 
 **要做到这一点，你还需要在使用**熊猫**进行**数据转换**方面有坚实的基础。我已经写了许多关于以上所有主题的指南，在继续之前，请随意修改它们。**
 
-**[](/python-for-data-science-basics-of-pandas-5f8d9680617e) [## 用于数据科学的 Python 熊猫指南
-
-### 10 分钟内完成数据探索指南
-
-towardsdatascience.com](/python-for-data-science-basics-of-pandas-5f8d9680617e) 
+**</python-for-data-science-basics-of-pandas-5f8d9680617e>  
 
 ## 破折号
 

@@ -20,19 +20,11 @@
 
 要了解更多关于特拉华州疼痛数据库的信息，请阅读下面的文章:
 
-[](https://pubmed.ncbi.nlm.nih.gov/33134750/) [## 特拉华州疼痛数据库:一组疼痛表达和相应的标准化数据- PubMed
-
-### 简介:痛苦的面部表情通过传达痛苦和恳求来服务于一个基本的社会功能
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33134750/) 
+<https://pubmed.ncbi.nlm.nih.gov/33134750/>  
 
 为本教程准备的数据是使用工具 OpenFace 提取的，该工具使用机器学习模型来评估面部肌肉运动的强度。
 
-[](https://ieeexplore.ieee.org/document/7477553) [## OpenFace:一个开源的面部行为分析工具包
-
-### 在过去的几年里，人们对自动面部行为分析和理解越来越感兴趣…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/7477553) ![](img/6ee2e9feeba7c21957078252e7ce871e.png)
+<https://ieeexplore.ieee.org/document/7477553>  ![](img/6ee2e9feeba7c21957078252e7ce871e.png)
 
 作者使用 OpenFace 面部表情分析的示例
 
@@ -58,15 +50,7 @@ OpenFace 分析的图片首先是从特拉华州疼痛数据库库中下载的�
 
 为了创建这个模型，我们将使用许多不同的 python 库。以下是最重要的:
 
- [## PyCaret - pycaret 2.2.0 文档
-
-### PyCaret 的设计和简单性受到了公民数据科学家这一新兴角色的启发，这一术语最早是由…
-
-pycaret.readthedocs.io](https://pycaret.readthedocs.io/en/latest/index.html) [](https://pandas.pydata.org/) [## 熊猫
-
-### pandas 是一个快速、强大、灵活且易于使用的开源数据分析和操作工具，构建于…
-
-pandas.pydata.org](https://pandas.pydata.org/) 
+  <https://pandas.pydata.org/>  
 
 在上传数据文件之前，每个图像都用来自特拉华州疼痛数据库的相应行为(中性或疼痛)进行了注释。因此，我们将使用 pycaret 训练一个二进制模型。我们的模型将从面部图像中确定中性表情和疼痛表情之间的差异。
 
@@ -200,14 +184,6 @@ predict_model(final)
 
 作者的相关文章—
 
-[](https://medium.com/geekculture/future-directions-of-machine-learning-for-pain-in-individuals-who-are-nonverbal-85e593794344) [## 非言语个体疼痛机器学习的未来方向
-
-### 我们如何为有需要的人发声
-
-medium.com](https://medium.com/geekculture/future-directions-of-machine-learning-for-pain-in-individuals-who-are-nonverbal-85e593794344) [](https://medium.com/discourse/the-virtual-transformation-of-chronic-pain-care-d582fe782df2) [## 慢性疼痛护理的虚拟转型
-
-### 疫情如何影响疼痛和虚拟护理
-
-medium.com](https://medium.com/discourse/the-virtual-transformation-of-chronic-pain-care-d582fe782df2) 
+<https://medium.com/geekculture/future-directions-of-machine-learning-for-pain-in-individuals-who-are-nonverbal-85e593794344>  <https://medium.com/discourse/the-virtual-transformation-of-chronic-pain-care-d582fe782df2>  
 
 感谢您的阅读！！

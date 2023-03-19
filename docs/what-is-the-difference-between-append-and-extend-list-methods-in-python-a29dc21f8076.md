@@ -46,11 +46,7 @@ False
 
 如果您想了解更多关于有序集合(如列表)的索引和切片，请务必阅读下面的文章。
 
-[](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125) 
+</mastering-indexing-and-slicing-in-python-443e23457125>  
 
 因为 Python 列表是可变的，所以它们可以按需扩展或收缩。换句话说，您甚至可以在特定的索引中插入或删除元素。在接下来的几节中，我们将探讨两种内置的 list 方法，它们可以用来向现有的 list 对象中添加更多的元素。
 
@@ -111,12 +107,4 @@ towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)
 
 ## 你可能也喜欢
 
-[](/what-are-named-tuples-in-python-59dc7bd15680) [## Python 中的命名元组是什么
-
-### Python 中一个被忽略的扩展数据类型
-
-towardsdatascience.com](/what-are-named-tuples-in-python-59dc7bd15680) [](https://levelup.gitconnected.com/what-are-python-sets-59eb890ab522) [## 什么是 Python 集合
-
-### Python 集合的简明介绍
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/what-are-python-sets-59eb890ab522)
+</what-are-named-tuples-in-python-59dc7bd15680>  <https://levelup.gitconnected.com/what-are-python-sets-59eb890ab522> 

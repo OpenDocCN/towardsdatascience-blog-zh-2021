@@ -24,11 +24,7 @@
 
 点击此处了解更多信息:
 
-[](/many-hyperparameters-use-gin-fdf6741d282) [## 很多超参数？使用杜松子酒
-
-### 如何处理所有的参数
-
-towardsdatascience.com](/many-hyperparameters-use-gin-fdf6741d282) 
+</many-hyperparameters-use-gin-fdf6741d282>  
 
 ## 将参数解析器的设置与训练代码分开
 

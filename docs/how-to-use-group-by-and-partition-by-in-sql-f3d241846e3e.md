@@ -121,8 +121,4 @@ GROUP BY expression 1, expression 2
 
 # **参考**
 
-[](https://www.sqlshack.com/sql-partition-by-clause-overview/) [## SQL PARTITION BY 子句概述
-
-### 本文将介绍 SQL PARTITION BY 子句，特别是与 GROUP BY 子句的区别
-
-www.sqlshack.com](https://www.sqlshack.com/sql-partition-by-clause-overview/)
+<https://www.sqlshack.com/sql-partition-by-clause-overview/> 

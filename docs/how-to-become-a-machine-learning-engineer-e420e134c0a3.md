@@ -29,7 +29,7 @@ Jaromír Kavan 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 下一步也是最明显的一步是学习编程语言。如果机器学习工程师的输出是可交付的软件，那么你必须学习如何创建软件。这需要编程语言的知识。
 
-Python 是最流行的机器学习语言。我已经为机器学习和数据科学创建了一个学习 Python 的最佳资源列表[](/the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943)*，所以一定要去看看。根据你的工作地点，一些公司可能会希望你具备 Java 和 C++等其他语言的知识(主要是因为它们比 Python 快)。我个人喜欢用 Codeacademy 学习编程语言。以下是 C++ & Java 各自的课程:*
+Python 是最流行的机器学习语言。我已经为机器学习和数据科学创建了一个学习 Python 的最佳资源列表</the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943>*，所以一定要去看看。根据你的工作地点，一些公司可能会希望你具备 Java 和 C++等其他语言的知识(主要是因为它们比 Python 快)。我个人喜欢用 Codeacademy 学习编程语言。以下是 C++ & Java 各自的课程:*
 
 *   *[学习 C++](https://www.codecademy.com/learn/learn-c-plus-plus)*
 *   *[学 Java](https://www.codecademy.com/learn/learn-java)*
@@ -151,14 +151,6 @@ Python 是最流行的机器学习语言。我已经为机器学习和数据科�
 
 ## *相关文章*
 
-*[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [## 机器学习工程师必须阅读这 5 本书
-
-### 打造机器学习工程师
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [](/developing-software-engineering-skills-for-a-role-as-a-ml-engineer-7cd27ebfc526) [## 为 ML 工程师的角色开发软件工程技能
+*<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  <https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84>  </developing-software-engineering-skills-for-a-role-as-a-ml-engineer-7cd27ebfc526> [## 为 ML 工程师的角色开发软件工程技能
 
 towardsdatascience.com](/developing-software-engineering-skills-for-a-role-as-a-ml-engineer-7cd27ebfc526)*

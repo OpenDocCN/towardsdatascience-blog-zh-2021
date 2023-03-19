@@ -286,7 +286,7 @@ from sklearn.model_selection import train_test_splitdef plot_results(train_targe
 
 ***训练目标值(圆形)和逻辑回归模型预测值(三角形)的散点图。根据等级进行颜色编码:蓝色代表 0 级，橙色代表 1 级。***
 
-**要衡量性能，你需要看模型的**[](https://en.wikipedia.org/wiki/Accuracy_and_precision)**。******
+**要衡量性能，你需要看模型的**<https://en.wikipedia.org/wiki/Accuracy_and_precision>**。******
 
 ******![](img/2198035f2f3eb11cf8525bc67430ee74.png)******
 

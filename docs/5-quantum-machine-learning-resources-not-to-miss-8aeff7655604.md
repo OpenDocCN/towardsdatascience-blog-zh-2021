@@ -28,11 +28,7 @@
 
 如果你想从另一个角度看问题，机器学习可以用来降低量子计算的噪音:
 
-[](/dont-ask-what-quantum-computing-can-do-for-machine-learning-cc44feeb51e8) [## 不要问量子计算能为机器学习做什么
-
-### 问机器学习能为量子计算做什么
-
-towardsdatascience.com](/dont-ask-what-quantum-computing-can-do-for-machine-learning-cc44feeb51e8) 
+</dont-ask-what-quantum-computing-can-do-for-machine-learning-cc44feeb51e8>  
 
 # 2.彼得·魏特克博士的 MOOC 视频讲座
 
@@ -89,19 +85,11 @@ towardsdatascience.com](/dont-ask-what-quantum-computing-can-do-for-machine-lear
 
 如题，它大多专注于编码。它首先介绍量子计算、量子傅立叶变换，最后介绍量子神经网络、量子张量流和 PyTorch。Cirq 和 Qiskit 里有几个伪代码抄本和一些引导脚本如题。你可以偷偷在相关的 Github repo 上看解释过的代码:
 
-[](https://github.com/Apress/quantum-machine-learning-python) [## 进展/量子机器学习-python
-
-### 这个存储库伴随着 Santanu Pattanayak 用 Python 进行的量子机器学习(Apress，2021)。下载…
-
-github.com](https://github.com/Apress/quantum-machine-learning-python) 
+<https://github.com/Apress/quantum-machine-learning-python>  
 
 如果你需要关于量子计算的实用文本的概述，请查看
 
-[](https://medium.com/illumination/5-books-about-quantum-computing-to-start-from-scratch-37d460a5452c) [## 5 本关于量子计算的书从零开始
-
-### 即使你不是物理学家
-
-medium.com](https://medium.com/illumination/5-books-about-quantum-computing-to-start-from-scratch-37d460a5452c) 
+<https://medium.com/illumination/5-books-about-quantum-computing-to-start-from-scratch-37d460a5452c>  
 
 # 结论
 

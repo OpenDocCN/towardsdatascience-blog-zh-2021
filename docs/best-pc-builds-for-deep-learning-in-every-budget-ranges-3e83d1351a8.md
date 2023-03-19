@@ -22,11 +22,7 @@
 
 在你深入研究这篇文章之前，我建议你检查一下你是否真的需要 GPU 来进行深度学习。本文将帮助您了解图形处理单元、CUDA 内核和其他基本概念。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 # 不确定该做什么？
 
@@ -49,11 +45,7 @@ towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226
 
 在我之前的一个作品中，我在 Jupyter 笔记本上写了一个完整的入门指南。查看下面提供的文章，了解 Jupyter 笔记本的几乎所有信息。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 你应该考虑的另一个选择是利用各种公司为人工智能提供的众多云平台。其中包括亚马逊的 AWS、微软的 Azure、IBM 的 Watson Studio 等等。使用这些云环境，您不仅可以按照自己的意愿构建有效的模型，还可以将它们部署到云环境中，以获得更广泛的受众。
 
@@ -120,24 +112,8 @@ CUDA 是 Nvidia 创建的并行计算平台和应用编程接口模型。这些 
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
+</7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e> [## 数据科学和机器学习的 7 个最佳免费工具
 
-towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) [](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
-
-### 探索每个成功的数据科学家必须具备的五项重要软技能！
-
-towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
-
-### 应该添加到简历中的五个高级自然语言处理主题和项目想法
-
-towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) 
+towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) </best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  </6-best-programming-practices-f2605c5b469c>  </5-essential-skills-to-develop-as-a-data-scientist-16442f094c09>  </5-nlp-topics-and-projects-you-should-know-about-65bc675337a0>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

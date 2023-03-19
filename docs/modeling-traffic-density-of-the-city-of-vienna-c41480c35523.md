@@ -25,11 +25,7 @@
 
 本文中的 Python 实现可以从我各自的存储库中访问和派生。
 
-[](https://bernhard-pfann.github.io/) [## 我的项目组合
-
-### 金融专业人士利用数据科学|商业分析理学硕士|金融与会计理学硕士在这个项目中我…
-
-伯恩哈德-普法恩](https://bernhard-pfann.github.io/) 
+<https://bernhard-pfann.github.io/>  
 
 # 1.模拟路径
 
@@ -184,11 +180,7 @@ nodes_disconnect = set(nodes_all) - set(nodes_main)
 
 如果您发现任何其他有趣的应用程序，或者您想为自己的家乡重建项目，请随时使用我的工作。您可以在我各自的 GitHub 资源库中找到源代码。
 
-[](https://bernhard-pfann.github.io/) [## 我的项目组合
-
-### 金融专业人士利用数据科学|商业分析理学硕士|金融与会计理学硕士在这个项目中我…
-
-伯恩哈德-普法恩](https://bernhard-pfann.github.io/) 
+<https://bernhard-pfann.github.io/>  
 
 [1]粗略地从德语翻译过来
 

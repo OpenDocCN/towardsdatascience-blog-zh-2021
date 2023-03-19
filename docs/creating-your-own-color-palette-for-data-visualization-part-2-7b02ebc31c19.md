@@ -14,11 +14,7 @@
 
 第 1 部分的链接，以防您错过。
 
-[](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) [## 为数据可视化创建自己的调色板——第 1 部分
-
-### 为数据可视化创建个人调色板的全面颜色指南。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) 
+</creating-your-own-color-palette-for-data-visualization-part-1-84df48954845>  
 
 现在，我们将通过了解色调、阴影、饱和度、色调、淡色和亮度的影响，重点关注增强视觉效果的替代方法。
 
@@ -106,11 +102,7 @@ S = 0 if L =1****
 
 ****下面是一些使用 ggplot2 包在 R 中高效绘图的技巧。****
 
-****[](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335)**** 
+****</data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335> **** 
 
 # ******结论******
 

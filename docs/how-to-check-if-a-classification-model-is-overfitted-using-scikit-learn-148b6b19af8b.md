@@ -198,26 +198,10 @@ test_model(model, X,y)
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
+</a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3> [## Python 和 scikit 中的完整数据分析工作流程-学习
 
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c) [## 如何提高(监督)机器学习算法的性能
-
-### 如今，每个数据科学家都能够编写代码来训练机器学习算法:加载一个代码就足够了
-
-towardsdatascience.com](/how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c) [](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) [## Python Pandas 中的数据预处理—第 6 部分删除重复项
-
-### 使用 Python 熊猫库删除重复项的快速教程。
-
-towardsdatascience.com](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) 
+towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) </how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c>  </data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6>  
 
 # 来自社区
 
-[](/is-your-model-overfitting-or-maybe-underfitting-an-example-using-a-neural-network-in-python-4faf155398d2) [## 你的模型是否过拟合？或者不合身？python 中使用神经网络的示例
-
-### 过拟合，欠拟合，泛化能力，交叉验证。一切都简单解释了。我还提供了一个…
-
-towardsdatascience.com](/is-your-model-overfitting-or-maybe-underfitting-an-example-using-a-neural-network-in-python-4faf155398d2) [](/the-relationship-between-bias-variance-overfitting-generalisation-in-machine-learning-models-fb78614a3f1e) [## 机器学习模型中偏差、方差、过拟合和泛化的关系
-
-towardsdatascience.com](/the-relationship-between-bias-variance-overfitting-generalisation-in-machine-learning-models-fb78614a3f1e) 
-
-# 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。
+</is-your-model-overfitting-or-maybe-underfitting-an-example-using-a-neural-network-in-python-4faf155398d2>  </the-relationship-between-bias-variance-overfitting-generalisation-in-machine-learning-models-fb78614a3f1e> 。

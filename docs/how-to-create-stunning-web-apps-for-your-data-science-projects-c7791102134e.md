@@ -185,11 +185,7 @@ K-Means 聚类的示例超出了本项目的范围。这是一个机器学习算
 
 网络应用是一个很好的解决方案。但是在某些情况下，您可能不得不考虑与您的 ML 模型交互的其他方式。或许，为您的模型构建一个命令行界面会有所帮助。
 
-[](/a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1) [## 为您的数据科学项目创建 CLI 的简化指南
-
-### CLI 是一种与机器学习模型交互的强大而直接的方式
-
-towardsdatascience.com](/a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1) 
+</a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1>  
 
 > 谢谢你的阅读，朋友。看来你和我有许多共同的兴趣。一定要看看我的个人博客。
 > 

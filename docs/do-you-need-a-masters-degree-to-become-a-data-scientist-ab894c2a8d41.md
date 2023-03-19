@@ -24,11 +24,7 @@
 
 像大多数新手训练营一样，它教会了我基础知识。我从 Coursera、Udacity 和 Udemy 上了很多关于数据科学、统计学、python 和机器学习的课程。在本文中，我详细描述了这些课程以及我是如何转向数据科学的:
 
-[](/how-i-switched-to-data-science-f070d2b5954c) [## 我如何转向数据科学
-
-### 我的旅程、错误和收获
-
-towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c) 
+</how-i-switched-to-data-science-f070d2b5954c>  
 
 幸运的是，我能够做两份实习和一些自由职业项目。我意识到我有很多东西要学。但是我真的不知道去哪里找合适的材料。接下来学什么？
 
@@ -64,19 +60,11 @@ towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c)
 
 自学从来没有这么容易过。因为有太多的材料可供你利用。这里我列了一个可以用来成为该领域专家的高质量免费资源清单:
 
-[](/best-free-courses-for-computer-science-software-engineering-and-data-science-50cd88cafd74) [## 编程、软件工程和数据科学的最佳免费资源
-
-### 麻省理工、哈佛和斯坦福等顶尖大学的免费课程
-
-towardsdatascience.com](/best-free-courses-for-computer-science-software-engineering-and-data-science-50cd88cafd74) 
+</best-free-courses-for-computer-science-software-engineering-and-data-science-50cd88cafd74>  
 
 如果你对深度学习和机器感兴趣，并且学得很好，这里有很多免费资源:
 
-[](/great-quality-free-courses-to-learn-machine-learning-and-deep-learning-1029048fd0fc) [## 学习机器学习和深度学习的优质免费课程
-
-### 顶级大学高质量免费课程的链接
-
-towardsdatascience.com](/great-quality-free-courses-to-learn-machine-learning-and-deep-learning-1029048fd0fc) 
+</great-quality-free-courses-to-learn-machine-learning-and-deep-learning-1029048fd0fc>  
 
 事实上，我之前提到的算法、统计、数据挖掘、大数据都在那里。高质量的免费课程，书籍，如此多的博客，youtube 视频可供学习。许多知名公司甚至像 Instagram 和谷歌雇佣有知识的人，即使你没有学位。
 
@@ -98,11 +86,7 @@ towardsdatascience.com](/great-quality-free-courses-to-learn-machine-learning-an
 
 6.最后，很多人会同意我的观点。你可能开始时很有热情，但过一段时间后，大多数人很难找到动力。因为不仅仅是 2/3 个月。这是一个长期的承诺。尽管有很多训练营承诺让你在 3/4 个月内成为一名数据科学家。我有一篇关于这个的文章:
 
-[](/want-to-become-a-data-scientist-in-12-weeks-3926d8eacee2) [## 想在 12 周内成为数据科学家？
-
-### 花钱前再想一想
-
-towardsdatascience.com](/want-to-become-a-data-scientist-in-12-weeks-3926d8eacee2) 
+</want-to-become-a-data-scientist-in-12-weeks-3926d8eacee2>  
 
 在你把钱花在某个地方之前，请阅读它。但是如果你是一个完全的编码初学者，训练营可能会给你一些指导。
 
@@ -124,32 +108,4 @@ towardsdatascience.com](/want-to-become-a-data-scientist-in-12-weeks-3926d8eacee
 
 **更多学习:**
 
-[](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) [## 熊猫数据可视化的终极备忘单
-
-### 熊猫的所有基本视觉类型和一些非常高级的视觉…
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 入门指南
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [](/10-popular-coding-interview-questions-on-recursion-2ddd8aa86039) [## 10 个流行的递归编码面试问题
-
-### 面试前的好习惯
-
-towardsdatascience.com](/10-popular-coding-interview-questions-on-recursion-2ddd8aa86039) [](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [## 免费的 Python 全长机器学习课程
-
-### 吴恩达用 Python 写的机器学习教程
-
-towardsdatascience.com](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/introduction-to-the-descriptive-statistics-a050b5ec99fb) [## 描述统计学导论
-
-### 对最基本和广泛使用的描述性统计方法有清晰和详细的理解
-
-towardsdatascience.com](/introduction-to-the-descriptive-statistics-a050b5ec99fb)
+</an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937>  </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3>  </10-popular-coding-interview-questions-on-recursion-2ddd8aa86039>  </a-full-length-machine-learning-course-in-python-for-free-f2732954f35f>  </an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </introduction-to-the-descriptive-statistics-a050b5ec99fb> 

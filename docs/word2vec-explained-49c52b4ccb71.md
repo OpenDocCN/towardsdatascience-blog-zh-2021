@@ -140,11 +140,7 @@ nltk.download('punkt')
 
 Tensorflow 对 word2vec 模型做了非常漂亮、直观和用户友好的表示。我强烈建议您探索它，因为它允许您与 word2vec 的结果进行交互。链接在下面。
 
-[](https://projector.tensorflow.org/) [## 嵌入式投影仪-高维数据的可视化
-
-### 可视化高维数据。
-
-projector.tensorflow.org](https://projector.tensorflow.org/) 
+<https://projector.tensorflow.org/>  
 
 # 结束语
 
@@ -152,11 +148,7 @@ projector.tensorflow.org](https://projector.tensorflow.org/)
 
 我还写过 node2vec，它使用 word2vec 生成给定网络的节点嵌入。你可以在这里读到它。
 
-[](/node2vec-explained-db86a319e9ab) [## Node2Vec 解释
-
-### 用 Python 解释和实现 Node2Vec 白皮书
-
-towardsdatascience.com](/node2vec-explained-db86a319e9ab) 
+</node2vec-explained-db86a319e9ab>  
 
 # 资源
 
@@ -167,18 +159,6 @@ towardsdatascience.com](/node2vec-explained-db86a319e9ab)
 
 如果您喜欢阅读这篇文章，请考虑关注我的后续文章，了解其他数据科学材料以及解决数据科学不同领域相关问题的材料(如 word2vec)。这里有一些我写的其他文章，我想你可能会喜欢。
 
-[](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </recommendation-systems-explained-a42fc60591ed>  </monte-carlo-method-explained-8635edf2cf58>  </markov-chain-explained-210581d7a4a9> 

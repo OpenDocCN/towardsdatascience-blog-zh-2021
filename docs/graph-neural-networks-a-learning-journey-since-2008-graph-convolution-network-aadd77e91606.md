@@ -8,11 +8,7 @@
 
 约翰·罗德恩·卡斯蒂略在 [Unsplash](https://unsplash.com/photos/rQqWOHZ96OM) 上拍摄的图片
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 我以前关于图形和 ML 的帖子:
 

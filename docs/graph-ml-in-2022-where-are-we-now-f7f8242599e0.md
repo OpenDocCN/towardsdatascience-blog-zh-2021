@@ -39,7 +39,7 @@ gnn 在普通(通常是稀疏的)图上操作，而图转换器(GTs)在全连接
 
 来源: [**克罗伊泽、比艾尼等人**](https://arxiv.org/pdf/2106.03893)
 
-**英等人[](https://openreview.net/pdf?id=OeWooOxFwDa)**的笔形器**采用了不同的方法，利用了空间特性。首先，用*中心性编码*丰富了节点特征——可学习的入度和出度嵌入。然后，注意力机制有两个偏置项:节点 *i* 和 *j* 之间最短路径的 1️⃣距离；依赖于一条可用最短路径的 2️⃣边要素编码。**
+**英等人<https://openreview.net/pdf?id=OeWooOxFwDa>**的笔形器**采用了不同的方法，利用了空间特性。首先，用*中心性编码*丰富了节点特征——可学习的入度和出度嵌入。然后，注意力机制有两个偏置项:节点 *i* 和 *j* 之间最短路径的 1️⃣距离；依赖于一条可用最短路径的 2️⃣边要素编码。**
 
 **![](img/db8cf6c34af00f9372f381f7ba05d379.png)**
 
@@ -211,7 +211,7 @@ gnn 在普通(通常是稀疏的)图上操作，而图转换器(GTs)在全连接
 
 *   **OGB 在 KDD 21 年组织了 [**大规模挑战赛**](https://ogb.stanford.edu/docs/lsc/) ，用 3 个非常大的图进行节点分类(2.4 亿个节点)、链接预测(整个维基数据，9000 万个节点)和图回归(4 百万个分子)。在 KDD 杯比赛中，大多数获胜团队使用 10-20 个模特的组合——查看[研讨会录音](https://snap.stanford.edu/graphlearning-workshop/)以了解更多关于他们的方法。新版本的 LSC 数据集现已推出新的排行榜！**
 *   **[**Meta AI 的 Open Catalyst neur IPS ' 21 Challenge**](https://opencatalystproject.org/challenge.html)提供了一个大分子任务——给定一个具有原子位置的初始结构，预测松弛态能量。数据集非常庞大，需要大量的计算，但组织者暗示将发布一个较小的版本，对 GPU 预算有限的小型实验室更友好一些。结果和记录是可用的——等变模型和变压器达到了顶端。事实上，Graphormer 在 OGB LSC 和 OpenCatalyst'21 中都获得了前 1 名，几乎囊括了 2021 年 Graph ML 的大满贯🏅**
-*   **关于图学习基准的研讨会[](https://graph-learning-benchmarks.github.io/)**@ web conf 2021 带来了一系列新的数据集，包括由 [Lim 等人](https://arxiv.org/abs/2110.14446)的[非同构图](https://github.com/CUAI/Non-Homophily-Benchmarks)，由 [Tsitsulin 等人](https://graph-learning-benchmarks.github.io/assets/papers/GLB_Synthetic_Graph_Generation_Benchmark.pdf)的[图模拟](https://github.com/google-research/google-research/tree/master/graph_embedding/simulations)，由 [Rozemberczki 等人](https://graph-learning-benchmarks.github.io/assets/papers/Chickenpox_WebConf_21.pdf)的[时空图](https://github.com/benedekrozemberczki/spatiotemporal_datasets/)，以及更多****
+*   **关于图学习基准的研讨会<https://graph-learning-benchmarks.github.io/>**@ web conf 2021 带来了一系列新的数据集，包括由 [Lim 等人](https://arxiv.org/abs/2110.14446)的[非同构图](https://github.com/CUAI/Non-Homophily-Benchmarks)，由 [Tsitsulin 等人](https://graph-learning-benchmarks.github.io/assets/papers/GLB_Synthetic_Graph_Generation_Benchmark.pdf)的[图模拟](https://github.com/google-research/google-research/tree/master/graph_embedding/simulations)，由 [Rozemberczki 等人](https://graph-learning-benchmarks.github.io/assets/papers/Chickenpox_WebConf_21.pdf)的[时空图](https://github.com/benedekrozemberczki/spatiotemporal_datasets/)，以及更多****
 *   ****[**NeurIPS 的 21 个数据集&基准测试跟踪**](https://nips.cc/Conferences/2021/DatasetsBenchmarks/AcceptedPapers) 就像*一个新数据集的 SXSW 节日*:今年我们有[MalNet](https://mal-net.org/#home)——图分类，平均图大小是 15k 个节点和 35k 条边，大大大于分子； [ATOM3D](https://www.atom3d.ai/) —新 3D 分子任务集合； [RadGraph](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c8ffe9a587b126f152ed3d89a146b445-Paper-round1.pdf) —从放射学报告中提取信息。最后， [Liu 等人](https://arxiv.org/pdf/2110.14809.pdf)报告了创建图学习数据集分类的挑战——这是一项期待已久的工作，社区肯定会从中受益。****
 
 # ****课程和书籍****
@@ -232,7 +232,7 @@ gnn 在普通(通常是稀疏的)图上操作，而图转换器(GTs)在全连接
 
 ****已建立的图形 ML 库得到更新:****
 
-*   ****[](https://www.pyg.org/)**PyG 2.0——现在支持异构图、GraphGym 以及一系列改进和新模型******
+*   ****<https://www.pyg.org/>**PyG 2.0——现在支持异构图、GraphGym 以及一系列改进和新模型******
 *   ******[**DGL 0.7**](https://www.dgl.ai/) —在 GPU 上进行图形采样，更快的内核，更多的模型******
 *   ****[**皮克 EN 1.6**](https://github.com/pykeen/pykeen) —训练 KG 嵌入的最佳库:更多的模型、数据集、指标和节点件支持！****
 *   ****[**Jraph**](https://github.com/deepmind/jraph)**——GNNs 对于 JAX 的爱好者来说，看看这篇由王俐人(DeepMind)和尼古拉·约万诺维奇(ETH Zurich)关于构建和评估 GNNs 的[最新介绍](https://github.com/deepmind/educational/blob/f44b133905a96e1887f5909aedcae6811b2c37a3/colabs/summer_schools/intro_to_graph_nets_tutorial_with_jraph.ipynb)******

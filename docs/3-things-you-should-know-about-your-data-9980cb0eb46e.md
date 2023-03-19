@@ -27,11 +27,7 @@
 
 最重要的是，您必须理解数据集中每个字段的含义。你可以通过询问公司的主题专家、在线查看其他公开数据分析，或者进行一些探索性数据分析来做到这一点。
 
-[](https://levelup.gitconnected.com/cozy-up-with-your-data-6aedfb651172) [## Python 中的 EDA 指南
-
-### 在探索性数据分析期间要问的关于数据的重要问题
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/cozy-up-with-your-data-6aedfb651172) 
+<https://levelup.gitconnected.com/cozy-up-with-your-data-6aedfb651172>  
 
 ## 2.主键
 

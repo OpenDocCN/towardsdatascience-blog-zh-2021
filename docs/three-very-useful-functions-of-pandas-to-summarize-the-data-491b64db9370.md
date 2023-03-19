@@ -16,11 +16,7 @@ Pandas 库是一个非常流行的用于数据分析的 python 库。熊猫图�
 
 著名的泰坦尼克号数据集被用于这个演示。请随意下载数据集并点击以下链接:
 
-[](https://github.com/rashida048/Datasets/blob/master/titanic_data.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/titanic_data.csv) 
+<https://github.com/rashida048/Datasets/blob/master/titanic_data.csv>  
 
 首先导入必要的包和数据集:
 
@@ -312,28 +308,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 的终极备忘单
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186) [## 使用 Pandas 的 Groupby 功能进行有效的数据汇总和分析
-
-### 学习使用聚合函数，数据转换，过滤，映射，在数据框架中应用
-
-towardsdatascience.com](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 一些有趣的数据集提升你的技能和投资组合
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5) [](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) [## 数据宁滨与熊猫削减或 Qcut 方法
-
-### 当你在寻找一个范围而不是一个确切的数值，一个等级而不是一个分数
-
-towardsdatascience.com](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) [](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593)
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5>  </sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde>  </a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593> 

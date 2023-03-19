@@ -154,11 +154,7 @@ capacityProvider=FARGATE,base=1,weight=2 \
 
 AWS 区分了**任务执行角色**(授予启动任务中定义的**容器**的访问权限的一般角色)和**任务角色**，后者在容器启动后授予实际**应用程序**权限。您可以在本文的第 4 部分找到更详细的解释:
 
-[](https://aws.plainenglish.io/8-common-mistakes-when-using-aws-ecs-to-manage-containers-3943402e8e59) [## 使用 AWS ECS 管理集装箱时的 8 个常见错误
-
-### 包括避免它们的 AWS 最佳实践
-
-aws .平原英语. io](https://aws.plainenglish.io/8-common-mistakes-when-using-aws-ecs-to-manage-containers-3943402e8e59) 
+<https://aws.plainenglish.io/8-common-mistakes-when-using-aws-ecs-to-manage-containers-3943402e8e59>  
 
 ## 任务执行角色
 

@@ -50,11 +50,7 @@ c =截距
 
 如果您想练习，请随意下载数据集并跟随:
 
-[](https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/health_data.csv) [## main rashida048 上的推断统计信息/health _ data . CSV/推断统计信息
-
-### 通过在 GitHub 上创建一个帐户，为 rashida 048/推论统计学的发展做出贡献。
-
-github.com](https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/health_data.csv) 
+<https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/health_data.csv>  
 
 让我们先导入数据集。
 
@@ -225,19 +221,11 @@ R_squared3
 
 如果你不熟悉置信区间或假设检验的概念，接下来的步骤对你来说可能有点难以完全理解。下面是一篇学习置信区间概念的文章:
 
-[](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) 
+</a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593>  
 
 这是一篇关于假设检验的文章。请检查:
 
-[](/a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e) [## 数据科学家使用 Python 进行假设检验的完整指南
-
-### 用样本研究问题、解决步骤和完整代码清楚地解释
-
-towardsdatascience.com](/a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e) 
+</a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e>  
 
 > ***推论***
 
@@ -357,11 +345,7 @@ F 统计值为 13.139。
 
 请随意在此下载该 excel 文件:
 
-[](https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/F-stat.xlsx) [## main rashida048 处的推断统计信息/F-stat . xlsx/推断统计信息
-
-### 通过在 GitHub 上创建一个帐户，为 rashida 048/推论统计学的发展做出贡献。
-
-github.com](https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/F-stat.xlsx) 
+<https://github.com/rashida048/Inferential-Statistics-in-R/blob/main/Multiple%20linear%20regression/F-stat.xlsx>  
 
 第五步:
 

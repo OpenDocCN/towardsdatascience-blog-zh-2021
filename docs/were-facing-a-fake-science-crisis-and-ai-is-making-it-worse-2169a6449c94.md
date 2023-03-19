@@ -24,11 +24,7 @@
 
 一个简单的解决办法是忽略伪造的文件。然而，问题是它们通常很难识别。此外，一旦一篇论文从出版物中被撤下，整个期刊都会有点失色。如果这种情况经常发生，公众对科学的整体信心就会下降。因此，科学界作为一个整体需要认真对待这个问题。
 
-[](/why-decorators-in-python-are-pure-genius-1e812949a81e) [## 为什么 Python 中的装饰者是纯粹的天才
-
-### 用一个@符号来分析、测试和重用你的代码
-
-towardsdatascience.com](/why-decorators-in-python-are-pure-genius-1e812949a81e) 
+</why-decorators-in-python-are-pure-genius-1e812949a81e>  
 
 # 卡米尔·诺斯
 
@@ -88,11 +84,7 @@ nos 是为了回应一项备受批评的[新法](https://www.enseignementsup-rec
 
 然而，这并不是说研究人员和科学期刊坐以待毙，而不是去追踪造假的作者。事实上，个体出版物正在做大量的工作来追查假论文。但是，如果一些期刊有办法，而另一些没有，那么出版物就不是在一个公平的竞技场上运作。此外，骗子总是能够用他们的假论文瞄准一些资金不足的期刊。期刊需要集体行动，找到追踪造纸厂的方法，并核实所有作者的身份。
 
-[](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) [## 为什么开发人员会爱上函数式编程
-
-### 从 Python 到 Haskell，这种趋势不会很快消失
-
-towardsdatascience.com](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) 
+</why-developers-are-falling-in-love-with-functional-programming-13514df4048e>  
 
 # 超越科学:假新闻越来越造假
 

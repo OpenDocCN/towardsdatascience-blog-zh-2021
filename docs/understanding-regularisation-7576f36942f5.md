@@ -160,11 +160,7 @@ VAE 输出-作者图片
 
 如果你想知道更多关于 VAEs 的信息，我写了 4 部分的系列文章，你可以在这里找到:
 
-[](/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b) [## 使用 PyTorch Lightning 的可变自动编码器(VAE)初学者指南
-
-### 了解 vae 以及如何使用它们来生成新数据
-
-towardsdatascience.com](/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b) 
+</beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b>  
 
 正则化是一种非常强大的技术，嵌入在许多不同的常用算法中。除了 L1 和 L2 正则化，还有许多其他正则化方法，我们可以用来优化我们的模型。它给了我们数据科学家额外的旋钮来调整我们的模型并获得更好的结果。
 

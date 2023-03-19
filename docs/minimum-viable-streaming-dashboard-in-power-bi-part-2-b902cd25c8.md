@@ -387,8 +387,4 @@ Python 脚本模拟随机网络事件。图片由[作者](https://nathancheng-da
 
 **同样，我们今天使用的所有代码片段都可以在提供的 Github 资源库中找到。在那之前，我们在[第三部](/minimum-viable-streaming-dashboard-in-power-bi-part-3-9d0b29f4f6a2)再见。**
 
-**[](https://github.com/natworkeffects/power-bi-streaming) [## GitHub-natworkeffects/power-bi-streaming
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/natworkeffects/power-bi-streaming)**
+**<https://github.com/natworkeffects/power-bi-streaming> **

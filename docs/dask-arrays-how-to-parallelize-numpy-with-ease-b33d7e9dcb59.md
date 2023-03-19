@@ -16,11 +16,7 @@
 
 如果您想学习 Python 和 Dask 的并行基础，可以看看我以前的文章:
 
-[](/dask-delayed-how-to-parallelize-your-python-code-with-ease-19382e159849) [## Dask 延迟——如何轻松并行化您的 Python 代码
-
-### 用一个装饰器并行化任何函数。
-
-towardsdatascience.com](/dask-delayed-how-to-parallelize-your-python-code-with-ease-19382e159849) 
+</dask-delayed-how-to-parallelize-your-python-code-with-ease-19382e159849>  
 
 这篇文章的结构如下:
 
@@ -160,11 +156,7 @@ sum_dask_dag.visualize(rankdir=’LR’)
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 了解更多信息
 

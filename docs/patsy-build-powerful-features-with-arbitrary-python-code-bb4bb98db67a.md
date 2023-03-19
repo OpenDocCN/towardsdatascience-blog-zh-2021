@@ -373,30 +373,10 @@ month + temp + month:temp
 
 随意发挥，并在这里叉源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/patsy_example.ipynb) [## 数据科学/patsy _ example . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/patsy _ example . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/statistics/patsy_example.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/statistics/patsy_example.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [## kats:Python 中分析时间序列数据的通用框架
-
-### 预测、检测变化点、异常，并获得时间序列中的关键统计数据
-
-towardsdatascience.com](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [](/how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0) [## 如何用 Python 解决生产计划和库存问题
-
-### 为了使生产和库存成本最小化，你每天应该生产多少件？
-
-towardsdatascience.com](/how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0) [](/how-to-schedule-flights-in-python-3357b200db9e) [## 如何在 Python 中安排航班
-
-### 使用 CVXPY 分配足够的飞机，同时最小化成本
-
-towardsdatascience.com](/how-to-schedule-flights-in-python-3357b200db9e) [](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00) [## 人类学习:通过绘图创建人类学习模型
-
-### 使用您的领域知识来标记您的数据
-
-towardsdatascience.com](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00)
+</kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057>  </how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0>  </how-to-schedule-flights-in-python-3357b200db9e>  </human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00> 

@@ -44,7 +44,7 @@ Wix.com 大学的数据科学家 Ofir Magdaci
 
 要凭经验估计一个玩家的投篮技术的分布，需要两件事:对于各种条件的**(等于 1 —难度)*和 ***结果*** 。对于拍摄，对应的是拍摄的 **xG 值**及其结果。*
 
-*估计每一枪的概率不是一件小事。幸运的是，Statsbomb 好心地将 [](https://statsbomb.com/2020/07/statsbomb-release-expected-goals-with-shot-impact-height/) 他们的 [xG 度量](https://statsbomb.com/2020/07/statsbomb-release-expected-goals-with-shot-impact-height/)添加到数据集中，这给了我们从枪击事件中得分的概率。因此，得分的概率越高，击球难度等级就越低。*
+*估计每一枪的概率不是一件小事。幸运的是，Statsbomb 好心地将 <https://statsbomb.com/2020/07/statsbomb-release-expected-goals-with-shot-impact-height/> 他们的 [xG 度量](https://statsbomb.com/2020/07/statsbomb-release-expected-goals-with-shot-impact-height/)添加到数据集中，这给了我们从枪击事件中得分的概率。因此，得分的概率越高，击球难度等级就越低。*
 
 *注意:我必须澄清，xG 模型，或者我将讨论的任何其他概率模型，旨在预测击球的**预期** **结果**。因此，这种模型忽略了个人数据(例如，球员的弱脚质量)。它是关于估计每一次击球的“净值”,而不是它的确切结果。*
 

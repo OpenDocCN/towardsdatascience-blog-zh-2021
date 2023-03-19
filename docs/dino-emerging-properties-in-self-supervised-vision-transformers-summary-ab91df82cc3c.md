@@ -90,6 +90,6 @@ GitHub:【https://github.com/facebookresearch/dino
 
 论文:[https://arxiv.org/abs/2104.14294](https://arxiv.org/abs/2104.14294)
 
-[https://twitter.com/schrep/status/1388189398496202752](https://twitter.com/schrep)的推文:[](https://twitter.com/schrep/status/1388189398496202752)
+[https://twitter.com/schrep/status/1388189398496202752](https://twitter.com/schrep)的推文:<https://twitter.com/schrep/status/1388189398496202752>
 
 扬尼克:[https://www.youtube.com/watch?v=h3ij3F3cPIk&t = 2106s](https://www.youtube.com/watch?v=h3ij3F3cPIk&t=2106s)

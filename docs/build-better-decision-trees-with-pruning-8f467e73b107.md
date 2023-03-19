@@ -14,7 +14,7 @@
 
 *点击这里阅读更多内容:*
 
-[](/learn-how-decision-trees-are-grown-22bc3d22fb51) [## 了解决策树是如何生长的
+</learn-how-decision-trees-are-grown-22bc3d22fb51> [## 了解决策树是如何生长的
 
 towardsdatascience.com](/learn-how-decision-trees-are-grown-22bc3d22fb51) 
 
@@ -172,8 +172,4 @@ towardsdatascience.com](/learn-how-decision-trees-are-grown-22bc3d22fb51)
 
 要继续学习相关概念，请查看这篇由 [Aliaksandr Kazlou](https://medium.com/u/a3b0b8410b61?source=post_page-----8f467e73b107--------------------------------) 撰写的关于随机森林和过度适配的文章。
 
-[](/one-common-misconception-about-random-forest-and-overfitting-47cae2e2c23b) [## 关于随机森林和过度适应的一个常见误解
-
-### 自举、多数投票规则和 100%训练准确率的悖论
-
-towardsdatascience.com](/one-common-misconception-about-random-forest-and-overfitting-47cae2e2c23b)
+</one-common-misconception-about-random-forest-and-overfitting-47cae2e2c23b> 

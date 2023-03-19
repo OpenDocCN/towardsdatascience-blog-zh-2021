@@ -16,11 +16,7 @@
 
 > 提示:如果你是新手，我建议你尝试一下 AWS，而不是把它实现为一个`localhost`。使用 [pgAdmin](https://www.pgadmin.org/) 和它一起从你的 IDE 本身访问你的数据库。
 
-[](https://aws.amazon.com/free/?trk=ps_a134p0000078PqHAAU&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=acq&sc_detail=aws&sc_content=Brand%20Core%20AWS_p&sc_matchtype=p&sc_segment=509606977839&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text|xx|PH&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&ef_id=CjwKCAjwruSHBhAtEiwA_qCppmvfB1w0x10A5j14DMGEDdDrLgL0_SLT1F-cDG3qd_AVLsLpqrxodxoCFkIQAvD_BwE:G:s&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [## AWS 自由层
-
-### 免费体验 AWS 平台、产品和服务。探索 100 多种产品并开始…
-
-aws.amazon.com](https://aws.amazon.com/free/?trk=ps_a134p0000078PqHAAU&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=acq&sc_detail=aws&sc_content=Brand%20Core%20AWS_p&sc_matchtype=p&sc_segment=509606977839&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text|xx|PH&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&ef_id=CjwKCAjwruSHBhAtEiwA_qCppmvfB1w0x10A5j14DMGEDdDrLgL0_SLT1F-cDG3qd_AVLsLpqrxodxoCFkIQAvD_BwE:G:s&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) 
+<https://aws.amazon.com/free/?trk=ps_a134p0000078PqHAAU&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=acq&sc_detail=aws&sc_content=Brand%20Core%20AWS_p&sc_matchtype=p&sc_segment=509606977839&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text|xx|PH&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&ef_id=CjwKCAjwruSHBhAtEiwA_qCppmvfB1w0x10A5j14DMGEDdDrLgL0_SLT1F-cDG3qd_AVLsLpqrxodxoCFkIQAvD_BwE:G:s&s_kwcid=AL!4422!3!509606977839!p!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all>  
 
 [清洁技术太阳能](https://cleantechsolar.com/)数据集拥有过去几个月来自逆变器和电表的数据。这些数据在处理之前需要进一步处理，这是自动化解决问题的一个很好的例子。我们将把`Inverter-1, Inverter-2, MFM, and WMS`中的原始数据转换成我们需要的 Gen-1 文件。
 
@@ -87,11 +83,7 @@ aws.amazon.com](https://aws.amazon.com/free/?trk=ps_a134p0000078PqHAAU&trkCampai
 
 # 使用操作系统库配置输出目录
 
- [## os -杂项操作系统接口- Python 3.9.6 文档
-
-### 该模块提供了一种使用操作系统相关功能的可移植方式。如果你想阅读或…
-
-docs.python.org](https://docs.python.org/3/library/os.html) 
+  
 
 将带有月份数据的仪表组合起来，以获得所有配置，然后执行`os.mkdir()`来自动创建所有目录。
 
@@ -121,11 +113,7 @@ docs.python.org](https://docs.python.org/3/library/os.html)
 
 这个脚本会自动将 CSV 文件导入您的 Postgres 数据库。只需将 CSV 文件放在与笔记本相同的目录中，然后运行笔记本。我们已经成功实现了数据科学任务自动化。
 
-[](https://www.postgresql.org/) [## 一种数据库系统
-
-### PostgreSQL 是一个强大的开源对象关系数据库系统，经过 30 多年的积极开发…
-
-www.postgresql.org](https://www.postgresql.org/) 
+<https://www.postgresql.org/>  
 
 # 摘要
 

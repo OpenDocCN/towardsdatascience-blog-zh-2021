@@ -46,8 +46,4 @@ D 数据科学就像在一个新城镇开车:你可能会到达目的地，但�
 
 这种方法可能不会让你获得诺贝尔文学奖，但是充分的技术写作是为了告诉读者他们应该了解你的作品。通过在他们提问之前回答他们的问题，你已经完成了一项了不起的工作，实现了你的目标:学习很酷的东西，并告诉人们。快乐写作！
 
-[](https://nancyorgan.medium.com/build-a-career-thats-actually-yours-daba8380ff29) [## 建立一个真正属于你的职业
-
-### 你希望五年前就开始做的七件事
-
-nancyorgan.medium.com](https://nancyorgan.medium.com/build-a-career-thats-actually-yours-daba8380ff29)
+<https://nancyorgan.medium.com/build-a-career-thats-actually-yours-daba8380ff29> 

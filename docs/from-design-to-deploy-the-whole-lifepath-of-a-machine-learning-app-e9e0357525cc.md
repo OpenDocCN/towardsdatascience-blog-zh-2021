@@ -134,11 +134,7 @@
 **当然，这是初步分析。通常，在选择“正确的”之前，您可能会经历几个不同型号的完整培训。
 在这里，我们假装我们已经正确地做了所有的事情，我们参考这篇伟大的文章来了解细节。**
 
-**[](https://medium.com/structuring-your-machine-learning-projects/satisficing-and-optimizing-metric-24372e0a73c) [## 满足和优化度量
-
-### 评估分类器性能有不同的度量，它们被称为评估矩阵。他们可以是…
-
-medium.com](https://medium.com/structuring-your-machine-learning-projects/satisficing-and-optimizing-metric-24372e0a73c) 
+**<https://medium.com/structuring-your-machine-learning-projects/satisficing-and-optimizing-metric-24372e0a73c>  
 
 假设根据我们的分析，我们选择了一个神经网络模型。同样，我的建议是写你的笔记本单元格时要时刻记住你要在生产中转换这些代码，所以要干净！
 
@@ -163,11 +159,7 @@ medium.com](https://medium.com/structuring-your-machine-learning-projects/satisf
 
 总之，一个细心的读者可能已经注意到，测试损失似乎比培训损失要低。这是因为 Keras 计算两种损失的方式略有不同。详情参考本帖。
 
-[](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/#:~:text=The%20second%20reason%20you%20may,is%20measured%20after%20each%20epoch) [## 为什么我的验证损失低于培训损失？-图片搜索
-
-### 有没有想过为什么你的验证损失低于你的培训损失？在本教程中，您将学习三个…
-
-www.pyimagesearch.com](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/#:~:text=The%20second%20reason%20you%20may,is%20measured%20after%20each%20epoch) 
+<https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/#:~:text=The%20second%20reason%20you%20may,is%20measured%20after%20each%20epoch>  
 
 ## 超参数选择和优化
 
@@ -286,11 +278,7 @@ config = {
 
 另一个更有效的选择是用库寻找最佳超参数配置。Optuna 就是这样一个库，最近他们还推出了一个寻找最佳模型架构的实验特性。我的建议是尝试一下。
 
-[](https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2) [## 利用 Optuna 优化张量流超参数
-
-### 使用 Optuna 中的贝叶斯优化自动调整 TensorFlow 中的超参数
-
-medium.com](https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2) 
+<https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2>  
 
 超参数优化是一个非常有趣的话题，它本身需要一系列的帖子，但是对于本文，让我们按照我们的指导示例，继续构建培训管道。
 
@@ -322,11 +310,7 @@ estimator train --conf config.json
 
 要做到这一点，你可以阅读这个不错的中型职位。
 
-[](https://christopherdoucette.medium.com/turning-python-scripts-into-cli-commands-aecf56dfda18) [## 将 Python 脚本转换为 CLI 命令
-
-### 在本文中，我们将探索如何将 Python 脚本转化为成熟的 CLI 命令
-
-christopherdoucette.medium.com](https://christopherdoucette.medium.com/turning-python-scripts-into-cli-commands-aecf56dfda18) 
+<https://christopherdoucette.medium.com/turning-python-scripts-into-cli-commands-aecf56dfda18>  
 
 `config.json`文件包含定义和训练我们模型的所有信息。
 
@@ -352,15 +336,11 @@ python3 -m estimator train --conf config.json
 
 因为我们不想成为唯一的用户或我们的模型，所以我们必须选择一个可以从我们的本地系统外部公开访问的协议(或者至少对于某个用户列表)。
 
-现代计算机科学中的一个主要观点是[](https://www.sumologic.com/glossary/container/)**。*这里，我们指的是将一个应用与它所需的所有相关配置文件、库和依赖项捆绑在一起，以便在不同的计算环境中以高效、无错误的方式运行。沿着这条路走下去，我们将复杂的应用程序拆分成包，然后在 other 中将容器组合在一起，这样就不用担心它们将在哪个系统上执行了。*
+现代计算机科学中的一个主要观点是<https://www.sumologic.com/glossary/container/>**。*这里，我们指的是将一个应用与它所需的所有相关配置文件、库和依赖项捆绑在一起，以便在不同的计算环境中以高效、无错误的方式运行。沿着这条路走下去，我们将复杂的应用程序拆分成包，然后在 other 中将容器组合在一起，这样就不用担心它们将在哪个系统上执行了。*
 
 *了解容器的一个很好的来源是下面的 nice medium 帖子。*
 
-*[](https://medium.com/cycleplatform/a-brief-introduction-to-containers-d34e64e61bc1) [## 容器简介
-
-### 无论您是开发新手还是经验丰富的开发人员，容器已经被证明在构建…
-
-medium.com](https://medium.com/cycleplatform/a-brief-introduction-to-containers-d34e64e61bc1) ![](img/33524c046291c73dcb4719f02f5ce8cb.png)
+*<https://medium.com/cycleplatform/a-brief-introduction-to-containers-d34e64e61bc1>  ![](img/33524c046291c73dcb4719f02f5ce8cb.png)
 
 作者画的一幅更糟糕的图像。我们根据下面的步骤添加了数字。
 
@@ -377,11 +357,7 @@ medium.com](https://medium.com/cycleplatform/a-brief-introduction-to-containers-
 
 事实上，人们也可以遵循这些完全相同的步骤，并部署“hello world”API(*即*待办事项列表)。这实际上是一个非常好的练习，可以用来练习这样的程序。要开发待办事项 API，可以参考下面的文章。
 
-[](https://surikavii.medium.com/making-a-todo-app-from-a-beginners-perspective-part-1-intro-to-fastapi-5006abbcb7a2) [## 从初学者的角度制作 Todo 应用程序。第 1 部分:FastAPI 简介
-
-### 什么为什么和如何
-
-surikavii.medium.com](https://surikavii.medium.com/making-a-todo-app-from-a-beginners-perspective-part-1-intro-to-fastapi-5006abbcb7a2) 
+<https://surikavii.medium.com/making-a-todo-app-from-a-beginners-perspective-part-1-intro-to-fastapi-5006abbcb7a2>  
 
 不要害怕，这些部分很简单。这里没有需要考虑的分析，没有试错法。我们在这里要定义的对象主要是由一代又一代的编程人员复制粘贴下来的代码。
 
@@ -555,11 +531,7 @@ Dockerfiles 描述了如何为容器组装私有文件系统，还可以包含�
 
 如前所述，接下来的部分可以非常简单地呈现出来，在这里，我密切关注下面的精彩帖子，只是根据当前的情况调整命令。
 
-[](https://medium.com/@meetakoti.kirankumar/deploying-fastapi-web-application-in-aws-a1995675087d) [## 在 AWS 中部署 FastAPI Web 应用程序
-
-### 在 AWS 中部署 FastAPI 应用程序的分步指南。
-
-medium.com](https://medium.com/@meetakoti.kirankumar/deploying-fastapi-web-application-in-aws-a1995675087d) 
+<https://medium.com/@meetakoti.kirankumar/deploying-fastapi-web-application-in-aws-a1995675087d>  
 
 *i)创建一个 docker 文件*
 
@@ -586,11 +558,7 @@ docker run -p 5000:5000 price_estimator_api:latest
 
 想了解更多关于 Docker 的知识，可以看看官方教程。
 
-[](https://docs.docker.com/get-started/overview/) [## Docker 概述
-
-### Docker 是一个开发、发布和运行应用程序的开放平台。Docker 使您能够分离您的…
-
-docs.docker.com](https://docs.docker.com/get-started/overview/) 
+<https://docs.docker.com/get-started/overview/>  
 
 ## 推进亚马逊弹性容器注册
 
@@ -600,11 +568,7 @@ docs.docker.com](https://docs.docker.com/get-started/overview/)
 
 首先，为了将 docker 映像推送到 ECS，您需要安装和配置 AWS CLI。AWS 网站上有相关说明。
 
- [## 在 macOS 上安装、更新和卸载 AWS CLI 版本 2
-
-### AWS CLI 版本 1 和 2 使用相同的 AWS 命令名。如果您安装了这两个版本，您的电脑将使用…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html) 
+  
 
 配置 AWS CLI 的一种方法是从 AWS 控制台中的**身份和访问管理(IAM)获取访问密钥 ID 和秘密访问密钥。**
 
@@ -752,11 +716,7 @@ docker run -p 5000:5000 **aws_account_id**.dkr.ecr.**region**.amazonaws.com/pric
 
 *注意:*通常建议将部署部分写成管道，在每次推送某个 git 存储库时自动启动。所有 git 控制系统都提供了安全注册一些存储库环境变量的可能性。人们可以在那里设置一些秘密的 AWS 凭证，并自动完成这一部分。更多信息，请看下面的教程，例如。
 
- [## 比特桶管道入门|比特桶云| Atlassian 支持
-
-### Bitbucket Pipelines 是内置于 Bitbucket Cloud 的集成 CI/CD 服务。了解如何设置管道。
-
-support.atlassian.com](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/) 
+  
 
 # 结论
 

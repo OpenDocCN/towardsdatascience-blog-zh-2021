@@ -106,8 +106,4 @@ pip install <Your Package Name>
 
 如果你想了解更多关于诗歌的信息，请查阅克里斯托弗·西德博特姆的这篇文章:
 
-[](/solving-dependency-management-in-python-with-poetry-165b92069e9d) [## 用诗歌解决 Python 中的依赖管理
-
-### 为我们的 Python 工作流带来简单性和一致性
-
-towardsdatascience.com](/solving-dependency-management-in-python-with-poetry-165b92069e9d)
+</solving-dependency-management-in-python-with-poetry-165b92069e9d> 

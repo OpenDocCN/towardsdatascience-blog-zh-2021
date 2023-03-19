@@ -250,24 +250,8 @@ df.name.str.findall('an', flags=re.IGNORECASE)
 
 *原载于 about datablog . com:*[2021 年 5 月 31 日熊猫](https://www.aboutdatablog.com/post/10-most-useful-string-functions-in-pandas) *中最有用的 10 个字符串函数。*
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写以简单易懂的方式解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写以简单易懂的方式解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/top-9-jupyter-notebook-extensions-7a5d30269bc8) [## 9 大 Jupyter 笔记本扩展
-
-### 改进笔记本电脑功能，提高您的工作效率
-
-towardsdatascience.com](/top-9-jupyter-notebook-extensions-7a5d30269bc8) [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [## Jupyter 笔记本中的 8 大魔法命令
-
-### 通过学习最有用的命令来提高您的生产力
-
-towardsdatascience.com](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [](/introduction-to-f-strings-3822ed8683cc) [## python f 字符串简介
-
-### 以及为什么您应该开始使用它们…
-
-towardsdatascience.com](/introduction-to-f-strings-3822ed8683cc) [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [## 关于 jupyter 笔记本你不知道的 9 件事
-
-### 用这些建议提高你的工作效率
-
-towardsdatascience.com](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)*
+*</top-9-jupyter-notebook-extensions-7a5d30269bc8>  </top-8-magic-commands-in-jupyter-notebook-c1582e813560>  </introduction-to-f-strings-3822ed8683cc>  </9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3> *

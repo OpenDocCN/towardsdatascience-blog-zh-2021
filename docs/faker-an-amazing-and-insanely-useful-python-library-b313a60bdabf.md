@@ -48,7 +48,7 @@ Python 包 Faker |作者图片
 
 `fake`是上图中的生成器，它访问姓名、地址、工作、电话号码等各种属性，并生成虚拟数据。
 
-先行一步，Faker 还支持不同的[](https://faker.readthedocs.io/en/master/locales.html)**🌎然后也可以生成区域特定的属性。一切都是假的！！**
+先行一步，Faker 还支持不同的<https://faker.readthedocs.io/en/master/locales.html>**🌎然后也可以生成区域特定的属性。一切都是假的！！**
 
 **你需要做的就是为新的区域创建一个新的生成器。下图比文字更能说明问题。**
 
@@ -79,7 +79,7 @@ Python 包 Faker |作者图片
 
 **如果你想自己尝试，这里有代码→**
 
-**官方文献记载这里是[](https://faker.readthedocs.io/en/master/index.html)*。***
+**官方文献记载这里是<https://faker.readthedocs.io/en/master/index.html>*。***
 
 ***总结一下，***
 

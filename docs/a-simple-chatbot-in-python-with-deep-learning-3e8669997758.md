@@ -12,11 +12,7 @@ Lyman Gerona 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 人工智能正在迅速渗透到各行各业的工作流程中。由于自然语言处理(NLP)、自然语言理解(NLU)和机器学习(ML)的进步，人类现在能够开发能够模仿类似人类的交互的技术，包括识别语音和文本。
 
-[](/a-primer-on-conversational-ai-d20c7a4b2a87) [## 对话式人工智能入门
-
-### 了解对话式人工智能及其如何帮助人类
-
-towardsdatascience.com](/a-primer-on-conversational-ai-d20c7a4b2a87) 
+</a-primer-on-conversational-ai-d20c7a4b2a87>  
 
 在本文中，我们将使用 Python 中的 NLP 和神经网络来构建一个聊天机器人。
 
@@ -123,15 +119,7 @@ classes = **sorted**(**set**(classes))
 
 为了将我们的数据转换成数值，我们将利用一种叫做单词包的技术。有关清理文本和将文本表示为数值的更多信息，请查看我的两篇文章，其中详细介绍了这些技术以及如何在 Python 中执行它们。
 
-[](/a-guide-to-cleaning-text-in-python-943356ac86ca) [## Python 文本清理指南
-
-### 为机器阅读准备自然语言
-
-towardsdatascience.com](/a-guide-to-cleaning-text-in-python-943356ac86ca) [](/a-guide-to-encoding-text-in-python-ef783e50f09e) [## Python 文本编码指南
-
-### 教计算机理解人类语言
-
-towardsdatascience.com](/a-guide-to-encoding-text-in-python-ef783e50f09e) 
+</a-guide-to-cleaning-text-in-python-943356ac86ca>  </a-guide-to-encoding-text-in-python-ef783e50f09e>  
 
 ```
 *# list for training data*
@@ -177,11 +165,7 @@ model.fit(x=train_X, y=train_y, epochs=200, verbose=1)
 
 在我们的序列模型中，我们使用了一些丢弃层，这些丢弃层在防止深度学习模型过度拟合数据方面非常有效。在另一篇文章中，我对此做了更深入的探讨。
 
-[](/combating-overfitting-in-deep-learning-efb0fdabfccc) [## 对抗深度学习中的过度拟合
-
-### 阻止你的深度学习模型过度拟合
-
-towardsdatascience.com](/combating-overfitting-in-deep-learning-efb0fdabfccc) 
+</combating-overfitting-in-deep-learning-efb0fdabfccc>  
 
 太好了。我们已经训练了我们的深度学习模型，但现在我们必须创建实际的功能，使我们能够在聊天机器人应用程序中使用我们的模型。对于下一个任务，我已经创建了一组实用函数，可以让我们轻松地执行这个任务。
 
@@ -208,16 +192,4 @@ towardsdatascience.com](/combating-overfitting-in-deep-learning-efb0fdabfccc)
 
 ## 相关文章
 
-[](/never-forget-these-8-nlp-terms-a9716b4cccda) [## 永远不要忘记这 8 个 NLP 术语
-
-### 所有 NLP 爱好者都应该知道术语
-
-towardsdatascience.com](/never-forget-these-8-nlp-terms-a9716b4cccda) [](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343)
+</never-forget-these-8-nlp-terms-a9716b4cccda>  </5-ideas-for-your-next-nlp-project-c6bf5b86935c>  <https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343> 

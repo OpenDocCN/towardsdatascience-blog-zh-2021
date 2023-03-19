@@ -123,19 +123,7 @@ Alexandre Debiève 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 ## 为你选择阅读！
 
-[](https://medium.com/nerd-for-tech/understand-typescript-after-a-3-minute-guide-06-ff2634dba57a) [## 3 分钟指南后理解打字稿#06
-
-### Typescript:提前验证您的 JavaScript 代码！
-
-medium.com](https://medium.com/nerd-for-tech/understand-typescript-after-a-3-minute-guide-06-ff2634dba57a) [](https://medium.com/next-level-source-code/forever-remember-object-oriented-programming-fae13462bb9f) [## 永远记住面向对象编程
-
-### 用一座你不会忘记的城堡解释面向对象编程。
-
-medium.com](https://medium.com/next-level-source-code/forever-remember-object-oriented-programming-fae13462bb9f) [](https://medium.com/codex/5-methods-that-drastically-shorten-drastically-your-code-in-c-8-0-e7bc1ca1b480) [## 在 C# 8.0 中，5 种方法可以大大缩短代码
-
-### 用这 5 个技巧节省时间和精力
-
-medium.com](https://medium.com/codex/5-methods-that-drastically-shorten-drastically-your-code-in-c-8-0-e7bc1ca1b480) 
+<https://medium.com/nerd-for-tech/understand-typescript-after-a-3-minute-guide-06-ff2634dba57a>  <https://medium.com/next-level-source-code/forever-remember-object-oriented-programming-fae13462bb9f>  <https://medium.com/codex/5-methods-that-drastically-shorten-drastically-your-code-in-c-8-0-e7bc1ca1b480>  
 
 # 参考
 

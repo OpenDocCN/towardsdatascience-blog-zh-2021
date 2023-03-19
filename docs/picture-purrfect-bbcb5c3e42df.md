@@ -130,24 +130,12 @@ Canny 边缘检测稍微复杂一些。它有多个阶段，包括高斯滤波�
 
 了解有关项目的更多信息:
 
-[](https://github.com/katiehuang1221/onl_ds5_project_5) [## Katie Huang 1221/onl _ ds5 _ project _ 5
-
-### 梅蒂斯激情计划为动物拍照并不总是一件容易的事！不用拍一堆照片，直接上传…
-
-github.com](https://github.com/katiehuang1221/onl_ds5_project_5) 
+<https://github.com/katiehuang1221/onl_ds5_project_5>  
 
 了解有关该应用程序的更多信息:
 
-[](https://github.com/katiehuang1221/PicturePurrfect_app) [## Katie Huang 1221/picturepurfect _ app
-
-### 1.您的 purffect pic 拖放您的视频文件，并点击按钮开始挑选🐾 2.自定义选取器试用…
-
-github.com](https://github.com/katiehuang1221/PicturePurrfect_app) 
+<https://github.com/katiehuang1221/PicturePurrfect_app>  
 
 其他视频:
 
-[](https://www.youtube.com/channel/UCaZHIPzCIG9Y9xWYDpMvH5w) [## 黄凯蒂
-
-### 与朋友、家人和全世界分享您的视频
-
-www.youtube.com](https://www.youtube.com/channel/UCaZHIPzCIG9Y9xWYDpMvH5w)
+<https://www.youtube.com/channel/UCaZHIPzCIG9Y9xWYDpMvH5w> 

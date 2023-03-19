@@ -62,11 +62,7 @@
 
 最后，你可以在下面查看我为这个项目编写的代码:
 
-[](https://github.com/lehai-ml/lit-review-neuro) [## 乐海-毫升/文学-评论-神经
-
-### 目录因为我的研究问题非常广泛，为了帮助我的文献回顾过程，我想把…
-
-github.com](https://github.com/lehai-ml/lit-review-neuro) 
+<https://github.com/lehai-ml/lit-review-neuro>  
 
 # 参考
 

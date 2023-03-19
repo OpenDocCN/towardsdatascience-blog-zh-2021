@@ -104,11 +104,7 @@ pandas.read_csv() parse_dates |作者图片
 
 您可以通过下面我的推荐链接获得对 [***媒体***](https://medium.com/@17.rsuraj/membership) 的完全访问权限，并阅读由我&成千上万的其他人分享的如此惊人的内容。当你加入我的链接，我会得到你的会员费的一小部分作为支持，没有任何费用给你。
 
-[](https://medium.com/@17.rsuraj/membership) [## 加入我的推荐链接- Suraj Gurav 媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@17.rsuraj/membership) 
+<https://medium.com/@17.rsuraj/membership>  
 
 随时加入我的 [***邮箱列表***](https://medium.com/subscribe/@17.rsuraj) 保持更新！
 

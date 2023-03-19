@@ -60,24 +60,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/accuracy-interpretability-trade-off-8d055ed2e445) [## 理解准确性和可解释性的权衡
-
-### 讨论机器学习中模型准确性和可解释性之间的权衡
-
-towardsdatascience.com](/accuracy-interpretability-trade-off-8d055ed2e445) [](/parametric-vs-non-parametric-methods-2cea475da1a) [## 机器学习中的参数方法与非参数方法
-
-### 讨论机器学习中参数方法和非参数方法的区别
-
-towardsdatascience.com](/parametric-vs-non-parametric-methods-2cea475da1a) [](/inference-vs-prediction-b719da908000) [## 推断和预测的区别是什么
-
-### 在统计学习的背景下讨论预测和推断的区别
-
-towardsdatascience.com](/inference-vs-prediction-b719da908000)
+</accuracy-interpretability-trade-off-8d055ed2e445>  </parametric-vs-non-parametric-methods-2cea475da1a>  </inference-vs-prediction-b719da908000> 

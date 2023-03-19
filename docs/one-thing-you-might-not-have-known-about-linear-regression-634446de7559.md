@@ -86,16 +86,4 @@ plot_multistep_forecast(y_pred, "Forecasts", freq="M");
 
 您可能还会对以下内容感兴趣:
 
-[](/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0) [## 在 Python 和 R 中验证线性回归的假设
-
-### 深入探究高斯-马尔可夫定理和线性回归的其他假设！
-
-towardsdatascience.com](/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0) [](/interpreting-the-coefficients-of-linear-regression-cc31d4c6f235) [## 解释线性回归的系数
-
-### 了解如何正确解释线性回归的结果，包括变量转换的情况
-
-towardsdatascience.com](/interpreting-the-coefficients-of-linear-regression-cc31d4c6f235) [](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) [## 菲克(𝜙k)——熟悉最新的相关系数
-
-### 这在分类变量、序数变量和区间变量之间也是一致的！
-
-towardsdatascience.com](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7)
+</verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0>  </interpreting-the-coefficients-of-linear-regression-cc31d4c6f235>  </phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7> 

@@ -193,8 +193,4 @@ My DMs are open for queries. Also, if you found this useful and would love to se
 
 您可以订阅我的每周数据科学简讯，我会将说明性教程、实用项目想法和实时培训课程直接发送到您的收件箱。
 
-[](https://dswharshit.substack.com/) [## Harshit 的数据科学
-
-### 最丰富的数据科学时事通讯，充满了实用的想法和职业技巧。
-
-dswharshit.substack.com](https://dswharshit.substack.com/)
+<https://dswharshit.substack.com/> 

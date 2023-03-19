@@ -131,8 +131,4 @@ base = "dark"
 
 ## 完全码
 
-[](https://alanjones2.github.io/) [## AlanJones:编码、科学和技术
-
-### 我为数据可视化和类似的主题撰写文章、实践教程和应用程序——大部分是用 Python 写的(参见一些……
-
-alanjones2.github.io](https://alanjones2.github.io/)
+<https://alanjones2.github.io/> 

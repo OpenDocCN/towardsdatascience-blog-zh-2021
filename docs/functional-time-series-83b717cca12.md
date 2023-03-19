@@ -161,20 +161,8 @@ The null hypothesis can be rejected
 
 *如果你对时间序列分析监控机器学习模型的应用感兴趣，这篇文章可能适合你:*
 
-[](/monitoring-ml-models-in-production-768b6a74ee51) [## 监控生产中的 ML 模型
-
-### 适时检测生产中模型的质量偏差——不要太早也不要太晚
-
-towardsdatascience.com](/monitoring-ml-models-in-production-768b6a74ee51) 
+</monitoring-ml-models-in-production-768b6a74ee51>  
 
 *如果你对单变量时间序列感兴趣，可以看看这两篇入门帖子:*
 
-[](/time-series-analysis-part-i-3be41995d9ad) [## 时间序列分析—第一部分
-
-### 从独立同分布到相依非平稳数据
-
-towardsdatascience.com](/time-series-analysis-part-i-3be41995d9ad) [](/time-series-analysis-part-ii-ii-bece7ecc9647) [## 时间序列分析—第二部分
-
-### 可能非平稳、相关时间序列的独立性和平稳性检验。
-
-towardsdatascience.com](/time-series-analysis-part-ii-ii-bece7ecc9647)
+</time-series-analysis-part-i-3be41995d9ad>  </time-series-analysis-part-ii-ii-bece7ecc9647> 

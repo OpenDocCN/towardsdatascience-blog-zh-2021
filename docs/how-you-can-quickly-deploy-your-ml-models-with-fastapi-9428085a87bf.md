@@ -10,11 +10,7 @@
 
 知道如何将机器学习模型集成到可用的应用程序中是数据科学家的一项重要技能。在下面链接的上一篇文章中，我展示了如何使用 Streamlit 快速轻松地构建 web 应用程序来展示您的模型。
 
-[](/how-you-can-quickly-build-ml-web-apps-with-streamlit-62f423503305) [## 如何使用 Streamlit 快速构建 ML web 应用程序？
-
-### 将模型嵌入 web 应用程序的最快方法。
-
-towardsdatascience.com](/how-you-can-quickly-build-ml-web-apps-with-streamlit-62f423503305) 
+</how-you-can-quickly-build-ml-web-apps-with-streamlit-62f423503305>  
 
 然而，如果你想将你的机器学习模型集成到一个更大的软件解决方案中，而不是一个简单的独立 web 应用程序，该怎么办？如果您正在与一位软件工程师一起工作，他正在构建一个大型应用程序，并且需要通过 REST API 访问您的模型，该怎么办？这正是 FastAPI 发挥作用的地方。
 

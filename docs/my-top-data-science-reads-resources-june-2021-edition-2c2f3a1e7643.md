@@ -18,11 +18,7 @@
 
 ## [SQL 中更危险的微妙连接](https://alexpetralia.com/posts/2017/7/19/more-dangerous-subtleties-of-joins-in-sql)
 
-[](https://alexpetralia.com/posts/2017/7/19/more-dangerous-subtleties-of-joins-in-sql) [## SQL - petralia 中连接的更危险的微妙之处
-
-### Baron Schwartz 给出了两个很好的例子，说明了 SQL 中的语义错误是多么的常见——然而后果却非常严重……
-
-alexpetralia.com](https://alexpetralia.com/posts/2017/7/19/more-dangerous-subtleties-of-joins-in-sql) 
+<https://alexpetralia.com/posts/2017/7/19/more-dangerous-subtleties-of-joins-in-sql>  
 
 无论你是初学者还是专家，我都强烈建议你读一下这篇文章。本文讨论了 SQL 连接中一个微小但深刻的细微差别，实际上直到去年我才意识到这一点。如果你没有意识到这个微妙之处，这个小错误会给你的公司带来巨大的成本和影响。
 
@@ -30,11 +26,7 @@ alexpetralia.com](https://alexpetralia.com/posts/2017/7/19/more-dangerous-subtle
 
 ## [BigQuery:数据分片与数据分区](https://mark-mccracken.medium.com/bigquery-date-sharding-vs-date-partitioning-cee3754f7900)
 
-[](https://mark-mccracken.medium.com/bigquery-date-sharding-vs-date-partitioning-cee3754f7900) [## BigQuery:日期分片与日期分区
-
-### 为什么拆分表格
-
-mark-mccracken.medium.com](https://mark-mccracken.medium.com/bigquery-date-sharding-vs-date-partitioning-cee3754f7900) 
+<https://mark-mccracken.medium.com/bigquery-date-sharding-vs-date-partitioning-cee3754f7900>  
 
 如果您是数据分析师、数据科学家、数据工程师、数据架构师，或者基本上是任何编写数据管道和创建表视图的人，那么接下来的两篇文章是非常有价值的。
 
@@ -44,11 +36,7 @@ mark-mccracken.medium.com](https://mark-mccracken.medium.com/bigquery-date-shard
 
 ## [BigQuery 分区&聚类](https://medium.com/analytics-vidhya/bigquery-partitioning-clustering-9f84fc201e61)
 
-[](https://medium.com/analytics-vidhya/bigquery-partitioning-clustering-9f84fc201e61) [## 大查询分区和聚类
-
-### 在这篇博文中，我将解释 BigQuery 中的分区和集群特性，以及如何增强您的…
-
-medium.com](https://medium.com/analytics-vidhya/bigquery-partitioning-clustering-9f84fc201e61) 
+<https://medium.com/analytics-vidhya/bigquery-partitioning-clustering-9f84fc201e61>  
 
 类似地，还有另一个叫做集群的概念，它的作用类似于分区。如果你觉得上一篇文章很有价值，强烈建议你也读一读这篇文章。
 
@@ -58,7 +46,7 @@ medium.com](https://medium.com/analytics-vidhya/bigquery-partitioning-clustering
 
 ## [Airbnb 的实验](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
 
-[](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) [## Airbnb 的实验
+<https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7> [## Airbnb 的实验
 
 medium.com](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) 
 
@@ -68,11 +56,7 @@ medium.com](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf
 
 ## [优步实验平台的引擎盖下](https://eng.uber.com/xp/)
 
-[](https://eng.uber.com/xp/) [## 在优步的实验平台下
-
-### 实验是优步改善客户体验的核心。优步应用几个实验…
-
-eng.uber.com](https://eng.uber.com/xp/) 
+<https://eng.uber.com/xp/>  
 
 这篇文章有如此多的有价值的信息，我不能相信它是免费的，可以让其他人看到。优步在这篇文章中谈到了几件事:
 
@@ -82,11 +66,7 @@ eng.uber.com](https://eng.uber.com/xp/)
 
 # 超过 15 门免费的统计学研究生课程
 
-[](https://online.stat.psu.edu/statprogram/graduate-programs) [## 研究生课程|在线统计
-
-### 应用统计方法和分析涉及许多主题。但是它们是如何一起出现的呢？其中一个…
-
-online.stat.psu.edu](https://online.stat.psu.edu/statprogram/graduate-programs) 
+<https://online.stat.psu.edu/statprogram/graduate-programs>  
 
 人人都爱免费课程。
 
@@ -110,19 +90,11 @@ online.stat.psu.edu](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+</10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 # 特伦斯·申
 

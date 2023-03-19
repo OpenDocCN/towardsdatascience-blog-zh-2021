@@ -95,11 +95,7 @@ LP 模型为我们的疫苗预约生成提供了灵活性，因为我们能够�
 
 如果你对 LP 感兴趣，可以看下面另一篇文章:
 
-[](https://medium.datadriveninvestor.com/an-introduction-to-modern-portfolio-theory-mpt-in-portfolio-optimization-d19cd8b16b34) [## 投资组合优化中的现代投资组合理论(MPT)导论
-
-### 在每一个股票投资决策中，作为一个理性的投资者，关注的总是股票的回报
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/an-introduction-to-modern-portfolio-theory-mpt-in-portfolio-optimization-d19cd8b16b34) 
+<https://medium.datadriveninvestor.com/an-introduction-to-modern-portfolio-theory-mpt-in-portfolio-optimization-d19cd8b16b34>  
 
 如果你想成为中等会员，可以考虑通过这个[链接](https://manfyegoh.medium.com/membership)支持我
 

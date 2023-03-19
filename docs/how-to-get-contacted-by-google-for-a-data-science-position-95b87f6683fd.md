@@ -52,7 +52,7 @@ Johannes Plenio 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 但我只听到蟋蟀的叫声。
 
-[](/how-to-write-the-perfect-data-science-cv-72213d546ebf) [## 如何写出完美的数据科学简历
+</how-to-write-the-perfect-data-science-cv-72213d546ebf> [## 如何写出完美的数据科学简历
 
 towardsdatascience.com](/how-to-write-the-perfect-data-science-cv-72213d546ebf) 
 
@@ -74,11 +74,7 @@ towardsdatascience.com](/how-to-write-the-perfect-data-science-cv-72213d546ebf)
 
 我以为招聘人员会说:我们的一名工程师偶然发现了你关于 LSTMs 的文章，并说我们需要和这个人谈谈。但是后来我发现事实并非如此。
 
-[](/lstm-for-time-series-prediction-de8aeb26f2ca) [## 时间序列预测的 LSTM
-
-### 用 PyTorch 训练长短期记忆神经网络并预测比特币交易数据
-
-towardsdatascience.com](/lstm-for-time-series-prediction-de8aeb26f2ca) 
+</lstm-for-time-series-prediction-de8aeb26f2ca>  
 
 # 为什么是我？
 

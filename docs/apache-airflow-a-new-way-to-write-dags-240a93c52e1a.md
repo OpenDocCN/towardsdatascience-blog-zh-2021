@@ -21,11 +21,7 @@
 
 # 阿帕奇气流
 
-[](/data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282) [## 数据工程——如何在 Apache Airflow 上构建 Gmail 数据管道
-
-### 黑掉你的 Gmail 收件箱
-
-towardsdatascience.com](/data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282) 
+</data-engineering-how-to-build-a-gmail-data-pipeline-on-apache-airflow-ce2cfd1f9282>  
 
 **Apache Airflow** 是我们用来管理数据管道的最流行的工作流管理系统之一。crontabs 被用作管道调度程序的时代已经一去不复返了。
 
@@ -41,11 +37,7 @@ Apache Airflow 是批处理管道的最佳解决方案之一。如果您的公�
 
 如果你不熟悉，可以通读一下我做的关于 Apache 气流基础的综合指南。
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 不言而喻，你了解基本的 **Python** 。
 
@@ -128,11 +120,7 @@ Gif by [Memecandy](https://giphy.com/channel/memecandy)
 
 这里有一个文件夹结构的实际例子—
 
-[](https://github.com/nickefy/Apache-Airflow---A-New-Way-to-Write-DAGs) [## nickefy/Apache-air flow-A-New-Way-to-Write-DAGs
-
-### 用于在 Apache Airflow 上构建框架的 Dag、操作符和配置文件…
-
-github.com](https://github.com/nickefy/Apache-Airflow---A-New-Way-to-Write-DAGs) 
+<https://github.com/nickefy/Apache-Airflow---A-New-Way-to-Write-DAGs>  
 
 # 摘要
 

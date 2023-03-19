@@ -39,11 +39,7 @@ Airtable 类似 excel 的 GUI 允许用户轻松地更新和创建数据映射�
 
 点击下面的链接查看完整的 Airtable 库:
 
-[](https://airtable.com/embed/shr9Tr2wp5rs2Bm7a?backgroundColor=red) [## 数据映射器-数据源- Airtable
-
-### 探索基于 Airtable 的“数据映射器-数据源”。
-
-airtable.com](https://airtable.com/embed/shr9Tr2wp5rs2Bm7a?backgroundColor=red) 
+<https://airtable.com/embed/shr9Tr2wp5rs2Bm7a?backgroundColor=red>  
 
 # 如何使用 AirMap
 

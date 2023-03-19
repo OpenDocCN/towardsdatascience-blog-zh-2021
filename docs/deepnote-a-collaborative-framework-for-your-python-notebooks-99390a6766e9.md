@@ -177,17 +177,9 @@ Google Drive 文件系统已经挂载在`/datasets/output`目录下，可以直�
 
 # 相关文章
 
-[](/how-to-run-r-scripts-in-jupyter-15527148d2a) [## 如何在 Jupyter 中运行 R 脚本
+</how-to-run-r-scripts-in-jupyter-15527148d2a>  </how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
 
-### 关于如何在 Jupyter 中安装并运行 R 内核的简短教程
-
-towardsdatascience.com](/how-to-run-r-scripts-in-jupyter-15527148d2a) [](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
-
-towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [](https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa) [## 通过 Gradio 在 Jupyter 中构建快速交互式仪表板
-
-### 关于 Gradio 的现成教程，这是一个非常强大的 Python 包，用于机器学习演示。
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa) 
+towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) <https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa>  
 
 # 额外奖金
 

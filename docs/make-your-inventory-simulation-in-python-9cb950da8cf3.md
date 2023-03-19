@@ -47,11 +47,7 @@
 
 在开始你的第一个库存模拟之前，你可能想阅读我以前的文章，*库存优化，它为优化策略奠定了基础。*
 
-[](/a-framework-for-inventory-optimization-71d4496aec75) [## 库存优化框架
-
-### 库存优化之旅:利润最大化，库存政策优化，需求和供应…
-
-towardsdatascience.com](/a-framework-for-inventory-optimization-71d4496aec75) 
+</a-framework-for-inventory-optimization-71d4496aec75>  
 
 # 模拟设置
 
@@ -82,11 +78,7 @@ x_std = np.sqrt(L+R)*d_std
 
 > *接收订单需要等待的最长时间。在此期间，您的库存有被耗尽的风险。*
 
-*[](https://nicolas-vandeput.medium.com/inventory-optimization-5-ways-to-set-service-level-and-safety-stock-targets-cc3a9a5f44b) [## 库存优化:设定服务水平和安全库存目标的 5 种方法
-
-### 在供应链中设置安全库存目标的最佳实践是什么？
-
-nicolas-vandeput.medium.com](https://nicolas-vandeput.medium.com/inventory-optimization-5-ways-to-set-service-level-and-safety-stock-targets-cc3a9a5f44b) 
+*<https://nicolas-vandeput.medium.com/inventory-optimization-5-ways-to-set-service-level-and-safety-stock-targets-cc3a9a5f44b>  
 
 您可以在下图中看到我们的策略(和模拟)在第一个时间步中的表现。在时间步长 0 结束时做出的订单将在时间步长 5 期间可用。
 
@@ -109,11 +101,7 @@ Is = d_mu * L
 S = Ss + 2*Cs + Is
 ```
 
-[](https://nicolas-vandeput.medium.com/the-4-biggest-mistakes-when-using-the-safety-stock-formula-1f3cc93bcb1) [## 使用安全库存公式时的 4 个最大错误
-
-### 通常的安全库存公式 Ss = z sigma sqrt(L)基于多种假设和捷径，而这些假设和捷径往往不受重视…
-
-nicolas-vandeput.medium.com](https://nicolas-vandeput.medium.com/the-4-biggest-mistakes-when-using-the-safety-stock-formula-1f3cc93bcb1) 
+<https://nicolas-vandeput.medium.com/the-4-biggest-mistakes-when-using-the-safety-stock-formula-1f3cc93bcb1>  
 
 由于我们的传入订单可以在运输途中停留多个周期(在我们的示例中，有 4 个周期)，我们将把 *transit* 定义为一个二维数组。
 

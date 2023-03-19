@@ -162,11 +162,7 @@ Scikit-Learn 提供了一种简洁的方式来可视化您使用以下代码行�
 
 如果您想了解我们如何在实际项目中使用本文中提到的不同工具，请不要犹豫，看看我们以前的文章:
 
-[](/classification-model-for-source-code-programming-languages-40d1ab7243c2) [## 我如何为源代码语言建立分类模型
-
-### 大约 97%的准确率
-
-towardsdatascience.com](/classification-model-for-source-code-programming-languages-40d1ab7243c2) 
+</classification-model-for-source-code-programming-languages-40d1ab7243c2>  
 
 最后，如果您想了解如何利用这些复合估计器来优化整个管道中的超参数，或者比较不同算法的性能，请继续关注我们未来关于网格搜索的文章。
 

@@ -24,11 +24,7 @@
 
 其他模型或语言(ProbLog 等。)在实际应用中受到严重问题的影响。如果你想更多地了解其他方法，以及为什么它们需要一些它们没有的关键成分，你可以在 Medium 上了解它们:
 
-[](/probabilistic-reasoning-on-knowledge-graphs-d510269f5cf0) [## 知识图上的概率推理
-
-### 希望，感谢“神话般的五人组”，会有事情发生！
-
-towardsdatascience.com](/probabilistic-reasoning-on-knowledge-graphs-d510269f5cf0) 
+</probabilistic-reasoning-on-knowledge-graphs-d510269f5cf0>  
 
 MLNs 的工作方式，Markov Logic 的方式本质上是:**语法上**通过给逻辑公式附加权重来扩展一阶逻辑，**语义上**将那些加权公式视为构建 Markov 网络的模板。
 
@@ -180,11 +176,7 @@ MLNs 背后的想法是创建一个可能世界的分布，也就是知识库上
 
 *如果你问的是被称为“女人”的未知动物是否也对科学有所贡献，甚至是这种科学，特别是马尔可夫链蒙特卡罗方法，请在这里阅读最近的一个重大损失:*
 
-[](https://www.nytimes.com/2021/02/09/science/arianna-wright-dead.html) [## 阿里安娜·罗森布鲁斯去世，享年 93 岁；数据科学的先驱人物
-
-### 罗森布鲁斯博士在 21 岁时获得了物理学博士学位，他帮助创建了一种算法，这种算法已经成为…
-
-www.nytimes.com](https://www.nytimes.com/2021/02/09/science/arianna-wright-dead.html) 
+<https://www.nytimes.com/2021/02/09/science/arianna-wright-dead.html>  
 
 # 参考
 

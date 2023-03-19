@@ -16,11 +16,7 @@
 
 对于这个 EDA，我们将使用 [Kaggle](https://www.kaggle.com/manishkc06/engineering-graduate-salary-prediction) 上的“工程毕业生工资预测”数据集。如果您想了解相同的内容，它包含了关于数据中可用类别的详细信息。
 
-[](https://www.kaggle.com/manishkc06/engineering-graduate-salary-prediction) [## 工科毕业生薪酬预测
-
-### 预测一个印度工科毕业生的工资
-
-www.kaggle.com](https://www.kaggle.com/manishkc06/engineering-graduate-salary-prediction) 
+<https://www.kaggle.com/manishkc06/engineering-graduate-salary-prediction>  
 
 ## **导入库**
 

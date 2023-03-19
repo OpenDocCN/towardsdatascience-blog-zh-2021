@@ -22,11 +22,7 @@ Python 中有很多内置的数据结构。这些范围包括列表、字典、�
 
 我在以前的一篇文章中已经详细讨论了列表的主题。你可以通过下面提供的链接来阅读这篇文章。它涵盖了 Python 中列表的大部分重要方面和需求。
 
-[](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</mastering-python-lists-for-programming-5423b011d937>  
 
 # 设置
 
@@ -305,26 +301,6 @@ Python 是一种通用且简单的编程语言，它为用户提供了高级的�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [## 从数据科学中赚取收入的 5 种最佳方式！
-
-### 探索作为数据科学爱好者或数据科学家的五种最佳创收方式！
-
-towardsdatascience.com](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [## 数据科学的 10 大最佳工具和技术！
-
-### 每个数据科学家都必须考虑探索的 10 种最佳工具和技术，以获得更好的曝光率和更高的…
-
-towardsdatascience.com](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) 
+</5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6>  </10-best-tools-and-technologies-for-data-science-e335fb99c2f2>  </15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  </do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  </python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

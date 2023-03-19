@@ -18,11 +18,7 @@
 
 当然，这不是我。许多聪明人也在谈论它。
 
-[](https://www.kdnuggets.com/2019/03/top-8-data-science-use-cases-manufacturing.html) [## 制造业中的 8 大数据科学用例——KD nuggets
-
-### 如今，制造业面临着巨大的变革。由于数字世界的快速发展和广泛的…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2019/03/top-8-data-science-use-cases-manufacturing.html) 
+<https://www.kdnuggets.com/2019/03/top-8-data-science-use-cases-manufacturing.html>  
 
 很自然，在我进入数据科学领域后，我经常被要求举例说明**如何使用任何人都可以使用的快速编程工具和技术**来解决常见的制造分析问题。在这篇简短的文章中，我试图展示一个具体的例子——机器和测试人员的漂移问题。
 
@@ -136,11 +132,7 @@ www.kdnuggets.com](https://www.kdnuggets.com/2019/03/top-8-data-science-use-case
 
 *这是我的高效数据分析技巧。**寻找简洁明了的替代代码**。通常，它们非常适合您的问题，并且它们产生了干净且易于调试的代码库。这就引出了 [**生产性数据科学**](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) 。*
 
-*[](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) [## 为什么以及如何学习“生产数据科学”？
-
-### 什么是生产数据科学，它有哪些组成部分？
-
-medium.com](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) 
+*<https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37>  
 
 一行代码也打印出了相互关系，
 
@@ -204,8 +196,4 @@ Correlation of machine10 with the golden tester: 97.73
 
 **喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而不会对您产生额外费用*** *。**
 
-*[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)*
+*<https://medium.com/@tirthajyoti/membership> *

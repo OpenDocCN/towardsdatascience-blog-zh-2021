@@ -24,11 +24,7 @@
 
 这个项目的代码可以从 GitHub 上的 Jupyter 笔记本中获得。
 
-[](https://github.com/amandaiglesiasmoreno) [## amandaiglesiasmoreno -概述
-
-### 阻止或报告 7 月 8 月 9 月 10 月 11 月 12 月 1 月 2 月 3 月 4 月 5 月 6 月 7 日周一周三 Fri amandaiglesiasmoreno 没有活动…
-
-github.com](https://github.com/amandaiglesiasmoreno) 
+<https://github.com/amandaiglesiasmoreno>  
 
 # 数据读取和清理
 
@@ -138,11 +134,7 @@ github.com](https://github.com/amandaiglesiasmoreno)
 
 在这个简短的理论解释之后，是时候使用 Scikit-learn 库构建第一个决策树了。
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier) [## sk learn . tree . decision tree classifier-sci kit-learn 0 . 24 . 2 文档
-
-### 决策树分类器。了解更多信息。参数标准{"gini "，"熵" }，default="gini "该函数用于…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier>  
 
 为此，我们将使用来自`tree`模块的`DecisionTreeClassifier`类。这个类接受几个参数作为输入(所有参数都有一个默认值)。在这种特殊情况下，我们使用熵作为构建树的分裂方法；因此，我们必须设置参数`criterion='entropy'`，因为默认的分割方法是基尼系数。一旦定义了决策树，我们就调用 fit 方法来训练算法。
 

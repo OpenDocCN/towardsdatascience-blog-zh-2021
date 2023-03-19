@@ -43,11 +43,7 @@
 
 这五个部分中的每一部分都有一些他们应该包含的要点，通常被组织成子部分。笔记本结构是一个至关重要的话题，但经常被低估。关于完整的讨论，请参见我的前同事 Ryan 的以下帖子:
 
-[](https://medium.com/data-science-by-ryan/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0) [## 如何构建易于理解的数据科学笔记本
-
-### 创建有序笔记本的清晰步骤，包括示例
-
-medium.com](https://medium.com/data-science-by-ryan/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0) 
+<https://medium.com/data-science-by-ryan/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0>  
 
 # 3.注释你的情节的每个方面
 

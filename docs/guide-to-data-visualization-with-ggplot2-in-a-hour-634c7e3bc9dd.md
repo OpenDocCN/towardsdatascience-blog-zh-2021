@@ -292,10 +292,6 @@ ggplot(storm_pct,
 
 我自己发现与 Python 中的其他包相比，ggplot 很容易上手。通过学习这个包的基础知识，您可以根据自己的喜好定制图形，而不必过多考虑从哪里开始以及如何编写代码。此外，我认为这也是可视化统计报告并获得有用见解的有力工具。虽然我已经知道它几天了，但我发现它很方便，并决定在未来进一步了解它。你也可以和我一起阅读下面的文档:
 
-[](https://ggplot2-book.org/annotations.html) [## 8 注释| ggplot2
-
-### 构建数据可视化时，通常需要对显示的数据进行注释。概念上…
-
-ggplot2-book.org](https://ggplot2-book.org/annotations.html) 
+<https://ggplot2-book.org/annotations.html>  
 
 祝你好运！

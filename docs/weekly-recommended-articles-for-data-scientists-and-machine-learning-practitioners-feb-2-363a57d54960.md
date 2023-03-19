@@ -16,11 +16,7 @@ Roman Gratier 的文章指出了创建一个食物食谱生成器的技术步骤
 
 Roman 在本文中涉及的主题是健壮的，从 NLP 到深度学习主题和技术。这是一个端到端的项目，以初学者友好的方式介绍了 NLP，深度学习和 API 的世界。
 
-[](/a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d) [## 一个推荐引擎，在给你的食材拍照后，推荐食谱。
-
-### 如何用 Tensorflow，Doc2Vec，Telegram API 创建一个前端很酷的推荐引擎？
-
-towardsdatascience.com](/a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d) 
+</a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d>  
 
 # 人工智能驱动的在线试衣间:时尚
 
@@ -30,11 +26,7 @@ VOUGE 是来自谷歌、麻省理工学院和华盛顿大学的研究人员的�
 
 这篇文章是 ML 从业者寻找关于人工智能如何颠覆时尚和服装行业的灵感的推荐读物。
 
-[](https://medium.com/towards-artificial-intelligence/the-ai-powered-online-fitting-room-vogue-5f77c599832) [## 人工智能驱动的在线试衣间:VOGUE
-
-### 谷歌使用了一种经过修改的 StyleGAN2 架构来创建一个在线试衣间，在这里你可以自动试穿任何…
-
-medium.com](https://medium.com/towards-artificial-intelligence/the-ai-powered-online-fitting-room-vogue-5f77c599832) 
+<https://medium.com/towards-artificial-intelligence/the-ai-powered-online-fitting-room-vogue-5f77c599832>  
 
 # **艾揭露性别收入不平等** [**盖德本拉姆**](https://medium.com/u/b45fa95a7293?source=post_page-----363a57d54960--------------------------------)
 
@@ -44,11 +36,7 @@ Gad 的对话式文章揭示了一个研究团队的努力，该团队揭示了�
 
 Gad 的文章包括了最初进行的调查的可视化，并补充了背景信息和支持叙述。
 
-[](https://medium.com/swlh/ai-exposes-gender-income-inequality-2d46d9c0d372) [## 艾揭露性别收入不平等
-
-### 建立在收入调查数据基础上的人工智能模型比过去认为的性别收入暴露得更多…
-
-medium.com](https://medium.com/swlh/ai-exposes-gender-income-inequality-2d46d9c0d372) 
+<https://medium.com/swlh/ai-exposes-gender-income-inequality-2d46d9c0d372>  
 
 # 由[奥利佛·西奥博尔德](https://medium.com/u/e9b82000db40?source=post_page-----363a57d54960--------------------------------)所著的《武士大师的 9 条永恒的数据科学规则》
 
@@ -60,11 +48,7 @@ Oliver 的文章探讨了从“*五环之书*”一书中提取的九条指导�
 
 当你在机器学习领域前进时，阅读这篇文章将会提高你的技能。
 
-[](https://olivertheobald.medium.com/9-rules-for-data-science-from-a-samurai-master-the-book-of-five-rings-b9976b9d0ac9) [## 武士大师的 9 条数据科学规则(五环之书)
-
-### 武藏被认为是日本的剑圣，他在 61 场决斗中保持不败记录，这家伙没打太多…
-
-olivertheobald.medium.com](https://olivertheobald.medium.com/9-rules-for-data-science-from-a-samurai-master-the-book-of-five-rings-b9976b9d0ac9) 
+<https://olivertheobald.medium.com/9-rules-for-data-science-from-a-samurai-master-the-book-of-five-rings-b9976b9d0ac9>  
 
 # **人工智能将改变我们生活的 5 种方式**[**Venkatesh chand gothia**](https://medium.com/u/644b76e2c2cf?source=post_page-----363a57d54960--------------------------------)
 
@@ -72,11 +56,7 @@ olivertheobald.medium.com](https://olivertheobald.medium.com/9-rules-for-data-sc
 
 Venkatesh 的文章探讨了人工智能目前作为一种常规操作方法出现的五个领域。Venkatesh 在医疗保健、交通、购物等领域探索人工智能技术。每个领域都补充了这些人工智能技术在哪里以及如何融入日常生活的证据。
 
-[](https://medium.com/codex/5-ways-artificial-intelligence-will-transform-our-lives-99d8c5a1a445) [## 人工智能将改变我们生活的 5 种方式
-
-### 本杰明，一个写剧本的人工智能机器人
-
-medium.com](https://medium.com/codex/5-ways-artificial-intelligence-will-transform-our-lives-99d8c5a1a445) 
+<https://medium.com/codex/5-ways-artificial-intelligence-will-transform-our-lives-99d8c5a1a445>  
 
 # 要联系我或找到更多类似本文的内容，请执行以下操作:
 
@@ -84,8 +64,4 @@ medium.com](https://medium.com/codex/5-ways-artificial-intelligence-will-transfo
 2.  跟我上 [**中**](https://richmondalake.medium.com/)
 3.  在 [**LinkedIn**](https://www.linkedin.com/in/richmondalake/) **和** [**Twitter**](https://twitter.com/richmondalake) 上连接并联系我
 
-[](/how-to-improve-programming-skills-for-data-scientists-and-machine-learning-practitioners-d865d8aadab1) [## 数据科学家和机器学习从业者如何提高编程技能
-
-### 从机器学习从业者的角度来看，提高编程技能的五种方法。
-
-towardsdatascience.com](/how-to-improve-programming-skills-for-data-scientists-and-machine-learning-practitioners-d865d8aadab1)
+</how-to-improve-programming-skills-for-data-scientists-and-machine-learning-practitioners-d865d8aadab1> 

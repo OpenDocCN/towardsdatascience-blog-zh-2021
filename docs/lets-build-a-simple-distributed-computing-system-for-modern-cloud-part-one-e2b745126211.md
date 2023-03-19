@@ -81,11 +81,7 @@ RESTful APIs 对人类更加友好，因此更适合主客户端通信。此外�
 
 在我们开始之前，我们到目前为止讨论的系统的完整实现可以在下面的链接中找到。它是在 Apache 2.0 许可下发布的开源项目。
 
-[](https://github.com/crunchycookie/orion) [## crunchy cookie/猎户座
-
-### Permalink 无法加载最新的提交信息。为测试平台部署编写单一脚本，并提供全面的…
-
-github.com](https://github.com/crunchycookie/orion) 
+<https://github.com/crunchycookie/orion>  
 
 我们刚刚设计的系统，被命名为**猎户座**。这个项目有四个主要部分。
 

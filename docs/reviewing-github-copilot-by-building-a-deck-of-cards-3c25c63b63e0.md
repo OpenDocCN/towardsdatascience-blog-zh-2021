@@ -162,8 +162,4 @@ Copilot 是一个令人惊叹的产品，它将非常有帮助。然而，有一
 
 保重，感谢阅读！
 
-[](/7-vs-code-tricks-every-developer-needs-to-know-cc8b3dad50e4) [## 每个开发人员都需要知道的 7 个 VS 代码技巧
-
-### 学会充分利用你的 IDE，并确保利用它的全部力量来加速你的开发。
-
-towardsdatascience.com](/7-vs-code-tricks-every-developer-needs-to-know-cc8b3dad50e4)
+</7-vs-code-tricks-every-developer-needs-to-know-cc8b3dad50e4> 

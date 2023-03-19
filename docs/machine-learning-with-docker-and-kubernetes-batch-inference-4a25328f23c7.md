@@ -74,11 +74,7 @@ kubectl logs inference-job-stskf
 
 Kubernetes 是一个有效部署模型的优秀框架。我们可以使用 Kubernetes 将我们的每个模型部署为独立的轻量级微服务。这些微服务可以用于其他应用。我们还可以与 Kubernetes 合作，安排我们的训练和推理过程定期运行。现在，下一步将是使用 REST APIs 部署在线推理。您可以在这里找到使用 REST APIs 的在线推理的部署示例:
 
-[](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) [## 使用 Docker、Python Rest APIs 和 Flask 和 Kubernetes 进行实时机器学习预测…
-
-### 用于机器和深度学习的 Kubernetes、Docker、Python、Scikit-Learn 和 Flask:如何扩展数据科学家的工作
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) 
+<https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67>  
 
 **来源**
 

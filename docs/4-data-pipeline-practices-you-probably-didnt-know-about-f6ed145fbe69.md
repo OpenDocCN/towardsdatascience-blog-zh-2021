@@ -14,11 +14,7 @@
 如今，数据管道越来越优先化。
 这主要得益于行业的成熟。数据科学家意识到，要为他们的模型获得干净的数据，他们必须为他们的数据仓库建立一个坚实的基础。
 
-[](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) [## 2021 年该不该成为数据工程师？
-
-### 数据工程是新的数据科学。
-
-towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) 
+</should-you-become-a-data-engineer-in-2021-4db57b6cce35>  
 
 因此，除了专门的数据工程师，数据科学家自己也必须了解数据管道。在本文中，我们将讨论一些您应该在设计中实现的数据管道实践，以确保稳定的数据生态系统。
 
@@ -29,11 +25,7 @@ towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35)
 
 就我个人而言，我使用 Apache Airflow 进行批处理作业，使用 Apache Beam 进行流作业已经超过 3 年了。我发现他们很有效率。
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 如果你了解 basic **Python** 也会有所帮助，因为它是数据行业的主流编程语言。
 

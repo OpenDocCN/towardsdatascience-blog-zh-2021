@@ -66,11 +66,7 @@ Enter number two: 5
 
 # 网络大脑
 
-[](https://github.com/laike9m/Cyberbrain) [## laike 9m/电脑大脑
-
-### Cyberbrain(电子脑) aims to free programmers from debugging. It lets you: Backtrace variable changes. See every state of…
-
-github.com](https://github.com/laike9m/Cyberbrain) 
+<https://github.com/laike9m/Cyberbrain>  
 
 考虑到上述所有情况，市场上没有一个工具像调试器一样强大，也没有一个工具像打印语句一样易于使用。我们想要一个工具，它需要最少的努力，但仍然提供更丰富的信息。CyberBrain 旨在通过可视化程序的内部工作来提供这一点。该库的设置分为两步:
 
@@ -150,20 +146,4 @@ pip install cyberbrain
 
 **我的其他文章:**
 
-[](/deploying-python-github-actions-to-marketplace-d07790e9817d) [## 将 Python GitHub 操作部署到市场
-
-### 将 Python 脚本作为没有 Dockers 的操作运行
-
-towardsdatascience.com](/deploying-python-github-actions-to-marketplace-d07790e9817d) [](/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca) [## 使用 Voila 创建交互式 Jupyter 笔记本并部署在 Heroku 上
-
-### 使用 Python、Pandas 和 Plotly 分析 Covid 推文
-
-towardsdatascience.com](/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca) [](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) [## 用不到 10 行代码构建仪表板！
-
-### 探索 ExplainerDashBoard，开发交互式仪表板的最简单方法
-
-towardsdatascience.com](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) [](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [## 在网站上运行 Python 代码:探索 Brython
-
-### Python 中的 JavaScript 等效脚本
-
-towardsdatascience.com](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f)
+</deploying-python-github-actions-to-marketplace-d07790e9817d>  </creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca>  </build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b>  </run-python-code-on-websites-exploring-brython-83c43fb7ac5f> 

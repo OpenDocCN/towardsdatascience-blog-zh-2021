@@ -63,11 +63,7 @@ F_mode: emissions factor for each transportation mode (kgCO2eq/t.km)
 
 一种更准确的方法是，考虑车辆型号(卡车、集装箱运输船、飞机或火车)和装载率，估算每次运输的二氧化碳排放量。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。用 Python 处理数据
 
@@ -193,11 +189,7 @@ samirsaci.com](http://samirsaci.com)
 2.  估计这些物品每欧元的重量**(公斤/欧元)**
 3.  将平均比率应用于 c 个剩余项目，不进行换算，以获得它们的重量
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 不及物动词使用 PowerBI 的可视化示例
 
@@ -235,11 +227,7 @@ PS:如果您需要使用 GPS 坐标定位您的送货地点的支持。你可以
 
 测量完你的排放量后，下一步可能是使用下面文章中介绍的方法来分析你的分销网络。
 
-[](https://www.samirsaci.com/road-transportation-network-visualization/) [## 道路交通网络可视化
-
-### 物流持续改进构建 FTL 网络绩效的可视化:交付/路线、每吨成本…
-
-www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visualization/) 
+<https://www.samirsaci.com/road-transportation-network-visualization/>  
 
 这个想法是寻找机会
 
@@ -291,11 +279,7 @@ www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visuali
 
 这将向您展示实施这些计划所需的投资和额外运营成本。
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 ## 考虑当地的倡议
 
@@ -324,11 +308,7 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

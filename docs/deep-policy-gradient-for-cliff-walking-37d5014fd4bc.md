@@ -56,19 +56,11 @@ softmax 函数的 DPG 策略。神经网络 f(⋅)由θ参数化，并对特征�
 
 完整的实现可以在我的 GitHub 上找到:
 
-[](https://github.com/woutervanheeswijk/cliff_walking_public) [## GitHub-woutervanheeswijk/Cliff _ walking _ public:悬崖行走强化学习示例，带…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/woutervanheeswijk/cliff_walking_public) 
+<https://github.com/woutervanheeswijk/cliff_walking_public>  
 
 还没完全明白吗？没问题:这个最小的工作示例一步一步地引导您完成离散策略梯度算法:
 
-[](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) 
+</a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  
 
 # 实验
 
@@ -116,27 +108,15 @@ vanilla SARSA 和 Deep policy gradient 的比较。SARSA 收敛得更快，并�
 
 *表格* ***Q-learning 和 SARSA*** *对于悬崖行走问题的实现如下:*
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) [## 用非策略强化学习走下悬崖
-
-### 政策外强化学习和政策内强化学习的深入比较
-
-towardsdatascience.com](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) 
+</walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff>  
 
 ****深度 Q 学习算法*** *也已经实现:**
 
-*[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) [## 悬崖行走问题的深度 Q 学习
-
-### 一个完整的 Python 实现，用 TensorFlow 2.0 导航悬崖。
-
-towardsdatascience.com](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) 
+*</deep-q-learning-for-the-cliff-walking-problem-b54835409046>  
 
 *最后，* ***离散政策梯度*** *变体如本文所示:*
 
-[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) [## 基于离散策略梯度算法的悬崖行走问题
-
-### 用 Python 实现了一个完整的增强算法。手动执行这些步骤来说明内部…
-
-towardsdatascience.com](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) 
+</cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 # 参考
 

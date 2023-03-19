@@ -20,21 +20,13 @@
 
 多有问题啊，看来我这辈子都没离开过笔记本。然而，本例中使用的语言有点像骗局，因为它是根据文件大小来确定的——Jupyter 笔记本包含各种不同内容的大量数据，它的代码比普通代码多得多，这就是我的观点。也就是说，Python 只占我在 Github 上的文件大小的 0.08%，我认为我应该着手开始一个 Python 项目。该项目的代码可在以下存储库中找到:
 
-[](https://github.com/emmettgb/characterclash/tree/main) [## GitHub - emmettgb/characterclash:用 Python 编写的一个很酷的基于 repl 的小模拟
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/emmettgb/characterclash/tree/main) 
+<https://github.com/emmettgb/characterclash/tree/main>  
 
 # 获得基本视觉效果
 
 今天，我们将创建一个简洁的可视化界面，通过带有 ASCII 艺术的 CLI 来查看游戏的输出…这是本文前半部分的 Github 链接。以下是该分支机构的链接:
 
-[](https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality) [## GitHub-emmettgb/character clash 0 . 0 . 1-基本-功能
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality) 
+<https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality>  
 
 让我们首先导入我们所有的依赖项，以及我们可能得到的任何新的依赖项:
 
@@ -67,7 +59,7 @@ def draw_grid():
 
 像往常一样，我要练习提取技术。如果你想更深入地了解这项技术，以及它将如何应用到这个项目的未来代码中，我有一整篇关于它的文章，你可以在这里阅读——它有助于清理你的代码，使它运行得更好！
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -471,11 +463,7 @@ TypeError: 'str' object does not support item assignment
 
 哦，糟糕，看起来我解决这个问题的方法是愚蠢的。这可能比预期的要多一点。幸运的是，有一些很好的方法可以解决这个问题，其中一些我可能在我的 Pythonic 标签处理综合指南中提到过，您可以在这里查看:
 
-[](/essential-python-string-processing-techniques-aa5be43a4f1f) [## Python 字符串处理的基本技术
-
-### 在 Python 中处理字符串类型数据的完整过程
-
-towardsdatascience.com](/essential-python-string-processing-techniques-aa5be43a4f1f) 
+</essential-python-string-processing-techniques-aa5be43a4f1f>  
 
 > 这次失败的真正原因是，Julia 允许你做任何事情，所以如果我想替换一个字符串索引，我可以导入并扩展索引方法来实现… Julia 太棒了，它毁了我的这个项目。
 
@@ -638,19 +626,11 @@ def main():
 
 这是我们之前工作过的分支的链接:
 
-[](https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality) [## GitHub-emmettgb/character clash 0 . 0 . 1-基本-功能
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality) 
+<https://github.com/emmettgb/characterclash/tree/0.0.1-basic-functionality>  
 
 这里有一个链接指向我们现在所在的网站:
 
-[](https://github.com/emmettgb/characterclash/tree/0.0.2-combat) [## GitHub-emmettgb/character clash 0 . 0 . 2-战斗
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/emmettgb/characterclash/tree/0.0.2-combat) 
+<https://github.com/emmettgb/characterclash/tree/0.0.2-combat>  
 
 让我们回到移动函数:
 

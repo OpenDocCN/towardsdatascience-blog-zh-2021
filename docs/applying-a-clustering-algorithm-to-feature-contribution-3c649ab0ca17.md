@@ -14,11 +14,7 @@ kjpargeter 制作的背景照片—[www.freepik.com](http://www.freepik.com)([ht
 
 如果您以前没有使用过预测贡献，我们就假设这些值总结了每个特定特征如何对每个特定观察值的预测做出贡献。为了理解这些值，我们可以将它们全部相加(每次观察)，加上偏差(期望值)，并应用 logit 函数，从而将它们转换为实际预测概率。因此，如果您正在预测某个事件的发生(二元分类，其中 1 表示事件已发生)，则来自某个要素的正贡献意味着它在向模型发出信号，以预测该特定观察事件发生的概率较高。如果你感兴趣，我邀请你阅读更多关于这个主题的内容，从 Christoph Molnar 的这个有趣的 GitHub 页面开始:
 
-[](https://christophm.github.io/interpretable-ml-book/shapley.html) [## 5.9 Shapley 值|可解释的机器学习
-
-### 预测可以通过假设实例的每个特征值是游戏中的“玩家”来解释，其中…
-
-christophm.github.io](https://christophm.github.io/interpretable-ml-book/shapley.html) 
+<https://christophm.github.io/interpretable-ml-book/shapley.html>  
 
 # 挑战
 
@@ -65,8 +61,4 @@ christophm.github.io](https://christophm.github.io/interpretable-ml-book/shapley
 
 在确定模型可解释性的整体趋势时，我们可以研究聚类算法以获得洞察力。聚类算法将帮助我们创建观察组，这些观察组在它们的特征值如何影响它们的预测方面彼此相似。通过查看每组的目标和预测，我们可以开始更好地了解模型发现哪些类型的观察值更容易或更难预测。感谢您的阅读。我希望这篇文章在某种程度上对你有所启发。
 
-[](https://www.linkedin.com/in/anapreciado/) [## Ana Preciado -数据科学家- Banco General | LinkedIn
-
-### 联系人:anamargaritapreciado@gmail.com |+(507)61305543。自从我做了电子商务的本科研究后，我…
-
-www.linkedin.com](https://www.linkedin.com/in/anapreciado/)
+<https://www.linkedin.com/in/anapreciado/> 

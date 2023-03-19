@@ -14,11 +14,7 @@ Jupyter 笔记本上的数据科学很棒。但是您想更进一步，将您的
 
 参见我关于使用 Streamlit 构建数据科学应用的文章。
 
-[](/data-analytics-to-web-app-streamlit-made-easy-ed687266f0e8) [## 数据分析到 Web 应用程序:简化 it 变得简单
-
-### 我们展示了使用 Streamlit Python 部署数据分析和进行交互式机器学习是多么容易…
-
-towardsdatascience.com](/data-analytics-to-web-app-streamlit-made-easy-ed687266f0e8) 
+</data-analytics-to-web-app-streamlit-made-easy-ed687266f0e8>  
 
 虽然云部署的解决方案仍然是最受欢迎的选择，但您可能经常希望为您的数据科学和机器学习项目构建一个快速的 GUI 应用程序。举个例子，
 
@@ -42,11 +38,7 @@ Python 生态系统中有一些非常流行的 GUI 框架，如 Tkinter、PyQt �
 
 因此，我开始了下面的 repo，目的是用简短而集中的 Python 脚本来填充它，这些脚本在运行时将生成桌面应用程序。
 
-[](https://github.com/tirthajyoti/DS-with-PySimpleGUI) [## tirthajyoti/DS-with-PySimpleGUI
-
-### 数据科学图形用户界面程序与真棒 PySimpleGUI 包。根据他们的网站，“人类的 Python GUI 转变…
-
-github.com](https://github.com/tirthajyoti/DS-with-PySimpleGUI) 
+<https://github.com/tirthajyoti/DS-with-PySimpleGUI>  
 
 互联网上已经有一些关于 PySimpleGUI 的高质量教程。然而，在这个报告中，我特别关注使用这个强大的 GUI 构建工具创建与数据科学相关的简单演示程序(简单分析、统计建模、可视化和基本机器学习)。
 
@@ -154,7 +146,7 @@ python SimpleDataFrame.py
 
 ## 随机散点图生成器
 
-这个应用程序是为了展示创造一个与用户互动的动态情节的能力。剧本在这里是[](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/DrawRandom.py)**。当你运行它时，会弹出一个窗口，有一个简单的按钮，你可以想按多少次就按多少次，每次都会生成一个随机散点图。当然，它在后台使用 Numpy 和 Matplotlib。**
+这个应用程序是为了展示创造一个与用户互动的动态情节的能力。剧本在这里是<https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/DrawRandom.py>**。当你运行它时，会弹出一个窗口，有一个简单的按钮，你可以想按多少次就按多少次，每次都会生成一个随机散点图。当然，它在后台使用 Numpy 和 Matplotlib。**
 
 **![](img/cb1de98694d7d05e992200c18017e851.png)**
 
@@ -188,11 +180,7 @@ python SimpleDataFrame.py
 
 **这是图书馆的官方食谱。**
 
-**[](https://pysimplegui.readthedocs.io/en/latest/cookbook/) [## 食谱- PySimpleGUI
-
-### 回到烹饪书上已经有一段时间了。因此，一些信息使用了较旧的…
-
-pysimplegui.readthedocs.io](https://pysimplegui.readthedocs.io/en/latest/cookbook/) 
+**<https://pysimplegui.readthedocs.io/en/latest/cookbook/>  
 
 在本文中，我们展示了涵盖以下内容的示例
 
@@ -204,8 +192,4 @@ pysimplegui.readthedocs.io](https://pysimplegui.readthedocs.io/en/latest/cookboo
 
 ***喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我会收到您的一部分会员费，而不会对您产生额外的费用*** *。***
 
-**[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入 Medium—Tirthajyoti Sarkar
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)**
+**<https://medium.com/@tirthajyoti/membership> **

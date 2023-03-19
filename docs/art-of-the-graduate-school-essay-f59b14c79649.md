@@ -30,11 +30,7 @@
 
 对这个问题做研究——对我来说，我至少花了一个小时学习核心课程，教授专业领域，然后平静地在我的论文中阐述我自己的兴趣如何与这些专业相结合。下面我将链接我自己的一篇文章，在第二页的后半部分是“你对我的特别之处”:
 
-[](https://drive.google.com/file/d/1vpx1x1hNmyw8f1-bVxpII9b3ObwSXwjG/view) [## 嗯 SOP.pdf
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1vpx1x1hNmyw8f1-bVxpII9b3ObwSXwjG/view) 
+<https://drive.google.com/file/d/1vpx1x1hNmyw8f1-bVxpII9b3ObwSXwjG/view>  
 
 此外，如果他们在申请的另一部分问你还申请了哪些学校，只列出那些有类似硕士项目的学校*，他们目前在排名中击败了那些学校。*因此，如果斯坦福大学在数据科学方面的排名高于布朗大学和哥伦比亚大学，你可以像你考虑的其他学校一样，将这两所学校放在你的斯坦福大学申请中，但不要将斯坦福大学放在你的布朗大学或哥伦比亚大学申请中。接受一个最终没有上学的学生会让学校看起来更糟，所以如果他们认为一个非常合格的学生会去别的地方，他们就不会接受他。
 
@@ -90,15 +86,7 @@ GIPHY 的 GIF
 
 作为一名前文科毕业生，目前正在休寒假的数据科学研究生，只要一有机会，我就喜欢舒展我的写作双腿。我希望我使用的一些技巧对你完成自己的申请有所帮助。
 
-[](/how-i-got-into-12-data-science-masters-1eeddae21ba7) [## 我是如何进入 12 个数据科学硕士项目的
-
-### SOP，统计数据，所有的东西。
-
-towardsdatascience.com](/how-i-got-into-12-data-science-masters-1eeddae21ba7) [](/read-this-before-going-to-grad-school-for-data-science-890fd05d4127) [## 在读数据科学研究生之前，请阅读这篇文章
-
-### 提示 1:找到中间值，而不是平均值
-
-towardsdatascience.com](/read-this-before-going-to-grad-school-for-data-science-890fd05d4127) 
+</how-i-got-into-12-data-science-masters-1eeddae21ba7>  </read-this-before-going-to-grad-school-for-data-science-890fd05d4127>  
 
 就我个人而言，读研是我做过的最好的决定，我绝对**热爱**我每天所学的东西，并且我很高兴今后能在数据科学领域工作。也就是说，这条道路并不适合所有人，有许多方法可以开始自己的数据科学之旅-如果训练营或自学对你更好，那么尽一切努力去做吧！😊
 

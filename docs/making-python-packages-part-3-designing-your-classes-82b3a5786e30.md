@@ -131,12 +131,4 @@ token.pos_ #outputs the part of speech of that word at index 4
 
 这是本系列的第 1 部分和第 2 部分:
 
-[](https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f) [## 包第 1 部分:如何将 Python 包发布到 PyPI
-
-### 嘿！欢迎阅读这份关于如何将 python 包发布到 PyPI 的快速、有趣的指南。
-
-medium.com](https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f) [](https://medium.com/@skylar.kerzner/packages-part-2-how-to-publish-test-your-package-on-pypi-with-poetry-9fc7295df1a5) [## 包第 2 部分:如何在 PyPI 上发布和测试带有诗歌的包
-
-### 在本指南的上一版中，我们使用传统的 setup.py 向 PyPI 发布了一个 python 包。
-
-medium.com](https://medium.com/@skylar.kerzner/packages-part-2-how-to-publish-test-your-package-on-pypi-with-poetry-9fc7295df1a5)
+<https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f>  <https://medium.com/@skylar.kerzner/packages-part-2-how-to-publish-test-your-package-on-pypi-with-poetry-9fc7295df1a5> 

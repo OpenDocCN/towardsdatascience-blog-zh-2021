@@ -215,11 +215,7 @@ def loss_fn(predictions, targets):
 
 这还不是全部。请关注我的下一篇文章，关于如何应用高级培训技术来微调变压器模型。
 
-[](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [## 微调变压器的先进技术
-
-### 学习这些先进的技术，看看它们如何帮助改善结果
-
-towardsdatascience.com](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) 
+</advanced-techniques-for-fine-tuning-transformers-82e4e61e16e>  
 
 *如果你喜欢我的帖子，别忘了点击* [***关注***](https://peggy1502.medium.com/) *和* [***订阅***](https://peggy1502.medium.com/subscribe) *以获得邮件通知。*
 

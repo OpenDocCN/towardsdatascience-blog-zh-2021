@@ -43,16 +43,8 @@
 
 找出“V2:是什么造就了一个伟大的分析师？”：
 
-[](/v2-what-makes-a-great-data-analyst-bded5e71ec68) [## V2:怎样才能成为一名优秀的数据分析师？
-
-### 你需要的不仅仅是阅读和视频
-
-towardsdatascience.com](/v2-what-makes-a-great-data-analyst-bded5e71ec68) 
+</v2-what-makes-a-great-data-analyst-bded5e71ec68>  
 
 和 V1:
 
-[](/what-makes-a-great-data-analyst-f6577cef81a3) [## 怎样才能成为一名优秀的数据分析师？
-
-### 提示:没有确切的答案
-
-towardsdatascience.com](/what-makes-a-great-data-analyst-f6577cef81a3)
+</what-makes-a-great-data-analyst-f6577cef81a3> 

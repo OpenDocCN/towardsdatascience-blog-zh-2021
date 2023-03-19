@@ -12,11 +12,7 @@ WolvesOfTheTwilight 衍生作品:征服者，公共领域，通过维基共享
 
 对于一个从业者来说，公式、代码、必要的平台大多是借来的。我们可以在 Github 上或者网上一些代码分享空间找到代码。我们可以阅读和研究书籍或博客中的公式。我们必须掌握我们选择的平台的接口机制。对于从业者来说，在这些学科中取得成功的挑战存在于其他地方——存在于数据中。
 
-[](/how-to-implement-a-successful-data-cleaning-process-701e565e6575) [## 如何实施成功的数据清理流程
-
-### 因为你不能测量脏数据
-
-towardsdatascience.com](/how-to-implement-a-successful-data-cleaning-process-701e565e6575) 
+</how-to-implement-a-successful-data-cleaning-process-701e565e6575>  
 
 在当今数据驱动的世界中，数据是最具挑战性的方面。我们的数据经常是不完整的、肮脏的、损坏的，或者在一些罕见的情况下，根本没有收集。为数据科学或人工智能的工作准备数据需要大量的工作，而不是数据科学或 ML 本身。
 

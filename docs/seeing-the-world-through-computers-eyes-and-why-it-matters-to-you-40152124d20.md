@@ -125,4 +125,4 @@
 3.  [虚拟人的深度学习](https://learning.oreilly.com/library/view/deep-learning-for/9781119543046/c01.xhtml)
 4.  [OpenCV 计算机视觉实用介绍](https://learning.oreilly.com/library/view/a-practical-introduction/9781118848739/c01.xhtml)
 
-*原载于 2021 年 2 月 15 日 http://thedigitalskye.com*[](http://thedigitalskye.com/2021/02/16/seeing-the-world-through-computers-eyes-and-why-it-matters/)**。**
+*原载于 2021 年 2 月 15 日 http://thedigitalskye.com*<http://thedigitalskye.com/2021/02/16/seeing-the-world-through-computers-eyes-and-why-it-matters/>**。**

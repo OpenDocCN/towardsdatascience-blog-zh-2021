@@ -177,24 +177,4 @@ Pandas 是一个非常棒的数据分析和数据科学图书馆。它有大量�
 
 你最喜欢的熊猫功能是什么？让我知道你的想法。
 
-[](https://brinkhuis.medium.com/find-the-topics-your-medium-story-was-curated-into-automagically-f9dbf297d029) [## 找到你的媒体故事自动策划的主题
-
-### 在一个简单易用的 Python 脚本的帮助下…
-
-brinkhuis.medium.com](https://brinkhuis.medium.com/find-the-topics-your-medium-story-was-curated-into-automagically-f9dbf297d029) [](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [## 在 Pluto 笔记本中使用 Julia 进行反应数据分析
-
-### 当你喜欢朱庇特的时候，你就会爱上冥王星！
-
-towardsdatascience.com](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [](/plotting-thematic-maps-using-shapefiles-in-julia-6a926ef77721) [## 在 Julia 中使用 Shapefiles 绘制专题地图
-
-### 如何在 Julia 中使用 Plots 包绘制 choropleth 图？
-
-towardsdatascience.com](/plotting-thematic-maps-using-shapefiles-in-julia-6a926ef77721) [](/getting-started-with-data-analysis-in-julia-421ce0032916) [## Julia 中的数据分析入门
-
-### 关于 Julia 中数据分析入门的温和介绍性指南。
-
-towardsdatascience.com](/getting-started-with-data-analysis-in-julia-421ce0032916) [](/how-to-setup-project-environments-in-julia-ec8ae73afe9c) [## 如何在 Julia 中设置项目环境
-
-### 介绍 Julia 的内置包管理器，用于生成项目环境和管理包…
-
-towardsdatascience.com](/how-to-setup-project-environments-in-julia-ec8ae73afe9c)
+<https://brinkhuis.medium.com/find-the-topics-your-medium-story-was-curated-into-automagically-f9dbf297d029>  </reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e>  </plotting-thematic-maps-using-shapefiles-in-julia-6a926ef77721>  </getting-started-with-data-analysis-in-julia-421ce0032916>  </how-to-setup-project-environments-in-julia-ec8ae73afe9c> 

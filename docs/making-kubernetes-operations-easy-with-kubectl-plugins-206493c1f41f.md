@@ -66,16 +66,4 @@ Gabriel Crismariu 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_m
 
 *本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/58?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_58)
 
-[](/could-kubernetes-pods-ever-become-deprecated-e8ee6b4b8066) [## Kubernetes 豆荚会被废弃吗？
-
-### Pods、服务或部署等资源会被弃用并从 Kubernetes 中删除吗？如何…
-
-towardsdatascience.com](/could-kubernetes-pods-ever-become-deprecated-e8ee6b4b8066) [](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [## yq:在命令行中掌握 YAML 处理
-
-### 学习使用 yq 命令行实用程序和这个简单的备忘单更有效地解析和操作 YAML 文件
-
-towardsdatascience.com](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [## 调试 Kubernetes 工作负载的最简单方法
-
-### 对 Kubernetes 上运行的任何应用程序进行调试和故障排除的最快最简单的方法…
-
-towardsdatascience.com](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75)
+</could-kubernetes-pods-ever-become-deprecated-e8ee6b4b8066>  </yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823>  </the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75> 

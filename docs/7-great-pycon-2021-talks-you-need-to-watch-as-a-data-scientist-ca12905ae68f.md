@@ -14,7 +14,7 @@
 
 PyCon 通常包括针对从初学者到专家的所有级别的不同 Python 相关主题的讲座、教程和研讨会。因此，每当我想学习或者更新我的知识时，在去 Google 寻找不同种类的教程和信息之前，我首先尝试寻找以前 PyCons 的相关演讲。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -56,11 +56,7 @@ PyCon 讲座、教程和研讨会是 Python 相关信息的最有用和最可靠
 
 第一个也是最主要的 PyCon 是美版，往往在上半年举行。PyCon US 2021 在 5 月举行，包含数百个讲座和教程，针对所有经验水平的人，重点关注 Python 的不同方面。即使您是编程世界和 Python 的新手，我也可以保证您会找到一些与您的水平相匹配的 PyCon 讲座，并为您提供有用的信息。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 Python 是一种非常通用的语言，可以在许多应用程序中使用，但 Python 最常见的应用领域之一是数据科学。在这篇文章中，我提出了 7 个令人惊叹的 PyCon US 2021 讲座，它们都与数据科学相关，并且充满了对所有级别的数据科学家都有用的信息。
 

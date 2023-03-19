@@ -155,18 +155,6 @@ def main():
 
 # 参考资料:
 
-[](/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64) [## K-Means 聚类和 PCA 通过相似的音频特征对音乐进行分类
-
-### 一个无人监督的机器学习项目来组织我的音乐
-
-towardsdatascience.com](/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64) [](/end-to-end-deployment-of-a-machine-learning-model-using-flask-dc456abcc6da) [## 使用 Flask 的机器学习模型的端到端部署
-
-### 使用 Flask 设计和构建利用机器学习的端到端 Web 应用程序
-
-towardsdatascience.com](/end-to-end-deployment-of-a-machine-learning-model-using-flask-dc456abcc6da) [](/pipenv-to-heroku-easy-app-deployment-1c60b0e50996) [## Pipenv 到 Heroku:轻松部署应用程序
-
-### 使用 Pipenv 将应用程序从 GitHub 部署到 Heroku 的指南
-
-towardsdatascience.com](/pipenv-to-heroku-easy-app-deployment-1c60b0e50996) 
+</k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64>  </end-to-end-deployment-of-a-machine-learning-model-using-flask-dc456abcc6da>  </pipenv-to-heroku-easy-app-deployment-1c60b0e50996>  
 
 *   [https://python-adv-we b-apps . readthedocs . io/en/latest/flask _ DB2 . html](https://python-adv-web-apps.readthedocs.io/en/latest/flask_db2.html)

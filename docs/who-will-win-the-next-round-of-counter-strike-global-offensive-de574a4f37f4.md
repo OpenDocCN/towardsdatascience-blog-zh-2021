@@ -4,7 +4,7 @@
 
 ## *使用贝叶斯统计预测回合获胜概率*
 
-*的文章、代码和数据可以在 github 上的*[](https://github.com/PaulHiemstra/bayes_csgo_round)*找到*
+*的文章、代码和数据可以在 github 上的*<https://github.com/PaulHiemstra/bayes_csgo_round>*找到*
 
 # *介绍*
 

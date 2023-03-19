@@ -146,16 +146,4 @@ w2v.train(sentences=corpus, total_examples=w2v.corpus_count, epochs=10)
 
 ## 相关文章
 
-[](/a-guide-to-cleaning-text-in-python-943356ac86ca?source=collection_tagged---------0----------------------------) [## Python 文本清理指南
-
-### 文本是非结构化数据的一种形式。根据维基百科，非结构化数据被描述为“信息…
-
-towardsdatascience.com](/a-guide-to-cleaning-text-in-python-943356ac86ca?source=collection_tagged---------0----------------------------) [](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [## 情绪分析:预测一条推文是否是关于一场灾难
-
-### 探索自然语言处理
-
-towardsdatascience.com](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245)
+</a-guide-to-cleaning-text-in-python-943356ac86ca?source=collection_tagged---------0---------------------------->  </5-ideas-for-your-next-nlp-project-c6bf5b86935c>  </sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245> 

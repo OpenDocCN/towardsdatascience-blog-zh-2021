@@ -8,21 +8,13 @@
 
 TLDR；ML 的未来是[朱莉娅](https://julialang.org)。如果你正在寻找一个快速的答案，你有它。如果你想要一个合理的解释，留下来。不要只相信我的话:
 
-[](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276) [## 我们要去哪里，为什么它看起来很像朱莉娅(但不完全像朱莉娅)
-
-### 当试图预测 PyTorch 本身将如何被破坏时，我们过去常常拿 PyTorch 的下一个版本开玩笑…
-
-dev-discuss.pytorch.org](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276) 
+<https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276>  
 
 *(上面的帖子总结道:PyTorch 开发者想要 Julia 提供的所有功能，但他们还不想在 Julia 中重写 PyTorch，因为生态系统还不够成熟)*
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《茱莉亚速成班》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse) [## 朱莉娅速成班(电子书预购)
-
-### Julia 速成课程是使用 Julia 编程语言的实践指南，是为初学者编写的。我们接受…
-
-logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcourse) 
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 概观🌄
 
@@ -54,11 +46,7 @@ logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcou
 
 我在我的帖子中提到了这一点:
 
-[](https://medium.com/@logankilpatrick/why-you-should-invest-in-julia-now-as-a-data-scientist-30dc346d62e4) [## 作为一名数据科学家，您现在为什么应该投资 Julia
-
-### Julia 是一种高级的动态编程语言，它的速度和 C 或 C++一样快，同时又像……
-
-medium.com](https://medium.com/@logankilpatrick/why-you-should-invest-in-julia-now-as-a-data-scientist-30dc346d62e4) 
+<https://medium.com/@logankilpatrick/why-you-should-invest-in-julia-now-as-a-data-scientist-30dc346d62e4>  
 
 但是由于 Julia 处理类似[多维数组](https://docs.julialang.org/en/v1/manual/arrays/)的方式，您可以避免使用类似 Numpy(有时会在 Tensorflow 中看到)和 Tensors(在 PyTorch 中使用，基本上是一个重新命名的 Numpy 数组)的包。
 
@@ -235,11 +223,7 @@ Flux 落后于其他 ML 库的最大领域之一是社区书面内容。如果�
 
 迁移学习是机器学习中最酷的事情之一。我们可以采用为特定用例构建的模型，并对它们进行微调以适应新的用例。我们来对比一下 Tensorflow 和 Julia 的迁移学习的代码。你可以在 GitHub 上找到 Julia 代码:
 
-[](https://github.com/logankilpatrick/DeepLearningWithJulia) [## GitHub-logankilpatrick/Deep Learning with Julia:与 Julia 深度学习一书，使用 Flux.jl。
-
-### DL with Julia 是一本关于如何使用 Julia 编程语言完成各种深度学习任务的书
-
-github.com](https://github.com/logankilpatrick/DeepLearningWithJulia) 
+<https://github.com/logankilpatrick/DeepLearningWithJulia>  
 
 在:[https://github . com/logankilpatrick/DeepLearningWithJulia/blob/main/src/transfer _ learning . ipynb](https://github.com/logankilpatrick/DeepLearningWithJulia/blob/main/src/transfer_learning.ipynb)下面还有一个 Tensorflow 的例子:[https://www . tensor flow . org/tutorials/images/transfer _ learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
@@ -321,11 +305,7 @@ model = tf.keras.Model(inputs, outputs)
 
 如果您有兴趣阅读更多关于将 Python 和 Julia 集成在一起的内容，请查看:
 
-[](/working-with-flux-jl-models-on-the-hugging-face-hub-b95af2b80a47) [## 在拥抱面中枢上使用 Flux.jl 模型🤗
-
-### 如何使用 Julia 深度学习库与拥抱脸模型进行交互
-
-towardsdatascience.com](/working-with-flux-jl-models-on-the-hugging-face-hub-b95af2b80a47) 
+</working-with-flux-jl-models-on-the-hugging-face-hub-b95af2b80a47>  
 
 # 总结想法🎬
 

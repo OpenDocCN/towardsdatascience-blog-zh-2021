@@ -309,11 +309,7 @@ Washington DC  Washington  87
 
 为了简单起见，本文将只涉及第一点。然而，在下面的文章中，我将解释如何在 Python 中标记文本。
 
-[](/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4) [## 用 Python 标记文本的 5 种简单方法
-
-### 标记文本、大型语料库和不同语言的句子。
-
-towardsdatascience.com](/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4) 
+</5-simple-ways-to-tokenize-text-in-python-92c6804edfc4>  
 
 ## 处理不一致的大写
 
@@ -333,11 +329,7 @@ towardsdatascience.com](/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4)
 
 正则表达式(regex)可能看起来令人生畏，但它们比您想象的要简单，并且在从文本数据中提取信息时至关重要。在下面的链接中，你会发现我为轻松学习正则表达式而制作的简单指南。
 
-[](/a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081) [## 简单直观的正则表达式指南
-
-### 轻松地从任何文本中提取信息。
-
-towardsdatascience.com](/a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081) 
+</a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081>  
 
 # 8.合并数据集
 
@@ -366,22 +358,10 @@ Netflix   TV Show    1009
 
 你仍然可以清理更多(如果必要的话)或者在你的数据科学项目中使用这些数据，就像我找到最好的[网飞](/the-best-netflix-movies-series-to-learn-english-according-to-data-science-dec7b047b164)和[迪斯尼](/the-best-disney-movies-to-learn-a-foreign-language-according-to-data-science-45e7fd084a78)电影来学习外语一样(NLP 项目)
 
-[](/the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23) [## 根据数据科学，学习外语的最佳电影
-
-### 有史以来最大的电影对白词汇分析。找出前 3000 部分析过的电影中哪些是最好的…
-
-towardsdatascience.com](/the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23) 
+</the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23>  
 
 下面是一些我争论真实世界数据的项目:
 
-[](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [## 我曾经每年花 180 美元购买一个有利可图的赌博工具。今年我用 Python 做了一个
-
-### 完整的代码创建一个足球博彩工具与熊猫和硒。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [](https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098) [## 用 Python 赚钱——体育套利项目
-
-### 充分代码，使额外的钱与体育套利。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098) 
+<https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f>  <https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098>  
 
 *。*

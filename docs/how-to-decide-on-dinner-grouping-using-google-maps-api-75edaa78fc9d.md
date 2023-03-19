@@ -58,4 +58,4 @@
 
 也就这样了！这不是一个非常困难的问题，但如果手动完成，可能会很乏味。使用 Google Maps API 可以让人们更容易找到地点之间的距离，然后相应地对它们进行排序。
 
-*原载于*[](http://zachlim98.github.io/me)**。**
+*原载于*<http://zachlim98.github.io/me>**。**

@@ -44,11 +44,7 @@
 
 我们将要创建的 dag 的代码可以在[https://github.com/jkachhadia/airflowdags101](https://github.com/jkachhadia/airflowdags101)获得
 
-[](https://github.com/jkachhadia/airflowdags101) [## jkachhadia/airflowdags101
-
-### 气流图编写介绍。通过在…上创建帐户，为 jkachhadia/airflowdags101 的开发做出贡献
-
-github.com](https://github.com/jkachhadia/airflowdags101) 
+<https://github.com/jkachhadia/airflowdags101>  
 
 在本博客中使用之前，我们将使用这种方法来解释事情。
 
@@ -158,11 +154,7 @@ Wohoo！我们在气流中创造了第一个 dag。你可以调整很多东西�
 
 如果你想看到真实世界的气流例子，那么你可以看看[照明](https://illuminating.ischool.syr.edu/campaign_2020/)，这是我在计算和数据科学中心工作的一个研究项目，我负责该项目的整个数据工程和 ML 基础设施。你可以在这里查看详细的博客。
 
-[](/2020-us-elections-how-we-use-data-science-to-unfold-ad-strategies-of-biden-and-trump-with-200095dd369a) [## 2020 年美国大选:我们如何使用数据科学来展开拜登和特朗普的广告战略…
-
-### 这篇博客介绍了我们挖掘乔·拜登和唐纳德·特朗普的广告策略的方法
-
-towardsdatascience.com](/2020-us-elections-how-we-use-data-science-to-unfold-ad-strategies-of-biden-and-trump-with-200095dd369a) ![](img/92b21b8f7fbc17fb886bb05cb0155e27.png)
+</2020-us-elections-how-we-use-data-science-to-unfold-ad-strategies-of-biden-and-trump-with-200095dd369a>  ![](img/92b21b8f7fbc17fb886bb05cb0155e27.png)
 
 照亮 2020 的气流仪表板
 

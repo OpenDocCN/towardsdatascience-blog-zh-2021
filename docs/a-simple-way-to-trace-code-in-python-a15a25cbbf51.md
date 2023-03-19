@@ -60,11 +60,7 @@ tracer.py
 
 *要了解这些概念的更多信息，请阅读这篇三分钟的文章。*
 
-[](/decorators-and-closures-by-example-in-python-382758321164) [## Python 中的装饰器和闭包示例
-
-### 如何使用装饰器增强函数的行为
-
-towardsdatascience.com](/decorators-and-closures-by-example-in-python-382758321164) 
+</decorators-and-closures-by-example-in-python-382758321164>  
 
 # 这个装饰器的可重用性
 

@@ -90,11 +90,7 @@
 
 有关定制训练循环的更多信息和代码，您可以在这里查看我的[模板](/a-template-for-custom-and-distributed-training-c24e17bd5d8d):
 
-[](/a-template-for-custom-and-distributed-training-c24e17bd5d8d) [## 定制和分布式培训的模板
-
-### 使用此模板快速编写自定义张量流算法
-
-towardsdatascience.com](/a-template-for-custom-and-distributed-training-c24e17bd5d8d) 
+</a-template-for-custom-and-distributed-training-c24e17bd5d8d>  
 
 ## 适当设置超参数
 

@@ -95,19 +95,7 @@ models, predictions = reg.fit(X_train, X_test, y_train, y_test)
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/my-experience-as-a-data-scientist-in-a-startup-13ae037780d0) [## 我在一家初创公司担任数据科学家的经历
-
-### 在一家“较小”的公司担任数据科学家时，主要需要做些什么？
-
-towardsdatascience.com](/my-experience-as-a-data-scientist-in-a-startup-13ae037780d0) [](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [## 脸书的先知+深度学习= NeuralProphet
-
-### 用深度学习的力量改进可解释的先知模型
-
-towardsdatascience.com](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [](/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c) [## Python 统计块中的新成员:pingouin
-
-### 图书馆的快速参观，以及它是如何从老守卫中脱颖而出的
-
-towardsdatascience.com](/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c) 
+</my-experience-as-a-data-scientist-in-a-startup-13ae037780d0>  </facebooks-prophet-deep-learning-neuralprophet-76796aed1d86>  </the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c>  
 
 # 参考
 

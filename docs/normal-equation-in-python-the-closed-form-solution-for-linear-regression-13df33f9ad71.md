@@ -19,15 +19,7 @@
 *   第 3 部分:[使用 Python 的正规方程:线性回归的封闭解](/normal-equation-in-python-the-closed-form-solution-for-linear-regression-13df33f9ad71?source=your_stories_page-------------------------------------)
 *   第 4 部分:[Python 中从头开始的多项式回归](/polynomial-regression-in-python-b69ab7df6105)
 
-[](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) [## Python 中从头开始的线性回归
-
-### 从零开始的机器学习:第 1 部分
-
-medium.com](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) [](/locally-weighted-linear-regression-in-python-3d324108efbf) [## Python 中的局部加权线性回归
-
-### 从零开始的机器学习:第 2 部分
-
-towardsdatascience.com](/locally-weighted-linear-regression-in-python-3d324108efbf) 
+<https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d>  </locally-weighted-linear-regression-in-python-3d324108efbf>  
 
 # 梯度下降概述
 

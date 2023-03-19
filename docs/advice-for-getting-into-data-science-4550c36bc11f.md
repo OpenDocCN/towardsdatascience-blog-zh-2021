@@ -68,8 +68,4 @@ Roberto Nickson 在 Unsplash 上的照片
 
 要获得更多关于如何开始学习数据科学的建议，请查看 Arunn the vaplan 撰写的这篇文章！
 
-[](/3-beginner-mistakes-ive-made-in-my-data-science-career-a177f1cf751b) [## 我在数据科学职业生涯中犯的 3 个初级错误
-
-### 写这个感觉像职业自杀
-
-towardsdatascience.com](/3-beginner-mistakes-ive-made-in-my-data-science-career-a177f1cf751b)
+</3-beginner-mistakes-ive-made-in-my-data-science-career-a177f1cf751b> 

@@ -196,7 +196,7 @@ wget h[ttps://www.trafforddatalab.io/council_open_data/assets/leisure_centres/le
 
 # 参考
 
-凯尔西·乔达尔、乔里斯·范登博舍、马丁·弗莱施曼、雅各布·乏色曼、詹姆斯·麦克布莱德、杰弗里·杰拉德……弗朗索瓦·勒布朗。(2020 年 7 月 15 日)。geo pandas/geo pandas:v 0 . 8 . 1(v 0 . 8 . 1 版)。芝诺多。可用时间:[](http://doi.org/10.5281/zenodo.3946761)**。**
+凯尔西·乔达尔、乔里斯·范登博舍、马丁·弗莱施曼、雅各布·乏色曼、詹姆斯·麦克布莱德、杰弗里·杰拉德……弗朗索瓦·勒布朗。(2020 年 7 月 15 日)。geo pandas/geo pandas:v 0 . 8 . 1(v 0 . 8 . 1 版)。芝诺多。可用时间:<http://doi.org/10.5281/zenodo.3946761>**。**
 
 *osdatahub.os.uk. (2021)。 *OS 数据中枢*。[在线]可从[https://osdatahub.os.uk/.](https://osdatahub.os.uk/.)获得*
 

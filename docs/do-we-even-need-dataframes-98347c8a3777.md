@@ -16,11 +16,7 @@
 
 我最近用一种新的方法和途径创建了一个用 Julia 语言处理数据的包。这样做部分是因为我对 DataFrames.jl 的某些方面感到失望，但也只是为了实验。然而，我认为这个项目也教会了我更多关于我们可以用来处理数据的不同策略，这些策略的优点和缺点，以及为什么某些策略可以用于不同的应用程序。我所指的包是 OddFrames.jl，它是 Julia 编程语言中 dictionary 数据类型的面向对象包装器。如果您想了解关于这个包的更多信息，我写了一整篇文章来介绍它，您可以在这里阅读:
 
-[](/introducing-oddframes-jl-data-in-one-dimension-296e1389c27a) [## OddFrames.jl 简介:一维数据
-
-### 我厌倦了 DataFrames 的工作方式，所以我自己做了一个。
-
-towardsdatascience.com](/introducing-oddframes-jl-data-in-one-dimension-296e1389c27a) 
+</introducing-oddframes-jl-data-in-one-dimension-296e1389c27a>  
 
 这遵循了一个非常规的想法
 

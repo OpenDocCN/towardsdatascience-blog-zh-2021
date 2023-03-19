@@ -12,21 +12,13 @@
 
 实验是伟大的，但总有一天你真的想建造一些有形的东西，让别人从中受益——至少我知道我的时间到了。正是因为这个原因，我一直在提高我的编程和软件工程技能，因为这些技能在将实验性机器学习项目投入生产中发挥着至关重要的作用。
 
-[](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [## 数据科学家应该知道软件工程的最佳实践
-
-### 成为不可或缺的数据科学家
-
-towardsdatascience.com](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) 
+</data-scientist-should-know-software-engineering-best-practices-f964ec44cada>  
 
 ## 动机
 
 我的文章的读者，特别是那些阅读了 [*的读者，当我意识到数据科学证书不会推动我的职业发展*](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) 时，他们会知道我更喜欢在发展新技能时采取动手的方式。因此，我决定自己开发一个有趣的井字游戏项目，让自己熟悉 Python 的面向对象编程(OOP ),然后我将项目打包并上传到 PyPI——是的，这意味着您可以直接安装我的项目。
 
-[](https://github.com/kurtispykes/board_games) [## kurtispykes/棋盘游戏
-
-### 井字游戏(Tic-tac-toe)是两个玩家 X 和 O 玩的纸笔游戏，他们…
-
-github.com](https://github.com/kurtispykes/board_games) 
+<https://github.com/kurtispykes/board_games>  
 
 ## 步骤 1 —添加结构
 
@@ -111,11 +103,7 @@ py -m twine upload --repository testpypi dist/*
 
 从您的终端运行上面的命令将提示您插入用于注册 TestPyPI 的用户名和密码。完成后，您的包现在应该可以在 TestPyPI 上看到了。这是我的…
 
-[](https://test.pypi.org/project/board-game-kurtispykes/0.0.1/) [## 棋盘游戏-kurtispykes
-
-### 井字游戏(Tic-tac-toe)是两个玩家 X 和 O 玩的纸笔游戏，他们…
-
-test.pypi.org](https://test.pypi.org/project/board-game-kurtispykes/0.0.1/) 
+<https://test.pypi.org/project/board-game-kurtispykes/0.0.1/>  
 
 ## 步骤 5 —安装软件包
 
@@ -143,10 +131,6 @@ pip install -i https://test.pypi.org/simple/ board-game-kurtispykes==0.0.1
 
 ## 相关文章
 
-[](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) [## 3 种方法可以极大地提高你自己的编程技能
-
-towardsdatascience.com](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) [](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [## 如何创建引人注目的 Github 产品组合
-
-towardsdatascience.com](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [## 自学成才的数据专业人员的 5 条法则
+</3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099>  </5-laws-for-self-taught-data-professionals-4bf351ac5c24> [## 自学成才的数据专业人员的 5 条法则
 
 towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24)

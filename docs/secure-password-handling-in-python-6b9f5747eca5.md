@@ -91,16 +91,4 @@
 
 *本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/59?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_59)
 
-[](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [## 使用 Python 调度各种循环作业
-
-### 让我们探索一下运行 cron 作业、延迟任务、重复任务或任何其他计划作业的所有库…
-
-towardsdatascience.com](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [](/the-unknown-features-of-pythons-operator-module-1ad9075d9536) [## Python 的运算符模块的未知特性
-
-### 借助 Python 鲜为人知的操作符模块，使您的代码更快、更简洁、可读性更强、功能更强大
-
-towardsdatascience.com](/the-unknown-features-of-pythons-operator-module-1ad9075d9536) [](/the-magic-of-python-context-managers-adb92ace1dd0) [## Python 上下文管理器的魔力
-
-### 使用和创建令人敬畏的 Python 上下文管理器的方法，这将使你的代码更具可读性、可靠性和…
-
-towardsdatascience.com](/the-magic-of-python-context-managers-adb92ace1dd0)
+</scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc>  </the-unknown-features-of-pythons-operator-module-1ad9075d9536>  </the-magic-of-python-context-managers-adb92ace1dd0> 

@@ -58,16 +58,4 @@
 
 ## 你可能也会喜欢…
 
-[](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) [## 我作为数据工程师学到的 6 个最佳实践
-
-### 以及作为数据科学家如何应用它们
-
-towardsdatascience.com](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) [](/how-to-troubleshoot-etl-issues-like-a-data-engineer-d761f7d361d4) [## 数据科学家如何像数据工程师一样解决 ETL 问题
-
-### 常见原因及其处理方法
-
-towardsdatascience.com](/how-to-troubleshoot-etl-issues-like-a-data-engineer-d761f7d361d4) [](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1) [## 如何对异常 KPI 变化进行故障排除
-
-### 调查 DAU 下降的案例研究
-
-towardsdatascience.com](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1)
+</6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa>  </how-to-troubleshoot-etl-issues-like-a-data-engineer-d761f7d361d4>  </how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1> 

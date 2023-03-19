@@ -167,16 +167,4 @@ df_all[1].to_csv('source/places.csv')
 
 # 相关文章
 
-[](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) [## 如何在 Python 中操作后恢复文本文档的原始布局
-
-### 少于 10 行的代码，用于在操作后保留文本文档的布局，例如文本…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) [](/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e) [## 如何通过 Python 空间从文本中提取结构化信息
-
-### 关于如何从文本构建结构化数据集的现成教程。
-
-towardsdatascience.com](/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d)
+<https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95>  </how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d> 

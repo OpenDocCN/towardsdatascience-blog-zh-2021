@@ -45,12 +45,4 @@
 
 **如果你喜欢这篇文章，你可能也会喜欢:**
 
-[](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566) [## 性能曲线:比 ROC/PRC 更直观，比阈值指标更少假设
-
-### 一种结合两者优点的二元分类器评价方法
-
-towardsdatascience.com](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566) [](/the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064) [## 精确召回曲线下面积的正确与错误
-
-### 总结 AUPRC 的方法有很多，但并不是所有的方法都有相同的优点
-
-towardsdatascience.com](/the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064)
+</performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566>  </the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064> 

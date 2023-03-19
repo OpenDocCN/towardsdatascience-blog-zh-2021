@@ -24,11 +24,7 @@
 
 每种机器学习算法都需要不同的方式来探索数据集，以获得有价值的见解。我使用了以下三种技术来研究手头的数据。要查看更全面的 EDA 指南，请查看我的博客。
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 ## 1.唯一计数和数据形状
 
@@ -137,11 +133,7 @@ SVD 提取**潜在特征**(它不是数据集中包含的实际特征，而是�
 
 协同过滤技术将推荐系统表示为一个回归模型，其输出是一个数字评分值。因此，我们可以将回归评估指标应用到我们的推荐系统中。如果您想深入了解常见的回归评估指标，例如线性回归，您可能会发现“[简单实用的线性回归指南](https://www.visual-design.net/post/a-simple-practical-guide-to-linear-regression)”中的模型评估部分很有帮助。
 
-[](/a-practical-guide-to-linear-regression-3b1cb9e501a6) [## 线性回归实用指南
-
-### 从 EDA 到特征工程再到模型评估
-
-towardsdatascience.com](/a-practical-guide-to-linear-regression-3b1cb9e501a6) 
+</a-practical-guide-to-linear-regression-3b1cb9e501a6>  
 
 在这个练习中，我用以下两种方法来评估 KNN 和奇异值分解。
 
@@ -286,18 +278,6 @@ KNN vs SVD 推荐(图片来自作者的[网站](https://www.visual-design.net/)
 
 ## 更多这样的文章
 
-[](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) [## 客户细分的聚类算法
-
-### K-均值聚类的逐步指南
-
-towardsdatascience.com](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) [](/a-practical-guide-to-linear-regression-3b1cb9e501a6) [## 线性回归实用指南
-
-### 从 EDA 到特征工程再到模型评估
-
-towardsdatascience.com](/a-practical-guide-to-linear-regression-3b1cb9e501a6) [](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) 
+</clustering-algorithm-for-customer-segmentation-e2d79e28cbc3>  </a-practical-guide-to-linear-regression-3b1cb9e501a6>  </simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  
 
 *原载于 2021 年 12 月 6 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)*。*

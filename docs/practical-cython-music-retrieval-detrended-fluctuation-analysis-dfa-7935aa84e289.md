@@ -10,21 +10,13 @@
 
 我们能揭开长期事件隐藏的本质吗？图片由[艾萨克·史密斯](https://unsplash.com/@isaacmsmith)在 [Unsplash](https://unsplash.com/photos/AT77Q0Njnt0) 上拍摄
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
+<https://medium.com/@stefanobosisio1/membership>  
 
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
-
-欢迎回到我的 Cython 教程！今天我们将讨论一种广泛使用的技术，叫做[去趋势波动分析(DFA)](https://en.wikipedia.org/wiki/Detrended_fluctuation_analysis) 。DFA 在音乐 [](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3EC936FFC4219B5D769FDACC62EC6464?doi=10.1.1.73.8209&rep=rep1&type=pdf) [](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2011.0118)和金融 [](https://www.researchgate.net/profile/Hui_Xiong10/publication/302473805_Detrended_fluctuation_analysis_of_multivariate_time_series/links/5f88ed75299bf1b53e2bf44e/Detrended-fluctuation-analysis-of-multivariate-time-series.pdf) [⁴](https://people.engr.ncsu.edu/jwilson/files/mfdfa-pafts.pdf) 中得到了广泛的应用，能够捕捉时间序列和非平稳信号中的相关趋势——即随时间变化的信号。自 50 年代以来，这种分析方法的思想简单直接，并且在数学上有很好的基础。一旦你理解了基本的实现，你将能够进一步扩展这个分析，创建一个多趋势分析以及混沌系统[波动分析](https://www.hindawi.com/journals/mpe/2016/2865195/)的扩展。在本教程的最后，你将掌握 DFA 技术，并了解如何在 Cyhton 中处理多个 C 文件，以及在编译时做什么。
+欢迎回到我的 Cython 教程！今天我们将讨论一种广泛使用的技术，叫做[去趋势波动分析(DFA)](https://en.wikipedia.org/wiki/Detrended_fluctuation_analysis) 。DFA 在音乐 <http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3EC936FFC4219B5D769FDACC62EC6464?doi=10.1.1.73.8209&rep=rep1&type=pdf> <https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2011.0118>和金融 <https://www.researchgate.net/profile/Hui_Xiong10/publication/302473805_Detrended_fluctuation_analysis_of_multivariate_time_series/links/5f88ed75299bf1b53e2bf44e/Detrended-fluctuation-analysis-of-multivariate-time-series.pdf> [⁴](https://people.engr.ncsu.edu/jwilson/files/mfdfa-pafts.pdf) 中得到了广泛的应用，能够捕捉时间序列和非平稳信号中的相关趋势——即随时间变化的信号。自 50 年代以来，这种分析方法的思想简单直接，并且在数学上有很好的基础。一旦你理解了基本的实现，你将能够进一步扩展这个分析，创建一个多趋势分析以及混沌系统[波动分析](https://www.hindawi.com/journals/mpe/2016/2865195/)的扩展。在本教程的最后，你将掌握 DFA 技术，并了解如何在 Cyhton 中处理多个 C 文件，以及在编译时做什么。
 
 所有代码都存储在这个存储库中:
 
-[](https://github.com/Steboss/music_retrieval/tree/master/dfa) [## ste boss/音乐 _ 检索
-
-### 用于检索音乐信息的 python-c-cython 工具小套件
-
-github.com](https://github.com/Steboss/music_retrieval/tree/master/dfa) 
+<https://github.com/Steboss/music_retrieval/tree/master/dfa>  
 
 这次没有对应的版本，但是许多用户已经实现了他们自己的 Python DFA 版本，例如:[https://github.com/dokato/dfa](https://github.com/dokato/dfa)
 

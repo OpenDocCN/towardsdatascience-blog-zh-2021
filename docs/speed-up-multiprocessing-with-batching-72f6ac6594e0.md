@@ -27,11 +27,7 @@ f(x)
 
 *你可以在* [*这个库*](https://github.com/edkrueger/concurrency_with_joblib) *里找到下面的代码和图形。*
 
-[](https://github.com/edkrueger/concurrency_with_joblib) [## GitHub-edkrueger/concurrency _ with _ joblib
-
-### 在 GitHub 上创建一个账号，为 edkrueger/concurrency _ with _ joblib 开发做贡献。
-
-github.com](https://github.com/edkrueger/concurrency_with_joblib) 
+<https://github.com/edkrueger/concurrency_with_joblib>  
 
 # 什么是批处理？
 
@@ -71,11 +67,7 @@ Joblib 提供了一个简单的助手类来使用多重处理编写并行化的�
 
 请记住，joblib 可以做得更多！查看 Pratik Gandhi 的这篇文章，看看如何在管道中使用它。
 
-[](/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d) [## 使用 joblib 加速 Python 管道
-
-### 让您的 Python 工作得更快！
-
-towardsdatascience.com](/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d) 
+</using-joblib-to-speed-up-your-python-pipelines-dd97440c653d>  
 
 # 我们的并发模式
 

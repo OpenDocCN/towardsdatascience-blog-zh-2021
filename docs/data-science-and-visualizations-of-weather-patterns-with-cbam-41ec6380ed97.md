@@ -16,11 +16,7 @@
 
 要了解和学习有关可视化技术的更多信息，请随时查看下面的文章，该文章涵盖了您的数据科学项目需要考虑的八种最佳可视化方法。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 # 了解 CBAM 模式:
 
@@ -96,24 +92,8 @@ function initMap() {
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
+</best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8> [## 在各种预算范围内，最适合深度学习的电脑
 
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) 
+towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  </7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  </15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

@@ -96,24 +96,4 @@ Leaky ReLU 在 x > 0 时产生导数为 1 的线性，然后在 x ≤ 0 时产�
 
 ## 参考
 
-[](https://arxiv.org/abs/1803.08375#:~:text=We%20introduce%20the%20use%20of,function%20as%20their%20classification%20function) [## 使用校正线性单元(ReLU)的深度学习
-
-### 我们介绍了在深度神经网络(DNN)中使用校正线性单元(ReLU)作为分类函数
-
-arxiv.org](https://arxiv.org/abs/1803.08375#:~:text=We%20introduce%20the%20use%20of,function%20as%20their%20classification%20function) [](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B08FH8Y533/ref=sr_1_2?dchild=1&keywords=deep+learning&qid=1605266647&s=digital-text&sr=1-2) [## 深度学习(自适应计算和机器学习系列)
-
-### Amazon.com:深度学习(自适应计算和机器学习系列)电子书:Goodfellow、Ian、Bengio、yo shua……
-
-www.amazon.com](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B08FH8Y533/ref=sr_1_2?dchild=1&keywords=deep+learning&qid=1605266647&s=digital-text&sr=1-2) [](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622/ref=sr_1_1?dchild=1&keywords=Neural+Networks+and+Deep+Learning&qid=1605266979&sr=8-1) [## 神经网络和深度学习:教科书
-
-### 神经网络和深度学习:一本关于 Amazon.com 的教科书。*符合条件的优惠可享受免费*运输…
-
-www.amazon.com](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622/ref=sr_1_1?dchild=1&keywords=Neural+Networks+and+Deep+Learning&qid=1605266979&sr=8-1) [](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [## 如何使用 ReLU - Machine Learning Mastery 解决渐变消失问题
-
-### 消失梯度问题是一个不稳定行为的例子，当你训练一个深度神经…
-
-machinelearningmastery.com](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [](http://arxiv.org/abs/1502.01852) [## 深入研究整流器:在 ImageNet 分类上超越人类水平的性能
-
-### 整流激活单元(整流器)对于最先进的神经网络是必不可少的。在这项工作中，我们研究…
-
-arxiv.org](http://arxiv.org/abs/1502.01852)
+<https://arxiv.org/abs/1803.08375#:~:text=We%20introduce%20the%20use%20of,function%20as%20their%20classification%20function>  <https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B08FH8Y533/ref=sr_1_2?dchild=1&keywords=deep+learning&qid=1605266647&s=digital-text&sr=1-2>  <https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622/ref=sr_1_1?dchild=1&keywords=Neural+Networks+and+Deep+Learning&qid=1605266979&sr=8-1>  <https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/>  <http://arxiv.org/abs/1502.01852> 

@@ -70,11 +70,7 @@ print(holdings)
 
 以下是 compdata GitHub 存储库的链接:
 
- [## julianmarx/compdata
-
-### 评估数据包提供了对由 Aswath Damodaran 通过他的…
-
-github.com](https://github.com/julianmarx/compdata) 
+  
 
 # 放弃
 

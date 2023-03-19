@@ -262,10 +262,6 @@ ProgrammingLanguage = Enum('ProgrammingLanguage', 'PYTHON, JAVA, C, JAVASCRIPT, 
 
 Python 枚举还提供了其他一些有趣的特性，比如用作字典键。除此之外，我们可以使用“Enum”类构造函数轻松定义枚举，而无需显式编写类，多么“Pythonic 化”啊！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

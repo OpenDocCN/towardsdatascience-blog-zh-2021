@@ -122,23 +122,7 @@ Python lambda 函数是一个匿名函数，其工作方式就像普通的带参
 
 ****感谢阅读。以下是你可能喜欢的其他文章:****
 
-**[](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [## 提高生产力:使用 Python 和 Pandas 进行数据清理
-
-### 数据清理可能很耗时，但了解不同类型的丢失值，以及如何处理…
-
-towardsdatascience.com](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [](https://medium.com/better-programming/save-time-using-the-command-line-glob-patterns-and-wildcards-17befd6a02c8) [## 使用命令行节省时间:Glob 模式和通配符
-
-### 使用模式匹配文件名
-
-medium.com](https://medium.com/better-programming/save-time-using-the-command-line-glob-patterns-and-wildcards-17befd6a02c8) [](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [## 是什么让一个数据科学家脱颖而出？
-
-### 越来越多的人痴迷于硬技能，但软技能可以让你脱颖而出。
-
-towardsdatascience.com](/what-makes-a-data-scientist-stand-out-e8822f466d4c) 
+**</increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012>  </switching-career-to-data-science-in-your-30s-6122e51a18a3>  <https://medium.com/better-programming/save-time-using-the-command-line-glob-patterns-and-wildcards-17befd6a02c8>  </what-makes-a-data-scientist-stand-out-e8822f466d4c>  
 
 **参考文献:**
 

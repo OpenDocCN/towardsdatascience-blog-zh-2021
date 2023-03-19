@@ -52,11 +52,7 @@ pip install tensorflow
 
 在你的谷歌硬盘中安装谷歌的合作实验室。你可以在网站上获得这样做所需的所有信息。
 
-[](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
+<https://colab.research.google.com/notebooks/intro.ipynb#recent=true>  
 
 Google Colab 的一个好处是你可以免费使用大量的计算能力。具体来说，你可以在云中的 GPU 上训练你的模型，这使得它成为一个很好的研究框架。
 
@@ -146,10 +142,6 @@ TensorFlow 是当今最受欢迎的深度学习框架之一。
 
 如果您有任何问题、意见或顾虑，请联系 LinkedIn。
 
-[](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) [## Kasper Müller -高级顾问，数据和分析，金融服务，技术咨询- EY | LinkedIn
-
-### 编程、数学和教学是我最大的兴趣。数据科学、机器学习和…
-
-www.linkedin.com](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) 
+<https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/>  
 
 下次见。

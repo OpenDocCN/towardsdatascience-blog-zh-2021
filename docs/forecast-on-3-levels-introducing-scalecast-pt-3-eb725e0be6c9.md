@@ -10,11 +10,7 @@
 
 欢迎回到 scalecast 系列的最后部分。[第 1 部分](/introducing-scalecast-a-forecasting-library-pt-1-33b556d9b019)介绍了对一个系列的预测。第 2 部分将该方法扩展到许多系列。这一部分展示了如何在不同的层次上对相同的序列进行建模，并公平而容易地比较结果。
 
-[](https://github.com/mikekeith52/scalecast) [## GitHub - mikekeith52/scalecast:一个灵活的、代码最少的预测对象。
-
-### 一个灵活的、代码最少的预测对象。通过在…上创建帐户，为 mikekeith52/scalecast 开发做出贡献
-
-github.com](https://github.com/mikekeith52/scalecast) 
+<https://github.com/mikekeith52/scalecast>  
 
 注意:这篇文章最初是为了展示 scalecast 早期版本的差异和均衡特性而写的。此后，自动化和更复杂的系列转换被引入。参见 [scalecast 入门笔记本](https://scalecast-examples.readthedocs.io/en/latest/misc/introduction/Introduction2.html#Transformations)。这里写的大部分内容在 scalecast 的当前版本中仍然是可能的。
 

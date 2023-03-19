@@ -12,19 +12,11 @@
 
 这是我的应用贝叶斯推理系列的最后一部分。在第 1 部分中，我介绍了条件世界和概率编程:
 
-[](/applied-bayesian-inference-pt-1-322b25093f62) [## 应用贝叶斯推理。一
-
-### 条件世界导论
-
-towardsdatascience.com](/applied-bayesian-inference-pt-1-322b25093f62) 
+</applied-bayesian-inference-pt-1-322b25093f62>  
 
 在第 2 部分中，我展示了如何通过对 Nike 和 Adidas 的鞋子建模来将模型扩展到“真实”数据。这篇文章展示了如何运行更有效的 A/B 测试和组比较:
 
-[](/applied-bayesian-inference-with-python-pt-2-80bcd63b507e) [## 应用贝叶斯推理与 PyMC3 点。2
-
-### 在 StockX 上展示阿迪达斯 Yeezy 和耐克米色转售
-
-towardsdatascience.com](/applied-bayesian-inference-with-python-pt-2-80bcd63b507e) 
+</applied-bayesian-inference-with-python-pt-2-80bcd63b507e>  
 
 在本部分的第 3 部分，我将通过在 PyMC3 中引入线性回归，然后将其进一步引入层次模型、广义线性模型和样本外预测，来展示贝叶斯建模为何如此不可思议。
 

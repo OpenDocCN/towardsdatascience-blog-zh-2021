@@ -568,11 +568,7 @@ pos_df.plot(kind='bar',
 
 探索性数据分析也包括机器学习。在这里，您将发现使用相同数据集对产品评论进行的情感分析。
 
-[](/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b) [## 一个完整的带有亚马逊产品评论数据的 Python 情感分析算法:一步一步
-
-### 使用 Python 的 Scikit_learn 库的 NLP 项目
-
-towardsdatascience.com](/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b) 
+</a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b>  
 
 ## 结论
 
@@ -582,24 +578,4 @@ towardsdatascience.com](/a-complete-sentiment-analysis-algorithm-in-python-with-
 
 ## 更多阅读
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [## 免费的 Python 全长机器学习课程
-
-### 吴恩达用 Python 写的机器学习教程
-
-towardsdatascience.com](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [](/text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504) [## R 语言中文本文件的处理、清理和分类
-
-### 使用了一些很棒的包和 K 近邻分类器
-
-towardsdatascience.com](/text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504) [](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3)
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  </a-full-length-machine-learning-course-in-python-for-free-f2732954f35f>  </text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504>  </an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3> 

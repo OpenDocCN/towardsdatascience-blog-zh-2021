@@ -12,11 +12,7 @@
 
 在选择编程语言时，有许多事情需要考虑。在你的目标领域，哪一个会表现得更好？哪个有更好的未来？哪个支持更多功能？如果你是初学者或者有时间限制，哪个更容易学？
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 所有这些都是有效的问题；根据个人和他们当前的情况，有些比其他的更重要。如果你在网上查找数据科学教程和编程语言，99%的结果不是 Python 就是 r。
 
@@ -24,11 +20,7 @@ towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a)
 
 我不是想把你从 Python 或 R 推开；事实上，我自己就是一个巨大的 Python 迷。相反，我只想告诉你，你有选择；在您的学习之旅中，还有其他编程语言可供您使用，它们相当容易学习，就像 Python 一样。
 
-[](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) [## 每个数据科学家都应该写博客的 5 个理由
-
-### 解释某事让你对它有更深的理解。
-
-towardsdatascience.com](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) 
+</5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3>  
 
 # Java Script 语言
 
@@ -50,11 +42,7 @@ Scala 可用于构建广泛的应用，从 web 应用到数据科学和机器学
 
 但是，它仍然为许多机器学习应用程序提供了一个很好的选择。学习 Scala for data science 的一个资源是 cognitiveclass.ai 的这个课程。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # 朱莉娅
 
@@ -76,11 +64,7 @@ MATLAB 非常适合数据科学，因为它可以模拟现实生活中的系统�
 
 MATLAB 的创造者 MathWorks 在 Coursera 上提供了一门关于如何使用 MATLAB 进行数据科学的实用课程。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # 去
 
@@ -100,10 +84,6 @@ Go 的另一大优势是它的支持和欢迎社区，这些社区愿意为对�
 
 掌握一门编程语言是学习任何数据科学分支的第一步；有选择总是对的；不是所有人都喜欢 Python 一些更快的语言或语言只是更擅长创建引人注目和清晰的可视化。
 
-[](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) [## 每个数据科学家都应该写博客的 5 个理由
-
-### 解释某事让你对它有更深的理解。
-
-towardsdatascience.com](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) 
+</5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3>  
 
 在本文中，我向您展示了可用于数据科学的 5 种编程语言，其中一些像 Python 一样酷且可修复。如果你是新人，尝试一下所有的语言，看看哪个更适合你。如果你已经在这个领域，学习一门新的语言对提升你的技能和开拓新的职业前景总是一件好事。

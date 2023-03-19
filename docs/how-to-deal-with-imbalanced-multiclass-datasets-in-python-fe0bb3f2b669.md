@@ -227,12 +227,4 @@ plt.show()
 
 # 相关文章
 
-[](/how-to-balance-a-dataset-in-python-36dff9d12704) [## 如何在 Python 中平衡数据集
-
-### 本教程属于如何提高机器学习算法的性能系列。在本教程中，我…
-
-towardsdatascience.com](/how-to-balance-a-dataset-in-python-36dff9d12704) [](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) 
-
-# 新到中？您可以每月订阅几美元，并解锁无限的文章— [单击此处](https://alod83.medium.com/membership)。
+</how-to-balance-a-dataset-in-python-36dff9d12704>  </a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3> 。

@@ -14,11 +14,7 @@
 
 > 在我之前的一篇文章中，我讨论了 7 种选择最佳性能特性的技巧。
 
-[](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) [## 机器学习中的 7 大特征选择技术
-
-### 选择最佳功能的流行策略
-
-towardsdatascience.com](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) 
+</top-7-feature-selection-techniques-in-machine-learning-94e08730cd09>  
 
 在本文中，我们将讨论如何在一行 Python 代码中使用统计技术来选择性能最佳的特性。
 
@@ -74,10 +70,6 @@ Scikit-learn 带有一个`**feature_selection**`模块，提供各种功能来�
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

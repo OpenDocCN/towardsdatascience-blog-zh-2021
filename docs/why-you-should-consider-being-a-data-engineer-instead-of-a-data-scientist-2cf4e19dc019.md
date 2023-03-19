@@ -76,19 +76,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/4-reasons-why-you-shouldnt-be-a-data-scientist-e3cc6c1d50e) [## 你不应该成为数据科学家的 4 个理由
-
-### 为什么数据科学工作可能不适合你
-
-towardsdatascience.com](/4-reasons-why-you-shouldnt-be-a-data-scientist-e3cc6c1d50e) 
+</4-reasons-why-you-shouldnt-be-a-data-scientist-e3cc6c1d50e>  
 
 **又一个！**
 
-[](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) [## 想成为数据科学家？不要从机器学习开始。
-
-### 有抱负的数据科学家最大的误解是
-
-towardsdatascience.com](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) 
+</want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f>  
 
 # 特伦斯·申
 

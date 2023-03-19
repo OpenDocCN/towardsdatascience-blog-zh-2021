@@ -300,8 +300,4 @@ Average acc:  0.9349635149821456**
 
 ## 回到指引点击[此处](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 本文旨在准备一个机器学习数据库，以便在一个视图中显示所有的机器学习标题。这个…
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> 

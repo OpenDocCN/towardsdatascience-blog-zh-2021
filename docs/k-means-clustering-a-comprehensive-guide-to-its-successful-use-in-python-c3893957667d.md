@@ -171,20 +171,8 @@ k-均值聚类结果。图片由[作者](https://solclover.com/)提供。
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加盟媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 我还挑选了一些你可能喜欢的额外读物:
 
-[](/hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390) [## HAC:层次凝聚聚类。比 K-Means 好吗？
-
-### HAC 算法的详细介绍，以及 Python 代码和几个有用的图表
-
-towardsdatascience.com](/hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390) [](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [## BBN:贝叶斯信念网络——如何用 Python 有效地构建它们？
-
-### 使用真实生活数据在 Python 中构建模型的贝叶斯信念网络的详细解释
-
-towardsdatascience.com](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba)
+</hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390>  </bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba> 

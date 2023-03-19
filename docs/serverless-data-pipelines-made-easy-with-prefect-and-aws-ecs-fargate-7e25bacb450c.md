@@ -191,11 +191,7 @@ ECS 代理在 UI 中是可见的——作者的图像
 
 如果您想了解更多关于如何构建 Dockerhub 容器映像的信息，这里有一个适合您的方法:
 
-[](/7-steps-to-your-own-dockerhub-image-7d1d92d2a3e0) [## 打造自己 Dockerhub 形象的 7 个步骤
-
-### 通过 Dockerhub 与他人分享您的 Python 代码
-
-towardsdatascience.com](/7-steps-to-your-own-dockerhub-image-7d1d92d2a3e0) 
+</7-steps-to-your-own-dockerhub-image-7d1d92d2a3e0>  
 
 ## 为 ECS 代理注册流
 

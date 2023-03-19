@@ -115,10 +115,6 @@ guide.to_csv('drive/MyDrive/ColabNotebooks/guide.csv',index=False)
 
 Google Colab 和云计算总体上提供了对大量计算资源的无与伦比的访问，直到最近许多人还无法访问这些资源。这样的功能加上一些使用 JavaScript 的自动化可以创造无限的机会，同时以更有效的方式利用资源。具体来说，在 Colab 的情况下，这样一种优秀的产品最好不要过量使用，以使社区中的每个人都能平等地受益于这样一包好东西。
 
-[](https://github.com/mkhorasani/colab_automation) [## mkhorasani/colab _ 自动化
-
-### 使用 JavaScript 自动运行 Google Colab，以运行预先安排的动态 Python 脚本
-
-github.com](https://github.com/mkhorasani/colab_automation) 
+<https://github.com/mkhorasani/colab_automation>  
 
 # 新到中？您可以在此订阅和解锁无限文章[。](https://khorasani.medium.com/membership)

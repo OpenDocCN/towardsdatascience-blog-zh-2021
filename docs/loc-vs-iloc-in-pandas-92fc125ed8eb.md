@@ -125,16 +125,4 @@ Name: 1, dtype: int64
 
 ## 你可能也喜欢
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) [](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c) [## 如何优化你的谷歌搜索并获得更好的结果
-
-### 更智能的谷歌搜索的 12 个技巧
-
-medium.com](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c) [](/easter-eggs-in-python-f32b284ef0c5) [## 蟒蛇皮复活节彩蛋
-
-### 探索八个用 Python 包装的复活节彩蛋
-
-towardsdatascience.com](/easter-eggs-in-python-f32b284ef0c5)
+</dynamic-typing-in-python-307f7c22b24e>  <https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c>  </easter-eggs-in-python-f32b284ef0c5> 

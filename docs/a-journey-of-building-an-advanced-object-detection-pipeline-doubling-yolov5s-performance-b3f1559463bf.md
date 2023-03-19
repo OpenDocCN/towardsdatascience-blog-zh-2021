@@ -41,11 +41,7 @@
 
 如果您感兴趣，您可以在此找到更多信息:
 
-[](/fusing-efficientnet-yolov5-advanced-object-detection-2-stage-pipeline-tutorial-da3a77b118d1) [## Fusing EfficientNet & YoloV5 —高级目标检测 2 阶段流水线教程
-
-### 通过将 YoloV5 与 EfficientNet 集成，将对象检测性能提高约 20%
-
-towardsdatascience.com](/fusing-efficientnet-yolov5-advanced-object-detection-2-stage-pipeline-tutorial-da3a77b118d1) 
+</fusing-efficientnet-yolov5-advanced-object-detection-2-stage-pipeline-tutorial-da3a77b118d1>  
 
 **5。加权框融合(WBF)后处理— 0.226 mAP (+15%)**
 
@@ -59,11 +55,7 @@ towardsdatascience.com](/fusing-efficientnet-yolov5-advanced-object-detection-2-
 
 如果你有兴趣了解更多，你可以在这里查看我的文章:
 
-[](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) [## WBF:优化目标检测——融合和过滤预测框
-
-### 加权盒融合已经成为优化目标检测模型的新 SOTA
-
-towardsdatascience.com](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) 
+</wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3>  
 
 *   **与 WBF 融合的 5 重交叉验证— 0.256 mAP (+13%)**
 

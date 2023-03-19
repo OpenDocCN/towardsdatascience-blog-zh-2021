@@ -85,11 +85,7 @@
 
 > 我们可以在上面的方框图中看到，单位成本的 D1 分布的中值低于 D2。我们可以预期，该模型将引导通过 D1 的流量的主要部分。
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。构建您的模型
 
@@ -137,11 +133,7 @@ samirsaci.com](http://samirsaci.com)
 
 如果您想在优化问题中包括环境影响，您可以计算您的分销网络的二氧化碳排放量。
 
-[](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) [## 使用 Python 进行供应链可持续性报告
-
-### 自动化和报告构建 ESG 报告的 4 个步骤，重点关注分销网络的二氧化碳排放 4 个步骤…
-
-www.samirsaci.com](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) 
+<https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/>  
 
 ## 4.求解模型并准备结果
 
@@ -219,11 +211,7 @@ www.samirsaci.com](https://www.samirsaci.com/supply-chain-sustainability-reporti
 
 这将向您展示供应链的改进，以获得适应这些新的绿色倡议的稳健性水平。
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 ## 数字孪生模型的例子:绿色库存管理
 
@@ -243,11 +231,7 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 使用数据分析来模拟商店补货频率的变化，并衡量对整体环境影响的影响。
 
-[](https://www.samirsaci.com/green-inventory-management-case-study/) [## 绿色库存管理-案例研究
-
-### 可持续发展如何减少时尚零售物流运作的二氧化碳排放量？
-
-www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-study/) 
+<https://www.samirsaci.com/green-inventory-management-case-study/>  
 
 # 关于我
 
@@ -255,11 +239,7 @@ www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-stu
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

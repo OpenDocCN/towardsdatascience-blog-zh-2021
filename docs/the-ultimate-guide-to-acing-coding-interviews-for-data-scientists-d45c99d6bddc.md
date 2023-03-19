@@ -214,12 +214,4 @@
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) [## 面向数据科学家和机器学习工程师的 4 种机器学习面试问题
-
-### FAANG 访谈的经验教训:破解机器学习问题的最有效方法
-
-pub.towardsai.net](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) [](/cracking-statistics-interviews-for-data-scientists-711a63bcb375) [## 破解数据科学家的统计采访
-
-### 分解统计访谈的必要知识和问题格式
-
-towardsdatascience.com](/cracking-statistics-interviews-for-data-scientists-711a63bcb375)
+<https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b>  </cracking-statistics-interviews-for-data-scientists-711a63bcb375> 

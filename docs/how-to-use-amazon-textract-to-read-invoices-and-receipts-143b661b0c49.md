@@ -20,11 +20,7 @@ AWS 和 Amazon Textract 入门。
 
 使用的大部分代码来自 Amazon Textract 开发人员指南。它可以在这里找到:
 
- [## Amazon Textract 入门
-
-### Amazon Textract 入门- Amazon Textract 本节提供的主题可以帮助您开始使用 Amazon…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/textract/latest/dg/getting-started.html) 
+  
 
 如果你想跟随我使用的相同文件，请在[我的 Github](https://github.com/ecdedios/aws-textract-test-invoice) 上查看项目回购。
 
@@ -186,11 +182,7 @@ aws --version
 
 如果您想了解更多 Boto3，请查看它的文档:
 
- [## Boto3 文档— Boto3 文档 1.18.34 文档
-
-### 您可以使用 AWS SDK for Python (Boto3)来创建、配置和管理 AWS 服务，比如 Amazon Elastic Compute…
-
-boto3.amazonaws.com](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) 
+  
 
 启动一个终端，键入下面一行:
 
@@ -338,18 +330,10 @@ aws configure
 
 *如果你想了解更多关于我从懒鬼到数据科学家的旅程，请查看下面的文章:*
 
-[](/from-slacker-to-data-scientist-b4f34aa10ea1) [## 从懒鬼到数据科学家
-
-### 我的无学位数据科学之旅。
-
-towardsdatascience.com](/from-slacker-to-data-scientist-b4f34aa10ea1) 
+</from-slacker-to-data-scientist-b4f34aa10ea1>  
 
 *如果你正在考虑改变方向，进入数据科学领域，现在就开始考虑重塑品牌:*
 
-[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) [## 懒鬼将自己重塑为数据科学家指南
-
-### 给我们其他人的固执己见的建议。热爱数学，选修。
-
-towardsdatascience.com](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) 
+</the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540>  
 
 你可以通过[推特](https://twitter.com/ecdedios)或 [LinkedIn](https://www.linkedin.com/in/ednalyn-de-dios/) 联系我。

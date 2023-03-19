@@ -72,19 +72,11 @@
 
 Ling Wong 的这篇文章非常详细地讨论了如何在讲故事时创造叙事性和清晰性:
 
-[](https://www.gokantaloupe.com/blog/best-techniques-for-data-driven-storytelling) [## 有效的数据驱动的讲故事:9 种技巧
-
-### 数据是许多业务决策和运营的核心。无论您是在与内部团队沟通还是与…
-
-www.gokantaloupe.com](https://www.gokantaloupe.com/blog/best-techniques-for-data-driven-storytelling) 
+<https://www.gokantaloupe.com/blog/best-techniques-for-data-driven-storytelling>  
 
 最后，如果你想知道更多关于 STAR 方法的信息，看看这个。是的，这是从面试的角度来看，但你得到了漂移。
 
-[](https://www.themuse.com/advice/star-interview-method) [## 如何运用明星面试法获得工作
-
-### 你正在面试，一切都很顺利。你在去办公室的路上没有迷路，你做了一些…
-
-www.themuse.com](https://www.themuse.com/advice/star-interview-method) 
+<https://www.themuse.com/advice/star-interview-method>  
 
 # 作为一名团队成员
 

@@ -32,11 +32,7 @@
 
 我当即决定把这门课翻译成 Python。但是在继续我自己的 Python 实现之前，我决定检查一下是否有人在我之前做过。当然，有人做到了。您可以通过以下链接使用 Python 完成本课程。
 
-[](https://github.com/dibgerge/ml-coursera-python-assignments) [## GitHub-dibgerge/ml-coursera-python-assignments:机器学习类的 Python 作业…
-
-### 吴恩达在 Coursera 上为机器学习课布置的 Python 作业，包括完整的评分提交…
-
-github.com](https://github.com/dibgerge/ml-coursera-python-assignments) 
+<https://github.com/dibgerge/ml-coursera-python-assignments>  
 
 就我个人而言，我想对这些帖子的作者说一声非常感谢——他们做得真的很棒。
 
@@ -50,59 +46,31 @@ github.com](https://github.com/dibgerge/ml-coursera-python-assignments)
 
 课程根本没说什么集成学习方法——*装袋*、*随机森林*、*助推*、*堆叠*等。在我看来，这是最大的遗漏，因为课程中的神经网络被感知为*【自身】*，而不是弱分类器的集合。
 
-[](https://bdtechtalks.com/2020/11/12/what-is-ensemble-learning/) [## 什么是集成学习？
-
-### 这篇文章是揭秘人工智能系列文章的一部分，该系列文章(试图)消除围绕…
-
-bdtechtalks.com](https://bdtechtalks.com/2020/11/12/what-is-ensemble-learning/) [](https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/) [## 集成学习算法简介-机器学习掌握
-
-### 集成学习是机器学习的一种通用元方法，它通过结合
-
-machinelearningmastery.com](https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/) 
+<https://bdtechtalks.com/2020/11/12/what-is-ensemble-learning/>  <https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/>  
 
 ## 分类变量
 
 虽然*特征工程*是数据科学工作的一个重要部分，但是没有提到分类和其他类型的变量。
 
-[](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/) [## 分类数据的顺序和一键编码-机器学习掌握
-
-### 机器学习模型要求所有输入和输出变量都是数字。这意味着如果您的数据包含…
-
-machinelearningmastery.com](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/) [](/feature-engineering-for-machine-learning-3a5e293a5114) [## 面向机器学习的特征工程基本技术
-
-### 用熊猫例子进行综合数据预处理所需的所有方法。
-
-towardsdatascience.com](/feature-engineering-for-machine-learning-3a5e293a5114) 
+<https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/>  </feature-engineering-for-machine-learning-3a5e293a5114>  
 
 ## 使聚集
 
 只有 K-均值聚类被认为是一种聚类算法。
 
-[](https://neptune.ai/blog/clustering-algorithms) [## 探索聚类算法:解释和用例- neptune.ai
-
-### 聚类(聚类分析)是根据相似性对对象进行分组。群集可用于许多领域…
-
-海王星. ai](https://neptune.ai/blog/clustering-algorithms) 
+<https://neptune.ai/blog/clustering-algorithms>  
 
 ## 降维
 
 只有 PCA 被认为是一种降维技术。更不用说有完全不同的方法，在课程结束后，你可能会觉得使用主成分分析进行数据可视化是一个好主意。
 
-[](https://bdtechtalks.com/2021/05/13/machine-learning-dimensionality-reduction/) [## 机器学习:什么是降维？
-
-### 机器学习算法因能够从包含许多数据的数据集中找出相关信息而闻名
-
-bdtechtalks.com](https://bdtechtalks.com/2021/05/13/machine-learning-dimensionality-reduction/) 
+<https://bdtechtalks.com/2021/05/13/machine-learning-dimensionality-reduction/>  
 
 ## 异常检测
 
 在课程中，吴恩达谈到了*异常检测*，尽管事实上，他谈到了*新奇检测*——一个稍微不同的任务。这个任务在课程中用*密度估计*方法解决，其他方法根本不考虑。
 
-[](/anomaly-detection-for-dummies-15f148e559c1) [## 虚拟异常检测
-
-### 单变量和多变量数据的无监督异常检测。
-
-towardsdatascience.com](/anomaly-detection-for-dummies-15f148e559c1) 
+</anomaly-detection-for-dummies-15f148e559c1>  
 
 # 我的文章可能对你有用
 
@@ -126,11 +94,7 @@ towardsdatascience.com](/anomaly-detection-for-dummies-15f148e559c1)
 
 # 参考
 
-[](https://www.coursera.org/learn/machine-learning) [## 机器学习
-
-### 4，463，496 已注册机器学习是让计算机在没有明确…
-
-www.coursera.org](https://www.coursera.org/learn/machine-learning) 
+<https://www.coursera.org/learn/machine-learning>  
 
 # 感谢您的阅读！
 

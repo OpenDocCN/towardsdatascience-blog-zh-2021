@@ -65,20 +65,4 @@ import localelocale.setlocale(locale.LC_ALL, 'en_US.UTF8')data['price']=data['pr
 
 如果你喜欢这篇文章，这里有更多！
 
-[](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [## 使用 Plotly 在一个动画情节中表现 5 个特征
-
-### 使用单个动画气泡图来分析数据和观察趋势。
-
-towardsdatascience.com](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [](/effortless-exploratory-data-analysis-eda-201c99324857) [## 轻松的探索性数据分析(EDA)
-
-towardsdatascience.com](/effortless-exploratory-data-analysis-eda-201c99324857) 
-
-查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！
+</regex-essential-for-nlp-ee0336ef988d>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46>  </effortless-exploratory-data-analysis-eda-201c99324857>  其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！

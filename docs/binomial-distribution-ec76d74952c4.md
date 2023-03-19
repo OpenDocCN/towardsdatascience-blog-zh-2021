@@ -100,11 +100,7 @@
 
 这里，一个二项分布的累积分布函数将有助于回答这个问题。如果你想知道为什么，请先看看这篇文章:
 
-[](/quantiles-key-to-probability-distributions-ce1786d479a9) [## 分位数是理解概率分布的关键
-
-### 概率密度函数(PDF)与累积概率分布(CDF)。满足分位数并使用…
-
-towardsdatascience.com](/quantiles-key-to-probability-distributions-ce1786d479a9) 
+</quantiles-key-to-probability-distributions-ce1786d479a9>  
 
 累积分布函数(CDF)描述了 *X* 取值等于或小于 *k* 的概率(机会)。二项式分布的 CDF 函数如下:
 
@@ -216,11 +212,7 @@ Python 中那些来自***scipy . stats . binom***库的函数值得了解。在�
 
 *   **stats(N，p，moments='mvsk')** 允许计算前四个矩，即均值(' m ')、方差(' v ')、偏斜(' s ')、峰度(' k ')。如果你需要重温统计时刻，这篇文章可能适合你:
 
-[](/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207843d) ![](img/d20e0ef8637c65ad384cddb701c6484f.png)
+</statistical-moments-in-data-science-interviews-bfecd207843d>  ![](img/d20e0ef8637c65ad384cddb701c6484f.png)
 
 图片作者在 [@carbon_app](https://twitter.com/carbon_app)
 
@@ -247,23 +239,7 @@ towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207
 
 您可能还喜欢:
 
-[](/quantiles-key-to-probability-distributions-ce1786d479a9) [## 分位数是理解概率分布的关键
-
-### 概率密度函数(PDF)与累积概率分布(CDF)。满足分位数并使用…
-
-towardsdatascience.com](/quantiles-key-to-probability-distributions-ce1786d479a9) [](/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207843d) [](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [## 数据科学访谈中的矩阵
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [](/set-path-automatically-r-python-4dbc4963321e) [## 如何启动 R/Python 代码让同事心存感激
-
-### 设置路径和创建输出文件夹的自动化方式
-
-towardsdatascience.com](/set-path-automatically-r-python-4dbc4963321e) 
+</quantiles-key-to-probability-distributions-ce1786d479a9>  </statistical-moments-in-data-science-interviews-bfecd207843d>  </math-refresher-for-data-scientist-part-1-matrices-88620a92d046>  </set-path-automatically-r-python-4dbc4963321e>  
 
 # 参考
 

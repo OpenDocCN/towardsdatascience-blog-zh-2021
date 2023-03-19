@@ -198,19 +198,7 @@ var parseDate = function(d){ return d3.timeParse("%Y-%m-%d")(d)}
 
 # 相关文章
 
-[](/how-to-build-a-basic-line-in-d3-js-38f67055043f) [## 如何在 D3.js 中构建基本行
-
-### 在处理数据时，最重要的一个方面是数据的表示。因此，不同的工具和…
-
-towardsdatascience.com](/how-to-build-a-basic-line-in-d3-js-38f67055043f) [](https://medium.datadriveninvestor.com/getting-started-with-d3-js-maps-e721ba6d8560) [## D3.js 地图入门
-
-### 用流行的 Javascript 库构建交互式 Choropleth 地图的快速教程
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/getting-started-with-d3-js-maps-e721ba6d8560) [](/how-to-build-a-dynamic-bar-chart-in-observablehq-through-sqlite3-f8f8b6509ac8) [## 如何通过 sqlite3 在 Observablehq 中构建动态条形图
-
-### 一个现成的笔记本，利用了 Observablehq 提供的最新 sqlite3 特性
-
-towardsdatascience.com](/how-to-build-a-dynamic-bar-chart-in-observablehq-through-sqlite3-f8f8b6509ac8) 
+</how-to-build-a-basic-line-in-d3-js-38f67055043f>  <https://medium.datadriveninvestor.com/getting-started-with-d3-js-maps-e721ba6d8560>  </how-to-build-a-dynamic-bar-chart-in-observablehq-through-sqlite3-f8f8b6509ac8>  
 
 # 上下文分析能帮助提取有意义的见解吗？
 

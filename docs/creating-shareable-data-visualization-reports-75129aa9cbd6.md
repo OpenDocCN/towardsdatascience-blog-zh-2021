@@ -20,11 +20,7 @@ Datapane 是一个开源的 python 库，用于创建数据可视化和分析报
 
 在创建您的报告之前，您首先需要在 Datapane 上创建一个帐户，以便我们可以在该帐户上发布我们的报告，并与任何人共享链接。要创建帐户，您可以通过下面的链接。一旦您创建了一个帐户，您就可以看到一个数据面板访问密钥，我们将使用它从我们的 Jupyter 笔记本上发布我们的报告。
 
-[](https://datapane.com/accounts/signup/) [## Python 中的 Datapane | Analyse。在 Datapane 上共享。
-
-### 我们使用 cookies 为您提供卓越的用户体验。通过使用 Datapane，您接受我们的服务条款和隐私…
-
-datapane.com](https://datapane.com/accounts/signup/) 
+<https://datapane.com/accounts/signup/>  
 
 # 安装所需的库
 

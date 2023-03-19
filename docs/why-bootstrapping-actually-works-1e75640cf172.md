@@ -66,16 +66,4 @@ bootstrap 的目标是基于从原始样本获得的多个数据样本，为总�
 
 欢迎您加入**我的数据科学学习之旅！**点击这个[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的数据科学内容。同时，祝你自举愉快！
 
-[](/the-dying-relu-problem-clearly-explained-42d0c54e0d24) [## 垂死的雷鲁问题，解释得很清楚
-
-### 通过理解 ReLU 的缺点来保持你的神经网络的活力
-
-towardsdatascience.com](/the-dying-relu-problem-clearly-explained-42d0c54e0d24) [](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [## 用字符错误率(CER)和单词错误率(WER)评估 OCR 输出质量
-
-### 测量光学字符识别输出质量的关键概念、示例和 Python 实现
-
-towardsdatascience.com](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现许多数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96)
+</the-dying-relu-problem-clearly-explained-42d0c54e0d24>  </evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510>  </the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96> 

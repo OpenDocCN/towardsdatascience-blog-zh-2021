@@ -20,11 +20,7 @@
 
 我以前写过关于数据科学项目对谁有用的文章:
 
-[](/data-science-bootcamps-what-they-can-and-cant-do-9780699a488d) [## 数据科学训练营—他们能做什么，不能做什么
-
-### 数据科学训练营可以帮助谁，他们在哪些方面承诺过高
-
-towardsdatascience.com](/data-science-bootcamps-what-they-can-and-cant-do-9780699a488d) 
+</data-science-bootcamps-what-they-can-and-cant-do-9780699a488d>  
 
 很多人试图从自学的角度来研究数据科学，但除非你已经掌握了很多必要的技能，否则一些精心安排的课程和支持会很有帮助。
 
@@ -66,7 +62,7 @@ towardsdatascience.com](/data-science-bootcamps-what-they-can-and-cant-do-978069
 这里有几个我认为值得一看的数据科学训练营。做任何决定之前，做你的研究和阅读评论！
 
 *   [**跳板**(有 750 美元折扣的推荐链接)](https://www.springboard.com/invite/ZDDCM):完全披露，我现在已经为跳板辅导了几年。这也是我最喜欢这个项目的原因之一——他们为每个学生安排了一位行业专家作为导师，每周与他进行一对一的通话。他们也有工作保障和广泛的课程。它们是一个自定进度的项目，并且是远程的，所以它确实需要一些纪律来跟上课程并与社区保持联系。
-*   [](https://www.thisismetis.com/bootcamps/online-data-science-bootcamp)**:另一个备受尊敬的训练营。我对他们没有太多的经验，但我听说过他们的课程和工作支持。**
+*   <https://www.thisismetis.com/bootcamps/online-data-science-bootcamp>**:另一个备受尊敬的训练营。我对他们没有太多的经验，但我听说过他们的课程和工作支持。**
 *   **[**洞察**](https://insightfellows.com/data-science) :只接受博士学位，被录取者免费。他们有一个很棒的社区，但课程更侧重于拼凑一个演示文稿，这样你就可以开始与潜在的雇主交谈，而不是被结构化。**
 *   **[**数据孵化器**(推荐链接)](https://pragmaticinstitute.referralrock.com/l/1TOMMYBLANC18/):这是我做的 bootcamp。这让我获得了我的第一份数据科学工作，我学到了很多东西，而且没有花费我任何东西。你可以在[这里](http://tommyblanchard.com/an-updated-review-of-the-data-incubator-data-science-bootcamp)和[这里](http://tommyblanchard.com/the-data-incubator-unofficial-frequently-asked-questions)阅读更多我对这个项目的想法。**
 
@@ -96,14 +92,6 @@ towardsdatascience.com](/data-science-bootcamps-what-they-can-and-cant-do-978069
 
 ****您可能喜欢的其他文章****
 
-**[](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [## 如何在简历中加入数据科学的第一点经验
+**</how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace>  </why-your-data-science-portfolio-project-sucks-208ee830ad1b> [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
 
-### 为有抱负的数据科学家解决先有鸡还是先有蛋的问题
-
-towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
-
-towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [](/lessons-in-my-first-year-as-a-data-scientist-1a03f34a88ea) [## 我作为数据科学家第一年的经验教训
-
-### 我所做的大部分学习不是技术性的，而是学习什么是重要的，以及如何把我的时间用在真正的…
-
-towardsdatascience.com](/lessons-in-my-first-year-as-a-data-scientist-1a03f34a88ea)**
+towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) </lessons-in-my-first-year-as-a-data-scientist-1a03f34a88ea> **

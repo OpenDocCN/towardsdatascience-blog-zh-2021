@@ -44,15 +44,7 @@
 
 你可以在 Kaggle 和 Github 上找到我的数据集:
 
-[](https://www.kaggle.com/ethanmai/chess-moves) [## 象棋移动
-
-### 标记为好/坏的 160 万步棋的集合
-
-www.kaggle.com](https://www.kaggle.com/ethanmai/chess-moves) [](https://github.com/iAmEthanMai/chess-games-dataset) [## 议会/象棋-游戏-数据集
-
-### 棋步数据集🔢
-
-github.com](https://github.com/iAmEthanMai/chess-games-dataset) 
+<https://www.kaggle.com/ethanmai/chess-moves>  <https://github.com/iAmEthanMai/chess-games-dataset>  
 
 然后，我们需要将数据帧导入我们的 Jupyter 笔记本。我们可以简单地在第一个代码单元中运行以下命令:
 
@@ -120,7 +112,7 @@ In[4]: linear_est.train(input_function)
 
 剩下唯一的事情就是玩游戏。如果你想试一试，运行所有的代码单元，你应该可以开始了…祝你好运！
 
-[](https://colab.research.google.com/github/iAmEthanMai/chess-engine-model/blob/main/python_chess_engine.ipynb#scrollTo=dsacAJ-5gkN0) [## 和我的人工智能比赛
+<https://colab.research.google.com/github/iAmEthanMai/chess-engine-model/blob/main/python_chess_engine.ipynb#scrollTo=dsacAJ-5gkN0> [## 和我的人工智能比赛
 
 python-chess-engine.ipynb](https://colab.research.google.com/github/iAmEthanMai/chess-engine-model/blob/main/python_chess_engine.ipynb#scrollTo=dsacAJ-5gkN0) 
 

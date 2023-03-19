@@ -12,11 +12,7 @@
 
 在本文中，我将概述一个用于识别不干净数据的模板，以及有效清理它的不同方法。在清理之前，一定要按照我这里的[方便的 EDA 指南进行彻底的探索性分析(EDA)。](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)
 
-[](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) [## EDA(探索性数据分析)的 11 个基本代码块—回归任务
-
-### 探索任何数据科学项目并获得宝贵见解的实用指南
-
-towardsdatascience.com](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) 
+</11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd>  
 
 ## **1。移除不需要的观察值**
 

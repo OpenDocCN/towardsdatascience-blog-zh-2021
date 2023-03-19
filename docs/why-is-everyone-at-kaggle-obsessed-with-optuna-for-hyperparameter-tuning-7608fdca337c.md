@@ -18,19 +18,11 @@ Kaggle 社区以其残酷的竞争而闻名，对于一个达到这种统治水�
 
 那么，是什么让 Optuna 被最大的机器学习社区如此广泛地接受呢？在本帖中，我们将通过动手操作这个框架来回答这个问题。我们将了解它是如何工作的，以及它如何从任何模型中挤出每一点性能，包括神经网络。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 什么是 Optuna？
 

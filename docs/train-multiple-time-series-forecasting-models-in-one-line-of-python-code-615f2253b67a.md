@@ -116,11 +116,7 @@ model.plot_cv_scores()**
 
 除了为时序数据集训练模型的 Auto-TS 库之外，我们还有各种 AutoML 库，可以通过自动化模型开发管道来加快数据科学家的工作流程。阅读下面提到的文章中的[，了解 8 个 AutoML 库。](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636)
 
-[](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636) [## 8 个自动化机器学习管道的 AutoML 库
-
-### 各种 AutoML 框架概述
-
-medium.com](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636) 
+<https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636>  
 
 # 参考资料:
 

@@ -14,11 +14,7 @@ Python 是一种非常流行的编程语言，它有成千上万的库，几乎�
 
 例如，如果我说我正在使用 Python 来构建一个数据科学项目，那么很有可能，我将在我的代码中的某个地方以某种方式使用 Pandas 库。Pandas、Matplotlib、NumPy、SciPy 和其他是数据科学项目中经常使用的著名 Python 库。事实上，大多数数据科学项目使用所有 4 个库。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 因为这些库对于外业来说非常重要(至少目前如此)，所以知道如何正确使用它们可以使您的工作流程更加高效。正如我经常说的，如果你想学习任何关于数据科学的东西，有各种类型的方法可以采用；你可以看一段 YouTube 视频，读一篇博客文章，或者看一本书。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 这本书采用平稳的学习轨迹来解决熊猫的一切问题，从安装库到获取数据(导入、读取、导出)，处理杂乱的数据或使用复杂数据结构呈现的数据，分析数据，并找到模式以有效地将其可视化。
 
-[](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) [## 证明你 Python 知识水平的 5 个证书
-
-### 有时候，拥有一个证书可能是你需要的验证
-
-towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) 
+</the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b>  
 
 # 第三册:熊猫食谱:使用 Python 进行科学计算、时间序列分析和数据可视化的食谱
 
@@ -54,7 +46,7 @@ towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-
 
 由于这种简单性，通过阅读这本书，你可以很快学会熊猫的所有基本知识。这本书的主要重点是提供对熊猫数据框架的清晰理解，如何有效地使用它，并让我们一瞥熊猫在现实生活中的应用有多强大。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 
@@ -68,7 +60,7 @@ towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-
 
 如果您曾经使用 Python 来构建和实现您的数据科学项目，那么您一定使用过 Pandas 库来读取、分析和讨论您的数据。如今，Pandas 是数据科学项目中使用的最著名的 Python 库之一。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

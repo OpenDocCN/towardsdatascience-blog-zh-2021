@@ -12,11 +12,7 @@
 
 在我以前的一篇文章(如下)中，我介绍了 Python 中的 OS 库，它将处理几乎所有基本的文件系统操作。对于那些刚刚开始使用 Python 来自动化一些重复任务的人，强烈推荐这些操作。
 
-[](/8-must-know-file-system-operations-in-python-7dc185daeccd) [## Python 中 8 个必须知道的文件系统操作
-
-### Python 在任务自动化应用中的本质
-
-towardsdatascience.com](/8-must-know-file-system-operations-in-python-7dc185daeccd) 
+</8-must-know-file-system-operations-in-python-7dc185daeccd>  
 
 然而，在我们掌握了操作系统库之后，我还建议升级到另一个库来完成大多数基本的文件系统操作。那就是 Pathlib，也是 Python 内置库。它在语法方面更直观，更容易使用，并且有更多现成的功能。
 
@@ -278,10 +274,6 @@ f.stat().st_size
 
 当然，我们仍然需要知道如何使用 OS 库，因为它是 Python 中最强大和最基本的库之一。然而，当我们在典型场景中需要一些文件系统操作时，强烈建议使用 Pathlib。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

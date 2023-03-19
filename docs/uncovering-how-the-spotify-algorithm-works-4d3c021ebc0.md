@@ -34,11 +34,7 @@ Spotify 一年回顾。来源:自己的图像。
 
 现在让我们更详细地看看收集的数据。先说艺术家。当然，Spotify 存储艺术家输入的所有数据:**歌曲名称、描述、流派、图像、歌词和歌曲文件**。除了这种从“提供商端”输入的数据之外，Spotify 还收集并跟踪对方——消费者——的数据。这些数据包括消费者**的收听历史、跳过的歌曲、歌曲播放的频率、存储的播放列表、下载的音乐、社交互动**，如共享播放列表或共享音乐，以及更多变量。除了这两个“内部”数据来源，Spotify 可能还使用外部数据，如文章、博客帖子或其他关于歌曲或艺术家相关主题的文本数据。
 
-[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) ![](img/f42e1453b11cdc499d6522a302afc4d9.png)
+<https://medium.com/@hucker.marius/membership>  ![](img/f42e1453b11cdc499d6522a302afc4d9.png)
 
 Spotify 使用的数据和模型。来源:自己的图像
 
@@ -177,11 +173,7 @@ Dielenman 的网络学习不同的过滤器，仅在第一 conv 层多达 256 �
 
 在私下使用 Spotify 时，我可以说他们在提供大量定制内容和推荐方面已经做得很好了。从推荐部分开始，一年来在 reverse Stories，the week 的混音中，当然还有很多更个性化的播放列表，基于我听的和其他人听的(有类似音乐品味的)。当然，Apple Music 或 Amazon Music 也可以提供这些服务，但最终，推荐系统的质量对用户体验至关重要。Spotify 尚未赢得这场战斗，但他们有一个清晰的战略，看起来很有希望。老实说，我希望 Spotify 能够战胜科技巨头。
 
-[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) 
+<https://medium.com/@hucker.marius/membership>  
 
 *消息来源*
 

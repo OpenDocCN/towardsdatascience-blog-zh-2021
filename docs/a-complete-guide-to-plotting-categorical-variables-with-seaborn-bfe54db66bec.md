@@ -295,11 +295,7 @@ Catplot 数据分面
 
 如果你喜欢在 Medium 上阅读我和其他人的内容，考虑使用下面的链接订阅，以支持像这样的内容创建并解锁无限的故事！
 
-[](https://medium.com/@willmnorris/membership) [## 通过我的推荐链接加入 Medium—Will Norris
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@willmnorris/membership) 
+<https://medium.com/@willmnorris/membership>  
 
 # 文档和链接
 

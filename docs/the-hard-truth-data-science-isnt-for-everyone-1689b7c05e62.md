@@ -70,12 +70,4 @@
 
 ## 推荐阅读
 
-[](/four-mistakes-to-avoid-while-learning-ai-92ed36d669e0) [## 学习人工智能要避免的四个错误
-
-### 人工智能是美妙的，但我们应该以正确的方式对待它。
-
-towardsdatascience.com](/four-mistakes-to-avoid-while-learning-ai-92ed36d669e0) [](/5-reasons-why-i-didnt-take-a-master-s-degree-in-ai-ml-dl-34485822365) [## 我没有考 AI/ML/DL 硕士的 5 个理由
-
-### 以及为什么我改学认知科学。
-
-towardsdatascience.com](/5-reasons-why-i-didnt-take-a-master-s-degree-in-ai-ml-dl-34485822365)
+</four-mistakes-to-avoid-while-learning-ai-92ed36d669e0>  </5-reasons-why-i-didnt-take-a-master-s-degree-in-ai-ml-dl-34485822365> 

@@ -8,7 +8,7 @@
 
 SambaNova 是数据流架构的一个例子，它在架构上与人脑有许多相似之处。这个数字是我自己对硬件、知识图和人脑之间相似性得分的直观衡量。请注意，我将数据流与人脑的相似度评分定为 0.9。作者的作品。
 
-本周，一家新的人工智能初创公司 SambaNova 获得了 6.76 亿美元的 D 轮融资，使其成为世界上获得资金最多的人工智能初创公司[](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup)*。我的许多研究企业知识图和大规模机器学习的同事可能对资金的规模有点困惑。的确，一开始，连我都为这么小的公司获得这么大的资金而感到惊讶。然而，在研究了 SambaNova 的 40B 晶体管数据流芯片架构后，我现在明白了为什么他们的系统值得这种程度的关注。*
+本周，一家新的人工智能初创公司 SambaNova 获得了 6.76 亿美元的 D 轮融资，使其成为世界上获得资金最多的人工智能初创公司<https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup>*。我的许多研究企业知识图和大规模机器学习的同事可能对资金的规模有点困惑。的确，一开始，连我都为这么小的公司获得这么大的资金而感到惊讶。然而，在研究了 SambaNova 的 40B 晶体管数据流芯片架构后，我现在明白了为什么他们的系统值得这种程度的关注。*
 
 *这个博客将回顾什么是数据流架构，SambaNova 如何实现这个架构，为什么这个投资有意义，以及你需要做什么来将这个新的开发集成到你的整体 IT 策略中。*
 

@@ -58,8 +58,4 @@ Leetcode 不是 DSA 课程，如果你之前没有这方面的准备，你肯定
 
 感谢您的阅读，请随时通过 Linkedin 与我联系，如果您想支持我，您可以通过我的链接注册一个中等合作伙伴关系。
 
-[](https://medium.com/@federicomannucci_31459/membership) [## 通过我的推荐链接加入 Medium-Federico Mannucci
-
-### 阅读更多来自 Federico 和成千上万其他作者的关于如何成为一名更好的程序员的文章
-
-medium.com](https://medium.com/@federicomannucci_31459/membership)
+<https://medium.com/@federicomannucci_31459/membership> 

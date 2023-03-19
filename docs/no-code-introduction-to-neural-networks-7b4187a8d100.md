@@ -75,14 +75,6 @@ X =输入节点，Z =隐藏层节点，Y =输出层节点
 
 [7]m . Karlaftis 和 e . Vlahogianni，2011 年。交通研究中的统计方法与神经网络:差异、相似性和一些见解。*运输研究 C 部分:新兴技术，* 19(3)，第 387-399 页。
 
-[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [## 层次聚类简介(第 1 部分——理论、联系和相似性)
-
-### 什么是层次聚类、亲和度和关联度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)

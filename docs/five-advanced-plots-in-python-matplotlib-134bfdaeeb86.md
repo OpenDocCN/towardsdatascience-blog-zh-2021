@@ -254,24 +254,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [## 卷积神经网络:对层的良好理解和图像分类示例
-
-### 包含了大量的信息
-
-towardsdatascience.com](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [## Python 中从头开始的完整异常检测算法:分步指南
-
-### 基于概率的异常检测算法
-
-towardsdatascience.com](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 大量不同种类的数据集
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441)
+</convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e>  </a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441> 

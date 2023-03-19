@@ -39,7 +39,7 @@
 
 ## ****(I)导航至网络应用程序****
 
-****让我们先来看看 diagrams.net 在线编辑工具[](https://app.diagrams.net/)**。******
+****让我们先来看看 diagrams.net 在线编辑工具<https://app.diagrams.net/>**。******
 
 ******当您到达主页时，会出现一个弹出窗口，要求您选择保存图的目标位置。如果你想先做些实验，你可以选择“**稍后决定**”。******
 
@@ -73,11 +73,7 @@
 
 ****除了侧边栏中显示的形状之外，还有很多其他形状，你可以点击“ ***+更多形状…* 【T21””按钮来浏览整个收藏。******
 
-****[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 以一杯咖啡的价格访问我所有的内容(和所有的媒体文章)!
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership)**** 
+****<https://kennethleungty.medium.com/membership> **** 
 
 ## ****㈣定制****
 
@@ -125,16 +121,4 @@ kennethleungty.medium.com](https://kennethleungty.medium.com/membership)****
 
 ****欢迎您加入**和我一起踏上数据科学学习之旅！**关注此[媒体](https://kennethleungty.medium.com/)页面或查看我的 [GitHub](https://github.com/kennethleungty) 以了解更多精彩的数据科学内容。同时，享受绘制架构图的乐趣！****
 
-****[](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) [## 药物-药物相互作用的网络分析和可视化
-
-### 了解如何使用 NetworkX、Pyvis 和 Datapane 探索和可视化药物相互作用数据(Python 格式)
-
-towardsdatascience.com](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) [](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) [## PyTorch Ignite 教程—使用高效网络对微型图像网络进行分类
-
-### 使用 PyTorch Ignite 简化 PyTorch 深度学习实施的分步指南
-
-towardsdatascience.com](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f)****
+****</network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df>  </the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96>  </pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f> ****

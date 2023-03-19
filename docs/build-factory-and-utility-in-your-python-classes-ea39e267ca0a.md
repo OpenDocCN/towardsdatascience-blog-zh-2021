@@ -134,11 +134,7 @@ e1.year_joined = 2021
 
 你可能也知道我在变量前面加了下划线，所以它变成了`_year_joined`。这里没有什么神奇的，但是按照 Python 的惯例，为了可读性，我们应该为任何私有属性加上下划线。如果你想知道更多，请查看我以前的一篇文章，如下所示。
 
-[](/why-python-loves-underscores-so-much-de03cf7bdcdd) [## 为什么 Python 如此喜欢下划线
-
-### 使用下划线的一些技巧可以改进您的 Python 代码
-
-towardsdatascience.com](/why-python-loves-underscores-so-much-de03cf7bdcdd) 
+</why-python-loves-underscores-so-much-de03cf7bdcdd>  
 
 那么，现在如果我们想实现 setter 和 getter 呢？使用`@property`装饰器，我们可以很容易地将它们定义如下。
 
@@ -181,10 +177,6 @@ class Employee:
 
 在本文中，我介绍了 Python 面向对象编程中使用的三个重要的装饰器:类。我们通常将静态方法用于类中的实用程序，将类方法用于工厂设计模式，将属性用于我们希望防止被随机修改的任何属性。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

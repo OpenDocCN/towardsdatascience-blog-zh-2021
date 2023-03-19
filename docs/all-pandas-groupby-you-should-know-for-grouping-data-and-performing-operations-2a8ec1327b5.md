@@ -238,15 +238,7 @@ Name: Age, Length: 712, dtype: float64
 
 如果您想了解更多`transform()`和`apply()`，请查看:
 
-[](/when-to-use-pandas-transform-function-df8861aa0dcf) [## 何时使用 Pandas transform()函数
-
-### 一些最有用的熊猫把戏
-
-towardsdatascience.com](/when-to-use-pandas-transform-function-df8861aa0dcf) [](/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) [## 熊猫应用简介，应用地图和地图
-
-### 一个直观的熊猫教程，介绍如何使用 apply()和 applymap()应用一个函数，以及如何替换值…
-
-towardsdatascience.com](/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) 
+</when-to-use-pandas-transform-function-df8861aa0dcf>  </introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff>  
 
 # 4.过滤
 

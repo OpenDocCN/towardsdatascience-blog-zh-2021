@@ -28,11 +28,7 @@ Kaggle 有许多关于各种数据科学相关主题的短期课程。这些课�
 
 在 Kaggle 有一个 5 小时的 Python 课程。它由 8 个模块组成，涵盖了处理数据科学问题的所有基本概念。下面是课程的链接，
 
- [## 学习 Python 教程
-
-### 学习数据科学最重要的语言。
-
-www.kaggle.com](https://www.kaggle.com/learn/python) 
+  
 
 完成上述课程后，为了获得更多自信，请向 [Codeacademy](https://www.codecademy.com/learn/learn-python-3) 学习。另外，参考这里的 [Coursera 课程](https://www.coursera.org/learn/python-for-applied-data-science-ai#about)。任何时候，如果你觉得编码不适合你，那么看下面的视频。它将准确地向您展示学习数据科学编码的方法。
 
@@ -44,11 +40,7 @@ Pandas 是 Python 中最重要的库之一。这是数据科学最常用的库�
 
 下面关于熊猫的课程涵盖了这个图书馆的主要功能。这是一门 4 小时的课程，需要事先掌握 Python 知识。
 
- [## 学习熊猫教程
-
-### 解决简短的动手挑战，完善您的数据操作技能。
-
-www.kaggle.com](https://www.kaggle.com/learn/pandas) 
+  
 
 ## 数据清理
 
@@ -63,31 +55,19 @@ Kaggle 数据集通常是干净的，随时可以使用。在大多数现实生�
 
 下面的课程探讨了一些常见的数据问题。它还介绍了处理这些问题的解决方案。这也是一个教授重要数据清理策略的短期课程。本课程没有涵盖所有的数据清理技术，但足以帮助您入门。
 
- [## 了解数据清理教程
-
-### 掌握清理现实世界中杂乱数据的高效工作流程。
-
-www.kaggle.com](https://www.kaggle.com/learn/data-cleaning) 
+  
 
 ## 数据可视化
 
 人脑很容易从视觉数据中提取模式。可视化是向业务涉众传达见解的关键。数据科学家需要对可视化技术有很好的了解。比如，哪些图表最适合什么类型的数据分析？有哪些技术有助于突出数据中的趋势或模式？
 
- [## 学习数据可视化教程
-
-### 制作出色的数据可视化。一个伟大的方式来看看编码的力量！
-
-www.kaggle.com](https://www.kaggle.com/learn/data-visualization) 
+  
 
 ## ML 简介
 
 最后，以下课程将有助于理解数据科学项目中的管道。它将涵盖重要的步骤以及采取这些步骤的原因。完成本课程后，你将能够实现一个预测模型。
 
- [## 学习机器学习教程简介
-
-### 学习机器学习中的核心思想，建立你的第一个模型。
-
-www.kaggle.com](https://www.kaggle.com/learn/intro-to-machine-learning) 
+  
 
 这些课程可能不会让你成为这些领域的专家。它不会涵盖该主题中的每一个概念。但是，它将帮助您掌握足够的技能来解决任何数据科学问题。自学数据科学一定会让你自给自足。
 
@@ -101,25 +81,17 @@ Kaggle 里有一些学习数据探索的神奇笔记本。它们可以帮助你�
 
 下面的笔记本是一个关于房价数据的综合数据分析笔记本。本笔记本中使用的方法与任何真实世界数据分析中使用的方法一致。它从更好地理解数据开始。单变量分析有助于更好地理解因变量。多变量分析有助于理解因变量和自变量之间的关系。最后，它包括了测试假设的例子，如正态性、同方差性和线性。
 
-[](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) [## 使用 Python 进行全面的数据探索
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用房价数据-高级回归…
-
-www.kaggle.com](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
+<https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python>  
 
 下面的笔记本是关于分析具有不同类型数据的数据集。比如表格数据、文本和图像。这将有助于学习对每种数据类型有用的不同技术。
 
-[](https://www.kaggle.com/artgor/exploration-of-data-step-by-step) [## 逐步探索数据
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 PetFinder 的数据。我的采用预测
-
-www.kaggle.com](https://www.kaggle.com/artgor/exploration-of-data-step-by-step) 
+<https://www.kaggle.com/artgor/exploration-of-data-step-by-step>  
 
 数据科学问题的成功取决于对问题的理解程度。为了更好地理解问题，需要对数据进行适当的分析。执行数据分析并不是一项困难的任务。这通常会耗费时间，诱使人们匆忙进入下一步。不理解就继续前进是一场灾难。
 
 执行完整数据分析的一个最佳方法是在解决数据科学问题时结合首要的思维原则。下面的文章将向你展示在解决一个数据科学问题时如何融入首要原则。
 
-[](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) [## 如何用第一性原理思维解决数据科学问题？
+</how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21> [## 如何用第一性原理思维解决数据科学问题？
 
 towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) 
 
@@ -129,11 +101,7 @@ towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-scien
 
 如果你是数据科学的新手，那么强烈建议你完成下面关于机器学习的短期课程。在那之后，转移到现实世界的问题或 kaggle 竞赛。它将向您展示解决数据科学问题所涉及的步骤。您还可以用它创建一个模板，用于解决任何类似的问题。
 
- [## 学习中级机器学习教程
-
-### 处理缺失值、非数字值、数据泄漏等等。
-
-www.kaggle.com](https://www.kaggle.com/learn/intermediate-machine-learning) 
+  
 
 模型构建的另一个方面是特征工程。它有助于，
 
@@ -144,11 +112,7 @@ www.kaggle.com](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 特征工程在提高模型性能方面起着重要作用。下面是一个很好的课程，可以学习更多关于特征工程的概念。同样，这些都不是全面的课程，但它们足以理解核心概念。
 
- [## 学习特征工程教程
-
-### 更好的特性造就更好的模型。了解如何充分利用您的数据。
-
-www.kaggle.com](https://www.kaggle.com/learn/feature-engineering) 
+  
 
 # 了解如何解决不同的数据科学问题
 
@@ -158,43 +122,23 @@ www.kaggle.com](https://www.kaggle.com/learn/feature-engineering)
 
 *   回归
 
-[](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) [## 堆叠回归:排行榜前 4%
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用房价数据-高级回归…
-
-www.kaggle.com](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) 
+<https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard>  
 
 *   分类
 
-[](https://www.kaggle.com/startupsci/titanic-data-science-solutions) [## 泰坦尼克号数据科学解决方案
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Titanic 的数据-灾难中的机器学习
-
-www.kaggle.com](https://www.kaggle.com/startupsci/titanic-data-science-solutions) 
+<https://www.kaggle.com/startupsci/titanic-data-science-solutions>  
 
 *   使聚集
 
-[](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) [## 客户细分(K 均值)|分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
-
-www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) 
+<https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis>  
 
 *   自然语言处理
 
-[](https://www.kaggle.com/faressayah/natural-language-processing-nlp-for-beginners) [## 📚自然语言处理(NLP)🧾for 初学者
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自垃圾短信收集数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/faressayah/natural-language-processing-nlp-for-beginners) 
+<https://www.kaggle.com/faressayah/natural-language-processing-nlp-for-beginners>  
 
 *   计算机视觉
 
-[](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) [## CNN 简介 Keras - 0.997(前 6%)
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自数字识别器的数据
-
-www.kaggle.com](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) 
+<https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6>  
 
 通过浏览上面的 kaggle 笔记本并逐行执行它们中的每一个，你会学到很多实用的技巧。它将向你展示解决这些问题的方法。这些笔记本大多是由专家写的，因此他们也会教你关于编码标准的知识。
 

@@ -54,11 +54,7 @@ Deepmind 的系统正被 Moorefield 的眼科医院用于诊断 50 多种威胁�
 
 在神经网络中提供可解释性的另一个好主意是显著图。显著图提供了一种 CNN 激活的热图。这基本上显示了图像中有助于分类的部分和无助于最终预测的部分。
 
-[](https://medium.com/@ODSC/visualizing-your-convolutional-neural-network-predictions-with-saliency-maps-9604eb03d766) [## 使用显著图可视化您的卷积神经网络预测
-
-### 在许多情况下，理解为什么模型预测一个给定的结果是一个关键的细节，模型用户和必要的…
-
-medium.com](https://medium.com/@ODSC/visualizing-your-convolutional-neural-network-predictions-with-saliency-maps-9604eb03d766) 
+<https://medium.com/@ODSC/visualizing-your-convolutional-neural-network-predictions-with-saliency-maps-9604eb03d766>  
 
 **3。即使你的模型表现出色，你也必须满足某些标准**
 

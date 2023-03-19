@@ -131,16 +131,4 @@ G oogle 为数十亿网页编制索引。反过来，广受欢迎的谷歌搜索
 
 请关注即将发布的关于从 Google Trends 下载数据以扩展 Tableau 功能的报道。
 
-[](/use-and-enhance-this-python-class-to-download-excel-workbooks-and-prepare-them-for-analytics-4750ae00d8c2) [## 使用并增强这个 Python 类来下载 Excel 工作簿，并为分析做准备
-
-### 使用 Python 类 c_download_prep_excel 从网站自动下载 excel 电子表格并准备它们…
-
-towardsdatascience.com](/use-and-enhance-this-python-class-to-download-excel-workbooks-and-prepare-them-for-analytics-4750ae00d8c2) [](/use-python-and-bulk-insert-to-quickly-load-data-from-csv-files-into-sql-server-tables-ba381670d376) [## 使用 Python 和 Bulk Insert 将数据从 CSV 文件快速加载到 SQL Server 表中
-
-### 了解如何编写 Python 代码来执行 SQL Server BULK INSERT 实用程序，以便将 CSV 文件中的数据加载到…
-
-towardsdatascience.com](/use-python-and-bulk-insert-to-quickly-load-data-from-csv-files-into-sql-server-tables-ba381670d376) [](/uery-information-about-43-nih-biomedical-databases-with-this-python-4e534a12c3fb) [## 使用这个 Python 类查询 43 个 NIH 生物医学数据库的元数据
-
-### NIH 的国家生物技术信息中心(NCBI)管理着 43 个 Entrez 生物医学信息数据库…
-
-towardsdatascience.com](/uery-information-about-43-nih-biomedical-databases-with-this-python-4e534a12c3fb)
+</use-and-enhance-this-python-class-to-download-excel-workbooks-and-prepare-them-for-analytics-4750ae00d8c2>  </use-python-and-bulk-insert-to-quickly-load-data-from-csv-files-into-sql-server-tables-ba381670d376>  </uery-information-about-43-nih-biomedical-databases-with-this-python-4e534a12c3fb> 

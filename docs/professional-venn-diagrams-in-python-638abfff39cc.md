@@ -193,12 +193,4 @@ plt.show()
 
 更多信息，请查看 GitHub 上的完整笔记本。对相关文章感兴趣？多读读作者。
 
-[](https://medium.com/swlh/series-on-theories-high-dimensional-data-101-81cab8e0bea6) [## 理论系列:高维数据 101
-
-### 起源
-
-medium.com](https://medium.com/swlh/series-on-theories-high-dimensional-data-101-81cab8e0bea6) [](https://www.linkedin.com/in/kate-wall/) [## 凯特·沃尔-休斯敦德克萨斯大学健康科学中心研究生助理…
-
-### 在全球最大的职业社区 LinkedIn 上查看凯特·沃尔的个人资料。凯特有一份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/kate-wall/)
+<https://medium.com/swlh/series-on-theories-high-dimensional-data-101-81cab8e0bea6>  <https://www.linkedin.com/in/kate-wall/> 

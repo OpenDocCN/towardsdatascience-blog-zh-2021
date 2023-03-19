@@ -209,4 +209,4 @@ proxy _ pass[http://UNIX:/home/**Ubuntu**/**beta PP**/**beta PP**。袜子；](h
 
 Flask APIs 是将你训练过的*机器学习*模型投入*生产*[【2】](/machine-learning-in-production-keras-flask-docker-and-heroku-933b5f885459)的优秀工具。在本教程中，我们介绍了如何使用 Nginx 和 Gunicorn 部署 Flask 应用程序的过程。
 
-*原载于 2021 年 7 月 3 日 https://aienthusiasts.com*[](https://aienthusiasts.com/deploy-multiple-flask-applications/)**。**
+*原载于 2021 年 7 月 3 日 https://aienthusiasts.com*<https://aienthusiasts.com/deploy-multiple-flask-applications/>**。**

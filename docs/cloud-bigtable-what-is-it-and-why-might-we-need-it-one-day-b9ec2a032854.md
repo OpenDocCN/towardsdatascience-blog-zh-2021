@@ -180,4 +180,4 @@ Spotify 音乐应用程序就是一个很好的例子。只要你打开 Spotify�
 
 如果你正在读这封信，感谢你抽出时间。请随时在 LinkedIn 和 T2 Twitter 上与我联系，并告诉我下次如何做得更好。保重，保持安全，继续牛逼！
 
-*原载于 2021 年 3 月 22 日 https://thedigitalskye.com*[](http://thedigitalskye.com/2021/03/23/cloud-bigtable-what-is-it-and-why-might-we-need-it-one-day/)**。**
+*原载于 2021 年 3 月 22 日 https://thedigitalskye.com*<http://thedigitalskye.com/2021/03/23/cloud-bigtable-what-is-it-and-why-might-we-need-it-one-day/>**。**

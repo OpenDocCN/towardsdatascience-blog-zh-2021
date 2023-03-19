@@ -104,8 +104,4 @@ Jerry 的平均每周家访次数为 3.5 次，分布如图 2 所示。
 
 ****快乐学习！****
 
-*[](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)*
+*<https://ahmarshah.medium.com/membership> *

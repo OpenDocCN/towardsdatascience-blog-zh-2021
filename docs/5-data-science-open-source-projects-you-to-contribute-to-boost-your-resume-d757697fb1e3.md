@@ -14,11 +14,7 @@
 
 一个好的投资组合应该包括各种类型的项目，关于数据收集、分析和可视化的项目。它还应该包含不同规模的项目。处理小项目和处理大规模项目是非常不同的。如果您的投资组合具有两种规模，那么这意味着您可以阅读、处理和调试所有规模的软件，这是任何数据科学家都需要的技能。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 这可能会让你想知道如何找到好的开源数据科学项目，这些项目容易进入并且在你的投资组合中看起来很棒。这是一个很好的问题，但随着数据科学项目数量的激增，找到好的项目并不是一件容易的事情。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 谷歌将卡利班作为解决这个问题的潜在方案。卡利班是一个测试工具，它在执行过程中跟踪您的环境属性，并允许您重现特定的运行环境。研究人员和数据工程师在谷歌开发了这个工具，每天执行这项任务。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # №2: [PalmerPenguins](https://github.com/allisonhorst/palmerpenguins)
 
@@ -48,11 +40,7 @@ PalmerPenguins 提供了一个惊人的数据集，您可以像使用 Iris 一�
 
 Caffe 作为开源项目发布仅一年后，就被全世界 1000 多名研究人员和开发人员分了手。它有助于转变研究主题，建立新的创业公司和产业力量。Caffe 社区是欢迎和支持开源社区加入的社区之一。
 
-[](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) [## 您的数据科学投资组合中必须包含 4 类项目
-
-### 获得一份 DS 工作并不容易，但拥有这些项目可能会增加你的机会。
-
-towardsdatascience.com](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) 
+</4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e>  
 
 # №4: [NeoML](https://github.com/neoml-lib/neoml)
 
@@ -72,10 +60,6 @@ Korina 不仅仅是一个包；它是一组库，可以一起用于训练模型�
 
 在您学习数据科学的过程中，您可能经历过许多项目，从只有几行代码的较小项目到有数百行代码的相对较大的项目。但是，要真正证明你的技能和知识水平，你需要有一些贡献，让你在申请人中脱颖而出。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 吸引招聘者眼球的一个方法是参与世界各地许多数据科学家使用的大型项目。在这篇文章中，我给了你一些项目的建议，你可以为之做出贡献，并帮助建立一些令人敬畏的东西。所以，你现在需要做的就是选择一个项目，然后马上着手去做。

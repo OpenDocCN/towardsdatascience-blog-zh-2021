@@ -93,4 +93,4 @@
 
 *[5]:[https://cloud . Google . com/big query/docs/parameterized-queries # big query _ query _ params _ named-web](https://cloud.google.com/bigquery/docs/parameterized-queries#bigquery_query_params_named-web)*
 
-**原载于【https://mydataschool.com】[](https://mydataschool.com/blog/how-to-extract-real-time-intraday-data-in-firebase-and-bigquery/)**。****
+**原载于【https://mydataschool.com】<https://mydataschool.com/blog/how-to-extract-real-time-intraday-data-in-firebase-and-bigquery/>**。****

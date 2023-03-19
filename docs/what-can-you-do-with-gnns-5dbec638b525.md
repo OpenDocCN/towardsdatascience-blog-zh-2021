@@ -54,11 +54,7 @@
 
 使用 pytorch 几何库可以很容易地实现 gnn。在那里，您可以找到 GNNs 的许多实现和一个消息传递类，以供您自己的定制实现使用。请点击以下链接查看。
 
- [## PyTorch 几何文档- pytorch_geometric 1.7.2 文档
-
-### 它由对图形和其他不规则结构进行深度学习的各种方法组成，也称为几何深度学习…
-
-py torch-geometric . readthedocs . io](https://pytorch-geometric.readthedocs.io/en/latest) 
+  
 
 ## Cora 数据集
 
@@ -153,11 +149,7 @@ optimizer = torch.optim.Adam([
 
 神经网络可以看作是连续的可微函数。分类本质上是学习预测的决策边界。点击此处了解更多关于决策界限的信息；
 
-[](/logistic-regression-and-decision-boundary-eab6e00c1e8) [## 逻辑回归和决策边界
-
-### 理解逻辑回归及其在分类中的效用
-
-towardsdatascience.com](/logistic-regression-and-decision-boundary-eab6e00c1e8) 
+</logistic-regression-and-decision-boundary-eab6e00c1e8>  
 
 总之，如果我们强迫网络有更好的边界，我们可以有更好的可视化。这意味着，我们应该能够分别看到这些类。这在我们可视化集群数据时特别有用。我们能做的一件简单的事情是:
 

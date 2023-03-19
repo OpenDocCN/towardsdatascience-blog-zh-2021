@@ -41,11 +41,7 @@
 
 *   **机器学习基础知识:**面试官问了一些与机器学习相关的基础到中级问题，如反向传播、图形 ML、集成方法、消失梯度、精确度与召回率、偏差-方差权衡等。在下面有用的链接中可以找到对这些主题的很好的理解
 
-[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+<https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f>  
 
 *   **ML 案例研究:**与第一次访谈类似，讨论了与 UberEats 相关的开放式案例研究。与第一次面试相反，这次的案例研究要复杂得多，而且更加面向机器学习和统计。我被要求为一个相关的基于产品的问题设计一个基于 ML 的解决方案。面试官每一步都问了相关的细节问题。讨论从简单的逻辑回归模型开始，到稍微复杂的 SVM 和决策树，最后到甚至复杂的图 ML 模型。我们还讨论了可用数据集的重要特征以及如何使用它们来解决问题。
 
@@ -63,15 +59,7 @@ medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-
 
 编码面试的重点是我对统计学的理解。面试官让我做一个涉及假设检验的问题。由于我习惯了与现实世界问题相关的 LeetCode 类型的问题，这个编码问题给了我一段艰难的时间。我花了一些时间才明白面试官想要我实现什么。当我陷入困境时，面试官给了我一些提示。这个编码问题有多个后续编码问题。可以在下面找到对该部分的很好理解
 
-[](/how-to-answer-a-coding-interview-question-1613776358e) [## 如何回答一个编码面试问题？
-
-### 帮助您回答编码问题的分步指南。
-
-towardsdatascience.com](/how-to-answer-a-coding-interview-question-1613776358e) [](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) [## 编码面试的七(7)个基本数据结构和相关的常见问题
-
-### 用动画可视化的重要数据结构
-
-towardsdatascience.com](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) 
+</how-to-answer-a-coding-interview-question-1613776358e>  </seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290>  
 
 ## 3.研究
 
@@ -81,11 +69,7 @@ towardsdatascience.com](/seven-7-essential-data-structures-for-a-coding-intervie
 
 面试官问了我一些问题，关于我读博士的经历，我实习的经历，还有一个机器学习工程师。这些问题围绕着我的领导能力、时间管理、按时完成任务、与难相处的同事相处以及解决冲突。对这些问题的理解可以在下面找到
 
-[](/how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82) [## 如何准备行为/软技能面试？
-
-### 用备忘单准备数据科学行为面试的有组织指南。
-
-towardsdatascience.com](/how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82) 
+</how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82>  
 
 ## 5.机器学习/统计:
 
@@ -93,11 +77,7 @@ towardsdatascience.com](/how-to-prepare-for-a-behavioral-soft-skills-interview-c
 
 一些相关的主题可以在下面的链接中找到。
 
-[](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) [## 机器学习中的正则化类型
-
-### 机器学习正则化初学者指南。
-
-towardsdatascience.com](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) 
+</types-of-regularization-in-machine-learning-eb5ce5f9bf50>  
 
 ## 6.案例研究:
 

@@ -70,11 +70,7 @@ add_rec(x)
 
 既然我们已经理解了递归，以及为什么它会对硬件造成损害，那么让我们考虑一下递归在硬件上是什么样子的。为此，我当然会写一些汇编来演示。请继续关注我，因为我认为这很可能会改变你看待计算中递归的方式。我将编写一个读取、求值、打印循环——这当然是递归循环的一个例子——至少在汇编时是这样。另外，如果你想学习更多关于编写汇编的知识，我有一篇文章，我认为可以用“Hello World！”所有人都可以在这里读到:
 
-[](/the-basics-of-writing-assembly-cf5f9e7989bc) [## 编写程序集的基础
-
-### 想学汇编？从这里开始！
-
-towardsdatascience.com](/the-basics-of-writing-assembly-cf5f9e7989bc) 
+</the-basics-of-writing-assembly-cf5f9e7989bc>  
 
 总之，这是我的。数据部分，它只是提供一个保存在堆栈中的提示，我们可以用它让用户输入一行。然后，我将添加一个. bss 部分，这只是允许我用一个别名保留一些内存。在这个例子中，我们只需要一个字节，因为我只是将整数存储在这里:
 
@@ -98,11 +94,7 @@ _start:; Check for exit code set to 1:mov rdi, 1cmp rdi, inpje _exitmov rdi, 0je
 
 此外，编译和加载它，我们看到这个应用程序是一个 REPL，它本身经常是这样写的。这意味着我们用来处理和调试代码的 REPLs 通常本质上是递归的。此外，您可以在我的“随机代码库”中查看我为这个示例编写的所有程序集:
 
-[](https://github.com/emmettgb/Random_Code/tree/main/assembly_repl) [## 主 emmettgb/Random_Code 上的 Random_Code/assembly_repl
-
-### 只是一堆随机的斑点。在 GitHub 上创建一个帐户，为 emmettgb/Random_Code 开发做贡献。
-
-github.com](https://github.com/emmettgb/Random_Code/tree/main/assembly_repl) 
+<https://github.com/emmettgb/Random_Code/tree/main/assembly_repl>  
 
 # 高级编程中递归的实现
 
@@ -110,11 +102,7 @@ github.com](https://github.com/emmettgb/Random_Code/tree/main/assembly_repl)
 
 阶乘很难计算。当计算与它结合时，这种情况更加有效。阶乘对于许多语言来说都是一个非常大的问题，实际上我很久以前就写过一篇文章，讲述我最喜欢的语言 Julia 是如何处理阶乘的。他们使用查找表，而不是计算阶乘，这意味着阶乘被缓存。如果这只是针对低于表所达到的计数的阶乘，那就好了，但事实并非如此。另外，你可以在这里阅读我写的关于这个话题的文章:
 
-[](/the-julia-factorial-issue-72d12f1f42f) [## 朱莉娅阶乘问题
-
-### 大约一周前，当我从车床软件包中提炼统计模块时，我偶然发现了我认为是…
-
-towardsdatascience.com](/the-julia-factorial-issue-72d12f1f42f) 
+</the-julia-factorial-issue-72d12f1f42f>  
 
 这表明，即使是像 Julia 这样非常数学化的语言，也会有阶乘的严重问题。总之，典型地，递归阶乘实现是这样写的:
 
@@ -130,11 +118,7 @@ function fact(n) if n == 1 return(1) else return n * fact(n-1) endend
 
 我想我会推荐一篇关于如何运用这种判断力的好文章，作者是费思·齐克威。本文详细介绍了何时应该使用常规循环，通常是迭代循环，而不是递归实现。如果你想更多地了解他们在这个问题上的主张，你可以在这里看到一篇很好的文章:
 
-[](https://betterprogramming.pub/when-to-loop-when-to-recurse-b786ad8977de) [## 什么时候循环？什么时候递归？
-
-### 如何在代码中充分利用递归
-
-better 编程. pub](https://betterprogramming.pub/when-to-loop-when-to-recurse-b786ad8977de) 
+<https://betterprogramming.pub/when-to-loop-when-to-recurse-b786ad8977de>  
 
 # 结论
 

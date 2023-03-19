@@ -93,11 +93,7 @@ C 众所周知，某些 ES6 函数在大型数据集中[被认为比老式`for`�
 
 [Riccardo Polacci](https://medium.com/u/a1ab6cc47750?source=post_page-----1a8365dfc363--------------------------------) 在他写给《值得关注》杂志博客的一篇文章中出色地讨论了 ES6 函数的可读性和性能之间的权衡:
 
-[](https://blog.usejournal.com/performance-vs-readability-2e9332730790) [## 性能与可读性
-
-### JavaScript 已经发展成为一种可读性更强的语言。这是毫无疑问的，也没有坏处。
-
-blog.usejournal.com](https://blog.usejournal.com/performance-vs-readability-2e9332730790) 
+<https://blog.usejournal.com/performance-vs-readability-2e9332730790>  
 
 我试图找到其他研究来支持我的性能结果，Deepak Gupta 在 2018 年的*hacker noon**和[*forward Data Science*](/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)(完整结果在 GitHub 上)发表了大量的`for`循环测试数据[。](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)*
 

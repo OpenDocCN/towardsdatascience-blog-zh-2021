@@ -36,11 +36,7 @@
 
 完成项目后，我找到了这个解决方案:
 
-[](https://www.erickhchan.com/data/2019/03/30/python-batch-xlsxtocsv.html) [## 加速 Python 的熊猫慢读 _excel()
-
-### 熊猫从 excel (pandas.read_excel())读取真的真的很慢，甚至有些数据集很小(< 50000 行)，它…
-
-www.erickhchan.com](https://www.erickhchan.com/data/2019/03/30/python-batch-xlsxtocsv.html) 
+<https://www.erickhchan.com/data/2019/03/30/python-batch-xlsxtocsv.html>  
 
 # 2-如果您想要完全自定义，请使用 Plotly Graph 对象，而不是 Plotly Express
 
@@ -58,11 +54,7 @@ Plotly 有一个模块叫做 ***图形对象*** 。这是主要的 Plotly 模块
 
 有关 Graph Objects 和 Plotly Express 之间的广泛比较，请查看本文:
 
-[](/plotly-express-the-good-the-bad-and-the-ugly-dc941649687c) [## 好的、坏的和丑陋的
-
-### 它可能更新，但它更好吗？
-
-towardsdatascience.com](/plotly-express-the-good-the-bad-and-the-ugly-dc941649687c) 
+</plotly-express-the-good-the-bad-and-the-ugly-dc941649687c>  
 
 # 3-你不能用一行简单的 Lambda 函数解决所有的数据转换
 

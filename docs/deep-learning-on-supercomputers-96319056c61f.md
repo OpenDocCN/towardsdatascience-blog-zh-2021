@@ -128,7 +128,7 @@ Epoch 5/5
 
 **其中“%j”被替换为工作分配号。该文件将在作业分配的第一个节点上生成。当批处理脚本的任务分配最终被批准时，Slurm 在已分配节点集中的第一个节点上运行批处理脚本的单个副本。**在以下章节中，我们将介绍其他参数。****
 
-**在我们案例研究中，分配 1 个 GPU 节点的作业脚本示例如下所示(`[MNIST.sh](https://github.com/jorditorresBCN/PATC-2021/blob/main/MNIST.sh)` [](https://github.com/jorditorresBCN/PATC-2021/blob/main/MNIST.sh)):**
+**在我们案例研究中，分配 1 个 GPU 节点的作业脚本示例如下所示(`[MNIST.sh](https://github.com/jorditorresBCN/PATC-2021/blob/main/MNIST.sh)` <https://github.com/jorditorresBCN/PATC-2021/blob/main/MNIST.sh>):**
 
 ```
 #!/bin/bash

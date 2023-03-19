@@ -90,13 +90,9 @@
 
 PS 更多[商业科学](https://medium.com/tag/business-science)来自我的写作:
 
-[](/how-not-to-fail-at-your-data-science-project-7e8c84305aa8) [## 如何(不)在数据科学项目中失败
+</how-not-to-fail-at-your-data-science-project-7e8c84305aa8> [## 如何(不)在数据科学项目中失败
 
-towardsdatascience.com](/how-not-to-fail-at-your-data-science-project-7e8c84305aa8) [](/agile-is-the-watchword-8b500d8cd0db) [## 敏捷是口号
-
-### 提高对数据波动响应能力的 3 种方法
-
-towardsdatascience.com](/agile-is-the-watchword-8b500d8cd0db) 
+towardsdatascience.com](/how-not-to-fail-at-your-data-science-project-7e8c84305aa8) </agile-is-the-watchword-8b500d8cd0db>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

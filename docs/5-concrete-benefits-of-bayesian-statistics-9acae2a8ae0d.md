@@ -60,11 +60,7 @@
 
 **想以每月 5 美元的价格获得 Medium 文章的全部访问权限并支持我的工作吗？使用以下链接订阅:**
 
-[](https://boemer.medium.com/membership) [## 通过我的推荐链接加入 Medium—Renato Boemer
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-boemer.medium.com](https://boemer.medium.com/membership) 
+<https://boemer.medium.com/membership>  
 
 **参考文献:**
 

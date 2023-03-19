@@ -191,14 +191,6 @@ df.loc[df["a"] == 3, "b"].squeeze()
 
 您可能还会对以下内容感兴趣:
 
-[](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) [## 使处理大型数据帧变得更容易，至少对您的内存来说是这样
-
-### 将数据帧的大小减少多达 90%！
-
-towardsdatascience.com](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) [](/explaining-the-settingwithcopywarning-in-pandas-ebc19d799d25) [## 解释熊猫中带有复制警告的设置
-
-### 如果您想知道是什么原因导致了 SettingwithCopyWarning，这就是您要找的地方！
-
-towardsdatascience.com](/explaining-the-settingwithcopywarning-in-pandas-ebc19d799d25) [](/embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d) [## 使用 datapane 将您的交互式可视化嵌入到中型帖子中
+</make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4>  </explaining-the-settingwithcopywarning-in-pandas-ebc19d799d25>  </embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d> [## 使用 datapane 将您的交互式可视化嵌入到中型帖子中
 
 towardsdatascience.com](/embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d)

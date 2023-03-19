@@ -18,11 +18,7 @@
 
 对于存储库:
 
-[](https://github.com/NadimKawwa/DOTAWardFinder) [## GitHub-NadimKawwa/DOTAWardFinder:在 DOTA 中查找 ward 集群
-
-### 一个基于游戏目标识别 DOTA2 中重围区域的项目。有关交互式实现，请参见…
-
-github.com](https://github.com/NadimKawwa/DOTAWardFinder) 
+<https://github.com/NadimKawwa/DOTAWardFinder>  
 
 # 观众是谁？
 

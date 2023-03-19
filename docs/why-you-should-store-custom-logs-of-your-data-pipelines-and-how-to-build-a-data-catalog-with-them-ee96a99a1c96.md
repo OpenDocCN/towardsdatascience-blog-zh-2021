@@ -55,11 +55,7 @@ CREATE TABLE logs.EXAMPLE_LOG_TABLE (ID bigint IDENTITY(1,1) NOT NULL,ID_TRACK_P
 
 每个数据作业都应该生成关于它刚刚完成的过程的元数据。按照我的另一篇文章中描述的例子:
 
-[](https://medium.com/@ivangomezarnedo/how-to-orchestrate-databricks-jobs-from-azure-data-factory-using-databricks-rest-api-4d5e8c577581) [## 如何使用 Databricks REST API 编排 Azure 数据工厂中的 Databricks 作业
-
-### 比使用 Azure Data Factory 官方 Databricks 笔记本更好(也更便宜)的控制工作的方式…
-
-medium.com](https://medium.com/@ivangomezarnedo/how-to-orchestrate-databricks-jobs-from-azure-data-factory-using-databricks-rest-api-4d5e8c577581) ![](img/c7a841c5136bb0167b2dcb710f10ee24.png)
+<https://medium.com/@ivangomezarnedo/how-to-orchestrate-databricks-jobs-from-azure-data-factory-using-databricks-rest-api-4d5e8c577581>  ![](img/c7a841c5136bb0167b2dcb710f10ee24.png)
 
 **(图片作者)**红色表示写日志的活动。
 
@@ -216,11 +212,7 @@ where  status ='SUCCESS') x WHERE row_no=1
 
 **SQL Server 与 HANA 的连接:**
 
-[](https://komport.medium.com/if-you-need-access-you-data-stored-in-sap-hana-database-from-mssql-database-server-you-can-add-877e8793acf7) [## 将您的 SAP HANA 数据库添加为 MSSQL Server 链接服务器。
-
-### 如果您需要从 MSSQL 数据库服务器访问存储在 SAP HANA 数据库中的数据，您可以添加…
-
-komport.medium.com](https://komport.medium.com/if-you-need-access-you-data-stored-in-sap-hana-database-from-mssql-database-server-you-can-add-877e8793acf7) 
+<https://komport.medium.com/if-you-need-access-you-data-stored-in-sap-hana-database-from-mssql-database-server-you-can-add-877e8793acf7>  
 
 首先[从 SAP 官方网站](https://help.sap.com/viewer/647582cc310341319e6e8d6f23f1f230/2.00.2.0/en-US/63ee40091a1847b886e3bcfe71ecb91a.html)下载必要的 ODBC 驱动，然后按照上一篇文章的步骤操作。在安装了 HANA 实例的机器上完成安装后，ODBC 将如下所示:
 
@@ -244,11 +236,7 @@ SELECT * FROM(SELECT *  FROM OPENQUERY([HANA_PRO],'SELECT * FROM LOGS.HANA_LOG_T
 
 这是一个更简单的过程，因为不需要 ODBC:
 
-[](https://www.sqlshack.com/create-linked-server-azure-sql-database/) [## 如何创建到 Azure SQL 数据库的链接服务器
-
-### 2017 年 9 月 27 日通过链接服务器允许从另一个 SQL Server 或另一个数据源(如 Excel)访问数据…
-
-www.sqlshack.com](https://www.sqlshack.com/create-linked-server-azure-sql-database/) 
+<https://www.sqlshack.com/create-linked-server-azure-sql-database/>  
 
 最后，由于使用*链接的服务器*就像在 SQL Server 中添加其他 DB 系统作为新的 DB，视图的代码将与前面的非常相似(视图只从同一个 DB 实例中读取数据):
 

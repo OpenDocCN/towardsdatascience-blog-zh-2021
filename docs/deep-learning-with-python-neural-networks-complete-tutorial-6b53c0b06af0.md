@@ -436,20 +436,4 @@ plt.show()*
 
 > **本文是使用 Python 进行机器学习的系列文章**的一部分，参见:****
 
-**[](/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec) [## 用 Python 进行机器学习:分类(完整教程)
-
-### 数据分析和可视化、特征工程和选择、模型设计和测试、评估和解释
-
-towardsdatascience.com](/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec) [](/machine-learning-with-python-regression-complete-tutorial-47268e546cea) [## Python 机器学习:回归(完整教程)
-
-### 数据分析和可视化、特征工程和选择、模型设计和测试、评估和解释
-
-towardsdatascience.com](/machine-learning-with-python-regression-complete-tutorial-47268e546cea) [](/clustering-geospatial-data-f0584f0b04ec) [## 聚类地理空间数据
-
-### 使用交互式地图绘制机器学习和深度学习聚类
-
-towardsdatascience.com](/clustering-geospatial-data-f0584f0b04ec) [](/modern-recommendation-systems-with-neural-networks-3cc06a6ded2c) [## 基于神经网络的现代推荐系统
-
-### 使用 Python 和 TensorFlow 构建混合模型
-
-towardsdatascience.com](/modern-recommendation-systems-with-neural-networks-3cc06a6ded2c)**
+**</machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec>  </machine-learning-with-python-regression-complete-tutorial-47268e546cea>  </clustering-geospatial-data-f0584f0b04ec>  </modern-recommendation-systems-with-neural-networks-3cc06a6ded2c> **

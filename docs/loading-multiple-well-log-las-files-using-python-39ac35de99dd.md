@@ -14,11 +14,7 @@
 
 这篇文章是我的 Python &岩石物理学系列的一部分。完整系列的细节可以在[这里](http://andymcdonald.scot/python-and-petrophysics)找到。你也可以在我的 GitHub 知识库中找到我的 Jupyter 笔记本和数据集，链接如下。
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series) [## andymcdgeo/岩石物理学-Python-系列
-
-### 本系列 Jupyter 笔记本将带您了解使用 Python 和岩石物理数据的各个方面。一个…
-
-github.com](https://github.com/andymcdgeo/Petrophysics-Python-Series) 
+<https://github.com/andymcdgeo/Petrophysics-Python-Series>  
 
 要阅读本文，可以在上面的链接中找到 Jupyter 笔记本，本文的数据文件可以在 Python & Petrophysics 库的 [Data 子文件夹](https://github.com/andymcdgeo/Petrophysics-Python-Series/tree/master/Data)中找到。
 

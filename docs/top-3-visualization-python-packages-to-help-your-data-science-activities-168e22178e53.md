@@ -69,25 +69,13 @@ AutoViz 的第一步是将要素分类为特定的数据类型，并使用这些
 
 如果你想看看其他的自动可视化软件包，可以看看我下面的其他文章。
 
-[](/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b) [## 数据框 EDA 软件包比较:Pandas Profiling、Sweetviz 和 PandasGUI
-
-### 哪些熊猫数据框 EDA 包适合你？
-
-towardsdatascience.com](/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b) [](/quick-recommendation-based-data-exploration-with-lux-f4d0ccb68133) [## 使用 Lux 进行基于快速推荐的数据探索
-
-### 通过基于一行建议的数据探索，轻松探索您的数据
-
-towardsdatascience.com](/quick-recommendation-based-data-exploration-with-lux-f4d0ccb68133) 
+</data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b>  </quick-recommendation-based-data-exploration-with-lux-f4d0ccb68133>  
 
 # 2.缺少编号
 
 **数据探索不仅限于数据集中存在的数据，还包括数据集中缺失的数据**。有这样的情况，丢失的数据是由于一个意外或纯粹的机会发生的，但这通常是不正确的。缺失的数据可能会揭示出我们以前从来不知道的洞察力。如果想了解缺失数据的分类，可以看下面的文章。
 
-[](https://medium.datadriveninvestor.com/3-missing-data-types-and-the-suggestion-to-handle-it-75eb10bfdf3b) [## 3 种缺失的数据类型及处理建议
-
-### 知道关于丢失的数据应该知道什么
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/3-missing-data-types-and-the-suggestion-to-handle-it-75eb10bfdf3b) 
+<https://medium.datadriveninvestor.com/3-missing-data-types-and-the-suggestion-to-handle-it-75eb10bfdf3b>  
 
 **推出**[**missing no**](https://github.com/ResidentMario/missingno)**，一款专门为可视化您的丢失数据而开发的软件包**。这个包提供了一个易于使用的有见地的一行代码来解释缺失数据，并显示了缺失数据之间的关系。让我们尝试一下这个包，以便更好地理解。
 

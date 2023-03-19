@@ -26,11 +26,7 @@
 
 一个快速的谷歌搜索就把我们带到了雨林 API。有 30 天的免费试用期(100 个电话)。免费很好。
 
- [## 雨林 API -产品数据 API
-
-### 编辑描述
-
-app.rainforestapi.com](https://app.rainforestapi.com/playground) 
+  
 
 同样好的是，有一个 API Playground 来帮助您生成可以在 web 应用程序中使用的 python 代码。注册并获得你的第一个代码片段不到五分钟。
 
@@ -42,11 +38,7 @@ app.rainforestapi.com](https://app.rainforestapi.com/playground)
 
 我强烈推荐 streamlit，它是一个快速简单的 web 应用程序。我已经在几个数据科学应用中使用过它，并且很满意。以后如果需要规模化，可以考虑 dash。但是现在，让我们看看 streamlit。
 
-[](https://streamlit.io/) [## Streamlit *构建和共享数据应用的最快方式
-
-### 用我们神奇简单的 API，用几行代码构建一个应用程序。然后看到它随着你的迭代自动更新…
-
-streamlit.io](https://streamlit.io/) 
+<https://streamlit.io/>  
 
 streamlit 的美妙之处在于您需要安装软件包，创建一个简单的。py 脚本，并运行应用程序。嘣，你跑了。你可以在一个窗口中更新代码，当你点击重新运行时，应用程序会自动选择更改。太棒了！
 

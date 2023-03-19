@@ -167,15 +167,7 @@ ab_test.update_group_data(GROUP_B, successes=3420, trials=9344)prob, differences
 
 更多来自同一作者。
 
-[](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [## 使用蒙特卡罗模拟计算𝛑
-
-### 用 Python 代码介绍蒙特卡罗模拟。
-
-medium.com](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) 
+<https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5>  <https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  
 
 # 参考
 

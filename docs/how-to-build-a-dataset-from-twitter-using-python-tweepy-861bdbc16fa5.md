@@ -165,19 +165,7 @@ cron 作业是调度一些重复性操作的一种方式。在这个例子中，
 
 # 相关文章
 
-[](https://medium.com/analytics-vidhya/how-to-extract-multiple-tables-from-a-pdf-through-python-and-tabula-py-6f642a9ee673) [## 如何通过 python 和 tabula-py 从 PDF 中提取多个表格
-
-### 通常情况下，您的数据可能不是 CSV 或 JSON 格式，但它们包含在一个 PDF 文件中，格式为…
-
-medium.com](https://medium.com/analytics-vidhya/how-to-extract-multiple-tables-from-a-pdf-through-python-and-tabula-py-6f642a9ee673) [](https://alod83.medium.com/how-to-extract-data-from-a-search-engine-through-python-and-selenium-35dfe6b20db) [## 如何通过 python 和 selenium 从搜索引擎中提取数据
-
-### 在本教程中，我将解释如何通过编写一个简单的 python 脚本从搜索引擎中提取结构化数据…
-
-alod83.medium.com](https://alod83.medium.com/how-to-extract-data-from-a-search-engine-through-python-and-selenium-35dfe6b20db) [](https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb) [## 用 Twitter 扩展你的知识的 6 个技巧
-
-### 将 Twitter 作为一个免费、有趣和互动的学习场所的初学者指南
-
-betterhumans.pub](https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb) 
+<https://medium.com/analytics-vidhya/how-to-extract-multiple-tables-from-a-pdf-through-python-and-tabula-py-6f642a9ee673>  <https://alod83.medium.com/how-to-extract-data-from-a-search-engine-through-python-and-selenium-35dfe6b20db>  <https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb>  
 
 # 保持联系！
 

@@ -14,11 +14,7 @@
 
 也就是说，在 Python 中使用迭代有很多重要的事情需要了解。我想提供一些我最喜欢的 Python 迭代技巧，因为编程的这一重要部分需要不断开发才能掌握。这些技巧中的一些将有助于加快您的算法，并且肯定会对您的 Python 技能有很大的帮助。其他一些技巧是在不同的用例中使用迭代的好方法。总的来说，这个列表肯定会给你的 Python 能力增加一些价值！此外，一如既往，Github 上有一个包含所有这些代码的笔记本，您可以在这里查看:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Iteration%20Tricks.ipynb) [## Emmetts-DS-NoteBooks/Python Iteration tricks . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Iteration%20Tricks.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Iteration%20Tricks.ipynb>  
 
 # 1 号:Zip
 
@@ -26,7 +22,7 @@ github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3
 
 正如我之前简单提到的，在 Python 中使用 zip()类非常简单。首先，我们当然需要两个 iterables。需要注意的一点是，如果一个 iterable 比另一个 iterable 长，那么循环将在该值处停止。当这种情况发生时，我们可以通过使用惰性压缩来避免循环中断。如果你想了解更多关于懒惰压缩的知识，并真正深入了解这种技术，我实际上写了一篇文章，你可以在这里阅读关于这个主题的所有内容:
 
-[](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) [## 关于 Python 中的 Zip，您需要了解的一切
+</everything-you-need-to-know-about-zip-in-python-5da1416f3626> [## 关于 Python 中的 Zip，您需要了解的一切
 
 towardsdatascience.com](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) 
 
@@ -71,11 +67,7 @@ def fizz_buzz(n):
 
 如果您想阅读更多关于这个令人惊奇的标准库工具的内容，并更全面地了解上面演示的代码，那么我强烈推荐我不久前写的一篇文章，这篇文章是关于 itertools 以及它为什么如此伟大的:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 # №3:停止嵌套
 

@@ -203,24 +203,8 @@ T21【索尔·多比拉斯
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加盟媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [## UMAP 降维——一种非常健壮的机器学习算法
-
-### 一致流形近似和投影(UMAP)如何工作，以及如何在 Python 中使用它
-
-towardsdatascience.com](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [](/self-training-classifier-how-to-make-any-algorithm-behave-like-a-semi-supervised-one-2958e7b54ab7) [## 自训练分类器:如何使任何算法的行为像一个半监督的
-
-### 使用 Sklearn 库中的标准分类算法进行自我训练的简单 Python 实现
-
-towardsdatascience.com](/self-training-classifier-how-to-make-any-algorithm-behave-like-a-semi-supervised-one-2958e7b54ab7) [](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [## BBN:贝叶斯信念网络——如何用 Python 有效地构建它们？
-
-### 使用真实生活数据在 Python 中构建模型的贝叶斯信念网络的详细解释
-
-towardsdatascience.com](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba)
+</umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568>  </self-training-classifier-how-to-make-any-algorithm-behave-like-a-semi-supervised-one-2958e7b54ab7>  </bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba> 

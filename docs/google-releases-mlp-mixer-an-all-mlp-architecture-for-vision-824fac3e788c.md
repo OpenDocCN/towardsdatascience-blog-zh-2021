@@ -67,11 +67,7 @@ MLP 混频器还有几个优点，简化了其架构:
 
 感谢您阅读本文:)如果您喜欢这篇文章，请考虑在这里给我买杯咖啡(咖啡有助于我写作):
 
-[](https://www.buymeacoffee.com/mostafaibrahim) [## mostafaibrahim
-
-### 嘿，你好👋谢谢你考虑给我买一杯咖啡，☕️，说清楚一点，你的钱不会帮我付账单，我…
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/mostafaibrahim) 
+<https://www.buymeacoffee.com/mostafaibrahim>  
 
 如果你想定期收到关于人工智能和机器学习的最新论文的评论，请在这里添加你的电子邮件并订阅！
 

@@ -87,11 +87,7 @@ df = pd.read_orc('10M.orc')
 
 你可以在这里了解更多关于兽人的信息:
 
-[](/stop-using-csvs-for-storage-this-file-format-is-faster-and-lighter-8fec7ebad6fc) [## 停止使用 CSV 存储—这种文件格式更快、更轻便
-
-### 编辑描述
-
-towardsdatascience.com](/stop-using-csvs-for-storage-this-file-format-is-faster-and-lighter-8fec7ebad6fc) 
+</stop-using-csvs-for-storage-this-file-format-is-faster-and-lighter-8fec7ebad6fc>  
 
 # Avro
 
@@ -144,11 +140,7 @@ df = pd.DataFrame(avro_records)
 
 您可以在此了解有关 Avro 的更多信息:
 
-[](/csv-files-for-storage-absolutely-not-use-apache-avro-instead-7b7296149326) [## 用于存储的 CSV 文件？绝对不行。请改用 Apache Avro
-
-### 编辑描述
-
-towardsdatascience.com](/csv-files-for-storage-absolutely-not-use-apache-avro-instead-7b7296149326) 
+</csv-files-for-storage-absolutely-not-use-apache-avro-instead-7b7296149326>  
 
 # 镶木地板
 
@@ -170,11 +162,7 @@ df = pd.read_parquet('10M.parquet')
 
 你可以在这里了解更多关于拼花地板的信息:
 
-[](/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d) [## 用于存储的 CSV 文件？不用了，谢谢。有更好的选择
-
-### 编辑描述
-
-towardsdatascience.com](/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d) 
+</csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d>  
 
 # 泡菜
 
@@ -198,11 +186,7 @@ with open('10M.pkl', 'rb') as f:
 
 你可以在这里了解更多关于泡菜的信息:
 
-[](/stop-using-csvs-for-storage-pickle-is-an-80-times-faster-alternative-832041bbc199) [## 停止使用 CSV 进行存储——泡菜是速度快 80 倍的替代品
-
-### 编辑描述
-
-towardsdatascience.com](/stop-using-csvs-for-storage-pickle-is-an-80-times-faster-alternative-832041bbc199) 
+</stop-using-csvs-for-storage-pickle-is-an-80-times-faster-alternative-832041bbc199>  
 
 # 羽毛
 
@@ -224,11 +208,7 @@ df = feather.read_dataframe('10M.feather')
 
 你可以在这里了解更多关于羽毛的信息:
 
-[](/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e) [## 停止使用 CSV 进行存储—这种文件格式速度快 150 倍
-
-### 编辑描述
-
-towardsdatascience.com](/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e) 
+</stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e>  
 
 # 比较时间-您应该使用哪种数据格式？
 
@@ -264,11 +244,7 @@ CSV 的情况看起来不妙。文件大小减少了 2.4 倍到 4.8 倍，具体
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

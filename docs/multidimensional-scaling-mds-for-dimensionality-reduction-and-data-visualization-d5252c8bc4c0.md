@@ -70,11 +70,7 @@
 
 通过考虑 PCA 中的方差-相关值来执行通过保持 MDS 中的距离来执行的过程。使用欧几里德距离最小化线性距离类似于最大化线性相关性。因此，可以说 PCA 和 MDS 应用数据集的 2D 图形具有相似的特征。当然，这仅适用于使用欧几里得距离的 MDS。此外，可以根据项目应用不同的距离方法。(例如，对于大型数据集，欧几里德距离可能很弱。)PCA 已经应用于上面代码块中的数据集，结果如图 4 所示。
 
-[](/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae) [## 主成分分析综合指南
-
-### 用 python 实现主成分分析的理论和实践部分
-
-towardsdatascience.com](/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae) ![](img/1e6a89eacaec6cd5cf5c62167d94fc5a.png)
+</comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae>  ![](img/1e6a89eacaec6cd5cf5c62167d94fc5a.png)
 
 图 4。PCA 降维，作者降维
 
@@ -150,8 +146,4 @@ towardsdatascience.com](/comprehensive-guide-for-principal-component-analysis-7b
 
 [5]“多维标度:定义、概述、示例—统计方法。”[https://www.statisticshowto.com/multidimensional-scaling/](https://www.statisticshowto.com/multidimensional-scaling/)(2021 年 10 月 14 日访问)。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 所有与机器学习相关的文章
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> 

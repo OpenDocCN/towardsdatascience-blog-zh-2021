@@ -26,11 +26,7 @@ MRI 是一种用于放射学的非侵入性医学成像技术，用于获取活�
 
 我们的投稿 Kaggle 笔记本是下面的 [**🧠Brain 肿瘤 Classif。~ lightning⚡monai-resnet3d**T3。](https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-monai-resnet3d)
 
-[](https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-monai-resnet3d) [## 🧠Brain 肿瘤分类。~ Lightning⚡MONAI-ResNet3D
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自[私有数据源]的数据
-
-www.kaggle.com](https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-monai-resnet3d) 
+<https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-monai-resnet3d>  
 
 ***随意分叉，进一步延伸！***
 
@@ -211,20 +207,12 @@ DICOM 图像在内部使用 JPEG 压缩来减小它们的大小，相比之下�
 
 通过交互式 [Grid.ai](https://grid.ai/) 会议和 [Github 项目](https://borda.github.io/kaggle_vol-3D-classify)查看培训，该项目包括作为简单 python 包和 iPython 笔记本提供的所有代码…
 
- [## Kaggle:脑肿瘤放射基因组分类
-
-### 这项挑战旨在预测对脑癌治疗重要的遗传生物标志物的状态。与……
-
-borda.github.io](https://borda.github.io/kaggle_brain-tumor-3D) 
+  
 
 ***对更酷的 Pytorch 闪电集成感兴趣？
 关注我，加入我们牛逼的***[***Slack***](https://join.slack.com/t/pytorch-lightning/shared_invite/zt-pw5v393p-qRaDgEk24~EjiZNBpSQFgQ)***社区！***
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

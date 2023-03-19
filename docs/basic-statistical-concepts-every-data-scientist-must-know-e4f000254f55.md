@@ -142,8 +142,4 @@
 
 我是一名拥有超过 10 年经验的数据科学专家，并且已经撰写了 2 本数据科学方面的书籍。我写数据科学相关的内容是为了让它简单易懂。跟我上 [**中**](https://medium.com/@rsharankumar) **。**我也有一个 YouTube 频道，在那里我教授和谈论各种数据科学概念。如果有兴趣，可以订阅我下面的频道。
 
-[](https://www.youtube.com/c/DataSciencewithSharan) [## 莎兰的数据科学
-
-### 我是一名数据科学专业人员，在高级分析和应用机器领域拥有十多年的经验…
-
-www.youtube.com](https://www.youtube.com/c/DataSciencewithSharan)
+<https://www.youtube.com/c/DataSciencewithSharan> 

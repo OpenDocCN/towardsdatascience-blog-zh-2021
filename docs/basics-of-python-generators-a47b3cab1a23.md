@@ -125,8 +125,4 @@ As you can see from the code above, in defining the fibonacci_generator function
 
 From this article, we have covered the basics of python generators. By the way, we can also create generators on the fly using generator expressions, which you can read more about in this article by Richmond Alake. Thank you for reading and all code is available on my [Github](https://github.com/mkosaka1/Python_Basics/blob/master/2)%20Generators.ipynb) :)
 
-[](/understanding-generator-expressions-in-python-fe0c4534619) [## 理解 Python 中的生成器表达式
-
-### 通过利用一个优雅且内存高效的解决方案来生成…
-
-towardsdatascience.com](/understanding-generator-expressions-in-python-fe0c4534619)
+</understanding-generator-expressions-in-python-fe0c4534619> 

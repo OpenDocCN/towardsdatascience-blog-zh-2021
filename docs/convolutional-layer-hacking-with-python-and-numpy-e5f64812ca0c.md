@@ -381,16 +381,8 @@ plt.show()**
 
 ******这篇文章**的所有代码**都可以在这个 github** 库获得:****
 
-****[](https://github.com/javismiles/convolutional-layer-hacking) [## javis miles/卷积层黑客
-
-### 用 python 从头开始创建一个卷积层，用自定义内核破解其权重，并验证其结果…
-
-github.com](https://github.com/javismiles/convolutional-layer-hacking) 
+****<https://github.com/javismiles/convolutional-layer-hacking>  
 
 如果您喜欢这篇文章，**您可能也会对我发表的关于在 transformer** 架构中进行计算的方式的文章感兴趣:
 
-[](/x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378) [## x 射线变压器，通过一个单一的视觉潜入变压器训练和推理计算
-
-### 产生 GPT 3 号的模型的 x 光片。探索端到端的计算和转换…
-
-towardsdatascience.com](/x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378)****
+</x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378> ****

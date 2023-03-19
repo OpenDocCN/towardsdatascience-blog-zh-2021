@@ -240,11 +240,7 @@ mean of x mean of y
 
 希望你喜欢这个项目。如果对类似的文章感兴趣，可以看看我的另一篇文章。
 
-[](/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae) [## 球迷对英超球队的影响
-
-### 他们的粉丝群有多重要？数据不言自明。
-
-towardsdatascience.com](/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae) 
+</the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae>  
 
 感谢[肯·吉](https://medium.com/u/6ee1f7466557?source=post_page-----a0778c5a6a29--------------------------------)在追求一个体育分析项目中的灵感。如果您有任何问题，请随时在下面评论或通过 [LinkedIn](https://www.linkedin.com/in/bicaj/) 联系我。
 

@@ -32,11 +32,7 @@
 
 为了测试计算距离的不同方法的性能，我需要相当大的数据集。数据集可以在 Kaggle 上获得，也可以通过下面的链接下载。
 
-[](https://www.kaggle.com/sakshigoyal7/credit-card-customers) [## 信用卡客户
-
-### 预测流失的客户
-
-www.kaggle.com](https://www.kaggle.com/sakshigoyal7/credit-card-customers) 
+<https://www.kaggle.com/sakshigoyal7/credit-card-customers>  
 
 在这种情况下，数据集中的一些特征不是很有用，所以我们将使用精简集。
 

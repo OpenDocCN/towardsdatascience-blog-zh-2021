@@ -14,15 +14,7 @@
 
 在两篇类似的博客文章中，我已经触及了一些基本问题，并对几个真实的面试问题进行了现场编码。
 
-[](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [## 2021 年 6 个 Python 数据科学面试问题
-
-### 数据科学家/工程师的数据操作和字符串提取
-
-towardsdatascience.com](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [](/essential-python-coding-questions-for-data-science-interviews-4d33d15008e6) [## 数据科学面试的基本 Python 编码问题
-
-### Python 中的数据操作和字符串提取
-
-towardsdatascience.com](/essential-python-coding-questions-for-data-science-interviews-4d33d15008e6) 
+</6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13>  </essential-python-coding-questions-for-data-science-interviews-4d33d15008e6>  
 
 在今天的帖子中，让我们尝试一些不同的东西。正如[Emma Ding](https://medium.com/u/1b25d5393c4f?source=post_page-----c5b9526347f4--------------------------------)(Airbnb 的数据科学家)和[Rob Wang](https://www.linkedin.com/in/robjwang/)(robin hood 的数据科学家)[的帖子所建议的那样，我们可以通过对同一个问题提出多种解决方案，同时比较和对比它们的优缺点，来显著提高我们对各种算法的理解。](/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc)
 
@@ -75,11 +67,7 @@ O(N)是第三差的算法，仅比 O(N！)和 O(2^N).在真实的面试环境中
 
 *如果你是 Python Numpy 和矩阵运算的新手，请查看我关于这个主题的另一篇文章:*
 
-[](/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4) [## 面向数据科学家的 Python 数字和矩阵问题
-
-### 如果你正在准备 DS 面试，请阅读这篇文章！
-
-towardsdatascience.com](/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4) 
+</python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4>  
 
 然而，面试官可能会禁止外包，并希望增加一些趣味。
 
@@ -95,11 +83,7 @@ towardsdatascience.com](/python-numpy-and-matrices-questions-for-data-scientists
 
 *这是一个相当简单的算法总结，请查看我关于这个主题的另一篇文章:*
 
-[](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) [## Python 中“臭名昭著”的算法:二分搜索法
-
-### 为什么它的性能优于线性迭代？
-
-towardsdatascience.com](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) 
+</binary-search-in-python-the-programming-algorithm-8b8fa039eaa>  
 
 ```
 8
@@ -170,27 +154,11 @@ False
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
-[](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的重要 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [## 破解数据科学访谈:基本统计概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 2 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) 
+</5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  </essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </crack-data-science-interviews-essential-statistics-concepts-d4491d85219e>  
 
 # 喜欢读这本书吗？
 

@@ -257,11 +257,7 @@ df = pd.concat(all_data).sort_values(['unitid',
 
 图片来源:作者对 IPEDS 数据的可视化。两个机构对比的例子。该图显示，每个校区的男女比例似乎向相反的方向漂移。y 轴上的刻度显示，每个校区性别平衡的总体变化为+/-3%。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 感谢阅读
 

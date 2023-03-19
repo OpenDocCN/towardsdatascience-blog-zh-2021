@@ -10,11 +10,7 @@
 
 大家好！这是处理缺失数据技术的第二篇文章。第一个是处理 MCAR(完全随机缺失)数据的。
 
-[](/your-mcar-data-technique-guide-b13a06914ed6) [## 你的 MCAR 数据技术指南
-
-### 处理完全随机缺失数据的技术
-
-towardsdatascience.com](/your-mcar-data-technique-guide-b13a06914ed6) 
+</your-mcar-data-technique-guide-b13a06914ed6>  
 
 正如你所猜测的，我们将在本帖中讨论 MNAR(非随机缺失)数据。我们将遵循与 MCAR 文章中相似的格式，我们将:
 
@@ -86,19 +82,7 @@ MNAR 数据是由于外部因素导致的数据缺失，这些外部因素没有
 
 感谢阅读！我希望本指南能为如何处理数据集中的非随机缺失数据提供清晰的说明。如果你喜欢这篇文章，请随意查看我下面的其他数据科学相关文章:
 
-[](/dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36) [## 不要错过识别缺失数据的缺失号！
-
-### 应该用来可视化缺失数据的库
-
-towardsdatascience.com](/dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36) [](/what-why-and-how-to-read-empirical-cdf-123e2b922480) [## 什么，为什么，以及如何阅读经验 CDF
-
-### 鼓励探索性数据分析(EDA)来获得数据的可消化的一瞥。这包括直方图，用于…
-
-towardsdatascience.com](/what-why-and-how-to-read-empirical-cdf-123e2b922480) [](/point-biserial-correlation-with-python-f7cd591bd3b1) [## 与 Python 的点双列相关
-
-### 线性回归是确定数据的两个或多个连续特征之间相关性的经典技术…
-
-towardsdatascience.com](/point-biserial-correlation-with-python-f7cd591bd3b1) 
+</dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36>  </what-why-and-how-to-read-empirical-cdf-123e2b922480>  </point-biserial-correlation-with-python-f7cd591bd3b1>  
 
 如果你有任何问题，请随时在 Linkedin 和 Twitter 上发表评论或联系我们。对 Twitter 上的 DM 开放。
 

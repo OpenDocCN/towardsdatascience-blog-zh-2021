@@ -8,7 +8,7 @@
 
 ![](img/faf35bf5c73fd38d5b777f6de0ef9307.png)
 
-*本帖中使用的所有图片/视频均由作者创作，除非另有说明。(图标来自*[](https://flaticon.com)**)**
+*本帖中使用的所有图片/视频均由作者创作，除非另有说明。(图标来自*<https://flaticon.com>**)**
 
 *dbt(数据构建工具)是一个使用 select SQL 语句的数据转换工具。它允许您创建复杂的模型，使用变量和宏(也称为函数)，运行测试，生成文档，以及更多的特性。*
 
@@ -35,11 +35,7 @@
 
 *您还可以查看本文附带的 GitHub repo 中的[数据摄取脚本](https://github.com/e-alizadeh/sample_dbt_project/blob/master/data/data_ingestion.py)。*
 
-*[](https://github.com/e-alizadeh/sample_dbt_project) [## e-alizadeh/sample_dbt_project
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/e-alizadeh/sample_dbt_project) 
+*<https://github.com/e-alizadeh/sample_dbt_project>  
 
 按照上面所述，我们已经在 PostgreSQL 数据库中生成了两个表，我们将在本文中使用它们。数据库中有两个表，分别是`covid_latest`和`population_prosperity`。您可以在 GitHub repo 上找到这篇文章的摄取脚本。
 
@@ -47,11 +43,7 @@ github.com](https://github.com/e-alizadeh/sample_dbt_project)
 
 您可以按照下面的 [dbt 文档页面](https://docs.getdbt.com/dbt-cli/installation/)上的说明来安装 dbt 命令行界面(CLI)。
 
-[](https://docs.getdbt.com/dbt-cli/installation) [## 安装| dbt 文档
-
-### 我们建议您使用以下三种屡试不爽的方法之一来安装 dbt:安装自制软件。然后，运行:测试您的…
-
-docs.getdbt.com](https://docs.getdbt.com/dbt-cli/installation) 
+<https://docs.getdbt.com/dbt-cli/installation>  
 
 # dbt 项目的基础
 
@@ -329,11 +321,7 @@ dbt 是一个很好的工具，绝对值得一试，因为它可以简化您的�
 
 您可以在下面找到包含所有脚本(包括数据摄取脚本)的 GitHub repo。
 
-[](https://github.com/e-alizadeh/sample_dbt_project) [## e-alizadeh/sample_dbt_project
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/e-alizadeh/sample_dbt_project) 
+<https://github.com/e-alizadeh/sample_dbt_project>  
 
 感谢阅读🙏
 
@@ -341,18 +329,10 @@ github.com](https://github.com/e-alizadeh/sample_dbt_project)
 
 # *有用的链接*
 
-*[](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d) [## 免费 PostgreSQL 数据库的逐步部署和数据接收
-
-### 在 Heroku 中免费部署 PostgreSQL 数据库，并使用 Pandas 和 SQLAlchemy 接收数据
-
-towardsdatascience.com](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d) 
+*</deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d>  
 
 # 参考
 
-[](https://docs.getdbt.com/docs/introduction) [## dbt 是什么？| dbt 文档
-
-### dbt(数据构建工具)使分析工程师能够通过简单地编写 select…
-
-docs.getdbt.com](https://docs.getdbt.com/docs/introduction) 
+<https://docs.getdbt.com/docs/introduction>  
 
 *原载于*[*https://ealizadeh.com*](https://ealizadeh.com/blog/dbt-tutorial)*。***

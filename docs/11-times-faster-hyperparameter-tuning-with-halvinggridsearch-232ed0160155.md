@@ -18,19 +18,11 @@
 
 请继续阅读，了解这两个非凡的类是如何工作的，并学习如何在自己的工作流程中使用它们。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 术语注释
 
@@ -58,11 +50,7 @@ RandomizedSearch 试图通过对每次迭代中选择哪组参数做出“更聪
 
 如果你想进一步了解它们，并看到它们的实际应用，请查看我关于这个主题的另一篇文章:
 
-[](/automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee) [## 使用 Sklearn GridSearchCV 和 RandomizedSearchCV 自动调整超参数
-
-### 无需再次查看超参数即可调整模型
-
-towardsdatascience.com](/automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee) 
+</automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee>  
 
 ## 什么是连续减半？
 
@@ -157,16 +145,4 @@ HGS 就像所有候选人之间的竞争(超参数组合)。在第一次迭代�
 
 # 如果你不知道接下来要读什么，这里，我为你挑选了一些:
 
-[](https://towardsdev.com/how-to-use-plotly-as-pandas-plotting-backend-123ff5378003) [## 如何使用 Plotly 作为熊猫绘图后端
-
-### 无需学习新的库就可以制作互动的情节
-
-towardsdev.com](https://towardsdev.com/how-to-use-plotly-as-pandas-plotting-backend-123ff5378003) [](/intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a) [## 介绍使用 Sklearn 的岭和套索回归正则化
-
-### 你还不如放弃线性回归
-
-towardsdatascience.com](/intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a) [](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6) [## Scikit-learn 的 k 近邻分类器和回归器简介
-
-### 了解掌握它们需要什么
-
-towardsdatascience.com](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6)
+<https://towardsdev.com/how-to-use-plotly-as-pandas-plotting-backend-123ff5378003>  </intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a>  </intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6> 

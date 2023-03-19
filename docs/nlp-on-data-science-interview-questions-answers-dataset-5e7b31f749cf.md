@@ -51,11 +51,7 @@
 
 关于去掉停用词这一步，我没有用 NLTK 库提供的，因为我觉得词表不够长。所以我在下面 Github repo 的帮助下，自己创建了一个停用词列表:
 
-[](https://github.com/first20hours/google-10000-english) [## 前 20 小时/谷歌-10000-英语
-
-### 这份报告包含了 10，000 个最常见的英语单词的列表，按照 n-gram 确定的频率排序…
-
-github.com](https://github.com/first20hours/google-10000-english) 
+<https://github.com/first20hours/google-10000-english>  
 
 基本上，这个 repo 包含一个按频率排列的 10，000 个最常见英语单词的列表，这是通过对 Google 的万亿单词语料库进行 n-gram 频率分析确定的。我用其中的前 500 个词来建立我的停用词列表。
 
@@ -66,11 +62,7 @@ github.com](https://github.com/first20hours/google-10000-english)
 #> kites ---> kite#> babies ---> baby#> dogs ---> dog#> flying ---> flying#> smiling ---> smiling#> feet ---> foot
 ```
 
-[](https://gaurav5430.medium.com/using-nltk-for-lemmatizing-sentences-c1bfff963258) [## 使用 NLTK 对句子进行词汇化
-
-### 在这篇文章中，我们将使用 NLTK WordNet 词条分类器对句子进行词条分类。默认情况下，lemmatizer 采用…
-
-gaurav5430.medium.com](https://gaurav5430.medium.com/using-nltk-for-lemmatizing-sentences-c1bfff963258) 
+<https://gaurav5430.medium.com/using-nltk-for-lemmatizing-sentences-c1bfff963258>  
 
 最后，我们可以将上述所有清理步骤集成到一个名为 **nlp_process** 的清理函数中:
 
@@ -118,11 +110,7 @@ EDA-问题与答案
 
 我从这篇惊人的文章中学到了上面的方法:
 
-[](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [## 基于自然语言处理的文本分类:Tf-Idf vs Word2Vec vs BERT
-
-### 预处理、模型设计、评估、词袋的可解释性、词嵌入、语言模型
-
-towardsdatascience.com](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) 
+</text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794>  
 
 通过遵循精确的卡方检验**特征选择**步骤，以下是各类面试问题的结果:
 
@@ -158,15 +146,7 @@ towardsdatascience.com](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert
 
 # 阅读材料:
 
-[](/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) [## Python 中的主题建模和潜在狄利克雷分配
-
-### 主题建模是一种统计建模，用于发现出现在一个集合中的抽象“主题”
-
-towardsdatascience.com](/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) [](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [## 基于自然语言处理的文本分类:Tf-Idf vs Word2Vec vs BERT
-
-### 预处理、模型设计、评估、词袋的可解释性、词嵌入、语言模型
-
-towardsdatascience.com](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) 
+</topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24>  </text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794>  
 
 # 数据科学面试问题资源:
 

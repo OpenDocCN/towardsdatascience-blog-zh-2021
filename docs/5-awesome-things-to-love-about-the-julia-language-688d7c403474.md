@@ -12,11 +12,7 @@
 
 我使用(并称赞)Julia 编程语言已经有**年**了。到今天为止，我已经在 Medium 上写了 346 篇文章，这些文章都是从一篇关于 Julia 语言的文章开始的。在那篇文章中，我谈到了数据科学家在学习 Julia 编程语言之前可能想知道的一些事情。如果你想读这篇文章，你可以在这里找到它:
 
-[](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) [## 使用 Julia 进行机器学习之前需要知道的事情
-
-### Julia 是一种高级动态编程语言，它本身有一些有趣的特点和特性，这使得…
-
-towardsdatascience.com](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) 
+</things-to-know-before-using-julia-for-machine-learning-487744c0b9b2>  
 
 在我使用 Julia 的经历中，我相信在我使用 Julia 编写的所有模块、项目和研究之后，有很多功能我都觉得非常方便。今天我想展示一些 Julia 语言的很酷的特性，为什么我认为这些特性很棒。在某些情况下，我甚至会提供一些这种语言派上用场的真实例子，然后将它与数据科学和软件工程领域的其他语言进行比较。这将有助于我们更好地理解为什么这是一个伟大的特性，如何使用它，以及与 Julia 相比，这个行业处于什么位置。
 
@@ -40,11 +36,7 @@ Julia 编程语言是用 69%的 Julia 本身编写的！与大多数其他编程
 
 当然，这种工作需要我们了解朱莉娅·REPL 的内部结构，以便改变终端的行为。然而，问题是这种语言在基础上没有任何明确的文档。终端模块。你可以在这里查看文档 markdown 文件，它确实很好地实现了 Github 风格的 markdown:
 
-[](https://github.com/JuliaLang/julia/blob/master/stdlib/REPL/docs/src/index.md) [## 朱丽亚/朱莉亚朗/朱丽亚硕士
-
-### julia 自带了一个全功能的交互式命令行 REPL(读取-评估-打印循环),内置于 Julia 可执行文件中…
-
-github.com](https://github.com/JuliaLang/julia/blob/master/stdlib/REPL/docs/src/index.md) 
+<https://github.com/JuliaLang/julia/blob/master/stdlib/REPL/docs/src/index.md>  
 
 大部分文档是为最终用户准备的，我想这是很重要的，因为我认为人们通常会关心如何使用 REPL，改变按键绑定等，而不是使用软件包来改变终端的功能。幸运的是，因为我能够浏览 Terminals.jl、LineEdit.jl 和 REPL.jl 的源代码，所以我能够获得这个包的一个简单的、有很多错误的版本，并且发布了那个特性。虽然这种使用方式非常酷，但我最终还是放弃了笔记本电脑的这种方式，因为我发现使用起来很麻烦，因为终端和终端的光标以及底部的 REPL 实在是太难管理了。
 
@@ -54,11 +46,7 @@ github.com](https://github.com/JuliaLang/julia/blob/master/stdlib/REPL/docs/src/
 
 对于 Julia 编程语言来说，多重调度是一个非常明显的优点。Julia 的核心范式围绕着这个多态的概念。也就是说，虽然多重分派在其他编程语言中肯定是可用的，但我真的相信 Julia 编程语言已经完善了多重分派的概念。我在这篇旧文章中详细解释了我为什么这么想:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 话虽如此，我想我已经谈了很多关于多重分派的问题，尽管在我看来这是一种很好的编程方式，但我认为在它上面白费力气可能不是最佳的。然而，许多没有使用过 Julia 或者不熟悉 Julia 的人并没有意识到如何通过多重调度来使用构造函数，从而产生一些令人难以置信的结果。考虑以下构造函数:
 
@@ -168,10 +156,6 @@ core  Jockey.jl  ServerControllershell> nano Jockey.jlshell>
 
 Julia 是我最喜欢的编程语言，对于任何开发人员来说都是一个极好的选择。如果你对科学计算感兴趣，我强烈建议你学习这门语言，因为它对这项任务特别有用。朱莉娅有很多优点，但这仅仅是我认为不可思议的五个。如果你想了解更多关于 Julia 的知识，你可以访问 Julia 语言网站:
 
-[](http://julialang.org/) [## Julia 编程语言
-
-### 丰富的科学计算生态系统 Julia 从一开始就被设计为非常擅长数字和…
-
-julialang.org](http://julialang.org/) 
+<http://julialang.org/>  
 
 非常感谢您的阅读，我希望关于 Julia 语言的一些令人敬畏的事情可能足以激发一些新的学习。我认为 Julia 是一种非常棒的语言，这就是为什么我喜欢谈论和分享它的特点，因为这是这种奇妙的语言应该得到的欣赏。祝你有美好的一天！

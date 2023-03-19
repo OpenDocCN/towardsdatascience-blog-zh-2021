@@ -229,23 +229,7 @@ print (round(Upper_limit),2)
 
 # 我的另一个关于统计学的博客。
 
-[](https://pub.towardsai.net/inferential-statistics-for-data-science-91cf4e0692b1) [## 数据科学的推断统计学
-
-### 概率基础，概率分布
-
-pub.towardsai.net](https://pub.towardsai.net/inferential-statistics-for-data-science-91cf4e0692b1) [](https://pub.towardsai.net/exploring-descriptive-statistics-using-pandas-and-seaborn-1b8501e1f27f) [## 使用熊猫和海牛探索描述性统计
-
-### 定量方法和直观方法
-
-pub.towardsai.net](https://pub.towardsai.net/exploring-descriptive-statistics-using-pandas-and-seaborn-1b8501e1f27f) [](https://medium.com/analytics-vidhya/important-terms-in-statistics-machine-learning-4bfa5962e9be) [## 统计学中的重要术语-机器学习
-
-### 统计和概率概念
-
-medium.com](https://medium.com/analytics-vidhya/important-terms-in-statistics-machine-learning-4bfa5962e9be) [](https://pub.towardsai.net/hypothesis-testing-test-of-mean-variance-proportion-77ec2bfdd749) [## 假设检验-均值、方差、比例的检验
-
-### p 值法、临界值法、置信区间法
-
-pub.towardsai.net](https://pub.towardsai.net/hypothesis-testing-test-of-mean-variance-proportion-77ec2bfdd749) 
+<https://pub.towardsai.net/inferential-statistics-for-data-science-91cf4e0692b1>  <https://pub.towardsai.net/exploring-descriptive-statistics-using-pandas-and-seaborn-1b8501e1f27f>  <https://medium.com/analytics-vidhya/important-terms-in-statistics-machine-learning-4bfa5962e9be>  <https://pub.towardsai.net/hypothesis-testing-test-of-mean-variance-proportion-77ec2bfdd749>  
 
 *请关注此空间，获取更多关于 Python 和数据科学的文章。如果你喜欢多看我的教程，就关注我的* [***中***](https://medium.com/@IndhumathyChelliah)[***LinkedIn***](https://www.linkedin.com/in/indhumathy-chelliah/)*[***推特***](https://twitter.com/IndhuChelliah) ***。****
 

@@ -80,8 +80,4 @@
 
 让我们看看发电机是如何工作的。
 
-[](/intuition-behind-gans-generator-e66f6b0dfa7c) [## 甘发电机背后的直觉
-
-### 打造您的 GAN 系列——第 3 部分，共 4 部分
-
-towardsdatascience.com](/intuition-behind-gans-generator-e66f6b0dfa7c)
+</intuition-behind-gans-generator-e66f6b0dfa7c> 

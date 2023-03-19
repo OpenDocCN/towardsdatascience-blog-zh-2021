@@ -149,11 +149,7 @@ fun (math: Math): Int {
 
 最近，函数式编程成为了流行的编程范例。这与它改变一个人所依赖的核心的能力有很大关系。下面的文章将详细介绍。
 
-[](https://levelup.gitconnected.com/why-code-evolve-from-procedural-to-object-oriented-to-functional-programming-13a88292307e) [## 为什么代码从过程化到面向对象再到函数式编程
-
-### 通过实际的代码示例学习不同风格的编程范式
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/why-code-evolve-from-procedural-to-object-oriented-to-functional-programming-13a88292307e) 
+<https://levelup.gitconnected.com/why-code-evolve-from-procedural-to-object-oriented-to-functional-programming-13a88292307e>  
 
 简而言之，函数式编程通过提供一种将函数作为另一个函数或对象的参数的方式，增强了开发人员的体验。
 

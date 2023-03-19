@@ -46,11 +46,7 @@
 
 *如果你不熟悉 CART，你可以在我之前的故事里找到关于它的一切:*
 
-[](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) [## CART:清晰而强大的模型的分类和回归树
-
-### CART 算法是如何工作的，如何在 Python 中成功使用？
-
-towardsdatascience.com](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) 
+</cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85>  
 
 ## 群体的智慧——它是什么，为什么好？
 
@@ -185,28 +181,12 @@ X=df[['WindGustSpeed', 'Humidity3pm']]
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 此外，您可能有兴趣了解随机森林与 AdaBoost 的对比:
 
-[](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) [## AdaBoost 机器学习算法:如何提高难以预测案例的性能
-
-### 对自适应 Boosting 算法及其与其他基于决策树的机器的区别的直观解释…
-
-towardsdatascience.com](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) 
+</adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0>  
 
 其他升压算法:
 
-[](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) [## 用于分类的梯度增强树——最好的机器学习算法之一
-
-### 梯度增强在分类树中如何工作的分步指南
-
-towardsdatascience.com](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) [](/xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a) [## XGBoost:极端梯度增强—如何改进常规梯度增强？
-
-### 详细了解这两种算法之间的差异，以及何时应该选择其中一种算法
-
-towardsdatascience.com](/xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a)
+</gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2>  </xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a> 

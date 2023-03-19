@@ -340,30 +340,10 @@ $ kedro build-docs --open
 
 本文中演示项目的源代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/kedro_demo) [## GitHub-khuyentran 1401/kedro _ demo:一个使用 ked ro 的数据科学项目
-
-### 这是您的新 Kedro 项目，它是使用 Kedro 0.17.4 生成的。看一下 Kedro 文档以获得…
-
-github.com](https://github.com/khuyentran1401/kedro_demo) 
+<https://github.com/khuyentran1401/kedro_demo>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [## 模式介绍:验证数据的 Python 库
-
-### 验证您的数据变得更加复杂！
-
-towardsdatascience.com](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)
+</introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  </pytest-for-data-scientists-2990319e55e6>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d> 

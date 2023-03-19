@@ -90,10 +90,6 @@ GPT-3 善于学习，就像我们善于提示一样。科技博客作者 Gwern B
 
 ## 推荐阅读
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
-
-towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) [](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [## GPT 4 号将从 GPT 3 号改进的 4 件事
-
-towardsdatascience.com](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
+</gpt-3-a-complete-overview-190232eb25fd>  </gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484> [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
 
 towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484)

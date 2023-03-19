@@ -96,31 +96,11 @@
 
 感谢阅读！我希望本指南能为如何处理数据集中完全随机缺失的数据提供清晰的说明。如果您想了解更多关于处理丢失数据的信息，请查看下面的文章:
 
-[](/your-mnar-data-technique-guide-9b7e85ad67) [## 你的 MNAR 数据技术指南
-
-### 处理你丢失的非随机数据的技巧
-
-towardsdatascience.com](/your-mnar-data-technique-guide-9b7e85ad67) 
+</your-mnar-data-technique-guide-9b7e85ad67>  
 
 如果你喜欢这篇文章，请随意查看我下面的其他数据科学相关文章:
 
-[](/dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36) [## 不要错过识别缺失数据的缺失号！
-
-### 应该用来可视化缺失数据的库
-
-towardsdatascience.com](/dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36) [](/what-why-and-how-to-read-empirical-cdf-123e2b922480) [## 什么，为什么，以及如何阅读经验 CDF
-
-### 鼓励探索性数据分析(EDA)来获得数据的可消化的一瞥。这包括直方图，用于…
-
-towardsdatascience.com](/what-why-and-how-to-read-empirical-cdf-123e2b922480) [](/avoiding-confusion-with-confusion-matrix-metrics-a8a3d0ead144) [## 使用混淆矩阵度量避免混淆
-
-### 从混淆矩阵中理解 17 个指标
-
-towardsdatascience.com](/avoiding-confusion-with-confusion-matrix-metrics-a8a3d0ead144) [](/point-biserial-correlation-with-python-f7cd591bd3b1) [## 与 Python 的点双列相关
-
-### 线性回归是确定数据的两个或多个连续特征之间相关性的经典技术…
-
-towardsdatascience.com](/point-biserial-correlation-with-python-f7cd591bd3b1) 
+</dont-miss-out-on-missingno-for-identifying-missing-data-9a0681433c36>  </what-why-and-how-to-read-empirical-cdf-123e2b922480>  </avoiding-confusion-with-confusion-matrix-metrics-a8a3d0ead144>  </point-biserial-correlation-with-python-f7cd591bd3b1>  
 
 如果你有任何问题，请随时在 Linkedin 和 Twitter 上发表评论或联系我们。对 Twitter 上的 DM 开放。
 

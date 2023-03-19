@@ -44,11 +44,7 @@
 
 **在本文中，我重点关注 **SimCLRv2** ，这是谷歌大脑团队最近提出的最先进的对比学习方法之一。对于其他的对比学习方法，如脸书的 MoCo，我建议回顾下面的文章。**
 
-**[](/a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619) [## 对比自我监督学习的框架和新方法的设计
-
-### 我们制定了一个框架的特点对比自我监督学习方法，看看 AMDIM，CPC…
-
-towardsdatascience.com](/a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619) 
+**</a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619>  
 
 幸运的是， **SimCLRv2** 非常直观。
 
@@ -98,11 +94,7 @@ SimCLRv2 框架概述。作者图。照片由[埃德加](https://unsplash.com/@e
 
 *如果您不熟悉潜在空间和向量表示，我强烈推荐您在继续之前阅读我的文章，这篇文章直观地解释了这个概念。*
 
-*[](/understanding-latent-space-in-machine-learning-de5a7c687d8d) [## 理解机器学习中的潜在空间
-
-### 学习深度学习的一个基本的，但经常是“隐藏的”概念
-
-towardsdatascience.com](/understanding-latent-space-in-machine-learning-de5a7c687d8d) 
+*</understanding-latent-space-in-machine-learning-de5a7c687d8d>  
 
 通过将我们的图像压缩到潜在空间表示中，模型能够*学习图像的高级特征*。
 
@@ -144,11 +136,7 @@ towardsdatascience.com](/understanding-latent-space-in-machine-learning-de5a7c68
 
 *要了解更多关于 SimCLR 的细节，我推荐阅读下面的文章。*
 
-*[](https://amitness.com/2020/03/illustrated-simclr/) [## 图示的 SimCLR 框架
-
-### 近年来，许多自我监督学习方法已被提出学习图像表示，每一个…
-
-amitness.com](https://amitness.com/2020/03/illustrated-simclr/) 
+*<https://amitness.com/2020/03/illustrated-simclr/>  
 
 ## SimCLR 版本 2
 
@@ -191,11 +179,7 @@ amitness.com](https://amitness.com/2020/03/illustrated-simclr/)
 
 这篇文章包含了对 Word2Vec 算法的直观和详细的解释。
 
-[](http://jalammar.github.io/illustrated-word2vec/) [## 图示的单词 2vec
-
-### 讨论:黑客新闻(347 分，37 条评论)，Reddit r/MachineLearning (151 分，19 条评论)翻译…
-
-jalammar.github.io](http://jalammar.github.io/illustrated-word2vec/) 
+<http://jalammar.github.io/illustrated-word2vec/>  
 
 就像 SimCLRv2 一样，Word2Vec 允许“相似”的单词在潜在空间中具有更相似的向量表示，我们可以将这些学习到的表示用于更具体的下游任务，如文本分类。
 

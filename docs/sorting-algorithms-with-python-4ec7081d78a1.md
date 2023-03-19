@@ -289,11 +289,7 @@ def sortArray(self, nums: List[int]) -> List[int]:
 
 我还想提一下基数排序，它可以用计数排序/桶排序作为子例程来实现。请参见下面的参考链接。
 
-[](https://medium.com/nerd-for-tech/counting-sort-radix-sort-ccd9f77a00a2) [## 计数排序和基数排序
-
-### 在这篇博客中，我们将介绍两种常见的基于非比较的排序算法。但在此之前，我们为什么…
-
-medium.com](https://medium.com/nerd-for-tech/counting-sort-radix-sort-ccd9f77a00a2) 
+<https://medium.com/nerd-for-tech/counting-sort-radix-sort-ccd9f77a00a2>  
 
 ## 将所有这些放在一起:
 

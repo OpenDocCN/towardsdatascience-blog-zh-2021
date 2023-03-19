@@ -445,11 +445,7 @@ NCF 实施
 
 您可以在这个 Colab 笔记本中找到以下所有代码。笔记本还在开发中，我会随着对推荐系统的了解不断更新。
 
-[](https://colab.research.google.com/drive/1w92d6_BjrF5nVLoFhD1Oa6dV3DgKra8G?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1w92d6_BjrF5nVLoFhD1Oa6dV3DgKra8G?usp=sharing) 
+<https://colab.research.google.com/drive/1w92d6_BjrF5nVLoFhD1Oa6dV3DgKra8G?usp=sharing>  
 
 # 参考
 

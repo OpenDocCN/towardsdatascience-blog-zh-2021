@@ -12,27 +12,15 @@ Python web 开发是 Python 编程的一部分，多年来一直由 Flask 和 Dj
 
 谁会想到我会有一个以自己名字命名的 Python web-framework 呢？当然，这只是一个笑话，这个框架实际上是以《回到未来》中的埃米特·布朗博士命名的。框架的标志是他戴着标志性护目镜的脸。事实上，我是那部电影的粉丝，但不是第二部(那是什么？)鉴于这个名字，这个包激发了我的好奇心，我决定尝试一下。如果你想更深入地了解这个包，你可以在 Github 上查看:
 
-[](https://github.com/emmett-framework/emmett) [## 埃米特-框架/埃米特
-
-### Emmett 是一个全栈 Python web 框架，设计时考虑了简单性。埃米特的目标是清楚地…
-
-github.com](https://github.com/emmett-framework/emmett) 
+<https://github.com/emmett-framework/emmett>  
 
 首先，我应该说，我通常对这类事情不抱太大期望，因为有这么多 web 框架的好例子，有更好的文档和更多的用户。然而，在阅读了特性列表并查看了方法之后，我对这个奇怪的包很感兴趣。虽然我不能说谎，但每当我尝试的时候，对自己的事情感到奇怪和好奇。但是我很高兴展示这个框架和它的能力！除了 Emmett、Django 和 Flask 之外，我过去还写过两篇讨论其他解决方案的文章，您可以在这里阅读:
 
-[](/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) [## 面向现代开发人员的 5 个平滑 Python Web 框架
-
-### 5 个更棒的 Python Web 框架供你欣赏！
-
-towardsdatascience.com](/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) 
+</5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52>  
 
 或者这里:
 
-[](/5-cool-alternatives-to-django-and-flask-for-deploying-endpoints-5c99a066696) [## 用于部署端点的 Django 和 Flask 的 5 个很酷的替代方案
-
-### 不用 Flask 或 Django 部署 API 的有用框架。
-
-towardsdatascience.com](/5-cool-alternatives-to-django-and-flask-for-deploying-endpoints-5c99a066696) 
+</5-cool-alternatives-to-django-and-flask-for-deploying-endpoints-5c99a066696>  
 
 # 功能概述
 
@@ -40,11 +28,7 @@ towardsdatascience.com](/5-cool-alternatives-to-django-and-flask-for-deploying-e
 
 语法和方法非常接近 Flask。就我个人而言，我更喜欢这样。我从来都不喜欢 Django 压倒一切的模板性质。虽然它肯定没有任何问题，但它会立即生成大量目录和文件，而不是让用户自己创建。Emmett 介于这两者之间，但它不依赖于目录和文件，而是使用模块调用，我认为这要优雅得多。如果你想了解更多关于 Flask 和 Django 之间的区别，我有另一篇文章会详细介绍:
 
-[](/django-or-flask-recommendation-from-my-experience-60257b6b7ca6) [## 姜戈还是弗拉斯克？根据我的经验推荐。
-
-### 根据我的经验，用 Python 驱动数据应用程序的一个常见问题是不知道使用什么工具…
-
-towardsdatascience.com](/django-or-flask-recommendation-from-my-experience-60257b6b7ca6) 
+</django-or-flask-recommendation-from-my-experience-60257b6b7ca6>  
 
 首先也是最重要的，埃米特有一套平易近人、易于使用的方法。使用与 Flask 类似的语法，大多数用户会发现自己在使用框架时如鱼得水。然而，这个框架并不像 Flask 那么轻量级，这意味着 Flask 内置了比我们预期的更多的优秀特性。它写起来像 Flask，但工作起来更像 Django。
 
@@ -112,11 +96,7 @@ async def hello():
 
 正如您可能知道的，这个端点与 Flask 中的端点非常相似！事实上，代码几乎是相同的。然而，很容易看出这个框架不是烧瓶，它带来了一大堆特性。在我看来，它真的很酷，很高级，而且声明性很强，有时似乎太容易使用了。我并不经常发现自己爱上我找到的像这样的随机包，但它确实值得一试！我知道我将来会用到它！如果你对 Flask 更感兴趣，我确实有另一篇真的很老的文章(2019 年的！)，您可以阅读以了解有关在 it 中部署端点的更多信息！
 
-[](/constructing-http-data-pipelines-with-flask-27fba04fbeed) [## 用 Flask 构建 HTTP 数据管道
-
-### 许多数据科学工作倾向于关注那些非常明显的属性，训练模型、验证…
-
-towardsdatascience.com](/constructing-http-data-pipelines-with-flask-27fba04fbeed) 
+</constructing-http-data-pipelines-with-flask-27fba04fbeed>  
 
 # 结论
 

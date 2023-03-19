@@ -101,7 +101,7 @@ Wasserstein 距离(推土机距离)是给定度量空间上两个概率分布之
 
 # 密码
 
-瓦塞尔斯坦甘的完整实现可以在这里找到[](https://github.com/aadhithya/gan-zoo-pytorch)****【3】。****
+瓦塞尔斯坦甘的完整实现可以在这里找到<https://github.com/aadhithya/gan-zoo-pytorch>****【3】。****
 
 # **结论**
 

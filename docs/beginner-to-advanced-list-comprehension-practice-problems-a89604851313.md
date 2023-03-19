@@ -108,19 +108,11 @@ q8_answer = {num:max([divisor for divisor in range(1,10) if num % divisor == 0])
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) [## 2021 年数据科学家的 50 多个统计面试问题和答案
-
-### 一个更新的资源，为你的面试刷统计知识！
-
-towardsdatascience.com](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) 
+</50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271>  
 
 # 特伦斯·申
 

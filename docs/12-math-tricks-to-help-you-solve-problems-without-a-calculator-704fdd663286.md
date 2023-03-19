@@ -401,11 +401,7 @@ What’s 36% of 25
 
 我发现亚瑟·本杰明的两本书在这个话题上很有帮助。这篇博客中的许多例子都是受这些书的启发。你可以在这里查阅。
 
-[](https://www.amazon.com/Magic-Math-Solving-Figuring-Out/dp/0465096212/) [## 数学的魔力:求解 x 并找出原因
-
-### 购买数学的魔力:在 Amazon.com 上为 x 求解并找出原因合格订单免费送货
-
-www.amazon.com](https://www.amazon.com/Magic-Math-Solving-Figuring-Out/dp/0465096212/) 
+<https://www.amazon.com/Magic-Math-Solving-Figuring-Out/dp/0465096212/>  
 
 [https://www . Amazon . com/Secrets-Mental-Math-Math magicians-Calculation/DP/0307338401/](https://www.amazon.com/Secrets-Mental-Math-Mathemagicians-Calculation/dp/0307338401/)
 

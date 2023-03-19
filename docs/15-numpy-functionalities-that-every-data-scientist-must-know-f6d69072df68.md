@@ -14,11 +14,7 @@
 
 借助 NumPy 数组，您可以相对轻松地完成大多数数学计算。它是大多数与线性代数和计算其他类似操作相关的任务的最佳库。但是，为了简化与 Python 库的集成和区别，您还必须查看另一个库。从下面提供的链接中查看如何使用 sympy 来简化积分和微分。
 
-[](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) 
+</best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  
 
 这篇文章是一个初学者指南，介绍了 15 个必须知道的 numpy 功能，这些功能对各种操作都非常有益。我们将尝试涵盖大部分重要的内容，但还有很多内容需要探索。因此，让我们从作为数据科学爱好者需要学习的所有基本功能开始。
 
@@ -75,11 +71,7 @@ print(a[1:2])
 
 我建议您自己探索更多这种对 numpy 数组进行切片的操作。尝试许多切片操作，观察不同的结果。还建议您从下面的链接中查阅我以前的一篇关于掌握 Python 中的列表的文章，因为它将帮助您更好地理解索引和切片。
 
-[](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</mastering-python-lists-for-programming-5423b011d937>  
 
 # 5.数组乘法:
 
@@ -132,11 +124,7 @@ print(sum)
 
 如果您想了解更多关于使用多个代码和示例理解高级函数的主题，请随意查看下面的文章。它更详细地介绍了具体的概念。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 # 8.平均:
 
@@ -163,11 +151,7 @@ print(np.exp(x))
 
 一个非常流行的使用求幂运算的场景是定义一个 sigmoid 函数。上图是以下内容的代表。要了解更多关于这种激活功能的信息，我推荐从下面的链接中查看我以前的一篇关于一种叫做校正线性单元的流行激活的文章。
 
-[](/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f) [## 了解 ReLU:5 分钟最受欢迎的激活功能！
-
-### 5 分钟左右深度学习的整流线性单元概念理解。
-
-towardsdatascience.com](/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f) 
+</understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f>  
 
 # 10.展平数组:
 
@@ -218,11 +202,7 @@ numpy 库还允许用户随机生成和创建带有随机值的数组。这个�
 
 在机器学习和深度学习中，随机数字运算通常用于的一个关键操作是，当我们想要用随机值初始化一堆权重或偏差时。通常，最好的方法是用一个随机值而不是零来初始化某些值。为了通过比例抽样的例子理解随机性的概念，建议您阅读下面的文章。
 
-[](/step-by-step-guide-proportional-sampling-for-data-science-with-python-8b2871159ae6) [## 分步指南:使用 Python 进行数据科学的比例采样！
-
-### 了解使用 python 进行数据科学所需的比例采样的概念和实现…
-
-towardsdatascience.com](/step-by-step-guide-proportional-sampling-for-data-science-with-python-8b2871159ae6) 
+</step-by-step-guide-proportional-sampling-for-data-science-with-python-8b2871159ae6>  
 
 # 14.最小值、最大值和绝对值:
 
@@ -269,20 +249,8 @@ Numpy 是 Python 中可用于各种任务的最好的库之一。虽然机器在
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
+</17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977>  </7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e> [## 数据科学和机器学习的 7 个最佳免费工具
 
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [## 6 个最佳图像处理项目和有用的资源
-
-towardsdatascience.com](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
-
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
-
-towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) 
+towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) </6-best-programming-practices-f2605c5b469c>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

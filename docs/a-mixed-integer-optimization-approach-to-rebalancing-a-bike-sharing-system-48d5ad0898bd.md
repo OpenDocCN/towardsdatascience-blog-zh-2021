@@ -147,20 +147,4 @@ BIXI 系统包括大蒙特利尔地区的 611 个站点；然而，这些车站�
 
 ## 关于我们的更多信息:
 
-[](https://www.linkedin.com/in/duncan-w/) [## Duncan Wang -数据分析和建模顾问-普惠| LinkedIn
-
-### 文学士和理学学士毕业和硕士分析管理(MMA)的候选人在麦吉尔大学，具有证明…
-
-www.linkedin.com](https://www.linkedin.com/in/duncan-w/) [](https://www.linkedin.com/in/hannaswail/) [## Hanna Swail -顾问- UX/UI 专家-安大略省政府| LinkedIn
-
-### 有经验的研究生正在攻读分析管理硕士学位，对健康分析有浓厚的兴趣…
-
-www.linkedin.com](https://www.linkedin.com/in/hannaswail/) [](https://www.linkedin.com/in/beiqizhou/) [## Becky Zhou —数据分析和用户界面顾问/UX —普惠| LinkedIn
-
-### 查看 Becky Zhou 在全球最大的职业社区 LinkedIn 上的个人资料。Becky 有 4 份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/beiqizhou/) [](https://www.linkedin.com/in/tzhang96/) [## IWS 张天成-产品经理和数据科学家顾问-罗杰斯通信|…
-
-### 我最近开始在麦吉尔大学分析管理硕士(MMA)完成我的硕士学位后…
-
-www.linkedin.com](https://www.linkedin.com/in/tzhang96/)
+<https://www.linkedin.com/in/duncan-w/>  <https://www.linkedin.com/in/hannaswail/>  <https://www.linkedin.com/in/beiqizhou/>  <https://www.linkedin.com/in/tzhang96/> 

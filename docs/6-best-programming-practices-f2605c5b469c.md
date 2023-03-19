@@ -16,11 +16,7 @@
 
 在本文中，我们将介绍六种最佳编程实践和技巧，每个程序员和数据科学家都应该遵循这些实践和技巧，以从编码中获得最佳结果。在我们开始阅读这篇文章之前，我建议读者阅读下面这篇文章，它涵盖了学习编程的十个最佳免费网站。
 
-[](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) 
+</10-best-free-websites-to-learn-programming-939ec029009b>  
 
 # 1.完善你的缩进，利用注释行:
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b
 
 举个例子，你的编程水平越高，尽量限制不必要的 for 循环的使用。相反，尝试有效地使用类、函数和匿名函数来产生尽可能好的预期结果。您可以随意查看我的文章《理解 Python 中的高级函数》,以及下面提供的链接中的代码和示例。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 # 3.规划您的方法:
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-a
 
 假设你想解决二分搜索法问题。如果你是一个编程的初学者，你想实现二分搜索法算法的代码，对你来说，了解这个项目的直观理解和工作是必不可少的。如果没有先验知识和对方案背后的模式的基本理解，您将很难理解确切的编码设计。下面提供的文章链接应该是理解二分搜索法算法在 Python 中的实现的一个极好的起点。
 
-[](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) [## 理解 Python 中的二分搜索法算法
-
-### 详细了解二分搜索法算法的工作原理及其在 python 中的实现。
-
-towardsdatascience.com](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) 
+</understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7>  
 
 # 4.有效调试:
 
@@ -66,11 +54,7 @@ towardsdatascience.com](/understanding-the-binary-search-algorithm-in-python-5f4
 
 你也可以不断尝试各种解决方案来自己破解答案。我鼓励读者阅读我以前的一篇文章，这篇文章介绍了如何利用 Python 中的内置工具来调试代码。
 
-[](/must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe) [## 必须使用内置工具来调试你的 Python 代码！
-
-### python 调试器模块指南，包含有用的代码和命令。有效且高效地利用这一工具…
-
-towardsdatascience.com](/must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe) 
+</must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe>  
 
 # 5.开发项目:
 
@@ -80,11 +64,7 @@ towardsdatascience.com](/must-use-built-in-tool-for-debugging-your-python-code-d
 
 如果你对自己想要探索什么想法或者想要构建什么独特的项目感到困惑，那么我有一个十五个令人敬畏的 Python 和数据科学项目的列表，你可以开发它们。这些项目将有助于增加你 2021 年及以后的简历和作品集！
 
-[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+</15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  
 
 # 6.每天编码:
 
@@ -94,11 +74,7 @@ towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-an
 
 我们已经知道每天编码对程序员来说是非常重要的。不管你是什么级别的程序员。不管你是一个刚刚开始学习编码的新手，还是一个正在寻找高水平项目的高级开发人员。每天编码必须被视为你系统中固有的日常活动。查看下面这篇文章，它揭示了为什么每个数据科学家都应该每天编码的五个原因。
 
-[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+</5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  
 
 # 结论:
 
@@ -116,26 +92,6 @@ towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
-
-### 探索每个成功的数据科学家必须具备的五项重要软技能！
-
-towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
-
-### 应该添加到简历中的五个高级自然语言处理主题和项目想法
-
-towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
-
-### 揭示人工智能，神经网络和深度学习的进步导致快速…
-
-towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [## 破解数据科学和机器学习面试的 7 个技巧！
-
-### 帮助你在数据科学和机器学习面试中表现更好的 7 个详细技巧
-
-towardsdatascience.com](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</5-essential-skills-to-develop-as-a-data-scientist-16442f094c09>  </5-nlp-topics-and-projects-you-should-know-about-65bc675337a0>  </ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50>  </7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3>  </8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

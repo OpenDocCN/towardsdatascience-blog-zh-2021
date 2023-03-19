@@ -188,31 +188,7 @@ MLP 分类器是一个非常强大的神经网络模型，能够学习复杂数�
 
 # 最新帖子
 
-[](https://medium.com/mlearning-ai/how-to-use-python-sql-to-manipulate-data-in-1-min-bbf9ec17dc5d) [## 如何使用 Python & SQL 在 1 分钟内操作数据
-
-### 请继续阅读！
-
-medium.com](https://medium.com/mlearning-ai/how-to-use-python-sql-to-manipulate-data-in-1-min-bbf9ec17dc5d) [](/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5) [## 时间序列预测:用脸书的先知模型预测股票价格
-
-### 使用可从《先知脸书》公开获得的预测模型预测股票价格
-
-towardsdatascience.com](/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5) [](/roc-curve-explained-using-a-covid-19-hypothetical-example-binary-multi-class-classification-bab188ea869c) [## 用新冠肺炎假设的例子解释 ROC 曲线:二分类和多分类…
-
-### 在这篇文章中，我清楚地解释了什么是 ROC 曲线以及如何阅读它。我用一个新冠肺炎的例子来说明我的观点，我…
-
-towardsdatascience.com](/roc-curve-explained-using-a-covid-19-hypothetical-example-binary-multi-class-classification-bab188ea869c) [](/support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8) [## 支持向量机(SVM)解释清楚:分类问题的 python 教程…
-
-### 在这篇文章中，我解释了支持向量机的核心，为什么以及如何使用它们。此外，我还展示了如何绘制支持…
-
-towardsdatascience.com](/support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8) [](/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79) [## 关于 Python 中的最小-最大规范化，您需要知道的一切
-
-### 在这篇文章中，我将解释什么是最小-最大缩放，什么时候使用它，以及如何使用 scikit 在 Python 中实现它
-
-towardsdatascience.com](/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79) [](/how-and-why-to-standardize-your-data-996926c2c832) [## Scikit-Learn 的标准定标器如何工作
-
-### 在这篇文章中，我将解释为什么以及如何使用 scikit-learn 应用标准化
-
-towardsdatascience.com](/how-and-why-to-standardize-your-data-996926c2c832) 
+<https://medium.com/mlearning-ai/how-to-use-python-sql-to-manipulate-data-in-1-min-bbf9ec17dc5d>  </time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5>  </roc-curve-explained-using-a-covid-19-hypothetical-example-binary-multi-class-classification-bab188ea869c>  </support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8>  </everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79>  </how-and-why-to-standardize-your-data-996926c2c832>  
 
 # 参考
 

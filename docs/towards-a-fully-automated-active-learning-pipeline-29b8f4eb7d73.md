@@ -87,11 +87,7 @@
 
 比较模块可以在开发阶段取消。在开发阶段，我们希望证明我们的主动学习方法是有效的。为此，我们使用一个已知的完全注释的数据集，并表明我们可以以一种明智的方式选择我们的下一个训练样本。更多细节，请看我之前的帖子。
 
-[](/how-to-start-being-an-active-learner-8d311d68fb70) [## 如何开始成为一个主动的学习者？
-
-### 计算机视觉主动学习简介
-
-towardsdatascience.com](/how-to-start-being-an-active-learner-8d311d68fb70) 
+</how-to-start-being-an-active-learner-8d311d68fb70>  
 
 # 终点线
 

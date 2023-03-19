@@ -22,11 +22,7 @@
 
 如果你想了解 SHAP 的运作，这里有一篇关于它的好文章:
 
-[](/can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77) [## SHAP 能引发风险分析的范式转变吗？
-
-### 由 Chandan Durgia 和 Prasun Biswas 撰写
-
-towardsdatascience.com](/can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77) 
+</can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77>  
 
 在这两者中，虽然 LIME 更快，但是 SHAP 提供了全局和局部的一致性和可解释性，并且在行业中更常用。
 

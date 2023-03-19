@@ -14,19 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，您可以点击以下链接:
 
-[](/ucl-data-science-society-python-sequences-e3ffa67604a0) [## UCL 数据科学协会:Python 序列
-
-### 工作坊 2:列表、元组、集合和字典！
-
-towardsdatascience.com](/ucl-data-science-society-python-sequences-e3ffa67604a0) [](/ucl-data-science-society-python-logic-3eb847362a97) [## UCL 数据科学学会:Python 逻辑
-
-### 讲习班 3:条件语句、逻辑语句、循环和函数
-
-towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97) [](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) 
+</ucl-data-science-society-python-sequences-e3ffa67604a0>  </ucl-data-science-society-python-logic-3eb847362a97>  </ucl-data-science-society-object-oriented-programming-d69cb7a7b0be>  
 
 ## 什么是 Numpy？
 
@@ -264,18 +252,6 @@ print(np.random.randint(10, 26, (9,4)))#out:
 
 **如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。**
 
-**[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership)** **[](/univariate-outlier-detection-in-python-40b621295bc5) [## Python 中的单变量异常检测
-
-### 从数据集中检测异常值的五种方法
-
-towardsdatascience.com](/univariate-outlier-detection-in-python-40b621295bc5) [](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [## 层次聚类简介(第 1 部分——理论、联系和相似性)
-
-### 什么是层次聚类、亲和度和关联度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+**<https://philip-wilkinson.medium.com/membership> ** **</univariate-outlier-detection-in-python-40b621295bc5>  </introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)**

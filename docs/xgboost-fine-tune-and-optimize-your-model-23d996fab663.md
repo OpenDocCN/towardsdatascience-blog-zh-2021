@@ -303,16 +303,8 @@ print("Lowest RMSE: ", (-clf.best_score_)**(1/2.0))
 
 使用我们的直觉来调整我们的模型有时可能就足够了。也值得尝试 GridSearch 和 RandomSearch 这样的优化算法。但是大多数时候，通过测试和直觉，结合算法和调整，你会得到更好的结果！
 
-[](https://davidjmartins.medium.com/membership) [## 通过我的推荐链接加入媒体-大卫·马丁斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-davidjmartins.medium.com](https://davidjmartins.medium.com/membership) 
+<https://davidjmartins.medium.com/membership>  
 
 # 您可能也会感兴趣…
 
-[](/10-best-practices-to-write-readable-and-maintainable-sql-code-427f6bb98208) [## 编写可读和可维护的 SQL 代码的 10 个最佳实践
-
-### 如何编写你的团队可以轻松阅读和维护的 SQL 查询？
-
-towardsdatascience.com](/10-best-practices-to-write-readable-and-maintainable-sql-code-427f6bb98208)
+</10-best-practices-to-write-readable-and-maintainable-sql-code-427f6bb98208> 

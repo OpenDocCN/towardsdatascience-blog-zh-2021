@@ -99,11 +99,7 @@ BYOL 有两个网络——在线网络和目标网络。他们互相学习。我
 
 同样值得注意的是，这个架构是**对比学习**的一个例子。对比学习是一种技术，在这种技术中，我们试图获得尽可能相似的相似物体的表征(嵌入),但尽可能不同的不同图像的表征。你可以在[这个中帖](/understanding-contrastive-learning-d5b19fd96607)里了解更多。BYOL 最重要的区别是这种方法没有负对。有了这样的改进，它的计算变得更加简单，因此可以在免费的 Google Colab 环境中演示。
 
-[](/understanding-contrastive-learning-d5b19fd96607) [## 理解对比学习
-
-### 学会无标签学习。
-
-towardsdatascience.com](/understanding-contrastive-learning-d5b19fd96607) 
+</understanding-contrastive-learning-d5b19fd96607>  
 
 ## 增加
 

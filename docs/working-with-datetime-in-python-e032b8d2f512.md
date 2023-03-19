@@ -153,14 +153,6 @@ date = pd.to_datetime("4th of oct, 2020")
 
 我希望这个指南对你有所帮助。如果你这样做了，你可能会发现我的其他一些文章也很有趣:
 
-[](/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f) [## 信用风险评估的机器学习方法
+</a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f>  </a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b> [## Python 中代码剖析的快速简易指南
 
-### 预测贷款违约及其概率
-
-towardsdatascience.com](/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f) [](/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b) [## Python 中代码剖析的快速简易指南
-
-towardsdatascience.com](/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b) [](https://medium.com/codex/web-scraping-using-scrapy-and-python-7ad6d1cd63d0) [## 使用 Scrapy 和 Python 进行 Web 抓取
-
-### 收集网络数据的初学者友好指南
-
-medium.com](https://medium.com/codex/web-scraping-using-scrapy-and-python-7ad6d1cd63d0)
+towardsdatascience.com](/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b) <https://medium.com/codex/web-scraping-using-scrapy-and-python-7ad6d1cd63d0> 

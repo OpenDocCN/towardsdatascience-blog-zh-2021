@@ -18,19 +18,11 @@
 
 RF 的构建模块是简单的决策树。如果读者熟悉分类决策树的概念，这篇文章会更容易阅读。强烈建议在进一步阅读之前通读以下文章:
 
-[](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) [## Python 中的决策树算法从零开始
-
-### 用 Python 编写只使用 NumPy 和 Pandas 的流行算法，并解释其中的内容
-
-towardsdatascience.com](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) 
+</decision-tree-algorithm-in-python-from-scratch-8c43f0e40173>  
 
 ***sci kit-learn***python 中有一个 RF 算法的实现，速度很快，已经审核了几百次:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) [## sk learn . ensemble . randomforestclassifier-sci kit-learn 0 . 24 . 2 文档
-
-### 随机森林分类器。随机森林是一个元估计器，它适合于许多决策树分类器…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html>  
 
 在文档中，需要定义的第一个超参数是 ***n_estimators*** 参数，默认值为 100。这个参数的解释非常优雅:
 

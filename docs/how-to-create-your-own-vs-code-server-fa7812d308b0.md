@@ -18,11 +18,7 @@
 
 如果您可以构建自己的服务器，或者租用一个较小的实例，甚至使用 GPU 或 TPU 加速获得一个较大的实例，会怎么样？此外，在下面的故事中，我们看到了如何使用远程开发来隔离您的项目并与您的团队成员轻松协作。
 
-[](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) [## 你唯一需要的 VS 代码扩展
-
-### 如果您必须安装一个 Visual Code Studio 扩展，这就是它！
-
-towardsdatascience.com](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) 
+</the-only-vs-code-extension-you-will-ever-need-e095a6d09f24>  
 
 但是，如果您可以将 VS 代码与您的项目依赖项一起打包，创建一个真正灵活的环境，实现在世界上任何地方、任何时间工作的梦想，或者没有任何麻烦地加入新的团队成员，会怎么样呢？让我们看看如何创建自己的 VS 代码服务器！
 

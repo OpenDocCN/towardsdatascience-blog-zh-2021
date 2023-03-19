@@ -132,11 +132,7 @@
 
 我们提到了性别/种族偏见。机器学习中的这种偏见比许多人意识到的更普遍。亚马逊使用的一个系统就是一个例子，该系统不以性别中立的方式对求职者的简历进行评级。我们将在下面的文章中讨论这一点以及其他一些有偏差的算法:
 
-[](/what-is-algorithm-fairness-3182e161cf9f) [## 什么是算法公平？
-
-### 对旨在理解和防止机器学习模型中的偏差的领域的介绍
-
-towardsdatascience.com](/what-is-algorithm-fairness-3182e161cf9f) 
+</what-is-algorithm-fairness-3182e161cf9f>  
 
 ## 图像来源
 

@@ -66,11 +66,7 @@ Currying 是将接受多个参数的函数简化为单参数函数的过程。
 
 要了解更多关于 Python 中的类的背景知识，请阅读由 Sadrach Pierre 博士撰写的文章
 
-[](/classes-in-python-e31c21120c3d) [## Python 中的类
-
-### 理解面向对象编程
-
-towardsdatascience.com](/classes-in-python-e31c21120c3d) 
+</classes-in-python-e31c21120c3d>  
 
 接下来，我们在 Pokemon 类中创建一个名为`cry`的方法，该方法返回`sound`。在这种情况下，`sound` 是数据，`cry` 是逻辑。注意类`Pokemon`如何将数据存储为`self.sound`。
 

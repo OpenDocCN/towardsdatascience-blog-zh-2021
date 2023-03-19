@@ -324,8 +324,4 @@ job = aiplatform.CustomTrainingJob( display_name=JOB_NAME, script_path="task.py"
 
 感谢您关注本博客！期待下一个，我们将使用批量和在线预测！在此期间，如果你有任何问题，你可以加入 TigerGraph Discord。
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 577 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

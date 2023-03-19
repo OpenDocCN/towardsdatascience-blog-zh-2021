@@ -108,7 +108,7 @@ generate_csv("eval.csv", eval_dataset)
 
 我们将使用一个称为损失的通用指标来评估微调前后的模型。损失可以描述为模型的预测与正确答案相比有多“错误”。因此，如果微调后损失减少，那么这表明模型学习了。重要的是，我们使用单独的数据进行训练和评估，以表明该模型可以概括其获得的知识，以解决看不见的情况。
 
-*你还可以使用其他指标来评估语法纠正模型。其中最流行的一个叫 GLEU，在这里可以了解更多*[](https://www.researchgate.net/publication/283810389_Ground_truth_for_grammatical_error_correction_metrics)**【2】*。Loss 是用 Happy Transformer 实现的最简单的方法，所以我们将使用它。***
+*你还可以使用其他指标来评估语法纠正模型。其中最流行的一个叫 GLEU，在这里可以了解更多*<https://www.researchgate.net/publication/283810389_Ground_truth_for_grammatical_error_correction_metrics>**【2】*。Loss 是用 Happy Transformer 实现的最简单的方法，所以我们将使用它。***
 
 **让我们在任何训练之前确定评估数据集上的模型损失。为此，我们将调用 happy_tt 的 eval()方法，并提供包含评估数据的 CSV 路径。**
 

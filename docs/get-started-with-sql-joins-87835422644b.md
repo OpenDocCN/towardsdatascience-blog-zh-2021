@@ -10,11 +10,7 @@
 
 为了执行高级分析处理和数据发现，一个表通常不足以带来有价值的见解，因此将多个表组合在一起是不可避免的。SQL 作为与关系数据库通信的工具，提供了在表之间建立关系的功能。本文介绍了如何使用 SQL 将表链接在一起。如果你想学习更多关于 SQL 的基础知识，我建议你读一读我的第一篇关于用日常语言学习 SQL 的文章。它为绝对初学者提供了全面的 SQL 介绍。
 
-[](/learn-sql-in-everyday-language-8d1e06f4daef) [## 用日常语言学习 SQL
-
-### SQL 就像 Excel 一样
-
-towardsdatascience.com](/learn-sql-in-everyday-language-8d1e06f4daef) 
+</learn-sql-in-everyday-language-8d1e06f4daef>  
 
 # 为什么我们需要学习 SQL 连接
 
@@ -181,14 +177,6 @@ CROSS JOIN Country_Code cc;
 
 ## 相关文章
 
-[](https://www.visual-design.net/post/learn-sql-in-everyday-language) [## 用日常语言学习 SQL
-
-### 在本文中，我们将学习一些简单的 SQL 子句，包括 SELECT 语句、FROM 语句、WHERE 语句…
-
-www.visual-design.net](https://www.visual-design.net/post/learn-sql-in-everyday-language) [](https://www.visual-design.net/post/five-data-science-podcasts-to-follow-in-2021) [## 2021 年将推出五个数据科学播客
-
-### 如果我们只是通过大学制定的严格课程或 Coursera 或……的在线课程来学习数据科学
-
-www.visual-design.net](https://www.visual-design.net/post/five-data-science-podcasts-to-follow-in-2021) 
+<https://www.visual-design.net/post/learn-sql-in-everyday-language>  <https://www.visual-design.net/post/five-data-science-podcasts-to-follow-in-2021>  
 
 *原载于 2021 年 1 月 4 日 https://www.visual-design.net**[*。*](https://www.visual-design.net/post/five-data-science-podcasts-to-follow)*

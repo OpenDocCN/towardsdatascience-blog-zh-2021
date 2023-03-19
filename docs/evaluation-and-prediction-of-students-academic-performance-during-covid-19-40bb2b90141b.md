@@ -18,11 +18,7 @@ EDM 最重要的功能之一是根据过去的活动预测学生的表现。现�
 
 有一件事变得很清楚，那就是我们需要更准确地考虑反映学生学习环境的因素。为此，我们使用约旦大学学生的数据集作为我们的主要数据集，该数据集以 Likert 类型的问卷形式记录了学生的回答。这个数据集非常有用，因为它不仅引发了学生对他们使用数字工具进行学习的反应，而且还考虑了他们过度使用所造成的心理影响，这反过来又成为学生学习成绩的一个关键因素。
 
-[](https://www.sciencedirect.com/science/article/pii/S2352340920309987) [## 使用电子学习工具对约旦大学生心理健康影响的数据集…
-
-### 汇编了一个数据集，以检查新冠肺炎的电子学习数字工具对约旦…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2352340920309987) 
+<https://www.sciencedirect.com/science/article/pii/S2352340920309987>  
 
 此外，受上述调查的启发，我们还创建了一个[谷歌表单链接](https://docs.google.com/forms/d/e/1FAIpQLSdWs_oPDMZyt4LVbXkCQVMJ-3Q31n1cRp5_cJDW0DKlDK98cw/viewform?usp=sf_link)，并将其分发给印度各大学的本科生。该表格还向学生提出了类似的问题，以及他们的人口统计信息，如年龄、级别/年级、性别和平均绩点(就像在约旦数据集中一样)，然后被添加到我们的原始数据集中。由于这两个数据集都是在封锁宣布后编译的，学生们已经习惯了使用数字工具进行学习。
 

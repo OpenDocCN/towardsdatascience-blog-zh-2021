@@ -175,16 +175,4 @@ Aborted (core dumped)
 
 ## 一些好的参考
 
-[](https://docs.microsoft.com/en-us/cpp/cpp/exception-handling-in-visual-cpp?view=msvc-160) [## MSVC 的异常处理
-
-### 异常是一种错误情况，可能在程序的控制之外，阻止程序继续运行…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/cpp/cpp/exception-handling-in-visual-cpp?view=msvc-160) [](http://systemtbe.blogspot.com/2017/02/notes-on-c-exception-handling-and-stack.html) [## 关于 C++异常处理和堆栈展开的注释
-
-### 如果您看一下 LLVM 文档，您可能会惊讶地发现不同的处理器架构有…
-
-systemtbe.blogspot.com](http://systemtbe.blogspot.com/2017/02/notes-on-c-exception-handling-and-stack.html) [](https://www.codeproject.com/Articles/2126/How-a-C-compiler-implements-exception-handling) [## C++编译器如何实现异常处理
-
-### C++相对于传统语言的革命性特征之一是它对异常处理的支持。它提供了…
-
-www.codeproject.com](https://www.codeproject.com/Articles/2126/How-a-C-compiler-implements-exception-handling)
+<https://docs.microsoft.com/en-us/cpp/cpp/exception-handling-in-visual-cpp?view=msvc-160>  <http://systemtbe.blogspot.com/2017/02/notes-on-c-exception-handling-and-stack.html>  <https://www.codeproject.com/Articles/2126/How-a-C-compiler-implements-exception-handling> 

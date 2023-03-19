@@ -38,11 +38,7 @@
 
 查看来源！尝试乐器和环境声音。
 
-[](https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_1) [## 理解-傅立叶/傅立叶 _1 在主彼得布莱恩/理解-傅立叶
-
-### 一些帮助我理解傅立叶变换的直觉安装了依赖项并开始使用…
-
-github.com](https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_1) 
+<https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_1>  
 
 如果回购或文本对你有价值，请为文章鼓掌！如果你遇到了其他帮助你理解数学概念的隐喻，请留下评论。
 
@@ -50,8 +46,4 @@ github.com](https://github.com/peterbbryan/Understanding-Fourier/tree/master/fou
 
 查看本系列的下一篇文章！
 
-[](/the-fourier-transform-2-understanding-phase-angle-a85ad40a194e) [## 傅立叶变换(2):了解相位角
-
-### 了解相位角
-
-了解 angletowardsdatascience.com 阶段](/the-fourier-transform-2-understanding-phase-angle-a85ad40a194e)
+</the-fourier-transform-2-understanding-phase-angle-a85ad40a194e> 

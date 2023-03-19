@@ -44,15 +44,7 @@ BLEU score 代表双语评估替角。这里我们将使用 BLEU 分数作为衡
 
 在这种情况下，我们的 BLEU 分数(n-grams)为 1。这里有一些非常好的文章，可供进一步阅读。
 
-[](/bleu-bilingual-evaluation-understudy-2b4eab9bcfd1) [## BLEU —双语评估替补演员
-
-### 理解 BLEU 的逐步方法，理解机器翻译(MT)有效性的度量标准
-
-towardsdatascience.com](/bleu-bilingual-evaluation-understudy-2b4eab9bcfd1) [](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/) [## Python -机器学习掌握中计算文本 BLEU 分数的简明介绍
-
-### BLEU，或双语评估替补，是一个比较文本的候选翻译与一个或多个…
-
-machinelearningmastery.com](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/) 
+</bleu-bilingual-evaluation-understudy-2b4eab9bcfd1>  <https://machinelearningmastery.com/calculate-bleu-score-for-text-python/>  
 
 # 4.资料组
 
@@ -287,15 +279,7 @@ s1 在这里是零。所有的 I 在通过关注层和编码器输出后将成�
 
 使用波束搜索和贪婪搜索方法来分析预测。贪婪搜索只输出每个时间步中最可能出现的单词，而波束搜索通过乘以每个时间步中每个单词的概率，得到概率最高的句子，从而显示出最可能出现的句子。贪婪搜索比波束搜索快得多，而波束搜索被发现产生正确的句子。关于该主题的进一步阅读材料:
 
-[](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/) [## 如何实现用于自然语言处理的波束搜索解码器-机器学习掌握
-
-### 自然语言处理任务，如字幕生成和机器翻译，涉及生成序列的…
-
-machinelearningmastery.com](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/) [](/an-intuitive-explanation-of-beam-search-9b1d744e7a0f) [## 波束搜索的直观解释
-
-### 波束搜索的简单易懂的解释
-
-towardsdatascience.com](/an-intuitive-explanation-of-beam-search-9b1d744e7a0f) 
+<https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/>  </an-intuitive-explanation-of-beam-search-9b1d744e7a0f>  
 
 ## 简单编码器解码器模型
 

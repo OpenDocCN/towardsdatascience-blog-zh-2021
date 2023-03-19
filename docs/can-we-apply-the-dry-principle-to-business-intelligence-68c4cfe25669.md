@@ -39,7 +39,7 @@
 
 当然，您可能有不止一个数据仓库。如果您使用数据湖，您最有可能利用一些集中式元数据存储库，比如 AWS Glue，它提供了数据字典功能。不管你选择什么样的实现，重要的是在遵循 DRY 原则的同时，为你的用例考虑**正确的方法。**
 
-***边注:*** *如果您对如何利用 AWS Glue 元数据进行数据发现感兴趣，我构建了一个数据发现 API 的简单 MVP*[](/how-i-built-a-data-discovery-api-for-aws-data-lake-5d2813f794bf)**。**
+***边注:*** *如果您对如何利用 AWS Glue 元数据进行数据发现感兴趣，我构建了一个数据发现 API 的简单 MVP*</how-i-built-a-data-discovery-api-for-aws-data-lake-5d2813f794bf>**。**
 
 # *我们如何应用软件工程原理来减轻重复的问题？*
 

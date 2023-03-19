@@ -30,11 +30,7 @@
 
 下面是一个例子(输出的顺序是不确定的):
 
-[](https://replit.com/@allasamhita/Process-Class?lite=true) [## 流程类
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Process-Class?lite=true) 
+<https://replit.com/@allasamhita/Process-Class?lite=true>  
 
 `Process`类为从 0 到 10 的数字启动了一个进程。`target`指定要调用的函数，`args`确定要传递的参数。`start()`方法开始流程。所有的进程都循环等待，直到每个进程执行完毕，这是使用`join()`方法检测到的。`join()`有助于确保程序的其余部分仅在多重处理完成后运行。
 
@@ -46,11 +42,7 @@ replit.com](https://replit.com/@allasamhita/Process-Class?lite=true)
 
 如果两个进程需要通信，管道是最好的选择。一个管道可以有两个端点，每个端点都有`send()`和`recv()`方法。如果两个进程(线程)同时读取或写入同一个端点，管道中的数据可能会损坏。
 
- [## 管道通信
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pipe-Communication?lite=true) 
+  
 
 `cube_sender`和`cube_receiver`是使用管道相互通信的两个进程。
 
@@ -63,11 +55,7 @@ replit.com](https://replit.com/@allasamhita/Pipe-Communication?lite=true)
 
 定义两个功能`sum()`和`cube()`。然后定义一个队列(`q`)，调用`cube()`函数，然后调用`add()`函数。
 
-[](https://replit.com/@allasamhita/Queue-Communication?lite=true) [## 队列通信
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Queue-Communication?lite=true) 
+<https://replit.com/@allasamhita/Queue-Communication?lite=true>  
 
 代码解释了两个进程之间对象的通信，在我们的例子中是`q`。方法`empty()`是确定队列是否为空，`get()`返回存储在队列中的值。
 
@@ -81,11 +69,7 @@ replit.com](https://replit.com/@allasamhita/Queue-Communication?lite=true)
 
 单个值可以在多个流程之间共享，如下所示:
 
-[](https://replit.com/@allasamhita/Shared-Memory-Value?lite=true) [## 共享内存值
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Shared-Memory-Value?lite=true) 
+<https://replit.com/@allasamhita/Shared-Memory-Value?lite=true>  
 
 数字 19 作为参数传递给函数`cube()`。`value`属性取`Value`、*、*、`num`的实际值。修改后的数字随后被发送到`cube()`功能。最终的双立方数反映在打印语句中。
 
@@ -93,11 +77,7 @@ replit.com](https://replit.com/@allasamhita/Shared-Memory-Value?lite=true)
 
 值列表可以在多个流程之间共享，如下所示:
 
-[](https://replit.com/@allasamhita/Shared-Memory-Array?lite=true) [## 共享内存阵列
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Shared-Memory-Array?lite=true) 
+<https://replit.com/@allasamhita/Shared-Memory-Array?lite=true>  
 
 `Array()`初始化拥有长度为 3 的`int`数据类型的空数组。通过给数组中的每个元素加 1 来循环数组。
 
@@ -111,11 +91,7 @@ replit.com](https://replit.com/@allasamhita/Shared-Memory-Array?lite=true)
 
 为了更好地理解这个概念，请看这个例子:
 
-[](https://replit.com/@allasamhita/Server-Process?lite=true) [## 服务器进程
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Server-Process?lite=true) 
+<https://replit.com/@allasamhita/Server-Process?lite=true>  
 
 这里使用 manager 对象初始化和操作字典和列表类型。
 
@@ -139,11 +115,7 @@ replit.com](https://replit.com/@allasamhita/Server-Process?lite=true)
 
 `apply()`方法**阻塞**主进程，直到所有进程完成。它**接受多个参数，保持结果的顺序，并且** **不是并发的**。
 
-[](https://replit.com/@allasamhita/Pool-apply?lite=true) [## 池应用()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-apply?lite=true) 
+<https://replit.com/@allasamhita/Pool-apply?lite=true>  
 
 如果要计算前十个自然数的立方，必须循环这些数字，一次发送一个给`apply()`方法。这里的进程数设置为 4；然而，`cube()`只在一个池工作线程中执行。
 
@@ -153,11 +125,7 @@ replit.com](https://replit.com/@allasamhita/Pool-apply?lite=true)
 
 `map()`方法**支持** **并发** — **不接受多个参数，阻塞主程序**，直到所有进程完成。它还保持结果的顺序或**(尽管计算顺序可能不同！).**
 
-[](https://replit.com/@allasamhita/Pool-map?lite=true) [## 池地图()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-map?lite=true) 
+<https://replit.com/@allasamhita/Pool-map?lite=true>  
 
 与`apply()`不同，`map()`接受迭代器作为参数传递给函数`cube()`。
 
@@ -165,11 +133,7 @@ replit.com](https://replit.com/@allasamhita/Pool-map?lite=true)
 
 `apply_async()`中的回调函数可用于在其执行完成后立即返回值。这个方法**维护结果**的顺序，而**支持并发**。
 
-[](https://replit.com/@allasamhita/Pool-applyasync?lite=true) [## 池应用 _ 异步()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-applyasync?lite=true) 
+<https://replit.com/@allasamhita/Pool-applyasync?lite=true>  
 
 **注意**:您可以使用`wait()`来阻止异步调用。
 
@@ -177,11 +141,7 @@ replit.com](https://replit.com/@allasamhita/Pool-applyasync?lite=true)
 
 与`map()`不同，`map_async()`是**非阻塞(并维持结果的顺序)**。
 
-[](https://replit.com/@allasamhita/Pool-mapasync?lite=true) [## 池映射 _ 异步()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-mapasync?lite=true) 
+<https://replit.com/@allasamhita/Pool-mapasync?lite=true>  
 
 当`map_async()`运行时,“这里”和“再次这里”被写入控制台，展示了它的非阻塞特性。但是，您可以使用`wait()`来阻止异步调用。
 
@@ -189,41 +149,25 @@ replit.com](https://replit.com/@allasamhita/Pool-mapasync?lite=true)
 
 与 map()不同，`starmap()`接受多个参数。它**维持结果的顺序，是并发的，阻塞主进程**。
 
-[](https://replit.com/@allasamhita/Pool-starmap?lite=true) [## Pool star_map()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-starmap?lite=true) 
+<https://replit.com/@allasamhita/Pool-starmap?lite=true>  
 
 ## **星图 _ 异步**
 
 与`starmap()`不同，`starmap_async()`是**非阻塞的(并且维持结果的顺序)**。
 
-[](https://replit.com/@allasamhita/Pool-starmapasync?lite=true) [## 池 starmap_async()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-starmapasync?lite=true) 
+<https://replit.com/@allasamhita/Pool-starmapasync?lite=true>  
 
 ## 交互邮件访问协议
 
 与`map()`不同的是，`imap()`不会等待所有的结果，而是返回一个迭代器(不是一个列表)。
 
-[](https://replit.com/@allasamhita/Pool-imap?lite=true) [## 池 imap()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-imap?lite=true) 
+<https://replit.com/@allasamhita/Pool-imap?lite=true>  
 
 ## **imap_unordered**
 
 与`imap()`不同，结果的**顺序并不总是保持**。
 
-[](https://replit.com/@allasamhita/Pool-imapunordered?lite=true) [## 池 imap_unordered()
-
-### 由 allasamhita 回复的 Python
-
-replit.com](https://replit.com/@allasamhita/Pool-imapunordered?lite=true) 
+<https://replit.com/@allasamhita/Pool-imapunordered?lite=true>  
 
 # 结论
 

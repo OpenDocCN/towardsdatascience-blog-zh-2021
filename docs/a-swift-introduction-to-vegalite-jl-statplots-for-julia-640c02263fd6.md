@@ -8,11 +8,7 @@
 
 Julia 是一种很棒的编程语言，尤其是对科学而言。它有多重调度，速度快，层次很高。然而，与类似的选择相比，Julia 确实有一些不足之处，那就是它的生态系统。实际上，我在另一篇文章中多次谈到这一点，在那篇文章中，我讨论了 Julia 语言及其各自的生态系统所面临的问题。如果你对这样的阅读感兴趣，你可以在这里找到那篇文章:
 
-[](/the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7) [## 2021 年 Julia 编程语言面临的令人沮丧的挑战
-
-### Julia 要在 2021 年末取得数据科学优势需要克服的障碍。
-
-towardsdatascience.com](/the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7) 
+</the-depressing-challenges-facing-the-julia-programming-language-in-2021-34c748968ab7>  
 
 鉴于 Julia 确实有一个相当不成熟的生态系统，这是否意味着在 Julia 中数据可视化的选择相当有限？这个问题的第一个答案是否定的，但第二个答案是，即使受到限制——Julia 是 LLVM 编译器库和 C 编程语言的好朋友，这意味着在 Julian 包不适合应用程序的任何情况下，它通常都可以调用外部库。
 
@@ -22,19 +18,11 @@ towardsdatascience.com](/the-depressing-challenges-facing-the-julia-programming-
 
 另一个值得一提的是，Julia 现在也有了一个 Plot.ly 端口，所以你也可以一直使用 Plot.ly。此外，他们甚至对朱丽亚有所图谋。如果您想了解更多关于 Julia 语言的非 Plot.ly 或 Vegalite.jl 库的信息，那么我强烈推荐这篇文章，在这篇文章中，我讨论了 Plots.jl 包以及我个人最喜欢的 Julia 库，牛虻. jl:
 
-[](/julia-visualization-libraries-which-is-best-e4108d3eeaba) [## Julia 可视化库:哪个最好？
-
-### Julia 语言中常用的可视化库概述。
-
-towardsdatascience.com](/julia-visualization-libraries-which-is-best-e4108d3eeaba) 
+</julia-visualization-libraries-which-is-best-e4108d3eeaba>  
 
 在我们深入研究这个包之前，最后一件事是，那些可能想跟随或查看源代码的人可以查看这个笔记本的内部:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks) [## GitHub-emmettgb/Emmetts-DS-NoteBooks:各种项目的随机笔记本。
-
-### 这些是我的开源笔记本，随意打开阅读，下载，和分叉等。我的投资组合您也可以…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks>  
 
 # 更多关于 VegaLite.jl
 
@@ -80,11 +68,7 @@ data |> @vlplot(:point)
 
 为了减轻这种情况，通过将该值除以分辨率来计算分数，以获得像素占整体的百分比。之后，从图像尺寸中减去该百分比与分辨率或图像尺寸的乘积，这就是像素的最终位置。我怎么知道这么多？我实际上做了我自己的奇怪的小图形库，不久前在 Medium 上写了关于它的文章，你可以查看我在软件包上发布的最后更新，我可能很快会继续工作！
 
-[](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) [## Hone.jl 的元编程网格和标签
-
-### 为 Julia 修复我的网格并将轴标签添加到我的图形库中
-
-towardsdatascience.com](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) 
+</metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad>  
 
 为了让我们的 VegaLite 图实际工作，我们需要在宏调用中添加两个新的关键字参数。这些只是我们的 x 和 y 值。
 

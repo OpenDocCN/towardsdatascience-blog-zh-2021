@@ -122,7 +122,7 @@ df.style.set_sticky(axis='columns')
 
 作者图片
 
-# 突出显示特定值:特定范围内的空值、最小值、最大值[](http://localhost:8888/notebooks/Desktop/Dataquest/Guided%20Project_%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Untitled.ipynb#Highlighting-particular-values:-null,-minimum,-maximum,-values-from-a-certain-range)
+# 突出显示特定值:特定范围内的空值、最小值、最大值<http://localhost:8888/notebooks/Desktop/Dataquest/Guided%20Project_%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Untitled.ipynb#Highlighting-particular-values:-null,-minimum,-maximum,-values-from-a-certain-range>
 
 为了突出空值，我们可以使用一个内置函数`highlight_null()`:
 
@@ -240,16 +240,4 @@ df1.style.text_gradient(cmap='cool', subset=3, axis='columns', vmin=-2)
 
 **你会发现这些文章也很有趣:**
 
-[](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [## 当 Python 陷阱导致错误结果时
-
-### 一个奇怪的难以调试的带有舍入数字的 Python 故障
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [## 如何用 Python 阅读你的星座运势
-
-### 用 Python 找乐子
-
-better 编程. pub](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [](https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e) [## 用 Python 为《小王子》生成单词云
-
-### 文字云上的小王子:我们可以这样解开他的一些谜团吗？
-
-python .平原英语. io](https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e)
+<https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe>  <https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1>  <https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e> 

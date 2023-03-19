@@ -183,11 +183,7 @@
 
 正如我之前所说，本教程中使用的所有代码都可以在 [GitLab](https://gitlab.com/Winston-90/underfitting_vs_overfitting) 上获得。
 
-[](https://gitlab.com/Winston-90/underfitting_vs_overfitting) [## Dmytro Nikolaiev /欠拟合 _ vs _ 过拟合
-
-### 过拟合和欠拟合原则。理解适配不足和适配过度的基本原则，以及为什么你应该…
-
-gitlab.com](https://gitlab.com/Winston-90/underfitting_vs_overfitting) 
+<https://gitlab.com/Winston-90/underfitting_vs_overfitting>  
 
 # 感谢您的阅读！
 

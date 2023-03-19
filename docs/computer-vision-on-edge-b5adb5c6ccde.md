@@ -16,11 +16,7 @@ MaixDuino (Image from [Sipeed](https://www.seeedstudio.com/Sipeed-Maixduino-Kit-
 
 说实话，该单位是旧的，只是最近才注意到。鉴于我对边缘计算的兴趣，我想为一个对象检测示例提供一个完整的端到端指南。这个例子基于 Dimitry 的这篇文章中的知识。然而，我将全面介绍如何收集图像并对它们进行注释。如果你想知道什么是边缘计算，请阅读下面的文章。
 
-[](https://medium.com/swlh/what-is-edge-computing-d27d15f843e) [## 什么是边缘计算
-
-### 边缘计算概念介绍
-
-medium.com](https://medium.com/swlh/what-is-edge-computing-d27d15f843e) 
+<https://medium.com/swlh/what-is-edge-computing-d27d15f843e>  
 
 > 让我们尝试建立一个图像检测程序，将能够边界出苹果和香蕉。你可以创造性地使用你的探测器。我们将继续讨论所需的工具和库。
 
@@ -38,27 +34,15 @@ medium.com](https://medium.com/swlh/what-is-edge-computing-d27d15f843e)
 
 我们需要准备以下格式的数据。首先，我们需要苹果和香蕉的图像。同时，我们需要对它们进行注释，说明每个水果在图像中的位置。这就是物体分类和检测的区别所在。我们需要说出物体的位置。为此，您需要以下工具。
 
-[](https://github.com/tzutalin/labelImg) [## 佐他林/标签
-
-### LabelImg 是一个图形化的图像注释工具。它是用 Python 写的，使用 Qt 作为它的图形界面…
-
-github.com](https://github.com/tzutalin/labelImg) 
+<https://github.com/tzutalin/labelImg>  
 
 > 或者你可以使用我的工具，用你的背景和物体图像生成带注释的图像(例如:来自卡格尔的 [Fruit 360 的图像)。在这里阅读更多；](https://www.kaggle.com/moltean/fruits)
 
-[](https://anuradhawick.medium.com/annotator-for-object-detection-950fd799b651) [## 用于对象检测的注释器
-
-### 一个为计算机视觉生成带注释图像的工具
-
-anuradhawick.medium.com](https://anuradhawick.medium.com/annotator-for-object-detection-950fd799b651) 
+<https://anuradhawick.medium.com/annotator-for-object-detection-950fd799b651>  
 
 在我的例子中，我使用下面的程序从网络摄像头捕捉。选择简单的方法。下面的程序是用 [Nvidia jetson nano 入门](https://github.com/dusty-nv/jetson-inference)容器编译的。
 
-[](https://github.com/dusty-nv/camera-capture) [## 灰尘-NV/相机-捕捉
-
-### GUI 工具，用于收集和标记来自实时摄像头馈送的数据-dusty-NV/摄像头-capture
-
-github.com](https://github.com/dusty-nv/camera-capture) ![](img/ba3074bccbe0d7037db07d8dd86c4fac.png)
+<https://github.com/dusty-nv/camera-capture>  ![](img/ba3074bccbe0d7037db07d8dd86c4fac.png)
 
 捕捉图像(作者提供的图像)
 
@@ -66,11 +50,7 @@ github.com](https://github.com/dusty-nv/camera-capture) ![](img/ba3074bccbe0d703
 
 我们想训练我们的模型，以便它们可以在 MaixDuino 设备上运行。为此，我们可以使用下面的存储库。它对模型层进行了所有必要的修改，以适应 K210 处理器的架构。克隆并安装所需的依赖项。以下链接提供了所有说明；
 
-[](https://github.com/AIWintermuteAI/aXeleRate) [## AIWintermuteAI/aXeleRate
-
-### aXeleRate 简化了计算机视觉模型的训练和转换，可在各种硬件平台上运行…
-
-github.com](https://github.com/AIWintermuteAI/aXeleRate) 
+<https://github.com/AIWintermuteAI/aXeleRate>  
 
 我们需要如下组织我们的训练数据:
 

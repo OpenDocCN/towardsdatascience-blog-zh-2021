@@ -130,12 +130,4 @@ Current function: getMultiplication
 
 ## *进一步阅读*
 
-*[](/3-common-sql-errors-to-spot-an-inexperienced-data-scientist-310b3e98842f) [## 发现缺乏经验的数据科学家的 3 个常见 SQL 错误
-
-### 以下是修复它们的方法
-
-towardsdatascience.com](/3-common-sql-errors-to-spot-an-inexperienced-data-scientist-310b3e98842f) [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) [## 6 个令人捧腹的程序员/数据科学家笑话开启 2021 年
-
-### 做好准备:这些愚蠢的老笑话会让你捧腹大笑😁
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c)*
+*</3-common-sql-errors-to-spot-an-inexperienced-data-scientist-310b3e98842f>  <https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c> *

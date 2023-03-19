@@ -166,44 +166,16 @@ plt.show()
 
 本文的代码可以在以下位置找到:
 
-[](https://github.com/PhilipDW183/hierarchical_clustering) [## GitHub-Philip dw 183/hierarchical _ clustering
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/PhilipDW183/hierarchical_clustering) 
+<https://github.com/PhilipDW183/hierarchical_clustering>  
 
 尽管可以在此处找到对分层集群的首次介绍:
 
-[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [## 层次聚类简介(第 1 部分——理论、联系和相似性)
-
-### 什么是层次聚类、亲和度和关联度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) 
+</introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702>  
 
 第一个不受地理位置限制的 python 实现可以在这里找到:
 
-[](/introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298) [## 分层聚类介绍(第 2 部分——python 实现)
-
-### 伦敦犯罪数据的 sklearn 实现
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298) 
+</introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298>  
 
 如果你想在 Medium 上阅读更多我和其他人的精彩文章，请随意使用我的推荐链接注册:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/easy-grouped-bar-charts-in-python-b6161cdd563d) [## Python 中的简易分组条形图
-
-### 如何创建每个条目有两个、三个或更多条的条形图
-
-towardsdatascience.com](/easy-grouped-bar-charts-in-python-b6161cdd563d) [](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [## Python 中 Matplotlib 绘图简介
-
-### UCL 数据科学学会研讨会 7:创建一个基本的图表，在同一图表上绘制不同的信息…
-
-towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7)
+<https://philip-wilkinson.medium.com/membership>  </easy-grouped-bar-charts-in-python-b6161cdd563d>  </an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7> 

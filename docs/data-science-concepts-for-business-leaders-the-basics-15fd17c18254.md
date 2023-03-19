@@ -39,11 +39,7 @@
 
 除了数据可能采取的形式之外，它还可以分为两类，定义其可用性、所有权和使用权。
 
-[](/how-to-implement-a-successful-data-cleaning-process-701e565e6575) [## 如何实施成功的数据清理流程
-
-### 因为你不能测量脏数据
-
-towardsdatascience.com](/how-to-implement-a-successful-data-cleaning-process-701e565e6575) 
+</how-to-implement-a-successful-data-cleaning-process-701e565e6575>  
 
 *开放数据*任何人都可以免费使用。这些数据集经常用于 Kaggle 比赛或其他训练场所。通常用于文本分类实践的安然电子邮件数据集也是开放数据的一个例子。
 
@@ -74,11 +70,7 @@ towardsdatascience.com](/how-to-implement-a-successful-data-cleaning-process-701
 
 *规定性分析*使用数据预测可能的结果，并根据这些结果提供行动建议。这是唯一一种试图回答“我们应该做什么？”这个问题的分析类型其他类型为决策者提供信息，但决策本身不在分析范围内。
 
-[](/getting-your-analytics-team-right-b539206dac3d) [## 让您的分析团队走上正轨！
-
-### 成功分析团队的五个必要角色
-
-towardsdatascience.com](/getting-your-analytics-team-right-b539206dac3d) 
+</getting-your-analytics-team-right-b539206dac3d>  
 
 # 职能角色
 
@@ -94,11 +86,7 @@ towardsdatascience.com](/getting-your-analytics-team-right-b539206dac3d)
 
 除了这些最常见的数据科学职能角色之外，还存在其他角色。如果您对这个关于角色讨论的简短版本感兴趣，请查看这篇文章。
 
-[](/the-future-of-data-science-5825bde65637) [## 数据科学的未来
-
-### 数据科学和业务环境正在融合
-
-towardsdatascience.com](/the-future-of-data-science-5825bde65637) 
+</the-future-of-data-science-5825bde65637>  
 
 所有这些职能角色都与其他角色相互作用。这个团队还必须与其他团队互动。组织结构决定了这些职能角色是放在同一个部门还是其他部门。关键部分是所需功能的存在和功能之间的通信。
 

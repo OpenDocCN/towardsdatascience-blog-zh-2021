@@ -16,11 +16,7 @@
 
 理解和解决计算和计算机编程中的许多问题的一个很好的方法是分析可重复使用的例子。记住这一点，我们将实际查看两个函数的调用和输出，并将它们与我们传递的类型进行比较，而不是首先查看两个函数之间的区别。对于这个例子，我将使用我最喜欢的编程语言，Julia，但是，这个概念肯定不是 Julia 特有的发明，所以肯定有其他语言可以使用，它们可能对以解释点结束的方法有相同的约定。话虽如此，也有一个简短的小笔记本，你可以看看，也许你可以自己看看。笔记本在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Methods%20ending%20in%20!.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Methods%20ending%20in%20!.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Methods%20ending%20in%20!.ipynb>  
 
 为了演示有和没有解释点的方法之间的区别，我们将使用 select！()并从 Julia 的基础包中选择()方法。我们将在一个数据框中使用这两个数据框，因此让我们继续预编译该依赖项并创建一个新的数据框:
 

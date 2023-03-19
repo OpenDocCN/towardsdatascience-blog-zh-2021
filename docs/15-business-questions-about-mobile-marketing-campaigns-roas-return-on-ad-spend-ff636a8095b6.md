@@ -515,19 +515,7 @@ plt.show()
 
 查看您可能也会喜欢的其他文章:
 
-[](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [## 机器学习:营销活动的成本预测(探索性数据分析——第一部分)
-
-### 预测营销活动最佳目标候选人的数据科学方法
-
-towardsdatascience.com](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [](/pandas-made-easy-the-guide-i-81834f075893) [## 熊猫变得容易(指南— I)
-
-### 有许多最常用的函数和方法的例子
-
-towardsdatascience.com](/pandas-made-easy-the-guide-i-81834f075893) [](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) [## 描述性统计:期望与现实(探索性数据分析——EDA)
-
-### 一种简单的描述性统计方法来总结集中趋势的措施和传播的措施
-
-towardsdatascience.com](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) 
+</machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4>  </pandas-made-easy-the-guide-i-81834f075893>  </descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b>  
 
 # 联系人
 

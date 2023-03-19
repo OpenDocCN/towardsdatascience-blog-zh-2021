@@ -6,7 +6,7 @@
 
 *附带的 R 代码可在* [*查看 https://github . com/malikamohan 01/significant-police-factors-R/blob/main/code appendix*](https://github.com/malikamohan01/significant-police-factors-r/blob/main/codeappendix)*。*
 
-**在过去的几个月里，自 2020 年 5 月一名警察杀害乔治·弗洛伊德**[](https://www.nytimes.com/article/george-floyd.html)****以来，我们已经看到一场重大的种族正义清算正在全国各地发生。这一事件引发了人们对在警察手中失去的类似生命的关注，导致人们呼吁重新评估警察的作用和权力。活动家团体、名人、政治家和普通公民都签署了请愿书，联系了当地的政策制定者，并开始了趋势运动(#defundthepolice、#acab 等)。)在网上呼吁改善对警察的培训和潜在的减资。****
+**在过去的几个月里，自 2020 年 5 月一名警察杀害乔治·弗洛伊德**<https://www.nytimes.com/article/george-floyd.html>****以来，我们已经看到一场重大的种族正义清算正在全国各地发生。这一事件引发了人们对在警察手中失去的类似生命的关注，导致人们呼吁重新评估警察的作用和权力。活动家团体、名人、政治家和普通公民都签署了请愿书，联系了当地的政策制定者，并开始了趋势运动(#defundthepolice、#acab 等)。)在网上呼吁改善对警察的培训和潜在的减资。****
 
 **为了让利益相关方(如行动主义团体和当地政策制定者)以最快、最有效的方式做出最大的改变，以响应这些呼吁，以下数据分析和报告力求回答几个问题。**
 

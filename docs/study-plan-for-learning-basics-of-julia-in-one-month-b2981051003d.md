@@ -24,11 +24,7 @@ ulia 是麻省理工学院为高速计算开发的一种相对较新的编程语
 
 ## **茱莉亚语言:简明教程**
 
-[](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) [## 介绍
-
-### ➞·安东内洛·洛比安科(2019)，“朱丽亚快速语法参考”，本教程的过程兼容性表与朱丽亚…
-
-syl1.gitbook.io](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) 
+<https://syl1.gitbook.io/julia-language-a-concise-tutorial/>  
 
 使用本教程主要是为了在计算机上安装 Julia。我运行了 JupyterLab 中所有扩展名为 *IJulia* 的 Julia 笔记本。[本文](https://datatofish.com/add-julia-to-jupyter/)展示了 Jupyter 的 Julia 内核的安装过程。开发者可能会在 VSCode 插件中使用 *Julia 来编写 VS 代码。*
 
@@ -36,11 +32,7 @@ syl1.gitbook.io](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
 要开始编程，强烈推荐**茱莉亚学院**教程。
 
-[](https://juliaacademy.com/) [## 主页
-
-### 编辑描述
-
-juliaacademy.com](https://juliaacademy.com/) 
+<https://juliaacademy.com/>  
 
 Julia Academy 的第一门课程涵盖基本主题，如处理字符串、数据结构、循环、函数、包介绍和绘图。在这里，你真的可以看到 Julia 和 Python 是多么的相似，因为它们之间只有很小的语法差异。所有笔记本都可以下载，这样您就可以在您的 JupyterLab 中运行它们。
 
@@ -68,11 +60,7 @@ Julia 支持导入 R、Python 和 Matlab 格式的数据。还有，用 [*RCall*
 
 *因为 Julia 主要是为科学计算开发的，所以它只需要几行代码就可以提供漂亮的出版图。*
 
-*[](http://docs.juliaplots.org/latest/tutorial/#tutorial) [## 辅导的
-
-### 这是一个让你开始使用 Plots.jl 的指南。它的主要目标是向你介绍使用的术语…
-
-docs.juliaplots.org](http://docs.juliaplots.org/latest/tutorial/#tutorial) 
+*<http://docs.juliaplots.org/latest/tutorial/#tutorial>  
 
 **JuliaPlots 教程**从简单的线形图绘制到更复杂的图形绘制，解释了使用不同后端和输入数据绘制属性，并提供了颜色方案、宏和动画的详细文档。你可以运行你 Jupyter 笔记本里的所有代码(安装了 *IJulia* 内核)。
 
@@ -86,11 +74,7 @@ Julia 中准备的一些图表看起来令人印象深刻:
 
 一门更高级的茱莉亚学院课程展示了茱莉亚如何处理经典的人工智能话题，这就是 Knet 的机器学习世界。涵盖了手写数字分类、影评情感分析、递归神经网络(RNNs)语言建模、卷积神经网络(CNN)图像分类等基本课题。
 
-[](https://juliaacademy.com/) [## 主页
-
-### 编辑描述
-
-juliaacademy.com](https://juliaacademy.com/) 
+<https://juliaacademy.com/>  
 
 在登陆它之前，您可以刷新您的机器学习技能，因为这个简短的教程假设了一些 ML 原则的基础知识。
 
@@ -100,4 +84,4 @@ juliaacademy.com](https://juliaacademy.com/)
 
 当然，还要查看[的官方文档。](https://docs.julialang.org/en/v1/)
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。***
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。***

@@ -14,11 +14,7 @@
 
 测试和维护最具挑战性的项目类型之一是任何包含机器学习算法的项目。一般来说，测试和调试软件应用程序通常需要很长时间，通常比开发应用程序的时间还要长。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 机器学习应用程序通常很复杂，并且依赖于复杂的数学和统计学。这使得测试和调试这样的应用程序变得更加困难和耗时。幸运的是，现有的工具可以帮助我们在更短的时间内以最小的努力测试、调试和维护我们的机器学习项目。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 Deepkit 提供了许多选项，您可以使用它们来使训练、测试和调试您的机器学习和人工智能应用程序变得轻而易举。这些选项跟踪机器学习实验的每一步，从视觉和分析两方面进行模型调试，并提供计算管理，允许您监督模型的基础设施并有效地利用它。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №3:数据版本控制(DVC)
 
@@ -54,11 +46,7 @@ DVC 是一种工具，用于对机器学习模型、数据集和项目中的任�
 
 [Manifold](https://arxiv.org/pdf/1808.00196.pdf) 的开发是为了使在模型上迭代的过程更具信息性，Manifold 是机器学习的可视化模型诊断和调试工具。它允许您超越基本的性能指标，甚至提供为什么模型可能执行错误或意外的潜在原因。不仅如此，它还可以为您的特定数据集建议候选模型及其预期精度，并为每个给定模型提供理由。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # №5: TensorFlow 调试器
 
@@ -72,7 +60,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 这些事实使得调试机器学习应用程序更加麻烦。但是，幸运的是，我们可以使用不同的工具来帮助我们测试、调试和维护机器学习应用程序。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

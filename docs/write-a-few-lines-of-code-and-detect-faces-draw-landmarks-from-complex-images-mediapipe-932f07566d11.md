@@ -195,31 +195,15 @@ uploaded_full_range = files.upload()*****
 
 *********Colab 源代码……..*********
 
-******[](https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/Face_detection.ipynb) [## Face_detection.ipynb
-
-### 在 GitHub 上创建一个帐户，为 Zubair063/ML_articles 的开发做出贡献。
-
-github.com](https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/Face_detection.ipynb) 
+******<https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/Face_detection.ipynb>  
 
 ***Jupyter 笔记本源代码…..***
 
-[](https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/face%20detection%20.ipynb) [## 人脸检测。ipynb
-
-### 在 GitHub 上创建一个帐户，为 Zubair063/ML_articles 的开发做出贡献。
-
-github.com](https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/face%20detection%20.ipynb) 
+<https://github.com/Zubair063/ML_articles/blob/7385b71cb4fa0e2d1771f4bb2efe84d7d243af83/face%20detection%20.ipynb>  
 
 ## 给你一些更有趣的文章
 
-[](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [## 通过交互式数据可视化传播新冠肺炎
-
-### 一个完整的指南条形图比赛和互动 Choropleth 地图新冠肺炎疫情与 Python。
-
-towardsdatascience.com](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [](/less-is-more-the-art-of-sampling-dda8b59d399) [## 少即是多；取样的“艺术”
-
-### 使用样本提高您对大量数据集的数据分析能力
-
-towardsdatascience.com](/less-is-more-the-art-of-sampling-dda8b59d399) 
+</spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  </less-is-more-the-art-of-sampling-dda8b59d399>  
 
 ## 祖贝尔·侯赛因
 

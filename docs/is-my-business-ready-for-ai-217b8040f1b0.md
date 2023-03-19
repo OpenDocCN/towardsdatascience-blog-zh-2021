@@ -40,18 +40,6 @@
 
 *如果你喜欢这篇文章，并想与我联系，请这样做🐦* [*碎碎念*](https://twitter.com/alexieidingli) *，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*Instagram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。*
 
-[](/a-whole-new-ai-world-6a5e9e49aa12) [## 一个全新的人工智能世界
-
-### 疫情之后人工智能的兴起
-
-towardsdatascience.com](/a-whole-new-ai-world-6a5e9e49aa12) [](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) [## 自工业革命以来最重大的变化
-
-### 人工智能在当今工业中的应用概述
-
-towardsdatascience.com](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) [](https://medium.com/dataseries/the-future-of-governments-267476e790a8) [## 政府的未来
-
-### 通过技术重塑我们与国家的关系
-
-medium.com](https://medium.com/dataseries/the-future-of-governments-267476e790a8) 
+</a-whole-new-ai-world-6a5e9e49aa12>  </the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e>  <https://medium.com/dataseries/the-future-of-governments-267476e790a8>  
 
 [**阿列克谢·丁力教授**](http://www.dingli.org/) 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他已经出版了几本同行评审的出版物，并成为马耳他[的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。](https://malta.ai/)

@@ -18,17 +18,13 @@
 
 所以当你开始寻找的时候，你应该同时寻找获得经验的方法。这可能不会马上有所帮助，但是几个月后，当你还在申请的时候，如果你在一个项目上取得了一些进展，会让你的申请变得更强大，你会感觉好很多。不过，要确保你的项目是好的——很多项目并不是好的，原因我在本文中概述了:
 
-[](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
+</why-your-data-science-portfolio-project-sucks-208ee830ad1b> [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
 
 towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) 
 
 要获得有助于改善你简历的经验，请看这篇文章:
 
-[](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [## 如何在简历中加入数据科学的第一点经验
-
-### 为有抱负的数据科学家解决先有鸡还是先有蛋的问题
-
-towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) 
+</how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace>  
 
 # 2.做一份好的简历
 
@@ -42,7 +38,7 @@ towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on
 
 想获得更多关于如何让你的简历脱颖而出的指导，请看这篇文章:
 
-[](/making-your-data-science-resume-stand-out-119d2eb37d8c) [## 让你的数据科学简历脱颖而出
+</making-your-data-science-resume-stand-out-119d2eb37d8c> [## 让你的数据科学简历脱颖而出
 
 towardsdatascience.com](/making-your-data-science-resume-stand-out-119d2eb37d8c) 
 

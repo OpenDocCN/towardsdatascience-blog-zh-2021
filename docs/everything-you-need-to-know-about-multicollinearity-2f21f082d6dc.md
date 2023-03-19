@@ -129,15 +129,11 @@ vif_data["VIF"] = [variance_inflation_factor(X_variables.values, i) for i in ran
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) [## 数据科学家的 40 个统计面试问题和答案
-
-### 为你的面试复习统计知识的资源！
-
-towardsdatascience.com](/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 
+</40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee>  
 
 **又一个！**
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 

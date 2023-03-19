@@ -53,11 +53,7 @@
 
 您可能知道，图片被编码成 n 维数组(1 层用于灰度图片，3 层用于 RGB 图片)。如果你对这个概念不放心，我向你推荐这篇文章:
 
-[](/better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca) [## 由于城市，更好地可视化张量！
-
-### 当然，很容易看出标量、向量或矩阵是什么样子！但是当涉及到 n 维数组时，我们的…
-
-towardsdatascience.com](/better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca) 
+</better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca>  
 
 例如，对于表格数据集，我们可以监控每个特征的统计特征(最小值、最大值、平均值、标准偏差等。)但是我们可以在下面看到，使用这些指标并不能让我们区分上面的 3 张图片:
 
@@ -151,8 +147,4 @@ Image_2: Min:  #3 | Mean :  #2 | Max :  #1
 
 皮埃尔-路易
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+<https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

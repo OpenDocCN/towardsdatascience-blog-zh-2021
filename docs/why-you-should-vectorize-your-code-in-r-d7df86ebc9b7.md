@@ -40,11 +40,7 @@
 
 关于如何进行模拟的更多细节和指南可以在这篇关于蒙特卡罗模拟的文章中找到。
 
-[](https://medium.com/@andreagustafsen/estimating-pi-using-monte-carlo-simulation-in-r-91d1f32406af) [## 用蒙特卡罗模拟法估计圆周率
-
-### 说明如何使用蒙特卡罗模拟的一个常见例子是通过估计圆周率。本文将向您展示…
-
-medium.com](https://medium.com/@andreagustafsen/estimating-pi-using-monte-carlo-simulation-in-r-91d1f32406af) 
+<https://medium.com/@andreagustafsen/estimating-pi-using-monte-carlo-simulation-in-r-91d1f32406af>  
 
 基本上，这些函数的作用是为正方形中的点生成随机(x，y)坐标。它计算到圆原点的距离，以确定该点是否落在圆内，并最终估计圆周率。
 
@@ -60,16 +56,8 @@ medium.com](https://medium.com/@andreagustafsen/estimating-pi-using-monte-carlo-
 
 如果你是 R 新手，想了解更多，可以在本文的[中找到如何在免费互动课程中练习编写 R 代码。](https://medium.com/@andreagustafsen/the-free-interactive-r-courses-most-people-dont-know-about-c49aff7e5d4c)
 
-[](https://medium.com/@andreagustafsen/the-free-interactive-r-courses-most-people-dont-know-about-c49aff7e5d4c) [## 大多数人不知道的免费互动 R 课程
-
-### 用 Swirl 直接在 R 控制台学习 R 编程和数据科学
-
-medium.com](https://medium.com/@andreagustafsen/the-free-interactive-r-courses-most-people-dont-know-about-c49aff7e5d4c) 
+<https://medium.com/@andreagustafsen/the-free-interactive-r-courses-most-people-dont-know-about-c49aff7e5d4c>  
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@andreagustafsen/membership) [## 通过我的推荐链接加入 Medium-Andrea gustaf sen
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreagustafsen/membership)
+<https://medium.com/@andreagustafsen/membership> 

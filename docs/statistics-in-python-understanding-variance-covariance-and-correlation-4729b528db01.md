@@ -410,8 +410,4 @@ df[['math','science']].corr(method='pearson')
 
 我希望你现在对方差、协方差和相关性的概念有了更清晰的认识。特别是相关性让你知道你的随机变量之间关系的强度和方向，你可以利用**皮尔逊相关系数**(对于线性关系)或**斯皮尔曼等级相关系数**(对于单调关系)方法。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

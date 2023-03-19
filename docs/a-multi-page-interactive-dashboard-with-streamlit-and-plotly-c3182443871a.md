@@ -14,7 +14,7 @@ Streamlit 的伟大之处在于，它不仅漂亮，而且简单。
 
 几个月前，我写了一篇关于如何使用 Plotly 和 Flask 编写仪表板的文章——这是使用 Dash 的替代方法，我对此非常满意。这个应用程序由两个文件组成，一个 20 多行的 Python/Flask 应用程序和一个近 30 行的 HTML/Javascript 文件。你可以在这里看到这篇文章:
 
-[](/an-interactive-web-dashboard-with-plotly-and-flask-c365cdec5e3f) [## 使用 Plotly 和 Flask 的交互式 Web 仪表板
+</an-interactive-web-dashboard-with-plotly-and-flask-c365cdec5e3f> [## 使用 Plotly 和 Flask 的交互式 Web 仪表板
 
 towardsdatascience.com](/an-interactive-web-dashboard-with-plotly-and-flask-c365cdec5e3f) 
 
@@ -128,7 +128,7 @@ st.plotly_chart(fig)
 
 我努力说服自己，我可以像使用 Dash 一样轻松地使用 Flask 和 HTML 制作应用程序，作为努力的一部分，我创建了一个简单的多页面应用程序，每个页面使用相同的 HTML 模板，但从 Flask 加载不同的数据。你可以在这里看到这篇文章:
 
-[](/web-visualization-with-plotly-and-flask-3660abf9c946) [## 用 Plotly 和 Flask 实现 Web 可视化。
+</web-visualization-with-plotly-and-flask-3660abf9c946> [## 用 Plotly 和 Flask 实现 Web 可视化。
 
 towardsdatascience.com](/web-visualization-with-plotly-and-flask-3660abf9c946) 
 
@@ -213,8 +213,4 @@ Streamlit 确实有一些很好的布局组件(改天会有更多)，多页面�
 
 如果你不是一个媒体订阅者，那就注册吧，这样你就可以每月花 5 美元阅读尽可能多的文章。在这里注册我会赚一小笔佣金。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 我为数据可视化和类似的主题撰写文章、实践教程和应用程序——大部分是用 Python 写的(参见一些……
-
-alanjones2.github.io](https://alanjones2.github.io)
+<https://alanjones2.github.io> 

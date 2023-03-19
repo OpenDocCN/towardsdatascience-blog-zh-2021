@@ -116,11 +116,7 @@ mBART [5]是一个基于 Transformer[6]的编码器-解码器模型，它根据�
 
 *你觉得多语预训后双语微调太局限？在本系列的下一篇文章中，我们将介绍 mBART50 (50 种预训练语言),它提出了一种通过多语言微调来改善结果的方法。*
 
-*[](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) [## 阅读和撰写 ML 研究论文的技巧
-
-### 从几十次同行评审中获得的经验教训
-
-towardsdatascience.com](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) 
+*</tips-for-reading-and-writing-an-ml-research-paper-a505863055cf>  
 
 # 参考
 

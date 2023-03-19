@@ -160,16 +160,4 @@ Yusuf Evli 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 ## 参考资料和进一步阅读:
 
-[](http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html) [## 总是使用韦尔奇的 t 检验，而不是学生的 t 检验
-
-### 参见我们关于这个主题的论文:Delacre，m .，Lakens，d .，& Leys，C. (2017)。为什么心理学家应该默认使用…
-
-daniellakens.blogspot.com](http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html) [](https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test) [## 何时使用 z 检验与 t 检验
-
-### 我如何知道何时使用 t 检验而不是 z 检验？几乎每个我辅导过的统计学学生都有…
-
-bloomingtontutors.com](https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test) [](https://www.analytics-toolkit.com/glossary/randomization/) [## 什么是随机化？在线控制实验词汇表。
-
-### 随机化是使用随机方法将受试者分配到治疗组的过程。在 A/B 测试中，会…
-
-www.analytics-toolkit.com](https://www.analytics-toolkit.com/glossary/randomization/)
+<http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html>  <https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test>  <https://www.analytics-toolkit.com/glossary/randomization/> 

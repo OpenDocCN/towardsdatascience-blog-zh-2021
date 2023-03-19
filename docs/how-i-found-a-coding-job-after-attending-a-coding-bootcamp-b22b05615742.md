@@ -60,11 +60,7 @@
 
 当我写我的每周文章时，我开始创建与它们相关的配套项目。这将允许我学习和实践我的数据科学技能，以及写我的文章。*(请随意查看下面我的第一个配套作品):*
 
-[](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6) [## 我建立了一个机器学习模型，像沃伦·巴菲特一样交易股票(第一部分)
-
-### 利用机器学习进行股票基本面分析
-
-medium.com](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6) 
+<https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6>  
 
 # 与我的文章联网
 
@@ -86,11 +82,7 @@ medium.com](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warr
 
 有一次，我联系上了一家中小型公司的数据科学总监。我发给他的网络邮件中包含了一个我的一篇文章的链接。*(如果你感兴趣，可以看到我链接的文章):*
 
-[](/predicting-prices-of-bitcoin-with-machine-learning-3e83bb4dd35f) [## 我试图用机器学习来预测比特币的价格
-
-### 利用时间序列模型预测加密货币价格
-
-towardsdatascience.com](/predicting-prices-of-bitcoin-with-machine-learning-3e83bb4dd35f) 
+</predicting-prices-of-bitcoin-with-machine-learning-3e83bb4dd35f>  
 
 他急切地回复了我的电子邮件，邀请我和他视频聊天。视频聊天结束后，我被邀请到他们公司大楼进行正式面试。在那里，我经历了两个多小时的面试过程。这并不像我预期的那么可怕，我随后被邀请参加另一场面试。
 
@@ -108,11 +100,7 @@ towardsdatascience.com](/predicting-prices-of-bitcoin-with-machine-learning-3e83
 
 我想为这个项目和系列做的是用机器学习创建一个约会算法。*(有兴趣可以在下面了解一下):*
 
-[](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) [## 我用机器学习和人工智能做了一个约会算法
-
-### 为约会应用程序利用无监督学习
-
-towardsdatascience.com](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) 
+</dating-algorithms-using-machine-learning-and-ai-814b68ecd75e>  
 
 ## 自由职业者和合作
 

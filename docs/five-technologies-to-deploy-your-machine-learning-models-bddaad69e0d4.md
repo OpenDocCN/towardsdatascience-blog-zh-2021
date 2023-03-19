@@ -108,19 +108,11 @@ MLflow 是一个处理 ML 生命周期的开源平台，包括实验、再现和
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/introducing-dbt-the-etl-elt-disrupter-4351adc34123) [## ETL 和 ELT 中断器 dbt 简介
-
-### 再见 ETL & ELT，你好 dbt！
-
-towardsdatascience.com](/introducing-dbt-the-etl-elt-disrupter-4351adc34123) 
+</introducing-dbt-the-etl-elt-disrupter-4351adc34123>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

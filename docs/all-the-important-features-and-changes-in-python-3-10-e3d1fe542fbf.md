@@ -98,16 +98,4 @@ Python 3.10 带来了许多有趣的新特性，但这是 *alpha* (很快将是 
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/46?utm_source=tds&utm_medium=referral&utm_campaign=blog_post_46)
 
-[](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [## 使用 Python 调度各种循环作业
-
-### 让我们探索一下运行 cron 作业、延迟任务、重复任务或任何其他计划作业的所有库…
-
-towardsdatascience.com](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [](/the-magic-of-python-context-managers-adb92ace1dd0) [## Python 上下文管理器的魔力
-
-### 使用和创建令人敬畏的 Python 上下文管理器的方法，这将使你的代码更具可读性、可靠性和…
-
-towardsdatascience.com](/the-magic-of-python-context-managers-adb92ace1dd0) [](/writing-more-idiomatic-and-pythonic-code-c22e900eaf83) [## 编写更加地道和 Pythonic 化的代码
-
-### 使你的 Python 代码可读、有效、简洁和可靠的习惯用法和惯例。
-
-towardsdatascience.com](/writing-more-idiomatic-and-pythonic-code-c22e900eaf83)
+</scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc>  </the-magic-of-python-context-managers-adb92ace1dd0>  </writing-more-idiomatic-and-pythonic-code-c22e900eaf83> 

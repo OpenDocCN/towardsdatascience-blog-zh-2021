@@ -14,11 +14,7 @@ Juja Han 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referr
 
 幸运的是，科技拯救了我们。播客可以成为新信息、新研究成果、甚至熟悉该领域新名字的金矿。当你已经在做其他事情的时候，播客提供了一个学习新事物的好方法。通勤上班，在健身房锻炼，跑步，烹饪和许多其他活动，你可以使用播客来充分利用你的时间。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 播客可以通过不同的应用程序或提供商获得，也许最著名的是 Spotify、苹果播客、Pocketcasts，甚至是浏览器。无论你使用哪一个，你都会发现我们将在本文中讨论的所有播客。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 如果你正在寻找一个讨论研究主题、进入数据科学、在数据科学中找工作、该领域的深入技术方面的播客，或者你只是好奇想听听其他人在数据科学领域的旅程并学习他们的见解，这个播客就是为你准备的。SuperDataScience 播客几乎每 3 天就有一集新内容。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 # №2:数据科学中的女性
 
@@ -48,11 +40,7 @@ towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e
 
 家庭数据科学讨论了不同数据科学分支的最新发现和进展，包括机器学习、人工智能和许多其他分支。每集采访一个或多个在该领域有影响力的研究人员，谈论他们的工作，让每个人都了解最新情况。
 
-[](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) [## 您现在可以开始学习的 5 门在线数据科学课程
-
-### 在家舒适地学习数据科学的所有基础知识。
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) 
+</5-online-data-science-courses-you-can-start-now-748e4a2b5403>  
 
 # №4:数据故事
 
@@ -66,11 +54,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2
 
 该播客与专家、研究人员、学生和爱好者讨论了不同的机器学习主题、深度学习、人工智能等。这些讨论集中于这些技术的实际实现和应用，而不仅仅是它们的理论。如果你想知道各种技术在实际应用中的最新用法，这个播客就是为你准备的。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 # №6:走向数据科学
 
@@ -84,11 +68,7 @@ TDS 播客定期采访数据科学领域的一些杰出作家，讨论数据科�
 
 通勤时间是我们都必须在不同程度上处理的事情；有些人通勤时间短，有些人通勤时间长，但尽管如此，我们都有一些通勤时间。COVID 让我很难跟上我的播客和有声读物，因为我们都一直被困在家里。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 但是，当我打扫卫生、做饭或烘烤食物时，我仍然会听我的播客。播客总是给我提供一个很好的机会来学习新的东西，而不必把我的时间完全投入到这些任务中。它们帮助我变得更有效率，保持思维敏捷。
 

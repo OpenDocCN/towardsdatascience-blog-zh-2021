@@ -385,34 +385,18 @@ print(classification_report(labels,predictions))
 
 ## 链接到 Google Colab
 
-[](https://colab.research.google.com/drive/1QNKn117M7erJZvJ2BruubTxPKtmrvNM1?authuser=1#scrollTo=ehuf7RJm-PWv) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1QNKn117M7erJZvJ2BruubTxPKtmrvNM1?authuser=1#scrollTo=ehuf7RJm-PWv) 
+<https://colab.research.google.com/drive/1QNKn117M7erJZvJ2BruubTxPKtmrvNM1?authuser=1#scrollTo=ehuf7RJm-PWv>  
 
 我最近用 WordPress 创建了一个博客，如果你能看看的话，我会很高兴的😃
 
- [## Python 项目教程-使用这些 Python 项目教程改进您的简历/作品集。
-
-### 使用 Streamlit 共享部署您的机器学习 Web 应用程序在我以前的文章中，我谈到过构建一个…
-
-realpythonproject.com](https://realpythonproject.com/) 
+  
 
 查看我的关于偏差、方差以及它们如何与欠拟合、过拟合相关的教程
 
-[](/bias-variance-and-how-they-are-related-to-underfitting-overfitting-4809aed98b79) [## 偏差、方差以及它们与欠拟合、过拟合的关系
-
-### 我在学习一门课程时遇到了偏差、方差、欠拟合和过拟合这些术语。这些条款似乎令人望而生畏…
-
-towardsdatascience.com](/bias-variance-and-how-they-are-related-to-underfitting-overfitting-4809aed98b79) 
+</bias-variance-and-how-they-are-related-to-underfitting-overfitting-4809aed98b79>  
 
 在 LinkedIn 上与我联系
 
-[](https://www.linkedin.com/in/rahulbanerjee2699/) [## Rahul baner JEE——产品工程实习生——EY | LinkedIn
+<https://www.linkedin.com/in/rahulbanerjee2699/>  
 
-### 查看 Rahul Banerjee 在世界上最大的职业社区 LinkedIn 上的个人资料。拉胡尔有 4 个工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/rahulbanerjee2699/) 
-
-*原载于 2021 年 1 月 2 日 https://realpythonproject.com*[](https://realpythonproject.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices/)**。**
+*原载于 2021 年 1 月 2 日 https://realpythonproject.com*<https://realpythonproject.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices/>**。**

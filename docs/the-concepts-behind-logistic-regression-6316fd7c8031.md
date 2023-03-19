@@ -336,12 +336,8 @@ AUC = 1[图片由作者提供]
 
 感谢阅读！
 
-[](/line-of-best-fit-in-linear-regression-13658266fbc8) [## 线性回归中的最佳拟合线
-
-### 相关系数、决定系数、模型系数
-
-towardsdatascience.com](/line-of-best-fit-in-linear-regression-13658266fbc8) 
+</line-of-best-fit-in-linear-regression-13658266fbc8>  
 
 *关注此空间，了解更多关于 Python 和数据科学的文章。如果你喜欢看更多我的教程，就关注我的* [***中***](https://medium.com/@IndhumathyChelliah)[***LinkedIn***](https://www.linkedin.com/in/indhumathy-chelliah/)*[***推特***](https://twitter.com/IndhuChelliah) ***。****
 
-**点击此处成为中等会员:*[](https://indhumathychelliah.medium.com/membership)*
+**点击此处成为中等会员:*<https://indhumathychelliah.medium.com/membership>*

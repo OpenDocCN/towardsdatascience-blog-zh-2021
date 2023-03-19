@@ -24,11 +24,7 @@
 
 定量软件管理(QSM)做了一项研究，揭示了这一点。他们决定将团队分为小团队和大团队。一方面，他们有五人或更少的团队，另一方面有二十人或更多的团队。两个团队在日程安排上的差异通常是一个日历周。在更小的团队中也有更多的可变性。虽然拥有大量程序员的团队确实设法完成了更多的工作，但是每个成员的工作效率实际上都很低。这意味着他们的养老金远没有有效地用于满足项目的最后期限。更大的团队也不断地创造出更多有缺陷的软件。这两者都可以归结为沟通，持续与超过 20 个人沟通并协调好这么大的一个编程项目几乎是不可能的。如果您想了解有关该研究的更多信息，请点击此处:
 
-[](https://www.qsm.com/risk_02.html) [## 当你为了压缩日程而超额安排人员时，欲速则不达
-
-### 研究进度的压力经常迫使开发经理寻求压缩项目时间表的策略…
-
-www.qsm.com](https://www.qsm.com/risk_02.html) 
+<https://www.qsm.com/risk_02.html>  
 
 # 误区 2:编程语言的选择无关紧要
 
@@ -48,11 +44,7 @@ www.qsm.com](https://www.qsm.com/risk_02.html)
 
 微软做了一个实验，他们开始给工程师更多的休息日。他们没有给员工仅仅两天的周末，而是决定给他们三天，每周工作四天。这产生了一些有趣的结果，因为工程师们在此期间的工作效率比以往任何时候都要高。他们甚至在四天内完成了比平时更多的工作！如果你想了解更多，这里有一篇来自 Business Insider 的文章:
 
-[](https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11#:~:text=Microsoft%20experimented%20with%20a%204,and%20productivity%20jumped%20by%2040%25&text=Microsoft%20found%20that%20implementing%20a,Work%2DLife%20Choice%20Challenge.%22) [## 微软尝试了 4 天工作制，生产率提高了 40%
-
-### 微软发现实行四天工作制导致了 40%的生产力提升，该公司宣布作为…
-
-www.businessinsider.com](https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11#:~:text=Microsoft%20experimented%20with%20a%204,and%20productivity%20jumped%20by%2040%25&text=Microsoft%20found%20that%20implementing%20a,Work%2DLife%20Choice%20Challenge.%22) 
+<https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11#:~:text=Microsoft%20experimented%20with%20a%204,and%20productivity%20jumped%20by%2040%25&text=Microsoft%20found%20that%20implementing%20a,Work%2DLife%20Choice%20Challenge.%22>  
 
 # 误区 4:团队成功是基于经验的
 
@@ -62,11 +54,7 @@ www.businessinsider.com](https://www.businessinsider.com/microsoft-4-day-work-we
 
 当与一个团队一起工作时，适当的沟通总是产品推出的支柱。很多项目都以失败告终，因为团队不能很好地合作，我认为这是一个人在尝试做程序员之前应该注意的事情。如果你想了解贝尔宾在这方面的研究，你可以点击这里:
 
-[](https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know) [## 贝尔宾和项目亚里士多德-一切你需要知道的
-
-### 谷歌以亚里士多德的名字命名他们的项目，因为他有一句名言:“整体大于其总和…
-
-www.belbin.com](https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know) 
+<https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know>  
 
 # 结论
 

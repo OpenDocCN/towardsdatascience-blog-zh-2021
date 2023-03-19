@@ -64,12 +64,4 @@
 
 更多阅读请见下文:
 
-[](https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192) [## 什么是人工智能(AI)？
-
-### 人工智能(AI)的经典和现代定义
-
-pub.towardsai.net](https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192) [](/5-key-ai-problems-related-to-data-privacy-f39558290530) [## 与数据隐私相关的 5 个关键人工智能问题
-
-### 解决机器学习模型的问题将如何提高数据隐私合规性
-
-towardsdatascience.com](/5-key-ai-problems-related-to-data-privacy-f39558290530)
+<https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192>  </5-key-ai-problems-related-to-data-privacy-f39558290530> 

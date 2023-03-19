@@ -17,11 +17,7 @@
 
 *注意:如果你想了解概率的概念，在阅读这篇文章之前，我建议你先浏览一下下面这篇文章。]*
 
-[](/basic-probability-concepts-for-data-science-eb8e08c9ad92) [## 数据科学的基本概率概念
-
-### 概率有助于预测任何事件的未知结果
-
-towardsdatascience.com](/basic-probability-concepts-for-data-science-eb8e08c9ad92) 
+</basic-probability-concepts-for-data-science-eb8e08c9ad92>  
 
 ## ✪生成模型
 

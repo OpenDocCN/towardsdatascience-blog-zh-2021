@@ -12,7 +12,7 @@
 
 对大多数公司来说，数据是新的软件。
 
-像软件一样，数据是企业成功的基础。它需要“永不停机”，数据停机时间[](https://www.montecarlodata.com/the-rise-of-data-downtime/)**要像应用程序停机时间[五个九](https://en.wikipedia.org/wiki/Five_nines)一样认真对待，有人吗？).就像您的软件一样，遵守您团队的数据 SLA 对于保持您公司的竞争优势至关重要。**
+像软件一样，数据是企业成功的基础。它需要“永不停机”，数据停机时间<https://www.montecarlodata.com/the-rise-of-data-downtime/>**要像应用程序停机时间[五个九](https://en.wikipedia.org/wiki/Five_nines)一样认真对待，有人吗？).就像您的软件一样，遵守您团队的数据 SLA 对于保持您公司的竞争优势至关重要。**
 
 **虽然许多团队会使用他们应用于测试软件的准确性和可靠性的相同的可靠方法来测试他们的数据是有道理的，但是我们的行业正处于一个转折点:**仅仅进行数据测试是不够的。****
 

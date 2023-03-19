@@ -16,19 +16,7 @@
 
 在整篇文章中，我将使用 sklearn 库，因此拥有 sklearn 经验将是一个优势，但不是必需的。此外，对 Python 编程语言以及基本的数据科学/机器学习知识有相当好的理解是理解本文的先决条件。如果你还不知道这两个网站，你可以在我下面的主页上了解它们。我还将提到我为本文创建的 Kaggle 笔记本，它可以在下面列出的链接中找到。
 
-[](https://scikit-learn.org/) [## sci kit-学习
-
-### “我们使用 scikit-learn 来支持前沿基础研究[...]" "我认为这是我设计过的最棒的 ML 套装…
-
-scikit-learn.org](https://scikit-learn.org/) [](https://medium.com/@third_eye_cyborg) [## 丹·鲁特-中等
-
-### Anaconda 是科学 Python 包、工具、资源和 ide 的惊人集合。该包装包括许多…
-
-medium.com](https://medium.com/@third_eye_cyborg)  [## 房价 RFE 和 PCA
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用房价数据-高级回归…
-
-www.kaggle.com](https://www.kaggle.com/thirdeyecyborg/house-price-rfe-pca) 
+<https://scikit-learn.org/>  <https://medium.com/@third_eye_cyborg>    
 
 **数据集引用:**
 
@@ -42,11 +30,7 @@ Dean De Cock (2011)爱荷华州埃姆斯:波士顿住房数据作为期末回归
 
 简而言之，高维数据是带有许多特征的数据。如果数据有十个以上的特征，通常被认为是高维的。这些数据集有时会降低您的模型性能，并耗费您宝贵的计算/内存资源。对整个模型没有任何价值的特征也会增加噪音，使模型更难以最佳方式运行。为了解决这个问题，人们开发了许多工具来帮助解决这个问题。其中一些工具我将简单介绍一下。我们将使用 RFE(递归特征消除)模型删除特征行，并在 Kaggle 数据集上使用 PCA(主成分分析)模型选择关键特征，以提供一些常用工具的清晰度，帮助降低数据维数，同时保持模型的性能和准确性。我将在 XGBoost 回归模型上进行这项工作，但是也可以随意使用这些工作流来减少其他模型类型上的数据维数。之后，我会将我们的模型提交给 [***Kaggle 竞争房价——高级回归技术。***](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
- [## XGBoost 文档-XGBoost 1 . 5 . 0-开发文档
-
-### XGBoost 是一个优化的分布式梯度增强库，旨在高效、灵活和可移植…
-
-xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/latest/index.html#) 
+  
 
 理解特征约简(RFE)和特征选择(PCA)不同于特征提取是非常重要的。特征提取试图从现有特征中创建新的有意义的特征，而特征缩减试图通过丢弃对整体模型精度或性能不重要的特征数据的列或行来减少特征的数量。而特征选择试图找到属于数据的最关键特征，当涉及目标变量预测时，该数据解释了模型的大部分准确性或性能。找到这些较少的关键特征听起来可能很容易，但可能相当复杂。第一种可进行的要素缩减是通过任意丢弃您认为对模型整体精度不重要的要素来缩减要素。当某个要素的值很明显时，这种要素约简方法会很有用，但在更复杂的数据集上就没那么有用了。
 
@@ -65,11 +49,7 @@ output:
 
 # 递归特征消除
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html) [## sklearn.feature_selection。RFE-sci kit-学习 0.24.2 文档
-
-### 递归特征消除的特征排序。给定一个为特征分配权重的外部估计器(例如…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html>  
 
 顾名思义，RFE 模型本质上是递归的。他们试图通过用所有原始特征训练一个估计器，然后用较少的特征重新训练来减少特征。它重复这个过程，直到找到最佳数量的特征。这种类型的特征约简很受欢迎，因为它实现起来非常简单和有效。RFE 模型的应用可以远远超出本教程所涵盖的内容，因为这只是一个初学者的基本例子。
 
@@ -87,11 +67,7 @@ output:
 
 # 主成分分析
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) [## sk learn . decomposition . PCA-sci kit-learn 0 . 24 . 2 文档
-
-### 主成分分析。使用数据的奇异值分解进行线性降维…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html>  
 
 PCA 模型试图选择最佳的关键特征。首先创建一个模型，然后用它进行拟合和预测。请注意申请是多么简单。此外，PCA 模型被认为速度更快。同样，存在更复杂的 PCA 架构，应予以考虑。我总是建议好好阅读这些文件。
 

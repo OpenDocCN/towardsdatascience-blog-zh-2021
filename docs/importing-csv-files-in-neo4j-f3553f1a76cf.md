@@ -45,29 +45,17 @@ Neo4j 接收数据最简单的格式是 CSV。关于如何填充数据库的网�
 
 对于数据集，我将使用流行的*权力的游戏*图来演示数据加载，该图可从 Andrew Beveridge 维护的[知识库](https://github.com/mathbeveridge/gameofthrones)中获得。
 
-[](https://github.com/mathbeveridge/gameofthrones) [## mathbeveridge/gameoftrones
-
-### HBO 连续剧《权力的游戏》的角色互动网络这些网络是通过解析…
-
-github.com](https://github.com/mathbeveridge/gameofthrones) 
+<https://github.com/mathbeveridge/gameofthrones>  
 
 使用该图作为演练的一个原因是数据被很好地格式化并且相当干净— *您将发现在加载数据时属性非常有用*！尽管如此，随着我们继续进行下去，我们将不得不做一些数据清理和重新格式化，但这些都不是太重要。
 
-[](https://networkofthrones.wordpress.com/) [## 权力的网络
-
-### 我已经添加了第八季的网络分析。就像故事情节一样，随着角色们把他们的…
-
-networkofthrones.wordpress.com](https://networkofthrones.wordpress.com/) 
+<https://networkofthrones.wordpress.com/>  
 
 > 说到清理数据集，请注意在其中一个文件名中存在拼写错误或命名约定不一致。你会看到第五季节点文件被命名为`got-s5-node.csv`，而不是我们期望的`got-s5-nodes.csv`的模式。
 
 最后，我假设读者对 Cypher 有些熟悉。如果这不是你目前拥有的技能，我强烈推荐 Neo4j 网站上的在线[密码教程](https://neo4j.com/graphacademy/training-intro-40/enrollment/)(esp。关于创建数据的部分)。特别是，如果你刚刚开始学习密码，我可能会建议你查看一下`[LOAD CSV](https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/)`、`[MERGE](https://neo4j.com/docs/cypher-manual/current/clauses/merge/)`、`[MATCH](https://neo4j.com/docs/cypher-manual/current/clauses/match/)`、`[SET](https://neo4j.com/docs/cypher-manual/current/clauses/set/)`和`[PERIODIC COMMIT](https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/#load-csv-importing-large-amounts-of-data)`的文档，我们将在下面使用这些文档。
 
-[](https://neo4j.com/graphacademy/training-intro-40/enrollment/) [## Neo4j 4.x 系列简介-Neo4j 4 . x 系列简介
-
-### “Neo4j 4.0 简介”课程已被我们建议您按以下顺序学习的课程所取代:如果…
-
-neo4j.com](https://neo4j.com/graphacademy/training-intro-40/enrollment/) 
+<https://neo4j.com/graphacademy/training-intro-40/enrollment/>  
 
 # 码头集装箱
 
@@ -111,11 +99,7 @@ Neo4j 浏览器 UI
 
 `LOAD CSV`命令是将数据存入数据库的最简单的方法之一。这是一个 Cypher 命令，通常可以通过 Neo4j UI 运行。然而，它也可以通过 Python 连接器(或者您选择的语言的连接器)传入。对于另一篇博文，我们将通过 Python 保存与数据库的接口。
 
-[](https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/) [## 加载 CSV - Neo4j 密码手册
-
-### CSV 文件的 URL 是通过使用 FROM 后跟一个任意表达式来指定的，该表达式计算出…中的 URL
-
-neo4j.com](https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/) 
+<https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/>  
 
 如果您有一个“小”图，这种方法非常好。但是什么构成了小呢？一个很好的经验法则是，如果你的节点和边少于 100，000 个，而*权力的游戏*图确实有，那么这是一个很好的选择。但是，这并不是最快的方法(就像批量加载器一样)，所以如果您的图形有点大，您可能需要考虑切换到其他加载方法。
 
@@ -191,7 +175,7 @@ Neo4j UI 中所有季节的《权力的游戏》图表
 
 有许多可视化选项，有兴趣的读者可以参考[列表](https://neo4j.com/developer/tools-graph-visualization/)中的选项。
 
-[](https://neo4j.com/developer/tools-graph-visualization/) [## 图形可视化工具-开发人员指南
+<https://neo4j.com/developer/tools-graph-visualization/> [## 图形可视化工具-开发人员指南
 
 neo4j.com](https://neo4j.com/developer/tools-graph-visualization/) 
 
@@ -242,21 +226,13 @@ NED,VARYS,96,SEASON1
 
 有很多选项可以用于这种格式…太多了，这篇文章无法一一介绍。鼓励有兴趣的读者阅读这种格式的文档，可以在[这里](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/)找到。
 
-[](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/) [## Neo4j 管理导入-操作手册
-
-### 本教程提供了详细的示例来说明使用…从 CSV 文件导入数据的功能
-
-neo4j.com](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/) 
+<https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/>  
 
 ## 使用导入工具
 
 在摄取大量数据的情况下，Neo4j 提供了一个用于摄取大量数据的命令行工具:`neo4j-admin import`，可以在容器内部的`/var/lib/neo4j/bin/neo4j-admin`处找到。
 
-[](https://neo4j.com/docs/operations-manual/current/tools/neo4j-admin/) [## Neo4j 管理-操作手册
-
-### Neo4j Admin 是管理 Neo4j 实例的主要工具。它是一个命令行工具，作为…
-
-neo4j.com](https://neo4j.com/docs/operations-manual/current/tools/neo4j-admin/) 
+<https://neo4j.com/docs/operations-manual/current/tools/neo4j-admin/>  
 
 这个工具的问题是，当数据库(至少在 Neo4j Community Edition 中)正在运行时，您不能实际使用它来创建图表。数据库必须首先关闭，这给我们的 Docker 容器带来了一点问题。在这种情况下，我们将从数据库尚未运行的新容器开始。
 
@@ -291,11 +267,7 @@ docker run \
 
 如果你正在寻找下一步如何实际做一些与图形数据科学相关的事情，请查看我在[如何开始使用 Neo4j](/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) 的图形数据科学库的帖子。
 
-[](/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) [## 如何开始使用 Neo4j 的新图形数据科学库
-
-### Neo4j 中图形数据科学管理方式的巨大变化带来了巨大的机遇
-
-towardsdatascience.com](/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) 
+</how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b>  
 
 *特别感谢 Mark Needham 在一些查询调优方面的帮助！*
 

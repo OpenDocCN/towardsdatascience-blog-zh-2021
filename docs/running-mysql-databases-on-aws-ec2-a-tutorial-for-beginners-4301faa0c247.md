@@ -18,19 +18,11 @@
 
 首先，我们需要一个 AWS 帐户。您可以在几分钟内免费设置一个 AWS 帐户。
 
-[](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) [## AWS 自由层
-
-### 免费体验 AWS 平台、产品和服务。探索超过 85 种产品并开始…
-
-aws.amazon.com](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) 
+<https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc>  
 
 本文更详细地解释了这些步骤。
 
-[](https://dan852.medium.com/how-to-create-an-amazon-aws-free-tier-account-e4cc099a8e94) [## 如何创建亚马逊 AWS 自由层账户
-
-### 亚马逊 AWS 免费层
-
-帐户亚马逊 AWS 免费 Tierdan852.medium.com](https://dan852.medium.com/how-to-create-an-amazon-aws-free-tier-account-e4cc099a8e94) 
+<https://dan852.medium.com/how-to-create-an-amazon-aws-free-tier-account-e4cc099a8e94>  
 
 创建您的免费 AWS 帐户并登录后，单击服务(在 AWS 徽标旁边)，并从列表中选择“EC2”(即代表亚马逊弹性计算云，这是一种对云计算机的花哨说法)。
 

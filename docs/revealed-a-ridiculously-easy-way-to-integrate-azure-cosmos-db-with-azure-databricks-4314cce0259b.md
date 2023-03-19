@@ -190,19 +190,11 @@ Azure Cosmos DB 和 Azure Databricks 是微软的旗舰服务，结合在一起�
 
 如需方便的 Spark 备忘单，请查看:
 
-[](/spark-essentials-how-to-read-and-write-data-with-pyspark-5c45e29227cd) [## Spark Essentials —如何使用 PySpark 读写数据
-
-### 不仅仅是一张小抄
-
-towardsdatascience.com](/spark-essentials-how-to-read-and-write-data-with-pyspark-5c45e29227cd) 
+</spark-essentials-how-to-read-and-write-data-with-pyspark-5c45e29227cd>  
 
 有关 SQL 的基本介绍，请参阅:
 
-[](https://medium.com/better-programming/absolute-beginners-guide-to-sql-601aad53f6c9) [## SQL 初学者绝对指南
-
-### 只需 10 分钟就能学会 SQL 的绝对基础知识
-
-medium.com](https://medium.com/better-programming/absolute-beginners-guide-to-sql-601aad53f6c9) 
+<https://medium.com/better-programming/absolute-beginners-guide-to-sql-601aad53f6c9>  
 
 # 参考
 

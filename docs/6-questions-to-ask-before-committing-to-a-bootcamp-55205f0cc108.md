@@ -123,8 +123,4 @@
 
 对于任何道路来说，学习 Python 都是很好的第一步。要获得学习 Python 的资源，请查看 javinpaul 的文章:
 
-[](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 2021 年学习 Python 的 10 大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-better 编程. pub](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)
+<https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec> 

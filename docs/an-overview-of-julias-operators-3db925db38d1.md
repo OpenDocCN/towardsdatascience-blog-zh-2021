@@ -266,11 +266,7 @@ x <: y
 
 我们可以假设这个操作符的意思是“是的子类型。”如果您想了解更多关于 Julia 中子类型的一般概念，以及这个操作符在 Julia 类型层次结构中的用法，我写了一整篇文章，您可以在这里查看:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 # 结论
 

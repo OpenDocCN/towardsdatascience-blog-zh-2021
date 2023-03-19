@@ -59,16 +59,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [## 为什么 2021 年你需要一位数据科学导师
-
-### 问导师的 5 件事对你的职业和学习有帮助
-
-towardsdatascience.com](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6) [## 数百份工作申请后的五大经验教训
-
-### 看看在我找工作的过程中，哪些变化对我有帮助
-
-towardsdatascience.com](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6) [](/find-simple-solutions-to-the-feedback-you-are-receiving-660a310fe188) [## 为您收到的反馈找到简单的解决方案
-
-### 让您的远程数据科学团队感觉不那么孤立的三种方法
-
-towardsdatascience.com](/find-simple-solutions-to-the-feedback-you-are-receiving-660a310fe188)
+</why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7>  </top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6>  </find-simple-solutions-to-the-feedback-you-are-receiving-660a310fe188> 

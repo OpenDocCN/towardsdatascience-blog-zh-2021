@@ -23,7 +23,7 @@ Airflow 是 apache 孵化的项目，已经存在了相当长的时间。随着�
 
 阅读文章下方关于气流的更多信息。它将显示设置和创建
 
-[](/under-appreciated-workflow-tool-airflow-a078a3c71a67) [## 不受重视的工作流程工具——气流
+</under-appreciated-workflow-tool-airflow-a078a3c71a67> [## 不受重视的工作流程工具——气流
 
 towardsdatascience.com](/under-appreciated-workflow-tool-airflow-a078a3c71a67) 
 

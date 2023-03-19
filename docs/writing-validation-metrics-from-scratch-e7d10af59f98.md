@@ -93,7 +93,7 @@ def r(x, y):
 
 虽然我们可以写一个函数来做 r，并在那里计算所有这些，但把它写成一个单独的函数更有意义。我说过一次，我还要再说一次，更多的方法意味着更好的代码！如果你想了解更多关于我如何使用提取和命名方法来改进我的软件，我写了一整篇文章。这篇文章链接在另一篇文章中，我也将让您眼花缭乱，这篇文章提供了一些更好的重构方法来使您的代码更好:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 
@@ -169,7 +169,7 @@ def categorical_acc(y, ŷ):
 
 对于循环，我将使用 zip()迭代器来同时遍历我们的两个数组。如果您想阅读关于这个迭代器的更多细节，它的细微差别，以及如何使用它，您可以随意查看我的另一篇文章，在这篇文章中，我详细讨论了 zip ():
 
-[](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) [## 关于 Python 中的 Zip，您需要了解的一切
+</everything-you-need-to-know-about-zip-in-python-5da1416f3626> [## 关于 Python 中的 Zip，您需要了解的一切
 
 towardsdatascience.com](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) 
 

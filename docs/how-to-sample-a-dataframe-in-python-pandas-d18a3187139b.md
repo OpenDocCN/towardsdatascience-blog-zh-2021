@@ -165,16 +165,4 @@ remaining = df[~df.index.isin(subset.index)]
 
 # 相关文章
 
-[](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) [## Python Pandas 中的数据预处理—第 6 部分删除重复项
-
-### 使用 Python 熊猫库删除重复项的快速教程。
-
-towardsdatascience.com](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) [](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](/data-preprocessing-with-scikit-learn-missing-values-8dff2c266db) [## 使用 scikit-learn 进行数据预处理—缺失值
-
-### 在本教程中，我演示了如何使用 scikit-learn 预处理数据，这是一个用于机器学习的 Python 库。
-
-towardsdatascience.com](/data-preprocessing-with-scikit-learn-missing-values-8dff2c266db)
+</data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6>  </how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  </data-preprocessing-with-scikit-learn-missing-values-8dff2c266db> 

@@ -46,7 +46,7 @@ from pyspark.sql import SparkSessionspark = SparkSession.Builder().getOrCreate()
 
 # 组合数据集
 
-Pandas 中合并数据集的默认函数是[](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)****()，**，它合并一列或多列上的数据集。就连 Pandas **join()** 函数也使用 merge 与一个索引列相结合。评级、用户和电影都在这个代码片段中，它们共享各自的列，所以我们可以调用合并函数。在名称不匹配的情况下，我们需要使用 join()来代替。**
+Pandas 中合并数据集的默认函数是<https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html>****()，**，它合并一列或多列上的数据集。就连 Pandas **join()** 函数也使用 merge 与一个索引列相结合。评级、用户和电影都在这个代码片段中，它们共享各自的列，所以我们可以调用合并函数。在名称不匹配的情况下，我们需要使用 join()来代替。**
 
 ```
 # Pandas

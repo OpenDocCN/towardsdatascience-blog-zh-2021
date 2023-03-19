@@ -68,11 +68,7 @@
 
 现在，您已经从原始建模数据集创建了训练和测试集，您可能还需要执行进一步的预处理步骤，如缩放或归一化。这样做时必须小心，因为您需要避免将未来的信息引入到培训集中。这意味着某些动作需要首先应用于训练集，然后使用从该步骤中学习的参数，以便也将它们应用于测试集。有关此主题的更全面解释，请阅读下面的文章。
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简单地说，就是特征缩放和归一化
-
-### 为什么、如何以及何时重新扩展功能
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) 
+</feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  
 
 # 结论
 

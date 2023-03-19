@@ -140,11 +140,7 @@ $ tap-salesforce --config config.json --properties properties.json | target-csv 
 
 您可以在 Jupyter 笔记本中直接阅读这一部分(随意复制并尝试您自己的转换)。
 
-[](https://github.com/hotgluexyz/recipes/blob/master/src/salesforce.ipynb) [## hotgluexyz/食谱
-
-### 用 Python - hotgluexyz/recipes 编写 ETL 转换脚本的简单示例
-
-github.com](https://github.com/hotgluexyz/recipes/blob/master/src/salesforce.ipynb) 
+<https://github.com/hotgluexyz/recipes/blob/master/src/salesforce.ipynb>  
 
 ## 看数据
 

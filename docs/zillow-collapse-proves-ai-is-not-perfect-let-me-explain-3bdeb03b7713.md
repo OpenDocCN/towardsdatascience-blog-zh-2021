@@ -26,21 +26,13 @@ Zillow 的房屋交易部门在他们承认他们的房价预测算法(也称为
 
 由于其他挑战，您可能无法使用人工智能为商业案例创造价值。你可以阅读下面的文章，了解如何评估在商业案例中使用人工智能的可行性。
 
-[](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23) [## 如果你考虑在你的业务中使用人工智能，请阅读这篇文章。
-
-### 期望-复杂性框架来评估人工智能在你的企业中的可行性
-
-medium.com](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23) 
+<https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23>  
 
 # —系综，先是神经网络，后来。
 
 集成方法在需要快速结果和持续改进的行业中非常有用，例如在开发的早期。当你展示人工智能如何为企业创造价值时，必须使用更复杂、性能更高的方法，如神经网络。我听说过一些失败的故事，高管们在早期要求开发神经网络模型，而人工智能模型的价值尚未得到证明。**坚持在早期建立神经网络模型会增加团队失败的几率。**为什么？主要是因为很难对他们进行适当的培训，或者公司内部还不了解人工智能引擎的价值(不考虑实现技术)。要阅读另一个关于系综模特的成功故事，你可以阅读下面的文章。
 
-[](/the-story-of-an-ensemble-classifier-acquired-by-facebook-53eeaa5b5a97) [## 脸书获得集成分类器的故事
-
-### 以及设计您自己的集成分类器的一些见解
-
-towardsdatascience.com](/the-story-of-an-ensemble-classifier-acquired-by-facebook-53eeaa5b5a97) 
+</the-story-of-an-ensemble-classifier-acquired-by-facebook-53eeaa5b5a97>  
 
 Zestimate 是预测房价的 Zillow 算法，最初由大约 1000 个模型组成。你现在不奇怪了！在他们能够用他们的人工智能算法创造价值后，他们转向神经网络模型。新方法将算法误差减少了约 10%,同时为更频繁地更新模型创造了机会。Zillow 的数据科学团队甚至已经开始探索其他人工智能技术，如文档理解或自然语言处理，直到它们因疫情而失败。最后一点是，当问题由于大数据漂移而变得无法解决时，无论您使用什么技术都无关紧要。这不仅仅是可解的！
 
@@ -60,8 +52,4 @@ Zestimate 是预测房价的 Zillow 算法，最初由大约 1000 个模型组�
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

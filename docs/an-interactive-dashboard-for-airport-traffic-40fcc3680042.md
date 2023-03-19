@@ -82,7 +82,7 @@ Column names with missing data: None
 
 **如何部署应用程序不在本文讨论范围内，但是有许多关于如何部署的教程[2]。**
 
-**要访问仪表盘，请点击此处:[](https://active-airport.herokuapp.com/)**
+**要访问仪表盘，请点击此处:<https://active-airport.herokuapp.com/>**
 
 # ****图表****
 

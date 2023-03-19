@@ -22,11 +22,7 @@
 
 在之前的一篇文章中，我讨论了让你的商业实验失败的 8 个常见错误。如果你没有机会，请看看。
 
-[](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) 
+</online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  
 
 今天的帖子分享了在个人层面上简单的 A/B 测试导致有偏见的估计并可能导致错误决策的场景。更重要的是，它讨论了大型科技公司(Lyft、LinkedIn 和 Doordash)解决这一问题的三种策略。
 
@@ -74,15 +70,7 @@ towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solu
 
 *延伸阅读:*
 
-[](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) [## 拼车市场的实验
-
-### 第 1 部分，共 3 部分:网络间的干扰
-
-eng.lyft.com](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) [](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) [## 网飞的准实验
-
-### 科林·麦克法兰，迈克尔·鲍威尔，朱莉娅·格里克
-
-netflixtechblog.com](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) 
+<https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e>  <https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362>  
 
 ## 解决方案 2:自我-集群随机化
 
@@ -106,15 +94,7 @@ LinkedIn 提出了一种新的策略，称为自我-聚类随机化，它将一�
 
 代价是它需要一个高度专业化的工程团队，这是许多公司所缺乏的。
 
-[](https://arxiv.org/abs/1903.08755) [## 在 LinkedIn 使用自我聚类测量网络效应
-
-### 当一个新特性不仅影响到接受它的人，而且影响到其他人时，网络效应就产生了
-
-arxiv.org](https://arxiv.org/abs/1903.08755) [](https://www.unofficialgoogledatascience.com/2018/01/designing-ab-tests-in-collaboration.html) [## 在协作网络中设计 A/B 测试
-
-### 在这篇文章中，我们讨论了一种在网络中设计实验的方法。特别是，我们…
-
-www.unofficialgoogledatascience.com](https://www.unofficialgoogledatascience.com/2018/01/designing-ab-tests-in-collaboration.html) 
+<https://arxiv.org/abs/1903.08755>  <https://www.unofficialgoogledatascience.com/2018/01/designing-ab-tests-in-collaboration.html>  
 
 ## **解决方案 3:转回设计**
 
@@ -142,19 +122,7 @@ www.unofficialgoogledatascience.com](https://www.unofficialgoogledatascience.com
 
 *延伸阅读:*
 
-[](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) [## 通过聚类稳健标准误差分析转回实验以防止假阳性结果…
-
-### 在 DoorDash 的调度团队中，我们每天都在做出决策和迭代，从业务…
-
-doordash 工程](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) [](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a) [## DoorDash 网络效应下的转回测试和随机实验
-
-### 数据科学家 David Kastelman 和机器学习工程师 Raghav Ramesh
-
-medium.com](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a) [](https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/) [## 通过使用预测作为协变量(CUPAC)的控制来提高实验能力
-
-### 在这篇文章中，我们介绍了一种方法，我们称之为 CUPAC(控制使用预测作为协变量),我们成功地…
-
-doordash 工程](https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/) 
+<https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/>  <https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a>  <https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/>  
 
 # 外卖食品
 
@@ -165,11 +133,7 @@ doordash 工程](https://doordash.engineering/2020/06/08/improving-experimental-
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 参考
 

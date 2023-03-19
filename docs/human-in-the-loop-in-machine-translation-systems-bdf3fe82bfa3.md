@@ -66,24 +66,8 @@
 
 在本文中，我们已经了解了使用众包对机器翻译系统进行人工评估的不同方法。更多详情，请观看玛利亚·什马托娃的[演讲](https://www.youtube.com/watch?v=PYLlR25on4Q&t=1076s)，了解她的团队在 Yandex 翻译公司是如何做的。此外，如果你想了解更多关于如何自动化模型评估过程，你可以加入这个数据授权的[社区](https://tolokacommunity.slack.com/join/shared_invite/zt-sxr745fr-dvfZffzvQTwNXOE0gEqysg#/shared-invite/email)。
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/moderation-pipeline-for-user-generated-content-59e7f3c320e0) [## 用户生成内容的审核渠道
-
-### 欧洲科技巨头如何利用 Toloka 的人群来调节其内容
-
-towardsdatascience.com](/moderation-pipeline-for-user-generated-content-59e7f3c320e0) [](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c) [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [## 如何成功将大型数据集添加到 Google Drive
-
-### 并在谷歌实验室中使用它们…
-
-towardsdatascience.com](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [## 关于 jupyter 笔记本你不知道的 9 件事
-
-### 用这些建议提高你的工作效率
-
-towardsdatascience.com](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)*
+*</moderation-pipeline-for-user-generated-content-59e7f3c320e0>  </jupyter-notebook-autocompletion-f291008c66c>  </how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a>  </9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3> *

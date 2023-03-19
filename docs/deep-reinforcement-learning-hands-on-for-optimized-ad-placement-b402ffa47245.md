@@ -172,22 +172,6 @@ def train(env, epochs=5000, learning_rate=1e-2):
 
 请在下面找到我关于各种数据科学主题的其他文章的链接
 
-[](https://nandakishorej8.medium.com/multivariate-timeseries-forecast-with-lead-and-lag-timesteps-using-lstm-1a34915f08a) [## 基于 LSTM 的超前滞后时间步长多元时间序列预测
-
-### 为什么是多变量？它如何帮助做出更好的预测？
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/multivariate-timeseries-forecast-with-lead-and-lag-timesteps-using-lstm-1a34915f08a) [](https://nandakishorej8.medium.com/realtime-2d-yoga-pose-estimation-with-code-walk-through-cfd69262d356) [## 实时 2D 瑜伽姿势估计与代码走查
-
-### 在线瑜伽课程是最新的趋势，也是疫情当前形势下的选择。教师不在…
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/realtime-2d-yoga-pose-estimation-with-code-walk-through-cfd69262d356) [](https://nandakishorej8.medium.com/auto-tuning-multiple-timeseries-sarimax-model-with-a-case-study-and-detailed-code-explanation-c136293b8457) [## 自动调优多时间序列 SARIMAX 模型——案例研究和详细的代码解释
-
-### 作为一名数据科学家，我了解到没有一个 ML 模型可以完成一个项目。特别是当试图…
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/auto-tuning-multiple-timeseries-sarimax-model-with-a-case-study-and-detailed-code-explanation-c136293b8457) [](https://nandakishorej8.medium.com/introduction-to-pytorch-lightning-framework-for-enlightning-research-fe953bbea03b) [## PYTORCH LIGHTNING 简介——启发性研究框架
-
-### 我们知道，民主是一个民有、民治、民享的政府，其核心是…
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/introduction-to-pytorch-lightning-framework-for-enlightning-research-fe953bbea03b) 
+<https://nandakishorej8.medium.com/multivariate-timeseries-forecast-with-lead-and-lag-timesteps-using-lstm-1a34915f08a>  <https://nandakishorej8.medium.com/realtime-2d-yoga-pose-estimation-with-code-walk-through-cfd69262d356>  <https://nandakishorej8.medium.com/auto-tuning-multiple-timeseries-sarimax-model-with-a-case-study-and-detailed-code-explanation-c136293b8457>  <https://nandakishorej8.medium.com/introduction-to-pytorch-lightning-framework-for-enlightning-research-fe953bbea03b>  
 
 非常欢迎反馈。你可以在 [LinkedIn](https://www.linkedin.com/in/nanda-kishore-joshi/) 上联系我

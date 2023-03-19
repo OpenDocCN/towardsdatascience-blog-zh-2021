@@ -112,11 +112,7 @@ fig
 
 *如果你喜欢这篇文章，并想继续无限制地阅读/学习这些和其他故事，考虑成为* [*中等会员*](https://cordmaur.medium.com/membership) *。你也可以在 https://cordmaur.carrd.co/*查看我的作品集。
 
-[](http://cordmaur.medium.com/membership) [## 通过我的推荐链接加入媒体-毛里西奥·科代罗
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cordmaur.medium.com](http://cordmaur.medium.com/membership) 
+<http://cordmaur.medium.com/membership>  
 
 # 参考
 

@@ -35,7 +35,7 @@
 
 ***2.1。多头关注***
 
-多头注意力是注意力机制的一个模块，它并行运行一个注意力模块若干次。因此，要理解它的逻辑，首先需要理解注意力模块。两个最常用的注意力函数是[](https://paperswithcode.com/method/additive-attention)*和 [*点积注意力*](https://paperswithcode.com/method/dot-product-attention) ，后者是本工作感兴趣的一个。*
+多头注意力是注意力机制的一个模块，它并行运行一个注意力模块若干次。因此，要理解它的逻辑，首先需要理解注意力模块。两个最常用的注意力函数是<https://paperswithcode.com/method/additive-attention>*和 [*点积注意力*](https://paperswithcode.com/method/dot-product-attention) ，后者是本工作感兴趣的一个。*
 
 *关注模块的基本结构是有两个向量列表 *x1* 和 *x2* ，一个是关注的，另一个是出席的。向量 *x2* 生成“查询”，而向量 *x1* 创建“键”和“值”。关注函数背后的思想是将查询和设置的键值对映射到输出。输出计算为值的加权和，其中分配给每个值的权重由查询与相应关键字的兼容性函数计算"T17 注意是您所需要的全部 T18"。输出计算如下:*
 

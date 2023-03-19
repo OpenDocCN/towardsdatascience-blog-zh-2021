@@ -39,11 +39,7 @@ Chip Huyen 在 LinkedIn[上的帖子](https://www.linkedin.com/posts/chiphuyen_m
 
 另一篇讨论这个话题的文章是不久前写的。建议你去看看。
 
-[](/5-reasons-why-im-learning-web-development-as-a-data-scientist-33bd61601b62) [## 作为一名数据科学家，我学习 Web 开发的 5 个原因
-
-### 还有，为什么你也应该。
-
-towardsdatascience.com](/5-reasons-why-im-learning-web-development-as-a-data-scientist-33bd61601b62) 
+</5-reasons-why-im-learning-web-development-as-a-data-scientist-33bd61601b62>  
 
 作为一名数据科学家，无论是在工作场所还是在互联网上，我都觉得自己交流工作的能力有限。报告、图表、幻灯片……无论你是一个多么优秀的沟通者，都很难超越移动响应界面的惊艳效果。
 
@@ -76,11 +72,7 @@ HTML 用于页面内容，CSS 用于样式，Javascript 用于交互。虽然我
 
 我对斯克林巴的团队感激不尽。自 2017 年以来，Scrimba 以互动和动手的方式为在线编码课程提供了一种创新的方法。
 
-[](https://scrimba.com) [## 通过交互式教程学习编码-Scrimba.com
-
-### 我们的目标是以最低的成本为学生创造最好的编码学校。如果我们成功了…
-
-scrimba.com](https://scrimba.com) 
+<https://scrimba.com>  
 
 我目前正在学习*前端开发人员职业道路*课程，该课程不需要任何先验知识，重点是训练你的编码肌肉记忆，而不是理论知识，因此可以让你很快取得切实的成果。
 
@@ -149,21 +141,13 @@ Flask 是一个最小的 Python 框架，满足了我的大部分需求。
 
 对于前端，我尝试使用一个 [nginx](https://hub.docker.com/_/nginx) 图像，将我想要提供的 HTML、CSS、Javascript 文件复制到这个图像中，效果非常好。更准确地说，是在`/usr/share/nginx/html`。您也可以选择在该位置装载卷。
 
-[](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/) [## 如何使用官方 NGINX Docker 图片- Docker 博客
-
-### NGINX 是世界上最流行的网络服务器之一。NGINX 不仅是一个快速可靠的静态 web 服务器，它…
-
-www.docker.com](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/) 
+<https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/>  
 
 这样，如果您启用了加密通信，您的网站将在端口 80 或 443 上提供服务。您的后端在端口 5000 上提供服务(默认的 flask 服务端口)。
 
 请注意，此时您可能会遇到与跨来源资源共享相关的问题( [CORS](https://www.notion.so/syltruong/Get-started-with-frontend-dev-as-a-data-scientist-36836bec0538444bafaf3906bb387a2d#fc0d4b4cac96429dab34089aea932224) )。这是因为您的`fetch`语句向源域(您的`index.html`文件所在的位置)之外的域发出了请求。在这种情况下，你可能想看看`flask-cors`。
 
- [## 烧瓶-CORS -烧瓶-Cors 3.0.10 文件
-
-### 这个包公开了一个 Flask 扩展，默认情况下，它在所有路由上启用 CORS 支持，用于所有来源和…
-
-flask-cors.readthedocs.io](https://flask-cors.readthedocs.io/en/latest/) 
+  
 
 ## 主办；主持
 
@@ -179,11 +163,7 @@ flask-cors.readthedocs.io](https://flask-cors.readthedocs.io/en/latest/)
 
 关于这个实例，我建议选择从 Ubuntu 上的“ **Docker”镜像中启动它，这个镜像随`docker-compose`一起安装。此外，您可能有兴趣遵循以下附加步骤(例如，创建具有 sudo 权限的非 root 用户):**
 
-[](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) [## 使用 Ubuntu 20.04 的初始服务器设置|数字海洋
-
-### 当你第一次创建一个新的 Ubuntu 20.04 服务器时，你应该执行一些重要的配置步骤作为…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) 
+<https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04>  
 
 ## 域名
 
@@ -191,11 +171,7 @@ www.digitalocean.com](https://www.digitalocean.com/community/tutorials/initial-s
 
 幸运的是，这个过程是有据可查的。你所需要做的就是从注册商那里购买域名并配置域名服务器。
 
-[](https://www.digitalocean.com/community/questions/how-do-i-set-a-domain-name) [## 我如何设置域名？数字海洋
-
-### 我对这个话题过于困惑，我只是想让人们通过一个可读的网址而不是一个 IP 地址来访问我的 droplet
-
-www.digitalocean.com](https://www.digitalocean.com/community/questions/how-do-i-set-a-domain-name) 
+<https://www.digitalocean.com/community/questions/how-do-i-set-a-domain-name>  
 
 # 6 |分享您的作品
 
@@ -205,11 +181,7 @@ www.digitalocean.com](https://www.digitalocean.com/community/questions/how-do-i-
 
 存储库演示了上面列出的要点。
 
-[](https://github.com/syltruong/explorehsk) [## syl Truong/explore hk
-
-### 我们的目标是使汉语学习者的词汇复习变得更容易，方法是根据语义…
-
-github.com](https://github.com/syltruong/explorehsk) 
+<https://github.com/syltruong/explorehsk>  
 
 # 带回家的信息
 

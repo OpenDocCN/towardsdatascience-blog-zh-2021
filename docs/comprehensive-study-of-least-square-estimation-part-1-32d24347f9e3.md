@@ -12,11 +12,7 @@ Lukasz Szmigiel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 它可以被建模为具有二次成本的 MMSE 估计量或贝叶斯估计量。我已经写了关于机器学习和信号处理中使用的各种估计器的综合文章。请查看以下文章了解更多信息。
 
-[](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) [## 机器学习和信号处理中的基本参数估计技术
-
-### 贝叶斯与频率主义参数估计
-
-towardsdatascience.com](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) 
+</essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0>  
 
 我还制作了一系列 YouTube 视频来更深入地了解各种评估技术。请查看并订阅我的 YouTube 频道了解更多信息。
 
@@ -126,11 +122,7 @@ r 是残差向量，其中 r 的每个分量对应于线性方程中的一个残
 
 我在“基本参数估计技术文章”中讨论了一般估计量的正交性原理，请参考以下参考资料了解更多信息
 
-[](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) [## 机器学习和信号处理中的基本参数估计技术
-
-### 贝叶斯与频率主义参数估计
-
-towardsdatascience.com](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) 
+</essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0>  
 
 但是这里我将在最小平方估计的上下文中引入正交性原理。
 **正交性原理说明残差与最优估计量正交。**
@@ -200,11 +192,7 @@ b 是我们想要估计的向量，r 是残差，Ax 是估计量。
 
 完成第一部分后，请务必查看第二和第三部分。第 2 部分讨论了多目标最小二乘法。第 3 部分讨论了约束最小二乘问题。
 
-[](/comprehensive-study-of-least-square-estimation-part-2-8a0b5549c1) [## 最小二乘估计的综合研究(下)
-
-towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-2-8a0b5549c1) [](/comprehensive-study-of-least-square-estimation-part-3-9ebefbbe8634) [## 最小二乘估计的综合研究(三)
-
-towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-3-9ebefbbe8634) 
+</comprehensive-study-of-least-square-estimation-part-2-8a0b5549c1>  
 
 ## 结论
 

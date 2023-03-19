@@ -299,12 +299,4 @@ QQ 情节
 
 快乐学习！
 
-[](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) [## 基于 R 中 K-均值聚类的客户细分
-
-### 强大的 k-means 算法初学者指南
-
-medium.com](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) [](/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048) [## 什么是特征缩放&为什么它在机器学习中很重要？
-
-### 最小最大分频器与标准分频器与鲁棒分频器
-
-towardsdatascience.com](/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048)
+<https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa>  </what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048> 

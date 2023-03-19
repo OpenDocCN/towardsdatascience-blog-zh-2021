@@ -358,18 +358,6 @@ wget [https://kg.diffbot.com/kg/dql_endpoint?token=your-tokenc&type=query&query=
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
+</pyvis-visualize-interactive-network-graphs-in-python-77e059791f01>  </how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c> [## 如何用 Excalidraw 勾画您的数据科学想法
 
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
-
-towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [## 可视化的 6 大 Python 库:使用哪一个？
-
-### 对使用哪种可视化工具感到困惑？我为你分析了每个图书馆的利弊
-
-towardsdatascience.com](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) [## 如何使用 Altair 创建多个图之间的绑定和条件
-
-### 使用绘图绑定从不同角度理解数据
-
-towardsdatascience.com](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37)
+towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) </top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658>  </how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37> 

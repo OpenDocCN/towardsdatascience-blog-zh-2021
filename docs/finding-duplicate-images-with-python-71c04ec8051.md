@@ -129,21 +129,13 @@ MSE 计算如下:
 
 Instead of pasting the full code here, I will share with you the link to my **GitHub 库**，我已经上传了[完全复制图像查找器(DIF)脚本](https://github.com/elisemercury/Duplicate-Image-Finder)。
 
-[](https://github.com/elisemercury/Duplicate-Image-Finder) [## Elise mercury/重复图像查找器
-
-### ✅重复图像查找器(DIF) Python 脚本自动为您完成这项任务！DIF 在一个…
-
-github.com](https://github.com/elisemercury/Duplicate-Image-Finder) 
+<https://github.com/elisemercury/Duplicate-Image-Finder>  
 
 # *** | 2021 年 10 月更新**
 
 DIF 现在也可以作为 **Python 包** *difPy* 供您通过 *pip* 安装程序进行安装。
 
-[](https://pypi.org/project/difPy/) [## difPy
-
-### 重复图像查找器(DIF)在文件夹中搜索图像，比较图像并检查这些图像是否重复。然后它输出…
-
-pypi.org](https://pypi.org/project/difPy/) 
+<https://pypi.org/project/difPy/>  
 
 您现在可以只使用`pip install difPy`并如下使用该库:
 

@@ -102,7 +102,7 @@
 
 一类更高级的度量标准旨在对人类视觉系统的假设进行建模或建立在这些假设的基础上(HVS):
 
-[](https://www4.comp.polyu.edu.hk/~cslzhang/IQA/TIP_IQA_FSIM.pdf)**:基于参考图像和失真图像之间的相位一致性是解释感知图像质量的有意义特征的假设。相位一致性模型表明，在傅立叶分量在相位上最大的点处感知特征。为了结合对比度信息，对视觉系统很重要的 FSIM 也依赖于图像的梯度图。有一篇非常好的[文章](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/OWENS/LECT7/node2.html)介绍了相位一致性是如何从头开始工作的。对于那些对使用 FSIM 作为损失函数感兴趣的人，请随意查看我的可微分 [pytorch 实现](https://github.com/mikhailiuk/pytorch-fsim)。**
+<https://www4.comp.polyu.edu.hk/~cslzhang/IQA/TIP_IQA_FSIM.pdf>**:基于参考图像和失真图像之间的相位一致性是解释感知图像质量的有意义特征的假设。相位一致性模型表明，在傅立叶分量在相位上最大的点处感知特征。为了结合对比度信息，对视觉系统很重要的 FSIM 也依赖于图像的梯度图。有一篇非常好的[文章](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/OWENS/LECT7/node2.html)介绍了相位一致性是如何从头开始工作的。对于那些对使用 FSIM 作为损失函数感兴趣的人，请随意查看我的可微分 [pytorch 实现](https://github.com/mikhailiuk/pytorch-fsim)。**
 
 **[**HDR-VDP**](http://hdrvdp.sourceforge.net/wiki/) :拥有一个非常复杂的多个组件模型，负责对人类视觉系统的不同部分进行建模。该模型的优势之一是它是一个白盒度量，每个组件都根据心理物理数据进行了仔细调整。该方法能够模拟不同观看条件下的质量，例如到屏幕的距离及其亮度。该模型的早期版本如下图所示:**
 
@@ -222,16 +222,4 @@
 
 **我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！**
 
-**[](/perceptual-losses-for-image-restoration-dd3c9de4113) [## 深度图像恢复的感知损失
-
-### 从均方误差到 GANs——什么是好的感知损失函数？
-
-towardsdatascience.com](/perceptual-losses-for-image-restoration-dd3c9de4113) [](/deep-video-inpainting-756e60ddcaaf) [## 深度视频修复
-
-### 用深度神经网络去除视频中不需要的对象。问题设置和最先进的审查。
-
-towardsdatascience.com](/deep-video-inpainting-756e60ddcaaf) [](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) [## 卷积神经网络——概要
-
-### 如何使用、何时使用以及提高性能的有用技巧
-
-towardsdatascience.com](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4)**
+**</perceptual-losses-for-image-restoration-dd3c9de4113>  </deep-video-inpainting-756e60ddcaaf>  </cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4> **

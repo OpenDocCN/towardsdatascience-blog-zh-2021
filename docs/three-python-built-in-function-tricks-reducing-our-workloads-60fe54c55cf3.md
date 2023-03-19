@@ -10,11 +10,7 @@
 
 在我之前的一篇博客中，我介绍了 Python functools 中的一个装饰器，它可以自动缓存递归函数和 web 请求的中间结果。我们需要做的只是在函数定义中添加一个装饰器。
 
-[](/you-should-never-repeat-computing-in-python-b097d57cf661) [## 你不应该在 Python 中重复计算
-
-### Python 中的内置函数工具帮助我们缓存
-
-towardsdatascience.com](/you-should-never-repeat-computing-in-python-b097d57cf661) 
+</you-should-never-repeat-computing-in-python-b097d57cf661>  
 
 在本文中，我将介绍 functools 模块中三个更有用的特性。所有这些都可以节省我们键入大量代码的时间，更重要的是，使我们的代码整洁，可读性更好。还是那句话，这些都是 Python 3.7 以上内置的，我们不需要下载任何东西。
 
@@ -220,10 +216,6 @@ greeting(['Alice', 'Bob', 'Chris'])
 
 在本文中，我介绍了 Python functools 模块中的三个函数工具。这些小技巧可能会减少我们的编码工作，或者提高它的可读性。必要时使用它们！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

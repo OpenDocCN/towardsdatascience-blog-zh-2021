@@ -142,23 +142,15 @@ Python 中的数据操作过程非常相似，唯一的区别是您可以使用 
 
 一如既往，我祝你学习一切顺利——下次再见！
 
-***这篇博客最初发布在 Census 的博客上，你可以在这里查看***[](https://blog.getcensus.com/a-complete-guide-to-revenue-cohort-analysis/)****。人口普查局和 TDS 允许我转贴这篇博客。****
+***这篇博客最初发布在 Census 的博客上，你可以在这里查看***<https://blog.getcensus.com/a-complete-guide-to-revenue-cohort-analysis/>****。人口普查局和 TDS 允许我转贴这篇博客。****
 
 *不确定接下来要读什么？我为你选了另一篇文章:*
 
-*[](/simulating-the-pandemic-in-python-2aa8f7383b55) [## 如何用 Python 模拟疫情
-
-### 循序渐进的数据科学项目
-
-towardsdatascience.com](/simulating-the-pandemic-in-python-2aa8f7383b55) 
+*</simulating-the-pandemic-in-python-2aa8f7383b55>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 ## 特伦斯·申
 

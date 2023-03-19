@@ -141,8 +141,4 @@ print(r.hn(3,5))
 
 *注意:作者基于他对技术的理解创建了本文中提供的所有示例。与其他在线资源的相似之处可能纯属巧合。*
 
-[](/how-to-solve-a-constraint-optimization-problem-in-r-fdf5abee197b) [## 如何解决 R 中的一个约束优化问题
-
-### 基于 nloptr 的 R 中非线性约束优化
-
-towardsdatascience.com](/how-to-solve-a-constraint-optimization-problem-in-r-fdf5abee197b)
+</how-to-solve-a-constraint-optimization-problem-in-r-fdf5abee197b> 

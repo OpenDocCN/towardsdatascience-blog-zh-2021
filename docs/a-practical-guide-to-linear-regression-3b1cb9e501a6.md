@@ -36,11 +36,7 @@ df.info()
 
 EDA 对于调查数据质量和揭示变量之间隐藏的相关性是必不可少的。在本练习中，我将介绍与线性回归相关的三种技术。要全面了解 EDA，请查看:
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 ## 1.单变量分析
 
@@ -235,18 +231,6 @@ TSS(图片由作者提供)
 
 ## 更多这样的文章
 
-[](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) [## 客户细分的聚类算法
-
-### K-均值聚类的逐步指南
-
-towardsdatascience.com](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) 
+</simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  </semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  </clustering-algorithm-for-customer-segmentation-e2d79e28cbc3>  
 
 *原载于 2021 年 9 月 18 日 https://www.visual-design.net**的* [*。*](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)

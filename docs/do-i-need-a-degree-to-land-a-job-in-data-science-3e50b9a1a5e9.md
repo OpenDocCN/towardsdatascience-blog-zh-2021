@@ -56,12 +56,4 @@
 
 ## 其他最近帖子:
 
-[](/data-scientists-get-comfortable-being-stressed-192dd974a848) [## 数据科学家:适应压力
-
-### 探索成为数据科学家的压力因素
-
-towardsdatascience.com](/data-scientists-get-comfortable-being-stressed-192dd974a848) [](/data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71) [## 数据科学:不知道 2021 年还性感吗
-
-### 了解数据科学是否仍然有吸引力，它是否适合你
-
-towardsdatascience.com](/data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71)
+</data-scientists-get-comfortable-being-stressed-192dd974a848>  </data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71> 

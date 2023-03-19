@@ -82,12 +82,4 @@
 
 # 相关文章
 
-[](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398) [## 神经风格转移:使用 tf.keras 和渴望执行的深度学习创建艺术
-
-### 软件工程实习生 Raymond Yuan
-
-medium.com](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398) [](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199) [## 神经艺术风格转移:综述
-
-### 大一的春季学期，我参加了斯坦福大学关于卷积神经网络的 CS 231n 课程。我的最终项目…
-
-medium.com](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
+<https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398>  <https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199> 

@@ -142,19 +142,11 @@ if episode % update_frequency_target_network == 0:
 
 *对深度 Q-learning 感兴趣？你可能也会对下面的文章感兴趣:*
 
-[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) 
+</a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  
 
 想知道更多关于 Q-learning(和 SARSA)的基础知识吗？看看下面这篇文章:
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) [## 用非策略强化学习走下悬崖
-
-### 政策外强化学习和政策内强化学习的深入比较
-
-towardsdatascience.com](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) 
+</walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff>  
 
 # 参考
 

@@ -80,11 +80,7 @@ R可再生能源每年都在增长，如果我们要达到抑制全球变暖的�
 
 Github 完整报告和代码:
 
-[](https://github.com/jackseagrist/Wind_Available_for_Energy_Production) [## 风能/风能可用于能源生产
-
-### 斯坦福大学最后项目北加州可用于能源生产的风力分析…
-
-github.com](https://github.com/jackseagrist/Wind_Available_for_Energy_Production) 
+<https://github.com/jackseagrist/Wind_Available_for_Energy_Production>  
 
 参考资料:
 

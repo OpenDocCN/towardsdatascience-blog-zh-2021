@@ -164,12 +164,4 @@ LEFT JOIN comments ON users.Id = comments.UserId;**SELECT * FROM user_info;**
 
 *请随意查看我的其他一些关于在 SQL 中使用关系数据库的文章。*
 
-[](/the-enemy-of-database-normalization-grouping-values-into-single-string-with-sql-2294f40bb4d9) [## 数据库规范化的敌人——用 SQL 将值分组到单个字符串中
-
-### 将 SQL 中的数据串联提升到一个新的水平
-
-towardsdatascience.com](/the-enemy-of-database-normalization-grouping-values-into-single-string-with-sql-2294f40bb4d9) [](https://selectfrom.dev/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf) [## 大数据上窗口函数与子查询的 SQL 性能
-
-### 使用窗口函数提高查询性能
-
-selectfrom.dev](https://selectfrom.dev/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf)
+</the-enemy-of-database-normalization-grouping-values-into-single-string-with-sql-2294f40bb4d9>  <https://selectfrom.dev/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf> 

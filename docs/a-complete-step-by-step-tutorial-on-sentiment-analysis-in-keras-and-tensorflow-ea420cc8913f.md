@@ -18,11 +18,7 @@ Tensorflow 也有非常好的文档。所以，也很好学。如今，我们中
 
 本文结合一个项目重点介绍 TensorFlow 中一个简单的情感分析项目。请随意从以下链接下载数据集:
 
-[](https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products) [## 亚马逊婴儿产品评论
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-www.kaggle.com](https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products) 
+<https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products>  
 
 这个数据集有三列。产品名称、评论和评级。review 列是包含客户评论的文本列，rating 列具有从 1 到 5 的数字评级。1 表示最差，5 表示最好。
 
@@ -228,26 +224,6 @@ Epoch 10/20
 
 ## 更多阅读
 
-[](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [## 文本数据的探索性数据分析，包括可视化和情感分析
+</exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260> [## 文本数据的探索性数据分析，包括可视化和情感分析
 
-towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
-
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [## 随机梯度下降:从头开始的解释和完整实现
-
-### 使用单个感知器
-
-towardsdatascience.com](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697)
+towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) </four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  </stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd>  </an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697> 

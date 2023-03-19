@@ -331,16 +331,4 @@ display(m)
 
 Python 是一种功能强大的语言，拥有惊人的库来可视化您的数据。你最喜欢的可视化地理数据的语言和包是什么？让我知道你的想法。
 
-[](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628) [## 使用 Julia 中的 Shapefiles 创建专题地图
-
-### 如何在 Julia 中使用 Plots 包绘制 choropleth 图
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628) [](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [## 在 Pluto 笔记本中使用 Julia 进行反应数据分析
-
-### 当你喜欢朱庇特的时候，你就会爱上冥王星！
-
-towardsdatascience.com](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [](/5-amazing-pandas-features-you-probably-dont-know-about-5533498aac88) [## 你可能不知道的 5 个令人惊奇的熊猫特征
-
-### 解释强大的熊猫功能，以提高您的数据分析工作流程。
-
-towardsdatascience.com](/5-amazing-pandas-features-you-probably-dont-know-about-5533498aac88)
+<https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628>  </reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e>  </5-amazing-pandas-features-you-probably-dont-know-about-5533498aac88> 

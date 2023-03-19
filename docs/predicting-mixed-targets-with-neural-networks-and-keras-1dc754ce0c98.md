@@ -76,12 +76,4 @@
 
 ## 参考
 
-[](https://github.com/caseywhorton/medium-blog-code) [## GitHub-Casey Horton/medium-blog-code
-
-### 在 GitHub 上创建一个帐户，为 Casey Horton/medium-blog-code 开发做贡献。
-
-github.com](https://github.com/caseywhorton/medium-blog-code) [](https://keras.io/api/models/model_training_apis/) [## Keras 文档:模型训练 API
-
-### 为训练配置模型。参数优化器:字符串(优化器的名称)或优化器实例…
-
-keras.io](https://keras.io/api/models/model_training_apis/)
+<https://github.com/caseywhorton/medium-blog-code>  <https://keras.io/api/models/model_training_apis/> 

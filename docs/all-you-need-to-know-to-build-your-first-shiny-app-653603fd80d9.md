@@ -204,7 +204,7 @@ ui <- fluidPage(
 
 按下“发布”后，应用程序需要几分钟才能上线。这将显示在 ShinyApps 网站上您帐户的仪表盘中。
 
-已发布 app 链接:[](https://abhinavmalasi.shinyapps.io/World_food_waste/)
+已发布 app 链接:<https://abhinavmalasi.shinyapps.io/World_food_waste/>
 
 # **结束语**
 
@@ -218,27 +218,7 @@ ui <- fluidPage(
 
 **对 R 的更多阅读感兴趣，请查看:**
 
-**[](/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a) [## Tidyverse 三家不太知名的管道运营商
-
-### Tee、exposition 和赋值管道操作符，用于干净的代码编写。
-
-towardsdatascience.com](/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/create-your-resume-with-pagedown-package-in-r-123ca6310d52) [## 用 R 中的 pagedown 包创建你的简历
-
-### 使用 pagedown 包在 1 小时内制作令人印象深刻的简历
-
-towardsdatascience.com](/create-your-resume-with-pagedown-package-in-r-123ca6310d52) [](/7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73) [## R 中高效工作流值得知道的 7 个捷径
-
-### RStudio 中常规编码的便捷键盘快捷键
-
-towardsdatascience.com](/7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73) [](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [## 使用 ggplot2: theme()定制的主数据可视化
-
-### 自定义 ggplot2 主题，为高效工作流程创建您的个性化主题模板。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) 
+**</3-lesser-known-pipe-operators-in-tidyverse-111d3411803a>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </create-your-resume-with-pagedown-package-in-r-123ca6310d52>  </7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73>  </master-data-visualization-with-ggplot2-theme-customization-8421695d24e2>  
 
 ## 参考资料:
 

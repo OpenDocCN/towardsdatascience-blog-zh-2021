@@ -16,11 +16,7 @@
 
 不满足于不得不在*多核*机器上一个接一个地乘以矩阵，我转向了`jax`，粗略地说就是类固醇上的`numpy`。DeepMind (cue AlphaGo music)和谷歌的研究人员在日常工作中使用这个`[jax](https://jax.readthedocs.io/en/latest/)`库— —主要是在深度学习方面— —一个丰富的[生态系统](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research)已经围绕它涌现出来。
 
-[](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) [## 利用 JAX 加速我们的研究
-
-### 我们发现越来越多的项目得到了 JAX 的良好服务，这是一个由…开发的机器学习框架
-
-deepmind.com](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) 
+<https://deepmind.com/blog/article/using-jax-to-accelerate-our-research>  
 
 在`jax`的优点中，我在这里关心的一个是它可以很容易地向量化([纯](https://jax.readthedocs.io/en/latest/notebooks/Common_Gotchas_in_JAX.html#pure-functions))函数，通过底层的并行化实现加速。如此加速的代码可以在 CPU、GPU 和/或 TPU 上执行，无需修改！
 

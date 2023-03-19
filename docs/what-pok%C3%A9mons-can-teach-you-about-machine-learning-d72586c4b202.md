@@ -127,19 +127,7 @@
 
 **感谢阅读。这里有一些你可能会喜欢的文章:**
 
-[](/the-perfect-python-cheatsheet-for-beginners-c7c16799de5) [## 初学者的完美 Python 备忘单
-
-### Cheetsheets 是有抱负和早期职业数据科学家的救命稻草。
-
-towardsdatascience.com](/the-perfect-python-cheatsheet-for-beginners-c7c16799de5) [](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [## 提高生产力:使用 Python 和 Pandas 进行数据清理
-
-### 数据清理可能很耗时，但了解不同类型的丢失值，以及如何处理…
-
-towardsdatascience.com](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [](/best-companies-to-work-for-as-a-data-scientist-aa991ff29e2a) [## 作为数据科学家最适合工作的公司
-
-### 寻找数据科学职位时，拓展你的视野
-
-towardsdatascience.com](/best-companies-to-work-for-as-a-data-scientist-aa991ff29e2a) 
+</the-perfect-python-cheatsheet-for-beginners-c7c16799de5>  </increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012>  </best-companies-to-work-for-as-a-data-scientist-aa991ff29e2a>  
 
 **参考文献:**
 

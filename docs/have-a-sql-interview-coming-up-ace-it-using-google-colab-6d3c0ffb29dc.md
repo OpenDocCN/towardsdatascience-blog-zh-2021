@@ -23,11 +23,7 @@ Google Colab [ [链接](https://colab.research.google.com/notebooks/intro.ipynb?
 
 所有代码都可以在我的 [Github 账户](https://gist.github.com/stephenleo/492469c191d56a53ace718e9d6d443f1)上获得。也可以直接在 Google Colab 上打开代码(下次面试不要多此一举了😎)点击此链接:[ [链接](https://colab.research.google.com/github/stephenleo/medium-python-hacks/blob/main/02_sql_on_colab/main.ipynb)
 
-[](https://colab.research.google.com/github/stephenleo/medium-python-hacks/blob/main/02_sql_on_colab/main.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/stephenleo/medium-python-hacks/blob/main/02_sql_on_colab/main.ipynb) 
+<https://colab.research.google.com/github/stephenleo/medium-python-hacks/blob/main/02_sql_on_colab/main.ipynb>  
 
 # SQLite
 

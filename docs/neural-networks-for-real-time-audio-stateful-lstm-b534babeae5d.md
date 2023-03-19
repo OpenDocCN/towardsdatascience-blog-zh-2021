@@ -96,10 +96,6 @@ amp 仿真论文提到，未来的工作可能包括实现*抗锯齿*以进一�
 
 感谢您的阅读！在最后一篇文章中，我们将**使用有状态 LSTM 模型和 [**树莓派**](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) 构建一个吉他踏板**。
 
-[](https://link.medium.com/m1n9gMXd9gb) [## 实时音频的神经网络:树莓皮吉他踏板
-
-### 这是关于使用神经网络进行实时音频的五部分系列的最后一部分。对于上一篇关于有状态的文章…
-
-link.medium.com](https://link.medium.com/m1n9gMXd9gb) 
+<https://link.medium.com/m1n9gMXd9gb>  
 
 1.  Alec Wright 等人《深度学习的实时吉他放大器仿真》*应用科学* 10，第 3 期(2020): 766。

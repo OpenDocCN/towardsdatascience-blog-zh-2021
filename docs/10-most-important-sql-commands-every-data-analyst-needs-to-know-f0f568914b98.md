@@ -278,16 +278,4 @@ SELECT quantity_purchased FROM transaction;
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) [## 熊猫从零到英雄——使用熊猫的初学者教程
-
-### 熊猫零到英雄是一个视频教程系列，旨在教初学者友好的方式使用熊猫
-
-towardsdatascience.com](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) [](/five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916) [## R 中开始使用 dplyr 的五个基本命令
-
-### Dplyr 相当于 Python 中的 Pandas 库，可以轻松地进行数据探索和操作
-
-towardsdatascience.com](/five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916) [](/a-beginners-introduction-to-nlp-building-a-spam-classifier-cf0973c7f42c) [## NLP 入门——构建垃圾邮件分类器
-
-### 如果您不熟悉自然语言处理这个激动人心的世界，请从这里开始
-
-towardsdatascience.com](/a-beginners-introduction-to-nlp-building-a-spam-classifier-cf0973c7f42c)
+</pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c>  </five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916>  </a-beginners-introduction-to-nlp-building-a-spam-classifier-cf0973c7f42c> 

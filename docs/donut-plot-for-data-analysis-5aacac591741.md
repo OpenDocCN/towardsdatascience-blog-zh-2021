@@ -77,11 +77,7 @@ plt.show()
 
 在下一个版本中，我们将解释如何用 Matplotlib 通过 DIY 设计来构建一个漂亮的年报。
 
-[](/creative-report-designed-only-with-matplotlib-without-office-software-9d8b5af4f9c2) [## 只用 Matplotlib 设计的创意报告，不用办公软件
-
-### 使用 Matplotlib 创建直观的报告。我们只是用 Python。不会使用任何办公软件。
-
-towardsdatascience.com](/creative-report-designed-only-with-matplotlib-without-office-software-9d8b5af4f9c2) 
+</creative-report-designed-only-with-matplotlib-without-office-software-9d8b5af4f9c2>  
 
 报告的一页如下所示:
 
@@ -95,16 +91,4 @@ towardsdatascience.com](/creative-report-designed-only-with-matplotlib-without-o
 
 到目前为止，我已经基于同一个 excel 文件编写了一系列故事，为此我已经发布了其他相关的故事，这些故事可以通过真实的数据和案例帮助您理解数据和数据分析。
 
-[](https://medium.com/datadriveninvestor/a-short-interview-about-a-chinese-sweatshop-in-the-textile-industry-aefa9c2229ef) [## 关于中国纺织业血汗工厂的简短采访
-
-### 来自亚洲最大的纺织品集散地——中国轻纺城——柯桥
-
-medium.com](https://medium.com/datadriveninvestor/a-short-interview-about-a-chinese-sweatshop-in-the-textile-industry-aefa9c2229ef) [](/view-a-chinese-factory-from-the-data-aspect-with-python-ad698461f40a) [## 用 python 从数据角度看中国工厂
-
-### 这个故事是在采访了一个工厂老板后，在熊猫的帮助下揭开工厂隐藏的真面目…
-
-towardsdatascience.com](/view-a-chinese-factory-from-the-data-aspect-with-python-ad698461f40a) [](/data-analytics-helps-warehouse-management-f6a7f44f47af) [## 数据分析有助于仓库管理
-
-### 在这个故事中，我们可以体验如何利用所有的交货凭证来监控仓库库存。
-
-towardsdatascience.com](/data-analytics-helps-warehouse-management-f6a7f44f47af)
+<https://medium.com/datadriveninvestor/a-short-interview-about-a-chinese-sweatshop-in-the-textile-industry-aefa9c2229ef>  </view-a-chinese-factory-from-the-data-aspect-with-python-ad698461f40a>  </data-analytics-helps-warehouse-management-f6a7f44f47af> 

@@ -10,15 +10,7 @@
 
 我的前两篇文章是关于马尔可夫链蒙特卡罗和变分推理背后的理论，它为贝叶斯建模奠定了基础。在本文中，我们将使用贝叶斯模型和 MCMC 来预测网球比赛的结果，并在这样做的过程中，创建一个网球运动员的排名。
 
-[](/variational-inference-for-neural-networks-a4b5cf72b24) [## 神经网络的变分推理
-
-### 神经网络的贝叶斯近似介绍
-
-towardsdatascience.com](/variational-inference-for-neural-networks-a4b5cf72b24) [](/introduction-to-mcmc-1c8e3ea88cc9) [## MCMC 简介
-
-### 什么是蒙特卡洛近似法，Metropolis 算法是如何工作的？
-
-towardsdatascience.com](/introduction-to-mcmc-1c8e3ea88cc9) 
+</variational-inference-for-neural-networks-a4b5cf72b24>  </introduction-to-mcmc-1c8e3ea88cc9>  
 
 ## 数据如何？
 

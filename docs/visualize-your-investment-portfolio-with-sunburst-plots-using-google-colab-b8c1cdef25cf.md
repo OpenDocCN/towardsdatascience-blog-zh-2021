@@ -14,11 +14,7 @@
 
 如果您只想运行代码并获得投资组合的绘图，您可以简单地替换以下 google colab 笔记本中的值:
 
-[](https://colab.research.google.com/drive/1r2j8NzPL8HaC3O2f74XMabOiYVJ1nIxc?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1r2j8NzPL8HaC3O2f74XMabOiYVJ1nIxc?usp=sharing) 
+<https://colab.research.google.com/drive/1r2j8NzPL8HaC3O2f74XMabOiYVJ1nIxc?usp=sharing>  
 
 该图是基于一个简单的表生成的，该表有 3 列:资产、名称和值。下图显示了如何逐行构建表格(左图)以及生成的格式化数据帧(右图)。
 

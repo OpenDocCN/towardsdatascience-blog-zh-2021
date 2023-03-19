@@ -1216,18 +1216,6 @@ a)标题**:书，阅读，科技，阅读，科学，数学，图书馆，年级
 
 **查看您可能也会喜欢的其他文章:**
 
-**[](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [## 机器学习:营销活动的成本预测(探索性数据分析——第一部分)
-
-### 预测营销活动最佳目标候选人的数据科学方法
-
-towardsdatascience.com](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [## 关于移动营销活动的 15 个商业问题:ROAS(广告支出回报)
-
-### 探索性营销数据分析，用于监控和评估移动营销活动(EDA)的绩效
-
-towardsdatascience.com](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) [## 描述性统计:期望与现实(探索性数据分析——EDA)
-
-### 一种简单的描述性统计方法来总结集中趋势的措施和传播的措施
-
-towardsdatascience.com](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) 
+**</machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4>  </15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6>  </descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b>  
 
 感谢阅读。**

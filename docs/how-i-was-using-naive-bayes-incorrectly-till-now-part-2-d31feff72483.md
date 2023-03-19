@@ -10,11 +10,7 @@
 
 这是第 1 部分的继续，
 
-[](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-1-4ed2a7e2212b) [## 到目前为止，我是如何(不正确地)使用朴素贝叶斯的——第 1 部分
-
-### 这篇文章旨在帮助你更好地理解朴素贝叶斯。
-
-gautigadu091.medium.com](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-1-4ed2a7e2212b) 
+<https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-1-4ed2a7e2212b>  
 
 在这篇文章中，我将讨论以下内容(粗体)。如果你是朴素贝叶斯的新手或者想要快速复习，请查看我的[笔记](https://drive.google.com/drive/folders/1vldPQ6T88EVsjlRXvGtZUPPwZOffqrEb?usp=sharing)开始。
 

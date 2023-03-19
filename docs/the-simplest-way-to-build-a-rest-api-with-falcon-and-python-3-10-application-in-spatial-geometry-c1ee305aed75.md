@@ -48,11 +48,7 @@ request = json.loads(req.stream.read())
 
 为了测试我们的服务器的响应和程序的正确执行，我们将使用一个开源 API 客户端失眠症。
 
-[](https://insomnia.rest) [## API 设计平台和 API 客户端
-
-### 如果你还在用 postman 进行手动 REST/GraphQL API 测试，我可以强烈推荐改用@GetInsomnia…
-
-失眠。休息](https://insomnia.rest) 
+<https://insomnia.rest>  
 
 软件启动后，在左侧窗格的下拉菜单中将方法设置为“POST ”,然后插入服务器的目标 URL。在我们的案例中:
 
@@ -84,8 +80,4 @@ request = json.loads(req.stream.read())
 
 Louis Brulé Naudet 拥有巴黎萨克莱大学的法律和经济学/管理学双学位。
 
-[](https://louisbrulenaudet.com) [## 路易·布鲁莱·诺代
-
-### Clover 和 Lemone 共同基金会，商务和财政法专业，程序设计界面概念…
-
-louisbrulenaudet.com](https://louisbrulenaudet.com)
+<https://louisbrulenaudet.com> 

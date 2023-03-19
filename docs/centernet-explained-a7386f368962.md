@@ -53,7 +53,7 @@ CenterNet 是一种深度检测架构，消除了对锚点和计算量大的 NMS
 
 [***数学和人工智能***](https://medium.com/@urialmog/practical-problems-math-and-ai-c934a95bde28?source=friends_link&sk=bc78b0acc4786b7a251fd4986b01a16b)
 
-[](https://medium.com/@urialmog/practical-problems-math-and-ai-c934a95bde28?source=friends_link&sk=bc78b0acc4786b7a251fd4986b01a16b)
+<https://medium.com/@urialmog/practical-problems-math-and-ai-c934a95bde28?source=friends_link&sk=bc78b0acc4786b7a251fd4986b01a16b>
 
 *[***训练神经网络简单解释***](https://medium.com/@urialmog/practical-problems-math-and-ai-c934a95bde28?source=friends_link&sk=bc78b0acc4786b7a251fd4986b01a16b)*
 

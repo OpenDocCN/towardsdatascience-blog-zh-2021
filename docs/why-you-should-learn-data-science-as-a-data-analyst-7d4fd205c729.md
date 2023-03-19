@@ -28,11 +28,7 @@
 
 我曾经有一个数据分析师职位的带回家作业，上面写着*“一个电影工作室的执行制片人给了你这个数据集，希望你简要概述一下从中得出的有趣见解，这将有助于工作室的业务。”*我在电影数据上使用了一个[机器学习模型来寻找多种可行的见解](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd)而不是作业要求的一种见解，并且能够更快地找到这些见解。
 
-[](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
-
-### 将数据科学与数据分析相结合
-
-medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) 
+<https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd>  
 
 ## 拓展你的职业选择
 
@@ -42,12 +38,4 @@ medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-gener
 
 ## 你可能也会喜欢…
 
-[](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [## 如何成为数据分析师和数据科学家
-
-### 当你可以尝试两个角色时，为什么只选择一个
-
-towardsdatascience.com](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [](/why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747) [## 为什么数据分析师应该申请数据科学家的工作
-
-### 不要被职称误导
-
-towardsdatascience.com](/why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747)
+</how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e>  </why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747> 

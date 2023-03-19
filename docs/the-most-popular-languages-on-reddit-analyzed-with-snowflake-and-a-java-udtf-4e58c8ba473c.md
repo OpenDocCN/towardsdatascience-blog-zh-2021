@@ -84,15 +84,7 @@ Reddit 上除英语之外最受欢迎的语言(图片由作者提供)
 
 获取 100 万条 reddit 评论并在 Snowflake 中用 Java UDF 分析他们的语言并不困难，之前的帖子解释了这一点:
 
-[](https://medium.com/snowflake/loading-reddit-comments-into-snowflake-44b9f2072a84) [## 将 261GB 的 reddit 评论加载到雪花中
-
-### 我曾经将 reddit 评论加载到 BigQuery 上，现在是时候将我的管道升级到雪花了。让我们开始吧…
-
-medium.com](https://medium.com/snowflake/loading-reddit-comments-into-snowflake-44b9f2072a84) [](https://medium.com/snowflake/new-in-snowflake-java-udfs-with-a-kotlin-nlp-example-e52d94d33468) [## 雪花中的新特性:Java UDFs(带有一个 Kotlin NLP 示例)
-
-### 雪花现在让你轻松地创建 Java UDFs，这是一个令人难以置信的强大和多才多艺的功能。让我们检查一下…
-
-medium.com](https://medium.com/snowflake/new-in-snowflake-java-udfs-with-a-kotlin-nlp-example-e52d94d33468) 
+<https://medium.com/snowflake/loading-reddit-comments-into-snowflake-44b9f2072a84>  <https://medium.com/snowflake/new-in-snowflake-java-udfs-with-a-kotlin-nlp-example-e52d94d33468>  
 
 # 疑问和注释
 
@@ -100,11 +92,7 @@ medium.com](https://medium.com/snowflake/new-in-snowflake-java-udfs-with-a-kotli
 
 由于雪花最近宣布支持 [Java 表 UDF](https://docs.snowflake.com/en/developer-guide/udf/java/udf-java-tabular-functions.html)，我决定尝试一下。令人惊讶的是，表格 UDF 比我以前的 Java UDF 表现得更好。在下面的部分中可以找到关于这个的细节。
 
-[](https://www.snowflake.com/blog/bringing-more-to-the-table-azure-and-udtf-support-with-snowpark/) [## 带来更多:Azure 和 UDTF 对 Snowpark 的支持
-
-### 6 月，我们宣布 Java 函数和 Snowpark API 可以在 AWS 中预览。今天，我们…
-
-www.snowflake.com](https://www.snowflake.com/blog/bringing-more-to-the-table-azure-and-udtf-support-with-snowpark/) 
+<https://www.snowflake.com/blog/bringing-more-to-the-table-azure-and-udtf-support-with-snowpark/>  
 
 UDTFs 能够读取表并将表输出回来。这是产生本文结果的 UDTF 实现:
 

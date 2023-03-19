@@ -85,11 +85,7 @@ pip install simpletransformers
 
 *您可以使用前缀值来告诉 mT5(或 T5)执行特定的任务。这对于训练一个可以执行多项任务的模型非常有用，如下文所示。*
 
-[](/going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c) [## 走向全球——如何使用 mT5 Transformer 以多种语言执行多项任务
-
-### 使用 mT5 进行跨语言、零距离的培训——用英语培训 mT5 模型，并将其用于其他语言！
-
-towardsdatascience.com](/going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c) 
+</going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c>  
 
 ## GPU 内存使用侧记
 

@@ -162,12 +162,4 @@ TF-IDF 是伟大的，它的应用在自然语言处理内外都很广泛。
 
 延伸阅读:
 
-[](/building-a-content-based-childrens-book-recommender-for-parents-680e20013e90) [## 为家长构建基于内容的儿童图书推荐系统
-
-### 睡前故事崩溃的解决方案
-
-towardsdatascience.com](/building-a-content-based-childrens-book-recommender-for-parents-680e20013e90) [](/prospecting-las-backyard-houses-with-machine-learning-8fdc191e1cf) [## 用机器学习探测洛杉矶的后院房屋
-
-### 在 METIS 数据科学进行的项目 5/5 沉浸式解决我自己制造的一个商业问题
-
-towardsdatascience.com](/prospecting-las-backyard-houses-with-machine-learning-8fdc191e1cf)
+</building-a-content-based-childrens-book-recommender-for-parents-680e20013e90>  </prospecting-las-backyard-houses-with-machine-learning-8fdc191e1cf> 

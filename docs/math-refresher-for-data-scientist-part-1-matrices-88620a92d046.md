@@ -231,10 +231,6 @@ b)乘法，使用符号:
 
 您可能还喜欢:
 
-[](https://kujaga.medium.com/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-kujaga.medium.com](https://kujaga.medium.com/statistical-moments-in-data-science-interviews-bfecd207843d) 
+<https://kujaga.medium.com/statistical-moments-in-data-science-interviews-bfecd207843d>  
 
 我很乐意直接通过*akujawska@yahoo.com*或我的 [LinkedIn](https://www.linkedin.com/in/agnieszka-kujawska/) 个人资料，在下面的评论区听到你的想法和问题。回头见！

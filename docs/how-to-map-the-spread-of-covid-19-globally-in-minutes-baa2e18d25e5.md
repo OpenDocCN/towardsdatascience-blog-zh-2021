@@ -91,8 +91,4 @@ SELECT
 
 这是我之前准备的。它是交互式的，所以你可以点击每一个点来深入了解新冠肺炎在任何地方的感染情况。
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

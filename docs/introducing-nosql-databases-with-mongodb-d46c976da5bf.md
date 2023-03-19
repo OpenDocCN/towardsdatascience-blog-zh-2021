@@ -85,22 +85,6 @@ MongoDB 绝对是实现大数据应用的可能系统。在这种情况下，它
 *   它存储所谓的集合，集合又包含以实际数据作为键值对的文档。
 *   MongoDB 特别适合需要高可伸缩性、具有灵活的数据模式和存储大量数据的应用程序。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-towardsdatascience.com](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) [## 理解反向传播算法
-
-### 反向传播算法是在训练过程中改进神经网络的工具。在…的帮助下
-
-medium.com](https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [## 学习编码:13 个免费网站帮助你开始
-
-### 一旦你决定要学习编码，你会被众多的在线工具宠坏，这些工具可以帮助你…
-
-towardsdatascience.com](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294)*
+*</understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  <https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c>  </learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>  </beginners-guide-extract-transform-load-etl-49104a8f9294> *

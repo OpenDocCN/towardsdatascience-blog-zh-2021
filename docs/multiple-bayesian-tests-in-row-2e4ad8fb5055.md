@@ -16,11 +16,7 @@
 
 要重温贝叶斯定理的基础，请参考我的另一篇文章。
 
-[](/bayes-theorem-for-medical-test-f1fb12b579c6) [## 医学检验的贝叶斯定理
-
-### 理解医学检验的贝叶斯定理。解释结果和更多测试的组合
-
-towardsdatascience.com](/bayes-theorem-for-medical-test-f1fb12b579c6) 
+</bayes-theorem-for-medical-test-f1fb12b579c6>  
 
 # 公式
 

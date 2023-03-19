@@ -40,7 +40,7 @@
 
 # 设置
 
-为了进行这一分析，从美国地质调查局[](https://earthexplorer.usgs.gov/)**检索了 2015-2019 年 9 月至 11 月海藻高峰期的 Landsat 8 图像(关于检索 Landsat 图像，请参见本指南[；关于 Landsat 8 的栅格波段定义，请参见本指南](https://www.earthdatascience.org/courses/earth-analytics/multispectral-remote-sensing-modis/get-data-earth-explorer/)[](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites?qt-news_science_products=0)**)。在此期间，继 2014 年北加州发生严重的海带损失事件后，人们广泛观察到了持续的海带损失，希望能够详细探索该地区的一个子集。每个日期都使用了来自[路径 45/行 33](https://www.usna.edu/Users/oceano/pguth/md_help/html/landsat_path_row.html#:~:text=Landsat%20satellites%20image%20the%20entire,of%20a%20frame%20of%20imagery.) 的场景，如下图红色所示。****
+为了进行这一分析，从美国地质调查局<https://earthexplorer.usgs.gov/>**检索了 2015-2019 年 9 月至 11 月海藻高峰期的 Landsat 8 图像(关于检索 Landsat 图像，请参见本指南[；关于 Landsat 8 的栅格波段定义，请参见本指南](https://www.earthdatascience.org/courses/earth-analytics/multispectral-remote-sensing-modis/get-data-earth-explorer/)<https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites?qt-news_science_products=0>**)。在此期间，继 2014 年北加州发生严重的海带损失事件后，人们广泛观察到了持续的海带损失，希望能够详细探索该地区的一个子集。每个日期都使用了来自[路径 45/行 33](https://www.usna.edu/Users/oceano/pguth/md_help/html/landsat_path_row.html#:~:text=Landsat%20satellites%20image%20the%20entire,of%20a%20frame%20of%20imagery.) 的场景，如下图红色所示。****
 
 ****![](img/bac3f47f060bdf6b36b909f82a263849.png)****
 

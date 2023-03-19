@@ -12,11 +12,7 @@
 
 这里讨论的代码可以在这个库中找到。
 
-[](https://github.com/edkrueger/joblib-demo) [## edkrueger/job lib-演示
-
-### python 包的模板；使用 Pipenv、Black、Pylint 和 Pytest。运行 pipenv install — dev 来安装 env…
-
-github.com](https://github.com/edkrueger/joblib-demo) 
+<https://github.com/edkrueger/joblib-demo>  
 
 我们将从这些概念的密集描述开始。然后再举一个说明性的例子。
 

@@ -106,10 +106,6 @@ deep RL 做的是；我们不是保存我们遇到的每个状态的所有值的
 
 下面是一个帖子的链接，我们实现了这个来让一个代理玩 Atari Pong。看看吧！
 
-[](/getting-an-ai-to-play-atari-pong-with-deep-reinforcement-learning-47b0c56e78ae) [## 让人工智能玩 atari Pong，进行深度强化学习
-
-### 详细的指导
-
-towardsdatascience.com](/getting-an-ai-to-play-atari-pong-with-deep-reinforcement-learning-47b0c56e78ae) 
+</getting-an-ai-to-play-atari-pong-with-deep-reinforcement-learning-47b0c56e78ae>  
 
 > 感谢您的阅读！如果这篇文章在某种程度上帮助了你，或者你有什么意见或问题，请在下面留下回复，让我知道！此外，如果你注意到我在某个地方犯了错误，或者我可以解释得更清楚一些，那么如果你能通过回复让我知道，我会很感激。

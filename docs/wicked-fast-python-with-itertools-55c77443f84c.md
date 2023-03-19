@@ -12,23 +12,11 @@
 
 最近，我写了一篇文章，详细介绍了一些我认为在 Python 编程语言中非常有用的标准库工具。那篇文章的反响非常好，所以我决定再写一篇文章，列出标准库中我最喜欢的一些模块。如果你有兴趣阅读这两篇文章，你可以在这里查阅:
 
-[](/10-surprisingly-useful-base-python-functions-822d86972a23) [## 10 个非常有用的基本 Python 函数
-
-### 用这个令人兴奋的列表来复习你的标准模块库吧！
-
-towardsdatascience.com](/10-surprisingly-useful-base-python-functions-822d86972a23) [](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) [## 15 个非常有用的 Python 基础模块
-
-### 忘记依赖性，使用标准库！
-
-towardsdatascience.com](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) 
+</10-surprisingly-useful-base-python-functions-822d86972a23>  </15-more-surprisingly-useful-python-base-modules-6ff1ee89b018>  
 
 然而，每当我写这些文章时，我都会遇到一个小问题。对于标准库中的许多模块，在模块内部有一个相对较小的方法或类型集合是很常见的。然而，偶尔会有一些更有用的 Python 模块，它们更加广泛，具有如此多的函数和类，以至于在那些文章中不可能涉及到它们。考虑到这一点，我决定从一个名为 functools 的模块开始这项任务。我写了一篇关于它有多有用的文章，你可以在这里查看:
 
-[](/functools-an-underrated-python-package-405bbef2dd46) [## FuncTools:一个被低估的 Python 包
-
-### 使用 functools 将您的 Python 函数提升到一个新的水平！
-
-towardsdatascience.com](/functools-an-underrated-python-package-405bbef2dd46) 
+</functools-an-underrated-python-package-405bbef2dd46>  
 
 这些文章中提到的另一个模块是一个叫做 itertools 的小模块。Itertools 是一个工具箱，用于在比我们通常在 Python 中使用的更高效、更古老的算法上构建定制迭代。不用说，在 Python 这样的语言中，当处理大量数据时，几乎总是需要考虑性能，像这样提供更有效迭代的工具非常有价值。
 

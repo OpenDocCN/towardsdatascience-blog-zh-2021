@@ -233,8 +233,4 @@ txt = "<this is the large post included above>"tokens = tokenizer.encode_plus(
 
 如果你想了解更多关于使用变形金刚进行情感分析的知识(这次是使用 TensorFlow)，请点击这里查看我关于语言分类的文章:
 
-[](https://betterprogramming.pub/build-a-natural-language-classifier-with-bert-and-tensorflow-4770d4442d41) [## 用 Bert 和 Tensorflow 构建自然语言分类器
-
-### 将先进的变压器模型应用于您的语言问题
-
-better 编程. pub](https://betterprogramming.pub/build-a-natural-language-classifier-with-bert-and-tensorflow-4770d4442d41)
+<https://betterprogramming.pub/build-a-natural-language-classifier-with-bert-and-tensorflow-4770d4442d41> 

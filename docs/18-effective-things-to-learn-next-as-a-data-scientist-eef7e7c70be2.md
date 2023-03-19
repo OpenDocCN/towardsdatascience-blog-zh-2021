@@ -20,11 +20,7 @@ O 我认为数据科学工作中经常被忽视的一个方面是类 Unix 操作
 
 虽然这些技能很容易在大量可能用于数据科学工作的其他技能中被忽略，但我认为如果没有这些技能，完成很多事情会困难得多。此外，Linux 知识将非常流畅地运用到工作的其他领域，比如部署。如果没有 web 服务器如何与代码和服务器系统协同工作的适当知识，实际部署您的端点可能会相当困难，而端点无疑是数据科学的重要资产和技能。如果你想准确地开始这项开发工作，我大约两年前写了一篇文章，实际上深入研究了这一点:
 
-[](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) [## 用 Gunicorn 3 展开烧瓶
-
-### 应用程序部署通常会带来意想不到的后果和错误。部署可以是制定或…
-
-towardsdatascience.com](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) 
+</deploying-flask-with-gunicorn-3-9eaacd0f6eea>  
 
 # 第 2 类:分布
 
@@ -64,11 +60,7 @@ towardsdatascience.com](/deploying-flask-with-gunicorn-3-9eaacd0f6eea)
 
 我们谈到了为什么我认为知道如何分别使用终端和 Bash 对于数据科学工作来说是很方便的。然而，正如前面提到的，开发-运营技能也是如此。我认为，作为一名程序员，知道如何部署自己的模型和创建自己的服务器肯定会有很大的价值。当然，对于数据科学家来说更是如此，因为我们的模型通常被部署到端点，并意味着被请求。学习如何至少使用像 Nginx 或 Apache 这样的 web 服务器肯定会在数据科学和服务器部署的许多不同应用中派上用场。如果您想进一步了解我刚才提到的这两个选项，我实际上有一篇比较这两个选项及其能力的几乎是古老的文章，它可能会给您一个关于从哪里开始部署您自己的模型的好主意！：
 
-[](https://medium.com/chifi-media/nginx-or-apache-a3bb7ec4ca68) [## Nginx 还是 Apache？
-
-### 你应该使用哪个网络服务器？
-
-medium.com](https://medium.com/chifi-media/nginx-or-apache-a3bb7ec4ca68) 
+<https://medium.com/chifi-media/nginx-or-apache-a3bb7ec4ca68>  
 
 # №9:更多语言
 
@@ -84,11 +76,7 @@ medium.com](https://medium.com/chifi-media/nginx-or-apache-a3bb7ec4ca68)
 
 例如，在 Python 的标准库中实际上有很多包，我认为它们仍然被忽略了。如果你想了解更多我最喜欢的模块，我有一篇文章详细介绍了它们，你可以点击这里:
 
-[](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) [## 15 个非常有用的 Python 基础模块
-
-### 忘记依赖性，使用标准库！
-
-towardsdatascience.com](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) 
+</15-more-surprisingly-useful-python-base-modules-6ff1ee89b018>  
 
 # №12:新测试
 
@@ -98,11 +86,7 @@ towardsdatascience.com](/15-more-surprisingly-useful-python-base-modules-6ff1ee8
 
 很久以前，我写过一篇文章，讲述了为什么我认为 Crontab 是一个绝对棒的自动化工具。当然，这仍然没有真正改变，我认为 Crontab 在数据科学的许多方面都派上了用场，比如脚本自动化和开发操作。最重要的是，我认为它非常容易使用，所以仅从这一点来看，它确实值得一试。如果你想阅读我关于这方面的文章，你可以点击这里查看:
 
-[](/why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d) [## 为什么 CronTab 是终极数据科学后端工具
-
-### 为什么 CronJobs 被低估为简单自动化的支柱。
-
-towardsdatascience.com](/why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d) 
+</why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d>  
 
 # №14: SSH/SCP
 
@@ -122,11 +106,7 @@ towardsdatascience.com](/why-crontab-is-the-ultimate-data-science-back-end-tool-
 
 我想说的最后一点是关于可重复研究的。为了使研究和假设有效，研究的可重复性是绝对重要的。如果你的研究不可重复，它也很容易妨碍同行评议和出版。也就是说，我认为从一些简单的策略开始，让任何人都可以复制你的研究，这将是一个非常重要的概念，以便实际上得出有价值的结论。我写了一个非常酷的小指南，关于如何创建有效的可重复的研究，你可以在这里看到:
 
-[](/the-data-scientists-guide-to-reproducible-research-ea1a512be3e5) [## 数据科学家可重复研究指南
-
-### 你的假设还是假设！
-
-towardsdatascience.com](/the-data-scientists-guide-to-reproducible-research-ea1a512be3e5) 
+</the-data-scientists-guide-to-reproducible-research-ea1a512be3e5>  
 
 # 结论
 

@@ -18,7 +18,7 @@
 
 首先，您需要在 DAGsHub 上有一个项目。有两种方法可以做到这一点，要么[从头创建一个](https://dagshub.com/repo/create)要么[从任何其他平台连接一个现有项目](https://dagshub.com/repo/connect)(我们支持 GitHub、GitLab、BitBucket 和任何其他可访问的 Git remote)。
 
-如果你需要，我们有一个关于如何在我们的平台上开始一个新项目的教程[](https://dagshub.com/docs/experiment-tutorial/overview/)**。**
+如果你需要，我们有一个关于如何在我们的平台上开始一个新项目的教程<https://dagshub.com/docs/experiment-tutorial/overview/>**。**
 
 *要继续这个教程，你需要先安装 DVC。*
 

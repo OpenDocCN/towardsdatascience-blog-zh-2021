@@ -486,24 +486,4 @@ async def remove_utility(utilityId):
 
 ***|*** *参考文献*
 
-[](https://stackoverflow.com/questions/45285852/how-to-retrieve-mongodb-collection-validator-rules) [## 如何检索 MongoDb 集合验证器规则？
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/45285852/how-to-retrieve-mongodb-collection-validator-rules) [](https://docs.mongodb.com/manual/reference/method/db.collection.remove/) [## db.collection.remove() - MongoDB 手册
-
-### 方法使用命令，该命令使用默认的写入问题。要指定不同的写入问题，请包括…
-
-docs.mongodb.com](https://docs.mongodb.com/manual/reference/method/db.collection.remove/) [](https://www.w3schools.com/python/python_mongodb_insert.asp) [## Python MongoDB 插入文档
-
-### 组织良好，易于理解的网站建设教程，有很多如何使用 HTML，CSS，JavaScript 的例子…
-
-www.w3schools.com](https://www.w3schools.com/python/python_mongodb_insert.asp)  [## 字段类型
-
-### 在可能的情况下，pydantic 使用标准库类型来定义字段，从而平滑学习曲线。对许多人来说…
-
-pydantic-docs.helpmanual.io](https://pydantic-docs.helpmanual.io/usage/types/#datetime-types) [](https://stackoverflow.com/questions/32949898/deleting-document-in-pymongo-from-id) [## 从 id 中删除 PyMongo 中的文档
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/32949898/deleting-document-in-pymongo-from-id)
+<https://stackoverflow.com/questions/45285852/how-to-retrieve-mongodb-collection-validator-rules>  <https://docs.mongodb.com/manual/reference/method/db.collection.remove/>  <https://www.w3schools.com/python/python_mongodb_insert.asp>    <https://stackoverflow.com/questions/32949898/deleting-document-in-pymongo-from-id> 

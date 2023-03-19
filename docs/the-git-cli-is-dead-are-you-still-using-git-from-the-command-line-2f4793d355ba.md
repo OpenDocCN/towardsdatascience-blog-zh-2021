@@ -12,11 +12,7 @@
 
 我听到了！实际上，我喜欢在终端窗口中工作。我喜欢 ViM 编辑器，我的工作站是一个 Ubuntu 服务器虚拟机，我每天都用 SSH 连接到它，直到最近，我还只通过它的 CLI 使用 Git。更重要的是，我坚信在终端窗口内工作通常会让你更有效率，并让你真正理解在引擎盖下发生了什么。
 
-[](/dual-boot-is-dead-the-post-mortem-cee4db42d059) [## 双重引导已死:验尸
-
-### 只需一个命令，就可以将任何机器变成开发人员工作站。
-
-towardsdatascience.com](/dual-boot-is-dead-the-post-mortem-cee4db42d059) 
+</dual-boot-is-dead-the-post-mortem-cee4db42d059>  
 
 然而，当您真正知道自己在做什么时，将带有图形视图的工具集成到您的工作流程中可以简化流程并丰富您的体验。仅仅因为你必须使用鼠标和点击一些按钮就对一切说不，最终感觉就像一把老虎钳。
 

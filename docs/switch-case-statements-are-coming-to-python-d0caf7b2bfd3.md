@@ -148,10 +148,6 @@ SQuAD 2 训练集 JSON 中的最后一个条目显示了不同的字典格式(�
 
 如果您有兴趣阅读 Python 3.10 的其他一些新特性，请查看我的另一篇文章，其中介绍了一些最好的特性:
 
-[](/new-features-in-python-3-10-66ac05e62fc7) [## Python 3.10 中的新功能
-
-### 看看 Python 最新版本中包含的最佳特性
-
-towardsdatascience.com](/new-features-in-python-3-10-66ac05e62fc7) 
+</new-features-in-python-3-10-66ac05e62fc7>  
 
 [🤖《变形金刚》NLP 课程 70%的折扣](https://bit.ly/nlp-transformers)

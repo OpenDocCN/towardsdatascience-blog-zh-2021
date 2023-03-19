@@ -124,16 +124,8 @@ Plotly 是一个交互式图形库，通常集成到以数据为中心的应用�
 
  [## 播放列表混合
 
-这个网络应用程序使用机器学习技术来根据相似的音频特征对音乐进行聚类，以便您可以培养一种有凝聚力的氛围来满足您的聆听需求！](https://playlist-blendr.herokuapp.com) [](https://github.com/sejaldua/music-clustering) [## sejaldua/音乐聚类
-
-### 如果你还没有看到我为这个项目写的关于数据科学的文章，请点击这里查看…
-
-github.com](https://github.com/sejaldua/music-clustering) 
+这个网络应用程序使用机器学习技术来根据相似的音频特征对音乐进行聚类，以便您可以培养一种有凝聚力的氛围来满足您的聆听需求！](https://playlist-blendr.herokuapp.com) <https://github.com/sejaldua/music-clustering>  
 
 要了解更多关于我的信息，请随时查看下面我的作品集网站。我正在为 2021 年寻找一些新鲜的灵感和新的项目。很想听听我的读者们在做些什么有趣的事情！
 
-[](https://sejaldua.com) [## 塞加尔·杜瓦
-
-### 塔夫茨大学 2021 届数据科学家和生物医学工程师作品集我对交叉点充满热情…
-
-sejaldua.com](https://sejaldua.com)
+<https://sejaldua.com> 

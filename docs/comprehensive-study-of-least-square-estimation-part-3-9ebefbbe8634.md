@@ -10,20 +10,12 @@
 
 这是“最小二乘估计的综合研究”系列文章的第三部分。在前两部分，我讨论了普通最小二乘和多目标最小二乘问题。如果您尚未阅读前两部分，您可以在此查看:
 
-[](/comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3) [## 最小二乘估计的综合研究(上)
-
-towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3) [](/comprehensive-study-of-least-square-estimation-part-2-8a0b5549c1) [## 最小二乘估计的综合研究(下)
-
-towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-2-8a0b5549c1) 
+</comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3>  
 
 在本文中，我将讨论在机器学习、控制、信号处理和统计中经常出现的约束最小二乘问题。
 和以前一样，我想鼓励你看看我的 YouTube 频道上关于数值线性代数和最优化(我有多个关于最小二乘法的视频)、随机过程和参数估计技术的完整系列视频。
 
-[](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ) [## 马尼·塔达扬
-
-### 关于数值线性代数、最优化、统计学、机器学习、编码等的教育视频。我的媒介…
-
-www.youtube.com](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ) 
+<https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ>  
 
 ## 约束最小二乘法
 

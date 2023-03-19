@@ -40,16 +40,8 @@ Patrick Coffey 的图片(使用 draw.io)
 
 您可以在 GitHub 上找到它:
 
-[](https://github.com/schlerp/picoapi) [## schlerp/picoapi
-
-### 带有定制微服务注册的 FastAPI 的自以为是的包装器——sch lerp/pico API
-
-github.com](https://github.com/schlerp/picoapi) 
+<https://github.com/schlerp/picoapi>  
 
 在 PyPI 上:
 
-[](https://pypi.org/project/picoapi/) [## picoapi
-
-### FastAPI 的包装器简化了微服务的创建。非常固执己见，但也很容易分叉，如果你愿意…
-
-pypi.org](https://pypi.org/project/picoapi/)
+<https://pypi.org/project/picoapi/> 

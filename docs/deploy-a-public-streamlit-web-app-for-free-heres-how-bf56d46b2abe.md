@@ -12,15 +12,7 @@
 
 幸运的是，我们数据科学家现在有了一个更好的选择——Streamlit 框架。它只需在几分钟内将简单的 Python 脚本转换成实用的、交互式的、可共享的 web 应用程序。因为它是为展示数据科学产品而设计的，所以它本身支持主要数据科学库的数据模型和图形，如 pandas 和 matplotlib。因此，如果您已经非常了解 Python，那么它不需要什么学习曲线。如果您还没有尝试过，这里有一些我以前发表的文章，可以帮助您开始使用 streamlit。
 
-[](/build-your-first-interactive-data-science-web-app-with-streamlit-d4892cbe4792) [## 使用 Streamlit 构建您的首个交互式数据科学 Web 应用
-
-### 突出一些最常见的特征
-
-towardsdatascience.com](/build-your-first-interactive-data-science-web-app-with-streamlit-d4892cbe4792) [](/8-simple-and-useful-streamlit-tricks-you-should-know-ad16c6691b84) [## 你应该知道的 8 个简单有用的 Streamlit 技巧
-
-### 编写更好的简化应用
-
-towardsdatascience.com](/8-simple-and-useful-streamlit-tricks-you-should-know-ad16c6691b84) 
+</build-your-first-interactive-data-science-web-app-with-streamlit-d4892cbe4792>  </8-simple-and-useful-streamlit-tricks-you-should-know-ad16c6691b84>  
 
 在本文中，我想进一步向大家展示如何发布 web 应用程序，以便其他人可以公开访问您的数据科学项目。更重要的是，我将向您展示如何将 Google Sheets 集成为我们项目的免费数据库主机。请注意，Google Sheets 不是一个行业级的数据库，但它足以容纳一个小型数据集。更重要的是，它是免费的。
 

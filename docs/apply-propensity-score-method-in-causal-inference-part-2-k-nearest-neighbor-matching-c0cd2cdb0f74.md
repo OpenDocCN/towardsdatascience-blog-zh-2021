@@ -10,11 +10,7 @@
 
 在我的上一篇文章中，我介绍了如何使用 logistic 回归模型估计倾向得分，并逐步进行分层匹配。综上所述，**在实践中，倾向评分法通常分两步完成。首先，我们估计倾向得分。第二，我们通过使用一种匹配方法来估计治疗的效果。**
 
-[](/apply-propensity-score-methods-in-causal-inference-part-1-stratification-afce2e85730c) [## 倾向得分方法在因果推理中的应用——第一部分:分层
-
-### 用 Python 一步步实现了一个例子
-
-towardsdatascience.com](/apply-propensity-score-methods-in-causal-inference-part-1-stratification-afce2e85730c) 
+</apply-propensity-score-methods-in-causal-inference-part-1-stratification-afce2e85730c>  
 
 在本文中，我假设我们已经使用相同的数据并按照我上一篇文章中列出的程序(链接如上)获得了治疗组和对照组的估计倾向得分。
 

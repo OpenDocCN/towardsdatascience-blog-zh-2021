@@ -401,16 +401,4 @@ plt.show()
 
 如果你喜欢这篇文章，你也可以发现下面这些有趣的:
 
-[](/bar-plots-alternatives-specific-types-9d10ef250e5) [## 条形图:备选方案和特定类型
-
-### 何时以及是否使用它们
-
-towardsdatascience.com](/bar-plots-alternatives-specific-types-9d10ef250e5) [](/hidden-treasures-of-python-78ae604f7e33) [## 蟒蛇的隐藏宝藏
-
-### 很少使用的库以及如何使用它们
-
-towardsdatascience.com](/hidden-treasures-of-python-78ae604f7e33) [](https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c) [## 你的数据科学项目🎭
-
-### 如何让你的代码和讲故事更生动
-
-medium.com](https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c)
+</bar-plots-alternatives-specific-types-9d10ef250e5>  </hidden-treasures-of-python-78ae604f7e33>  <https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c> 

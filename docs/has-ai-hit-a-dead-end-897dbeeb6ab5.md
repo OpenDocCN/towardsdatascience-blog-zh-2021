@@ -52,11 +52,7 @@
 
 这种进行研究的方式很少能推动创新。**如果我们期望有意义和可应用的结果，我们不应该太在意新的 Imagenet 最先进的模型是否超过旧模型 0.5%。**不要误会我的意思，这可能是一个令人印象深刻的结果，需要大量的思考。**但我们也应该考虑如何把它投入生产。**如何直接利用一个新的好主意。这方面的一个例子是 OpenAI 的新 API，你可以在下面的故事中读到更多。
 
-[](/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) [## 您编写代码的方式即将改变:加入革命
-
-### OpenAI API 将会带来编码的革命。
-
-towardsdatascience.com](/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) 
+</the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0>  
 
 最后，如果我们想要不同的、更切实的结果，我们应该提供不同的激励。
 

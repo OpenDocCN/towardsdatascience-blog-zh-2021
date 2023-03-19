@@ -237,11 +237,7 @@
 
 ******更多细节请见我的另一件中型作品:******
 
-******[](/supply-chain-optimization-worth-it-or-not-20ae4c6e635) [## 供应链优化:值得还是不值得？
-
-### 数学最优化的悖论
-
-towardsdatascience.com](/supply-chain-optimization-worth-it-or-not-20ae4c6e635) 
+******</supply-chain-optimization-worth-it-or-not-20ae4c6e635>  
 
 # 成分 5:从快速反应中获得灵感
 
@@ -304,11 +300,7 @@ towardsdatascience.com](/supply-chain-optimization-worth-it-or-not-20ae4c6e635)
 
 在之前的一篇文章中，我提倡*三文鱼策略*:从你想要的影响开始，然后向后努力。从这个角度来看是相对合理的。
 
-[](/data-science-is-dead-long-live-business-science-a3059fe84e6c) [## 数据科学已经死了。商业科学万岁！
-
-### 任何人都可以从不起眼的鲑鱼身上学到的 5 课
-
-towardsdatascience.com](/data-science-is-dead-long-live-business-science-a3059fe84e6c) 
+</data-science-is-dead-long-live-business-science-a3059fe84e6c>  
 
 就像中国谚语所说的:
 
@@ -322,15 +314,7 @@ towardsdatascience.com](/data-science-is-dead-long-live-business-science-a3059fe
 
 *PS 我定期写[商业科学](https://medium.com/tag/business-science)。推荐后续阅读:*
 
-*[](/94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a) [## 94%完美:2000 亿美元库存问题的惊人解决方案
-
-### 机器学习和人类经理一起修复供应链
-
-towardsdatascience.com](/94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a) [](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) [## 时尚被打破了。科学正在修复它
-
-### 转变 5 个核心时尚流程
-
-towardsdatascience.com](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) 
+*</94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a>  </fashion-is-broken-science-is-fixing-it-b771b1ab5b59>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

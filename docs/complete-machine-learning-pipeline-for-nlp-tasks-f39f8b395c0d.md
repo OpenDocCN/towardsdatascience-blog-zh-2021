@@ -52,11 +52,7 @@
 
 本文附有[资源库](https://github.com/isenilov/ml-pipeline)，里面有完整系统的代码和运行指令。
 
-[](https://github.com/isenilov/ml-pipeline) [## GitHub - isenilov/ml-pipeline:用于 NLP 任务的基本但完整的机器学习管道
-
-### 这篇文章(TODO: add link)介绍了如何构建基本而完整的 ML 管道来解决 NLP…
-
-github.com](https://github.com/isenilov/ml-pipeline) 
+<https://github.com/isenilov/ml-pipeline>  
 
 让我们详细回顾一下组件。
 

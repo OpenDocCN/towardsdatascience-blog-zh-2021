@@ -71,15 +71,7 @@ AB 测试是一种控制与特定变更相关的业务风险的机制。每个�
 
 那么你可能也会喜欢我的另一个关于 AB 测试的帖子:
 
-[](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9) [## 为 AB 测试找到正确的显著性水平
-
-### 为什么使用默认的 95%显著性和 80%功效水平的 AB 测试可能无法评估业务风险…
-
-towardsdatascience.com](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9) [](/ab-testing-challenges-in-social-networks-e67611c92916) [## 社交网络中的 AB 测试挑战
-
-### 脸书和他的同事如何在 AB 测试中克服互联用户的挑战。
-
-towardsdatascience.com](/ab-testing-challenges-in-social-networks-e67611c92916) 
+</finding-the-right-significance-level-for-an-ab-test-26d907ca91c9>  </ab-testing-challenges-in-social-networks-e67611c92916>  
 
 ## 参考资料和进一步阅读
 

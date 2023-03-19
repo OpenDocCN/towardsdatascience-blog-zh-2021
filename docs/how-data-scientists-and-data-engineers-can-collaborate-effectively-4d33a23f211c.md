@@ -68,16 +68,4 @@
 
 ## 你可能也会喜欢…
 
-[](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) [## 我作为数据工程师学到的 6 个最佳实践
-
-### 以及作为数据科学家如何应用它们
-
-towardsdatascience.com](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) [](/my-experience-as-a-data-engineer-vs-a-data-scientist-9ad0bcb26b61) [## 我作为数据工程师和数据科学家的经历
-
-### 如何确保成功过渡
-
-towardsdatascience.com](/my-experience-as-a-data-engineer-vs-a-data-scientist-9ad0bcb26b61) [](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3) [## 作为数据科学家，你不应该应用的 6 个糟糕的数据工程实践
-
-### 你应该做什么
-
-towardsdatascience.com](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3)
+</6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa>  </my-experience-as-a-data-engineer-vs-a-data-scientist-9ad0bcb26b61>  </6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3> 

@@ -62,20 +62,4 @@ import multiprocessing as mppartial_jaccard = partial(jaccard_score, target)with
 
 **参考文献**
 
-[](https://en.wikipedia.org/wiki/Jaccard_index) [## Jaccard 索引
-
-### Jaccard 指数，也称为 Jaccard 相似系数，是一种用于衡量相似性和相似性的统计量
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Jaccard_index) [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html) [## sk learn . metrics . JAC card _ score-sci kit-learn 0 . 24 . 1 文档
-
-### Jaccard 相似系数得分。Jaccard 指数[1]，或 Jaccard 相似系数，定义为…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html)  [## 多重处理-基于进程的并行性- Python 3.9.1 文档
-
-### 是一个支持使用类似于模块的 API 生成进程的包。该套餐提供本地和…
-
-docs.python.org](https://docs.python.org/3/library/multiprocessing.html) [](https://github.com/caseywhorton/medium-blog-code) [## GitHub-Casey Horton/medium-blog-code
-
-### 在 GitHub 上创建一个帐户，为 Casey Horton/medium-blog-code 开发做贡献。
-
-github.com](https://github.com/caseywhorton/medium-blog-code)
+<https://en.wikipedia.org/wiki/Jaccard_index>  <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html>    <https://github.com/caseywhorton/medium-blog-code> 

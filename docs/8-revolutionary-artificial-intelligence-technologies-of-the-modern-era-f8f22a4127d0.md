@@ -24,11 +24,7 @@
 
 我强烈推荐通过下面提供的链接查阅下面这篇关于神经网络的有趣而复杂的历史的文章。它对现在导致深度学习和神经网络流行的历史事件提供了详细而简明的指导。
 
-[](/the-complete-interesting-and-convoluted-history-of-neural-networks-2764a54e9e76) [## 神经网络的完整有趣和复杂的历史！
-
-### 重温人工神经网络发展背后的迷人历史
-
-towardsdatascience.com](/the-complete-interesting-and-convoluted-history-of-neural-networks-2764a54e9e76) 
+</the-complete-interesting-and-convoluted-history-of-neural-networks-2764a54e9e76>  
 
 在这篇文章中，我们将讨论八种这样的革命性人工智能技术，这些技术已经或将肯定会影响我们都是其中一部分的领域的前景和观点。这篇文章旨在关注当代现有或即将到来的技术，以及人工智能如何与这些巨大的技术相结合，将如何发展和彻底改变我们的社会。
 
@@ -52,11 +48,7 @@ towardsdatascience.com](/the-complete-interesting-and-convoluted-history-of-neur
 
 如果你有兴趣使用深度学习和计算机视觉从零开始建立一个类似的人脸识别模型，我会推荐你们所有人查看下面的文章。
 
-[](/smart-face-lock-system-6c5a77aa5d30) [## 智能面部锁定系统
-
-### 建立高精度人脸识别模型
-
-towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30) 
+</smart-face-lock-system-6c5a77aa5d30>  
 
 智能手机中的其他人工智能活动还包括一些自然语言处理和机器学习创新，如自动更正和自动完成功能。这两种技术都极大地有助于为使用这些设备的用户带来独特性、效率和舒适性。
 
@@ -128,11 +120,7 @@ OpenAI 开发的 GPT-3 可以被认为是一种语言生成算法，它可以像
 
 我强烈推荐看看我以前的一篇关于预测下一个单词的文章。它不像神话般的 GPT-3 架构那样先进，但它应该让你简要了解自然语言过程、深度学习和神经网络的概念如何用于创建壮观的事物。
 
-[](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [## 基于自然语言处理和深度学习的下一个单词预测
-
-### 使用 LSTM 设计单词预测系统
-
-towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) 
+</next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf>  
 
 一些人批评 GPT-3 太好了，以至于它绕过了人类水平的智力，与人类并肩竞争。这种每次计算和产生新结果的能力会导致欺诈活动。然而，这种讨论不是本文的范围，因为我们将只关注积极的方面。OpenAI 团队创建的 GPT-3 模型将成为未来几年技术进步的革命性一步。
 
@@ -172,11 +160,7 @@ GIF 来自 [Giphy](https://media.giphy.com/media/v4sOCVX9Dhsv6/giphy.gif)
 
 你开发的这个模型应该有助于更好地理解聊天机器人是如何工作的，也使你能够更好地了解虚拟助手以及 GPT-3 模型的工作。您可以通过下面提供的链接来查看。
 
-[](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
-
-### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
-
-towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) 
+</innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc>  
 
 随着科技的快速发展，虚拟助理在现代社会中的作用越来越大。在不久的将来，这些虚拟助理的数量和需求将不断增加。因此，这是一个学习和体验人工智能虚拟辅助技术的好时机。
 
@@ -222,11 +206,7 @@ GIF 来自 [GIPHY](https://giphy.com/gifs/valve-half-life-half-life-alyx-Kecehv8
 
 我强烈建议从下面提供的链接中查看下面的文章，以更深入地了解物联网和人工智能的主题。
 
-[](/iot-and-ai-a-powerful-evolution-for-future-generations-78ac07a9c3b) [## 物联网和人工智能:未来几代人的强大进化！
-
-### 物联网结合人工智能，将是人类未来的一次进化。这里是…
-
-towardsdatascience.com](/iot-and-ai-a-powerful-evolution-for-future-generations-78ac07a9c3b) 
+</iot-and-ai-a-powerful-evolution-for-future-generations-78ac07a9c3b>  
 
 # 结论:
 
@@ -254,27 +234,7 @@ towardsdatascience.com](/iot-and-ai-a-powerful-evolution-for-future-generations-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [## 从数据科学中赚取收入的 5 种最佳方式！
-
-### 探索作为数据科学爱好者或数据科学家的五种最佳创收方式！
-
-towardsdatascience.com](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [## 数据科学的 10 大最佳工具和技术！
-
-### 每个数据科学家都必须考虑探索的 10 种最佳工具和技术，以获得更好的曝光率和更高的…
-
-towardsdatascience.com](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) 
+</mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  </5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6>  </10-best-tools-and-technologies-for-data-science-e335fb99c2f2>  </15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  </do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！
 

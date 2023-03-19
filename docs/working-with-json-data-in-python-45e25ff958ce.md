@@ -97,16 +97,4 @@ example.json 如下所示
 
 谢谢你坚持到最后。我欢迎你阅读我的另一篇文章。
 
-[](/skip-gram-neural-network-for-graphs-83b8f308bf87) [## 图的跳格神经网络
-
-### 本文将深入探讨节点嵌入的更多细节。如果你缺乏直觉和对节点嵌入的理解…
-
-towardsdatascience.com](/skip-gram-neural-network-for-graphs-83b8f308bf87) [](/node-embeddings-for-beginners-554ab1625d98) [## 初学者的节点嵌入
-
-### 节点嵌入在开始时可能很困难。这篇文章为你提供了直觉，这样你就可以阅读更多…
-
-towardsdatascience.com](/node-embeddings-for-beginners-554ab1625d98) [](/graph-coloring-with-networkx-88c45f09b8f4) [## 网络图着色
-
-### 图着色问题的解决方案在概念上很简单，但在应用上却很强大。本教程展示了…
-
-towardsdatascience.com](/graph-coloring-with-networkx-88c45f09b8f4)
+</skip-gram-neural-network-for-graphs-83b8f308bf87>  </node-embeddings-for-beginners-554ab1625d98>  </graph-coloring-with-networkx-88c45f09b8f4> 

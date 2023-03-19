@@ -32,12 +32,4 @@ T4 对数据科学家的需求近年来有所增长，但与此同时，获得�
 
 作为一名数据科学家，你可能认为你应该只申请需要建立模型的工作，但现在你知道还有其他的可能性。我提到的选择可能并不理想，但另一种选择可能是留在你目前的工作岗位上，这份工作可能会因为预算削减而面临风险，或者如果你缺乏经验，就找不到工作。不管你选择哪条路，我希望你的求职早点结束。
 
-[](/what-you-should-know-before-starting-a-career-in-data-analytics-4a39e80bafa0) [## 在开始数据分析职业生涯之前，你应该知道什么
-
-### 期望与现实
-
-towardsdatascience.com](/what-you-should-know-before-starting-a-career-in-data-analytics-4a39e80bafa0) [](https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322) [## 如何减轻数据分析工作的压力
-
-### 防止压力情境形成的小贴士
-
-madfordata.medium.com](https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322)
+</what-you-should-know-before-starting-a-career-in-data-analytics-4a39e80bafa0>  <https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322> 

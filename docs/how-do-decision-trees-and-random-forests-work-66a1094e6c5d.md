@@ -119,27 +119,11 @@ In part 2, we will investigate random forests, and see how they compare to decis
 
 ## Further Reading
 
-[](https://www.cdc.gov/nchs/fastats/body-measurements.htm) [## FastStats
-
-### Men: Height in inches: 69.0 Weight in pounds: 199.8 Waist circumference in inches: 40.5 Height in inches: 63.5 Weight…
-
-www.cdc.gov](https://www.cdc.gov/nchs/fastats/body-measurements.htm) [](http://www.icyousee.org/titanic.html) [## Titanic: Demographics of the Passengers
-
-### Demographics of the TITANIC Passengers: Deaths, Survivals, Nationality, and Lifeboat Occupancy I hesitated before…
-
-www.icyousee.org](http://www.icyousee.org/titanic.html) [](https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=42b704775edff7eb2f7eef0d5185e66f) [## Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!)
-
-### Amazon.com: Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!) (8582569999992)…
-
-www.amazon.com](https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=42b704775edff7eb2f7eef0d5185e66f) 
+<https://www.cdc.gov/nchs/fastats/body-measurements.htm>  <http://www.icyousee.org/titanic.html>  <https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=42b704775edff7eb2f7eef0d5185e66f>  
 
 (Note that the Amazon link above is an affiliate link.)
 
-[](/use-rattle-to-help-you-learn-r-d495c0cc517f) [## Use Rattle to Help You Learn R
-
-### A beginner’s guide
-
-towardsdatascience.com](/use-rattle-to-help-you-learn-r-d495c0cc517f) 
+</use-rattle-to-help-you-learn-r-d495c0cc517f>  
 
 ## R Code
 

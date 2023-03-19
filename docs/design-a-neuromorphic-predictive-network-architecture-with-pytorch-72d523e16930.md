@@ -89,20 +89,4 @@ PYNMSNN 是一个开源库，非常适合:-
 
 [https://arxiv.org/ftp/arxiv/papers/1809/1809.09707.pdf](https://arxiv.org/ftp/arxiv/papers/1809/1809.09707.pdf)
 
-[](https://www.frontiersin.org/articles/10.3389/fnins.2020.00662/full) [## 优化用于神经形态应用的脉冲神经网络的能量消耗
-
-### 在过去的几年里，脉冲神经网络(SNNs)已被证明具有与常规神经网络相当的性能
-
-www.frontiersin.org](https://www.frontiersin.org/articles/10.3389/fnins.2020.00662/full) [](https://pytorch.org/) [## PyTorch
-
-### 推动自然语言处理和多任务学习的发展。利用 PyTorch 的灵活性有效地研究新的…
-
-pytorch.org](https://pytorch.org/)  [## 赫比理论-维基百科
-
-### 赫布边理论是一个神经科学理论，声称突触效能的增加来自于突触前…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Hebbian_theory) [](/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b) [## 脉冲神经网络，下一代机器学习
-
-### 每个远程关注机器学习最新进展的人都听说过当前的第二代机器…
-
-towardsdatascience.com](/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
+<https://www.frontiersin.org/articles/10.3389/fnins.2020.00662/full>  <https://pytorch.org/>    </spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b> 

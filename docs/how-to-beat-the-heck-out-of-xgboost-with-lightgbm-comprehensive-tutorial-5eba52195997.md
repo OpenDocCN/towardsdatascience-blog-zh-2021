@@ -27,19 +27,11 @@
 *   使用 LGBM 实现成功的交叉验证
 *   使用 Optuna 进行超参数调谐(第二部分)
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # XGBoost 与 LightGBM
 
@@ -165,16 +157,4 @@ LGBM 中的直方图宁滨内置了对缺失值和分类特征的处理支持。
 
 # 您可能也会感兴趣…
 
-[![](img/d1f61af83178ef33ca100733ae58308c.png)](https://towardsdatascience.com/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8)[![](img/9ec4cc046e31e09d7f8d3dd2b579cc2d.png)](https://towardsdatascience.com/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5?source=your_stories_page-------------------------------------)[](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9) [## 厌倦了陈词滥调的数据集？以下是来自所有领域的 18 个令人敬畏的选择
-
-### 编辑描述
-
-towardsdatascience.com](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9) [](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [## 喜欢 3Blue1Brown 动画？了解如何在 10 分钟内用 Python 创建自己的
-
-### 编辑描述
-
-towardsdatascience.com](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 编辑描述
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
+[![](img/d1f61af83178ef33ca100733ae58308c.png)](https://towardsdatascience.com/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8)[![](img/9ec4cc046e31e09d7f8d3dd2b579cc2d.png)](https://towardsdatascience.com/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5?source=your_stories_page-------------------------------------)</tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9>  </love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4> 

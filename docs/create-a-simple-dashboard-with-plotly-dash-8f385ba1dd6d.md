@@ -4,11 +4,7 @@
 
 自从上次我使用意甲数据并用 Plotly 创建了一些图表(通过下面的链接查看文章)，我想我应该更进一步，尝试创建一个仪表板，这样我就可以在一个页面上显示所有有趣的图表——这就是今天更新的开始。
 
-[](/visualise-serie-a-football-league-data-with-pandas-and-plotly-3d26bcf26f2d) [## 可视化与熊猫和 Plotly 意甲(足球联赛)数据
-
-### 上次我用意甲数据比赛，试图了解更多关于米兰德比的信息。然后我在想…
-
-towardsdatascience.com](/visualise-serie-a-football-league-data-with-pandas-and-plotly-3d26bcf26f2d) ![](img/d96920087aee9226a3799457e51502ff.png)
+</visualise-serie-a-football-league-data-with-pandas-and-plotly-3d26bcf26f2d>  ![](img/d96920087aee9226a3799457e51502ff.png)
 
 照片由[达维德·扎维亚](https://unsplash.com/@davealmine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/dashboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 

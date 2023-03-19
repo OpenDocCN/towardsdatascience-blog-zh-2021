@@ -137,19 +137,7 @@
 
 **如果您喜欢这篇文章，您可能还会对以下内容感兴趣:**
 
-**[](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [## 脸书的先知+深度学习= NeuralProphet
-
-### 用深度学习的力量改进可解释的先知模型
-
-towardsdatascience.com](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [](/choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac) [## 选择正确的误差度量:MAPE 与斯马普
-
-### 两种流行的误差度量标准的利弊
-
-towardsdatascience.com](/choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac) [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [## 5 个提高我工作效率的免费工具
-
-### 这不是一个好的 IDE，尽管它很有帮助！
-
-towardsdatascience.com](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) 
+**</facebooks-prophet-deep-learning-neuralprophet-76796aed1d86>  </choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac>  </5-free-tools-that-increase-my-productivity-c0fafbbbdd42>  
 
 # 参考
 

@@ -12,27 +12,15 @@
 
 因为要得到一份数据科学家的工作，T2 的竞争非常激烈。
 
-[](https://www.kdnuggets.com/2020/10/getting-data-science-job-harder.html) [## 获得数据科学工作比以往任何时候都难——如何将这一点转化为你的优势——KD nuggets
-
-### 尽管许多有抱负的数据科学家发现找工作变得比以前更难了…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2020/10/getting-data-science-job-harder.html) 
+<https://www.kdnuggets.com/2020/10/getting-data-science-job-harder.html>  
 
 因为有一个**狂冲**。每一种工程师、科学家和职业人士都称自己为数据科学家。
 
-[](https://www.linkedin.com/pulse/why-so-many-fake-data-scientist-bernard-marr/) [## 为什么有这么多“假”数据科学家？
-
-### 你注意到有多少人突然自称为数据科学家了吗？你的邻居，你在一个…
-
-www.linkedin.com](https://www.linkedin.com/pulse/why-so-many-fake-data-scientist-bernard-marr/) 
+<https://www.linkedin.com/pulse/why-so-many-fake-data-scientist-bernard-marr/>  
 
 因为你不确定你是否能在这方面取得成功。请记住**冒名顶替综合症**在数据科学中很流行。
 
-[](/how-to-manage-impostor-syndrome-in-data-science-ad814809f068) [## 如何管理数据科学中的冒名顶替综合症
-
-### 如果他们发现你一无所知怎么办？
-
-towardsdatascience.com](/how-to-manage-impostor-syndrome-in-data-science-ad814809f068) 
+</how-to-manage-impostor-syndrome-in-data-science-ad814809f068>  
 
 我可以继续，但你要明白…
 
@@ -109,59 +97,31 @@ towardsdatascience.com](/how-to-manage-impostor-syndrome-in-data-science-ad81480
 
 *   **仅使用 Jupyter 笔记本电脑构建可安装软件包**
 
-[](https://www.fast.ai/2019/12/02/nbdev/) [## nbdev:使用 Jupyter 笔记本做任何事情
-
-### “我真的认为[nbdev]是编程环境向前迈出的一大步”:Swift 的发明者克里斯·拉特纳…
-
-www.fast.ai](https://www.fast.ai/2019/12/02/nbdev/) 
+<https://www.fast.ai/2019/12/02/nbdev/>  
 
 *   **如何制作一个很棒的 Python 包—一步一步来**
 
-[](https://antonz.org/python-packaging/) [## 如何在 2021 年做出一个牛逼的 Python 包
-
-### 如果你像我一样，每隔一段时间就写一个有用的 python 实用程序，想和同事们分享一下…
-
-antonz.org](https://antonz.org/python-packaging/) 
+<https://antonz.org/python-packaging/>  
 
 *   学习如何在你自己的 ML 模型和模块开发中集成单元测试原则
 
-[](/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8) [## 用于机器学习的 PyTest 一个简单的基于示例的教程
-
-### 我们展示了如何使用 PyTest 为一个简单的机器学习模块编写有效的测试函数。
-
-towardsdatascience.com](/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8) 
+</pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8>  
 
 *   **学习如何在数据科学任务中整合面向对象编程原则**
 
-[](/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64) [## 面向数据科学家的面向对象编程:构建您的 ML 估计器
-
-### 通过构建自己的 Scikit-learn-like，在机器学习环境中实现一些核心的 OOP 原则…
-
-towardsdatascience.com](/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64) 
+</object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64>  
 
 *   **使用简单的 Python 脚本构建交互式 web 应用——不需要 HTML/CSS 知识**
 
-[](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) 
+</pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e>  
 
 *   **直接从你的 Jupyter 笔记本上写下所有的编程和技术书籍。也可以用它来构建文档。**
 
-[](https://jupyterbook.org/intro.html) [## Jupyter 的书
-
-### Jupyter Book 是一个开源项目，用于从……
-
-jupyterbook.org](https://jupyterbook.org/intro.html) 
+<https://jupyterbook.org/intro.html>  
 
 *   **理解现实生活中分析问题的多面复杂性，以及它不仅仅是建模和预测**
 
-[](https://medium.com/analytics-vidhya/why-a-business-analytics-problem-demands-all-of-your-expertise-at-once-1290170808c4) [## 为什么业务分析问题需要您所有的数据科学技能
-
-### 对于现实生活中的业务问题，数据驱动分析的现代实践总是一个复杂的混合体…
-
-medium.com](https://medium.com/analytics-vidhya/why-a-business-analytics-problem-demands-all-of-your-expertise-at-once-1290170808c4) 
+<https://medium.com/analytics-vidhya/why-a-business-analytics-problem-demands-all-of-your-expertise-at-once-1290170808c4>  
 
 > 想象一下，在面试委员会看来，你与其他所有在统计学和梯度下降等常规问题上表现出色，但没有提供全面能力证明的候选人有多么不同。
 
@@ -199,8 +159,4 @@ medium.com](https://medium.com/analytics-vidhya/why-a-business-analytics-problem
 
 喜欢这篇文章吗？成为 [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而不会对您产生额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入 Medium—Tirthajyoti Sarkar
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

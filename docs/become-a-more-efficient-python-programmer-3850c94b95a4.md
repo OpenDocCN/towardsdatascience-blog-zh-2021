@@ -16,15 +16,7 @@
 
 *要查看 lambda 函数、map 和/或 reduce 函数和/或 list comprehensions，请查看:*
 
-[](/three-functions-to-know-in-python-4f2d27a4d05) [## Python 中需要了解的三个函数
-
-### 了解如何使用 python 中的映射、过滤和归约函数
-
-towardsdatascience.com](/three-functions-to-know-in-python-4f2d27a4d05) [](/list-comprehensions-in-python-28d54c9286ca) [## Python 中的列表理解
-
-### 用 python 创建列表的更优雅、更简洁的方式
-
-towardsdatascience.com](/list-comprehensions-in-python-28d54c9286ca) 
+</three-functions-to-know-in-python-4f2d27a4d05>  </list-comprehensions-in-python-28d54c9286ca>  
 
 # 创建列表
 
@@ -106,11 +98,7 @@ Time for the list comprehension: 3.3324222999999904***
 
 > ***基于这些结果，以及列表理解通常比映射和过滤函数以及 for 循环更容易阅读和理解的事实，使列表理解成为我创建列表的首选方法。***
 
-*[](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc) [## 成为更好的 Python 程序员的三个概念
-
-### 了解 Python 中的*和**运算符，*args 和**kwargs 以及更多内容
-
-towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc)* 
+*</three-concepts-to-become-a-better-python-programmer-b5808b7abedc> * 
 
 # *减少功能*
 
@@ -171,11 +159,7 @@ Time for reduce: 1.684817700000167***
 
 > *正如我们所看到的，与 reduce 函数相比，for 循环的执行时间更少。然而，在我们决定使用 for 循环来完成类似于获取 iterable 的乘积的任务之前，让我们看看专用函数在计算效率方面能提供什么。*
 
-*[](/linear-algebra-for-machine-learning-22f1d8aea83c) [## 用于机器学习的线性代数
-
-### 用于机器学习的线性代数概念综述
-
-towardsdatascience.com](/linear-algebra-for-machine-learning-22f1d8aea83c)* 
+*</linear-algebra-for-machine-learning-22f1d8aea83c> * 
 
 ## *减少与专用功能*
 
@@ -221,11 +205,7 @@ Time for builtin min: 0.6109481999999389***
 
 *如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *报名，我会赚一小笔佣金。**
 
-*[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)* 
+*<https://lmatalka90.medium.com/membership> * 
 
 # *摘要*
 

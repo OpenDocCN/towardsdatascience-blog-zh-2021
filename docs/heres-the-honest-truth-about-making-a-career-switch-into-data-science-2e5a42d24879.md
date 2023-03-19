@@ -44,11 +44,7 @@
 *   如果你想进入深度学习的世界，你能创建一个检测某人是否戴着面具的模型吗？(YouTube 上有很多教程！)
 *   对于更多的项目想法，我会检查如下:
 
-[](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) [## 圣诞节 12 天的 12 个数据科学项目
-
-### 一天就能完成的相关且有价值的数据科学项目！
-
-towardsdatascience.com](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) 
+</12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b>  
 
 # 如果你还没有为一个项目做好准备…
 
@@ -61,15 +57,7 @@ towardsdatascience.com](/12-data-science-projects-for-12-days-of-christmas-aff69
 
 最后，这里有几个资源可以帮助你开始:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [](/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12) [## 在你第一份工作之前获得现实生活数据科学经验的 3 种方法
-
-### 如何通过以下方式发展您的数据科学技能
-
-towardsdatascience.com](/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  </3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12>  
 
 # 感谢阅读！
 
@@ -83,19 +71,11 @@ towardsdatascience.com](/3-ways-to-get-real-life-data-science-experience-before-
 
 **不确定接下来该读什么？我为你挑选了另一篇文章:**
 
-[](/why-you-should-consider-being-a-data-engineer-instead-of-a-data-scientist-2cf4e19dc019) [## 为什么你应该考虑成为一名数据工程师而不是数据科学家。
-
-### 一个新的丛林之王出现了
-
-towardsdatascience.com](/why-you-should-consider-being-a-data-engineer-instead-of-a-data-scientist-2cf4e19dc019) 
+</why-you-should-consider-being-a-data-engineer-instead-of-a-data-scientist-2cf4e19dc019>  
 
 **又一个！**
 
-[](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) [## 想成为数据科学家？不要从机器学习开始。
-
-### 有抱负的数据科学家最大的误解是
-
-towardsdatascience.com](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) 
+</want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f>  
 
 # 特伦斯·申
 

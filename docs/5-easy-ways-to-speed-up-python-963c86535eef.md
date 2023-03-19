@@ -24,11 +24,7 @@ Python 很快发现自己是世界上最受欢迎的编程语言之一，在 T2 
 
 Python 的标准库中也包含了一个很好的模块来加速这些循环技术，它就是 Itertools。Itertools 模块附带了一些工具，可以通过其他包而不是 Python.h 提供的替代 C 实现快速循环。这些函数通常会导致更快的迭代。我有一整篇文章更详细地介绍了使用 itertools 加速一些算法的例子，你可以在这里阅读:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 # №2:线程
 
@@ -80,11 +76,7 @@ x.start()
 
 Python 中通常使用的包是一个名为 Numba 的包。Numba 实现的伟大之处在于它非常容易使用！Numba 使用一个简单的装饰器让 Python 在某些函数和类上激活 JIT。我写了一篇关于 Numba 的文章，如果你想了解更多，可以看看:
 
-[](/numba-jit-compilation-but-for-python-373fc2f848d6) [## Numba: JIT 编译，但是用于 Python
-
-### 快速浏览一下 2020 年让 Python 变得更好的神奇工具。
-
-towardsdatascience.com](/numba-jit-compilation-but-for-python-373fc2f848d6) 
+</numba-jit-compilation-but-for-python-373fc2f848d6>  
 
 # №4: Cython
 
@@ -141,11 +133,7 @@ def example(io_array):
 
 现在我们知道了并行计算，我们应该考虑到这种语言的实现肯定不是世界上最好的。Python 有缺点，并行计算无疑是其中之一。与其他语言相比，在 Python 中使用 CUDA 总是更加困难，因为它的基础从来没有考虑到并行计算。这是 Julia 的一个优点，它是在并行计算开始流行的时候建立的。我有一篇文章详细介绍了如何使用它的 CUDA 实现，对于那些对 Julia 感兴趣的人，你可以在这里阅读:
 
-[](/julias-fantastic-cuda-implementation-and-why-it-is-better-than-python-s-ca76e575c526) [## Julia 神奇的 CUDA 实现
-
-### 使用 CUDA.jl 包探索简单并行计算的真正力量。
-
-towardsdatascience.com](/julias-fantastic-cuda-implementation-and-why-it-is-better-than-python-s-ca76e575c526) 
+</julias-fantastic-cuda-implementation-and-why-it-is-better-than-python-s-ca76e575c526>  
 
 另一个巨大的负面影响是，为了实际使用并行计算，你需要一个图形处理单元。图形卡是计算机中最昂贵的硬件之一，所以获得一个能够帮助你的代码快速运行的图形卡是非常困难的，这是这种技术的一个很大的缺点。此外，如果你像我一样喜欢笔记本电脑的便利性，很可能你不会找到一款内置图形处理器的非常轻的笔记本电脑。就个人而言，我喜欢 11-13 英寸的笔记本电脑，但我通常会选择体积庞大的 15 英寸笔记本电脑，这不是我对电脑的偏好。
 

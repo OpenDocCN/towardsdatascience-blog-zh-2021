@@ -130,11 +130,7 @@ Typer 是一个基于 Python 的类型提示构建命令行界面(CLI)应用程�
 
 你可以在这里找到关于 Typer 的综合教程:
 
-[](/typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8) [## Typer:使用 Python 在一行代码中构建强大的 CLI
-
-### 在命令行上轻松地向 Python 函数添加参数
-
-towardsdatascience.com](/typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8) 
+</typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8>  
 
 ## 用语法在终端上打印代码
 
@@ -156,11 +152,7 @@ Rich 是一个 Python 库，用于终端中丰富的文本和漂亮的格式。�
 
 你可以在这里找到 Rich 的完整教程:
 
-[](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [## Rich:用 Python 在终端生成丰富美观的文本
-
-### 用几行代码调试和创建很酷的 Python 包
-
-towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) 
+</rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e>  
 
 ## 出版
 
@@ -176,11 +168,7 @@ towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-w
 
 在这里找到完整的诗歌教程:
 
-[](/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f) [## 如何使用诗歌毫不费力地将 Python 包发布到 PyPI
-
-### 在 10 分钟内分享您有用的 Python 工具
-
-towardsdatascience.com](/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f) 
+</how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f>  
 
 # 结论
 
@@ -190,28 +178,12 @@ towardsdatascience.com](/how-to-effortlessly-publish-your-python-package-to-pypi
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/applications/python_snippet_tutorial) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/applications/python_snippet_tutorial) 
+<https://github.com/khuyentran1401/Data-science/tree/master/applications/python_snippet_tutorial>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [## Datapane 简介:构建交互式报表的 Python 库
+</introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 创建精美报告并与您的团队分享分析结果的简单框架
-
-towardsdatascience.com](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0> 

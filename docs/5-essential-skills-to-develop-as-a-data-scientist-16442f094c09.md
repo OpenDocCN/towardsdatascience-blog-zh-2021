@@ -16,11 +16,7 @@
 
 在我们开始探讨关于成长为数据科学家的五项最基本技能的文章之前，我强烈建议通过掌握基本概念来精通数据科学。为此，您可以查看我以前的一篇文章和简明指南，其中涵盖了初学者在 12 个月内成为专业数据科学家需要遵循的 12 个步骤。一旦你掌握了足够的数据科学知识，让我们继续学习成为一名数据科学家的五项必备软技能。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # 1.通讯技能
 
@@ -68,26 +64,6 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
-
-### 应该添加到简历中的五个高级自然语言处理主题和项目想法
-
-towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
-
-### 揭示人工智能，神经网络和深度学习的进步导致快速…
-
-towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [## 破解数据科学和机器学习面试的 7 个技巧！
-
-### 帮助你在数据科学和机器学习面试中表现更好的 7 个详细技巧
-
-towardsdatascience.com](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [## 在数据科学领域取得更大成功的 15 个技巧！
-
-### 作为数据科学家，每个数据科学爱好者都必须努力提高的 15 个因素
-
-towardsdatascience.com](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) 
+</5-nlp-topics-and-projects-you-should-know-about-65bc675337a0>  </ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50>  </7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3>  </8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  </15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

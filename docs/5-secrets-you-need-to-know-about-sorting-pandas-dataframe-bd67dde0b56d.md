@@ -144,7 +144,7 @@ df.loc[5,'age'] = np.nan
 
 此*衬衫 _ 尺寸 _ 代码*列可用于根据*衬衫 _ 尺寸*列对数据帧进行排序。
 
-`sort_values()`中其他不常用的参数是`kind`和`axis`。关于它的更多信息可以在这里[](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html)*。📌*
+`sort_values()`中其他不常用的参数是`kind`和`axis`。关于它的更多信息可以在这里<https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html>*。📌*
 
 *结论，*
 
@@ -154,11 +154,7 @@ df.loc[5,'age'] = np.nan
 
 *我最近发现了这个非常有用的分类熊猫数据帧的指南。这可能也会让你感兴趣。*
 
-*[](/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8) [## 熊猫数据帧“分类”实践指南
-
-### 对熊猫的数据进行排序的十种简单方法
-
-towardsdatascience.com](/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8) 
+*</a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8>  
 
 📚完整的 [**笔记本**](https://github.com/17rsuraj/data-curious/blob/master/TowardsDataScience/5%20Ways_Master%20Pandas%20DataFrame.ipynb) 就在这里。* 
 

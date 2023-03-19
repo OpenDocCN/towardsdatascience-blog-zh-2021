@@ -82,8 +82,4 @@ Hessian matrix that organizes all the second partial derivatives of the function
 
 Louis Brulé Naudet 拥有巴黎萨克莱大学的法律和经济学/管理学双学位。
 
-[](https://louisbrulenaudet.com) [## 路易·布鲁莱·诺代
-
-### Clover 和 Lemone 共同基金会，商务和财政法专业，程序设计界面概念…
-
-louisbrulenaudet.com](https://louisbrulenaudet.com)
+<https://louisbrulenaudet.com> 

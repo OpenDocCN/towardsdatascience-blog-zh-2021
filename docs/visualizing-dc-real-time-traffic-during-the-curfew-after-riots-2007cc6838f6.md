@@ -12,11 +12,7 @@ DC 的交通流量和事故。在 [Kepler.gl](https://kepler.gl/demo) |塞犍陀
 
 谷歌地图在计算走哪条路线可以最大限度地减少旅行时间方面非常有用。然而，对于数据爱好者来说，它并不提供这些交通信息。TomTom，Waze，这里都是实时交通信息的提供者。就个人而言，我觉得这里最容易使用，它的免费 API 对于获取详细的交通信息非常有用，比如速度和事故。在之前的博客中，我讲述了如何使用 HERE traffic flow API 提取单个路段的交通速度:
 
-[](/visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563) [## 使用 HERE traffic api 可视化实时交通模式
-
-### 虽然谷歌地图显示的是实时交通状况，但却无法访问底层的交通数据。这里的技术提供了…
-
-towardsdatascience.com](/visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563) 
+</visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563>  
 
 在这里，我将说明如何提取交通事故数据，并将这里的速度/事故与谷歌地图的图像进行比较。
 

@@ -16,11 +16,7 @@ GPT-3 在一个巨大而多样的文本数据集语料库上接受训练，这�
 
 GPT-3 生成的文本质量如此之高，以至于很难确定它是否是人类写的。一项对人类受试者的实验发现，他们能够区分人类和 GPT 3 书写的文本，比随机猜测好不了多少。我自己从 GPT-3 生成的文本片段中收集了一个合理大纲的故事，并做了最少的编辑，以确保我同意其中的主要信息:
 
-[](https://medium.com/the-shortform/computers-can-make-up-written-art-such-as-novels-and-poetry-7dca96410d08) [## 计算机现在可以创作书面艺术，如小说和诗歌。
-
-### 创意写作工具的“大脑”只是运用一套规则来编一个故事。同样，您的计算机可以…
-
-medium.com](https://medium.com/the-shortform/computers-can-make-up-written-art-such-as-novels-and-poetry-7dca96410d08) 
+<https://medium.com/the-shortform/computers-can-make-up-written-art-such-as-novels-and-poetry-7dca96410d08>  
 
 如此高的输出质量当然是好的，但同时需要注意与 GPT-3 未来实际应用相关的一些非常重要的风险。例如，GPT-3 可能会泄露错误的信息，产生假新闻，产生不正确的指示，创建包含不适当内容的文本…所有这些即使应用它的程序员没有恶意。GPT 3 号从如此多的来源和如此少的人工干预中学到了如此多的东西，以至于我们无法确定它将如何对给定的提示做出准确的反应。用 OpenAI 自己的话说，潜在的问题包括包含错误信息的文本、垃圾邮件、网络钓鱼、辱骂、欺诈性学术写作、社会工程等。这些和其他可能无法预见的问题是如此严重，以至于 OpenAI 介绍 GPT-3 的论文警告了这些风险，并呼吁进行研究以理解和减轻这些风险。我特别感兴趣的是这些工具作为一种灵活的咨询来源来帮助科学研究和科学教育的潜力。因此，当被问及不同复杂程度的基础科学主题时，我想在本文和后续文章中说明 GPT-3 得出的事实的真实性。我想解决这类问题:学生们可以使用 GPT-3 作为一个全天候的老师来帮助他们完成学习和家庭作业吗？他们能用它在考试中作弊吗？研究者可以使用 GPT-3 作为灵活的咨询资源吗？GPT-3 能“意识到”(并告知)它对自己的输出没有把握吗？
 
@@ -28,15 +24,7 @@ medium.com](https://medium.com/the-shortform/computers-can-make-up-written-art-s
 
 **间奏曲:为什么这么感兴趣？**我对科技如何帮助我们更有效地学习和应用科学非常感兴趣，尤其是化学、物理和生物:
 
-[](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) [## 交互式增强现实网络应用为科学教育带来身临其境的体验…
-
-### 多媒体材料以独特的方式帮助教师更好地传递知识，帮助学生掌握概念。虚拟…
-
-pub.towardsai.net](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) [](https://medium.com/age-of-awareness/how-the-rich-geek-culture-sustained-hands-on-science-education-at-home-during-the-pandemic-9ad2aaa04a8b) [## 在疫情期间，丰富的极客文化如何在家中维持动手科学教育
-
-### 从用于家庭实验的 DIY 仪器和智能手机传感器，到商用增强现实、在线视频…
-
-medium.com](https://medium.com/age-of-awareness/how-the-rich-geek-culture-sustained-hands-on-science-education-at-home-during-the-pandemic-9ad2aaa04a8b) 
+<https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f>  <https://medium.com/age-of-awareness/how-the-rich-geek-culture-sustained-hands-on-science-education-at-home-during-the-pandemic-9ad2aaa04a8b>  
 
 # 测试 GPT-3
 

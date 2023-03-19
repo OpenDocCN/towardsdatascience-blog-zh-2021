@@ -77,11 +77,7 @@ Decimal('0.1999999999999999555910790150')
 
 查看本文，了解浮点和小数的性能比较。
 
-[](https://claudio-salvatore-arcidiacono.medium.com/dealing-with-decimal-numbers-in-python-8d2e1da2a16c) [## 用 Python 处理十进制数
-
-### Python 被用于无数的用例。在其中的一些应用中，如数据科学应用，丢失了一些小数点…
-
-claudio-salvatore-arcidiacono.medium.com](https://claudio-salvatore-arcidiacono.medium.com/dealing-with-decimal-numbers-in-python-8d2e1da2a16c) 
+<https://claudio-salvatore-arcidiacono.medium.com/dealing-with-decimal-numbers-in-python-8d2e1da2a16c>  
 
 ## 使用哪种舍入方法？
 
@@ -158,11 +154,7 @@ Decimal('3.68')
 
 我的很多想法都来自 Real Python 的这篇很棒的文章:
 
-[](https://realpython.com/python-rounding/) [## 如何在 Python 中舍入数字——真正的 Python
-
-### 在本教程中，你将学习在你舍入数字时会犯什么样的错误，以及你如何能最好地…
-
-realpython.com](https://realpython.com/python-rounding/) 
+<https://realpython.com/python-rounding/>  
 
 ## 在正确的时间(区域)处理财务数据
 
@@ -241,11 +233,7 @@ True>>> holidays.NL(years=2021)
 
 如果您对 NamedTuple 和 dataclass 感兴趣，可以随意阅读我以前的文章。
 
-[](/understand-how-to-use-namedtuple-and-dataclass-in-python-e82e535c3691) [## 了解如何在 Python 中使用 NamedTuple 和 Dataclass
-
-### 创建一个超出 __init__ 的 Python 对象
-
-towardsdatascience.com](/understand-how-to-use-namedtuple-and-dataclass-in-python-e82e535c3691) 
+</understand-how-to-use-namedtuple-and-dataclass-in-python-e82e535c3691>  
 
 ## 知道屈服的力量
 
@@ -259,11 +247,7 @@ towardsdatascience.com](/understand-how-to-use-namedtuple-and-dataclass-in-pytho
 
 这也和 Python 中叫做懒求值的概念有关。如果你想更深入一点，你可以阅读我的一篇文章:
 
-[](/what-is-lazy-evaluation-in-python-9efb1d3bfed0) [## Python 中的懒求值是什么？
-
-### 你不知道 Python 为你优化了多少代码
-
-towardsdatascience.com](/what-is-lazy-evaluation-in-python-9efb1d3bfed0) 
+</what-is-lazy-evaluation-in-python-9efb1d3bfed0>  
 
 Python 实际上在一个内置模块`[itertools](https://docs.python.org/3/library/itertools.html)`中处理这样的计算。这个模块创建了许多迭代器来实现高效的循环。你可以很容易地得到这样的排列:
 

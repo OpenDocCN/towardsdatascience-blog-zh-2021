@@ -14,11 +14,7 @@
 
 如果你已经决定 NLP 是你希望专攻的数据科学的子领域，下一步是确定你需要了解的关键领域以推进你的职业生涯。问题是，你在网上找到的许多资源都假定你已经熟悉各种术语，因此你才会登陆他们的页面，但事实并非如此。
 
-[](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) [## 从长远来看，专业化的“数据科学家”将会胜出
-
-### 成为专家会比成为多面手让你走得更远
-
-towardsdatascience.com](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) 
+</the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00>  
 
 到本文结束时，您将对在与自然语言处理(NLP)相关的各种文章中可能遇到的一些关键术语有一个清晰的认识。
 
@@ -141,16 +137,4 @@ n_grams = [unigrams, bigrams, trigrams]**for** idx, ngram **in** enumerate(n_gra
 
 ## 相关文章
 
-[](/a-glance-at-text-similarity-52e607bfe920) [## 文本相似性一瞥
-
-### 如何计算文档之间的相似度
-
-towardsdatascience.com](/a-glance-at-text-similarity-52e607bfe920) [](/a-guide-to-encoding-text-in-python-ef783e50f09e) [## Python 文本编码指南
-
-### 教计算机理解人类语言
-
-towardsdatascience.com](/a-guide-to-encoding-text-in-python-ef783e50f09e) [](/a-guide-to-cleaning-text-in-python-943356ac86ca) [## Python 文本清理指南
-
-### 为机器阅读准备自然语言
-
-towardsdatascience.com](/a-guide-to-cleaning-text-in-python-943356ac86ca)
+</a-glance-at-text-similarity-52e607bfe920>  </a-guide-to-encoding-text-in-python-ef783e50f09e>  </a-guide-to-cleaning-text-in-python-943356ac86ca> 

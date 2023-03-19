@@ -202,19 +202,7 @@ admin.site.register(Person)
 
 # 相关文章
 
-[](https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa) [## 通过 Gradio 在 Jupyter 中构建快速交互式仪表板
-
-### 关于 Gradio 的现成教程，这是一个非常强大的 Python 包，用于机器学习演示。
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa) [](/how-to-run-animations-in-altair-and-streamlit-2a0624789ad) [## 如何在 Altair 和 Streamlit 中运行动画
-
-### 一个现成的教程，描述了如何使用 Altair 和 Streamlit 构建动画折线图。
-
-towardsdatascience.com](/how-to-run-animations-in-altair-and-streamlit-2a0624789ad) [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [## 数据可视化原理第 2 部分:布局和重点
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) 
+<https://pub.towardsai.net/building-a-fast-interactive-dashboard-in-jupyter-through-gradio-95a1981772aa>  </how-to-run-animations-in-altair-and-streamlit-2a0624789ad>  </data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217>  
 
 离开前再多说一句:**你可以从[我的 Github 库](https://github.com/alod83/data-science/tree/master/DataVisualization/Django/mywebsite):)下载本教程的完整代码**
 

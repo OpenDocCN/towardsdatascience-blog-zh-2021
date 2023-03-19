@@ -125,11 +125,7 @@
 
 LASSO 和岭回归的区别在于 LASSO 使用权重的 L1 范数而不是 L2 范数。损失函数中的这种 L1 范数倾向于增加学习到的权重的稀疏性。关于它如何加强稀疏性的更多细节可以在下面文章的章节 ***L1 正则化*** 中找到。
 
-[](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) [## 机器学习中的正则化类型
-
-### 机器学习正则化初学者指南。
-
-towardsdatascience.com](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) 
+</types-of-regularization-in-machine-learning-eb5ce5f9bf50>  
 
 常数α> 0 用于控制学习权重中拟合和稀疏度之间的折衷。较大的α值会导致较差的拟合，但会导致学习到的权重集更稀疏。另一方面，较小的 alpha 值导致训练数据点的紧密拟合(可能会导致过度拟合)，但权重集不太稀疏。
 
@@ -216,10 +212,6 @@ ElasticNet 回归是脊和套索回归的组合。损失项包括权重的 L1 �
 
 可以在下面的链接中找到这个主题和机器学习中许多其他重要主题的紧凑备忘单
 
-[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+<https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f>  
 
 如果这篇文章对你有帮助，欢迎鼓掌、分享和回复。如果想了解更多关于机器学习和数据科学的知识，关注我[**Aqeel an war**](https://medium.com/u/a7cc4f201fb5?source=post_page-----8a828b491bbf--------------------------------)**，或者在**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***上联系我。***

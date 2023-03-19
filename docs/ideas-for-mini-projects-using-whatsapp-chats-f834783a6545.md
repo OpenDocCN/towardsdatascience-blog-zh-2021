@@ -66,7 +66,7 @@
 *   *这里的计数表示对应于每个唯一日期发送的消息数。*
 *   *将日期设置为数据框索引，将计数设置为单独的要素列*
 
-*现在你可以将时间序列分解成**趋势、季节性和残差。** **这是一篇很棒的**[](/time-series-from-scratch-decomposing-time-series-data-7b7ad0c30fe7?source=user_profile---------1----------------------------)****文章，可以帮助你分解时间序列。您还可以检查时间序列中的自相关性。*****
+*现在你可以将时间序列分解成**趋势、季节性和残差。** **这是一篇很棒的**</time-series-from-scratch-decomposing-time-series-data-7b7ad0c30fe7?source=user_profile---------1---------------------------->****文章，可以帮助你分解时间序列。您还可以检查时间序列中的自相关性。*****
 
 # ***预测你会用什么表情符号来表达某个句子***
 
@@ -100,20 +100,4 @@
 
 ***如果你喜欢这篇文章，这里有更多！***
 
-***[](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) [](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [## 使用 Plotly 在一个动画情节中表现 5 个特征
-
-### 使用单个动画气泡图来分析数据和观察趋势。
-
-towardsdatascience.com](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/effortless-exploratory-data-analysis-eda-201c99324857) [## 轻松的探索性数据分析(EDA)
-
-towardsdatascience.com](/effortless-exploratory-data-analysis-eda-201c99324857) 
-
-查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！***
+***</regex-essential-for-nlp-ee0336ef988d>  </representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </effortless-exploratory-data-analysis-eda-201c99324857>  其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！***

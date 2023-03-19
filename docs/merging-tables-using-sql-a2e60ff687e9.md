@@ -291,11 +291,7 @@ Left join 按列合并两个表，并返回左表中的所有记录，但只返�
 
 *我们将使用从[这里](https://www.postgresqltutorial.com/postgresql-sample-database/)下载的 dvd_rental 数据库并恢复它。下面是在 PostgreSQL 中恢复数据库的文档。*
 
- *[## 还原对话框- pgAdmin 4 5.2 文档
-
-### “还原”对话框提供了一种简单的方法来使用自定义、tar 或目录格式的备份，这些备份是通过 pgAdmin 对话框进行的…
-
-www.pgadmin.org](https://www.pgadmin.org/docs/pgadmin4/development/restore_dialog.html)* 
+ ** 
 
 ## *1.五大常客*
 
@@ -329,11 +325,7 @@ www.pgadmin.org](https://www.pgadmin.org/docs/pgadmin4/development/restore_dialo
 
 *在这个例子中，我们将使用通用表表达式(CTE)。使用 cte，我们可以为特定查询创建临时表。下面是 cte 的官方 Postgres 文档。*
 
-*[](https://www.postgresql.org/docs/9.1/queries-with.html) [## 带查询(公共表表达式)
-
-### WITH 提供了一种编写辅助语句的方法，以便在更大的查询中使用。这些经常被提及的陈述…
-
-www.postgresql.org](https://www.postgresql.org/docs/9.1/queries-with.html) 
+*<https://www.postgresql.org/docs/9.1/queries-with.html>  
 
 在本例中，我们需要找出收入最高的前 5 名和后 5 名客户。为此，我们将
 
@@ -390,11 +382,7 @@ www.postgresql.org](https://www.postgresql.org/docs/9.1/queries-with.html)
 
 *我们也可以使用窗口函数得到上面的查询结果。下面是关于窗口函数的官方 Postgres 文档。*
 
-*[](https://www.postgresql.org/docs/9.1/tutorial-window.html) [## 窗口功能
-
-### 窗口函数对一组与当前行有某种关系的表行执行计算。这个…
-
-www.postgresql.org](https://www.postgresql.org/docs/9.1/tutorial-window.html) 
+*<https://www.postgresql.org/docs/9.1/tutorial-window.html>  
 
 为了找出使用窗口函数产生最多收入的前 5 名和后 5 名客户，我们将
 

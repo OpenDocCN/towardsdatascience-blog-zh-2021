@@ -12,15 +12,7 @@
 
 StyleGAN 是 NVIDIA 最受欢迎的生成模型之一。StlyeGAN 的多个版本已经发布，我们将使用最新版本 StyleGAN2-ADA。为了避免重复，我不会解释 StyleGAN，因为有很多文章已经很好地解释了它。
 
-[](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299) [## GAN — StyleGAN 和 StyleGAN2
-
-### 你知道你的风格吗？大部分 GAN 型号没有。在普通 GAN 中，我们从潜在因素 z 生成图像。
-
-jonathan-hui.medium.com](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299) [](/generating-anime-characters-with-stylegan2-6f8ae59e237b) [## 使用 StyleGAN2 生成动画角色
-
-### 了解如何生成这个很酷的动画人脸插值
-
-towardsdatascience.com](/generating-anime-characters-with-stylegan2-6f8ae59e237b) 
+<https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299>  </generating-anime-characters-with-stylegan2-6f8ae59e237b>  
 
 训练 StyleGAN 的计算量很大。因此，如果你没有一个像样的 GPU，你可能想在云上训练。如果你决定在 Google Colab 上训练(这是免费的)，有人为此制作了一个不错的[笔记本](https://colab.research.google.com/github/ArthurFDLR/GANightSky/blob/main/GANightSky.ipynb#scrollTo=qQqYjeRsfYD2)。
 
@@ -94,11 +86,7 @@ python generate.py --outdir=out --trunc=0.5 --seeds=600-605 --network={path_to_p
 
 但是，如果你想生成插值视频或图像网格。可以参考我之前的文章。
 
-[](/generating-anime-characters-with-stylegan2-6f8ae59e237b) [## 使用 StyleGAN2 生成动画角色
-
-### 了解如何生成这个很酷的动画人脸插值
-
-towardsdatascience.com](/generating-anime-characters-with-stylegan2-6f8ae59e237b) 
+</generating-anime-characters-with-stylegan2-6f8ae59e237b>  
 
 5.转移学习或恢复培训
 
@@ -122,15 +110,7 @@ python train.py --outdir ./results --snap=10 --data=./datasets/biked --augpipe=b
 
 如果你喜欢我的作品，看看我的其他文章！
 
-[](/animating-yourself-as-a-disney-character-with-ai-78af337d4081) [## 用人工智能让你自己成为一个迪斯尼角色
-
-### 先睹为快数字艺术的未来
-
-towardsdatascience.com](/animating-yourself-as-a-disney-character-with-ai-78af337d4081) [](/generating-novel-content-without-dataset-544107da4cc8) [## 在没有数据集的情况下生成新内容
-
-### 重写 GAN 中的规则:上下文相关的复制和粘贴特性
-
-towardsdatascience.com](/generating-novel-content-without-dataset-544107da4cc8) 
+</animating-yourself-as-a-disney-character-with-ai-78af337d4081>  </generating-novel-content-without-dataset-544107da4cc8>  
 
 # 参考
 

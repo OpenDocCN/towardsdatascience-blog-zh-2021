@@ -88,8 +88,4 @@
 
 准备好立即加入黑客马拉松了吗？下面是 2021 年即将推出的一些。祝你好运！
 
-[](/5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa) [## 5 次数据科学黑客马拉松，增长和提高您的技能
-
-### 结识新朋友，帮助解决世界问题。
-
-towardsdatascience.com](/5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa)
+</5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa> 

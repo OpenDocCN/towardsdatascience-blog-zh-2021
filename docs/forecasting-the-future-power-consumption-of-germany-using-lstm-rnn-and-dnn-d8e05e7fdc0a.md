@@ -125,8 +125,4 @@ LSTM 设计用于防止在更新权重期间忽略顺序序列中第一个输入
 
 [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 所有与机器学习相关的文章
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> 

@@ -76,11 +76,7 @@ r [esearch](https://dl.acm.org/doi/abs/10.1145/306101.306124) 将其定义为公
 
 它们还提供了编写对话脚本的可能性。如果机器人配备了从过去的对话中学习的功能，它就可以在对话进行时阅读它们，提取关键趋势和模式，进行情感分析，并揭示行为洞察。
 
-[](https://medium.com/bite-sized-marketing/people-underestimate-these-4-benefits-of-social-media-chatbots-5564c7c5c081) [## 人们低估了社交媒体聊天机器人的这 4 个好处
-
-### 以下是如何增强聊天机器人生产它们的潜力
-
-medium.com](https://medium.com/bite-sized-marketing/people-underestimate-these-4-benefits-of-social-media-chatbots-5564c7c5c081) 
+<https://medium.com/bite-sized-marketing/people-underestimate-these-4-benefits-of-social-media-chatbots-5564c7c5c081>  
 
 聊天机器人表明，通过减少组织完成项目所需的人力资源或个人完成日常任务所需的时间，有可能获得巨大的效率收益。
 

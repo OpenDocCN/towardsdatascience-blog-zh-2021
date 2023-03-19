@@ -136,11 +136,7 @@ pip install python-eda
 
 您可以在这个 [GitHub 资源库](https://github.com/ThuwarakeshM/python-eda)中找到源代码。另外，如果你喜欢这个包，你可以看看我写的关于它的文章。
 
-[](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) [## 如何在眨眼之间用 Python 做一吨的分析？
-
-### 使用这些 Python 探索性数据分析，将您的数据探索时间缩短到原来的十分之一…
-
-towardsdatascience.com](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) 
+</how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06>  
 
 在结束之前，我想带你看一下我发布这个包的具体步骤。
 

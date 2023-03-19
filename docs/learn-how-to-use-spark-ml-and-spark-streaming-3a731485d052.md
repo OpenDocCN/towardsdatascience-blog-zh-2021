@@ -167,16 +167,8 @@ sourceStream=spark.readStream.format("csv").option("header",True).schema(schema)
 
 我希望这个例子能帮助您更好地理解如何使用 Spark 的流数据进行预测。同样，本文的主要焦点不是关于模型的性能，而是关于我们如何在我们的机器学习模型中使用看不见的流数据。如果您对将 Spark 流合并到 Spark ML 有更多的问题，我强烈建议您仔细阅读 databricks 文档。请查看下面的链接:
 
- [## using-mllib-with-structured-streaming.html-数据布里克斯
-
-### 编辑描述
-
-docs.databricks.com](https://docs.databricks.com/_static/notebooks/using-mllib-with-structured-streaming.html) 
+  
 
 如果你对这个话题有任何问题或者有任何反馈，请随时联系我。如果你能在任何社交媒体平台上分享这篇文章，我将不胜感激。谢谢，下次再见！✌️
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我已经在分析行业工作了四年多，并且热爱其中的每一秒钟。我是一个高度…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

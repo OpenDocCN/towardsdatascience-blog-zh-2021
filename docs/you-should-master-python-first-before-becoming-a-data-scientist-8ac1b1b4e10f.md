@@ -121,11 +121,7 @@
 
 > *下面是我写的一篇类似的文章，关于数据分析是数据科学的先决条件[8]:*
 
-*[](/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d) [## 在成为数据科学家之前，你应该先掌握数据分析
-
-### 以下是为什么…的 4 个原因
-
-towardsdatascience.com](/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d) 
+*</you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d>  
 
 # 参考
 

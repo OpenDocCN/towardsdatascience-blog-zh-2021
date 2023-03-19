@@ -16,11 +16,7 @@ Graph Vis —原图来自 [NYU 上海网站](https://research.shanghai.nyu.edu/c
 
 在无监督的设置中，GRL 技术的学习目标是保持图形结构。在监督设置中，目标是解决特定的下游任务。不同的学习方法意味着不同的优化方法和不同类型的编码器来生成节点嵌入。因此，本文的第一部分致力于 GraphEDM 中实现的目标函数。第二部分关注不同类型的基于图形的编码器。要简要回顾 GraphEDM 框架，我建议阅读本系列的前几篇文章。
 
-[](/graph-representation-learning-network-embeddings-d1162625c52b) [## 图形表示学习——网络嵌入(上)
-
-towardsdatascience.com](/graph-representation-learning-network-embeddings-d1162625c52b) [](/graph-representation-learning-the-encoder-decoder-model-part-2-ed8b505af447) [## 图形表示学习——编码器-解码器模型(下)
-
-towardsdatascience.com](/graph-representation-learning-the-encoder-decoder-model-part-2-ed8b505af447) 
+</graph-representation-learning-network-embeddings-d1162625c52b>  
 
 横山雅美等人在文章中报道了所有的框架细节:
 

@@ -32,11 +32,7 @@ Zillow 是一家成立于 2006 年的在线房地产公司。它在 2019 年创�
 
 机器学习模型表现良好的首要因素是高质量的数据。当机器学习算法的输入是垃圾时，你不能指望它有多好。
 
-[](https://www.investopedia.com/articles/personal-finance/111115/zillow-estimates-not-accurate-you-think.asp) [## Zillow 的估计可能出错的 5 个原因
-
-### Zillow 是网上最受欢迎的房地产数据库之一。2006 年由前微软高管里奇…
-
-www.investopedia.com](https://www.investopedia.com/articles/personal-finance/111115/zillow-estimates-not-accurate-you-think.asp) 
+<https://www.investopedia.com/articles/personal-finance/111115/zillow-estimates-not-accurate-you-think.asp>  
 
 根据上面的文章，肯定存在数据质量问题的可能性。Zillow 一直依赖于用户共享的数据和公开的数据集。如果说 Zillow 的数据质量是垃圾，那就太苛刻了。尤其是因为他们的模型在很多情况下都做得很好。但是这里误差的影响是巨大的。让我用一个例子来解释一下，
 
@@ -64,11 +60,7 @@ Zillow 正在考虑购买一处名为“ABC”的房产，然后计划投资一�
 
 当涉及到金钱时，用户总是有可能试图欺骗系统。
 
-[](https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop) [## 3 亿美元的翻转:房地产网站 Zillow 的旁门左道是如何严重出错的
-
-### 美国房地产网站 Zillow 终于意识到，网上购物可能很危险。虽然我们中的许多人…
-
-www.theguardian.com](https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop) 
+<https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop>  
 
 上述文章清楚地阐述了系统被利用的可能性。很明显，郊区的房价很少能带动郊区的房价上涨或下跌。明白这一点的人可以人为地提高郊区房价。
 
@@ -104,17 +96,13 @@ Zillow 拥有的许多房产现在正在亏本出售。有许多外部因素在�
 
 心智模型对于正确分析商业问题非常有帮助。它也有助于构建思维过程，从而得出最佳解决方案。这是一篇关于使用思维的基本原则来解决数据科学问题的文章
 
-[](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) [## 如何用第一性原理思维解决数据科学问题？
+</how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21> [## 如何用第一性原理思维解决数据科学问题？
 
 towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) 
 
 # 其他参考文献
 
-[](https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop) [## 3 亿美元的翻转:房地产网站 Zillow 的旁门左道是如何严重出错的
-
-### 美国房地产网站 Zillow 终于意识到，网上购物可能很危险。虽然我们中的许多人…
-
-www.theguardian.com](https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop) 
+<https://www.theguardian.com/business/2021/nov/04/zillow-homes-buying-selling-flip-flop>  
 
 # 保持联系
 

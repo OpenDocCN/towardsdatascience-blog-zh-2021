@@ -150,12 +150,4 @@ ROC 图中曲线下的面积是确定分类器是否运行良好的主要指标�
 我还上了 [Linkedin](http://www.linkedin.com/in/maletelier) 和 [Twitter](https://twitter.com/maletelier) 。我很乐意与你交谈！
 如果你想多读一点，看看我最近的一些帖子:
 
-[](/decision-trees-as-you-should-have-learned-them-99862469493e) [## 决策树:你应该已经学会了
-
-### 循序渐进的指南
-
-towardsdatascience.com](/decision-trees-as-you-should-have-learned-them-99862469493e) [](/become-a-machine-learning-engineer-from-inside-of-your-jupyter-notebook-76a42b65c8f4) [## 成为一名机器学习工程师(从你的 Jupyter 笔记本里面)
-
-### 管理基础架构，培训您的模型并部署它们。
-
-towardsdatascience.com](/become-a-machine-learning-engineer-from-inside-of-your-jupyter-notebook-76a42b65c8f4)
+</decision-trees-as-you-should-have-learned-them-99862469493e>  </become-a-machine-learning-engineer-from-inside-of-your-jupyter-notebook-76a42b65c8f4> 

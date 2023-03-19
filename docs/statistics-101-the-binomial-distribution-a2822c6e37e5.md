@@ -137,8 +137,4 @@ rbinom 函数生成长度( *n)* 、试验次数(*大小)*和成功概率(*概率
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@andreagustafsen/membership) [## 通过我的推荐链接加入 Medium-Andrea gustaf sen
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreagustafsen/membership)
+<https://medium.com/@andreagustafsen/membership> 

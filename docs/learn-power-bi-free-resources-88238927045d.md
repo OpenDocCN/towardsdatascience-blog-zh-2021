@@ -26,15 +26,7 @@
 
 [**3。DAX 图案**](https://www.daxpatterns.com/) (还从，你猜对了，SQLBI！):超级有用的一些常见 DAX 模式的演练，如时间智能计算。随着你开始更多地使用 DAX，你会发现它会很快变得复杂。浏览这些示例模式有助于直观地理解如何在 DAX 中有效地处理复杂的问题。
 
-[](/power-bi-m-vs-dax-vs-measures-4c77ae270790) [## Power BI: M 与 DAX 以及测量值与计算值列
-
-### 我希望我刚开始时就知道的基础知识。
-
-towardsdatascience.com](/power-bi-m-vs-dax-vs-measures-4c77ae270790) [](/power-bi-understanding-m-5a3eb9e6c2da) [## 权力 BI:理解 M
-
-### 足以让你变得危险。酷毙了。
-
-towardsdatascience.com](/power-bi-understanding-m-5a3eb9e6c2da) 
+</power-bi-m-vs-dax-vs-measures-4c77ae270790>  </power-bi-understanding-m-5a3eb9e6c2da>  
 
 # 数据建模
 
@@ -65,11 +57,7 @@ towardsdatascience.com](/power-bi-understanding-m-5a3eb9e6c2da)
 
 [第八期**。锻炼周三**](http://www.workout-wednesday.com/power-bi-challenges/) (WoW):这是 2021 年新的 Power BI 社区挑战赛。WoW 有一个受欢迎的 Tableau 每周挑战，它是如此令人兴奋地看到类似的东西现在被提供给 Power BI！
 
-[](https://jeagleson.medium.com/new-in-2021-learn-power-bi-with-weekly-challenges-8742db48a52) [## 2021 年新品:通过每周挑战学习 Power BI
-
-### 最后，Power BI 用户的每周挑战。以下是我如何完成第一次每周挑战的分步指南…
-
-jeagleson.medium.com](https://jeagleson.medium.com/new-in-2021-learn-power-bi-with-weekly-challenges-8742db48a52) 
+<https://jeagleson.medium.com/new-in-2021-learn-power-bi-with-weekly-challenges-8742db48a52>  
 
 [**9。Power BI 社区**](https://community.powerbi.com/) :当你在某个特定问题上需要帮助时，这里是你可以去的地方。在发布新内容之前，总是先尝试搜索一下，看看是否有人已经回答了类似的问题。[发帖时请遵循本指南](https://community.powerbi.com/t5/Desktop/How-to-Get-Your-Question-Answered-Quickly/td-p/1447523),以便您的问题更快得到解答。
 

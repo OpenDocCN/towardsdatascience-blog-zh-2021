@@ -50,10 +50,6 @@ Kaggle 是最受欢迎的数据科学社区之一，因举办顶级机器学习�
 
 大多数提到的数据科学竞赛平台都具有与 Kaggle 类似的功能，只有云托管笔记本除外。在 Kaggle 的 4 个替代品中，只有天池提供云托管笔记本电脑。我写过一篇关于如何获得免费 GPU 计算资源的文章。
 
-[](/free-gpus-for-training-your-deep-learning-models-c1ce47863350) [## 用于训练深度学习模型的免费 GPU
-
-### 是的，你没听错。它是免费的。
-
-towardsdatascience.com](/free-gpus-for-training-your-deep-learning-models-c1ce47863350) 
+</free-gpus-for-training-your-deep-learning-models-c1ce47863350>  
 
 据我所知，这些平台都有活跃的比赛和奖金池。欢迎在下面的评论中推荐其他平台。

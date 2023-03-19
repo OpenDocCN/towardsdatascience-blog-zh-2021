@@ -117,4 +117,4 @@ for user in user_distance.columns: # extract the distances of the column ranked 
 
 [1] A. S. Shirkhorshidi，S. Aghabozorgi S，T. Y. Wah，[连续数据聚类中相似度和相异度的比较研究](https://doi.org/10.1371/journal.pone.0144059) (2015)，PLoS ONE 10(12): e0144059。
 
-[[](https://www.ibm.com/support/knowledgecenter/SSLVMB_sub/statistics_mainhelp_ddita/spss/base/cmd_proximities_sim_measure_binary.html) 2] IBM，[二进制数据的距离相似性度量](https://www.ibm.com/support/knowledgecenter/SSLVMB_sub/statistics_mainhelp_ddita/spss/base/cmd_proximities_sim_measure_binary.html) (2021)
+[<https://www.ibm.com/support/knowledgecenter/SSLVMB_sub/statistics_mainhelp_ddita/spss/base/cmd_proximities_sim_measure_binary.html> 2] IBM，[二进制数据的距离相似性度量](https://www.ibm.com/support/knowledgecenter/SSLVMB_sub/statistics_mainhelp_ddita/spss/base/cmd_proximities_sim_measure_binary.html) (2021)

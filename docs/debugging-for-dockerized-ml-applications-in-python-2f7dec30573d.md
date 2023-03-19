@@ -101,11 +101,7 @@ docker run \
 
 下面是这个例子的完整代码。调试愉快！😃
 
-[](https://github.com/sam-watts/vscode-docker-debugging) [## GitHub-Sam-watts/vs code-docker-debugging:一个用于调试长时间运行的、dockerized…
-
-### 用 vscode - GitHub 调试 python 中长时间运行的 dockerized 程序的模板…
-
-github.com](https://github.com/sam-watts/vscode-docker-debugging) 
+<https://github.com/sam-watts/vscode-docker-debugging>  
 
 # 链接
 

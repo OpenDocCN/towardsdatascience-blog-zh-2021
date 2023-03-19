@@ -46,11 +46,7 @@ Kafka 支持 [AVRO](https://avro.apache.org/) 、 [Protobuf](https://developers.
 
 这个库有一个 Python AVRO 消费者和生产者的基本例子:
 
-[](https://github.com/isenilov/python-kafka) [## GitHub - isenilov/python-kafka
-
-### 运行所有服务:docker-compose-f docker-compose . YAML up-build-d 附加到应用程序的日志…
-
-github.com](https://github.com/isenilov/python-kafka) 
+<https://github.com/isenilov/python-kafka>  
 
 让我们回顾一下它所包含的服务，查看`docker-compose.yaml`的`services`部分
 

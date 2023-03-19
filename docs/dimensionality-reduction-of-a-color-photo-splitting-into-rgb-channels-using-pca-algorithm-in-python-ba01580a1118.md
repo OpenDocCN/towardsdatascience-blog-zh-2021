@@ -233,8 +233,4 @@ plt.imshow(img_reduced)plt.show()
 
 你可以从下面提到的 github 链接下载完整的代码和我在这里展示的图片，它们在同一个目录下:
 
-[](https://github.com/iqbal-01/Machine-Learning/blob/main/Unsupervised%20Learning/PCA/PCA-image-reduction.ipynb) [## Iqbal-01/机器学习
-
-### 通过在 GitHub 上创建帐户，为 Iqbal-01/机器学习开发做出贡献。
-
-github.com](https://github.com/iqbal-01/Machine-Learning/blob/main/Unsupervised%20Learning/PCA/PCA-image-reduction.ipynb)
+<https://github.com/iqbal-01/Machine-Learning/blob/main/Unsupervised%20Learning/PCA/PCA-image-reduction.ipynb> 

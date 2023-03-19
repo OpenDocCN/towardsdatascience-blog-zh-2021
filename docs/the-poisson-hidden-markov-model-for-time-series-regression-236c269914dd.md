@@ -22,23 +22,11 @@
 
 如果你是马尔可夫过程或隐马尔可夫模型的新手，请浏览下面两篇文章:
 
-[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [## 数学爱好者的隐马尔可夫模型指南
-
-### 它们是如何工作的，以及它们为什么被“隐藏”起来。
-
-towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) 
+</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  </a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8>  
 
 我还建议回顾下面这篇关于**马尔可夫转换动态回归模型**的文章，以详细了解 MSDR 模型是如何构建的。泊松 HMM 是一种 MSDR 模型，其中模型的“可见”部分服从泊松过程。
 
-[](/a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3) [## 马尔可夫转换动态回归模型的蠕虫视角
-
-### 详细解释了 MSDR 模型，并使用真实世界数据集介绍了关于 MSDR 的 Python 教程
-
-towardsdatascience.com](/a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3) 
+</a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3>  
 
 # 泊松隐马尔可夫模型的详细说明
 
@@ -290,14 +278,6 @@ y_t 表示为平均值和误差项之和(图片由作者提供)
 
 # **相关阅读**
 
-**[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [## 数学爱好者的隐马尔可夫模型指南
-
-### 它们是如何工作的，以及它们为什么被“隐藏”起来。
-
-towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) 
+**</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  </a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8>  
 
 *感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的技巧、操作方法和编程建议。***

@@ -148,18 +148,6 @@ df3.shape
 
 # 相关文章
 
-[](/data-normalization-with-python-scikit-learn-e9c5640fed58) [## 使用 Python scikit 进行数据规范化-学习
-
-### 继关于数据预处理的系列文章之后，在本教程中，我将讨论 Python 中的数据规范化…
-
-towardsdatascience.com](/data-normalization-with-python-scikit-learn-e9c5640fed58) [](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950) [## 用 Python Pandas 进行数据预处理—第 5 部分宁滨
-
-### 数据宁滨(或称存储桶)将数据分组到存储箱(或存储桶)中，从这个意义上说，它替换了包含在
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950) [](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c) [## Python Pandas 的数据预处理—第 4 部分标准化
-
-### 本教程解释了如何使用 Pandas 库预处理数据。预处理是做一个…
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c) 
+</data-normalization-with-python-scikit-learn-e9c5640fed58>  </data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950>  </data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。

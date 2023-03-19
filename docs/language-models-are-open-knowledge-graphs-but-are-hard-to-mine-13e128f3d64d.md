@@ -228,19 +228,7 @@
 *   **Dash + Plotly 进行网络可视化:[链接](/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7)**
 *   **数据来自:**
 
-**[](https://www.ijddr.in/drug-development/diabetes-mechanism-pathophysiology-and-managementa-review.php?aid=6713) [## 糖尿病:机制、病理生理学和治疗
-
-### 关键词糖尿病；患病率；糖尿病酸中毒；病理生理学。引言糖尿病不是单一的…
-
-www.ijddr.in](https://www.ijddr.in/drug-development/diabetes-mechanism-pathophysiology-and-managementa-review.php?aid=6713)  [## 结膜炎
-
-### 什么是结膜炎？结膜炎是一种覆盖在眼睑上的薄而透明的膜(结膜)的炎症
-
-www.dph.illinois.gov](https://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/conjunctivitis)  [## UMLS 知识来源:文件下载
-
-### 注意:UMLS 术语服务(UTS)登录流程正在发生变化，需要采取措施。UTS 正从一个…
-
-www.nlm.nih.gov](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) 
+**<https://www.ijddr.in/drug-development/diabetes-mechanism-pathophysiology-and-managementa-review.php?aid=6713>      
 
 ```
 [https://www.kaggle.com/tboyle10/medicaltranscriptions](https://www.kaggle.com/tboyle10/medicaltranscriptions)

@@ -131,17 +131,13 @@ else:
 
 *如果您在项目中处理大量文本数据，那么我建议您阅读这些字符串操作方法。*
 
-*[](/five-must-know-string-methods-in-python-e97925d12eec) [## Python 中五个必须知道的字符串方法
+*</five-must-know-string-methods-in-python-e97925d12eec> [## Python 中五个必须知道的字符串方法
 
 towardsdatascience.com](/five-must-know-string-methods-in-python-e97925d12eec) 
 
 这就是你如何在更快地进行数据分析的同时发挥创造力。
 
-[](/five-ways-for-faster-data-analysis-801a043bfea9) [## 加快数据分析的五种方法
-
-### 让它在竞争中脱颖而出
-
-towardsdatascience.com](/five-ways-for-faster-data-analysis-801a043bfea9) 
+</five-ways-for-faster-data-analysis-801a043bfea9>  
 
 要阅读媒体上的所有故事和文章，你今天就可以成为媒体会员&让⚡ ***无限制*** ⚡访问所有媒体故事。
 
@@ -159,8 +155,4 @@ towardsdatascience.com](/five-ways-for-faster-data-analysis-801a043bfea9)
 
 这里有一篇关于 Pythonic 编程方式的有趣文章。
 
-[](https://www.udacity.com/blog/2020/09/what-is-pythonic-style.html) [## 什么是 Pythonic 风格？乌达城
-
-### 当浏览 Stack Overflow 寻找编程问题的答案时，您可能会遇到针对…
-
-www.udacity.com](https://www.udacity.com/blog/2020/09/what-is-pythonic-style.html)*
+<https://www.udacity.com/blog/2020/09/what-is-pythonic-style.html> *

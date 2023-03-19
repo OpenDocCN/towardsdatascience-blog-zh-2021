@@ -18,11 +18,7 @@
 
 # 脸书定义了数据发现
 
-[](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/) [## 尼莫:脸书-脸书工程公司的数据发现
-
-### 大规模公司服务于数百万甚至数十亿依赖这些公司提供的服务的人…
-
-engineering.fb.com](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/) 
+<https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/>  
 
 脸书为数十亿依赖高质量服务的人提供服务。为了确保有意义的体验，团队需要高效地找到相关和准确的信息。发现问题由此产生:
 
@@ -47,11 +43,7 @@ engineering.fb.com](https://engineering.fb.com/2020/10/09/data-infrastructure/ne
 
 # Airbnb 定义了数据发现
 
-[](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) [## Airbnb 的数据民主化
-
-### 作者:克里斯·威廉姆斯、伊莱·布伦博、杰夫·冯、约翰·博德利和米歇尔·托马斯
-
-medium.com](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) 
+<https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770>  
 
 与脸书类似，Airbnb 在过去几年中经历了数据量和数据格式多样性的巨大增长。
 
@@ -99,11 +91,7 @@ Dataprotal 的目标是为所有员工提供一个框架，让他们能够轻松
 
 # 优步定义了数据发现
 
-[](https://eng.uber.com/databook/) [## 数据手册:在优步利用元数据将大数据转化为知识
-
-### 从司机和骑手的位置和目的地，到餐馆订单和支付交易，上的每一次互动…
-
-eng.uber.com](https://eng.uber.com/databook/) 
+<https://eng.uber.com/databook/>  
 
 与 Airbnb 类似，优步高度重视数据的背景，以做出更好的数据驱动型决策。
 

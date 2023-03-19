@@ -111,24 +111,12 @@ inlineImages:emailImages
 
 我的其他生产力文章:
 
-[](https://medium.com/geekculture/never-miss-your-customers-birthday-email-with-google-sheets-d64e75372341) [## 使用 Google Sheets 在 5 分钟内自动向客户发送生日电子邮件
-
-### 一个简单的 5 分钟设置，自动向您的客户发送生日祝福电子邮件，每年都不会错过
-
-medium.com](https://medium.com/geekculture/never-miss-your-customers-birthday-email-with-google-sheets-d64e75372341) 
+<https://medium.com/geekculture/never-miss-your-customers-birthday-email-with-google-sheets-d64e75372341>  
 
 最后，感谢您花时间阅读我的文章！
 
 # 参考资料:
 
-[](/automate-excel-with-python-7c0e8c7c6256) [## 使用 Python 自动化 Excel
+</automate-excel-with-python-7c0e8c7c6256> [## 使用 Python 自动化 Excel
 
-towardsdatascience.com](/automate-excel-with-python-7c0e8c7c6256) [](https://aryanirani123.medium.com/send-charts-in-email-using-google-apps-script-d652dc752468) [## 使用 Google Apps 脚本通过电子邮件发送图表
-
-### 欢迎，在这篇博客中，我将向你展示如何使用谷歌应用程序脚本在电子邮件中发送图表。在…上发送图表
-
-aryanirani123.medium.com](https://aryanirani123.medium.com/send-charts-in-email-using-google-apps-script-d652dc752468) [](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/) [## 谷歌应用程序脚本:学习应用程序脚本的初学者指南
-
-### Google Apps Script 是一种基于云的脚本语言，用于扩展 Google Apps 的功能和构建…
-
-www.benlcollins.com](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/)
+towardsdatascience.com](/automate-excel-with-python-7c0e8c7c6256) <https://aryanirani123.medium.com/send-charts-in-email-using-google-apps-script-d652dc752468>  <https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/> 

@@ -24,11 +24,7 @@
 
 首先，你可以仔细检查你的数据。这种方法可能是最有效的工具之一，但是当您拥有大量数据时，这种方法非常耗时。对于计算机视觉任务，有许多不同的技术可以使用。这篇文章展示了一些令人兴奋的技术。
 
-[](/explaining-how-i-reached-the-top-ranks-of-the-new-data-centric-competition-888fc8e86547) [## 解释我如何在以数据为中心的新竞争中名列前茅
-
-### 继吴君如本人代言(！)关于我的上一篇文章，很自然地分享了所有的技巧(与…
-
-towardsdatascience.com](/explaining-how-i-reached-the-top-ranks-of-the-new-data-centric-competition-888fc8e86547) 
+</explaining-how-i-reached-the-top-ranks-of-the-new-data-centric-competition-888fc8e86547>  
 
 在许多情况下，适用的数据相对容易识别。然而，对于其他人来说，这充其量是一个不明确的任务。通常问题的一部分是数据和结果之间的关系是我们试图建模的。**然后确定什么数据最适用是一项艰巨的任务**。
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/explaining-how-i-reached-the-top-ranks-of-the-new-data-
 
 该方法将来自特征的属性值提供给模型的输出。SHAP 值基于沙普利值，沙普利值决定了如何在游戏中公平地在多个玩家之间分配报酬。对于 SHAP 价值观来说，玩家联盟是基于特征的。
 
-[](https://github.com/slundberg/shap) [## GitHub - slundberg/shap:一种解释任何机器学习输出的博弈论方法…
-
-### SHAP 是一种博弈论的方法来解释任何机器学习模型的输出…
-
-github.com](https://github.com/slundberg/shap) 
+<https://github.com/slundberg/shap>  
 
 SHAP 价值观非常灵活。例如，在计算机视觉任务中，SHAP 值代表不同像素对模型输出的贡献。有许多不同的方法来计算 SHAP 值，包括与模型无关的 KernelSHAP 方法。
 
@@ -68,11 +60,7 @@ SHAP 价值观非常灵活。例如，在计算机视觉任务中，SHAP 值代�
 
 我将把精确的数学公式留给论文和好奇的读者。但结果是这样的。该算法以 O(N log N)复杂度执行精确计算。
 
-[](https://github.com/AI-secure/KNN-PVLDB) [## GitHub - AI-secure/KNN-PVLDB:官方回购“高效的特定任务数据估值最近…
-
-### 这个 repo 是 PVLDB 论文“最近邻的高效特定任务数据评估…
-
-github.com](https://github.com/AI-secure/KNN-PVLDB) 
+<https://github.com/AI-secure/KNN-PVLDB>  
 
 # **实验**
 
@@ -86,11 +74,7 @@ github.com](https://github.com/AI-secure/KNN-PVLDB)
 
 目标是钻石的价格。
 
-[](https://www.kaggle.com/shivam2503/diamonds) [## 钻石
-
-### 通过切割、颜色、净度、价格和其他属性来分析钻石
-
-www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds) 
+<https://www.kaggle.com/shivam2503/diamonds>  
 
 我已经进行了 5000 次验证和测试。剩余的数据用于训练。
 
@@ -168,8 +152,4 @@ plt.show()
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

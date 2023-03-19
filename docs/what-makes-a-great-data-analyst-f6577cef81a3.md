@@ -68,16 +68,8 @@
 
 一篇关于不同思维的文章:
 
-[](/data-doesnt-decide-b2b796057e16) [## 数据不决定！
-
-### 为什么你必须明白是什么让灯一直亮着
-
-towardsdatascience.com](/data-doesnt-decide-b2b796057e16) 
+</data-doesnt-decide-b2b796057e16>  
 
 这里有一篇简短的文章，在使用 SQL 以及如何避免结果中的简单错误时非常有用:
 
-[](/sum-a-b-vs-sum-a-sum-b-31fb094b786) [## 总和(A+B)与总和(A)+总和(B)
-
-### 粉碎 SQL Bug！
-
-towardsdatascience.com](/sum-a-b-vs-sum-a-sum-b-31fb094b786)
+</sum-a-b-vs-sum-a-sum-b-31fb094b786> 

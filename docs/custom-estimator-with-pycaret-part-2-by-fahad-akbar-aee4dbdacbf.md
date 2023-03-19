@@ -12,11 +12,7 @@
 
 在第 1 部分中，我们学习了估计器、python 类对象、指数函数、曲线拟合函数、位置参数打包/解包、枚举函数&最后构建了一个更加定制和灵活的回归估计器。您可以访问本实践教程的第 1 部分:
 
-[](/custome-estimator-with-pycaret-part-1-by-fahad-akbar-839513315965) [## 使用 PyCaret 的自定义估算器|第 1 部分|作者:Fahad Akbar
-
-### 通过 PyCaret 在 Scipy 中从头开始构建和部署 Sklearn 兼容估算器的实践指南
-
-towardsdatascience.com](/custome-estimator-with-pycaret-part-1-by-fahad-akbar-839513315965) 
+</custome-estimator-with-pycaret-part-1-by-fahad-akbar-839513315965>  
 
 在这一部分，我们将主要学习和构建两件事情:
 

@@ -261,10 +261,6 @@ print("" "Chris")
 
 在这篇文章中，我收集了 Python 中 5 个有趣的、不为人知的“怪异”事实。希望你喜欢这本书，并发现它们…有用…好吧，可能不是很有用，但至少有趣。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

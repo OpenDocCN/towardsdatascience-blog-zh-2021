@@ -127,16 +127,4 @@ $ python3 -m venv -h
 
 ## **你可能也会喜欢**
 
-[](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) [## 数据科学家和工程师必备的 14 个 pip 命令
-
-### 探索一些对日常编程最有用的 pip 命令
-
-towardsdatascience.com](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) [](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn 与 sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736) [](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [## 数据科学家必须知道的 16 个 Bash 命令
-
-### 探索一些最常用的 bash 命令
-
-towardsdatascience.com](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e)
+</14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439>  </scikit-learn-vs-sklearn-6944b9dc1736>  </16-must-know-bash-commands-for-data-scientists-d8263e990e0e> 

@@ -24,11 +24,7 @@
 
 一旦您牢固掌握了数据以及如何使用数据，掌握您在数据科学世界中可能接触到的不同途径就会变得容易得多。你想要应用你所拥有的数据科学技能的方式将是决定你的教育方向的最重要因素。如果你最终选择了一条你并不喜欢的道路，你也不太可能喜欢学习这条道路。数据科学技能非常多样，用途也非常广泛，不久前我在一篇文章中详细介绍了这一点，如果您感兴趣，可以在此处查看:
 
-[](/why-data-science-is-the-greatest-skill-i-ever-obtained-a8f9bdf8517e) [## 为什么数据科学是我获得的最大技能
-
-### 为什么机器学习和统计学给了我生活中真正的优势。
-
-towardsdatascience.com](/why-data-science-is-the-greatest-skill-i-ever-obtained-a8f9bdf8517e) 
+</why-data-science-is-the-greatest-skill-i-ever-obtained-a8f9bdf8517e>  
 
 ## 分析学
 

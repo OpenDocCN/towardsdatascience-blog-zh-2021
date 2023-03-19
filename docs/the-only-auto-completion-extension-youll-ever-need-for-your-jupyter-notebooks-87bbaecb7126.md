@@ -72,16 +72,8 @@ jupyter notebook
 
 我的另一篇基于 jupyter 的文章你可能想读一读，它与这篇文章有关:
 
-[](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b) [## 你应该知道的 7 个很棒的 Jupyter 工具
-
-### 一些有用的技巧和窍门，我用在了几乎所有涉及 Jupyter 笔记本的数据科学项目中
-
-pub.towardsai.net](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b) 
+<https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b>  
 
 想要确保您在终端中更高效，同时美化终端吗？这是给你的文章:
 
-[](/the-easy-way-to-prettify-your-terminal-24da896b031a) [## 美化终端的简单方法
-
-### 以确保你是有效率的，同时，让眼睛放松。
-
-towardsdatascience.com](/the-easy-way-to-prettify-your-terminal-24da896b031a)
+</the-easy-way-to-prettify-your-terminal-24da896b031a> 

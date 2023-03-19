@@ -20,11 +20,7 @@ Python 虚拟环境帮助我们轻松地管理依赖性。最常见的环境创�
 
 值得注意的是，pyenv 与 virtualenv 或 VEW 没有关系。pyenv 用于在多个 python 版本之间切换，并且不管理已安装的包。另外，pip 是 python 中的一个包管理器，pip 也不能帮助我们管理环境，因为它不是用来做这个的。有关更多信息，请阅读此 stackoverflow 线程。
 
-[](https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda) [## pyenv，virtualenv，anaconda 有什么区别？
-
-### 我是一名试图学习 python 的 ruby 程序员。我和 pyenv 是一家人，因为它就像是从……
-
-stackoverflow.com](https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda) 
+<https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda>  
 
 ## 装置
 

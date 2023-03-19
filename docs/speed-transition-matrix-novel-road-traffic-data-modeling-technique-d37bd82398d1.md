@@ -66,19 +66,7 @@ STM 的最终形式:相对值，概率(图片来源:作者)
 
 # STM 用例
 
-[](/traffic-state-classification-using-the-speed-transition-matrices-36f7a03ca776) [## 基于速度转移矩阵的交通状态分类
-
-### 城市范围内交通状态分类的新方法
-
-towardsdatascience.com](/traffic-state-classification-using-the-speed-transition-matrices-36f7a03ca776) [](/novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b) [## 基于速度转移矩阵的道路交通异常度量新方法
-
-### 利用 GPS 交通数据测量道路网络异常水平的新方法
-
-towardsdatascience.com](/novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b) [](/using-fuzzy-logic-for-road-traffic-congestion-index-estimation-b649f8ddede1) [## 基于模糊逻辑的道路交通拥挤指数估计
-
-### 如何利用大量 GPS 数据为基于模糊的道路交通拥堵量化系统提供信息
-
-towardsdatascience.com](/using-fuzzy-logic-for-road-traffic-congestion-index-estimation-b649f8ddede1) 
+</traffic-state-classification-using-the-speed-transition-matrices-36f7a03ca776>  </novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b>  </using-fuzzy-logic-for-road-traffic-congestion-index-estimation-b649f8ddede1>  
 
 # 结论
 

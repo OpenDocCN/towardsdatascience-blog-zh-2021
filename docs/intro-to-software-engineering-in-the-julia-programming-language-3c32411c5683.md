@@ -14,11 +14,7 @@
 
 > 开源代码库
 
-[](https://github.com/emmettgb/JuliaLessons/tree/master/7) [## emmettgb/JuliaLessons
-
-### 想学朱莉娅？这是一个很好的起点！-埃米特 GB/朱丽亚莱森
-
-github.com](https://github.com/emmettgb/JuliaLessons/tree/master/7) 
+<https://github.com/emmettgb/JuliaLessons/tree/master/7>  
 
 # 介绍
 
@@ -26,11 +22,7 @@ github.com](https://github.com/emmettgb/JuliaLessons/tree/master/7)
 
 对于本教程，我们将致力于一个非常令人兴奋的项目，实际上可能在未来派上用场！我们的项目名为 SuperFrame.jl，它将是现有包 DataFrames.jl 的扩展。因此，随着更多地了解如何使用 DataFrames.jl 之类的包，我们也将熟悉如何创建自己的优秀项目。考虑到这一点，我决定我们不妨把它正式化！让我们在 Github 上创建一个项目！如果这个项目真的有用，我们可以一起努力把它推到 Julia package registry，它可能会成为人们使用的东西——这很令人兴奋，因为我们正在一起努力！这是我创建的存储库！：
 
-[](https://github.com/emmettgb/SuperFrame.jl/tree/main) [## emmettgb/SuperFrame.jl
-
-### 我们一起编写的 DataFrames.jl 扩展:)如果您想了解更多信息，可以通过以下方式与我们合作…
-
-github.com](https://github.com/emmettgb/SuperFrame.jl/tree/main) 
+<https://github.com/emmettgb/SuperFrame.jl/tree/main>  
 
 按照惯例，提交应该改进提交中将要包含的内容的简要描述。也就是说，存储库对任何提交都是开放的，但您可能应该等到我们实际使用它时，才能理解我们将要使用的确切方法和标准化——按照惯例，当然是基于 DataFrames.jl 的。
 

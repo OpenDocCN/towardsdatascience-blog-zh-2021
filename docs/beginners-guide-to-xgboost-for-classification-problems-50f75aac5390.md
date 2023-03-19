@@ -18,19 +18,11 @@
 
 在这篇文章中，您将学习 XGBoost 解决分类任务的基础知识、XGBoost 的超参数的大量列表的概述以及如何调优它们。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 术语复习
 
@@ -44,11 +36,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 如果你发现自己被其他术语搞糊涂了，我为初学者写了一个小的 ML 字典:
 
-[](/codeless-machine-learning-dictionary-for-dummies-fa912cc7bdfe) [## 傻瓜用无代码机器学习词典
-
-### 编辑描述
-
-towardsdatascience.com](/codeless-machine-learning-dictionary-for-dummies-fa912cc7bdfe) 
+</codeless-machine-learning-dictionary-for-dummies-fa912cc7bdfe>  
 
 ## 如何为 XGBoost 预处理数据集
 
@@ -172,11 +160,7 @@ conda install -c conda-forge xgboost
 
 最后，是时候给我们的 XGBoost 分类器充电了。我们将使用来自 Scikit-learn 的`GridSearchCV`类，它接受所需超参数的可能值，并为每个超参数组合的给定数据拟合单独的模型。我不会详细介绍 GridSearch 是如何工作的，但您可以查看我关于该主题的另一篇综合文章:
 
-[](/automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee) [## 使用 Sklearn GridSearchCV 和 RandomizedSearchCV 自动调整超参数
-
-### 编辑描述
-
-towardsdatascience.com](/automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee) 
+</automatic-hyperparameter-tuning-with-sklearn-gridsearchcv-and-randomizedsearchcv-e94f53a518ee>  
 
 我们将在两轮中只调整几个参数，因为调整既费时又费力。让我们为第一轮创建参数网格:
 

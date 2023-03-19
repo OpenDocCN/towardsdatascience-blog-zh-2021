@@ -103,11 +103,7 @@ Business CaseTeam and CoworkersTools and Skills
 
 如果你想了解更多关于数据分析以及它如何成为数据科学的重要先决条件，请点击这里查看我的另一篇文章[5]:
 
-[](/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d) [## 在成为数据科学家之前，你应该先掌握数据分析
-
-### 以下是为什么…的 4 个原因
-
-towardsdatascience.com](/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d) 
+</you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d>  
 
 # 参考
 

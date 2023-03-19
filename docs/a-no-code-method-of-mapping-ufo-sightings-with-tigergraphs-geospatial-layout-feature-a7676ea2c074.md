@@ -28,11 +28,7 @@
 
 首先，我们将推出一个免费的 TigerGraph 3.2 云解决方案。为此，导航至[https://tgcloud.io/](https://tgcloud.io/)并登录或注册。
 
- [## TigerGraph 云门户
-
-### 创建免费的 TigerGraph 云解决方案
-
-tgcloud.io](https://tgcloud.io/) 
+  
 
 在左侧边栏中，选择“我的解决方案”,然后按蓝色的“创建解决方案”按钮。
 
@@ -186,19 +182,11 @@ tgcloud.io](https://tgcloud.io/)
 
 完美！既然您已经在这个自定义图表上使用了地理空间映射功能，那么您现在可以轻松地在自己的项目中使用它。如果您有任何问题或遇到任何错误，请随时在社区论坛上发表。
 
-[](https://community.tigergraph.com/) [## 老虎图
-
-### 话题回复浏览量活动 1 808 2020 年 2 月 20 日 11 月 22 日-26 日每周更新:Graph+AI 纽约视频，AMC…
-
-community.tigergraph.com](https://community.tigergraph.com/) 
+<https://community.tigergraph.com/>  
 
 此外，你可以和更多的 TigerGraph 开发者在社区 Discord 上聊天。
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 725 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 祝你在你的项目中使用这些地图好运，我迫不及待地想看看你创造了多么棒的项目！
 

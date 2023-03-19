@@ -12,11 +12,7 @@
 
 《走向数据科学》在 2020 年 4 月发表了我的文章[终端改造的终极指南](/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)。这是我最受欢迎的文章之一。自发布以来，它已经有超过 12 万的浏览量，每天大约 300 次。
 
-[](/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99) [## 2021 年终端改造终极指南
-
-### 今天你将度过的最好的 11 分钟:程序员的终端提示
-
-towardsdatascience.com](/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99) 
+</the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99>  
 
 这个月我不得不在我的新笔记本电脑上安装终端。按照我自己文章中的步骤，我想“嗯，我可以自动化所有这些安装。”
 
@@ -38,19 +34,11 @@ towardsdatascience.com](/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac
 
 我建议首先使用 [Automate Brew Installer](https://betterprogramming.pub/how-to-automate-homebrew-installs-on-your-new-mac-or-linux-51e06881c5b7) 来保存您的 Brew 列表，然后在 Terma 安装完成后重新安装。
 
-[](https://betterprogramming.pub/how-to-automate-homebrew-installs-on-your-new-mac-or-linux-51e06881c5b7) [## 如何在新的 Mac 或 Linux 上自动安装自制软件
-
-### 你不需要一个接一个地安装自制软件包
-
-better 编程. pub](https://betterprogramming.pub/how-to-automate-homebrew-installs-on-your-new-mac-or-linux-51e06881c5b7) 
+<https://betterprogramming.pub/how-to-automate-homebrew-installs-on-your-new-mac-or-linux-51e06881c5b7>  
 
 我推荐使用 [Dotties](/dotfiles-could-be-the-most-important-files-on-your-computer-are-you-backing-them-up-99f8f8d99e68) 来保存你的`.zshrc`和其他点文件。
 
-[](/dotfiles-could-be-the-most-important-files-on-your-computer-are-you-backing-them-up-99f8f8d99e68) [## 点文件可能是你电脑上最重要的文件。你支持他们吗？
-
-### Dotties 是一个 Bash 脚本，它使用 Gist 管理你的点文件
-
-towardsdatascience.com](/dotfiles-could-be-the-most-important-files-on-your-computer-are-you-backing-them-up-99f8f8d99e68) 
+</dotfiles-could-be-the-most-important-files-on-your-computer-are-you-backing-them-up-99f8f8d99e68>  
 
 然后安装 Terma 并运行几次`terma uninstall`，从终端而不是 iTerm 卸载上面的包。然后运行`terma`两次。
 
@@ -62,11 +50,7 @@ towardsdatascience.com](/dotfiles-could-be-the-most-important-files-on-your-comp
 
 打开一个终端，安装[牛逼包管理器](https://medium.com/mkdir-awesome/a-new-simple-package-manager-for-script-languages-a1228fd0972a)。
 
-[](https://medium.com/mkdir-awesome/a-new-simple-package-manager-for-script-languages-a1228fd0972a) [## 一个新的简单的脚本语言包管理器
-
-### 管理安装和卸载的简单工具
-
-medium.com](https://medium.com/mkdir-awesome/a-new-simple-package-manager-for-script-languages-a1228fd0972a) 
+<https://medium.com/mkdir-awesome/a-new-simple-package-manager-for-script-languages-a1228fd0972a>  
 
 安装令人敬畏的软件包管理器很容易。在您的终端上运行以下命令:
 

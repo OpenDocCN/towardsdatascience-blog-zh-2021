@@ -61,19 +61,7 @@
 
 **更多文章来自作者:**
 
-[](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) [## 开始数据科学职业生涯的最佳时机
-
-### 从数据科学职业生涯的早期开始中获益的 5 种方式
-
-towardsdatascience.com](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) [](/working-as-a-data-science-consultant-e626669ab72b) [## 担任数据科学顾问
-
-### 具有企业意识的数据科学家的职业战略
-
-towardsdatascience.com](/working-as-a-data-science-consultant-e626669ab72b) [](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) [## 初级数据科学家追求的 8 条职业道路
-
-### 如果你最终实现了自己的目标，成为了一家你喜欢的公司的数据科学家。您已成功登机…
-
-towardsdatascience.com](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) 
+</the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff>  </working-as-a-data-science-consultant-e626669ab72b>  </8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e>  
 
 **关于作者:**
 

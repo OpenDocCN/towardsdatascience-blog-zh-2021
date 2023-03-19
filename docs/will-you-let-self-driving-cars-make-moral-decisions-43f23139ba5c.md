@@ -44,7 +44,7 @@
 
 好的，我们知道 *Sav* 只能根据它的算法来决定生死。我们可以让 Sav 在只有一两个选择的情况下随机行动。但我真的不认为我们作为社会会真的对一些被建造得更加准确和决定性的东西感到高兴，突然选择让生活在一个它完全控制的地方由随机机会决定。
 
-回车，[](https://www.moralmachine.net/)****。****
+回车，<https://www.moralmachine.net/>****。****
 
 **![](img/32a0490686e0d440f8280b9ad1166520.png)**
 
@@ -103,4 +103,4 @@
 *   **[无轨电车的愚蠢:伦理挑战和自动驾驶汽车](https://www.brookings.edu/research/the-folly-of-trolleys-ethical-challenges-and-autonomous-vehicles/)**
 *   **[“道德机器”的阴暗面和自动驾驶汽车计算伦理决策的谬误](https://www.tandfonline.com/doi/abs/10.1080/17579961.2021.1898310?journalCode=rlit20)**
 
-***原载于 2021 年 9 月 28 日 https://wordsbywaseh.com*[](https://wordsbywaseh.com/will-you-let-self-driving-cars-make-moral-decisions/)**。****
+***原载于 2021 年 9 月 28 日 https://wordsbywaseh.com*<https://wordsbywaseh.com/will-you-let-self-driving-cars-make-moral-decisions/>**。****

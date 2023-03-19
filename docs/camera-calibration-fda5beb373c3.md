@@ -160,11 +160,7 @@ c) 图像坐标(虚像平面)**【u，v】**从虚像平面的左上角开始。
 
 上面的代码片段来自 [argoverse-api](https://github.com/argoai/argoverse-api) 。
 
-[](https://www.argoverse.org/) [## 主页
-
-### 用于自驾研究的公开数据集很少包括丰富的地图数据，即使详细的地图是…
-
-www.argoverse.org](https://www.argoverse.org/) 
+<https://www.argoverse.org/>  
 
 在下面的 jupyter 笔记本中，您可以看到手动计算(从世界到图像平面的点云投影)与 argoverse api 的结果相匹配。
 

@@ -22,15 +22,7 @@ Pacman HFSMs(图片由作者提供)
 
 在以前的文章中，我们已经看到了一个更新的，也可以说是更好的方法，行为树。请参见下面链接中的帖子，了解行为树。
 
-[](/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a) [## 用行为树设计人工智能主体的行为
-
-### 设计和实现人工智能代理的行为
-
-towardsdatascience.com](/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a) [](/behavior-trees-with-automated-planning-capability-ad2a9ff9b28e) [## 具有自动规划能力的行为树
-
-### 在运行时自动构建和更新行为树。
-
-towardsdatascience.com](/behavior-trees-with-automated-planning-capability-ad2a9ff9b28e) 
+</designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a>  </behavior-trees-with-automated-planning-capability-ad2a9ff9b28e>  
 
 在整篇文章中，我们将互换使用这些术语:行为、决策和代理引擎。
 

@@ -12,7 +12,7 @@
 
 > 有没有更好的办法？
 
-如果你错过了我以前写的关于米托的文章，看看这里的[](https://romanorac.medium.com/list/mito-a-spreadsheet-that-generates-python-1df29fc67dff)****。****
+如果你错过了我以前写的关于米托的文章，看看这里的<https://romanorac.medium.com/list/mito-a-spreadsheet-that-generates-python-1df29fc67dff>****。****
 
 # **当您进行分析时，米托会动态生成代码**
 

@@ -86,7 +86,7 @@ my_profile = Munch({
 
 > 如何在 Python 中少犯“错误”
 
-[](/how-to-make-fewer-mistakes-in-python-6925619ce87e) [## 如何在 Python 中少犯“错误”
+</how-to-make-fewer-mistakes-in-python-6925619ce87e> [## 如何在 Python 中少犯“错误”
 
 towardsdatascience.com](/how-to-make-fewer-mistakes-in-python-6925619ce87e) 
 
@@ -235,10 +235,6 @@ if not my_profile.languages:
 
 在本文中，我介绍了名为 Munch 的库。它完全继承了 Python 字典，因此它支持我们熟悉的所有原始功能。此外，它支持“点语法”。这比传递一个字符串来获取一个键值更方便、更可靠。除此之外，当我们希望从字典中访问一个不存在的键时，它还提供了一个更好的解决方案。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

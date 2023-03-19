@@ -233,11 +233,7 @@ GPT-2 模型生成的文本看起来令人印象深刻。首先，虽然有些�
 
 要查看带有详细解释的完整代码，请查看该项目的资源库:
 
-[](https://github.com/klaudia-nazarko/nlg-text-generation) [## klaudia-nazar ko/NLG-文本生成
-
-### 自然语言生成(NLG)或文本生成是自然语言处理(NLP)的一个子领域。它的目标是…
-
-github.com](https://github.com/klaudia-nazarko/nlg-text-generation) 
+<https://github.com/klaudia-nazarko/nlg-text-generation>  
 
 # 参考
 

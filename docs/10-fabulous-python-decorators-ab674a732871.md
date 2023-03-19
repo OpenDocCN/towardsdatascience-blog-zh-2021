@@ -18,11 +18,7 @@ Python 编程语言的一个伟大之处在于，它将所有的特性打包成�
 
 这个列表中的第一个装饰器来自 functools 模块。这个模块包含在标准库中，非常容易使用。它还包含了比这个装饰器更酷的特性，但是这个装饰器肯定是我最喜欢的。这个装饰器可以用来加速使用缓存的函数和操作的连续运行。当然，在使用时应该注意交换和缓存，但是在一般用途的情况下，大多数时候这个装饰器是值得使用的。如果你想了解更多关于 Functools 的知识以及我喜欢它的原因，我实际上写了一整篇文章，你可以在这里阅读:
 
-[](/functools-an-underrated-python-package-405bbef2dd46) [## FuncTools:一个被低估的 Python 包
-
-### 使用 functools 将您的 Python 函数提升到一个新的水平！
-
-towardsdatascience.com](/functools-an-underrated-python-package-405bbef2dd46) 
+</functools-an-underrated-python-package-405bbef2dd46>  
 
 能够用一个简单的装饰器来加速代码是非常棒的。可以从这样的装饰器中获益的函数的一个很好的例子是递归函数，例如计算阶乘的函数:
 
@@ -47,11 +43,7 @@ JIT 是实时编译的缩写。通常每当我们在 Python 中运行一些代�
 
 Numba JIT 编译器因在 Python 中提供了这一概念而闻名。与@lru_cache 类似，这个装饰器可以很容易地被调用，从而立即提高代码的性能。Numba 包提供了 jit decorator，这使得运行更密集的软件变得容易得多，而不必使用 c。如果您想阅读关于这个包的更多内容，我还有另外一篇文章，您可以在这里查看:
 
-[](/numba-jit-compilation-but-for-python-373fc2f848d6) [## Numba: JIT 编译，但是用于 Python
-
-### 快速浏览一下 2020 年让 Python 变得更好的神奇工具。
-
-towardsdatascience.com](/numba-jit-compilation-but-for-python-373fc2f848d6) 
+</numba-jit-compilation-but-for-python-373fc2f848d6>  
 
 ```
 from numba import jit
@@ -96,7 +88,7 @@ function_example()
 
 为了节省编写类的时间，我一直在使用的最好的装饰器之一是 dataclass 装饰器。这个装饰器可以用来快速编写我们编写的类中常见的标准方法。如果您想了解更多关于这个装饰者的信息，我也有一篇关于它的文章，您可以在这里阅读:
 
-[](/pythons-data-classes-are-underrated-cc6047671a30) [## Python 的数据类被低估了
+</pythons-data-classes-are-underrated-cc6047671a30> [## Python 的数据类被低估了
 
 towardsdatascience.com](/pythons-data-classes-are-underrated-cc6047671a30) 
 
@@ -135,11 +127,7 @@ class cls:
 
 解决这个问题的另一种方法是使用元类。如果你想了解更多关于元类的知识，我去年写了一篇文章，更详细地介绍了这些元类以及它们的用途，你可以在这里查看:
 
-[](/pythonic-metaprogramming-with-metaclasses-19b0df1e1760) [## 具有元类的 Pythonic 元编程
-
-### 你的装饰和元类生存指南。
-
-towardsdatascience.com](/pythonic-metaprogramming-with-metaclasses-19b0df1e1760) 
+</pythonic-metaprogramming-with-metaclasses-19b0df1e1760>  
 
 ```
 class Singleton(type):

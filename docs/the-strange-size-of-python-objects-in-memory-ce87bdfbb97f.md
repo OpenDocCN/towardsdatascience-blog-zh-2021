@@ -18,11 +18,7 @@
 
 如果你不熟悉 Python 如何管理内存，我推荐你先看看我的下面这篇文章。用通俗易懂的语言解释了 Python 如何给对象分配内存。
 
-[](/python-memory-and-objects-e7bec4a2845) [## Python、内存和对象
-
-### 数据科学家的内存管理基础
-
-towardsdatascience.com](/python-memory-and-objects-e7bec4a2845) 
+</python-memory-and-objects-e7bec4a2845>  
 
 正如我在文章中解释的，Python 对象存储在堆内存(即动态内存)中。您可以通过使用一个名为`id()`的函数来获得堆内存(也称为 Heap)上的对象地址。你可以在上面的文章里读到更多的细节。
 
@@ -110,11 +106,7 @@ towardsdatascience.com](/python-memory-and-objects-e7bec4a2845)
 
 我还发现了下面这篇文章提供的一个很好的解决方案。尽管该解决方案适用于有限的对象集，但它看起来很可靠。
 
-[](https://goshippo.com/blog/measure-real-size-any-python-object/) [## 测量任何 Python 对象的实际大小| Shippo
-
-### "使用此脚本测量 Python 中对象的大小。递归测量 Python 对象大小；为 iterables 工作…
-
-goshippo.com](https://goshippo.com/blog/measure-real-size-any-python-object/) 
+<https://goshippo.com/blog/measure-real-size-any-python-object/>  
 
 # 摘要
 

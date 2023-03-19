@@ -126,10 +126,6 @@ TFP 是一个综合库，有超过 15 个不同的**子模块**。在这个系�
 
 *❤️对获取更多这样的内容感兴趣吗？使用此链接加入:*
 
-*[](https://aleksander-molak.medium.com/membership) [## 通过我的推荐链接加入媒体-亚历山大·莫拉克
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-aleksander-molak.medium.com](https://aleksander-molak.medium.com/membership) 
+*<https://aleksander-molak.medium.com/membership>  
 
 _______________*

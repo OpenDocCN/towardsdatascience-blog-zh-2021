@@ -10,7 +10,7 @@
 
 图片由作者购买的 Shutterstock 根据标准许可条款提供给 [WindAwake](https://www.shutterstock.com/g/Blueguy) 。
 
-*许多数据领导者告诉我们，他们的数据科学家和工程师花费 40%或更多的时间*[](/what-is-data-reliability-66ec88578950)***来解决数据问题，而不是从事那些真正有意义的项目。***
+*许多数据领导者告诉我们，他们的数据科学家和工程师花费 40%或更多的时间*</what-is-data-reliability-66ec88578950>***来解决数据问题，而不是从事那些真正有意义的项目。***
 
 **不一定非要这样。下面是直接面向消费者的家具品牌 Resident 的数据工程团队如何利用 [***大规模数据可观察性***](/data-observability-the-next-frontier-of-data-engineering-f780feb874b) *将数据事件减少 90%。***
 

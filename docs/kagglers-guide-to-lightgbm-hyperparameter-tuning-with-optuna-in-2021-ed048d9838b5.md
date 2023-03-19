@@ -20,15 +20,7 @@
 
 > 如果你是 LGBM 的新手，我强烈建议你阅读文章的第一部分。虽然我将简要解释 Optuna 是如何工作的，但我也建议阅读我关于它的单独文章,以便更好地理解这篇文章。
 
-[](/how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997) [## 你错过了 LightGBM。它在各个方面都击败了 XGBoost
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997) [](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
-
-### 编辑描述
-
-towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) 
+</how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997>  </why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c>  
 
 > 点击这里获取 Kaggle 上的文章[的笔记本。](https://www.kaggle.com/bextuychiev/lgbm-optuna-hyperparameter-tuning-w-understanding/edit)
 
@@ -45,19 +37,11 @@ towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hype
 
 如果给定足够好的参数网格，像 Optuna 这样的框架可以自动找到这些类别之间的“中间值”。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 控制树结构的超参数
 
@@ -153,12 +137,4 @@ Optuna 中的优化过程需要一个名为 *objective* 的函数:
 
 # 您可能也会感兴趣…
 
-[![](img/d1f61af83178ef33ca100733ae58308c.png)](https://towardsdatascience.com/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8)[![](img/64ff4180c5cd4b01dd243e64cbce80b2.png)](https://towardsdatascience.com/fail-proof-formula-to-learn-any-package-ruthlessly-in-less-than-a-day-c85e49a55459?source=your_stories_page-------------------------------------)[![](img/8b7298e1750218f40fae6e8fca8be3d2.png)](https://towardsdatascience.com/10-underrated-sklearn-features-you-can-use-for-your-advantage-right-now-3a87b10a8d7f)[![](img/8bbce478590709d2df931885bd152d1a.png)](https://towardsdatascience.com/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be)[](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9) [## 厌倦了陈词滥调的数据集？以下是来自所有领域的 18 个令人敬畏的选择
-
-### 编辑描述
-
-towardsdatascience.com](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9) [](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [## 喜欢 3Blue1Brown 动画？了解如何在 10 分钟内用 Python 创建自己的
-
-### 编辑描述
-
-towardsdatascience.com](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d)
+[![](img/d1f61af83178ef33ca100733ae58308c.png)](https://towardsdatascience.com/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8)[![](img/64ff4180c5cd4b01dd243e64cbce80b2.png)](https://towardsdatascience.com/fail-proof-formula-to-learn-any-package-ruthlessly-in-less-than-a-day-c85e49a55459?source=your_stories_page-------------------------------------)[![](img/8b7298e1750218f40fae6e8fca8be3d2.png)](https://towardsdatascience.com/10-underrated-sklearn-features-you-can-use-for-your-advantage-right-now-3a87b10a8d7f)[![](img/8bbce478590709d2df931885bd152d1a.png)](https://towardsdatascience.com/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be)</tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9>  </love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d> 

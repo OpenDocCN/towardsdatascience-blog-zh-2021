@@ -66,16 +66,4 @@
 
 ## 你可能也会喜欢…
 
-[](/why-youll-quit-your-data-science-job-6079d407bbeb) [## 为什么你会辞去数据科学的工作
-
-### 你应该做些什么来防止这种情况发生
-
-towardsdatascience.com](/why-youll-quit-your-data-science-job-6079d407bbeb) [](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [## 如何向非技术人员展示机器学习结果
-
-### 展示利益相关者能够理解的模型结果
-
-towardsdatascience.com](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1) [## 我作为数据科学家和数据分析师的经历
-
-### 我希望从一开始就知道的成功秘诀
-
-towardsdatascience.com](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1)
+</why-youll-quit-your-data-science-job-6079d407bbeb>  </how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76>  </my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1> 

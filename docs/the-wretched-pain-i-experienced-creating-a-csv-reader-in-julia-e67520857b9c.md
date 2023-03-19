@@ -16,11 +16,7 @@
 
 jl 是 Julia 编程语言的内存表格数据模块。我对 DataFrames.jl 包有许多不满，我也曾尝试修改过该包，但对我来说，该包的方法和某些方面并不是我个人在 DataFrames 包中寻找的。考虑到这一点，我认为 OddFrames 将是 DataFrames.jl 包的一个非常激进的替代方案，特别是对于那些从 Python 过渡过来的人来说，因为这个包有许多类似熊猫的调用。对于那些熟悉熊猫的人来说，许多叫声都是可以猜到的，尽管一些有条不紊的功能仍然相当朱利安。在我们进入我为这个包创建的逗号分隔值(CSV)阅读器之前，还有最后一件事，如果您对此感兴趣，我建议您看一看！该软件包仍处于早期开发阶段，但不管怎样，我认为它至少值得一看！(您也可以在这个资源库中找到我将在这里讨论的所有源代码。)
 
-[](https://github.com/ChifiSource/OddFrames.jl) [## GitHub-chifi source/odd frames . JL:面向对象的、基于 dict 的 DataFrames 包！
-
-### jl 是 Julia 的一种新的数据管理和操作包。然而，许多类似的软件包…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl) 
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 # 基本解析
 
@@ -116,7 +112,7 @@ types, columns = read_types(columns)# Coldatacoldata = generate_coldata(columns,
 
 我不打算详细介绍这个函数，因为它与我们的 CSV 文件没有太大关系。此时，我们有了正确的类型和一个完全解析的 CSV 文件。当然，我不会把你排除在所有工作之后的最终结果之外。另一件你可能已经注意到的事情是我对提取方法的使用。这个完整的内部构造函数一直在反复调用本质上服务于一个目的的其他函数。这是一个非常好的编码实践。如果您有兴趣了解更多关于提取的知识，以及我用来制作优秀代码的一些其他方法，我有一整篇文章都在谈论它，如果您愿意，您可以在这里阅读:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 

@@ -38,11 +38,7 @@
 
 [马特·李](https://unsplash.com/@mattlee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/olympics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上的照片
 
-[](https://www.kaggle.com/joshuaswords/does-hosting-the-olympics-improve-performance) [## 举办奥运会能提高成绩吗？
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 120 年奥运历史的数据:运动员…
-
-www.kaggle.com](https://www.kaggle.com/joshuaswords/does-hosting-the-olympics-improve-performance) 
+<https://www.kaggle.com/joshuaswords/does-hosting-the-olympics-improve-performance>  
 
 这项分析(上面的链接)是由 AWS 的数据科学家 Josh 进行的。他想知道当一个国家主办奥运会和不主办奥运会时，奖牌数是否有统计学上的显著差异。
 
@@ -66,11 +62,7 @@ www.kaggle.com](https://www.kaggle.com/joshuaswords/does-hosting-the-olympics-im
 
 照片由 [Thibault Penin](https://unsplash.com/@thibaultpenin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 在 [Unsplash](https://unsplash.com/s/photos/netflix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-[](https://www.kaggle.com/joshuaswords/netflix-data-visualization) [## 网飞数据可视化
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自网飞电影和电视节目的数据
-
-www.kaggle.com](https://www.kaggle.com/joshuaswords/netflix-data-visualization) 
+<https://www.kaggle.com/joshuaswords/netflix-data-visualization>  
 
 接下来的分析也是由乔希进行的——我能说什么呢，他的分析令人难以置信！这个分析有几个与网飞内容相关的独特的数据可视化，我要说他们很有见地！
 
@@ -87,11 +79,7 @@ www.kaggle.com](https://www.kaggle.com/joshuaswords/netflix-data-visualization)
 
 照片由[莎伦·麦卡琴](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-[](https://www.kaggle.com/jackogozaly/salary-data-eda) [## 薪金数据 EDA
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自数据科学和 STEM 薪水的数据
-
-www.kaggle.com](https://www.kaggle.com/jackogozaly/salary-data-eda) 
+<https://www.kaggle.com/jackogozaly/salary-data-eda>  
 
 这项分析是由[杰克·奥格扎利](https://www.kaggle.com/jackogozaly)进行的，它着眼于数据科学家和其他 STEM 相关职业的工资数据。用于此分析的数据来自 levels.fyi。
 
@@ -110,11 +98,7 @@ www.kaggle.com](https://www.kaggle.com/jackogozaly/salary-data-eda)
 
 照片由[布雷特·乔丹](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/reddit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-[](https://www.kaggle.com/khsamaha/reddit-vaccine-myths-eda-and-text-analysis) [## Reddit 疫苗神话 EDA 和文本分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Bing、NRC、Afinn 词典的数据
-
-www.kaggle.com](https://www.kaggle.com/khsamaha/reddit-vaccine-myths-eda-and-text-analysis) 
+<https://www.kaggle.com/khsamaha/reddit-vaccine-myths-eda-and-text-analysis>  
 
 这项分析是由 Kheirallah Samaha 进行的，他使用 NLP 技术进行了文本分析，以确定过去几年 Reddit 帖子中关于疫苗的平均情绪。他还以一些关于为什么许多人对接种疫苗犹豫不决的最终原因结束了分析。
 
@@ -131,11 +115,7 @@ www.kaggle.com](https://www.kaggle.com/khsamaha/reddit-vaccine-myths-eda-and-tex
 
 在 [Unsplash](https://unsplash.com/s/photos/world-happiness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上 [Larm Rmah](https://unsplash.com/@larm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 拍摄的照片
 
-[](https://www.kaggle.com/joshuaswords/awesome-eda-2021-happiness-population) [## 【牛逼 EDA】2021 幸福&人口
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 2020 年各国人口数据
-
-www.kaggle.com](https://www.kaggle.com/joshuaswords/awesome-eda-2021-happiness-population) 
+<https://www.kaggle.com/joshuaswords/awesome-eda-2021-happiness-population>  
 
 最后，这最后的分析也是由乔希进行的。特别是，这是一个探索性的数据分析，以确定什么因素使一个国家幸福或不幸福。他使用的数据来自 2021 年世界幸福报告。
 
@@ -155,19 +135,11 @@ www.kaggle.com](https://www.kaggle.com/joshuaswords/awesome-eda-2021-happiness-p
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 **还有一个:**
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) [## 2022 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) 
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 # 特伦斯·申
 

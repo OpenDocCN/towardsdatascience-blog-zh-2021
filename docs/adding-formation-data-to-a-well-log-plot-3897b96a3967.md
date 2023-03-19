@@ -21,11 +21,7 @@
 
 对于下面的例子，你可以在我的 GitHub 知识库中找到我的 Jupyter 笔记本和数据集，链接如下。
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series) [## andymcdgeo/岩石物理学-Python-系列
-
-### 本系列 Jupyter 笔记本将带您了解使用 Python 和岩石物理数据的各个方面。一个…
-
-github.com](https://github.com/andymcdgeo/Petrophysics-Python-Series) 
+<https://github.com/andymcdgeo/Petrophysics-Python-Series>  
 
 这篇文章是我的 Python &岩石物理学系列的一部分。详情可在[这里](http://andymcdonald.scot/python-and-petrophysics)找到。
 

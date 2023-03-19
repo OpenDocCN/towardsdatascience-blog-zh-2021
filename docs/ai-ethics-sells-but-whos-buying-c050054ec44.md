@@ -6,7 +6,7 @@
 
 ![](img/563cd2c86c8e09235e4589d89d2728c3.png)
 
-[](https://www.flickr.com/photos/33195821@N00/4592786358)[tiseb](https://www.flickr.com/photos/33195821@N00)的【欧盟委员会】由[CC 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)授权
+<https://www.flickr.com/photos/33195821@N00/4592786358>[tiseb](https://www.flickr.com/photos/33195821@N00)的【欧盟委员会】由[CC 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)授权
 
 自欧洲人工智能高级专家(HLE)小组提交其[可信人工智能伦理指南](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60419)以来，已经过去两年了。该指南确定了人工智能系统应满足的七个关键要求，以确保其值得信赖:
 
@@ -24,11 +24,7 @@
 
 两年后，我们即将看到欧洲人工智能法规的发布，我们已经有了一份泄露的草案版本，几位专家已经对其进行了分析。虽然[我分享了西班牙 Xataka 的一些初步想法](https://www.xataka.com/pro/filtrado-borrador-regulacion-europea-ia-primeras-impresiones-tres-expertos-materia)(西班牙文)，但 The Verge 的这篇文章是一个很好的起点，可以了解一旦最终文件发布，将会受到哪些监管:
 
-[](https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit?_lrsc=2d15990e-d572-4abb-8204-ef96852847ea) [## 欧盟正在考虑禁止人工智能用于大规模监控和社会信用评分
-
-### 欧盟正在考虑禁止出于多种目的使用人工智能，包括大规模…
-
-www.theverge.com](https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit?_lrsc=2d15990e-d572-4abb-8204-ef96852847ea) 
+<https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit?_lrsc=2d15990e-d572-4abb-8204-ef96852847ea>  
 
 如果你正在寻找一个快速(但非常有用)的监管关键方面的总结，我也推荐你阅读迈克尔·维尔(@mikarv)的这个帖子:
 

@@ -12,11 +12,7 @@
 
 构建具有图形用户界面并执行复杂任务的 Python 应用程序可能看起来很困难。在最近发表的一篇文章中(见下面的链接)，我提到了开始构建应用程序只需要 7 个 Python 库。
 
-[](/build-your-first-data-science-application-9f1b816a5d67) [## 构建您的首个数据科学应用
-
-### 七个 Python 库，打造你的第一个数据科学 MVP 应用。
-
-towardsdatascience.com](/build-your-first-data-science-application-9f1b816a5d67) 
+</build-your-first-data-science-application-9f1b816a5d67>  
 
 本文将用几行代码向您展示如何构建一个简单的翻译应用程序。我只使用两个 Python 库:requests 和 ipywidgets。
 
@@ -32,19 +28,11 @@ towardsdatascience.com](/build-your-first-data-science-application-9f1b816a5d67)
 
 如果你没有 Azure 帐户，你可以注册一个免费的。按照以下链接中的说明进行操作。它很简单，让你可以免费使用数十种令人敬畏的 API 和服务。
 
-[](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/) [## 创建 Azure 帐户-了解
-
-### 使用 Azure 的第一步是注册。你可以在微软的帮助下直接通过 Azure.com 注册
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/) 
+<https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/>  
 
 创建一个免费的 Azure 账户后，你需要给你的账户添加 Azure Translator API。还是那句话，洒脱。您需要遵循以下链接中的步骤。
 
-[](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup) [## 入门-翻译- Azure 认知服务
-
-### 没有户口？你可以创建一个免费的帐户免费进行实验。已经有账户了？在…之后登录
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup) 
+<https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup>  
 
 如果你做的一切都正确，你必须有一个 API 密匙(即认证密匙)。密钥只是一个字符串，让你可以使用 Azure Translator API。您需要将它放入您的 Python 程序中(下一节)。记住，永远不要和任何人(包括你的用户)分享你的 API 密匙。
 
@@ -130,11 +118,7 @@ voila Translator_API.ipynb
 
 瞧啊。！！！！只需几个步骤，您就完成了简单的翻译应用程序。您可以通过使用 **ipyvuetify** 来改善您的 GUI 外观，这是一个充满现代外观小部件的库。你也可以使用 **ngrok** 和其他人分享你的 MVP(最小可行产品)(详情阅读下面的文章)。
 
-[](/how-to-share-your-jupyter-notebook-in-3-lines-of-code-with-ngrok-bfe1495a9c0c) [## 如何用 Ngrok 用 3 行代码分享你的 Jupyter 笔记本
-
-### 想象一下，让你的朋友在远程机器上使用你的本地 Jupyter 笔记本
-
-towardsdatascience.com](/how-to-share-your-jupyter-notebook-in-3-lines-of-code-with-ngrok-bfe1495a9c0c) 
+</how-to-share-your-jupyter-notebook-in-3-lines-of-code-with-ngrok-bfe1495a9c0c>  
 
 # 摘要
 

@@ -12,11 +12,7 @@
 
 这里是这个项目的模板。我们使用诗歌进行包装管理。本文主要关注预提交挂钩。
 
-[](https://github.com/edkrueger/poetry-template) [## 爱德华·克鲁格/诗歌模板
-
-### 运行诗歌安装来安装环境。运行诗歌运行预提交安装初始化 git 挂钩。跑诗跑…
-
-github.com](https://github.com/edkrueger/poetry-template) 
+<https://github.com/edkrueger/poetry-template>  
 
 # 什么是预提交挂钩？
 
@@ -102,8 +98,4 @@ pyproject.toml
 
 *有关使用 bash 编写自己的预提交钩子的更多信息，请查看这篇文章！*
 
-[](https://medium.com/@edkrueger_16881/how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05) [## 如何用 Bash 编写自己的 Python 预提交钩子
-
-### 创建自己的预提交挂钩，用于静态分析和与 Git repo 的持续集成。
-
-medium.com](https://medium.com/@edkrueger_16881/how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05)
+<https://medium.com/@edkrueger_16881/how-to-code-your-own-python-pre-commit-hooks-with-bash-171298c6ee05> 

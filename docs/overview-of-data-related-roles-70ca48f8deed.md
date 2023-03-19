@@ -73,16 +73,4 @@
 
 ## 与本文相似的帖子:
 
-[](/the-data-science-journey-95f9239623ae) [## 数据科学之旅
-
-### 如何规划蒸蒸日上的职业生涯
-
-towardsdatascience.com](/the-data-science-journey-95f9239623ae) [](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) [## 获得数据科学工作比以往任何时候都难
-
-### 以及如何利用找工作的困难成为你的优势
-
-towardsdatascience.com](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) [](/a-cv-isnt-enough-to-land-you-a-data-science-job-38db16c6f221) [## 一份简历不足以让你得到一份数据科学的工作
-
-### 如何在简历之外成为更有吸引力的数据科学候选人
-
-towardsdatascience.com](/a-cv-isnt-enough-to-land-you-a-data-science-job-38db16c6f221)
+</the-data-science-journey-95f9239623ae>  </getting-a-data-science-job-is-harder-than-ever-fb796aae1922>  </a-cv-isnt-enough-to-land-you-a-data-science-job-38db16c6f221> 

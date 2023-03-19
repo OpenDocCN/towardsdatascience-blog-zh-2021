@@ -231,10 +231,6 @@ repr(timedelta(days=7, hours=10, seconds=30, microseconds=300000))
 
 在本文中，我假设您已经知道 Python 内置的 datetime 库中的 timedelta 模块。我试图组织一些知识点，这些知识点不太可能被每个开发人员，尤其是学习者所了解，并且在本文中有所解释，比如对象之间的边界和稀有操作。希望它能满足你的一些好奇心。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

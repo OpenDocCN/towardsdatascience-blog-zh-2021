@@ -65,11 +65,7 @@
 
 下面是一个文档非常完整的脚本，它将向您展示一个回归问题的实现。它涵盖了回归问题及其实现的各个阶段。它还包括不同的算法及其对性能的影响。
 
-[](https://www.kaggle.com/faressayah/linear-regression-house-price-prediction) [## 线性回归📈房子🏡价格💵预言；预测；预告
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自美国的数据 _Housing
-
-www.kaggle.com](https://www.kaggle.com/faressayah/linear-regression-house-price-prediction) 
+<https://www.kaggle.com/faressayah/linear-regression-house-price-prediction>  
 
 # 分类
 
@@ -86,11 +82,7 @@ www.kaggle.com](https://www.kaggle.com/faressayah/linear-regression-house-price-
 
 以下参考脚本可以作为解决任何分类问题的模板。它涵盖了解决分类问题的各个阶段。它从问题定义、数据分析、数据清理、模型构建、评估和改进性能的技术开始。
 
-[](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy) [## 数据科学框架:实现 99%的准确性
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Titanic 的数据-灾难中的机器学习
-
-www.kaggle.com](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy) 
+<https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy>  
 
 # 使聚集
 
@@ -118,7 +110,7 @@ www.kaggle.com](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-ac
 
 要了解更多关于不同的聚类算法、其中涉及的步骤、每种算法的优点和缺点，以及理解关键概念，请查看下面的文章。
 
-[](/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) [## 数据科学家需要知道的 5 种聚类算法
+</the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68> [## 数据科学家需要知道的 5 种聚类算法
 
 towardsdatascience.com](/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) 
 
@@ -126,11 +118,7 @@ towardsdatascience.com](/the-5-clustering-algorithms-data-scientists-need-to-kno
 
 要了解聚类算法的实际实现，请查看下面的内容。这个 Kaggle 笔记本清楚地解释了 K-means 聚类算法的各个步骤。
 
-[](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) [## 客户细分(K 均值)|分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
-
-www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) 
+<https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis>  
 
 # 推荐
 
@@ -156,11 +144,7 @@ www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-
 
 了解更多关于推荐系统及其实现的信息。检查下面，
 
-[](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system) [## 电影推荐系统入门
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 TMDB 5000 电影数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system) 
+<https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system>  
 
 # 自然语言处理
 
@@ -176,21 +160,13 @@ www.kaggle.com](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-rec
 
 下面的文章将提供一个简单的逐步解决大多数 NLP 问题的方法。
 
-[](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) [## 如何解决 90%的 NLP 问题:一步一步的指南
-
-### 使用机器学习来理解和利用文本。
-
-blog.insightdatascience.com](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) 
+<https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e>  
 
 ## 参考脚本
 
 下面的笔记本将向您展示 NLP 用例的实现。首先，了解更多关于数据集结构的信息，生成元特征，并分析有影响的信息。最重要的是，这是有据可查的，很容易学习。
 
-[](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model#EDA) [## Twitter 情感提取——分析、EDA 和模型
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自[私有数据源]的数据
-
-www.kaggle.com](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model#EDA) 
+<https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model#EDA>  
 
 # 计算机视觉
 
@@ -203,21 +179,13 @@ www.kaggle.com](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction
 
 所有上述问题的基本原则是识别数据中的模式。处理能力的进步使得许多人都可以使用计算机视觉应用。AutoML 解决方案使计算机视觉用例的实现变得容易。下面是一篇关于使用 [Datature](https://datature.io) 不用写一行代码就能实现物体检测的文章。
 
-[](https://medium.com/geekculture/building-computer-vision-application-fast-without-any-coding-b09c3eb75912) [## 无需任何编码快速构建计算机视觉应用
-
-### 简单、快速且易于部署！
-
-medium.com](https://medium.com/geekculture/building-computer-vision-application-fast-without-any-coding-b09c3eb75912) 
+<https://medium.com/geekculture/building-computer-vision-application-fast-without-any-coding-b09c3eb75912>  
 
 ## 参考脚本
 
 下面的笔记本是一个很好的记录清晰的笔记本。它将向您介绍使用卷积神经网络的计算机视觉应用。
 
-[](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) [## CNN 简介 Keras - 0.997(前 6%)
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自数字识别器的数据
-
-www.kaggle.com](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) 
+<https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6>  
 
 # 最终注释
 

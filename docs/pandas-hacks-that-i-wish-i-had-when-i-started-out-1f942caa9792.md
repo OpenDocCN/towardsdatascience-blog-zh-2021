@@ -118,11 +118,7 @@ pandas.DataFrame.to_parquet('file_name.parquet')
 
 我赞成以多种格式保存的另一个原因是，有时由于古怪的数据类型，项目中可能会出现错误。每种格式都有自己的数据类型方案。熊猫也有自己的计划。当数据类型没有很好地映射时，将数据从一种格式交换到另一种格式有时会产生意想不到的结果。拥有数据的冗余副本有助于解决这些与数据类型相关的问题。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 结论
 
@@ -134,11 +130,7 @@ adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership)
 
 另一个我开始时想变得更简单的任务是:在 Pandas >中移动列:|
 
-[](/reordering-pandas-dataframe-columns-thumbs-down-on-standard-solutions-1ff0bc2941d5) [## 重新排序熊猫数据框列:否定标准解决方案
-
-### 简化更改数据框列顺序过程的解决方案
-
-towardsdatascience.com](/reordering-pandas-dataframe-columns-thumbs-down-on-standard-solutions-1ff0bc2941d5) 
+</reordering-pandas-dataframe-columns-thumbs-down-on-standard-solutions-1ff0bc2941d5>  
 
 # 感谢阅读
 

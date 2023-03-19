@@ -14,7 +14,7 @@
 
 你可能已经听我说过无数次了，但是数据科学家实际上是统计学家的现代术语，机器学习是统计学的现代术语。
 
-因为统计学如此重要，[](https://medium.com/u/ab636cbf3611?source=post_page-----24f886221271--------------------------------)[**StrataScratch**](https://platform.stratascratch.com/?utm_source=blog&utm_medium=click&utm_campaign=terenceshin&utm_content=statistics-interview-questions-article)的创始人内森·罗西迪和我合作写了 50 多个统计学面试问题和答案。
+因为统计学如此重要，<https://medium.com/u/ab636cbf3611?source=post_page-----24f886221271-------------------------------->[**StrataScratch**](https://platform.stratascratch.com/?utm_source=blog&utm_medium=click&utm_campaign=terenceshin&utm_content=statistics-interview-questions-article)的创始人内森·罗西迪和我合作写了 50 多个统计学面试问题和答案。
 
 说到这里，让我们开始吧！
 
@@ -184,7 +184,7 @@ n 个元素的排列是这 n 个元素以**确定顺序**的任意排列。有 n
 
 *   **抽样偏差**:非随机抽样导致的有偏差样本
 *   **时间间隔**:选择支持预期结论的特定时间范围。例如，在临近圣诞节时进行销售分析。
-*   **暴露**:包括临床易感性偏倚、原发性偏倚、适应症偏倚。*此处阅读更多*[](https://en.wikipedia.org/wiki/Selection_bias)**。**
+*   **暴露**:包括临床易感性偏倚、原发性偏倚、适应症偏倚。*此处阅读更多*<https://en.wikipedia.org/wiki/Selection_bias>**。**
 *   ***数据**:包括摘樱桃、压制证据、证据不全的谬误。*
 *   ***流失**:流失偏倚类似于生存偏倚，即只有那些在长期过程中“幸存”的人才会被纳入分析，或者类似于失败偏倚，即那些“失败”的人才会被纳入分析*
 *   ***观察者选择**:与人择原理相关，这是一种哲学上的考虑，我们收集的关于宇宙的任何数据都要经过过滤，为了让它可以被观察到，它必须与观察它的有意识和有智慧的生命兼容。*
@@ -477,7 +477,7 @@ P(A | B)= 8/(8+3)= 8/11*
 
 *因此，如果三个朋友都说在下雨，那么有 8/11 的几率是真的在下雨。*
 
-> ***如果你想要更多的数据科学面试问题和答案来备考，你可以在这里找到更多的**[](https://platform.stratascratch.com/?utm_source=blog&utm_medium=click&utm_campaign=terenceshin&utm_content=statistics-interview-questions-article)****！*****
+> ***如果你想要更多的数据科学面试问题和答案来备考，你可以在这里找到更多的**<https://platform.stratascratch.com/?utm_source=blog&utm_medium=click&utm_campaign=terenceshin&utm_content=statistics-interview-questions-article>****！*****
 
 # ***感谢阅读！***
 
@@ -489,19 +489,11 @@ P(A | B)= 8/(8+3)= 8/11*
 
 ***不确定接下来要读什么？我为你选了另一篇文章:***
 
-***[](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+***</10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

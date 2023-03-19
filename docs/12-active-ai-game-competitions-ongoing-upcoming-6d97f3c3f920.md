@@ -33,7 +33,7 @@
 13.  [Codecup](#09e9)
 14.  [IEEE 游戏会议](#6501)
 
-## 1.[](https://www.kaggle.com/simulations)**(2010—)**
+## 1.<https://www.kaggle.com/simulations>**(2010—)**
 
 **![](img/4bcc6736ee69b0845916fec1768fe350.png)**
 
@@ -75,7 +75,7 @@
 
 **玩家可以使用 Python、Java 或 Rust 来构建他们的代理。**
 
-## **5.[](https://codingame.com)**(2012—)****
+## **5.<https://codingame.com>**(2012—)****
 
 ****![](img/bd0b17b80ec72f9d7a8941c7572ef6d0.png)****
 

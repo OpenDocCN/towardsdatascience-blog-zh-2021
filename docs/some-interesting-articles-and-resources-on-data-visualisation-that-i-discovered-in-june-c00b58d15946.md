@@ -46,11 +46,7 @@ Autoplotter 是一个用于探索性数据分析(EDA)的 Python 包。可以通�
 
 要了解更多细节，您可以查看完整的库文档:
 
-[](https://pypi.org/project/autoplotter/) [## 自动绘图仪
-
-### autoplotter 是一个 python 包，用于基于 GUI 的探索性数据分析。它建立在仪表板的顶部。使用…
-
-pypi.org](https://pypi.org/project/autoplotter/) 
+<https://pypi.org/project/autoplotter/>  
 
 ## 1.2 可观察汇总表
 
@@ -64,11 +60,7 @@ pypi.org](https://pypi.org/project/autoplotter/)
 
 有关更多信息，您可以通过以下链接阅读实验性`SummaryTable`功能的官方文档:
 
-[](https://observablehq.com/@observablehq/summary-table) [## 一览表
-
-### 编辑描述
-
-observablehq.com](https://observablehq.com/@observablehq/summary-table) 
+<https://observablehq.com/@observablehq/summary-table>  
 
 ## 1.3 学到的第一课
 
@@ -88,11 +80,7 @@ observablehq.com](https://observablehq.com/@observablehq/summary-table)
 
 以下链接提供了 Excel 图表的完整图库:
 
-[](https://simplexct.com/charts-in-excel) [## 我们在 simplexCT 的想法
-
-### 了解我们对 Excel 图表主题的最新见解。
-
-simplexct.com](https://simplexct.com/charts-in-excel) 
+<https://simplexct.com/charts-in-excel>  
 
 ## 2.2 一些数据讲述(红色)图表
 
@@ -104,11 +92,7 @@ Cole Nussbaumer Knaflic 是一位非常受欢迎的数据讲述影响者，他�
 
 全文可通过以下链接获得:
 
-[](https://community.storytellingwithdata.com/challenges/june-2021-reading-into-red/only-six-red-graphs) [## 用数据讲故事
-
-### 加入社会福利署社区，在您更好地讲述数据的过程中进行实践并获得支持。你对…感兴趣吗？
-
-community.storytellingwithdata.com](https://community.storytellingwithdata.com/challenges/june-2021-reading-into-red/only-six-red-graphs) 
+<https://community.storytellingwithdata.com/challenges/june-2021-reading-into-red/only-six-red-graphs>  
 
 ## 2.3 R 中的条形图动画
 
@@ -121,11 +105,7 @@ community.storytellingwithdata.com](https://community.storytellingwithdata.com/c
 
 有关更多详细信息，您可以通过以下链接阅读全文:
 
-[](/hands-on-tutorial-f2ee5dc4d0a8) [## 条形图动画制作完全指南
-
-### 制作两种不同风格的条形图动画的分步指南
-
-towardsdatascience.com](/hands-on-tutorial-f2ee5dc4d0a8) 
+</hands-on-tutorial-f2ee5dc4d0a8>  
 
 ## 2.4 在 DataWrapper 条形图中显示置信区间
 
@@ -141,11 +121,7 @@ DataWrapper 可以帮助你。数据包装器是一个非常流行的在线工�
 
 有关如何在 DataWrapper 上显示置信区间的更多详细信息，您可以阅读完整的文章:
 
-[](https://blog.datawrapper.de/confidence-intervals-value-markers-bar-charts/) [## 在 Datawrapper 条形图中显示置信区间和值标记— Datawrapper 博客
-
-### 我们希望让您能够更好地交流数据，对我们来说，“更好”也意味着“更细致入微”。使用一个…
-
-blog.datawrapper.de](https://blog.datawrapper.de/confidence-intervals-value-markers-bar-charts/) 
+<https://blog.datawrapper.de/confidence-intervals-value-markers-bar-charts/>  
 
 ## 2.5 第二个教训
 
@@ -175,11 +151,7 @@ Google Art & Culture 提出了一个非常有趣的在线工具[来从图像中�
 
 您可以通过以下链接亲自试用该工具:
 
-[](https://artsexperiments.withgoogle.com/artpalette/colors/bbb6b4-3362bf-6b6260-a93c3e-243c7e) [## 谷歌艺术与文化实验——艺术调色板
-
-### 当你用这个功能拍照时，你照片中的调色板会被发送到谷歌，以找到…
-
-artsexperiments.withgoogle.com](https://artsexperiments.withgoogle.com/artpalette/colors/bbb6b4-3362bf-6b6260-a93c3e-243c7e) 
+<https://artsexperiments.withgoogle.com/artpalette/colors/bbb6b4-3362bf-6b6260-a93c3e-243c7e>  
 
 ## 3.2 如何选择最佳的调色板
 
@@ -190,7 +162,7 @@ artsexperiments.withgoogle.com](https://artsexperiments.withgoogle.com/artpalett
 
 文章还调查了**色彩心理学研究的其他方面。**我建议您通过以下链接阅读全文:
 
-[](/the-power-of-color-be3bbe9f6bc1) [## 色彩的力量
+</the-power-of-color-be3bbe9f6bc1> [## 色彩的力量
 
 towardsdatascience.com](/the-power-of-color-be3bbe9f6bc1) 
 
@@ -210,11 +182,7 @@ towardsdatascience.com](/the-power-of-color-be3bbe9f6bc1)
 
 您可以通过以下链接阅读全文:
 
-[](/create-javascript-gantt-chart-55ff8ec08886) [## 如何使用 JavaScript 创建简单的甘特图
-
-### 将项目任务可视化为级联的水平条形图，甘特图在管理项目和监控方面非常有用
-
-towardsdatascience.com](/create-javascript-gantt-chart-55ff8ec08886) 
+</create-javascript-gantt-chart-55ff8ec08886>  
 
 # 摘要
 
@@ -228,16 +196,4 @@ towardsdatascience.com](/create-javascript-gantt-chart-55ff8ec08886)
 
 # 相关文章
 
-[](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [## 数据可视化原理第 1 部分:空白、文本和颜色
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分 Altair 中的一个实际例子
-
-### 关于如何在 Python Altair 中构建、定制和添加注释到简单条形图的实用教程
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [## 数据可视化原理第 2 部分:布局和重点
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217)
+</data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  </data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217> 

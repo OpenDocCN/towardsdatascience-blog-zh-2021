@@ -165,20 +165,8 @@
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [## UMAP 降维——一种非常健壮的机器学习算法
-
-### 一致流形近似和投影(UMAP)如何工作，以及如何在 Python 中使用它
-
-towardsdatascience.com](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [](/lda-linear-discriminant-analysis-how-to-improve-your-models-with-supervised-dimensionality-52464e73930f) [## 线性鉴别分析——如何用监督维度改进你的模型…
-
-### 使用 Python 示例对 PCA 和 LDA 进行深入比较
-
-towardsdatascience.com](/lda-linear-discriminant-analysis-how-to-improve-your-models-with-supervised-dimensionality-52464e73930f)
+</umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568>  </lda-linear-discriminant-analysis-how-to-improve-your-models-with-supervised-dimensionality-52464e73930f> 

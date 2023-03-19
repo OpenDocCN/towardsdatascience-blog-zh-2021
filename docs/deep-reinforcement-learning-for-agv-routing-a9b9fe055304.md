@@ -156,19 +156,7 @@ Djisktra 图表示例—(图片由作者提供)
 
 *对于更传统的拣货流程，您可以找到使用高级分析工具和流程分析概念进行流程优化的示例。*
 
-*[](https://www.samirsaci.com/supply-chain-process-design-using-the-queueing-theory/) [## 基于排队论的供应链流程设计
-
-### 物流持续改进应用 Python 中排队论的几个原理设计一个包裹包装…
-
-www.samirsaci.com](https://www.samirsaci.com/supply-chain-process-design-using-the-queueing-theory/) [](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [## 使用 Python 的订单批处理提高仓库生产率
-
-### 物流持续改进设计一个模拟模型来估计几个单拣货员路线的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) [## 使用 Python 线性编程优化劳动力规划
-
-### 物流持续改进你需要雇佣多少临时工来消化你每周的…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) 
+*<https://www.samirsaci.com/supply-chain-process-design-using-the-queueing-theory/>  <https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/>  <https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/>  
 
 # 关于我
 
@@ -176,11 +164,7 @@ www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-l
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

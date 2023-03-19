@@ -24,7 +24,7 @@
 
 图片:[来源](https://pixabay.com/photos/cube-four-roll-the-dice-949116/)。
 
-(如果这太专业了，就把随机变量想象成一种表示结果的方式:如果 X 是关于掷骰子的，那么 *X* =4 就是说我们掷出了一个 4。如果这还不够专业，你几乎可以肯定[](https://en.wikipedia.org/wiki/Almost_surely)*爱上一堂[衡量理论](https://en.wikipedia.org/wiki/Measure_(mathematics))课。)*
+(如果这太专业了，就把随机变量想象成一种表示结果的方式:如果 X 是关于掷骰子的，那么 *X* =4 就是说我们掷出了一个 4。如果这还不够专业，你几乎可以肯定<https://en.wikipedia.org/wiki/Almost_surely>*爱上一堂[衡量理论](https://en.wikipedia.org/wiki/Measure_(mathematics))课。)*
 
 # *随机变量*
 

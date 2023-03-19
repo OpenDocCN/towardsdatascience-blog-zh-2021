@@ -455,26 +455,14 @@ ECS 任务是获取我们的映像并将其部署到容器中的操作。要创�
 
 *   如果您的权限不允许您的任务创建 ECS 任务执行 IAM 角色，您可以按照以下说明创建一个。
 
- [## Amazon ECS 任务执行 IAM 角色
-
-### 任务执行角色授予 Amazon ECS 容器和 Fargate 代理在您的…上进行 AWS API 调用的权限
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_execution_IAM_role.html) 
+  
 
 *   如果你是 Docker 新手，docker-curriculum.com 是一个不错的起点。
 
-[](https://docker-curriculum.com/) [## 面向初学者的 Docker 教程
-
-### 学习使用 Docker 轻松构建和部署您的分布式应用程序到云中，Docker 由…
-
-docker-curriculum.com](https://docker-curriculum.com/) 
+<https://docker-curriculum.com/>  
 
 *   将 Docker 映像部署到 ECS 的 Amazon 教程。
 
- [## 亚马逊 ECS 的 Docker 基础
-
-### Docker 是一种技术，它为您提供构建、运行、测试和部署分布式应用程序的工具，这些应用程序…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/AmazonECS/latest/userguide/docker-basics.html) 
+  
 
 现在去做好事吧。

@@ -26,11 +26,7 @@ python 如何知道:
 
 类似于`$PATH` , `[sys.path](https://docs.python.org/3/library/sys.html#sys.path)`是一个内部 python 版本，类似于操作系统如何自顶向下遍历`$PATH`来匹配可执行文件，python 遍历`sys.path`来匹配包和模块。
 
-[](/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e) [## Python，系统路径以及 conda 和 pyenv 如何操纵它
-
-### 深入探究当您在 shell 中键入“python”时会发生什么，以及流行的环境管理工具如何操纵…
-
-towardsdatascience.com](/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e) 
+</python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e>  
 
 ## `sys.path`是如何确定和设定的？
 

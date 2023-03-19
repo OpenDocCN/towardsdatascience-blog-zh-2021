@@ -38,15 +38,7 @@
 
 在开始真正的问题之前，让我给你 3 个提示，你可能在其他文章中找不到，但我认为它们会对你的最终分数产生巨大的影响。
 
-[](https://medium.com/codex/4-full-practice-tests-to-prepare-databricks-associate-certification-pyspark-2021-eab289b1ea0c) [## 准备 Databricks 助理认证(PySpark | 2021)的 4 次全面实践测试
-
-### 让我与你分享 200 多个现实的、高质量的问题来成为一个认证的 Spark 3.0 开发者
-
-medium.com](https://medium.com/codex/4-full-practice-tests-to-prepare-databricks-associate-certification-pyspark-2021-eab289b1ea0c) [](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) [## 用 Apache Spark 创建表格的 3 种方法
-
-### 学习如何用 PySpark 构建托管和非托管表，以及如何在您的项目中有效地使用它们
-
-towardsdatascience.com](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) 
+<https://medium.com/codex/4-full-practice-tests-to-prepare-databricks-associate-certification-pyspark-2021-eab289b1ea0c>  </3-ways-to-create-tables-with-apache-spark-32aed0f355ab>  
 
 # 我通过考试的诚实建议
 
@@ -98,11 +90,7 @@ towardsdatascience.com](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab)
 
 **现在是进行一些测验的时候了！**
 
-**[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [## 3 门数据工程课程，在 2021 年推进您的职业发展
-
-### 加入数据行业，改变角色或通过注册数据工程简单地学习前沿技术…
-
-towardsdatascience.com](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) 
+**</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 # 问题 1
 

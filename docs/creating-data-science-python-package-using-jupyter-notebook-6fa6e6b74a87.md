@@ -212,11 +212,7 @@ Successfully installed distributions-0.2
 >>>
 ```
 
-[](https://github.com/kingabzpro/Creating-Python-Package-using-Jupyter-Notebook) [## GitHub-kingabzpro/Creating-Python-Package-using-Jupyter-Notebook:创建您的第一个数据…
-
-### 直接从 Jupyter 笔记本创建您的第一个数据科学 python 包。创建您的第一个数据科学 python…
-
-github.com](https://github.com/kingabzpro/Creating-Python-Package-using-Jupyter-Notebook) 
+<https://github.com/kingabzpro/Creating-Python-Package-using-Jupyter-Notebook>  
 
 如果还面临问题，可以去看看我的[**GitHub**](https://github.com/kingabzpro/Creating-Python-Package-using-Jupyter-Notebook)**repo**或者**[**Deepnote**](https://deepnote.com/project/Creating-Python-Package-in-Jupyter-Notebook-JvApLhCiQIqj-0yR-PAfdQ/%2Fpython_packages.ipynb)**项目。********
 
@@ -224,4 +220,4 @@ github.com](https://github.com/kingabzpro/Creating-Python-Package-using-Jupyter-
 
 *********本文中显示的媒体不归 Analytics Vidhya 所有，由作者自行决定使用。*********
 
-*****原载于 2021 年 7 月 30 日 https://www.analyticsvidhya.com*[](https://www.analyticsvidhya.com/blog/2021/07/creating-data-science-python-package-using-jupyter-notebook)**。******
+*****原载于 2021 年 7 月 30 日 https://www.analyticsvidhya.com*<https://www.analyticsvidhya.com/blog/2021/07/creating-data-science-python-package-using-jupyter-notebook>**。******

@@ -159,4 +159,4 @@
 
 ![](img/b095e76d8aef5fe43e72a1f52bf75bd8.png)
 
-*原载于 2021 年 1 月 12 日 https://carto.com*[](https://carto.com/blog/how-to-use-spatial-data-to-identify-cpg-demand-hotspots/)**。**
+*原载于 2021 年 1 月 12 日 https://carto.com*<https://carto.com/blog/how-to-use-spatial-data-to-identify-cpg-demand-hotspots/>**。**

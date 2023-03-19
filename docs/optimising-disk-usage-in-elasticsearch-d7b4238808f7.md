@@ -28,11 +28,7 @@ ES 中的数据组织在“**指数**”中。弹性搜索指数是数据的逻�
 
 *如果你想了解更多关于提供一个 ES 集群和设置索引的信息，请阅读我在* [*上的帖子用 Python 创建和管理弹性搜索索引*](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) *。*
 
-[](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) 
+</creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  
 
 在我们开始之前，请注意这篇博文中使用的数据仅包含 7787 个“静态”条目，无论如何也不能被归类为“大数据”。然而，本文中讨论的原则可以概括为大数据和流。
 
@@ -277,31 +273,11 @@ PUT _index_template/netflix_movies_template
 
 感谢阅读！您遇到过哪些值得推荐的其他 ES 存储优化策略？请在评论中留下你的建议！
 
-[](https://medium.com/@ndgoet/membership) [## 用我的推荐链接加入媒体。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ndgoet/membership) 
+<https://medium.com/@ndgoet/membership>  
 
 **如果你喜欢这篇文章，这里还有一些你可能喜欢的文章:**
 
-[](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [## 开始使用 Elasticsearch 需要掌握的四件事
-
-### 弹性研究概念和原则的简明概述
-
-towardsdatascience.com](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [## 如何使用 Python 和 Heroku 从 CSV 文件构建关系数据库
-
-### 通过三个简单的步骤免费构建您自己的 PostgreSQL 数据库
-
-towardsdatascience.com](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) [## Elasticsearch 查询 DSL 入门
-
-### 使用 Python Elasticsearch 客户端，用特定领域语言编写 Elasticsearch 查询的实践指南
-
-towardsdatascience.com](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) 
+</four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d>  </creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  </how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63>  </getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f>  
 
 *如果你想了解这篇文章中描述的 es 的一些方面和特性的细节，这里有一些我认为有用的资源的概述，按主题组织(这篇文章中使用的所有资源都有全文链接)。*
 

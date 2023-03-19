@@ -68,7 +68,7 @@
 
 该错误的一个解决方法是在训练时移除`-map`，修改`src/detector.c`以每 1000 或 2000 次迭代保存权重，并使用`./darknet detector map.`测试权重，但这不应该是这种情况，如果忽略，该错误的原因可能会导致未来更多的错误。所以经过一些研究，我知道 **darknet** 不支持 CUDA Toolkit 11，正如 YOLOv4 的作者之一 Alexey Bochkovskiy 所说，他本人 [*在这里*](https://github.com/AlexeyAB/darknet/issues/7153#issuecomment-809022501) 。它与 cuda 工具包 10 一起工作。1 和 cuDNN 7。6 .5.
 
-于是我下载安装了 CUDA 10。1 update2 和 cuDNN v7.6.5 来自官方 [*nvidia 网站*](https://developer.nvidia.com/) 。我不能直接发布这些库的链接，因为 nvidia 不允许。您需要创建一个开发人员帐户，然后能够访问和下载文件来安装它们。选择要安装 cuda 的系统配置后，安装说明会在网页上给出。如果你在安装过程中遇到任何问题，像我曾经遇到的这个错误`E: Unable to correct problems, you have held broken packages`可能是由于以前的 CUDA 安装，你应该尝试使用 **aptitude** 而不是 apt-get 来安装，如这里的[](https://askubuntu.com/a/451078)*所示。它不仅为您处理降级冲突包，还会提出一系列建议，询问您在众多可能的建议工作场景中，您愿意选择哪一个。一旦安装完毕，您需要将路径添加到 **PATH** 变量中。阅读安装说明末尾的 cuda 安装指南，并遵循安装后的操作。完成后，使用`$ source ~/.bashrc`重新加载 bash 文件。您可以使用`$ nvcc --version`从终端验证安装。*
+于是我下载安装了 CUDA 10。1 update2 和 cuDNN v7.6.5 来自官方 [*nvidia 网站*](https://developer.nvidia.com/) 。我不能直接发布这些库的链接，因为 nvidia 不允许。您需要创建一个开发人员帐户，然后能够访问和下载文件来安装它们。选择要安装 cuda 的系统配置后，安装说明会在网页上给出。如果你在安装过程中遇到任何问题，像我曾经遇到的这个错误`E: Unable to correct problems, you have held broken packages`可能是由于以前的 CUDA 安装，你应该尝试使用 **aptitude** 而不是 apt-get 来安装，如这里的<https://askubuntu.com/a/451078>*所示。它不仅为您处理降级冲突包，还会提出一系列建议，询问您在众多可能的建议工作场景中，您愿意选择哪一个。一旦安装完毕，您需要将路径添加到 **PATH** 变量中。阅读安装说明末尾的 cuda 安装指南，并遵循安装后的操作。完成后，使用`$ source ~/.bashrc`重新加载 bash 文件。您可以使用`$ nvcc --version`从终端验证安装。*
 
 *对于 cuDNN 安装，请从 nvidia 官方网站下载 cuDNN v7.6.5 for CUDA 10.1，cuDNN Library for Linux，这是一个 tar 文件，并遵循 nvidia cudnn 安装指南网页上针对 7.6.5 版给出的说明。要验证和检查其版本，打开终端并运行`$ which nvcc`。它将向您展示 CUDA 工具包的安装路径。使用*path*并运行命令`$ cat *path*/include/cudnn.h | grep CUDNN_MAJOR -A 2`。结果将描述版本。我的情况是:*
 
@@ -90,7 +90,7 @@
 
 *YOLOv4 是一个实时的物体检测系统，它可以识别单个外壳中的各种物体。该实时识别系统可以从特定图像中识别几个对象，在对象附近框出一个边界有限的框，并在生产系统中快速训练和实现。*
 
-*网上很少有 YOLO 算法的实现。Darknet 就是这样一个用 C 和 CUDA 编写的开源神经网络框架，它是 YOLO 的基础。暗网被用作训练 YOLO 的框架，这意味着它设置了网络的架构。Darknet 的第一作者是 YOLO 本身的作者，[](https://pjreddie.com/)**。***
+*网上很少有 YOLO 算法的实现。Darknet 就是这样一个用 C 和 CUDA 编写的开源神经网络框架，它是 YOLO 的基础。暗网被用作训练 YOLO 的框架，这意味着它设置了网络的架构。Darknet 的第一作者是 YOLO 本身的作者，<https://pjreddie.com/>**。***
 
 # ***要在您的系统上运行 YOLOv4，请按照下列步骤操作:***
 
@@ -151,7 +151,7 @@
 
 ***obj.data 文件示例。*图片作者。****
 
-*   ***在我们开始训练我们的模型之前，最后一步是下载卷积层的预训练权重，您可以在这里找到[](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137)*。即使类别变化很大，预先训练的权重也被证明比随机权重更好。****
+*   ***在我们开始训练我们的模型之前，最后一步是下载卷积层的预训练权重，您可以在这里找到<https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137>*。即使类别变化很大，预先训练的权重也被证明比随机权重更好。****
 *   ****我们现在准备将我们的模型用于训练。其语法是:`./darknet detector train <path to obj.data> <path to custom config> <weight file> -map`。比如:`./darknet detector train data/obj.data cfg/yolov4_custom.cfg yolov4.conv.137 -map`。****
 *   ****如果您没有验证集，请不要使用`-map`，因为它会使用迄今为止训练的模型的验证集来计算平均精度。****
 *   ****训练完成后，使用备份文件夹中的最佳权重进行进一步的工作，因为它们对应于产生最小验证误差或最大 map 的权重，以避免数据过度拟合。****

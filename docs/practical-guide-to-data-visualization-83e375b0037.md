@@ -906,7 +906,7 @@ fig, axes = plt.subplots(2, 3, figsize=(22,16)) # setting the number of rows, co
 
 ## 数据可视化的主题结合了艺术和数据科学。虽然数据可视化看起来很有创意，也很赏心悦目，但它还应该在数据的可视化交流中发挥作用。它应该清楚地讲述一个故事，并清楚地向读者传达你的见解。
 
-我建议你自己尝试其中的一些情节，检查这里的[](https://www.kaggle.com/c/data-science-nigeria-patient-treatment/data)****中使用的数据集和我的 [GitHub 中的完整代码。](https://github.com/Olaoluwakiitan-Olabiyi/Practical-Guide-to-Data-Visualization)****
+我建议你自己尝试其中的一些情节，检查这里的<https://www.kaggle.com/c/data-science-nigeria-patient-treatment/data>****中使用的数据集和我的 [GitHub 中的完整代码。](https://github.com/Olaoluwakiitan-Olabiyi/Practical-Guide-to-Data-Visualization)****
 
 ******祝贺你坚持到最后！！！******
 

@@ -135,7 +135,7 @@ df2 = pd.DataFrame(results)
 
 如果你有兴趣，可以在这里阅读我关于使用 SQL 构建交互式仪表板的完整教程:
 
-[](/building-an-interactive-python-dashboard-using-sql-and-datapane-46bd92294fd3) [## 使用 SQL 和 Datapane 构建交互式 Python 仪表板
+</building-an-interactive-python-dashboard-using-sql-and-datapane-46bd92294fd3> [## 使用 SQL 和 Datapane 构建交互式 Python 仪表板
 
 towardsdatascience.com](/building-an-interactive-python-dashboard-using-sql-and-datapane-46bd92294fd3) 
 
@@ -286,11 +286,7 @@ import pandas as pdcity_dcids = dc.get_property_values(["CDC500_City"], "member"
 
 如果你想学习如何使用 DataCommons，请在这里阅读我的完整教程:
 
-[](/exploring-datacommons-the-api-powering-google-search-afc366ec242b) [## 探索数据共享——支持谷歌搜索的 API
-
-### 访问公开可用数据集的新范式
-
-towardsdatascience.com](/exploring-datacommons-the-api-powering-google-search-afc366ec242b) 
+</exploring-datacommons-the-api-powering-google-search-afc366ec242b>  
 
 ## 12.PyTrends(谷歌趋势)
 

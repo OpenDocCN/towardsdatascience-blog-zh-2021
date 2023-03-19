@@ -14,11 +14,7 @@
 
 根据你进入数据科学的具体方式，找人帮助你导航你的学习之旅，之后，你的求职之旅将在难度上有所不同。在数据科学或任何其他领域，有一个指导你选择不同职业的导师可以帮助你快速起步并建立成功的职业生涯。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 我可以诚实地说，如果没有那些通过学习数据科学和探索不同职业选择来指导、支持和引导我的人，我不会有今天的成就。此外，因为他们在该领域有更多的经验，他们帮助我看到了我因为对该领域陌生而没有看到的方面。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 因此，通过参加 BigData 中由女性举办的活动和网络研讨会，您将有机会结识各种了不起的女性，她们在职业生涯中取得了成功，并愿意帮助您导航您的旅程，直到您达到目标。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 # №3:编写数据科学章节的女性
 
@@ -54,7 +46,7 @@ Bytes n' Brew 是一个社交活动，旨在加入社区，一起谈论该领域
 
 这个网站最棒的地方在于，你可以浏览导师、他们目前的职位以及他们的专业知识，然后安排一次与他们的会面，向他们询问你所有的问题，以帮助指导你做出更好的职业决策。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -68,11 +60,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 当我们开始一个新的职业，现在的工作，或者只是经历我们的日常学习旅程时，我们都需要一些支持和指导。特别是在科技领域，有一个指导你学习新技能、写简历、建立投资组合、找工作、准备面试和谈判薪资的导师可以让你更容易完成所有这些步骤，成功的几率也更高。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 当我试图学习一项新技能或申请某个工作角色时，我会试图找到已经掌握该技能或在该工作角色中取得成功的人，并请他们帮助我完成我的旅程。在大多数情况下，我会找到善良的人，他们愿意帮助和回报社区，因为在某些时候，他们利用社区的支持达到了现在的位置。
 

@@ -181,11 +181,7 @@ Transformer-XL 架构提供了解决这些问题的技术。第一，它有段�
 
 我们发现生成的音乐也相对不错——看看下面吧！
 
- [## 迈克尔·杰克逊输出
-
-### 流迈克尔杰克逊输出的艾萨克在桌面和移动。在 SoundCloud 上免费播放超过 2.65 亿首歌曲。
-
-soundcloud.com](https://soundcloud.com/isaac-tham-432434898/michael-jackson-output) 
+  
 
 **结论**
 

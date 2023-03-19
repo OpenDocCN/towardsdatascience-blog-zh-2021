@@ -52,16 +52,4 @@
 
 ******对数据科学职业和劳动力市场趋势感兴趣？阅读我关于这个话题的其他文章。******
 
-****[](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [## 我们应该留在数据科学领域吗？
-
-### 数据科学家的 4 个现实职业选择
-
-towardsdatascience.com](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [](/how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9) [## 作为一名害羞的数据科学家，如何获得工作推荐？
-
-### 技巧、经验教训和 1+1+1 流程
-
-towardsdatascience.com](/how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9) [](/the-best-data-science-transition-routes-e809254934d0) [## 下一个最佳数据科学工作
-
-### 数据科学家最受欢迎的过渡路线
-
-towardsdatascience.com](/the-best-data-science-transition-routes-e809254934d0)****
+****</the-most-realistic-data-science-career-guide-d12c4af87cc8>  </how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9>  </the-best-data-science-transition-routes-e809254934d0> ****

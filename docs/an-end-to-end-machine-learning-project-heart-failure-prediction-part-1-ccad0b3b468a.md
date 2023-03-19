@@ -18,11 +18,7 @@
 
 接下来，也是最重要的，机器学习项目的先决条件是拥有可靠、干净和结构化的数据源。在企业环境中，这些数据集通常是辛勤工作的数据工程团队的产品，不应该被视为理所当然。幸运的是，像 Kaggle 这样的网站为我们提供了准备建模的干净数据集。我们将在这个项目中使用一个流行的心脏病数据集。
 
-[](https://www.kaggle.com/fedesoriano/heart-failure-prediction) [## 心力衰竭预测数据集
-
-### 预测心脏病事件的 11 个临床特征。
-
-www.kaggle.com](https://www.kaggle.com/fedesoriano/heart-failure-prediction) 
+<https://www.kaggle.com/fedesoriano/heart-failure-prediction>  
 
 该数据集包含 11 个特征，我们将使用这些特征对心力衰竭概率进行建模。此外，在进行预测时，我们希望我们的模型能够告诉我们哪些特性贡献最大(在以后的文章中会有更多相关内容)。为了使数据源更加真实，我将把。csv 文件转换为. db 文件。这将使数据检索更加模块化，因为它将模拟一个实际的数据库。
 

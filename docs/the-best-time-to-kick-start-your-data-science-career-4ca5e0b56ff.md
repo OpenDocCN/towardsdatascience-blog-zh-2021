@@ -48,19 +48,7 @@
 
 **更多文章来自作者:**
 
-[](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) [## 初级数据科学家追求的 8 条职业道路
-
-### 如果你最终实现了自己的目标，成为了一家你喜欢的公司的数据科学家。您已成功登机…
-
-towardsdatascience.com](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) [](/working-as-a-data-science-consultant-e626669ab72b) [## 担任数据科学顾问
-
-### 具有企业意识的数据科学家的职业战略
-
-towardsdatascience.com](/working-as-a-data-science-consultant-e626669ab72b) [](/full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a) [## 全栈数据科学家还是大数据项目的超级英雄？
-
-### 数据科学就业市场的新兴需求趋势
-
-towardsdatascience.com](/full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a) 
+</8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e>  </working-as-a-data-science-consultant-e626669ab72b>  </full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a>  
 
 **关于作者:**
 

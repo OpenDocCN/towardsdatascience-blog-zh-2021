@@ -40,15 +40,7 @@
 
 在我以前的文章中，我更详细地描述了动机以及如何进行营销组合建模。为了理解本文的其余部分，请在这里查看它们:
 
-[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [## Python 市场营销组合建模简介
-
-### 哪些广告支出真正推动了你的销售？
-
-towardsdatascience.com](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6) [## Python 中升级的营销组合建模
-
-### 让我平庸的营销组合模式更加强大
-
-towardsdatascience.com](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6) 
+</introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794>  </an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6>  
 
 ## 贝叶斯建模
 
@@ -66,19 +58,11 @@ towardsdatascience.com](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1
 
 你可以在这里阅读更多关于动机的信息:
 
-[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [## 贝叶斯推理的简明介绍
-
-### 了解频率主义者和贝叶斯推理方法之间的区别
-
-towardsdatascience.com](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) 
+</a-gentle-introduction-to-bayesian-inference-6a7552e313cb>  
 
 现在，理解理论是好的，但我们也必须能够应用它来完成事情。通常，我使用令人敬畏的 python 库 [PyMC3](https://docs.pymc.io/en/v3/) 进行贝叶斯建模。你可以在这里看到它的作用:
 
-[](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) [## 通过 PyMC3 在 Python 中实现贝叶斯线性回归
-
-### 了解如何推断模型参数并对新数据进行预测，包括不确定性估计！
-
-towardsdatascience.com](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) 
+</bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211>  
 
 ## 为什么营销混合建模与贝叶斯？
 
@@ -346,11 +330,7 @@ ax.legend(
 
 我们现在可以采用我们已经创建的贝叶斯模型，并进一步扩展它。例如，我们可以引入随时间变化的参数。如果两年前电视遗留强度开始为 0.8，但随着时间的推移慢慢下降到 0.5，这可能是有用的，这是*概念漂移*的一个例子。我们可以使用**高斯随机游走**，轻松地对此建模，如我关于滚动回归的另一篇文章所示:
 
-[](/rockin-rolling-regression-in-python-via-pymc3-e4722b6118cd) [## 通过 PyMC3 在 Python 中实现滚动回归
-
-### 学习如何处理变化的参数
-
-towardsdatascience.com](/rockin-rolling-regression-in-python-via-pymc3-e4722b6118cd) 
+</rockin-rolling-regression-in-python-via-pymc3-e4722b6118cd>  
 
 同样，我们可以对变化的基线进行建模。到目前为止，我们已经把基线当作一个单一的数字，它在整个训练期间是固定的。但也许随着时间的推移，由于我们的战略广告努力，它也增加了。这是使用我们旧的超参数优化最大似然模型很难解决的问题。
 

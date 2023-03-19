@@ -216,11 +216,7 @@ $$;
 
 *   爪哇 UDTF 的表现会更好吗？[雪花发生了很多事情](https://www.snowflake.com/snowday/)，包括 UDF。敬请关注。
 
-[](/the-most-popular-languages-on-reddit-analyzed-with-snowflake-and-a-java-udtf-4e58c8ba473c) [## Reddit 上最流行的语言，用雪花和 Java UDTF 分析
-
-### Reddit 上最流行的语言(除了英语)会让你大吃一惊。为了制作这张图表，我分析了几乎一个…
-
-towardsdatascience.com](/the-most-popular-languages-on-reddit-analyzed-with-snowflake-and-a-java-udtf-4e58c8ba473c) 
+</the-most-popular-languages-on-reddit-analyzed-with-snowflake-and-a-java-udtf-4e58c8ba473c>  
 
 *   检查衰减评分函数的真实用例，如轨道模型中的[所示。](https://github.com/orbit-love/orbit-model#Activity-Decay)
 
@@ -230,11 +226,7 @@ towardsdatascience.com](/the-most-popular-languages-on-reddit-analyzed-with-snow
 
 *   布列塔尼深入轨道模型:
 
-[](https://www.brittanybennett.com/post/replicating-the-orbit-model-an-exercise-in-measuring-movement-power) [## 复制轨道模型:测量运动能力的练习🚀
-
-### 由于克莱尔·卡罗尔的推荐，我最近发现了轨道模型。轨道模型是一个自我…
-
-www.brittanybennett.com](https://www.brittanybennett.com/post/replicating-the-orbit-model-an-exercise-in-measuring-movement-power) 
+<https://www.brittanybennett.com/post/replicating-the-orbit-model-an-exercise-in-measuring-movement-power>  
 
 *   [TJ 墨菲](https://medium.com/u/eb13b4c116f4?source=post_page-----4b4b3cdc8596--------------------------------)第一反应:
 

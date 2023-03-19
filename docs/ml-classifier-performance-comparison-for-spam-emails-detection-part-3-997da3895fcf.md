@@ -56,11 +56,7 @@ Orange 提供了一个拖放窗口小部件环境，不需要任何编码，如�
 
 我们的表格显示 SVM 和随机森林都比朴素贝叶斯有更高的准确率。这里所有的分数都是班级的平均值。
 
-[](/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508) [## 垃圾邮件检测的 ML 分类器性能比较-第 1 部分
-
-### 应用朴素贝叶斯、SVC 和随机森林进行邮件分类
-
-towardsdatascience.com](/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508) 
+</ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508>  
 
 最后，我们需要检查每个分类器的混淆矩阵。混淆矩阵部件提供了这些分类器的所有矩阵。
 

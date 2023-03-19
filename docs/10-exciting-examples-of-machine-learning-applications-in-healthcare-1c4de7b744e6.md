@@ -224,14 +224,6 @@ ML 模型是基于 30-50 个变量开发的，如设备年龄、制造商、电�
 
 你喜欢我的故事吗？在这里你可以找到更多。
 
-[](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) [## 作为数据科学初学者应该避免的 10 个错误
+</10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd> [## 作为数据科学初学者应该避免的 10 个错误
 
-towardsdatascience.com](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) [](/7-awesome-data-science-jobs-where-you-dont-need-any-coding-skills-2e08d13e84e6) [## 7 份不需要任何编码技能的数据科学工作
-
-### 没有编程经验如何进入数据科学领域
-
-towardsdatascience.com](/7-awesome-data-science-jobs-where-you-dont-need-any-coding-skills-2e08d13e84e6) [](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [## 发现 9 个咨询领域，开始任何经验水平的激动人心的数据科学之旅
-
-### 和更多指导，让您做好咨询准备
-
-towardsdatascience.com](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4)
+towardsdatascience.com](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) </7-awesome-data-science-jobs-where-you-dont-need-any-coding-skills-2e08d13e84e6>  </discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4> 

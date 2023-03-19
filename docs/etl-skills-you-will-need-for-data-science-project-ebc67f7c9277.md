@@ -75,11 +75,7 @@
 
 # 来源:
 
-[](/python-etl-tools-best-8-options-5ef731e70b49) [## Python ETL 工具:最佳 8 个选项
-
-### 想用 Python 做 ETL？这里有 8 个很棒的库和一个混合选项
-
-towardsdatascience.com](/python-etl-tools-best-8-options-5ef731e70b49) 
+</python-etl-tools-best-8-options-5ef731e70b49>  
 
 # 感谢您的阅读！！！
 

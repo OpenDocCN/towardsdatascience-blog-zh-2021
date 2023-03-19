@@ -26,11 +26,7 @@
 
 [FunNow](https://www.myfunnow.com/en) 是一个在亚洲各国进行休闲和娱乐活动的即时预订平台，包括台湾、日本、香港和马来西亚，并致力于扩展全球所有大城市。到目前为止，它已经积累了大约**150 万次下载**和 **15 万个月活跃用户**。
 
-[](https://techcrunch.com/2018/08/12/taiwan-startup-funnow-gets-5m-series-a-to-help-locals-in-asian-cities-find-last-minute-things-to-do/) [## 台湾创业公司 FunNow 获得 500 万美元 A 轮融资，帮助亚洲城市的当地人找到最后一分钟的东西…
-
-### 让游客在极短的时间内报名参加活动的“即时预订”应用程序已经见诸报端…
-
-techcrunch.com](https://techcrunch.com/2018/08/12/taiwan-startup-funnow-gets-5m-series-a-to-help-locals-in-asian-cities-find-last-minute-things-to-do/) 
+<https://techcrunch.com/2018/08/12/taiwan-startup-funnow-gets-5m-series-a-to-help-locals-in-asian-cities-find-last-minute-things-to-do/>  
 
 # **我实习期间都做了些什么？**
 
@@ -122,11 +118,7 @@ SQL 代码- *图片作者*
 
 我觉得有两个方向可以探索。一是你可能选择了一个低效的表。我正在编写一个查询，可以通过选择两个主列中的一个来完成:一个有 200 万行，另一个有 10 万行。我选择了 200 万，因为我认为代码会更简单，因为它需要过滤的相关表更少。然而，又花了 4 分钟。优化的第二个方向可能是调整语法。
 
-[](https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/) [## 优化 SQL 查询的 8 种方法(针对生产数据库)| Sisense
-
-### SQL 是目前最强大的数据处理工具之一。在 SQL Superstar 中，我们为您提供可行的建议，以帮助您…
-
-www.sisense.com](https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/) 
+<https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/>  
 
 然而，有些查询可能只需要运行一次或每几个月运行一次，而优化一分钟可能需要 3 个多小时，在这种情况下，就让它留在那里吧。
 
@@ -146,11 +138,7 @@ www.sisense.com](https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-produ
 
 我构建决策树模型的原因之一是为了找到最有贡献的变量，因为它会在划分树的顶部位置显示主要变量。但是决策树有偏差，我当时是机器学习新手。如果我可以再做一次，我会选择随机森林模型并使用其 **feature_importances_** 或选择 XGBoost 并使用其 **xgb.plot_importance()** 来查找重要性分数，因为随机森林和 XGBoost 都属于[**Ensemble**](/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)**方法。这意味着将计算许多树，然后将它们加起来得到平均数，这比单棵树的偏差要小。**
 
-**[](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/) [## Python - Machine Learning Mastery 中 XGBoost 的特征重要性和特征选择
-
-### 使用像梯度推进这样的决策树方法的好处是，它们可以自动提供…
-
-machinelearningmastery.com](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/) 
+**<https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/>  
 
 **3。随着许多 ML 过程将被类似 AutoML 的产品所取代，使用领域知识来生成新特性在未来将变得更加重要。**
 
@@ -162,11 +150,7 @@ machinelearningmastery.com](https://machinelearningmastery.com/feature-importanc
 
 人工判断部分包括**定义业务问题，应用领域知识生成更有价值的特征，以及提取可操作的见解**。简而言之，在这次实习后的研究之后，我学到的经验是，作为一名未来的数据科学家，我应该留出大量时间投入到业务方面，选择一个专注的行业，并随着时间的推移积累我的领域知识。
 
-[](https://www.kdnuggets.com/2020/02/data-scientists-automl-replace.html) [## 数据科学家之死 AutoML 会取代他们吗？- KDnuggets
-
-### 在科技巨头谷歌和微软向世界推出他们的 AutoML 服务后不久，这种流行和兴趣…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2020/02/data-scientists-automl-replace.html) 
+<https://www.kdnuggets.com/2020/02/data-scientists-automl-replace.html>  
 
 # 关于仪表板构建的 3 堂课
 

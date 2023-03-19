@@ -128,27 +128,7 @@
 
 恭喜你到达文章末尾！希望你学到了一些东西，现在更熟悉使用 Python 的正则表达式。如果你喜欢我的帖子，请随时关注我，并欢迎看看我的其他文章！
 
-[](/nlp-preprocessing-with-nltk-3c04ee00edc0) [## 用 NLTK 进行文本预处理
-
-### NLTK 教程 NLP 预处理:小写，删除标点，标记化，停用词过滤，词干，和…
-
-towardsdatascience.com](/nlp-preprocessing-with-nltk-3c04ee00edc0) [](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) [](/abstractive-summarization-using-pytorch-f5063e67510) [## 使用 Pytorch 的抽象摘要
-
-### 总结任何文本使用变压器在几个简单的步骤！
-
-towardsdatascience.com](/abstractive-summarization-using-pytorch-f5063e67510) [](/conversational-ai-chatbot-with-pretrained-transformers-using-pytorch-55b5e8882fd3) [## 对话式人工智能聊天机器人，带有使用 Pytorch 的预训练变压器
-
-### 了解如何使用 Huggingface Transformers 构建一个具有 DialoGPT 功能的对话聊天机器人！
-
-towardsdatascience.com](/conversational-ai-chatbot-with-pretrained-transformers-using-pytorch-55b5e8882fd3) [](/why-i-chose-masters-instead-of-ph-d-for-ai-data-science-b59f78b04661) [## 为什么我选择了人工智能和数据科学的硕士而不是博士
-
-### 选择硕士和博士的三大因素
-
-towardsdatascience.com](/why-i-chose-masters-instead-of-ph-d-for-ai-data-science-b59f78b04661) 
+</nlp-preprocessing-with-nltk-3c04ee00edc0>  </semantic-similarity-using-transformers-8f3cb5bf66d6>  </abstractive-summarization-using-pytorch-f5063e67510>  </conversational-ai-chatbot-with-pretrained-transformers-using-pytorch-55b5e8882fd3>  </why-i-chose-masters-instead-of-ph-d-for-ai-data-science-b59f78b04661>  
 
 # 参考
 

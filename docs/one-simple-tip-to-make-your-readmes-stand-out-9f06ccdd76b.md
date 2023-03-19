@@ -116,14 +116,6 @@ graph TD
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [## 你可能没听说过的 9 种有用的熊猫方法
+</9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee>  </embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d> [## 使用 datapane 将您的交互式可视化嵌入到中型帖子中
 
-### 它们可以让你的日常工作更容易、更快捷。
-
-towardsdatascience.com](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [](/embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d) [## 使用 datapane 将您的交互式可视化嵌入到中型帖子中
-
-towardsdatascience.com](/embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d) [](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180) [## 用 dtreeviz 实现漂亮的决策树可视化
-
-### 改进绘制决策树的旧方法，永不回头！
-
-towardsdatascience.com](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180)
+towardsdatascience.com](/embed-your-interactive-visualizations-in-medium-posts-using-datapane-9613314f048d) </beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180> 

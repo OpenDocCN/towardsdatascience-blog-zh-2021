@@ -257,156 +257,20 @@ Anamoly.explainable_results(X=anamoly_data, Y=Y, specific_prediction_sample_to_e
 
 # 参考
 
-[](https://www.nature.com/articles/s41598-019-55320-6) [## 多元时间序列的深度 LSTM 堆叠自动编码器的无监督预训练…
-
-### 目前，大多数真实世界的时间序列数据集是多元的，富含时间序列的动态信息
-
-www.nature.com](https://www.nature.com/articles/s41598-019-55320-6) [](https://www.nature.com/articles/s42256-019-0138-9) [## 用可解释的人工智能对树木从局部解释到全局理解
-
-### 基于树的机器学习模型广泛用于医疗保健、金融和公共服务等领域。的…
-
-www.nature.com](https://www.nature.com/articles/s42256-019-0138-9) [](https://machinelearningmastery.com/lstm-autoencoders/) [## LSTM 自动编码器简介-机器学习掌握
-
-### LSTM 自动编码器是一个使用编码器-解码器 LSTM 的序列数据自动编码器的实现
-
-machinelearningmastery.com](https://machinelearningmastery.com/lstm-autoencoders/) [](https://ieeexplore.ieee.org/document/8581424) [## DeepAnT:一种用于时间序列中无监督异常检测的深度学习方法
-
-### 传统的基于距离和密度的异常检测技术无法检测周期性和季节性…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/8581424) [](https://en.wikipedia.org/wiki/Autoencoder) [## 自动编码器
-
-### 自动编码器是一种人工神经网络，用于以无监督的方式学习有效的数据编码…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Autoencoder) [](https://en.wikipedia.org/wiki/Long_short-term_memory) [## 长短期记忆
-
-### 长短期记忆(LSTM)是一种人工递归神经网络(RNN)结构，用于深度记忆领域
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Long_short-term_memory) [](/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) [## LSTM 和 GRU 的图解指南:一步一步的解释
-
-### 嗨，欢迎来到长短期记忆(LSTM)和门控循环单位(GRU)的图解指南。我是迈克尔…
-
-towardsdatascience.com](/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)  [## 可解释的人工智能
-
-### 可解释的人工智能(XAI)是指人工智能(AI)应用中的方法和技术
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) [](https://enterprisersproject.com/article/2019/5/what-explainable-ai) [## 什么是可解释的人工智能？
-
-### 人工智能不需要为围绕它的神话和误解提供任何额外的燃料。考虑一下…
-
-enterprisersproject.com](https://enterprisersproject.com/article/2019/5/what-explainable-ai) [](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/) [## 深度学习精要:长短期记忆导论
-
-### 引言序列预测问题由来已久。他们被认为是最难的…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)  [## 了解 LSTM 网络
-
-### 2015 年 8 月 27 日发布人类不是每秒钟都从零开始思考。当你读这篇文章时，你…
-
-colah.github.io](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/) [## 专家对长短期记忆网络的温和介绍——机器学习掌握
-
-### 长短期记忆(LSTM)网络是一种递归神经网络，能够学习顺序依赖关系
-
-machinelearningmastery.com](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/) [](https://en.wikipedia.org/wiki/Recurrent_neural_network) [## 递归神经网络
-
-### 递归神经网络(RNN)是一类人工神经网络，其中节点之间的连接形成一个循环
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Recurrent_neural_network) [](https://en.wikipedia.org/wiki/Time_series) [## 时间序列
-
-### 在数学中，时间序列是按时间顺序索引(或列出或绘制)的一系列数据点。最常见的是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Time_series) [](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/) [## 预测和建模的多元时间序列指南(带 Python 代码)
-
-### 文章视频图书时间是决定一个企业兴衰的最关键因素。这就是为什么我们…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/) 
+<https://www.nature.com/articles/s41598-019-55320-6>  <https://www.nature.com/articles/s42256-019-0138-9>  <https://machinelearningmastery.com/lstm-autoencoders/>  <https://ieeexplore.ieee.org/document/8581424>  <https://en.wikipedia.org/wiki/Autoencoder>  <https://en.wikipedia.org/wiki/Long_short-term_memory>  </illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>    <https://enterprisersproject.com/article/2019/5/what-explainable-ai>  <https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/>    <https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/>  <https://en.wikipedia.org/wiki/Recurrent_neural_network>  <https://en.wikipedia.org/wiki/Time_series>  <https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/>  
 
 [https://en.wikipedia.org/wiki/Convolutional_neural_network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
- [## 随机梯度下降
-
-### 随机梯度下降(通常缩写为 SGD)是一种优化目标函数的迭代方法
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) [](https://en.wikipedia.org/wiki/Artificial_neural_network) [## 人工神经网络
-
-### 人工神经网络，通常简称为神经网络，是计算系统模糊…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Artificial_neural_network)  [## Adam:一种随机优化方法
-
-### 我们介绍了 Adam，一种基于随机目标函数的一阶梯度优化算法
-
-arxiv.org](https://arxiv.org/abs/1412.6980) [](https://pytorch.org/) [## PyTorch
-
-### 推动自然语言处理和多任务学习的发展。利用 PyTorch 的灵活性有效地研究新的…
-
-pytorch.org](https://pytorch.org/) 
+  <https://en.wikipedia.org/wiki/Artificial_neural_network>    <https://pytorch.org/>  
 
 [https://machine learning mastery . com/stacked-long-short-term-memory-networks/](https://machinelearningmastery.com/stacked-long-short-term-memory-networks/)
 
-[](https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29) [## 整流器(神经网络)
-
-### 在人工神经网络的背景下，整流器是一个激活函数，定义为神经网络的正部分
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29)  [## 基于长短期记忆的大词汇量语音递归神经网络结构
-
-### 长短期记忆(LSTM)是一个递归神经网络(RNN)架构，已被设计为解决…
-
-arxiv.org](https://arxiv.org/abs/1402.1128) [](https://climate.weather.gc.ca/) [## 历史气候数据
-
-### 气候数据网站是一个关于过去天气、气候正常、历史雷达等信息的入口。
-
-气候.天气. gc.ca](https://climate.weather.gc.ca/) [](https://www.kaggle.com/aturner374/eighty-years-of-canadian-climate-data) [## 加拿大气候资料 80 年
-
-### 加拿大 13 个中心的每日温度和降水
-
-www.kaggle.com](https://www.kaggle.com/aturner374/eighty-years-of-canadian-climate-data) [](https://en.wikipedia.org/wiki/Graphics_processing_unit) [## 图形处理单元
-
-### 图形处理单元(GPU)是一种专门的电子电路，旨在快速操纵和改变内存…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Graphics_processing_unit) [](https://www.nvidia.com/en-gb/data-center/tesla-v100/) [## 英伟达特斯拉 V100 |英伟达
-
-### NVIDIA Tesla V100 是世界上最先进的数据中心 GPU，旨在加速人工智能、高性能计算和图形。
-
-www.nvidia.com](https://www.nvidia.com/en-gb/data-center/tesla-v100/) [](https://www.nvidia.com/en-gb/data-center/tesla-k80/) [## 特斯拉 K80
-
-### NVIDIA Tesla K80 是世界上最快的 HPC 和机器学习加速器，旨在提供卓越的…
-
-www.nvidia.com](https://www.nvidia.com/en-gb/data-center/tesla-k80/) 
+<https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29>    <https://climate.weather.gc.ca/>  <https://www.kaggle.com/aturner374/eighty-years-of-canadian-climate-data>  <https://en.wikipedia.org/wiki/Graphics_processing_unit>  <https://www.nvidia.com/en-gb/data-center/tesla-v100/>  <https://www.nvidia.com/en-gb/data-center/tesla-k80/>  
 
 【https://arxiv.org/abs/2003.00402 
 
- [## 一个简单的统一框架用于检测非分布样本和敌对攻击
-
-### 检测从统计上或对抗上离训练分布足够远的测试样本是一种有效的方法
-
-arxiv.org](https://arxiv.org/abs/1807.03888)  [## 马哈拉诺比斯距离
-
-### Mahalanobis 距离是点 P 和分布 D 之间的距离的度量，由 P。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Mahalanobis_distance) [](https://www.nature.com/articles/s42256-019-0048-x) [## 停止解释高风险决策的黑盒机器学习模型，使用可解释的…
-
-### 最近，人们对开发“可解释的人工智能”的方法越来越感兴趣，在这种情况下，创建模型是为了…
-
-www.nature.com](https://www.nature.com/articles/s42256-019-0048-x) [](https://www.nature.com/articles/s42256-019-0138-9) [## 用可解释的人工智能对树木从局部解释到全局理解
-
-### 基于树的机器学习模型广泛用于医疗保健、金融和公共服务等领域。的…
-
-www.nature.com](https://www.nature.com/articles/s42256-019-0138-9) [](https://en.wikipedia.org/wiki/Game_theory) [## 博弈论
-
-### 博弈论是对理性决策者之间战略互动的数学模型的研究。它有…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Game_theory) 
+    <https://www.nature.com/articles/s42256-019-0048-x>  <https://www.nature.com/articles/s42256-019-0138-9>  <https://en.wikipedia.org/wiki/Game_theory>  
 
 [https://www.nature.com/articles/s41551-018-0304-0](https://www.nature.com/articles/s41551-018-0304-0)
 
- [## 解释模型预测的统一方法
-
-### 解释模型预测的统一方法神经信息处理系统进展 30 (NIPS…
-
-proceedings.neurips.cc](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html) [](https://shap.readthedocs.io/en/latest/) [## 欢迎来到 SHAP 文档- SHAP 最新文档
-
-### SHAP 是一种博弈论的方法来解释任何机器学习模型的输出…
-
-shap.readthedocs.io](https://shap.readthedocs.io/en/latest/) [](https://en.wikipedia.org/wiki/Shapley_value) [## 沙普利值
-
-### 沙普利值是合作博弈论中的一个解概念。它是为了纪念劳埃德·沙普利而命名的，他…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Shapley_value)
+  <https://shap.readthedocs.io/en/latest/>  <https://en.wikipedia.org/wiki/Shapley_value> 

@@ -99,10 +99,6 @@
 
 *[进一步的结果和分析](https://www.safari-njema.polimi.it/outputs/)见项目网站:*
 
-*[](https://www.safari-njema.polimi.it/) [## 旅行队
-
-### Safari Njema -斯瓦希里语的“美好之旅”是一个跨学科的试点项目，提出了一个创新的…
-
-www.safari-njema.polimi.it](https://www.safari-njema.polimi.it/) 
+*<https://www.safari-njema.polimi.it/>  
 
 您还可以在 YouTube 上观看该项目的介绍视频(意大利语音频):*

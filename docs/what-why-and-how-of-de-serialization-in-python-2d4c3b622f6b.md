@@ -34,11 +34,7 @@
 
 如引言部分所述，我在早期并不真正了解编码和序列化之间的区别。简而言之，编码是一种使用编码模式(如 UTF-8)将字符转换为比特的方法，而序列化是一个漫长的过程，它也将比特存储到文件、数据库中或将它们发送到网络。所以我将编码视为序列化过程的一部分。如果您想了解更多关于 Python 编码的知识，我推荐您阅读 RealPython 的这篇文章。
 
-[](https://realpython.com/python-encodings-guide/#whats-a-character-encoding) [## Python 中的 Unicode 和字符编码:无痛指南——真正的 Python
-
-### 用 Python 或任何其他语言处理字符编码有时看起来很痛苦。堆栈溢出等地方…
-
-realpython.com](https://realpython.com/python-encodings-guide/#whats-a-character-encoding) 
+<https://realpython.com/python-encodings-guide/#whats-a-character-encoding>  
 
 回到序列化格式，典型的基于文本的序列化格式有 CSV、JSON、XML、YAML、TOML 等。基于二进制的格式有 protobuf 和 Avro。Python 也有几个包，像 pickle，numpy 和 pandas，支持将自定义对象序列化为字节格式。
 
@@ -62,11 +58,7 @@ JSON 是一个很好的选择。JSON 是最广泛使用的数据序列化格式�
 
 我推荐另一篇来自 RealPython 的关于 Python 中 JSON 数据的文章。
 
-[](https://realpython.com/python-json/) [## 使用 Python - Real Python 中的 JSON 数据
-
-### 在本教程中，您将学习如何使用 Python 读写 JSON 编码的数据。您将看到…的实际操作示例
-
-realpython.com](https://realpython.com/python-json/) 
+<https://realpython.com/python-json/>  
 
 另一方面，反序列化过程只是*读取*JSON 文件并重新创建一个 dictionary 对象。如您所见，重新创建的对象与原始对象相同。
 
@@ -188,12 +180,4 @@ fast-avro 提供`writer/reader`和`schemaless_writer/schemaless_reader`。第一
 
 ## 参考
 
-[](https://docs.python-guide.org/scenarios/serialization/) [## 数据序列化 Python 的搭便车指南
-
-### 数据序列化是将结构化数据转换为允许共享或存储数据的格式的过程…
-
-docs.python-guide.org](https://docs.python-guide.org/scenarios/serialization/)  [## Python 序列化:入门| Udacity
-
-### 互联网每天都在积累令人难以置信的数据量——以 Pb、EB 和 zettabytes 计。作为…
-
-blog.udacity.com](https://blog.udacity.com/2020/12/python-serialization-getting-started.html)
+<https://docs.python-guide.org/scenarios/serialization/>   

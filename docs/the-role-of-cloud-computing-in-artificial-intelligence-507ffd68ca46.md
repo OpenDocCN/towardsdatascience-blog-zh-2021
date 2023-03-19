@@ -66,8 +66,4 @@ IBM 的新工具让开发人员将量子计算能力添加到机器学习中
 
 Gartner 数据科学和机器学习平台魔力象限
 
-[](https://www.gartner.com/en/documents/3998753) [## 数据科学和机器学习平台的魔力象限
-
-### 该报告评估了 20 家平台供应商，数据科学家和其他人可以使用这些平台来获取数据、构建模型和…
-
-www.gartner.com](https://www.gartner.com/en/documents/3998753)
+<https://www.gartner.com/en/documents/3998753> 

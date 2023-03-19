@@ -64,4 +64,4 @@ NLP 的第二个最重要的需求是我们需要对单词和句子进行矢量�
 
 # 信用
 
-[](https://medium.com/@poojagramo)**—复制编辑**
+<https://medium.com/@poojagramo>**—复制编辑**

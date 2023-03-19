@@ -59,11 +59,7 @@ Power BI 有两种访问数据和使用服务的方式，一种是从浏览器�
 
 首先，我将演示 Power BI 服务:
 
-[](https://powerbi.microsoft.com/) [## 数据可视化| Microsoft Power BI
-
-### 借助 Microsoft Power BI，让团队成员能够发现隐藏在数据中的洞察力。借助以下工具提供大规模见解…
-
-powerbi.microsoft.com](https://powerbi.microsoft.com/) 
+<https://powerbi.microsoft.com/>  
 
 主页将会出现，你可以点击**登录**使用你的微软账户，或者创建一个新的免费账户。该开发工具非常类似于 Power BI 桌面。
 

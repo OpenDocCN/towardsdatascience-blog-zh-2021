@@ -135,14 +135,6 @@ NBA 数值特征的二维 PCA 可视化(图片由作者提供)
 
 感谢你通读我的文章，如果你喜欢这篇文章，这里有一些你可能感兴趣的我写的其他文章。
 
-[](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
 towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a)

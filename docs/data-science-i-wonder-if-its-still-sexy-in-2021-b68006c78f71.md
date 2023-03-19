@@ -135,16 +135,4 @@
 
 ## 您可能喜欢的其他文章:
 
-[](/3-traits-all-great-data-scientist-have-c43ab2de6e64) [## 所有伟大的数据科学家都具有的 3 个特质
-
-### 你可以开始为自己工作了
-
-towardsdatascience.com](/3-traits-all-great-data-scientist-have-c43ab2de6e64) [](/debunking-data-science-myths-83d693fb5ba4) [## 揭穿数据科学的神话
-
-### 他们不告诉你数据科学的真相
-
-towardsdatascience.com](/debunking-data-science-myths-83d693fb5ba4) [](/thriving-as-a-remote-data-scientist-98f9aa79f5ab) [## 作为远程数据科学家蒸蒸日上
-
-### 我远程工作的经历
-
-towardsdatascience.com](/thriving-as-a-remote-data-scientist-98f9aa79f5ab)
+</3-traits-all-great-data-scientist-have-c43ab2de6e64>  </debunking-data-science-myths-83d693fb5ba4>  </thriving-as-a-remote-data-scientist-98f9aa79f5ab> 

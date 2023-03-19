@@ -68,11 +68,7 @@ Optuna 超参数优化(GIF 由作者提供)
 
 关于网格搜索和随机搜索比较的更多细节，你可以阅读我关于超参数优化的文章。此外，我展示了另一种方法，贝叶斯优化如何比这两种方法表现得更好。
 
-[](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) [## 超参数调整—始终调整您的模型
-
-### 不要放弃免费的性能提升。
-
-towardsdatascience.com](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) 
+</hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9>  
 
 # **Optuna**
 
@@ -125,11 +121,7 @@ CatBoost 的这一特性使其成为懒惰的数据科学家的理想选择。�
 
 该数据集旨在根据其他属性预测钻石的价格。一些变量是分类的，这通常需要一些预处理。
 
-[](https://www.kaggle.com/shivam2503/diamonds) [## 钻石
-
-### 通过切割、颜色、净度、价格和其他属性来分析钻石
-
-www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds) 
+<https://www.kaggle.com/shivam2503/diamonds>  
 
 但是，使用 CatBoost，无需任何预处理就可以生成模型。此外，即使是缺失值也可以使用 CatBoost 进行处理，这使得它成为一个非常健壮且易于使用的模型。
 
@@ -193,8 +185,4 @@ Optuna 为模型的实际超参数调整提供了一个理想的解决方案。
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

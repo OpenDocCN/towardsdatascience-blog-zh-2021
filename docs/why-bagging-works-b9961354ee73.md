@@ -42,10 +42,6 @@ bagging 模型的另一个好处是你可以提取预测区间。因为每个模
 
 我希望这篇短文有助于发展统计学和机器学习中 bagging 方法的直觉。如果你喜欢这个，你可能也会喜欢我在**“为什么助推有效”上的这篇文章。**
 
-[](/gradient-boosting-is-one-of-the-most-effective-ml-techniques-out-there-af6bfd0df342) [## 为什么助推有效
-
-### 梯度推进是最有效的 ML 技术之一。
-
-towardsdatascience.com](/gradient-boosting-is-one-of-the-most-effective-ml-techniques-out-there-af6bfd0df342) 
+</gradient-boosting-is-one-of-the-most-effective-ml-techniques-out-there-af6bfd0df342>  
 
 感谢阅读！

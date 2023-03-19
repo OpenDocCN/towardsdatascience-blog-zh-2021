@@ -60,11 +60,7 @@ RUN pip3 uninstall pyspark
 RUN pip3 install -U databricks-connect==7.3.*
 ```
 
-[](/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6) [## 如何将本地或远程机器连接到 Databricks 集群
-
-### Databricks、Python 和 Docker 的交集
-
-towardsdatascience.com](/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6) 
+</how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6>  
 
 ## —如何在 Ubuntu 上安装 DOCKER 和 DOCKER-COMPOSE
 
@@ -126,8 +122,4 @@ RUN npm --version
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

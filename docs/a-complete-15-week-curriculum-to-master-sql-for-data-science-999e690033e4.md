@@ -137,11 +137,7 @@ SQL 用于从数据库中提取特定的数据，这样您就可以分析数据�
 
 写 SQL 代码是一回事，写**好的** SQL 代码是另一回事。编写干净专业的 SQL 代码是高级数据分析师和初级数据分析师最大的区别之一。因此，学习一些基本规则来编写好的代码是很重要的。查看下面的文章:
 
-[](/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098) [## 编写干净专业的 SQL 代码的五个最佳实践
-
-### 用这五个技巧提升你的 SQL 代码！
-
-towardsdatascience.com](/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098) 
+</five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098>  
 
 # 第 12 周:SQL 练习题
 
@@ -189,23 +185,11 @@ towardsdatascience.com](/five-best-practices-for-writing-clean-and-professional-
 
 接下来，看看下面的两篇文章，确保你对这些概念有很深的理解:
 
-[](/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) [## 数据科学面试中你应该知道的十个 SQL 概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) [](/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0) [## 数据科学面试中你应该知道的十个高级 SQL 概念
-
-### 让您的 SQL 技能更上一层楼
-
-towardsdatascience.com](/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0) 
+</ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185>  </ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0>  
 
 如果你还想要更多学习 SQL 的资源，我已经整合了 6 个学习高级 SQL 的绝佳资源:
 
-[](/6-incredible-resources-to-learn-advanced-sql-364fe0889dcd) [## 学习高级 SQL 的 6 大资源
-
-### 如何将您的 SQL 技能从初级提升到高级
-
-towardsdatascience.com](/6-incredible-resources-to-learn-advanced-sql-364fe0889dcd) 
+</6-incredible-resources-to-learn-advanced-sql-364fe0889dcd>  
 
 # 感谢阅读！
 
@@ -215,17 +199,13 @@ towardsdatascience.com](/6-incredible-resources-to-learn-advanced-sql-364fe0889d
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 
 **又一个！**
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) [## 超过 100 个数据科学家面试问题和答案！
-
-### 来自亚马逊、谷歌、脸书、微软等公司的面试问题！
-
-towardsdatascience.com](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) 
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 # 特伦斯·申
 

@@ -239,11 +239,7 @@ prediction = interpreter.get_tensor(output_details[0]['index'])  outcome = np.ar
 
 支持我的工作:
 
-[](https://cawin-chan.medium.com/membership) [## 通过我的推荐链接加入媒体-陈嘉文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cawin-chan.medium.com](https://cawin-chan.medium.com/membership) 
+<https://cawin-chan.medium.com/membership>  
 
 参考资料:
 [https://www.tensorflow.org/api_docs/python/tf/dtypes/DType](https://www.tensorflow.org/api_docs/python/tf/dtypes/DType)

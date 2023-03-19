@@ -42,7 +42,7 @@
 
 有几种处理缺失数据的方法，包括但不限于:忽略缺失数据，根据行/列中*缺失*的质量移除行/列**，用单个数字(0、1、任何其他数字、平均值、中值)替换，分组替换等。**
 
-更好地理解数据缺失的原因有助于您确定可以使用哪种插补方法。一般来说，有三种类型的缺失数据 [](#a775) :
+更好地理解数据缺失的原因有助于您确定可以使用哪种插补方法。一般来说，有三种类型的缺失数据 <#a775> :
 
 *   **完全随机缺失(MCAR):** 数据集中的值完全随机缺失。这是因为没有明确的理由来解释为什么数据集中的某个值会丢失。例如，如果被调查者忘记回答自愿调查中的问题。处理这种情况相对简单，我们可以用均值/中值替换来替换丢失的数据——丢失的数据是可恢复的。
 *   **随机缺失(MAR):** 数据集中的值随机缺失。此时，我们可以确定数据值丢失的原因。这种情况的一个例子是，对于相同性别的多个被调查者，调查中的某个问题是空白的。我们可以处理这种情况的一种方法是通过使用其他特征进行分组均值/中值替换的*——丢失的数据仍然是可恢复的。*
@@ -64,7 +64,7 @@
 
 > 在统计学中，插补是用替代值替换缺失数据的过程。
 
-如前所述，我们可以使用几种不同的方法替换(估算)缺失值。这些方法归结为两种不同的插补算法:单变量插补和多变量插补 [](#a775) 。
+如前所述，我们可以使用几种不同的方法替换(估算)缺失值。这些方法归结为两种不同的插补算法:单变量插补和多变量插补 <#a775> 。
 
 ## 单变量插补
 
@@ -164,7 +164,7 @@ imp = IterativeImputer()
 
 **(左)**“偏度例子”(图片作者)| **(右)**“峰度例子”(图片作者)
 
-任何一元正态分布的峰度都是三(不使用[费雪](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kurtosis.html#:~:text=If%20Fisher%E2%80%99s%20definition%20is%20used,%20then%203.0%20is%20subtracted%20from%20the%20result%20to%20give%200.0%20for%20a%20normal%20distribution.)定义) [](#a775) 时)。
+任何一元正态分布的峰度都是三(不使用[费雪](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kurtosis.html#:~:text=If%20Fisher%E2%80%99s%20definition%20is%20used,%20then%203.0%20is%20subtracted%20from%20the%20result%20to%20give%200.0%20for%20a%20normal%20distribution.)定义) <#a775> 时)。
 要了解更多关于偏度和峰度的知识，[点击这里](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm)。
 
 现在你已经准备好去参加派对了。
@@ -241,19 +241,11 @@ Where `ndf` is the dataset containing missing values
 
 我真的希望阅读这篇文章是值得的。这是我在 Medium 上写的第一篇文章，但就我看来，这不会是我的最后一篇。我**高度**鼓励你点击下面的[链接来看看这篇文章的第二部分。我希望你能使用 IterativeImputer，并且我希望你能发现我的两个例子中至少有一个是有用的。](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458)
 
-[](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458) [## 处理数据集中缺失值的更好方法是:在股票市场上使用迭代估算器…
-
-### 用多变量估算器处理历史股票市场数据，这是这个两部分系列的第二部分
-
-gifari.medium.com](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458) 
+<https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458>  
 
 请随意查看我写在 Kaggle 上的笔记本，在那里我可以更深入地了解 PIMA Indians 糖尿病数据库上的 IterativeImputer。
 
-[](https://www.kaggle.com/gifarihoque/pidd-missing-data-ml-iterimputer-tut-86/comments) [## PIDD:缺少数据！？+ML & ITER inputr 啧啧(~86%)
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自皮马印第安人糖尿病数据库的数据
-
-www.kaggle.com](https://www.kaggle.com/gifarihoque/pidd-missing-data-ml-iterimputer-tut-86/comments) 
+<https://www.kaggle.com/gifarihoque/pidd-missing-data-ml-iterimputer-tut-86/comments>  
 
 ## 参考
 

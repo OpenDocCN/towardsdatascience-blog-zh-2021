@@ -14,19 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，您可以在以下链接中找到最后三场:
 
-[](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [## UCL 数据科学协会:Numpy 简介
-
-### 工作坊 5:什么是 Numpy，Numpy 数组，数学运算符，随机数
-
-towardsdatascience.com](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 工作坊 4:什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [](/ucl-data-science-society-python-logic-3eb847362a97) [## UCL 数据科学学会:Python 逻辑
-
-### 讲习班 3:条件语句、逻辑语句、循环和函数
-
-towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97) 
+</ucl-data-science-society-introduction-to-numpy-7d962d63f47d>  </ucl-data-science-society-object-oriented-programming-d69cb7a7b0be>  </ucl-data-science-society-python-logic-3eb847362a97>  
 
 ## 熊猫是什么？
 
@@ -251,20 +239,4 @@ Instagram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/ucl
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)
+<https://philip-wilkinson.medium.com/membership>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

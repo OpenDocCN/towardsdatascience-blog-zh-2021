@@ -26,27 +26,15 @@ Webots 模拟器上的 e-puck2(图片由作者提供)
 
 出于学习或测试的目的，我们可以使用机器人模拟器。有许多免费和开源的机器人模拟器可供我们使用。查看维基百科页面，了解它们:
 
-[](https://en.wikipedia.org/wiki/Robotics_simulator) [## 机器人模拟器-维基百科
-
-### 机器人模拟器是一个模拟器，用于创建一个物理机器人的应用程序，而不依赖于实际的…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Robotics_simulator) 
+<https://en.wikipedia.org/wiki/Robotics_simulator>  
 
 露台模拟器是机器人专家最常用的模拟器之一:
 
-[](http://gazebosim.org/) [## 露台
-
-### Changelog |迁移指南发布亮点 SDFormat 1.7 帧语义，参见 ROSCon 2019 talk 支持 BVH…
-
-gazebosim.org](http://gazebosim.org/) 
+<http://gazebosim.org/>  
 
 但我发现 Webots 对初学者来说更容易，因为它提供了许多现成的商业机器人，并支持多种编程语言，尤其是 Python，这是一种很好的原型语言。
 
-[](https://cyberbotics.com/) [## 网络机器人
-
-### 快速原型设计使用大型 Webots 资源库轻松完成机器人仿真，该资源库包括…
-
-cyberbotics.com](https://cyberbotics.com/) 
+<https://cyberbotics.com/>  
 
 ## 网络机器人
 
@@ -60,11 +48,7 @@ Webots 是本文中使用的开源三维移动机器人模拟器，因为它有�
 
 有了 ROS2，我们可以使用这些包来关注我们想要关注的领域，例如学习、研究等。
 
-[](https://docs.ros.org/en/foxy/index.html) [## ROS 2 文档- ROS 2 文档:福克西文档
-
-### 机器人操作系统(ROS)是一套用于构建机器人应用程序的软件库和工具。来自驱动程序…
-
-docs.ros.org](https://docs.ros.org/en/foxy/index.html) 
+<https://docs.ros.org/en/foxy/index.html>  
 
 ## Webots ROS2 包
 
@@ -213,10 +197,6 @@ ros2 launch mapping_controller mapping_controller_launch.py probability:=true rv
 
 您可以通过在以下位置克隆我的存储库来尝试代码:
 
-[](https://github.com/debbynirwan/mapping_controller) [## GitHub-debbynirwan/Mapping _ controller:自主占用概率测绘任务机器人…
-
-### Webots ROS2 映射控制器映射控制器包启动 Webots 模拟器上的 e-puck 机器人，为…
-
-github.com](https://github.com/debbynirwan/mapping_controller) 
+<https://github.com/debbynirwan/mapping_controller>  
 
 如果你感兴趣的话，试着改进它，提高你的公关水平。感谢阅读。

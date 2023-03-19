@@ -187,28 +187,12 @@ Fugue 还支持 Spark、Dask 和 cuDF(通过 blazingSQL)作为后端。
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugueSQL.ipynb) [## 数据科学/fuguesql . ipynb at master khuyentran 1401/数据科学
-
-### master 上有用的数据科学主题以及代码和文章的集合-Data-science/fuguesql . ipynb…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugueSQL.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugueSQL.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上和我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/write-clean-python-code-using-pipes-1239a0f3abf5) [## 使用管道编写干净的 Python 代码
+</write-clean-python-code-using-pipes-1239a0f3abf5>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 一种简洁明了的处理迭代的方法
-
-towardsdatascience.com](/write-clean-python-code-using-pipes-1239a0f3abf5) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) [## 如何检测时间序列中的季节性、异常值和变化点
-
-### 只需要 Kats 和几行代码
-
-towardsdatascience.com](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff)
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff> 

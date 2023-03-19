@@ -18,11 +18,7 @@
 
 对于这段分析，IBM HR 分析数据集的一个样本取自 Kaggle。在这个数据集中，有许多字符变量可用。
 
-[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) [## IBM HR Analytics 员工流失和绩效
-
-### 预测你有价值的员工的流失
-
-www.kaggle.com](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
+<https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset>  
 
 ## 查林德克斯
 

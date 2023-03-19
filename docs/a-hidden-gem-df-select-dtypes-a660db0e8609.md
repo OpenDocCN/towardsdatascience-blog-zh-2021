@@ -51,16 +51,4 @@ Pandas DataFrames 有一个名为`select_dtypes()`的内置方法，这正是我
 
 我相信你们中的大多数人都已经经历过这个了，因为(我在熊猫 git repo 上做了一个 git 责备，看看它是什么时候添加的:2014 年[🤦](https://emojipedia.org/person-facepalming/#:~:text=Emoji%20Meaning,to%20the%20Picard%20Facepalm%20meme.))。无论如何，我希望也许有人会像我一样发现这很有帮助。编码快乐！
 
- [## 熊猫。data frame . select _ dtypes-pandas 1 . 3 . 4 文档
-
-### 编辑描述
-
-pandas.pydata.org](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.select_dtypes.html)  [## 数组表达式
-
-### 发布于 2010 年 2 月 21 日，最后更新于 2014 年 5 月 2 日二倍体和单倍体菌株通常表现出不同的耐受性…
-
-www.ebi.ac.uk](https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-20108/) [](https://seaborn.pydata.org/generated/seaborn.clustermap.html) [## seaborn . cluster map-seaborn 0 . 11 . 2 文档
-
-### 海博恩。clustermap( data，*，，，，，，，，，，，，，，** kwargs)将矩阵数据集绘制为…
-
-seaborn.pydata.org](https://seaborn.pydata.org/generated/seaborn.clustermap.html)
+    <https://seaborn.pydata.org/generated/seaborn.clustermap.html> 

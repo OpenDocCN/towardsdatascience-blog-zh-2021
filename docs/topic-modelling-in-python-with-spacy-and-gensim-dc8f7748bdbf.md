@@ -306,10 +306,6 @@ pyLDAvis.save_html(lda_display, ‘index.html’)
 
 ## 进一步阅读的灵感
 
-[](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d) [## 学会在文本语料库中寻找主题
-
-### 无论是客户评论、新闻报道还是人与人之间的对话，当我们面临不得不…
-
-medium.com](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d) 
+<https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d>  
 
 [https://aclanthology.org/D11-1024.pdf](https://aclanthology.org/D11-1024.pdf)

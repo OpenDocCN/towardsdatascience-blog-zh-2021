@@ -14,19 +14,11 @@
 
 如果您不熟悉马尔可夫过程，请阅读以下文章:
 
-[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) 
+</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  
 
 关于**隐马尔可夫模型**的详细处理，包括 MSDR 模型，请查看以下内容:
 
-[](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [## 数学爱好者的隐马尔可夫模型指南
-
-### 它们是如何工作的，以及它们为什么被“隐藏”起来。
-
-towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) 
+</a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8>  
 
 # MSDR 模型的一般说明
 
@@ -73,7 +65,7 @@ towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde
 *   **η(。)=0* 得出 [**白噪声模型**](/the-white-noise-model-1388dbd0a7d)**:***y _ t =ε_ t .**
 *   **η(。)=y_bar=(y_1+y2+…+y_n)/n* 得出[**均值模型**](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c):***y _ t = y _ bar。****
 *   ****η(。)=****x****_ t****β_ cap***产量 [**线性模型**](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c):y _ t =***x****_ t****β_ cap****+ε_ t****
-*   ****η(。)= exp(****x****_ t****β_ cap****)*产生了[](/poisson-regression-models-for-time-series-data-sets-54114e68c46d)**泊松模型或 [**非线性**](/a-guide-to-building-nonlinear-least-squares-nls-regression-models-310b97a7baeb) 泊松模型。*****
+*   ****η(。)= exp(****x****_ t****β_ cap****)*产生了</poisson-regression-models-for-time-series-data-sets-54114e68c46d>**泊松模型或 [**非线性**](/a-guide-to-building-nonlinear-least-squares-nls-regression-models-310b97a7baeb) 泊松模型。*****
 
 *****诸如此类。*****
 
@@ -389,14 +381,6 @@ plt.**show**()*
 
 # ***相关阅读***
 
-***[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [## 数学爱好者的隐马尔可夫模型指南
-
-### 它们是如何工作的，以及它们为什么被“隐藏”起来。
-
-towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) 
+***</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  </a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8>  
 
 *感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的提示、操作方法和编程建议。****

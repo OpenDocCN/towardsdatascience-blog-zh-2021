@@ -50,16 +50,4 @@
 
 缺失值是我们数据科学家永远不得不面对的问题。我希望这篇文章有助于阐明这个问题的复杂性，并为您了解如何管理它们的旅程提供一个起点。祝你好运，编码愉快！
 
-[](https://pandas.pydata.org/) [## 熊猫
-
-### pandas 是一个快速、强大、灵活且易于使用的开源数据分析和操作工具，构建于…
-
-pandas.pydata.org](https://pandas.pydata.org/) [](https://scikit-learn.org/stable/) [## sci kit-学习
-
-### “我们使用 scikit-learn 来支持前沿基础研究[...]" "我认为这是我设计过的最棒的 ML 套装…
-
-scikit-learn.org](https://scikit-learn.org/stable/)  [## 欢迎阅读 LightGBM 的文档！-light GBM 3.3.1.99 文档
-
-### 编辑描述
-
-lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/latest/index.html)
+<https://pandas.pydata.org/>  <https://scikit-learn.org/stable/>   

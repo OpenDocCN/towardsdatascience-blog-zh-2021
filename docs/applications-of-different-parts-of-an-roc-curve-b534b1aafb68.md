@@ -148,11 +148,7 @@ Emphasis on partial area under curve below certain FPR. FPR at log scale. *(图�
 
 ## 包含创建图和计算部分指标的代码的笔记本
 
-[](https://github.com/groverpr/Machine-Learning/blob/master/notebooks/11_Applications_of_different_parts_of_an_ROC_curve.ipynb) [## machine-Learning/11 _ Applications _ of _ different _ parts _ of _ an _ ROC _ curve . ipynb at master…
-
-### 机器学习笔记。在 GitHub 上创建一个帐户，为 Grover pr/机器学习开发做贡献。
-
-github.com](https://github.com/groverpr/Machine-Learning/blob/master/notebooks/11_Applications_of_different_parts_of_an_ROC_curve.ipynb) 
+<https://github.com/groverpr/Machine-Learning/blob/master/notebooks/11_Applications_of_different_parts_of_an_ROC_curve.ipynb>  
 
 # 结论
 

@@ -18,7 +18,7 @@
 
 # ***什么是 Optuna？***
 
-***Optuna** 由 Takuya Akiba 等人引进。艾尔。[6]2019 年。 **Optuna** 是一个用于*超参数优化*的开源 python 库。在后台， **Optuna** 旨在平衡*采样*和*修剪*算法。 **Optuna** 实现了独立参数采样的**树形 Parzen 估计器** (TPE) [ [7](https://optunity.readthedocs.io/en/latest/user/solvers/TPE.html#id2) ， [8](https://papers.nips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf) 以及**高斯过程** (GP) [ [8](https://papers.nips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf) ，**协方差矩阵自适应***(CMA)[9](http://www.cmap.polytechnique.fr/~nikolaus.hansen/cmaartic.pdf)[同样， **Optuna** 为搜索空间的*修剪*实现了**异步连续减半** (ASHA) [](http://www.cmap.polytechnique.fr/~nikolaus.hansen/cmaartic.pdf) [10](https://arxiv.org/abs/1810.05934) ]算法的变体。**
+***Optuna** 由 Takuya Akiba 等人引进。艾尔。[6]2019 年。 **Optuna** 是一个用于*超参数优化*的开源 python 库。在后台， **Optuna** 旨在平衡*采样*和*修剪*算法。 **Optuna** 实现了独立参数采样的**树形 Parzen 估计器** (TPE) [ [7](https://optunity.readthedocs.io/en/latest/user/solvers/TPE.html#id2) ， [8](https://papers.nips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf) 以及**高斯过程** (GP) [ [8](https://papers.nips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf) ，**协方差矩阵自适应***(CMA)[9](http://www.cmap.polytechnique.fr/~nikolaus.hansen/cmaartic.pdf)[同样， **Optuna** 为搜索空间的*修剪*实现了**异步连续减半** (ASHA) <http://www.cmap.polytechnique.fr/~nikolaus.hansen/cmaartic.pdf> [10](https://arxiv.org/abs/1810.05934) ]算法的变体。**
 
 ****Optuna** 作为一个*超参数优化*软件出现在一个新的*设计标准*下，该设计标准基于三个基本思想: ***定义运行 API*** ，它允许用户以动态方式构建和操作搜索空间， ***高效实现*** ，它专注于采样策略以及修剪算法的最佳功能， ***易于设置在图 2 中，我们可以看到对 **Optuna** 架构的可视化描述。*****
 

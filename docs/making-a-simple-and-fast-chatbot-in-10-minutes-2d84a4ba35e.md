@@ -217,4 +217,4 @@ while(True):
 
 感谢阅读！
 
-*原载于 2021 年 1 月 6 日 https://www.numpyninja.com*[](https://www.numpyninja.com/post/making-a-simple-and-fast-chatbot-in-10-minutes)**。**
+*原载于 2021 年 1 月 6 日 https://www.numpyninja.com*<https://www.numpyninja.com/post/making-a-simple-and-fast-chatbot-in-10-minutes>**。**

@@ -139,11 +139,7 @@ LeNet 是由 [Yann LeCun](http://yann.lecun.com/) 、 [Leon Bottou](https://leon
 
 1989 年，Yann LeCun 推出了 LeNet 架构的第一个变体，用于识别手写的邮政编码。1998 年，LeNet-5 被用于解决文档识别，开创了卷积神经网络应用于计算机视觉任务的时代。
 
-[](/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342) [## 理解和实现 LeNet-5 CNN 架构(深度学习)
-
-### 在本文中，我们使用定制实现的 LeNet-5 神经网络对 MNIST 数据集进行图像分类
-
-towardsdatascience.com](/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342) 
+</understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342>  
 
 ## AlexNet
 
@@ -159,11 +155,7 @@ AlexNet 的创建者利用 GPU(图形处理单元)内的计算能力来训练 Al
 
 AlexNet 作者还利用各种技术来减少深度神经网络的常见问题(消失梯度、过拟合)；这些技术是:数据增加，丢失，重新激活功能，局部反应正常化。
 
-[](/what-alexnet-brought-to-the-world-of-deep-learning-46c7974b46fc) [## AlexNet 给深度学习世界带来了什么
-
-### 花一分钟来了解琐碎的技术和神经网络架构，革命性的有多深…
-
-towardsdatascience.com](/what-alexnet-brought-to-the-world-of-deep-learning-46c7974b46fc) 
+</what-alexnet-brought-to-the-world-of-deep-learning-46c7974b46fc>  
 
 # 深度学习的优势
 

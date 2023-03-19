@@ -137,14 +137,6 @@ compositeSide 自定义实体将允许我们标识数量以及识别用户请求
 
 ## **相关文章**
 
-**[](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) [## 一个简单的深度学习的 Python 聊天机器人
+**</a-simple-chatbot-in-python-with-deep-learning-3e8669997758>  </a-brief-look-at-chatbots-98cfc846b0f7> [## 聊天机器人一瞥
 
-### 如何建立自己的朋友
-
-towardsdatascience.com](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) [](/a-brief-look-at-chatbots-98cfc846b0f7) [## 聊天机器人一瞥
-
-towardsdatascience.com](/a-brief-look-at-chatbots-98cfc846b0f7) [](/a-primer-on-conversational-ai-d20c7a4b2a87) [## 对话式人工智能入门
-
-### 了解对话式人工智能及其如何帮助人类
-
-towardsdatascience.com](/a-primer-on-conversational-ai-d20c7a4b2a87)**
+towardsdatascience.com](/a-brief-look-at-chatbots-98cfc846b0f7) </a-primer-on-conversational-ai-d20c7a4b2a87> **

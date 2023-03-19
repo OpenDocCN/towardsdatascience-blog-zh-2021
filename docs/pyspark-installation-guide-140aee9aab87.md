@@ -234,4 +234,4 @@ Spark 是一个完整的分析引擎，可以帮助数据科学家进行冗长�
 
 如果你对类似的内容感兴趣，点击 Medium 上的“关注”按钮，或者在 Twitter 和 Linkedin 上关注我
 
-【https://anujsyal.com】最初发表于[](https://anujsyal.com/pyspark-installation-guide)**。**
+【https://anujsyal.com】最初发表于<https://anujsyal.com/pyspark-installation-guide>**。**

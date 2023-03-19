@@ -38,19 +38,7 @@ DBSCAN 是最好的聚类算法(优于 k-means 聚类或层次聚类),原因如�
 
 ## 更多资源
 
-[](https://en.wikipedia.org/wiki/DBSCAN) [## DBSCAN -维基百科
-
-### 基于密度的含噪声应用空间聚类(DBSCAN)是由 Martin…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/DBSCAN) [](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html) [## 机器学习中的 DBSCAN 聚类算法
-
-### 在 2014 年，DBSCAN 算法被授予了时间检验奖(该奖项授予获得过…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html) [](/how-dbscan-works-and-why-should-i-use-it-443b4a191c80) [## DBSCAN 如何工作，为什么要使用它？
-
-### 首先，这是我在 medium 上的第一个故事，如果我做错了什么，我很抱歉。其次，我不太擅长…
-
-towardsdatascience.com](/how-dbscan-works-and-why-should-i-use-it-443b4a191c80) 
+<https://en.wikipedia.org/wiki/DBSCAN>  <https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html>  </how-dbscan-works-and-why-should-i-use-it-443b4a191c80>  
 
 > ***一定要*** [***订阅这里***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学的指南、诀窍和技巧、生活经验等文章！***
 
@@ -70,19 +58,7 @@ TF-IDF 是自然语言处理和信息检索领域的一种流行技术。
 
 ## 更多资源
 
- [## tf-idf -维基百科
-
-### 在信息检索中，tf-idf，TF*IDF，或 TFIDF，是词频-逆文献频率的缩写，是一个数字…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) [](https://monkeylearn.com/blog/what-is-tf-idf/) [## 理解 TF-ID:简单介绍
-
-### TF-IDF(术语频率-逆文档频率)是一种统计方法，用于评估一个单词与一个文档的相关程度
-
-monkeylearn.com](https://monkeylearn.com/blog/what-is-tf-idf/) [](https://www.analyticsvidhya.com/blog/2021/11/how-sklearns-tfidfvectorizer-calculates-tf-idf-values/) [## sklearn 的 tf-idf 矢量器如何计算 tf-idf 值-分析 Vidhya
-
-### 这篇文章作为数据科学博客的一部分发表。在这篇博客中，我们将尝试打破 tf-idf 和…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/11/how-sklearns-tfidfvectorizer-calculates-tf-idf-values/) 
+  <https://monkeylearn.com/blog/what-is-tf-idf/>  <https://www.analyticsvidhya.com/blog/2021/11/how-sklearns-tfidfvectorizer-calculates-tf-idf-values/>  
 
 # 3.Apriori 算法
 
@@ -96,15 +72,7 @@ Apriori 算法是一种关联规则算法，最常用于确定项目集中相互
 
 ## 更多资源
 
- [## 先验- mlxtend
-
-### Apriori 函数，用于从 mlxtend 中提取关联规则挖掘的频繁项集
-
-rasbt.github.io](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/) [](https://www.educative.io/edpresso/what-is-the-apriori-algorithm) [## 什么是 Apriori 算法？
-
-### Apriori 算法用于挖掘频繁项集和从事务型数据库设计关联规则。
-
-www.educative.io](https://www.educative.io/edpresso/what-is-the-apriori-algorithm) 
+  <https://www.educative.io/edpresso/what-is-the-apriori-algorithm>  
 
 # 4.霍尔特-温特斯指数平滑
 
@@ -122,19 +90,7 @@ www.educative.io](https://www.educative.io/edpresso/what-is-the-apriori-algorith
 
 ## 更多资源
 
- [## 指数平滑-维基百科
-
-### 指数平滑是一种使用指数窗口平滑时间序列数据的经验法则…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Exponential_smoothing) [](/holt-winters-exponential-smoothing-d703072c0572) [## 霍尔特-温特斯指数平滑法
-
-### 时间序列数据的超快速预测工具
-
-towardsdatascience.com](/holt-winters-exponential-smoothing-d703072c0572) [](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/) [## Python - Machine 中时间序列预测的指数平滑法简介
-
-### 指数平滑法是一种用于单变量数据的时间序列预测方法，可以扩展到支持具有以下特征的数据
-
-machinelearningmastery.com](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/) 
+  </holt-winters-exponential-smoothing-d703072c0572>  <https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/>  
 
 > ***务必*** [***订阅此处***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学指南、诀窍和技巧、生活经验等的文章！***
 
@@ -152,19 +108,7 @@ machinelearningmastery.com](https://machinelearningmastery.com/exponential-smoot
 
 ## 更多资源
 
- [## 矩阵分解(推荐系统)-维基百科
-
-### 矩阵分解是一类用于推荐系统的协同过滤算法。矩阵分解…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Matrix_factorization_%28recommender_systems%29) [](/recommendation-system-matrix-factorization-d61978660b4b) [## 推荐系统—矩阵分解
-
-### 矩阵分解的漫游推荐系统
-
-towardsdatascience.com](/recommendation-system-matrix-factorization-d61978660b4b) [](https://developers.google.com/machine-learning/recommendation/collaborative/matrix) [## 矩阵分解|推荐系统|谷歌开发者
-
-### 矩阵分解是一个简单的嵌入模型。给定反馈矩阵 a \(\在 r^{m \乘以 n}\)，其中\(m\)是…
-
-developers.google.com](https://developers.google.com/machine-learning/recommendation/collaborative/matrix) 
+  </recommendation-system-matrix-factorization-d61978660b4b>  <https://developers.google.com/machine-learning/recommendation/collaborative/matrix>  
 
 # 6.莱文斯坦距离
 
@@ -184,15 +128,7 @@ Levenshtein 距离是一种简单的算法，用于确定两个字符串之间�
 
 ## 更多资源
 
- [## 莱文斯坦距离-维基百科
-
-### 在信息论、语言学和计算机科学中，Levenshtein 距离是一个字符串度量，用于测量…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Levenshtein_distance) [](https://blog.paperspace.com/implementing-levenshtein-distance-word-autocomplete-autocorrect/) [## 在 Python | Paperspace 博客中实现 Levenshtein 距离
-
-### Levenshtein 距离是一种文本相似性度量，它比较两个单词并返回一个表示…
-
-blog.paperspace.com](https://blog.paperspace.com/implementing-levenshtein-distance-word-autocomplete-autocorrect/) 
+  <https://blog.paperspace.com/implementing-levenshtein-distance-word-autocomplete-autocorrect/>  
 
 # 7.页面等级
 
@@ -208,15 +144,7 @@ PageRank 是 Google 创建的一种算法，用于对他们的网页进行搜索
 
 ## 更多资源
 
-[](https://en.wikipedia.org/wiki/PageRank) [## 页面排名-维基百科
-
-### PageRank ( PR)是 Google Search 使用的一种算法，用于在其搜索引擎结果中对网页进行排名。它被命名为…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/PageRank) [](https://www.link-assistant.com/news/google-pagerank-algorithm.html) [## 谷歌的 PageRank 算法:解释和测试
-
-### PageRank 算法(或简称 PR)是由拉里·佩奇和谢尔盖·布林在哈佛大学开发的网页排名系统
-
-www.link-assistant.com](https://www.link-assistant.com/news/google-pagerank-algorithm.html) 
+<https://en.wikipedia.org/wiki/PageRank>  <https://www.link-assistant.com/news/google-pagerank-algorithm.html>  
 
 # 8.Dijkstra 算法
 
@@ -234,15 +162,7 @@ Dijkstra 的算法通常用于寻找最短的运输路线，确定最短的石�
 
 ## 更多资源
 
-[](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) [## 迪克斯特拉的算法-维基百科
-
-### Dijkstra 的算法(DYKE-strəz)是一种寻找图中节点间最短路径的算法，它可能…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) [](https://stackabuse.com/dijkstras-algorithm-in-python/) [## Python 中的图形:Dijkstra 算法
-
-### Dijkstra 算法是一种寻找图中节点间最短路径的算法。它是由一个…
-
-stackabuse.com](https://stackabuse.com/dijkstras-algorithm-in-python/) 
+<https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm>  <https://stackabuse.com/dijkstras-algorithm-in-python/>  
 
 > ***务必*** [***订阅此处***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学的指南、诀窍和技巧、生活经验等文章！***
 
@@ -260,15 +180,7 @@ stackabuse.com](https://stackabuse.com/dijkstras-algorithm-in-python/)
 
 ## 更多资源
 
-[](https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/) [## 强化学习中的ε-贪婪算法
-
-### 在强化学习中，代理人或决策者学习做什么-如何将情况映射到行动-以便…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/) [](https://en.wikipedia.org/wiki/Multi-armed_bandit#Optimal_solutions) [## 多臂土匪-维基百科
-
-### 在概率论和机器学习中，多臂土匪问题(有时称为土匪问题)是一个…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Multi-armed_bandit#Optimal_solutions) 
+<https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/>  <https://en.wikipedia.org/wiki/Multi-armed_bandit#Optimal_solutions>  
 
 # 10.高斯朴素贝叶斯
 
@@ -284,15 +196,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Multi-armed_bandit#Optimal_solut
 
 ## 更多资源
 
-[](/a-mathematical-explanation-of-naive-bayes-in-5-minutes-44adebcdb5f8) [## 5 分钟内对朴素贝叶斯的数学解释
-
-### 用一个例子彻底解释朴素贝叶斯
-
-towardsdatascience.com](/a-mathematical-explanation-of-naive-bayes-in-5-minutes-44adebcdb5f8) [](https://scikit-learn.org/stable/modules/naive_bayes.html) [## 1.9.朴素贝叶斯
-
-### 朴素贝叶斯方法是一组监督学习算法，基于应用贝叶斯定理和“朴素”学习理论
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/naive_bayes.html) 
+</a-mathematical-explanation-of-naive-bayes-in-5-minutes-44adebcdb5f8>  <https://scikit-learn.org/stable/modules/naive_bayes.html>  
 
 # 11.随机森林分类器
 
@@ -308,11 +212,7 @@ scikit-learn.org](https://scikit-learn.org/stable/modules/naive_bayes.html)
 
 ## 更多资源
 
-[](/understanding-random-forest-58381e0602d2) [## 了解随机森林
-
-### 该算法如何工作以及为什么如此有效
-
-towardsdatascience.com](/understanding-random-forest-58381e0602d2) 
+</understanding-random-forest-58381e0602d2>  
 
 # 12.哈里斯角探测器
 
@@ -334,15 +234,7 @@ Harris 角点检测器是一种在计算机视觉算法中用来识别图像中�
 
 ## 更多资源
 
-[](https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6) [## 哈里斯角点检测器简介
-
-### Harris 角点检测器是一种角点检测算子，常用于计算机视觉算法中提取…
-
-medium.com](https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6)  [## 哈里斯角探测器-维基百科
-
-### 哈里斯角点检测器是一种角点检测算子，通常用于计算机视觉算法中，以…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Harris_corner_detector) 
+<https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6>    
 
 # 感谢阅读！
 
@@ -350,19 +242,11 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Harris_corner_detector)
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) [## 2022 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) 
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 # 特伦斯·申
 

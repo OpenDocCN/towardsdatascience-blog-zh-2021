@@ -282,22 +282,6 @@ ime 序列分析经常被视为数据科学的一个深奥的子领域。它不�
 
 ***(本练习的完整 Python 代码和数据可在我的 *GitHub* [资源库](https://github.com/at-tan/Forecasting_Air_Pollution)中获得。如果直接渲染 GitHub 笔记本文件有问题，使用 [nbviewer](https://nbviewer.org/) 。)***
 
-****如果你看到了阅读这样的文章的价值，你可以在这里订阅 Medium*[](https://at-tan.medium.com/membership)**来阅读我和无数其他作家的其他文章。谢谢你。*****
+****如果你看到了阅读这样的文章的价值，你可以在这里订阅 Medium*<https://at-tan.medium.com/membership>**来阅读我和无数其他作家的其他文章。谢谢你。*****
 
-****[](/time-seasonality-features-in-time-series-7e8236f7b04a) [## 时间序列中的时间和季节性特征
-
-### 以数据为中心，并在模型校准过程中包括季节性选项
-
-towardsdatascience.com](/time-seasonality-features-in-time-series-7e8236f7b04a) [](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [## 比特币与宏观因素关系的转变
-
-### 使用回归和统计推断评估自疫情以来的变化
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2) [## 用预测概率处理不平衡数据
-
-### 葡萄牙银行营销数据集中优化分类概率的案例研究
-
-towardsdatascience.com](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2) [](/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3) [## 外汇市场的等级聚类
-
-### 使用无监督的机器学习来识别行为货币群
-
-towardsdatascience.com](/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3)****
+****</time-seasonality-features-in-time-series-7e8236f7b04a>  <https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f>  </tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2>  </a-hierarchical-clustering-of-currencies-80b8ba6c9ff3> ****

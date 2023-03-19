@@ -106,16 +106,4 @@ df.head()
 
 ## 相关文章
 
-[](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [## 数据科学家应该知道软件工程的最佳实践
-
-### 成为不可或缺的数据科学家
-
-towardsdatascience.com](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [](/developing-proficiency-with-new-programming-languages-and-frameworks-1bfe622be28b) [## 熟练掌握新的编程语言和框架
-
-### 如何更快的发展流利度
-
-towardsdatascience.com](/developing-proficiency-with-new-programming-languages-and-frameworks-1bfe622be28b) [](/thriving-as-a-remote-data-scientist-98f9aa79f5ab) [## 作为远程数据科学家蒸蒸日上
-
-### 我远程工作的经历
-
-towardsdatascience.com](/thriving-as-a-remote-data-scientist-98f9aa79f5ab)
+</data-scientist-should-know-software-engineering-best-practices-f964ec44cada>  </developing-proficiency-with-new-programming-languages-and-frameworks-1bfe622be28b>  </thriving-as-a-remote-data-scientist-98f9aa79f5ab> 

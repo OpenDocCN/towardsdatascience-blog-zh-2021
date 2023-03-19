@@ -58,24 +58,8 @@
 
 **想获得媒体文章的全部访问权限并支持我的工作？只是 5 美元/月。使用以下链接订阅:**
 
-[](https://boemer.medium.com/membership) [## 通过我的推荐链接加入 Medium—Renato Boemer
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-boemer.medium.com](https://boemer.medium.com/membership) 
+<https://boemer.medium.com/membership>  
 
 **这里有一些你可能会喜欢的文章:**
 
-[](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [## 提高生产力:使用 Python 和 Pandas 进行数据清理
-
-### 数据清理可能很耗时，但了解不同类型的丢失值，以及如何处理…
-
-towardsdatascience.com](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [## 是什么让一个数据科学家脱颖而出？
-
-### 越来越多的人痴迷于硬技能，但软技能可以让你脱颖而出。
-
-towardsdatascience.com](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3)
+</increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012>  </what-makes-a-data-scientist-stand-out-e8822f466d4c>  </switching-career-to-data-science-in-your-30s-6122e51a18a3> 

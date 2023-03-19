@@ -59,8 +59,4 @@ OLTP 或在线事务处理是指对“事务”的支持和处理。想象你去
 
 请参考下面的文章，深入了解数据建模概念:
 
-[](/data-modeling-an-overview-ed6165a27309) [## 数据建模:概述
-
-### 本文概述了软件应用程序中的数据建模。它描述了常用术语并解释了…
-
-towardsdatascience.com](/data-modeling-an-overview-ed6165a27309)
+</data-modeling-an-overview-ed6165a27309> 

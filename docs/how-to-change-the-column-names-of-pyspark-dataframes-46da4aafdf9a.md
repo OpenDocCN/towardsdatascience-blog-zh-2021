@@ -76,11 +76,7 @@
 
 此时，您可能还想回忆一下 Spark 中`select()`和`selectExpr()`的区别:
 
-[](/select-vs-selectexpr-in-spark-412a59416615) [## Spark 中的 select()与 selectExpr()
-
-### 讨论 Spark 中 select()和 selectExpr()方法的区别
-
-towardsdatascience.com](/select-vs-selectexpr-in-spark-412a59416615) 
+</select-vs-selectexpr-in-spark-412a59416615>  
 
 ## 使用 withColumnRenamed()
 
@@ -174,16 +170,4 @@ towardsdatascience.com](/select-vs-selectexpr-in-spark-412a59416615)
 
 ## 你可能也喜欢
 
-[](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/distinct-vs-dropduplicates-in-spark-3e28af1f793c) [## Spark 中的 distinct()与 dropDuplicates()
-
-### Spark 中 distinct()和 dropDuplicates()有什么区别？
-
-towardsdatascience.com](/distinct-vs-dropduplicates-in-spark-3e28af1f793c)
+</sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </distinct-vs-dropduplicates-in-spark-3e28af1f793c> 

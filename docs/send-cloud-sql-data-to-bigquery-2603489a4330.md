@@ -153,16 +153,4 @@ Muffaddal 的联邦查询示例
 
 # 你可能喜欢类似的读物
 
-[](/chaining-multiple-sql-queries-in-bigquery-8498d8885da5) [## 在 BigQuery 中链接多个 SQL 查询
-
-### 在 BigQuery 中依次执行多个查询
-
-towardsdatascience.com](/chaining-multiple-sql-queries-in-bigquery-8498d8885da5) [](/automate-data-import-to-google-analytics-471de2c3fc76) [## 自动将数据导入 Google Analytics。
-
-### 建立一个数据管道，使用 Google Cloud Platfrom 将数据导入 google analytics。
-
-towardsdatascience.com](/automate-data-import-to-google-analytics-471de2c3fc76) [](/send-google-analytics-hit-level-data-to-bigquery-5093e2db481b) [## 向 BigQuery 发送 Google Analytics 点击量数据
-
-### 如何发送标准的谷歌分析点击量数据到 BigQuery？
-
-towardsdatascience.com](/send-google-analytics-hit-level-data-to-bigquery-5093e2db481b)
+</chaining-multiple-sql-queries-in-bigquery-8498d8885da5>  </automate-data-import-to-google-analytics-471de2c3fc76>  </send-google-analytics-hit-level-data-to-bigquery-5093e2db481b> 

@@ -84,8 +84,4 @@ out_nap = viewer.add_labels(output[idx], name='Prediction')
 
 如果您有任何问题，请随时在 [LinkedIn](https://www.linkedin.com/in/johannes-schmidt-8789461bb/) 上联系我，或者在 [GitHub](https://github.com/johschmidt42/PyTorch-2D-3D-UNet-Tutorial) 上公开问题！
 
-[](https://johschmidt42.medium.com/membership) [## 通过我的推荐链接加入媒体-约翰内斯·施密特
-
-### 阅读约翰内斯·施密特(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-johschmidt42.medium.com](https://johschmidt42.medium.com/membership)
+<https://johschmidt42.medium.com/membership> 

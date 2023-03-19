@@ -16,11 +16,7 @@ Python 是一种非常通用的语言，它可以完成不同编程语言想要�
 
 我个人使用 Visual Studio 代码进行编程，但是您可以随意使用您的首选。然而，如果你很难选择最适合自己的选项，下面的链接列出了十多个优秀的 Python 编辑器，并给出了优缺点，它将帮助你决定最适合你的编码的编辑器。
 
-[](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) [## 10+牛逼 Python 编辑器的简明指南，以及如何选择最适合你的编辑器…
-
-### 帮助您在各种 python 开发环境中进行选择的简明指南
-
-towardsdatascience.com](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) 
+</a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd>  
 
 # 1.Tkinter:
 
@@ -95,11 +91,7 @@ quit()
 
 在上面的编码部分，我们已经讨论了一些用 Pygame 创建特定大小的图形窗口的起始代码。在这个 Python 库的帮助下，你可以构建更多的应用程序和游戏。要理解为什么每个开发者都应该花时间用 Python 和 AI 开发游戏的五个原因，请查看我以前的一篇文章，关于你应该这样做的五个原因。
 
-[](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) 
+</5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  
 
 # 4.开放式简历:
 
@@ -126,11 +118,7 @@ cv2.waitKey(0)
 
 上面的起始代码探索了 Open-CV 库的一些功能的基本实现。如果您有兴趣进一步探索这个特定的库，并了解更多关于计算机视觉的知识，请查看我以前的一篇文章，该文章涵盖了 Open-CV 入门的完整初学者指南，链接如下。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 # 5.基维:
 
@@ -240,19 +228,7 @@ Python 编程语言提供了巨大的潜力，可以创建出色的图形用户�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [## 6 个最佳图像处理项目和有用的资源
-
-towardsdatascience.com](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
-
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
+</17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  </6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977>  </7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e> [## 数据科学和机器学习的 7 个最佳免费工具
 
 towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) 
 

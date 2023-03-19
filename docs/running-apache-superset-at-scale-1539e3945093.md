@@ -84,8 +84,4 @@ AUTH_USER_REGISTRATION_ROLE = "a_custom_default_role"
 
 *要了解更多数据工程内容，您可以订阅我的双周刊时事通讯 Data Espresso，在其中我将讨论与数据工程和技术相关的各种主题:*
 
-[](https://dataespresso.substack.com/) [## 数据浓缩咖啡
-
-### 数据工程更新和评论伴随您的午后咖啡。点击阅读数据咖啡，由马赫迪…
-
-dataespresso.substack.com](https://dataespresso.substack.com/)
+<https://dataespresso.substack.com/> 

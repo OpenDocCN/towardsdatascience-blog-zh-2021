@@ -146,14 +146,6 @@ $ alias grab="yank -- xsel -b"$ docker image ls | grab
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8) [## Typer:使用 Python 在一行代码中构建强大的 CLI
-
-### 在命令行上轻松地向 Python 函数添加参数
-
-towardsdatascience.com](/typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8) [](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [## 当 Python 文件改变时自动重新加载的 2 个工具
-
-towardsdatascience.com](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/ptpython-a-better-python-repl-6e21df1eb648) [## Ptpython:更好的 Python REPL
+</typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8>  </2-tools-to-automatically-reload-when-python-files-change-90bb28139087>  </ptpython-a-better-python-repl-6e21df1eb648> [## Ptpython:更好的 Python REPL
 
 towardsdatascience.com](/ptpython-a-better-python-repl-6e21df1eb648)

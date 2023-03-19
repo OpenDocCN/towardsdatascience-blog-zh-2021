@@ -140,8 +140,4 @@ sns.histplot(df.tip.apply(np.log) );
 
 如果您想通过订阅 medium 来支持我的内容，请使用此推荐链接:
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

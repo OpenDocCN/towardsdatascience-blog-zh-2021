@@ -26,11 +26,7 @@
 
 在下面的前一篇文章中，我们看到了如何使用 Anaconda 轻松地设置环境，以及如何使用 IDE Spyder 管理您的代码。如果你准备成为一名完全成熟的 python 应用程序开发人员，我建议你继续这样做😆。
 
-[](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) [## 使用 Python 探索 3D 点云处理
-
-### 教程简单地设置 python 环境，开始处理和可视化 3D 点云数据。
-
-towardsdatascience.com](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) 
+</discover-3d-point-cloud-processing-with-python-6112d9ee38e7>  
 
 如果您使用 Jupyter Notebook 或 Google Colab，脚本可能需要一些调整，以使可视化后端工作，但提供不稳定的性能。如果您想继续使用这些 IDE，我建议您看看第 4 步中给出的库的替代品。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/discover-3d-point-cloud-processing-with-python-6112d9ee
 
 在之前的教程中，我展示了通过使用[摄影测量](https://learngeodata.eu/)和来自[开阔地形的航空激光雷达获得的 3D 数据集上的点云处理和网格划分。](https://www.opentopography.org/)我将跳过下面文章中涉及的激光雷达 I/O 细节，直接使用高效的。las 文件格式。
 
-[](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [## 如何使用 Python 自动处理激光雷达点云
-
-### 使用 Python 从头开始点云子采样的终极指南。它涵盖了激光雷达输入/输出，三维体素网格处理…
-
-towardsdatascience.com](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) 
+</how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c>  
 
 只是这一次，我们将使用空中无人机数据集。它是通过摄影测量获得的，让一架小型 DJI 幻影 Pro 4 在我们的大学校园内飞行，收集一些图像，并进行摄影测量重建，如这里所解释的。
 
@@ -77,19 +69,11 @@ colors = np.vstack((point_cloud.red, point_cloud.green, point_cloud.blue)).trans
 
 **如果您的数据集太大，或者您想在二次抽样版本上进行试验，我建议您查看下面的文章，它给出了实现这一任务的几种方法:**
 
-**[](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [## 如何使用 Python 自动处理激光雷达点云
-
-### 使用 Python 从头开始点云子采样的终极指南。它涵盖了激光雷达输入/输出，三维体素网格处理…
-
-towardsdatascience.com](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) 
+**</how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c>  
 
 或以下形成广泛的点云训练:
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 为了方便起见，如果您有超过 1 亿个点的点云，我们可以使用以下方法快速切片您的数据集:
 
@@ -167,11 +151,7 @@ pip install open3d
 
 如果您想扩展 3d 网格操作的知识，我们已经在下面的教程中使用了 Open3d:
 
-[](/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba) [## 使用 Python 从点云生成 3D 网格的 5 步指南
-
-### 生成 3D 网格的教程(。obj，。ply，。stl，。gltf)自动从三维点云使用 python。(奖金)…
-
-towardsdatascience.com](/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba) 
+</5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba>  
 
 这将在您的机器上安装 Open3D，然后您将能够通过执行以下脚本来读取和显示您的点云:
 
@@ -384,19 +364,11 @@ v.play(poses, 2 * np.arange(4), repeat=True, interp='linear')
 
 您刚刚学习了如何导入、可视化和分割由 3000 多万个点组成的点云！干得好！有趣的是，直接在 GPU 上执行的点云片段和单个点的交互选择现在可以用于点云实时编辑和分割。但这条路并没有到此为止，未来的帖子将更深入地探讨点云空间分析、文件格式、数据结构、分割[2–4]、动画和深度学习[1]。我们将特别关注如何管理大点云数据，如下面的文章中所定义的。
 
-[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [## 三维点云的未来:一个新的视角
-
-### 被称为点云的离散空间数据集通常为决策应用奠定基础。但是他们能不能…
-
-towardsdatascience.com](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) 
+</the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9>  
 
 我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。你可以从今天开始在[地理数据学院](https://learngeodata.eu/)参加一个编队。
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 # 参考
 

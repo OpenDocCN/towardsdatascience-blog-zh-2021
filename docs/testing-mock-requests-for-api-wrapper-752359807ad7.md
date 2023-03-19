@@ -130,32 +130,16 @@
 
 ## 最受欢迎
 
-[](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) [## 用您的 ML 项目学习 Git 分支
-
-### MLE 项目的版本控制至关重要。这是它的工作原理。
-
-towardsdatascience.com](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) 
+</learn-git-branches-with-your-ml-project-7f58bdf1ae80>  
 
 ## 阅读最多
 
-[](/learn-git-basics-for-your-ml-project-46ecf03865b) [## 学习 ML 项目的 Git 基础知识
-
-### 开始使用 Git，并通过使用模拟真实软件和机器学习工程师的工作方式…
-
-towardsdatascience.com](/learn-git-basics-for-your-ml-project-46ecf03865b) 
+</learn-git-basics-for-your-ml-project-46ecf03865b>  
 
 ## 与本文相关
 
-[](/working-with-json-data-in-python-45e25ff958ce) [## 在 python 中使用 JSON 数据
-
-### 写入 json 文件，从 json 文件读取用 python 解释并举例说明。
-
-towardsdatascience.com](/working-with-json-data-in-python-45e25ff958ce) 
+</working-with-json-data-in-python-45e25ff958ce>  
 
 **撰写本文所需的资源**
 
-[](https://github.com/getsentry/responses) [## GitHub - getsentry/responses:模拟 Python 请求库的实用程序。
-
-### 用于模拟请求的实用程序库 Python 库。
-
-github.com](https://github.com/getsentry/responses)
+<https://github.com/getsentry/responses> 

@@ -48,12 +48,4 @@
 
 ## 你可能也会喜欢…
 
-[](/whats-next-if-you-can-t-get-a-data-scientist-job-8309c6d0a895) [## 如果你找不到数据科学家的工作，下一步该怎么办
-
-### 数据科学家的替代工作可能性
-
-towardsdatascience.com](/whats-next-if-you-can-t-get-a-data-scientist-job-8309c6d0a895) [](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [## 如何成为数据分析师和数据科学家
-
-### 当你可以尝试两个角色时，为什么只选择一个
-
-towardsdatascience.com](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e)
+</whats-next-if-you-can-t-get-a-data-scientist-job-8309c6d0a895>  </how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e> 

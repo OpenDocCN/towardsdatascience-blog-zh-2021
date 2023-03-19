@@ -44,16 +44,8 @@
 
 **TL；DR 编写了代码，自动将信息从一个网站发布到另一个网站的相应部分。**
 
-**代号:**[](https://github.com/jackmleitch/strava2ap)
+**代号:**<https://github.com/jackmleitch/strava2ap>
 
 **感谢阅读，我希望你喜欢它。这里有一些你可能感兴趣的我的其他故事…**
 
-**[](/organizing-machine-learning-projects-e4f86f9fdd9c) [## 组织机器学习项目
-
-### 组织机器学习项目的实用指南
-
-towardsdatascience.com](/organizing-machine-learning-projects-e4f86f9fdd9c) [](/building-a-recipe-recommendation-api-using-scikit-learn-nltk-docker-flask-and-heroku-bfc6c4bdd2d4) [## 使用 Scikit-Learn、NLTK、Docker、Flask 和 Heroku 构建食谱推荐 API
-
-### 我的第一个“全栈”数据科学项目之旅(第 2 部分)——构建和部署
-
-towardsdatascience.com](/building-a-recipe-recommendation-api-using-scikit-learn-nltk-docker-flask-and-heroku-bfc6c4bdd2d4)**
+**</organizing-machine-learning-projects-e4f86f9fdd9c>  </building-a-recipe-recommendation-api-using-scikit-learn-nltk-docker-flask-and-heroku-bfc6c4bdd2d4> **

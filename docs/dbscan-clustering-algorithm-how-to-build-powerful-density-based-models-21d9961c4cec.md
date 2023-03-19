@@ -208,20 +208,4 @@ T3【索尔·多比拉斯】T4
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) [](/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f) [## GMM:高斯混合模型——如何成功地使用它对你的数据进行聚类？
-
-### GMM 的直观解释和有用的 Python 示例
-
-towardsdatascience.com](/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f) [](/hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390) [## HAC:层次凝聚聚类。比 K-Means 好吗？
-
-### HAC 算法的详细介绍，以及 Python 代码和几个有用的图表
-
-towardsdatascience.com](/hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390) [](/k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d) [## K-Means 聚类——在 Python 中成功使用的综合指南
-
-### 用真实数据的 Python 演示解释 K-Means 算法
-
-towardsdatascience.com](/k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d)
+<https://solclover.com/membership>  </gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f>  </hac-hierarchical-agglomerative-clustering-is-it-better-than-k-means-4ff6f459e390>  </k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d> 

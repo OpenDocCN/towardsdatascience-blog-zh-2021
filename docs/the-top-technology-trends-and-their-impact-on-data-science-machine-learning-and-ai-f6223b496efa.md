@@ -144,16 +144,4 @@
 
 **你喜欢我的故事吗？在这里你可以找到更多。**
 
-**[](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [## edX 2021 上数据科学 MicroMasters 计划的终极指南
-
-### 你应该选择 6 个程序中的哪一个？
-
-towardsdatascience.com](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [](https://pub.towardsai.net/the-ultimate-guide-on-the-ai-professional-certificates-on-edx-2021-deb538a9d93c) [## edX 2021 人工智能专业证书终极指南
-
-### 六个方案你选哪个？
-
-pub.towardsai.net](https://pub.towardsai.net/the-ultimate-guide-on-the-ai-professional-certificates-on-edx-2021-deb538a9d93c) [](https://medium.com/cantors-paradise/the-mind-boggling-properties-of-the-alternating-harmonic-series-d5e91a53dcfa) [## 交替调和级数令人难以置信的性质
-
-### 计算逼近任意实数的黎曼简单算法
-
-medium.com](https://medium.com/cantors-paradise/the-mind-boggling-properties-of-the-alternating-harmonic-series-d5e91a53dcfa)**
+**</the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387>  <https://pub.towardsai.net/the-ultimate-guide-on-the-ai-professional-certificates-on-edx-2021-deb538a9d93c>  <https://medium.com/cantors-paradise/the-mind-boggling-properties-of-the-alternating-harmonic-series-d5e91a53dcfa> **

@@ -116,12 +116,4 @@ fastapi[all]==0.63.0uvicorn[standard]==0.13.4
 
 我还有几个故事，你可能会感兴趣:
 
-[](/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21) [## 使用 FastAPI 部署 ML 模型——简明指南
-
-### 如何使用 NLP 模型作为 API——智能的、生产就绪的方式。
-
-towardsdatascience.com](/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21) [](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe) [## 如何使用 Bash 来自动化数据科学的枯燥工作
-
-### 使用命令行为您的数据科学项目编写一些可重用代码的指南
-
-towardsdatascience.com](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe)
+</deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21>  </how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe> 

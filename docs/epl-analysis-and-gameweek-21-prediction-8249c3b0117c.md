@@ -50,11 +50,7 @@ EPL 表格，包括净胜球、进球数和进球数(图片由作者提供)
 
 在进行预测之前，让我澄清一下，这是一个非常简单的算法，只是基于过去的 xG，所以只能预期基线性能。该算法也不能预测高得分游戏。然而，该模型在预测比赛势头方面表现得相当好。你可以在下面看看实际表现如何与前一周的预测相比较。
 
-[](/epl-analysis-and-gameweek-20-prediction-73014a4deb36) [## EPL 分析和游戏周 20 预测
-
-### 使用 xG 统计预测英超联赛结果的数据驱动尝试
-
-towardsdatascience.com](/epl-analysis-and-gameweek-20-prediction-73014a4deb36) 
+</epl-analysis-and-gameweek-20-prediction-73014a4deb36>  
 
 下表提供了对第 21 周比赛的预测。
 GD 的绝对值显示了比赛的竞争力。该值越高，预计匹配越偏向一侧，预测的准确性也越高。
@@ -88,10 +84,6 @@ GW 9 的 xG 预测(图片由作者提供)
 
 ## 你可能会感兴趣的另一篇文章:
 
-[](https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b) [## 如何使用数据科学找到 VVD 的最佳替代品！
-
-### 一种数据驱动的方法来确定受伤的利物浦中后卫维吉尔·范·迪克的最佳替代者。
-
-abhijithchandradas.medium.com](https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b) ![](img/c486db873b13f228d43325d96ccd20cb.png)
+<https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b>  ![](img/c486db873b13f228d43325d96ccd20cb.png)
 
 照片由[蒂姆·贝彻维斯](https://unsplash.com/@timmybech?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

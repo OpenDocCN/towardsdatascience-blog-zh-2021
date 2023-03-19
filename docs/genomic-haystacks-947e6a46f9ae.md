@@ -256,10 +256,6 @@ Consensus(Motifs)
 
 我写的其他生物信息学文章:
 
-[](/tanks-bioinformatics-c233fb76787b) [## 二战坦克如何教会你生物信息学
-
-towardsdatascience.com](/tanks-bioinformatics-c233fb76787b) [](/biology-code-match-518202a71d8d) [## 为什么生物学和代码是天作之合
-
-towardsdatascience.com](/biology-code-match-518202a71d8d) [](/genome-painting-c7e2398b4579) [## 你如何把基因组变成一幅画
+</tanks-bioinformatics-c233fb76787b>  </genome-painting-c7e2398b4579> [## 你如何把基因组变成一幅画
 
 towardsdatascience.com](/genome-painting-c7e2398b4579)

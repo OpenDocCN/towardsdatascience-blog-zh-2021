@@ -16,11 +16,7 @@
 
 有许多不同的分数，每一个都有它的优点和缺点。
 
-[](https://scikit-learn.org/stable/modules/clustering.html#clustering-evaluation) [## 2.3.集群-sci kit-了解 0.24.1 文档
-
-### 未标记数据的聚类可以使用该模块来执行。每种聚类算法都有两种变体:a…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/clustering.html#clustering-evaluation) 
+<https://scikit-learn.org/stable/modules/clustering.html#clustering-evaluation>  
 
 其中一个度量是所谓的 **V-measure(或归一化互信息)得分**。这种方法的一个优点是它可以分解成两个容易可视化的指标。
 
@@ -100,11 +96,7 @@ scikit-learn.org](https://scikit-learn.org/stable/modules/clustering.html#cluste
 
 现在，您已经执行了聚类，并希望估计 NMI。Sci-kit learn 已经实现了**,所以估计它真的很容易。**
 
-**[](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.v_measure_score.html) [## sk learn . metrics . v _ measure _ score-sci kit-learn 0 . 24 . 1 文档
-
-### 给定基本事实的 v-测度簇标记。此分数等同于标准化的相互信息分数，带有…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.v_measure_score.html) 
+**<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.v_measure_score.html>  
 
 这里有一个简单的例子。从这个例子中还可以清楚地看出，分数不依赖于标签的名称，正如前面所讨论的，对于每个标签排列都是一样的。
 

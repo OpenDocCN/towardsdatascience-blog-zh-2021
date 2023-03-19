@@ -111,11 +111,7 @@ There are 474 (out of 936) rows where users logged the whole day.There are 462 r
 
 EDA 通常是为了获得数据洞察力，这可以帮助我们完成机器学习任务。在接下来的故事中，我们使用相同的数据集和衍生的见解来训练几个机器学习模型，以解决回归问题。
 
-[](/solution-of-a-regression-problem-with-machine-learning-in-python-using-sklearn-and-xgboost-and-ea19afdfc067) [## 使用 Sklearn、XGBoost 和 PySpark 在 Python 中进行回归
-
-### 机器学习常用于解决回归问题。更具体地说，回归的应用…
-
-towardsdatascience.com](/solution-of-a-regression-problem-with-machine-learning-in-python-using-sklearn-and-xgboost-and-ea19afdfc067) 
+</solution-of-a-regression-problem-with-machine-learning-in-python-using-sklearn-and-xgboost-and-ea19afdfc067>  
 
 如果你喜欢我的故事，并想跳到有代码和完整数据集的笔记本，我已经在我个人的 [git](https://github.com/quaesito) 上的 [repo](https://github.com/quaesito/ml-fitbit) 中发布了它。
 

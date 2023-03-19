@@ -24,11 +24,7 @@
 
 PyWebIO 是一个 Python 库，允许你在没有 HTML 和 Javascript 知识的情况下构建简单的 web 应用。它比 Django 和 Flask 更容易学习，但比 Streamlit 更容易定制。
 
-[](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) 
+</pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e>  
 
 要安装 PyWebIO，请键入:
 
@@ -175,28 +171,12 @@ $ python -m spacy download en_core_web_sm
 
 请在这里随意使用本文的源代码:
 
-[](https://build.pyweb.io/get/khuyentran1401/bored_app) [## PyWebIO——用 Python 构建全栈 web 应用
-
-### 任何懂基本 Python 的人都可以开发漂亮的 web 工具。不需要 Javascript 和前端代码。
-
-build.pyweb.io](https://build.pyweb.io/get/khuyentran1401/bored_app) 
+<https://build.pyweb.io/get/khuyentran1401/bored_app>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [## Streamlit 和 spaCy:创建一个应用程序来预测情绪和单词的相似性，最小域…
+</streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4>  </pywebio-1-3-0-add-tabs-pin-input-and-update-an-input-based-on-another-input-e81a139fefcb>  </simulate-real-life-events-in-python-using-simpy-e6d9152a102f> [## 使用 SimPy 在 Python 中模拟真实事件
 
-### 只需要 10 行代码！
-
-towardsdatascience.com](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [](/pywebio-1-3-0-add-tabs-pin-input-and-update-an-input-based-on-another-input-e81a139fefcb) [## PyWebIO 1.3.0:添加选项卡、锁定输入，并基于另一个输入更新一个输入
-
-### 用几行代码创建有用的 Python 应用程序
-
-towardsdatascience.com](/pywebio-1-3-0-add-tabs-pin-input-and-update-an-input-based-on-another-input-e81a139fefcb) [](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [## 使用 SimPy 在 Python 中模拟真实事件
-
-towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4)
+towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) </how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4> 

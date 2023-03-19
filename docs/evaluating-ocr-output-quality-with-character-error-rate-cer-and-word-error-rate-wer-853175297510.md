@@ -178,12 +178,4 @@
 
 *****欢迎您加入我的数据科学学习之旅！**关注此[媒体页面](https://kennethleungty.medium.com/)以了解更多数据科学内容，或者在 [LinkedIn](https://www.linkedin.com/in/kennethleungty/) 上联系我。享受评估您的 OCR 模型的乐趣！***
 
-***[](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [## 使用 OpenCV 和 TesseractOCR 进行俄罗斯车牌检测
-
-### 检测，识别和提取汽车牌照号码与计算机视觉的力量(一步一步…
-
-towardsdatascience.com](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [](/the-dying-relu-problem-clearly-explained-42d0c54e0d24) [## 垂死的雷鲁问题，解释得很清楚
-
-### 通过理解 ReLU 的缺点来保持你的神经网络的活力
-
-towardsdatascience.com](/the-dying-relu-problem-clearly-explained-42d0c54e0d24)***
+***</russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c>  </the-dying-relu-problem-clearly-explained-42d0c54e0d24> ***

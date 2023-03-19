@@ -111,19 +111,11 @@ t-SNE 代表 *t 分布随机邻居嵌入*。通过保存空间中各点之间的
 
 本文是以下内容的一部分:
 
-[](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) [## 无监督学习算法备忘单
-
-### 你应该知道的所有无监督机器学习算法的完整备忘单
-
-towardsdatascience.com](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) 
+</unsupervised-learning-algorithms-cheat-sheet-d391a39de44a>  
 
 您可能还对以下内容感兴趣:
 
-[](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5) [## 监督学习算法备忘单
-
-### 你应该知道的所有监督机器学习算法的完整备忘单，包括优点、缺点和…
-
-towardsdatascience.com](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5) 
+</supervised-learning-algorithms-cheat-sheet-40009e7f29f5>  
 
 # 感谢您的阅读！
 

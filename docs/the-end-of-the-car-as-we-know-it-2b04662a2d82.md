@@ -36,18 +36,6 @@
 
 如果你喜欢这篇文章，并想与我联系，请这样做🐦推特，🔗LinkedIn，📷Instagram 或😊脸书。
 
-[](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) [## 几分钟内从巴黎到伦敦
-
-### 交通创新如何重塑我们的未来
-
-medium.com](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) [](/killing-the-motor-underwriter-cb11317cda98) [## 杀死汽车保险商
-
-### 正如我们所知，人工智能正在如何改变汽车保险
-
-towardsdatascience.com](/killing-the-motor-underwriter-cb11317cda98) [](/the-toaster-who-went-surfing-629fa2fb90d9) [## 去冲浪的烤面包机
-
-### 互联设备如何接管世界！
-
-towardsdatascience.com](/the-toaster-who-went-surfing-629fa2fb90d9) 
+<https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152>  </killing-the-motor-underwriter-cb11317cda98>  </the-toaster-who-went-surfing-629fa2fb90d9>  
 
 Alexiei Dingli 教授是马耳他大学人工智能教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他出版了几本同行评审的出版物，并成为马耳他的一部分。由马耳他政府成立的人工智能工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。

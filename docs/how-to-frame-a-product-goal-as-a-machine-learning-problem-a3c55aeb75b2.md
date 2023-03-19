@@ -69,12 +69,4 @@
 
 ## **相关文章**
 
-**[](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) [## 当我意识到数据科学证书不会推动我的职业发展时
-
-towardsdatascience.com](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) [](/7-common-gotchas-of-data-projects-62e8646552f2) [## 数据项目的 7 个常见问题
-
-towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2) [](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082)**
+**</the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72>  </always-remember-data-comes-before-the-science-681389992082> **

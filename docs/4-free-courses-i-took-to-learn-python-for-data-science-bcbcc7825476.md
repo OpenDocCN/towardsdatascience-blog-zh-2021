@@ -83,8 +83,4 @@ Jana Leu 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referr
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金。
 
-[](https://frank-andrade.medium.com/membership) [## 阅读弗兰克·安德拉德(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

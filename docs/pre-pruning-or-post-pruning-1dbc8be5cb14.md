@@ -16,7 +16,7 @@
 
 决策树是使用 CART 算法生成的。CART 代表“分类和回归树”不幸的是，知道缩写代表什么并不能帮助我们理解任何事情，但继续阅读，我们会涵盖它。或者，如果你想了解更多细节，可以看看我的文章:
 
-[](/learn-how-decision-trees-are-grown-22bc3d22fb51) [## 了解决策树是如何生长的
+</learn-how-decision-trees-are-grown-22bc3d22fb51> [## 了解决策树是如何生长的
 
 towardsdatascience.com](/learn-how-decision-trees-are-grown-22bc3d22fb51) 
 
@@ -153,11 +153,7 @@ towardsdatascience.com](/learn-how-decision-trees-are-grown-22bc3d22fb51)
 
 我们现在有一个更好的 95%的训练准确率。这棵树也在不损失精确度的情况下击败了基线的召回。对于这个数据集，该方法甚至执行后剪枝！请看这篇文章来比较这些方法:
 
-[](/build-better-decision-trees-with-pruning-8f467e73b107) [## 通过修剪构建更好的决策树
-
-### 通过限制最大深度和修剪减少决策树的过度拟合和复杂性
-
-towardsdatascience.com](/build-better-decision-trees-with-pruning-8f467e73b107) 
+</build-better-decision-trees-with-pruning-8f467e73b107>  
 
 ## 结论
 
@@ -185,14 +181,10 @@ towardsdatascience.com](/build-better-decision-trees-with-pruning-8f467e73b107)
 
 要了解更多关于决策树是如何生长的，请查看这篇文章:
 
-[](/learn-how-decision-trees-are-grown-22bc3d22fb51) [## 了解决策树是如何生长的
+</learn-how-decision-trees-are-grown-22bc3d22fb51> [## 了解决策树是如何生长的
 
 towardsdatascience.com](/learn-how-decision-trees-are-grown-22bc3d22fb51) 
 
 如果您对决策树的概述以及如何手工拟合决策树的演示感兴趣，请查看 Arif R 撰写的这篇文章:
 
-[](https://medium.datadriveninvestor.com/the-basics-of-decision-trees-e5837cc2aba7) [## 决策树的基础
-
-### 决策树算法-第 1 部分
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/the-basics-of-decision-trees-e5837cc2aba7)
+<https://medium.datadriveninvestor.com/the-basics-of-decision-trees-e5837cc2aba7> 

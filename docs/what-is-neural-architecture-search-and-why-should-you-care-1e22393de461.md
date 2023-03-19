@@ -64,19 +64,7 @@ NAS 方法探索**许多具有可变复杂性的潜在解决方案**，因此**�
 
 🚀- [圣甲虫的消息](https://medium.com/u/52eb891e229c?source=post_page-----1e22393de461--------------------------------)
 
-[](https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc) [## 关于我——圣甲虫的新闻
-
-### 欢迎页面
-
-medium.com](https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc) [](https://medium.com/@ScarabNews/membership) [## 用我的推荐链接加入媒体-圣甲虫的新闻
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ScarabNews/membership) [](https://medium.com/subscribe/@ScarabNews) [## 每当圣甲虫的新闻出版的时候得到一封电子邮件。
-
-### 每当圣甲虫的新闻出版的时候得到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@ScarabNews) 
+<https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc>  <https://medium.com/@ScarabNews/membership>  <https://medium.com/subscribe/@ScarabNews>  
 
 *感谢阅读本文！如果你有任何问题，请在下面留言。*
 

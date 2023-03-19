@@ -125,12 +125,4 @@
 
 *欢迎您来到**加入我的数据科学学习之旅！**点击此 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受生成假数据的乐趣吧！*
 
-*[](/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb) [## 使用 pycodestyle 增强 Python 代码的可读性
-
-### 基于 PEP-8 风格约定自动检查 Python 脚本的可读性和质量
-
-towardsdatascience.com](/enhance-your-python-codes-readability-with-pycodestyle-9838976077cb) [](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) [## 英超 VAR 足球决策分析
-
-### 使用 Python 回顾英国足球中有争议的视频助理裁判的实现
-
-towardsdatascience.com](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf)*
+*</enhance-your-python-codes-readability-with-pycodestyle-9838976077cb>  </analyzing-english-premier-league-var-football-decisions-c6d280061ebf> *

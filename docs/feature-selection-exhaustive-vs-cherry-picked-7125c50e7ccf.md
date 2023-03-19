@@ -14,11 +14,7 @@
 
 我决定写这篇文章，在收到许多关于我的前一篇文章的积极反馈之后，这篇文章的标题是[构建一个 ML 产品——避免的 4 个错误](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24),在那里我分享了一些见解，以防止在构建一个 ML 产品时的常见错误。
 
-[](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) [## 构建一个 ML 产品——要避免的 4 个错误
-
-### 这是我多年来学到的一个全面的教训。
-
-towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) 
+</build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24>  
 
 # 可解释与不可解释
 
@@ -52,8 +48,4 @@ towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)
 *   *连接上* [*Linkedin*](https://www.linkedin.com/in/pedrama/) *！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

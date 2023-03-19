@@ -93,30 +93,18 @@ LinkedIn:[https://www.linkedin.com/in/reo-neo/](https://www.linkedin.com/in/reo-
 
 **(1)不同 VAE 架构的 PyTorch 实现**
 
-[](https://github.com/AntixK/PyTorch-VAE) [## 安蒂克/皮托尔赫-VAE
-
-### pytorch 中实现的一组可变自动编码器(vae ),重点关注再现性。这个的目的是…
-
-github.com](https://github.com/AntixK/PyTorch-VAE) 
+<https://github.com/AntixK/PyTorch-VAE>  
 
 不同 VAE 架构的有用汇编，显示了各自的 PyTorch 实现和结果。
 
 **(2)神经离散表示学习**
 
- [## 神经离散表示学习
-
-### 在没有监督的情况下学习有用的表示仍然是机器学习中的一个关键挑战。在本文中，我们…
-
-arxiv.org](https://arxiv.org/abs/1711.00937) 
+  
 
 关于矢量量化 VAE (VQ-VAE)的论文。关于如何进一步改进离散数据的 VAEs 的有趣论文。强调 VAEs 存在的一些问题以及 VQ-VAEs 如何解决这些问题
 
 **(3) MMD-VAE**
 
-[](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/) [## 信息最大化变分自动编码器教程
-
-### 本教程讨论了 MMD 变分自动编码器(简称 MMD-VAE)，InfoVAE 家族的成员。这是一个…
-
-ermongroup.github.io](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/) 
+<https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/>  
 
 一篇有趣的博文，讲述了一种不依赖 KL 散度损失函数来正则化潜在概率分布的不同方法。

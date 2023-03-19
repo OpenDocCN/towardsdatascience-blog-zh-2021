@@ -203,11 +203,7 @@ runSpec: |-
 
 如果你认为工作量很大，让 [Kale](https://github.com/kubeflow-kale/kale) 为你处理所有这些步骤。请看下面的故事:
 
-[](/hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6) [## 超参数调优不应该是 ML 代码的一部分
-
-### 让凯尔和卡提卜卸下重担。
-
-towardsdatascience.com](/hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6) 
+</hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6>  
 
 # 结论
 

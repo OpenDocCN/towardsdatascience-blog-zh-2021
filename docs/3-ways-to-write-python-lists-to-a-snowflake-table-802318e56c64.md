@@ -42,11 +42,7 @@
 
 *在开始编写代码之前，让我们简要描述一下您在日常工作中可能会遇到的一个实际用例。*
 
-*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [## 3 门数据工程课程，在 2022 年推进您的职业发展
-
-### 加入数据行业，改变角色或通过注册数据工程简单地学习前沿技术…
-
-towardsdatascience.com](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) 
+*</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 # 插入、更新或删除数据
 
@@ -136,11 +132,7 @@ SELECT * FROM SCHEMA.SOURCE_T
 
 **CONS:** 另一方面，方法背后的算法在转换和存储记录时不如`write_pandas()`函数高效。在插入到`source_t`表之前，数据没有被压缩和保存到 Parquet 文件中，这意味着并行性不能被应用，并且在处理大批量数据时对内存的影响可能是相关的。
 
-[](/how-to-connect-to-a-postgresql-database-with-python-using-ssh-tunnelling-d803282f71e7) [## 如何使用 SSH 隧道通过 Python 连接到 PostgreSQL 数据库
-
-### 了解当需要 SSH 加密时，如何使用 Psycopg2 或 SQLAlchemy 查询 PostgreSQL 数据库
-
-towardsdatascience.com](/how-to-connect-to-a-postgresql-database-with-python-using-ssh-tunnelling-d803282f71e7) 
+</how-to-connect-to-a-postgresql-database-with-python-using-ssh-tunnelling-d803282f71e7>  
 
 # 结论
 

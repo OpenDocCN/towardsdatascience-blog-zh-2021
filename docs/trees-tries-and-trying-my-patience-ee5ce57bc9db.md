@@ -60,11 +60,7 @@ AVL 树以发明家阿德尔森-维尔斯基和兰迪斯的名字命名，是一
 
 点击此处了解更多信息:
 
-[](http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html) [## AVL 树
-
-### 如果没有特别的预防措施，二分搜索法树会变得任意不平衡，导致 O(N)最坏情况时间…
-
-pages.cs.wisc.edu](http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html) 
+<http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html>  
 
 通过使树平衡，它将时间复杂度改变为 O(logn ),因为你将工作/搜索分成了每一步。从而使其成为最快的数据结构之一。
 
@@ -106,40 +102,4 @@ Github 上的 [robotgyal](http://github.com/robotgyal) 的 Trie 节点
 
 # 资源
 
-[](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm) [## 数据结构和算法-树
-
-### 树表示由边连接的节点。我们将具体讨论二叉树或二叉查找树。二进制…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm) [](https://www.educative.io/edpresso/what-is-a-binary-tree) [## 什么是二叉树？
-
-### 什么是二叉树？
-
-什么是二叉树？www.educative.io](https://www.educative.io/edpresso/what-is-a-binary-tree) [](https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/#:~:text=Therefore%2C%20searching%20in%20binary%20search,h%20is%20height%20of%20BST) [## 二叉树、二叉查找树和 AVL 树中不同运算的复杂性
-
-### 在本文中，我们将讨论二叉树中不同操作的复杂性，包括 BST 和 AVL 树。之前…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/#:~:text=Therefore%2C%20searching%20in%20binary%20search,h%20is%20height%20of%20BST) [](http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html) [## AVL 树
-
-### 如果没有特别的预防措施，二分搜索法树会变得任意不平衡，导致 O(N)最坏情况时间…
-
-pages.cs.wisc.edu](http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html) [](https://ieeexplore.ieee.org/document/938073) [## 前缀树:匹配不同长度字符串的新型高效数据结构
-
-### 前缀匹配是一些应用程序的重要组成部分。前缀匹配的一个众所周知的应用是第 3 层和…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/938073) [](https://www.baeldung.com/cs/tries-prefix-trees) [## 计算机科学上的尝试或前缀树
-
-### 在本教程中，我们将讨论 trie 数据结构，也称为前缀树。我们将简单介绍一下基础知识…
-
-www.baeldung.com](https://www.baeldung.com/cs/tries-prefix-trees) [](https://en.wikipedia.org/wiki/Trie) [## 特里
-
-### 在计算机科学中，trie 树，也称为数字树或前缀树，是一种搜索树，一种树形数据结构…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Trie) [](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/) [## Trie(关键字树)教程和笔记|数据结构|黑客地球
-
-### 字符串本质上可以被视为各种编程问题中最重要和最常见的主题。字符串…
-
-www.hackerearth.com](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/) [](https://www.toptal.com/java/the-trie-a-neglected-data-structure) [## Trie 数据结构:一颗被忽视的宝石
-
-### 从我们作为程序员的第一天起，我们都处理过数据结构:数组、链表…
-
-www.toptal.com](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
+<https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm>  <https://www.educative.io/edpresso/what-is-a-binary-tree>  <https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/#:~:text=Therefore%2C%20searching%20in%20binary%20search,h%20is%20height%20of%20BST>  <http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html>  <https://ieeexplore.ieee.org/document/938073>  <https://www.baeldung.com/cs/tries-prefix-trees>  <https://en.wikipedia.org/wiki/Trie>  <https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/>  <https://www.toptal.com/java/the-trie-a-neglected-data-structure> 

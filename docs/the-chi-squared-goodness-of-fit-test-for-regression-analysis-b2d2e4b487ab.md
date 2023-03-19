@@ -426,18 +426,6 @@ chi_squared_p_value = stats.**chi2**.**sf**(**x**=chi_squared_value, **df**=redu
 
 # *相关文章*
 
-*[](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [](/negative-binomial-regression-f99031bb25b4) [## 负二项式回归:逐步指南
-
-### 外加一个关于负二项式回归的 Python 教程
-
-towardsdatascience.com](/negative-binomial-regression-f99031bb25b4) [](/generalized-poisson-regression-for-real-world-datasets-d1ff32607d79) [## 真实世界数据集的广义泊松回归
-
-### 以及用 Python 进行广义泊松回归的分步指南
-
-towardsdatascience.com](/generalized-poisson-regression-for-real-world-datasets-d1ff32607d79) 
+*</an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  </negative-binomial-regression-f99031bb25b4>  </generalized-poisson-regression-for-real-world-datasets-d1ff32607d79>  
 
 *感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的技巧、操作方法和编程建议。**

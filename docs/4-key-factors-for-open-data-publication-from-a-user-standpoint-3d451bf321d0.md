@@ -89,4 +89,4 @@
 *   [**Data4COVID19**](https://data4covid19.org/) 。这是由 GovLab 承担的一系列项目，其中一个是数据协作存储库。在存储库中，您可以找到三种类型的信息:(1)正在进行的数据协作项目，(2)数据竞争、挑战和提案征集，以及(3)对数据和专业知识的请求。所有这些都是通过 google sheet open for edit 完成的，这在技术上并不难，但却产生了巨大的影响。
 *   **Data.govt.nz.** 这是一个由新西兰政府支持的一站式开放数据网站。在这里你几乎可以找到你想要的任何东西，数据集，发布数据的框架和指南，社区和团体，等等。
 
-*感谢您的阅读！这是#Data for Social Impact 系列博客的最后一篇文章。在* [*第一篇博客*](/what-open-data-can-tell-you-about-covid-19-in-southeast-asia-besides-number-of-cases-6bea0d3d51d) *中，我详细介绍了我们针对东南亚新冠肺炎疫情的数据可视化和分析项目。在第二篇博客*[](/my-story-as-an-online-united-nations-volunteer-on-covid-19-data-projects-17a5d159980a)**中，我分享了我作为新冠肺炎数据项目在线联合国志愿者的故事，以及我对如何在公共部门更好地利用开放数据和众包的思考。在第三篇博客中，我从用户的角度讨论了好的开放数据应该是什么样的。我真诚地希望这一系列博客能有所帮助！**
+*感谢您的阅读！这是#Data for Social Impact 系列博客的最后一篇文章。在* [*第一篇博客*](/what-open-data-can-tell-you-about-covid-19-in-southeast-asia-besides-number-of-cases-6bea0d3d51d) *中，我详细介绍了我们针对东南亚新冠肺炎疫情的数据可视化和分析项目。在第二篇博客*</my-story-as-an-online-united-nations-volunteer-on-covid-19-data-projects-17a5d159980a>**中，我分享了我作为新冠肺炎数据项目在线联合国志愿者的故事，以及我对如何在公共部门更好地利用开放数据和众包的思考。在第三篇博客中，我从用户的角度讨论了好的开放数据应该是什么样的。我真诚地希望这一系列博客能有所帮助！**

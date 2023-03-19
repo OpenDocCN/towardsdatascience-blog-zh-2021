@@ -179,12 +179,4 @@ conv_model.summary()
 
 从这篇文章中，我们使用神经网络对手写数字进行分类，并使用 PCA 对数据进行预处理。有关五氯苯甲醚及其用途的更多信息，请参见以下有用的文章。感谢您的阅读，所有代码都在我的 [Github](https://github.com/mkosaka1/MNIST_PCA_CNN) 上！:)
 
-[](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa) [## 带 Python 示例的主成分分析(PCA)——教程
-
-### 关于主成分分析(PCA)的深入教程，包含数学和 Python 编码示例
-
-medium.com](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa) [](https://medium.com/analytics-vidhya/a-deep-dive-into-principal-component-analysis-pca-4e8a6d5a6386) [## 深入探究主成分分析(PCA)
-
-### 理解 PCA 背后的数学和统计
-
-medium.com](https://medium.com/analytics-vidhya/a-deep-dive-into-principal-component-analysis-pca-4e8a6d5a6386)
+<https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa>  <https://medium.com/analytics-vidhya/a-deep-dive-into-principal-component-analysis-pca-4e8a6d5a6386> 

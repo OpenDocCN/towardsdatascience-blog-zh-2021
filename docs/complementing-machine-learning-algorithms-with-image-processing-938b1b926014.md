@@ -79,7 +79,7 @@ no_holes = remove_small_holes(im, area_threshold=64)
 
 scikit-image 中提供了不同的形态学操作。骨架化和移除小孔不需要结构元素，但是它们需要阈值规范。
 
-*   [](https://en.wikipedia.org/wiki/Blob_detection)****斑点检测。**在图像处理中，斑点被定义为图像中的**亮暗**或**暗亮**区域。检测到的斑点通常发信号通知图像中的对象或对象的部分，这有助于对象识别和/或对象跟踪。三种最常见的斑点检测算法是高斯拉普拉斯算法、高斯差分算法和 Hessian 行列式算法。所有这些都是基于函数对位置的导数。**
+*   <https://en.wikipedia.org/wiki/Blob_detection>****斑点检测。**在图像处理中，斑点被定义为图像中的**亮暗**或**暗亮**区域。检测到的斑点通常发信号通知图像中的对象或对象的部分，这有助于对象识别和/或对象跟踪。三种最常见的斑点检测算法是高斯拉普拉斯算法、高斯差分算法和 Hessian 行列式算法。所有这些都是基于函数对位置的导数。**
 
 ```
 from skimage.data import hubble_deep_field

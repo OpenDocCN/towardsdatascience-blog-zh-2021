@@ -192,20 +192,4 @@ Spark SQL 内置日期函数对用户和性能都很友好。Spark SQL 支持 Ap
 
 更多阅读:
 
-[](/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) [## 数据可视化的降维:主成分分析与 TSNE、UMAP 和线性判别分析
-
-### 使用 PCA、TSNE、LDA 和 UMAP 可视化高维数据集
-
-towardsdatascience.com](/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) [](/statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168) [## 统计测试:了解如何为您的数据选择最佳测试！
-
-### 这篇文章面向有抱负的数据科学家和机器学习(ML)学习者和实践者。
-
-towardsdatascience.com](/statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168) [](/creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559) [## 如何在 Python 中为您的数据分析创建漂亮的 GIF
-
-### 几行代码中的交互性和动画
-
-towardsdatascience.com](/creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559) [](/most-common-data-modelling-interview-questions-4055adf79229) [## 每个人都应该知道的最常见的数据建模面试问题
-
-### 了解 SQL、NoSQL、关系数据库等的基础知识…
-
-towardsdatascience.com](/most-common-data-modelling-interview-questions-4055adf79229)
+</dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29>  </statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168>  </creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559>  </most-common-data-modelling-interview-questions-4055adf79229> 

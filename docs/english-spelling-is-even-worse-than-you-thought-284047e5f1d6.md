@@ -53,11 +53,7 @@
 
 *国际语音词典(ISLE)的一部分|作者截图*
 
-*[](https://github.com/ethanr-2000/bad-spelling-generator) [## Ethan r-2000/拼写错误生成器
-
-### 错误拼写生成器在保持发音不变的情况下重新拼写文本。请访问 badspellinggenerator.com 观看现场直播…
-
-github.com](https://github.com/ethanr-2000/bad-spelling-generator) 
+*<https://github.com/ethanr-2000/bad-spelling-generator>  
 
 作为开发[错误拼写生成器](http://badspellinggenerator.com/)的一部分，我想出了一种将拼写和发音分解成音节的方法——在书面文本和语音之间提供一致的链接。
 
@@ -244,16 +240,8 @@ github.com](https://github.com/ethanr-2000/bad-spelling-generator)
 
 ***如果你想看到这种现象的发生，可以看看 Bad Spelling Generator，它通过替换其他单词中发音相同的音节来重新拼写单词。结果可能是荒谬的。***
 
-***[](http://badspellinggenerator.com/) [## 拼写错误生成器
-
-### 糟糕的拼写生成器是一个工具，自动改变一个单词的拼写与发音的目标…
-
-badspellinggenerator.com](http://badspellinggenerator.com/) 
+***<http://badspellinggenerator.com/>  
 
 如果你喜欢这篇文章，可以考虑关注我，看看我的其他作品，比如这个关于从推文中提取情感的项目。
 
-[](/tracking-dysons-public-image-using-46-166-tweets-68af509923a6) [## 使用 46，166 条推文追踪戴森的公众形象
-
-### Google 自然语言 API 和 BigQuery 的一课
-
-towardsdatascience.com](/tracking-dysons-public-image-using-46-166-tweets-68af509923a6)***
+</tracking-dysons-public-image-using-46-166-tweets-68af509923a6> ***

@@ -12,55 +12,15 @@
 
 # 资源
 
- [## Kaggle:你的机器学习和数据科学社区
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-kaggle.com](https://kaggle.com) 
+  
 
 我在这个项目中使用的 Kaggle 笔记本位于:
 
-[](https://www.kaggle.com/thirdeyecyborg/simplesvcdigitrecognizer) [## 简单数字认知器
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自数字识别器的数据
-
-www.kaggle.com](https://www.kaggle.com/thirdeyecyborg/simplesvcdigitrecognizer) 
+<https://www.kaggle.com/thirdeyecyborg/simplesvcdigitrecognizer>  
 
 我建议您先看看我写的一些文章，让您快速掌握 Python 基础知识。
 
-[](https://medium.com/python-in-plain-english/a-brief-history-of-the-python-programming-language-4661fcd48a04) [## Python 编程语言的简史
-
-### Python 编程语言是一种通用的编程语言，它已经在主流编程语言中占有一席之地
-
-medium.com](https://medium.com/python-in-plain-english/a-brief-history-of-the-python-programming-language-4661fcd48a04) [](https://medium.com/python-in-plain-english/python-basic-overview-76907771db60) [## Python 基本概述
-
-### Python 有许多独特的特性，这些特性帮助它成为现在的样子。这些功能包括:
-
-medium.com](https://medium.com/python-in-plain-english/python-basic-overview-76907771db60) [](https://medium.com/python-in-plain-english/python-beginners-reference-guide-3c5349b87b2) [## Python 初学者完全参考指南
-
-### Python 是一种很好的初学者语言，但也适合高级用户。我将深入核心…
-
-medium.com](https://medium.com/python-in-plain-english/python-beginners-reference-guide-3c5349b87b2) [](https://medium.com/analytics-vidhya/the-best-ides-and-text-editors-for-python-872ff1176c92) [## Python 的最佳 ide 和文本编辑器
-
-### 我无法告诉你正确的 IDE(集成开发环境)对任何编程项目有多重要。只是…
-
-medium.com](https://medium.com/analytics-vidhya/the-best-ides-and-text-editors-for-python-872ff1176c92) [](/an-overview-of-the-anaconda-distribution-9479ff1859e6) [## Anaconda 发行版概述
-
-### 科学 Python 发行版将改变你研究数据科学的方式。
-
-towardsdatascience.com](/an-overview-of-the-anaconda-distribution-9479ff1859e6) [](/an-overview-of-the-pep-8-style-guide-5672459c7682) [## PEP 8 风格指南概述
-
-### 让您的 Python 代码具有风格。
-
-towardsdatascience.com](/an-overview-of-the-pep-8-style-guide-5672459c7682) [](/introduction-to-pandas-cc3bc6355155) [## 熊猫简介
-
-### 使用 Pandas API 增强您的 Python 数据科学技能。
-
-towardsdatascience.com](/introduction-to-pandas-cc3bc6355155) [](/getting-started-with-data-science-in-python-92326c171622) [## Python 数据科学入门
-
-### 在 YouTube 趋势数据集上执行简单的 OLS 线性回归。
-
-towardsdatascience.com](/getting-started-with-data-science-in-python-92326c171622) 
+<https://medium.com/python-in-plain-english/a-brief-history-of-the-python-programming-language-4661fcd48a04>  <https://medium.com/python-in-plain-english/python-basic-overview-76907771db60>  <https://medium.com/python-in-plain-english/python-beginners-reference-guide-3c5349b87b2>  <https://medium.com/analytics-vidhya/the-best-ides-and-text-editors-for-python-872ff1176c92>  </an-overview-of-the-anaconda-distribution-9479ff1859e6>  </an-overview-of-the-pep-8-style-guide-5672459c7682>  </introduction-to-pandas-cc3bc6355155>  </getting-started-with-data-science-in-python-92326c171622>  
 
 # 目录
 
@@ -86,35 +46,19 @@ towardsdatascience.com](/getting-started-with-data-science-in-python-92326c17162
 
 Kaggle 是一个庞大的数据科学社区。他们举办比赛，让你有机会参加比赛。他们还提供课程和一个吸引人的社区，在那里你可以在讨论中互动。可以运行 Kaggle 笔记本，甚至可以和[谷歌 Colab 笔记本](https://colab.research.google.com/)整合。他们也有一个工作区，一个博客，等等。请务必在这里查看它们以及如何使用该平台。
 
-[](https://www.kaggle.com/) [## Kaggle:你的机器学习和数据科学社区
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-www.kaggle.com](https://www.kaggle.com/) 
+<https://www.kaggle.com/>  
 
 ## 社区指南
 
- [## Kaggle 社区指南
-
-### 确保 Kaggle 是一个欢迎世界上任何人参与的地方
-
-www.kaggle.com](https://www.kaggle.com/community-guidelines) 
+  
 
 ## 条款
 
- [## 使用条款| Kaggle
-
-### 欢迎来到卡格尔。请继续阅读，了解管理您使用我们的网站、产品的规则和限制…
-
-www.kaggle.com](https://www.kaggle.com/terms) 
+  
 
 ## 隐私
 
- [## 隐私政策| Kaggle
-
-### 本隐私政策旨在帮助您了解我们收集哪些信息，我们为什么收集这些信息，以及您可以如何…
-
-www.kaggle.com](https://www.kaggle.com/privacy) 
+  
 
 ## 机器学习
 
@@ -126,11 +70,7 @@ www.kaggle.com](https://www.kaggle.com/privacy)
 
 我将解释如何参加数字识别竞赛，并提供一个简单的参赛示例。比赛可以在这里找到:
 
-[](https://www.kaggle.com/c/digit-recognizer) [## 数字识别器
-
-### 用著名的 MNIST 数据学习计算机视觉基础
-
-www.kaggle.com](https://www.kaggle.com/c/digit-recognizer) 
+<https://www.kaggle.com/c/digit-recognizer>  
 
 请务必阅读规则，并理解比赛概述的不同部分，以深入了解如何参与并取得适当的结果。
 
@@ -160,27 +100,15 @@ www.kaggle.com](https://www.kaggle.com/c/digit-recognizer)
 
 我将在数字识别器数据集上运行来自`sklearn`模块的简单支持向量机(SVM)模型。我将参考维基百科关于支持向量机的文章来更好地理解它们。
 
-[](https://en.wikipedia.org/wiki/Support_vector_machine) [## 支持向量机
-
-### 在机器学习中，支持向量机(SVMs，也称为支持向量网络)是一种有监督的学习模型
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Support_vector_machine) 
+<https://en.wikipedia.org/wiki/Support_vector_machine>  
 
 我将使用的 SVM 模型是 C-支持向量分类。
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC) [## sk learn . SVM . SVC-sci kit-learn 0 . 23 . 2 文档
-
-### c-支持向量分类。该实现基于 libsvm。拟合时间至少与…成二次比例
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC>  
 
 用户指南位于此处。
 
-[](https://scikit-learn.org/stable/modules/svm.html#svc) [## 1.4.支持向量机-sci kit-学习 0.23.2 文档
-
-### 在高维空间有效。在维数大于…的情况下仍然有效
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/svm.html#svc) 
+<https://scikit-learn.org/stable/modules/svm.html#svc>  
 
 这个模型将成为我战略的支柱。那么，让我们来看看定义该模型的一些关键细节。
 

@@ -60,12 +60,4 @@ RCNN:工作细节。来源:【https://arxiv.org/pdf/1311.2524.pdf[。](https://a
 
 # 相关文章
 
-[](/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e) [## R-CNN，快速 R-CNN，更快 R-CNN，YOLO —目标检测算法
-
-### 了解对象检测算法
-
-towardsdatascience.com](/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e) [](https://medium.com/dataseries/understanding-selective-search-for-object-detection-3f38709067d7) [## 了解用于对象检测的选择性搜索
-
-### 用 Python 实现
-
-medium.com](https://medium.com/dataseries/understanding-selective-search-for-object-detection-3f38709067d7)
+</r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e>  <https://medium.com/dataseries/understanding-selective-search-for-object-detection-3f38709067d7> 

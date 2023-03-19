@@ -10,11 +10,7 @@
 
 **虽然我之前的文章主要关注的是 Java 编程语言中的 Excel & Outlook 数据提取(考虑到前面提到的完全相同的约束):**
 
-[](/extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff) [## 用 Java 从 Excel 和 Outlook 文件中提取数据
-
-### 代码实现+用例&情境约束
-
-towardsdatascience.com](/extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff) 
+</extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff>  
 
 相反，本文旨在展示 [Apache POI](https://poi.apache.org/) 的另一项功能——这是一个操作 Microsoft Office 文档的开源 Java 库。更具体地说，我计划演示它的一个鲜为人知的功能**，即嵌入在 Microsoft Excel 电子表格中的数据表范围的自动调整。**
 
@@ -69,18 +65,10 @@ Image by Author |说明 Excel 中呈现的数据表的示例|请注意，表格�
 
 如果您想要该应用程序的副本，目前可从 [my GitHub](https://github.com/incubated-geek-cc/data-extraction-with-Java) 获得。先前的可运行 JAR 应用程序现在被重命名为**"**[**DataDocUtility _ v1**](https://github.com/incubated-geek-cc/data-extraction-with-Java/blob/main/DataDocUtility_v1.jar)**"**，而本文中引用的 JAR 应用程序被声明为**"**[**DataDocUtility _ v2**](https://github.com/incubated-geek-cc/data-extraction-with-Java/blob/main/DataDocUtility_v2.jar)**"**。只要双击它，Java Swing GUI 就会自动显示出来。*以防您忘记，第一篇文章可从*获得😛：
 
-[](/extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff) [## 用 Java 从 Excel 和 Outlook 文件中提取数据
-
-### 代码实现+用例&情境约束
-
-towardsdatascience.com](/extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff) 
+</extracting-data-from-excel-and-outlook-files-with-java-7979eb64edff>  
 
 **此外，本演示中使用的所有示例** [**数据文件**](https://github.com/incubated-geek-cc/data-extraction-with-Java/tree/main/data) **和** [**输出文件**](https://github.com/incubated-geek-cc/data-extraction-with-Java/tree/main/outputs) **以及** [**源代码**](https://github.com/incubated-geek-cc/data-extraction-with-Java/tree/main/src) **都可以在我的 GitHub 资源库中找到。请随意为您自己的用例分叉/调整代码☺**
 
 **非常感谢您的阅读，如果您发现此内容有用，请在 Medium **上** [关注我。会非常感激的！😃](https://medium.com/@geek-cc)**
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

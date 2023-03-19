@@ -26,11 +26,7 @@
 
 ## 链接:
 
-[](https://github.com/freeCodeCamp/freeCodeCamp) [## GitHub-freeCodeCamp/freeCodeCamp:freeCodeCamp . org 的开源代码库和课程。学习…
-
-### freeCodeCamp.org 是一个友好的社区，在这里你可以免费学习编程。它是由一个捐助者支持的 501(c)(3)…
-
-github.com](https://github.com/freeCodeCamp/freeCodeCamp) 
+<https://github.com/freeCodeCamp/freeCodeCamp>  
 
 # 免费编程书籍
 
@@ -44,11 +40,7 @@ github.com](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## 链接:
 
-[](https://github.com/EbookFoundation/free-programming-books) [## GitHub-ebook foundation/免费编程书籍:免费提供的编程书籍
-
-### 这个网页是作为一个易于阅读的网站在 https://ebookfoundation.github.io/.提供的
-
-github.com](https://github.com/EbookFoundation/free-programming-books) 
+<https://github.com/EbookFoundation/free-programming-books>  
 
 # 编码面试大学
 
@@ -62,11 +54,7 @@ github.com](https://github.com/EbookFoundation/free-programming-books)
 
 ## 链接:
 
-[](https://github.com/jwasham/coding-interview-university) [## GitHub-jwasham/编码-面试-大学:一个完整的计算机科学学习计划成为一个…
-
-### 我最初把它作为成为一名软件工程师的学习主题的一个简短清单，但是它发展到…
-
-github.com](https://github.com/jwasham/coding-interview-university) 
+<https://github.com/jwasham/coding-interview-university>  
 
 # 开发者路线图
 
@@ -80,11 +68,7 @@ github.com](https://github.com/jwasham/coding-interview-university)
 
 ## 链接:
 
-[](https://github.com/kamranahmedse/developer-roadmap) [## GitHub-kamranahmedse/开发者路线图:2021 年成为网络开发者的路线图
-
-### 2021 年成为网络开发者的路线图下面是一组图表，展示了你可以选择的道路…
-
-github.com](https://github.com/kamranahmedse/developer-roadmap) 
+<https://github.com/kamranahmedse/developer-roadmap>  
 
 # 可怕的
 
@@ -96,11 +80,7 @@ github.com](https://github.com/kamranahmedse/developer-roadmap)
 
 ## 链接:
 
-[](https://github.com/sindresorhus/awesome#programming-languages) [## GitHub - sindresorhus/awesome:😎各种有趣话题的精彩列表
-
-### 😎关于各种有趣话题的牛逼列表-GitHub-sindresorhus/牛逼:😎关于所有的精彩列表…
-
-github.com](https://github.com/sindresorhus/awesome#programming-languages) 
+<https://github.com/sindresorhus/awesome#programming-languages>  
 
 # 系统设计入门
 
@@ -112,11 +92,7 @@ github.com](https://github.com/sindresorhus/awesome#programming-languages)
 
 ## 链接:
 
-[](https://github.com/donnemartin/system-design-primer) [## GitHub-donne Martin/system-design-primer:学习如何设计大型系统。准备…
-
-### 学习如何设计大型系统。准备系统设计面试。学习如何设计可扩展的系统…
-
-github.com](https://github.com/donnemartin/system-design-primer) 
+<https://github.com/donnemartin/system-design-primer>  
 
 # 哦，我的 Zsh
 
@@ -128,11 +104,7 @@ Z Shell (Zsh)是 Bourne shell (UNIX)的一个流行扩展，提供了对其他�
 
 ## 链接:
 
-[](https://github.com/ohmyzsh/ohmyzsh) [## GitHub - ohmyzsh/ohmyzsh:🙃一个令人愉快的社区驱动的(有 1900 多个贡献者)框架…
-
-### 🙃一个令人愉快的社区驱动的(有 1900 多个贡献者)框架，用于管理您的 zsh 配置。包括 300+…
-
-github.com](https://github.com/ohmyzsh/ohmyzsh) 
+<https://github.com/ohmyzsh/ohmyzsh>  
 
 # Git 忽略
 
@@ -144,11 +116,7 @@ Git 几乎是现代软件开发中事实上的版本控制系统。如果您使�
 
 ## 链接:
 
-[](https://github.com/github/gitignore) [## GitHub - github/gitignore:有用的集合。gitignore 模板
-
-### 这是 GitHub 的文件模板集合。我们使用这个列表来填充。gitignore 模板选择可用…
-
-github.com](https://github.com/github/gitignore) 
+<https://github.com/github/gitignore>  
 
 # 建立你自己的 X
 
@@ -160,11 +128,7 @@ github.com](https://github.com/github/gitignore)
 
 ## 链接:
 
-[](https://github.com/danistefanovic/build-your-own-x) [## GitHub-danistefanovic/build-your-own-x:🤓构建您自己的(在此插入技术)
-
-### 🤓构建您自己的(在此插入技术)。为 danistefanovic/build-your-own-x 开发做贡献，创建一个…
-
-github.com](https://github.com/danistefanovic/build-your-own-x) 
+<https://github.com/danistefanovic/build-your-own-x>  
 
 # 命令行的艺术
 
@@ -176,11 +140,7 @@ github.com](https://github.com/danistefanovic/build-your-own-x)
 
 ## 链接:
 
-[](https://github.com/jlevy/the-art-of-command-line) [## GitHub-jlevy/the-art-of-command-line:在一页中掌握命令行
-
-### 在一页中掌握命令行。通过创建一个关于…的帐户，为 jlevy/最先进的命令行开发做出贡献
-
-github.com](https://github.com/jlevy/the-art-of-command-line) 
+<https://github.com/jlevy/the-art-of-command-line>  
 
 # 计算机科学
 
@@ -194,11 +154,7 @@ github.com](https://github.com/jlevy/the-art-of-command-line)
 
 ## 链接:
 
-[](https://github.com/ossu/computer-science) [## GitHub - ossu/computer-science:计算机科学免费自学教育之路！
-
-### 通往计算机科学的免费自学教育之路！OSSU 课程是一个完整的计算机教育…
-
-github.com](https://github.com/ossu/computer-science) 
+<https://github.com/ossu/computer-science>  
 
 # 字体真棒
 
@@ -210,11 +166,7 @@ github.com](https://github.com/ossu/computer-science)
 
 ## 链接:
 
-[](https://github.com/FortAwesome/Font-Awesome) [## GitHub-FortAwesome/Font-Awesome:标志性的 SVG、字体和 CSS 工具包
-
-### 版本 5 -标志性的 SVG，字体和 CSS 框架互联网上最流行的图标工具包已被重新设计和…
-
-github.com](https://github.com/FortAwesome/Font-Awesome) 
+<https://github.com/FortAwesome/Font-Awesome>  
 
 # 故事书
 
@@ -228,11 +180,7 @@ github.com](https://github.com/FortAwesome/Font-Awesome)
 
 ## 链接:
 
-[](https://github.com/storybookjs/storybook) [## GitHub - storybookjs/storybook:📓UI 组件资源管理器。开发、记录和测试反应、Vue…
-
-### 📓UI 组件资源管理器。开发、记录和测试 React、Vue、Angular、Web Components、Ember、Svelte 等等！…
-
-github.com](https://github.com/storybookjs/storybook) 
+<https://github.com/storybookjs/storybook>  
 
 # 真实世界
 
@@ -244,11 +192,7 @@ github.com](https://github.com/storybookjs/storybook)
 
 ## 链接:
 
-[](https://github.com/gothinkster/realworld) [## GitHub - gothinkster/realworld:“所有演示应用之母”——示范性 fullstack Medium.com…
-
-### “所有演示应用之母”——由 React、Angular、Node、Django 和许多其他应用提供支持的示范性全栈 Medium.com 克隆
-
-github.com](https://github.com/gothinkster/realworld) 
+<https://github.com/gothinkster/realworld>  
 
 # 技术面试手册
 
@@ -260,11 +204,7 @@ github.com](https://github.com/gothinkster/realworld)
 
 ## 链接:
 
-[](https://github.com/yangshun/tech-interview-handbook) [## GitHub -阳顺/科技-采访-手册:💯为忙碌的…
-
-### 💯为忙碌的工程师策划面试准备材料-GitHub-yang shun/tech-interview-handbook:💯策划…
-
-github.com](https://github.com/yangshun/tech-interview-handbook) 
+<https://github.com/yangshun/tech-interview-handbook>  
 
 # JSON 服务器
 
@@ -278,11 +218,7 @@ JSON Server 是一个非常方便的项目，它明确地解决了这个问题�
 
 ## 链接:
 
-[](https://github.com/typicode/json-server) [## GitHub - typicode/json-server:在不到 30 秒的时间内获得零编码的全假 REST API
-
-### 用 public/index.html 在不到 30 秒的时间内(说真的)获得一个零编码的完整假 REST API
-
-github.com](https://github.com/typicode/json-server) 
+<https://github.com/typicode/json-server>  
 
 # 秘密知识之书
 
@@ -294,11 +230,7 @@ github.com](https://github.com/typicode/json-server)
 
 ## 链接:
 
-[](https://github.com/trimstray/the-book-of-secret-knowledge) [## GitHub-trimstray/the-book-of-secret-knowledge:一系列鼓舞人心的清单、手册…
-
-### “知识是强大的，小心你如何使用它！”一系列鼓舞人心的清单、手册、备忘单、博客…
-
-github.com](https://github.com/trimstray/the-book-of-secret-knowledge) 
+<https://github.com/trimstray/the-book-of-secret-knowledge>  
 
 # 开发人员免费
 
@@ -310,11 +242,7 @@ github.com](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## 链接:
 
-[](https://github.com/ripienaar/free-for-dev) [## GitHub-ripienaar/free-for-dev:SaaS、PaaS 和 IaaS 产品的列表，这些产品有免费的…
-
-### devops 和 infradev - GitHub 感兴趣的免费层级的 SaaS、PaaS 和 IaaS 产品列表…
-
-github.com](https://github.com/ripienaar/free-for-dev) 
+<https://github.com/ripienaar/free-for-dev>  
 
 # 每个程序员都应该知道
 
@@ -326,11 +254,7 @@ github.com](https://github.com/ripienaar/free-for-dev)
 
 ## 链接:
 
-[](https://github.com/mtdvio/every-programmer-should-know) [## GitHub-MTD VIO/every-programmer-should-know:一个(大部分)技术性的东西的集合，每个…
-
-### 每个软件开发人员都应该知道的(大部分)技术知识的集合- GitHub …
-
-github.com](https://github.com/mtdvio/every-programmer-should-know) 
+<https://github.com/mtdvio/every-programmer-should-know>  
 
 # 程序员应该访问的最佳网站
 
@@ -344,28 +268,8 @@ github.com](https://github.com/mtdvio/every-programmer-should-know)
 
 ## 链接:
 
-[](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) [## GitHub-sdmg 15/Best-websites-a-programmer-should-visit:一些对程序员有用的网站。
-
-### 链接:一些对程序员有用的网站。通过以下方式为 sdmg 15/程序员应该访问的最佳网站开发做出贡献…
-
-github.com](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) [](https://md-kamaruzzaman.medium.com/subscribe) [## 每当 Md Kamaruzzaman 发布时，收到一封电子邮件。
-
-### 每当 Md Kamaruzzaman 发布时，收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-md-kamaruzzaman.medium.com](https://md-kamaruzzaman.medium.com/subscribe) 
+<https://github.com/sdmg15/Best-websites-a-programmer-should-visit>  <https://md-kamaruzzaman.medium.com/subscribe>  
 
 # 类似文章:
 
-[](/10-excellent-github-repositories-for-every-java-developer-41084a91ade9) [## 10 个优秀的 GitHub 库，适合每一个 Java 开发者
-
-### 面向 Java 开发人员的基本 GitHub 库的精选列表
-
-towardsdatascience.com](/10-excellent-github-repositories-for-every-java-developer-41084a91ade9) [](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [## 关于 2021 年软件发展趋势的 21 个预测
-
-### 云、边缘、容器、量子、区块链、AI、深度学习、批处理、流媒体、数据库、编程、软件……
-
-towardsdatascience.com](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be)
+</10-excellent-github-repositories-for-every-java-developer-41084a91ade9>  </microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41>  </21-predictions-about-the-software-development-trends-in-2021-600bfa048be> 

@@ -246,8 +246,4 @@ Name: label, dtype: float64
 
 完整的源代码可以在这里找到:
 
-[](https://github.com/grahamharrison68/Public-Github/tree/master/Decision%20Trees) [## grahamharrison68/Public-Github
-
-### GH 公共项目库。通过在…上创建帐户，为 grahamharrison68/Public-Github 开发做出贡献
-
-github.com](https://github.com/grahamharrison68/Public-Github/tree/master/Decision%20Trees)
+<https://github.com/grahamharrison68/Public-Github/tree/master/Decision%20Trees> 

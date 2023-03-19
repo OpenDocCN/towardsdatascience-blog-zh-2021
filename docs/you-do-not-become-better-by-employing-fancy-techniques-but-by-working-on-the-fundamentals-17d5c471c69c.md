@@ -127,8 +127,4 @@ Alexey: 外面有那么多我喜欢的书！
 
 👉**阅读本系列的其他访谈:**
 
-[](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29) [## 不要只是做笔记——把它们变成文章并与他人分享
-
-### 《机器学习图书营》一书的作者阿列克谢·格里戈里耶夫的采访。
-
-towardsdatascience.com](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29)
+</dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29> 

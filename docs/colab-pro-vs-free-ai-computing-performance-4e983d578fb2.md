@@ -76,10 +76,6 @@ Colab 在免费版本中支持 K80，但有一段时间没有看到它，所以�
 
 如果你在寻找更多免费的 GPU 资源，我想介绍一下 **AIbro** ，一个无服务器的模型训练工具，我和我的朋友们目前正在开发。它可以帮助你用一行代码在 AWS 上训练 AI 模型。为了收集更多早期用户的反馈，我们现在为您提供免费的**p 3.8x large(4x V100)版本。更多细节，你可能想看看我以前的故事:**
 
-**[](/train-neural-network-on-cloud-with-one-line-of-code-8ae2e378bc98) [## 用一行代码在云上训练神经网络
-
-### 你可能见过的最简单的无服务器模型训练工具
-
-towardsdatascience.com](/train-neural-network-on-cloud-with-one-line-of-code-8ae2e378bc98) ![](img/8b0a2de8c2a76d6caa6e735f9d83f9ca.png)
+**</train-neural-network-on-cloud-with-one-line-of-code-8ae2e378bc98>  ![](img/8b0a2de8c2a76d6caa6e735f9d83f9ca.png)
 
 AIpaca Inc .图片作者**

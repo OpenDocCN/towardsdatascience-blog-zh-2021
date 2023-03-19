@@ -20,11 +20,7 @@
 
 “在最基本的层面上，聊天机器人是一种模拟和处理人类对话(无论是书面还是口头)的计算机程序，允许人类与数字设备进行交互，就像他们与真人进行交流一样”**来源** : [甲骨文](https://www.oracle.com/uk/chatbots/what-is-a-chatbot/)。
 
-[](/a-primer-on-conversational-ai-d20c7a4b2a87) [## 对话式人工智能入门
-
-### 了解对话式人工智能及其如何帮助人类
-
-towardsdatascience.com](/a-primer-on-conversational-ai-d20c7a4b2a87) 
+</a-primer-on-conversational-ai-d20c7a4b2a87>  
 
 ## 目标导向&闲聊
 
@@ -62,11 +58,7 @@ FAQ 对话代理具有一组固定的响应，它们可以在确定用户发送�
 
 在我题为 [*的文章中，我用深度学习*](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) 用 Python 构建了一个非常简单的聊天机器人。请务必查看它，以了解关于这种类型的对话代理的更多信息。
 
-[](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) [## 一个简单的深度学习的 Python 聊天机器人
-
-### 如何建立自己的朋友
-
-towardsdatascience.com](/a-simple-chatbot-in-python-with-deep-learning-3e8669997758) 
+</a-simple-chatbot-in-python-with-deep-learning-3e8669997758>  
 
 ## 包裹
 
@@ -78,16 +70,4 @@ towardsdatascience.com](/a-simple-chatbot-in-python-with-deep-learning-3e8669997
 
 ## **相关文章**
 
-**[](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
-
-### 为什么你仍然应该学习启发式和基于规则的方法
-
-towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7) [## 提示和技巧:为 NLP 任务增加数据
-
-### 扩大 NLP 数据集的方法
-
-towardsdatascience.com](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7)**
+**</4-data-related-books-ill-be-reading-in-april-efd06b367e35>  </deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359>  </tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7> **

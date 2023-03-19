@@ -28,11 +28,7 @@
 
 > 阅读下面提到的文章，了解分类特征的几种特征编码策略:
 
-[](https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4) [## 停止一次性编码你的分类特征——避免维数灾难
-
-### 用许多级别/类别对分类特征进行编码的技术
-
-medium.com](https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4) 
+<https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4>  
 
 基于时间的特征，如`**day of month**`、`**day of week**`、`**day of year**`等，具有周期性，并且具有许多特征值。一键编码`**day of month**`特征产生 30 维向量，`**day of year**` 产生 366 维向量。一次性编码这些特征并不是一个好的选择，因为这可能会导致维数灾难。
 
@@ -72,15 +68,7 @@ medium.com](https://medium.com/swlh/stop-one-hot-encoding-your-categorical-featu
 
 > 阅读我以前的一篇关于特征编码的文章:
 
-[](/stop-using-pandas-get-dummies-for-feature-encoding-5d2cd07cb4fc) [## 停止使用 Pandas get_dummies()进行特征编码
-
-### 熊猫 get_dummies()和 Sklearn One-hot 编码器基本指南
-
-towardsdatascience.com](/stop-using-pandas-get-dummies-for-feature-encoding-5d2cd07cb4fc) [](https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4) [## 停止一次性编码你的分类特征——避免维数灾难
-
-### 用许多级别/类别对分类特征进行编码的技术
-
-medium.com](https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4) 
+</stop-using-pandas-get-dummies-for-feature-encoding-5d2cd07cb4fc>  <https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4>  
 
 # 参考资料:
 

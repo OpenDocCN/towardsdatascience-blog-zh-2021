@@ -129,16 +129,4 @@ ASAP 获得的更高精度如何转化为实验时间？考虑一个目标精度
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/bayesian-optimization-or-how-i-carved-boats-from-wood-examples-and-code-78b9c79b31e5) [## 贝叶斯优化的超参数调整或者我如何用木头雕刻船
-
-### 超参数调整通常是不可避免的。对于一个参数，网格搜索可能就足够了，但如何处理…
-
-towardsdatascience.com](/bayesian-optimization-or-how-i-carved-boats-from-wood-examples-and-code-78b9c79b31e5) [](/dataset-fusion-sushi-age-and-image-quality-and-what-the-hell-do-they-have-in-common-814e8dae7cf7) [## 面向大规模偏好聚合的数据集融合
-
-### 融合评分和排序数据集的高效简单的概率框架。示例和代码。
-
-towardsdatascience.com](/dataset-fusion-sushi-age-and-image-quality-and-what-the-hell-do-they-have-in-common-814e8dae7cf7) [](/can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc) [## 你能做得更好吗？抽样策略，重点是吉布斯抽样，实践和代码
-
-### 提供了通用采样策略的概述，重点是 Gibbs 采样、示例和 python 代码。
-
-towardsdatascience.com](/can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc)
+</bayesian-optimization-or-how-i-carved-boats-from-wood-examples-and-code-78b9c79b31e5>  </dataset-fusion-sushi-age-and-image-quality-and-what-the-hell-do-they-have-in-common-814e8dae7cf7>  </can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc> 

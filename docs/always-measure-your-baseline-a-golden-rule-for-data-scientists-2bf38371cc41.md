@@ -14,11 +14,7 @@
 
 众所周知，大部分数据科学项目都会失败。这通常归因于工作模型从未投入生产，以及围绕 MLOPs 和机器学习工程的困难。在我继续之前，如果你想要一个超级简单的指南来完成端到端的过程，我不久前写了一篇关于这个的文章，介绍了一些基本知识。你可以在这里查看:
 
-[](/docker-for-data-scientists-part-2-7655c02fe975) [## 数据科学家的 Docker 第 2 部分
-
-### 开发机器学习模型、编写 API、打包到 Docker 中、在任何地方运行、分享的完整指南…
-
-towardsdatascience.com](/docker-for-data-scientists-part-2-7655c02fe975) 
+</docker-for-data-scientists-part-2-7655c02fe975>  
 
 这不会让你很快得到一份 MLE 的工作，但是如果你刚刚开始，这真的可以增强你的自信，让一些步骤不再神秘。
 

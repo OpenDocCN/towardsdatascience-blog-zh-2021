@@ -34,11 +34,7 @@
 
 我已经在本文中介绍了这个 API 以及如何调用它:
 
-[](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) [## 通过非常简单的 web 编程获得历史和实时加密数据
-
-### 在学习加密货币的过程中，我迫切需要数据来操纵我自己去做我自己的阴谋和…
-
-towardsdatascience.com](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) 
+</obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630>  
 
 我们在这里调用 API 两次。第一次获取过去 6 小时的历史数据( *getBtcDataHistoryMinute* ):
 

@@ -12,7 +12,7 @@
 斯蒂芬妮·勒布朗在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
 *   [**在激动人心的增强世界**](/the-augmentation-engineers-1ac2a676710a) 中了解最新情况。如果你本周只打算阅读一篇专注于深度学习的博客文章，你不妨去看看[乔纳森](https://medium.com/u/56d1c8006910?source=post_page-----66ee8e77de20--------------------------------) Laserson 关于测试时间增加、对比损失以及我们如何最终到达自我监督学习成为现实的时刻的精彩解释。
-*   [](/propensity-score-stratification-in-observational-data-a-tutorial-ef21321eb586)**搞清楚倾向评分分层的意义。最近几周，叶雷华发表了一系列信息丰富的帖子，重点关注从大量数据中推断因果关系的挑战。在最新的一期中， [Leihua](https://medium.com/u/4e1d06dd743?source=post_page-----66ee8e77de20--------------------------------) 转向倾向分数，并分享了利用分层方法所需的理论背景和实践细节。**
+*   </propensity-score-stratification-in-observational-data-a-tutorial-ef21321eb586>**搞清楚倾向评分分层的意义。最近几周，叶雷华发表了一系列信息丰富的帖子，重点关注从大量数据中推断因果关系的挑战。在最新的一期中， [Leihua](https://medium.com/u/4e1d06dd743?source=post_page-----66ee8e77de20--------------------------------) 转向倾向分数，并分享了利用分层方法所需的理论背景和实践细节。**
 *   **[**找出你正在做的异常检测是否正确**](/anomaly-detection-how-to-tell-good-performance-from-bad-b57116d71a10) 。Julia Bohutska 说[商业智能并不缺少产品和解决方案，但是通常很难评估性能和量化工具对业务的潜在影响。她继续解释她的团队如何基于业务数据建立评估管道，以衡量他们在异常检测方面的成功。](https://medium.com/u/4a4f56777eb7?source=post_page-----66ee8e77de20--------------------------------)**
 *   **[**【探索重要性加权回归的力量】(IWR)**](/from-prediction-to-action-how-to-learn-optimal-policies-from-data-4-4-14c63cc0c938) *。罗摩 183；罗摩克里希南关于从数据中得出最佳政策的系列文章现在已经完成；在这最后一篇文章中，Rama 转向一个三步流程，该流程将允许您使用一个模型做出明智的商业决策，该模型直接预测不同行动之间的结果差异。***
 

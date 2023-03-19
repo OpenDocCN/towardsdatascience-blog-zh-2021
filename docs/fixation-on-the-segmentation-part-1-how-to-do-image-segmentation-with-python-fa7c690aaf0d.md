@@ -121,8 +121,4 @@ imshow(cube_masked)
 
 对我的工作感兴趣？你可以在我的个人资料中看到更多的故事
 
-[](https://nico-aguila.medium.com/) [## 尼科·阿吉拉-中等
-
-### 我在 2020 年 11 月上了第一堂图像处理课，希望能学到很多关于如何理解…
-
-nico-aguila.medium.com](https://nico-aguila.medium.com/)
+<https://nico-aguila.medium.com/> 

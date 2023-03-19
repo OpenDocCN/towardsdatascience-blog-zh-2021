@@ -241,11 +241,7 @@ print(classification_report(y_test,y_pred_svc))
 
 此外，我们看到上面的准确度分数在 70-80 之间，我们如何提高这个准确度分数？我们可以用合奏法！集成方法是创建多个模型并组合它们以产生改进结果的技术。与单一模型相比，集成方法通常表现更好。有不同类型的集合方法可以被利用，关于集合方法的更多信息请参见这篇文章。
 
-[](/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205) [## 整体方法:装袋、助推和堆叠
-
-### 理解集成学习的关键概念。
-
-towardsdatascience.com](/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205) 
+</ensemble-methods-bagging-boosting-and-stacking-c9214a10a205>  
 
 对于当前的项目，我使用了一个堆叠 cv 分类器，它通过一个元分类器组合了多个分类模型，并使用交叉验证来为二级分类器准备输入数据。对于分类器，我检查了每个模型的准确度分数:
 

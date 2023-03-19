@@ -328,8 +328,4 @@ ggplot(data=subset(gapminder, year==2007), aes(x=continent))+ geom_bar() +coord_
 
 散点图、折线图、箱线图、直方图、密度图和条形图，每个的用途，以及相关的几何对象命令(图片由作者提供)
 
-[](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)
+<https://ahmarshah.medium.com/membership> 

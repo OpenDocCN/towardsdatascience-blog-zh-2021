@@ -180,11 +180,7 @@ Accuracy of model 0.6597*
 
 *努力整合您的数据科学项目？看一看关于从头开始完成数据科学项目的简单指南。*
 
-*[](/7-steps-to-a-successful-data-science-project-b452a9b57149) [## 成功数据科学项目的 7 个步骤
-
-### 从头开始完成数据科学项目的初学者指南
-
-towardsdatascience.com](/7-steps-to-a-successful-data-science-project-b452a9b57149) 
+*</7-steps-to-a-successful-data-science-project-b452a9b57149>  
 
 ## 取得联系
 

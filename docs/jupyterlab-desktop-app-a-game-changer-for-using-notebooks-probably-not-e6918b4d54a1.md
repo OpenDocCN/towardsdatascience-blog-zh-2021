@@ -16,11 +16,7 @@
 
 大约不到一周前，在 Jupyter 的博客中，他们宣布了 JupyterLab 桌面应用的发布。下面为感兴趣的用户提供了博客文章的链接。
 
-[](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a) [## JupyterLab 桌面应用程序现已推出！
-
-### 我们很高兴地宣布 JupyterLab 桌面应用程序的发布！
-
-blog.jupyter.org](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a) 
+<https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a>  
 
 这个库很快变得流行起来，在 GitHub[上已经获得了 900 多颗星。](https://github.com/jupyterlab/jupyterlab_app)
 

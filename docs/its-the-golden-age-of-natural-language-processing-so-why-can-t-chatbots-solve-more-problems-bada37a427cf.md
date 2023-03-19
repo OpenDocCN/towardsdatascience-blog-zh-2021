@@ -94,19 +94,11 @@ Paul R. Daugherty 在他的书《人类+机器:人工智能时代的重新想象
 
 *   联系 LinkedIn 上的[我](https://www.linkedin.com/in/sethplevine/)
 
-[](https://www.linkedin.com/in/sethplevine/) [## Seth Levine -高级机器学习科学家- Loris.ai | LinkedIn
-
-### 数据科学家，ML 研究员，网页设计师，企业家。目前的工作集中在自然语言处理上
-
-www.linkedin.com](https://www.linkedin.com/in/sethplevine/) 
+<https://www.linkedin.com/in/sethplevine/>  
 
 *   我们在招人！查看我们的[开放数据科技角色](https://loris.ai/careers/)
 
-[](https://loris.ai/) [## 洛里斯-面向客户至上团队的对话式人工智能
-
-### 对话式人工智能和洞察力可以在几周内提高 CX 代理商的工作效率并改善客户对话。
-
-loris.ai](https://loris.ai/) 
+<https://loris.ai/>  
 
 **资源、参考资料和进一步阅读**
 

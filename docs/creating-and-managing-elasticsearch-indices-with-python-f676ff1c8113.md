@@ -140,19 +140,7 @@ mapping = {
 
 如果你喜欢这篇文章，这里还有一些你可能喜欢的文章
 
-[](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [## 开始使用 Elasticsearch 需要掌握的四件事
-
-### 弹性研究概念和原则的简明概述
-
-towardsdatascience.com](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) [## Elasticsearch 查询 DSL 入门
-
-### 使用 Python Elasticsearch 客户端，用特定领域语言编写 Elasticsearch 查询的实践指南
-
-towardsdatascience.com](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) [](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [## 如何使用 Python 和 Heroku 从 CSV 文件构建关系数据库
-
-### 通过三个简单的步骤免费构建您自己的 PostgreSQL 数据库
-
-towardsdatascience.com](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [## 优化弹性搜索中的磁盘使用
+</four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d>  </getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f>  </how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63>  </optimising-disk-usage-in-elasticsearch-d7b4238808f7> [## 优化弹性搜索中的磁盘使用
 
 towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) 
 

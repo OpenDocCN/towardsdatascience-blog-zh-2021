@@ -184,28 +184,12 @@ pydash 提供了很多很酷的方法，我无法在本文中一一介绍。我�
 
 在 Github repo 中，您可以随意使用本文的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/python/pydash.ipynb) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/python/pydash.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/python/pydash.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [](/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c) [## 轻松导入和执行 Python 模块的 3 种技巧
-
-### 如何让你的 Python 模块对用户友好
-
-towardsdatascience.com](/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
+</3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60>  </3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
 towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e)

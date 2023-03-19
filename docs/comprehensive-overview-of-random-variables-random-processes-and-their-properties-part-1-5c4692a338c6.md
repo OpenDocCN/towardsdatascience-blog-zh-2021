@@ -33,11 +33,7 @@
 
 概率被定义为一个事件在长期内的相对频率(频率主义者)或现实世界中不确定性或信念的度量(贝叶斯)。要了解更多关于贝叶斯和频率主义的观点，请参考这篇文章。
 
-[](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) [## 机器学习和信号处理中的基本参数估计技术
-
-### 贝叶斯与频率主义参数估计
-
-towardsdatascience.com](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) 
+</essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0>  
 
 样本空间被定义为一个实验的所有可能实现的集合，用ω表示。比如抛硬币对应的样本空间是ω= { H，T}(其中 H =头，T =尾)或者掷骰子对应的样本空间是:ω= { 1，2，3，4，5，6}。
 
@@ -258,11 +254,7 @@ n 个随机变量的联合 CDF 定义类似:
 
 有关贝叶斯定律、后验概率和可能性的更多信息，请参考以下文章和 Youtube 视频。
 
-[](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) [## 机器学习和信号处理中的基本参数估计技术
-
-### 贝叶斯与频率主义参数估计
-
-towardsdatascience.com](/essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0) 
+</essential-parameter-estimation-techniques-in-machine-learning-and-signal-processing-d671c6607aa0>  
 
 总期望定律
 假设你想知道加州大学洛杉矶分校平均有多少学生喜欢下棋。一种方法是亲自采访每一个学生，用爱下棋的学生人数除以学生总数，得出平均值。然而，这种技术非常繁琐，并且不可扩展。

@@ -14,11 +14,7 @@
 
 例如，我在这里对五个 data science 采访问题进行了实时编码:
 
-[](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## 2021 年 FAANG 将向您提出以下 5 个 Python 问题
-
-### 数据科学家和数据工程师必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+</5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 Python 提供了如此多的数据类型，而字典是其中的佼佼者。掌握 Python 字典有助于我们破解任何编码采访。在今天的内容中，我选择了四个访谈问题，并演示了如何在 Python 中使用字典。
 
@@ -221,27 +217,11 @@ int
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试顺序:
 
-[](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [## 破解数据科学访谈:基本的机器学习概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 1 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [## 破解数据科学访谈:基本统计概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 2 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的四项 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) 
+</crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa>  </crack-data-science-interviews-essential-statistics-concepts-d4491d85219e>  </essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  
 
 # 喜欢读这本书吗？
 

@@ -16,11 +16,7 @@ W 随着 Julia 语言的广泛应用，尤其是在科学计算领域，web 开�
 
 # №1:精灵
 
-[](https://github.com/GenieFramework/Genie.jl) [## GenieFramework/Genie.jl
-
-### Genie 是一个全栈 MVC web 框架，它为开发现代 web 提供了一个精简高效的工作流…
-
-github.com](https://github.com/GenieFramework/Genie.jl) 
+<https://github.com/GenieFramework/Genie.jl>  
 
 Genie.jl 是 Julia 中令人敬畏的 web 开发框架的一个经典例子。Genie 的伟大之处在于它已经存在了很长时间，并且确实有机会在某种程度上成熟。这个包本身非常可靠，通常用于在 Julia 中部署端点和处理 web 上的数据。然而，精灵当然不仅仅只有这些能力。
 
@@ -28,19 +24,11 @@ Genie 还使用 Project.toml 文件来处理在 gate 之外生成的依赖关系
 
 当然，Genie 并非没有缺陷。我在 NGINX 中使用 Genie.jl 时遇到了一些问题。有时 NGINX 无法判断是否有一个精灵服务器在运行，这至少是很乏味的。如果精灵安装包含在 Docker 映像中，这将变得更加乏味，因为有一个抽象层需要处理，很难导航。如果您想立即开始使用 Genie，我已经写了一篇文章，全面介绍了使用机器学习模型和 NGINX 部署端点。本文还包括使用 NGINX、Bash 和 Supervisors，因此如果您对这些信息感兴趣，它当然值得一读，您可以在下面这样做:
 
-[](/a-z-julia-endpoint-with-genie-a2e0c2f1c884) [## 带精灵的 A-Z Julia 端点
-
-### 介绍如何使用 Genie web-framework 的虚拟环境设置。
-
-towardsdatascience.com](/a-z-julia-endpoint-with-genie-a2e0c2f1c884) 
+</a-z-julia-endpoint-with-genie-a2e0c2f1c884>  
 
 # №2:虚线
 
-[](https://github.com/plotly/Dash.jl) [## plotly/Dash.jl
-
-### 从 Dash 的 v1.15.0 开始，Julia 组件可以与 Python 和 R 组件串联生成。有兴趣获得…
-
-github.com](https://github.com/plotly/Dash.jl) 
+<https://github.com/plotly/Dash.jl>  
 
 最近，Dash.jl. Plot.ly 发布了一个 Julia 版本的绘图库(耶！)并发布了他们的 Plot.ly Dash 等价物。最棒的是，现在您可以在 pure Julia 中完整地使用 Plot.ly 生态系统。
 
@@ -50,11 +38,7 @@ github.com](https://github.com/plotly/Dash.jl)
 
 # №3:互动
 
-[](https://github.com/JuliaGizmos/Interact.jl) [## JuliaGizmos/Interact.jl
-
-### 玩茱莉亚代码，分享乐趣！这个包是一个基于网络的小部件的集合，你可以用它来:做快速…
-
-github.com](https://github.com/JuliaGizmos/Interact.jl) 
+<https://github.com/JuliaGizmos/Interact.jl>  
 
 另一个很棒的 web 开发包是 Interact.jl。这个包本身通常用于给笔记本增加交互性。也就是说，代码也可以通过 Mux.jl 包放入 web 服务器设置中。当涉及到与 Julia 生态系统合作时，Interact.jl 也有一些非常好的能力。对于 Plots.jl 来说尤其如此，它遵循了与 Plot.ly 的 Dash 与 Plot.ly 的绘图库的交互类似的路径。
 
@@ -66,11 +50,7 @@ Interact.jl 的一个优点是它具有难以置信的可扩展性。该模块�
 
 # №4:眨眼
 
-[](https://github.com/JuliaGizmos/Blink.jl) [## JuliaGizmos/Blink.jl
-
-### Blink.jl 是围绕电子的 Julia 包装器。它可以在本地窗口中提供 HTML 内容，并允许…
-
-github.com](https://github.com/JuliaGizmos/Blink.jl) 
+<https://github.com/JuliaGizmos/Blink.jl>  
 
 本文中我想介绍的最后一个包是完全不同的东西，Blink.jl。与列表中的其他选项不同，Blink 不提供 web 服务器来交付基于 web 的内容。相反，Blink 更侧重于本地系统上的图形用户界面。
 

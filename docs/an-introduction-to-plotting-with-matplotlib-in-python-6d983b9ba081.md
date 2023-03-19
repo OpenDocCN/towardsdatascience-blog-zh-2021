@@ -14,19 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，您可以在以下链接中找到最后三场:
 
-[](/ucl-data-science-society-pandas-8ad28c2b22e5) [## UCL 数据科学学会:熊猫
-
-### 工作坊 6:什么是 Pandas，Pandas 系列，Pandas 数据框架，访问数据和 Pandas 操作
-
-towardsdatascience.com](/ucl-data-science-society-pandas-8ad28c2b22e5) [](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [## UCL 数据科学协会:Numpy 简介
-
-### 工作坊 5:什么是 Numpy，Numpy 数组，数学运算符，随机数
-
-towardsdatascience.com](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 工作坊 4:什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) 
+</ucl-data-science-society-pandas-8ad28c2b22e5>  </ucl-data-science-society-introduction-to-numpy-7d962d63f47d>  </ucl-data-science-society-object-oriented-programming-d69cb7a7b0be>  
 
 ## **什么是 Matplotlib？**
 
@@ -275,18 +263,6 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解 UCL 数据科学协会和其他了不起的作者的故事，请随时使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
+<https://philip-wilkinson.medium.com/membership>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/multi-variate-outlier-detection-in-python-e900a338da10) [## Python 中的多变量异常检测
-
-### 能够检测数据集中异常值/异常值的六种方法
-
-towardsdatascience.com](/multi-variate-outlier-detection-in-python-e900a338da10) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </multi-variate-outlier-detection-in-python-e900a338da10>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f> 

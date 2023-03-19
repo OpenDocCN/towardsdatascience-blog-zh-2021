@@ -49,11 +49,7 @@ Twitter 不同的“地狱圈”旨在确保没有用户会因为无意中发布
 
 您将在以下笔记本中找到该项目的完整代码:
 
-[](https://github.com/datascisteven/Medium-Blogs/blob/main/Hate-Tweet-Detector/Hate_Tweet_Detector.ipynb) [## Medium-Blogs/Hate _ Tweet _ detector . ipynb at main datassist even/Medium-Blogs
-
-### 我的中型博客的代码库。通过在…上创建一个帐户，为 datassisteven/Medium-Blogs 的发展做出贡献
-
-github.com](https://github.com/datascisteven/Medium-Blogs/blob/main/Hate-Tweet-Detector/Hate_Tweet_Detector.ipynb) 
+<https://github.com/datascisteven/Medium-Blogs/blob/main/Hate-Tweet-Detector/Hate_Tweet_Detector.ipynb>  
 
 # 环境设置
 
@@ -149,11 +145,7 @@ Twitter 要求以特定的格式提交 id，每批不超过 100 个，以字符�
 
 注意:通过比较 6 种不同的算法并使用 GridSearchCV 执行超参数调整，确定这是最好的。结果位于以下报告中:
 
-[](https://www.github.com/datascisteven/Automated-Hate-Tweet-Detection) [## GitHub-datassisteven/Automated-Hate-Tweet-Detection:开发一个分类模型来检测…
-
-### 作者:Steven Yan 这个项目建立在我和 Ivan Zarharchuk 的联合项目之上
-
-www.github.com](https://www.github.com/datascisteven/Automated-Hate-Tweet-Detection) 
+<https://www.github.com/datascisteven/Automated-Hate-Tweet-Detection>  
 
 # 下一步是什么？
 

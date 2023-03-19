@@ -112,12 +112,4 @@ e = 1/10 * 1+2/10 * 2+2/10 * 2+5/10 * 5 = 34/10
 
 ***更多有趣的 Python 帖子给你:***
 
-[](https://medium.com/techtofreedom/the-art-of-writing-loops-in-python-68e9869e4ed4) [## 用 Python 写循环的艺术
-
-### 简单比复杂好
-
-medium.com](https://medium.com/techtofreedom/the-art-of-writing-loops-in-python-68e9869e4ed4) [](https://medium.com/techtofreedom/5-uses-of-asterisks-in-python-3007911c198f) [## Python 中星号的 5 种用法
-
-### 编写更优雅代码的强大武器
-
-medium.com](https://medium.com/techtofreedom/5-uses-of-asterisks-in-python-3007911c198f)
+<https://medium.com/techtofreedom/the-art-of-writing-loops-in-python-68e9869e4ed4>  <https://medium.com/techtofreedom/5-uses-of-asterisks-in-python-3007911c198f> 

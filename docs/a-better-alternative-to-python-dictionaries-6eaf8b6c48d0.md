@@ -75,11 +75,7 @@ for letter in word:
 
 > **get** 方法接受两个参数:我们想要检索的键的值，以及如果键不存在，我们想要分配给该键的值。
 
-[](/sorting-a-dictionary-in-python-4280451e1637) [## 用 Python 对字典进行排序
-
-### 如何用 python 对字典进行排序
-
-towardsdatascience.com](/sorting-a-dictionary-in-python-4280451e1637) 
+</sorting-a-dictionary-in-python-4280451e1637>  
 
 ## defaultdict 对象
 
@@ -126,10 +122,6 @@ towardsdatascience.com](/sorting-a-dictionary-in-python-4280451e1637)
 
 *如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [*链接*](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。**
 
-*[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)* 
+*<https://lmatalka90.medium.com/membership> * 
 
 **我希望你喜欢这篇关于 Python 中****default dict****对象的文章。感谢您的阅读！**

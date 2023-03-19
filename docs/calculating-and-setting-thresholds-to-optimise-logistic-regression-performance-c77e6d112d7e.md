@@ -259,11 +259,7 @@ F1 分数是精确度和召回率的调和平均值。我们使用调和平均�
 
 完整的代码可以通过以下链接在 GitHub 上找到
 
-[](https://github.com/grahamharrison68/Public-Github/blob/master/Logistic%20Regression%20Thresholds/Logistic%20Regression%20Thresholds.ipynb) [## grahamharrison68/Public-Github
-
-### GH 公共项目库。通过在…上创建帐户，为 grahamharrison68/Public-Github 开发做出贡献
-
-github.com](https://github.com/grahamharrison68/Public-Github/blob/master/Logistic%20Regression%20Thresholds/Logistic%20Regression%20Thresholds.ipynb) 
+<https://github.com/grahamharrison68/Public-Github/blob/master/Logistic%20Regression%20Thresholds/Logistic%20Regression%20Thresholds.ipynb>  
 
 # 感谢您的阅读！
 

@@ -42,11 +42,7 @@ JupyterLab 是为了解决 Jupyter 笔记本的一些缺点而开发的。事实
 
 有关 JupyterLab 3.0 版本的更多详细信息，请阅读下面的文章:
 
-[](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) [## 期待已久的 JupyterLab 3.0 终于来了
-
-### Jupyter 项目发布了 Jupyter lab 3.0 版本，作为送给数据科学家的圣诞礼物。
-
-towardsdatascience.com](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) 
+</the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860>  
 
 # nbdev
 
@@ -71,11 +67,7 @@ pip install nbdev
 
 阅读以下关于 nbdev 的更多信息:
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+</jupyter-is-now-a-full-fledged-ide-c99218d33095>  
 
 # 羽衣甘蓝
 
@@ -106,19 +98,11 @@ Kale 是一个开源项目，它简化了数据科学家使用 Kubeflow 和 Kube
 
 关键词是*“did”；o* 一年后，`xeus-python`如果越来越接近与`ipykernel`旗鼓相当。我们准备好享受它带来的所有好处。
 
-[](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) [## Jupyter:准备抛弃 IPython 内核
-
-### 通过 xeus-python，JupyterLab 离成为成熟的 IDE 更近了一步。
-
-towardsdatascience.com](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) 
+</jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef>  
 
 此外，对`ipykernel`的合并 pull 请求将可视调试器带到 Python 编程语言的主 Jupyter 内核中！
 
-[](/jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e) [## Jupyter 可视化调试器正在成为主流
-
-### 也许 JupyterLab 最受欢迎的特性现在已经可以在 ipykernel 上获得了
-
-towardsdatascience.com](/jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e) 
+</jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e>  
 
 # IDOM 部件
 
@@ -130,11 +114,7 @@ Jupyter 笔记本的交互特性是这个项目如此吸引人的原因。但是
 
 是时候迈出下一步了；IDOM 引入了用于定义和控制交互式网页或创建可视 Jupyter 组件的库。你关心的是第二部分。要阅读更多关于 IDOM 部件的信息，请阅读下面的故事:
 
-[](/the-new-age-of-jupyter-widgets-cc622bee2c4b) [## Jupyter 小工具的新时代
-
-### 如果您可以使用 NPM 的好东西用 Python 来构建 Jupyter 小部件会怎么样？
-
-towardsdatascience.com](/the-new-age-of-jupyter-widgets-cc622bee2c4b) 
+</the-new-age-of-jupyter-widgets-cc622bee2c4b>  
 
 # 结论
 
@@ -144,15 +124,7 @@ Jupyter 笔记本是软件思想增量开发的一个很好的工具，过去的
 
 更重要的是，标准的 Jupyter 小部件越来越好，对笔记本文件的支持无处不在。
 
-[](/top-jupyter-extensions-2021-edition-d02aa698547b) [## 顶级 Jupyter 扩展:2021 版
-
-### 将您的 Jupyter 环境转变为成熟的 IDE
-
-towardsdatascience.com](/top-jupyter-extensions-2021-edition-d02aa698547b) [](/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11) [## Jupyter 正在对 Visual Studio 代码进行一次大检查
-
-### 把一个程序当作一篇文学作品，写给人类而不是电脑
-
-towardsdatascience.com](/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11) 
+</top-jupyter-extensions-2021-edition-d02aa698547b>  </jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11>  
 
 欢迎来到朱庇特计划的魔法世界！
 

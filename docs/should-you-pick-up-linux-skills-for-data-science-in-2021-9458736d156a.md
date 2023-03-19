@@ -22,11 +22,7 @@
 
 我认为这些是在从事数据科学职业时需要考虑的关键数据。对数据科学的大量介绍使它在许多方面看起来像它不是的东西。有许多不同的组件组合在一起，可以创建一个数据科学家，它可能会或可能不会受到某种方式的限制。如果您想阅读我一年前写的一篇文章中有关数据科学软技能的更多内容(哇！)您可以在这里查看这篇文章:
 
-[](/the-unspoken-data-science-soft-skills-cc836d51b73d) [## 未言明的数据科学软技能
-
-### 对于初学者来说，数据科学的世界可能令人望而生畏，因为在很多方面，数据科学是一座桥梁…
-
-towardsdatascience.com](/the-unspoken-data-science-soft-skills-cc836d51b73d) 
+</the-unspoken-data-science-soft-skills-cc836d51b73d>  
 
 # 现实数据科学
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/the-unspoken-data-science-soft-skills-cc836d51b73d)
 
 部署管道并处理返回和请求的数据是数据科学的一项绝对重要的技能。管道部署的很大一部分将是为端点配置实际的服务器。这是一项也可以量化为开发-运营工作的任务，我当然认为这是对数据科学技能组合的一项好处。如果您想了解更多关于开发运营技能在数据科学中的好处，您可以查看我不久前写的这篇文章。所有这些倒退都让我很开心:
 
-[](/the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85) [## 数据科学中开发运营技能的优势
-
-### 开发运营是我热爱的一门学科。我对开发运营的热爱来自于我对 Linux 的热爱，我对两者的热爱…
-
-towardsdatascience.com](/the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85) 
+</the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85>  
 
 # Linux 在哪里倒下
 
@@ -64,10 +56,6 @@ T 这篇文章的目的是提供一个很好的理解，为什么这种特定的
 
 几乎所有从事计算机技术工作的人都应该知道如何使用 Linux。我认为它已经成为这样一个行业标准工具，这意味着找到工作和找不到工作之间的差别，它绝对值得捡起来。考虑到这一点，如果你在船上，你首先应该做什么？幸运的是，我有一些关于基本配置和服务器工作的资源，您可以使用它们来开始了解一些概念。我认为一个好的方向是看一看我用 Crontab 构建的自我训练模型。
 
-[](https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee) [## 建立一个自我训练的美丽模型！(简单的方法)
-
-### 结合开发运营和数据科学的元素，在 Ubuntu 上部署可扩展的自我训练模型。
-
-medium.com](https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee) 
+<https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee>  
 
 既然这样，我认为这项技能当然值得学习。这些技能不仅对找工作、处理模型和部署那些模型有益，而且在日常计算中理解幕后实际发生的事情也很有帮助。这种属性甚至可以渗透到对网络浏览的更深层次的理解中，所以这只是显示了这些技能在多大程度上融入了技术，以及它们有多有价值。感谢您的阅读，祝您白天(或晚上)休息愉快！)

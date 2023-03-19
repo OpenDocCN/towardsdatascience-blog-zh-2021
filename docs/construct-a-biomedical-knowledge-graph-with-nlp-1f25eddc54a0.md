@@ -18,11 +18,7 @@
 
 在这篇博文中，我将用一篇研究论文来引导你完成构建生物医学知识图谱所需的所有步骤。
 
-[](https://arxiv.org/abs/2110.03526) [## 皮肤再生和毛发生长的组织工程
-
-### 许多患有皮肤疾病如慢性伤口、不愈合溃疡和糖尿病溃疡的人需要皮肤…
-
-arxiv.org](https://arxiv.org/abs/2110.03526) 
+<https://arxiv.org/abs/2110.03526>  
 
 我将使用由[穆罕默德·礼萨·艾哈迈迪](https://arxiv.org/search/q-bio?searchtype=author&query=Ahmadi%2C+M)撰写的皮肤再生和毛发生长的组织工程论文。文章的 PDF 版本在 CC0 1.0 许可下提供。我们将通过以下步骤来构建知识图:
 
@@ -84,11 +80,7 @@ CHEBI 网站上关于抗坏血酸的浓缩数据。网站上的所有内容都�
 
 在查看关系提取技术之前，我们将仅使用实体构建一个生物医学知识图，并检查可能的应用。如前所述，我准备了一个 [Google Colab 笔记本](https://colab.research.google.com/github/tomasonjo/blogs/blob/master/bionlp/bioNLP2graph.ipynb)，你可以用它来跟踪本文中的代码示例。为了存储我们的图表，我们将使用 Neo4j。您不必准备本地 Neo4j 环境。相反，您可以使用免费的 Neo4j 沙盒实例。
 
-[](https://neo4j.com/sandbox/) [## Neo4j 沙盒
-
-### 使用个人的、可访问的在线图形数据库快速开始学习 Neo4j。开始使用内置指南和…
-
-neo4j.com](https://neo4j.com/sandbox/) 
+<https://neo4j.com/sandbox/>  
 
 在沙箱中启动[空白项目，并将连接细节复制到 Colab 笔记本中。](https://sandbox.neo4j.com/?usecase=blank-sandbox)
 
@@ -145,11 +137,7 @@ RETURN s.text as result
 
 第二种选择是共现分析。如果医疗实体出现在同一个句子或文章中，您可以定义它们之间的共现。我发现一篇文章[2]使用医学共现网络来预测医疗实体之间新的可能联系。
 
-[](https://pubmed.ncbi.nlm.nih.gov/25160252/) [## 网状共现网络中的链接预测:初步结果- PubMed
-
-### 基于文献的发现是指从科学文献中自动发现隐含关系
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25160252/) 
+<https://pubmed.ncbi.nlm.nih.gov/25160252/>  
 
 您可以使用下面的 Cypher 查询来查找经常在同一个句子中同时出现的实体。
 
@@ -233,11 +221,7 @@ RETURN e.name as entity, e.other_ids as other_ids
 
 您可以继续检查网格以找到可用的信息:
 
-[](https://id.nlm.nih.gov/mesh/D004820.html) [## 网状链接数据
-
-### 语义网研究人员的医学主题词的持久 URL、本体和 SPARQL 端点…
-
-id.nlm.nih.gov](https://id.nlm.nih.gov/mesh/D004820.html) ![](img/83d3c5be2a9784e6381b20959deade0c.png)
+<https://id.nlm.nih.gov/mesh/D004820.html>  ![](img/83d3c5be2a9784e6381b20959deade0c.png)
 
 作者截图。数据由美国国家医学图书馆提供。
 

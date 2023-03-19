@@ -247,19 +247,11 @@ with table1 as (
 
 **不确定接下来要读什么？我为你挑选了另一篇文章:**
 
-[](/how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e) [## 如何用 Pandas 编写所有的 SQL 查询
-
-### 一个全面的 SQL 到熊猫字典
-
-towardsdatascience.com](/how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e) 
+</how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 ## 特伦斯·申
 

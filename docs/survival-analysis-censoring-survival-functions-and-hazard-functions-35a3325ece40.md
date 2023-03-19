@@ -56,20 +56,4 @@
 
 来源:
 
-[](https://square.github.io/pysurvival/intro.html) [## 生存分析导论
-
-### 生存分析用于分析或预测一个事件何时可能发生。它起源于医学…
-
-square.github.io](https://square.github.io/pysurvival/intro.html) [](http://userwww.sfsu.edu/efc/classes/biol710/survival/surv-anal.htm) [## 生存/失败分析
-
-### 当我们希望研究某一事件在一群受试者中的发生和时间时，使用生存分析。
-
-userwww.sfsu.edu](http://userwww.sfsu.edu/efc/classes/biol710/survival/surv-anal.htm) [](http://www.sthda.com/english/wiki/survival-analysis-basics) [## 生存分析基础
-
-### 本章的目的是描述生存分析的基本概念。在癌症研究中，大多数存活率…
-
-www.sthda.com](http://www.sthda.com/english/wiki/survival-analysis-basics) [](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html) [## 生存分析
-
-### 丽莎沙利文，波士顿大学公共卫生学院生物统计学博士教授本模块介绍…
-
-sphweb.bumc.bu.edu](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html)
+<https://square.github.io/pysurvival/intro.html>  <http://userwww.sfsu.edu/efc/classes/biol710/survival/surv-anal.htm>  <http://www.sthda.com/english/wiki/survival-analysis-basics>  <https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html> 

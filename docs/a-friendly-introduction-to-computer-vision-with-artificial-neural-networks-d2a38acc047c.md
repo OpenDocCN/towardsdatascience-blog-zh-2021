@@ -138,12 +138,4 @@
 
 谢谢大家！
 
-[](https://github.com/john-adeojo/MNIST-Digit-Classification) [## 约翰-阿德乔/MNIST-数字分类
-
-### MNIST 数字分类。为约翰-阿德乔/MNIST 数字分类的发展作出贡献
-
-github.com](https://github.com/john-adeojo/MNIST-Digit-Classification) [](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://github.com/john-adeojo/MNIST-Digit-Classification>  <https://www.linkedin.com/in/john-adeojo/> 

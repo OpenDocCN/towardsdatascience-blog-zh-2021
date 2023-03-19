@@ -167,16 +167,4 @@ Amy Shamblen 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 *****欢迎您**加入我的数据科学学习之旅！**关注此[媒体页面](https://kennethleungty.medium.com/)以了解更多数据科学内容，或者在 [LinkedIn](https://www.linkedin.com/in/kennethleungty/) 上联系我。享受充实你的图像的乐趣吧！*****
 
-*****[](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [## 使用 OpenCV 和 TesseractOCR 进行俄罗斯车牌检测
-
-### 检测，识别和提取汽车牌照号码与计算机视觉的力量(一步一步…
-
-towardsdatascience.com](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [## 用字符错误率(CER)和单词错误率(WER)评估 OCR 输出质量
-
-### 测量光学字符识别输出质量的关键概念、示例和 Python 实现
-
-towardsdatascience.com](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [](/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543) [## 利用 fast.ai v2 对酒精饮料图像进行分类
-
-### 使用 fast.ai v2 和 Google Colab 来提供令人陶醉的数据和 dram 混合
-
-towardsdatascience.com](/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543)*****
+*****</russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c>  </evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510>  </classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543> *****

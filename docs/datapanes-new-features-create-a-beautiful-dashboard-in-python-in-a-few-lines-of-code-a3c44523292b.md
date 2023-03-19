@@ -114,11 +114,7 @@ Datapane 报告的默认视图很好，但是如果您想进一步定制它，�
 
 以下是该项目的报告。在这里随意玩[的源代码](https://medium.com/r?url=https%3A%2F%2Fgithub.com%2Fkhuyentran1401%2FData-science%2Fblob%2Fmaster%2Fdata_science_tools%2FDatapane_new_features%2Fanalyzing_articles.ipynb)。
 
-[](https://datapane.com/u/khuyentran1401/reports/analyze-article/) [## 登录
-
-### 登录
-
-日志 Indatapane.com](https://datapane.com/u/khuyentran1401/reports/analyze-article/) 
+<https://datapane.com/u/khuyentran1401/reports/analyze-article/>  
 
 # 结论
 
@@ -128,20 +124,4 @@ Datapane 报告的默认视图很好，但是如果您想进一步定制它，�
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [## 可视化的 6 大 Python 库:使用哪一个？
-
-### 对使用哪种可视化工具感到困惑？我为你分析了每个图书馆的利弊
-
-towardsdatascience.com](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [## Datapane 简介:构建交互式报表的 Python 库
-
-### 创建精美报告并与您的团队分享分析结果的简单框架
-
-towardsdatascience.com](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [](/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733) [## 用 Python 模块 Newspaper 和 NLTK 查找文章中的常用词
-
-### 使用 newspaper3k 和 NLTK 从报纸中提取信息和发现见解的分步指南
-
-towardsdatascience.com](/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733)
+</top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658>  </introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc>  </find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733> 

@@ -24,11 +24,7 @@ Elasticsearch 是一个[分布式搜索和分析引擎，是 Elastic Stack](http
 
 [*如果你想了解更多关于建立一个 ES 集群的知识，请查看我之前的博客文章，获得关于如何使用 Bonsai*](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) *提供免费 ES 集群的实践指导。*
 
-[](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) 
+</creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  
 
 # 2.设计指数
 
@@ -64,11 +60,7 @@ Elasticsearch 有一个特性叫做“[动态字段映射](https://www.elastic.c
 
 *要深入了解如何定义 es 映射和填充索引，* [*查看我之前关于用 Python 创建和管理 ES 索引的博客文章的第一部分。*](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113)
 
-[](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) 
+</creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  
 
 # 3.编写查询
 
@@ -90,11 +82,7 @@ ES 查询[可以包括**查询**和**过滤器**上下文。](https://www.elasti
 
 *关于编写 es 查询和使用* [*Python Elasticsearch 客户端*](https://elasticsearch-py.readthedocs.io/en/6.8.2/) *，* [*查询 ES 的深入概述，请查看我之前关于使用 Python*](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) *创建和管理 ES 索引的博文。*
 
-[](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) [## Elasticsearch 查询 DSL 入门
-
-### 使用 Python Elasticsearch 客户端，用特定领域语言编写 Elasticsearch 查询的实践指南
-
-towardsdatascience.com](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) 
+</getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f>  
 
 # 4.优化您的指数
 
@@ -106,37 +94,17 @@ towardsdatascience.com](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf
 
 *要深入了解优化您的 ES 磁盘使用指数，请查看我之前的博客文章* [*在 Elasticsearch*](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) *中优化磁盘使用。*
 
-[](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [## 优化弹性搜索中的磁盘使用
-
-towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) 
-
-Elasticsearch 是一个非常通用的框架:它可以[用于存储、机器学习以及分析日志和事件](https://www.elastic.co/elasticsearch/features)等许多用途。毫无疑问，ES 是添加到您的数据科学工具包中的一个有用的框架。在这篇博文中，我们介绍了 Elasticsearch 的一些核心概念和原则，以帮助您开始在自己的应用程序中使用 es。
+</optimising-disk-usage-in-elasticsearch-d7b4238808f7> 等许多用途。毫无疑问，ES 是添加到您的数据科学工具包中的一个有用的框架。在这篇博文中，我们介绍了 Elasticsearch 的一些核心概念和原则，以帮助您开始在自己的应用程序中使用 es。
 
 感谢阅读！
 
-[](https://medium.com/@ndgoet/membership) [## 用我的推荐链接加入媒体。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ndgoet/membership) 
+<https://medium.com/@ndgoet/membership>  
 
 **如果你喜欢这篇文章，这里还有一些你可能喜欢的文章:**
 
-[](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [## 如何使用 Python 和 Heroku 从 CSV 文件构建关系数据库
+</how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63>  </creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  </optimising-disk-usage-in-elasticsearch-d7b4238808f7> [## 优化弹性搜索中的磁盘使用
 
-### 通过三个简单的步骤免费构建您自己的 PostgreSQL 数据库
-
-towardsdatascience.com](/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63) [](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [## 优化弹性搜索中的磁盘使用
-
-towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) [## Elasticsearch 查询 DSL 入门
-
-### 使用 Python Elasticsearch 客户端，用特定领域语言编写 Elasticsearch 查询的实践指南
-
-towardsdatascience.com](/getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f) 
+towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) </getting-started-with-elasticsearch-query-dsl-c862c9d6cf7f>  
 
 ***免责声明****:“elastic search”和“Kibana”是 Elasticsearch BV 在美国和其他国家注册的商标。本文中对任何第三方服务和/或商标的描述和/或使用不应被视为对其各自权利持有人的认可。*
 

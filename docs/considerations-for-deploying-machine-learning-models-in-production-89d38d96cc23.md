@@ -118,7 +118,7 @@ Python 开发人员喜欢定制他们的环境来匹配他们的登台环境，�
 
 **这些前述的监控模型概念统称为[模型可观测性](/what-is-ml-observability-29e85e701688)。在 [MLOps 最佳实践](/mlops-practices-for-data-scientists-dbb01be45dd8)中，这一步现在是可接受的必要步骤。监视数据和模型的健康状况永远不应该是事后才想到的。相反，它应该是你的模型开发周期的一部分。**
 
-***考虑数#5:对于模型的可观测性，显然要看*[*. ai*](https://github.com/evidentlyai/evidently)*，*[*arize . ai*](https://arize.com/)*，*[*Arthur . ai*](https://www.arthur.ai/)， [*Fiddler.ai*](https://www.fiddler.ai/) ，[](https://valohai.com/model-monitoring/)**，或*[*why*](https://whylabs.ai/)***
+***考虑数#5:对于模型的可观测性，显然要看*[*. ai*](https://github.com/evidentlyai/evidently)*，*[*arize . ai*](https://arize.com/)*，*[*Arthur . ai*](https://www.arthur.ai/)， [*Fiddler.ai*](https://www.fiddler.ai/) ，<https://valohai.com/model-monitoring/>**，或*[*why*](https://whylabs.ai/)***
 
 # **结论**
 

@@ -10,11 +10,7 @@ Maksym Kaharlytskyi 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 在我的上一篇文章——“**使用多索引 Pandas DataFrames** ”中，我谈到了如何将单索引数据帧转换成多索引数据帧，以及使用它的各种技术。
 
-[](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) [## 使用多索引熊猫数据框架
-
-### 了解如何轻松使用多索引数据框架
-
-towardsdatascience.com](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) 
+</working-with-multi-index-pandas-dataframes-f64d2e2c3e02>  
 
 在本文中，我将继续讨论多索引数据帧，但这一次我将更多地关注于使用 **set_index()** 和 **groupby()** 函数，并探索它们的相似之处和不同之处。
 
@@ -295,8 +291,4 @@ df2.groupby(level=[**'Country','City'**]).mean()
 
 > **set_index()** 函数仅适用于单索引数据帧，而 **groupby()** 既适用于单索引数据帧，也适用于多索引数据帧。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

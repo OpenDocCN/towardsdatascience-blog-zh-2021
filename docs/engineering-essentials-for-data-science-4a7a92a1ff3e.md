@@ -271,19 +271,7 @@ src
 
 # 进一步阅读
 
-[](/stats-essentials-for-data-science-cfcdee17af68) [## 数据科学统计基础
-
-towardsdatascience.com](/stats-essentials-for-data-science-cfcdee17af68) [](/analytics-essentials-for-data-science-25da994f4bed) [## 数据科学的分析基础
-
-towardsdatascience.com](/analytics-essentials-for-data-science-25da994f4bed) [](https://betterprogramming.pub/how-to-efficiently-validate-input-types-in-python-functions-1f662f45c24c) [## 如何在 Python 函数中有效地验证输入类型
-
-### 油漆工来拯救
-
-better 编程. pub](https://betterprogramming.pub/how-to-efficiently-validate-input-types-in-python-functions-1f662f45c24c) [](/3-levels-of-technical-abstraction-when-sharing-your-code-50ddc6e73946) [## 共享代码时的 3 个技术抽象层次
-
-### 探索 GitHub、Docker 和 Heroku
-
-towardsdatascience.com](/3-levels-of-technical-abstraction-when-sharing-your-code-50ddc6e73946) 
+</stats-essentials-for-data-science-cfcdee17af68>  <https://betterprogramming.pub/how-to-efficiently-validate-input-types-in-python-functions-1f662f45c24c>  </3-levels-of-technical-abstraction-when-sharing-your-code-50ddc6e73946>  
 
 # 脚注
 
@@ -295,11 +283,7 @@ towardsdatascience.com](/3-levels-of-technical-abstraction-when-sharing-your-cod
 
 关系数据库的一个流行的替代品是 NoSQL，或者非关系数据库(也称为“不仅仅是 SQL”))与具有严格定义的关系的表相比，像 [MongoDB](https://www.mongodb.com/) 这样的 NoSQL 数据库在如何存储数据方面允许更大的灵活性。查看我在这篇文章中对 SQL 和 NoSQL 数据库的深入研究。
 
-[](/a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa) [## Python 中 SQL 与 NoSQL 数据库的实践演示
-
-### 用 SQLAlchemy 和 PyMongo 打动你的朋友
-
-towardsdatascience.com](/a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa) 
+</a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa>  
 
 ## 3.结构化查询语言
 

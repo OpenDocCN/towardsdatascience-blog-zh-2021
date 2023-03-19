@@ -98,8 +98,4 @@ BlenderBot 2.0 是向类人对话式人工智能的又一次飞跃。就目前�
 
 # 推荐阅读
 
-[](/googles-lamda-the-next-generation-of-chatbots-62294be58426) [## 谷歌的 LaMDA:下一代聊天机器人
-
-towardsdatascience.com](/googles-lamda-the-next-generation-of-chatbots-62294be58426) [](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
-
-towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd)
+</googles-lamda-the-next-generation-of-chatbots-62294be58426> 

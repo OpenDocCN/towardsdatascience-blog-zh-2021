@@ -8,11 +8,7 @@
 
 本文是对主项目中数据科学部分的额外的、更全面的介绍。主要文章已经详细介绍了该项目的起因以及如何训练 Mask RCNN 为我们服务。它可以在这里找到:
 
-[](https://wildintelligencelab.com/deadwood-and-aardvark-hole/) [## 无人机图像中的枯木和土豚洞分割| Wild 野生情报实验室
-
-### 该项目是与《野生动物监测导论》合作开发的
-
-wildintelligencelab.com](https://wildintelligencelab.com/deadwood-and-aardvark-hole/) 
+<https://wildintelligencelab.com/deadwood-and-aardvark-hole/>  
 
 ## 提供机器学习数据
 

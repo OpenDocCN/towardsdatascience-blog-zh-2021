@@ -44,11 +44,7 @@
 
 如果你想进入咨询行业，你可以在下面的文章中找到全面的信息。
 
-[](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [## 发现 9 个咨询领域，开始任何经验水平的激动人心的数据科学之旅
-
-### 和更多指导，让您做好咨询准备
-
-towardsdatascience.com](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) 
+</discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4>  
 
 ## **2。** **数据科学软件技术作家**
 

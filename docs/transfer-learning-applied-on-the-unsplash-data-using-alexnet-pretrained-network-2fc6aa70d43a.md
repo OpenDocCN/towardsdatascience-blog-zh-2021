@@ -16,11 +16,7 @@ AlexNet 是一个 8 层深度的卷积神经网络。MATLAB 有一个预先训�
 
 针对一百万幅图像上的 1000 个对象类别的训练使得该网络学习了广泛图像的丰富特征表示。
 
-[](https://www.earthinversion.com/machinelearning/transfer-learning-applied-on-unsplash-data-using-alexnet/) [## 基于 alexnet 预训练网络的迁移学习在 Unsplash 数据上的应用
-
-### 我从 Unsplash 获得了图像数据。我下载了 42 张猫的图片，46 张狗的图片，35 张马的图片…
-
-www.earthinversion.com](https://www.earthinversion.com/machinelearning/transfer-learning-applied-on-unsplash-data-using-alexnet/) 
+<https://www.earthinversion.com/machinelearning/transfer-learning-applied-on-unsplash-data-using-alexnet/>  
 
 # 装置
 

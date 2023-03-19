@@ -150,26 +150,10 @@ bic(X)**
 
 **就是这样！**的概念与实现 *GMM* 中的**Python*中的***。希望有帮助。****
 
-**如果你觉得文章过于简单笼统，又偏爱更多的方程和数学，可以参考以下优秀帖子，这里[](/gaussian-mixture-models-explained-6986aaf5a95)*[*这里*](https://www.mygreatlearning.com/blog/gaussian-mixture-model/) ，这里[](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)*。****
+**如果你觉得文章过于简单笼统，又偏爱更多的方程和数学，可以参考以下优秀帖子，这里</gaussian-mixture-models-explained-6986aaf5a95>*[*这里*](https://www.mygreatlearning.com/blog/gaussian-mixture-model/) ，这里<https://stephens999.github.io/fiveMinuteStats/intro_to_em.html>*。****
 
 ## ***参考资料:***
 
-***[](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture) [## sklearn . mixture . Gaussian mixture
-
-### 高斯混合。高斯混合模型概率分布的表示。这个类允许估计…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture) [](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) [## 期望值最大化算法-维基百科
-
-### 在统计学中，期望最大化(EM)算法是一种寻找(局部)最大似然或…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) [](https://machinelearningmastery.com/expectation-maximization-em-algorithm/) [## 期望值最大化(EM 算法)的温和介绍-机器学习掌握
-
-### 最大似然估计是一种通过搜索概率来估计数据集密度的方法
-
-machinelearningmastery.com](https://machinelearningmastery.com/expectation-maximization-em-algorithm/) [](/gaussian-mixture-models-explained-6986aaf5a95) [## 高斯混合模型解释
-
-### 在机器学习领域，我们可以区分两个主要领域:监督学习和非监督学习。主要的…
-
-towardsdatascience.com](/gaussian-mixture-models-explained-6986aaf5a95) ![](img/dfe03db5fb385468f0f718a426fd1a39.png)
+***<https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture>  <https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm>  <https://machinelearningmastery.com/expectation-maximization-em-algorithm/>  </gaussian-mixture-models-explained-6986aaf5a95>  ![](img/dfe03db5fb385468f0f718a426fd1a39.png)
 
 Christine Jou 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片***

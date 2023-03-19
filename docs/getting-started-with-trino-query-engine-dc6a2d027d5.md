@@ -179,19 +179,7 @@ Trino 的主要优势是可以运行分布式查询，从而使得非常快速�
 
 # 相关文章
 
-[](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8) [## 如何在 SQL 中表示和查询层次数据
-
-### 关于如何使用关系数据库构建和查询分层表的教程。
-
-alod83.medium.com](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8) [](/an-overview-of-versatile-data-kit-a812cfb26de7) [## 多功能数据工具包概述
-
-### 开始使用多功能数据工具包，这是一个使数据工程师工作更高效的框架
-
-towardsdatascience.com](/an-overview-of-versatile-data-kit-a812cfb26de7) [](/a-deep-dive-into-neuton-dab72db4b2d0) [## 深入内乌顿
-
-### 平台概述、其功能和使用示例。
-
-towardsdatascience.com](/a-deep-dive-into-neuton-dab72db4b2d0) 
+<https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8>  </an-overview-of-versatile-data-kit-a812cfb26de7>  </a-deep-dive-into-neuton-dab72db4b2d0>  
 
 # 奖金
 

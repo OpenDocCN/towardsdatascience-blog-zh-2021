@@ -54,16 +54,4 @@
 
 同样重要的是要提到，在机器学习的背景下，这些并不是唯一的学习方法。其他一些类型包括强化学习和进化学习，这些都超出了本文的范围。
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简而言之，特征缩放和标准化
-
-### 为什么、如何以及何时调整要素的比例
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f) [## Python scikit 中的 fit()vs predict()vs fit _ predict()-learn
-
-### sklearn 中的 fit，predict 和 fit_predict 方法有什么区别
-
-towardsdatascience.com](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f) [](https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3) [## Python scikit 中的 fit()vs transform()vs fit _ transform()，了解
-
-### sklearn 中的 fit，transform 和 fit_transform 方法有什么区别
-
-medium.com](https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3)
+</feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  </fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f>  <https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3> 

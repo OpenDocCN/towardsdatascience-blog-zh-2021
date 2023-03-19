@@ -288,16 +288,4 @@ vii)我们保留具有最大模糊率的配对及其相似性。
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Approximate_string_matching) [## 近似字符串匹配-维基百科
-
-### 在计算机科学中，近似字符串匹配(通常通俗地称为模糊字符串搜索)是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Approximate_string_matching) [](https://openclassrooms.com/en/courses/6532301-introduction-to-natural-language-processing/7067116-apply-the-tf-idf-vectorization-approach) [## 应用 TF-IDF 矢量化方法
-
-### 自然语言处理(NLP)允许我们对大量文本数据进行分类、校正、预测，甚至翻译…
-
-openclassrooms.com](https://openclassrooms.com/en/courses/6532301-introduction-to-natural-language-processing/7067116-apply-the-tf-idf-vectorization-approach) [](https://github.com/MaartenGr/PolyFuzz) [## GitHub - MaartenGr/PolyFuzz:模糊字符串匹配、分组和评估。
-
-### PolyFuzz 执行模糊字符串匹配、字符串分组，并包含广泛的评估函数。PolyFuzz 是…
-
-github.com](https://github.com/MaartenGr/PolyFuzz)
+<https://en.wikipedia.org/wiki/Approximate_string_matching>  <https://openclassrooms.com/en/courses/6532301-introduction-to-natural-language-processing/7067116-apply-the-tf-idf-vectorization-approach>  <https://github.com/MaartenGr/PolyFuzz> 

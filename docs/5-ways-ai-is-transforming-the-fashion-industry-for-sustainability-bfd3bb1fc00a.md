@@ -28,7 +28,7 @@ G 从 2020 年到 2021 年以 5.8%的速度增长，(IBISWorld，2021)在新冠�
 
 来自[爆发](https://burst.shopify.com/market?utm_campaign=photo_credit&utm_content=Browse+Free+HD+Images+of+Metal+Clothing+Rack+With+Warm+Colored+Clothing&utm_medium=referral&utm_source=credit)的[托马什·胡斯托莱斯](https://burst.shopify.com/@txh?utm_campaign=photo_credit&utm_content=Browse+Free+HD+Images+of+Metal+Clothing+Rack+With+Warm+Colored+Clothing&utm_medium=referral&utm_source=credit)的照片
 
-有了人工智能，我们能够制作 3D 数字时装模型。(在我看来，他们看起来甚至比人体模型更具视觉吸引力。)制作者[](https://www.thefabricant.com/sustainability)*就是这样一家——它是“世界上第一家数字时装屋”，据报道在设计和开发阶段用**数字样品取代实体服装，极大地减少了该品牌高达 30%的碳足迹。**与知名品牌如**彪马、**阿迪达斯、 **Aape** 合作，可以减少广告服装生产过程中产生的二氧化碳污染、水资源浪费和有毒化学物质污染，这些在传统做法中会被浪费掉，因为它们不能转售给消费者。*
+有了人工智能，我们能够制作 3D 数字时装模型。(在我看来，他们看起来甚至比人体模型更具视觉吸引力。)制作者<https://www.thefabricant.com/sustainability>*就是这样一家——它是“世界上第一家数字时装屋”，据报道在设计和开发阶段用**数字样品取代实体服装，极大地减少了该品牌高达 30%的碳足迹。**与知名品牌如**彪马、**阿迪达斯、 **Aape** 合作，可以减少广告服装生产过程中产生的二氧化碳污染、水资源浪费和有毒化学物质污染，这些在传统做法中会被浪费掉，因为它们不能转售给消费者。*
 
 ## *2.虚拟试衣间和更好的定制减少退货并增强顾客体验*
 

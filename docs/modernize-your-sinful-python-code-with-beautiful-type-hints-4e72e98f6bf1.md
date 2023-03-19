@@ -329,7 +329,7 @@ simple_function.py:4: error: Incompatible return value type (got "bool", expecte
 
 ****小写函数的可选类型提示。****
 
-******提示:**函数中的默认参数不应该使用**可变对象**(如列表)。这样做经常会导致恼人的臭虫。关于这个问题，我推荐艾尔·斯威加特的新书《超越蟒蛇的基本技能》第八章[](https://inventwithpython.com/beyond/)****。********
+******提示:**函数中的默认参数不应该使用**可变对象**(如列表)。这样做经常会导致恼人的臭虫。关于这个问题，我推荐艾尔·斯威加特的新书《超越蟒蛇的基本技能》第八章<https://inventwithpython.com/beyond/>****。********
 
 ## ******任何的******
 

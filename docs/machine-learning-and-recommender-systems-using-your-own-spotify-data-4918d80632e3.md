@@ -60,7 +60,7 @@ Spotify 还可以为一首曲目提供[音频功能](https://developer.spotify.c
 
 有了上面的表格数据集，通过从 1 到 10 对训练集中的歌曲进行评级，可以相当直接地将其表述为一个经典的回归问题，或者通过尝试推荐与我们最喜欢的歌曲相似的歌曲作为一个分类问题(如果您有一个最喜欢的歌曲的播放列表，这是一个相当简单的方法)。记住从训练和测试数据集中删除重复的轨迹 id，以避免数据泄漏！
 
-**XGBoost 和 RandomForest 分类器在我这里表现不错**[](https://github.com/anthonyli358/spotify-recommender-systems/blob/main/recommender_playlists.ipynb)****。****
+**XGBoost 和 RandomForest 分类器在我这里表现不错**<https://github.com/anthonyli358/spotify-recommender-systems/blob/main/recommender_playlists.ipynb>****。****
 
 **然而，上述方法严重依赖于特征工程和用户来提供标签。当用户有一个新帐户或者没有提供任何评级时，它遭受错误标记不准确和冷启动问题，因此经常使用推荐系统方法来代替。**
 

@@ -119,11 +119,7 @@ GPT 3 号知道什么是烤面包机。它也知道情书的特征。但是将�
 
 在 GPT-3 的帮助下，我创作了像“[科斯特纳的情报](https://medium.com/narrative/k%C3%B6stnersche-intelligenz-7baced455046?sk=b7e7e7c5d50f16e951fcef89c0ba8e9c)”这样的短篇犯罪故事，参加了[的多媒体故事纳米小说](https://medium.com/merzazine/nanowrimo-end-of-the-world-as-we-know-it-ea9216e64a2f?sk=61c1c7985d7320ad2accdf3e6a84cd50)，或者创作了新的诗歌:
 
-[](https://medium.com/merzazine/the-method-3a2428a8bfff) [## “方法”。
-
-### 一首诗，m̶i̶h̶a̶i̶l̶̶c̶ă̶r̶t̶ă̶r̶e̶s̶c̶u̶人工智能写的。
-
-medium.com](https://medium.com/merzazine/the-method-3a2428a8bfff) 
+<https://medium.com/merzazine/the-method-3a2428a8bfff>  
 
 我也对我们的现实进行了本体论的讨论:
 
@@ -131,11 +127,7 @@ medium.com](https://medium.com/merzazine/the-method-3a2428a8bfff)
 
 记得我的“空房间”故事板，由 GPT-2 写的吗？我用 GPT-3 得到了一个非常不同的故事——一段关系的心理死胡同:
 
-[](https://medium.com/narrative/empty-room-september-2020-daa90a5dce02) [## 空房间(2020 年 9 月)
-
-### 由人工智能(GPT-3)创作的舞台剧。
-
-medium.com](https://medium.com/narrative/empty-room-september-2020-daa90a5dce02) 
+<https://medium.com/narrative/empty-room-september-2020-daa90a5dce02>  
 
 顺便说一下，关系。在一个实验中，我允许两个人工智能代理之间进行无人监督的对话——并且它很快升级了…
 
@@ -169,11 +161,7 @@ JukeBox 还以一种诡异的美用未知的语言从头开始制作歌曲:
 
 顺便说一句。我写了更多关于完全由人工智能生成内容的播客的制作:
 
-[](/creating-a-podcast-with-a-i-6fe6a0ec6c37) [## 用人工智能创建播客
-
-### 点唱机、GPT 3 和人工智能语音(包括 5 个稀有样本和 1 个播客)
-
-towardsdatascience.com](/creating-a-podcast-with-a-i-6fe6a0ec6c37) 
+</creating-a-podcast-with-a-i-6fe6a0ec6c37>  
 
 # AI/ML 艺术画廊
 
@@ -181,19 +169,11 @@ towardsdatascience.com](/creating-a-podcast-with-a-i-6fe6a0ec6c37)
 
 由谷歌艺术&文化实验室的居民[埃米尔·沃纳](https://medium.com/u/f34790c03149?source=post_page-----6125b7900e9d--------------------------------)呈现。
 
-[](https://mlart.co/) [## ML Art -展示创造性的机器学习艺术品和项目
-
-### Emil Wallner 是谷歌艺术与文化实验室的一名居民，他已经策划了一个与机器学习项目相关的档案…
-
-mlart.co](https://mlart.co/) 
+<https://mlart.co/>  
 
 这个画廊由艺术家兼人工智能画廊主巴鲁·埃利奥特管理。
 
-[](http://www.aiartonline.com/) [## 艾艺术画廊
-
-### neur IPS 2020 年创意和设计机器学习研讨会
-
-www.aiartonline.com](http://www.aiartonline.com/) 
+<http://www.aiartonline.com/>  
 
 # 旅程还在继续。
 

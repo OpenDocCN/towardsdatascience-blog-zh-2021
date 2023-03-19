@@ -55,11 +55,7 @@ Pipe 如何提高 Python 中代码的可读性——作者[的代码片段](http
 
 这就是 Pipe 帮助我们简化代码的方式。我们可以对集合进行链式操作，而无需编写单独的代码行。
 
-[](/python-code-formatting-made-simple-with-git-pre-commit-hooks-9233268cdf64) [## 使用 Git 预提交挂钩简化 Python 代码格式化
-
-### 写大家都会爱上的代码。
-
-towardsdatascience.com](/python-code-formatting-made-simple-with-git-pre-commit-hooks-9233268cdf64) 
+</python-code-formatting-made-simple-with-git-pre-commit-hooks-9233268cdf64>  
 
 但是在 Pipe 中有更酷的操作，就像我们在上面的例子中使用的那样。此外，如果我们需要非常独特的东西，我们可以创建一个。我们先来探讨一些预置的操作。
 
@@ -176,11 +172,7 @@ Skip_while 的工作方式很像 take_while，只是它只在满足某些条件�
 
 这里需要注意的是，我还没有在大型项目中使用过 Pipe。我还没有探索它在大规模数据集和数据管道上的表现。但我确实相信这个包将在离线分析中发挥重要作用。
 
-[](/python-project-structure-best-practices-d9d0b174ad5d) [## 让您的 Python 项目结构更优雅的 7 种方法
-
-### 以下是易于管理、可伸缩且易于理解的 python 项目结构的最佳实践。
-
-towardsdatascience.com](/python-project-structure-best-practices-d9d0b174ad5d) 
+</python-project-structure-best-practices-d9d0b174ad5d>  
 
 > *感谢阅读，朋友！跟我打招呼上*[***LinkedIn***](https://www.linkedin.com/in/thuwarakesh/)*[***Twitter***](https://twitter.com/Thuwarakesh)*，以及* [***中***](https://thuwarakesh.medium.com/) *。**
 > 

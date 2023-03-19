@@ -244,8 +244,4 @@
 
 我也写机器学习/人工智能相关的核心话题！
 
-[](/wondering-why-do-you-subtract-gradient-in-a-gradient-descent-algorithm-9b5aabdf8150) [## 想知道为什么在梯度下降算法中要减去梯度？
-
-### 易于理解的向量微积分洞察力具有偏导数，梯度和方向导数
-
-towardsdatascience.com](/wondering-why-do-you-subtract-gradient-in-a-gradient-descent-algorithm-9b5aabdf8150)
+</wondering-why-do-you-subtract-gradient-in-a-gradient-descent-algorithm-9b5aabdf8150> 

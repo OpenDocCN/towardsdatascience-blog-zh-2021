@@ -155,11 +155,7 @@ adaptive softmax 是一种基于类的分层 softmax，旨在满足和解决上�
 
 有关完整的实现，请参见以下内容:
 
-[](https://github.com/Jmkernes/PAR-Transformer-XL/blob/main/adaptive_softmax.py) [## Jmkernes/PAR-Transformer-XL
-
-### 一个实施注意当需要变压器:https://arxiv.org/pdf/2009.04534.pdf…
-
-github.com](https://github.com/Jmkernes/PAR-Transformer-XL/blob/main/adaptive_softmax.py) 
+<https://github.com/Jmkernes/PAR-Transformer-XL/blob/main/adaptive_softmax.py>  
 
 谢谢，祝适应愉快！
 

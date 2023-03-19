@@ -50,4 +50,4 @@ Infranodus 还提供了一组关于数据关系的统计数据。人们最常使
 
 重要的是要提到定价。InfraNodus 有一个免费的、[开源版本](https://github.com/noduslabs/infranodus)，需要一些编程知识。我用来准备图表的标准版本在云上工作，对于大多数较小的项目(9 欧元/月)来说很好。我也承认创作者没有把产品作为黑盒出售，而是在[原文](https://noduslabs.com/wp-content/uploads/2019/06/InfraNodus-Paranyushkin-WWW19-Conference.pdf)中共享基础设施。这对于那些可以在论文中引用来源和使用文本网络的研究人员来说很重要。
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

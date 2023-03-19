@@ -70,7 +70,7 @@
 
 作者图片
 
-概念逐渐漂移的一些例子有 [](/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb) :
+概念逐渐漂移的一些例子有 </machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb> :
 
 *   **推出替代产品** —在培训期间无法获得的产品(例如，如果该产品是市场上同类产品中的唯一产品)可能会对该型号产生不可预见的影响，因为它以前从未见过类似的趋势
 *   **经济变化**——利率的变化及其对更多贷款人拖欠贷款的影响可能会引起变化。
@@ -89,7 +89,7 @@
 
 作者图片
 
-但是这种变化也可能发生在公司的正常运作过程中，而不会发生疫情 [](/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb) 。
+但是这种变化也可能发生在公司的正常运作过程中，而不会发生疫情 </machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb> 。
 
 **道路网络的重大变化:**新道路的突然开放和其他道路的关闭或新公共铁路系统的增加可能会给交通预测模型带来麻烦，直到它收集了一些数据来处理，因为它以前从未见过类似的配置。
 
@@ -117,12 +117,4 @@
 
 [2]萨穆伊洛娃，E. (2021 年 6 月 22 日)。*生产中的机器学习:为什么要关心数据和概念漂移*。中等。[https://towards data science . com/machine-learning-in-production-why-you-should-care-data-and-concept-drift-d 96d 0 BC 907 FB](/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
 
-[](https://gsarantitis.wordpress.com/2020/04/16/data-shift-in-machine-learning-what-is-it-and-how-to-detect-it/) [## 机器学习中的数据转移:它是什么以及如何检测它
-
-### 问题让我们假设约翰是一家银行的数据科学家。他的经理让他创建一个模型…
-
-gsarantitis.wordpress.com](https://gsarantitis.wordpress.com/2020/04/16/data-shift-in-machine-learning-what-is-it-and-how-to-detect-it/) [](/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb) [## 生产中的机器学习:为什么你应该关心数据和概念漂移
-
-### 没有一种模式是永恒的。即使数据质量很好，模型本身也会开始退化。这在…中意味着什么
-
-towardsdatascience.com](/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
+<https://gsarantitis.wordpress.com/2020/04/16/data-shift-in-machine-learning-what-is-it-and-how-to-detect-it/>  </machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb> 

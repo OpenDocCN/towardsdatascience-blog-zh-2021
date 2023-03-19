@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将讨论课程的第三单元(第二部分)，遗传算法——高级主题。在前一篇文章中，我们实现了一个简单但强大的遗传算法来解决一系列优化问题。如果你还没有阅读这篇文章，请阅读它，因为它将详细阐述所涉及的内容，你可以在这里查看:
 
-[](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 在这篇文章中，我将通过介绍一些高级话题来总结第三单元遗传算法的材料和概念。这些主题包括控制参数(超参数)，遗传算法的各种变体，通过聚类的选择性交配，以及如何处理约束。
 
@@ -114,11 +110,7 @@ k 均值聚类的工作原理是选择聚类的数量，选择初始 k 均值点
 
 如果您对这些类型的优化问题感兴趣，请查看我在优化理论上的帖子，在那里我详细讨论了这些类型的约束:
 
-[](https://morganscottbrandon.medium.com/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-1-optimization-theory-e416dcf30ba8) 
+<https://morganscottbrandon.medium.com/unit-1-optimization-theory-e416dcf30ba8>  
 
 # **结论**
 
@@ -126,8 +118,4 @@ morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-1-opti
 
 在下一篇文章中，我们将总结第 3 单元，应用进化神经网络的权重进行时间序列分析！
 
-[](https://morganscottbrandon.medium.com/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595) [## 单元 3 应用)用于时间序列分析的进化神经网络
-
-### 第三单元的高潮是应用我们的概念来发展一个预测时间序列问题的神经网络
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595)
+<https://morganscottbrandon.medium.com/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595> 

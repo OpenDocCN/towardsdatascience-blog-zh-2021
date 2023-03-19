@@ -34,11 +34,7 @@
 
 几年前，我参与开发了一个车辆路径优化器，这让我学到了很多关于离散优化算法的知识。我在下面的文章中总结了我的心得。
 
-[](/of-taboos-neighbors-and-optimization-2955b72fbdf) [## 禁忌、邻居和优化
-
-### 改善您的路线
-
-towardsdatascience.com](/of-taboos-neighbors-and-optimization-2955b72fbdf) 
+</of-taboos-neighbors-and-optimization-2955b72fbdf>  
 
 在回顾了所有这些想法之后，我决定为这个问题开发一个基于 Python 的优化解决方案。我现在展示的是一个概念验证的代码，这个概念验证可能会导致一个独立的 Python 包。让我们从回顾问题模型开始。
 

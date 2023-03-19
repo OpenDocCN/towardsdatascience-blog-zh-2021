@@ -32,11 +32,7 @@ $ **git clone** [**https://github.com/CrashedBboy/Quick_SLPK_Server**](https://g
 
 在本文中，我将使用纽约市 LoD2 从[这里](http://www.arcgis.com/home/item.html?id=44039155906640438c906d47fac50301)。在我的上一篇文章中，有大量的开源 3D 数据:
 
-[](/open-source-3d-semantical-building-models-in-2020-f47c91f6cd97) [## 2020 年开源 3D 语义建筑模型
-
-### 开源 3D 城市模型的完整列表(2020 年 10 月更新)
-
-towardsdatascience.com](/open-source-3d-semantical-building-models-in-2020-f47c91f6cd97) 
+</open-source-3d-semantical-building-models-in-2020-f47c91f6cd97>  
 
 准备好 SLPK 层后，只需将它放在文件夹`**Quick_SLPK_Server\slpk**`中，在那里您可以克隆 repo。
 

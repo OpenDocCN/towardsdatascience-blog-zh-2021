@@ -54,36 +54,8 @@ SQLite 是可移植的，因此它也必须是非常轻量级的。事实上，�
 
 查看我最近的文章:
 
-[](https://miketechgame.medium.com/giving-django-another-shot-3e6f786b13f3) [## 再给姜戈一次机会
-
-### 第 1 部分:是时候重赛了…
-
-miketechgame.medium.com](https://miketechgame.medium.com/giving-django-another-shot-3e6f786b13f3) [](https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840) [## Ren'Py:构建视觉小说游戏的简单解决方案
-
-### 第 1 部分:入门
-
-python .平原英语. io](https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840) [](/mongodb-92370a2641ad) [## MongoDB
-
-### 从安装到实现:第 6 部分
-
-towardsdatascience.com](/mongodb-92370a2641ad) [](https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f) [## 用 MySQL 和 Python 组织我的图片
-
-### 又快又脏，但很管用…
-
-python .平原英语. io](https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f) [](https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89) [## 一直以来，我都在使用 SQL 反模式
-
-### 下面是如何修复它…
-
-medium.com](https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89) 
+<https://miketechgame.medium.com/giving-django-another-shot-3e6f786b13f3>  <https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840>  </mongodb-92370a2641ad>  <https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f>  <https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89>  
 
 参考资料:
 
-[](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) [## SQLite vs MySQL vs PostgreSQL:关系数据库管理系统的比较
-
-### 关系数据模型在数据库管理中占主导地位，它以行和列的表格来组织数据
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) [](https://www.educba.com/mysql-vs-sqlite/) [## MySQL 与 SQLite |你应该了解的 14 大区别
-
-### MySQL 是最流行和最受欢迎的开源关系数据库管理系统之一。广泛认为…
-
-www.educba.com](https://www.educba.com/mysql-vs-sqlite/)
+<https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems>  <https://www.educba.com/mysql-vs-sqlite/> 

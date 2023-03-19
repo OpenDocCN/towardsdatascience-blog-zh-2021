@@ -222,7 +222,7 @@
 
 ***[7]罗伊登，H. L .，&菲茨帕特里克出版社(1988 年)。 [*真实分析*](https://d1wqtxts1xzle7.cloudfront.net/52294021/royden-fitzpatrick-with-cover-page-v2.pdf?Expires=1631470382&Signature=H4e0qO07NWAjinatgPEO~bu89imKdAOjcxj4lz5RG30~DJn17y5Jp0jQ8pynzGH5pA3W6NL8lGgite4GhmloRU9my5OFOrVrV6exMAPpbidS1uKX-YxLomg-1iWMS9vUMR3K6~3fkkCkqcBhrR2mlTRl~WpZM1bbzRA9gdFvX7khrGnHl40FQzcjxpO9tzNDv~IAzEvFC3TJUBo6DzVCuOwLndtFxTeAY-zMX8m~6m3ScLG18VF~jM6vWaCXbA8QxpilTrMelRFmg-V~9csxF6q48y~H3gaVG0oamXuvyjHt7jdVl1U7ZTIfBqSJYsmdGN~t5pYMMcUcjqjrjkSN1A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) (第 32 卷)。纽约:麦克米伦。***
 
-***[8]斯特里查茨，R. S. (2000 年)。[](https://books.google.cz/books?hl=cs&lr=&id=Yix09oVvI1IC&oi=fnd&pg=PR13&dq=The+way+of+analysis&ots=6OdIBgu6SM&sig=F62O3ccoHVjy7VwtfCvrOl1ZOgE&redir_esc=y#v=onepage&q=The%20way%20of%20analysis&f=false)*的分析之道。琼斯&巴特利特学习。****
+***[8]斯特里查茨，R. S. (2000 年)。<https://books.google.cz/books?hl=cs&lr=&id=Yix09oVvI1IC&oi=fnd&pg=PR13&dq=The+way+of+analysis&ots=6OdIBgu6SM&sig=F62O3ccoHVjy7VwtfCvrOl1ZOgE&redir_esc=y#v=onepage&q=The%20way%20of%20analysis&f=false>*的分析之道。琼斯&巴特利特学习。****
 
 ****[9]何塞·a·费森达·阿吉雷，弗朗西斯科·j·弗雷尼切(2004 年)。 [*勒贝格测度的一种构造*](https://personal.us.es/facenda/lebesguefinal.pdf) 。****
 

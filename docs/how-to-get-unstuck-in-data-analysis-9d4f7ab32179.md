@@ -86,8 +86,4 @@
 
 想拖延解决问题的时间吗？查看我的一些其他文章:
 
-[](https://megandibble.medium.com/) [## Megan Dibble -中等
-
-### “在 Excel 中分析”选项是一个游戏改变者如果你是一个数据分析师，那么你可能有一个项目，其中…
-
-megandibble.medium.com](https://megandibble.medium.com/)
+<https://megandibble.medium.com/> 

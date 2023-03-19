@@ -14,7 +14,7 @@
 
 第二，即使只对强化收入感兴趣，该领域的许多算法都牢牢植根于动态编程。[在强化学习中可以区分四个策略类别](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a)，其中之一是**价值函数近似**。在使用这些方法之前，理解经典的值迭代算法是非常重要的。幸运的是，这篇文章恰好概述了这一点。
 
-[](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 
@@ -82,23 +82,7 @@ Python 算法非常接近萨顿&巴尔托提供的数学大纲，所以不需要
 
 *您可能感兴趣的一些其他最小工作示例:*
 
-[](/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9) [## 用 Python 实现策略迭代——一个最小的工作示例
-
-### 了解这个经典的动态规划算法，以优化解决马尔可夫决策过程模型
-
-towardsdatascience.com](/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9) [](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [## TensorFlow 2.0 中连续策略梯度的最小工作示例
-
-### 一个简单的训练高斯演员网络的例子。定义自定义损失函数并应用梯度胶带…
-
-towardsdatascience.com](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) 
+</implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9>  </a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  </a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b>  </a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  
 
 # 参考
 

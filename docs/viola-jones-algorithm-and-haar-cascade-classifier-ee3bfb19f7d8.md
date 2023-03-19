@@ -54,7 +54,7 @@ Viola Jones 是一种快速检测物体的新方法，具有每秒 15 帧的运�
 
 ![](img/3a4ddf02e56d7c27e3d8749b99352ea9.png)
 
-(图片由作者提供)灵感([](https://m.blog.naver.com/natalliea/222198638897)**)**
+(图片由作者提供)灵感(<https://m.blog.naver.com/natalliea/222198638897>**)**
 
 *原始图像中所有紫色框的总和等于积分图像中绿色框的总和减去积分图像中的紫色框。*
 

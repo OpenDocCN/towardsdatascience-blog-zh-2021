@@ -254,7 +254,7 @@ pd.read_csv('dataset.csv', index_col=0)
 
 一切都应该看起来不错，现在，如果你愿意，你可以执行一些基本的数据可视化。如果您想了解更多关于数据可视化的知识，请查看我的以下文章:
 
-[](/how-to-use-plotly-for-data-visualization-f3d62bbcfd92) [## 为什么我使用 Plotly 进行数据可视化
+</how-to-use-plotly-for-data-visualization-f3d62bbcfd92> [## 为什么我使用 Plotly 进行数据可视化
 
 towardsdatascience.com](/how-to-use-plotly-for-data-visualization-f3d62bbcfd92) 
 
@@ -268,8 +268,4 @@ towardsdatascience.com](/how-to-use-plotly-for-data-visualization-f3d62bbcfd92)
 
 ## Github 上的代码
 
-[](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Build-a-Dataset.ipynb) [## Medium-Misc-Tutorials/Build-a-dataset . ipynb at main Marcos an 93/Medium-Misc-Tutorials
-
-### 一组随机的中等教程。为 Marcos an 93/Medium-Misc-Tutorials 开发做出贡献，创建一个…
-
-github.com](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Build-a-Dataset.ipynb)
+<https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Build-a-Dataset.ipynb> 

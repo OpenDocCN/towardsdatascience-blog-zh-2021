@@ -67,11 +67,7 @@ K-means 聚类算法通常用于将客户群聚类为具有相似特征的离散
 
 Veusz 提供了输出数据的出色的 3D 可视化。作为一个例子，我使用的是商场客户细分数据集，该数据集可从 Kaggle 免费获得，用于学习目的:
 
-[](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) [## 商场客户细分数据
-
-### 市场篮子分析
-
-www.kaggle.com](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) 
+<https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python>  
 
 彩色 3D 散点图显示:
 
@@ -112,4 +108,4 @@ Veusz 是一个简单但功能强大的工具，用于可视化数据并为学�
 
 顺便说一下，它的名字应该读作“views”…
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

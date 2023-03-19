@@ -58,16 +58,8 @@ Excel 才是王道。它可能被你公司的许多利益相关者使用。它�
 
 对于那些使用 SQL 的人来说，在对两个列求和时检查这个可能的错误，并解释它是如何工作的:
 
-[](/sum-a-b-vs-sum-a-sum-b-31fb094b786) [## 总和(A+B)与总和(A)+总和(B)
-
-### 粉碎 SQL Bug！
-
-towardsdatascience.com](/sum-a-b-vs-sum-a-sum-b-31fb094b786) 
+</sum-a-b-vs-sum-a-sum-b-31fb094b786>  
 
 这将帮助您在 SQL 中使用 DateDiff()时避免年份计算错误:
 
-[](/using-sqls-datediff-for-age-dc0cb5b34190) [## 使用 SQL 的 DateDiff()表示年龄
-
-### 潜在的 Bug 以及如何避免它
-
-towardsdatascience.com](/using-sqls-datediff-for-age-dc0cb5b34190)
+</using-sqls-datediff-for-age-dc0cb5b34190> 

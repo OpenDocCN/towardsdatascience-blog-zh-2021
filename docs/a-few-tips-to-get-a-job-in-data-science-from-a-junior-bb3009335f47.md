@@ -34,11 +34,7 @@
 
 我认为你可以使用的最好的数据集是你自己的数据集，比如你的 WhatsApp 数据用于 NLP 项目。这是我在 WhatsApp 上做的项目:
 
-[](/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) [## 通过自然语言处理(NLP)了解您的朋友
-
-### 使用 NLP 和 Plotly 准备、探索和理解用户习惯。
-
-towardsdatascience.com](/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
+</get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09>  
 
 或者，你可以在你在 Spotify 上听的音乐 Strava 上分析你的体育活动。你也可以从你感兴趣的网站上删除一些数据。我们在任何地方都创建了如此多的数据！
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/get-to-know-your-friends-with-natural-language-processi
 
 在我的兼职课程中，讲师为我们的项目使用了一个 API，并试图找到一个以前从未做过的项目，以表明我们能够做得比平均水平更多。我最终用 Twitter API 做了一个分析法国政治运动的项目。见下面我写的文章。
 
-[](/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309) [## 如何使用 AWS 监控 Twitter 上的政治运动
-
-### 从 Twitter 上的#giletsjaunes 到仪表盘
-
-towardsdatascience.com](/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309) 
+</create-a-near-live-dashboard-using-twitter-and-aws-18879952e309>  
 
 随着云计算的兴起，我鼓励你在云上做一个项目(GCP、Azure 或 AWS ),因为许多公司都在转向云计算，而且由于真正缺乏了解云计算的人，这值得一试，对吗？你可以选择 GCP、AWS 或 Azure。
 

@@ -48,11 +48,7 @@ Dask 和 Vaex 数据帧与 Pandas 数据帧不完全兼容，但这两种工具�
 
 如果你错过了我关于 Dask 和 Vaex 的文章:
 
-[](/are-you-still-using-pandas-for-big-data-12788018ba1a) [## 你还在用熊猫做大数据吗？
-
-### Pandas 不支持多重处理，处理大数据集时速度很慢。有一个更好的工具可以把那些…
-
-towardsdatascience.com](/are-you-still-using-pandas-for-big-data-12788018ba1a) 
+</are-you-still-using-pandas-for-big-data-12788018ba1a>  
 
 # 实验
 

@@ -120,11 +120,7 @@ independent_var = [‘gdp_per_capita’,’population’,’stringency_index’,
 
 **这篇文章假设你对 Streamlit 的工作原理有所了解。如果你不知道，那么请看看下面的这篇文章**
 
-**[](/streamlit-101-an-in-depth-introduction-fc8aad9492f2) [## Streamlit 101:深入介绍
-
-### 利用 Airbnb 数据深入了解 Streamlit
-
-towardsdatascience.com](/streamlit-101-an-in-depth-introduction-fc8aad9492f2) 
+**</streamlit-101-an-in-depth-introduction-fc8aad9492f2>  
 
 ## 分析方法
 
@@ -145,11 +141,7 @@ towardsdatascience.com](/streamlit-101-an-in-depth-introduction-fc8aad9492f2)
 
 *注意——使用 pages 导航 Streamlit 应用并不是 Streamlit 平台的固有功能，但* [Praneel Nihar](https://medium.com/u/ffa230f1042d?source=post_page-----180b1c3372e4--------------------------------) 在此概述了一个解决方案:
 
-[](https://medium.com/@u.praneel.nihar/building-multi-page-web-app-using-streamlit-7a40d55fa5b4) [## 使用 Streamlit 构建多页面 Web 应用程序
-
-### 在前一篇博客中，我们看到了如何安装 streamlit 并构建一个简单的 hello world 应用程序。在这篇博客中，我们将看到如何…
-
-medium.com](https://medium.com/@u.praneel.nihar/building-multi-page-web-app-using-streamlit-7a40d55fa5b4) 
+<https://medium.com/@u.praneel.nihar/building-multi-page-web-app-using-streamlit-7a40d55fa5b4>  
 
 ## 散点图
 

@@ -226,11 +226,7 @@ R 平方值介于 0 和 1 之间
 
 感谢您阅读我的文章，希望对您有所帮助！
 
-[](/the-concepts-behind-logistic-regression-6316fd7c8031) [## 逻辑回归背后的概念
-
-### Sigmoid 函数、对数损失、优势比、模型系数、指标
-
-towardsdatascience.com](/the-concepts-behind-logistic-regression-6316fd7c8031) 
+</the-concepts-behind-logistic-regression-6316fd7c8031>  
 
 *关注此空间，了解更多关于 Python 和数据科学的文章。如果你喜欢看我的更多教程，就关注我的* [***中***](https://medium.com/@IndhumathyChelliah)[***LinkedIn***](https://www.linkedin.com/in/indhumathy-chelliah/)*[***推特***](https://twitter.com/IndhuChelliah) ***。****
 

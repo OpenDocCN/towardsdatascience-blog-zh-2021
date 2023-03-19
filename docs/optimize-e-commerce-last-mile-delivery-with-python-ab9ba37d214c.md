@@ -98,11 +98,7 @@ Parcels Delivered: 60/60
 
 此外，你正在最大限度地利用你的资源。
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。构建您的模型
 
@@ -161,11 +157,7 @@ OR-Tools 是 Google 的一个开源集合，提供了用于组合优化的工具
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 ## 可持续的数字孪生模型
 
@@ -187,11 +179,7 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 在本例中，我们使用数据分析来模拟商店补货频率的变化，并衡量对整体环境的影响。
 
-[](https://www.samirsaci.com/green-inventory-management-case-study/) [## 绿色库存管理-案例研究
-
-### 可持续发展如何减少时尚零售物流运作的二氧化碳排放量？
-
-www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-study/) 
+<https://www.samirsaci.com/green-inventory-management-case-study/>  
 
 # 关于我
 
@@ -199,11 +187,7 @@ www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-stu
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

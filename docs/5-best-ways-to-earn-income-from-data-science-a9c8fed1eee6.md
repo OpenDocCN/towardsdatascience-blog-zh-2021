@@ -30,11 +30,7 @@
 
 在继续下一个主题和下一节之前，我强烈建议查看我以前的一篇文章，该文章涉及了成功数据科学家的五个最重要的特征。这些品质非常重要，将在从数据科学中赚取收入的各种方式中发挥重要作用。
 
-[](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) [## 成功数据科学家的 5 大品质！
-
-### 找出将成功的数据科学家与其他人区分开来的独特特质
-
-towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) 
+</top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca>  
 
 > ***为什么是数据科学？***
 
@@ -94,11 +90,7 @@ towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f
 
 请随意查看我以前的一篇文章，其中包含了我对人工智能和数据科学的六个最佳创业选择的见解。
 
-[](/6-best-startup-choices-with-artificial-intelligence-360260ccf89e) [## 人工智能的 6 个最佳创业选择
-
-### 想用 AI 创业成功？
-
-towardsdatascience.com](/6-best-startup-choices-with-artificial-intelligence-360260ccf89e) 
+</6-best-startup-choices-with-artificial-intelligence-360260ccf89e>  
 
 ## 3.实习
 
@@ -180,26 +172,6 @@ towardsdatascience.com](/6-best-startup-choices-with-artificial-intelligence-360
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [## 数据科学的 10 大最佳工具和技术！
-
-### 每个数据科学家都必须考虑探索的 10 种最佳工具和技术，以获得更好的曝光率和更高的…
-
-towardsdatascience.com](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</10-best-tools-and-technologies-for-data-science-e335fb99c2f2>  </15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  </do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  </python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  </12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

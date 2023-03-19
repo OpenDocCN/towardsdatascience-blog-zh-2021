@@ -58,7 +58,7 @@
 
 ****还有一个单独的`label_book`文件夹，包含每个标签的五个“最佳”示例。我还将这些理想样本放入数据集，以丰富数据集。****
 
-*****注意:虽然对训练集和验证集的视觉检查在技术上并不严格，但*[*GoDataDriven*](https://godatadriven.com/blog/three-tips-for-data-centric-ai-and-one-data-science-lesson/)*团队创建了一个嵌入的可视化来证明它们之间风格分布的差异。你可以在这里找到 UMAP 的*[](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://godatadriven.com/wp-content/uploads/2021/08/altair.png)**。******
+*****注意:虽然对训练集和验证集的视觉检查在技术上并不严格，但*[*GoDataDriven*](https://godatadriven.com/blog/three-tips-for-data-centric-ai-and-one-data-science-lesson/)*团队创建了一个嵌入的可视化来证明它们之间风格分布的差异。你可以在这里找到 UMAP 的*<https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://godatadriven.com/wp-content/uploads/2021/08/altair.png>**。******
 
 *****![](img/113d1ef103999ba9d37abf933d567427.png)*****
 
@@ -191,12 +191,4 @@
 
 *****你可以在这里 找到这篇文章 [**的 GitHub 回购。同时，享受采用以数据为中心的方法的乐趣！**](https://github.com/kennethleungty/Data-Centric-AI-Competition)*****
 
-*****[](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) [## 用于计算机视觉中图像增强的顶级 Python 库
-
-### 为您的计算机视觉项目提供最好的增强库
-
-towardsdatascience.com](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) [](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [## 使用 OpenCV 和 TesseractOCR 进行俄罗斯车牌检测
-
-### 利用计算机视觉检测、识别和提取汽车牌照号码
-
-towardsdatascience.com](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c)*****
+*****</top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e>  </russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c> *****

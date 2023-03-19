@@ -85,13 +85,9 @@
 *如果你想看类似裴苏西主演的电视剧，你可以看看这些演员的电视剧:*
 
 1.  *申成洛( [*凯罗斯*](https://en.wikipedia.org/wiki/Kairos_(TV_series)) *，* [*末代皇后*](https://en.wikipedia.org/wiki/The_Last_Empress_(TV_series)) )*
-2.  *俊智贤([](https://en.wikipedia.org/wiki/Jirisan_(TV_series))**[*《蓝色海洋的传说》*](https://en.wikipedia.org/wiki/Legend_of_the_Blue_Sea) )***
+2.  *俊智贤(<https://en.wikipedia.org/wiki/Jirisan_(TV_series>)**[*《蓝色海洋的传说》*](https://en.wikipedia.org/wiki/Legend_of_the_Blue_Sea) )***
 3.  **朴信惠( [*西西弗斯:神话*](https://en.wikipedia.org/wiki/Sisyphus:_The_Myth) ， [*继承人*](https://en.wikipedia.org/wiki/The_Heirs) )**
 
 **如需进一步参考，可以查看下面我的 Github。**
 
-**[](https://github.com/intandeay/K-Actors) [## GitHub-in tanday/K-Actors:关于 K 剧和演员的探索
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/intandeay/K-Actors)**
+**<https://github.com/intandeay/K-Actors> **

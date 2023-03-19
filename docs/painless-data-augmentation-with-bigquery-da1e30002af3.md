@@ -10,7 +10,7 @@
 
 对于数据科学家来说，Google Cloud 的 BigQuery 是一个很好的工具，可以快速轻松地用外部数据扩充他们的数据集。具体来说，BigQuery 有一个来自各种不同来源的公共数据集的列表。你需要的只是一个谷歌云账号和一些基本的 SQL 知识。
 
-[](https://cloud.google.com/bigquery/public-data) [## BigQuery 公共数据集|谷歌云
+<https://cloud.google.com/bigquery/public-data> [## BigQuery 公共数据集|谷歌云
 
 cloud.google.com](https://cloud.google.com/bigquery/public-data) 
 
@@ -63,11 +63,7 @@ BigQuery UI 的屏幕截图
 
 最后，作为奖励，您可以通过 Python 使用以下包连接到 BigQuery:
 
- [## 谷歌云大查询
-
-### 如果没有合适的硬件和基础设施，查询海量数据集既耗时又昂贵。谷歌大查询解决了…
-
-googleapis.dev](https://googleapis.dev/python/bigquery/latest/index.html) 
+  
 
 # 链接/延伸阅读
 

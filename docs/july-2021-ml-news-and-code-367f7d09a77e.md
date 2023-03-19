@@ -26,11 +26,7 @@
 
 *👉想通过众包计算用专有技术训练像 Google 和 OpenAI 那样的大型模型吗？别再看了。*
 
-[](https://github.com/learning-at-home/hivemind) [## 在家学习/业余学习
-
-### Hivemind 是一个 PyTorch 库，用于在互联网上训练大型神经网络。它的预期用途是训练和…
-
-github.com](https://github.com/learning-at-home/hivemind) 
+<https://github.com/learning-at-home/hivemind>  
 
 🚀主要功能(来自自述文件)
 
@@ -53,11 +49,7 @@ github.com](https://github.com/learning-at-home/hivemind)
 
 *👉基于 PyTorch 的开源一体化语音工具包。*
 
-[](https://github.com/speechbrain/speechbrain) [## 言语大脑/言语大脑
-
-### SpeechBrain 是一个基于 PyTorch 的开源一体化语音工具包。目标是创建一个单一、灵活的…
-
-github.com](https://github.com/speechbrain/speechbrain) 
+<https://github.com/speechbrain/speechbrain>  
 
 🚀主要功能(来自自述文件)
 
@@ -83,11 +75,7 @@ github.com](https://github.com/speechbrain/speechbrain)
 
 *👉高分辨率单目深度估计。*
 
-[](https://github.com/compphoto/BoostingMonocularDepth) [## comp photo/boosting monoculardepth
-
-### 这个库包含我们的 CVPR2021 出版物的实现:提升单目深度估计模型以…
-
-github.com](https://github.com/compphoto/BoostingMonocularDepth) 
+<https://github.com/compphoto/BoostingMonocularDepth>  
 
 🚀这个实现太酷了，我们不得不包括它。它实现了 CVPR 2021 论文[通过内容自适应多分辨率合并](https://arxiv.org/abs/2105.14021) ⁰.将单目深度估计模型提升到高分辨率
 

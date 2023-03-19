@@ -128,19 +128,7 @@
 
 您可能还会对以下内容感兴趣:
 
-[](/introduction-to-backtesting-trading-strategies-7afae611a35e) [## 回溯测试交易策略简介
-
-### 了解如何使用 zipline 建立和回溯测试交易策略
-
-towardsdatascience.com](/introduction-to-backtesting-trading-strategies-7afae611a35e) [](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [## mpl finance——matplolib 相对不为人知的用于绘制金融数据的库
-
-### 包括快速创建图表的方法，如烛台，连科，或点和图
-
-towardsdatascience.com](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [](/learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86) [## 了解什么是深度图以及如何用 Python 创建深度图
-
-### 使用币安的 API 获取订单数据
-
-towardsdatascience.com](/learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86) 
+</introduction-to-backtesting-trading-strategies-7afae611a35e>  </mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd>  </learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86>  
 
 ***来自《走向数据科学》编辑的提示:*** *虽然我们允许独立作者根据我们的* [*规则和指导方针*](/questions-96667b06af5) *发表文章，但我们并不认可每个作者的贡献。你不应该在没有寻求专业建议的情况下依赖一个作者的作品。详见我们的* [*读者术语*](/readers-terms-b5d780a700a4) *。*
 

@@ -136,24 +136,8 @@ plt.pause(0.001)
 
 模拟是强化学习中探索性数据分析的一个步骤。一旦您对现实世界的数学行为有了更清晰的认识，您将能够设计更鲁棒的 RL 算法。如果你喜欢这篇文章，我会做更多真实世界的模拟，作为我的多代理 RL EDA 系列的一部分。敬请关注！
 
-【https://tinyurl.com/2npw2fnz】*订阅我的电子邮件简讯:*[](https://tinyurl.com/2npw2fnz)*****我定期在那里用通俗易懂的英语和漂亮的可视化总结 AI 研究论文。*****
+【https://tinyurl.com/2npw2fnz】*订阅我的电子邮件简讯:*<https://tinyurl.com/2npw2fnz>*****我定期在那里用通俗易懂的英语和漂亮的可视化总结 AI 研究论文。*****
 
 **最后，您可以在这里找到更多关于 RL 和仿真主题的资源:**
 
-**[](/getting-started-to-reinforcement-learning-tic-tac-toe-f1d32d53acb4) [## 强化学习入门—井字游戏
-
-### 实现一个简单的双代理强化学习模型
-
-towardsdatascience.com](/getting-started-to-reinforcement-learning-tic-tac-toe-f1d32d53acb4) [](https://github.com/AndreasKuhnle/SimRLFab) [## AndreasKuhnle/SimRLFab
-
-### 复杂工作车间生产计划和控制的模拟和强化学习框架
-
-github.com](https://github.com/AndreasKuhnle/SimRLFab) [](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/) [## 什么是强化学习？完全指南- deepsense.ai
-
-### 人工智能预计市场规模为 73.5 亿美元，正在突飞猛进地发展…
-
-deepsense.ai](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/) [](https://www.guru99.com/reinforcement-learning-tutorial.html) [## 强化学习:什么是，算法，应用，例子
-
-### 强化学习被定义为一种机器学习方法，它关注的是软件代理应该如何采取…
-
-www.guru99.com](https://www.guru99.com/reinforcement-learning-tutorial.html)**
+**</getting-started-to-reinforcement-learning-tic-tac-toe-f1d32d53acb4>  <https://github.com/AndreasKuhnle/SimRLFab>  <https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/>  <https://www.guru99.com/reinforcement-learning-tutorial.html> **

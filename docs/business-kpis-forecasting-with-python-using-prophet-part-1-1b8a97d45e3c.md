@@ -46,11 +46,7 @@
 
 *[**第二部分**](/forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029) 将致力于通过添加定制的季节性、节假日和通过修改一些更高级的参数来改进原始预测模型。特别是，我将展示如何以编程方式使用原始数据集中的日期标志来创建“假日”数据帧，作为模型的输入，并详细说明如何明智地调整傅立叶顺序来提高预测的准确性。*
 
-*[](/forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029) [## 使用 Prophet 用 Python 预测业务 KPIs 第 2 部分
-
-### 了解如何通过使用 Prophet 预测未来绩效来为您的企业增值
-
-towardsdatascience.com](/forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029) 
+*</forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029>  
 
 **第三部分**将是本教程的最后一篇，我将描述如何使用`numpy`进行快速模型评估，或者使用`statsmodels`中的评估方法或`fbprophet`包中固有的`cross validation`模块进行更高级的评估。
 
@@ -220,20 +216,4 @@ MAPE: 6.73587980896684
 
 # ***你可能也会喜欢***
 
-*[](/forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029) [## 使用 Prophet 用 Python 预测业务 KPIs 第 2 部分
-
-### 了解如何通过使用 Prophet 预测未来绩效来为您的企业增值
-
-towardsdatascience.com](/forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029) [](https://medium.com/analytics-vidhya/connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6) [## 使用环境变量隐藏您的密码
-
-### 关于如何在使用 Python 连接到数据库时使用环境变量隐藏密钥的教程
-
-medium.com](https://medium.com/analytics-vidhya/connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6) [](/7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867) [## 在 FAANG 访谈中，您将面临的 7 个基本 SQL 概念
-
-### 通过从真实面试中解决问题来练习，最终得到你应得的工作。
-
-towardsdatascience.com](/7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867) [](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719) [## Python 中计算加权平均值的 3 种方法
-
-### 在这篇简短的教程中，我将展示如何在 Python 中计算加权平均值，要么定义自己的函数，要么使用…
-
-towardsdatascience.com](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719)**
+*</forecasting-business-kpis-with-python-using-prophet-part-2-e969739c9029>  <https://medium.com/analytics-vidhya/connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6>  </7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867>  </3-ways-to-compute-a-weighted-average-in-python-4e066de7a719> **

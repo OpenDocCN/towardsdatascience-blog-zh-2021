@@ -10,11 +10,7 @@
 
 与相关性不同，因果关系是两个变量之间更强的关系。尽管很难断言两者之间存在因果关系，但一旦被证实，它会提供有意义的见解和信息指导。在我之前的文章中，我已经讨论了关于因果推理的什么、为什么和如何:
 
-[](/causal-inference-what-why-and-how-d7336b0081ec) [## 因果推理:什么、为什么和如何
-
-### 验证决策过程
-
-towardsdatascience.com](/causal-inference-what-why-and-how-d7336b0081ec) 
+</causal-inference-what-why-and-how-d7336b0081ec>  
 
 正如文章中提到的，证明因果关系的最可靠的方法是通过随机试验，这也被称为实验。然而，进行随机试验并不总是可行的。在这种情况下，我们可以使用一些在经济研究中广泛应用的“技巧”，利用历史数据进行因果推断。当某些条件适用时，回归不连续设计(RDD)就是这些技巧之一。在本文中，我将向您展示什么是 RDD，以及使用 RDD 进行因果推理的一些应用。
 
@@ -58,15 +54,7 @@ RDD 第一次被应用于评估奖学金项目的效果[(蓟和坎贝尔 1960)](
 
 这就是本文的全部内容。感谢您的阅读。这是我所有博客帖子的列表。如果你感兴趣的话，可以去看看！
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [](https://zzhu17.medium.com/membership) [## 阅读朱(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership) 
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  <https://zzhu17.medium.com/membership>  
 
 ## 参考
 

@@ -26,15 +26,7 @@
 
 查看这些关于自动化数据科学任务的文章，开始您的工作:
 
-[](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [## 高效数据科学家的懒惰心态:自动化如何有所帮助
-
-### 在数据科学中利用 CI/CD 和自动化
-
-towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [](/automation-in-data-science-f11fe389d49b) [## 数据科学中的自动化
-
-### 为什么我工作中最技术性的部分越来越容易，而最难的部分却一点关系都没有…
-
-towardsdatascience.com](/automation-in-data-science-f11fe389d49b) 
+</the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212>  </automation-in-data-science-f11fe389d49b>  
 
 ## 如果你在远程工作，利用你最有效率的时候安排你的工作日。
 

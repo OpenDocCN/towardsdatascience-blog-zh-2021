@@ -14,11 +14,7 @@
 
 不管你为什么或如何来到这里，你在这里，你正在考虑职业改变或职业开始。你在网上寻找薪水高、有智力挑战和满足感的工作。你会遇到不同的工作，数据科学工作角色看起来很吸引人，似乎很有前途。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 根据 LinkedIn 和美国消费者新闻与商业频道的调查，在过去的几年里，数据科学一直是最有前途和最受欢迎的工作之一。随着我们对数据的依赖与日俱增，我不认为数据科学的工作角色会很快出现在任何地方。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54)
 
 想要在数据科学领域有一个职业生涯，你需要学习一些核心概念，并尽可能多地构建项目来展示你的能力。这意味着你可以在相对较短的时间内成为一名数据科学家，与大学学费相比，你的钱更少。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 ## №2:这是一个高薪领域
 
@@ -78,11 +70,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 公平地说，我们还需要考虑选择数据科学职业的一些不利因素。
 
-[](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) [## 10 种不同的数据科学职称及其含义
-
-### 为你的技能选择合适的角色。
-
-towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) 
+</10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae>  
 
 ## №1:大多数工作角色都很模糊
 
@@ -120,11 +108,7 @@ towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean
 
 每个职业选择都有好有坏；这就是生活。应该由我们来评估自己容忍坏事变好事的能力。对我来说，成为数据科学家的优势超过了劣势，这就是我如何做出决定的。这就是你应该如何对待你的生活。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # 外卖食品
 

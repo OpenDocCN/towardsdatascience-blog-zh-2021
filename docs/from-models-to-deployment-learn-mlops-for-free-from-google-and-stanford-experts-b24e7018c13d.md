@@ -108,11 +108,7 @@
 
 这是一个从世界上一些最优秀的人那里了解更多关于 MLOps 的惊人机会:Robert Crowe(谷歌的 TensorFlow 开发工程师)、Laurence Moroney(谷歌的首席人工智能倡导者)和吴恩达(Coursera 的创始人，现在是斯坦福大学的兼职教授)。
 
-[](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership) 
+<https://ahmarshah.medium.com/membership>  
 
 # 参考
 

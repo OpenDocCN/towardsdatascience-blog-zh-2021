@@ -59,11 +59,7 @@ Kubernetes 编排了一个由网络连接的虚拟机云或分布。在 [Unsplas
 1.  Kubernetes 实际上是唯一的云操作系统。云供应商提供的其他服务是黑盒软件即服务(SasS)或您必须通过网络连接的单个对象。
 2.  Kubernetes 既可以是陈述性的，也可以是命令性的。
 
-[](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) [## 命令式与陈述式——Kubernetes 教程
-
-### 有两种基本的方式部署到 Kubernetes:命令式的，使用许多 kubectl 命令，或者声明式的，通过…
-
-medium.com](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) 
+<https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914>  
 
 # 我最好的理由
 
@@ -75,11 +71,7 @@ medium.com](https://medium.com/payscale-tech/imperative-vs-declarative-a-kuberne
 4.  Kubernetes 支持更改，例如图像更新，而不会给最终用户带来停机时间。
 5.  我可以在我的沙箱或任何联网的计算资源集群上使用 Kubernetes 作为分布式操作系统。
 
-[](https://alexellisuk.medium.com/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a) [## 演练——15 分钟内将 Kubernetes 安装到您的树莓派中
-
-### 掸掉你的树莓皮，是时候安装 Kubernetes 了，这一次，它将是无痛的——通过度量…
-
-alexellisuk.medium.com](https://alexellisuk.medium.com/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a) 
+<https://alexellisuk.medium.com/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a>  
 
 # 1.Kubernetes 是一个分布式计算操作系统
 
@@ -107,11 +99,7 @@ Kubernetes 作为一个操作系统有很多部分，是一个复杂的框架。
 
 除非您参与了 Kubernetes 的开源工作或者实现了一个定制工具，否则您不需要了解 Kubernetes 的架构和内部编排组件。
 
-[](https://appfleet.com/blog/understanding-kubernetes-custom-resource-definitions/) [## 理解和构建 Kubernetes 自定义资源定义(CRDs)
-
-### 比如说，你有一个构建在编排平台上的服务或应用，比如 Kubernetes。在…
-
-appfleet.com](https://appfleet.com/blog/understanding-kubernetes-custom-resource-definitions/) 
+<https://appfleet.com/blog/understanding-kubernetes-custom-resource-definitions/>  
 
 我详细介绍了有效使用 Kubernetes 所需的基本概念，同时避免了 Kubernetes 内部架构的复杂性。
 
@@ -178,11 +166,7 @@ Kubernetes 协调 pods，在*节点*上启动和初始化 *pods* ，如果它们
 
 下面这篇博客文章更详细地介绍了如何设置和改变哪个 Kubernetes 集群`kubectl`是针对 Minikube 的。
 
-[](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) [## Minikube 的配置文件是 Kubernetes 集群吗？
-
-### 我讨论了导致 Minikube 表现得像 Kubernetes 的稀疏记录的桥接概念。
-
-itnext.io](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) 
+<https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684>  
 
 在调用神奇的 Kubernetes 控制命令之前，你需要安装`[kubectl,](https://kubernetes.io/docs/tasks/tools/)`[。](https://kubernetes.io/docs/tasks/tools/)
 
@@ -287,11 +271,7 @@ Kubernetes workload 管理副本，而不是您。任何不响应(失败)的拷�
 
 **Minikube 和`[kubectl](https://kubernetes.io/docs/tasks/tools/)`的关系在以下章节中有详细说明:**
 
-**[](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) [## Minikube 的配置文件是 Kubernetes 集群吗？
-
-### 我讨论了导致 Minikube 表现得像 Kubernetes 的稀疏记录的桥接概念。
-
-itnext.io](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684)** 
+**<https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684> ** 
 
 # **9.您可以在大多数云供应商上部署 Kubernetes 即服务(SaaS)**
 

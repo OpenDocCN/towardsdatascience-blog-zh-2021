@@ -8,11 +8,7 @@
 
 图片由[博斯科在](https://unsplash.com/@bosco_shots) [Unsplash](https://unsplash.com/photos/30MiC1peec4) 上拍摄。一张夜间高速公路照片完美地再现了在黑暗中寻找大脑连接答案的过程。
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 **你为什么应该关心神经科学？**
 
@@ -44,7 +40,7 @@ medium.com](https://medium.com/@stefanobosisio1/membership)
 
 # 循环尖峰网络中的行为克隆:一个综合框架
 
-克里斯蒂亚诺·卡彭，保罗·穆拉托雷，皮尔·斯坦尼斯劳·保鲁奇，[](https://arxiv.org/abs/2109.01039)
+克里斯蒂亚诺·卡彭，保罗·穆拉托雷，皮尔·斯坦尼斯劳·保鲁奇，<https://arxiv.org/abs/2109.01039>
 
 **正如我们在前一篇论文中看到的，学习方法是神经科学中的一个热门话题。特别是，有两种互补的学习方法:基于错误策略的学习和基于目标策略的学习。在前一种方法中，误差信息被注入到神经网络中，并用于改善未来的性能，而在基于目标的方法中，选择并学习目标。在本文中，作者设计了一个新的更通用的框架，它可以被视为基于错误和基于目标的方法的来源，为神经网络学习动力学提供了新的见解。这种普遍观点可以看作是模仿学习和行为克隆的自然进化。特别地，基于文献，该模型假设了基于尖峰定时的神经网络的形式，该神经网络在实验上被认为在大脑中是关键的。**
 

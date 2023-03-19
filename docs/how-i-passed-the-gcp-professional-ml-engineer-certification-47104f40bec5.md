@@ -110,11 +110,7 @@ Billy Huynh 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 如果你正在准备 GCP ML 工程师认证，你可能会发现阅读这篇关于特征工程的文章很有用:
 
-[](/feature-engineering-3a380ad1aa36) [## 特征工程
-
-### 了解数据科学工作流程中最重要的步骤
-
-towardsdatascience.com](/feature-engineering-3a380ad1aa36) 
+</feature-engineering-3a380ad1aa36>  
 
 你只需花 7 分钟就能读完整本书，最终，你会对特性工程的基础有一个清晰的理解，这真的能帮助你获得认证。
 

@@ -94,4 +94,4 @@ Julia 语言中带 Arminjo 回溯的牛顿法。
 
 舒特，丽莎，奥斯卡·基，罗里·麦克·格拉斯，卢卡·科斯塔贝洛，波格丹一世·萨卡利安努，亚林·加尔，等。"通过隐含最小化认知和随机不确定性产生可解释的反事实解释."在*国际人工智能和统计会议*上，1756–64。PMLR。
 
-*全文发表于 2021 年 11 月 15 日 https://www.paltmeyer.com*[](https://www.paltmeyer.com/post/bayesian-logistic-regression/)**。**
+*全文发表于 2021 年 11 月 15 日 https://www.paltmeyer.com*<https://www.paltmeyer.com/post/bayesian-logistic-regression/>**。**

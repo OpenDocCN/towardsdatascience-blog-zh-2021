@@ -82,11 +82,7 @@
 
 在[媒体](/four-reasons-why-you-should-start-a-data-science-blog-6e34865ed818?sk=86a72592236f3619a259ddf9a4e35592)和 [LinkedIn](https://www.linkedin.com/posts/leihuaye_womanday-data-abtesting-activity-6774769825265909760-fxbR) 上的技术写作对我帮助很大。如果没有这些平台，我的求职之旅会困难得多。 [LinkedIn](https://www.linkedin.com/in/leihuaye/) 是一个基于人脉的职业网络，我的人脉构成了该领域的商业领袖和数据科学家。他们最迫切的需求是有什么解决方案可以解决他们的业务问题。因此，我对我的帖子进行了修改，以满足这些需求，并提供一站式解决方案。查看 LinkedIn[上的这篇文章，获取一个简单的例子:](https://www.linkedin.com/posts/leihuaye_womanday-data-abtesting-activity-6774769825265909760-fxbR)
 
-[](https://www.linkedin.com/posts/leihuaye_womanday-data-abtesting-activity-6774769825265909760-fxbR) [## 雷华叶在 LinkedIn 上:#womanday #data #abtesting | 18 条评论
-
-### A/B 测试的 1/4 方差减少:CUPED]在过去的几个月里，我一直在与研究科学家和数据…
-
-www.linkedin.com](https://www.linkedin.com/posts/leihuaye_womanday-data-abtesting-activity-6774769825265909760-fxbR) 
+<https://www.linkedin.com/posts/leihuaye_womanday-data-abtesting-activity-6774769825265909760-fxbR>  
 
 相比之下，我在 Medium 上的追随者是热切的数据学习者，他们希望了解如何实现该方法。因此，我详细阐述了技术细节，并特别关注代码实现。
 
@@ -170,11 +166,7 @@ www.linkedin.com](https://www.linkedin.com/posts/leihuaye_womanday-data-abtestin
 
 *在这篇文章中，我分享了数据科学家如何开发编码技能*:
 
-[](/how-data-scientists-can-improve-their-coding-skills-b4f2924198ae) [## 数据科学家如何提高他们的编码技能
-
-### 可以帮助你轻松编程的 6 个技巧
-
-towardsdatascience.com](/how-data-scientists-can-improve-their-coding-skills-b4f2924198ae) 
+</how-data-scientists-can-improve-their-coding-skills-b4f2924198ae>  
 
 *   **沟通，沟通，沟通。**
 
@@ -251,11 +243,7 @@ towardsdatascience.com](/how-data-scientists-can-improve-their-coding-skills-b4f
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 外卖食品
 

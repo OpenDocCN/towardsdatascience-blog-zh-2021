@@ -31,11 +31,7 @@
 
 在我们的练习中，我们将准备自己的自定义数据集。我用 skimage 生成了线坐标。给定起点和终点坐标，这将生成两个数组，表示属于该行的像素的索引。一个代表 x 的列表，另一个代表 y 的列表，把它们放在一起给出了直线经过的坐标。
 
-[](https://scikit-image.org/docs/dev/api/skimage.draw.html#skimage.draw.line) [## 模块:draw-skim age v 0 . 19 . 0 . dev 0 文档
-
-### 用于确定输出像素坐标的最大范围的图像形状。这对于…的圆很有用
-
-scikit-image.org](https://scikit-image.org/docs/dev/api/skimage.draw.html#skimage.draw.line) ![](img/aa5d31d1a8f8fac3e161b947252cdb09.png)
+<https://scikit-image.org/docs/dev/api/skimage.draw.html#skimage.draw.line>  ![](img/aa5d31d1a8f8fac3e161b947252cdb09.png)
 
 图 2:生成一行(作者图片)
 

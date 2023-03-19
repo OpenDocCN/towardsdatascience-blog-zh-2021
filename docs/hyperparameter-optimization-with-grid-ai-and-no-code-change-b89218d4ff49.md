@@ -10,11 +10,7 @@
 
 在[之前的一篇文章](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414)中，我们展示了如何将科学笔记本转换成一个标准的 python 包，以供分享。然后，我们演示了如何通过命令行界面(CLI)将普通 python 脚本转换为训练脚本，从而实现更快的超参数交互。
 
-[](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414) [## 将 Kaggle 培训笔记本转换为可共享代码
-
-### 这篇文章展示了如何轻松地将笔记本转换成标准的 Python 包，并包含了一个简单的命令行…
-
-towardsdatascience.com](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414) 
+</converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414>  
 
 配置好 CLI 后，我们现在可以将不同的超参数(如学习率或模型架构)传递给我们的模型，而无需更改任何代码……但我们如何识别这些参数值的哪些组合会产生性能最佳的模型呢？
 
@@ -63,11 +59,7 @@ grid datastore create \
 
 以下步骤假设我们已经从 data science 内核创建了 [GitHub 存储库](https://github.com/Borda/kaggle_plant-pathology)。现在，我们可以链接我们想要运行超参数搜索的[训练脚本](https://github.com/Borda/kaggle_plant-pathology/blob/a642861e8d4d896c15b10c5dfcf071d8436889b5/kaggle_plantpatho/cli_train.py)。如果你还没有创建一个 GitHub 回购，请查看[这篇文章](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414)，或者你可以跟随我冒昧为这篇文章准备的回购。
 
-[](https://github.com/Borda/kaggle_plant-pathology) [## GitHub-Borda/ka ggle _ plant-pathology:识别苹果树叶子上的病害类型
-
-### 叶部病害对苹果园的整体产量和质量构成了重大威胁。当前…
-
-github.com](https://github.com/Borda/kaggle_plant-pathology) 
+<https://github.com/Borda/kaggle_plant-pathology>  
 
 然后，我们选择想要使用的机器类型。在我们的例子中，我们需要一个 GPU 来训练我们的模型，所以我每次实验都选择了一个[单 T4](https://docs.grid.ai/products/run-run-and-sweep-github-files/machines) ，使用[点实例](https://spot.io/what-are-ec2-spot-instances)来显著降低成本。这 9 次实验(每次训练大约需要 30 分钟)花费了不到 1 美元的免费积分来调整一个可分级的模型。
 
@@ -106,19 +98,11 @@ PyTorch Lightning 默认提供[自动检查点](https://pytorch-lightning.readth
 
 在未来，我们将使用我们训练有素的模型，并展示如何准备离线运行的 Kaggle submission 内核，以便在比赛中进行评分。
 
-[](/submitting-model-predictions-to-kaggle-competition-ccb64b17132e) [## 向 Kaggle 竞赛提交模型预测
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 5/5 部分)
-
-towardsdatascience.com](/submitting-model-predictions-to-kaggle-competition-ccb64b17132e) 
+</submitting-model-predictions-to-kaggle-competition-ccb64b17132e>  
 
 **敬请关注，关注我了解更多！**
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

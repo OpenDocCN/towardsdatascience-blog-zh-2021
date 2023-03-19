@@ -55,4 +55,4 @@ Airbnb 最初是像 Craiglist 这样的网站，没有支付提供商——你�
 *   超越数据库，超越流处理器:数据管理的下一步是什么？
 *   [视频版](https://www.youtube.com/watch?v=wTI6zj9Xbn4)
 
-【https://edward-huang.com】最初发表于[](https://edward-huang.com/distributed-systems/architecture/stream-processing/2021/02/04/database-vs-stream-processing-what-it-means-for-the-future-of-data-management/)**。**
+【https://edward-huang.com】最初发表于<https://edward-huang.com/distributed-systems/architecture/stream-processing/2021/02/04/database-vs-stream-processing-what-it-means-for-the-future-of-data-management/>**。**

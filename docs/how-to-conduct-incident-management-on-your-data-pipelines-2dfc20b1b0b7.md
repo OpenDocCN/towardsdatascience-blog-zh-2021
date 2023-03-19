@@ -36,7 +36,7 @@
 
 *   [**devo PS 时代的事件管理& SRE**](https://www.infoq.com/presentations/incident-management-devops-sre/) (达蒙·爱德华兹，InfoQ)
 *   [**管理突发事件**](https://sre.google/sre-book/managing-incidents/) (《谷歌 SRE 手册》Andrew Stribblehill)
-*   [](https://tech.affirm.com/metrics-monitoring-and-alerting-90c9e8b60956)**(Elaine Arbaugh，Affirm Tech Blog)**
+*   <https://tech.affirm.com/metrics-monitoring-and-alerting-90c9e8b60956>**(Elaine Arbaugh，Affirm Tech Blog)**
 
 # **反应**
 
@@ -115,7 +115,7 @@
 
 *   ****[**根本原因分析，用例子和方法解释**](https://www.tableau.com/learn/articles/root-cause-analysis) (Tableau)****
 *   ****[**工业 4.0 时代的根本原因分析**](https://medium.datadriveninvestor.com/root-cause-analysis-in-the-age-of-industry-4-0-9516af5fb1d0) (Lior Kitain，*数据驱动投资人*)****
-*   ****[](https://thenewstack.io/field-guide-for-production-readiness/)****(伊恩·史密斯，*新栈*)********
+*   ****<https://thenewstack.io/field-guide-for-production-readiness/>****(伊恩·史密斯，*新栈*)********
 
 # ******无可指责的验尸******
 

@@ -120,4 +120,4 @@ Brian 认为，这就是为什么很难从一个人的头脑或研究中获得�
 
 “在未来 10 年，我们希望在人工智能方面像科技巨头一样优秀，”星巴克总裁兼首席执行官[凯文·约翰逊](https://www.marketingdive.com/news/how-starbucks-uses-ai-to-counter-mobiles-isolating-effect/570404/)在 Marketing Dive 中引用。星巴克的战略是以人为本的数字化战略。约翰逊补充说，正是这种愿景促使人们想要在一个能够影响世界积极变化的环境中做出贡献。
 
-*原载于 2021 年 6 月 30 日 https://hyperight.com*[](https://hyperight.com/deep-brew-transforming-starbucks-into-a-data-driven-company/)**。**
+*原载于 2021 年 6 月 30 日 https://hyperight.com*<https://hyperight.com/deep-brew-transforming-starbucks-into-a-data-driven-company/>**。**

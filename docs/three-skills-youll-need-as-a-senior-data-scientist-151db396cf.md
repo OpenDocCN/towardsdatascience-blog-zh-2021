@@ -169,8 +169,4 @@
 
 *如果你喜欢我分享的关于数据科学和机器学习的故事，考虑成为会员吧！*
 
-*[](https://thushv89.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-thushv89.medium.com](https://thushv89.medium.com/membership)*
+*<https://thushv89.medium.com/membership> *

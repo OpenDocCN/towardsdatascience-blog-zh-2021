@@ -12,11 +12,7 @@
 
 几个小时之内，你就可以看到艺术模型的结果。
 
-[](https://github.com/leopoldavezac/BayesianMMM) [## GitHub-leopoldavezac/BayesianMMM:(ml)-贝叶斯媒体混合建模的 python 实现…
-
-### 多年来，科学家们一直试图找到最佳方式来模拟媒体支出和收入之间的关系。曾经…
-
-github.com](https://github.com/leopoldavezac/BayesianMMM) 
+<https://github.com/leopoldavezac/BayesianMMM>  
 
 # 观众
 
@@ -149,11 +145,7 @@ github.com](https://github.com/leopoldavezac/BayesianMMM)
 
 *要了解如何使用 BayesianMMM，请参考 Github repo。*
 
-*[](https://github.com/leopoldavezac/BayesianMMM) [## GitHub-leopoldavezac/BayesianMMM:(ml)-贝叶斯媒体混合建模的 python 实现…
-
-### 多年来，科学家们一直试图找到最佳方式来模拟媒体支出和收入之间的关系。曾经…
-
-github.com](https://github.com/leopoldavezac/BayesianMMM) 
+*<https://github.com/leopoldavezac/BayesianMMM>  
 
 # 结论
 

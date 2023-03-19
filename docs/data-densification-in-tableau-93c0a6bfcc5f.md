@@ -149,10 +149,6 @@ Tableau 计算字段(图片由作者提供)
 
 关于这个话题的更多信息，你可以参考这篇[博客文章](https://www.flerlagetwins.com/2019/05/intro-to-data-densification.html)，其中 KEN FLERLAGE 对此做了更详细的描述。
 
-[](https://www.flerlagetwins.com/2019/05/intro-to-data-densification.html) [## 数据增密简介
-
-### 数据加密是 Tableau 中常用的技术。许多人写了它，包括画面…
-
-www.flerlagetwins.com](https://www.flerlagetwins.com/2019/05/intro-to-data-densification.html) 
+<https://www.flerlagetwins.com/2019/05/intro-to-data-densification.html>  
 
 感谢阅读！

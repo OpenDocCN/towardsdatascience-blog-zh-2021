@@ -14,11 +14,7 @@
 
 如果你已经有一台带独立 NVIDIA GPU 的 PC 或笔记本电脑，跳过这篇内容，跳到下面这篇我写的文章。
 
-[](/10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6) [## 借助 NVIDIA GPU，CatBoost 训练速度提高 10 倍
-
-### 使用 10M 行数据集比较 CatBoost CPU 和 GPU 的训练时间！
-
-towardsdatascience.com](/10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6) 
+</10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6>  
 
 CatBoost 模型可以使用 CPU 或 GPU 进行训练。很明显，对于大型数据集，通过 GPU 训练可以获得更好的加速(例如 10 倍)。
 
@@ -106,17 +102,13 @@ CatBoost GPU training 只有在您的 PC 配有 NVIDIA GPU 的情况下才能使
 
 使用 NVIDIA GPU 将训练 CatBoost 模型的速度提高 10 倍！
 
-[](/10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6) [## 借助 NVIDIA GPU，CatBoost 训练速度提高 10 倍
-
-### 使用 10M 行数据集比较 CatBoost CPU 和 GPU 的训练时间！
-
-towardsdatascience.com](/10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6) 
+</10x-times-fast-catboost-training-speed-with-an-nvidia-gpu-5ffefd9b57a6>  
 
 ## 阅读下一条(可选):
 
 为数据科学和机器学习任务选择合适的笔记本电脑！
 
-[](/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63) [## 数据科学和机器学习任务对完美笔记本电脑的 20 项必要要求
+</20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63> [## 数据科学和机器学习任务对完美笔记本电脑的 20 项必要要求
 
 towardsdatascience.com](/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63) 
 

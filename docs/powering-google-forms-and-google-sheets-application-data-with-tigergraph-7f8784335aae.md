@@ -299,22 +299,10 @@ service = build('sheets', 'v4', credentials=creds)sheet = service.spreadsheets()
 
 恭喜你。你现在可以正式将 Google Sheets 数据导入 TigerGraph 了！如果您遇到任何问题，请随时在 TigerGraph 社区论坛或 TigerGraph Discord 中提问。
 
-[](https://community.tigergraph.com) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com) [](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 607 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://community.tigergraph.com>  <https://discord.gg/gRHWBZNpxW>  
 
 最后，如果你想创建像这样的酷项目，并计划加入 TigerGraph 社区，了解社区贡献计划以获得奖励！
 
-[](https://www.tigergraph.com/community-contribution/) [## 图表分析用例|图表数据库解决方案
-
-### 使用 TigerGraph 的图形数据库解决方案连接、分析和学习数据。探索图表分析使用…
-
-www.tigergraph.com](https://www.tigergraph.com/community-contribution/) 
+<https://www.tigergraph.com/community-contribution/>  
 
 感谢你阅读这篇博客，我希望你加入 TigerGraph 社区，开始获得你的条纹！

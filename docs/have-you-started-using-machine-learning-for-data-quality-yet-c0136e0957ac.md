@@ -102,28 +102,8 @@ JD
 
 **推荐人:**
 
-[](https://eng.uber.com/monitoring-data-quality-at-scale/) [## 利用统计建模大规模监控数据质量
-
-### 糟糕的数据无法做出好的商业决策。在优步，我们使用汇总和匿名数据来指导…
-
-eng.uber.com](https://eng.uber.com/monitoring-data-quality-at-scale/) [](https://netflixtechblog.com/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732) [## 追踪坏人
-
-### 网飞的异常值检测
-
-netflixtechblog.com](https://netflixtechblog.com/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732) 
+<https://eng.uber.com/monitoring-data-quality-at-scale/>  <https://netflixtechblog.com/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732>  
 
 [https://engineering . LinkedIn . com/blog/2020/data-sentinel-automating-data-validation](https://engineering.linkedin.com/blog/2020/data-sentinel-automating-data-validation)
 
-[](https://medium.com/data-science-at-microsoft/partnering-for-data-quality-dc9123557f8b) [## 合作提高数据质量
-
-### 微软的两个小组如何在数据质量项目上合作。
-
-medium.com](https://medium.com/data-science-at-microsoft/partnering-for-data-quality-dc9123557f8b) [](https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469) [## Airbnb 的数据质量
-
-### 第 2 部分—新的黄金标准
-
-medium.com](https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469) [](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199) [## Airbnb 支付平台的异常检测
-
-### 作者陆
-
-medium.com](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199)
+<https://medium.com/data-science-at-microsoft/partnering-for-data-quality-dc9123557f8b>  <https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469>  <https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199> 

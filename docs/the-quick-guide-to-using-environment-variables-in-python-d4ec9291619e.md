@@ -100,10 +100,6 @@ pip install python-dotenv
 
 **我的另外几篇文章，你可能想看看:**
 
-**[](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) [## 将 Docker 与 VSCode 结合使用的好方法
+**</the-nice-way-to-use-docker-with-vscode-f475c49aab1b> [## 将 Docker 与 VSCode 结合使用的好方法
 
-towardsdatascience.com](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) [](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe) [## 如何使用 Bash 来自动化数据科学的枯燥工作
-
-### 使用命令行为您的数据科学项目编写一些可重用代码的指南
-
-towardsdatascience.com](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe)**
+towardsdatascience.com](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) </how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe> **

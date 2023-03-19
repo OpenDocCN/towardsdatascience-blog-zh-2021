@@ -14,11 +14,7 @@
 
 开源许可证——有时也称为 copyright left 许可证——要求任何发布开源应用程序的人发布一套规则，规定人们如何使用、更改和修改这些代码。做任何开源许可不允许的行为都会被认为是非法的，违反了许可的规定。
 
-[](/getting-started-with-open-source-roadmap-35c6f76682b7) [## 开始使用开源路线图
-
-### 关于如何开始为开源项目做贡献的 10 步指南。
-
-towardsdatascience.com](/getting-started-with-open-source-roadmap-35c6f76682b7) 
+</getting-started-with-open-source-roadmap-35c6f76682b7>  
 
 对于人们来说，这些许可证可能很难理解，坦率地说，需要阅读和理解它们的含义以及如何为您的应用程序选择正确的许可证。如果你需要帮助为你的项目选择许可证，试试[这个](https://choosealicense.com/)工具。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/getting-started-with-open-source-roadmap-35c6f76682b7)
 
 任何 GPL 许可都允许将许可材料用于商业用途。所以，你可以建立在 GPL 作品的基础上，并在你的工作场所使用它。如果你愿意，你也可以为你修改的作品申请专利。最后，如果你在一个更大的项目中使用一点 GPL 许可的作品，那么整个项目也必须是 GPL 许可的，这就是为什么 GPL 是开源许可中版权最多的。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 # №2: Mozilla 公共许可证(MPL)
 
@@ -48,11 +40,7 @@ towardsdatascience.com](/5-data-science-programming-languages-not-including-pyth
 
 Apache 许可证让开发人员可以自由选择在哪个许可证下发布他们的作品，只要他们提到原始许可证并记录对许可材料所做的更改。你也可以选择对你的一些材料进行闭源，并且可以在商业上使用许可的作品或者获得专利。
 
-[](/5-git-commands-that-dont-get-the-hype-they-should-d62af563acaa) [## 5 个 Git 命令没有得到应有的宣传
-
-### 用于调试和组织存储库的命令。
-
-towardsdatascience.com](/5-git-commands-that-dont-get-the-hype-they-should-d62af563acaa) 
+</5-git-commands-that-dont-get-the-hype-they-should-d62af563acaa>  
 
 # №4:麻省理工学院许可证
 
@@ -79,11 +67,7 @@ Boost 许可证是一种简单的许可许可证，在大多数情况下与 MIT 
 
 如果您不想深入了解权限和条件，只想尽快发布您的作品，那么非许可通常是开源许可的选择。所以，如果你没有任何关于如何使用你的源代码的规则，但是由于法律原因必须包括一个许可，你可以不要许可。
 
-[](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) [## 5 个数据科学开源项目，为你的简历增色不少
-
-### 通过这些项目，提高你的技能，充实你的简历
-
-towardsdatascience.com](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) 
+</5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3>  
 
 # 外卖食品
 

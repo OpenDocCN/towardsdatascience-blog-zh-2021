@@ -6,11 +6,7 @@
 
 在计算机视觉中，目标检测是一个有着众多应用的有趣领域。像任何其他受监督的机器学习任务一样，我们也需要为这个任务添加注释或标签。然而，对我们许多人来说，图像的注释可能是一项乏味耗时的任务(懒人？).当我写我的上一篇文章时，我强烈地感受到了这一点，链接如下。
 
-[](/computer-vision-on-edge-b5adb5c6ccde) [## 边缘的计算机视觉
-
-### AIoT 的目标检测:边缘计算实例
-
-towardsdatascience.com](/computer-vision-on-edge-b5adb5c6ccde) 
+</computer-vision-on-edge-b5adb5c6ccde>  
 
 所以大问题来了；
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/computer-vision-on-edge-b5adb5c6ccde)
 
 您可以从下面的 GitHub 存储库中下载注释器。
 
-[](https://github.com/anuradhawick/Object-Annotation-Maker) [## anuradhawick/对象注释制作人
-
-### 捕捉对象通常更容易，因为它们具有可移动的背景。然而，注释对象是相当…
-
-github.com](https://github.com/anuradhawick/Object-Annotation-Maker) 
+<https://github.com/anuradhawick/Object-Annotation-Maker>  
 
 存储库的自述文件中提供了运行说明。
 

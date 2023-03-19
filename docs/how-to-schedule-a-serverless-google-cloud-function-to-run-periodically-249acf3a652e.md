@@ -16,15 +16,11 @@
 
 要了解更多关于谷歌云功能及其好处的信息，请查看我在 Medium 上的另一篇文章。第一节简明扼要地解释了它。😄
 
-[](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [## 使用谷歌云功能作为无服务器端点的机器学习模型
-
-### 因此，你已经建立了一个模型，并希望将其生产为谷歌云平台(GCP)上的无服务器解决方案。让我…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) 
+</machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e>  
 
 # ⚠️⚠️家政公司
 
-*本文假设您已经拥有一个 GCP 账户。如果你没有，在这里注册*[](https://cloud.google.com/)**可以获得一些免费积分。**
+*本文假设您已经拥有一个 GCP 账户。如果你没有，在这里注册*<https://cloud.google.com/>**可以获得一些免费积分。**
 
 **如果你想从你的本地机器上与你的 GCP 账户进行交互，使用* [*这里*](https://cloud.google.com/sdk/docs/quickstart) *列出的步骤安装 Google Cloud SDK。**
 
@@ -201,16 +197,4 @@ towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-g
 
 ****你可能也会喜欢我的这些文章:****
 
-*[](https://python.plainenglish.io/the-only-data-science-machine-learning-book-i-recommend-4fc23b947dfe) [## 我推荐的唯一一本数据科学/机器学习书籍
-
-### 无论您是数据科学新手，还是正在寻找参考指南的经验丰富的专业人士，这都是一本好书，可以…
-
-python .平原英语. io](https://python.plainenglish.io/the-only-data-science-machine-learning-book-i-recommend-4fc23b947dfe) [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [## 使用谷歌应用引擎的无服务器应用的机器学习模型
-
-### 因此，您构建了一个模型，并希望将其部署为一个无服务器应用程序。让我告诉你如何使用 Docker 来做这件事…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [](https://medium.com/codex/3-simple-side-hustles-to-make-extra-income-per-month-as-a-data-scientist-7470030fbf43) [## 作为一名数据科学家，3 个简单的兼职每月赚取额外收入
-
-### 除了你的全职工作之外，这些副业也很容易做。
-
-medium.com](https://medium.com/codex/3-simple-side-hustles-to-make-extra-income-per-month-as-a-data-scientist-7470030fbf43)*
+*<https://python.plainenglish.io/the-only-data-science-machine-learning-book-i-recommend-4fc23b947dfe>  </machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156>  <https://medium.com/codex/3-simple-side-hustles-to-make-extra-income-per-month-as-a-data-scientist-7470030fbf43> *

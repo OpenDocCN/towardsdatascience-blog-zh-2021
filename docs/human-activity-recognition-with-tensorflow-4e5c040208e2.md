@@ -16,11 +16,7 @@
 
 这篇文章概述了 Daniel 运行 42 天(6 周)的短期项目的过程，最初是由 [Basecamp](https://basecamp.com/) 开发的，目的是尝试快速发布有用的软件。
 
-[](https://basecamp.com/shapeup/webbook) [## 顺利发展
-
-### 别兜圈子了，把重要的工作交出去
-
-basecamp.com](https://basecamp.com/shapeup/webbook) 
+<https://basecamp.com/shapeup/webbook>  
 
 为什么是 6 周？
 
@@ -129,7 +125,7 @@ basecamp.com](https://basecamp.com/shapeup/webbook)
 
 我还需要确保我的姿态代码是一个热编码，我的加速度数据是正常的，我删除了任何姿态代码和相应的数据，我不想在我的模型。如果您对额外处理的细节感兴趣，或者想要进行自己的实验，请查看 collab 笔记本。
 
-[](https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep.ipynb) [## 姿势分类实验
+<https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep.ipynb> [## 姿势分类实验
 
 colab.research.google.com](https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep.ipynb) 
 
@@ -242,7 +238,7 @@ Jason 详细介绍了他用来训练活动分类模型的开放访问数据集�
 
 我开始写代码，在我的数据上尝试这些模型。查看下面的新笔记本。
 
-[](https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep_mlm.ipynb) [## 姿势分类实验-MLM
+<https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep_mlm.ipynb> [## 姿势分类实验-MLM
 
 colab.research.google.com](https://colab.research.google.com/github/Ben-Jamin-Griff/AmputeePostureClassification/blob/main/notebooks/amputee_posture_classification_experiments_deep_mlm.ipynb) 
 
@@ -363,11 +359,7 @@ LSTM 模型和我自己的版本有同样的性能，88%的准确率…没有任
 
 真的，我只想买一个这样的…
 
-[](https://store.opencv.ai/products/oak-1) [## OpenCV 人工智能套件:OAK-1
-
-### OAK-1 是一款小巧但功能强大的 4K 相机，能够运行与 OAK-D 相同的高级神经网络，但即使在
-
-store.opencv.ai](https://store.opencv.ai/products/oak-1) 
+<https://store.opencv.ai/products/oak-1>  
 
 如果任何人有任何有趣的想法，然后让我知道。
 

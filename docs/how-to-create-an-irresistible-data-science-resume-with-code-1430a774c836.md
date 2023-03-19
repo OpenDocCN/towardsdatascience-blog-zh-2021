@@ -235,11 +235,7 @@ Overleaf 和 LaTeX 将使您不必亲自完成所有的格式编排(因此您永
 
 你可以在你的 Github 上添加一个链接来显示你的项目代码，甚至可以写一篇像这样的数据科学文章，用简单的英语解释你的项目是关于什么的(记住，HR 不懂编程，所以一篇文章会让其他人很容易知道你构建了什么，你是如何做的以及结果)
 
-[](/your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c) [## 你的第一份数据科学工作可能不是你所期望的
-
-### 数据科学工作的期望与现实
-
-towardsdatascience.com](/your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c) 
+</your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c>  
 
 恭喜你！你创造了一份不可抗拒的数据科学简历。你可以随时在评论区、电子邮件或 LinkedIn 上问我你想在简历中添加的任何特色。
 
@@ -247,8 +243,4 @@ towardsdatascience.com](/your-first-data-science-job-might-not-be-what-you-expec
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 阅读弗兰克·安德拉德(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

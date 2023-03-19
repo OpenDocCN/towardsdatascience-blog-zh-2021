@@ -128,4 +128,4 @@ Susan Q Yin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 如果你喜欢这篇文章，你可以看看我在 YouTube 上的其他视频。如果你想通过电子邮件了解我在做什么，你可以考虑注册我的[简讯](https://leonlok.co.uk/newsletter/)🙂
 
-*原载于 2021 年 12 月 30 日 https://leonlok.co.uk*[](https://leonlok.co.uk/blog/how-i-doubled-my-salary-data-analyst-to-data-scientist-in-3-years-uk/)**。**
+*原载于 2021 年 12 月 30 日 https://leonlok.co.uk*<https://leonlok.co.uk/blog/how-i-doubled-my-salary-data-analyst-to-data-scientist-in-3-years-uk/>**。**

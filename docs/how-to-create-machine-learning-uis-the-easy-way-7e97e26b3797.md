@@ -26,11 +26,7 @@
 
 此外，如果你需要复习 gradio，你可以看看我以前的教程，一步一步地指导你如何建立一个 Gradio 帐户。此外，您可以点击查看 gradio 网站[上的入门指南。](https://gradio.app/getting_started)
 
-[](/build-an-awesome-ui-for-your-machine-learning-models-7fab52ecdd86) [## 为你的机器学习模型建立一个令人敬畏的用户界面
-
-### 一步一步的指南，快速建立一个伟大的用户界面的 PDF 格式的有声读物转换器，包括部署步骤。
-
-towardsdatascience.com](/build-an-awesome-ui-for-your-machine-learning-models-7fab52ecdd86) 
+</build-an-awesome-ui-for-your-machine-learning-models-7fab52ecdd86>  
 
 在本教程中，我们将使用`tensorflow version 1.x`如果您想使用最新版本的`tensorflow 2.x`，您需要相应地重新培训该模型。但是，步骤应该是相同的。
 
@@ -86,11 +82,7 @@ def predict_shape(img):
 
 Gradio 有各种各样的组件可供您选择，以满足您的应用需求——点击此处查看完整的库组件。
 
-[](https://www.gradio.app/docs#i_image) [## 格拉迪欧
-
-### 使用“gradio.Interface()”函数使用 Gradio 创建接口。参数为…生成用户界面
-
-www.gradio.app](https://www.gradio.app/docs#i_image) 
+<https://www.gradio.app/docs#i_image>  
 
 对于这个应用程序，我们将使用图像组件，并将源设置为“canvas”以获得一个画板界面。此外，我们将画布的大小设置为 28x 28 像素。
 
@@ -140,11 +132,7 @@ gr.Interface(fn = predict_shape, inputs = input,
 
 直到这一步，你有一个 24 小时工作的可共享链接，如果你想保持链接，你需要在 [Gradio 主机](https://www.gradio.app/introducing-hosted)上托管应用程序，在那里你可以上传接口并获得一个永久链接。
 
-[](https://www.gradio.app/introducing-hosted) [## Gradio -介绍托管
-
-### 为您的机器学习模型部署接口的最简单方法。我们建立 Gradio 是为了成为最快的分享方式…
-
-www.gradio.app](https://www.gradio.app/introducing-hosted) 
+<https://www.gradio.app/introducing-hosted>  
 
 步骤很简单，您只需要:
 
@@ -166,11 +154,7 @@ www.gradio.app](https://www.gradio.app/introducing-hosted)
 
 然后可以在已部署的链接中找到已部署的接口。您可能会收到一封确认接口已成功部署的电子邮件—您可以在这里检查已部署的接口[。](https://gradio.app/g/salma71/sketch_predict)
 
-[](https://gradio.app/g/salma71/sketch_predict) [## 预测草图
-
-### 在 Google 的 QuickDraw 数据集上训练的卷积神经网络模型。
-
-gradio.app](https://gradio.app/g/salma71/sketch_predict) 
+<https://gradio.app/g/salma71/sketch_predict>  
 
 # 在集线器上显示
 

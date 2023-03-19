@@ -33,11 +33,7 @@
 
 首先，我们将使用我们的函数并创建一个 Python 包。如果您想使用 pip 进行安装，这是必要的。您可以在 [**这个资源库**](https://github.com/mike-huls/toolbox) 中查看我的所有文件夹和文件。
 
-[](/create-and-publish-your-own-python-package-ea45bee41cdc) [## 创建并发布您自己的 Python 包
-
-### 关于如何 pip 安装您定制的软件包的简短指南
-
-towardsdatascience.com](/create-and-publish-your-own-python-package-ea45bee41cdc) 
+</create-and-publish-your-own-python-package-ea45bee41cdc>  
 
 我们将在下面的步骤中创建一个。查看上面关于如何创建公共 Python 包的文章
 
@@ -45,11 +41,7 @@ towardsdatascience.com](/create-and-publish-your-own-python-package-ea45bee41cdc
 
 创建一个虚拟环境并添加一个 gitignore，否则，我们将创建一个不必要的大包。
 
-[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) [## 绝对初学者的虚拟环境——什么是虚拟环境，如何创建虚拟环境(+例子)
-
-### 深入探究 Python 虚拟环境、pip 和避免纠缠依赖
-
-towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) 
+</virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b>  
 
 ## **2。创建包文件夹**
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-
 *   工具箱/__init__。py
     这将告诉 python 工具箱文件夹是一个 Python 包。这个文件也可以用来导入函数，这样我们除了`from toolbox.functions import listChunker`还可以`import listChunker from toolbox`。创建该文件是必需的，但内容是可选的
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) [## Python 为什么这么慢，如何加速
-
-### 看看 Python 的瓶颈在哪里
-
-towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) 
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 ## **3。创建 setup.py**
 
@@ -82,11 +70,7 @@ towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a8415
 *   第 19 行:需要构建的所有包的列表:确保这与您的包文件夹名匹配
 *   第 20 行:您的包所依赖的包的列表。尽管我的函数都不使用请求，但出于演示的目的，我还是决定包含它。在这里包含一个包可以确保当 pip 安装工具箱包时，首先安装 requests，以便工具箱可以使用它。
 
-[](/thread-your-python-program-with-two-lines-of-code-3b474407dbb8) [## 用两行代码线程化您的 Python 程序
-
-### 通过同时做多件事来加速你的程序
-
-towardsdatascience.com](/thread-your-python-program-with-two-lines-of-code-3b474407dbb8) 
+</thread-your-python-program-with-two-lines-of-code-3b474407dbb8>  
 
 ## **4。其他可选文件**
 
@@ -98,11 +82,7 @@ towardsdatascience.com](/thread-your-python-program-with-two-lines-of-code-3b474
 
 现在我们的包已经创建好了，我们可以使用一个存储库来进行分发。首先，我们将创建存储库并使用它来 pip 安装我们的包。最后，我们将在修改源代码后更新我们的包。
 
-[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) [## 用 OpenCV 破坏猎鸭——初学者的图像分析
-
-### 编写代码，将击败每一个鸭子狩猎高分
-
-towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) 
+</image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6>  
 
 首先，创建一个存储库。你可以在任何使用 Git (GitHub、BitBucket 等)的平台上做到这一点。然后添加你所有的文件，确保忽略不必要的文件，并推送至 repo。
 
@@ -116,11 +96,7 @@ pip install git+[https://github.com/mike-huls/toolbox.git](https://github.com/Mu
 
 就是这样！很容易不是吗？另请注意，您可以从公共(如工具箱)和私有存储库安装！
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) [## 用 5 行代码创建一个快速、自动记录、可维护且易于使用的 Python API
-
-### 非常适合只需要一个完整、有效、快速和安全的 API 的(没有经验的)开发人员
-
-towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) 
+</create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e>  
 
 ## 更新您的包
 
@@ -130,11 +106,7 @@ towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-
 
 在 Docker 中使用你的包有一个非常简单的技巧:
 
-[](/use-git-submodules-to-install-a-private-custom-python-package-in-a-docker-image-dd6b89b1ee7a) [## 使用 git 子模块在 docker 映像中安装一个私有的定制 python 包
-
-### 这是一个复杂的题目，但我发誓并不难
-
-towardsdatascience.com](/use-git-submodules-to-install-a-private-custom-python-package-in-a-docker-image-dd6b89b1ee7a) 
+</use-git-submodules-to-install-a-private-custom-python-package-in-a-docker-image-dd6b89b1ee7a>  
 
 ## 其他优势
 
@@ -165,8 +137,4 @@ GitHub 提供了一个记录问题的地方，在“首页”有一个很好的�
 
 页（page 的缩写）学生:比如我正在做的事情？[跟着我！](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+<https://mikehuls.medium.com/membership> 

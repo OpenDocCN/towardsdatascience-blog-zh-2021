@@ -145,11 +145,7 @@
 
 如果你想查看我的个人资料以了解更多关于数据科学的信息，请随意，也可以查看我的另一篇关于[数据科学与机器学习运营工程师](/data-scientist-vs-machine-learning-ops-engineer-heres-the-difference-ad976936e651)【5】的类似文章。它强调了数据科学和 MLOps 之间的差异和相似之处，两者共享大量工具和经验，但也有所不同:
 
-[](/data-scientist-vs-machine-learning-ops-engineer-heres-the-difference-ad976936e651) [## 数据科学家 vs 机器学习运营工程师。区别就在这里。
-
-### 深入探讨 Data Scientist 和 MLOps 的异同。
-
-towardsdatascience.com](/data-scientist-vs-machine-learning-ops-engineer-heres-the-difference-ad976936e651) 
+</data-scientist-vs-machine-learning-ops-engineer-heres-the-difference-ad976936e651>  
 
 *谢谢！*
 

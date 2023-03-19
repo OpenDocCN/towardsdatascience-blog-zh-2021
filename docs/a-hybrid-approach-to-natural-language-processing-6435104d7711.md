@@ -126,11 +126,7 @@ knn_classifier_score = knn_classifier.score(X_train, y_train)
 
 有关该项目的详细实现，您可以访问以下链接的存储库:
 
-[](https://github.com/rjrahul24/ai-with-python-series/blob/main/09.%20NLP%2C%20Bag%20of%20Words%20and%20Sentiment%20Analysis/Hybrid_Approach_to_NLP.ipynb) [## rjrahul24/hybrid-NLP
-
-### Python 系列教程，旨在学习人工智能概念。这一系列教程从…
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/blob/main/09.%20NLP%2C%20Bag%20of%20Words%20and%20Sentiment%20Analysis/Hybrid_Approach_to_NLP.ipynb) ![](img/24257a21c05bd3be84b0a9efd0e83ca5.png)
+<https://github.com/rjrahul24/ai-with-python-series/blob/main/09.%20NLP%2C%20Bag%20of%20Words%20and%20Sentiment%20Analysis/Hybrid_Approach_to_NLP.ipynb>  ![](img/24257a21c05bd3be84b0a9efd0e83ca5.png)
 
 就这样结束了！！|照片由[斯潘塞·伯根](https://unsplash.com/@shutterspence?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 

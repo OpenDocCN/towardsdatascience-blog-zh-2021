@@ -20,11 +20,7 @@
 
 我们将使用[**py torch Lightning**](https://www.pytorchlightning.ai/)作为我们的框架(因为它实在是太棒了)；如果你对它不熟悉，现在是学习基础知识的好时机！对于日志记录，我们将使用 [**权重&偏差**](http://wandb.ai/) (也因为它实在是太棒了)。我强烈建议您尝试一下，但是如果您喜欢不同的日志程序，您只需要修改一行代码(因为 PyTorch Lightning 实在是太棒了)。
 
-[](/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09) [## 从 PyTorch 到 py torch Lightning——一个温和的介绍
-
-### 这篇文章对使用 PyTorch 和 PyTorch Lightning 实现的 MNIST 进行了对比。
-
-towardsdatascience.com](/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09) 
+</from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09>  
 
 # 1.动机
 
@@ -75,11 +71,7 @@ PonderNet 从之前的研究[中创新出来，能够将更多的资源分配给
 
 图 2 非常直观地显示了隐藏状态如何流经所有步骤，以及每一步如何产生一对输出和停止的概率。如果你熟悉 RNNs，你会在结构中发现一些**相似之处。**
 
-[](/recurrent-neural-networks-rnns-3f06d7653a85) [## 递归神经网络
-
-### 用 Python 从头开始实现 RNN。
-
-towardsdatascience.com](/recurrent-neural-networks-rnns-3f06d7653a85) 
+</recurrent-neural-networks-rnns-3f06d7653a85>  
 
 ## λ的含义
 
@@ -107,11 +99,7 @@ towardsdatascience.com](/recurrent-neural-networks-rnns-3f06d7653a85)
 
 正则化损失在停止应该如何表现方面引入了偏差。它试图最小化由有质网生成的暂停分布和具有某个超参数λ *p* 的先验几何分布之间的**KL-散度**。对于那些不熟悉 KL-divergence 的人，可以随意查看下面的链接；直观上，我们所说的是我们希望网络产生的所有λ都接近λ *p.*
 
-[](/light-on-math-machine-learning-intuitive-guide-to-understanding-kl-divergence-2b382ca2b2a8) [## 理解 KL 分歧的直观指南
-
-### 我正在开始一个新的博客系列文章，遵循一个初学者友好的方法来理解一些…
-
-towardsdatascience.com](/light-on-math-machine-learning-intuitive-guide-to-understanding-kl-divergence-2b382ca2b2a8) 
+</light-on-math-machine-learning-intuitive-guide-to-understanding-kl-divergence-2b382ca2b2a8>  
 
 这个正则项的影响是双重的。一方面，我们**将预期的思考步骤数**偏向 1/λ *p* (因为这是几何分布的预期值)。另一方面，它**促进探索**通过在任何步骤中给予正概率来停止，不管它有多远。
 

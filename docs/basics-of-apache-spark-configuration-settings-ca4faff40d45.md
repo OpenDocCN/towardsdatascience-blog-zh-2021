@@ -140,24 +140,4 @@ spark.default.parallelism = spark.executor.instances * spark.executor.cores * 2s
 
 # 有用的链接
 
-[](https://medium.com/@ch.nabarun/apache-spark-optimization-techniques-54864d4fdc0c) [## Apache Spark 优化技术
-
-### 在讨论各种优化技术之前，快速回顾一下 spark 是如何运行的
-
-medium.com](https://medium.com/@ch.nabarun/apache-spark-optimization-techniques-54864d4fdc0c) [](https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/) [## How-to:调优 Apache Spark 作业(第 2 部分)
-
-### 编者按，2021 年 1 月:这篇博文仅供历史参考。它涵盖了 Spark 1.3，该版本…
-
-blog.cloudera.com](https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/) [](https://aws.amazon.com/tr/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/) [## 在 Amazon EMR 上成功管理 Apache Spark 应用程序内存的最佳实践|…
-
-### 在大数据领域，一个常见的使用情形是对海量数据执行提取、转换(ET)和数据分析…
-
-aws.amazon.com](https://aws.amazon.com/tr/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/) [](https://luminousmen.com/post/spark-anatomy-of-spark-application) [## 火花。Spark 应用剖析
-
-### Apache Spark 被认为是对大数据原始技术 Hadoop 的有力补充。火花是一个更…
-
-luminousmen.com](https://luminousmen.com/post/spark-anatomy-of-spark-application) [](https://spark.apache.org/docs/latest/tuning.html#memory-management-overview) [## 调谐火花
-
-### 由于大多数 Spark 计算的内存性质，Spark 程序可能会被内存中的任何资源阻塞
-
-spark.apache.org](https://spark.apache.org/docs/latest/tuning.html#memory-management-overview)
+<https://medium.com/@ch.nabarun/apache-spark-optimization-techniques-54864d4fdc0c>  <https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/>  <https://aws.amazon.com/tr/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/>  <https://luminousmen.com/post/spark-anatomy-of-spark-application>  <https://spark.apache.org/docs/latest/tuning.html#memory-management-overview> 

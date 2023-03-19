@@ -52,21 +52,13 @@
 
 **11。深度学习**是一种属于机器学习学科的技术。它基于受人脑结构启发的人工神经网络。它从大量数据中学习，尤其擅长从文本和图像等非结构化数据中发现模式。
 
-[](/decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4) [## 深度学习热潮背后的真正原因
-
-### 一个简单的英文解释，减去数学，统计和代码
-
-towardsdatascience.com](/decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4) 
+</decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4>  
 
 **12。增强智能**指的是以人为中心的合作伙伴关系，将人和人工智能结合在一起，以增强认知性能，包括学习、决策和新体验。(参考文献:[高德纳](https://www.gartner.com/en/information-technology/glossary/augmented-intelligence)，[福布斯](https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/))
 
 **13。集体智慧是指一个群体执行各种任务和解决各种问题的综合能力。企业可以通过协作、集体努力和许多个人在共识决策中的竞争来实现这一点。(引用:[维基百科](https://en.wikipedia.org/wiki/Collective_intelligence))**
 
-[](https://www.forbes.com/sites/ganeskesari/2021/04/28/collective-intelligence-is-about-to-disrupt-your-strategy-are-you-ready/) [## 集体智慧即将打乱你的战略:你准备好了吗？
-
-### 1997 年 5 月 11 日，一场划时代的战役在纽约爆发。这场比赛被称为大脑的最后一站，并被认为…
-
-www.forbes.com](https://www.forbes.com/sites/ganeskesari/2021/04/28/collective-intelligence-is-about-to-disrupt-your-strategy-are-you-ready/) 
+<https://www.forbes.com/sites/ganeskesari/2021/04/28/collective-intelligence-is-about-to-disrupt-your-strategy-are-you-ready/>  
 
 **14。描述性分析**是对数据或内容的检查，以回答问题“发生了什么？”它的典型特征是传统的商业智能(BI)和数据可视化。(参考:[高德纳公司](https://www.gartner.com/en/glossary))
 
@@ -78,21 +70,13 @@ www.forbes.com](https://www.forbes.com/sites/ganeskesari/2021/04/28/collective-i
 
 **18。数据可视化**属于信息设计领域。它是指使用图表、图形和地图等视觉元素对信息进行图形化表示。这样做的目的是使决策能够恰当地表达洞察力。
 
-[](https://blog.gramener.com/types-of-data-visualization-for-data-stories/) [## 72 种用于讲故事和可视化分析的数据可视化
-
-### 设计和可视化是数据故事的重要组成部分。它们帮助用户快速识别洞察。有…
-
-blog.gramener.com](https://blog.gramener.com/types-of-data-visualization-for-data-stories/) 
+<https://blog.gramener.com/types-of-data-visualization-for-data-stories/>  
 
 19。数据消费是指以有助于理解和行动的形式呈现见解。这通常是通过采用分析技术来识别见解和数据可视化技术来呈现见解来实现的。
 
 **20。数据叙事**是围绕数据及其伴随的可视化构建叙事的实践，有助于以强有力和引人注目的方式传达上下文和数据的含义。(编号: [TDWI](https://tdwi.org/portals/what-is-data-storytelling-definition.aspx#:~:text=Data%20storytelling%20is%20the%20practice,a%20powerful%20and%20compelling%20fashion.) )
 
-[](/how-ai-can-transform-you-into-a-master-storyteller-a6e8a3c55dcb) [## 人工智能如何把你变成一个讲故事的大师
-
-### 实现数据通信转型的 3 个步骤
-
-towardsdatascience.com](/how-ai-can-transform-you-into-a-master-storyteller-a6e8a3c55dcb) 
+</how-ai-can-transform-you-into-a-master-storyteller-a6e8a3c55dcb>  
 
 # 四。决策智能术语
 
@@ -102,11 +86,7 @@ towardsdatascience.com](/how-ai-can-transform-you-into-a-master-storyteller-a6e8
 
 **23。社会科学是科学的一个分支，致力于研究社会和社会中个人之间的关系。这一领域在数据领域越来越重要，因为它有助于深入了解人们的行为。(参考:[维基百科](https://en.wikipedia.org/wiki/Social_science))**
 
-[](/data-science-wont-improve-your-business-decisions-here-s-what-will-c2745e67c350) [## 数据科学不会改善你的商业决策。这就是威尔。
-
-### 决策智能是大多数项目中缺失的一环
-
-towardsdatascience.com](/data-science-wont-improve-your-business-decisions-here-s-what-will-c2745e67c350) 
+</data-science-wont-improve-your-business-decisions-here-s-what-will-c2745e67c350>  
 
 **24。决策支持系统(DSS)** 是支持组织决策活动的信息系统。这个领域在 20 世纪 70 年代有很多研究，在接下来的几十年里发展迅速。(引用:[维基百科](https://en.wikipedia.org/wiki/Decision_support_system))
 

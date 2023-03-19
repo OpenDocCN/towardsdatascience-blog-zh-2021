@@ -24,11 +24,7 @@
 
 每当我想用我不知道的数据做一些事情，无论是混合不同的来源，使用选择性过滤器，动作过滤器，LOD 表达式，我都在 Tableau 论坛上搜索。我会说我总能找到那个问题。因此，要么我会使用答案来了解如何做我想要做的事情，要么我会知道它不被支持，以及实现类似结果的变通办法。我在论坛上问过问题，论坛上的人真的很有帮助。以下是社区论坛的链接:
 
- [## Tableau 社区论坛
-
-### 编辑描述
-
-community.tableau.com](https://community.tableau.com/s/explore-forums) 
+  
 
 ## 3.实践
 
@@ -50,11 +46,7 @@ community.tableau.com](https://community.tableau.com/s/explore-forums)
 
 VizWiz 的创始人 Andy Kriebel 也有一个 youtube 频道，他在那里发布视频来提高你在 tableau 的职业生涯。你可以关注他的 youtube 频道了解更多信息。
 
-[](https://www.youtube.com/c/AndyKriebel/featured) [## 安迪·克里贝尔
-
-### 免费每周 Tableau 提示视频，帮助您学习、成长和提升您的职业生涯。别忘了:1。单击订阅…
-
-www.youtube.com](https://www.youtube.com/c/AndyKriebel/featured) 
+<https://www.youtube.com/c/AndyKriebel/featured>  
 
 我希望这些信息有助于你学习 Tableau，并有一天成为一名数据分析师。
 

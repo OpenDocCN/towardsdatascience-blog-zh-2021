@@ -172,11 +172,7 @@ GAN 生成的郊游滑雪板开/关的中间标高，作为温度变化的函数
 
 这个笔记本可以从我的[数据科学博客](https://tonio73.github.io/data-science/)上获得:
 
-[](https://nbviewer.ipython.org/github/tonio73/data-science/blob/master/generative/GAN_ski_outings.ipynb) [## nbviewer 笔记本
-
-### 根据来自上萨瓦省 www.camptocamp.org 的滑雪旅游郊游报告和当地温度数据报告…
-
-nbviewer.ipython.org](https://nbviewer.ipython.org/github/tonio73/data-science/blob/master/generative/GAN_ski_outings.ipynb) ![](img/0d496f3db2cdffa355b8ffbfd417c739.png)
+<https://nbviewer.ipython.org/github/tonio73/data-science/blob/master/generative/GAN_ski_outings.ipynb>  ![](img/0d496f3db2cdffa355b8ffbfd417c739.png)
 
 从作者穆什路看到的勃朗峰山脉
 

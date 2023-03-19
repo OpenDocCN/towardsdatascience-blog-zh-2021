@@ -108,12 +108,4 @@ Word2Vec 训练代码如下。我使用了流行的 python 库 Gensim。
 
 感谢阅读，我希望你喜欢它。这里有一些你可能感兴趣的我的其他故事…
 
-[](/organizing-machine-learning-projects-e4f86f9fdd9c) [## 组织机器学习项目
-
-### 组织机器学习项目的实用指南
-
-towardsdatascience.com](/organizing-machine-learning-projects-e4f86f9fdd9c) [](/automating-mundane-web-based-tasks-with-selenium-and-heroku-715a2f1ec35e) [## 使用 Selenium 和 Heroku 自动处理日常的基于 Web 的任务
-
-### 用简单的方法自动化掉那些不断重复的任务
-
-towardsdatascience.com](/automating-mundane-web-based-tasks-with-selenium-and-heroku-715a2f1ec35e)
+</organizing-machine-learning-projects-e4f86f9fdd9c>  </automating-mundane-web-based-tasks-with-selenium-and-heroku-715a2f1ec35e> 

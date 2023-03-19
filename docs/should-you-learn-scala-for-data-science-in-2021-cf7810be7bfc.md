@@ -32,11 +32,7 @@ Scala 开始创建一种新的基于 JVM 的语言，它可以避免几乎所有
 
 那些在 2021 年将 Scala 作为数据科学的一个选项的人，至少应该非常擅长编写 Python……当然，这只是我的主观看法，但 Python 更有可能让你找到工作，会有更好的文档，并且更容易学习。真正损害 Scala 受欢迎程度的是 Python 的受欢迎程度，但真正有趣的是，Julia 真的已经成为业界的一名杰出人物。我很想知道这是否会对 Scala 的流行产生影响。很久以前，我写了一篇关于这个话题的文章，如果你对这个话题感兴趣，你可以在这里阅读:
 
-[](/could-julia-replace-scala-77b73c345f6e) [## 朱莉娅能取代斯卡拉吗？
-
-### 实话实说:我们中的很多人真的希望将 Scala 从我们的数据科学工作流程中移除。Spark 是一种很好的方式…
-
-towardsdatascience.com](/could-julia-replace-scala-77b73c345f6e) 
+</could-julia-replace-scala-77b73c345f6e>  
 
 > 两年前的这个月初，哇——我怎么记得我写了这个？
 

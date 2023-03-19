@@ -16,11 +16,7 @@
 
 **在本文中，我们将从头开始构建一个端到端的现代数据平台，仅仅依靠**开源**技术和云提供商提供的资源。本文还附有一个 GitHub repo，其中包含构建平台所需的必要代码和基础设施代码(IaC)脚本。**
 
-**[](https://github.com/mahdiqb/modern_data_platform) [## GitHub-mahdikb/modern _ data _ platform:部署现代数据平台的示例配置。
-
-### 这个存储库包含不同的 IaC 脚本来部署一个样本现代数据平台，并附有一个样本…
-
-github.com](https://github.com/mahdiqb/modern_data_platform) 
+**<https://github.com/mahdiqb/modern_data_platform>  
 
 该平台将由以下组件组成:
 
@@ -247,8 +243,4 @@ github.com](https://github.com/mahdiqb/modern_data_platform)
 
 ***要了解更多数据工程内容，您可以订阅我的双周刊时事通讯 Data Espresso，我将在其中讨论与数据工程和技术相关的各种主题:***
 
-**[](https://dataespresso.substack.com/) [## 数据浓缩咖啡
-
-### 数据工程更新和评论伴随您的午后咖啡。点击阅读数据咖啡，由马赫迪…
-
-dataespresso.substack.com](https://dataespresso.substack.com/)**
+**<https://dataespresso.substack.com/> **

@@ -69,11 +69,7 @@ N-gram 语言模型基于前一个上下文窗口对单词评分。虽然 N-gram
 
 这是一个简单的剽窃检测实现。当然，还可以添加许多其他功能，例如处理引用、自动收集训练数据、比较不同学生提交的内容，或者对其进行调整以适用于剽窃的代码而不是文本。然而，该计划阐明了语言模型背后的一些关键思想和信息论对现实世界问题的适用性。如果你喜欢这个，你可能会喜欢我关于信息论的文章:
 
-[](/an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e) [## 对信息论基础的直观观察
-
-### 数据压缩、熵、加密、Kolmogorov 复杂性以及它们为何重要的非技术之旅
-
-towardsdatascience.com](/an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e) 
+</an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e>  
 
 ## 参考
 

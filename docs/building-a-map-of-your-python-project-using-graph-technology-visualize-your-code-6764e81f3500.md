@@ -205,8 +205,4 @@ df = pd.DataFrame(records, columns=["distances", "test_functions", "test_source"
 
 **如果你想了解更多关于这个项目的信息，你可以在 LinkedIn 上找到我。请随意和我聊一两个问题。**
 
-**[](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) [## Kasper Müller -高级顾问，数据和分析，金融服务，技术咨询- EY | LinkedIn
-
-### 技术、编程和数学，以及让其他人理解他们相对发现的东西的艺术…
-
-www.linkedin.com](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/)**
+**<https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/> **

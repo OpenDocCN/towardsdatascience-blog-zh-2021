@@ -14,11 +14,7 @@
 
 但是，当你加入一家公司，成为团队的一员时，你很可能只负责项目开发的一个步骤。然后你需要学习如何建立在他人的工作之上，如何与他们交流，以及如何一起工作来建立一个成功的项目。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 我们都知道，当我们被给予一个新项目时，寻找工具来使我们的生活变得容易可能不是首先想到的事情。毕竟，寻找数据科学工具就像一个永无止境的螺旋；一旦你进去了，可能需要几个小时——有时几天——才能出来！
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 DataRobot 提供了各种产品来改善您的生活，例如 DataRobot Cloud，它允许您构建最先进的预测模型并使用 AWS 扩展它们，以及 DataRobot Enterprise，它是为公司构建的平台，允许他们灵活部署他们的模型和强大、安全的按需客户平台。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.co](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №3: Trifacta
 
@@ -54,11 +46,7 @@ Trifacta 提供了一个令人惊叹的数据牧马人工具，通过为您提�
 
 使用 Apache Spark，您可以访问不同的数据管理源，如 Cassandra 和 S3。最后，Apache Spark 还提供了 80 多个操作符，允许您构建各种并行应用程序。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # **№5:层叠**
 
@@ -70,11 +58,7 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 在团队中工作并不总是容易的；你必须知道如何相互合作和协调；如果你的团队分布在世界各地，这将变得更具挑战性，这甚至在 COVID 之前就存在了。当团队分散在世界各地，具有不同的时区和母语时，任何有助于将术语结合在一起、加速工作并使其更有效的工具总是受欢迎的。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 我从未见过数据科学家或 IT 领域的任何人会说，“不，我不需要任何工具来加速和简化我的工作。”我们都很感激一点点帮助，一种帮助我们加快所需任务、重复性任务的工具，它让我们把大部分时间和能力花在需要创造力和智力的任务上。
 

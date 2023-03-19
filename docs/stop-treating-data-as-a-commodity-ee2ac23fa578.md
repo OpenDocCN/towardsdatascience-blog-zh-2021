@@ -86,11 +86,7 @@ TL；我们需要从以模型为中心到以数据为中心的 ML 开发的范�
 
 为了使应用 ML 中的事情更加复杂，您很可能会遇到某种数据漂移。一旦模型投入生产，当现实世界中要素或目标变量的基础分布发生变化时，就会发生这种情况。
 
-[](https://medium.com/hasty-ai/dealing-with-data-shift-44280ce6ea59) [## 处理数据转移
-
-### 像特斯拉这样的公司如何确保他们生产的 ML 模型适应不断变化的环境
-
-medium.com](https://medium.com/hasty-ai/dealing-with-data-shift-44280ce6ea59) 
+<https://medium.com/hasty-ai/dealing-with-data-shift-44280ce6ea59>  
 
 一个明显的例子是，您在夏天收集了初始训练数据并部署了您的模型，但在冬天，世界看起来完全不同，模型崩溃了。另一个更难预料的例子是当你的用户在与你的模型交互后开始改变他们的行为。
 
@@ -210,11 +206,7 @@ Andrew 和他的团队在从事制造业缺陷检测项目时，准确率停留�
 
 如果你想阅读更多关于如何做以数据为中心的 visionAI 的实践文章，请确保在 Medium 上关注我。
 
-[](https://medium.com/hasty-ai/uncovering-hidden-biases-in-your-data-93e978daf432) [## 发现数据中隐藏的偏见
-
-### 有一天，我和我们社区的一个成员聊天。我们开始谈论她面临的挑战…
-
-medium.com](https://medium.com/hasty-ai/uncovering-hidden-biases-in-your-data-93e978daf432) 
+<https://medium.com/hasty-ai/uncovering-hidden-biases-in-your-data-93e978daf432>  
 
 # *关于 Hasty.ai🦔*
 

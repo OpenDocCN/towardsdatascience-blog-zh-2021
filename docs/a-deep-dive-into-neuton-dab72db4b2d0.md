@@ -159,16 +159,4 @@ Diamond 数据集拥有 50，000 多条记录，可用于回归和多类分类�
 
 # 相关文章
 
-[](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [## 当你在等待数据分析结果时，你该如何打发时间
-
-### 当你的计算机正在运行你喜欢的算法，而你正在等待的时候，一些建议不要浪费你的时间…
-
-towardsdatascience.com](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [## Python PyCaret 中的完整数据分析工作流
-
-### 这是一个现成的教程，利用了我用过的最好的机器学习库。
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829)
+</how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb>  </a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4>  </automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829> 

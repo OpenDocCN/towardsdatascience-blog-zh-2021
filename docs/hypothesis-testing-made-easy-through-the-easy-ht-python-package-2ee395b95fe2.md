@@ -176,16 +176,4 @@ else:
 
 # 相关文章
 
-[](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) [## 描述性分析的简明介绍
-
-### 关于集中趋势、频率和分散指数的一些基本概念。
-
-medium.com](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) [](/data-normalization-with-python-scikit-learn-e9c5640fed58) [## 使用 Python scikit 进行数据规范化-学习
-
-### 继关于数据预处理的系列文章之后，在本教程中，我将讨论 Python 中的数据规范化…
-
-towardsdatascience.com](/data-normalization-with-python-scikit-learn-e9c5640fed58) [](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [## python 熊猫的基本统计数据
-
-### 入门指南
-
-medium.com](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62)
+<https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238>  </data-normalization-with-python-scikit-learn-e9c5640fed58>  <https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62> 

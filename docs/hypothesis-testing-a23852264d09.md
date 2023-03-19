@@ -132,11 +132,7 @@ def test_result(p, ref_pvalue=0.05): if p<ref_pvalue: result=”Reject null hypo
 
 如果你喜欢阅读应用统计学，你可能会喜欢这篇文章:
 
-[](/support-vector-machine-theory-and-practice-13c2cbef1980) [## 支持向量机:理论与实践
-
-### 了解 SVM，最强大的最大似然算法之一
-
-towardsdatascience.com](/support-vector-machine-theory-and-practice-13c2cbef1980) 
+</support-vector-machine-theory-and-practice-13c2cbef1980>  
 
 这篇文章是由亚瑟·梅洛和金斯利·埃塞格贝撰写的。
 

@@ -60,7 +60,7 @@ a(η)=-log(1-φ)
 
 或者，A(η)= log(1+exp(η))
 
-同样，对于均值未知、方差已知的正态分布[](https://statisticsbyjim.com/basics/normal-distribution/)**，p.d.f 如下**
+同样，对于均值未知、方差已知的正态分布<https://statisticsbyjim.com/basics/normal-distribution/>**，p.d.f 如下**
 
 **![](img/ec9640143016fba19aa020ca69c6e036.png)**
 

@@ -26,11 +26,7 @@ Colab 有一段有趣的历史。它最初是作为谷歌内部的数据分析�
 
 这样，您可以在本地硬件上执行代码并访问本地文件系统，而无需离开 Colab 笔记本。下面的文档更深入地介绍了它的工作方式。
 
-[](https://research.google.com/colaboratory/local-runtimes.html) [## 合作实验室-谷歌
-
-### Colaboratory 允许您使用 Jupyter 连接到本地运行时。这允许您在本地硬件上执行代码…
-
-research.google.com](https://research.google.com/colaboratory/local-runtimes.html) 
+<https://research.google.com/colaboratory/local-runtimes.html>  
 
 # 2.便条簿📃
 
@@ -68,11 +64,7 @@ Colab 笔记本的设计方式可以轻松地与 GitHub 集成。这意味着你
 
 > 你希望你的 Jupyter 笔记本也有同样的功能吗？我会掩护你的。您还可以在 **Jupyter 笔记本**中启用单元格完成通知。详情请阅读👇
 
-[](/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6) [## 在 Jupyter 笔记本中启用单元格完成通知
-
-### 当长时间运行的单元完成执行时得到通知。
-
-towardsdatascience.com](/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6) 
+</enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6>  
 
 # 5.搜索驱动器中的所有笔记本🔍
 
@@ -159,11 +151,7 @@ Kaggle 数据集到 Google Colab |作者图片
 
 不使用笔记本要不要使用 Colab 的基础设施？那么这个提示可能是给你的。由于社区的努力，创建了一个名为[C**olab code**](https://github.com/abhi1thakur/colabcode)**的包。**现在可以在 Colab 中运行 VSCode 了。从技术上讲，这是通过[代码服务器](https://github.com/cdr/code-server)完成的——一个运行在远程服务器上的 [Visual Studio 代码](https://code.visualstudio.com/)实例，可以通过任何网络浏览器访问。安装软件包的详细说明可以在下面找到。
 
-[](https://github.com/abhi1thakur/colabcode) [## abhi 1 takur/colabcode
-
-### 安装简单！$ pip 安装 colabcode 在 Google Colab 或 Kaggle 笔记本上运行代码服务器 ColabCode 也有一个…
-
-github.com](https://github.com/abhi1thakur/colabcode) 
+<https://github.com/abhi1thakur/colabcode>  
 
 这是这个过程的一个快速演示。
 

@@ -75,24 +75,8 @@ import numpy as np **print(my_arr.tolist())**
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [## 数据科学家必须知道的 16 个 Bash 命令
-
-### 探索一些最常用的 bash 命令
-
-towardsdatascience.com](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [## Python 中浅拷贝和深拷贝有什么区别？
-
-### Python 中的 copy()与 deepcopy()
-
-towardsdatascience.com](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38) [## 数据科学家和工程师必须知道的 8 个 venv 命令
-
-### 探索一些对 Python 日常编程最有用的虚拟环境命令
-
-towardsdatascience.com](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38)
+</16-must-know-bash-commands-for-data-scientists-d8263e990e0e>  </whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926>  </8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38> 

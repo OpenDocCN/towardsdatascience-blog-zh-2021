@@ -37,11 +37,7 @@
 
 这张图片显示了我们的问题设置中每个字母代表的含义。
 
-[](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom1.gif&imgrefurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom3.htm&tbnid=brz1spRymlKULM&vet=12ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ..i&docid=yDZN7C9J9IpfGM&w=412&h=205&q=binomial%20distribution%20formula&ved=2ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ) [## http://www . mathnstuff . com/math/口语/hee/2class/90/binom1.gif 的谷歌图片结果
-
-### 编辑描述
-
-www.google.com](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom1.gif&imgrefurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom3.htm&tbnid=brz1spRymlKULM&vet=12ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ..i&docid=yDZN7C9J9IpfGM&w=412&h=205&q=binomial%20distribution%20formula&ved=2ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ) 
+<https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom1.gif&imgrefurl=http%3A%2F%2Fwww.mathnstuff.com%2Fmath%2Fspoken%2Fhere%2F2class%2F90%2Fbinom3.htm&tbnid=brz1spRymlKULM&vet=12ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ..i&docid=yDZN7C9J9IpfGM&w=412&h=205&q=binomial%20distribution%20formula&ved=2ahUKEwiD8qLE_OPyAhVMS60KHaCgCucQMygGegUIARDPAQ>  
 
 如果硬币被操纵了，它 80%的时候都是正面朝上。现在，20 条尾巴的几率是多少？如果你对上面的公式感到满意，你会发现答案是 0.06%。
 

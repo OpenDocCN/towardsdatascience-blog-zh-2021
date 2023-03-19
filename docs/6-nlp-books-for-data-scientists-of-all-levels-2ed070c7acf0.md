@@ -12,11 +12,7 @@
 
 最受欢迎的数据科学分支是自然语言处理(NLP)。NLP 是计算机科学的一个分支，它关注的是让计算机理解和使用自然语言。自从计算机本身发明以来，对计算机理解我们并与我们交流的渴望就一直存在。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 然而，在过去的几年里，计算一直在快速前进，让机器学习和大数据等技术成为现实。不仅仅是现实，而是日常使用的技术。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 代码中提到的所有代码库都可以在 [GitHub](https://github.com/dipanjanS/text-analytics-with-python) 上免费访问。也许这本书最大的优点是它带你开始了构建一个实际的 NLP 应用程序的旅程。这就是它适合 it 专业人员、开发人员、工程师和分析师的原因。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # **№2: NLTK 书**
 
@@ -54,11 +46,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 它还附带了幻灯片草稿，如果任何人打算教 NLP，都可以使用。这本书是第一本包含聊天机器人、语音识别、对话系统和语音转文本软件基础的章节的书。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 # **№4:计算语言学和自然语言处理手册**
 
@@ -76,11 +64,7 @@ NLP 是许多数据科学分支之一，所有数据科学分支都严重依赖�
 
 它涵盖了不同的主题，从统计推断(n-grams)到马尔可夫链及其在 NLP、文本聚类和分类以及信息检索中的应用。官方网站还包括用来解释这本书不同章节的幻灯片，可以免费获得。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 # **№6:自然语言处理的语言学基础:词法和句法的 100 个要点**
 
@@ -98,11 +82,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 我读过许多关于数据科学各个方面的书，有些是为了指导他人而读，有些是为了研究而读，有些只是因为我热爱 NLP。不管是什么原因，在这篇文章中，我给你提供了 6 本 NLP 书籍，我觉得它们对我的知识库的建立帮助最大。
 
-[](/nlp-basics-data-mining-vs-text-mining-9e21389986b4) [## NLP 基础:数据挖掘与文本挖掘
-
-### 两者都是数据科学中必不可少的一步，但又有所不同。
-
-towardsdatascience.com](/nlp-basics-data-mining-vs-text-mining-9e21389986b4) 
+</nlp-basics-data-mining-vs-text-mining-9e21389986b4>  
 
 这 6 本书只是我的观点，它们也是学习 NLP 的起点。学习数据科学是一个持续的过程，只要技术进步，新算法、新技术、新语言就会出现。作为数据科学家，我们必须跟上所有新技术的发展。
 

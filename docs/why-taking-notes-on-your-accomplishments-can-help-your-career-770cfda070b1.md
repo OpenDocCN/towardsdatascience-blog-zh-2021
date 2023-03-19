@@ -102,16 +102,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/top-3-lessons-learned-in-my-journey-to-become-a-data-scientist-d81c29383314) [## 在我成为数据科学家的过程中获得的 3 大经验
-
-### 弄清楚你想成为什么样的人这一严酷的事实
-
-towardsdatascience.com](/top-3-lessons-learned-in-my-journey-to-become-a-data-scientist-d81c29383314) [](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [## 远程工作很难让你成为一名出色的数据科学家
-
-### 不要因为你太安静而被忽视
-
-towardsdatascience.com](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [](/top-5-ways-to-excel-as-a-data-science-intern-c158140a262d) [## 成为优秀数据科学实习生的五大方法
-
-### 实习期间值得关注的领域
-
-towardsdatascience.com](/top-5-ways-to-excel-as-a-data-science-intern-c158140a262d)
+</top-3-lessons-learned-in-my-journey-to-become-a-data-scientist-d81c29383314>  </remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0>  </top-5-ways-to-excel-as-a-data-science-intern-c158140a262d> 

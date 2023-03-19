@@ -18,11 +18,7 @@
 
 我在一篇相关的文章中详细阐述了数据操作和字符串提取的主题。在今天的帖子中，我将重点放在数学和统计学上，并对主要科技公司，尤其是 FAANG 提出的五个 Python 编程问题进行了现场编码。这种类型的问题给你一个商业背景，并要求通过模拟统计解决方案。
 
-[](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [## 2021 年 6 个 Python 数据科学面试问题
-
-### 数据科学家/工程师的数据操作和字符串提取
-
-towardsdatascience.com](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) 
+</6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13>  
 
 # 问题 1:谁先赢？由微软
 
@@ -140,7 +136,7 @@ break 命令在这里是必不可少的。如上所述，上面的函数在没�
 
 顺便说一下，解决方案 2 是我最喜欢的计算零的方法。
 
-*(特别感谢*[](https://medium.com/u/a7d3764361bc?source=post_page-----59e6cf5ba2a0--------------------------------)**为改进方案。请参见代码的注释部分)。**
+*(特别感谢*<https://medium.com/u/a7d3764361bc?source=post_page-----59e6cf5ba2a0-------------------------------->**为改进方案。请参见代码的注释部分)。**
 
 # *问题 5:完美的数字，亚马逊*
 
@@ -181,27 +177,11 @@ break 命令在这里是必不可少的。如上所述，上面的函数在没�
 
 **Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。**
 
-*[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)* 
+*<https://leihua-ye.medium.com/membership> * 
 
 # *我的数据科学面试序列*
 
-*[](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的四项 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [## 破解数据科学访谈:基本的机器学习概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 1 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [## 破解数据科学访谈:基本统计概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 2 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) 
+*</essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa>  </crack-data-science-interviews-essential-statistics-concepts-d4491d85219e>  
 
 # 喜欢读这本书吗？
 

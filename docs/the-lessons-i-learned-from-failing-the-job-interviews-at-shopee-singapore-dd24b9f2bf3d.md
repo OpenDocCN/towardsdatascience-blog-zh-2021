@@ -220,8 +220,4 @@ Woen Yon 是新加坡的一名数据科学家。他的经验包括为几家跨�
 
 他喜欢交朋友！欢迎在 [LinkedIn](https://www.linkedin.com/in/woenyon/) 和 [Medium](https://laiwoenyon.medium.com/) 上与他联系
 
-[](https://laiwoenyon.medium.com/) [## 赖文渊-媒体
-
-### 阅读赖文渊在媒体上的文章。数据科学家，TDS 特约撰稿人。我喜欢结交来自世界各地的朋友…
-
-laiwoenyon.medium.com](https://laiwoenyon.medium.com/)
+<https://laiwoenyon.medium.com/> 

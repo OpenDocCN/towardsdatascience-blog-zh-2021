@@ -12,13 +12,9 @@
 
 要阅读本系列的前两部分，请访问以下链接:
 
-[](/performance-metrics-in-machine-learning-part-1-classification-6c6b8d8a8c92) [## 机器学习中的性能度量第 1 部分:分类
+</performance-metrics-in-machine-learning-part-1-classification-6c6b8d8a8c92> [## 机器学习中的性能度量第 1 部分:分类
 
-towardsdatascience.com](/performance-metrics-in-machine-learning-part-1-classification-6c6b8d8a8c92) [](/performance-metrics-in-machine-learning-part-2-regression-c60608f3ef6a) [## 机器学习中的性能度量—第 2 部分:回归
-
-### 为正确的任务使用正确的绩效指标
-
-towardsdatascience.com](/performance-metrics-in-machine-learning-part-2-regression-c60608f3ef6a) 
+towardsdatascience.com](/performance-metrics-in-machine-learning-part-1-classification-6c6b8d8a8c92) </performance-metrics-in-machine-learning-part-2-regression-c60608f3ef6a>  
 
 虽然分类和回归任务形成了所谓的监督学习，但聚类形成了大多数非监督学习任务。这两个宏观领域的区别在于使用的数据类型。在监督学习中，样本用分类标签(分类)或数值(回归)来标记，而在非监督学习中，样本不被标记，这使得执行和评估成为相对复杂的任务。
 

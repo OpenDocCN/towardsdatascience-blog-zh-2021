@@ -69,11 +69,7 @@ on darwin_amd64
 
 ## 在本地派生或克隆此回购
 
-[](https://github.com/tuanchris/modern-data-stack) [## Tuan Chris/现代数据堆栈
-
-### 使用 Terraform 在五分钟内开始使用现代数据堆栈。在我的博客中阅读更多关于回购的信息…
-
-github.com](https://github.com/tuanchris/modern-data-stack) 
+<https://github.com/tuanchris/modern-data-stack>  
 
 您可以将此回购分支到您的帐户或克隆到您的本地机器。要克隆存储库，请运行以下命令:
 

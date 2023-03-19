@@ -146,8 +146,4 @@ Acme 允许你实现任何强化学习算法，你可以将它与任何其他机
 
 萨顿和巴尔托(2018): *强化学习:导论。*
 
-[](https://github.com/astoeffelbauer) [## astoeffelbauer -概述
-
-### 数据科学学生@伦敦政治经济学院 Block 或 Report 六月七月八月九月十月十一月十二月一月…
-
-github.com](https://github.com/astoeffelbauer)
+<https://github.com/astoeffelbauer> 

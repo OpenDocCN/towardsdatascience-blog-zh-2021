@@ -28,7 +28,7 @@ GPT 模型是实现这一假设的阶梯:有可能创建一个无监督训练的
 
 为了深入了解 GPT-3，我建议你阅读这篇长篇文章:GPT-3 是什么，它是如何工作的，疯狂的结果，疯狂的炒作，潜在的危险，以及它受到的批评:
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) 
 
@@ -40,7 +40,7 @@ towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd)
 
 如果你想更多地了解 LaMDA，我推荐你阅读这篇关于它做什么和如何工作的文章。现在还没有太多可用的信息，但我确信当谷歌开放这个系统让我们测试它的极限时，人们会疯狂的。
 
-[](/googles-lamda-the-next-generation-of-chatbots-62294be58426) [## 谷歌的 LaMDA:下一代聊天机器人
+</googles-lamda-the-next-generation-of-chatbots-62294be58426> [## 谷歌的 LaMDA:下一代聊天机器人
 
 towardsdatascience.com](/googles-lamda-the-next-generation-of-chatbots-62294be58426) 
 
@@ -52,7 +52,7 @@ towardsdatascience.com](/googles-lamda-the-next-generation-of-chatbots-62294be58
 
 我在下面写了一篇关于 MUM 的能力以及它如何对 SEO 构成威胁的文章。同样，谷歌还没有透露太多关于这个系统的信息，但是当它在他们的搜索引擎中实现时，我们会看到它的威力。
 
-[](/will-googles-mum-kill-seo-d283927f0fde) [## 谷歌妈妈会扼杀 SEO 吗？
+</will-googles-mum-kill-seo-d283927f0fde> [## 谷歌妈妈会扼杀 SEO 吗？
 
 towardsdatascience.com](/will-googles-mum-kill-seo-d283927f0fde) 
 

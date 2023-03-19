@@ -95,16 +95,8 @@
 
 想要找到第一篇关注在数据分析师领域有所帮助的特质的文章吗？
 
-[](/what-makes-a-great-data-analyst-f6577cef81a3) [## 怎样才能成为一名优秀的数据分析师？
-
-### 提示:没有确切的答案
-
-towardsdatascience.com](/what-makes-a-great-data-analyst-f6577cef81a3) 
+</what-makes-a-great-data-analyst-f6577cef81a3>  
 
 想知道如何在数据职业生涯的早期展示自己的价值吗？
 
-[](/showing-value-add-as-a-data-analyst-a4d5ac97313c) [## 作为数据分析师展示增值
-
-### 开放数据集:它们不仅仅是为了可视化和模型
-
-towardsdatascience.com](/showing-value-add-as-a-data-analyst-a4d5ac97313c)
+</showing-value-add-as-a-data-analyst-a4d5ac97313c> 

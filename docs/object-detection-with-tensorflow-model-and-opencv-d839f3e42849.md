@@ -65,18 +65,10 @@
 
 所有使用的代码和笔记本都在这个库中:
 
-[](https://github.com/gabrielcassimiro17/raspberry-pi-tensorflow) [## gabrielcassimiro 17/树莓-pi-tensorflow
-
-### 在 GitHub 上创建一个帐户，为 gabrielcassimiro 17/raspberry-pi-tensor flow 的开发做出贡献。
-
-github.com](https://github.com/gabrielcassimiro17/raspberry-pi-tensorflow) 
+<https://github.com/gabrielcassimiro17/raspberry-pi-tensorflow>  
 
 在不久的将来，我会将它加载到一个 raspberry pi 中，使用一个能够检测对象的模型来创建一些交互，并将结果发布在这里。
 
 如果你喜欢内容，想支持我，可以给我买杯咖啡:
 
- [## Gabriel Cassimiro 是一名数据科学家，他向社区分享免费内容
-
-### 嘿👋我刚刚在这里创建了一个页面。你现在可以给我买杯咖啡了！
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/cassimiro)
+ 

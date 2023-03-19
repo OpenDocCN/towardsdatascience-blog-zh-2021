@@ -24,11 +24,7 @@
 
 我不想说纯数学比开发工具*更重要，而后者不是*。然而，如果你想成为一名经验丰富的数据科学家，你别无选择，只能学习所有这些方面。如果你是新手，建议先看看下面的文章。
 
-[](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) [## 给那些想成为数据科学家的人的一封信
-
-### 我试图通过自己的故事来阐明这个行业。
-
-towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) 
+</a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd>  
 
 # —数学落后
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f2
 
 帕特里克·温斯顿教授(1943 年 2 月 5 日—2019 年 7 月 19 日)
 
-[](https://www.amazon.com/gp/product/B08D2M2KV1) [## 人工智能:非正统的教训:如何获得洞察力和建立创新的解决方案
-
-### 亚马逊网站:人工智能:非正统课程:如何获得洞察力和建立创新的解决方案电子书…
-
-www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1) 
+<https://www.amazon.com/gp/product/B08D2M2KV1>  
 
 # —实用技巧
 
@@ -76,11 +68,7 @@ www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1)
 
 ❤ **为什么我喜欢这个播放列表？**PyData 频道通过非正统的课程解释了现实世界数据科学项目的具体细节。🤖
 
-[](https://www.youtube.com/user/PyDataTV) [## PyData
-
-### PyData 是美国 501(c)3 非营利组织 NumFOCUS 的一个教育项目。PyData 提供了一个…
-
-www.youtube.com](https://www.youtube.com/user/PyDataTV) 
+<https://www.youtube.com/user/PyDataTV>  
 
 # 遗言
 
@@ -96,8 +84,4 @@ www.youtube.com](https://www.youtube.com/user/PyDataTV)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *跟我上* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

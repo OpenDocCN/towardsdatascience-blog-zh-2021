@@ -12,11 +12,7 @@
 
 虽然 XGBoost 很受欢迎，但它确实有一些局限性，我在下面的文章中提到了这一点。
 
-[](/why-xgboost-cant-solve-all-your-problems-b5003a62d12a) [## 为什么 XGBoost 不能解决你所有的问题。
-
-### XGBoost 和其他基于树的算法的一个关键限制。
-
-towardsdatascience.com](/why-xgboost-cant-solve-all-your-problems-b5003a62d12a) 
+</why-xgboost-cant-solve-all-your-problems-b5003a62d12a>  
 
 您可能听说过 XGBoost，但是您听说过 CatBoost 吗？CatBoost 是 Yandex 的研究人员创建的另一个开源梯度增强库。虽然它可能比 XGBoost 慢，但它仍然有几个有趣的特性，可以作为替代方案使用，或者包含在 XGBoost 的集成模型中。对于一些基准数据集，CatBoost 甚至优于 XGBoost。
 

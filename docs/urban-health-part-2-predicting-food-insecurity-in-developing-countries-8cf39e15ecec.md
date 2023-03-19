@@ -155,8 +155,4 @@ lasso 回归的指标稍差，尤其是误差值。我们可以使用不同的 a
 
 从上面可以看出，模型预测值分别为 119.07 和 114.52。现在我们已经建立了一些模型并对它们进行了评估，是时候继续建立神经网络来进行与食物相关的预测了。这将是本系列的第 3 部分。感谢您的阅读，您可以在这里找到代码:
 
-[](https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Urban%20Health%2C%20Part%202%20Developing%20Countries%20-%20Machine%20Learning%20Algorithms.ipynb) [## 数据科学项目
-
-### 在 GitHub 上创建一个帐户，为 DeaBardhoshi/数据科学项目的发展做出贡献。
-
-github.com](https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Urban%20Health%2C%20Part%202%20Developing%20Countries%20-%20Machine%20Learning%20Algorithms.ipynb)
+<https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Urban%20Health%2C%20Part%202%20Developing%20Countries%20-%20Machine%20Learning%20Algorithms.ipynb> 

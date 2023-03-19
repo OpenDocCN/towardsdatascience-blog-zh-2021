@@ -44,11 +44,7 @@
 
 我已经在另一篇文章中讨论了成为数据科学家的十个错误理由。在继续阅读本文的其他部分之前，我强烈建议您通过下面提供的链接查看一下。
 
-[](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
-
-### 分析追求数据科学成为数据科学家的 10 个错误原因
-
-towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+</10-wrong-reasons-to-become-a-data-scientist-319531bb874e>  
 
 简单总结一下，如果你真的喜欢处理复杂的机器学习和深度学习问题，并且你真的喜欢投入时间学习数据科学的新概念和主题，请追求数据科学。
 
@@ -132,11 +128,7 @@ towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874
 
 我强烈推荐阅读我以前的一篇文章，这是一篇关于在 12 个月内掌握数据科学的简明指南，也就是说，在一年的时间框架内。你可以从下面的链接中找到这篇文章。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 编程技能是无限的，可以通过时间获得。专注于核心概念，不断学习和练习。有了坚持和兴趣，你将能够轻松解决你的大部分错误。
 
@@ -232,11 +224,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 要了解更多关于如何成为成功的数据科学家的信息，并客观地从数据科学领域了解更多信息，我强烈建议通过下面提供的链接查看我以前的一篇关于该做什么和不该做什么的文章。
 
-[](/3-dos-and-3-don-ts-to-become-successful-in-data-science-c49e2c293a56) [## 在数据科学领域取得成功的三个要做和三个不要做
-
-### 我希望开始时就知道的黄金法则。深入了解如何转变为一个…
-
-towardsdatascience.com](/3-dos-and-3-don-ts-to-become-successful-in-data-science-c49e2c293a56) 
+</3-dos-and-3-don-ts-to-become-successful-in-data-science-c49e2c293a56>  
 
 # 10.而不是尝试一堆机器学习算法来完成特定的任务
 
@@ -250,15 +238,7 @@ towardsdatascience.com](/3-dos-and-3-don-ts-to-become-successful-in-data-science
 
 为了讨论这个主题的一个例子，让我们考虑我做的一个关于人类情感和手势识别的项目。你可以从下面提供的链接中找到关于这个项目的必要和有用的资源。
 
-[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
-
-### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
-
-### 深入探究人类情感和手势识别
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+</human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb>  </human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023>  
 
 在很多情况下，我可能已经停止了项目的各种实现，因为我已经收到了这个特定项目的预期结果。
 
@@ -320,30 +300,6 @@ towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [## 当今时代的 8 项革命性人工智能技术！
-
-### 探索和分析即将或已经对世界产生巨大影响的 8 项人工智能技术！
-
-towardsdatascience.com](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [## 从数据科学中赚取收入的 5 种最佳方式！
-
-### 探索作为数据科学爱好者或数据科学家的五种最佳创收方式！
-
-towardsdatascience.com](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [## 数据科学的 10 大最佳工具和技术！
-
-### 每个数据科学家都必须考虑探索的 10 种最佳工具和技术，以获得更好的曝光率和更高的…
-
-towardsdatascience.com](/10-best-tools-and-technologies-for-data-science-e335fb99c2f2) [](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) 
+</8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0>  </mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  </5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6>  </10-best-tools-and-technologies-for-data-science-e335fb99c2f2>  </15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  </do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

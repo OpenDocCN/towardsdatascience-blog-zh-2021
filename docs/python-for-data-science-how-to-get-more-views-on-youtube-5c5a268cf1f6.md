@@ -40,19 +40,11 @@ gif 由 [andersonpaak](https://giphy.com/channel/andersonpaak) 提供
 
 我们今天要表演的 EDA 主要使用了 **Plotly** 。理解构建简单的 **Plotly 图**的基础很重要。我在这里 **，**写了关于构建基本 Plotly 图的内容，涵盖了构建任何类型的图时需要理解的概念。
 
-[](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) [## 面向数据科学的 python——Plotly 数据可视化指南
-
-### 现在是 2020 年，是时候停止使用 Matplotlib 和 Seaborn 了
-
-towardsdatascience.com](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) 
+</python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c>  
 
 为了使用 Plotly，您经常需要使用 **Pandas 来转换数据。我会保护你的。我碰巧也写了一本关于熊猫** 的指南[。](/python-for-data-science-basics-of-pandas-5f8d9680617e)
 
-[](/python-for-data-science-basics-of-pandas-5f8d9680617e) [## 用于数据科学的 Python 熊猫指南
-
-### 10 分钟内完成数据探索指南
-
-towardsdatascience.com](/python-for-data-science-basics-of-pandas-5f8d9680617e) 
+</python-for-data-science-basics-of-pandas-5f8d9680617e>  
 
 一旦你理解了**和**和**熊猫**，你就为执行几乎任何类型的探索性数据分析做好了充分准备。我会把这两个库称为我的数据分析和可视化的面包和黄油。
 

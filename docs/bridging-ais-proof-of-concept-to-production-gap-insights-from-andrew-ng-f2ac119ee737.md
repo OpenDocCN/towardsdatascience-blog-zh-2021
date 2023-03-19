@@ -106,12 +106,4 @@
 
 **欢迎您**加入我的数据科学学习之旅！**关注我的[媒体](https://kennethleungty.medium.com/)页面和 [GitHub](https://github.com/kennethleungty) 以了解更多精彩的数据科学内容。同时，享受将您的项目投入实际部署的乐趣！**
 
-**[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要内容
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [## H2O AutoML、MLflow、FastAPI 和 Streamlit 的端到端 AutoML 管道
-
-### 关于使用一系列功能强大的工具来培训和服务 AutoML 管道的简单易懂的综合指南
-
-towardsdatascience.com](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)**
+**</key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  </end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606> **

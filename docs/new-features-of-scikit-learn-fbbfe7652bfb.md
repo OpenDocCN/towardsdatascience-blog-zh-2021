@@ -184,8 +184,4 @@ plot_confusion_matrix(estimator, X, y, colorbar=False)
 
 **这篇文章列出了最新 scikit-learn 更新(v0.24)中的一些突出变化。完整的变更列表可在[此处](https://scikit-learn.org/stable/whats_new/v0.24.html#changes-0-24)获得。这是版本 0 的最后一次更新。下一个版本将是 1.0。如果你有兴趣了解上一版本(v0.23)中的亮点特性，可以看看我之前的帖子:**
 
-**[](/new-features-in-scikit-learn-f0ceb7e9d2ad) [## scikit 中的新功能-了解
-
-### 0.23 版最新发展概述
-
-towardsdatascience.com](/new-features-in-scikit-learn-f0ceb7e9d2ad)**
+**</new-features-in-scikit-learn-f0ceb7e9d2ad> **

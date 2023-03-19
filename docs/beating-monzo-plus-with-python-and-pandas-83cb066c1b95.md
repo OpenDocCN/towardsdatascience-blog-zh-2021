@@ -44,10 +44,6 @@
 
 我最终把这个项目上传到了 GitHub，并扩展了对所有银行的支持，增加了一些功能来改善用户体验。如果您有兴趣检查这个项目或者自己使用它，您可以在 GitHub 上找到它:
 
-[](https://github.com/isaacharrisholt/vorn-finance-tracker) [## isaacharrisholt/vorn-财务跟踪系统
-
-### Vorn Finance Tracker 是一个 Python 程序，可以对你的收入和支出进行分类，并将数据写入一个…
-
-github.com](https://github.com/isaacharrisholt/vorn-finance-tracker) 
+<https://github.com/isaacharrisholt/vorn-finance-tracker>  
 
 ***感谢阅读到底！如果你喜欢这篇文章或者觉得它有用，请告诉我。非常感谢任何反馈！***

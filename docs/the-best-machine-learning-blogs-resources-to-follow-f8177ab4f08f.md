@@ -52,11 +52,7 @@ KDNuggets 可能是历史最悠久的大数据/数据挖掘相关在线平台—
 
 我强烈推荐他的内容。
 
-[](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA) [## 高投资回报率数据科学家
-
-### 数据科学对每个参与者都有很高的投资回报。高投资回报率的数据科学家解释了大部分…
-
-www.youtube.com](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA) 
+<https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA>  
 
 ## 包裹
 
@@ -68,16 +64,4 @@ www.youtube.com](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA)
 
 ## **相关文章**
 
-**[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](/these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a) [## 这 7 个 Youtube 频道帮助我成为了一名数据科学家
-
-### 确保你订阅了它们
-
-towardsdatascience.com](/these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a) [](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343)**
+**<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  </these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a>  <https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343> **

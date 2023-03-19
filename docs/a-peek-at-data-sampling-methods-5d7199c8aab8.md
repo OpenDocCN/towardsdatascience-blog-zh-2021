@@ -10,7 +10,7 @@
 
 抽样偏差是现实世界中最常见的偏差类型之一。当用于训练模型的数据不能反映模型在生产时将接收的样本的分布时，就会出现这种情况。
 
-[](/tackling-different-types-of-bias-in-data-projects-29e326660639) [## 处理数据项目中不同类型的偏差
+</tackling-different-types-of-bias-in-data-projects-29e326660639> [## 处理数据项目中不同类型的偏差
 
 towardsdatascience.com](/tackling-different-types-of-bias-in-data-projects-29e326660639) 
 
@@ -134,14 +134,6 @@ cluster_random_sample
 
 ## **相关文章**
 
-**[](/cross-validation-c4fae714f1c5) [## 交叉验证
+**</cross-validation-c4fae714f1c5>  </7-common-gotchas-of-data-projects-62e8646552f2> [## 数据项目的 7 个常见问题
 
-### 验证机器学习模型的性能
-
-towardsdatascience.com](/cross-validation-c4fae714f1c5) [](/7-common-gotchas-of-data-projects-62e8646552f2) [## 数据项目的 7 个常见问题
-
-towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2) [](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082)**
+towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2) </always-remember-data-comes-before-the-science-681389992082> **

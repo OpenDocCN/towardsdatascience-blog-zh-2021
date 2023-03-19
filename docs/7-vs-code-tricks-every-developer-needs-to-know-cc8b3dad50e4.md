@@ -139,8 +139,4 @@ VS 代码大纲跳转——导航代码时节省时间
 
 VS 代码中你最擅长的特性是什么？你觉得我错过了给任何东西爱吗？
 
-[](https://percybolmer.medium.com/membership) [## 阅读珀西·博尔默(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-percybolmer.medium.com](https://percybolmer.medium.com/membership)
+<https://percybolmer.medium.com/membership> 

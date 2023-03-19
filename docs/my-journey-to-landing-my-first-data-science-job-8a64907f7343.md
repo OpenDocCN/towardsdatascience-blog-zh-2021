@@ -44,15 +44,7 @@
 
 *这里是我写的一些文章，可能会对你的人生有所帮助……*
 
-[](/a-roadmap-for-the-passionate-novice-to-data-science-mastery-f5f6cdf004e9) [## 热情的新手掌握数据科学的路线图
-
-### 帮助您掌握数据科学的有用提示和资源
-
-towardsdatascience.com](/a-roadmap-for-the-passionate-novice-to-data-science-mastery-f5f6cdf004e9) [](/predicting-house-prices-with-machine-learning-62d5bcd0d68f) [## 用机器学习预测房价
-
-### Kaggle 高级回归技术竞赛的端到端项目
-
-towardsdatascience.com](/predicting-house-prices-with-machine-learning-62d5bcd0d68f) 
+</a-roadmap-for-the-passionate-novice-to-data-science-mastery-f5f6cdf004e9>  </predicting-house-prices-with-machine-learning-62d5bcd0d68f>  
 
 ## 找到我的第一份工作
 
@@ -90,8 +82,4 @@ towardsdatascience.com](/predicting-house-prices-with-machine-learning-62d5bcd0d
 
 我祝你一路顺风。记住外面有很多工作机会！
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -高级数据科学家| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰有 7 份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

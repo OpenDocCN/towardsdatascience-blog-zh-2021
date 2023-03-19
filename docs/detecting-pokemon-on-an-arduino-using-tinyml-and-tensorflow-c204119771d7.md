@@ -432,10 +432,6 @@ byte tensorArena[tensorArenaSize];**
 
 ****您可以在以下位置找到完整的代码(包括我的数据集和模型):****
 
-****[](https://github.com/juandes/pokemon-classifier-tinyml) [## juandes/pokemon-分类器-tinyml
-
-### 这个库包含我的实验“使用 TinyML 在 Arduino 上检测口袋妖怪”中使用的代码和资源
-
-github.com](https://github.com/juandes/pokemon-classifier-tinyml) 
+****<https://github.com/juandes/pokemon-classifier-tinyml>  
 
 感谢阅读！****

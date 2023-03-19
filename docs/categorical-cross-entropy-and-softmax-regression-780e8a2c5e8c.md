@@ -42,11 +42,7 @@ SoftMax 函数是普遍存在的逻辑函数的推广。它被定义为
 
 其中 ***W*** 是我们模型的参数。因此，我们的目标是找到参数 ***W*** ，使得模拟的概率函数尽可能接近真实的概率函数。至于二进制逻辑回归，这将涉及到利用取幂技巧使似然函数最大化(或者等效地使负对数似然性最小化)。因为从我们的概率分布的定义到分类交叉熵紧密跟随我们对二元逻辑回归所做的，因此如果你需要快速刷新，我推荐你到相应的帖子。
 
-[](/binary-cross-entropy-and-logistic-regression-bf7098e75559) [## 二元交叉熵和逻辑回归
-
-### 有没有想过我们为什么使用它，它来自哪里，如何有效地优化它？这里有一个解释(代码…
-
-towardsdatascience.com](/binary-cross-entropy-and-logistic-regression-bf7098e75559) 
+</binary-cross-entropy-and-logistic-regression-bf7098e75559>  
 
 ## 凸函数
 
@@ -122,8 +118,4 @@ towardsdatascience.com](/binary-cross-entropy-and-logistic-regression-bf7098e755
 
 > *想阅读更多此类内容吗？*查看我其他关于[低秩结构和数据驱动建模](https://loiseau-jc.medium.com/list/lowrank-structure-and-datadriven-modeling-8f39635a90ea) *的文章或者干脆我的* [*机器学习基础知识*](https://loiseau-jc.medium.com/list/machine-learning-basics-0baf10d8f8b5) ！
 
-[](/binary-cross-entropy-and-logistic-regression-bf7098e75559) [## 二元交叉熵和逻辑回归
-
-### 有没有想过我们为什么使用它，它来自哪里，如何有效地优化它？这里有一个解释(代码…
-
-towardsdatascience.com](/binary-cross-entropy-and-logistic-regression-bf7098e75559)
+</binary-cross-entropy-and-logistic-regression-bf7098e75559> 

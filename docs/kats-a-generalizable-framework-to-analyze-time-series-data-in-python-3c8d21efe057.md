@@ -200,28 +200,12 @@ Kats 允许您通过`TsFeatures`找到关于时间序列特性的重要信息:
 
 请在此随意使用源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/time_series/kats_examples/kats.ipynb) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/time_series/kats_examples/kats.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/time_series/kats_examples/kats.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上联系我。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [## 使用 TextBlob 增强您的 Python 字符串
+</supercharge-your-python-string-with-textblob-2d9c08a8da05>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 在一行代码中获得更多关于文本的见解！
-
-towardsdatascience.com](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [## 模式介绍:验证数据的 Python 库
-
-### 验证您的数据变得更加复杂！
-
-towardsdatascience.com](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00) [## 人类学习:通过绘图创建人类学习模型
-
-### 使用您的领域知识来标记您的数据
-
-towardsdatascience.com](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00)
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  </human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00> 

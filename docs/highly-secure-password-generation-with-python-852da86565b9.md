@@ -16,11 +16,7 @@
 
 我们现在将直接进入这个项目，为个人和专业应用程序构建高度安全的密码。但是，如果您不太熟悉 Python，我建议您在继续学习之前先阅读下面的文章。
 
-[](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) 
+</how-to-write-code-effectively-in-python-105dc5f2d293>  
 
 ***来自《走向数据科学》编辑的提示:*** *虽然我们允许独立作者根据我们的* [*规则和指导方针*](/questions-96667b06af5) *发表文章，但我们并不认可每个作者的贡献。你不应该在没有寻求专业建议的情况下依赖一个作者的作品。详见我们的* [*读者术语*](/readers-terms-b5d780a700a4) *。*
 
@@ -108,26 +104,10 @@ pwo.generate()
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 我建议尝试许多这样的项目来适应 Python 编程。看看我的其他一些文章，你可能会喜欢读！
 
-[](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [## 用 Python 生成二维码，不到 10 行
-
-### 构建一个简单的 Python 项目，用 QR 码加密您的信息
-
-towardsdatascience.com](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+</generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

@@ -12,11 +12,7 @@
 
 我个人已经承担了相当一部分 mooc——现在仍然如此。毫无疑问，我同意这些课程是无价的，至少其中一些是。没有双关的意思。
 
-[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) 
+<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  
 
 对于像我这样的大多数人来说，我们做的大多数事情都是因为我们不得不做；
 
@@ -76,11 +72,7 @@ medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in
 
 **解决方法**:怀疑自己已经够糟糕了，但是拿自己和别人比，完全是对自己存在的不尊重。对此，我的最佳解决方案是把自己置于这样一种境地:我不得不与比我了解更多的人交谈。从字面上来说，变得舒服不舒服——阅读下面链接的文章获得更详细的分类。
 
-[](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96) [## 克服数据科学骗子综合症的 5 招
-
-### 从我个人的经验来看…
-
-towardsdatascience.com](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96) 
+</5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96>  
 
 ## 最后的想法
 
@@ -90,16 +82,4 @@ towardsdatascience.com](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc
 
 ## 相关文章
 
-[](/its-about-time-we-broke-up-data-science-dd776ac2bd91) [## 该是我们解散数据科学的时候了
-
-### 为什么我们必须分散数据科学，以及它看起来会是什么样子
-
-towardsdatascience.com](/its-about-time-we-broke-up-data-science-dd776ac2bd91) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](https://medium.datadriveninvestor.com/the-road-to-my-first-1000-month-from-blogging-891099362482) [## 从写博客到我第一个 1000 美元月的道路
-
-### 详细的细目分类
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/the-road-to-my-first-1000-month-from-blogging-891099362482)
+</its-about-time-we-broke-up-data-science-dd776ac2bd91>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35>  <https://medium.datadriveninvestor.com/the-road-to-my-first-1000-month-from-blogging-891099362482> 

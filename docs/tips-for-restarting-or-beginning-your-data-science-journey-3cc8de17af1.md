@@ -66,16 +66,4 @@ TL；DR: 1。**制定一个能回答两个问题的计划**。你有多少时间
 
 重新开始或开始你的数据科学之旅**制定一个计划**和**记录你的进展**/在基于云的存储库中有用的代码块。学习大的主题更容易分解成比特大小的比特。祝您在数据科学之旅中好运！我期待着探索新的工作流程和可视化。我的名字是[科迪·格利克曼](https://codyglickman.com/)，可以在 [LinkedIn](https://www.linkedin.com/in/codyglickman/) 上找到我。一定要看看我下面的其他文章:
 
-[](/10-to-dos-to-transition-into-data-science-e84b7eb1f3fa) [## 向数据科学过渡的 10 项任务
-
-### 构建个人数据科学组合的一些有用提示
-
-towardsdatascience.com](/10-to-dos-to-transition-into-data-science-e84b7eb1f3fa) [](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [## 使用 GitHub 创建漂亮的静态网页
-
-### 查找模板和为静态网页创建表单的位置
-
-towardsdatascience.com](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [](/the-waste-of-a-generational-baseball-talent-835d474d85) [## 一代棒球天才的浪费
-
-### 使用 Python 可视化来探索围绕空前伟大的天才
-
-towardsdatascience.com](/the-waste-of-a-generational-baseball-talent-835d474d85)
+</10-to-dos-to-transition-into-data-science-e84b7eb1f3fa>  </building-a-beautiful-static-webpage-using-github-f0f92c6e1f02>  </the-waste-of-a-generational-baseball-talent-835d474d85> 

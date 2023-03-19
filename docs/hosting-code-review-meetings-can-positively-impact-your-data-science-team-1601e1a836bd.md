@@ -45,16 +45,4 @@
 
 你如何在你的团队中评审代码？
 
-[](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [## 高效数据科学家的懒惰心态:自动化如何有所帮助
-
-### 在数据科学中利用 CI/CD 和自动化
-
-towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [## 为什么 2021 年你需要一位数据科学导师
-
-### 问导师的 5 件事对你的职业和学习有帮助
-
-towardsdatascience.com](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [](/4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa) [## 作为数据科学团队领导，我不知道的 4 件事
-
-### 当我从个人贡献者转变为团队领导时，我学到了什么
-
-towardsdatascience.com](/4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa)
+</the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212>  </why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7>  </4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa> 

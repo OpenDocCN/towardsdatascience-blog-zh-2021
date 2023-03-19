@@ -174,26 +174,6 @@
 
 如果你们喜欢这篇文章，请随时查看我的其他一些故事，你们可能也会喜欢阅读！
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [](/7-tips-to-increase-your-productivity-in-python-bc1835622aa5) [## 提高 Python 生产率的 7 个技巧
-
-### 7 个技巧将帮助您改善编程效果，并提高 Python 的工作效率。
-
-towardsdatascience.com](/7-tips-to-increase-your-productivity-in-python-bc1835622aa5) [](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
-
-### 分析追求数据科学成为数据科学家的 10 个错误原因
-
-towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  </python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  </everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  </7-tips-to-increase-your-productivity-in-python-bc1835622aa5>  </10-wrong-reasons-to-become-a-data-scientist-319531bb874e>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

@@ -26,15 +26,7 @@
 
 > Matplotlib 主要用于基本绘图*。— Matplotlib*
 
-[](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) [## 面向数据科学的 python——Plotly 数据可视化指南
-
-### 现在是 2020 年，是时候停止使用 Matplotlib 和 Seaborn 了
-
-towardsdatascience.com](/python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c) [](/python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724) [## 用于数据科学的 Python 使用 Plotly 进行数据可视化的高级指南
-
-### 如何在 Plotly 中添加和自定义滑块、下拉菜单和按钮
-
-towardsdatascience.com](/python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724) 
+</python-for-data-science-a-guide-to-data-visualization-with-plotly-969a59997d0c>  </python-for-data-science-advance-guide-to-data-visualization-with-plotly-8dbeaedb9724>  
 
 以非凡的方式显示您的数据。用 Plotly。
 Plotly 是**用于**交互式**数据可视化的** Python 库。Plotly 在解释和探索数据方面非常强大。继续读下去，你就会明白为什么了。
@@ -127,11 +119,7 @@ Dash 消除了所有需要了解 web 开发的担忧，包括部署应用程序�
 
 我在这里谈论更多—
 
-[](/python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e) [## 面向数据科学的 python——Plotly Dash 交互式可视化指南
-
-### 构建您的第一个 web 应用程序！
-
-towardsdatascience.com](/python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e) 
+</python-for-data-science-a-guide-to-plotly-dash-interactive-visualizations-66a5a6ecd93e>  
 
 # 支持
 

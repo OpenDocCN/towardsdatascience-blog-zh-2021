@@ -32,15 +32,7 @@
 
 这里有几个教程可以帮助你:
 
-[](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/) [## 在您的树莓 Pi 上自托管 Kubernetes
-
-### 这篇文章的目的是向您展示如何使用 Raspberry Pi 4s 为自托管 API 构建 Kubernetes 集群…
-
-blog.alexellis.io](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/) [](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#4-installing-microk8s) [## 如何使用 MicroK8s | Ubuntu 构建 Raspberry Pi Kubernetes 集群
-
-### 本教程将简要介绍在 Raspberry Pi 上启动和运行 MicroK8s 的过程，并加入…
-
-ubuntu.com](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#4-installing-microk8s) 
+<https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/>  <https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#4-installing-microk8s>  
 
 # 获得 GCP **专业机器学习工程师 C** 认证
 
@@ -50,7 +42,7 @@ ubuntu.com](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-
 
 我在这里写了一篇如何学习的教程:
 
-[](/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) [## 我是如何通过 GCP 专业 ML 工程师认证的
+</how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5> [## 我是如何通过 GCP 专业 ML 工程师认证的
 
 towardsdatascience.com](/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) 
 
@@ -106,14 +98,6 @@ Scikit-learn 有一个关于贡献的[指南，为新贡献者提供了一个特
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43) [## 数据科学家的终极课程列表
-
-### 数据科学最佳在线课程，按主题分类
-
-towardsdatascience.com](/the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43) [](https://medium.com/curious/5-books-every-data-scientist-should-read-in-2021-206609d8593b) [## 2021 年每个数据科学家都应该阅读的 5 本书
-
-### 不确定 2021 年阅读清单要读什么？坚持要点。
-
-medium.com](https://medium.com/curious/5-books-every-data-scientist-should-read-in-2021-206609d8593b) 
+</the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43>  <https://medium.com/curious/5-books-every-data-scientist-should-read-in-2021-206609d8593b>  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn 联系我，这将是我的荣幸(老实说)。

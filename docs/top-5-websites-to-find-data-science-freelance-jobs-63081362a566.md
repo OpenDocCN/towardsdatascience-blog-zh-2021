@@ -16,11 +16,7 @@
 
 也许作为一名自由职业者，我最喜欢的是时间的自由。你可以选择什么时候工作，什么时候休息，这在朝九晚五的工作中并不总是一个选项。所以现在，你可能有一些问题，比如，我如何开始自由职业？我在哪里可以找到一个自由职业者的角色？外面有什么样的演出？
 
-[](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af) [## 作为一名自由数据科学家，你可以做 7 种类型的工作
-
-### 建立一个更好的投资组合，发展你的专长，赚钱
-
-towardsdatascience.com](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af) 
+</7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af>  
 
 我在另一篇文章中回答了后一个问题，我将在本月晚些时候写一篇文章回答第一个问题。但是今天，让我们关注中间的问题，“我在哪里可以找到和浏览可用的数据科学自由职业者的工作？”因此，我今天将重点介绍你可以用来寻找自由职业数据科学职位的 7 大网站。
 
@@ -36,11 +32,7 @@ LinkedIn 可以用来找自由职业者的工作；诀窍是将角色类型过�
 
 在 AngelList 上，你可以找到每个经验层次的角色。无论你是应届毕业生，自学者，还是专业人士，你都为你的经历找到了高薪的角色。该网站有许多角色，既有远程的，也有在特定位置的，还有远程的可能性。
 
-[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
-
-### 不管你的技术背景如何，都要学习 Python。
-
-towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+</9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4>  
 
 # №3:柠檬. io
 
@@ -54,7 +46,7 @@ towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-pytho
 
 Toptal 不仅仅是一个招聘网站；它提供了许多资源和活动来提高你的技能，并了解更多关于工作的未来。一旦你通过了初步筛选，根据你的经验和技能水平，你可以有一个从 20 美元到 100 美元+的时薪。
 
-[](/6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13) [## 值得关注的 6 个鲜为人知的数据科学博客
+</6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13> [## 值得关注的 6 个鲜为人知的数据科学博客
 
 towardsdatascience.com](/6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13) 
 
@@ -82,7 +74,7 @@ Kolabtree 可以免费注册并开始申请数据分析、机器学习和统计�
 
 但是，我能够克服失业感觉的方法之一是自由职业。所以，我决定离开求职的世界，走自己的路去证明自己，先证明给自己看，也证明给外面的雇主看。我做了一个简介，开始做自由职业项目。我从小处着手，随着时间的推移，我的项目规模和技能都在增长。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 

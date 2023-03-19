@@ -12,11 +12,7 @@
 
 在我最近的一篇文章中，我们探讨了如何用 AssemblyAI API 和 Python 执行离线语音识别。换句话说，我们将所需的音频文件上传到托管服务，然后使用 API 的转录端点来执行语音到文本的转换。
 
-[](/speech-recognition-python-assemblyai-bb5024d322d8) [## 如何使用 Python 执行语音识别
-
-### 用 Python 中的 AssemblyAI API 执行语音转文本
-
-towardsdatascience.com](/speech-recognition-python-assemblyai-bb5024d322d8) 
+</speech-recognition-python-assemblyai-bb5024d322d8>  
 
 在今天的指南中，我们将展示如何使用 AssemblyAI API 的[实时转录](https://www.assemblyai.com/features)功能来执行实时语音到文本转换，该功能让我们能够以高精度实时转录音频流。
 
@@ -104,8 +100,4 @@ asyncio.run(speech_to_text())
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)
+<https://gmyrianthous.medium.com/membership> 

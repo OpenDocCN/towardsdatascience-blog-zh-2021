@@ -72,11 +72,7 @@
 
 *想给我买杯咖啡吗？*
 
-*[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) [## 使用贝宝支付大卫法鲁吉亚。我
-
-### 如果您接受 cookies，我们将使用它们来改善和定制您的体验，并使我们的合作伙伴能够向您展示…
-
-paypal.me](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)* 
+*<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US> * 
 
 # *想联系吗？*
 

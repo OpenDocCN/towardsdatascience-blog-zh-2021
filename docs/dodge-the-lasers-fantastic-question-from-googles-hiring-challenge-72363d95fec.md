@@ -16,11 +16,7 @@
 
 你可以在这里找到关于 Foobar 的所有细节:
 
-[](https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a) [## 谷歌有一个名为 Foobar 的秘密招聘挑战
-
-### 这是它如何让我进入，为什么我喜欢这些问题
-
-better 编程. pub](https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a) 
+<https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a>  
 
 # 躲避激光
 

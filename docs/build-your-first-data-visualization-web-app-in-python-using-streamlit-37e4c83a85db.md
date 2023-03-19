@@ -60,11 +60,7 @@ $ streamlit hello
 
 对于这个演示，我使用的是[帕尔默企鹅数据](https://github.com/allisonhorst/palmerpenguins)。数据由[克里斯汀·戈尔曼](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)博士和[LTER 南极洲帕尔默站](https://pal.lternet.edu/)收集并提供。在这里，我们将数据保存为“Penguin data.csv”
 
-[](https://github.com/allisonhorst/palmerpenguins) [## allisonhorst/palmerpenguins
-
-### palmerpenguins 的目标是为数据探索和可视化提供一个伟大的数据集，作为…
-
-github.com](https://github.com/allisonhorst/palmerpenguins) 
+<https://github.com/allisonhorst/palmerpenguins>  
 
 ## 目标
 

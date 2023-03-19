@@ -74,11 +74,7 @@
 
 技术债务是一个激动人心且至关重要的话题。如果你好奇，我推荐你这篇文章(我有点偏心):
 
-[](/until-technical-debt-in-machine-learning-tear-us-apart-2de7d54dd0ea) [## 直到机器学习的技术债务把我们分开
-
-### CACE 原理和为什么 ML 中的技术债务是不同的
-
-towardsdatascience.com](/until-technical-debt-in-machine-learning-tear-us-apart-2de7d54dd0ea) 
+</until-technical-debt-in-machine-learning-tear-us-apart-2de7d54dd0ea>  
 
 ## 聊天机器人、神经网络和自动驾驶汽车已经过时了吗？
 

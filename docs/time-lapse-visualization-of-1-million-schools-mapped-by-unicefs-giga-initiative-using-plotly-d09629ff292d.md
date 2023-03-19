@@ -102,8 +102,4 @@ os.system("ffmpeg -i frames/frame_%4d.png -vcodec libx264 -crf 25 -pix_fmt yuv42
 
 请点击下面的链接查看结果！
 
-[](https://www.linkedin.com/posts/giga-connect_giga-maps-1-million-schools-activity-6859460706060906496-KbeZ) [## LinkedIn 上的 Giga:Giga 映射了 100 万所学校
-
-### 我们如何弥合数字鸿沟？我们已经开始#绘制世界上每所学校的地图--向我们展示资源在哪里…
-
-www.linkedin.com](https://www.linkedin.com/posts/giga-connect_giga-maps-1-million-schools-activity-6859460706060906496-KbeZ)
+<https://www.linkedin.com/posts/giga-connect_giga-maps-1-million-schools-activity-6859460706060906496-KbeZ> 

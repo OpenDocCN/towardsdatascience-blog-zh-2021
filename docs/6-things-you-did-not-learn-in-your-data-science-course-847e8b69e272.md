@@ -18,7 +18,7 @@ D 数据科学本身就是一个庞大的课题，需要很多时间去掌握，
 
 工程师们讨厌 Jupyter 笔记本有一个很好的理由:它们与“模块化方法”完全相反。
 
-**好的软件设计秉持三个基本原则**:[](https://en.wikipedia.org/wiki/Cohesion_(computer_science))****[**低耦合**](https://en.wikipedia.org/wiki/Coupling_(computer_programming))**[**低冗余**](https://en.wikipedia.org/wiki/Duplicate_code) **。**换句话说，每个模块都专注于一个单独的问题，它们是高度独立的，几乎没有代码重复。例如，加载数据集的代码不应该做任何其他事情(如数据清理)，不应该依赖于任何其他模块(如数据扩充模块)，并且应该是代码库中唯一用于加载数据的地方。******
+**好的软件设计秉持三个基本原则**:<https://en.wikipedia.org/wiki/Cohesion_(computer_science>)****[**低耦合**](https://en.wikipedia.org/wiki/Coupling_(computer_programming))**[**低冗余**](https://en.wikipedia.org/wiki/Duplicate_code) **。**换句话说，每个模块都专注于一个单独的问题，它们是高度独立的，几乎没有代码重复。例如，加载数据集的代码不应该做任何其他事情(如数据清理)，不应该依赖于任何其他模块(如数据扩充模块)，并且应该是代码库中唯一用于加载数据的地方。******
 
 ****大多数数据科学教程将所有内容都放在一个笔记本中，这对于工程学来说是一个大禁忌。一体化文件意味着数据集的下载、清理和准备与服务和使用它的代码结合在一起。生成的文件有多个相互交织的职责，并且可能有几个单元格来自其他笔记本。****
 

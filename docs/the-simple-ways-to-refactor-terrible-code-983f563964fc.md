@@ -92,16 +92,4 @@
 
 **本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/40?utm_source=tds&utm_medium=referral&utm_campaign=blog_post_40)*
 
-*[](/writing-more-idiomatic-and-pythonic-code-c22e900eaf83) [## 编写更加地道和 Pythonic 化的代码
-
-### 使你的 Python 代码可读、有效、简洁和可靠的习惯用法和惯例。
-
-towardsdatascience.com](/writing-more-idiomatic-and-pythonic-code-c22e900eaf83) [](/networking-tools-every-developer-needs-to-know-e17c9159b180) [## 每个开发人员都需要知道的网络工具
-
-### 让我们学习被忽视的网络技能，如检查 DNS 记录，扫描端口，排除连接故障…
-
-towardsdatascience.com](/networking-tools-every-developer-needs-to-know-e17c9159b180) [](/hidden-features-of-chrome-devtools-33d9de390dc0) [## Chrome DevTools 的隐藏功能
-
-### 使用这些 Chrome DevTools 提示和技巧，成为一个更高效的 web 开发人员。
-
-towardsdatascience.com](/hidden-features-of-chrome-devtools-33d9de390dc0)*
+*</writing-more-idiomatic-and-pythonic-code-c22e900eaf83>  </networking-tools-every-developer-needs-to-know-e17c9159b180>  </hidden-features-of-chrome-devtools-33d9de390dc0> *

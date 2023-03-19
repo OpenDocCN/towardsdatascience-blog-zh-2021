@@ -48,19 +48,11 @@
 
 想出一个详细的计划来学习各种主题。Coursera 上有许多课程可供选择。如果你想找一个受欢迎的课程。下面是一门评价很高的课程。超过 25%完成这门课程的人开始了新的职业生涯。本课程介绍了数据科学项目不同阶段的各种活动。
 
-[](https://www.coursera.org/professional-certificates/ibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-science) 
+<https://www.coursera.org/professional-certificates/ibm-data-science>  
 
 这是一门初学者友好的课程，但你需要成为 Coursera 的付费会员才能学习这门课程。如果你正在寻找一个没有成本的选择。然后，我有一个自定义计划解释在下面的文章。这包括学习成功开展数据科学职业所需的所有基本主题。
 
-[](https://medium.com/swlh/a-complete-guide-to-learn-data-science-in-100-days-8c6557154102) [## 100 天学习数据科学的完整指南
-
-### 你对学习数据科学感兴趣但不确定从哪里开始？如果是，那么你已经到达正确的地方。
-
-medium.com](https://medium.com/swlh/a-complete-guide-to-learn-data-science-in-100-days-8c6557154102) 
+<https://medium.com/swlh/a-complete-guide-to-learn-data-science-in-100-days-8c6557154102>  
 
 你的日常计划需要详细。您可以定制上述计划，以满足您的需求和技能。这里的目标是了解数据科学所需的不同技能集。然后想出一个最符合你需求的计划。
 
@@ -95,11 +87,7 @@ medium.com](https://medium.com/swlh/a-complete-guide-to-learn-data-science-in-10
 
 如果你有兴趣找到一个好的导师，并充分利用你的导师，那么请阅读下面的文章。下面的文章讨论了拥有导师的好处，寻找导师，以及确保成功的导师-学员关系的简单事情。
 
-[](/why-is-it-important-to-have-a-mentor-in-a-data-science-career-72a541158840) [## 为什么在数据科学职业生涯中有一个导师很重要？
-
-### 此外，了解如何让你的学员-导师关系取得成功
-
-towardsdatascience.com](/why-is-it-important-to-have-a-mentor-in-a-data-science-career-72a541158840) 
+</why-is-it-important-to-have-a-mentor-in-a-data-science-career-72a541158840>  
 
 # 第七步——测试你的技能
 
@@ -107,11 +95,7 @@ towardsdatascience.com](/why-is-it-important-to-have-a-mentor-in-a-data-science-
 
 [这里](https://www.youtube.com/watch?v=9u4zkLoF4DI)是我的频道中关于使用 Kaggle 掌握数据科学技能的视频。如果你正在寻找一些有趣的数据科学项目，请查看下面的文章。
 
-[](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) [## 通过做项目完全学习数据科学的分步指南
-
-### 建立一个文件夹，在学习的过程中做好工作准备
-
-towardsdatascience.com](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) 
+</a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef>  
 
 [HackerRank](https://www.hackerrank.com) 是一个免费的平台，可以用来测试你在 Python、R 和 SQL 等编程语言方面的专业水平。
 

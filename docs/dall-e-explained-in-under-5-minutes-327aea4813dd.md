@@ -106,4 +106,4 @@ DALL E 给我印象最深的是它在许多不同的任务上表现惊人的出�
 
 *想要更多关于机器学习的东西吗？在推特上关注*[*@ dale quark*](https://twitter.com/dalequark)*。*
 
-*原载于 2021 年 1 月 6 日 https://daleonai.com*[](https://daleonai.com/dalle-5-mins)**。**
+*原载于 2021 年 1 月 6 日 https://daleonai.com*<https://daleonai.com/dalle-5-mins>**。**

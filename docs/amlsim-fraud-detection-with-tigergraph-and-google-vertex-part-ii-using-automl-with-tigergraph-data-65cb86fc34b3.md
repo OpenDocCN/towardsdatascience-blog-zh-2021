@@ -148,8 +148,4 @@ CSV 上传！
 
 如果您有任何问题，请加入 TigerGraph Discord 并提问:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 572 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

@@ -64,11 +64,7 @@ Marc-Olivier Jodoin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 请随意查看我之前关于十大免费网站的文章，通过下面提供的链接了解更多关于数据科学和机器学习的信息。
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 # 保持联系
 
@@ -82,11 +78,7 @@ towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-
 
 为了理解每日编码的更多优点，我强烈推荐你们大家去看看我以前写的关于这个主题的文章。
 
-[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+</5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  
 
 # 结论:
 
@@ -106,22 +98,6 @@ towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
-
-### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
-
-towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [## 作为数据科学家要避免的 11 个关键错误！
-
-### 初学数据科学的爱好者会犯的十一个关键性错误是什么？
-
-towardsdatascience.com](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837>  </pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  </11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028>  </mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

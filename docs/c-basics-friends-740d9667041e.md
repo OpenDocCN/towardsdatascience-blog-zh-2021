@@ -134,20 +134,4 @@ std::cout << test;
 
 # 参考
 
- [## 标准 C++
-
-### 允许你的类授予访问另一个类或函数的权限。朋友可以是函数，也可以是其他…
-
-isocpp.org](https://isocpp.org/wiki/faq/friends) [](https://docs.microsoft.com/en-us/cpp/cpp/friend-cpp?view=msvc-160) [## 朋友(C++)
-
-### 在某些情况下，对不是类成员的函数授予成员级访问权限会更方便…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/cpp/cpp/friend-cpp?view=msvc-160) [](https://stackoverflow.com/questions/4171310/what-is-wrong-with-making-a-unit-test-a-friend-of-the-class-it-is-testing) [## 让一个单元测试成为它正在测试的类的朋友有什么错？
-
-### 在 C++中，我经常把一个单元测试类作为我正在测试的类的朋友。我这样做是因为我有时觉得…
-
-stackoverflow.com](https://stackoverflow.com/questions/4171310/what-is-wrong-with-making-a-unit-test-a-friend-of-the-class-it-is-testing)  [## 朋友类-维基百科
-
-### C++中的友元类可以访问声明为友元的类的私有和受保护成员。一个…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Friend_class)
+  <https://docs.microsoft.com/en-us/cpp/cpp/friend-cpp?view=msvc-160>  <https://stackoverflow.com/questions/4171310/what-is-wrong-with-making-a-unit-test-a-friend-of-the-class-it-is-testing>   

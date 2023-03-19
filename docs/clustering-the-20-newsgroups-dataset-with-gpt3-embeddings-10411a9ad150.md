@@ -35,11 +35,7 @@
 
 嵌入端点的文档可在以下位置找到:
 
- [## OpenAI API
-
-### 用于访问 OpenAI 开发的新人工智能模型的 API
-
-beta.openai.com](https://beta.openai.com/docs/api-reference/embeddings) 
+  
 
 在 OpenAI 的 Python 包和 GPT3 的[文档的辅助函数的帮助下，我们现在可以下载每个文档的数字表示，并将其作为一列添加到数据框中。](https://github.com/openai/openai-python/blob/main/examples/embeddings/Get_embeddings.ipynb)
 

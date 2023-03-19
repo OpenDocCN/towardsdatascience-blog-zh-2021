@@ -28,11 +28,7 @@
 
 我强烈建议您阅读这篇文章，但是您可以继续阅读文章的其余部分，而不会影响理解。
 
-[](https://learnwithdivya.medium.com/build-a-search-engine-with-sql-cc8baf06ddb2) [## 用 SQL 构建搜索引擎…
-
-### …使用全文搜索
-
-learnwithdivya.medium.com](https://learnwithdivya.medium.com/build-a-search-engine-with-sql-cc8baf06ddb2) 
+<https://learnwithdivya.medium.com/build-a-search-engine-with-sql-cc8baf06ddb2>  
 
 帖子的其余部分包含以下主题:
 
@@ -60,11 +56,7 @@ POS 标记词= [('电池'，' NNP ')，('寿命'，' NN ')，('是'，' VBZ '，
 
 我从这个在线 POS 标签中受益匪浅，因为它对 POS 进行了颜色编码。
 
- [## 词类。信息-在线位置标记
-
-### 文本的自动词性标注(突出显示词类)
-
-词性信息](https://parts-of-speech.info/) ![](img/312cb507778cfe8c85034f50e6e620d4.png)
+  ![](img/312cb507778cfe8c85034f50e6e620d4.png)
 
 复习示例 1
 
@@ -106,11 +98,7 @@ POS 标记词= [('电池'，' NNP ')，('寿命'，' NN ')，('是'，' VBZ '，
 
 有关创建 POS 正则表达式的完整教程，请参见以下链接:
 
-[](https://www.pythonprogramming.net/chunking-nltk-tutorial/) [## Python 编程教程
-
-### 现在我们知道了词类，我们可以做所谓的分块，把单词分成有希望有意义的…
-
-www.pythonprogramming.net](https://www.pythonprogramming.net/chunking-nltk-tutorial/) 
+<https://www.pythonprogramming.net/chunking-nltk-tutorial/>  
 
 让我们通过访问块来看看输出。
 

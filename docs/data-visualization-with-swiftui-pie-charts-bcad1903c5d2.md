@@ -64,20 +64,8 @@
 
 直到下一次，您可以阅读本系列的第一篇和第二篇文章:
 
-[](https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b) [## SwiftUI 数据可视化:雷达图
-
-### 在 SwiftUI 应用中构建漂亮的图表
-
-medium.com](https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b) [](/data-visualization-with-swiftui-bar-charts-599de6c0d79c) [## 使用 SwiftUI 的数据可视化:条形图
-
-### 在 SwiftUI 应用中构建漂亮的图表
-
-towardsdatascience.com](/data-visualization-with-swiftui-bar-charts-599de6c0d79c) 
+<https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b>  </data-visualization-with-swiftui-bar-charts-599de6c0d79c>  
 
 或者你可以回顾一下如何解决复杂问题的一些指导方针:
 
-[](https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea) [## 在没有头绪的情况下如何编码
-
-### 分解复杂任务并使其正确的指南。
-
-medium.com](https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea)
+<https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea> 

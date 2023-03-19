@@ -24,15 +24,7 @@
 
 GSDMM 是 Gibbs Sampling Dirichlet Multinomial Mixture 的缩写，是由尹建华和王建勇提出的比 vanilla LDA 更好的模型。它假设一个文档只涉及一个主题，对于像 tweets 和电影评论这样的短文本非常有用。如果你想要算法背后的直觉，Matyas Amrouche 有一篇[很棒的文章](/short-text-topic-modeling-70e50a57c883)。或者，如果你愿意，你可以在这里阅读原文。
 
-[](/short-text-topic-modeling-70e50a57c883) [## 短文本主题建模
-
-### 直觉和(一些)数学来理解短文本的主题建模
-
-towardsdatascience.com](/short-text-topic-modeling-70e50a57c883) [](https://dl.acm.org/doi/10.1145/2623330.2623715) [## 基于 dirichlet 多项式混合模型的短文本聚类方法
-
-### 随着 Twitter 等社交媒体的流行，短文本聚类已经成为一项日益重要的任务…
-
-dl.acm.org](https://dl.acm.org/doi/10.1145/2623330.2623715) 
+</short-text-topic-modeling-70e50a57c883>  <https://dl.acm.org/doi/10.1145/2623330.2623715>  
 
 # 数据
 
@@ -182,19 +174,11 @@ python setup.py install
 
 *如果你想了解更多关于我从懒鬼到数据科学家的旅程，请查看下面的文章:*
 
-[](/from-slacker-to-data-scientist-b4f34aa10ea1) [## 从懒鬼到数据科学家
-
-### 我的无学位数据科学之旅。
-
-towardsdatascience.com](/from-slacker-to-data-scientist-b4f34aa10ea1) 
+</from-slacker-to-data-scientist-b4f34aa10ea1>  
 
 *如果你正在考虑改变方向，进入数据科学领域，现在就开始考虑重塑品牌:*
 
-[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) [## 懒鬼将自己重塑为数据科学家指南
-
-### 给我们其他人的固执己见的建议。热爱数学，选修。
-
-towardsdatascience.com](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) 
+</the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540>  
 
 *敬请期待！*
 

@@ -207,15 +207,7 @@
 
 # 相关文章
 
-[](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) [](https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378) [## 爱因斯坦指数符号
-
-### 爱因斯坦求和、指数符号和数值
-
-medium.com](https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378) 
+</backpropagation-in-neural-networks-6561e1268da8>  <https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378>  
 
 ## 想联系支持我？
 

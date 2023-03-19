@@ -112,16 +112,4 @@ muffaddal 在 Bigquery 中发送网格测试数据
 
 # 你喜欢的类似读物
 
-[](/send-cloud-sql-data-to-bigquery-2603489a4330) [## 将云 SQL 数据发送到 BigQuery
-
-### 将云 SQL 数据移动到 BigQuery 的自动化数据管道
-
-towardsdatascience.com](/send-cloud-sql-data-to-bigquery-2603489a4330) [](/send-google-analytics-hit-level-data-to-bigquery-5093e2db481b) [## 向 BigQuery 发送 Google Analytics 点击量数据
-
-### 如何发送标准的谷歌分析点击量数据到 BigQuery？
-
-towardsdatascience.com](/send-google-analytics-hit-level-data-to-bigquery-5093e2db481b) [](/chaining-multiple-sql-queries-in-bigquery-8498d8885da5) [## 在 BigQuery 中链接多个 SQL 查询
-
-### 在 BigQuery 中依次执行多个查询
-
-towardsdatascience.com](/chaining-multiple-sql-queries-in-bigquery-8498d8885da5)
+</send-cloud-sql-data-to-bigquery-2603489a4330>  </send-google-analytics-hit-level-data-to-bigquery-5093e2db481b>  </chaining-multiple-sql-queries-in-bigquery-8498d8885da5> 

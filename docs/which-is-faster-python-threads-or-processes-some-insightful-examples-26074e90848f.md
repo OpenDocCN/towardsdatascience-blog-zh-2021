@@ -174,18 +174,10 @@ process_client = Client(
 
 我从 Brendan Fortuner 几年前的文章中获得了很多灵感。事实上，我在这里所做的很多都是重现他的例子，但我想比他写的原始文章更深入一点。
 
-[](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) [## Python 中的线程和进程简介
-
-### 并行编程初学者指南
-
-medium.com](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) 
+<https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b>  
 
 如果你在代码中大量使用原生 Python 循环，那么你绝对应该使用 [Numba](https://numba.pydata.org/numba-doc/latest/user/5minguide.html) 。它可以将这些循环加速到接近 c 的速度。最好的是，如果你正确使用 Numba([见笔记本](https://gist.github.com/dfulu/14ae9b5aa2633226519956ce6ef04ce6#file-multi-threading-processing-ipynb))你可以设置它，这样你的循环函数就不会锁定 GIL。这意味着你可以使用你的 Numba 循环函数，它已经快得多了，并与多线程并行运行。
 
-[](/speed-up-your-algorithms-part-2-numba-293e554c5cc1) [## 加速您的算法第 2 部分— Numba
-
-### 使用 Numba 获得 C++/Fortran 般的速度
-
-towardsdatascience.com](/speed-up-your-algorithms-part-2-numba-293e554c5cc1) 
+</speed-up-your-algorithms-part-2-numba-293e554c5cc1>  
 
 最后，我们在本文中得出的使用线程和进程的经验法则与这里描述的 Dask 最佳实践非常相似。

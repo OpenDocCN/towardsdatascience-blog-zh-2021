@@ -12,11 +12,7 @@
 
 现在，在第 2 部分中，我将展示一个在输入管道中使用`tf.data`和 keras `ImageDataGenerator`的实际例子，测量两者之间的性能。
 
-[](/optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4) [## 使用 tf.data 优化输入管道性能(第 1 部分)
-
-### tf.data API 使您能够从简单的、可重用的部分构建复杂的输入管道。
-
-towardsdatascience.com](/optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4) 
+</optimising-your-input-pipeline-performance-with-tf-data-part-1-32e52a30cac4>  
 
 **使用 Keras** `**ImageDataGenerator**` **:**
 

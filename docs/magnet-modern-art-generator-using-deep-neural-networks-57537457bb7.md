@@ -30,11 +30,7 @@
 
 以下是 MAGnet 中使用的组件的简要概述。我将在本文的后面详细介绍每个组件。请注意，使用 WikiArt 中的图像收集、过滤和训练 GAN 的步骤类似于我的 GANscapes 项目，该项目生成印象派风景画。
 
-[](/ganscapes-using-ai-to-create-new-impressionist-paintings-d6af1cf94c56) [## 甘斯卡皮斯:用人工智能创造新的印象派绘画
-
-### 我如何在公共领域用 5000 幅印象派风景画训练 StyleGAN2 ADA
-
-towardsdatascience.com](/ganscapes-using-ai-to-create-new-impressionist-paintings-d6af1cf94c56) 
+</ganscapes-using-ai-to-create-new-impressionist-paintings-d6af1cf94c56>  
 
 下图显示了 MAGnet 的主要系统组件。
 

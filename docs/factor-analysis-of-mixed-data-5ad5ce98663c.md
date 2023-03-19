@@ -16,11 +16,7 @@
 
 大型数据集必须使用简单的技术如主成分分析(PCA)来降低维数。这是以准确性为代价的，但增加模型训练的灵活性和数据可视化的简单性是核心目标。PCA 不是分析数据集重要特征的“特征选择”。我在下面的文章中使用 Shapash 和 Scikit-Learn 描述了特性选择。
 
-[](https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388) [## 大型数据集中的特征选择
-
-### 使用 Shapash 和 Scikit-Learn 的 SelectKBest
-
-medium.com](https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388) 
+<https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388>  
 
 PCA 来自一个完全不同的世界，但目标是一样的:减少维数。PCA 通过标准化这些值、构建协方差矩阵并由此获得特征值和特征向量来获得分量。PCA 得出解释数据集中大多数可变性的最终成分。因此，这些新组件可以被认为是原始值的线性组合或复合。第一个成分解释了最高的可变性，第二个成分具有第二高的解释比率。我们可能非常熟悉 iris 数据集，它有四个数字列和一个花卉种类的目标列。PCA 适用于数据集的数字列，并且总是建议对连续变量执行 PCA。当进行主成分分析时，它仅在两个维度上产生物种间的明显差异。
 

@@ -79,8 +79,4 @@ Detectron2 使物体检测变得简单快捷。在本教程中，我解释了如
 
 [2] [探测器 2 教程](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
 
-[](https://sciencenotes.medium.com/membership) [## 加入媒体阅读伟大的教程和故事！
-
-### 我写机器学习、深度学习和数据科学教程。升级阅读更多。
-
-sciencenotes.medium.com](https://sciencenotes.medium.com/membership)
+<https://sciencenotes.medium.com/membership> 

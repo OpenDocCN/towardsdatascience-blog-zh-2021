@@ -12,7 +12,7 @@
 
 [**超参数调整**](https://en.wikipedia.org/wiki/Hyperparameter_optimization) 是数据科学和机器学习工作流的一个重要组成部分，因为它可以挤压模型所能提供的最佳性能。因此，您选择执行超参数调整的方法非常重要。**网格搜索**是穷尽式的，而**随机搜索**是完全随机的，因此可能会错过最重要的值。但是，通过**hyperpt**包有一个更好的方法！
 
-**Hyperopt** 是一个开源的超参数调整库，它使用**贝叶斯**方法来寻找超参数的最佳值。我不打算深入这个贝叶斯方法如何工作的理论细节，主要是因为它需要另一整篇文章来充分解释！然而，感兴趣的读者可以在这里查看文档[](http://hyperopt.github.io/hyperopt/)****，如果你感兴趣的话，还有几篇关于这个主题的研究论文。****
+**Hyperopt** 是一个开源的超参数调整库，它使用**贝叶斯**方法来寻找超参数的最佳值。我不打算深入这个贝叶斯方法如何工作的理论细节，主要是因为它需要另一整篇文章来充分解释！然而，感兴趣的读者可以在这里查看文档<http://hyperopt.github.io/hyperopt/>****，如果你感兴趣的话，还有几篇关于这个主题的研究论文。****
 
 ****在本文中，我们将把一个 **RandomForestClassifier** 模型拟合到 Kaggle 提供的 [**水质**](https://www.kaggle.com/adityakadiwal/water-potability) (CC0 域)数据集。然后，我们将使用**hyperpt 调整模型的超参数。******
 
@@ -184,19 +184,11 @@ best_params = fmin(
 
 **如果您想查看撰写本文时使用的完整代码，可以在下面找到:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt.ipynb) [## Medium-Articles/Hyperparameter _ Tuning _ With _ hyper opt . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt.ipynb) 
+**<https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt.ipynb>  
 
 我还创建了一个更新版本(2022 年 9 月)，您可以在这里找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt_V2.ipynb) [## Medium-Articles/Hyperparameter _ Tuning _ With _ Hyperopt _ v2 . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt_V2.ipynb) 
+<https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Hyperparameter_Tuning_With_Hyperopt_V2.ipynb>  
 
 # 和我联系！
 
@@ -205,6 +197,6 @@ github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Scien
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*碎碎念*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

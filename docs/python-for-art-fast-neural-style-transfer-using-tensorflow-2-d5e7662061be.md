@@ -35,11 +35,7 @@
 
 在我们继续之前，我想分享一篇由博士研究员 Matthew Stewart 写的关于神经 styler 转移的文章。你将对神经类型转移的工作原理有一个很好的幕后理解。
 
-[](/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b) [## 卷积网络的神经类型转移和可视化
-
-### 使用迁移学习在 10 分钟内创建专业外观的艺术品。
-
-towardsdatascience.com](/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b) 
+</neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b>  
 
 # 步骤 1 —库
 

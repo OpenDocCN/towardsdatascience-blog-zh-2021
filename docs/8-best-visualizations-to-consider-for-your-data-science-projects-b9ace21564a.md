@@ -161,11 +161,7 @@ import matplotlib.pyplot as plt
 
 导入 matplotlib 库后，我们将专注于数据集的准备工作。我们将使用五种水果，即苹果、芒果、葡萄、草莓和橙子，分别与它们的总量相关联。我们将利用下面的代码块将一些数据添加到我们各自的列表中，以达到特定的目的。从下面提供的链接中查看 Python 词典的完整指南。
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 ```
 Fruits = {"Apple": 30, "Mango": 15, "Grapes": 20, "Strawberry": 10, "Oranges": 25}classes = []
@@ -237,26 +233,6 @@ plt.show()
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [## 在数据科学领域取得更大成功的 15 个技巧！
-
-### 作为数据科学家，每个数据科学爱好者都必须努力提高的 15 个因素
-
-towardsdatascience.com](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [](/machine-learning-101-master-ml-66b20003404e) [## 机器学习 101:ML 大师
-
-### 学习初学者掌握该领域所需的机器学习的所有必要和核心概念
-
-towardsdatascience.com](/machine-learning-101-master-ml-66b20003404e) [](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [## 可能会让你惊讶的 5 个独特的人工智能用例
-
-### 找出人工智能在现实世界中令人着迷的五个独特应用
-
-towardsdatascience.com](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) [](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) 
+</15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae>  </machine-learning-101-master-ml-66b20003404e>  </5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf>  </10-best-free-websites-to-learn-programming-939ec029009b>  </best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

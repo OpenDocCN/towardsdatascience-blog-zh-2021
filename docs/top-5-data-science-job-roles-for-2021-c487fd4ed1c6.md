@@ -100,12 +100,4 @@ Yoal Desurmont 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 我也在 [Linkedin](http://www.linkedin.com/in/maletelier) 和 [Twitter](https://twitter.com/maletelier) 上。我很乐意与你交谈！如果你想多读一点，看看我最近的一些帖子:
 
-[](/roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab) [## NumPy 中从头开始的 ROC 曲线和 AUC(可视化！)
-
-### 因为你只有在建造它的时候才会学到它。
-
-towardsdatascience.com](/roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab) [](/decision-trees-as-you-should-have-learned-them-99862469493e) [## 决策树:你应该已经学会了
-
-### 循序渐进的指南
-
-towardsdatascience.com](/decision-trees-as-you-should-have-learned-them-99862469493e)
+</roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab>  </decision-trees-as-you-should-have-learned-them-99862469493e> 

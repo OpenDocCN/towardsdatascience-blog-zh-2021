@@ -12,11 +12,7 @@
 
 for 循环；这通常是我们介绍计算艺术的一个关键部分。for 循环是一个多用途的工具，通常用于操作和处理数据结构。对于许多操作，您可以使用 For 循环来获得相当好的性能，同时仍然完成一些重要的操作。然而，在现代 Python 中，有一些方法可以用来练习典型的 for 循环。这比 Python 中传统的 for 循环要快。也就是说，这些选项是可用的，这当然是一件好事，在某些情况下，它们可以用来加速 Python 代码！此外，如果您想查看本文的源代码，可以在这里查看:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks) [## GitHub-emmettgb/Emmetts-DS-NoteBooks:各种项目的随机笔记本。
-
-### 这些是我的开源笔记本，随意打开阅读，下载，和分叉等。我的投资组合您也可以…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks>  
 
 # 有关 for 循环的更多信息…
 
@@ -88,11 +84,7 @@ x = rd.randn(10000)
 
 我们要研究的下一项技术是 Lambda。Lambda 是一种简单的技术，我们可以在 Python 内部使用它来创建表达式。然后可以使用 apply()方法在 iterable 上计算这些表达式。当然，使用 lambda 还有很多其他方式。对于今天的例子，我们将把 lambda 应用到我们的数组中，以便正常分布我们的数据。实际上，我不久前写了一篇文章，谈论 Lambda 的伟大之处。如果你想更深入地了解这项技术，你可以在这里做:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 Lambda 非常容易使用，只需要几秒钟就可以学会。然而，当一个人刚刚开始时，很容易明白为什么各种各样的 lambda 知识会变得令人困惑。让我们看看如何将 lambda 应用到我们的函数中。我们将面临的问题是，最终 lambda 在这种实现中并不能很好地工作。然而，尽管如此，λ更多的是一个组成部分；幸运的是，在有些应用程序中，我们可以将这个列表中的另一个组件与 lambda 结合起来，以形成一个使用 lambda 来应用不同操作的工作循环。在我们函数的例子中，例如:
 
@@ -157,11 +149,7 @@ def normaldfapply(x : pd.DataFrame):
 
 从一个更基本的实现角度来看，解决这个问题的一个好方法是使用 itertools。itertools 模块包含在 Python 标准库中，是一个非常棒的工具，我建议一直使用它。它是在 Python 中实现流行的、快速的数据处理算法，这些算法可以用更少的 Python 来完成工作。我有一整篇文章详细介绍了 itertools 的神奇之处，如果您愿意，可以点击这里查看:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 问题是，这个库提供了很多东西——所以我很高兴有人能在这里更深入地研究那篇文章——因为现在我只打算写这个函数，到此为止。我肯定地认为，在大多数情况下，对这个模块进行更多的阅读是有保证的，尽管它确实是你的武器库中一个令人敬畏的多功能工具。
 

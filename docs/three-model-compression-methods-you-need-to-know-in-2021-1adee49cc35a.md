@@ -118,12 +118,4 @@
 
 如果你喜欢这篇文章，你可能会喜欢其他关于深度学习研究最新进展的文章。
 
-[](/removing-the-adversarial-in-generative-adversarial-networks-5ba4110d0b8c) [## 消除生成对抗网络中的“对抗”
-
-### 无竞争 GAN 的再思考
-
-towardsdatascience.com](/removing-the-adversarial-in-generative-adversarial-networks-5ba4110d0b8c) [](/can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8) [## 变形金刚能比人类更好地解决这个 90 年的经典计算机科学问题吗…
-
-### 深度学习还不能打败人类的解决方案——目前还不能
-
-towardsdatascience.com](/can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8)
+</removing-the-adversarial-in-generative-adversarial-networks-5ba4110d0b8c>  </can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8> 

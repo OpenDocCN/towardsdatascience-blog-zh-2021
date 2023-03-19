@@ -8,7 +8,7 @@
 
 里卡多·戈麦斯·安吉尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
-*在之前的一篇文章*[](https://prischcheung.medium.com/experimentation-to-test-or-not-to-test-547b10385939)**中，我概述了实验文化的驱动力，以及在整个企业中巩固这种思维转变所需的分析原则。然而，是时候改变方式了——在通过实验推动持续学习之前，我们需要回到数据捕获和转换的基础上。**
+*在之前的一篇文章*<https://prischcheung.medium.com/experimentation-to-test-or-not-to-test-547b10385939>**中，我概述了实验文化的驱动力，以及在整个企业中巩固这种思维转变所需的分析原则。然而，是时候改变方式了——在通过实验推动持续学习之前，我们需要回到数据捕获和转换的基础上。**
 
 *你可能会认为，作为产品开发不可或缺的一部分，应该更加重视将实验与数据基础设施相结合。当然，你会看到像网飞和 LinkedIn 这样的公司引领着他们自己的实验平台——但是小鱼呢？我想探索更小的公司如何克服开箱即用的实验解决方案的限制，并朝着建立类似的内部平台前进。*
 

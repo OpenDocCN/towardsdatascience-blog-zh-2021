@@ -150,11 +150,7 @@ async def on_ready():
 
 如果你有任何问题或需要帮助，请加入 TigerGraph Discord。
 
-[](https://discord.gg/7ft9PNZAM6) [## 加入 TigerGraph Discord 服务器！
-
-### 在 Discord 上查看 TigerGraph 社区-与 382 名其他成员一起闲逛，享受免费语音和文本聊天。
-
-不和谐. gg](https://discord.gg/7ft9PNZAM6) 
+<https://discord.gg/7ft9PNZAM6>  
 
 祝你好运！
 

@@ -82,14 +82,6 @@ isNaN(x)**Output**True
 
 ## 你可能会感兴趣的我的其他文章:
 
-[](/how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995) [## 如何使用值从 Python 字典中提取键
-
-### 从 python 字典给定值中提取键的四种方法
-
-towardsdatascience.com](/how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995) [](/how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a) [## 如何在 Matplotlib/ Seaborn 中向散点图添加文本标签
-
-### 使用 Seaborn 或 Matplotlib 库时，如何在 python 中向散点图添加文本标签的分步指南。
-
-towardsdatascience.com](/how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a) ![](img/df28a33352a2d4dd70882f06aad7f614.png)
+</how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995>  </how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a>  ![](img/df28a33352a2d4dd70882f06aad7f614.png)
 
 sebastiaan stam 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

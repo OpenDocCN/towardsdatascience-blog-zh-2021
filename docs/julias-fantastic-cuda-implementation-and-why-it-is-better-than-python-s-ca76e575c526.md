@@ -51,11 +51,7 @@ y = CuArray([5, 10, 15, 20])x .+ y
 
 和大多数 Julia 程序员可用的包一样，这个包利用了 Julia 的多重调度。如果您想了解更多关于多重分派的一般知识，以及为什么多重分派是我最喜欢的计算机编程方式，我写了一整篇文章，都是关于它在 Julia 编程语言中的实现，您可以在这里查看:
 
-[](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) [## 为什么多重分派是我最喜欢的编程方式
-
-### 多种调度的优势概述，以及我为什么这么喜欢它。
-
-towardsdatascience.com](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) 
+</why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878>  
 
 对 Julia 来说，这个 CUDA.jl 包最酷的地方在于，它真正利用了多分派的概念，通过扩展基本函数来产生许多调用，这些调用实际上与它们的常规内存和处理器对应部分相同，同时仍然利用了 CUDA 的优势。这意味着在很多情况下，算法可以像没有 CUDA 时一样正常执行。换句话说，我们获得了 CUDA 的好处，而没有这种努力通常会引起的任何头痛。我认为这真的很酷，因为我真的从未使用过如此强大的并行处理平台的如此易用的实现。对于任何热爱技术和寻求更快编译时间的人，我当然会推荐看看这个实现，这样你就可以看到在 Julia 中使用 CuArrays 实际上是多么容易！
 

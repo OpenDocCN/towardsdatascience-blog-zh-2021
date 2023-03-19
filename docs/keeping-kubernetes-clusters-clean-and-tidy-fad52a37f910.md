@@ -102,16 +102,4 @@
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/60?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_60)
 
-[](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [## 调试 Kubernetes 工作负载的最简单方法
-
-### 对 Kubernetes 上运行的任何应用程序进行调试和故障排除的最快最简单的方法…
-
-towardsdatascience.com](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [## yq:在命令行中掌握 YAML 处理
-
-### 学习使用 yq 命令行实用程序和这个简单的备忘单更有效地解析和操作 YAML 文件
-
-towardsdatascience.com](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [## 用 seccomp 强化 Docker 和 Kubernetes
-
-### 您的容器可能不像您想象的那样安全，但是 seccomp 配置文件可以帮助您解决这个问题…
-
-itnext.io](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111)
+</the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75>  </yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823>  <https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111> 

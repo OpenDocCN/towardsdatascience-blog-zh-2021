@@ -10,11 +10,7 @@
 
 在我之前的帖子(下面的链接)中，我们已经介绍了几种基本的时间序列模型及其在 statsmodels 中可用的相应函数，包括 ETS 模型、EWMA 模型和指数平滑方法(又名霍尔特温特方法)。然而，最流行的解决时间序列问题的方法可能是基于 ARIMA 的模型，这也是我们在今天的文章中要探讨的。
 
-[](/time-series-analysis-with-statsmodels-12309890539a) [## 利用统计模型进行时间序列分析
-
-### 理解基本的时间序列模型及其背后的数学原理
-
-towardsdatascience.com](/time-series-analysis-with-statsmodels-12309890539a) 
+</time-series-analysis-with-statsmodels-12309890539a>  
 
 然而，在转向 ARIMA 模型之前，为了更好地理解 ARIMA 模型背后的理论，我们需要重新审视一些概念和术语。
 
@@ -84,11 +80,7 @@ towardsdatascience.com](/time-series-analysis-with-statsmodels-12309890539a)
 
 ****接下来，我们将继续使用我们在之前的帖子中使用的相同数据集来演示使用 ARIMA 模型进行时间序列预测的一般流程。如果你错过了之前的帖子，你可以从这里查看:****
 
-****[](/time-series-analysis-with-statsmodels-12309890539a) [## 利用统计模型进行时间序列分析
-
-### 理解基本的时间序列模型及其背后的数学原理
-
-towardsdatascience.com](/time-series-analysis-with-statsmodels-12309890539a) 
+****</time-series-analysis-with-statsmodels-12309890539a>  
 
 ## ARIMA 模型预测案例研究
 
@@ -173,20 +165,8 @@ ax.set(ylabel = 'Retail Sales Amount in MM USD')
 
 如果你想看看除了 ARIMA 模型之外的时间序列分析方法，你可以参考我在这里的第一篇文章:
 
-[](/time-series-analysis-with-statsmodels-12309890539a) [## 利用统计模型进行时间序列分析
-
-### 理解基本的时间序列模型及其背后的数学原理
-
-towardsdatascience.com](/time-series-analysis-with-statsmodels-12309890539a) 
+</time-series-analysis-with-statsmodels-12309890539a>  
 
 如果你感兴趣的话，可以看看我在以下链接中关于房价预测的帖子:
 
-[](/predicting-singapore-hdb-resale-price-data-preparation-be39152b8c69) [## 预测新加坡 HDB 转售价格:数据准备
-
-### 如何通过必要的特征工程工作处理数据集，为进一步的分析和建模做准备
-
-towardsdatascience.com](/predicting-singapore-hdb-resale-price-data-preparation-be39152b8c69) [](/predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d) [## 预测新加坡 HDB 转售价格:EDA 和建模
-
-### 进行 EDA 并尝试不同的 ML 模型来预测转售价格
-
-towardsdatascience.com](/predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d)****
+</predicting-singapore-hdb-resale-price-data-preparation-be39152b8c69>  </predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d> ****

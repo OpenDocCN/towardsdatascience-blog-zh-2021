@@ -8,11 +8,7 @@
 
 > **更新**:发现我关于渐变提升的新书[实用渐变提升](https://www.amazon.fr/dp/B0BJ82S916)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://www.amazon.com/dp/B0BJ82S916) [## 实用的渐变增强:深入探究 Python 中的渐变增强
-
-### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…
-
-www.amazon.com](https://www.amazon.com/dp/B0BJ82S916) 
+<https://www.amazon.com/dp/B0BJ82S916>  
 
 在处理深度学习时，训练一个模型总是很复杂:不仅是一项耗时且成本高昂的任务，还需要非常大的数据集。微调模型架构也相当繁琐，使用超参数调整/ AutoML 仍然是一个开放的计算耗时的主题。
 
@@ -32,11 +28,7 @@ www.amazon.com](https://www.amazon.com/dp/B0BJ82S916)
 
 我们将把这种预先训练好的架构应用到以下照片中，这些照片是在 Unsplash 上随机挑选的:
 
-[](https://unsplash.com/photos/Sg3XwuEpybU) [## 照片由理查德·布鲁图在 Unsplash 上拍摄
-
-### 下载这张由理查德·布鲁约(@richardbrutyo)拍摄的狗、动物、宠物和寻回犬的免费高清照片
-
-unsplash.com](https://unsplash.com/photos/Sg3XwuEpybU) 
+<https://unsplash.com/photos/Sg3XwuEpybU>  
 
 多亏了 [pytorch](https://pytorch.org/) ，这可以用几行 python 代码完成:
 

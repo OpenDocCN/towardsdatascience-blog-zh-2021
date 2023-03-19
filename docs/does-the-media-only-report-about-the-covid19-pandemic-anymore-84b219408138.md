@@ -97,20 +97,4 @@
 
 ## 我其他一些关于媒体报道的文章:
 
-[](/what-information-is-hidden-in-online-news-articles-f5695eae38fd) [## 网络新闻文章中隐藏了哪些信息？
-
-### 网络新闻的数据分析
-
-towardsdatascience.com](/what-information-is-hidden-in-online-news-articles-f5695eae38fd) [](https://medium.com/datadriveninvestor/topics-in-online-news-before-the-austrian-elections-2019-d981facbd0dd) [## 2019 年奥地利大选前的在线新闻话题
-
-### 在早先的一篇文章中，我描述了 http://politradar.stoeckl.ai/项目，在那里我监控奥地利…
-
-medium.com](https://medium.com/datadriveninvestor/topics-in-online-news-before-the-austrian-elections-2019-d981facbd0dd) [](https://medium.com/datadriveninvestor/on-the-media-coverage-of-political-parties-e1b1933f0810) [## 论媒体对政党的报道
-
-### 为迎接即将到来的奥地利大选，我启动了一个项目来监测和分析…
-
-medium.com](https://medium.com/datadriveninvestor/on-the-media-coverage-of-political-parties-e1b1933f0810) [](https://medium.com/datadriveninvestor/newstrace-a-method-to-analyze-the-impact-of-news-articles-on-stock-prices-2e866c16a9f) [## “新闻追踪”——一种分析新闻文章对股票价格影响的方法
-
-### 现实世界的很多方面都被发表在网上的新闻报道所覆盖。所以这些数据是…
-
-medium.com](https://medium.com/datadriveninvestor/newstrace-a-method-to-analyze-the-impact-of-news-articles-on-stock-prices-2e866c16a9f)
+</what-information-is-hidden-in-online-news-articles-f5695eae38fd>  <https://medium.com/datadriveninvestor/topics-in-online-news-before-the-austrian-elections-2019-d981facbd0dd>  <https://medium.com/datadriveninvestor/on-the-media-coverage-of-political-parties-e1b1933f0810>  <https://medium.com/datadriveninvestor/newstrace-a-method-to-analyze-the-impact-of-news-articles-on-stock-prices-2e866c16a9f> 

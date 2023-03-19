@@ -70,11 +70,7 @@ from sklearn.metrics import mean_absolute_percentage_error**#functions to train 
 
 动物园管理部门正试图了解不同栖息地的美洲驼数量。这个项目将帮助他们计划食物，这样他们就可以正确地喂养骆驼。我们有 20 个月的历史数据，包括不同栖息地的羊驼数量和一些天气特征。数据文件可以在下面的链接中找到
 
-[](https://github.com/PriyaBrataSen/Machine_Learning_with_python/tree/main/Data) [## PriyaBrataSen/机器学习 _ 用 _python
-
-### 使用 python 的分析项目。为 PriyaBrataSen/Machine _ Learning _ with _ python 开发做出贡献，创建一个…
-
-github.com](https://github.com/PriyaBrataSen/Machine_Learning_with_python/tree/main/Data) ![](img/6b77e9dd8afde1da073ae1208758c960.png)
+<https://github.com/PriyaBrataSen/Machine_Learning_with_python/tree/main/Data>  ![](img/6b77e9dd8afde1da073ae1208758c960.png)
 
 拉斯波娃·玛丽娜在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 

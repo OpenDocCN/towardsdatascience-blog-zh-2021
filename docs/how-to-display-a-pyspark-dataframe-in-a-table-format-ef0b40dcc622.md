@@ -133,11 +133,7 @@ spark.conf.set("spark.sql.execution.arrow.pyspark.enabled", "true")
 
 更多关于 PyArrow 优化的细节，当 spark 和 pandas 数据帧相互转换时，你可以参考我下面的文章
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) 
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  
 
 ## 结论
 

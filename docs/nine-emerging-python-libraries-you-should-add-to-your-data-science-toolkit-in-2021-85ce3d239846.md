@@ -30,15 +30,7 @@ Kedro 是一个用于数据科学管道开发的工作流工具，它鼓励生�
 
 点击下面的链接，了解更多关于 Kedro 的信息:
 
-[](/kedro-prepare-to-pimp-your-pipeline-f8f68c263466) [## 准备给你的管道拉皮条
-
-### 用于生产就绪数据管道的新 Python 库
-
-towardsdatascience.com](/kedro-prepare-to-pimp-your-pipeline-f8f68c263466) [](https://github.com/quantumblacklabs/kedro) [## quantumblacklabs/kedro
-
-### Kedro 是一个开源 Python 框架，用于创建可复制、可维护和模块化的数据科学代码。它…
-
-github.com](https://github.com/quantumblacklabs/kedro) 
+</kedro-prepare-to-pimp-your-pipeline-f8f68c263466>  <https://github.com/quantumblacklabs/kedro>  
 
 ## 格拉迪欧
 
@@ -56,15 +48,7 @@ Gradio 非常有用，原因如下:
 
 *点击以下链接，了解更多关于 Gradio 的信息:*
 
-[](https://github.com/gradio-app/gradio) [## gradio-app/gradio
-
-### 围绕您的模型快速创建可定制的 UI 组件。Gradio 让您可以轻松“玩耍”您的…
-
-github.com](https://github.com/gradio-app/gradio) [](/gradio-vs-streamlit-vs-dash-vs-flask-d3defb1209a2) [## Gradio vs Streamlit vs Dash vs Flask
-
-### 比较几种数据科学的 web UI 工具！
-
-towardsdatascience.com](/gradio-vs-streamlit-vs-dash-vs-flask-d3defb1209a2) 
+<https://github.com/gradio-app/gradio>  </gradio-vs-streamlit-vs-dash-vs-flask-d3defb1209a2>  
 
 ## 细流
 
@@ -74,15 +58,7 @@ Streamlit 是另一个用于创建用户界面的流行工具。它是一个开�
 
 *点击下面的链接，了解更多关于 Streamlit 的信息:*
 
-[](/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83) [## 借助 Streamlit 快速构建和部署应用
-
-### 将您的 Streamlit 应用程序部署到 Heroku，展示您的数据解决方案
-
-towardsdatascience.com](/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83) [](https://docs.streamlit.io/en/stable/getting_started.html) [## 开始-简化 0.79.0 文档
-
-### 学习如何使用 Streamlit 的最简单方法是自己尝试。当您通读本指南时，请逐一测试…
-
-docs.streamlit.io](https://docs.streamlit.io/en/stable/getting_started.html) 
+</quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83>  <https://docs.streamlit.io/en/stable/getting_started.html>  
 
 # 2.数据建模
 
@@ -94,15 +70,7 @@ PyCaret 是一个**低代码**机器学习库，允许你通过快速创建模�
 
 *查看以下链接，了解更多关于 PyCaret 的信息:*
 
-[](https://github.com/pycaret/pycaret) [## pycaret/pycaret
-
-### PyCaret 是一个用 Python 编写的开源、低代码的机器学习库，可以自动化机器学习工作流。这是…
-
-github.com](https://github.com/pycaret/pycaret) [](/how-to-use-pycaret-the-library-for-lazy-data-scientists-91343f960bd2) [## 如何使用 py caret——低代码 ML 的库
-
-### 用最少的代码训练、可视化、评估、解释和部署模型。
-
-towardsdatascience.com](/how-to-use-pycaret-the-library-for-lazy-data-scientists-91343f960bd2) 
+<https://github.com/pycaret/pycaret>  </how-to-use-pycaret-the-library-for-lazy-data-scientists-91343f960bd2>  
 
 ## **先知**
 
@@ -112,15 +80,7 @@ Prophet 是由脸书开发的，是一个非常强大的工具，特别是用于
 
 *点击下面的链接，了解更多关于先知的信息:*
 
-[](https://facebook.github.io/prophet/) [## 先知
-
-### Prophet 是一个用 R 和 Python 实现的预测程序。它速度很快，并提供完全自动化的预测…
-
-facebook.github.io](https://facebook.github.io/prophet/) [](https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/) [## Python -机器学习掌握中的 Prophet 时间序列预测
-
-### 时间序列预测可能具有挑战性，因为有许多不同的方法可以使用，并且有许多不同的…
-
-machinelearningmastery.com](https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/) 
+<https://facebook.github.io/prophet/>  <https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/>  
 
 > ***一定要*** [***订阅***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学的文章，包括指南、诀窍和技巧、生活经验等！***
 
@@ -140,15 +100,7 @@ profile
 
 *点击下面的链接，了解更多关于熊猫档案的信息:*
 
-[](https://github.com/pandas-profiling/pandas-profiling) [## 熊猫简介/熊猫简介
-
-### 文档|松弛|堆栈溢出从 pandas 数据帧生成配置文件报告。熊猫 df.describe()…
-
-github.com](https://github.com/pandas-profiling/pandas-profiling) [](/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3) [## 探索性数据分析与熊猫概况
-
-### 熊猫概况，探索性数据分析的完美工具。
-
-towardsdatascience.com](/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3) 
+<https://github.com/pandas-profiling/pandas-profiling>  </exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3>  
 
 ## **童话故事**
 
@@ -160,11 +112,7 @@ D-Tale 的卖点是它有许多类似于 Pandas Profiling 的特性，而且还�
 
 *点击下面的链接，了解更多关于 D-Tale 的信息:*
 
-[](/introduction-to-d-tale-5eddd81abe3f) [## D-Tale 简介
-
-### 用于交互式数据探索的 D-Tale 简介
-
-towardsdatascience.com](/introduction-to-d-tale-5eddd81abe3f) 
+</introduction-to-d-tale-5eddd81abe3f>  
 
 ## **Autoviz**
 
@@ -174,15 +122,7 @@ Autoviz 可以快速找到数据中的重要特征，并通过一行代码将它
 
 *点击下面的链接，了解更多关于 Autoviz 的信息:*
 
- [## AutoViz -欢迎
-
-### AutoViz 是一个一键式可视化引擎:你只需要上传你的数据到上面的框中，然后告诉我们你的目标…
-
-autoviz.io](https://autoviz.io/) [](/autoviz-automatically-visualize-any-dataset-ba2691a8b55a) [## Autoviz:自动可视化任何数据集
-
-### 只需一行代码即可可视化任意大小的数据集
-
-towardsdatascience.com](/autoviz-automatically-visualize-any-dataset-ba2691a8b55a) 
+  </autoviz-automatically-visualize-any-dataset-ba2691a8b55a>  
 
 ## **阴谋地**
 
@@ -194,15 +134,7 @@ Plotly 绝对是构建可视化的必备工具，因为它非常强大，易于�
 
 *点击下面的链接，了解更多关于 Plotly 的信息:*
 
-[](/interactive-visualizations-with-plotly-ea3f8feb87d1) [## 使用 Plotly 进行交互式可视化
-
-### plotly.py 库简介
-
-towardsdatascience.com](/interactive-visualizations-with-plotly-ea3f8feb87d1) [](/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [## Python 中数据可视化的下一个层次
-
-### 如何用一行 Python 代码制作出好看的、完全交互式的情节
-
-towardsdatascience.com](/the-next-level-of-data-visualization-in-python-dd6e99039d5e) 
+</interactive-visualizations-with-plotly-ea3f8feb87d1>  </the-next-level-of-data-visualization-in-python-dd6e99039d5e>  
 
 # 感谢阅读！
 

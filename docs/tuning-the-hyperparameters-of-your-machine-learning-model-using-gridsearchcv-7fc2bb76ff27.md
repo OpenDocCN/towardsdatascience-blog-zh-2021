@@ -226,11 +226,7 @@ Accuracy : 0.9701754385964911
 
 使用这种方法无法真正评估该模型，因为您不想传递任何用于预测训练的数据。为什么？因为模型已经在训练期间看到了数据，因此不会给你模型性能的准确度量。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+<https://weimenglee.medium.com/membership>  
 
 # 摘要
 
@@ -238,20 +234,4 @@ weimenglee.medium.com](https://weimenglee.medium.com/membership)
 
 以下是我之前关于*功能选择*的文章链接:
 
-[](/statistics-in-python-using-anova-for-feature-selection-b4dc876ef4f0) [## Python 中的统计数据-使用方差分析进行要素选择
-
-### 了解如何使用 ANOVA 比较分类变量和数值变量
-
-towardsdatascience.com](/statistics-in-python-using-anova-for-feature-selection-b4dc876ef4f0) [](/statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745) [## Python 中的统计数据-使用卡方进行要素选择
-
-### 在我之前的两篇文章中，我谈到了如何度量数据集中各列之间的相关性，以及…
-
-towardsdatascience.com](/statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745) [](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) [## Python 中的统计数据-共线性和多重共线性
-
-### 了解如何发现数据集中的多重共线性
-
-towardsdatascience.com](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) [](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) [## Python 中的统计学-了解方差、协方差和相关性
-
-### 理解你的数据之间的关系，知道皮尔逊相关系数和…
-
-towardsdatascience.com](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01)
+</statistics-in-python-using-anova-for-feature-selection-b4dc876ef4f0>  </statistics-in-python-using-chi-square-for-feature-selection-d44f467ca745>  </statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f>  </statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01> 

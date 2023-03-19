@@ -28,11 +28,7 @@
 
 对于一个动手的例子，你可以看看这个关于一个基于代理的疫情模型的帖子:
 
-[](/modelling-a-pandemic-eb94025f248f) [## 给疫情做模特
-
-### 使用 python 和 pandas 构建基于代理的模型
-
-towardsdatascience.com](/modelling-a-pandemic-eb94025f248f) 
+</modelling-a-pandemic-eb94025f248f>  
 
 ## 基于代理的模型的目标是什么？
 
@@ -124,8 +120,4 @@ towardsdatascience.com](/modelling-a-pandemic-eb94025f248f)
 
 如果你有兴趣进入贝叶斯数据分析的世界，看看下面的帖子:
 
-[](/how-to-become-a-bayesian-fcaaf6302d68) [## 如何成为贝氏
-
-### 频率主义者和贝叶斯统计的根本区别
-
-towardsdatascience.com](/how-to-become-a-bayesian-fcaaf6302d68)
+</how-to-become-a-bayesian-fcaaf6302d68> 

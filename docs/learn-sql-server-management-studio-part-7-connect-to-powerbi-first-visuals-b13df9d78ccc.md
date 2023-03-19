@@ -14,51 +14,27 @@
 
 如果您错过了关于如何设置我们的环境和本地服务器的第 1 集，请阅读本文:
 
-[](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) [## 了解 SQL Server Management Studio —第 1 部分分步安装
-
-### 这是一个免费且强大的工具，可以利用数据、提高技能并在面试中脱颖而出
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) 
+</getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0>  
 
 第二集将教你如何创建自己的数据库、表格，以及关于命名约定的重要注释:
 
-[](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) [## 了解 SQL Server Management Studio —第 2 部分数据库、表和命名约定
-
-### 让你在派对上开心的技能！逐步地
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) 
+</getting-started-with-sql-server-management-studio-5cd24bb1a87c>  
 
 在第 3 集，我们介绍了 CRUD 操作以及主键和外键:
 
-[](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) [## 了解 SQL Server Management Studio —第 3 部分 CRUD 操作、主键和外键
-
-### 让你在派对上开心的技能！逐步地
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) 
+</learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70>  
 
 在第 4 集，我们讨论了模式&主要的规范化步骤:
 
-[](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) [## 了解 SQL Server Management Studio —第 4 部分架构和规范化
-
-### 让你在派对上开心的技能！逐步地
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) 
+</learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258>  
 
 在第 5 集，我们讨论了存储过程和调度，这是一个真正的野兽。我怎么强调这将如何促进和自动化你的日常(数据)生活都不为过。
 
-[](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) [## 了解 SQL Server Management Studio —第 5 部分存储过程和调度
-
-### 让你在派对上开心的技能！循序渐进。
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) 
+</learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314>  
 
 在第 6 集，我们介绍了用于 ETL 的 SSIS 包，并回顾了在两个数据库之间以及数据库和 Excel 之间导入和导出数据。
 
-[](/learn-sql-server-management-studio-part-6-ssis-packages-9438dbc90437) [## 了解 SQL Server Management Studio —第 6 部分 SSIS 软件包
-
-### 让你在派对上开心的技能！循序渐进。
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-6-ssis-packages-9438dbc90437) 
+</learn-sql-server-management-studio-part-6-ssis-packages-9438dbc90437>  
 
 别忘了回来😉。
 
@@ -272,11 +248,7 @@ PowerBI 提供了四个主要面板，从左边开始:包含可视化效果的�
 
 了解如何利用 SQL 视图。这是一个非常简单而强大的工具。在本教程结束时，您将会感到有能力利用视图的力量。
 
-[](/learn-sql-server-management-studio-part-8-leverage-the-views-206fbcef3957) [## 了解 SQL Server Management Studio —第 8 部分利用视图
-
-### 让你在派对上开心的技能！循序渐进。
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-8-leverage-the-views-206fbcef3957) 
+</learn-sql-server-management-studio-part-8-leverage-the-views-206fbcef3957>  
 
 # 资源
 

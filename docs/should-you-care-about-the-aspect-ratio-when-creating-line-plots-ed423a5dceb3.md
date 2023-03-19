@@ -75,19 +75,11 @@
 
 *如果你喜欢阅读我写的文章，那么你可以通过使用下面的推荐链接订阅媒体来支持我。*
 
-*[](https://abhinav-malasi.medium.com/membership) [## 阅读阿比纳夫·马拉斯(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/membership) 
+*<https://abhinav-malasi.medium.com/membership>  
 
 要了解最新情况，您可以订阅我发布文章时的电子邮件通知。
 
-[](https://abhinav-malasi.medium.com/subscribe) [## 每当阿比纳夫·马拉斯发表文章时，就收到一封电子邮件。
-
-### 编辑描述
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/subscribe) 
+<https://abhinav-malasi.medium.com/subscribe>  
 
 ## 参考资料:
 
@@ -98,34 +90,6 @@ abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/subscribe)
 
 我撰写的其他与数据可视化相关的文章:
 
-[](/themes-to-spice-up-visualizations-with-ggplot2-3e275038dafa) [## 使用 ggplot2 增加可视化效果的主题
-
-### 利用 ggplot2 包的扩展来加速可视化。
-
-towardsdatascience.com](/themes-to-spice-up-visualizations-with-ggplot2-3e275038dafa) [](/what-chart-type-to-use-when-visualizing-time-series-e0f1a779f2f7) [## 可视化时间序列时使用哪种图表类型
-
-### 关于可视化时序数据时如何以及何时选择条形图而不是折线图的提示
-
-towardsdatascience.com](/what-chart-type-to-use-when-visualizing-time-series-e0f1a779f2f7) [](/six-guidelines-for-good-visualizations-7c1831cda29f) [## 良好可视化的六个准则
-
-### DataViz 传奇作品的要点。
-
-towardsdatascience.com](/six-guidelines-for-good-visualizations-7c1831cda29f) [](/hands-on-tutorial-f2ee5dc4d0a8) [## 条形图动画制作完全指南
-
-### 制作两种不同风格的条形图动画的分步指南
-
-towardsdatascience.com](/hands-on-tutorial-f2ee5dc4d0a8) [](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [## 使用 ggplot2 实现主数据可视化:饼图、蜘蛛图和条形图
-
-### 关于在 r 中创建饼图、蜘蛛图和圆形条形图的指南。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) [## 为数据可视化创建自己的调色板——第 2 部分
-
-### 平衡色调、色调和饱和度，以生成完美的颜色渐变。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) 
+</themes-to-spice-up-visualizations-with-ggplot2-3e275038dafa>  </what-chart-type-to-use-when-visualizing-time-series-e0f1a779f2f7>  </six-guidelines-for-good-visualizations-7c1831cda29f>  </hands-on-tutorial-f2ee5dc4d0a8>  </master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19>  
 
 *可以在* [*LinkedIn*](https://www.linkedin.com/in/abhinav-malasi/) *和*[*Twitter*](https://twitter.com/malasi_abhinav)*上与我连线，跟随我的数据科学和数据可视化之旅。或者您可以在 Medium 上关注我，了解有关 R 和 ggplot2 包的数据可视化的最新文章。**

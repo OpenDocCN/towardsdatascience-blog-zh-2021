@@ -156,7 +156,7 @@ for phrase in phrases:
 
 这里有一些项目想法，您可以尝试并构建来扩展您自己的项目组合。说到投资组合，你可以从我最近写的这篇文章中免费学习如何建立一个投资组合网站:
 
-[](/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9) [## 如何免费建立一个简单的作品集网站
+</how-to-build-a-simple-portfolio-website-for-free-f49327675fd9> [## 如何免费建立一个简单的作品集网站
 
 towardsdatascience.com](/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9) 
 
@@ -182,11 +182,7 @@ towardsdatascience.com](/how-to-build-a-simple-portfolio-website-for-free-f49327
 
 我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub 页面](https://github.com/dataprofessor/))。
 
-[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

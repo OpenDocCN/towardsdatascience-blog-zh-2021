@@ -8,7 +8,7 @@
 
 罗伯特·鲁杰罗在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
-上次，我看了英国收入分布的统计平均值，以说明平均值的潜在弱点。概括一下，你可以在这里看到[](https://medium.com/@rohan.tangri/fooled-by-the-average-f254ff9bc08c)**。这一次，我们将看看标准差和一个可以根据情况使用的替代方法，即**平均绝对偏差**。**
+上次，我看了英国收入分布的统计平均值，以说明平均值的潜在弱点。概括一下，你可以在这里看到<https://medium.com/@rohan.tangri/fooled-by-the-average-f254ff9bc08c>**。这一次，我们将看看标准差和一个可以根据情况使用的替代方法，即**平均绝对偏差**。**
 
 # **一个常见的误解**
 

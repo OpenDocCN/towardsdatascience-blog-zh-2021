@@ -108,11 +108,7 @@ data['Cabin'] = data['Cabin'].fillna('Unkown')
 
 完整代码请见我的 GitHub:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Dealing%20With%20Missing%20Data.ipynb) [## 中型文章/处理缺失数据。ipynb at main egorhowell/中型文章
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Dealing%20With%20Missing%20Data.ipynb) 
+<https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Dealing%20With%20Missing%20Data.ipynb>  
 
 # 和我联系！
 
@@ -121,6 +117,6 @@ github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Scien
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

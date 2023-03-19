@@ -40,7 +40,7 @@
 
 GNNs 允许学习一个状态转移图(右)，它解释了一个复杂的多粒子系统(左)。图片来源:T. Kipf。
 
-[**托马斯·基普夫**](https://tkipf.github.io/) ，*谷歌大脑研究科学家，《图卷积网络*[](https://tkipf.github.io/graph-convolutional-networks/)**的作者。**
+[**托马斯·基普夫**](https://tkipf.github.io/) ，*谷歌大脑研究科学家，《图卷积网络*<https://tkipf.github.io/graph-convolutional-networks/>**的作者。**
 
 > *自从最近广泛采用基于 GNN 的模型以来，Graph ML 社区中一个特别值得注意的趋势是计算结构与数据结构的分离。*
 

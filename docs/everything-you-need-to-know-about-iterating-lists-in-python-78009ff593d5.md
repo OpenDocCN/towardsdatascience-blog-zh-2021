@@ -26,11 +26,7 @@
 
 > 这是我 30 天文章写作挑战的一部分。请随意查看我的新人帖子上的文章:
 
-[](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) [## 让我们在 30 天内发表 30 篇文章
-
-### 在这篇文章中，我将接受挑战，在未来 30 天内写 30 篇与数据科学相关的文章…
-
-nouman10.medium.com](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) 
+<https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb>  
 
 # `For`循环
 

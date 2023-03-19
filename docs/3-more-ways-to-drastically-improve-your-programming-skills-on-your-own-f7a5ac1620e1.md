@@ -10,7 +10,7 @@ Nubelson Fernandes 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 人们对我的上一篇文章 [**的反应非常好，这是 3 种能让你自己大幅度提高编程技能的方法**](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) 。因为你可以做很多事情来独立提高，我决定增加 3 件你可以做的事情来发展你的编程技能。这些建议应该更加实际，并让你积极思考。
 
-[](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) [## 3 种方法可以极大地提高你自己的编程技能
+</3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099> [## 3 种方法可以极大地提高你自己的编程技能
 
 towardsdatascience.com](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) 
 
@@ -67,16 +67,4 @@ Python 中的数据结构和算法(参见[完整播放列表](https://www.youtub
 
 ## 相关文章
 
-[](https://medium.com/geekculture/how-to-cultivate-a-programming-habit-53fd701ca877) [## 如何培养一个编程习惯
-
-### 健康的习惯让生活更轻松
-
-medium.com](https://medium.com/geekculture/how-to-cultivate-a-programming-habit-53fd701ca877) [](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [## 如何成为一名机器学习工程师
-
-### 包含课程的全面路线图
-
-towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [](/your-machine-learning-portfolio-is-your-passport-7084d253601) [## 你的机器学习作品集就是你的护照
-
-### 如何建立机器学习作品集
-
-towardsdatascience.com](/your-machine-learning-portfolio-is-your-passport-7084d253601)
+<https://medium.com/geekculture/how-to-cultivate-a-programming-habit-53fd701ca877>  </how-to-become-a-machine-learning-engineer-e420e134c0a3>  </your-machine-learning-portfolio-is-your-passport-7084d253601> 

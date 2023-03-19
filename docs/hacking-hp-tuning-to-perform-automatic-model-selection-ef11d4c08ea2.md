@@ -20,17 +20,13 @@
 
 我以前提倡使用基于模型的方法，这在我遇到的一些问题上证明是非常有效的。你可以在这里找到更多关于 [SMAC](https://automl.github.io/SMAC3/master/index.html) 的细节，这是一个高效的 HPO 图书馆:
 
-[](/automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6) [## 用 SMAC 进行快速超参数调整的 AutoML
-
-### 使用 AutoML 在高维空间中寻找你的路径
-
-towardsdatascience.com](/automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6) 
+</automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6>  
 
 您可能也有兴趣更好地理解这些方法是如何工作的，并构建自己的超参数优化库。
 
 这里有一个有趣的方法，利用你对 XGBoost、CatBoost 或 RandomForest 等标准模型的了解:
 
-[](/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba) [## 用 XGBoost 调优 XGBoost:编写自己的 Hyper Parameters 优化引擎
+</tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba> [## 用 XGBoost 调优 XGBoost:编写自己的 Hyper Parameters 优化引擎
 
 towardsdatascience.com](/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba) 
 

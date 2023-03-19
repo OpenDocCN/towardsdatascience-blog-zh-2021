@@ -38,11 +38,7 @@
 
 Python 3.7 被用作提取和处理数据集的主要语言。这个版本很重要，因为另一个名为 *geopandas* 的包不能在 python 的更高版本上工作。Jupyter 笔记本用于执行脚本。数据集采用. he5 文件格式。为了从数据文件中读取和提取数据，需要一个名为 *h5py* 的专门包。所有这些都可以在 conda 环境中获得，您可以使用 Anaconda 通过给定的链接进行安装。
 
-[](https://www.anaconda.com/products/individual) [## Anaconda |个人版
-
-### Anaconda 的开源个人版是在一个应用程序上执行 Python/R 数据科学和机器学习的最简单的方法
-
-www.anaconda.com](https://www.anaconda.com/products/individual) 
+<https://www.anaconda.com/products/individual>  
 
 执行代码所需的包有:
 

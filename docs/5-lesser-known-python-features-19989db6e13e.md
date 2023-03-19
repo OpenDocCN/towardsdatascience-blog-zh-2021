@@ -44,11 +44,7 @@ Max Langelott 在 [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=
 
 有关更多详细信息，请参见官方 Python 文档(6.17 节运算符优先级)
 
- [## 6.表达式-Python 3 . 9 . 1 文档
-
-### 当下面对算术运算符的描述使用短语“数值参数被转换成公共的……
-
-docs.python.org](https://docs.python.org/3/reference/expressions.html) 
+  
 
 # 4.没有人
 
@@ -78,15 +74,7 @@ docs.python.org](https://docs.python.org/3/reference/expressions.html)
 
 有关 Python 编程的更多信息，您可以在这里查看我以前的一篇文章。
 
-[](/10-python-built-in-functions-you-should-know-fbd5c879e0ab) [## 你应该知道的 10 个 Python 内置函数
-
-### 第 2 部分—使用示例
-
-towardsdatascience.com](/10-python-built-in-functions-you-should-know-fbd5c879e0ab) [](/the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8) [## Python 标准库——作为数据科学家应该知道的模块
-
-### 带有用法示例
-
-towardsdatascience.com](/the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8) 
+</10-python-built-in-functions-you-should-know-fbd5c879e0ab>  </the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8>  
 
 感谢阅读！
 

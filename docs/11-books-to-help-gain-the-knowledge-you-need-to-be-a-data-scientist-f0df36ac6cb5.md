@@ -14,11 +14,7 @@
 
 我能理解这对刚加入这个领域的人来说是多么的难以承受。我不否认成为一名数据科学家的道路可能会很漫长，但成为一名数据科学家是最有成就感、最具挑战性的工作之一。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 一旦你有了路线图和一些资源，你就可以了解基础知识并准备好处理现实生活中的项目，成为数据科学家的所有复杂性和麻烦就会变得更好，更少。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 这本书讲述了从安装 Python 和选择文本编辑器来编写好的 Python 代码到虚拟环境，甚至是您可以在不同领域使用 Python 构建的应用程序，如网络、GUI、数据库和科学应用程序。
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 # №2:机器学习的数学
 
@@ -48,11 +40,7 @@ towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a)
 
 而且，书中包含了使用 Python 和 Jupyter notebook 的应用和教程。最棒的是，你可以从官方图书网站免费获得 PDF。
 
-[](/probability-theory-in-data-science-bacb073edf1f) [## 数据科学是关于概率的
-
-### 数据科学中最常用的 4 种概率分布
-
-towardsdatascience.com](/probability-theory-in-data-science-bacb073edf1f) 
+</probability-theory-in-data-science-bacb073edf1f>  
 
 # №3:数据科学家实用统计学
 
@@ -70,11 +58,7 @@ towardsdatascience.com](/probability-theory-in-data-science-bacb073edf1f)
 
 这本书是那种你觉得看小说，而不是技术书的书。它使用了一种易于理解的方法，使得来自各种背景的人都能轻松阅读。
 
-[](/databases-101-introduction-to-databases-for-data-scientists-ee18c9f0785d) [## 数据库 101:数据科学家数据库简介
-
-### 如何开始接触数据库世界？
-
-towardsdatascience.com](/databases-101-introduction-to-databases-for-data-scientists-ee18c9f0785d) 
+</databases-101-introduction-to-databases-for-data-scientists-ee18c9f0785d>  
 
 # №5: Pro Git
 
@@ -86,11 +70,7 @@ towardsdatascience.com](/databases-101-introduction-to-databases-for-data-scient
 
 你可以从 Git 官方网站免费获得该书的 PDF 版本。
 
-[](/version-control-101-getting-started-with-git-3b2c78d91184) [## 版本控制 101:Git 入门
-
-### Git 如何工作的简要概述
-
-towardsdatascience.com](/version-control-101-getting-started-with-git-3b2c78d91184) 
+</version-control-101-getting-started-with-git-3b2c78d91184>  
 
 # №6:人人都有熊猫
 
@@ -108,11 +88,7 @@ Python 中几乎没有不使用熊猫的数据科学项目。Pandas 是一个怪
 
 [使用 Pytest 进行 Python 测试](https://pragprog.com/titles/bopytest/python-testing-with-pytest/)将向您介绍测试的概念以及如何在 Python 中利用它。它将教你如何编写简短、健壮的测试来验证你的项目，并在你与世界分享它之前确保它是完美的。
 
-[](/a-brief-introduction-to-software-testing-38499dd4189) [## 软件测试简介
-
-### 您的应用程序需要什么样的测试？
-
-towardsdatascience.com](/a-brief-introduction-to-software-testing-38499dd4189) 
+</a-brief-introduction-to-software-testing-38499dd4189>  
 
 # №8:数据科学的 Docker
 
@@ -120,11 +96,7 @@ towardsdatascience.com](/a-brief-introduction-to-software-testing-38499dd4189)
 
 解决这个问题的一个方法是使用 docker 容器。 [Docker for Data Science](https://www.apress.com/gp/book/9781484230114) 将教你如何使用 Jupyter 作为处理核心，使用 Docker 容器作为存储和处理数据的基础设施，来创建一个交互式开发环境。
 
-[](/getting-started-with-docker-for-data-scientists-a2ed505e2a09) [## 面向数据科学家的 Docker 入门
-
-### 使用 Docker 的快速入门指南和最佳实践
-
-towardsdatascience.com](/getting-started-with-docker-for-data-scientists-a2ed505e2a09) 
+</getting-started-with-docker-for-data-scientists-a2ed505e2a09>  
 
 # №9:使用 PyTorch 进行自然语言处理
 
@@ -134,11 +106,7 @@ towardsdatascience.com](/getting-started-with-docker-for-data-scientists-a2ed505
 
 该书对 Github 上的自然语言处理和代码项目的思想和算法进行了简单的解释。该书的 Jupyter 笔记本可以在[官方图书回购](https://github.com/joosthub/PyTorchNLPBook)上找到。
 
-[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
-
-### 构建强大 NLP 基础的 10 个步骤
-
-towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+</nlp-101-towards-natural-language-processing-92df5728f6bb>  
 
 # №10:使用 scikit-learn 和科学 Python 工具包进行机器学习
 
@@ -148,11 +116,7 @@ towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6b
 
 这本书涵盖了机器学习的所有方面，从聚类算法到图像处理和文本处理，再到神经网络和推荐系统。想了解机器学习的所有基础算法，这本书就是给你的。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # №11: IPython 交互式计算和可视化食谱
 
@@ -162,11 +126,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 此外，这本书还教你如何编写运行得更快更好的高效 Python 代码。你可以在这本书的官方网站上免费查阅这本书的章节。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # 外卖食品
 

@@ -616,15 +616,7 @@ predited y: 0.9514167066315814, true y: 1
 
 ## 相关著作
 
-[](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [## 具有策略梯度的 Snake 深度强化学习
-
-### 策略梯度深度强化学习在蛇游戏中的应用
-
-towardsdatascience.com](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [](https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378) [## 爱因斯坦指数符号
-
-### 爱因斯坦求和、指数符号和数值
-
-medium.com](https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378) 
+</snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054>  <https://medium.com/@Vincent.Mueller/einstein-index-notation-d62d48795378>  
 
 ## 想联系支持我？
 

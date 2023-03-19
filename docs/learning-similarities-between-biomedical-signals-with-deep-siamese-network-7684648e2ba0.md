@@ -38,7 +38,7 @@
 
 **请注意** :-出于数据隐私和安全的原因，我希望保持实际数据源的匿名性，并且也将只为读者提供来自整个数据集的实际数据(样本数据)的子集，只是为了跟随本教程。
 
-我们将看到" [**Deep-XF**](https://github.com/ajayarunachalam/Deep_XF) "一个 python 库也可以直观地用于学习信号相似性。为了快速介绍&，所有其他由 **deep-xf** 包支持的用例应用程序都在这篇博文[中列出。另外，看看**预测、临近预报**博客，其中有来自](https://ajay-arunachalam08.medium.com/introduction-to-deepxf-e90ce7c2858c) [**此处**](https://ajay-arunachalam08.medium.com/building-explainable-forecasting-models-with-state-of-the-art-deep-neural-networks-using-a-ad3fa5844fef)**&**[**此处**](/interpretable-nowcasting-with-deepxf-using-minimal-code-6b16a76ca52f) 的实际演示教程，这些都是在同一个服务包中提供的服务。如果热衷于从原始信号数据集中滤除噪声，请点击此处的博客[](https://ajay-arunachalam08.medium.com/denoising-ecg-signals-with-ensemble-of-filters-65919d15afe9)**。**
+我们将看到" [**Deep-XF**](https://github.com/ajayarunachalam/Deep_XF) "一个 python 库也可以直观地用于学习信号相似性。为了快速介绍&，所有其他由 **deep-xf** 包支持的用例应用程序都在这篇博文[中列出。另外，看看**预测、临近预报**博客，其中有来自](https://ajay-arunachalam08.medium.com/introduction-to-deepxf-e90ce7c2858c) [**此处**](https://ajay-arunachalam08.medium.com/building-explainable-forecasting-models-with-state-of-the-art-deep-neural-networks-using-a-ad3fa5844fef)**&**[**此处**](/interpretable-nowcasting-with-deepxf-using-minimal-code-6b16a76ca52f) 的实际演示教程，这些都是在同一个服务包中提供的服务。如果热衷于从原始信号数据集中滤除噪声，请点击此处的博客<https://ajay-arunachalam08.medium.com/denoising-ecg-signals-with-ensemble-of-filters-65919d15afe9>**。**
 
 **对于库安装遵循以下步骤 [**此处**](https://github.com/ajayarunachalam/Deep_XF#installation) &对于手动先决条件安装检查 [**此处**](https://github.com/ajayarunachalam/Deep_XF#requirements) 。**
 
@@ -92,56 +92,4 @@
 
 ****参考文献****
 
-**[](https://www.nhs.uk/conditions/electrocardiogram/) [## 心电图
-
-### 心电图是一种简单的测试，可以用来检查你的心律和电活动…
-
-www.nhs .英国](https://www.nhs.uk/conditions/electrocardiogram/) [](https://en.wikipedia.org/wiki/Electrocardiography) [## 心电图学-维基百科
-
-### 心电图是产生心电图(ECG 或 EKG)的过程。这是心脏的电描记图…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Electrocardiography) [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412424/) [## 利用线性回归算法分割心电图信号
-
-### 近年来，对心电图(ECG)搏动的监测和处理进行了积极的研究
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412424/)  [## 暹罗神经网络-维基百科
-
-### 连体神经网络(有时也称为双胞胎神经网络)是一种人工神经网络，使用相同的…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Siamese_neural_network)  [## r 峰-维基百科
-
-### 歧义消除页面列出了与标题 R 峰相关的文章。如果一个内部链接引导您来到这里，您可能希望…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/R_peak) [](https://scipy.org/) [## SciPy
-
-### SciPy 提供优化、积分、插值、特征值问题、代数方程等算法
-
-scipy.org](https://scipy.org/) [](https://www.sciencedirect.com/topics/engineering/biological-signal) [## 生物信号
-
-### 生物信号，或生物信号，是一个生物事件的空间，时间，或时空记录，如心跳…
-
-www.sciencedirect.com](https://www.sciencedirect.com/topics/engineering/biological-signal) [](https://en.wikipedia.org/wiki/QRS_complex) [## QRS 情结-维基百科
-
-### QRS 综合征是典型心电图(ECG 或……图)上三种图形偏转的组合
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/QRS_complex) [](https://www.aclsmedicaltraining.com/basics-of-ecg/) [## 心电图基础- ACLS 医学培训
-
-### 心电图的基础知识单个 12 导联心电图包含的信息可能非常广泛。学习如何…
-
-www.aclsmedicaltraining.com](https://www.aclsmedicaltraining.com/basics-of-ecg/) [](https://www.cvphysiology.com/Arrhythmias/A009) [## 心电图(EKG，心电图)
-
-### 当心脏经历去极化和复极化时，产生的电流不仅传播…
-
-www.cvphysiology.com](https://www.cvphysiology.com/Arrhythmias/A009) [](https://kidshealth.org/en/parents/ekg.html) [## 心电图
-
-### 心电图(ECG 或 EKG)测量心脏的电活动。这可以帮助医生判断心脏的状况…
-
-kidshealth.org](https://kidshealth.org/en/parents/ekg.html)  [## 从生物医学信号中去除“噪声”
-
-### Cytel Biomedical signals 的软件子公司 Munshi Imran Hossain 是从人体收集的电信号…
-
-www.cytel.com](https://www.cytel.com/blog/removing-noise-biomedical-signals) [](https://github.com/berndporr/py-ecg-detectors) [## GitHub-Bernd porr/py-ECG-detectors:用 python 编写的流行的 ECG R 峰值检测器
-
-### 用 Python 实现的 7 种 ECG 心跳检测算法的集合。与新的心电图一起开发…
-
-github.com](https://github.com/berndporr/py-ecg-detectors)**
+**<https://www.nhs.uk/conditions/electrocardiogram/>  <https://en.wikipedia.org/wiki/Electrocardiography>  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412424/>      <https://scipy.org/>  <https://www.sciencedirect.com/topics/engineering/biological-signal>  <https://en.wikipedia.org/wiki/QRS_complex>  <https://www.aclsmedicaltraining.com/basics-of-ecg/>  <https://www.cvphysiology.com/Arrhythmias/A009>  <https://kidshealth.org/en/parents/ekg.html>    <https://github.com/berndporr/py-ecg-detectors> **

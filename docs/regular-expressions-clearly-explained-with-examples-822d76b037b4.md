@@ -294,16 +294,4 @@ address$postcode = str_match(address$full_address, address_pattern)[, 6]
 
 # 更多关于 R 的文章
 
-[](/back-to-basics-linear-regression-in-r-3ffe4900482b) [## 回归基础——R 中的线性回归
-
-### 线性回归是统计学中最基本的知识之一，下面是如何用 R
-
-towardsdatascience.com](/back-to-basics-linear-regression-in-r-3ffe4900482b) [](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) [## 基于 R 中 K-均值聚类的客户细分
-
-### 强大的 k-means 算法初学者指南
-
-medium.com](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) [](/five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916) [## R 中开始使用 dplyr 的五个基本命令
-
-### Dplyr 相当于 Python 中的 Pandas 库，可以轻松地进行数据探索和操作
-
-towardsdatascience.com](/five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916)
+</back-to-basics-linear-regression-in-r-3ffe4900482b>  <https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa>  </five-basic-commands-to-getting-started-with-dplyr-in-r-c8b0451ad916> 

@@ -14,11 +14,7 @@
 
 几周前，我写了一篇关于数据测量水平的文章，解释了一种经常被推荐的分类变量编码方式如何与统计理论形成对比，从而导致模型可解释性和易学性的潜在问题。不要犹豫走弯路:
 
-[](/data-measurement-levels-dfa9a4564176) [## 数据测量级别
-
-### 统计学家对变量类型、它们的意义以及对机器学习的影响的观点。
-
-towardsdatascience.com](/data-measurement-levels-dfa9a4564176) 
+</data-measurement-levels-dfa9a4564176>  
 
 还有一个:处理丢失的数据。平视:拜托，不要吝啬——估算，不要落下不完整的观察！
 
@@ -72,11 +68,7 @@ towardsdatascience.com](/data-measurement-levels-dfa9a4564176)
 
 在多重插补的诸多优点中，最重要的一个优点是您可以获得结果的概率分布，这允许量化您的模型或分析的不确定性，包括插补的不确定性(毕竟，插补只是一个有根据的猜测，而猜测伴随着不确定性)。我在这里写了更多:
 
-[](/uncertainty-from-imputation-8dbb34a19612) [## 插补的不确定性
-
-### 你在预测中考虑到它了吗？
-
-towardsdatascience.com](/uncertainty-from-imputation-8dbb34a19612) 
+</uncertainty-from-imputation-8dbb34a19612>  
 
 多重插补的缺点是速度会很慢。如果没有那么多时间呢？
 
@@ -98,16 +90,4 @@ towardsdatascience.com](/uncertainty-from-imputation-8dbb34a19612)
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/calibrating-classifiers-559abc30711a) [## 校准分类器
-
-### 你确定你的模型返回概率吗？🎲
-
-towardsdatascience.com](/calibrating-classifiers-559abc30711a) [](/working-with-amazon-s3-buckets-with-boto3-785252ea22e0) [## 使用 Boto3 处理亚马逊 S3 桶。
-
-### 完整的备忘单。
-
-towardsdatascience.com](/working-with-amazon-s3-buckets-with-boto3-785252ea22e0)
+</monte-carlo-dropout-7fd52f8b6571>  </calibrating-classifiers-559abc30711a>  </working-with-amazon-s3-buckets-with-boto3-785252ea22e0> 

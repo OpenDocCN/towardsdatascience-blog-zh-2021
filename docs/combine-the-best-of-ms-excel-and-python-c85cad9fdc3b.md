@@ -83,11 +83,7 @@ program_to_excute file_to_execute command_line_argument
 
 *看看下面的故事，我探索了 Linux 中基本 Shell 脚本的一些功能。*
 
-[](https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39) [## 用于管理投资的 Python 和 Linux I/O 重定向
-
-### 使用谷歌云平台(GCP)上的 Linux 虚拟机获得每日投资结果表
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39) 
+<https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39>  
 
 从这个意义上说，我们已经设置了 Python 解释器来执行 Python 文件，并且我们正在设置一个将在 Python 文件中使用的参数。向前移动…
 

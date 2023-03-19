@@ -8,11 +8,7 @@
 
 大家好，欢迎回到这个关于非经典优化的完整课程！在这篇文章中，我们将从第一个算法开始:爬山！如果您是本课程的新手，您可以查看下面的概述！
 
-[](/non-classical-optimization-algorithms-full-course-overview-8ef7091905b0) [## 非经典优化算法(全部课程)概述
-
-### 简要概述一个新的完整的课程，涵盖三个主要的非经典优化算法:爬山，模拟…
-
-towardsdatascience.com](/non-classical-optimization-algorithms-full-course-overview-8ef7091905b0) 
+</non-classical-optimization-algorithms-full-course-overview-8ef7091905b0>  
 
 首先，什么是爬山？爬山属于局部搜索领域，其目标是找到目标函数的最小值或最大值。该算法被认为是局部搜索，因为它通过相对于其当前位置的小步前进来工作，希望找到更好的位置。
 
@@ -128,11 +124,7 @@ towardsdatascience.com](/non-classical-optimization-algorithms-full-course-overv
 
 如果你对上面的算法感兴趣，在我的 GitHub 资源库中可以找到这门课的所有代码！
 
-[](https://github.com/OUStudent/NonClassicalOptimization/tree/main/Unit%201:%20Hill%20Climber) [## 非经典优化/第 1 单元:主要学生的爬山者/非经典优化
-
-### 通过在 GitHub 上创建帐户，为学生/非经典优化开发做出贡献。
-
-github.com](https://github.com/OUStudent/NonClassicalOptimization/tree/main/Unit%201:%20Hill%20Climber) 
+<https://github.com/OUStudent/NonClassicalOptimization/tree/main/Unit%201:%20Hill%20Climber>  
 
 # 结论
 

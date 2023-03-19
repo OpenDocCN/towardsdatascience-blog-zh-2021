@@ -126,16 +126,4 @@ plt.show()
 
 # 相关文章
 
-[](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [## 加快和优化 Python 的三个技巧
-
-### 关于我在六月份的阅读中发现的三个 Python 技巧的评论。
-
-towardsdatascience.com](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [## 当你在等待数据分析结果时，你该如何打发时间
-
-### 当你的计算机正在运行你喜欢的算法，而你正在等待的时候，一些建议不要浪费你的时间…
-
-towardsdatascience.com](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6) [## 如何通过 PySpark 加速您的 Python 代码
-
-### 关于如何安装和运行 Apache Spark 和 PySpark 以提高代码性能的教程。
-
-towardsdatascience.com](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6)
+</three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6>  </how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb>  </how-to-speed-up-your-python-code-through-pyspark-e3296e39da6> 

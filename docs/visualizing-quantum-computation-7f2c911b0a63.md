@@ -401,11 +401,7 @@
 
 *******测量阶段*超出了本**视觉实验**的范围，但是，您可以在我的 [Github](https://github.com/Brotherhood94/quantum_distance_based_classifier) 上找到基于量子距离的分类器的实现，以及一些手写的 PDF 笔记，其中量子编码阶段在数学上有所发展。******
 
-******[](https://github.com/Brotherhood94/quantum_distance_based_classifier) [## brotherhood 94/quantum _ distance _ based _ classifier
-
-### Schuld、Fingerhuth 和 Petruccione 在论文中提出的基于量子距离的分类器的实现…
-
-github.com](https://github.com/Brotherhood94/quantum_distance_based_classifier) 
+******<https://github.com/Brotherhood94/quantum_distance_based_classifier>  
 
 # 我们终于找到了缺失的维度！
 

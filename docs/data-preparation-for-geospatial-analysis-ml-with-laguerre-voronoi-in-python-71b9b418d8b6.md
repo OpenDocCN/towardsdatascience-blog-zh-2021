@@ -103,7 +103,7 @@ DHSGeographicData 类的成员方法将 DHS 数据与 Voronoi 单元图结合起
 我要感谢:
 
 *   [Gijs van den Dool](https://www.linkedin.com/in/gvddool/) 广泛讨论了 Voronoi 图及其在 GIS 中的使用，最终导致加权 Voronoi 图用于该项目。
-*   [凯瑟琳·白金汉](https://www.wri.org/profile/kathleen-buckingham)&[](https://www.wri.org/profile/rong-fang)[世界资源研究所](https://www.wri.org/)的房融
+*   [凯瑟琳·白金汉](https://www.wri.org/profile/kathleen-buckingham)&<https://www.wri.org/profile/rong-fang>[世界资源研究所](https://www.wri.org/)的房融
 *   [卡洛斯](https://cmougan.github.io/)穆甘&罗汉·纳迪姆为好团队解决。
 
 # 参考

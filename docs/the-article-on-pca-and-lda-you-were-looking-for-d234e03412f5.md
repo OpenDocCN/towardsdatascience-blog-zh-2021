@@ -26,7 +26,7 @@ c.如果你没有特定的背景，基础数学可能会很难。不幸的是，
 
 -线性判别分析
 
-这两个主题都是“降维技术”，并且有一些相似的数学基础。我们之前在一篇单独的文章中已经介绍过 t-SNE([](https://prasunbiswas90.medium.com/improving-convolution-neural-networks-cnn-accuracy-using-t-sne-a4222d306d8)**)。**
+这两个主题都是“降维技术”，并且有一些相似的数学基础。我们之前在一篇单独的文章中已经介绍过 t-SNE(<https://prasunbiswas90.medium.com/improving-convolution-neural-networks-cnn-accuracy-using-t-sne-a4222d306d8>**)。**
 
 **当人们想到降维技术时，有几个问题会出现:**
 

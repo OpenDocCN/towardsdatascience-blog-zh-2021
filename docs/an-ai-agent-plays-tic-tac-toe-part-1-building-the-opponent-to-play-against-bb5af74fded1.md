@@ -4,7 +4,7 @@
 
 *我们构建了一个强力极大极小树搜索，它将作为我们强化学习方法的对手*
 
-*本文是让计算机使用强化学习玩井字游戏系列的一部分。你可以在这里找到*[](https://towardsdatascience.com/tagged/rl-series-paul)**的所有文章。我们的目标是提供一个完整的实现，您可以真正从中挑选并学习强化学习。按顺序阅读文章可能是最好的。文章包括所有代码* [*可以在 Github*](https://github.com/PaulHiemstra/minmax_paper/blob/master/min_max_paper.ipynb) 上找到*
+*本文是让计算机使用强化学习玩井字游戏系列的一部分。你可以在这里找到*<https://towardsdatascience.com/tagged/rl-series-paul>**的所有文章。我们的目标是提供一个完整的实现，您可以真正从中挑选并学习强化学习。按顺序阅读文章可能是最好的。文章包括所有代码* [*可以在 Github*](https://github.com/PaulHiemstra/minmax_paper/blob/master/min_max_paper.ipynb) 上找到*
 
 # *强化学习到底是什么？*
 

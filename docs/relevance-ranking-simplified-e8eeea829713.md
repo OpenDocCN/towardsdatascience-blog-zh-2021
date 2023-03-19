@@ -16,11 +16,7 @@
 
 向量空间模型是用于测量文档集合和查询之间的相似性的模型。查询和文档被表示为 n 维空间中的向量。将查询和文档转换成向量的过程称为文本向量化。TF-IDF 矢量器是最常用的文本矢量器之一。更多关于 TF-IDF [这里](/tf-idf-simplified-aba19d5f5530)。
 
-[](/tf-idf-simplified-aba19d5f5530) [## TF-IDF 简化版
-
-### TF-IDF 矢量器简介
-
-towardsdatascience.com](/tf-idf-simplified-aba19d5f5530) 
+</tf-idf-simplified-aba19d5f5530>  
 
 为了检索最相关的文档，我们计算查询和集合中每个文档之间的相似性。基于这些相似性，我们可以对文档的相关性进行排序。与查询具有最高相似性的文档是应该被检索并排列在顶部的文档。
 
@@ -96,40 +92,8 @@ towardsdatascience.com](/tf-idf-simplified-aba19d5f5530)
 
 ## 先决条件
 
-[](/tf-idf-simplified-aba19d5f5530) [## TF-IDF 简化版
-
-### TF-IDF 矢量器简介
-
-towardsdatascience.com](/tf-idf-simplified-aba19d5f5530) 
+</tf-idf-simplified-aba19d5f5530>  
 
 ## 参考
 
-[](https://www.sciencedirect.com/topics/computer-science/vector-space-models) [## 向量空间模型
-
-### 向量空间模型(VSM)是基于相似性的概念。该模型假设文档的相关性…
-
-www.sciencedirect.com](https://www.sciencedirect.com/topics/computer-science/vector-space-models) [](https://en.wikipedia.org/wiki/Vector_space_model) [## 向量空间模型
-
-### 向量空间模型或术语向量模型是一种代数模型，用于表示文本文档(和任何对象，在…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Vector_space_model)  [## 余弦相似性
-
-### 余弦相似性是内积空间的两个非零向量之间的相似性的度量。它被定义为…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Cosine_similarity) [](https://www.machinelearningplus.com/nlp/cosine-similarity/) [## 余弦相似性-理解数学及其工作原理？(使用 python)
-
-### 余弦相似性是一种度量标准，用于衡量文档的相似程度，而不考虑文档的大小。数学上…
-
-www.machinelearningplus.com](https://www.machinelearningplus.com/nlp/cosine-similarity/) [](/understanding-cosine-similarity-and-its-application-fd42f585296a) [## 理解余弦相似性及其应用
-
-### 理解在机器学习的不同领域和领域中使用的技术背后的基础知识。
-
-towardsdatascience.com](/understanding-cosine-similarity-and-its-application-fd42f585296a) [](/tf-idf-simplified-aba19d5f5530) [## TF-IDF 简化版
-
-### TF-IDF 矢量器简介
-
-towardsdatascience.com](/tf-idf-simplified-aba19d5f5530) [](https://medium.com/swlh/relevance-ranking-and-search-a98b35ebc7b3) [## 相关性、排名和搜索
-
-### 有趣的搜索查询之旅
-
-medium.com](https://medium.com/swlh/relevance-ranking-and-search-a98b35ebc7b3)
+<https://www.sciencedirect.com/topics/computer-science/vector-space-models>  <https://en.wikipedia.org/wiki/Vector_space_model>    <https://www.machinelearningplus.com/nlp/cosine-similarity/>  </understanding-cosine-similarity-and-its-application-fd42f585296a>  </tf-idf-simplified-aba19d5f5530>  <https://medium.com/swlh/relevance-ranking-and-search-a98b35ebc7b3> 

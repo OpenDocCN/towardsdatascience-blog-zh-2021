@@ -45,11 +45,7 @@
 
 如果您想使用代码，请浏览下面的资源库。您还可以看到每个代码片段所需的文件名。
 
-[](https://gitlab.com/Winston-90/youtube_dislikes) [## dmy tro Nikolai ev/YouTube _ 不喜欢
-
-### YouTube 不喜欢用 Python 预测，YouTube 数据 API v3，TensorFlow/Keras。
-
-gitlab.com](https://gitlab.com/Winston-90/youtube_dislikes) 
+<https://gitlab.com/Winston-90/youtube_dislikes>  
 
 # 来自 Kaggle 的 YouTube 趋势视频数据集
 
@@ -184,11 +180,7 @@ YouTube 上的热门评论是无序的。一个[公共网页的截图](https://w
 
 现在，我将在这些数据集上训练一个神经网络，以预测视频中不喜欢的数量。第二部分在这里:
 
-[](/predicting-the-number-of-dislikes-on-youtube-videos-part-2-model-aa981a69a8b2) [## 预测 YouTube 视频上不喜欢的数量。第 2 部分—模型
-
-### 如何(尝试)使用 Tensorflow/Keras 建立深度神经网络来预测不喜欢的数量
-
-towardsdatascience.com](/predicting-the-number-of-dislikes-on-youtube-videos-part-2-model-aa981a69a8b2) 
+</predicting-the-number-of-dislikes-on-youtube-videos-part-2-model-aa981a69a8b2>  
 
 # 感谢您的阅读！
 

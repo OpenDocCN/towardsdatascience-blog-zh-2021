@@ -16,11 +16,7 @@
 
 在这个故事中，我们定义了标签平滑，实现了使用这种技术的交叉熵损失函数，并评估了它的性能。如果您想了解更多关于模型校准的信息，请参考下面的故事。
 
-[](/classifier-calibration-7d0be1e05452) [## 分类器校准
-
-### 分类任务模型校准的原因、时间和方式
-
-towardsdatascience.com](/classifier-calibration-7d0be1e05452) 
+</classifier-calibration-7d0be1e05452>  
 
 > [学习率](https://www.dimpo.me/newsletter?utm_source=medium&utm_medium=article&utm_campaign=label_smooth)是为那些对 AI 和 MLOps 的世界感到好奇的人准备的时事通讯。你会在每周五收到我关于最新人工智能新闻和文章的更新和想法。在这里订阅！
 
@@ -56,11 +52,7 @@ PyTorch 中标签平滑交叉熵损失函数的实现非常简单。对于这个
 
 有许多事情我们可以调整，使我们的模型表现得更好。不同的优化器、超参数、模型架构等。例如，您可以在下面的故事中了解如何进一步发展 ResNet 架构。
 
-[](/xresnet-from-scratch-in-pytorch-e64e309af722) [## Pytorch 中从头开始的 xResNet
-
-### 从你的 ResNet 架构中挤出一点额外的东西。
-
-towardsdatascience.com](/xresnet-from-scratch-in-pytorch-e64e309af722) 
+</xresnet-from-scratch-in-pytorch-e64e309af722>  
 
 # 结论
 

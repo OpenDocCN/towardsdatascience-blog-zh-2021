@@ -167,11 +167,7 @@ pd.reset_option('**display.precision**')
 
 注意这只适用于 float 列，对于其他数据类型，您必须将它们转换成 float。如果您想了解更多有关将数据转换为浮点型的信息，可以查看:
 
-[](/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) [## 在 Pandas 中将数据转换为数字类型
-
-### 熊猫帮助你开始数据分析的提示和技巧
-
-towardsdatascience.com](/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) 
+</converting-data-to-a-numeric-type-in-pandas-db9415caab0b>  
 
 ## **用逗号格式化大数字**
 

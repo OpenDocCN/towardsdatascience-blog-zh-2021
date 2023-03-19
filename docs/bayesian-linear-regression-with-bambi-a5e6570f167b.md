@@ -100,11 +100,7 @@ array([0.4335796])
 
 [Bambi](https://bambinos.github.io/bambi/main/index.html) 是用 Python 编写的高级贝叶斯建模接口。它构建在编程框架 PyMC3 之上。因此，Bambi 类似于 PyMC3，但是更容易使用。
 
-[](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb) [## 用贝叶斯推理和 PyMC3 检测变化点
-
-### 用观察到的数据更新你的信念
-
-towardsdatascience.com](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb) 
+</detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb>  
 
 要安装 Bambi，请键入:
 
@@ -218,33 +214,13 @@ pip install bambi
 
 本文的源代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayes_linear_regression/linear_regression.ipynb) [## 数据科学/linear _ regression . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/linear _ regression . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayes_linear_regression/linear_regression.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayes_linear_regression/linear_regression.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [## 贝叶斯定理，用可视化清晰地解释
-
-### 如果您的 COVID 检测呈阳性，那么您实际上患有 COVID 的几率有多大？
-
-towardsdatascience.com](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [## 如何使用 Python 找到餐馆的最佳位置
-
-### 用 CVXPY 解决集合覆盖问题
-
-towardsdatascience.com](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) 
+</bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14>  </how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd>  </observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc>  
 
 # 参考
 

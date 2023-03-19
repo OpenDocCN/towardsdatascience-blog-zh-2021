@@ -54,11 +54,7 @@ from pandas.api.types import is_string_dtype, is_numeric_dtype df = pd.read_csv(
 
 幸运的是，该数据集不包含任何缺失值，但情况并非总是如此。如果您想了解更多关于如何处理丢失数据的信息，这篇文章可能会对您有所帮助。
 
-[](https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68) [## 如何处理丢失的数据
-
-### 三种缺失数据的解决方法
-
-medium.com](https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68) 
+<https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68>  
 
 **4。变量转换:**这个过程包括对分类变量进行编码，并将所有变量转换成相同的尺度。我分别选择了标签编码器和最小-最大缩放。
 
@@ -68,11 +64,7 @@ medium.com](https://medium.com/analytics-vidhya/how-to-address-missing-data-531e
 
 如果您想了解更多数据转换技术，请查阅这篇文章:
 
-[](/data-transformation-and-feature-engineering-e5181ef274b5) [## 数据转换和特征工程
-
-### 如何为您的数据选择合适的技术
-
-towardsdatascience.com](/data-transformation-and-feature-engineering-e5181ef274b5) 
+</data-transformation-and-feature-engineering-e5181ef274b5>  
 
 # 探索性数据分析
 
@@ -154,11 +146,7 @@ towardsdatascience.com](/data-transformation-and-feature-engineering-e5181ef274b
 
 如果你想更深入地了解特征选择的重要性和实现特征选择的不同技术，下面来自 [*neptune.ai*](https://neptune.ai/home) 的博客提供了全面的指导。
 
-[](https://neptune.ai/blog/feature-selection-methods) [## 特征选择方法及如何选择- neptune.ai
-
-### 你有没有发现自己坐在屏幕前想知道什么样的功能会帮助你的机器…
-
-海王星. ai](https://neptune.ai/blog/feature-selection-methods) 
+<https://neptune.ai/blog/feature-selection-methods>  
 
 在本文中，我们将主要介绍两类特征选择方法:**过滤方法和包装方法。**根本区别在于，过滤方法基于卡方、方差分析等统计测试评估特征重要性，而包装方法基于这些特征生成的模型的性能迭代评估特征子集的性能。
 
@@ -281,22 +269,6 @@ selection_model = SelectKBest(score_func=score_function, k=variable_counts)
 
 # 更多这样的文章
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [](https://neptune.ai/blog/feature-selection-methods) [## 特征选择方法及如何选择- neptune.ai
-
-### 你有没有发现自己坐在屏幕前想知道什么样的功能会帮助你的机器…
-
-海王星. ai](https://neptune.ai/blog/feature-selection-methods) [](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [](/level-up-7-data-science-skills-with-youtube-ef3778f34229) [## 通过 YouTube 提升 7 项数据科学技能
-
-### 如果学习数据科学是一个游戏呢
-
-towardsdatascience.com](/level-up-7-data-science-skills-with-youtube-ef3778f34229) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  <https://neptune.ai/blog/feature-selection-methods>  </simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  </level-up-7-data-science-skills-with-youtube-ef3778f34229>  
 
 *原载于 2021 年 5 月 24 日 https://www.visual-design.net**[*。*](https://www.visual-design.net/post/feature-selection-and-eda-in-machine-learning)*

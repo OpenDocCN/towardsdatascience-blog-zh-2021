@@ -10,15 +10,7 @@
 
 我收到了一些电子邮件和一些评论，询问如何/在哪里运行我用来创建这些[快照](https://medium.com/snap-shots)故事中的图片的神经网络程序:
 
-[](https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-72c5e9eb0876) [## (屏幕)由“做梦”“人工智能”程序生成的艺术照片——第一部分
-
-### 什么能被认为是艺术的界限在哪里？这个程序自己画了画。它按照预定义的规则运行…
-
-medium.com](https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-72c5e9eb0876) [](https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-part-2-8ffbc1c2ff53) [## (屏幕)由“做梦”“人工智能”程序生成的艺术照片——第二部分
-
-### 什么能被认为是艺术的界限在哪里？这个程序自己画了画。它按照预定义的规则运行…
-
-medium.com](https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-part-2-8ffbc1c2ff53) 
+<https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-72c5e9eb0876>  <https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dreaming-artificial-intelligence-program-part-2-8ffbc1c2ff53>  
 
 以下是答案。虽然已经有一些关于这方面的文章，但我在这里着重于(I)回顾它是如何工作的，链接到基础论文和其他人的故事中的一些很好的解释，以及(ii)关于如何调整程序生成的输出的实用技巧，再次链接到除我自己之外的其他人的故事。
 
@@ -53,55 +45,31 @@ medium.com](https://medium.com/snap-shots/screen-shots-of-art-generated-by-a-dre
 
 下面是安格斯·拉塞尔的一步一步的精彩指导。他的方法 1 是使用谷歌的 Colab 笔记本:
 
-[](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad) [## 如何使用 VQGAN+CLIP 从文本提示生成图像—一个完整的、非技术性的教程。
-
-### 了解如何使用最先进的人工智能来生成令人难以置信的艺术品。不需要技术知识或编码。
-
-medium.com](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad) 
+<https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad>  
 
 # 回顾进一步的相关阅读材料+额外的链接
 
 *   详细的手册(西班牙文):
 
-[](https://tuscriaturas.miraheze.org/wiki/Ayuda:Generar_im%C3%A1genes_con_VQGAN%2BCLIP) [## ayuda:general imágenes con VQGAN+CLIP
-
-### 这是一个红色的世代。这是一个很好的例子
-
-tuscriaturas.miraheze.org](https://tuscriaturas.miraheze.org/wiki/Ayuda:Generar_im%C3%A1genes_con_VQGAN%2BCLIP) 
+<https://tuscriaturas.miraheze.org/wiki/Ayuda:Generar_im%C3%A1genes_con_VQGAN%2BCLIP>  
 
 →这里谷歌翻译的英文版本:[https://translate.google.com/translate?hl=&sl = es&TL = en&u = https % 3A % 2F % 2ft uscriaturas . miraheze . org % 2f wiki % 2f ayuda % 3 generar _ im % C3 % a1 genes _ con _ VQGAN % 2b clip](https://translate.google.com/translate?hl=&sl=es&tl=en&u=https%3A%2F%2Ftuscriaturas.miraheze.org%2Fwiki%2FAyuda%3AGenerar_im%C3%A1genes_con_VQGAN%2BCLIP)
 
 *   网络如何共同产生艺术，作者 [Alexa Steinbrück](https://medium.com/u/8e980e537c2b?source=post_page-----387e5fb369d9--------------------------------) ，比我上面的解释更深入，但比完整的 arXiv 预印本更简单:
 
-[](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) [## VQGAN+CLIP —它是如何工作的？
-
-### 合成图像(“甘艺术”)现场最近看到了一种生产力的爆炸:一种新的神经…
-
-alexasteinbruck.medium.com](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52) 
+<https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52>  
 
 *   关于机器学习艺术的未来的非常有趣的想法，作者[汉娜·约翰斯顿](https://medium.com/u/fc47b458c57d?source=post_page-----387e5fb369d9--------------------------------):
 
-[](https://medium.com/@hannahj/the-future-of-art-with-machine-learning-6f839575481) [## 机器学习下的艺术未来
-
-### 利用 VQGAN + CLIP Colab 生成图像
-
-medium.com](https://medium.com/@hannahj/the-future-of-art-with-machine-learning-6f839575481) 
+<https://medium.com/@hannahj/the-future-of-art-with-machine-learning-6f839575481>  
 
 *   关于 VQGAN 的学术论文:
 
-[](https://arxiv.org/abs/2103.00020) [## 从自然语言监督中学习可转移的视觉模型
-
-### 最先进的计算机视觉系统被训练来预测一组固定的预定对象类别。这个…
-
-arxiv.org](https://arxiv.org/abs/2103.00020) 
+<https://arxiv.org/abs/2103.00020>  
 
 *   关于 CLIP 的学术论文:
 
-[](https://arxiv.org/abs/2012.09841) [## 用于高分辨率图像合成的驯服变压器
-
-### 旨在学习顺序数据的远程交互，变压器继续显示最先进的结果…
-
-arxiv.org](https://arxiv.org/abs/2012.09841) 
+<https://arxiv.org/abs/2012.09841>  
 
 喜欢这篇文章，想给我提示？[[**Paypal**](https://www.paypal.me/LAbriata)]-谢谢！
 

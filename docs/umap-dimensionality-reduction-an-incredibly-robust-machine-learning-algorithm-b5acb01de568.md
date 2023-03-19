@@ -253,20 +253,8 @@ chart(X_test_res, y_test)
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e) [## t-SNE 机器学习算法 Python 中降维的利器
-
-### 如何使用 t 分布随机邻居嵌入(t-SNE)来可视化高维数据？
-
-towardsdatascience.com](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e) [](/lle-locally-linear-embedding-a-nifty-way-to-reduce-dimensionality-in-python-ab5c38336107) [## LLE:局部线性嵌入 Python 中降维的好方法
-
-### 详细介绍了 LLE 的工作原理，以及它与 Isomap 等类似算法的比较
-
-towardsdatascience.com](/lle-locally-linear-embedding-a-nifty-way-to-reduce-dimensionality-in-python-ab5c38336107)
+</t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e>  </lle-locally-linear-embedding-a-nifty-way-to-reduce-dimensionality-in-python-ab5c38336107> 

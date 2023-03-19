@@ -20,7 +20,7 @@
 
 如果您是第一次接触 PowerBI，或者您没有这方面的经验，我建议您阅读下面这篇文章，它详细解释了什么是 PowerBI 以及如何启动它:
 
-[](/powerbi-the-tool-that-is-beating-excel-8e88d2084213) [## power bi——击败 Excel 的工具
+</powerbi-the-tool-that-is-beating-excel-8e88d2084213> [## power bi——击败 Excel 的工具
 
 towardsdatascience.com](/powerbi-the-tool-that-is-beating-excel-8e88d2084213) 
 
@@ -111,11 +111,7 @@ Andrew Abela 博士指出:
 
 Power BI 有几个带有预定义调色板的主题，但你也可以在互联网上找到一些，总之我在下面的链接中留下了一些不错的主题:
 
-[](https://colorhunt.co/) [## 色彩搜索-为设计师和艺术家提供调色板
-
-### Color Hunt 是一个免费开放的色彩灵感平台，拥有数以千计的时尚手工调色板…
-
-colorhunt.co](https://colorhunt.co/) ![](img/1ac72e841d5216681d7756c649c5378d.png)
+<https://colorhunt.co/>  ![](img/1ac72e841d5216681d7756c649c5378d.png)
 
 米卡·鲍梅斯特在 Unsplash 的照片
 

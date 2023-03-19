@@ -241,11 +241,7 @@ https://project management academy . net/agile-methodology-training
 
 **其他来源**
 
-[](https://www.quickstart.com/blog/data-science-project-management-methodologies/) [## 数据科学项目管理方法
-
-### 数据科学大数据需要时间，对其存储的要求也随之发展。这是主要的…
-
-www.quickstart.com](https://www.quickstart.com/blog/data-science-project-management-methodologies/) 
+<https://www.quickstart.com/blog/data-science-project-management-methodologies/>  
 
 [https://neptune.ai](https://neptune.ai/blog/data-science-project-management-in-2021-the-new-guide-for-ml-teams) /
 

@@ -41,11 +41,7 @@
 
 Spotiscience 是我在 GitHub 上用 Python 编程创建的一个项目，在这个项目中，你可以与 Spotify API 和 Genius API 进行交互，以提取歌曲、专辑、艺术家和播放列表的数据和特征。您还可以分析这些数据来生成新的信息，如情绪预测、主题建模和数学距离，以找到相似的歌曲。要下载 Spotiscience，您可以访问 Github 资源库。
 
-[](https://github.com/cristobalvch/spotiscience) [## cristobalvch/spot science
-
-### Spotiscience 是一个 Python 项目，用于提取和建模 Spotify 和 Genius git clone 的音乐数据…
-
-github.com](https://github.com/cristobalvch/spotiscience) 
+<https://github.com/cristobalvch/spotiscience>  
 
 为了理解 Spotiscience 的应用和配置，我将详细介绍该工具的两个主要类别:
 
@@ -282,40 +278,4 @@ top_n = 10#returns most similar songs from playlistsp.predict_similar_songs(obje
 
 # 我的其他文章
 
-[](https://medium.com/datos-y-ciencia/data-science-para-todos-4cb84264bb5f) [## 数据科学 Para Todos！
-
-### 数据科学与人工智能研究综述
-
-medium.com](https://medium.com/datos-y-ciencia/data-science-para-todos-4cb84264bb5f) [](https://cristobal-veas-ch.medium.com/artificial-intelligence-extracting-qualifying-adjectives-from-comments-on-donald-trump-facebook-84bf60be5c8e) [## 人工智能:从对唐纳德·特朗普·脸书的评论中提取限定形容词…
-
-### 自然语言处理在脸书帖子评论中的简单应用。
-
-cristobal-veas-ch.medium.com](https://cristobal-veas-ch.medium.com/artificial-intelligence-extracting-qualifying-adjectives-from-comments-on-donald-trump-facebook-84bf60be5c8e) [](/how-to-analyze-emotions-and-words-of-the-lyrics-from-your-favorite-music-artist-bbca10411283) [## 如何分析你最喜欢的音乐艺术家的歌词的情感和文字
-
-### 使用 Python 对歌曲歌词进行文本和情感分析的有趣方式。
-
-towardsdatascience.com](/how-to-analyze-emotions-and-words-of-the-lyrics-from-your-favorite-music-artist-bbca10411283) [](https://medium.datadriveninvestor.com/automate-the-process-of-adding-your-users-saved-tracks-by-genre-to-playlists-on-spotify-d6402da60285) [## 自动将用户保存的曲目按流派添加到 Spotify 上的播放列表
-
-### Stop Adding tracks to your Playlists on Spotify 一对一!！。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/automate-the-process-of-adding-your-users-saved-tracks-by-genre-to-playlists-on-spotify-d6402da60285) [](https://medium.datadriveninvestor.com/automating-playlists-on-spotify-from-the-music-folders-of-your-computer-c79060eadab2) [## 自动播放 Spotify 上的播放列表从您的计算机的音乐文件夹。
-
-### 一个有趣的方式来导出您的音乐文件到 Spotify 的播放列表。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/automating-playlists-on-spotify-from-the-music-folders-of-your-computer-c79060eadab2) [](/clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a) [## 使用 Python 和 K-Means 在 Spotify 上创建您的个人播放列表。
-
-### An Easy Way to Group Songs by similarity in Spotify Playlists. 在 Spotify Playlists 中按相似性分组歌曲的简单方法。
-
-forwarddatascience.com](/clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a) [](https://medium.com/datos-y-ciencia/una-forma-interactiva-para-buscar-y-analizar-ofertas-de-trabajo-en-la-web-ef9327b0a8d3) [## 一种在网络上搜索和分析工作机会的交互式形式。
-
-### 如何使用 Python 和 Power Bi 自动化和可视化工作搜索,以找到最佳交易。
-
-Medium.com](https://medium.com/datos-y-ciencia/una-forma-interactiva-para-buscar-y-analizar-ofertas-de-trabajo-en-la-web-ef9327b0a8d3) [](https://medium.com/datos-y-ciencia/una-forma-genial-para-buscar-y-analizar-arriendos-de-departamentos-en-la-web-e20727390a8c) [## 一个伟大的方式来搜索和分析在网络上的部门匹配。
-
-### 如何使用 Python 和 Power Bi 自动搜索以找到最佳租赁优惠。
-
-Medium.com](https://medium.com/datos-y-ciencia/una-forma-genial-para-buscar-y-analizar-arriendos-de-departamentos-en-la-web-e20727390a8c) [](https://medium.com/datos-y-ciencia/c%C3%B3mo-hacer-reflexionar-a-tu-computador-con-las-noticias-del-pa%C3%ADs-dc14d2fc0a67) [## 如何使你的电脑反映与国家新闻
-
-### 一种有趣的方式来分析这个国家的新闻可以用 Python 生成的单词和感觉。
-
-Medium.com](https://medium.com/datos-y-ciencia/c%C3%B3mo-hacer-reflexionar-a-tu-computador-con-las-noticias-del-pa%C3%ADs-dc14d2fc0a67)
+<https://medium.com/datos-y-ciencia/data-science-para-todos-4cb84264bb5f>  <https://cristobal-veas-ch.medium.com/artificial-intelligence-extracting-qualifying-adjectives-from-comments-on-donald-trump-facebook-84bf60be5c8e>  </how-to-analyze-emotions-and-words-of-the-lyrics-from-your-favorite-music-artist-bbca10411283>  <https://medium.datadriveninvestor.com/automate-the-process-of-adding-your-users-saved-tracks-by-genre-to-playlists-on-spotify-d6402da60285>  <https://medium.datadriveninvestor.com/automating-playlists-on-spotify-from-the-music-folders-of-your-computer-c79060eadab2>  </clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a>  <https://medium.com/datos-y-ciencia/una-forma-interactiva-para-buscar-y-analizar-ofertas-de-trabajo-en-la-web-ef9327b0a8d3>  <https://medium.com/datos-y-ciencia/una-forma-genial-para-buscar-y-analizar-arriendos-de-departamentos-en-la-web-e20727390a8c>  <https://medium.com/datos-y-ciencia/c%C3%B3mo-hacer-reflexionar-a-tu-computador-con-las-noticias-del-pa%C3%ADs-dc14d2fc0a67> 

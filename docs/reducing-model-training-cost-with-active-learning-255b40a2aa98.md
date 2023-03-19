@@ -32,11 +32,7 @@
 
 > 我们在这里讨论的主动学习策略着重于建立一个在参数空间中处处精确的模型。如果您更关心构建一个仅在底层函数的全局最大值/最小值附近准确的模型(这是执行优化任务所需的特性)，请看看这篇文章，了解另一种实现这一点的主动学习策略:
 
-[](/an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b) [## 代理优化导论:直觉、例证、案例研究和代码
-
-### 想要为耗时的目标函数提供更快的优化？考虑代理优化。
-
-towardsdatascience.com](/an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b) 
+</an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b>  
 
 **目录**
 [1。主动学习工作流程](#b3a0)
@@ -249,11 +245,7 @@ towardsdatascience.com](/an-introduction-to-surrogate-optimization-intuition-ill
 
 我们在这里讨论的主动学习策略主要集中在建立一个在所研究的参数空间内处处精确的模型。如果你也有兴趣建立一个只在底层函数的全局最大值/最小值附近精确的模型(这是执行优化任务所需的特性)，看看这篇文章，学习另一个主动学习策略:
 
-[](/an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b) [## 代理优化导论:直觉、例证、案例研究和代码
-
-### 想要为耗时的目标函数提供更快的优化？考虑代理优化。
-
-towardsdatascience.com](/an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b) 
+</an-introduction-to-surrogate-optimization-intuition-illustration-case-study-and-the-code-5d9364aed51b>  
 
 # 参考
 

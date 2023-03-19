@@ -30,11 +30,7 @@ PCA 有许多方法，如 [Hotelling 变换](https://scholarsarchive.jwu.edu/cgi
 
 您可以从以下链接下载数据。
 
-[](https://github.com/GatorSense/MUUFLGulfport) [## GitHub-gator sense/muuflgulport:MUUFL gulf port 超光谱和激光雷达数据:该数据集…
-
-### MUUFL Gulfport 超光谱和激光雷达数据:该数据集包括 HSI 和激光雷达数据，评分代码，照片…
-
-github.com](https://github.com/GatorSense/MUUFLGulfport) 
+<https://github.com/GatorSense/MUUFLGulfport>  
 
 它包含 MUUFL Gulfport 超光谱和激光雷达数据收集文件。但是我们只处理 HSI 数据。
 

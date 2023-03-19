@@ -12,11 +12,7 @@
 
 与其处理所有这些麻烦，不如考虑使用 Jupyter Lab，结合基本的 Python 和 markdown 来创建简单的可视化，导出到 HTML 或 PDF 文档中，直奔主题，基本上不需要任何维护成本，并且可以在几个小时内完成。我并不认为这样的东西适合所有情况，但它可能是箭筒中的一支箭，因为无论谁需要仪表板，快速浏览数据就可以了，而不是一个完美的视觉辅助工具的马赛克。我发现许多高层可以更容易地访问如此简单的东西，并意识到只需投入很少的资源来设置和维护它。
 
-[](https://github.com/mikekeith52/JupyterDashboard) [## mikekeith52/JupyterDashboard
-
-### 带有 Jupyter 的简单仪表盘。通过在…上创建帐户，为 mikekeith52/JupyterDashboard 的开发做出贡献
-
-github.com](https://github.com/mikekeith52/JupyterDashboard) 
+<https://github.com/mikekeith52/JupyterDashboard>  
 
 # 安装和导入数据
 

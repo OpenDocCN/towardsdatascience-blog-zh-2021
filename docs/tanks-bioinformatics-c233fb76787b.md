@@ -266,12 +266,4 @@ ATCAATGATCAACGTAAGCTTCTAAGCATGATCAAGGTGCTCACACAGTTTATCCACAACCTGAGTGGATGACATCAAGA
 
 随着我对生物信息学了解的增多，我会在这个系列中添加一些内容。这是我写的其他一些生物邻近的东西:
 
-[](https://medium.com/the-work-in-progress-blog/a-primer-on-genetic-circuits-88958bc0fff9) [## 遗传回路入门
-
-### 如何+为什么合成生物学想要在不到 5 分钟内重新编程你的细胞
-
-medium.com](https://medium.com/the-work-in-progress-blog/a-primer-on-genetic-circuits-88958bc0fff9) [](https://medium.datadriveninvestor.com/5-telehealth-companies-719aaf789331) [## 2020 年值得关注的 5 家远程医疗公司
-
-### 哪些公司最有可能利用新的虚拟医疗保健浪潮？
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-telehealth-companies-719aaf789331)
+<https://medium.com/the-work-in-progress-blog/a-primer-on-genetic-circuits-88958bc0fff9>  <https://medium.datadriveninvestor.com/5-telehealth-companies-719aaf789331> 

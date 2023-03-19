@@ -88,11 +88,7 @@
 
 *在从事工业数据科学工作时，你必须对这个总体目标持务实态度。我在之前的一篇文章中写了几个要避免的陷阱，这是我在这个行业中所学到的经验；您可以在此阅读更多信息:*
 
-*[](/20-lessons-learned-going-from-junior-data-scientist-to-chief-data-scientist-6fe09ff89d78) [## 从初级数据科学家到首席数据科学家的 20 个经验教训
-
-### 花了 3 年时间研究饮食、睡眠和呼吸数据科学
-
-towardsdatascience.com](/20-lessons-learned-going-from-junior-data-scientist-to-chief-data-scientist-6fe09ff89d78) 
+*</20-lessons-learned-going-from-junior-data-scientist-to-chief-data-scientist-6fe09ff89d78>  
 
 总而言之，我认为务实的方法包括:
 

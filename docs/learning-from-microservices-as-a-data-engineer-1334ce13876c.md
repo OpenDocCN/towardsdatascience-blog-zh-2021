@@ -38,11 +38,7 @@
 
 **使用微服务的组织优势，我简单地称之为“快速和自治”，在这篇博客文章中，在领域驱动开发的背景下进行了广泛的探讨:**
 
-**[](https://medium.com/datadriveninvestor/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085) [## 如果您正在构建微服务，您需要理解什么是有界上下文
-
-### 这种设计模式与组织团队和软件架构一样重要
-
-medium.com](https://medium.com/datadriveninvestor/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085) 
+**<https://medium.com/datadriveninvestor/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085>  
 
 *为了更深入地了解 Gilt 的微服务方法和经验教训，我建议您观看 QCon 上的* [*约尼·戈德堡*](https://www.linkedin.com/in/goldbergyoni/)*[*演示*](https://www.infoq.com/presentations/microservice-arch-gilt) *。**
 
@@ -50,11 +46,7 @@ medium.com](https://medium.com/datadriveninvestor/if-youre-building-microservice
 
 *那时，有超过 100 个微服务。事实上，一些微服务被进一步分解成更小的应用程序，称为“lambdas”。我想强调的是，管理超过 100 个微服务是一项艰巨的任务，它只对一定规模的组织有益。在您开始下一个绿地项目之前，微服务阅读:*
 
-*[](https://www.martinfowler.com/bliki/MonolithFirst.html) [## 独石第一
-
-### 当我听到关于团队使用微服务架构的故事时，我注意到了一个常见的模式。几乎所有的…
-
-www.martinfowler.com](https://www.martinfowler.com/bliki/MonolithFirst.html) 
+*<https://www.martinfowler.com/bliki/MonolithFirst.html>  
 
 我在这里的目的不是宣称微服务是银弹！🙅‍♂
 
@@ -98,11 +90,7 @@ www.martinfowler.com](https://www.martinfowler.com/bliki/MonolithFirst.html)
 
 *[杰西卡·拉夫林](https://medium.com/u/cde51aa5548a?source=post_page-----1334ce13876c--------------------------------)写了一篇关于 Bluecore Engineering 转向 KubernetesPodOperator 并将他们的逻辑打包到容器中的非常详细的帖子，这是实现这一目标的一种方式。*
 
-*[](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) [## 我们都在错误地使用气流，如何修复它
-
-### TL；dr:只使用 Kubernetes 运算符
-
-medium.com](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) 
+*<https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753>  
 
 # 在 Spark 上重复过去的错误
 

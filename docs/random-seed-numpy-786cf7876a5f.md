@@ -66,16 +66,4 @@ print(np.random.permutation(10))
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [## Python 中静态方法和类方法有什么区别？
-
-### 关于 classmethod 和 staticmethod，您只需要知道
-
-towardsdatascience.com](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

@@ -46,11 +46,7 @@
 
 为了减轻上述风险:可以考虑在专用 Kafka 实例上运行关键服务。为了从一个 Kafka 实例迁移到另一个实例，AWS 为他们的托管 Kafka 提供了一个教程，可以推广到开源的 Apache Kafka。
 
- [## 亚马逊 MSK 实验室
-
-### 使用自定义复制策略和后台进程将 MM2 检查点偏移量同步到 __consumer_offsets…
-
-amazonmsk-labs.workshop.aws](https://amazonmsk-labs.workshop.aws/en/migration/mirrormaker2/migandcutover.html) 
+  
 
 ## 灾难恢复
 

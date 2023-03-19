@@ -26,11 +26,7 @@
 
 假设检验导致 **p 值**的计算。在我定义这个术语之前，请观看一群统计学家试图这样做的视频:
 
-[](https://fivethirtyeight.abcnews.go.com/video/embed/56150342) [## 那么，什么是 P 值呢？
-
-### p 值在科学研究中真的很重要。但是科学家们知道它们是什么吗？
-
-fivethirtyeight.abcnews.go.com](https://fivethirtyeight.abcnews.go.com/video/embed/56150342) 
+<https://fivethirtyeight.abcnews.go.com/video/embed/56150342>  
 
 欢迎回来，心情沉重的旅行者，来到由内特·西尔弗和团队揭露的奇异之地。你仍然*想要*一个 p 值的定义吗？
 
@@ -76,13 +72,9 @@ p 值*小于或等于*α表示我们可以拒绝零假设，并说结果**具有
 
 🔥第二，正如在这篇文章的描述中提到的，p 值在 2010 年代中期动摇社会科学的复制危机中发挥了作用。术语 [**p-hacking**](https://www.americanscientist.org/article/the-statistical-crisis-in-science) 是指操纵数据或分析直到 p 值符合统计显著性所需的小于α水平的做法。心理学家 Brian Nosek 的创意项目[再现性项目](https://osf.io/ezcuj/)显示，在 100 个被评估的心理学发现中，只有 36%在重复时产生了具有统计学意义的结果。
 
-🔥第三，存在好的替代原假设显著性检验的方法，包括:[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1473027/)**[**【置信区间】**](https://www.datasciencecentral.com/profiles/blogs/the-death-of-the-statistical-test-of-hypothesis)[**【有点精确的结果检验(SPOT)**](https://www.researchgate.net/publication/312395254_Releasing_the_death-grip_of_null_hypothesis_statistical_testing_p_05_Applying_complexity_theory_and_somewhat_precise_outcome_testing_SPOT) 。**
+🔥第三，存在好的替代原假设显著性检验的方法，包括:<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1473027/>**[**【置信区间】**](https://www.datasciencecentral.com/profiles/blogs/the-death-of-the-statistical-test-of-hypothesis)[**【有点精确的结果检验(SPOT)**](https://www.researchgate.net/publication/312395254_Releasing_the_death-grip_of_null_hypothesis_statistical_testing_p_05_Applying_complexity_theory_and_somewhat_precise_outcome_testing_SPOT) 。**
 
-**[](/must-read-data-science-papers-487cce9a2020) [## 5 篇必读的数据科学论文(以及如何使用它们)
-
-### 让您在数据科学领域保持领先的基本理念。
-
-towardsdatascience.com](/must-read-data-science-papers-487cce9a2020) 
+**</must-read-data-science-papers-487cce9a2020>  
 
 ## 摘要
 
@@ -96,24 +88,4 @@ towardsdatascience.com](/must-read-data-science-papers-487cce9a2020)
 
 # **更多文章促进您的数据科学**
 
-**[](/normal-distribution-160a93939248) [## 正态分布综合指南
-
-### 顺便了解一些关于这一基本统计学概念如何提高您的数据科学的技巧。
-
-towardsdatascience.com](/normal-distribution-160a93939248) [](/neighborhood-explorer-a7f374e8527d) [## 如何使用聚类创建邻域浏览器工具
-
-### 使用 sklearn 的聚类算法为您的城市创建交互式仪表板的分步演练。
-
-towardsdatascience.com](/neighborhood-explorer-a7f374e8527d) [](/data-science-new-normal-ca34bcbad8f0) [## 新常态下的数据科学——来自一家 14 亿美元初创企业的教训
-
-### 后 COVID 时代，机器学习对商业成功越来越重要。
-
-towardsdatascience.com](/data-science-new-normal-ca34bcbad8f0) [](/10-python-skills-419e5e4c4d66) [## 训练营里不会教的 10 项 Python 技能
-
-### 使用这份编码技巧列表，在数据科学和机器学习方面提升到新的高度。
-
-towardsdatascience.com](/10-python-skills-419e5e4c4d66) [](/supercharge-data-science-562d891ef7f9) [## 2021 年增强数据科学的资源
-
-### 新的一年，机器学习成功所需的工具。
-
-towardsdatascience.com](/supercharge-data-science-562d891ef7f9)**
+**</normal-distribution-160a93939248>  </neighborhood-explorer-a7f374e8527d>  </data-science-new-normal-ca34bcbad8f0>  </10-python-skills-419e5e4c4d66>  </supercharge-data-science-562d891ef7f9> **

@@ -51,7 +51,7 @@ PixelLib 库是一个使用几行 python 代码就可以轻松集成图像和视
 
 ***注意:**本文基于使用 pytorch 和 ***PointRend*** 执行实例分割。如果您想了解如何使用 tensorflow 和 Mask R-CNN 执行实例分割，请阅读下面的这篇文章:*
 
-*[](/image-segmentation-with-six-lines-0f-code-acb870a462e8) [## 用 5 行代码实现图像分割
+*</image-segmentation-with-six-lines-0f-code-acb870a462e8> [## 用 5 行代码实现图像分割
 
 towardsdatascience.com](/image-segmentation-with-six-lines-0f-code-acb870a462e8) 
 
@@ -59,11 +59,7 @@ towardsdatascience.com](/image-segmentation-with-six-lines-0f-code-acb870a462e8)
 
 PixelLib pytorch 版本支持 python 版本 3.7 及以上。下载兼容的 python 版本。
 
-[](https://www.python.org/) [## 欢迎来到 Python.org
-
-### Python 编程语言的官方主页
-
-www.python.org](https://www.python.org/) 
+<https://www.python.org/>  
 
 ## **安装 PixelLib 及其依赖项**
 
@@ -73,11 +69,7 @@ PixelLib Pytorch 版本支持 Pytorch 的这些版本(**、T21【1 . 6 . 0、1.7
 
 **注意:**Pytorch***1 . 7 . 0***不受支持，请勿使用任何低于 ***1.6.0*** 的 py torch 版本。安装兼容的 Pytorch 版本。
 
-[](https://pytorch.org/) [## PyTorch
-
-### 推动自然语言处理和多任务学习的发展。利用 PyTorch 的灵活性有效地研究新的…
-
-pytorch.org](https://pytorch.org/) 
+<https://pytorch.org/>  
 
 **安装 Pycocotools**
 
@@ -672,22 +664,6 @@ ins.segmentBatch("inputfolder", show_bboxes=True, segment_target_classes = targe
 
 **查看这些关于如何利用 PixelLib 在图像和视频中进行语义分割、实例分割、对象提取和背景编辑的文章。**
 
-**[](/video-segmentation-with-5-lines-of-code-87f798afb93) [## 用 5 行代码实现视频分割
+**</video-segmentation-with-5-lines-of-code-87f798afb93>  </semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c>  </change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a> [## 用 5 行代码改变任何图像的背景
 
-### 视频的语义和实例分割。
-
-towardsdatascience.com](/video-segmentation-with-5-lines-of-code-87f798afb93) [](/semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c) [## 用 5 行代码对 150 类对象进行语义分割
-
-### 用 PixelLib 对 150 类对象进行语义分割
-
-towardsdatascience.com](/semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c) [](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) [## 用 5 行代码改变任何图像的背景
-
-towardsdatascience.com](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) [](/change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d) [## 用 5 行代码改变任何视频的背景
-
-### 使用 PixelLib 对视频进行模糊、彩色、灰度处理并创建虚拟背景
-
-towardsdatascience.com](/change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d) [](/extraction-of-objects-in-images-and-videos-using-5-lines-of-code-6a9e35677a31) [## 使用 5 行代码提取图像和视频中的对象。
-
-### 计算机视觉是计算机看到和识别物体的媒介。计算机视觉的目标是让…
-
-towardsdatascience.com](/extraction-of-objects-in-images-and-videos-using-5-lines-of-code-6a9e35677a31)***
+towardsdatascience.com](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) </change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d>  </extraction-of-objects-in-images-and-videos-using-5-lines-of-code-6a9e35677a31> ***

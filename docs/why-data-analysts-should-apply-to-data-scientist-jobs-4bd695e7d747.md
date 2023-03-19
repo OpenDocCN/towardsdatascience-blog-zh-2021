@@ -44,16 +44,4 @@ Glassdoor 的[数据科学家工作描述](https://www.glassdoor.com/Job-Descrip
 
 *如果你是一名数据分析师，你可能会认为你应该只搜索数据分析师的工作，因为你不具备数据科学技能。然而，职称并不能反映实际的职责。如果你已经掌握了所有的数据分析师技能，但没有建立机器学习模型，那么就去寻找不需要建立模型的数据科学家工作。如果你是一名致力于培养数据科学技能的数据分析师，考虑一个拥有数据科学家头衔但需要数据分析师技能和一些建模经验的交叉角色。这将有助于你获得数据科学家的头衔，并获得更多的建模经验，以便在未来过渡到真正的数据科学家职位。*
 
-*[](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [## 如何成为数据分析师和数据科学家
-
-### 当你可以尝试两个角色时，为什么只选择一个
-
-towardsdatascience.com](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1) [## 我作为数据科学家和数据分析师的经历
-
-### 我希望从一开始就知道的成功秘诀
-
-towardsdatascience.com](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1) [](/behind-the-scenes-of-a-data-analyst-recruiting-process-b2cf835c3344) [## 数据分析师招聘流程的幕后
-
-### 增加你作为招聘经理或求职者的成功机会
-
-towardsdatascience.com](/behind-the-scenes-of-a-data-analyst-recruiting-process-b2cf835c3344)*
+*</how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e>  </my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1>  </behind-the-scenes-of-a-data-analyst-recruiting-process-b2cf835c3344> *

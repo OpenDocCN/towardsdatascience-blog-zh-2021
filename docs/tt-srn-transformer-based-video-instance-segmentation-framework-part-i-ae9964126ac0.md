@@ -22,19 +22,11 @@
 
 **代码&纸张可从**获得
 
-[](https://github.com/cankocagil/TT-SPN) [## GitHub-cankocagil/TT-SPN:TT-SPN:具有正弦表示网络的双变压器，用于…
-
-### 视频实例分割是最近引入的计算机视觉研究，旨在联合检测…
-
-github.com](https://github.com/cankocagil/TT-SPN) 
+<https://github.com/cankocagil/TT-SPN>  
 
 **图像级目标检测&图像分割版 TT-SRN:**
 
-[](https://github.com/cankocagil/TT-SPN---Object-Detection) [## GitHub - cankocagil/TT-SPN -对象检测:TT-SPN 的对象检测版本
-
-### 视频实例分割是最近引入的计算机视觉研究，旨在联合检测…
-
-github.com](https://github.com/cankocagil/TT-SPN---Object-Detection) 
+<https://github.com/cankocagil/TT-SPN---Object-Detection>  
 
 # 行动（或活动、袭击）计划
 

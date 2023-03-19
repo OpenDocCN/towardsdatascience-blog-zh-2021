@@ -20,11 +20,7 @@
 
 数据工程师和数据科学家构建和维护的不是产品，而是数据仓库。数据科学家确实在构建数据产品，但在建立稳定的数据仓库来收集数据之前，他们通常无法做到这一点。
 
-[](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) [## 2021 年该不该成为数据工程师？
-
-### 数据工程是新的数据科学。
-
-towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) 
+</should-you-become-a-data-engineer-in-2021-4db57b6cce35>  
 
 我们来谈谈数据工程师和软件工程师在分支设计上的一些**差异**。
 
@@ -104,11 +100,7 @@ towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35)
 在我们的例子中，我们部署 CI/CD 管道来覆盖 Apache Airflow 中的代码，这是我们用于数据管道的工作流管理系统。
 这包括 Dag、操作符和其他所有东西的代码。
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 CI/CD 管道还使用名为 [**Liquibase**](https://www.liquibase.org/) 的 SQL 版本控制工具执行 DMLs/DDLs，以将更改应用到数据仓库。
 

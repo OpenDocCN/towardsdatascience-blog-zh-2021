@@ -44,11 +44,7 @@
 
 导航到 *Weka* 的下载页面，选择最适合您系统的版本。我会推荐下载最新的稳定版本。遵循 Weka 网站上提供的安装步骤。
 
- [## 下载和安装 Weka - Weka Wiki
-
-### Weka 有两个版本:Weka 3.8 是最新的稳定版，Weka 3.9 是开发版。新…
-
-怀卡托. github.io](https://waikato.github.io/weka-wiki/downloading_weka/) 
+  
 
 **第三步:发射*Weka***
 

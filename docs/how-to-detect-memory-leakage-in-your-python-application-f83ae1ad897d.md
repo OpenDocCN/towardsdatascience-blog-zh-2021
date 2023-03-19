@@ -120,11 +120,7 @@ Tracemalloc 代表跟踪内存分配，是一个标准的 Python 库。它允许
 
 我希望在 Python 中测量性能现在已经非常清楚了。但是如何让 Python 运行得更快呢？与 Java 和 C++相比，它仍然被认为是一种缓慢的编程语言。查看我之前关于提升 Python 脚本性能的文章。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 > 感谢阅读，朋友！看来你和我有许多共同的兴趣。我很乐意通过 LinkedIn、T2、Twitter 和 Medium 与你联系
 

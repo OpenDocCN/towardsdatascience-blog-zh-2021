@@ -123,11 +123,7 @@ Github 上的 [@robotgyal](https://github.com/RobotGyal) 预处理. ipynb
 
 以这种方式查看数据会使理解变得容易得多。例如，在“IMO Dataset:Report Count-Filtered by Month”条形图中，很容易看到 8 月份出现峰值。通过一点研究，我发现这是因为每年发生的英仙座流星雨。这是非常明显的肉眼可见的，因此有理由相信这个月会有更多的人报告观测到流星。
 
-[](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/perseids/in-depth/) [## 深入|英仙座-美国宇航局太阳系探索
-
-### 英仙座流星雨在八月中旬达到顶峰，被认为是一年中最好的流星雨。非常快而且…
-
-solarsystem.nasa.gov](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/perseids/in-depth/) 
+<https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/perseids/in-depth/>  
 
 如果你从事商业或营销数据科学，视觉可能是你的终点。您应该投入大量的工作来掌握创建它们，将它们转换成仪表板，和/或将它们合并到报告中。
 

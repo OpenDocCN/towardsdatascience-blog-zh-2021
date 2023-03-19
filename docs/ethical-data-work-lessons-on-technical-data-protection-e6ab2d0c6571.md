@@ -92,16 +92,4 @@ Mockeroo 的摘要信息。作者照片。
 
 # 参考
 
-[](/three-more-ways-to-make-fictional-data-3d99a699f709) [## 制造虚构数据的另外三种方法
-
-### 一个制造虚构数据的库存工具
-
-towardsdatascience.com](/three-more-ways-to-make-fictional-data-3d99a699f709) [](https://datacated.medium.com/general-data-protection-regulation-gdpr-b7745c5a69ff) [## 通用数据保护条例(GDPR)
-
-### 《通用数据保护条例》( GDPR)将于下月 2018 年 5 月 25 日生效，旨在统一…
-
-datacated.medium.com](https://datacated.medium.com/general-data-protection-regulation-gdpr-b7745c5a69ff) [](https://somalipublicagenda.org/who-owns-data-in-somalia/) [## 谁拥有索马里的数据？结束该国私有化的知识经济-索马里公共议程
-
-### 这份简报提出了关于索马里境内援助相关知识的生产和所有权的重要问题…
-
-somalipublicagenda.org](https://somalipublicagenda.org/who-owns-data-in-somalia/)
+</three-more-ways-to-make-fictional-data-3d99a699f709>  <https://datacated.medium.com/general-data-protection-regulation-gdpr-b7745c5a69ff>  <https://somalipublicagenda.org/who-owns-data-in-somalia/> 

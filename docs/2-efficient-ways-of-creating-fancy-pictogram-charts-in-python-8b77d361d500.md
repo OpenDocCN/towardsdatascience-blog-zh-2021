@@ -181,16 +181,4 @@ plt.show()
 
 你会发现这些文章也很有趣:
 
-[](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8) [## 如何在 Matplotlib 中用模式填充绘图
-
-### 向条形图、直方图、箱线图和饼图添加图案的方法
-
-towardsdatascience.com](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8) [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [## 在 Python 🧸中创建玩具图
-
-### 高质量的极简交互式可视化，非常适合电子出版
-
-medium.com](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [## 你从未用过的 5 种熊猫方法…而且你没有失去任何东西！
-
-### 你知道他们到底什么时候能帮上忙吗？
-
-towardsdatascience.com](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55)
+</how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8>  <https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1>  </5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55> 

@@ -122,19 +122,11 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 
 为了配置***tensor flow 2.0***我使用了以下教程
 
-[](https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/) [## 如何在 Ubuntu - PyImageSearch 上安装 TensorFlow 2.0
-
-### 在本教程中，您将学习在 Ubuntu 系统上安装 TensorFlow 2.0，无论有无 GPU。那里…
-
-www.pyimagesearch.com](https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/) 
+<https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/>  
 
 为了配置 ***OpenCV DNN 和 Cuda*** 我使用了这个教程
 
-[](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/) [## 如何将 OpenCV 的“dnn”模块与 NVIDIA GPUs、CUDA 和 cuDNN - PyImageSearch 配合使用
-
-### 在本教程中，您将学习如何将 OpenCV 的“深度神经网络”(DNN)模块与 NVIDIA GPUs、CUDA 和
-
-www.pyimagesearch.com](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/) 
+<https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/>  
 
 对于虚拟盒子，我使用的是版本 6.0.24，如下所示，但我已经得到了 ***关于更新版本*** 的通知。抵抗 ***不是徒劳的！*** 忽略它！
 

@@ -30,19 +30,11 @@
 
 这是一个非常非常难回答的问题，但它非常接近真正的问题。这里有很多资源，我自己也写了一些。这里有一个:
 
-[](/should-you-get-a-masters-degree-in-data-science-a-faculty-perspective-e25c0e0d3adc) [## 应该读数据科学硕士吗？教师的视角。
-
-### 你已经看过很多学生照了。以下是我作为一名数据科学教员的想法。
-
-towardsdatascience.com](/should-you-get-a-masters-degree-in-data-science-a-faculty-perspective-e25c0e0d3adc) 
+</should-you-get-a-masters-degree-in-data-science-a-faculty-perspective-e25c0e0d3adc>  
 
 然而，硕士学位并不适合所有人，这是事实。如果不适合你，以下是我对思考的看法:
 
-[](/when-not-to-get-a-masters-in-data-science-75fd903449be) [## 什么时候不拿数据科学硕士。
-
-### 来自一个有现实工作经验的大学教员。全日制学校并不适合每个人。
-
-towardsdatascience.com](/when-not-to-get-a-masters-in-data-science-75fd903449be) 
+</when-not-to-get-a-masters-in-data-science-75fd903449be>  
 
 不过，当你阅读时，请考虑我最近发现的来自 Gartner Research 的统计数据:当前 71%的数据科学家拥有硕士学位或博士学位。
 
@@ -54,10 +46,6 @@ towardsdatascience.com](/when-not-to-get-a-masters-in-data-science-75fd903449be)
 
 如果你决定申请研究生院，看看这个，它会为你(和我)节省一些时间和精力:
 
-[](/how-not-to-get-into-graduate-school-c85cb2eaa220) [## 如何不考上研究生
-
-### 学生在申请研究生院时经常犯的错误列表(在数据科学方面，但可能在其他方面，如…
-
-towardsdatascience.com](/how-not-to-get-into-graduate-school-c85cb2eaa220) 
+</how-not-to-get-into-graduate-school-c85cb2eaa220>  
 
 祝你好运！

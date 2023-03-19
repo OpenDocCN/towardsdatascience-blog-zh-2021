@@ -8,11 +8,7 @@
 
 在我的数据科学工作中，我经常向客户和合作伙伴推荐一系列软件，它们在定性和定量分析之间架起了一座桥梁。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) ![](img/e789913ca4dd0c1f0e1f9ab41ab4fa96.png)
+<https://adamrossnelson.medium.com/membership>  ![](img/e789913ca4dd0c1f0e1f9ab41ab4fa96.png)
 
 由[米卡·博斯韦尔](https://unsplash.com/@micahboswell?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
@@ -104,11 +100,7 @@ QSR 国际公司维护和分发这一受欢迎的软件包。作为定性数据�
 
 对于流行的统计和数据科学编程语言 R 的用户来说，这个包值得一读。这个软件作为一个 R 包免费发布，带有 BSD 许可证。更多信息请访问 http://rqda.r-forge.r-project.org/的。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 结论
 

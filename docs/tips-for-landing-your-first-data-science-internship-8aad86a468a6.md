@@ -34,11 +34,7 @@
 
 我相信你已经读过很多遍了，但是如果你没有任何与数据相关的工作经验，副业是展示你技能的好方法。它向雇主展示了你的创造能力，除此之外，它还展示了你的热情。当我看到我的一些同行仍然没有像样的 GitHub 个人资料，并期望立即获得一份六位数的工作时，我有时仍然会感到惊讶。你需要明白，如今仅仅完成在线课程、训练营或研究生学位是不够的。外面有很多竞争，通过创建有趣的副业项目，你有能力在其他候选人中脱颖而出。查看我的 GitHub 简介和个人项目及其自述文件，亲自了解是什么帮助我获得了数据科学实习机会。
 
-[](https://github.com/navido89) [## navido89 -概述
-
-### 我是 Navid Mashinchi，是加利福尼亚州萨克拉门托的一名数据科学家。我一直在分析领域工作…
-
-github.com](https://github.com/navido89) 
+<https://github.com/navido89>  
 
 # 3.营销自己——发展你的个人品牌:
 
@@ -56,19 +52,11 @@ github.com](https://github.com/navido89)
 
 这些认可是通过活跃在社交媒体、写博客和向世界展示我的作品来实现的。我非常鼓励你也这样做，因为这会让你在申请实习或入门级工作时脱颖而出。除此之外，优化的 LinkedIn 个人资料也非常有用。列出你的项目，更新你的技能，向你以前共事过的同事甚至你的导师索要推荐信。查看下面我的 LinkedIn 个人资料以获得更好的想法。
 
-[](https://www.linkedin.com/in/navidmashinchi/) [## 纳维德·马辛奇-数据科学实习生- Opeeka | LinkedIn
-
-### 我已经在分析行业工作了四年多，并且热爱其中的每一秒钟。我是一个高度…
-
-www.linkedin.com](https://www.linkedin.com/in/navidmashinchi/) 
+<https://www.linkedin.com/in/navidmashinchi/>  
 
 最后但同样重要的是，拥有一个投资组合网站真的有助于雇主更多地了解你。这是你个人品牌的一大部分。如果你想更多地了解投资组合应该包括什么，可以看看我写的获奖博客:
 
-[](/the-portfolio-guide-for-data-science-beginners-8b945239eb5a) [## 数据科学初学者投资组合指南
-
-### 强烈建议每个有灵感的数据科学家都拥有一个投资组合。打造自己的品牌是一个重要的方面…
-
-towardsdatascience.com](/the-portfolio-guide-for-data-science-beginners-8b945239eb5a) 
+</the-portfolio-guide-for-data-science-beginners-8b945239eb5a>  
 
 总而言之，对任何行业来说，打造自己的品牌都是一个重要的方面。如果你们有些人羞于在网上展示自己的作品，不喜欢向全世界展示自己的作品，我完全理解。你需要走出你的舒适区，开始向雇主展示你的全部。这真的帮助我向雇主展示了我能创造什么，我有多大的热情。
 
@@ -90,11 +78,7 @@ towardsdatascience.com](/the-portfolio-guide-for-data-science-beginners-8b945239
 
 如果你只是在网上申请，这将成为一个数字游戏，但如果你聪明的话，你会惊讶于回复率增长的速度。艾玛·丁的一篇很棒的文章帮助我更好地理解了如何增加获得面试的机会。请查看以下内容:
 
-[](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af) [## 如何获得数据科学面试:找工作、联系看门人和获得推荐
-
-### 获得面试机会对于许多工作来说自然是必不可少的，数据科学工作也不例外。虽然资源在…
-
-towardsdatascience.com](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af) 
+</how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af>  
 
 # 6.)面试——熟能生巧:
 
@@ -116,10 +100,6 @@ towardsdatascience.com](/how-to-get-data-science-interviews-finding-jobs-reachin
 
 如果你对这个话题有任何问题，请告诉我。如果你喜欢这篇文章，如果你能在任何社交媒体平台上分享它，我将非常感激。谢谢你，祝你好运！✌
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我已经在分析行业工作了四年多，并且热爱其中的每一秒钟。我是一个高度…
-
-www.navidma.com](https://www.navidma.com/) 
+<https://www.navidma.com/>  
 
 ️

@@ -26,11 +26,7 @@
 
 不管你的故事是什么，如果你正在考虑职业生涯中期的转换，你肯定不是一个人。去年，我在职业生涯中期从警务转向了数据科学，下面是我的故事:
 
-[](https://medium.com/codex/why-made-me-switch-careers-from-policing-to-data-science-d07cc797ff1a) [## 是什么让我从警务转向数据科学
-
-### 为了一个数据科学的角色而放弃我穿制服的警察工作是我必须做出的最大也是最困难的决定…
-
-medium.com](https://medium.com/codex/why-made-me-switch-careers-from-policing-to-data-science-d07cc797ff1a) 
+<https://medium.com/codex/why-made-me-switch-careers-from-policing-to-data-science-d07cc797ff1a>  
 
 经历过这个过程后，我有了后知之明来反思是什么让我走上这条路，是什么给了我这样做的信念。
 

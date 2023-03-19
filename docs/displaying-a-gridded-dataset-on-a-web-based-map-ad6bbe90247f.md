@@ -8,7 +8,7 @@
 
 ![](img/7b25d2d57d4fc4937e1b16dcacc6af87.png)
 
-*(图片由作者提供，使用*[](https://www.openstreetmap.org/)**[*holo views*](https://holoviews.org)*[*SRTM 高程数据*](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4) *)****
+*(图片由作者提供，使用*<https://www.openstreetmap.org/>**[*holo views*](https://holoviews.org)*[*SRTM 高程数据*](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4) *)****
 
 # **问题是**
 
@@ -40,7 +40,7 @@
 
 **![](img/1ee994c70f3e9a0135a5298b9432a858.png)**
 
-***低分辨率和高分辨率数据的区别。(图片由作者使用*[](https://www.openstreetmap.org/)**[*holo views*](https://holoviews.org/)*[*SRTM 高程数据*](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4) *)******
+***低分辨率和高分辨率数据的区别。(图片由作者使用*<https://www.openstreetmap.org/>**[*holo views*](https://holoviews.org/)*[*SRTM 高程数据*](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4) *)******
 
 **事实上，在地理标志中会发生更多的奇迹。为了简单起见，我们假设我们的 GeoTIFF 包含一个“区带”(就像包含一个工作表的 excel 文件)。此外，我们并不关心它的云优化图像金字塔的内部细节或精确的坐标参考系统。然而，我强烈推荐阅读这些只是为了好玩。**
 
@@ -52,7 +52,7 @@
 
 **![](img/b925b400aa966243751abe5c0d8c788f.png)**
 
-**显示在平铺地图和矢量地图上的肯尼亚地区。(图片由作者使用[](https://openstreetmap.org/)**)****
+**显示在平铺地图和矢量地图上的肯尼亚地区。(图片由作者使用<https://openstreetmap.org/>**)****
 
 ## **3.使用的工具**
 

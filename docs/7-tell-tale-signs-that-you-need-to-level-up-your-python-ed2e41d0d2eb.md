@@ -79,11 +79,7 @@ logging.basicConfig(filename='example.log',level=logging.DEBUG)
 
 通过 Git 挂钩，我们可以在每次提交和推送到我们的库之前运行林挺和格式化工具，比如`mypy`、`autoflake`、`flake8`、`isort`、`black`。这使我们能够在 Python 项目中自动创建**标准化的代码风格约定**。这些 Git 挂钩由`pre-commit`包提供。请在下面的故事中找到更多关于预提交 Git 挂钩的有用提示👇
 
-[](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) [## 在 Python 中自动化干净代码的 4 个技巧
-
-### 通过这些林挺和格式化工具，使用预提交 Git 挂钩来自动化 Python 代码样式
-
-better 编程. pub](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) 
+<https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e>  
 
 # Ifmain:模块化 Python 代码
 
@@ -100,12 +96,4 @@ An `ifmain`是 Python 中模块化编码原则的一部分:**不要重复自己*
 
 在你的日常工作中使用这七个技巧，至少在接下来的几个月里，你就是未来的证明😉编码快乐！
 
-[](https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f) [## 用 Python 清理代码的七个技巧
-
-### 以下是我作为数据科学家在工作中每天使用的七个技巧和代码片段。
-
-medium.com](https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f) [](/five-tips-for-automatic-python-documentation-7513825b760e) [## 自动化 Python 文档的五个技巧
-
-### 用这五个自动化步骤和预提交 Git 挂钩在 MkDocs & Material 中创建漂亮的 Python 文档
-
-towardsdatascience.com](/five-tips-for-automatic-python-documentation-7513825b760e)
+<https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f>  </five-tips-for-automatic-python-documentation-7513825b760e> 

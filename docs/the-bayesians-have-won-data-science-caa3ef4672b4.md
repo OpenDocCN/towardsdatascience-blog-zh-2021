@@ -52,12 +52,4 @@
 
 *如需更多信息，请下载免费的第一章* [*像数据科学家一样思考*](https://manning.com/books/think-like-a-data-scientist?a_aid=thinklikeadatascientist&a_bid=eb49dc22) *并查看此* [*幻灯片演示文稿*](http://www.slideshare.net/ManningBooks/think-like-a-data-scientist) *了解更多信息和折扣代码。*
 
-[](/is-data-science-really-a-science-9c2249ee2ce4) [## 数据科学真的是“科学”吗？
-
-### 为什么数据科学可能是一个严格的领域，不同于它的前辈
-
-towardsdatascience.com](/is-data-science-really-a-science-9c2249ee2ce4) [](/are-we-there-yet-daceccfdea38) [## 我们到了吗？
-
-### 数据科学中的项目管理
-
-towardsdatascience.com](/are-we-there-yet-daceccfdea38)
+</is-data-science-really-a-science-9c2249ee2ce4>  </are-we-there-yet-daceccfdea38> 

@@ -563,19 +563,7 @@ nw_stats_flat <- nw_stats %>%
 
 # 您可能还喜欢:
 
-[](/data-science-for-blockchain-understanding-the-current-landscape-c136154c367e) [## 区块链的数据科学:了解当前形势
-
-### 数据科学和区块链技术是天生的一对。但是有多少和什么样的真实世界…
-
-towardsdatascience.com](/data-science-for-blockchain-understanding-the-current-landscape-c136154c367e) [](https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753) [## 介绍 tronr，一个探索 TRON 区块链的 R 包
-
-### 查询账户余额、交易、代币转账等等。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753) [](https://medium.com/geekculture/market-data-for-8000-cryptocurrencies-at-your-fingertips-c76d7e8f43ca) [## 8000 种加密货币的市场数据，触手可及
-
-### 介绍 geckor，一个查询 CoinGecko API 的 R 包
-
-medium.com](https://medium.com/geekculture/market-data-for-8000-cryptocurrencies-at-your-fingertips-c76d7e8f43ca) 
+</data-science-for-blockchain-understanding-the-current-landscape-c136154c367e>  <https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753>  <https://medium.com/geekculture/market-data-for-8000-cryptocurrencies-at-your-fingertips-c76d7e8f43ca>  
 
 # 在你走之前
 

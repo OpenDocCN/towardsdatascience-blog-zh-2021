@@ -69,11 +69,7 @@
 
 数据可能因为不同的原因而有偏差。我们收集的数据将反映历史的不公正，这可以通过一个模型**(历史偏见)来捕捉。**就像亚马逊的招聘模式一样，这可能是因为缺乏少数族裔代表**(不平衡的数据集)**。也可能是由于与种族/性别**(代理变量)**相关的模型特征。我们将在下面的文章中更深入地探讨这些原因。
 
-[](/algorithm-fairness-sources-of-bias-7082e5b78a2c) [## 你的模型做出不公平预测的 5 个原因
-
-### 偏见的常见来源——历史偏见、代理变量、不平衡数据集、算法选择和用户交互
-
-towardsdatascience.com](/algorithm-fairness-sources-of-bias-7082e5b78a2c) 
+</algorithm-fairness-sources-of-bias-7082e5b78a2c>  
 
 # 分析和衡量不公平
 
@@ -93,11 +89,7 @@ towardsdatascience.com](/algorithm-fairness-sources-of-bias-7082e5b78a2c)
 
 在下面的文章中，我们将带您了解如何进行这样一个**探索性公平分析**。我们还将更深入地讨论公平的定义，并向您展示如何应用它们。
 
-[](/analysing-fairness-in-machine-learning-with-python-96a9ab0d0705) [## 分析机器学习中的公平性(用 Python)
-
-### 做一个探索性的公平性分析，并使用平等机会、均等优势和完全不同来衡量公平性…
-
-towardsdatascience.com](/analysing-fairness-in-machine-learning-with-python-96a9ab0d0705) 
+</analysing-fairness-in-machine-learning-with-python-96a9ab0d0705>  
 
 # 纠正和防止不公平
 
@@ -111,29 +103,17 @@ towardsdatascience.com](/analysing-fairness-in-machine-learning-with-python-96a9
 
 我们将在下面的文章中讨论更多的定量和非定量方法。这些包括预处理、加工中和后处理方法的例子。我们还试图更深入地理解这些方法的局限性。
 
-[](/approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31) [## 解决机器学习中的不公平问题
-
-### 预处理、加工中和后处理定量方法。以及非定量方法…
-
-towardsdatascience.com](/approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31) 
+</approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31>  
 
 # 可解释性和公平性
 
 我喜欢写关于算法公平性的文章，但我的大部分文章都是关于可解释的机器学习的。[可解释性](/interpretability-in-machine-learning-ab0cf2e66e1)包括理解模型如何做出预测。公平性和可解释性其实是相关的。这样做的主要原因是它们都是关于在 ML 系统中建立信任。我们将在下面的文章中讨论这一点和另外两个原因。
 
-[](/the-relationship-between-interpretability-and-fairness-627266bd6fda) [## 可解释性与公平性的关系
-
-### 为什么可解释的模型更可能是公平的 3 个原因
-
-towardsdatascience.com](/the-relationship-between-interpretability-and-fairness-627266bd6fda) 
+</the-relationship-between-interpretability-and-fairness-627266bd6fda>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+<https://conorosullyds.medium.com/membership>  
 
 你也可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|
 

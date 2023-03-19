@@ -120,10 +120,6 @@ Airbnb 在[分享他们关于推动采用内部数据门户的经验](https://ww
 
 *了解将推动下一波数据目录的 4 个关键原则的更多信息:*
 
-[](/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf) [## 数据目录 3.0:现代数据栈的现代元数据
-
-### 是时候采用一种现代元数据解决方案了，这种解决方案与其他现代解决方案一样快速、灵活、可伸缩…
-
-towardsdatascience.com](/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf) 
+</data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf>  
 
 **觉得这个内容有帮助？在我的时事通讯《元数据周刊》上，我每周都写关于活动元数据、数据操作、数据文化和我们的学习建设的文章。** [**在此订阅。**](https://metadataweekly.substack.com/)

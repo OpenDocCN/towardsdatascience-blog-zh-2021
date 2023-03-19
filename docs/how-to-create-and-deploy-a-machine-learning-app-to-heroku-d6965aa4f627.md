@@ -84,11 +84,7 @@ dyno 是独立的 Linux 容器，是 Heroku 产品的构建模块。它们的尺
 
 关于使用 Streamlit 库用 Python 构建 Penguins web 应用程序的完整细节和逐行解释，请参见上一篇文章(见下文)。
 
-[](/how-to-build-a-data-science-web-app-in-python-penguin-classifier-2f101ac389f3) [## 如何用 Python(企鹅分类器)构建数据科学 Web 应用
-
-### 第 3 部分:ML 支持的 Web 应用程序，代码 100 多行
-
-towardsdatascience.com](/how-to-build-a-data-science-web-app-in-python-penguin-classifier-2f101ac389f3) 
+</how-to-build-a-data-science-web-app-in-python-penguin-classifier-2f101ac389f3>  
 
 ## 4.1.密码
 
@@ -255,11 +251,7 @@ Heroku 上部署的[企鹅 App 截图。](https://penguins-model.herokuapp.com)
 
 我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub page](https://github.com/dataprofessor/) )。
 
-[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

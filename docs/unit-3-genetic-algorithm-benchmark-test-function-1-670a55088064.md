@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在本帖中，我们将介绍一种遗传算法，用于评估从第 3 单元遗传算法中学到的基准测试函数。由于这是该系列的继续，如果您还没有检查那篇文章，请这样做，以便您不会被遗忘在黑暗中！你可以在这里查看:
 
-[](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 # **目录**
 
@@ -200,16 +196,8 @@ towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
 
 好了，这个帖子到此结束！希望你已经学到了很多关于遗传算法的知识。我想让你们看到的主要观点是，算法的成功严格依赖于你们给它的超参数。如果适应度函数极其复杂，则通常创建更简单的遗传算法，以在原始函数上进化复杂算法的超参数。这就是所谓的“调整”超参数。如果你熟悉**自动机器学习**，遗传算法是用来进化机器学习模型，尤其是神经网络的超大型的常用工具。在本单元的最后，我们将讨论为时间序列分析问题训练一个神经网络。请继续关注下一篇文章，我们将讨论遗传算法中的高级概念:
 
-[](https://morganscottbrandon.medium.com/unit-3-genetic-algorithms-part-2-advanced-topics-a24f5be287d5) [## 单元 3)遗传算法(第二部分)高级主题
-
-### 遗传算法的高级主题——控制参数、选择性交配和遗传变异
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-3-genetic-algorithms-part-2-advanced-topics-a24f5be287d5) 
+<https://morganscottbrandon.medium.com/unit-3-genetic-algorithms-part-2-advanced-topics-a24f5be287d5>  
 
 请继续关注下一篇文章，我们将讨论遗传算法中的一些高级主题！你可以在我的 GitHub 上找到所有代码:
 
-[](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/benchmkar_test_function_1.py) [## 学生/进化计算课程
-
-### 通过在 GitHub 上创建一个帐户，为 ou student/evolutionary computationcourse 开发做出贡献。
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/benchmkar_test_function_1.py)
+<https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/benchmkar_test_function_1.py> 

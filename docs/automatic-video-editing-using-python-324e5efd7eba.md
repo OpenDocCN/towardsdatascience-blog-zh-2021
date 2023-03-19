@@ -48,11 +48,7 @@
 
 这项任务更加复杂。作为搜索和试验的结果，我决定使用 [vosk API](https://alphacephei.com/vosk/) 。在本文的[中，我描述了一个关于如何用时间戳实现语音识别的详细教程。但是我也将在这里简要地描述一下最重要的几点。](/speech-recognition-with-timestamps-934ede4234b2)
 
-[](/speech-recognition-with-timestamps-934ede4234b2) [## 带有时间戳的语音识别
-
-### 使用 Python 和 vosk API 进行离线和免费语音识别
-
-towardsdatascience.com](/speech-recognition-with-timestamps-934ede4234b2) 
+</speech-recognition-with-timestamps-934ede4234b2>  
 
 首先，我们需要从视频文件中识别语音。正如我在上面的文章中解释的，vosk 语音识别模型输出一个 JSON 字典列表，其中包含每个识别单词的四个参数— `confidence`、`start time`、`end time`和识别的`word`(文本)。我创建了一个自定义的`Word`类，按照这个格式描述单词。
 
@@ -90,11 +86,7 @@ towardsdatascience.com](/speech-recognition-with-timestamps-934ede4234b2)
 
 带有详细注释的完整程序可在[本 GitLab 报告](https://gitlab.com/Winston-90/automatic_video_editing/)中获得。
 
-[](https://gitlab.com/Winston-90/automatic_video_editing/) [## Dmytro Nikolaiev /自动视频编辑
-
-### 使用 Python、moviepy 和 vosk 进行自动视频编辑
-
-gitlab.com](https://gitlab.com/Winston-90/automatic_video_editing/) 
+<https://gitlab.com/Winston-90/automatic_video_editing/>  
 
 该项目的结构如下:
 

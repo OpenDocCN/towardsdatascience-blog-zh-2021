@@ -31,11 +31,7 @@
 
 在我们开始讨论重要性这个话题之前，我强烈建议观众去看一下我以前写的一篇关于揭开人工智能神秘面纱的文章。它将帮助您更好地理解我们将在接下来的章节中讨论的各种主题。
 
-[](/demystifying-artificial-intelligence-d2887879aaf1) [## 揭秘人工智能！
-
-### 打破人工智能领域和它的未来。
-
-towardsdatascience.com](/demystifying-artificial-intelligence-d2887879aaf1) 
+</demystifying-artificial-intelligence-d2887879aaf1>  
 
 # 探索情感分析
 
@@ -73,15 +69,7 @@ towardsdatascience.com](/demystifying-artificial-intelligence-d2887879aaf1)
 
 为了更详细地了解这个话题，我想让观众从下面提供的链接中查看两个基于下一个单词预测的项目和一个创新的聊天机器人。这些项目将帮助你更好地理解本文中的大部分内容。
 
-[](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [## 基于自然语言处理和深度学习的下一个单词预测
-
-### 使用 LSTM 设计单词预测系统
-
-towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
-
-### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
-
-towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) 
+</next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf>  </innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc>  
 
 # 人工智能中的情感分析
 
@@ -99,11 +87,7 @@ towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-la
 
 然而，即使有了这些快速的进步，也很难否认在这个特定的领域中存在某些缺点。我强烈推荐你看看我下面这篇关于人脸识别项目的文章，这篇文章更详细地介绍了这个概念。
 
-[](/smart-face-lock-system-6c5a77aa5d30) [## 智能面部锁定系统
-
-### 建立高精度人脸识别模型
-
-towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30) 
+</smart-face-lock-system-6c5a77aa5d30>  
 
 像图像分割这样的任务，其中掩蔽图像的概念用于识别周围的各种物体，也可以在自动驾驶汽车中找到它们的用途。随着人工智能领域的快速发展，这些汽车被称为我们社会的未来。
 
@@ -115,15 +99,7 @@ towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30)
 
 为了更深入地理解和直觉人类情感和手势背后的工作，我强烈建议观众看看下面的两部分系列，这将帮助你构建一个深度学习项目，从零开始完成以下任务。
 
-[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
-
-### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
-
-### 深入探究人类情感和手势识别
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+</human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb>  </human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023>  
 
 # AI 可以有情感吗？
 
@@ -168,26 +144,6 @@ towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
-
-### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
-
-towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
-
-### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
-
-towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) 
+</how-to-read-and-understand-python-code-faster-180ba1ba9445>  </5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  </answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837>  </10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  </pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

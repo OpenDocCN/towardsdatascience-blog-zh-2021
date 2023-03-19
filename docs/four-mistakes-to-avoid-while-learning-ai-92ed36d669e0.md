@@ -91,12 +91,4 @@
 
 ## **推荐阅读**
 
-[](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd) [## 我离开人工智能行业的 5 个原因
-
-### 我在一家人工智能公司工作了 3 年。现在我决定无限期地离开这个行业。
-
-towardsdatascience.com](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd) [](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
-
-towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) [](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
-
-towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484)
+</5-reasons-why-i-left-the-ai-industry-2c88ea183cdd>  </gpt-3-a-complete-overview-190232eb25fd> 

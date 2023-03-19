@@ -54,13 +54,9 @@
 
 要更深入地了解这种情况下的功能设计，以下关于决策后状态的文章可能会有帮助:
 
-[](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) [## 什么是后决策状态？他们想从我们这里得到什么？
+</what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40> [## 什么是后决策状态？他们想从我们这里得到什么？
 
-towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) [](/about-post-decision-states-again-5725e5c15d90) [## 关于后决策状态
-
-### 论强化学习中状态-动作对和决策后状态的(不那么)细微差别。
-
-towardsdatascience.com](/about-post-decision-states-again-5725e5c15d90) 
+towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) </about-post-decision-states-again-5725e5c15d90>  
 
 上述等式很容易添加到现有的约束集合中。将人工变量ϕ嵌入到目标函数中，我们只需要将它乘以我们学习到的权重θ，就可以评估我们行动的下游价值[2]。
 

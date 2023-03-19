@@ -24,11 +24,7 @@
 
 强烈建议学习 NumPy 的基础知识(数组创建、一维数组和二维数组的识别等)。如果你不熟悉他们，不要担心。要获取基础知识，可以看下面这篇我写的文章。
 
-[](/numpy-for-data-science-part-1-21e2c5ddbbd3) [## 数据科学的 NumPy:第 1 部分
-
-### NumPy 基础和数组创建
-
-towardsdatascience.com](/numpy-for-data-science-part-1-21e2c5ddbbd3) 
+</numpy-for-data-science-part-1-21e2c5ddbbd3>  
 
 我们开始吧！
 

@@ -72,11 +72,7 @@
 
 我们希望通过学习图像的颜色编码，根据图像的颜色对图像进行分类。每种颜色我们有 20 个样品。*这里有一个包含这个数据集*的 GitHub 存储库。
 
-[](https://github.com/AdityaDutt/MultiColor-Shapes-Database) [## AdityaDutt 多色-形状-数据库
-
-### 测试不同机器学习任务的小型数据库。它包含不同颜色的简单形状。…
-
-github.com](https://github.com/AdityaDutt/MultiColor-Shapes-Database) 
+<https://github.com/AdityaDutt/MultiColor-Shapes-Database>  
 
 还有几个其他数据集也可以尝试，如著名的 Omniglot 数据集，MNIST 等。
 
@@ -142,11 +138,7 @@ TensorBoard 球化后特征的 PCA 可视化
 
 以下是完整资源库的链接:
 
-[](https://github.com/AdityaDutt/Siamese-Networks-Tutorial) [## AdityaDutt/Siamese-网络-教程
-
-### 在 GitHub 上创建一个帐户，为 AdityaDutt/Siamese-Networks-Tutorial 开发做贡献。
-
-github.com](https://github.com/AdityaDutt/Siamese-Networks-Tutorial) 
+<https://github.com/AdityaDutt/Siamese-Networks-Tutorial>  
 
 # 结论
 

@@ -12,11 +12,7 @@
 
 [PyCon 2019 talk —社交网络分析](https://www.youtube.com/watch?v=px7ff2_Jeqw)
 
-[](https://github.com/dimgold/pycon_social_networkx) [## GitHub—dim gold/PyCon _ Social _ networkx:PyCon 2019 talk 的社交网络分析代码示例
-
-### https://www.youtube.com/watch?v=px7ff2_Jeqw 这个库包含了 PyCon 的社会网络分析代码示例…
-
-github.com](https://github.com/dimgold/pycon_social_networkx) 
+<https://github.com/dimgold/pycon_social_networkx>  
 
 # 网络理论
 
@@ -184,8 +180,4 @@ nx.draw_networkx(G)欧洲电视网 2018 投票网络结果
 
 对我在 Booking.com 的工作感兴趣吗？[查看](https://booking.ai/)我们的[Booking.com 数据科学](https://medium.com/u/1aecbb50db31?source=post_page-----d12e9a34c2c7--------------------------------)博客。
 
-[](https://booking.ai) [## Booking.com 数据科学
-
-### Booking.com 的数据科学和机器学习博客
-
-booking.ai](https://booking.ai)
+<https://booking.ai> 

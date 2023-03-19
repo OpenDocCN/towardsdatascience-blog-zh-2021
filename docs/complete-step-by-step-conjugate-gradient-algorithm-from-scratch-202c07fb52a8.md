@@ -82,11 +82,7 @@ T 共轭梯度是数学上涉及的算法之一。所以，为了简化事情，
 
 这里，*撇号*表示转置操作，以方便书写。
 
-[](/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420) [## 从头开始完成逐步梯度下降算法
-
-### 以及恒定学习速率和线搜索的实现
-
-towardsdatascience.com](/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420) 
+</complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420>  
 
 # 改进算法
 

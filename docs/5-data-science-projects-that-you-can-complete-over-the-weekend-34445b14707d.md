@@ -99,15 +99,7 @@
 
 以下是我的一些最佳选择:
 
-[](https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085) [## 一个错误如何浪费了我 3 年的数据科学之旅
-
-### 自定进度的课程只是安眠药；行业专家是正确的选择
-
-better 编程. pub](https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085) [](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) [## 让你惊叹的 10 个 Python 技巧
-
-### 提高 Python 编程技能的便利特性
-
-better 编程. pub](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) 
+<https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085>  <https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a>  
 
 > *走之前……*
 

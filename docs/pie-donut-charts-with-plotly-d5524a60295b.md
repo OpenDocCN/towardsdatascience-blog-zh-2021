@@ -194,16 +194,8 @@ fig7 = go.Figure(data = go.Pie(values = values,
 
 棒棒糖和哑铃图，有曲线、平均值或中值？
 
-[](/lollipop-dumbbell-charts-with-plotly-696039d5f85) [## Plotly 的棒棒糖和哑铃图表
-
-### 均值还是中值？
-
-towardsdatascience.com](/lollipop-dumbbell-charts-with-plotly-696039d5f85) 
+</lollipop-dumbbell-charts-with-plotly-696039d5f85>  
 
 斜率图表，为什么和如何，用斜率讲故事
 
-[](/slope-charts-why-how-11c2a0bc28be) [## 斜率图表，为什么和如何
-
-### 用斜坡讲故事
-
-towardsdatascience.com](/slope-charts-why-how-11c2a0bc28be)
+</slope-charts-why-how-11c2a0bc28be> 

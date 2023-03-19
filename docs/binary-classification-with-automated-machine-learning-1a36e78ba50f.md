@@ -103,8 +103,4 @@ MLJAR 还绘制了 [SHAP 重要性](https://www.kaggle.com/wrosinski/shap-featur
 
 在本文中，您已经看到了如何构建二进制分类模型 MLJAR auto-ML。您已经看到这个过程只需要几个步骤。您还看到了 MLJAR auto-ML 使用多种算法为分类问题构建多种模型。下一步是在您自己的二元分类数据集上使用该包。
 
-[](https://github.com/mljar/mljar-supervised/) [## ml jar/ml jar-受监督
-
-### 文档:https://supervised.mljar.com/源代码:https://github.com/mljar/mljar-supervised…
-
-github.com](https://github.com/mljar/mljar-supervised/)
+<https://github.com/mljar/mljar-supervised/> 

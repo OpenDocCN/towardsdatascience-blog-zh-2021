@@ -48,6 +48,6 @@
 
 在本文中，我想帮助管理者向他们的数据科学家或有抱负的员工提出正确的问题。每天都有太多的失败发生，因为管理者没有要求正确的事情。技术有助于达到一个好的目标，但不能代替问正确的问题。
 
-*Gianluca Malato 是一名数据科学家，在*[](http://www.yourdatateacher.com)**上教授机器学习和数据科学。你可以联系他获取信息和在线课程* [*这里*](https://www.yourdatateacher.com/contacts/) *。**
+*Gianluca Malato 是一名数据科学家，在*<http://www.yourdatateacher.com>**上教授机器学习和数据科学。你可以联系他获取信息和在线课程* [*这里*](https://www.yourdatateacher.com/contacts/) *。**
 
-**原载于 2021 年 9 月 6 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/09/06/what-managers-should-expect-from-data-scientists/)**。***
+**原载于 2021 年 9 月 6 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/09/06/what-managers-should-expect-from-data-scientists/>**。***

@@ -58,11 +58,7 @@
 
 对深度学习的数据格式的全面调查超出了本文的范围。我们将把讨论限制在几个强有力的候选人身上。更广泛的调查比比皆是。这里有一个例子:
 
-[](/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) [## 机器学习文件格式指南:列式、训练、推理和特征存储
-
-### TLDR；大多数机器学习模型都是使用文件中的数据进行训练的。这篇文章是流行文件格式的指南…
-
-towardsdatascience.com](/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) 
+</guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9>  
 
 您还可以查看我最近的一篇帖子，它涵盖了相对较新的*[*web dataset*](https://github.com/tmbdev/webdataset)*格式，这是一个有趣的解决方案，专门面向希望尽可能以最原始的形式维护数据的开发人员。**
 

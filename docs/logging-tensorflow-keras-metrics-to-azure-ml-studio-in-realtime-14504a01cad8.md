@@ -14,11 +14,7 @@
 
 在该项目的 GitHub 资源库的`examples`文件夹中有一个工作代码示例，演示了本文中的工具。回调本身在`log_to_azure.py`文件中。
 
-[](https://github.com/benbogart/azure-tensorflow-callback) [## 本博加特/azure-tensor flow-回调
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/benbogart/azure-tensorflow-callback) 
+<https://github.com/benbogart/azure-tensorflow-callback>  
 
 # azureml.core.Run 对象
 

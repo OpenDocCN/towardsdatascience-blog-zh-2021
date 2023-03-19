@@ -122,11 +122,7 @@
 
 这样，当文件在云存储中被创建时，我可以很容易地用其他的*服务* 进一步触发 ***数据摄取*** 。如果你想学习如何做，请查看我的教程**如何处理数据加载到你的数据仓库**。
 
-[](/how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436) [## 如何使用无服务器摄取管理器和 Node.js 处理 BigQuery 中的数据加载
-
-### 文件格式、yaml 管道定义、转换和事件触发器，让您能够简单可靠地接收数据…
-
-towardsdatascience.com](/how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436) 
+</how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436>  
 
 对于`stream-save`查询结果，您可能想要向您的`queryDbAndSave()`函数添加一个新的**分支**:
 
@@ -192,11 +188,7 @@ towardsdatascience.com](/how-to-handle-data-loading-in-bigquery-with-serverless-
 
 就在几天前，我用它从 MySQL 中导出了 5600 万行。然后我将它们分块保存到 AWS S3 的数据湖中。例如，我有一个数据加载管理器，每次文件进入数据湖时，它都会将数据发送到我的 BigQuery 数据仓库。
 
-[](/how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436) [## 如何使用无服务器摄取管理器和 Node.js 处理 BigQuery 中的数据加载
-
-### 文件格式、yaml 管道定义、转换和事件触发器，让您能够简单可靠地接收数据…
-
-towardsdatascience.com](/how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436) 
+</how-to-handle-data-loading-in-bigquery-with-serverless-ingest-manager-and-node-js-4f99fba92436>  
 
 因此，导出我的 MySQL 数据并将其加载到我的数据仓库既快又容易。
 

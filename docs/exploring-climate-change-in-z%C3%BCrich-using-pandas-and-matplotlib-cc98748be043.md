@@ -22,11 +22,7 @@
 
 幸运的是，如今找到气候数据相当容易，有大量的数据集可供公众免费下载。所以我开始了我的数据探索，结果发现一个合适的数据集只需要一次谷歌搜索。瑞士气象局的网站可以让你下载瑞士各地气象站的历史气候数据。
 
-[](https://www.meteoswiss.admin.ch/home/climate/swiss-climate-in-detail/homogeneous-data-series-since-1864.html?station=SMA) [## 自 1864 年以来的同类数据系列
-
-### 该内容目前只有德语、法语和意大利语版本。月平均时间序列
-
-www.meteoswiss.admin.ch](https://www.meteoswiss.admin.ch/home/climate/swiss-climate-in-detail/homogeneous-data-series-since-1864.html?station=SMA) 
+<https://www.meteoswiss.admin.ch/home/climate/swiss-climate-in-detail/homogeneous-data-series-since-1864.html?station=SMA>  
 
 在本文中，我们将利用 Python、Pandas 和 Matplotlib 包来探索和可视化来自瑞士苏黎世气象站的气候数据。
 

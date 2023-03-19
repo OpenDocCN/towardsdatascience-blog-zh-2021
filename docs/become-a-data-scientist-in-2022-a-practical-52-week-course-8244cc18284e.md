@@ -70,11 +70,7 @@ SQL 不仅对于数据科学，而且对于任何与数据相关的领域都是�
 
 [微积分 1](https://www.khanacademy.org/math/calculus-1) 和[微积分 2](https://www.khanacademy.org/math/calculus-2) 单元涵盖了基本的数学知识，如导数、微分方程、积分、级数以及它们的应用。
 
-[](/this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69) [## 这个 Python 库自动化熊猫，并帮助你取代 Excel
-
-### 一个 Python 库，帮助我们像使用 Excel 一样处理熊猫。
-
-towardsdatascience.com](/this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69) 
+</this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69>  
 
 # 第 26–52 周:为数据科学和机器学习学习 Python
 
@@ -89,18 +85,10 @@ towardsdatascience.com](/this-python-library-will-help-you-move-from-excel-to-py
 
 每个部分都有免费的视频教程、指南、练习和项目，可以帮助您掌握 Python 数据科学。所有的免费资源都可以在下面的文章中找到。
 
-[](/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) [## 2022 年，学习数据科学 Python 的完整的 26 周课程
-
-### 在 26 周内学习数据科学所需的大部分 Python 知识
-
-towardsdatascience.com](/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) 
+</a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4>  
 
 [**与 6k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

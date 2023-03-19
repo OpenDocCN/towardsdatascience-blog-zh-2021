@@ -28,7 +28,7 @@
 
 语言的目的是将现实与对现实的心理表征联系起来。AI 无法访问我们共享的物理现实，因为它被困在虚拟世界中。如果我不说:“我今天早上吃了一个苹果”，而是说:“我今天早上吃了一个苹果。我去了商店，拿了它，吃了它，然后离开，“只有人类才能推断我偷了它——以及这么做的社会/法律含义。今天的人工智能无法获取这种类型的实用信息。
 
-[](/ai-wont-master-human-language-anytime-soon-3e7e3561f943) [## 人工智能不会很快掌握人类语言
+</ai-wont-master-human-language-anytime-soon-3e7e3561f943> [## 人工智能不会很快掌握人类语言
 
 towardsdatascience.com](/ai-wont-master-human-language-anytime-soon-3e7e3561f943) 
 
@@ -40,11 +40,7 @@ towardsdatascience.com](/ai-wont-master-human-language-anytime-soon-3e7e3561f943
 
 现在的 AI 没有具体化，不懂因果关系，不懂物理，也不懂语言，不会表现出常识性的推理。然而，我们每天都用这些能力在世界上导航。只要机器在计算机中生存和发展，被限制在虚拟现实的范围内，它们就不能理解世界。用 [Ragnar Fjelland](https://www.nature.com/articles/s41599-020-0494-4) 教授的话来说:“只要计算机不长大，不属于一种文化，不在世界上活动，它们就永远不会获得类似人类的智能。”
 
-[](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) [## 人工智能和机器人技术将不可避免地融合
-
-### AGI 将有一个身体，并将生活在这个世界上。
-
-towardsdatascience.com](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) 
+</artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02>  
 
 # 适应新环境——外推
 
@@ -76,12 +72,4 @@ AI 很擅长解决一些问题。机器学习系统开始在感知任务中表�
 
 # 推荐阅读
 
-[](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [## 不受欢迎的观点:我们将放弃机器学习作为主要的人工智能范式
-
-### 这一时刻将会到来，就像它发生在象征性人工智能身上一样。
-
-towardsdatascience.com](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [](/the-hard-truth-data-science-isnt-for-everyone-1689b7c05e62) [## 严酷的事实是:数据科学并不适合所有人
-
-### 努力工作和努力有时是不够的。
-
-towardsdatascience.com](/the-hard-truth-data-science-isnt-for-everyone-1689b7c05e62)
+</unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46>  </the-hard-truth-data-science-isnt-for-everyone-1689b7c05e62> 

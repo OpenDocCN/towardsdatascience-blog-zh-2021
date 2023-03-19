@@ -20,11 +20,7 @@ SimRank 的关键是
 
 请随意查看评论良好的源代码。这真的有助于理解整个算法。
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 链接分析算法的 Python 实现。为 chonyy/PageRank-HITS-SimRank 的发展作出贡献
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank) 
+<https://github.com/chonyy/PageRank-HITS-SimRank>  
 
 算法步骤如下所列
 
@@ -183,20 +179,8 @@ SimRank[1][3] = SimRank[3][1]
 
 # 源代码
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 🎏著名链接分析算法的 Python 实现。HITS 算法 PageRank 算法 SimRank 算法得到一个…
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank) 
+<https://github.com/chonyy/PageRank-HITS-SimRank>  
 
 # 相关职位
 
-[](https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf) [## HITS 算法:从零开始的链接分析解释和 Python 实现
-
-### 搜索引擎中的枢纽和权威
-
-chonyy.medium.com](https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf) [](https://chonyy.medium.com/pagerank-3c568a7d2332) [## PageRank:从零开始的链接分析解释和 Python 实现
-
-### 启动谷歌的算法
-
-chonyy.medium.com](https://chonyy.medium.com/pagerank-3c568a7d2332)
+<https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf>  <https://chonyy.medium.com/pagerank-3c568a7d2332> 

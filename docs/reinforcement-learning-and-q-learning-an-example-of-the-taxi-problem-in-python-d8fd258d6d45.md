@@ -91,11 +91,7 @@ q 学习是一种基于价值的学习算法**。代理的目标是优化一个�
 
 出租车问题是由 OpenAI Gym 的贡献者构建的，open ai Gym 是一个开源库，你可以用 python 安装它来访问不同的环境，供你探索、开发、测试和练习强化学习算法。我强烈建议你安装它并跟随它，在看完我的例子后，你也可以探索其他的标准环境，如“GymFC”:一个飞行控制调整和训练框架，“GymGo”:棋盘游戏 Go，它们都将是你练习和“强化”你对 RL 理解的很好的资源。
 
-[](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py) [## 开放/健身房
-
-### 开发和比较强化学习算法的工具包。-露天/健身房
-
-github.com](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py) 
+<https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py>  
 
 # 问题说明:
 
@@ -137,11 +133,7 @@ q 表的初始化被生成为 2D Numpy 数组，该数组表示我们的虚拟�
 
 你可以从 Jovian 下载这段代码，玩得开心点！
 
-[](https://jovian.ai/americanachen/qlearning-med) [## American achen/qlearning-med-Jovian
-
-### 在 qlearning-med 笔记本上与 americanachen 合作。
-
-jovian.ai](https://jovian.ai/americanachen/qlearning-med) 
+<https://jovian.ai/americanachen/qlearning-med>  
 
 ***访问***[***【www.enlightmentblog.com】***](http://www.enlightmentblog.com/)***获取更多真知灼见，优质文章***
 

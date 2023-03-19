@@ -306,27 +306,15 @@ automate_excel('sales_2021.xlsx')
 
 如果您不知道如何安排工作，请点击下面的指南了解如何安排。
 
-[](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) [## 如何在 Mac 和 Windows 上轻松自动化您的 Python 脚本
-
-### 使用 crontab 和任务调度器来自动化您的脚本并节省时间
-
-towardsdatascience.com](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) 
+</how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94>  
 
 *就是这样！在本文中，您了解了如何自动化一个基本的 Excel 报表；然而，一旦你掌握了熊猫图书馆，你可以自己做更多的事情。在下面的链接中，你可以找到我专门为 Excel 用户写的熊猫的完整指南。*
 
-[](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) [## 从 Excel 迁移到 Python 的完整而简单的指南
-
-### 用熊猫和 Numpy 永远抛弃 Excel。
-
-towardsdatascience.com](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) 
+</a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039>  
 
 *我还做了一个指南，帮助你用 Python 建立你的第一个机器学习模型。*
 
-[](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [## Scikit-Learn 简单指南—用 Python 构建机器学习模型
-
-### Python 中的第一个 ML 模型。
-
-towardsdatascience.com](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) 
+</a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a>  
 
 你可以在我的 [Github](https://github.com/ifrankandrade/automation.git) 上找到这个分析背后的代码。
 

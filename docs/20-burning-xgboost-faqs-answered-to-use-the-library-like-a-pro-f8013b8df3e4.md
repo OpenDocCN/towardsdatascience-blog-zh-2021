@@ -23,19 +23,11 @@ XGBoost 是一个真正的野兽。
 
 这篇文章回答了关于 XGBoost 及其 API 的 20 个最棘手的问题。这些应该足够让你看起来像是一直在用库了。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1.应该选择哪个 API——Scikit-learn 还是核心学习 API？
 
@@ -250,11 +242,7 @@ DART 树是一种改进(有待验证),它引入了决策树子集的随机丢弃
 
 首先，选择一个较宽的区间，如[1e5，1e2，0.01，10，100]。然后，根据从该范围返回的最佳值，选择其他几个附近的值。
 
-[](/intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a) [## 介绍使用 Sklearn 的岭和套索回归正则化
-
-### 你还不如放弃线性回归
-
-towardsdatascience.com](/intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a) 
+</intro-to-regularization-with-ridge-and-lasso-regression-with-sklearn-edcf4c117b7a>  
 
 # 20.如何调优 XGBoost 中的随机采样超参数？
 

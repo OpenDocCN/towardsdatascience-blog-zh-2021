@@ -251,16 +251,4 @@
 
 **如果你喜欢这篇文章，你可能也会喜欢下面的文章:**
 
-**[](/real-time-artwork-generation-using-deep-learning-a33a2084ae98) [## 使用深度学习的实时艺术品生成
-
-### 用于任意内容样式图像对之间的样式转换的自适应实例标准化(AdaIN)。
-
-towardsdatascience.com](/real-time-artwork-generation-using-deep-learning-a33a2084ae98) [](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5) [## 阿特鲁卷积和深度可分卷积的初步研究
-
-### 什么是萎缩/扩张和深度方向可分卷积？与标准卷积有何不同？什么…
-
-towardsdatascience.com](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5) [](/demystified-wasserstein-gans-wgan-f835324899f4) [## 揭秘:瓦瑟斯坦·甘斯(WGAN)
-
-### 什么是瓦瑟斯坦距离？用 Wasserstein 距离训练 GANs 背后的直觉是什么？怎么样…
-
-towardsdatascience.com](/demystified-wasserstein-gans-wgan-f835324899f4)**
+**</real-time-artwork-generation-using-deep-learning-a33a2084ae98>  </a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5>  </demystified-wasserstein-gans-wgan-f835324899f4> **

@@ -57,15 +57,7 @@ Tableau 最近发布了一个新特性“快速 LOD ”,它应该可以更容易
 
 对 LOD 的深入解释超出了本文的范围，但是如果您需要更多的信息，可以在这里找到:
 
-[](https://www.tableau.com/learn/whitepapers/understanding-lod-expressions?_ga=2.205069776.1331838473.1617091658-1235017356.1614089650&_fsi=kmTEmxG0) [## 了解详细等级(LOD)表达式
-
-### Tableau 的目录，我们的目标是让数据分析成为一种愉快的体验。人们告诉我们，当他们…
-
-www.tableau.com](https://www.tableau.com/learn/whitepapers/understanding-lod-expressions?_ga=2.205069776.1331838473.1617091658-1235017356.1614089650&_fsi=kmTEmxG0) [](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_overview.htm) [## 概述:详细等级表达式
-
-### 本文解释了细节层次表达式是如何计算的，以及它们在 Tableau 中的作用。更多信息…
-
-help.tableau.com](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_overview.htm) 
+<https://www.tableau.com/learn/whitepapers/understanding-lod-expressions?_ga=2.205069776.1331838473.1617091658-1235017356.1614089650&_fsi=kmTEmxG0>  <https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_overview.htm>  
 
 # 测试“快速 LOD”
 

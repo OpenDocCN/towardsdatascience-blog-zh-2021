@@ -54,11 +54,7 @@ PCA 找到所谓的主成分(向量)，其沿着它们的方向最大化数据�
 
 如果您不熟悉 PCA，我鼓励您阅读这篇文章，以便更好地了解这项技术。
 
-[](/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) [## 主成分分析的一站式商店
-
-### 在我用于研究生统计理论课的教科书的开始，作者(乔治·卡塞拉和罗杰…
-
-towardsdatascience.com](/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) 
+</a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c>  
 
 ## 真正的交易
 

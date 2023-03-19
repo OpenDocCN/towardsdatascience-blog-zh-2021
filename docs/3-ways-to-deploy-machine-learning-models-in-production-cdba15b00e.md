@@ -16,11 +16,7 @@
 
 让我们来看看部署过程，看看我们如何才能成功！
 
-[](/python-web-apps-for-machine-learning-e29d075e6459) [## 为 Python APIs 和 ML 模型创建 Web UIs
-
-### 快速制作原型并与其他人共享 web 应用程序。收集关于预测的反馈，以提高 ML 模型的性能。
-
-towardsdatascience.com](/python-web-apps-for-machine-learning-e29d075e6459) 
+</python-web-apps-for-machine-learning-e29d075e6459>  
 
 # 如何在生产中部署机器学习模型？
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/python-web-apps-for-machine-learning-e29d075e6459)
 
 我们可以很容易地将模型部署到设备上，并且它的运行时环境不能被外部团体篡改。一个明显的缺点是设备需要有足够的计算能力和存储空间。
 
-[](/secure-your-streamlit-app-with-django-bb0bee2a6519) [## 使用 Django 保护您的 Streamlit 应用
-
-### 围绕你的机器学习 web 应用建立一个灵活的认证系统
-
-towardsdatascience.com](/secure-your-streamlit-app-with-django-bb0bee2a6519) 
+</secure-your-streamlit-app-with-django-bb0bee2a6519>  
 
 # 将机器学习模型部署为 web 服务。
 
@@ -64,11 +56,7 @@ towardsdatascience.com](/secure-your-streamlit-app-with-django-bb0bee2a6519)
 
 上面的代码通过`[https://localhost:8080/predict](https://localhost:8080/predict)`接受 POST 请求中的输入，并在 JSON 响应中返回预测。
 
-[](/the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5) [## 用 Python 创建单词云的快速简单指南
-
-### 创建不同形状的单词云，以更好地传达信息。
-
-towardsdatascience.com](/the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5) 
+</the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5>  
 
 # 为批量预测部署机器学习模型。
 
@@ -88,11 +76,7 @@ prediction = classifier.predict(UNSEEN_DATASET)
 
 上述脚本计划从脚本执行后 5 秒开始每周进行预测。如果失败，提督将重试任务 3 次。
 
-[](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) [## 自动化和编排数据管道的完美方式
-
-### 我正在将我所有的 ETL 工作从 Airflow 迁移到这个超级酷的框架中
-
-towardsdatascience.com](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) 
+</the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2>  
 
 然而，构建模型可能需要批处理框架中的多个阶段。您需要决定需要什么特性，以及应该如何为每个阶段构建模型。
 

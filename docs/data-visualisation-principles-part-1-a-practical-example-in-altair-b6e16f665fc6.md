@@ -199,14 +199,6 @@ final_chart.save('html/auto_ibride.html', embed_options={'actions': False})
 
 # 相关文章
 
-[](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [## 数据可视化原则第 1 部分:空白、文本和颜色
+</data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9>  </how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5> [## 如何改进带有注释的 D3.js 图
 
-### 从基本的平面设计原则开始。
-
-towardsdatascience.com](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [## 如何改进带有注释的 D3.js 图
-
-towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [](/plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471) [## plotly VS matplotlib:Python 中数据可视化的最佳库是什么？
-
-### 在这个简短的教程中，我将向您展示如何使用 plotly 和 matplotlib 库快速构建一个基本的折线图…
-
-towardsdatascience.com](/plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471)
+towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) </plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471> 

@@ -46,7 +46,7 @@ LDA 模型为语料库中的每个文档生成主题分布。例如，文档可�
 
 作者图片
 
-我们需要定义两个潜在变量[](https://en.wikipedia.org/wiki/Latent_variable#:~:text=In%20statistics%2C%20latent%20variables%20(from,are%20observed%20(directly%20measured).)****，它们有助于从语料库到文档再到单词的文本生成过程。潜在变量是我们不能从数据中直接观察到的变量。然而，它揭示了数据中隐藏的结构，并且有利于建立概率模型。第一个潜在变量是θ，即主题在每个文档中的分布(40%“水果”，60%“蔬菜”)。第二个潜在变量是 Z (Z ∈{1，2..T})，呈现每个词的主题。我们可以在下图中看到文本生成过程:****
+我们需要定义两个潜在变量<https://en.wikipedia.org/wiki/Latent_variable#:~:text=In%20statistics%2C%20latent%20variables%20(from,are%20observed%20(directly%20measured>.)****，它们有助于从语料库到文档再到单词的文本生成过程。潜在变量是我们不能从数据中直接观察到的变量。然而，它揭示了数据中隐藏的结构，并且有利于建立概率模型。第一个潜在变量是θ，即主题在每个文档中的分布(40%“水果”，60%“蔬菜”)。第二个潜在变量是 Z (Z ∈{1，2..T})，呈现每个词的主题。我们可以在下图中看到文本生成过程:****
 
 ****![](img/fc8ec8abbdb6ee7e27fdc01abf0e4ed5.png)****
 
@@ -72,15 +72,7 @@ LDA 模型为语料库中的每个文档生成主题分布。例如，文档可�
 
 ****感谢您的阅读！这是我所有博客帖子的列表。如果你感兴趣，可以去看看。****
 
-****[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [](https://zzhu17.medium.com/membership) [## 阅读朱(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership) 
+****<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  <https://zzhu17.medium.com/membership>  
 
 ## 参考
 

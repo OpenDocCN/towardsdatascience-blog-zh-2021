@@ -55,8 +55,4 @@
 
 正如我常说的，请随时在 Linkedin 上与我联系，进一步讨论这篇文章，反馈是我们成长的关键。
 
-[](https://www.linkedin.com/in/tolga-akiner/) [## 托尔加·艾克纳博士-数据科学家- GSK | LinkedIn
-
-### 数据科学家在机器学习、自然语言处理、计算建模、算法等领域拥有丰富经验
-
-www.linkedin.com](https://www.linkedin.com/in/tolga-akiner/)
+<https://www.linkedin.com/in/tolga-akiner/> 

@@ -52,11 +52,7 @@
 
 **最后一件事。**如果你想了解学习率、激活函数或架构等配置参数如何影响神经网络的结果，我强烈建议查看 TensorFlow 创建的名为 Playground 的交互式演示。**太美了，太有见地了！**
 
-[](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.24016&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) [## 张量流——神经网络游乐场
-
-### 这是一种构建从数据中学习的计算机程序的技术。它非常松散地基于我们如何思考…
-
-playground.tensorflow.org](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.24016&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
+<https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.24016&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false>  
 
 # 什么是深度学习？
 
@@ -88,11 +84,7 @@ playground.tensorflow.org](https://playground.tensorflow.org/#activation=tanh&ba
 *   **AlexNet —** AlexNet 是卷积神经网络的成功实现，在 2012 年赢得了 ImageNet 大规模视觉识别挑战赛( [ILSVRC](https://www.image-net.org/challenges/LSVRC/index.php) )。该架构已由 Alex Krizhevsky、Ilya Sutskever、Geoffrey Hinton 在 NeurIPS 2012 上发表(图 2)。在这种架构中，输入是大小为 256×256 的 RGB 图像，这些图像被随机裁剪成大小为 224×224 的图像。该架构包含 65 万个神经元和 6000 万个参数。此外，在两个 GTX 580 3GB GPU 上训练需要 5-6 天。它由 5 个卷积层和 3 个全连接层组成。他们首次使用整流线性单元(ReLUs)作为激活函数。
 *   **VGG16 —** 提高深度神经网络性能的标准方法是增加深度。VGG-16 是由牛津大学视觉几何小组的人发明的。该架构有 13 个卷积层和 3 个全连接层。他们还使用 ReLU 激活功能作为 AlexNet 的传统。与 AlexNet 相比，该网络堆叠了更多层，并使用了更小尺寸的过滤器(2×2 和 3×3)。它由 138M 参数组成。
 
-[](/vgg-neural-networks-the-next-step-after-alexnet-3f91fa9ffe2c) [## VGG 神经网络:AlexNet 之后的下一步
-
-### AlexNet 于 2012 年问世，对传统的卷积神经网络(CNN)进行了改进。接下来是 VGG…
-
-towardsdatascience.com](/vgg-neural-networks-the-next-step-after-alexnet-3f91fa9ffe2c) 
+</vgg-neural-networks-the-next-step-after-alexnet-3f91fa9ffe2c>  
 
 *   **ResNet50 —** 随着网络深度的增加，精度会饱和，然后迅速下降，这主要是因为我们无法对其进行适当的训练。微软研究院用 ResNet50 解决了这个问题——使用跳过(或快捷方式)连接，同时构建更深层次的模型。更深的 CNN(高达 152 层)而不影响模型的泛化。这是一个好主意…
 
@@ -170,11 +162,7 @@ PyTorch 是一个基于 python 的低级神经网络库，构建于脸书科学�
 
 除了只使用当前步骤的梯度来指导搜索，我们可以使用过去步骤的**梯度**知道最近的步骤更重要。这在优化上下文中被称为动量。因此，我们可以，例如，使用梯度步骤的指数平均值来进行更有效的搜索过程。查看下面的文章，了解更多关于**动量**的信息。
 
-[](https://distill.pub/2017/momentum/) [## 为什么动量真的有效
-
-### 这里有一个关于动量的流行故事:梯度下降是一个人走下山坡。他沿着最陡的路径…
-
-蒸馏. pub](https://distill.pub/2017/momentum/) 
+<https://distill.pub/2017/momentum/>  
 
 ## SGD 不管用怎么办？
 
@@ -190,8 +178,4 @@ PyTorch 是一个基于 python 的低级神经网络库，构建于脸书科学�
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

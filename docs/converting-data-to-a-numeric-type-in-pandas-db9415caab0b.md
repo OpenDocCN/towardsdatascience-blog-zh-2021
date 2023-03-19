@@ -218,11 +218,7 @@ df['mix_col'] = df['missing_col'].**fillna(0)**.**astype('int')**
 
 如果您想了解有关处理缺失值的更多信息，可以查看:
 
-[](/working-with-missing-values-in-pandas-5da45d16e74) [## 处理熊猫中缺失的值
-
-### 关于 Pandas 中缺失值以及如何使用内置方法处理它们的教程
-
-towardsdatascience.com](/working-with-missing-values-in-pandas-5da45d16e74) 
+</working-with-missing-values-in-pandas-5da45d16e74>  
 
 # 5.将货币列转换为数字
 

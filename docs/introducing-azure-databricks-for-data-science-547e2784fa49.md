@@ -20,11 +20,7 @@ Azure Databricks 使您作为数据工程师能够运行大规模 Spark 工作�
 
 > 本文假设您已经熟悉了 Spark 框架，并且掌握了 PySpark 知识。
 
-[](https://www.linkedin.com/in/p-jainani/) [## Pankaj Jainani -云解决方案架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani/) 
+<https://www.linkedin.com/in/p-jainani/>  
 
 # Azure 数据块
 
@@ -127,8 +123,4 @@ display(predictionsDF)
 
 > 在 [**LinkedIn**](https://www.linkedin.com/in/p-jainani/) 上与我联系，进一步讨论
 
-[](https://www.linkedin.com/in/p-jainani/) [## Pankaj Jainani -云解决方案架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani/)
+<https://www.linkedin.com/in/p-jainani/> 

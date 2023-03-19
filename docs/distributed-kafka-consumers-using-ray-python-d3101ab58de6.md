@@ -239,16 +239,4 @@ docker run -e RAY_HEAD_ADDRESS=ray://<head node IP>:<port> -e LOCAL_MODE=N  -dp 
 
 # 参考
 
-[](https://docs.ray.io/) [## 射线版本 1.7.0
-
-### Ray 通过以下方式完成这项任务:为构建和运行分布式应用程序提供简单的原语…
-
-docs.ray.io](https://docs.ray.io/)  [## KafkaConsumer-Kafka-python 2 . 0 . 2-dev 文档
-
-### 消费 Kafka 集群中的记录。消费者将透明地处理 Kafka 中服务器的故障…
-
-kafka-python.readthedocs.io](https://kafka-python.readthedocs.io/en/master/apidoc/KafkaConsumer.html) [](https://fastapi.tiangolo.com/) [## FastAPI
-
-### FastAPI 框架，高性能，简单易学，快速编码，准备生产文档…
-
-fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
+<https://docs.ray.io/>    <https://fastapi.tiangolo.com/> 

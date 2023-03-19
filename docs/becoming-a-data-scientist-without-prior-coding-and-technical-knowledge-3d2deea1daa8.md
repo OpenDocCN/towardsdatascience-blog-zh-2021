@@ -67,11 +67,7 @@
 
 这里有一些很好的书籍可供阅读:
 
-[](/21-data-science-books-you-should-read-in-2021-db625e97feb6) [## 2021 年你应该阅读的 21 本数据科学书籍
-
-### 最新的最佳数据科学书籍集，值得立即阅读
-
-towardsdatascience.com](/21-data-science-books-you-should-read-in-2021-db625e97feb6) 
+</21-data-science-books-you-should-read-in-2021-db625e97feb6>  
 
 我可能会将我对数据科学的热情归因于从我阅读的早期书籍中了解到的公司如何利用数据来做令人惊讶的事情(不要忽视对数据的一些边缘道德使用，这是另一个话题)
 
@@ -107,11 +103,7 @@ towardsdatascience.com](/21-data-science-books-you-should-read-in-2021-db625e97f
 
 我知道我需要以一种有趣和可以忍受的方式学习。就在那时，我偶然发现了这本书:*如何用 Python 自动化枯燥的东西，作者是 Al Sweigart* 。
 
-[](https://automatetheboringstuff.com/) [## 用 Python 自动化枯燥的东西
-
-### “编程最好的部分是看到机器做一些有用的事情的胜利。用…自动化枯燥的工作
-
-automatetheboringstuff.com](https://automatetheboringstuff.com/) 
+<https://automatetheboringstuff.com/>  
 
 顾名思义，这本书不是正式文本。它试图取笑我们每天做的许多平凡的任务，并取笑我们以前没有做任何事情来自动化这些任务。
 

@@ -10,11 +10,7 @@
 
 在前一篇[文章](/how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84)中，我们描述了配置 Kaggle 开发环境和获取数据集的最佳实践。
 
-[](/how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84) [## 如何准备您的开发环境以便在 Kaggle 上排名
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 1/5 部分)
-
-towardsdatascience.com](/how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84) 
+</how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84>  
 
 现在我们已经配置了一个环境，让我们遍历我们的 [Kaggle 内核](https://www.kaggle.com/jirkaborovec/plant-pathology-with-lightning)并一步一步解释每个单元。主要阶段将是:(1)加载数据，(2)检查标签分布，以及(3)观看每个类的一些样本图像。稍后，我们开始将数据包装到 PyTorch 类，也就是 Dataset 和 Dataloader。最后，我们把它们放在一起，并且(5)训练一个简单的基线 CNN 模型。
 
@@ -23,11 +19,7 @@ a)使用`[LightningDataModules](https://pytorch-lightning.readthedocs.io/en/stab
 b)选择在我们的`[LightningModules](https://pytorch-lightning.readthedocs.io/en/stable/common/lightning_module.html)`中使用的模型/架构。
 c)用`[TorchMetrics](https://torchmetrics.readthedocs.io/en/stable/)`评估绩效。
 
-[](https://github.com/Borda/kaggle_plant-pathology) [## GitHub-Borda/ka ggle _ plant-pathology:识别苹果树叶子上的病害类型
-
-### 叶部病害对苹果园的整体产量和质量构成了重大威胁。当前…
-
-github.com](https://github.com/Borda/kaggle_plant-pathology) 
+<https://github.com/Borda/kaggle_plant-pathology>  
 
 # 数据探索
 
@@ -161,19 +153,11 @@ trainer = pl.Trainer(
 
 在未来，我将展示如何使用一些最简单的可持续性技巧将笔记本转换为可共享的 Python 包，以及如何使用公开的训练参数编写一个简单的 CLI，以便更容易地进行超参数搜索。
 
-[](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414) [## 将科学 Kaggle 笔记本转换为友好的 Python 包
-
-### 这篇文章展示了如何轻松地将笔记本转换成标准的 Python 包，并包含了一个简单的命令行…
-
-towardsdatascience.com](/converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414) 
+</converting-kaggle-training-notebooks-to-sharable-code-1cc59fec2414>  
 
 **敬请关注，关注我了解更多！**
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

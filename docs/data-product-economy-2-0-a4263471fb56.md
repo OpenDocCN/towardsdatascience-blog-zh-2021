@@ -124,20 +124,4 @@ GIPH
 
 以下是我的一些文章，你可能会感兴趣。
 
-[](/data-science-is-boring-1d43473e353e) [## 数据科学很无聊
-
-### 我如何应对部署机器学习的无聊日子
-
-towardsdatascience.com](/data-science-is-boring-1d43473e353e) [](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [## 我们应该留在数据科学领域吗？
-
-### 数据科学家的 4 个现实职业选择
-
-towardsdatascience.com](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [](/build-full-stack-ml-12-hours-50c310fedd51) [## 12 小时 ML 挑战
-
-### 如何使用 Streamlit 和 DevOps 工具构建和部署 ML 应用程序
-
-towardsdatascience.com](/build-full-stack-ml-12-hours-50c310fedd51) [](/the-most-useful-ml-tools-2020-e41b54061c58) [## 最有用的 ML 工具 2020
-
-### 每个懒惰的全栈数据科学家都应该使用的 5 套工具
-
-towardsdatascience.com](/the-most-useful-ml-tools-2020-e41b54061c58)
+</data-science-is-boring-1d43473e353e>  </the-most-realistic-data-science-career-guide-d12c4af87cc8>  </build-full-stack-ml-12-hours-50c310fedd51>  </the-most-useful-ml-tools-2020-e41b54061c58> 

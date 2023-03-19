@@ -10,11 +10,7 @@
 
 我最近写了一篇文章，详细介绍了我学习 Python 编程语言的早期经历。这篇文章的主要焦点是在学习之旅的一开始就建立一个合适的开发环境的重要性。这是许多针对初学者的教程和在线课程经常忽略的内容，可能会导致许多学习者在准备开始自己的一些项目时，陷入一个复杂而不可行的开发环境。这是我从惨痛的教训中学到的！
 
-[](https://medium.com/pythoneers/want-to-learn-python-what-nobody-tells-you-until-it-is-too-late-16bb1f473095) [## 想要学习 Python——没人告诉你的事情，直到为时已晚！
-
-### 现在设置您的 Python 环境…甚至在你第一次输入“Hello World”之前！
-
-medium.com](https://medium.com/pythoneers/want-to-learn-python-what-nobody-tells-you-until-it-is-too-late-16bb1f473095) 
+<https://medium.com/pythoneers/want-to-learn-python-what-nobody-tells-you-until-it-is-too-late-16bb1f473095>  
 
 设置一个合适的 Python 环境，使您能够有效地管理不同 Python 版本的多个安装，并将所有包/库及其相关的依赖项与您的全局系统和用户环境隔离开来，这一点的重要性肯定是不可低估的。
 

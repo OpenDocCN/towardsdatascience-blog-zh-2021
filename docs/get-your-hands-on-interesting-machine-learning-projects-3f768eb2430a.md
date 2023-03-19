@@ -167,11 +167,7 @@ MNIST 或修正 NIST 数据库在其训练集中包含大约 60000 个手写数�
 
 在这个项目中，您将构建一个 ML 模型，该模型将使用分类和回归技术，通过分析葡萄酒的化学特性来预测葡萄酒的质量。这个有趣项目的数据集覆盖了 4800 多个实例，共有 12 个属性。
 
-[](https://medium.datadriveninvestor.com/regression-from-scratch-wine-quality-prediction-d61195cb91c8) [## 从零开始回归——葡萄酒质量预测
-
-### 这篇文章是我之前关于机器学习的三篇文章的系列，在那三篇文章中我们讨论了基础知识、回归和…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/regression-from-scratch-wine-quality-prediction-d61195cb91c8) 
+<https://medium.datadriveninvestor.com/regression-from-scratch-wine-quality-prediction-d61195cb91c8>  
 
 # 结束…
 

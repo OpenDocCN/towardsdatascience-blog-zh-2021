@@ -94,26 +94,6 @@ pr **=** nx**.**pagerank(G, alpha**=**0.9)    # apply PageRank
 
 如果您喜欢这篇文章，那么您可能也会喜欢我的其他文章，在这些文章中，我解释了蒙特卡罗方法和马尔可夫链之类的东西。
 
-[](/node2vec-explained-db86a319e9ab) [## Node2Vec 解释
+</node2vec-explained-db86a319e9ab>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </mining-modelling-character-networks-part-ii-a3d77de89638>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-### 用 Python 解释和实现 Node2Vec 白皮书
-
-towardsdatascience.com](/node2vec-explained-db86a319e9ab) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/mining-modelling-character-networks-part-ii-a3d77de89638) [## 挖掘和模拟字符网络—第二部分
-
-### 本文将介绍挖掘和建模字符网络的 Python 实现
-
-towardsdatascience.com](/mining-modelling-character-networks-part-ii-a3d77de89638) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </markov-chain-explained-210581d7a4a9>  </monte-carlo-method-explained-8635edf2cf58> 

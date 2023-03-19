@@ -72,11 +72,7 @@ CART 决策树及其相应的预测。图片由[作者](https://solclover.medium
 
 如果你想更深入地了解 CART 算法的机制，你可以在这里参考我之前的故事:
 
-[](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) [## CART:清晰而强大的模型的分类和回归树
-
-### CART 算法是如何工作的，如何在 Python 中成功使用？
-
-towardsdatascience.com](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) 
+</cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85>  
 
 ## 2.随机森林
 
@@ -94,11 +90,7 @@ towardsdatascience.com](/cart-classification-and-regression-trees-for-clean-but-
 
 你可以在我的独立故事中找到更多关于随机森林的细节:
 
-[](/random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1) [## 随机森林模型:为什么它们比单一决策树更好？
-
-### 详细解释了随机森林机器学习算法如何工作，是什么使它优于决策树…
-
-towardsdatascience.com](/random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1) 
+</random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1>  
 
 ## 3.adaboost 算法
 
@@ -208,20 +200,8 @@ AdaBoost 模型性能。图片来自[作者](https://solclover.medium.com/)。
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 你可能喜欢的相关故事:
 
-[](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) [## 用于分类的梯度增强树——最好的机器学习算法之一
-
-### 梯度增强在分类树中如何工作的分步指南
-
-towardsdatascience.com](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) [](/xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a) [## XGBoost:极端梯度增强—如何改进常规梯度增强？
-
-### 详细了解这两种算法之间的差异，以及何时应该选择其中一种算法
-
-towardsdatascience.com](/xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a)
+</gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2>  </xgboost-extreme-gradient-boosting-how-to-improve-on-regular-gradient-boosting-5c6acf66c70a> 

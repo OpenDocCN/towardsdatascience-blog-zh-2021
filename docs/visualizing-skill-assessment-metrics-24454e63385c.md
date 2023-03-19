@@ -245,28 +245,8 @@ ri = np.exp(log_rmse)*
 
 # *相关职位*
 
-*[](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d) [## 梅和 RMSE——哪个指标更好？
-
-### 平均绝对误差与均方根误差
-
-medium.com](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)  [## R 平方与调整后的 R 平方
-
-### 回归模型的评价指标及其比较
-
-medium.com](https://medium.com/analytics-vidhya/r-squared-vs-adjusted-r-squared-a3ebc565677b) [](/avoid-r-squared-to-judge-regression-model-performance-5c2bc53c8e2e) [## 避免用 R 平方来判断回归模型的性能
-
-### 依靠 R 来判断一个回归模型的表现是被误导的
-
-towardsdatascience.com](/avoid-r-squared-to-judge-regression-model-performance-5c2bc53c8e2e) [](https://medium.com/@SilentFlame/pearson-correlation-a-mathematical-understanding-c9aa686113cb) [## 皮尔逊相关，一种数学理解！
-
-### 我一直注意到，只是得到一个方法的想法，而不了解背后的数学…
-
-medium.com](https://medium.com/@SilentFlame/pearson-correlation-a-mathematical-understanding-c9aa686113cb) 
+*<https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d>    </avoid-r-squared-to-judge-regression-model-performance-5c2bc53c8e2e>  <https://medium.com/@SilentFlame/pearson-correlation-a-mathematical-understanding-c9aa686113cb>  
 
 *感谢阅读和支持媒体作者*
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium—Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)*
+<https://lukegloege.medium.com/membership> *

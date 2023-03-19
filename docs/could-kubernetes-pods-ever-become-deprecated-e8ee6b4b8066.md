@@ -97,16 +97,4 @@
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/53?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_53)
 
-[](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [## 调试 Kubernetes 工作负载的最简单方法
-
-### 对 Kubernetes 上运行的任何应用程序进行调试和故障排除的最快最简单的方法…
-
-towardsdatascience.com](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [## 用 seccomp 强化 Docker 和 Kubernetes
-
-### 您的容器可能不像您想象的那样安全，但是 seccomp 配置文件可以帮助您解决这个问题…
-
-itnext.io](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [](/deploy-any-python-project-to-kubernetes-2c6ad4d41f14) [## 将任何 Python 项目部署到 Kubernetes
-
-### 是时候深入 Kubernetes，使用这个成熟的项目模板将您的 Python 项目带到云中了！
-
-towardsdatascience.com](/deploy-any-python-project-to-kubernetes-2c6ad4d41f14)
+</the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75>  <https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111>  </deploy-any-python-project-to-kubernetes-2c6ad4d41f14> 

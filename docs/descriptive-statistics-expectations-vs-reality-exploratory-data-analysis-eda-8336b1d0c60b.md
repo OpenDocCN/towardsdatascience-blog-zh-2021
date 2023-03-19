@@ -422,19 +422,7 @@ Name: city, dtype: int64
 
 查看您可能也想阅读的其他文章:
 
-[](/best-string-super-skills-you-must-have-regex-2f5ecbfd2bca) [## 你必须拥有的最佳字符串超级技能:正则表达式
-
-### 通过这个超级简单的介绍，摆脱 Python 中文本字符串处理问题的困扰。
-
-towardsdatascience.com](/best-string-super-skills-you-must-have-regex-2f5ecbfd2bca) [](/pandas-made-easy-the-guide-i-81834f075893) [## 熊猫变得容易(指南— I)
-
-### 有许多最常用的函数和方法的例子
-
-towardsdatascience.com](/pandas-made-easy-the-guide-i-81834f075893) [](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [## 机器学习:营销活动的成本预测(探索性数据分析——第一部分)
-
-### 预测营销活动最佳目标候选人的数据科学方法
-
-towardsdatascience.com](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) 
+</best-string-super-skills-you-must-have-regex-2f5ecbfd2bca>  </pandas-made-easy-the-guide-i-81834f075893>  </machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4>  
 
 # 联系人
 

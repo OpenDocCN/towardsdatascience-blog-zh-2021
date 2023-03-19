@@ -107,8 +107,4 @@ False
 
 在文章的开始，我们快速讨论了 Python 中对象、引用和值是如何处理的。如果您想了解更多关于这些概念和 Python 实现的动态类型范例，请务必阅读文章**Python 中的动态类型。**
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+</dynamic-typing-in-python-307f7c22b24e> 

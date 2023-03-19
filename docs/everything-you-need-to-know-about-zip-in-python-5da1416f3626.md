@@ -80,11 +80,7 @@ print(len(y))
 
 如果我们想改变这一点，我们可以使用 itertools 模块中的 zip_longest。这个模块在标准库中，提供了一系列不同的迭代工具和迭代器，可以用来加速 Python，或者执行不编写自己的迭代器就不可能执行的迭代。如果你想了解更多关于 Itertools 的功能，我有一篇文章可以提供给你:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 zip_longest 迭代器将参数迭代到最长元素的末尾。如果您不想遗漏任何值，这可能会很有用。任何没有被循环的元素都将被返回为 None，如下例所示:
 

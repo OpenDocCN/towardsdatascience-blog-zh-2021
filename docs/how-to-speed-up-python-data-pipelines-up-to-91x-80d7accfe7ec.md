@@ -128,11 +128,7 @@ Tuplex 最酷的部分是它方便的异常处理。数据管道中的错误处�
 
 Tuplex 在提升 Python 性能方面取得了显著的成功。但是与 Python 传统的高性能计算方法相比，它的性能如何呢？这里有一篇文章将它与 Cython 进行了对比。
 
-[](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) [## 挑战 cy thon——高性能计算的 Python 模块。
-
-### 现代的替代方案看起来很有希望，Python 可以以闪电般的速度运行。
-
-towardsdatascience.com](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) 
+</challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0>  
 
 > 谢谢你的阅读，朋友。看来你和我有许多共同的兴趣。一定要看看我的个人博客。
 > 

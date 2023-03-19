@@ -321,33 +321,13 @@ SHAP 汇总图告诉我们最重要的要素及其对数据集的影响范围。
 
 您可以随意使用[这个交互式笔记本](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fdata_science_tools%2Fshapey_values%2Fshapey_values.ipynb)中的源代码，或者转到我的存储库:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/shapey_values/shapey_values.ipynb) [## 数据科学/shapey _ values . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/shapey _ values . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/shapey_values/shapey_values.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/shapey_values/shapey_values.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0) [## 如何用 Python 解决生产计划和库存问题
-
-### 为了使生产和库存成本最小化，你每天应该生产多少件？
-
-towardsdatascience.com](/how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0) [](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [## 如何使用 Python 找到餐馆的最佳位置
-
-### 用 CVXPY 解决集合覆盖问题
-
-towardsdatascience.com](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) [## 如何检测时间序列中的季节性、异常值和变化点
-
-### 只需要 Kats 和几行代码
-
-towardsdatascience.com](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) 
+</how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0>  </how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd>  </observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  </how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff>  
 
 # 参考
 

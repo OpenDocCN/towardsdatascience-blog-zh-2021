@@ -205,74 +205,14 @@ Git 储存库:[从强引力透镜图像生成源星系图像](https://github.com
 
 # 参考资料:
 
-[](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) [## 强引力透镜-维基百科
-
-### 强引力透镜效应是一种引力透镜效应，强到足以产生多重图像、弧…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) 
+<https://en.wikipedia.org/wiki/Strong_gravitational_lensing>  
 
 [宇宙真实星系数据集](https://zenodo.org/record/3242143)
 
-[](https://www.nature.com/articles/nature23463) [## 用卷积神经网络快速自动分析强引力透镜
-
-### 强引力透镜的参数估计是用卷积神经网络自动获得的
-
-www.nature.com](https://www.nature.com/articles/nature23463) [](https://github.com/sibirrer/lenstronomy) [## 西伯利亚/朗斯托尼
-
-### lenstronomy 是一个多用途的软件包，用于模拟强引力透镜。软件包显示在…
-
-github.com](https://github.com/sibirrer/lenstronomy) 
+<https://www.nature.com/articles/nature23463>  <https://github.com/sibirrer/lenstronomy>  
 
 [结构相似度](https://en.wikipedia.org/wiki/Structural_similarity) (SSIM)
 
 [峰值信噪比](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) (PSNR)
 
-[](https://kipac.stanford.edu/) [## 欢迎|卡维利粒子天体物理学和宇宙学研究所(KIPAC)
-
-### 中子星是由被称为简并物质的高度压缩的物质构成的，这种物质密度如此之大以至于必须被描述…
-
-kipac.stanford.edu](https://kipac.stanford.edu/)  [## 强引力透镜是什么？高倍放大的质量和红移分布…
-
-### 许多遥远的物体只有被高度放大才能被发现，或者变得更有科学价值…
-
-arxiv.org](https://arxiv.org/abs/2002.01479) [](http://spiff.rit.edu/classes/phys240/lectures/grav_lens/grav_lens.html) [## 引力透镜理论
-
-### 版权所有迈克尔·里奇蒙。本作品根据创作共用许可协议进行许可。什么是镜头？这是一块…
-
-spiff.rit.edu](http://spiff.rit.edu/classes/phys240/lectures/grav_lens/grav_lens.html) [](https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0) [## 转置卷积上采样
-
-### 如果你听说过转置卷积，并对它的实际含义感到困惑，这篇文章是为…
-
-naokishibuya.medium.com](https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0) [](https://up42.com/blog/tech/image-similarity-measures) [## 使用图像相似性度量比较地面实况和预测
-
-### 图像相似性度量在图像融合算法和应用中起着重要的作用...
-
-up42.com](https://up42.com/blog/tech/image-similarity-measures) [](/understanding-semantic-segmentation-with-unet-6be4f42d4b47) [## 用 UNET 理解语义分割
-
-### 盐鉴定案例研究
-
-towardsdatascience.com](/understanding-semantic-segmentation-with-unet-6be4f42d4b47) [](/nucleus-segmentation-using-u-net-eceb14a9ced4) [## 基于 U-网的细胞核分割
-
-### 深度学习如何用于分割医学图像？
-
-towardsdatascience.com](/nucleus-segmentation-using-u-net-eceb14a9ced4) [](https://www.tensorflow.org/tutorials/images/) [## 卷积神经网络(CNN) |张量流核心
-
-### 为了完成这个模型，你将把卷积基(形状为(4，4，64))的最后一个输出张量输入到一个…
-
-www.tensorflow.org](https://www.tensorflow.org/tutorials/images/) [](https://www.nature.com/articles/nature23463) [## 用卷积神经网络快速自动分析强引力透镜
-
-### 强引力透镜的参数估计是用卷积神经网络自动获得的
-
-www.nature.com](https://www.nature.com/articles/nature23463) [](https://hubblesite.org/resource-gallery/images) [## 形象
-
-### 探索一个发展中的图片画廊，以天文观测和信息科学内容为特色…
-
-hubblesite.org](https://hubblesite.org/resource-gallery/images) [](https://www.freepik.com) [## 面向所有人的免费图片资源
-
-### 数百万免费图文资源。Vectors、库存照片、PSD、图标，所有您需要的创意…
-
-www.freepik.com](https://www.freepik.com) [](https://www.flaticon.com/) [## Flaticon，最大的免费矢量图标数据库
-
-### 4，714，500+SVG，PSD，PNG，EPS 格式或作为图标字体的自由矢量图标。成千上万的免费图标在最大的…
-
-www.flaticon.com](https://www.flaticon.com/)
+<https://kipac.stanford.edu/>    <http://spiff.rit.edu/classes/phys240/lectures/grav_lens/grav_lens.html>  <https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0>  <https://up42.com/blog/tech/image-similarity-measures>  </understanding-semantic-segmentation-with-unet-6be4f42d4b47>  </nucleus-segmentation-using-u-net-eceb14a9ced4>  <https://www.tensorflow.org/tutorials/images/>  <https://www.nature.com/articles/nature23463>  <https://hubblesite.org/resource-gallery/images>  <https://www.freepik.com>  <https://www.flaticon.com/> 

@@ -54,11 +54,7 @@ GeoPandas 使用`GeoSeries`和`GeoDataFrame`类型，它们分别是`pandas.Seri
 
 🔗您可以从以下位置访问代码笔记本👇
 
-[](https://github.com/parulnith/Data-Science-Articles/tree/main/Interactive%20Geographical%20maps%20with%20Geopandas) [## 数据-科学-文章/交互式地理地图，主要是地理区域…
-
-### 我关于数据科学和机器学习的博客集。-数据-科学-文章/交互式地理地图…
-
-github.com](https://github.com/parulnith/Data-Science-Articles/tree/main/Interactive%20Geographical%20maps%20with%20Geopandas) 
+<https://github.com/parulnith/Data-Science-Articles/tree/main/Interactive%20Geographical%20maps%20with%20Geopandas>  
 
 ## 导入库
 
@@ -288,11 +284,7 @@ asia.explore(column='gdp_md_est',
 
 到目前为止，我们一直使用库预加载的自定义数据集。实际上，我们希望使用自己的数据集。包含一个`latitude`和一个`longitude`列的数据集可以很容易地转换成 GeoPandas 数据帧。为了演示这种技术，我借用了下面这篇文章中的数据集:
 
-[](/visualizing-indias-seismic-activity-4ed390de298c) [## 可视化印度的地震活动
-
-### 在 Jupyter 笔记本中无缝分析和可视化地震数据
-
-towardsdatascience.com](/visualizing-indias-seismic-activity-4ed390de298c) 
+</visualizing-indias-seismic-activity-4ed390de298c>  
 
 该数据集包括自 2018 年以来印度每次地震的日期、时间、位置、深度、震级和震源的记录。让我们导入数据并查看各种属性。
 
@@ -324,8 +316,4 @@ df2.head()
 
 *👉* ***对自己阅读其他文章感兴趣。这个*** [***回购***](https://github.com/parulnith/Data-Science-Articles/blob/main/README.md) ***包含了我写的所有文章，分类排序。***
 
-[](https://github.com/parulnith/Data-Science-Articles/blob/main/README.md) [## Data-Science-Articles/readme . MD at main parulnith/Data-Science-Articles
-
-### 我关于数据科学和机器学习的博客集。-Data-Science-Articles/readme . MD at main…
-
-github.com](https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
+<https://github.com/parulnith/Data-Science-Articles/blob/main/README.md> 

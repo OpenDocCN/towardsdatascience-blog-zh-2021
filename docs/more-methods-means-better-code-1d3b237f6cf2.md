@@ -41,11 +41,7 @@ end
 
 这是一个算法的 Julia 版本，我也是用 Python 写的。如果您想了解我是如何编写 Python 等价物的，您可以在这里查看我写的关于它的文章:
 
-[](/automating-markup-with-python-and-html5-9054362e87ce) [## 使用 Python 和 HTML5 自动化标记
-
-### 使用原始 Python 处理 HTML5 非常容易，以便从字典数据创建 web 友好的表格。
-
-towardsdatascience.com](/automating-markup-with-python-and-html5-9054362e87ce) 
+</automating-markup-with-python-and-html5-9054362e87ce>  
 
 虽然这个函数并不太长，也没有写得很糟糕，但是很难看一眼就决定如何改进。使用命名方法，我们可以识别代码库的较小部分，并一部分一部分地工作，而不会被整个函数淹没。让我们把这个函数分成几个确定的部分，它们在算法中有不同的用途。第一部分代码我称之为“参数和变量初始化部分”这通常适用于大多数方法，因为这是相当常见的编程技术。这部分代码创建了一些需要在函数的其余部分引用的变量，还包括方法别名的定义及其参数:
 

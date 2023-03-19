@@ -134,23 +134,11 @@
 
 如果你想了解更多关于我的写作历程，请随时访问我的以下帖子:
 
-[](/the-hidden-gems-of-writing-analytics-6db78fad5a51) [## 写作分析的隐藏宝石
-
-### 这是我在谷歌工作、吸引被动收入、激励数据初级人员以及更多事情的黄金入场券
-
-towardsdatascience.com](/the-hidden-gems-of-writing-analytics-6db78fad5a51) 
+</the-hidden-gems-of-writing-analytics-6db78fad5a51>  
 
 还有更多对你有用的职业指导
 
-[](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1) [## 在数据分析面试中脱颖而出的 5 大经验
-
-### 从 Visa 和谷歌数据访谈中吸取的教训
-
-towardsdatascience.com](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1) [](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0) [## 数据分析很难……以下是你如何超越的方法
-
-### 我在 Google、Visa 和 Lazada 担任数据分析师/工程师 3 年来学到了什么
-
-towardsdatascience.com](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0) 
+</top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1>  </data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0>  
 
 最后，感谢 [Albert Bingei](https://medium.com/u/fcf6ad08f12d?source=post_page-----8b9c19a4255d--------------------------------) 和 [ranon sim](https://medium.com/u/3b62f7285717?source=post_page-----8b9c19a4255d--------------------------------) 快速阅读和评论本文。反馈很好！
 

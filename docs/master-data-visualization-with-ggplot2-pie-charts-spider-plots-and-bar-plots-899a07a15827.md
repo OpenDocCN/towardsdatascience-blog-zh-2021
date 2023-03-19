@@ -97,27 +97,7 @@
 
 本系列或使用`ggplot2`包的可视化的进一步阅读。
 
-[](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [## 使用 ggplot2 的主数据可视化:散点图和箱线图
-
-### 使用散点图和箱线图的数据可视化指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [## 使用 ggplot2 实现主数据可视化:直方图、条形图和密度图
-
-### 关于何时以及如何在 R 中使用直方图、条形图和密度图的指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) [## 为数据可视化创建自己的调色板——第 1 部分
-
-### 为数据可视化创建个人调色板的全面颜色指南。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) [](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) [## 为数据可视化创建自己的调色板——第 2 部分
-
-### 平衡色调、色调和饱和度，以生成完美的颜色渐变。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) 
+</master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26>  </master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </creating-your-own-color-palette-for-data-visualization-part-1-84df48954845>  </creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19>  
 
 参考
 

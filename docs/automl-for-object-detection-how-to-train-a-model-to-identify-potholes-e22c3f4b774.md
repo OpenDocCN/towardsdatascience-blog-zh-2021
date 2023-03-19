@@ -8,7 +8,7 @@
 
 来自我们训练的模型的坑洞预测和置信度得分-图片由作者提供
 
-初始算法选择和超参数优化是我个人不喜欢做的活动。如果你像我一样，那么也许你会喜欢[](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)****自动化机器学习，这是一种让脚本为我们完成这些耗时的 ML 任务的技术。****
+初始算法选择和超参数优化是我个人不喜欢做的活动。如果你像我一样，那么也许你会喜欢<https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml>****自动化机器学习，这是一种让脚本为我们完成这些耗时的 ML 任务的技术。****
 
 ****Azure Machine Learning (AML) 是一种云服务，它的一些功能使得准备和创建数据集、训练模型以及将它们部署为 web 服务变得更加容易。最近，反洗钱团队[发布了 AutoML for Images 功能供公众预览](https://techcommunity.microsoft.com/t5/azure-ai-blog/announcing-automated-ml-automl-for-images/ba-p/2843034)。今天，我们将使用该功能训练一个对象检测模型来[识别道路上的坑洞](https://public.roboflow.com/object-detection/pothole)。****
 

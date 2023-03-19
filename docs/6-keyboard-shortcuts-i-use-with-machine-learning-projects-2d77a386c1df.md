@@ -151,10 +151,6 @@ cmd + [，和 cmd + ]
 
 要了解更多关于我们如何优化，请看下面比快捷键更有价值的东西。
 
-[](/my-unfair-advantage-in-computing-resources-that-are-accessible-to-most-people-5bb95932f247) [## 我在大多数人都能使用的计算资源上的不公平优势
-
-### 如何以非常有优势的风格使用 Google Colab
-
-towardsdatascience.com](/my-unfair-advantage-in-computing-resources-that-are-accessible-to-most-people-5bb95932f247) 
+</my-unfair-advantage-in-computing-resources-that-are-accessible-to-most-people-5bb95932f247>  
 
 中级会员资格使我有可能学到足够的知识来为数据科学写作。 [***用我的个人链接***](https://twanchen.medium.com/membership) ***报名，然后在下面评论，我会给你发一个分享我全程的 pdf。***

@@ -36,11 +36,7 @@
 
 # 扬尼克·基尔彻
 
-[](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) [## 扬尼克·基尔彻
-
-### 我制作关于机器学习研究论文、编程和人工智能社区问题的视频，以及更广泛的…
-
-www.youtube.com](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) 
+<https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew>  
 
 Yannic Kilcher 最近完成了苏黎世联邦理工学院的博士学位。他自己是一名研究人员，所以他已经完全沉浸在研究世界中了。
 
@@ -56,11 +52,7 @@ Yannic Kilcher 最近完成了苏黎世联邦理工学院的博士学位。他�
 
 # 阿拉丁·佩尔森
 
-[](https://www.youtube.com/c/AladdinPersson/about) [## 阿拉丁·佩尔森
-
-### 我制作的视频大多与机器学习和深度学习有关，但有时我也会做其他随机的东西。我的目标…
-
-www.youtube.com](https://www.youtube.com/c/AladdinPersson/about) 
+<https://www.youtube.com/c/AladdinPersson/about>  
 
 Aladdin 是一名数学专业的学生，但他已经上传了许多实践教程，如关于 Pytorch、Tensorflow 的视频，以及论文的实现。
 
@@ -74,11 +66,7 @@ Aladdin 是一名数学专业的学生，但他已经上传了许多实践教程
 
 # 2 分钟纸
 
-[](https://www.youtube.com/user/keeroyz/) [## 两份会议记录文件
-
-### 活着是多么美好的时光啊！
-
-www.youtube.com](https://www.youtube.com/user/keeroyz/) 
+<https://www.youtube.com/user/keeroyz/>  
 
 这是发展迅速的最受欢迎的频道之一，在撰写本文时已经吸引了近百万的订户。
 
@@ -94,11 +82,7 @@ www.youtube.com](https://www.youtube.com/user/keeroyz/)
 
 # 亨利·艾实验室
 
-[](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) [## 亨利·艾实验室
-
-### 欢迎来到亨利人工智能实验室！我对深度学习和人工智能技术感到非常兴奋！我试着每周更新…
-
-www.youtube.com](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) 
+<https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw>  
 
 除了大量涵盖研究领域最新消息的视频外，该频道还发布与研究相关的视频。
 
@@ -110,11 +94,7 @@ www.youtube.com](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 
 # 蒂姆·斯卡夫的机器学习道场
 
-[](https://www.youtube.com/c/MachineLearningDojowithTimScarfe) [## 蒂姆·斯卡夫的机器学习道场
-
-### 欢迎来到机器学习道场 YouTube 频道！这个频道是由蒂姆·斯卡夫博士和一群…
-
-www.youtube.com](https://www.youtube.com/c/MachineLearningDojowithTimScarfe) 
+<https://www.youtube.com/c/MachineLearningDojowithTimScarfe>  
 
 这个频道由 Tim Scarfe 博士与其他人合作运营，在这里你不仅可以找到论文评论，还可以找到与项目相关的讨论、采访以及对机器学习主题的深入研究。
 
@@ -126,11 +106,7 @@ www.youtube.com](https://www.youtube.com/c/MachineLearningDojowithTimScarfe)
 
 # 深度学习的点滴
 
-[](https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg) [## 深度学习的点滴
-
-### 分解深度学习，一点一点。在这个频道中，我解释了我认为有用的深度学习论文…
-
-www.youtube.com](https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg) 
+<https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg>  
 
 该频道包括解释主要与计算机视觉、自然语言处理等相关的深度学习论文的视频。
 
@@ -142,11 +118,7 @@ www.youtube.com](https://www.youtube.com/channel/UCIUtWXPs66MFY-hOnETfqhg)
 
 # 机器学习和人工智能学院
 
-[](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos) [## 机器学习和人工智能学院
-
-### 为了让我们知道你们想知道什么，请随意填写这份调查…
-
-www.youtube.com](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos) 
+<https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos>  
 
 这个频道由一些已经完成博士学位的人组成。
 
@@ -158,11 +130,7 @@ www.youtube.com](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/videos
 
 # Arxiv 见解
 
-[](https://www.youtube.com/c/ArxivInsights) [## Arxiv 见解
-
-### 我的名字是史云光·斯廷布鲁格，我阅读了大量关于机器学习和人工智能的论文。但是纸张可能有点干燥
-
-www.youtube.com](https://www.youtube.com/c/ArxivInsights) 
+<https://www.youtube.com/c/ArxivInsights>  
 
 距离这个频道最后一次发布视频已经一年多了，到目前为止它只包含 11 个视频。
 

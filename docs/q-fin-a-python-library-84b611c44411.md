@@ -35,11 +35,7 @@ Levi Meir Clancy 在 [Unsplash](https://unsplash.com/s/photos/greek-statue?utm_s
 
 # GitHub 存储库:
 
- [## RomanMichaelPaolucci/Q-Fin
-
-### 数学金融的 Python 库。https://pypi.org/project/QFin/ pip 安装 qfin 理论期权定价…
-
-github.com](https://github.com/RomanMichaelPaolucci/Q-Fin) 
+  
 
 问 -Fin 是一个用于量化金融的(工作中的)Python 库，由不同的模块组成，用于帮助不同证券的定价。
 

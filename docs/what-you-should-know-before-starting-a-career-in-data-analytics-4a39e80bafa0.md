@@ -42,12 +42,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://madfordata.medium.com/why-i-love-being-a-data-analyst-4dc7130a2d1) [## 为什么我喜欢做数据分析师而不是数据科学家
-
-### 我做过的最好的职业选择
-
-madfordata.medium.com](https://madfordata.medium.com/why-i-love-being-a-data-analyst-4dc7130a2d1) [](https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439) [## 没有经验如何获得第一份数据分析师工作
-
-### 回答——这不仅仅是拥有技术技能
-
-madfordata.medium.com](https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439)
+<https://madfordata.medium.com/why-i-love-being-a-data-analyst-4dc7130a2d1>  <https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439> 

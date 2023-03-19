@@ -646,18 +646,10 @@ AD_SB 和 Dir_SB 特征高度相关
 
 完整的代码可以在我的 Github 档案中找到:
 
-[](https://github.com/kriz17/Home-Depot-Product-Search-Relevance) [## kriz 17/Home-Depot-产品-搜索-相关性
-
-### 通过在 GitHub 上创建一个帐户，为 kriz 17/Home-Depot-Product-Search-Relevance 开发做出贡献。
-
-github.com](https://github.com/kriz17/Home-Depot-Product-Search-Relevance) 
+<https://github.com/kriz17/Home-Depot-Product-Search-Relevance>  
 
 在 LinkedIn 上与我联系:
 
-[](https://www.linkedin.com/in/kriz-moses/) [## 印度中央邦克里兹·摩西-IIT·印多尔-印多尔| LinkedIn
-
-### 在全球最大的职业社区 LinkedIn 上查看 Kriz Moses 的个人资料。Kriz 的教育列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/kriz-moses/) 
+<https://www.linkedin.com/in/kriz-moses/>  
 
 **PS** :如果你认为他们可以改进这个博客，请随时提供意见/批评，我一定会努力做出必要的修改。

@@ -43,11 +43,7 @@
 
 在这篇文章中，你会找到前 4 个问题的所有答案(粗体)，因为文章越来越长，我把这些问题移到了第 2 部分，你可以在这里查看链接。
 
-[](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483) [## 到目前为止我是如何(不正确地)使用朴素贝叶斯的——第 2 部分
-
-### 这篇文章旨在帮助你更好地理解朴素贝叶斯。
-
-gautigadu091.medium.com](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483) 
+<https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483>  
 
 我们开始吧，
 
@@ -237,11 +233,7 @@ X.shape, y.shape
 
 对于剩余的问题，请查看下面链接中的第 2 部分:
 
-[](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483) [## 到目前为止我是如何(不正确地)使用朴素贝叶斯的——第 2 部分
-
-### 这篇文章旨在帮助你更好地理解朴素贝叶斯。
-
-gautigadu091.medium.com](https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483) 
+<https://gautigadu091.medium.com/how-i-was-using-naive-bayes-incorrectly-till-now-part-2-d31feff72483>  
 
 非常感谢你💖阅读这篇文章，我希望你对朴素贝叶斯的工作原理有一个清晰而深刻的理解。
 

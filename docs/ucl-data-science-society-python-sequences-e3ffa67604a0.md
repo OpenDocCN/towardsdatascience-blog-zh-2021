@@ -14,11 +14,7 @@
 
 如果您错过了，请参加上周的 Python 基础知识研讨会:
 
-[](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) [## UCL 数据科学协会:Python 基础
-
-### 研讨会 1: PY01
-
-towardsdatascience.com](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) 
+</ucl-data-science-society-python-fundamentals-3fb30ec020fa>  
 
 第二个工作坊是 Python 序列的介绍，包括 Python 代码中可以找到的四个主要数据结构`list`、`tuple`、`set`和`dictionary`。在我们开始之前，有一些关键短语需要理解:
 
@@ -279,24 +275,8 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership>  
 
 或者，如果您想阅读我的其他作品，请访问:
 
-[](/a-complete-data-science-curriculum-for-beginners-825a39915b54) [## 面向初学者的完整数据科学课程
-
-### UCL 数据科学协会:Python 介绍，数据科学家工具包，使用 Python 的数据科学
-
-towardsdatascience.com](/a-complete-data-science-curriculum-for-beginners-825a39915b54) [](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 工作坊 4:什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [](https://python.plainenglish.io/abstract-data-types-and-data-structures-in-programming-570d40cb4b44) [## 编程中的抽象数据类型和数据结构
-
-### 它们是什么，有何不同？
-
-python .平原英语. io](https://python.plainenglish.io/abstract-data-types-and-data-structures-in-programming-570d40cb4b44)
+</a-complete-data-science-curriculum-for-beginners-825a39915b54>  </ucl-data-science-society-object-oriented-programming-d69cb7a7b0be>  <https://python.plainenglish.io/abstract-data-types-and-data-structures-in-programming-570d40cb4b44> 

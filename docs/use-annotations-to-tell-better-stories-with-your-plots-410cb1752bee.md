@@ -88,15 +88,7 @@
 
 您可能还会对以下内容感兴趣:
 
-[](/learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86) [## 了解什么是深度图以及如何用 Python 创建深度图
-
-### 使用币安的 API 获取订单数据
-
-towardsdatascience.com](/learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86) [](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [## mpl finance——matplolib 相对不为人知的用于绘制金融数据的库
-
-### 包括快速创建图表的方法，如烛台，连科，或点和图
-
-towardsdatascience.com](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) [## 用 Python 创建交互式烛台图表的最简单方法
+</learn-what-a-depth-chart-is-and-how-to-create-it-in-python-323d065e6f86>  </mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd>  </the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8> [## 用 Python 创建交互式烛台图表的最简单方法
 
 towardsdatascience.com](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) 
 

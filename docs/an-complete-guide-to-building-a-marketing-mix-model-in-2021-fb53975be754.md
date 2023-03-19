@@ -152,17 +152,13 @@ plt.show()
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 
 **又一个！**
 
-[](/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437) [## 数据科学面试中你应该知道的五大 SQL 窗口函数
-
-### 关注数据科学家的重要概念。
-
-towardsdatascience.com](/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437) 
+</top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437>  
 
 # 特伦斯·申
 

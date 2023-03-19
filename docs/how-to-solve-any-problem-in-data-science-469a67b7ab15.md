@@ -181,4 +181,4 @@ is_pangram("The quick brown fox jumps over the lazy dog")
 
 Charles Mendelson 是 PitchBook 的营销数据分析师。他还在攻读哈佛扩展学院的心理学硕士学位。如果你正在为你的数据导向播客或 YouTube 频道寻找一位客人，与他联系的最佳方式是在 [LinkedIn](https://www.linkedin.com/in/charles-mendelson-carobert/) 上。
 
-*原载于 2021 年 2 月 11 日 https://charlesmendelson.com*[](https://charlesmendelson.com/tds/how-to-solve-any-problem-in-data-science/)**。**
+*原载于 2021 年 2 月 11 日 https://charlesmendelson.com*<https://charlesmendelson.com/tds/how-to-solve-any-problem-in-data-science/>**。**

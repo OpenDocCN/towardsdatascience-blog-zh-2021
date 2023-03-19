@@ -94,11 +94,7 @@ summ = Summarizers('patent')
 
 > 请参考我以前的一篇关于使用 Sumy 包进行文本摘要的文章:
 
-[](/summarize-long-text-documents-using-machine-learning-d49aaf5fc99a) [## 使用机器学习对长文本文档进行摘要
-
-### 厌倦了阅读长文本文档，使用开源 python 库对它们进行总结
-
-towardsdatascience.com](/summarize-long-text-documents-using-machine-learning-d49aaf5fc99a) 
+</summarize-long-text-documents-using-machine-learning-d49aaf5fc99a>  
 
 # 参考资料:
 

@@ -63,15 +63,7 @@
 
 除了时间，你还需要学习资源和足够的动力。关于如何找到免费资源和学习动机的指导，请参见我之前的文章。
 
-[](/why-motivation-is-the-key-to-learning-data-science-af6a1c47102b) [## 为什么动机是学习数据科学的关键
-
-### 设定正确的目标，创建自己的课程，制定学习路线图
-
-towardsdatascience.com](/why-motivation-is-the-key-to-learning-data-science-af6a1c47102b) [](/how-to-learn-data-science-for-free-eda10f04d083) [## 如何免费学习数据科学
-
-### 一个完整的学习路径，包括不花你一分钱的资源
-
-towardsdatascience.com](/how-to-learn-data-science-for-free-eda10f04d083) 
+</why-motivation-is-the-key-to-learning-data-science-af6a1c47102b>  </how-to-learn-data-science-for-free-eda10f04d083>  
 
 感谢阅读！
 

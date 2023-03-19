@@ -117,10 +117,6 @@ BERT 基础网络-隐藏层表示以绿色突出显示。
 
 如果您有兴趣了解关于 NLP 相似性度量的更多信息(包括我们在这里使用的余弦相似性)，请查看我写的这篇解释最流行的度量的文章:
 
-[](/similarity-metrics-in-nlp-acc0777e234c) [## 自然语言处理中的相似性度量
-
-### 欧几里德距离、点积和余弦相似度
-
-towardsdatascience.com](/similarity-metrics-in-nlp-acc0777e234c) 
+</similarity-metrics-in-nlp-acc0777e234c>  
 
 **所有图片均由作者提供，除非另有说明*

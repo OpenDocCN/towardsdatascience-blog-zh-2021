@@ -70,20 +70,8 @@ Yandex Zen pipeline 提供可扩展的结果，并让 Yandex 团队快速识别�
 
 更多细节，请观看 Natalia Kazachenko 关于她和她的团队开发的阶梯方法的演讲。如果你想了解更多关于如何自动化数据标注管道的信息，你也可以加入这个数据赋能的[社区](https://tolokacommunity.slack.com/join/shared_invite/zt-sxr745fr-dvfZffzvQTwNXOE0gEqysg#/shared-invite/email)。
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c) [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [## Jupyter 笔记本中的 8 大魔法命令
-
-### 通过学习最有用的命令来提高您的生产力
-
-towardsdatascience.com](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [## 关于 jupyter 笔记本你不知道的 9 件事
-
-### 用这些建议提高你的工作效率
-
-towardsdatascience.com](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)*
+*</jupyter-notebook-autocompletion-f291008c66c>  </top-8-magic-commands-in-jupyter-notebook-c1582e813560>  </9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3> *

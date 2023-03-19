@@ -12,15 +12,7 @@ ADF、KPSS、OSCB 和 CH 检验平稳性和稳定的季节性模式；以及如�
 
 [*黄色和棕色的小鸭子照片 Unsplash 上的自由动物形象*](https://unsplash.com/photos/JDzoTGfoogA)
 
- [## 临时 csv
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1bkLt2A4NnJ6_gk2y5ejZSHQEmvD0QYbY/view?usp=sharing)  [## 平稳鸭 05.ipynb
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1p8FFxeNq5gIngkRnMkPo4LM4caTLQez1/view?usp=sharing) 
+    
 
 我们的资料来源包括东达科他马州下泰德马什小镇(完全是虚构的)1200 个月的历史气温记录。下蒂德马什镇档案馆在 20 世纪 80 年代被一场厨房火灾摧毁，之后(或者，正如一些居民告诉我们的那样，因为)志愿消防队前来救援。温度记录必须通过采访两位百岁老人来重建。时间序列是合成的，由正弦季节成分组成，反映了东达科他州的严冬和温和的夏季；过去一个世纪的全球变暖趋势；和表示估计不确定性的白噪声分量。
 

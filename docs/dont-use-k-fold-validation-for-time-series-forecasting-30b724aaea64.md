@@ -100,11 +100,7 @@
 
 感谢您的阅读！在这篇文章中，我们介绍了交叉验证的基础知识，以及为什么需要对时间序列进行调整，如何将时间序列分割成多个折叠进行时间交叉验证，以及如何进行时间网格搜索和随机搜索交叉验证。
 
- [## 阅读亚历山德拉·阿米登(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-alexandra-amidon.medium.com](https://alexandra-amidon.medium.com/membership) 
+  
 
 # 参考资料和资源
 
@@ -112,8 +108,4 @@ alexandra-amidon.medium.com](https://alexandra-amidon.medium.com/membership)
 *   [sk time/window _ splitters . ipynb at main 艾伦图灵研究所/sktime GitHub](https://github.com/alan-turing-institute/sktime/blob/main/examples/window_splitters.ipynb)
 *   [时间序列嵌套交叉验证| Courtney Cochrane |走向数据科学](/time-series-nested-cross-validation-76adba623eb9)
 
-[](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) [## Sktime:用于时间序列机器学习的统一 Python 库
-
-### 用于时间序列预测、分类和回归的“sklearn”
-
-towardsdatascience.com](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55)
+</sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55> 

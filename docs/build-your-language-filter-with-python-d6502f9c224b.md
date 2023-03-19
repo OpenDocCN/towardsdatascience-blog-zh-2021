@@ -18,11 +18,7 @@
 
 有关如何使用深度学习从头开始构建聊天机器人的更多信息，请查看下面的文章。我们今天看到的脏话过滤器对这类应用也很有用，你可以选择过滤掉可能被你的聊天机器人认为是不适当的回复的文本。
 
-[](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
-
-### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
-
-towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) ![](img/fe69460f3f2df5562fbdb172273ba3b5.png)
+</innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc>  ![](img/fe69460f3f2df5562fbdb172273ba3b5.png)
 
 照片由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [Clément H](https://unsplash.com/@clemhlrdt?utm_source=medium&utm_medium=referral) 拍摄
 
@@ -147,26 +143,10 @@ censor(sentence)
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入 Medium-bharat K
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [## 用 Python 生成二维码，不到 10 行
-
-### 构建一个简单的 Python 项目，用 QR 码加密您的信息
-
-towardsdatascience.com](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [](/6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b) [## 你的人工智能和数据科学项目失败的 6 个原因
-
-### 分析导致你的人工智能和数据科学项目失败的 6 个主要原因
-
-towardsdatascience.com](/6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b) [](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) 
+</generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  </6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b>  </how-to-write-code-effectively-in-python-105dc5f2d293>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

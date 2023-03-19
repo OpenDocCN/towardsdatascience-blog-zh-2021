@@ -18,19 +18,11 @@
 
 通过本教程，我将以我的婚礼策划师应用为例(下面的链接)，来解释如何构建一个完整的 Dash web 应用，。
 
- [## 婚礼策划人
-
-### 编辑描述
-
-app-wedding-planner.herokuapp.com](https://app-wedding-planner.herokuapp.com/) 
+  
 
 我将展示一些有用的 Python 代码，这些代码可以很容易地应用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，以便您可以复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/App_Wedding) [## mdipietro09/App_Wedding
-
-### 婚礼策划 Web 应用程序。在 GitHub 上创建一个帐户，为 mdipietro09/App_Wedding 开发做贡献。
-
-github.com](https://github.com/mdipietro09/App_Wedding) 
+<https://github.com/mdipietro09/App_Wedding>  
 
 特别是，我将经历:
 
@@ -442,16 +434,4 @@ def **download_file**(dtf):
 
 > *本文是用 Python 开发**应用程序系列的一部分，参见:***
 
-*[](/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e) [## 如何在你的 Python Dash 应用中嵌入引导 CSS & JS
-
-### 使用 Dash Bootstrap 组件构建新冠肺炎感染预测应用程序
-
-towardsdatascience.com](/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e) [](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8) [## 构建和部署一个具有短期和长期记忆的电报机器人
-
-### 从头开始创建一个聊天机器人，用 Python 记住并提醒事件
-
-pub.towardsai.net](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8) [](/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a) [## 字符串匹配:用 Python 和 NLP 超越 Excel VLOOKUP
-
-### 为所有 Excel 爱好者(和讨厌者)构建一个字符串匹配应用程序
-
-towardsdatascience.com](/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)*
+*</how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e>  <https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8>  </surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a> *

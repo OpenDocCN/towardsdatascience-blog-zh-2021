@@ -46,7 +46,7 @@ is_qualified(9, 12, 9)
 
 ## all()函数
 
-编写这个函数的另一种方法是用[](https://docs.python.org/3/library/functions.html#all)**函数代替。**
+编写这个函数的另一种方法是用<https://docs.python.org/3/library/functions.html#all>**函数代替。**
 
 > **全部(可重复)**
 
@@ -132,10 +132,6 @@ is_qualified(9, 12, 9)
 
 ***如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。****
 
-***[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)*** 
+***<https://lmatalka90.medium.com/membership> *** 
 
 ***我希望这篇关于 ***any()*** 和 ***all()*** 函数的简短教程是有帮助的。感谢您的阅读！***

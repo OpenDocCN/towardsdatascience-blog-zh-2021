@@ -105,4 +105,4 @@ selected_features = np.array(features)[rfe.get_support()]
 
 www.yourdatateacher.com*上* [*教授机器学习和数据科学的数据科学家吉安卢卡·马拉托。*](http://www.yourdatateacher.com/)
 
-*原载于 2021 年 10 月 11 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/10/11/feature-selection-with-random-forest/)**。**
+*原载于 2021 年 10 月 11 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/10/11/feature-selection-with-random-forest/>**。**

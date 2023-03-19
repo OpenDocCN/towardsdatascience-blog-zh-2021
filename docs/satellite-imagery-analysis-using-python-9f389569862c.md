@@ -38,11 +38,7 @@
 
 卫星数据有 954 * 298 像素，12 个波段，光谱分辨率从 10 — 60 米不等。可以使用下面的链接下载数据。
 
-[](https://github.com/syamkakarla98/Satellite_Imagery_Analysis/tree/main/Data/sundarbans_data) [## syamkakarla 98/卫星图像分析
-
-### 实施不同的技术以从卫星数据中发现见解。…
-
-github.com](https://github.com/syamkakarla98/Satellite_Imagery_Analysis/tree/main/Data/sundarbans_data) 
+<https://github.com/syamkakarla98/Satellite_Imagery_Analysis/tree/main/Data/sundarbans_data>  
 
 # **数据分析**
 
@@ -198,48 +194,12 @@ Ferrous Minerals Ratio = SWIR / NIR
 
 *快乐学习！*
 
-[](https://github.com/syamkakarla98/Satellite_Imagery_Analysis) [## syamkakarla 98/卫星图像分析
-
-### 使用 Python 实现不同的方法来从卫星影像中寻找见解
-
-github.com](https://github.com/syamkakarla98/Satellite_Imagery_Analysis) 
+<https://github.com/syamkakarla98/Satellite_Imagery_Analysis>  
 
 # 更多来自作者
 
-[](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [## 超光谱图像分析—入门
-
-### 使用 Python 进行高光谱图像分析的演练。
-
-towardsdatascience.com](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [](/land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e) [## 利用深度神经网络对高光谱图像进行土地覆盖分类
-
-### 使用深度学习(DL)对使用 Python 的高光谱影像进行土地覆盖分类。
-
-towardsdatascience.com](/land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e) [](/land-cover-classification-of-satellite-imagery-using-convolutional-neural-networks-91b5bb7fe808) [## 利用卷积神经网络对卫星图像进行土地覆盖分类
-
-### 使用流行的深度学习架构之一(即卷积架构)对卫星影像进行土地覆盖分类
-
-towardsdatascience.com](/land-cover-classification-of-satellite-imagery-using-convolutional-neural-networks-91b5bb7fe808) [](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [## 使用 EarthPy 对卫星图像进行探索性数据分析
-
-### 在本文中，我们将使用 EarthPy 来处理卫星图像，并进行探索性数据分析(EDA)…
-
-towardsdatascience.com](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [](/autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b) [## 高光谱图像土地覆盖分类自动编码器第一部分
-
-### 使用 Python 使用自动编码器对高光谱图像进行土地覆盖分类的演练。
-
-towardsdatascience.com](/autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b) 
+</hyperspectral-image-analysis-getting-started-74758c12f2e9>  </land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e>  </land-cover-classification-of-satellite-imagery-using-convolutional-neural-networks-91b5bb7fe808>  </exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293>  </autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b>  
 
 # 参考
 
- [## EarthPy:用于地球数据的 Python 包——EarthPy 0 . 9 . 2 文档
-
-### EarthPy 是一个 python 包，它使使用开源软件绘制和处理空间栅格和矢量数据变得更加容易…
-
-earthpy.readthedocs.io](https://earthpy.readthedocs.io/en/latest/) [](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-sentinel-2?qt-science_center_objects=0#qt-science_center_objects) [## 美国地质勘探局 EROS 档案-哨兵-2
-
-### 回到产品概述，Sentinel 卫星群旨在提供陆地遥感数据…
-
-www.usgs.gov](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-sentinel-2?qt-science_center_objects=0#qt-science_center_objects) [](https://www.sentinel-hub.com/) [## 哨兵枢纽
-
-### Sentinel Hub -用于卫星图像的云 API
-
-www.sentinel-hub.com](https://www.sentinel-hub.com/)
+  <https://www.usgs.gov/centers/eros/science/usgs-eros-archive-sentinel-2?qt-science_center_objects=0#qt-science_center_objects>  <https://www.sentinel-hub.com/> 

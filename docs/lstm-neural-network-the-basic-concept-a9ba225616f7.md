@@ -29,11 +29,7 @@ LSTM 是深度学习中的一种递归神经网络，专门开发用于处理顺
 
 *需要对整个神经网络进行复习吗？*
 
-[](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491) [## 关于神经网络你需要知道的一切
-
-### 感谢:Kailash ahir war(Mate Labs 联合创始人兼首席技术官)
-
-hackernoon.com](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491) 
+<https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491>  
 
 *“由于 LSTMs 可以有效地捕捉长期的时间依赖性，而不会遭受困扰简单递归网络(srn)的优化障碍，因此它们已被用于推进许多困难问题的技术发展水平。这包括手写识别和生成、语言建模和翻译、语音声学建模、语音合成、蛋白质二级结构预测、音频和视频数据分析等。”*
 — Klaus Greff 等，LSTM:太空探索之旅，2015 年
@@ -92,11 +88,7 @@ hackernoon.com](https://hackernoon.com/everything-you-need-to-know-about-neural-
 
 *关于激活功能(tanh 和 sigmoid)的更多信息:*
 
-[](https://deepai.org/machine-learning-glossary-and-terms/activation-function) [## 激活功能
-
-### 激活函数是在人工神经网络中使用的函数，它为小输入输出小值…
-
-deepai.org](https://deepai.org/machine-learning-glossary-and-terms/activation-function) 
+<https://deepai.org/machine-learning-glossary-and-terms/activation-function>  
 
 数据在细胞间移动的整个过程发生在一个细胞中。但是在实际模型中，在得出最终结论之前，无论添加多少层，每层都可以有任意数量的单元。
 

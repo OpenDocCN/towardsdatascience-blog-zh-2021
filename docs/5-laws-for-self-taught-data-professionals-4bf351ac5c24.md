@@ -16,11 +16,7 @@
 
 数据职业涵盖了很大范围的角色(查看 [*数据相关角色概述*](/overview-of-data-related-roles-70ca48f8deed) 以了解相关概念)。虽然数据专业人员旗下的每个角色都有自己的技术要求，但我所谓的智慧并没有延伸到这些要求，我在这一过程中学到了一些普遍适用的规律，这些规律帮助我走到了今天。
 
-[](/3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d) [## 从任何领域过渡到数据科学的 3 个技巧
-
-### 没有确定的路径
-
-towardsdatascience.com](/3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d) 
+</3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d>  
 
 ## #1 获得所有权
 
@@ -54,11 +50,7 @@ towardsdatascience.com](/3-tips-to-transition-into-data-science-from-any-field-6
 
 我不知道这是否叫做吸引力法则——老实说，我并不在乎它叫什么——但我很喜欢把你的能量释放到这个世界上，然后让它吸引它所吸引的东西。我的意思是，在分享你正在做的事情、学习的内容、正在做的事情等方面保持一致，因为世界上还有其他人对你的能力感兴趣，然而，除非你让他们知道，否则他们永远不会知道你拥有这些能力。
 
-[](/dont-waste-time-building-your-data-science-network-2c336690dee4) [## 不要浪费时间构建您的数据科学网络
-
-### 专注于重要的事情
-
-towardsdatascience.com](/dont-waste-time-building-your-data-science-network-2c336690dee4) 
+</dont-waste-time-building-your-data-science-network-2c336690dee4>  
 
 你绝对不会吸引所有人，但对那些你确实吸引的人来说，他们会为你做得更多——这可能意味着打电话给人力资源部，坚持要求设立一个新职位，这样你就可以被聘用。
 
@@ -74,11 +66,7 @@ towardsdatascience.com](/dont-waste-time-building-your-data-science-network-2c33
 
 我能想到的最常见的例子是在找工作的时候；在找工作的时候，很多人都想 100%满足工作规范中的要求，在我看来这是非常不现实的，因为如果你做到了，就意味着你大材小用了。承担一个新的角色时，你必须有发展的空间，所以如果是这样的话，你也可以去做(特别是如果你达到了 70%或更多的标准)。
 
-[](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96) [## 克服数据科学骗子综合症的 5 招
-
-### 从我个人的经验来看…
-
-towardsdatascience.com](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96) 
+</5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96>  
 
 每当你要在职业生涯中迈出一大步时，永远不会有你准备好的时刻，你只需要跳下去。
 
@@ -106,10 +94,6 @@ towardsdatascience.com](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc
 
 ## **相关文章**
 
-**[](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) [## 3 种方法可以极大地提高你自己的编程技能
-
-towardsdatascience.com](/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099) [](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [## 如何创建引人注目的 Github 产品组合
-
-towardsdatascience.com](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) [## 当我意识到数据科学证书不会推动我的职业发展时
+**</3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099>  </the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72> [## 当我意识到数据科学证书不会推动我的职业发展时
 
 towardsdatascience.com](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72)**

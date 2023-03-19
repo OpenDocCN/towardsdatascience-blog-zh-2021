@@ -8,15 +8,7 @@
 
 在我之前的两篇文章中，我谈到了如何测量数据集中各列之间的相关性，以及如何检测它们之间的多重共线性:
 
-[](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) [## Python 中的统计学-了解方差、协方差和相关性
-
-### 理解你的数据之间的关系，知道皮尔逊相关系数和…
-
-towardsdatascience.com](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) [](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) [## Python 中的统计数据-共线性和多重共线性
-
-### 了解如何发现数据集中的多重共线性
-
-towardsdatascience.com](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) 
+</statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01>  </statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f>  
 
 然而，当你试图比较的变量是*连续的*时，这些技术是有用的。如果你的变量是*分类的*，你如何比较它们？在本文中，我将向您解释如何测试数据集中的两个分类列，以确定它们是否相互依赖(即相关)。我们将使用一个称为**卡方**的统计检验(通常写成 ***χ* 2** )。
 
@@ -465,8 +457,4 @@ print(f'Chi2_score: {chi_score}, Degrees of freedom: {degree_f}, p-value: {p}')#
 
 **我希望您现在对卡方如何工作以及如何将其用于机器学习中的特征选择有了更好的理解。我的下一篇文章再见！**
 
-**[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)**
+**<https://weimenglee.medium.com/membership> **

@@ -10,11 +10,7 @@ Jase Bloor 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 当我们想要发现数据的底层结构时，无监督学习是一个很好的解决方案。与监督学习相比，我们不能将非监督方法应用于分类或回归类型的问题。这是因为无监督的 ML 算法从未标记的数据中学习模式，而我们需要知道输入-输出映射来执行分类或回归(在大多数情况下，我将在后面谈到这一点)。本质上，我们的无监督学习算法将发现数据中的隐藏模式或分组，而不需要人类(或任何人)标记数据或以任何其他方式干预。
 
-[](/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3) [## 机器学习中分类和回归的区别
-
-### 函数逼近问题
-
-towardsdatascience.com](/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3) 
+</the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3>  
 
 ## 接近无监督学习
 
@@ -60,16 +56,4 @@ towardsdatascience.com](/the-difference-between-classification-and-regression-in
 
 ## **相关文章**
 
-**[](/the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943) [## 学习机器学习和数据科学 Python 的最佳资源
-
-### 挑一个，永不回头
-
-towardsdatascience.com](/the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943) [](https://medium.com/geekculture/how-to-get-paid-to-learn-data-science-machine-learning-37c9088ab925) [## 学习数据科学和机器学习如何获得报酬
-
-### 如果我能做到，你也能
-
-medium.com](https://medium.com/geekculture/how-to-get-paid-to-learn-data-science-machine-learning-37c9088ab925) [](/the-best-machine-learning-blogs-resources-to-follow-f8177ab4f08f) [## 值得关注的最佳机器学习博客和资源
-
-### 不断更新的资源
-
-towardsdatascience.com](/the-best-machine-learning-blogs-resources-to-follow-f8177ab4f08f)**
+**</the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943>  <https://medium.com/geekculture/how-to-get-paid-to-learn-data-science-machine-learning-37c9088ab925>  </the-best-machine-learning-blogs-resources-to-follow-f8177ab4f08f> **

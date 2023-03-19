@@ -54,7 +54,7 @@
 
 **数据科学和机器学习本质上是统计学的现代版本。通过先学习统计学，在学习机器学习概念和算法时，你会轻松得多。**
 
-***我创建了一个完整的 52 周课程，其中前 6 周专门用于统计，你可以在这里查看*[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)**。****
+***我创建了一个完整的 52 周课程，其中前 6 周专门用于统计，你可以在这里查看*</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>**。****
 
 ## ***7.了解你正在解决的问题的参数。***
 
@@ -163,19 +163,11 @@
 
 *****不确定接下来该读什么？我为你挑选了另一篇文章:*****
 
-***[](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) [## 2021 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) 
+***</all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

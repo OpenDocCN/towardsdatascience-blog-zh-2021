@@ -16,11 +16,7 @@
 
 在本教程中，我们将使用高光谱 Gulfport 数据集。您可以从以下链接下载数据。
 
-[](https://github.com/GatorSense/MUUFLGulfport) [## GitHub-gator sense/muuflgulport:MUUFL gulf port 超光谱和激光雷达数据:该数据集…
-
-### MUUFL Gulfport 超光谱和激光雷达数据:该数据集包括 HSI 和激光雷达数据，评分代码，照片…
-
-github.com](https://github.com/GatorSense/MUUFLGulfport) 
+<https://github.com/GatorSense/MUUFLGulfport>  
 
 MUUFL Gulfport 数据包含基于像素的地面真实地图，该地图通过手动标注场景中的像素来提供。在场景树中标记了以下类别，主要是草地、地面、混合地面、泥土和沙子、道路、水、建筑物、建筑物的阴影、人行道、黄色路缘、布料面板(目标)和未标记的点。
 
@@ -76,24 +72,4 @@ PCA 前的数据维数为 65，PCA 后的数据维数为 3。主成分分析将�
 
 # 参考
 
-[](https://github.com/GatorSense/MUUFLGulfport) [## GitHub-gator sense/muuflgulport:MUUFL gulf port 超光谱和激光雷达数据:该数据集…
-
-### MUUFL Gulfport 超光谱和激光雷达数据:该数据集包括 HSI 和激光雷达数据，评分代码，照片…
-
-github.com](https://github.com/GatorSense/MUUFLGulfport) [](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) [## sklearn.svm.SVC
-
-### c-支持向量分类。该实现基于 libsvm。拟合时间至少与…成二次比例
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) [](https://machinelearningmastery.com/k-fold-cross-validation/) [## k-fold 交叉验证的温和介绍-机器学习掌握
-
-### 交叉验证是一种统计方法，用于评估机器学习模型的技能。它通常用于…
-
-machinelearningmastery.com](https://machinelearningmastery.com/k-fold-cross-validation/) [](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) [## sklearn.decomposition.PCA
-
-### 主成分分析。使用数据的奇异值分解进行线性降维…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) [](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/) [## 如何在 Python -机器学习掌握中使用 StandardScaler 和 MinMaxScaler 变换
-
-### 当数字输入变量被缩放到标准范围时，许多机器学习算法表现得更好。这个…
-
-machinelearningmastery.com](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
+<https://github.com/GatorSense/MUUFLGulfport>  <https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html>  <https://machinelearningmastery.com/k-fold-cross-validation/>  <https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html>  <https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/> 

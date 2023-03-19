@@ -26,11 +26,7 @@ from pandas import ***DataFrame***
 from timeit import ***timeit***
 ```
 
-[](/become-a-more-efficient-python-programmer-3850c94b95a4) [## 成为更高效的 Python 程序员
-
-### 了解用 Python 创建列表和完成其他任务的最佳方式
-
-towardsdatascience.com](/become-a-more-efficient-python-programmer-3850c94b95a4) 
+</become-a-more-efficient-python-programmer-3850c94b95a4>  
 
 ## 创建函数
 
@@ -62,11 +58,7 @@ def ***tabulate_table***():
 
 *详细了解* ***制表*** *功能:*
 
-[](/how-to-easily-create-tables-in-python-2eaea447d8fd) [## 如何在 Python 中轻松创建表格
-
-### 如何在 Python 中使用制表函数创建格式良好的表格
-
-towardsdatascience.com](/how-to-easily-create-tables-in-python-2eaea447d8fd) 
+</how-to-easily-create-tables-in-python-2eaea447d8fd>  
 
 ## 使用数据帧的函数
 
@@ -101,10 +93,6 @@ Time for DataFrame: 6.2918465999991895s
 
 *如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [*链接*](https://lmatalka90.medium.com/membership) *报名，我就赚一小笔佣金。**
 
-*[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)* 
+*<https://lmatalka90.medium.com/membership> * 
 
 **我希望你喜欢这个* ***制表*** *和* ***数据帧*** *函数之间的性能比较。感谢您的阅读！**

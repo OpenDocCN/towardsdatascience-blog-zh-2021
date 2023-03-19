@@ -159,16 +159,4 @@ $ python3
 
 # 你可能也喜欢
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+</dynamic-typing-in-python-307f7c22b24e>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

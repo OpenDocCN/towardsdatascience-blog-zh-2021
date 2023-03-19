@@ -14,7 +14,7 @@
 
 如果你正在寻找其他深入的话题，本周你会有所收获——TDS 的贡献者们最近讨论了很多。
 
-*   [](/clustering-and-parkinsons-patients-during-covid-19-5552c005cfd9)**探索集群产生公共卫生洞察力的力量。毫无疑问，你们许多人都知道新冠肺炎是如何让弱势患者的生活变得比平时更加艰难的。 [Christabelle Pabalan](https://medium.com/u/4200eb8e8b26?source=post_page-----60f1b850023a--------------------------------) 和合著者 Victor Nazlukhanyan 和 Daniel Carrera 决定对其中一组进行更深入的研究，并展示了疫情对帕金森患者的复合效应。**
+*   </clustering-and-parkinsons-patients-during-covid-19-5552c005cfd9>**探索集群产生公共卫生洞察力的力量。毫无疑问，你们许多人都知道新冠肺炎是如何让弱势患者的生活变得比平时更加艰难的。 [Christabelle Pabalan](https://medium.com/u/4200eb8e8b26?source=post_page-----60f1b850023a--------------------------------) 和合著者 Victor Nazlukhanyan 和 Daniel Carrera 决定对其中一组进行更深入的研究，并展示了疫情对帕金森患者的复合效应。**
 *   **[**考虑构建和扩展数据团队的简化方法**](/using-microservices-to-build-and-scale-data-functions-28d47f400419) 。在 Instagram 和 Spaceship 上成立数据团队后， [Chris Dowsett](https://medium.com/u/bf9d4923698f?source=post_page-----60f1b850023a--------------------------------) 分享了这个过程中的关键经验，这个过程可能会让人感到困惑，如果不是完全混乱的话。受微服务架构的启发，Chris 推荐了一个路线图，将任务分成小部分，保持工作流的灵活性并易于改进。**
 *   **[**阅读解决性别偏见的创造性方法**](/meeting-women-where-they-are-3735b0bd362d) 。Nina Sweeney[肩负着为一个促进科技领域性别平等的组织增加曝光率和影响力的任务，她依靠自己的数据分析能力找到了目标受众最有可能接触到其信息的纽约地铁站。](https://medium.com/u/6e209ee7d400?source=post_page-----60f1b850023a--------------------------------)**
 *   **[**利用数据科学击败你的朋友和家人，垄断**](/author-spotlight-7b86e0c683b9) 。如果你对游戏之夜的长时间连败感到沮丧，或者即使你只是对数据科学和棋盘游戏的意外交集感到好奇，也不要错过我们最近与[杰克·米切尔](https://medium.com/u/3d9ea428abd9?source=post_page-----60f1b850023a--------------------------------)的对话，他的系列文章探讨了 Chutes & Ladders、Monopoly、Connect 4 和其他游戏背后的统计数据。**

@@ -20,11 +20,7 @@
 
 老实说...进入数据科学领域非常困难，原因有很多。然而，我最近意识到，大部分困难在于“数据科学家”一词包含如此多不同的技术素质，以至于一个人几乎不可能满足所有这些标准并在每个领域保持最新，这没关系！
 
-[](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) [## 获得数据科学工作比以往任何时候都难
-
-### 以及如何利用找工作的困难成为你的优势
-
-towardsdatascience.com](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) 
+</getting-a-data-science-job-is-harder-than-ever-fb796aae1922>  
 
 我一直在听首席数据科学家兼领英 2019 年顶级声音 [Vin Vashishta](https://www.linkedin.com/in/vineetvashishta/) 讲话，他认为**为了更好地定义角色，从业者必须更加专业化**。实际上，我喜欢这个想法，因为它要求从业者投入更多的时间来战略性地规划他们想如何将自己推向市场，以及他们认为他们如何能够增加价值。
 
@@ -42,11 +38,7 @@ towardsdatascience.com](/getting-a-data-science-job-is-harder-than-ever-fb796aae
 
 这里有一篇文章，我相信它更深入地探讨了专业化的概念:
 
-[](https://www.simplilearn.com/why-every-data-scientist-needs-to-specialize-article) [## 为什么每个数据科学家都需要专业化
-
-### 据预测，未来十年将没有数据科学家的工作——数据科学职称的泡沫…
-
-www.simplilearn.com](https://www.simplilearn.com/why-every-data-scientist-needs-to-specialize-article) 
+<https://www.simplilearn.com/why-every-data-scientist-needs-to-specialize-article>  
 
 ## 分手
 
@@ -98,16 +90,4 @@ TargetJobs 将数据分析师的角色描述为:
 
 ## 相关文章
 
-[](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) [## 从长远来看，专业化的“数据科学家”将会胜出
-
-### 成为专家会比成为多面手让你走得更远
-
-towardsdatascience.com](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) [](/tips-to-land-a-data-science-role-in-2021-465dbb409f19) [## 2021 年获得数据科学职位的提示
-
-### 遵循这个指南
-
-towardsdatascience.com](/tips-to-land-a-data-science-role-in-2021-465dbb409f19) [](/overview-of-data-related-roles-70ca48f8deed) [## 数据相关角色概述
-
-### 不同视角的数据
-
-towardsdatascience.com](/overview-of-data-related-roles-70ca48f8deed)
+</the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00>  </tips-to-land-a-data-science-role-in-2021-465dbb409f19>  </overview-of-data-related-roles-70ca48f8deed> 

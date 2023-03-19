@@ -34,11 +34,7 @@
 
 已经尝试使用 NMR(核磁共振)、低温电子显微镜和 X 射线晶体学来精确定义蛋白质的折叠，尽管这些方法仍然非常昂贵和耗时。最近，DeepMind 在机器学习方面的进展导致了 [AlphaFold](https://deepmind.com/research/open-source/alphafold_casp13) :一个能够预测蛋白质属性的神经网络给出了它的基因序列。令人难以置信的结果已经实现(更多信息见视频和下面的链接)
 
-[](https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a) [## 5 款酷炫的人工智能药物发现工具
-
-### 利用机器学习的力量和开源工具进行药物研发
-
-medium.com](https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a) 
+<https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a>  
 
 然而，Alphafold(及其扩展)受到神经网络近似的限制。我们在这里可以提出的问题是，是否有其他方法可以更有效、更快速地预测蛋白质折叠。
 
@@ -95,11 +91,7 @@ D-Wave 系统是专门设计来通过量子退火寻找解决方案的。此外�
 
 您可以通过 D-wave (1 分钟免费，其余时间付费)或通过 Amazon Braket 请求访问:
 
-[](/use-a-quantum-cloud-for-almost-free-13da8f1dfa34) [## (几乎)免费使用量子云
-
-### 实用量子计算 AWS Braket 101
-
-towardsdatascience.com](/use-a-quantum-cloud-for-almost-free-13da8f1dfa34) 
+</use-a-quantum-cloud-for-almost-free-13da8f1dfa34>  
 
 第一步是导入必要的库
 

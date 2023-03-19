@@ -175,11 +175,7 @@
 
 **看看这个很棒的帖子**
 
-**[](/5-tips-to-start-a-career-in-data-211ad15a7ca8) [## 开始数据职业生涯的 5 个技巧
-
-### 让我成为一名跨国公司数据科学家的步骤
-
-towardsdatascience.com](/5-tips-to-start-a-career-in-data-211ad15a7ca8) 
+**</5-tips-to-start-a-career-in-data-211ad15a7ca8>  
 
 # 参考
 

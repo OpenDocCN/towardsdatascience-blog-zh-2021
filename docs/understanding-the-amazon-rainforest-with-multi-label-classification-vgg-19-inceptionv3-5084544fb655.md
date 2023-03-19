@@ -62,11 +62,7 @@
 
 该数据集可在以下位置找到:
 
-[](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) [## 星球:从太空了解亚马逊
-
-### 使用卫星数据追踪亚马逊雨林中的人类足迹
-
-www.kaggle.com](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) 
+<https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview>  
 
 ## 计算机视觉；Conv 网络架构
 

@@ -254,18 +254,6 @@ Streamlit 提供了许多功能和组件，您可以使用这些功能和组件�
 
 *最后一件事:在以下链接中阅读更多类似的文章*
 
-[](https://python.plainenglish.io/how-to-use-google-trends-api-with-python-d00837349369) [## 如何在 Python 中使用 Google Trends API
-
-### 谷歌趋势网站提供了基于各种标准的谷歌搜索不同搜索结果的分析…
-
-python .平原英语. io](https://python.plainenglish.io/how-to-use-google-trends-api-with-python-d00837349369) [](https://medium.datadriveninvestor.com/nlp-datasets-from-huggingface-how-to-access-and-train-them-8852c2aca74) [## 来自 HuggingFace 的 NLP 数据集:如何访问和训练它们
-
-### 拥抱脸的数据集库提供了一个非常有效的方法来加载和处理原始文件或…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/nlp-datasets-from-huggingface-how-to-access-and-train-them-8852c2aca74) [](https://medium.datadriveninvestor.com/pycaret-a-faster-way-to-build-machine-learning-models-d4cbce6a6633) [## Pycaret:一种构建机器学习模型的更快方法
-
-### 建立一个机器学习模型需要一系列的步骤，从数据准备，数据清洗，特征…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/pycaret-a-faster-way-to-build-machine-learning-models-d4cbce6a6633) 
+<https://python.plainenglish.io/how-to-use-google-trends-api-with-python-d00837349369>  <https://medium.datadriveninvestor.com/nlp-datasets-from-huggingface-how-to-access-and-train-them-8852c2aca74>  <https://medium.datadriveninvestor.com/pycaret-a-faster-way-to-build-machine-learning-models-d4cbce6a6633>  
 
 *本文首发* [*此处*](https://hackernoon.com/how-to-use-streamlit-and-python-to-build-a-data-science-app) *。*

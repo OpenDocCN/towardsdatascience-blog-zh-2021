@@ -14,11 +14,7 @@
 
 它们可能不是每个人都喜欢的学习方法，但我们都承认，在某个时候，我们都会回去找一本书来查找信息。书籍不会神奇地教你一项技能；就像任何其他形式的学习一样，你需要付出努力并愿意学习，这样你就可以充分利用任何书籍或学习资源。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 可以说，数据科学拥有无限数量的在线和离线学习资源。而你只能预测，资源的数量会随着领域的变大而变大。在过去的几年里，有那么多的数据科学书籍以你喜欢的语言出版。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-d
 
 这本书涵盖了数据科学中使用的主要语言和术语，从数学、统计学到机器学习和人工智能。基本上，如果你对数据科学完全陌生，这本书是很好的第一步。
 
-[](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) [## 您现在可以开始学习的 5 门在线数据科学课程
-
-### 在家舒适地学习数据科学的所有基础知识。
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) 
+</5-online-data-science-courses-you-can-start-now-748e4a2b5403>  
 
 # №2:测量和数据科学[加博尔·佩李策](https://www.google.com/search?hl=en&sxsrf=ALeKk02I9V25M_6MZut63XMKb57B0O5wQw:1618438516858&q=inauthor:%22G%C3%A1bor+P%C3%A9celi%22&tbm=bks)
 
@@ -54,11 +46,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2
 
 这本 216 页的书将带你学习这两种编程语言，重点是数据科学，而不是抽象和一般的语法。您将学习如何用两种语言同时执行统计、优化、构建预测模型等。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # №4:由[何西阿·德罗斯基](https://www.google.com/search?hl=en&sxsrf=ALeKk035JBHCPcejZTXjRy9BXSp0K8LTaA:1618438551352&q=inauthor:%22Hosea+Droski%22&tbm=bks)撰写的初学者数据分析指南
 
@@ -76,11 +64,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 这本书深入探讨了线性代数在机器学习优化中的应用。它涵盖了如何执行许多重要的应用程序，如奇异值分解(SVD)，图形分析，矩阵分解，等等。它还涵盖了为什么机器学习模型需要优化，以及何时和如何这样做。这本书是我们清单上最长的一本书，将近 500 页。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # 外卖食品
 

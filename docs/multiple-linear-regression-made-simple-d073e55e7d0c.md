@@ -517,7 +517,7 @@ dat$vs <- fct_recode(dat$vs,
 4.  **无影响点** ( [异常值](https://statsandr.com/blog/outliers-detection-in-r/))
 5.  但是多元线性回归还有一个条件:
 
-**无多重共线性:**当自变量之间存在强线性[](https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/)****相关性时，出现多重共线性，条件是模型中的其他变量。检查它是很重要的，因为当变量改变时，它可能导致估计参数的不精确或不稳定。可以通过研究每对独立变量之间的相关性来评估，或者更好的是，通过计算方差膨胀因子(VIF)来评估。相对于解释变量严格独立的情况，VIF 衡量估计回归系数的方差增加了多少。高 VIF 值是多重共线性的标志(根据域的不同，阈值通常为 5 或 10)。减少 VIF 最简单的方法是去除一些相关的独立变量，或者最终将数据标准化。****
+**无多重共线性:**当自变量之间存在强线性<https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/>****相关性时，出现多重共线性，条件是模型中的其他变量。检查它是很重要的，因为当变量改变时，它可能导致估计参数的不精确或不稳定。可以通过研究每对独立变量之间的相关性来评估，或者更好的是，通过计算方差膨胀因子(VIF)来评估。相对于解释变量严格独立的情况，VIF 衡量估计回归系数的方差增加了多少。高 VIF 值是多重共线性的标志(根据域的不同，阈值通常为 5 或 10)。减少 VIF 最简单的方法是去除一些相关的独立变量，或者最终将数据标准化。****
 
 1.  **你会经常看到这些条件通过运行`plot(model, which = 1:6)`得到验证，完全正确。然而，我最近从`{performance}`包中发现了`check_model()`函数，它同时测试所有这些条件(老实说，以一种更优雅的方式)。 [9](https://statsandr.com/blog/multiple-linear-regression-made-simple/#fn9)**
 
@@ -1015,6 +1015,6 @@ visreg(model6, "wt", by = "am")
 *   **[R 中的离群点检测](https://statsandr.com/blog/outliers-detection-in-r/)**
 *   **[R 中的 Wilcoxon 检验:如何在非正态假设下比较两组](https://statsandr.com/blog/wilcoxon-test-in-r-how-to-compare-2-groups-under-the-non-normality-assumption/)**
 *   **[R 中的相关系数和相关检验](https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/)**
-*   ***原载于 2021 年 10 月 4 日 https://statsandr.com*[](https://statsandr.com/blog/multiple-linear-regression-made-simple/)**。****
+*   ***原载于 2021 年 10 月 4 日 https://statsandr.com*<https://statsandr.com/blog/multiple-linear-regression-made-simple/>**。****
 
 ****Originally published at* [*https://statsandr.com*](https://statsandr.com/blog/multiple-linear-regression-made-simple/) *on October 4, 2021.****

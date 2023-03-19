@@ -16,11 +16,7 @@ SVM 试图找到最大边界(图片由作者提供)
 
 如果你是数据科学的绝对初学者，并且还不理解监督学习和非监督学习之间的区别，那么我建议你阅读我之前的文章，该文章假设完全没有先验知识，并使用一个故事来帮助你理解这些术语。
 
-[](/learning-from-data-a-birds-eye-view-4e47bd53be8f) [## 从数据中学习:鸟瞰
-
-### 一个穴居人，艾萨克·牛顿和一个数据科学家讨论从数据中学习:从史前学会生火…
-
-towardsdatascience.com](/learning-from-data-a-birds-eye-view-4e47bd53be8f) 
+</learning-from-data-a-birds-eye-view-4e47bd53be8f>  
 
 在数据科学的生态系统中，SVM 是一种非常受欢迎的算法，可以帮助你解决监督学习中的两种类型的机器学习问题:分类和回归。在分类中，我们希望开发一种算法，可以帮助我们预测一个“类”(从一组离散的可能性中做出的特定预测)。分类的一些例子是垃圾邮件与非垃圾邮件，从图像中识别 0-9 位数字中的任何一个，有病与没病(希望你明白)。在回归分析中，我们预测的是一个“连续的”输出(例如，房子的价格，或者从[大脑信号](https://ieeexplore.ieee.org/abstract/document/8370651)预测的力量)。
 
@@ -72,12 +68,4 @@ SVM 可以帮助我们解决分类和回归问题。然而，SVM 背后的数学
 
 如果你喜欢读这篇文章，那么你可以考虑阅读下一篇文章，在这篇文章中，SVM 方程是用几何直觉推导出来的。
 
-[](/understand-support-vector-machines-5bfe800a0e03) [## 理解支持向量机
-
-### 一个初学者友好的 SVM 方程推导与直观的解释。
-
-towardsdatascience.com](/understand-support-vector-machines-5bfe800a0e03) [](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)
+</understand-support-vector-machines-5bfe800a0e03>  <https://ahmarshah.medium.com/membership> 

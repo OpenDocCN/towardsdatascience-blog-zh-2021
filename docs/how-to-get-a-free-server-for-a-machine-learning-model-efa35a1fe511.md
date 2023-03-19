@@ -128,11 +128,7 @@ AWS 管理控制台(图片由作者提供)。
 
 要部署基于 pandas 的数据分析服务器，请参见:
 
-[](/pandas-analytics-server-d64d20ef01be) [## 熊猫 Web API
-
-### 这是一个开源项目，简化了熊猫与实时数据的连接，测试假设和可视化…
-
-towardsdatascience.com](/pandas-analytics-server-d64d20ef01be) 
+</pandas-analytics-server-d64d20ef01be>  
 
 # 10.将机器学习模型部署到服务器
 

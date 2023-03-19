@@ -14,7 +14,7 @@
 
 测试是解决软件缺陷和问题的行业标准技术。测试不仅对于修复错误很重要，对于监控软件中隐含的变化也很重要。有时，依赖的方法或类型可能会被意外地完全改变，测试可以让你在最终将你的软件推向精通之前意识到这一点。今天，我想回顾一下 Python 编程语言的测试基础，这样你就可以放心地编写代码了！另外，对于那些也喜欢用 Julia 编程或者只是好奇的人，我也有另一篇用 Julia 做同样事情的文章！：
 
-[](/how-to-test-your-software-with-julia-4050379a9f3) [## 如何用 Julia 测试你的软件
+</how-to-test-your-software-with-julia-4050379a9f3> [## 如何用 Julia 测试你的软件
 
 towardsdatascience.com](/how-to-test-your-software-with-julia-4050379a9f3) 
 

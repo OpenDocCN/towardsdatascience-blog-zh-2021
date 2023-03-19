@@ -253,18 +253,6 @@ import joblib joblib.dump(sentiment_classifier, '../models/sentiment_model_pipel
 
 ***最后一件事:*** *在以下链接阅读更多类似这样的文章。*
 
-[](https://medium.com/geekculture/scikit-learn-0-24-top-5-new-features-you-need-to-know-7af15d8cdeac) [## sci kit-学习 0.24:您需要了解的 5 大新功能
-
-### Scikit-learn 仍然是最受欢迎的 Python 开源免费机器学习库之一。的…
-
-medium.com](https://medium.com/geekculture/scikit-learn-0-24-top-5-new-features-you-need-to-know-7af15d8cdeac) [](/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215) [## 通过组合分类特征提高 ML 模型性能
-
-### 提高机器学习模型性能的简单技巧。
-
-towardsdatascience.com](/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215) [](https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10) [## 如何免费部署机器学习模型— 7 ML 模型部署云平台
-
-### 我记得我第一次创建一个简单的机器学习模型。这是一个可以预测你工资的模型…
-
-medium.com](https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10) 
+<https://medium.com/geekculture/scikit-learn-0-24-top-5-new-features-you-need-to-know-7af15d8cdeac>  </improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215>  <https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10>  
 
 *以前在这里发表过* [*。*](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-1-n5w35cj)

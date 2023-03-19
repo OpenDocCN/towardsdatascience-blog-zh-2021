@@ -24,7 +24,7 @@
 
 图 1 —二维空间中的 SVM 描述(图片由作者提供)
 
-但是，对于多类分类问题，就没那么简单了。我使用[](https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html)*多类策略，这是多类分类任务最常用的方法之一。原则上，每个分类器的每个类都与 OvR 中的所有其他类相匹配。因此，与其替代的 OneVsOneClassifier(OvO)相比，它的解释相对容易。*
+但是，对于多类分类问题，就没那么简单了。我使用<https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html>*多类策略，这是多类分类任务最常用的方法之一。原则上，每个分类器的每个类都与 OvR 中的所有其他类相匹配。因此，与其替代的 OneVsOneClassifier(OvO)相比，它的解释相对容易。*
 
 *作为 OvR 的结果，您期望每个类都有一个预测。为了更清楚，假设我们有 4 个类；a、B、C 和 d。在这样的例子中，您获得 4 个不同的二元分类器结果，它们是*
 
@@ -144,12 +144,4 @@ MAX_SS_ITERATION = 10
 
 # ***有用的链接***
 
-*[](/active-learning-in-machine-learning-525e61be16e5) [## 机器学习中的主动学习
-
-### 大多数有监督的机器学习模型需要大量的数据才能训练出好的结果。即使这样…
-
-towardsdatascience.com](/active-learning-in-machine-learning-525e61be16e5) [](/active-learning-say-yeah-7598767806b2) [## 主动学习——说是！
-
-### 机器学习这个，机器学习那个！你知道该怎么做。来说一个人只是…
-
-towardsdatascience.com](/active-learning-say-yeah-7598767806b2)*
+*</active-learning-in-machine-learning-525e61be16e5>  </active-learning-say-yeah-7598767806b2> *

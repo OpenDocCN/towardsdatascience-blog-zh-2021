@@ -195,10 +195,6 @@ plt.show()
 
 ## 相关文章:
 
-[](/create-and-read-qr-code-using-python-9fc73376a8f9) [## 使用 Python 创建和读取二维码
-
-### 如何使用 python 制作和读取二维码的简单分步指南
-
-towardsdatascience.com](/create-and-read-qr-code-using-python-9fc73376a8f9) ![](img/63a987506737d09de4bf4583894ef948.png)
+</create-and-read-qr-code-using-python-9fc73376a8f9>  ![](img/63a987506737d09de4bf4583894ef948.png)
 
 由 [Raamin ka](https://unsplash.com/@raaminka?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的原始照片以及计算机生成的草图

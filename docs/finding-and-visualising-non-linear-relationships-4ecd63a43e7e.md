@@ -146,11 +146,7 @@
 
 如前所述，互动是一种特殊类型的非线性关系。当目标变量和特征之间的关系依赖于另一个特征的值时，就会出现这种情况。我们在下面的文章中以类似的方式分析这些类型的关系。
 
-[](/finding-and-visualising-interactions-14d54a69da7c) [## 发现和可视化交互
-
-### 使用特征重要性、弗里德曼的 H-统计量和 ICE 图分析相互作用
-
-towardsdatascience.com](/finding-and-visualising-interactions-14d54a69da7c) 
+</finding-and-visualising-interactions-14d54a69da7c>  
 
 ## 成为推荐会员
 

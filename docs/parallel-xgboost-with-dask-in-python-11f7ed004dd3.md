@@ -174,11 +174,7 @@ client.cluster.close()
 *   使用 Dask Dashboard 来发现瓶颈，并找出提高代码性能的机会。观看 Dask 的原作者 Matt Rocklin 解释如何充分利用 Dask Dashboard [这里](https://www.youtube.com/watch?v=N_GqzcuGLCY)。
 *   注意非托管内存。阅读 Dask 核心贡献者 Guido Imperiale 的博客，了解如何解决 Dask workers 中的非托管内存问题。
 
-[](https://coiled.io/blog/common-dask-mistakes/) [## 使用 Dask 时要避免的常见错误
-
-### 第一次使用 Dask 可能是一个陡峭的学习曲线。经过多年的建设 Dask 和引导人们通过…
-
-coiled.io](https://coiled.io/blog/common-dask-mistakes/) 
+<https://coiled.io/blog/common-dask-mistakes/>  
 
 # Python 摘要中的并行 XGBoost
 

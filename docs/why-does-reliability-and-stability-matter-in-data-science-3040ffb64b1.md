@@ -47,16 +47,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/one-big-lesson-on-creating-a-software-library-723c36180941) [## 创建软件库的一大教训
-
-### 近两年的数据科学软件库的故事
-
-towardsdatascience.com](/one-big-lesson-on-creating-a-software-library-723c36180941) [](/7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222) [## 7 个月远程辅导的 7 个经验教训
-
-### 为什么您应该接受数据科学领域的学员
-
-towardsdatascience.com](/7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222) [](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [## 作为数据科学家起步的三大挑战
-
-### 我作为一名年轻的数据科学家所面临的问题以及我是如何克服这些问题的
-
-towardsdatascience.com](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09)
+</one-big-lesson-on-creating-a-software-library-723c36180941>  </7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222>  </top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09> 

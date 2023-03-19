@@ -272,18 +272,6 @@ df5 = df5[df5['carat'] > 0.3]
 
 # 相关文章
 
-[](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca) [## 从 Google 电子表格自动更新 Django 模型
-
-### 关于如何直接从 Google 电子表格创建和更新 Django 模型的现成 Python 教程
-
-towardsdatascience.com](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7) [](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) [## 如何在 PhpMyadmin 中导入和导出数据集
-
-### Phpmyadmin
-
-alod83.medium.com](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) 
+</automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca>  </dataset-manipulation-with-open-refine-a5043b7294a7>  <https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3>  
 
 ***免责声明*** *:这不是赞助文章。我与米托或其作者没有任何关系。这篇文章展示了该框架的一个公正的概述，旨在使数据科学工具能够为更多的人所使用。*

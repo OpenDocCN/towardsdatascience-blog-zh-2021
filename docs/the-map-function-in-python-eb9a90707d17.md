@@ -56,11 +56,7 @@ num_list_squared = list(map(squared, **num_list**))
 
 *关于 lambda 函数的更多信息:*
 
-[](/lambda-expressions-in-python-9ad476c75438) [## Python 中的 Lambda 表达式
-
-### 如何用 python 写匿名函数
-
-towardsdatascience.com](/lambda-expressions-in-python-9ad476c75438) 
+</lambda-expressions-in-python-9ad476c75438>  
 
 **我们传入 *map* 的函数也可以是 Python** 中的内置函数。例如，如果我们有一个字符串列表，并且我们想要创建一个包含这些字符串长度的新列表，我们只需传入内置的 ***len*** 函数，如下所示:
 
@@ -70,11 +66,7 @@ list(map(len, **list_of_strings**))
 
 *学习更多关于可迭代、迭代器和迭代的知识:*
 
-[](/iterables-and-iterators-in-python-849b1556ce27) [## Python 中的迭代器和迭代器
-
-### Python 中的可迭代对象、迭代器和迭代
-
-towardsdatascience.com](/iterables-and-iterators-in-python-849b1556ce27) 
+</iterables-and-iterators-in-python-849b1556ce27>  
 
 ## 密码学:凯撒密码
 
@@ -84,11 +76,7 @@ towardsdatascience.com](/iterables-and-iterators-in-python-849b1556ce27)
 
 例如，如果我们要加密的消息是“abc”，我们选择空格数为 1，那么加密的消息将是“bcd”。如果消息是“xyz”，那么加密的消息将是“yza”。
 
-[](/two-cool-functions-to-know-in-python-7c36da49f884) [## Python 中需要了解的两个很酷的函数
-
-### 了解如何使用 Python 中的 tqdm 制作表格和显示进度条
-
-towardsdatascience.com](/two-cool-functions-to-know-in-python-7c36da49f884) 
+</two-cool-functions-to-know-in-python-7c36da49f884>  
 
 ## **使用地图功能**
 
@@ -129,10 +117,6 @@ def decrypt(**coded**, n):
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [*链接*](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 *希望你喜欢这个关于 Python 中****map****函数的教程。感谢您的阅读！*

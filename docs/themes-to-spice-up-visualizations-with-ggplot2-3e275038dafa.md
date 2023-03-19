@@ -14,11 +14,7 @@
 
 有兴趣定制你的主题，然后检查这篇文章:
 
-[](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [## 使用 ggplot2: theme()定制的主数据可视化
-
-### 自定义 ggplot2 主题，为高效工作流程创建您的个性化主题模板。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) 
+</master-data-visualization-with-ggplot2-theme-customization-8421695d24e2>  
 
 如果定制你的主题太费时间，那么 R 爱好者已经为 ggplot2 包创建了扩展，提供了与包兼容的主题。
 
@@ -201,18 +197,10 @@ remotes::install_github("vankesteren/firatheme")
 
 如果你喜欢阅读我写的文章，那么你可以通过使用下面的推荐链接订阅媒体来支持我。
 
-[](https://abhinav-malasi.medium.com/membership) [## 阅读阿比纳夫·马拉斯(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/membership) 
+<https://abhinav-malasi.medium.com/membership>  
 
 要了解最新情况，您可以订阅我发布文章时的电子邮件通知。
 
-[](https://abhinav-malasi.medium.com/subscribe) [## 每当阿比纳夫·马拉斯发表文章时，就收到一封电子邮件。
-
-### 编辑描述
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/subscribe) 
+<https://abhinav-malasi.medium.com/subscribe>  
 
 *可以在*[*LinkedIn*](https://www.linkedin.com/in/abhinav-malasi/)*和*[*Twitter*](https://twitter.com/malasi_abhinav)*上与我连线，跟随我的数据科学和数据可视化之旅。或者您可以在 Medium 上关注我，了解有关 R 和 ggplot2 包的数据可视化的最新文章。*

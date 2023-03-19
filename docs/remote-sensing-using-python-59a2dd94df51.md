@@ -175,8 +175,4 @@ london_clip
 
 ## 参考资料:
 
-[](https://developers.arcgis.com/python/api-reference/) [## ArcGIS API for Python 的 API 参考- arcgis 1.8.3 文档
-
-### 编辑描述
-
-developers.arcgis.com](https://developers.arcgis.com/python/api-reference/)
+<https://developers.arcgis.com/python/api-reference/> 

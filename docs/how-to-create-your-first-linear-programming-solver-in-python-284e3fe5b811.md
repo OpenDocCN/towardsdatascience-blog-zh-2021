@@ -180,16 +180,8 @@ plt.annotate(f'Optimal Value: {x.value(), y.value()} --->', xy=(47, 96));
 
 如果你想深入了解，这里有一个来自 Real Python 的很好的教程。
 
-[](https://realpython.com/linear-programming-python/) [## 动手线性编程:用 Python 优化-真正的 Python
-
-### 在本教程中，您将学习:在这一部分，您将学习线性编程的基础知识和相关的…
-
-realpython.com](https://realpython.com/linear-programming-python/) 
+<https://realpython.com/linear-programming-python/>  
 
 如果这些内容对你有用，请关注我的博客。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

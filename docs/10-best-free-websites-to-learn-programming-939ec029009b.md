@@ -22,11 +22,7 @@
 
 我强烈推荐查看我以前在十大免费网站上的一篇文章，通过下面提供的链接了解更多关于数据科学和机器学习的知识。
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 虽然可以说付费内容和课程有助于获得更有成效的结果，但在本文中，我们将看看十个最好的免费网站，它们可以让你将编程和编码技能提高到一个新的水平。
 
@@ -126,19 +122,7 @@ W3Schools 提供了一些最好的在线编程教程，以及用代码块进行�
 
 下面是我在 TDS 上发表的一些编程文章的列表，你可以看看。
 
-[](/10-steps-to-master-python-for-data-science-f54199bb328d) [## 掌握数据科学 Python 的 10 个步骤
-
-### 成为数据科学和机器学习的 Python 大师的 10 个步骤
-
-towardsdatascience.com](/10-steps-to-master-python-for-data-science-f54199bb328d) [](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) [## 理解 Python 中的二分搜索法算法
-
-### 详细了解二分搜索法算法的工作原理及其在 python 中的实现。
-
-towardsdatascience.com](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) [](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</10-steps-to-master-python-for-data-science-f54199bb328d>  </understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7>  </mastering-python-lists-for-programming-5423b011d937>  
 
 # 9.油管（国外视频网站）
 
@@ -182,26 +166,6 @@ GitHub 和 Stack Overflow 都是很棒的网站，它们可以让你与编程领
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
-
-### 你有没有可能给你的人工智能编程来发展情绪？
-
-towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
-
-### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
-
-towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) 
+</best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  </5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  </can-your-ai-have-emotions-7efc35721e12>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  </how-to-read-and-understand-python-code-faster-180ba1ba9445>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

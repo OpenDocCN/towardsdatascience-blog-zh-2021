@@ -96,7 +96,7 @@ j.评估任何**预培训模型**的使用(如 Glove、FastText、ResNet 等。)
 
 与传统技术相比，AI/ML 技术仍然没有被监管者或从业者广泛接受。这主要是由于它的黑盒性质，这使得它很难建立关于手边的建模或业务上下文的可解释性和适用性。
 
-为了度量黑盒模型的透明性、可解释性和特征重要性，[](https://github.com/slundberg/shap)****[**LIME**](https://github.com/marcotcr/lime)或可解释的 Boosting Machines[**(EBM)**](https://github.com/interpretml/interpret)被高度使用，它们是模型不可知的，并且也为模型提供了交互项。验证者需要确保这种类型的分析已经被执行，并且分析的结论与业务问题一致。****
+为了度量黑盒模型的透明性、可解释性和特征重要性，<https://github.com/slundberg/shap>****[**LIME**](https://github.com/marcotcr/lime)或可解释的 Boosting Machines[**(EBM)**](https://github.com/interpretml/interpret)被高度使用，它们是模型不可知的，并且也为模型提供了交互项。验证者需要确保这种类型的分析已经被执行，并且分析的结论与业务问题一致。****
 
 ******4)**模型实现和模型安全****
 

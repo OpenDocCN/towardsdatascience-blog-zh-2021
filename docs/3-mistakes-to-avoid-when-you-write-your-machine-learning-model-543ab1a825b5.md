@@ -126,16 +126,4 @@ stepnumber_alternative_name.ipynb
 
 # 相关文章
 
-[](https://pub.towardsai.net/3-different-approaches-for-train-test-splitting-of-a-pandas-dataframe-d5e544a5316) [## 熊猫数据帧训练/测试分割的 3 种不同方法
-
-### 关于如何通过 scikit-learn、pandas 或 NumPy 内建工具将数据集分成训练集和测试集的简短教程…
-
-pub.towardsai.net](https://pub.towardsai.net/3-different-approaches-for-train-test-splitting-of-a-pandas-dataframe-d5e544a5316) [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [## 有没有想过用 Python virtualenv？
-
-### 在终端和 Jupyter 笔记本上安装和使用 Python virtualenv 的实用指南。
-
-towardsdatascience.com](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) [## 你应该知道的关于 Python 函数的三个技巧
-
-### 快速概述一些可以提高你编程技能的技巧:嵌套函数、可变参数和
-
-towardsdatascience.com](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2)
+<https://pub.towardsai.net/3-different-approaches-for-train-test-splitting-of-a-pandas-dataframe-d5e544a5316>  </have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785>  </three-tricks-on-python-functions-that-you-should-know-e6badb26aac2> 

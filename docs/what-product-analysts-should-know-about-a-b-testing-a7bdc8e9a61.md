@@ -48,12 +48,4 @@
 
 ## 你可能也会喜欢…
 
-[](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [## 我作为产品数据分析师的经历
-
-### 支持产品如何让我成为更好的数据分析师
-
-towardsdatascience.com](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [](https://medium.datadriveninvestor.com/netflix-q1-21-subscriber-growth-miss-can-we-avoid-another-one-189a87f9dcb8) [## 网飞·Q1 的 21 次用户增长失误:我们能避免另一次失误吗？
-
-### 推动用户增长的数据分析师案例研究
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/netflix-q1-21-subscriber-growth-miss-can-we-avoid-another-one-189a87f9dcb8)
+</my-experience-as-a-product-data-analyst-3d01748bc6ea>  <https://medium.datadriveninvestor.com/netflix-q1-21-subscriber-growth-miss-can-we-avoid-another-one-189a87f9dcb8> 

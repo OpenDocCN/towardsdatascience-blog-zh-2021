@@ -18,11 +18,7 @@
 
 本演示使用的所有代码如下:
 
- [## GitHub-jaimedantas/数据匿名化-糖尿病:数据匿名化对模型预测的影响…
-
-### 数据匿名化对糖尿病模型预测的影响。在此基础上训练了一个前馈神经网络
-
-github.com](https://github.com/jaimedantas/data-anonymization-diabetes) 
+  
 
 # 差异隐私
 

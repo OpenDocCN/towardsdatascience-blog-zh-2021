@@ -62,4 +62,4 @@
 
 快乐设计！
 
-*Alana Pirrone 是澳大利亚墨尔本大学的设计和数据可视化顾问、设计和沟通协调员。在 alanapirrone.com.au*[](https://www.alanapirrone.com.au/)*了解更多关于 Alana 的信息*
+*Alana Pirrone 是澳大利亚墨尔本大学的设计和数据可视化顾问、设计和沟通协调员。在 alanapirrone.com.au*<https://www.alanapirrone.com.au/>*了解更多关于 Alana 的信息*

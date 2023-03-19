@@ -88,16 +88,8 @@ df = df.set_axis(['AA', 'BB'], axis='columns')
 
 您可能还有兴趣了解如何更改熊猫数据框架特定列的数据类型。
 
-[](/how-to-change-column-type-in-pandas-dataframes-d2a5548888f8) [## 如何更改熊猫数据帧中的列类型
-
-### 探索改变熊猫栏数据类型的 3 种不同选择
-
-towardsdatascience.com](/how-to-change-column-type-in-pandas-dataframes-d2a5548888f8) 
+</how-to-change-column-type-in-pandas-dataframes-d2a5548888f8>  
 
 此外，下面的文章讨论了如何根据具体情况进行适当的行选择。
 
-[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) [## 如何根据列值从熊猫数据框中选择行
-
-### 探索如何根据熊猫数据框中的条件选择行
-
-towardsdatascience.com](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93)
+</how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93> 

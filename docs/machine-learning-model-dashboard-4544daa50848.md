@@ -6,11 +6,7 @@
 
 如今，创建机器学习模型很容易，因为市场上有不同的 python 库，如 sklearn、lazypredict 等。这些库易于使用，用于创建不同类型的模型以及不同类型的可视化，并找出模型的性能。如果你不知道懒惰预测是如何工作的，看看下面给出的文章。
 
-[](/build-multiple-machine-learning-models-easily-54046f022483) [## 轻松构建多个机器学习模型
-
-### 使用 lazy predict 仅用 2 行代码创建多个机器学习模型
-
-towardsdatascience.com](/build-multiple-machine-learning-models-easily-54046f022483) 
+</build-multiple-machine-learning-models-easily-54046f022483>  
 
 现在的主要挑战是模型不容易解释，这使得非技术人员很难理解和解释逻辑以及模型如何工作。
 

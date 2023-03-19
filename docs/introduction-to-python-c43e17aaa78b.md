@@ -151,11 +151,7 @@ Python 有哪些弱点？
 
 本文首发于 CodeMD，[此处](https://codemd.co.uk/2021/03/03/whats-python-all-about/)。我们 CodeMD 热衷于将 Python 带给医疗专业人员。如果你对医疗保健和 Python 感兴趣，请加入我们。
 
-[](https://codemd.co.uk/2021/03/03/starting-your-python-journey-with-ease/) [## 轻松开始您的 Python 之旅| CodeMD
-
-### 在 CodeMD，我们致力于帮助这些人快速掌握 Python，这样你就可以开始学习…
-
-codemd.co.uk](https://codemd.co.uk/2021/03/03/starting-your-python-journey-with-ease/) 
+<https://codemd.co.uk/2021/03/03/starting-your-python-journey-with-ease/>  
 
 # 关于作者
 

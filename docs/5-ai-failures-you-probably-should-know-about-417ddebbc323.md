@@ -90,12 +90,4 @@ NBC 新闻的一篇[报道称，事件的原因是人工智能无法“将一个
 
 # **相关文章**
 
-**[](/building-reproducible-machine-learning-pipelines-c80407c4319f) [## 构建可复制的机器学习管道
-
-### 如何安全地部署机器学习模型
-
-towardsdatascience.com](/building-reproducible-machine-learning-pipelines-c80407c4319f) [](/5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa) [## 机器学习项目中特征工程的 5 个最佳实践
-
-towardsdatascience.com](/5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa) [](/a-peek-at-data-sampling-methods-5d7199c8aab8) [## 数据采样方法管窥
-
-towardsdatascience.com](/a-peek-at-data-sampling-methods-5d7199c8aab8)**
+**</building-reproducible-machine-learning-pipelines-c80407c4319f>  </5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa> **

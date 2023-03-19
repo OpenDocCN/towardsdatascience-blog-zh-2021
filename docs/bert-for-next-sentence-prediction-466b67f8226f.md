@@ -89,7 +89,7 @@ NSP 给伯特两个句子，句子 A 和句子 B。然后我们说，“嗨，�
 
 如果你有兴趣了解更多关于使用 NSP 的另一半——MLM 来微调伯特的知识，请阅读这篇文章:
 
-[](/masked-language-modelling-with-bert-7d49793e5d2c) [## 用 BERT 进行掩蔽语言建模
+</masked-language-modelling-with-bert-7d49793e5d2c> [## 用 BERT 进行掩蔽语言建模
 
 towardsdatascience.com](/masked-language-modelling-with-bert-7d49793e5d2c) 
 

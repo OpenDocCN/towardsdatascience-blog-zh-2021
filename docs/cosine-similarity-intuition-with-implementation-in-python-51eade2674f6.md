@@ -101,12 +101,4 @@ Python 代码。来源: [codebasics](https://www.youtube.com/watch?v=m_CooIRM3UI
 
 ***延伸阅读:***
 
-[](https://medium.com/programming-for-beginners/the-other-approach-to-solve-linear-regression-90be71778b58) [## 求解线性回归的另一种方法
-
-### 正规方程介绍。
-
-medium.com](https://medium.com/programming-for-beginners/the-other-approach-to-solve-linear-regression-90be71778b58) [](https://medium.com/programming-for-beginners/unsupervised-versus-supervised-machine-learning-1e55aeb3d2df) [## 无监督与有监督的机器学习
-
-### 关于两种学习方式的初学者指南
-
-medium.com](https://medium.com/programming-for-beginners/unsupervised-versus-supervised-machine-learning-1e55aeb3d2df)
+<https://medium.com/programming-for-beginners/the-other-approach-to-solve-linear-regression-90be71778b58>  <https://medium.com/programming-for-beginners/unsupervised-versus-supervised-machine-learning-1e55aeb3d2df> 

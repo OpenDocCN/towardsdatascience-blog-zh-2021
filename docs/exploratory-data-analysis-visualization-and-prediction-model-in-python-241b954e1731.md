@@ -365,28 +365,4 @@ Confusion Matrix:
 
 ## 更多阅读:
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b) [## 完全控制 Matplotlib 中的支线剧情
-
-### 使用支线剧情和 GridSpec 一起更好地控制
-
-towardsdatascience.com](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b) [](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [## 免费的 Python 全长机器学习课程
-
-### 吴恩达用 Python 写的机器学习教程
-
-towardsdatascience.com](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
-
-### 我作为波士顿大学数据分析专业硕士学生的经历和体会
-
-towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [## Matplotlib 和 Seaborn 中的高级可视化集合，带有示例
-
-### 丰富可视化技术和技能
-
-towardsdatascience.com](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) [## 数据宁滨与熊猫削减或 Qcut 方法
-
-### 当你在寻找一个范围而不是一个确切的数值，一个等级而不是一个分数
-
-towardsdatascience.com](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b>  </a-full-length-machine-learning-course-in-python-for-free-f2732954f35f>  </do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41>  </a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323>  </sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde> 

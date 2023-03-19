@@ -12,7 +12,7 @@
 
 图片由[像素](http://www.pexels.com)上的 [faaiq ackmerd](https://www.pexels.com/@faaiq-ackmerd-383634) 提供。
 
-*在本系列文章中，我们将介绍如何从头开始创建自己的数据可观察性监视器，映射到数据健康的五大支柱*[](/introducing-the-five-pillars-of-data-observability-e73734b263d5)**。本系列的第 1 部分改编自 Barr Moses 和 Ryan Kearns' O'Reilly 培训，* [***管理数据停机时间:将可观测性应用于您的数据管道***](https://www.oreilly.com/live-training/courses/managing-data-downtime/0636920508717/) *，这是业界首个关于数据可观测性的课程。关联练习在* [*这里*](https://github.com/monte-carlo-data/data-downtime-challenge) *可用，本文所示改编代码在* [*这里*](https://github.com/monte-carlo-data/data-observability-in-practice) *可用。**
+*在本系列文章中，我们将介绍如何从头开始创建自己的数据可观察性监视器，映射到数据健康的五大支柱*</introducing-the-five-pillars-of-data-observability-e73734b263d5>**。本系列的第 1 部分改编自 Barr Moses 和 Ryan Kearns' O'Reilly 培训，* [***管理数据停机时间:将可观测性应用于您的数据管道***](https://www.oreilly.com/live-training/courses/managing-data-downtime/0636920508717/) *，这是业界首个关于数据可观测性的课程。关联练习在* [*这里*](https://github.com/monte-carlo-data/data-downtime-challenge) *可用，本文所示改编代码在* [*这里*](https://github.com/monte-carlo-data/data-observability-in-practice) *可用。**
 
 *从空值和重复行，到建模错误和模式更改，数据可能由于多种原因而中断。[数据测试](/why-testing-your-data-is-insufficient-6914275a9762)通常是我们抵御不良数据的第一道防线，但是如果数据在其生命周期中出现问题，会发生什么呢？*
 
@@ -162,7 +162,7 @@ sqlite> PRAGMA TABLE_INFO(EXOPLANETS);
 
 ****![](img/907831f600e1e42a9b48d4734fd04478.png)****
 
-****当然，还有越来越复杂的异常检测指标，如[](https://en.wikipedia.org/wiki/Standard_score)**和 [**自回归建模**](https://en.wikipedia.org/wiki/Autoregressive_model) 超出了本文的范围。本教程只是为 SQL 中的现场健康监控提供了基本的框架；希望能给你自己数据的思路！******
+****当然，还有越来越复杂的异常检测指标，如<https://en.wikipedia.org/wiki/Standard_score>**和 [**自回归建模**](https://en.wikipedia.org/wiki/Autoregressive_model) 超出了本文的范围。本教程只是为 SQL 中的现场健康监控提供了基本的框架；希望能给你自己数据的思路！******
 
 # ******下一步是什么？******
 

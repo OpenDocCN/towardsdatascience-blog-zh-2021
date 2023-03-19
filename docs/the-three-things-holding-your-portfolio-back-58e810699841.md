@@ -16,11 +16,7 @@
 
 在这篇文章中，我想分解为什么/如何你的投资组合可能缺乏的关键点，以及你可以做些什么来改善它。
 
-[](https://learningfrommachines.substack.com/welcome) [## 向机器学习
-
-### 了解向我们学习的算法。
-
-learningfrommachines.substack.com](https://learningfrommachines.substack.com/welcome) 
+<https://learningfrommachines.substack.com/welcome>  
 
 # #1 —您没有领域专长。
 

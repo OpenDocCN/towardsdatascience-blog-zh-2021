@@ -32,11 +32,7 @@
 
 没错，是时候用 Python 求 Mahalanobis 距离了。如果你对 R 而不是 Python 感兴趣，可以看看我的另一篇文章。
 
-[](/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d) [## R 中的马氏距离和多元异常检测
-
-### Mahalonobis 距离(MD)是一种有效的距离度量，用于计算点和分布之间的距离(参见…
-
-towardsdatascience.com](/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d) 
+</mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d>  
 
 在“Scipy”库中有一个计算 Mahalanobis 距离的方法。你可以从`scipy.spatial.distance.mahalanobis.`访问这个方法，你也可以在这里看到它的细节[。在以下步骤中，我们将使用公式 1 中给出的公式创建自己的方法来计算 Mahalanobis 距离，而不是使用此方法。](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.mahalanobis.html)
 
@@ -64,8 +60,4 @@ towardsdatascience.com](/mahalonobis-distance-and-outlier-detection-in-r-cb9c375
 
 如果您对如何使用 R 中的[马氏距离来检测异常值感兴趣，可以查看我的另一篇文章。](/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d)
 
-[](/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d) [## R 中的马氏距离和多元异常检测
-
-### 马哈拉诺比斯距离(MD)是一种有效的距离度量，用于计算点和分布之间的距离(参见…
-
-towardsdatascience.com](/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d)
+</mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d> 

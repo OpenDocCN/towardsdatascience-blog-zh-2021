@@ -98,7 +98,7 @@
 
 # 哈尔顿序列和哈默斯利集
 
-哈尔顿序列和哈默斯利集合定义了对 D 维空间采样的两种确定性的[](https://en.m.wikipedia.org/wiki/Deterministic_system)**方式，使得连续的点彼此尽可能远离。**
+哈尔顿序列和哈默斯利集合定义了对 D 维空间采样的两种确定性的<https://en.m.wikipedia.org/wiki/Deterministic_system>**方式，使得连续的点彼此尽可能远离。**
 
 **本质上，Halton 序列和 Hammersley 集合都是针对多维情况的 [Van der Corput](http://lavalle.pl/planning/node196.html) 序列的推广。**
 

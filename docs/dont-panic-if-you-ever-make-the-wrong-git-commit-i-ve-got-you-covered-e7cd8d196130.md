@@ -32,11 +32,7 @@ Artem Maltsev 在 [Unsplash](https://unsplash.com/s/photos/magician?utm_source=u
 
 对于那些认为自己完全是初学者的人，我推荐这本带有动手项目的清晰指南。这是《走向数据科学》的副主编安妮·邦纳带给你的。
 
-[](/getting-started-with-git-and-github-6fcd0f2d4ac6) [## Git 和 GitHub 入门:完全初学者指南
-
-### Git 和 GitHub 基础知识，供好奇和完全困惑的人使用(加上最简单的方法来为您的第一次公开…
-
-towardsdatascience.com](/getting-started-with-git-and-github-6fcd0f2d4ac6) 
+</getting-started-with-git-and-github-6fcd0f2d4ac6>  
 
 ## Git 如何工作
 
@@ -44,21 +40,13 @@ towardsdatascience.com](/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 这门课程比这篇文章先进得多。它深入机制，从根本上解释事情。它也充满了动画和真实的，具体的例子。因为我很喜欢它，所以把它放在这里给有兴趣了解更多的人是很自然的。
 
- [## Git 如何工作|复数视线
-
-### 编辑描述
-
-app.pluralsight.com](https://app.pluralsight.com/course-player?clipId=0e31d18b-7060-47e3-b053-e1f7e947973c) 
+  
 
 ## 专业书籍
 
 这本书也是有帮助的。在最初的几次尝试中，我并没有理解*中 Git 如何工作*的大部分概念，但是读完这篇文章后，大部分概念都变得清晰了。
 
-[](https://git-scm.com/book/en/v2) [## 书
-
-### 由斯科特·沙孔和本·施特劳布撰写并由 Apress 出版的 Pro Git 整本书可以在这里找到。所有内容…
-
-git-scm.com](https://git-scm.com/book/en/v2) 
+<https://git-scm.com/book/en/v2>  
 
 # 先决条件:打乱提交的方法
 

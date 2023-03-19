@@ -68,14 +68,6 @@ MAU 被[定义为](https://www.investopedia.com/terms/m/monthly-active-user-mau.
 
 ## 你可能也会喜欢…
 
-[](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61) [## 关于 A/B 测试，产品分析师应该知道什么
+</what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61> [## 关于 A/B 测试，产品分析师应该知道什么
 
-towardsdatascience.com](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61) [](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [## 我作为产品数据分析师的经历
-
-### 支持产品如何让我成为更好的数据分析师
-
-towardsdatascience.com](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [](https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb) [## 营销人员应该了解哪些订阅模式
-
-### 数据分析师洞察提高转化率和降低流失率
-
-bettermarketing.pub](https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb)
+towardsdatascience.com](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61) </my-experience-as-a-product-data-analyst-3d01748bc6ea>  <https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb> 

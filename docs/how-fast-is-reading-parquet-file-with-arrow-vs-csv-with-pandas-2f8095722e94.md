@@ -18,11 +18,7 @@
 
 [阿帕奇拼花地板](https://parquet.apache.org/)是这些类型中最受欢迎的一种。下面的文章讨论了其中的一些优势(相对于使用传统的基于行的格式，例如平面 CSV 文件)。
 
-[](https://blog.openbridge.com/how-to-be-a-hero-with-powerful-parquet-google-and-amazon-f2ae0f35ee04) [## Apache Parquet:如何成为开源列数据格式的英雄
-
-### Google BigQuery、Azure Data Lakes、Amazon Athena 和 Redshift Spectrum 的 Apache Parquet 文件格式。
-
-blog.openbridge.com](https://blog.openbridge.com/how-to-be-a-hero-with-powerful-parquet-google-and-amazon-f2ae0f35ee04) 
+<https://blog.openbridge.com/how-to-be-a-hero-with-powerful-parquet-google-and-amazon-f2ae0f35ee04>  
 
 简言之，
 
@@ -109,8 +105,4 @@ PyArrow 是 Apache Arrow 框架的 Python 绑定(API)。[根据他们的网站](
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，* ***，我会收到你的一部分会员费，而不会对你产生额外的费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入 Medium—Tirthajyoti Sarkar
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

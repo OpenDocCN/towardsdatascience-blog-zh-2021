@@ -77,7 +77,7 @@ prediction = lof.fit_predict(data)
 
 ABOD 和凸包方法
 
-我已经有一篇关于离群点检测的几何模型的非常详细的博客文章，其中我主要关注于**基于角度的技术 *(ABOD)*** *和* **基于深度的技术*(凸包)*** *。你可以在这里查看 ABOD*[](https://blog.paperspace.com/outlier-detection-with-abod/)**。下图显示了检测异常值的两种技术的图示视图—**
+我已经有一篇关于离群点检测的几何模型的非常详细的博客文章，其中我主要关注于**基于角度的技术 *(ABOD)*** *和* **基于深度的技术*(凸包)*** *。你可以在这里查看 ABOD*<https://blog.paperspace.com/outlier-detection-with-abod/>**。下图显示了检测异常值的两种技术的图示视图—**
 
 *![](img/eafca3cd74d401b2c46b69d0077967a8.png)**![](img/d9a2e8edae3b7b5ff518e7323c065955.png)*
 

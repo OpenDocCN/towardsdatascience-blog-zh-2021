@@ -18,11 +18,7 @@
 > 
 > 请回复我！🙏
 
-[](https://github.com/vincentclaes/datajob) [## GitHub - vincentclaes/datajob:毫不费力地在 AWS 上构建和部署一个无服务器的数据管道。
-
-### 毫不费力地在 AWS 上构建和部署无服务器数据管道。我们的目标是让开发人员思考…
-
-github.com](https://github.com/vincentclaes/datajob) 
+<https://github.com/vincentclaes/datajob>  
 
 # 数据作业安装
 
@@ -157,11 +153,7 @@ current_dir = str(pathlib.Path(__file__).parent.absolute())with DataJobStack(
 
 **⚠️ *给我一个回复，告诉我你喜欢什么，不喜欢什么，以及你希望在 DataJob 中看到的其他服务！* ⚠️**
 
-[](https://github.com/vincentclaes/datajob) [## GitHub - vincentclaes/datajob:毫不费力地在 AWS 上构建和部署一个无服务器的数据管道。
-
-### 毫不费力地在 AWS 上构建和部署无服务器数据管道。我们的目标是让开发人员思考…
-
-github.com](https://github.com/vincentclaes/datajob) 
+<https://github.com/vincentclaes/datajob>  
 
 # 文森特·克拉斯
 

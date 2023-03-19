@@ -12,15 +12,7 @@
 
 在以前的帖子中，我介绍了一种使用谷歌服务管理个人投资的方法，如谷歌资产负债表和[计算引擎](https://cloud.google.com/compute)(来自谷歌云平台)。我鼓励您也访问这些帖子，因为您可以浏览主要实现文件(但也包括虚拟机目录)所需的步骤，我们将在这里使用这些文件作为我们解决方案的输入。
 
-[](https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39) [## 用于管理投资的 Python 和 Linux I/O 重定向
-
-### 使用谷歌云平台(GCP)上的 Linux 虚拟机获得每日投资结果表
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39) [](/this-virtual-machine-is-saving-my-time-23076f592b94) [## 这个虚拟机节省了我的时间
-
-### 在 Google 云平台之上的 Linux 虚拟机中部署您的 Python 脚本，以便与您的……
-
-towardsdatascience.com](/this-virtual-machine-is-saving-my-time-23076f592b94) 
+<https://levelup.gitconnected.com/python-and-linux-i-o-redirection-for-managing-investments-ef009be30f39>  </this-virtual-machine-is-saving-my-time-23076f592b94>  
 
 下面，我列出了我们在这篇文章中将要经历的主要步骤:
 

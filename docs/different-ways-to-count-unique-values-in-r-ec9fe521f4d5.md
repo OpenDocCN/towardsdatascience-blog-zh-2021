@@ -27,11 +27,7 @@ library("data.table")
 
 我将使用从 Kaggle 下载的杂货店数据集。作为参考，您可以从以下链接下载数据:
 
-[](https://www.kaggle.com/heeraldedhia/groceries-dataset) [## 杂货数据集
-
-### 用于购物篮分析的 38765 行数据集
-
-www.kaggle.com](https://www.kaggle.com/heeraldedhia/groceries-dataset) 
+<https://www.kaggle.com/heeraldedhia/groceries-dataset>  
 
 让我展示一些数据信息。
 

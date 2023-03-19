@@ -129,14 +129,6 @@
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
+</6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> [## 贝叶斯数据分析最温和的介绍
 
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-### 按照以下步骤让您的 Python 类防弹
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
+towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) </8-tips-for-object-oriented-programming-in-python-3e98b767ae79> 

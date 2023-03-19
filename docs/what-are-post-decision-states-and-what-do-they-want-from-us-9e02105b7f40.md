@@ -90,11 +90,7 @@
 
 *本文关注状态-动作对和决策后状态之间的相似性。对差异感兴趣吗？请查看:*
 
-[](/about-post-decision-states-again-5725e5c15d90) [## 关于后决策状态
-
-### 论强化学习中状态-动作对和决策后状态的(不那么)细微差别。
-
-towardsdatascience.com](/about-post-decision-states-again-5725e5c15d90) 
+</about-post-decision-states-again-5725e5c15d90>  
 
 # 参考
 

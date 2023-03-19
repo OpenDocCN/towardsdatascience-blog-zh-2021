@@ -10,21 +10,13 @@
 
 大约一年前，JupyterLab 的可视化调试器发布了。这是使 JuypterLab 成为一个成熟的 IDE 的一步，因为它提供了你所期望的 IDE 调试器的大部分功能。
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+</jupyter-is-now-a-full-fledged-ide-c99218d33095>  
 
 然而，这个特性是建立在 [**xeus-python** 内核](https://blog.jupyter.org/a-new-python-kernel-for-jupyter-fcdf211e30a8)之上的，这是 python 编程语言 Jupyter 内核的一个轻量级实现。当时，`xeus-python`内核并没有提供与`ipykernel`完全对等的特性。最值得注意的是，它缺少对`matplotlib`和 Jupyter magic 命令的支持。
 
 但是在这个领域，现状每天都在变化，新的特性以前所未有的速度实现。因此，上个月`xeus-python`宣布支持`matplotlib`和 Jupyter 魔法指令。
 
-[](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) [## Jupyter:准备抛弃 IPython 内核
-
-### 通过 xeus-python，JupyterLab 离成为成熟的 IDE 更近了一步。
-
-towardsdatascience.com](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) 
+</jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef>  
 
 今天，对`ipykernel`的合并 pull 请求将可视调试器带到 Python 编程语言的主 Jupyter 内核，并再次改变状态！
 

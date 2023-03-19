@@ -243,22 +243,6 @@ F1 分数实际上是 **F-Beta 分数**的一个特例，其中 Beta > 1 意味�
 
 ***(这个练习的完整 Python 代码和数据可以在我的 *GitHub* [资源库](https://github.com/at-tan/Predicted_Probabilities_Bank_Marketing)中找到。如果直接渲染 GitHub 笔记本文件有问题，使用 [nbviewer](https://nbviewer.org/) 。)***
 
-***如果你在阅读这样的文章中看到了价值，你可以在这里订阅 Medium[](https://at-tan.medium.com/membership)**来阅读我和无数其他作家的其他文章。谢谢你。*****
+***如果你在阅读这样的文章中看到了价值，你可以在这里订阅 Medium<https://at-tan.medium.com/membership>**来阅读我和无数其他作家的其他文章。谢谢你。*****
 
-****[](/time-seasonality-features-in-time-series-7e8236f7b04a) [## 时间序列中的时间和季节性特征
-
-### 以数据为中心，并在模型校准过程中包括季节性选项
-
-towardsdatascience.com](/time-seasonality-features-in-time-series-7e8236f7b04a) [](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [## 比特币与宏观因素关系的转变
-
-### 使用回归和统计推断来估计自疫情以来的关系变化
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [## 多元时间序列的堆积机器学习模型
-
-### PM 2.5 空气污染数据集的个例研究
-
-towardsdatascience.com](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [](/wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96) [## 用线性回归破解 Ames 住房数据集
-
-### 预测和统计推断相结合的模型
-
-towardsdatascience.com](/wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96)****
+****</time-seasonality-features-in-time-series-7e8236f7b04a>  <https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f>  </stacking-machine-learning-models-for-multivariate-time-series-28a082f881>  </wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96> ****

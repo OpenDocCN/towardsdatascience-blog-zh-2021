@@ -88,11 +88,7 @@
 
 **例如，一个正在出现的概念是“[数据湖库](https://databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)”—一种将数据管理功能(如 ACID 事务和来自数据仓库的变更数据捕获)与数据湖的低成本存储相结合的系统设计。**
 
-**[](/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16) [## 2021 年 CDO 需要关注的五大数据趋势
-
-### 现代元数据解决方案、数据质量框架、基础设施、工作角色和其他重大变革正在进行中。
-
-towardsdatascience.com](/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16) 
+**</the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16>  
 
 ## 现代数据转换
 
@@ -121,11 +117,7 @@ BI 仪表板已经存在很久了，但最新的 BI 和分析工具是为了适�
 *   *开源工具:* Apache [Atlas](https://atlas.apache.org/) ，LinkedIn 的 [DataHub](https://github.com/linkedin/datahub) ，Lyft 的 [Amundsen](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 *   *内部工具:* Airbnb 的[数据门户](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)，脸书的 [Nemo](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/) ，优步的[数据手册](https://eng.uber.com/databook/)
 
-[](/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf) [## 数据目录 3.0:现代数据栈的现代元数据
-
-### 是时候采用一种现代元数据解决方案了，这种解决方案与其他现代解决方案一样快速、灵活、可伸缩…
-
-towardsdatascience.com](/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf) 
+</data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf>  
 
 ## 现代数据隐私和访问治理
 

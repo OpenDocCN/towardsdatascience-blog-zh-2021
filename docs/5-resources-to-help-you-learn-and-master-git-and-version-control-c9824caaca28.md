@@ -14,11 +14,7 @@
 
 从性能、安全性和灵活性的角度来看，Git 的设计优于其他版本控制系统。如果你像我一样，那么在你的技术之旅中，你试图学习 Git，并试图通过实践来掌握它。如果你像我一样，那么也许你一直在努力掌握 Git，有时会感到沮丧。
 
-[](/5-ways-you-can-contribute-to-open-source-that-doesnt-involve-writing-code-18112748bf12) [## 5 种不需要写代码就能对开源做出贡献的方法
-
-### 现在就开始您的开源之旅吧。
-
-towardsdatascience.com](/5-ways-you-can-contribute-to-open-source-that-doesnt-involve-writing-code-18112748bf12) 
+</5-ways-you-can-contribute-to-open-source-that-doesnt-involve-writing-code-18112748bf12>  
 
 当然，并不是每个人都纠结于理解和掌握 Git，但实际上很多人都是这样。这种斗争的原因往往是当我们学习使用相同的方法论。也就是“记住基础知识，随着时间的推移你会做得更好。”尽管这是学习任何东西的有效方法，但有时这不是学习的最佳方式。
 
@@ -36,11 +32,7 @@ Git 是基于图论的不同概念构建的，图论是一个处理图形的数�
 
 g itHub 文档解决了您关于 Git 和 GitHub 使用的所有问题，从本地安装 Git 和 GitHub 到创建存储库，再到创建分支、合并分支、拉请求，以及在本地和 GitHub 服务器上同步代码库。这些文档通过 GitHub 的快照，使用可视化的方法来提供这些主题。
 
-[](/5-simple-steps-to-package-and-publish-your-python-code-to-pypi-d9f5c43f9d4) [## 将 Python 代码打包并发布到 PyPI 的 5 个简单步骤
-
-### 打包和分发你的作品不一定是一件乏味的工作。
-
-towardsdatascience.com](/5-simple-steps-to-package-and-publish-your-python-code-to-pypi-d9f5c43f9d4) 
+</5-simple-steps-to-package-and-publish-your-python-code-to-pypi-d9f5c43f9d4>  
 
 # №3: Git 塔
 
@@ -54,7 +46,7 @@ Git Tower 是 Git 和版本控制相关的一切的可视化解释。从什么�
 
 Visual git Reference 是一个单页网站，直观地解释了 git 的基本概念。它解决了 Git 最常见的用法，比如提交、签出、合并、获得版本之间的差异，以及以一种您可以立即使用的简单方式重新设置基础。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -70,11 +62,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 我们都是不同的；我们有不同的学习和吸收信息的方式；有些人更喜欢看书，认为这是学习的最好方式。其他人更喜欢看视频或动画，因为他们更好地理解视觉呈现的东西。有些人通过尝试学习，有些人通过倾听学习，等等。
 
-[](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) [## 5 个数据科学开源项目，为你的简历增色不少
-
-### 通过这些项目，提高你的技能，充实你的简历
-
-towardsdatascience.com](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) 
+</5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3>  
 
 我浏览了数百种材料和资源，无论是在我试图学习 Git 的时候，还是在我试图找到解释 Git 并将其传授给其他人的最佳方法的时候。在本文中，我与您分享了一些学习和掌握 Git 的材料和资源，Git 解决了广泛的交付方法。有的是纯文字教程，有的是直观讲解，有的是边做边教。
 

@@ -21,11 +21,7 @@
 
 我邀请您参加本周四在俱乐部会所举行的讨论，思考这个话题:
 
-[](https://www.joinclubhouse.com/event/PNzJO11K) [## 数据科学教育:🏛学术界或🏦行业？
-
-### 数据科学教育:🏛学术界或🏦行业？与师生探讨现代教育趋势…
-
-www.joinclubhouse.com](https://www.joinclubhouse.com/event/PNzJO11K) 
+<https://www.joinclubhouse.com/event/PNzJO11K>  
 
 # 开始前我就知道的问题
 
@@ -70,15 +66,7 @@ https://www.azquotes.com/quote/1447564 在这篇文章的主题中引用了彼�
 
 我推荐以下材料:
 
-[](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) [## 从 Python 到 Numpy
-
-### 已经有相当多的关于 Numpy 的书籍(见参考书目),一个合理的问题是想知道是否…
-
-www.labri.fr](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) [](https://www.coursera.org/specializations/algorithms) [## 算法
-
-### 学会像计算机科学家一样思考。掌握算法设计和分析的基本原理。实心星形…
-
-www.coursera.org](https://www.coursera.org/specializations/algorithms) 
+<https://www.labri.fr/perso/nrougier/from-python-to-numpy/>  <https://www.coursera.org/specializations/algorithms>  
 
 ## **以人为本的软件开发**
 
@@ -103,15 +91,7 @@ www.coursera.org](https://www.coursera.org/specializations/algorithms)
 
 最后但同样重要的是，我想确保学生能够**将他们的解决方案作为对其解决方案的最终客户有意义的东西来操作。为了解释什么是“有用的数据驱动产品”以及它通常是如何被创建的，我简单地介绍了一下:**
 
-[](https://pair.withgoogle.com/guidebook/) [## 人+ AI 研究
-
-### 《人+人工智能指南》是为了帮助用户体验(UX)专业人员和产品经理遵循一个…
-
-pair.withgoogle.com](https://pair.withgoogle.com/guidebook/) [](https://course.fullstackdeeplearning.com/) [## 全栈深度学习
-
-### 2021 年春季，我们将更新和改进 FSDL 作为加州大学伯克利分校的正式课程。注册接收更新…
-
-course.fullstackdeeplearning.com](https://course.fullstackdeeplearning.com/) 
+<https://pair.withgoogle.com/guidebook/>  <https://course.fullstackdeeplearning.com/>  
 
 关于操作化，我提供了三种选择:分析仪表板、交互式 GUI 或 REST API。对于前两种 app，我推荐了 Streamlit，对于后者——Flask。此外，我还展示了解决方案的 dockerization，并将其发布在 Heroku 上。
 
@@ -173,29 +153,17 @@ Martina Urbani ( [电子邮件](http://martina.urbani_02@studenti.univr.it))使�
 
 我想用我对学术教育未来的观点来结束这篇文章。随着**知识** **变得商品化**和**研究变得商业化**，大学需要定义一个新的甜蜜点，在这个点上它们可以保持独特性，并在某种程度上成为精英机构。也提醒关于会所聊天即将到来；)
 
-[](https://www.joinclubhouse.com/event/PNzJO11K) [## 数据科学教育:🏛学术界或🏦行业？
-
-### 数据科学教育:🏛学术界或🏦行业？与师生探讨现代教育趋势…
-
-www.joinclubhouse.com](https://www.joinclubhouse.com/event/PNzJO11K) 
+<https://www.joinclubhouse.com/event/PNzJO11K>  
 
 首先，我认为，大学应该建立并保护对基础研究活动的垄断，这需要形成独立的思想家，专注于非常狭窄的科学前沿领域，但对重要的世界问题有广阔的视角。我在我的课程中通过数据科学顾问的心智模型强调了独立的**概念**，数据科学顾问负责以表达的指标来表示业务结果。在科学领域，这有点不同，在保罗·格拉厄姆的博客中有更好的描述:
 
- [## 如何独立思考
-
-### 2020 年 11 月[[[[[[[[[[有些工作，如果你的思维方式与你的不同，你就做不好…
-
-www.paulgraham.com](http://www.paulgraham.com/think.html) 
+  
 
 第二，我认为，为了在教育和应用研究方面与机构竞争，大学需要**参与进来**，对结果负责，减少对政府拨款的依赖(政府拨款应该只用于基础研究)。基于大学应用研究、商业和技术加速器的风险投资衍生产品，以及与具有明确 KPI 的行业的合作伙伴关系**可以给学术界带来所需的推动力，使其走出停滞状态，注入新鲜血液。**
 
 **第三，**科学又要变得性感了**。如果爱因斯坦生活在我们这个时代，他的 Instagram 肯定是最受欢迎的，但正如我们今天所看到的，科学家甚至没有进入前 1000 名。诺贝尔奖并没有真正做好，因为如果你问一个随机的人，他们是否知道任何获奖者，他们会提到和平或文学天才，也许是经济学家，但物理学家不会是第一个。我个人很喜欢尤里·米尔纳和他的突破计划，我们确实需要更多这样的东西:**
 
-**[](https://breakthroughinitiatives.org/initiative/3) [## 突破性举措
-
-### 人类的故事是一个跨越非洲、跨越海洋、飞向天空和太空的故事。自从…
-
-breakthroughinitiatives.org](https://breakthroughinitiatives.org/initiative/3) 
+**<https://breakthroughinitiatives.org/initiative/3>  
 
 **附言**
 如果你觉得这个内容有用，有观点，可以[在 Bitclout 上支持我](https://bitclout.com/u/alexrachnog)。我对技术教育领域的讨论和合作持开放态度，你可以在[脸书](https://www.facebook.com/rachnogstyle.blog)或 [LinkedIn](https://www.linkedin.com/in/alexandr-honchar-4423b962/) 上与我联系，在那里我会定期发布一些人工智能相关的文章或新闻观点，这些文章或观点对于媒体来说太短了。**

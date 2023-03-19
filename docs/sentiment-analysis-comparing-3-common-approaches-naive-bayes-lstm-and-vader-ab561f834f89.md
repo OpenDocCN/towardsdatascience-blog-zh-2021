@@ -65,7 +65,7 @@ vader _ 情操 _ 分析. py
 
 使用 VADER —我们能够在我们的测试数据集上产生 **72%** 的准确率。VADER 认为，在社交媒体文本中常见的表情符号和首字母缩写词/首字母缩写词在该领域可以表现良好，但在其他领域可能表现较差。重要的是要注意，VADER 确实产生精确的极性分数，我们为了比较的目的将其分类为正或负。
 
-*P.S .其他词汇还有*[](https://liwc.wpengine.com/)**(语言查询和字数统计)和* [*从新*](https://www.uvm.edu/pdodds/teaching/courses/2009-08UVM-300/docs/others/everything/bradley1999a.pdf) *(英语词汇情感规范)。**
+*P.S .其他词汇还有*<https://liwc.wpengine.com/>**(语言查询和字数统计)和* [*从新*](https://www.uvm.edu/pdodds/teaching/courses/2009-08UVM-300/docs/others/everything/bradley1999a.pdf) *(英语词汇情感规范)。**
 
 ## *自然语言处理的机器学习*
 
@@ -95,7 +95,7 @@ vader _ 情操 _ 分析. py
 
 ## *深度学习*
 
-*深度学习允许以更复杂的方式处理数据。一种 [**长短期记忆**](https://en.wikipedia.org/wiki/Long_short-term_memory) 模型，或称 LSTM，是一种[](https://en.wikipedia.org/wiki/Recurrent_neural_network)**【RNN】递归神经网络，用于处理[](https://en.wikipedia.org/wiki/Temporal)**数据。既然我们认为一个句子中特征(词)的顺序是有意义的，这就是我们使用的神经网络架构。*****
+*深度学习允许以更复杂的方式处理数据。一种 [**长短期记忆**](https://en.wikipedia.org/wiki/Long_short-term_memory) 模型，或称 LSTM，是一种<https://en.wikipedia.org/wiki/Recurrent_neural_network>**【RNN】递归神经网络，用于处理<https://en.wikipedia.org/wiki/Temporal>**数据。既然我们认为一个句子中特征(词)的顺序是有意义的，这就是我们使用的神经网络架构。*****
 
 *****深度学习在计算上是昂贵的，并且在高维、稀疏向量的情况下做得不好(**性能差**和**收敛慢**)。当我们从原始文本中提取特征用于模型训练时，我们需要将它们表示为**密集**的向量。一种这样的技术是将每个文本转换成数字的序列，每个数字映射到词汇表中的一个单词。更进一步，我们需要使用**单词嵌入**将具有相似用法/含义的单词映射到相似的实数向量(而不是索引)。如果没有单词嵌入，模型会将单词的索引号误解为有意义。单词嵌入将所有单词放入一个多维向量空间，因此它们的相似性可以通过**距离**来测量。使用开源预训练模型(如 [Word2vec](https://www.tensorflow.org/tutorials/text/word2vec) 、 [GloVe](https://nlp.stanford.edu/projects/glove/) 或 [fastText](https://fasttext.cc/) )或定制神经网络(**无监督** **学习**)模型来生成单词嵌入。当训练自定义单词嵌入时，它可以单独完成，也可以与手头任务的神经网络模型联合完成(作为附加层)。这是我们采用的方法，因为它倾向于导致**针对**数据的**上下文**以及**目标**的嵌入。与稀疏(几十万维)的文档术语矩阵相比，使用单词嵌入产生具有更少(几百)维的向量，同时捕捉语义相似性。单词嵌入被认为是深度学习挑战自然语言处理问题的关键突破之一。*****
 

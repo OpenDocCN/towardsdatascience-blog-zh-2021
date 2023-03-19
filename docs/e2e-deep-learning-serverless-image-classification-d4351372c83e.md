@@ -54,7 +54,7 @@
 
 ## B.2 .建立模型
 
-我们将使用**迁移学习**方法和**图像增强**来构建深度学习模型，以实现良好的性能并防止过拟合。我们使用的预训练模型是 **InceptionV3** ，但是也可以随意尝试另一个模型。TensorFlow Keras 为`InceptionV3`内置了一个**模型定义**。我们将使用(150，150，3)作为所需的输入形状图像，不包括顶部的全连通层，并使用我们可以在此下载[](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5)****【3】**的局部权重。导入该类，并通过指定上述配置实例化它，如下所示:**
+我们将使用**迁移学习**方法和**图像增强**来构建深度学习模型，以实现良好的性能并防止过拟合。我们使用的预训练模型是 **InceptionV3** ，但是也可以随意尝试另一个模型。TensorFlow Keras 为`InceptionV3`内置了一个**模型定义**。我们将使用(150，150，3)作为所需的输入形状图像，不包括顶部的全连通层，并使用我们可以在此下载<https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5>****【3】**的局部权重。导入该类，并通过指定上述配置实例化它，如下所示:**
 
 ****图二。**定义预训练的 InceptionV3 模型。**
 
@@ -345,7 +345,7 @@ $ docker push XXXXXXXXX474.dkr.ecr.us-east-1.amazonaws.com/lambda-images:tf-lite
 
 ****图 28。**部署 API**
 
-*   **从“调用 URL”部分获取 URL。在这种情况下，我们有:[](https://xw2bv0y8mb.execute-api.us-east-1.amazonaws.com/test)**
+*   **从“调用 URL”部分获取 URL。在这种情况下，我们有:<https://xw2bv0y8mb.execute-api.us-east-1.amazonaws.com/test>**
 *   ****打开**邮差 App** 或者去 [**reqbin**](https://reqbin.com) 测试我们刚刚创建的 REST API。注意，因为我们指定`predict`作为`POST`的方法，我们需要在 URL 的末尾添加`/predict`。因此，进行 API 调用以进行预测的完整 URL 是:[**https://xw 2 bv 0 y8 MB . execute-API . us-east-1 . amazonaws . com/test/predict**](https://xw2bv0y8mb.execute-api.us-east-1.amazonaws.com/test/predict)****
 *   ****将链接复制并粘贴到应用程序的 URL 部分。****
 *   ****复制 JSON 中的以下对象作为主体来发出这个 POST 请求。点击`Send`。****

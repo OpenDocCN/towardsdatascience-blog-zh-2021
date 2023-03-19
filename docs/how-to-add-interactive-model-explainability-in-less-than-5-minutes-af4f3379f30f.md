@@ -85,25 +85,13 @@ HTML 报告——非常好。作者 gif
 
 Jupyter 笔记本和文件:
 
-[](https://github.com/dmoyer22/simple_shapash_example) [## GitHub-dmoyer 22/Simple _ shapash _ example:交互式模型可解释性的简单示例，使用…
-
-### 使用 shapash-GitHub-dmoyer 22/Simple _ shapash _ example 的交互式模型可解释性的简单示例:简单…
-
-github.com](https://github.com/dmoyer22/simple_shapash_example) 
+<https://github.com/dmoyer22/simple_shapash_example>  
 
 。py 版本:
 
 ## **参考文献**
 
-[](https://github.com/MAIF/shapash) [## GitHub-MAIF/沙帕什:🔅Shapash 使机器学习模型变得透明和可理解，通过…
-
-### 版本新功能描述教程 1.4.x 功能组演示您现在可以重新组合具有相同功能的功能…
-
-github.com](https://github.com/MAIF/shapash) [](https://shapash.readthedocs.io/en/latest/installation-instructions/index.html) [## 安装说明- Shapash 1.4.4 文件
-
-### 大多数时候，安装 ipywidgets 会自动配置 Jupyter Notebook 使用小部件。ipywidgets…
-
-shapash.readthedocs.io](https://shapash.readthedocs.io/en/latest/installation-instructions/index.html) 
+<https://github.com/MAIF/shapash>  <https://shapash.readthedocs.io/en/latest/installation-instructions/index.html>  
 
 ## 结论
 

@@ -282,20 +282,8 @@ YouTube 上有很多出色的数据科学内容创作者。如果我试图理解
 
 ## 点击这里查看我的其他算法解释:
 
-[](/decision-trees-ac091793070) [## 决策树的非技术性指南
-
-### 现代的、基于树的模型的构建模块…
-
-towardsdatascience.com](/decision-trees-ac091793070) [](/random-forest-29cf337c68d4) [## 面向非技术受众的随机森林
-
-### 今天最广泛使用的算法之一实际上很难解释…
-
-towardsdatascience.com](/random-forest-29cf337c68d4) 
+</decision-trees-ac091793070>  </random-forest-29cf337c68d4>  
 
 ## 联系我
 
-[](https://www.linkedin.com/in/adamshafi/) [## Adam Shafi -数据科学沉浸式大会| LinkedIn
-
-### 拥有 4 年以上分析经验的数据科学家，包括管理团队、交付项目和转变…
-
-www.linkedin.com](https://www.linkedin.com/in/adamshafi/)
+<https://www.linkedin.com/in/adamshafi/> 

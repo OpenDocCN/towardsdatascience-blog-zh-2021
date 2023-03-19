@@ -14,11 +14,7 @@ T 变压器——大家好，我们又见面了。我们有个约会，不是吗
 
 如果你已经阅读并坚持了我之前关于 [**变形金刚的帖子，你能评价阅读段落的复杂性吗？**](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) 太棒了！这意味着你很可能已经熟悉了变压器微调或培训过程的基础。如果你没有看到这个帖子，你可以访问下面的链接。
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [## 变形金刚，你能评价阅读段落的复杂程度吗？
-
-### 用 PyTorch 微调 RoBERTa 以预测文本摘录的阅读难易程度
-
-towardsdatascience.com](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) 
+</transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403>  
 
 你的模特怎么样了？它能取得相当好的结果吗？或者你的变压器模型遭受性能和不稳定性？如果是，根本原因通常很难诊断和确定。这类问题通常在大型模型和小型数据集上更为普遍。相关数据和下游任务的性质和特征也有一定影响。
 

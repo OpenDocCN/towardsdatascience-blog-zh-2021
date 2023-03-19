@@ -122,24 +122,8 @@
 
 不知道接下来要读什么？这里有一些建议。
 
-[](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) [## 下一次技术面试前你需要知道的 70 个数据科学面试问题
-
-### 概率和统计，机器学习算法，脑筋急转弯等等
-
-medium.com](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) [](/10-most-important-sql-commands-every-data-analyst-needs-to-know-f0f568914b98) [## 每个数据分析师都需要知道的 10 个最重要的 SQL 命令
-
-### 从数据库中查询数据并不复杂
-
-towardsdatascience.com](/10-most-important-sql-commands-every-data-analyst-needs-to-know-f0f568914b98) [](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) [## 整体之战——随机森林 vs 梯度推进
-
-### 机器学习领域最流行的两种算法，谁会赢？
-
-towardsdatascience.com](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) 
+<https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3>  </10-most-important-sql-commands-every-data-analyst-needs-to-know-f0f568914b98>  </battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7>  
 
 如果你还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出高质量和信息丰富的内容——谢谢！
 
-[](https://chongjason.medium.com/membership) [## 通过我的推荐链接-杰森·庄加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-chongjason.medium.com](https://chongjason.medium.com/membership)
+<https://chongjason.medium.com/membership> 

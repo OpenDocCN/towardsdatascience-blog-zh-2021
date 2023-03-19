@@ -28,11 +28,7 @@ AWS RDS 只支持它正在运行的任何版本的关系数据库服务，因此
 
 红移虽然基于红移，但最长时间没有支持地理空间数据，终于在 2019 年推出了对它的支持。目前，在 Redshift 中，我们可以使用 find 和使用原生 GIS 数据类型。这里是 GIS 数据红移支持的[函数的完整列表](https://docs.aws.amazon.com/redshift/latest/dg/geospatial-functions.html)。
 
-[](https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-redshift/) [## 通过 Amazon Redshift | Amazon Web Services 使用空间数据
-
-### 今天，Amazon Redshift 宣布支持名为 GEOMETRY 的新的原生数据类型。这种新类型能够摄取…
-
-aws.amazon.com](https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-redshift/) 
+<https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-redshift/>  
 
 这是针对红移的，但是当你把地理定位数据存储在 S3 时会发生什么呢？你如何质疑这一点？假设您已经以 GeoJSON 格式存储了地理位置数据，那么您应该能够使用 nature GIS 类型在 Athena 中创建一个外部表，并使用 Athena 查询数据。更多细节见[下例](https://docs.aws.amazon.com/athena/latest/ug/geospatial-example-queries.html)。
 
@@ -46,19 +42,11 @@ aws.amazon.com](https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-
 
 我不知道这一说法是否适合亚马逊定位服务(ALS)，该服务将在不损害数据隐私和安全的情况下，与谷歌地图等公司竞争，因为将有数据永远不会离开 AWS 网络的规定，尽管这可能会产生额外的成本。
 
-[](https://techcrunch.com/2020/12/16/aws-launches-amazon-location-a-new-mapping-service-for-developers/) [## AWS 为开发者推出新的地图服务——亚马逊定位
-
-### AWS 今天宣布了亚马逊位置的预览版，这是一项针对希望添加基于位置的开发者的新服务…
-
-techcrunch.com](https://techcrunch.com/2020/12/16/aws-launches-amazon-location-a-new-mapping-service-for-developers/) 
+<https://techcrunch.com/2020/12/16/aws-launches-amazon-location-a-new-mapping-service-for-developers/>  
 
 我们还没有看到这项服务有多成熟。它也将提供地址转换、细化和规范化吗？几天前，我遇到了一个叫 Placekey 的神奇服务，它试图以极高的准确性解决地址规范化的问题。我们将拭目以待亚马逊是否有锦囊妙计。目前，亚马逊位置服务正在预览中。
 
-[](https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/) [## 亚马逊定位-为您的应用程序添加地图和定位功能|亚马逊网络服务
-
-### 我们希望让您更轻松、更经济地添加地图、位置感知和其他基于位置的功能…
-
-aws.amazon.com](https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/) 
+<https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/>  
 
 ## 结论
 

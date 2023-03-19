@@ -43,7 +43,7 @@
 关于数据科学如何应用于理解我们现在所处的位置，还有更多例子:
 
 *   [Bayes Impact](https://www.bayesimpact.org/en/) 解决了**加州市民与警察**暴力冲突的数据缺口。他们的[开源 web 工具](https://www.bayesimpact.org/en/focus/justice)简化了执法机构捕获和报告这些数据的过程。这可以作为重建社区和警察之间信任的起点。
-*   卫星图像用于收集与减少贫困和饥饿相关的数据[](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/fse_research_brief_final.pdf)**。这个数据否则很难**收集。根据天气条件和作物生长情况来估计作物产量是可能的。可以确定特别脆弱的人群，并且可以有效地有针对性地提供帮助。****
+*   卫星图像用于收集与减少贫困和饥饿相关的数据<https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/fse_research_brief_final.pdf>**。这个数据否则很难**收集。根据天气条件和作物生长情况来估计作物产量是可能的。可以确定特别脆弱的人群，并且可以有效地有针对性地提供帮助。****
 
 **![](img/27ce4f94704176dd583847938a7000ef.png)**
 
@@ -109,16 +109,8 @@
 
 ****你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的会员。****
 
-****[](https://medium.com/@julia.nikulski/membership) [## 通过我的推荐链接加入 Medium-Julia Nikulski
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@julia.nikulski/membership)**** 
+****<https://medium.com/@julia.nikulski/membership> **** 
 
 ****你是否处于项目之间，不知道下一个项目该做什么？查看我的**指南，了解如何开发独特的数据科学项目创意**。****
 
-****[](/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b) [## 开发独特数据科学项目创意的 5 个步骤
-
-### 帮助您识别值得一试的新颖独特的数据项目的指南
-
-towardsdatascience.com](/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)****
+****</5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b> ****

@@ -14,11 +14,7 @@
 
 我们将使用 Python NumPy 和 Matplotlib 来完成这一切。我们将看到如何在训练集和测试集中获得 91% 的 ***。***
 
-[](/logistic-regression-from-scratch-in-python-ec66603592e2) [## Python 中从头开始的逻辑回归
-
-### 从零开始的机器学习:第 5 部分
-
-towardsdatascience.com](/logistic-regression-from-scratch-in-python-ec66603592e2) 
+</logistic-regression-from-scratch-in-python-ec66603592e2>  
 
 # 逻辑回归概述
 

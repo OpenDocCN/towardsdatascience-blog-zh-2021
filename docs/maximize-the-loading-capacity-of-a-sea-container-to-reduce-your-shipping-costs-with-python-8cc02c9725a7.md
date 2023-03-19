@@ -58,11 +58,7 @@
 
 **目标:**每个集装箱装载最大数量的托盘
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 二。二维背包问题在托盘装载中的应用
 
@@ -168,11 +164,7 @@ rectpact 库的结果示例—(来源:[文档](https://github.com/secnot/rectpac
 
 将这种优化应用到您过去的运输中，会对您运输过程中的二氧化碳排放产生什么影响？
 
-[](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) [## 使用 Python 进行供应链可持续性报告
-
-### 自动化和报告构建 ESG 报告的 4 个步骤，重点关注分销网络的二氧化碳排放 4 个步骤…
-
-www.samirsaci.com](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) 
+<https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/>  
 
 ## 应用
 
@@ -192,11 +184,7 @@ Nienke Pieters 使用本文中分享的代码作为基础来构建一个应用�
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

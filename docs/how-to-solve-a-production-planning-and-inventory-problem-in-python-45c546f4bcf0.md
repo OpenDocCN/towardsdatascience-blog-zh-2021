@@ -200,30 +200,10 @@ pip install cxvpy
 
 本文的源代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/production_and_inventory.ipynb) [## master khuyentran 1401/Data-science 上的 Data-science/production _ and _ inventory . ipynb
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/production _ and _ inventory . ipynb，网址为…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/production_and_inventory.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/production_and_inventory.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/sympy-symbolic-computation-in-python-f05f1413adb8) [## SymPy:Python 中的符号计算
-
-### 用 Python 象征性地解一个方程和微积分
-
-towardsdatascience.com](/sympy-symbolic-computation-in-python-f05f1413adb8) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/how-to-match-two-people-with-python-7583b51ff3f9) [## 如何用 Python 找到最佳匹配
-
-### 给定个人偏好，如何匹配使得总偏好最大化？
-
-towardsdatascience.com](/how-to-match-two-people-with-python-7583b51ff3f9) [](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [## 如何使用 Python 找到餐馆的最佳位置
-
-### 用 CVXPY 解决集合覆盖问题
-
-towardsdatascience.com](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd)
+</sympy-symbolic-computation-in-python-f05f1413adb8>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </how-to-match-two-people-with-python-7583b51ff3f9>  </how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd> 

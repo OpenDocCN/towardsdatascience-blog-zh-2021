@@ -151,23 +151,7 @@
 
 # 相关文章
 
-[](/how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057) [## 如何根据数据科学项目撰写科学论文
-
-### 关于如何将数据科学项目转化为精彩的科学论文的一些提示。
-
-towardsdatascience.com](/how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057) [](https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb) [## 用 Twitter 扩展你的知识的 6 个技巧
-
-### 将 Twitter 作为一个免费、有趣和互动的学习场所的初学者指南
-
-betterhumans.pub](https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb) [](https://alod83.medium.com/the-death-of-semantic-web-or-new-challenges-e7e8860d9b06) [## 语义网的死亡？还是新的挑战？
-
-### 语义网好像已经快没了。这是真的吗？在这篇文章中，我们试图追溯语义学的历史…
-
-alod83.medium.com](https://alod83.medium.com/the-death-of-semantic-web-or-new-challenges-e7e8860d9b06) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7) 
+</how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057>  <https://betterhumans.pub/6-tips-for-extending-your-knowledge-with-twitter-af2bc8c16bdb>  <https://alod83.medium.com/the-death-of-semantic-web-or-new-challenges-e7e8860d9b06>  </dataset-manipulation-with-open-refine-a5043b7294a7>  
 
 # 离开前再说一句…
 

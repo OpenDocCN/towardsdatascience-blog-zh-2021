@@ -188,11 +188,7 @@ def my_cool_function(a, b, *args, **kwargs):
 
 与本教程相关的完整 jupyter 笔记本可以在本报告中找到！[https://github.com/yashprakash13/Python-Cool-Concepts](https://github.com/yashprakash13/Python-Cool-Concepts)
 
-[](https://github.com/yashprakash13/Python-Cool-Concepts) [## yashprakash 13/Python-Cool-Concepts
-
-### 在 GitHub 上创建一个帐户，为 yashprakash 13/Python-Cool-Concepts 开发做贡献。
-
-github.com](https://github.com/yashprakash13/Python-Cool-Concepts) 
+<https://github.com/yashprakash13/Python-Cool-Concepts>  
 
 如果你想了解更多关于我在 fastai 上写的[系列文章，其中我记录了我与这个库的旅程，请访问这篇文章](/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)。:)
 

@@ -411,11 +411,7 @@ Sklearn 生成的分类报告
 
 Jennifer 在 data science StackExchange 网站上的回答中解释了记住精度和召回代表的区别的一个好方法:
 
-[](https://datascience.stackexchange.com/a/54172) [## 什么时候精准比回忆更重要？
-
-### 哪个更重要仅仅取决于每个错误的成本。精确往往涉及…
-
-datascience.stackexchange.com](https://datascience.stackexchange.com/a/54172) 
+<https://datascience.stackexchange.com/a/54172>  
 
 ## **注意#2:除了本文讨论的指标，还有其他指标吗？**
 
@@ -423,21 +419,13 @@ datascience.stackexchange.com](https://datascience.stackexchange.com/a/54172)
 
 Rahul Agarwal 的这篇优秀的《走向数据科学》文章是一个很好的起点。
 
-[](/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226) [## 每个数据科学家都必须知道的 5 个分类评估指标
-
-### 以及具体什么时候使用它们？
-
-towardsdatascience.com](/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226) 
+</the-5-classification-evaluation-metrics-you-must-know-aa97784ff226>  
 
 # 示例代码
 
 本文中使用的所有代码都可以在以下位置获得:
 
-[](https://github.com/Polaris000/BlogCode/tree/main/MetricsMultilabel) [## blog code/metrics polar 000 处的多标签/BlogCode
-
-### 示例代码来自我在 Medium 和我的个人网站上的博客文章。-blog code/metrics multilabel at main…
-
-github.com](https://github.com/Polaris000/BlogCode/tree/main/MetricsMultilabel) 
+<https://github.com/Polaris000/BlogCode/tree/main/MetricsMultilabel>  
 
 # 结论
 

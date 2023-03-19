@@ -14,15 +14,7 @@
 
 我们首先在数据集上训练一个 YoloV5 模型，同时使用加权盒融合(WBF)进行后处理/预处理，如果您想了解更多信息，我建议查看以下两篇文章:
 
-[](/advanced-yolov5-tutorial-enhancing-yolov5-with-weighted-boxes-fusion-3bead5b71688) [## 高级 YoloV5 教程-使用加权盒融合增强 YoloV5
-
-### 关于使用 YoloV5 和与 WBF 一起提高性能的深入教程
-
-towardsdatascience.com](/advanced-yolov5-tutorial-enhancing-yolov5-with-weighted-boxes-fusion-3bead5b71688) [](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) [## WBF:优化对象检测—融合和过滤预测框
-
-### 加权盒融合已经成为优化目标检测模型的新 SOTA 方法
-
-towardsdatascience.com](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) 
+</advanced-yolov5-tutorial-enhancing-yolov5-with-weighted-boxes-fusion-3bead5b71688>  </wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3>  
 
 我不想再详述和 WBF 一起训练约洛娃的细节。但是，实际上您需要做的就是使用 WBF 消除重复的方框，然后对数据进行预处理，在上面运行 YoloV5。YoloV5 需要一个特定的层次结构，以便数据集能够开始培训和评估。
 
@@ -47,11 +39,7 @@ towardsdatascience.com](/wbf-optimizing-object-detection-fusing-filtering-predic
 
 如果你想看完整个教程，我建议你看看这个:
 
-[](/an-in-depth-efficientnet-tutorial-using-tensorflow-how-to-use-efficientnet-on-a-custom-dataset-1cab0997f65c) [## 使用 TensorFlow 的深入 EfficientNet 教程-如何在自定义数据集上使用 EfficientNet。
-
-### 使用 Tensorflow 在具有挑战性的 Kaggle 数据集上训练效率网
-
-towardsdatascience.com](/an-in-depth-efficientnet-tutorial-using-tensorflow-how-to-use-efficientnet-on-a-custom-dataset-1cab0997f65c) 
+</an-in-depth-efficientnet-tutorial-using-tensorflow-how-to-use-efficientnet-on-a-custom-dataset-1cab0997f65c>  
 
 ## 组装
 

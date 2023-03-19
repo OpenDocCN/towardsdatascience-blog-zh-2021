@@ -110,15 +110,7 @@ from pandas_profiling import ProfileReport#Generate the report. We would use the
 
 报告选择如上图所示。您可以尝试所有选项来探索数据。如果你想更深入地挖掘这个包，你可以阅读下面我以前的文章。
 
-[](/fantastic-pandas-data-frame-report-with-pandas-profiling-a05cde64a0e2) [## 带有熊猫档案的神奇熊猫数据框报告
-
-### 将您的基本报告提升到下一个级别
-
-towardsdatascience.com](/fantastic-pandas-data-frame-report-with-pandas-profiling-a05cde64a0e2) [](/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b) [## 数据框 EDA 软件包比较:Pandas Profiling、Sweetviz 和 PandasGUI
-
-### 哪些熊猫数据框 EDA 包适合你？
-
-towardsdatascience.com](/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b) 
+</fantastic-pandas-data-frame-report-with-pandas-profiling-a05cde64a0e2>  </data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b>  
 
 # 3.ipympl
 

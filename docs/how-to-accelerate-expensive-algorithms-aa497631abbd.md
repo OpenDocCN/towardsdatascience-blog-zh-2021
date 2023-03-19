@@ -76,11 +76,7 @@ memoized_slow_func.py
 
 *我们在本节中使用的计时和跟踪装饰器(@tracefunc 和@timefunc)可以在本文中找到。*
 
-[](/a-deeper-dive-into-decoration-ca4334ca5cf8) [## 对装饰的深入探究
-
-### 如何用 Python 编写灵活的、可重用的装饰器
-
-towardsdatascience.com](/a-deeper-dive-into-decoration-ca4334ca5cf8) 
+</a-deeper-dive-into-decoration-ca4334ca5cf8>  
 
 在我们深入研究每个函数的性能之前，让我们回顾一下与渐近时间复杂性相关的语言。
 

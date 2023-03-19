@@ -120,19 +120,11 @@ Flask 是一个用于构建 web 应用程序的 python web 框架。它为 web �
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/top-10-python-libraries-for-data-science-in-2021-b122f168ae62) [## 2021 年数据科学的 10 大 Python 库
-
-### 你应该学习什么以及如何学习它们
-
-towardsdatascience.com](/top-10-python-libraries-for-data-science-in-2021-b122f168ae62) 
+</top-10-python-libraries-for-data-science-in-2021-b122f168ae62>  
 
 # 特伦斯·申
 

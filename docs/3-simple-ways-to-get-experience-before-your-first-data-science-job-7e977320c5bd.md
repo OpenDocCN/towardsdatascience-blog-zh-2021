@@ -39,11 +39,7 @@ SQL 是可以帮助你在不同岗位找到工作的技能之一，数据科学�
 *   了解搜索功能
 *   验证 A/B 测试结果
 
-[](/how-to-create-an-irresistible-data-science-resume-with-code-1430a774c836) [## 如何打造一份让人无法抗拒的数据科学简历(附代码)
-
-### 不要浪费时间使用 Word。使用模板、几行代码和技巧来增加你获得成功的机会
-
-towardsdatascience.com](/how-to-create-an-irresistible-data-science-resume-with-code-1430a774c836) 
+</how-to-create-an-irresistible-data-science-resume-with-code-1430a774c836>  
 
 # 2.使用熊猫解决数据科学家经常面临的任务
 
@@ -61,11 +57,7 @@ towardsdatascience.com](/how-to-create-an-irresistible-data-science-resume-with-
 
 例如，您可以检查这个[网飞电影和电视节目数据集](https://www.kaggle.com/shivamb/netflix-shows)，然后通过删除或替换丢失的数据、去除离群值、删除重复项、规范化文本等方式对其进行清理。如果你想知道我是如何清理这个数据集的，[看看我做的这个指南](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33#49f0)。
 
-[](/your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c) [## 你的第一份数据科学工作可能不是你所期望的
-
-### 数据科学工作的期望与现实
-
-towardsdatascience.com](/your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c) 
+</your-first-data-science-job-might-not-be-what-you-expect-e8e75103687c>  
 
 # 3.解决一个数据科学项目
 
@@ -102,18 +94,10 @@ towardsdatascience.com](/your-first-data-science-job-might-not-be-what-you-expec
 
 在下面的文章中，你会发现 5 个项目的例子。
 
-[](/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0) [## 5 个用 Python 解决的端到端数据科学项目
-
-### 初级和高级 Python 数据科学项目，带源代码。
-
-towardsdatascience.com](/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0) 
+</5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

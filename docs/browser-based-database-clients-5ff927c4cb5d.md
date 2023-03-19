@@ -42,11 +42,7 @@
 
 正如您所看到的，它非常类似于 Jupyter 笔记本，只是它在视觉上更具吸引力，并且像普通的数据库客户端一样支持数据库连接。它还支持分叉和版本控制，如上所示。
 
-[](/git-for-data-engineers-a8b979d8b2ab) [## 面向数据工程师的 Git
-
-### 数据工程师源代码控制的简短指南&为什么您的数据工程团队绝对有必要
-
-towardsdatascience.com](/git-for-data-engineers-a8b979d8b2ab) 
+</git-for-data-engineers-a8b979d8b2ab>  
 
 像 Count.co 一样，市场上也有其他笔记本。选择通常取决于您使用的技术。例如，Databricks 的 [SQL 笔记本](https://docs.databricks.com/_static/notebooks/delta/quickstart-sql.html)集成了 charing 库。类似地，您可以在 Azure Data Studio 中使用 SQL 内核。让我留给你一个不太受欢迎的 SQL 笔记本，由 HVF 实验室制造。
 
@@ -54,11 +50,7 @@ towardsdatascience.com](/git-for-data-engineers-a8b979d8b2ab)
 
 图片作者。摘自这个[开源项目](https://github.com/hvf/franchise) (MIT 许可)。
 
-[](https://datasciencenotebook.org/) [## 数据科学笔记本
-
-### Jupyter 是笔记本中受欢迎的选择——它是免费的、开源的，它建立了这一类工具…
-
-datasciencenotebook.org](https://datasciencenotebook.org/) 
+<https://datasciencenotebook.org/>  
 
 像 Count、Databricks 和 Franchise 这样的笔记本可以有一些集成的图表和可视化库。但是，它们对于构建报告和仪表板并不理想。这就是我们进入一个完全独立的领域。在您继续之前，请查看上面的链接。这是对当今市场上从 Jupyter 到 Deepnote 的所有数据科学笔记本的一个很好的总结。
 
@@ -66,11 +58,7 @@ datasciencenotebook.org](https://datasciencenotebook.org/)
 
 大多数人不会把我将要谈到的三个工具看作数据库客户机。 [Redash](https://redash.io/) 、[元数据库](https://www.metabase.com/)和[超集](https://superset.apache.org/)。相反，他们将这些工具称为 BI 工具。虽然这些工具很少用于企业级 BI 报告和仪表板，但我认为将它们视为全面的 BI 工具是公平的，因为它们确实拥有 BI 工具中需要的所有东西。只是随着大量的钱流入到像 Tableau 或 Looker 这样的东西中，OSS 社区的进步并没有那么快。
 
-[](https://stackshare.io/stackups/metabase-vs-redash-vs-superset) [## 元数据库 vs. Redash vs .超集|有什么区别？
-
-### 这是一种简单的方式来生成图表和仪表板，询问简单的特别查询，而不使用 SQL，并查看详细的…
-
-stackshare.io](https://stackshare.io/stackups/metabase-vs-redash-vs-superset) 
+<https://stackshare.io/stackups/metabase-vs-redash-vs-superset>  
 
 在过去的五年中，我广泛地使用了这三个工具，主要用于数据探索、查询编写和报告调度(读取 CSV 转储调度)。我目前正在为一个项目使用[超集](https://superset.apache.org/)，我喜欢它。访问[这个链接](https://superset.apache.org/gallery)，你会对这些工具的可视化能力有一个很好的了解。
 
@@ -88,8 +76,4 @@ stackshare.io](https://stackshare.io/stackups/metabase-vs-redash-vs-superset)
 
 我很快会写我最常读的作品之一[的续集，其中我将涵盖数据工程师、数据科学家和数据分析师的基本堆栈。如果你觉得我的文章有用，请订阅并查看我的文章🌲](/cataloging-tools-for-data-teams-8d62d7a4cd95)[Linktree。你也可以考虑用我的推荐链接购买一个中级会员来支持我。干杯！](linktree.com/kovid)
 
-[](https://kovidrathee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Kovid Rathee
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kovidrathee.medium.com\](https://kovidrathee.medium.com/membership)
+<https://kovidrathee.medium.com/membership> 

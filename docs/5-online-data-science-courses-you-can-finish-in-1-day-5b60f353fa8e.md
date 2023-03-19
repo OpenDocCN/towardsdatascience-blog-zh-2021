@@ -12,11 +12,7 @@
 
 当我想学习一项新技能、库或编程语言时，我必须在下班后(这并不理想)或周末去做。我经常尽我最大的努力在周末学习所有必要的知识。然而，我们都知道数据科学是一个广阔的领域，其下有许多特定的主题。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 如果每天都能学到一个新的技能或者概念岂不是很棒？然后进入下一个概念？例如，我知道你可以在一天或 24 小时内学会任何数据科学概念的基础知识。然后，一旦你很好地学习了这些基础知识，你就可以积累这些知识并开始构建应用程序。
 
@@ -28,7 +24,7 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 本课程分为 5 个模块，总体设计在 20 小时内完成。在这 20 个小时中，您将学习分析数据的关键技能，如清理和可视化数据，了解这样做所需的基本工具，如 SQL、R 和 Tableau，并建立一个专业、高效的开发环境。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 
@@ -44,11 +40,7 @@ towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-
 
 IBM 提供此课程，分为 4 个模块，可在 10 小时内完成。在本课程中，您将了解基本概念、工具和数据工程流程。您还将了解现代数据生态系统，以及数据科学家、数据工程师和数据分析如何在这个生态系统中互动。
 
-[](/5-databases-that-you-can-use-for-free-841cf81834bf) [## 5 个可以免费使用的数据库
-
-### 你不需要在高质量的数据库管理上花很多钱
-
-towardsdatascience.com](/5-databases-that-you-can-use-for-free-841cf81834bf) 
+</5-databases-that-you-can-use-for-free-841cf81834bf>  
 
 # №4:使用 AutoML 分析数据集和训练 ML 模型
 
@@ -62,11 +54,7 @@ towardsdatascience.com](/5-databases-that-you-can-use-for-free-841cf81834bf)
 
 本课程由 4 个模块组成，预计在 14 小时内完成，将向您介绍谷歌云平台的大数据功能。本课程将带您了解如何使用云 SQL 将您现有的 MySQL 工作负载迁移到 Google Cloud，以获得更快、更高效的管道。您还将学习如何查询数据和执行交互式分析，以便更好地理解您的数据。
 
-[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
-
-### 不管你的技术背景如何，都要学习 Python。
-
-towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+</9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4>  
 
 # 外卖食品
 

@@ -40,11 +40,7 @@ itertuples()花费 **16 秒**遍历一个包含 1000 万条记录的数据帧，
 
 > 阅读下面提到的文章，深入理解为什么 iterrows()比 itertuples()慢
 
-[](https://medium.com/swlh/why-pandas-itertuples-is-faster-than-iterrows-and-how-to-make-it-even-faster-bc50c0edd30d) [## 为什么 Pandas itertuples()比 iterrows()快，以及如何使它更快
-
-### 面向数据科学家的代码剖析教程
-
-medium.com](https://medium.com/swlh/why-pandas-itertuples-is-faster-than-iterrows-and-how-to-make-it-even-faster-bc50c0edd30d) 
+<https://medium.com/swlh/why-pandas-itertuples-is-faster-than-iterrows-and-how-to-make-it-even-faster-bc50c0edd30d>  
 
 # Numpy 数组迭代:
 
@@ -93,10 +89,6 @@ medium.com](https://medium.com/swlh/why-pandas-itertuples-is-faster-than-iterrow
 
 喜欢这篇文章吗？成为 [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

@@ -55,11 +55,7 @@ BFS 算法，逐步扩展。图片作者。
 
 # 推荐阅读
 
-[](/search-algorithm-depth-first-search-with-python-1f10da161980) [## 搜索算法-深度优先搜索，使用 Python
-
-### 从头开始 Python 实现
-
-towardsdatascience.com](/search-algorithm-depth-first-search-with-python-1f10da161980) 
+</search-algorithm-depth-first-search-with-python-1f10da161980>  
 
 # 参考
 

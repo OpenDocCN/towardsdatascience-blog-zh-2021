@@ -32,7 +32,7 @@
 
 提取在某种程度上是这种技术的扩展，通过提取，我们从函数中取出部分命名代码块，并用一种新的方法包围它们。这可以起到清理函数的作用，因为提取的代码只剩下对新方法的引用。这样做的另一个很酷的事情是使代码对其他方法可用，所以对于可能在整个包或模块中循环使用的代码，它甚至更有用。我写了一整篇关于这两种技术以及如何结合使用它们的深入文章，我认为这当然值得一读。如果你想成为一名更好的程序员，你可以在这里查看:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -48,11 +48,7 @@ towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2)
 
 此外，这两种语言都有标准的库工具，如 itertools.py。如果您想了解更多关于 itertools for Python 以及如何使用它的信息，我写了一整篇文章，您可以在这里查看:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 > 标题里也有“wicked”，挺激进的。
 

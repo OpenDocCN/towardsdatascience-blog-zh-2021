@@ -270,11 +270,7 @@ git clone [https://github.com/utk-ink/Defect-Detection-of-PCB.git](https://githu
 
 ****这是我的 GitHub 的链接，是整个代码** :-**
 
-**[](https://github.com/utk-ink/Defect-Detection-of-PCB) [## GitHub-utk-ink/Defect-Detection-of-PCB:为缺陷创建深度学习模型的知识库…
-
-### 为 PCB 缺陷检测创建深度学习模型并为其设计 Web 应用程序的存储库。…
-
-github.com](https://github.com/utk-ink/Defect-Detection-of-PCB) 
+**<https://github.com/utk-ink/Defect-Detection-of-PCB>  
 
 希望你喜欢！！！
 

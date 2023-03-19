@@ -222,19 +222,11 @@ jobs:
 
 查看我的自述
 
-[](https://github.com/rahulbanerjee26) [## rahulbanerjee26 —概述
-
-### 计算机工程学生@UofT 三月四月五月六月七月八月九月十月十一月十二月一月二月一月三日 Fri 创建了 3 个提交在 1…
-
-github.com](https://github.com/rahulbanerjee26) 
+<https://github.com/rahulbanerjee26>  
 
 一些很酷的读物的合集
 
-[](https://github.com/abhisheknaiidu/awesome-github-profile-readme) [## abhisheknaiidu/awesome-github-个人资料-自述文件
-
-### 代码模式👨🏽‍💻随时欢迎投稿！请先阅读投稿指南。在某种程度上…
-
-github.com](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 
+<https://github.com/abhisheknaiidu/awesome-github-profile-readme>  
 
 # 资源
 
@@ -250,18 +242,10 @@ github.com](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 我最近用 WordPress 创建了一个博客，如果你能看看的话，我会很高兴的😃
 
- [## Python 项目教程-使用这些 Python 项目教程改进您的简历/作品集。
-
-### 使用 Streamlit 共享部署您的机器学习 Web 应用程序在我以前的文章中，我谈到过构建一个…
-
-realpythonproject.com](https://realpythonproject.com/) 
+  
 
 在 LinkedIn 上与我联系
 
-[](https://www.linkedin.com/in/rahulbanerjee2699/) [## Rahul baner JEE——产品工程实习生——EY | LinkedIn
-
-### 查看 Rahul Banerjee 在世界上最大的职业社区 LinkedIn 上的个人资料。拉胡尔有 4 个工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/rahulbanerjee2699/) 
+<https://www.linkedin.com/in/rahulbanerjee2699/>  
 
 *原载于 2021 年 2 月 27 日*[*【http://www.realpythonproject.com】*](https://www.realpythonproject.com/a-free-tool-to-take-your-github-profile-to-the-next-level/)*。*

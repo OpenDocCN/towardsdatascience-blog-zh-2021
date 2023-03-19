@@ -26,11 +26,7 @@
 
 在接下来的章节中，我们将学习*条件概率*、*乘法法则*、*全概率定理*，最后是*贝叶斯定理*。
 
-[](/understanding-probability-models-and-axioms-c0f498972b80) [## 理解概率模型和公理
-
-### 为什么还要关心样本空间、事件和概率度量？
-
-towardsdatascience.com](/understanding-probability-models-and-axioms-c0f498972b80) 
+</understanding-probability-models-and-axioms-c0f498972b80>  
 
 但首先，让我们创建一个真实世界的场景，使我们能够非常直观地推导出基本概念。
 
@@ -122,11 +118,7 @@ C =机器 C；E =缺陷项目
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership) [## 通过我的推荐链接加入 Medium-Marvin Lanhenke
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@marvinlanhenke/membership) 
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

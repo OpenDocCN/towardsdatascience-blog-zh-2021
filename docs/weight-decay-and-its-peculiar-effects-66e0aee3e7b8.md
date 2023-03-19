@@ -74,11 +74,7 @@
 
 为了测试上述特性，我训练了一个带有跳跃连接的简单前馈网络，以学习对二进制编码的数字执行加法。您可以在这里找到完整的源代码:
 
-[](https://github.com/andylolu2/ml-weight-decay) [## GitHub-andylolo 2/ml-重量衰减
-
-### 了解体重衰减如何帮助模型进行归纳的知识库。你可以在 Medium 上阅读相关博客…
-
-github.com](https://github.com/andylolu2/ml-weight-decay) 
+<https://github.com/andylolu2/ml-weight-decay>  
 
 它在 2 位和 4 位加法上被训练，并且在 3 位加法上被测试以测量它的概括能力。以下是一个示例培训点:
 
@@ -142,11 +138,7 @@ github.com](https://github.com/andylolu2/ml-weight-decay)
 
 我在谷歌上寻找答案，看到了这篇文章:
 
-[](https://arxiv.org/abs/2106.15739) [## 具有批量归一化和权重衰减的神经网络训练的周期行为
-
-### 近年来，使用批量归一化和权重衰减来训练神经网络已经成为一种常见的做法。在…
-
-arxiv.org](https://arxiv.org/abs/2106.15739) 
+<https://arxiv.org/abs/2106.15739>  
 
 总之，这与批处理规范层的工作方式有关。
 
@@ -174,11 +166,7 @@ arxiv.org](https://arxiv.org/abs/2106.15739)
 
 # 密码
 
-[](https://github.com/andylolu2/ml-weight-decay) [## GitHub-andylolo 2/ml-重量衰减
-
-### 了解体重衰减如何帮助模型进行归纳的知识库。你可以在 Medium 上阅读相关博客…
-
-github.com](https://github.com/andylolu2/ml-weight-decay) 
+<https://github.com/andylolu2/ml-weight-decay>  
 
 # 参考
 

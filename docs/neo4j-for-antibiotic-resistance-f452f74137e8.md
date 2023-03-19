@@ -34,11 +34,7 @@
 
 在我以前的文章“[在图数据库中分析基因组](https://medium.com/geekculture/analyzing-genomes-in-a-graph-database-27a45faa0ae8)和“ [Neo4j 用于疾病](/neo4j-for-diseases-959dffb5b479)”中，我已经展示了我们可以将关系数据库中的生物数据转换成图，并发现新的见解。尽管有很多图形数据库，Neo4j 无疑是这个领域的领导者。它易于使用和扩展。它的密码语言很简单。最后但同样重要的是，图形数据科学库提供了许多强大的图形操作和机器学习能力。在本文中，我将向您展示如何将 CARD 转换为 Neo4j，并从数据中快速获取一些事实。这个项目的代码存放在我的 Github 仓库中:
 
-[](https://github.com/dgg32/card) [## GitHub—dgg 32/卡
-
-### 通过在 GitHub 上创建帐户，为 dgg 32/卡的开发做出贡献。
-
-github.com](https://github.com/dgg32/card) 
+<https://github.com/dgg32/card>  
 
 # 1.导入数据
 
@@ -120,8 +116,4 @@ github.com](https://github.com/dgg32/card)
 
 请尝试这个项目，告诉我你的经验。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

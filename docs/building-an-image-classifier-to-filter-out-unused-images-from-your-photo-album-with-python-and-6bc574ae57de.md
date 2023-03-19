@@ -110,11 +110,7 @@ streamlit run app.py
 
 如果你对机器学习设备感兴趣，这里有一个来自 MSI 的 3070 GPU 的附属链接:
 
-[](https://www.amazon.com/gp/product/B097MYTZMW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B097MYTZMW&linkCode=as2&tag=lucassoare079-20&linkId=1fd3f206c6077e5372d08c4518764124) [## 微星游戏 GeForce RTX 3070 LHR 8GB GDRR6 256 位 HDMI/DP Nvlink Torx 风扇 4 RGB 安培架构…
-
-### 微星标志性游戏系列的最新版本再次带来了高性能、低噪音效率和美学…
-
-www.amazon.com](https://www.amazon.com/gp/product/B097MYTZMW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B097MYTZMW&linkCode=as2&tag=lucassoare079-20&linkId=1fd3f206c6077e5372d08c4518764124) 
+<https://www.amazon.com/gp/product/B097MYTZMW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B097MYTZMW&linkCode=as2&tag=lucassoare079-20&linkId=1fd3f206c6077e5372d08c4518764124>  
 
 > 这是一个附属链接，如果你购买的产品，我得到一小笔佣金，干杯！:)
 

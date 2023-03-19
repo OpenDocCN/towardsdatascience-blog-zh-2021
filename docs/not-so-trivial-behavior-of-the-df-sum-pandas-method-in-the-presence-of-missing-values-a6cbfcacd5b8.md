@@ -245,16 +245,4 @@ dtype: float64
 
 你会发现这些文章也很有趣:
 
-[](/going-beyond-value-counts-creating-visually-engaging-frequency-tables-with-only-3-lines-of-code-3021c7756991) [## 超越 value_counts():只用 3 行代码创建视觉上引人入胜的频率表…
-
-### 一些你可能不知道的简单而有用的生活窍门
-
-towardsdatascience.com](/going-beyond-value-counts-creating-visually-engaging-frequency-tables-with-only-3-lines-of-code-3021c7756991) [](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [## 一个非常规但方便的 Matplotlib Broken_Barh 函数，当它特别…
-
-### 它是什么，如何使用和定制，何时使用
-
-towardsdatascience.com](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [## 当 Python 陷阱导致错误结果时
-
-### 一个奇怪的难以调试的带有舍入数字的 Python 故障
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe)
+</going-beyond-value-counts-creating-visually-engaging-frequency-tables-with-only-3-lines-of-code-3021c7756991>  </an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127>  <https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe> 

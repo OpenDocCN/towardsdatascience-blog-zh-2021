@@ -135,15 +135,7 @@ trending: 0.6662
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/introduction-to-backtesting-trading-strategies-7afae611a35e) [## 回溯测试交易策略简介
-
-### 了解如何使用 zipline 建立和回溯测试交易策略
-
-towardsdatascience.com](/introduction-to-backtesting-trading-strategies-7afae611a35e) [](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [## 开始学习时间序列预测的最佳书籍
-
-### 更妙的是，它是免费的！
-
-towardsdatascience.com](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) 
+</introduction-to-backtesting-trading-strategies-7afae611a35e>  </the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb>  
 
 # 参考
 

@@ -84,16 +84,4 @@
 
 ## **相关文章**
 
-**[](https://medium.com/geekculture/5-factors-that-contribute-to-successful-machine-learning-projects-340904446eff) [## 促成机器学习项目成功的 5 个因素
-
-### 虽然，这并不总是最佳的解决方案
-
-medium.com](https://medium.com/geekculture/5-factors-that-contribute-to-successful-machine-learning-projects-340904446eff) [](https://medium.com/geekculture/3-signs-you-dont-need-machine-learning-958199b30c34) [## 你不需要机器学习的 3 个迹象
-
-### 要么 ML 不能解决问题，要么它就是一个糟糕的决定
-
-medium.com](https://medium.com/geekculture/3-signs-you-dont-need-machine-learning-958199b30c34) [](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b) [## 如何设计一个机器学习系统
-
-### 学习笔记:用机器学习创造价值
-
-medium.com](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b)**
+**<https://medium.com/geekculture/5-factors-that-contribute-to-successful-machine-learning-projects-340904446eff>  <https://medium.com/geekculture/3-signs-you-dont-need-machine-learning-958199b30c34>  <https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b> **

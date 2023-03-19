@@ -10,11 +10,7 @@
 
 在我之前的文章中，我谈到了如何使用 sklearn 中的`Pipeline`类来简化您的机器学习工作流程。特别是，我谈到了如何使用各种转换器类(比如`SimpleImputer`、`StandardScaler`和`OneHotEncoder`)来转换管道中的数据。
 
-[](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b) [## 使用 Sklearn 管道简化您的机器学习过程
-
-### 了解 Pipeline 类如何简化和自动化您的机器学习工作流
-
-towardsdatascience.com](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b) 
+</using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b>  
 
 有些时候 sklearn 没有提供你需要的变压器。所以在这种情况下，你必须写你自己的 transformer 类，sklearn 的`Pipeline`类可以使用。
 
@@ -336,8 +332,4 @@ NotFittedError: This SimpleImputer instance is not fitted yet. Call 'fit' with a
 
 我希望这篇文章能揭示出变形金刚在幕后是如何工作的。特别是，我希望你现在理解`fit()`、`transform()`和`fit_transform()`功能之间的区别以及它们是如何工作的。更具体地说，我还希望您现在已经掌握了创建自己的自定义转换器的知识，它可以与`Pipeline`对象一起工作。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

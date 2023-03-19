@@ -110,19 +110,7 @@
 
 *嗨！感谢您完成这篇文章。大致说来，这是我的毕业论文的题目。为了介绍这个想法和建立前提，我抽象了一些技术细节。对于更倾向于技术的人，我添加了一些有用的文章列表。另外，如果你想知道更多，请打电话给我！更多内容请关注我:)*
 
-[](https://anweshrm.medium.com/) [## Anwesh Marwade -中等
-
-### 前阵子看了林等人的网络中的网络(NiN)一文，偶然发现一个奇特的卷积运算…
-
-anweshrm.medium.com](https://anweshrm.medium.com/) [](https://www.noldus.com/blog/what-is-rppg) [## 什么是 RPPG？诺尔杜斯
-
-### 这篇博客是由金村真子写的。在 Noldus 实习期间，她进行了一项验证研究…
-
-www.noldus.com](https://www.noldus.com/blog/what-is-rppg) [](https://pubmed.ncbi.nlm.nih.gov/17322588/) [## 光电容积描记术及其在临床生理测量中的应用
-
-### 光电容积描记术(PPG)是一种简单且低成本的光学技术，可用于检测血容量变化…
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/17322588/) 
+<https://anweshrm.medium.com/>  <https://www.noldus.com/blog/what-is-rppg>  <https://pubmed.ncbi.nlm.nih.gov/17322588/>  
 
 ## 参考资料:
 

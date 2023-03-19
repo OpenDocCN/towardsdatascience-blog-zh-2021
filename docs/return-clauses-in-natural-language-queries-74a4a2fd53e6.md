@@ -66,6 +66,6 @@ FactEngine 摒弃了令人费解的试探法，而是提供了一种受控的自
 
 感谢阅读。如果时间允许，我会写更多关于自然语言查询、对象-角色建模、图形查询和概念建模的文章。
 
-【https://github.com/cjheath/activefacts】NB 本文中表达的模型是 DataConstellation 的原始版权的衍生，正如之前在 GitHub 上的 ActiveFacts 项目下分享的:[](https://github.com/cjheath/activefacts)
+【https://github.com/cjheath/activefacts】NB 本文中表达的模型是 DataConstellation 的原始版权的衍生，正如之前在 GitHub 上的 ActiveFacts 项目下分享的:<https://github.com/cjheath/activefacts>
 
 — — — — — —结束— — —

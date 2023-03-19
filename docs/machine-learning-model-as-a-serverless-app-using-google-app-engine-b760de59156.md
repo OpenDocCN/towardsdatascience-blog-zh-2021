@@ -86,7 +86,7 @@ Streamlit 支持使用小部件与数据进行交互。(来源:streamlit.io)
 
 在我们开始有趣的部分之前，这里列出了一些重要的先决条件:
 
-*   *本文假设您已经拥有一个 GCP 账户。如果你没有，在这里注册*[](https://cloud.google.com/)**可以获得一些免费积分。**
+*   *本文假设您已经拥有一个 GCP 账户。如果你没有，在这里注册*<https://cloud.google.com/>**可以获得一些免费积分。**
 *   **要从您的本地机器与您的 GCP 帐户交互，请使用此处* *列出的* [*步骤安装 Google Cloud SDK。*](https://cloud.google.com/sdk/docs/quickstart)*
 *   *确保你的本地机器上安装了 Docker。没有的话，从 [*这里*](https://www.docker.com/products/docker-desktop) *下载。**
 *   **本文中的所有代码都是在 Windows 上用 Python 3.8 开发的。本文的代码和必要的文件可以在 GitHub 仓库* [*这里*](https://github.com/saedhussain/gcp_serverless_ml/tree/main/Iris_streamlit_app) *找到。**

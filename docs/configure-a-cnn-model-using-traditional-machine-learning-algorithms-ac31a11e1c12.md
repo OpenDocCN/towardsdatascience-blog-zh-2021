@@ -149,12 +149,4 @@ CNN 模型由两个主要部分组成。使用`‘model’`提取特征，它作
 
 ## 回到指引点击[这里](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 所有与机器学习相关的文章
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [](/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae) [## 主成分分析综合指南
-
-### 用 python 实现主成分分析的理论和实践部分
-
-towardsdatascience.com](/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae)
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d>  </comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae> 

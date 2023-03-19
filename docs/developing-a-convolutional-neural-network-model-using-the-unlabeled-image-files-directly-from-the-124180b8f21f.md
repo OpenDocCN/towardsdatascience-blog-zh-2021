@@ -10,11 +10,7 @@
 
 卷积神经网络是图像分类的重要工具。它也可以执行其他人工智能任务。但是本文将主要关注图像识别。我有一篇关于卷积神经网络的前向传递如何工作以及如何在 Tensorflow 和 Keras 中实现卷积神经网络的详细文章。请在这里随意查看:
 
-[](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [## 卷积神经网络:对层的良好理解和图像分类示例
-
-### 包含了大量的信息
-
-towardsdatascience.com](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) 
+</convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e>  
 
 在上面文章的例子中，每张图片都为我们做了标记。但是在现实世界中，图像并不总是被贴上标签，贴标签需要花费金钱和时间。因此，本文将使用一种不同的技术。
 
@@ -242,24 +238,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [## 在 Matplotlib 中放大和缩小以更好地理解数据
-
-### 为每个地块提供完整的代码
-
-towardsdatascience.com](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [](https://pub.towardsai.net/text-data-visualization-with-wordcloud-of-any-shape-in-python-8cec334e5c4f) [## 用 Python 中任意形状的 WordCloud 实现文本数据可视化
-
-### 学习生成任何形状的单词云
-
-pub.towardsai.net](https://pub.towardsai.net/text-data-visualization-with-wordcloud-of-any-shape-in-python-8cec334e5c4f) [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [## Python 中从头开始的完整异常检测算法:分步指南
-
-### 基于概率的异常检测算法
-
-towardsdatascience.com](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 大量不同种类的数据集
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [](/five-common-distance-measures-in-data-science-with-formulas-and-examples-da492e201a66) [## 数据科学中五种常见的距离度量，包括公式和示例
-
-### 欧几里德距离、曼哈顿距离、闵可夫斯基距离、汉明距离、余弦相似度，无需编码
-
-towardsdatascience.com](/five-common-distance-measures-in-data-science-with-formulas-and-examples-da492e201a66)
+</zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d>  <https://pub.towardsai.net/text-data-visualization-with-wordcloud-of-any-shape-in-python-8cec334e5c4f>  </a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a>  </five-common-distance-measures-in-data-science-with-formulas-and-examples-da492e201a66> 

@@ -28,15 +28,7 @@
 
 为了更好地理解比较频率分布的必要性，您需要先了解频率分布及其可视化。如果你对此没有任何想法，你可以阅读我以前关于频率分布和可视化的文章。
 
-[](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) [## 为了提高数据分析能力，你必须知道频率分布
-
-### 在 7 分钟内找到频率分布的所有基础知识
-
-towardsdatascience.com](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) [](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) [## 通过可视化频率分布找到数据集的模式
-
-### 通过可视化频率分布来深入了解数据集
-
-towardsdatascience.com](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) 
+</to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4>  </find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2>  
 
 ## 为什么我们需要比较频率分布？
 
@@ -100,7 +92,7 @@ towardsdatascience.com](/find-the-patterns-of-a-dataset-by-visualizing-frequency
 
 *   **如何自定义分组条形图**
 
-`[seaborn](https://seaborn.pydata.org/index.html)` 模块中的`[seaborn.countplot()](https://seaborn.pydata.org/generated/seaborn.countplot.html)` [](https://seaborn.pydata.org/generated/seaborn.countplot.html)函数有多个参数。通过改变这些参数，我们可以根据自己的需求定制图形。我们也可以按升序设置`x-axis` 值的顺序，并使用`hue_order` 参数更改色调顺序。
+`[seaborn](https://seaborn.pydata.org/index.html)` 模块中的`[seaborn.countplot()](https://seaborn.pydata.org/generated/seaborn.countplot.html)` <https://seaborn.pydata.org/generated/seaborn.countplot.html>函数有多个参数。通过改变这些参数，我们可以根据自己的需求定制图形。我们也可以按升序设置`x-axis` 值的顺序，并使用`hue_order` 参数更改色调顺序。
 
 ```
 import seaborn as snssns.countplot(x = ‘Exper_ordianl’, hue = ‘Pos’, data = wnba,

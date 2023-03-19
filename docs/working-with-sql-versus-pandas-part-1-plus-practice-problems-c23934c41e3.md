@@ -231,6 +231,6 @@ df_slice.sort_values(['age', 'fare'], ascending=[True, False])
 
 第二部分可以在这里找到:
 
-[](/working-with-sql-versus-pandas-part-2-plus-practice-problems-ae1c19aab114) [## 使用 SQL 与熊猫(第 2 部分)以及练习题
+</working-with-sql-versus-pandas-part-2-plus-practice-problems-ae1c19aab114> [## 使用 SQL 与熊猫(第 2 部分)以及练习题
 
 towardsdatascience.com](/working-with-sql-versus-pandas-part-2-plus-practice-problems-ae1c19aab114)

@@ -143,8 +143,4 @@ opts_chunk$set(dev='cairo_pdf')
 
 思考数据可视化中的可访问性？太好了！以下是一些开始的方法:
 
-[](/an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400) [## 易访问数据可视化的不完整指南
-
-### 做得更好的实用技巧。
-
-towardsdatascience.com](/an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400)
+</an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400> 

@@ -48,48 +48,8 @@ TensorFlow 是一个开源库，可以用来学习和开发机器学习模型。
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) [## 用 Python 发送错误电子邮件和文本消息
-
-### 杜绝错误的电子邮件龙卷风
-
-python .平原英语. io](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) [](https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3) [## 会话、令牌和 Cookies
-
-### 讨论 web 开发的构件。
-
-medium.com](https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3) [](https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195) [## 与 Kubernetes 的旅行
-
-### 第 5 部分:安装 Jenkins
-
-medium.com](https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195) [](/introduction-to-postgresql-part-3-83f64fa68ed) [## Postgresql 简介:第 3 部分
-
-### 插入、更新、删除的时间…
-
-towardsdatascience.com](/introduction-to-postgresql-part-3-83f64fa68ed) [](https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d) [## 托管您自己的 PyPi
-
-### 是的，有可能。
-
-python .平原英语. io](https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d) 
+<https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae>  <https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3>  <https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195>  </introduction-to-postgresql-part-3-83f64fa68ed>  <https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d>  
 
 参考资料:
 
-[](https://www.tutorialspoint.com/keras/keras_introduction.htm) [## Keras -简介
-
-### 深度学习是机器学习框架的主要分支之一。机器学习是对设计的研究…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/keras/keras_introduction.htm) [](https://keras.io/) [## keras:Python 深度学习 API
-
-### Keras 是为人类设计的 API，不是为机器设计的。Keras 遵循减少认知负荷的最佳实践:it…
-
-keras.io](https://keras.io/) [](https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article) [## Keras vs Tensorflow vs Pytorch:流行的深度学习框架
-
-### 深度学习是人工智能(AI)的一个子集，在过去几十年里，这个领域越来越受欢迎…
-
-www.simplilearn.com](https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article) [](https://www.tensorflow.org/) [## 张量流
-
-### 一个面向所有人的端到端开源机器学习平台。探索 TensorFlow 灵活的工具生态系统…
-
-www.tensorflow.org](https://www.tensorflow.org/) [](https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html) [## 什么是张量流？机器学习库解释说
-
-### 机器学习是一门复杂的学科。但是实现机器学习模型远没有那么令人畏惧和困难…
-
-www.infoworld.com](https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html)
+<https://www.tutorialspoint.com/keras/keras_introduction.htm>  <https://keras.io/>  <https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article>  <https://www.tensorflow.org/>  <https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html> 

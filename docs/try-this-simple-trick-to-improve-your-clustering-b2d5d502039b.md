@@ -21,7 +21,7 @@ k-means 是一种非常简单且普遍存在的聚类算法。但是通常它对
 
 如果你还没有读过我关于 k-means 的文章，可以去看看，因为我会经常引用那里介绍的主题。像往常一样，你也可以在我的 [GitHub](https://github.com/MSHelm/algorithms-from-scratch) 上找到这篇文章的所有代码。
 
-[](/a-deep-dive-into-k-means-f9a1ef2490f8) [## 对 k-means 的深入探究
+</a-deep-dive-into-k-means-f9a1ef2490f8> [## 对 k-means 的深入探究
 
 towardsdatascience.com](/a-deep-dive-into-k-means-f9a1ef2490f8) 
 

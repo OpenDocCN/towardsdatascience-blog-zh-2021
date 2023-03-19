@@ -48,11 +48,7 @@ FCE 神经网络示意图(图片由作者提供)
 
 已知的作用在球上的力有重力、阻力和升力，其中一些力根据球在轨迹中的位置以不同的大小和方向作用在球上。本文概述了物理方程和模拟器设计:
 
-[](/design-of-a-double-flywheel-variable-angle-ball-shooter-33221fa64866) [## 球飞行动力学与机器人投球手的设计
-
-### 第 1 部分，共 3 部分:标准，射手动力学和运动学，以及模拟算法
-
-towardsdatascience.com](/design-of-a-double-flywheel-variable-angle-ball-shooter-33221fa64866) 
+</design-of-a-double-flywheel-variable-angle-ball-shooter-33221fa64866>  
 
 我们假设访问测量的发射器配置 X_r 和发射结果 Y_r，以及带有发射器配置 X_s 和标签 Y_s 的模拟数据。X_r 和 Y_r 一起用于形成实验数据集 D _ r。X _ s 和 Y_s 一起用于形成模拟数据集 D_s。
 

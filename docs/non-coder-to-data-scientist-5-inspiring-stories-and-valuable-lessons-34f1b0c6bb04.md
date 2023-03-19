@@ -22,11 +22,7 @@
 
 编程是最大的阻碍之一。正是这种特殊的技能让许多人感到沮丧。这甚至会让他们放弃对数据科学职业的热情。编程并不是一件很难学的事情。然而，没有适当计划的接近可能会变坏。如果你正在寻找学习数据科学编码的正确方法，请阅读下面的文章。
 
-[](/cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37) [## 不会编码？这里是学习数据科学编码的最好方法
-
-### 学习编码成为数据科学家的路线图
-
-towardsdatascience.com](/cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37) 
+</cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37>  
 
 # 报名参加课程
 
@@ -92,11 +88,7 @@ towardsdatascience.com](/cant-code-here-is-the-best-way-to-learn-to-code-for-dat
 *   与来自相似背景、从事数据科学的人会面，有助于她更好地了解自己的优势和劣势。
 *   这是凯特的完整故事
 
-[](/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3) [## 我如何在 6 个月内从零编码技能成为数据科学家
-
-### 我用来自学数据科学的 4 个工具没有花一美元
-
-towardsdatascience.com](/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3) 
+</how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3>  
 
 ## Kelly 的梦想数据科学工作之旅
 
@@ -108,11 +100,7 @@ towardsdatascience.com](/how-i-went-from-zero-coding-skills-to-data-scientist-in
 *   她说关注科技博客在面试中帮助了她。
 *   这是凯利的完整故事，
 
-[](/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8) [## 如何在你梦想的公司找到一份数据科学家的工作——我的 Airbnb 之旅
-
-### 流程、提示和一些资源
-
-towardsdatascience.com](/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8) 
+</how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8>  
 
 ## Sarita 从化学工程到数据科学家的旅程
 
@@ -122,11 +110,7 @@ towardsdatascience.com](/how-to-land-a-data-scientist-job-at-your-dream-company-
 *   Sarita 说她的 SQL 和 Python 技能在工作中帮了她很大的忙
 *   以下是舍利塔的完整故事:
 
-[](https://www.institutedata.com/blog/how-sarita-launched-her-data-science-career-in-12-weeks/) [## Sarita 如何在 12 周内开始她的数据科学职业生涯|数据研究所
-
-### 职业变化，校友，分析，数据科学，数据技能，工程，行业培训，面试，工作…
-
-www.institutedata.com](https://www.institutedata.com/blog/how-sarita-launched-her-data-science-career-in-12-weeks/) 
+<https://www.institutedata.com/blog/how-sarita-launched-her-data-science-career-in-12-weeks/>  
 
 ## LinkedIn 影响者 Nick Ryan 的数据科学之旅
 
@@ -137,11 +121,7 @@ www.institutedata.com](https://www.institutedata.com/blog/how-sarita-launched-he
 *   尼克还谈到了建立职业关系网的优势
 *   下面是完整的旅程
 
-[](https://datacrunchcorp.com/the-data-scientists-journey-with-nic-ryan/) [## 数据科学家与 Nic Ryan 的旅程| DataCrunchCorp
-
-### 成为一名数据科学家需要什么？Nic Ryan 已经在该领域工作了十多年，回答了数千个问题…
-
-datacrunchcorp.com](https://datacrunchcorp.com/the-data-scientists-journey-with-nic-ryan/) 
+<https://datacrunchcorp.com/the-data-scientists-journey-with-nic-ryan/>  
 
 ## Rutger Ruizendaal 在攻读非数据科学硕士课程期间的数据科学之旅
 
@@ -154,11 +134,7 @@ datacrunchcorp.com](https://datacrunchcorp.com/the-data-scientists-journey-with-
 *   Rutger 在他的学习旅程中完成了大约 20+门数据科学相关的课程
 *   链接到下面的完整故事
 
-[](/my-journey-into-data-science-ac1d2e09ed03) [## 我的数据科学之旅
-
-### 欢迎来到我的博客！
-
-towardsdatascience.com](/my-journey-into-data-science-ac1d2e09ed03) 
+</my-journey-into-data-science-ac1d2e09ed03>  
 
 # 踏上数据科学之旅的提示
 
@@ -171,11 +147,7 @@ towardsdatascience.com](/my-journey-into-data-science-ac1d2e09ed03)
 *   找一个你可以向其寻求建议和意见的导师或人。导师会有助于发展你的职业关系网。有一个支持和指导的导师对做出正确的决定很有帮助。在你的职业生涯中，小而正确的决定会产生巨大的复合影响。
 *   不要依赖你报名参加的课程。实际接触在数据科学中同样重要。增加实际接触的一个好方法是通过做项目来学习。这里有一个关于通过做项目来学习数据的博客。
 
-[](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) [## 通过做项目完全学习数据科学的分步指南
-
-### 建立一个文件夹，在学习的过程中做好工作准备
-
-towardsdatascience.com](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) 
+</a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef>  
 
 *   有学习伙伴。它有助于解决复杂的问题和承担责任。与你的伙伴进行深入的技术讨论有助于更好地理解概念。
 *   学会写作，推广自己的作品。发挥你在数据科学领域的优势非常重要。这将有助于带来更好的机会。

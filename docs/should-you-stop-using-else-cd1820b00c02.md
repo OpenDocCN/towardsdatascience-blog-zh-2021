@@ -95,7 +95,7 @@ def else_test(x):
 
 在我关于代码重构的文章中，过度使用条件句是一种不好的编程实践。如果您还没有机会阅读那篇文章，可以在这里找到，我认为它确实值得一读:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 

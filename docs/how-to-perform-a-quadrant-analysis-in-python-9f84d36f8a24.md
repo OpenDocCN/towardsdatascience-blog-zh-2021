@@ -44,11 +44,7 @@ X 轴代表*人均国民总收入*，Y 轴代表*出生时预期寿命*，数据
 
 你可以参考下面这篇关于如何给散点图添加标签的文章*。*
 
-[](/how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a) [## 如何在 Matplotlib/ Seaborn 中向散点图添加文本标签
-
-### 使用 Seaborn 或 Matplotlib 库时，如何在 python 中向散点图添加文本标签的分步指南。
-
-towardsdatascience.com](/how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a) 
+</how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a>  
 
 ```
 plt.figure(figsize=(12,8))
@@ -103,26 +99,10 @@ Q4:人均国民总收入>平均值和预期寿命<平均值
 
 ## 作者的其他文章:
 
-[](/5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed) [## Python 中检查 NaN 值的 5 种方法
-
-### python 中如何检查单个值是否为 NaN？有一些方法正在使用图书馆(熊猫，数学和 numpy)和…
-
-towardsdatascience.com](/5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed) [](https://medium.datadriveninvestor.com/visualizing-option-trading-strategies-in-python-35bfa61151d9) [## 用 Python 可视化期权交易策略
-
-### 如何使用 python 中的 opstrat 包绘制期权收益图
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/visualizing-option-trading-strategies-in-python-35bfa61151d9) [](https://medium.com/mlearning-ai/stock-market-data-visualization-using-mplfinance-1d35a8d48e4) [## 使用 Mplfinance 的股票市场数据可视化
-
-### 如何获得股票市场数据和创建可视化(烛台，OHLC，PnF 等)。)在 Python 中使用 mplfinance…
-
-medium.com](https://medium.com/mlearning-ai/stock-market-data-visualization-using-mplfinance-1d35a8d48e4) 
+</5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed>  <https://medium.datadriveninvestor.com/visualizing-option-trading-strategies-in-python-35bfa61151d9>  <https://medium.com/mlearning-ai/stock-market-data-visualization-using-mplfinance-1d35a8d48e4>  
 
 你可以看看我的 EPL 预测系列中的下面这篇文章，在这篇文章中，我使用象限分析来比较基于 xG 得分和 xG 失球的足球队
 
-[](/epl-analysis-and-gameweek-22-prediction-91982b809802) [## EPL 分析和游戏周 22 预测
-
-### 使用 xG 统计预测英超联赛结果的数据驱动尝试
-
-towardsdatascience.com](/epl-analysis-and-gameweek-22-prediction-91982b809802) ![](img/2dc51a7ad5d88f37ec9f1950648e397f.png)
+</epl-analysis-and-gameweek-22-prediction-91982b809802>  ![](img/2dc51a7ad5d88f37ec9f1950648e397f.png)
 
 Nicolas Solerieu 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

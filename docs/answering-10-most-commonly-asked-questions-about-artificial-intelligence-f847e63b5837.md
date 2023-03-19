@@ -41,11 +41,7 @@
 
 我强烈推荐从下面提供的链接中查看下面这篇关于揭开人工智能神秘面纱的文章，以评估对该领域更高级的理解。
 
-[](/demystifying-artificial-intelligence-d2887879aaf1) [## 揭秘人工智能！
-
-### 打破人工智能领域和它的未来。
-
-towardsdatascience.com](/demystifying-artificial-intelligence-d2887879aaf1) 
+</demystifying-artificial-intelligence-d2887879aaf1>  
 
 # 2.AI 到底有多厉害？
 
@@ -131,11 +127,7 @@ towardsdatascience.com](/demystifying-artificial-intelligence-d2887879aaf1)
 
 要查看数据科学和人工智能的十个令人敬畏的现实世界应用，我强烈建议通过以下链接查看我以前的一篇文章。
 
-[](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) [## 数据科学和人工智能的 10 个令人敬畏的现实世界应用
-
-### 理解和分析人工智能和数据科学在现实世界中的日常使用！
-
-towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) 
+</10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74>  
 
 # 9.开始学习 AI 需要成为天才吗？
 
@@ -161,11 +153,7 @@ Stack overflow、Data stack exchange 和 GitHub 等网站是一些最受欢迎�
 
 我还强烈推荐阅读我的一篇文章，这篇 23 分钟的文章介绍了如何在 12 个月内掌握数据科学，包括 12 个基本步骤，每个月一个步骤。您可以通过下面提供的链接访问这篇文章。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # 结论:
 
@@ -183,26 +171,6 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [## 作为数据科学家要避免的 11 个关键错误！
-
-### 初学数据科学的爱好者会犯的十一个关键性错误是什么？
-
-towardsdatascience.com](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [## 当今时代的 8 项革命性人工智能技术！
-
-### 探索和分析即将或已经对世界产生巨大影响的 8 项人工智能技术！
-
-towardsdatascience.com](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  </pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  </11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028>  </8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0>  </mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

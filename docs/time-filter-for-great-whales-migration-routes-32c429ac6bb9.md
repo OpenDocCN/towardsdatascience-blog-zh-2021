@@ -18,7 +18,7 @@
 
 > “这种做法的目的是按年份过滤大鲸鱼的迁徙路线，并将 GPS 轨迹转换为线串。第二部分，基于动物行为参数寻找觅食点
 
-这个演示是大鲸迁徙路线中动物行为分析的第一部分。在第二部分，将包括识别觅食点的算法。看看演示中的觅食行为分析图: [**蓝鲸 GPS 追踪中的觅食点**](/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592) ，南极企鹅追踪中的觅食点[](/orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570)****。****
+这个演示是大鲸迁徙路线中动物行为分析的第一部分。在第二部分，将包括识别觅食点的算法。看看演示中的觅食行为分析图: [**蓝鲸 GPS 追踪中的觅食点**](/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592) ，南极企鹅追踪中的觅食点</orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570>****。****
 
 **大鲸行为分析的重点是了解在迁徙栖息地进食的相关性，以及这种策略是否会在它们生命周期的后期级联。分析迁徙路线需要回答的问题是:单个鲸鱼在这个迁徙栖息地停留多长时间？该地区的日常活动和活动是什么？是否在沿途的其他站点进行馈送？[1]**
 

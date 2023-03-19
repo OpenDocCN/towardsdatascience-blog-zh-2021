@@ -92,12 +92,4 @@
 
 # 相关文章
 
-[](https://medium.com/@angelica.loduca/getting-started-with-d3-js-maps-593d4e68338c) [## D3.js 地图入门
-
-medium.com](https://medium.com/@angelica.loduca/getting-started-with-d3-js-maps-593d4e68338c) [](/how-to-insert-a-python-graph-into-an-html-web-site-688754f67e1c) [## 如何将 Python 图形插入 HTML 网站
-
-towardsdatascience.com](/how-to-insert-a-python-graph-into-an-html-web-site-688754f67e1c) [](/how-to-build-a-narrative-from-data-85e327940c13) [## 如何从数据中构建叙事
-
-### 根据设置-冲突-解决范式分析数据的一些技巧
-
-towardsdatascience.com](/how-to-build-a-narrative-from-data-85e327940c13)
+<https://medium.com/@angelica.loduca/getting-started-with-d3-js-maps-593d4e68338c>  </how-to-build-a-narrative-from-data-85e327940c13> 

@@ -10,21 +10,13 @@
 
 ulia 是一种相当新的、开创性的编程语言，早在 2012 年就发布了。在从那时到 2020 年的短暂时间内，生态系统的规模和语言的构建绝对是爆炸性的。只要看看编程语言 Github stars 的受欢迎程度，就很容易看出这种语言在过去几年里取得了多大的成就。如果你想进一步了解我为什么如此热爱这门语言，我在这里写了一整篇关于我有多爱这门语言的文章:
 
-[](/how-i-came-to-love-the-julia-language-948c32e2f9b0) [## 我是如何爱上朱莉娅语言的
-
-### 为什么 Julia 迅速成为我最喜欢的数据科学编程语言
-
-towardsdatascience.com](/how-i-came-to-love-the-julia-language-948c32e2f9b0) ![](img/917ed57113ab4bd73f348f786d25eb35.png)
+</how-i-came-to-love-the-julia-language-948c32e2f9b0>  ![](img/917ed57113ab4bd73f348f786d25eb35.png)
 
 (src =传说中的自己，病毒性沙阿(【https://twitter.com/Viral_B_Shah/status/1319764967760056320】T2))
 
 朱莉娅的成功最终与科学生态系统普遍经历的快速机器学习增长相关联。有趣的是，这也是我开始写关于朱莉娅的文章的时候。作为时光倒流，这里有一篇我当时写的关于语言及其在机器学习中的未来的文章。
 
-[](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) [## 使用 Julia 进行机器学习之前需要知道的事情
-
-### Julia 是一种高级动态编程语言，它本身有一些有趣的特点和特性，这使得…
-
-towardsdatascience.com](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) 
+</things-to-know-before-using-julia-for-machine-learning-487744c0b9b2>  
 
 回顾过去是很棒的，因为这让我很高兴以这种方式通过分享信息、教学和演讲做出了贡献。所以作为开场白，我要感谢你给了我发言权。此外，他们已经放弃了我在文章中抱怨的口号，我觉得很好笑！
 
@@ -34,11 +26,7 @@ towardsdatascience.com](/things-to-know-before-using-julia-for-machine-learning-
 
 需要明确的是，本文是关于优化和编写有效的 Julia 代码，而不是关于如何学习 Julia 的教程。如果你对学习这门语言感兴趣，我现在正在做一套全面的 Julia 教程，它肯定会帮助你学习这门语言。除了这篇文章，还有一些视频可以播放，真正针对更多听觉、视觉和更常见的动觉学习者。我个人来说，我从文字学的很好，所以我是程序员是一件好事！以下是 Youtube 上完整播放列表的链接，以及我最近关于 TDS 的文章:
 
-[](/intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683) [## Julia 编程语言中的软件工程介绍
-
-### Julia 语言中定义的目录和环境概述。
-
-towardsdatascience.com](/intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683) 
+</intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683>  
 
 # 结构
 
@@ -53,11 +41,7 @@ end
 
 我还有一整篇文章详细介绍了如何做到这一点，你可以在这里查看:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 如果我们希望编译器知道这些类型，这将提高代码的效率，我们也可以在下面的代码中声明这些类型:
 
@@ -288,11 +272,7 @@ end
 
 如果你想了解更多关于 Julia 语言中面向对象编程的知识，我最近写了一篇关于它的很棒的文章，你可以在这里查看:
 
-[](/how-to-turn-julia-into-python-6ab13dafb84) [## 如何把茱莉亚变成 Python！
-
-### 如何在 Julia 编程语言中使用面向对象编程范式？
-
-towardsdatascience.com](/how-to-turn-julia-into-python-6ab13dafb84) 
+</how-to-turn-julia-into-python-6ab13dafb84>  
 
 # 结论
 

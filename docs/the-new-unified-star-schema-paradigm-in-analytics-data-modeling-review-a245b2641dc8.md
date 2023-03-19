@@ -140,8 +140,4 @@ USS 模式有助于解决以下挑战:
 
 这本书和播客的链接可以在下面找到:
 
- [## 统一星型模式:数据仓库和分析设计的敏捷和弹性方法
-
-### Amazon.com:统一星型模式:数据仓库和分析设计的敏捷和弹性方法电子书…
-
-www.amazon.com](https://www.amazon.com/Unified-Star-Schema-Resilient-Warehouse-ebook-dp-B08KQF3QL7/dp/B08KQF3QL7/ref=mt_other?_encoding=UTF8&me=&qid=)
+ 

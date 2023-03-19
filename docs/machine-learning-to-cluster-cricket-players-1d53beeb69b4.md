@@ -303,7 +303,7 @@ Scipy 包提供了包 DBSCAN 来执行这种基于密度的聚类。ε(EPS)和�
 
 # 数据集和源代码
 
-原始数据已从这里下载: [IPL 原始数据](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020) [](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020) 这包含了从 2008 年到 2020 年所有 IPL 比赛的逐球和比赛级别细节。
+原始数据已从这里下载: [IPL 原始数据](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020) <https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020> 这包含了从 2008 年到 2020 年所有 IPL 比赛的逐球和比赛级别细节。
 
 Git 路径:[https://github.com/Lakshmi-1212/IPL_PlayerClusters](https://github.com/Lakshmi-1212/IPL_PlayerClusters)
 

@@ -207,20 +207,4 @@ CAP 定理证明了任何分布式系统都不能同时保证 C、A 和 P。换�
 
 更多阅读:
 
-[](/creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559) [## 如何在 Python 中为您的数据分析创建漂亮的 GIF
-
-### 几行代码中的交互性和动画
-
-towardsdatascience.com](/creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559) [](/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) [## 数据可视化的降维:主成分分析与 TSNE、UMAP 和线性判别分析
-
-### 使用 PCA、TSNE、LDA 和 UMAP 可视化高维数据集
-
-towardsdatascience.com](/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) [](/most-useful-python-functions-for-time-series-analysis-ed1a9cb3aa8b) [## 用于时间序列分析的最有用的 Python 函数
-
-### 所有这些功能都将在一个用例上进行测试，帮助您更好地进行分析并获得更好的洞察力
-
-towardsdatascience.com](/most-useful-python-functions-for-time-series-analysis-ed1a9cb3aa8b) [](/statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168) [## 统计测试:了解如何为您的数据选择最佳测试！
-
-### 这篇文章面向有抱负的数据科学家和机器学习(ML)学习者和实践者。
-
-towardsdatascience.com](/statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168)
+</creating-beautiful-gif-with-python-for-your-data-analysis-ac50c618b559>  </dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29>  </most-useful-python-functions-for-time-series-analysis-ed1a9cb3aa8b>  </statistical-testing-understanding-how-to-select-the-best-test-for-your-data-52141c305168> 

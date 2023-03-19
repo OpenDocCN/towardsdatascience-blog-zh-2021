@@ -184,7 +184,7 @@ A value is trying to be set on a copy of a slice from a DataFrame.
 
 **一般情况下，您需要确保使用** `**loc**` **进行标签索引，使用** `**iloc**` **进行整数或位置索引，因为这样可以保证它们对原始对象进行操作。关于** `**loc**` **和** `**iloc**` **之间的区别以及如何使用它们的更多细节，请务必阅读下面的文章。**
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
+</loc-vs-iloc-in-pandas-92fc125ed8eb> [## 熊猫中的 loc 与 iloc
 
 towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) 
 
@@ -220,11 +220,7 @@ Try using .loc[row_indexer,col_indexer] = value insteadSee the caveats in the do
 
 理解 Python 对象的浅层副本和深层副本之间的潜在差异也很重要。如果你想了解更多，请务必阅读下面的文章。
 
-[](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [## Python 中浅拷贝和深拷贝有什么区别？
-
-### Python 中的 copy()与 deepcopy()
-
-towardsdatascience.com](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) 
+</whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926>  
 
 ## 无视警告
 
@@ -293,12 +289,4 @@ Try using .loc[row_indexer,col_indexer] = value insteadSee the caveats in the do
 
 在这篇文章中，我们探讨了很多概念，如索引，切片，复制等。下面的文章更深入地讨论了这些概念，所以一定要读一读，以确保你能理解这篇文章中解释的所有概念。
 
-[](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+</mastering-indexing-and-slicing-in-python-443e23457125>  </dynamic-typing-in-python-307f7c22b24e> 

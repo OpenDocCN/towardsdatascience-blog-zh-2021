@@ -36,25 +36,13 @@
 
 *借助 Python [**Re**](https://docs.python.org/3/library/re.html) 库，可以高效地完成特殊字符和数字的删除。一些必备知识是 Python 中的[**正则表达式**](https://github.com/python/cpython/blob/3.9/Lib/re.py) 。*
 
-*[](https://medium.com/better-programming/introduction-to-regex-8c18abdd4f70) [## 正则表达式简介
-
-### 使用 Python 逐步介绍正则表达式
-
-medium.com](https://medium.com/better-programming/introduction-to-regex-8c18abdd4f70)  [## Python 正则表达式
-
-### 正则表达式可以被认为是指定文本模式的小型语言
-
-medium.com](https://medium.com/@devopslearning/python-regular-expression-8ee28d35f3a7) 
+*<https://medium.com/better-programming/introduction-to-regex-8c18abdd4f70>    
 
 ## 案例转换
 
 通过成功完成上述步骤，您现在拥有了一个仅包含字母的商家名称数据集。但是，您可能仍然会发现一些商家名称的大小写不同，例如“amazon”、“Amazon”或“AMAZON”。要转换案例，可以在以下文章中找到一些有用的字符串函数:
 
-[](/useful-string-functions-that-few-people-use-in-python-5a071fb0cbd1) [## Python 中很少有人使用的有用的字符串函数
-
-### 如果 Python 提供的话就不要重新发明轮子了！
-
-towardsdatascience.com](/useful-string-functions-that-few-people-use-in-python-5a071fb0cbd1) 
+</useful-string-functions-that-few-people-use-in-python-5a071fb0cbd1>  
 
 # 第二层:计算相似性得分表
 
@@ -64,11 +52,7 @@ towardsdatascience.com](/useful-string-functions-that-few-people-use-in-python-5
 
 FuzzyWuzzy 是一个 Python 库，它使用 [**Levenshtein 距离**](https://en.wikipedia.org/wiki/Levenshtein_distance) 来计算一个简单易用的包中序列之间的差异。
 
-[](https://github.com/seatgeek/fuzzywuzzy) [## seatgeek/fuzzywuzzy
-
-### 像老板一样的模糊字符串匹配。它使用 Levenshtein 距离来计算序列间的差异
-
-github.com](https://github.com/seatgeek/fuzzywuzzy) 
+<https://github.com/seatgeek/fuzzywuzzy>  
 
 使用 FuzzyWuzzy 的一些实例如下:
 
@@ -104,15 +88,7 @@ github.com](https://github.com/seatgeek/fuzzywuzzy)
     100
 ```
 
-[](/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49) [## 用 Python 实现模糊字符串匹配的自然语言处理
-
-### 在计算机科学中，模糊字符串匹配是一种寻找与模式近似匹配的字符串的技术…
-
-towardsdatascience.com](/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49) [](/string-matching-with-fuzzywuzzy-e982c61f8a84) [## 用 FuzzyWuzzy 进行字符串匹配
-
-### 本教程将介绍如何通过相似性来匹配字符串。FuzzyWuzzy 可以节省你大量的时间…
-
-towardsdatascience.com](/string-matching-with-fuzzywuzzy-e982c61f8a84) 
+</natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49>  </string-matching-with-fuzzywuzzy-e982c61f8a84>  
 
 或者，[**sequence matcher**](https://github.com/python/cpython/blob/master/Lib/difflib.py)也是一个常用于计算输入之间相似性的伟大工具。
 
@@ -127,11 +103,7 @@ towardsdatascience.com](/string-matching-with-fuzzywuzzy-e982c61f8a84)
 0.866
 ```
 
-[](/sequencematcher-in-python-6b1e6f3915fc) [## Python 中的序列匹配器
-
-### 一个人性化的最长连续无垃圾序列比较器
-
-towardsdatascience.com](/sequencematcher-in-python-6b1e6f3915fc) 
+</sequencematcher-in-python-6b1e6f3915fc>  
 
 ## 定制相似性函数&计算相似性表
 
@@ -188,15 +160,7 @@ similarity.head()def top(x):
 test.head()
 ```
 
-[](https://stackoverflow.com/questions/29919306/find-the-column-name-which-has-the-maximum-value-for-each-row) [## 查找每行中具有最大值的列名
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/29919306/find-the-column-name-which-has-the-maximum-value-for-each-row) [](https://stackoverflow.com/questions/37494844/find-the-column-names-which-have-top-3-largest-values-for-each-row) [## 查找每行前 3 个最大值的列名
-
-### 例如，数据看起来像这样:df={'a1':[5，6，3，2，5]，' a2':[23，43，56，2，6]，' a3':[4，2，3，6，7]…
-
-stackoverflow.com](https://stackoverflow.com/questions/37494844/find-the-column-names-which-have-top-3-largest-values-for-each-row) 
+<https://stackoverflow.com/questions/29919306/find-the-column-name-which-has-the-maximum-value-for-each-row>  <https://stackoverflow.com/questions/37494844/find-the-column-names-which-have-top-3-largest-values-for-each-row>  
 
 通过成功实现上述代码单元，您应该得到如下所示的返回数据集:
 
@@ -226,11 +190,7 @@ stackoverflow.com](https://stackoverflow.com/questions/37494844/find-the-column-
 
 一个免费的短期空间课程可以找到如下:
 
-[](https://course.spacy.io/en) [## 带空间的高级自然语言处理免费在线课程
-
-### spaCy 是一个用于工业级自然语言处理的现代 Python 库。在这个自由和互动的…
-
-course.spacy.io](https://course.spacy.io/en) 
+<https://course.spacy.io/en>  
 
 根据 [**空间指南**](https://spacy.io/usage/training#section-basics) :
 
@@ -238,11 +198,7 @@ course.spacy.io](https://course.spacy.io/en)
 
 它具有最先进的速度、**卷积神经网络**模型，用于标记、解析和**命名实体识别**以及轻松的深度学习集成。这是在麻省理工学院许可下发布的商业开源软件。
 
-[](https://github.com/explosion/spaCy) [## 爆炸/空间
-
-### spaCy 是 Python 和 Cython 中的高级自然语言处理库。它建立在最新的……
-
-github.com](https://github.com/explosion/spaCy) 
+<https://github.com/explosion/spaCy>  
 
 由于商家名称清洗问题可以归入**命名实体识别** (NER)的主题下，我相信通过输入一组**有代表性的**输入数据，spaCy 模型会有很好的表现。
 
@@ -273,19 +229,7 @@ TRAIN_DATA =
 
 我选择的训练数据只是一个样本。该模型可以接受更复杂的输入。但是，注释一长串商家名称可能会有点无聊。我想推荐另一个数据标注工具 [***UBIAI***](https://ubiai.tools/Docs) 来完成这个任务，因为它支持 spaCy 格式甚至亚马逊理解格式的输出。
 
- [## 易于使用的文本注释工具|上传文档，开始注释，并创建高级 NLP…
-
-### 易于使用的文本注释工具|上传 PDF、CSV、Docx、html 或 ZIP 格式的文档，开始注释，并创建…
-
-ubiai.tools](https://ubiai.tools/) [](https://medium.com/@walidamamou/how-to-automate-job-searches-using-named-entity-recognition-part-1-16c150acafa0) [## 如何使用命名实体识别自动搜索工作—第 1 部分
-
-### 找工作的简单有效的方法
-
-medium.com](https://medium.com/@walidamamou/how-to-automate-job-searches-using-named-entity-recognition-part-1-16c150acafa0) [](https://medium.com/swlh/building-a-job-entity-recognizer-using-amazon-comprehend-5dd2c33faa82) [## 使用 Amazon understand 构建作业实体识别器
-
-### 介绍
-
-medium.com](https://medium.com/swlh/building-a-job-entity-recognizer-using-amazon-comprehend-5dd2c33faa82) 
+  <https://medium.com/@walidamamou/how-to-automate-job-searches-using-named-entity-recognition-part-1-16c150acafa0>  <https://medium.com/swlh/building-a-job-entity-recognizer-using-amazon-comprehend-5dd2c33faa82>  
 
 可能需要一些如何选择代表**数据输入的经验。随着你练习得越来越多，观察空间模型学习的方式，你会越来越清楚“代表”可能意味着“不同的位置”。这就是为什么我们需要在输入数据中提供一个实体 start & end 索引的原因，因为它可以帮助模型从不同的上下文中学习模式。**
 
@@ -334,15 +278,7 @@ for ent in doc.ents:
 
 上面的代码来自下面的 Medium 文章，因为我发现它非常有帮助，并启发我测试 spaCy 的一个商家名称清洗问题。
 
-[](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6) [## 如何使用 spaCy 自定义训练数据训练 NER？
-
-### 使用我们的自定义数据集训练空间名称实体识别(NER)
-
-manivannan-ai.medium.com](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6) [](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/) [## 如何训练空间自动检测新实体(NER)[完全指南]
-
-### 命名实体识别(NER)是自动识别文本中讨论的实体的过程
-
-www.machinelearningplus.com](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/) 
+<https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6>  <https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/>  
 
 ## 评估空间模型
 
@@ -423,11 +359,7 @@ for ent in doc.ents:
 
 如果您想了解更多关于 Streamlit 的知识，下面这篇文章是一个好的开始。
 
-[](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [## Streamlit 和 spaCy:创建一个应用程序来预测情绪和单词的相似性，最小域…
-
-### 只需要 10 行代码！
-
-towardsdatascience.com](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) 
+</streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4>  
 
 由于之前我们已经将空间训练函数定义为 **train_spacy** ，剩下的工作将在 10 行代码之内。这也是我认为我应该在同一篇文章下给出一个更新的原因🤗
 

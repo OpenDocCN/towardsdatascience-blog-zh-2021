@@ -12,11 +12,7 @@
 
 我们将要改变的库来自我以前写的一篇关于如何在 Go 中实现 DDD 的文章。在那篇文章中，我解释了 Eric Evans 所解释的 DDD 的所有组成部分。这个库可以在 [GitHub](https://github.com/percybolmer/ddd-go) 上找到。
 
-[](/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d) [## 如何在 Golang 中实现领域驱动设计(DDD)
-
-### 学习如何在 Go 应用程序中使用 DDD 的简单方法
-
-towardsdatascience.com](/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d) 
+</how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d>  
 
 > 本文中绘制的所有图像均由珀西·博尔梅勒绘制，地鼠由[拓也·上田](https://twitter.com/tenntenn)绘制，灵感来自蕾妮·弗伦奇的作品。图像中的地鼠已被修改
 

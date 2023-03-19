@@ -244,14 +244,6 @@ PEP8 是广泛使用的编写 Python 代码的风格指南，它陈述了以下�
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/working-with-amazon-s3-buckets-with-boto3-785252ea22e0) [## 使用 Boto3 处理亚马逊 S3 桶。
-
-### 完整的备忘单。
-
-towardsdatascience.com](/working-with-amazon-s3-buckets-with-boto3-785252ea22e0) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
+</monte-carlo-dropout-7fd52f8b6571>  </working-with-amazon-s3-buckets-with-boto3-785252ea22e0>  </the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> [## 贝叶斯数据分析最温和的介绍
 
 towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25)

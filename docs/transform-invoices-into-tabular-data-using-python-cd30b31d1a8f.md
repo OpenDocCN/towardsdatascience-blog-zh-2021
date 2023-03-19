@@ -130,19 +130,7 @@ APM_re_internal=re.compile(r"^AUTHORIZED:")
 
 以下是我的一些最佳选择:
 
-[](/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784) [## 逐步使用 Flask & Python 部署自定义对象检测
-
-### 自定义对象检测本地主机部署| YOLO
-
-towardsdatascience.com](/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784) [](/7-amazing-python-one-liners-you-must-know-413ae021470f) [## 你必须知道的 7 个惊人的 Python 一行程序
-
-### 加速熊猫，快速数据剖析，数据抓取，等等
-
-towardsdatascience.com](/7-amazing-python-one-liners-you-must-know-413ae021470f) [](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) [## 让你惊叹的 10 个 Python 技巧
-
-### 提高 Python 编程技能的便利特性
-
-better 编程. pub](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) [](/5-data-science-projects-that-you-can-complete-over-the-weekend-34445b14707d) [## 你可以在周末完成的 5 个数据科学项目
+</step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784>  </7-amazing-python-one-liners-you-must-know-413ae021470f>  <https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a>  </5-data-science-projects-that-you-can-complete-over-the-weekend-34445b14707d> [## 你可以在周末完成的 5 个数据科学项目
 
 towardsdatascience.com](/5-data-science-projects-that-you-can-complete-over-the-weekend-34445b14707d) 
 

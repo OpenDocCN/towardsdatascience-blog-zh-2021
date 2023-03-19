@@ -22,11 +22,7 @@ AI 正在抢走很多工作。但它也创造了新的。作者图片
 
 像底特律衰落这样的故事令人心痛。但有理由相信，在人工智能推动的革命方面，历史不会重演。
 
-[](/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66) [## 为什么 Python 不是未来的编程语言
-
-### 尽管未来几年对它的需求量会很大
-
-towardsdatascience.com](/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66) 
+</why-python-is-not-the-programming-language-of-the-future-30ddc5339b66>  
 
 # 采用机器人的公司雇佣更多的工人
 
@@ -98,11 +94,7 @@ towardsdatascience.com](/why-python-is-not-the-programming-language-of-the-futur
 
 人工智能创造的就业机会将超过它摧毁的就业机会。但我们需要人工智能来确保这些新工作的公平分配。
 
-[](https://medium.datadriveninvestor.com/at-the-origin-of-c-were-a-school-teacher-and-a-string-of-failures-efebcb6c91db) [## C 的起源是一个学校老师和一连串的失败
-
-### 在一些非常慢的计算机的帮助下，它还是成功了
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/at-the-origin-of-c-were-a-school-teacher-and-a-string-of-failures-efebcb6c91db) 
+<https://medium.datadriveninvestor.com/at-the-origin-of-c-were-a-school-teacher-and-a-string-of-failures-efebcb6c91db>  
 
 # 投资于您的员工
 

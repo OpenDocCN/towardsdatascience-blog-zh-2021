@@ -122,10 +122,6 @@ for i in product(['Yes', 'No'], repeat=2):
 
 到目前为止，我希望您已经理解了在某些情况下何时使用 Itertools 模块中的这 4 个函数。我也将它们组织在下图中。希望能说的更清楚一点！
 
-![](img/3b0847eadeefbdd48adebbcbdc5ab5a4.png)[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+![](img/3b0847eadeefbdd48adebbcbdc5ab5a4.png)<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

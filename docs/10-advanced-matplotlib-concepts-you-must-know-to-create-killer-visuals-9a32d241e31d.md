@@ -28,19 +28,11 @@
 >>> plt.rcdefaults()
 ```
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 2️⃣.Get_*函数
 
@@ -225,11 +217,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 你可以掌握每一个 Matplotlib 函数和类，但你仍然不是 Leonardo da Matplotlib。很抱歉，在你开始画这样的东西之前，还需要几个月的时间:
 
-[](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-2256a4c54b12) [## 是的，这些令人难以置信的杰作是用 Matplotlib 创作的
-
-### 编辑描述
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-2256a4c54b12) 
+<https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-2256a4c54b12>  
 
 问题不在于你知道多少功能和“高级”概念，而在于你如何使用它们。
 
@@ -237,18 +225,6 @@ ibexorigin.medium.com](https://ibexorigin.medium.com/yes-these-unbelievable-mast
 
 ## 在你离开之前，这里有一些我的读者喜欢的帖子。查看它们:
 
-[](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) [## 多类分类指标综合指南
+</comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd> [## 多类分类指标综合指南
 
-towardsdatascience.com](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) [](/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8) [## 你从来不知道存在的 25 个 NumPy 函数| P(保证= 0.85)
-
-### 成为一名忍者
-
-towardsdatascience.com](/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 让我来揭示秘密…
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [## 如何像专家一样处理百万行数据集
-
-towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
-
-towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c)
+towardsdatascience.com](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) </25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd> 

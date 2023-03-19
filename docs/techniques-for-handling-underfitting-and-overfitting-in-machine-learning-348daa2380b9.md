@@ -12,11 +12,7 @@
 
 在我之前的一篇文章中，我谈到了偏差-方差权衡。我们讨论了偏差-方差与模型复杂性的关系，以及欠拟合和过拟合的情况。如果您不理解这些术语，我鼓励您阅读这篇文章:
 
-[](/bias-variance-trade-off-7b4987dd9795) [## 偏差方差权衡
-
-### 了解偏差、方差和总误差与模型复杂性和过度拟合/欠拟合的关系。
-
-towardsdatascience.com](/bias-variance-trade-off-7b4987dd9795) 
+</bias-variance-trade-off-7b4987dd9795>  
 
 让我们快速回顾一下下图。
 

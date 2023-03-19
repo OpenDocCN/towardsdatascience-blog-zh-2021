@@ -371,11 +371,7 @@ olsr_results = olsr_model.**fit**()****
 
 ******为了对计算有个感觉，我建议你参考下面的文章。它包含泊松模型似然性的示例计算:******
 
-******[](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) 
+******</an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  
 
 **对数似然**就是拟合模型似然的自然对数。
 
@@ -419,23 +415,11 @@ towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50
 
 有关如何在基于离散(计数)的数据集上拟合此类非线性模型，请参见我的泊松和负双项回归模型教程:
 
-[](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [](/negative-binomial-regression-f99031bb25b4) [## 负二项式回归:逐步指南
-
-### 外加一个关于负二项式回归的 Python 教程
-
-towardsdatascience.com](/negative-binomial-regression-f99031bb25b4) 
+</an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  </negative-binomial-regression-f99031bb25b4>  
 
 另请查看:
 
-[](/generalized-linear-models-9ec4dfe3dc3f) [## 广义线性模型
-
-### 它们是什么？我们为什么需要它们？
-
-towardsdatascience.com](/generalized-linear-models-9ec4dfe3dc3f) 
+</generalized-linear-models-9ec4dfe3dc3f>  
 
 # 参考文献、引文和版权
 
@@ -453,7 +437,7 @@ d .麦克法登(1974)， [*定性选择行为的条件逻辑分析*](https://eml
 
 卡梅伦和弗兰克温德梅杰。(1996).*应用于医疗保健利用的计数数据回归模型的 R 平方测量*。商业杂志&经济统计， *14* (2)，209–220。doi:10.2307/1392433[PDF 下载链接 ](http://cameron.econ.ucdavis.edu/research/jbes96preprint.pdf)
 
-A.Colin Cameron，Frank A.G. Windmeijer，[](https://www.sciencedirect.com/science/article/pii/S0304407696018180)*一些常见非线性回归模型拟合优度的 R 平方度量，计量经济学杂志，第 77 卷，1997 年第 2 期，第 329-342 页，ISSN 0304-4076，
+A.Colin Cameron，Frank A.G. Windmeijer，<https://www.sciencedirect.com/science/article/pii/S0304407696018180>*一些常见非线性回归模型拟合优度的 R 平方度量，计量经济学杂志，第 77 卷，1997 年第 2 期，第 329-342 页，ISSN 0304-4076，
 [https://doi . org/10.1016/s 0304-4076(96)01818-0](https://doi.org/10.1016/S0304-4076(96)01818-0.)[PDF 下载链接 ](http://faculty.econ.ucdavis.edu/faculty/cameron/research/je97preprint.pdf)*
 
 *名词（noun 的缩写）J. D. Nagelkerke， [*关于决定系数*](https://academic.oup.com/biomet/article-abstract/78/3/691/256225) 一般定义的注记，《生物计量学》，第 78 卷，第 3 期，1991 年 9 月，第 691-692 页，【https://doi.org/10.1093/biomet/78.3.691】T4。 [**PDF 下载链接**](https://www.cesarzamudio.com/uploads/1/7/9/1/17916581/nagelkerke_n.j.d._1991_-_a_note_on_a_general_definition_of_the_coefficient_of_determination.pdf)*
@@ -464,18 +448,6 @@ A.Colin Cameron，Frank A.G. Windmeijer，[](https://www.sciencedirect.com/scien
 
 # *相关文章*
 
-*[](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [](/negative-binomial-regression-f99031bb25b4) [## 负二项式回归:逐步指南
-
-### 外加一个关于负二项式回归的 Python 教程
-
-towardsdatascience.com](/negative-binomial-regression-f99031bb25b4) [](/generalized-linear-models-9ec4dfe3dc3f) [## 广义线性模型
-
-### 它们是什么？我们为什么需要它们？
-
-towardsdatascience.com](/generalized-linear-models-9ec4dfe3dc3f) 
+*</an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  </negative-binomial-regression-f99031bb25b4>  </generalized-linear-models-9ec4dfe3dc3f>  
 
 *感谢阅读！如果你喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的技巧、操作和编程建议。********

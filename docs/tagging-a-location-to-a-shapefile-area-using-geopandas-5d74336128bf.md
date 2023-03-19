@@ -10,11 +10,7 @@
 
 我以前写过一个使用 Geopandas 和 Matplotlib 绘制地图的简单方法。
 
-[](/a-beginners-guide-to-create-a-cloropleth-map-in-python-using-geopandas-and-matplotlib-9cc4175ab630) [## 使用 GeoPandas 和 Matplotlib 在 Python 中创建 Choropleth 地图的初学者指南
-
-### 最有趣的数据图像之一是 choropleth 地图。学习使用以下工具制作 choropleth 地图的基础知识…
-
-towardsdatascience.com](/a-beginners-guide-to-create-a-cloropleth-map-in-python-using-geopandas-and-matplotlib-9cc4175ab630) 
+</a-beginners-guide-to-create-a-cloropleth-map-in-python-using-geopandas-and-matplotlib-9cc4175ab630>  
 
 现在，另一个非常常见的地理空间分析用例是将特定位置标记为预定位置/区域/地区等。例如，假设您是一家实体商店的分析师，想要绘制其关键领域的竞争程度。这些关键区域可以是企业预定义的区域，也可以基于预定的国家区域(如省、区等)。).
 

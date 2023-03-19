@@ -14,11 +14,7 @@ IDE 和文本编辑器是特殊的开发环境，程序员使用它们来编写�
 
 尽管许多 IDE 和文本编辑器提供了许多属性和选项来定制您的开发环境，但是没有绝对最好的 IDE。一切都回到个人喜好上来。有些人喜欢完整的 ide，而有些人喜欢轻量级的文本编辑器。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 本文将介绍开发人员经常使用的 6 大 Python IDEs 和文本编辑器，以使他们的工作流程尽可能的流畅和高效。因此，如果您正在寻找一个 IDE 或文本编辑器，请尝试这些工具，直到找到符合您偏好的为止。
 
@@ -34,11 +30,7 @@ Sublime 附加组件最好的部分是，你可以定制它们来满足你的需
 
 Spyder 还让您能够检查整个代码库，或者将其分成几个部分，以便更仔细地查看。它还集成了许多常用的数据科学包，如 NumPy、Pandas、SciPy 和 IPython。但是，也许使用 IDE 的最大优势是它们的集成调试器。Spyder 有一个非常棒的图形调试器，可以让您的测试和错误定位任务变得流畅和容易。
 
-[](/5-python-debugging-tools-that-are-better-than-print-1aa02eba35) [## 比“打印”更好的 5 个 Python 调试工具
-
-### 更快更有效地调试代码。
-
-towardsdatascience.com](/5-python-debugging-tools-that-are-better-than-print-1aa02eba35) 
+</5-python-debugging-tools-that-are-better-than-print-1aa02eba35>  
 
 # №3:原子
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/5-python-debugging-tools-that-are-better-than-print-1aa
 
 VS 代码有很多优点，特别是对于初学者，因为当你定义一个函数或者一个类或者有一个小的语法错误时，它提供了点击和指针来帮助你。VS 代码还与 PyLint 有很好的集成，PyLint 是一种 Python linter，用于检查代码中的错误。使用 VS 代码的另一个优点是执行单元测试和 REPL(读取-评估-打印循环)操作非常容易。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №5:皮查姆
 
@@ -70,11 +58,7 @@ PyCharm 提供了许多 Python 特性，比如代码/错误突出显示、Git �
 
 Jupyter Notebook 使开发人员能够将代码位与 markdown、HTML 和 LaTeX 文本混合在一起。Jupyter notebook 是一个基于服务器的结构，易于在浏览器中使用和操作。由于 IPython 的使用，它强大的可视化能力使它成为人们的最爱，特别是在数据科学和量子计算方面。Jupyter Notebook 的扩展是 [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) ，它提供了更多的功能，就像一个可视化调试器。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # 外卖食品
 

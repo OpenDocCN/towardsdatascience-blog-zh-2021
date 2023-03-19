@@ -121,24 +121,4 @@ T 传统的信任概念和对我们交往对象身份的信念有时远不如我
 
 ## 参考
 
-[](https://www.amazon.com/Biometrics-Very-Short-Introduction-Introductions/dp/0198809107) [## 生物统计学:非常简短的介绍(非常简短的介绍)
-
-### 生物统计学:关于 Amazon.com 的非常简短的介绍(非常简短的介绍)[法尔赫斯特，迈克尔]。*免费*送货日期…
-
-www.amazon.com](https://www.amazon.com/Biometrics-Very-Short-Introduction-Introductions/dp/0198809107) [](https://www.springer.com/gp/book/9780387773254) [## 生物统计学导论| Anil K. Jain | Springer
-
-### 生物特征识别，或简单地说，生物特征识别，是一门基于身体的…
-
-www.springer.com](https://www.springer.com/gp/book/9780387773254) [](https://www.amazon.com/Science-Biometrics-Security-Technology-Verification/dp/1498761240) [## 生物统计学科学:身份验证的安全技术
-
-### 生物识别科学:Amazon.com 身份验证的安全技术。*免费*运输…
-
-www.amazon.com](https://www.amazon.com/Science-Biometrics-Security-Technology-Verification/dp/1498761240) [](https://searchsecurity.techtarget.com/definition/biometrics) [## 什么是生物识别技术及其工作原理？
-
-### 生物统计学是对人的独特的身体和行为特征的测量和统计分析…
-
-searchsecurity.techtarget.com](https://searchsecurity.techtarget.com/definition/biometrics) [](https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html) [## 什么是生物识别？10 个身体和行为标识符
-
-### 生物统计学是物理或行为人类特征，可用于数字识别人员以授予…
-
-www.csoonline.com](https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html)
+<https://www.amazon.com/Biometrics-Very-Short-Introduction-Introductions/dp/0198809107>  <https://www.springer.com/gp/book/9780387773254>  <https://www.amazon.com/Science-Biometrics-Security-Technology-Verification/dp/1498761240>  <https://searchsecurity.techtarget.com/definition/biometrics>  <https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html> 

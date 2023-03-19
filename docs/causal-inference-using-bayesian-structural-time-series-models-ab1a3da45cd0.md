@@ -116,12 +116,4 @@
 *   [提升您的数据科学能力:学会随机应变](/elevate-your-data-science-abilities-learn-resourcefulness-5ae879a6b3b7)
 *   [你是不是得了冠状病毒却连自己都不知道？我知道是谁干的！](https://medium.datadriveninvestor.com/did-you-have-coronavirus-and-not-even-know-it-i-know-who-did-77200e76149e)
 
-[](https://github.com/dafiti/causalimpact) [## dafiti/causalimpact
-
-### Python 因果影响(或因果推理)谷歌模型的实现，所有功能完全移植和…
-
-github.com](https://github.com/dafiti/causalimpact)  [## nickdcox/ml-因果推理-swe
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/nickdcox/ml-causal-inference-swe)
+<https://github.com/dafiti/causalimpact>   

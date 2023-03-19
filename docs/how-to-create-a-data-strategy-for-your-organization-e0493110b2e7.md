@@ -14,11 +14,7 @@
 
 我决定写这篇文章，在收到许多关于我的前一篇文章的积极反馈之后，这篇文章的标题是[关于进行大规模数据收集的途径](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d)，在这篇文章中，我分享了一些见解，以防止在进行数据收集时的常见错误。
 
-[](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d) [## 正在进行大规模数据收集
-
-### 这是我多年来在管理风险方面学到的经验
-
-medium.com](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d) 
+<https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d>  
 
 # 价值
 
@@ -46,8 +42,4 @@ medium.com](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scal
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

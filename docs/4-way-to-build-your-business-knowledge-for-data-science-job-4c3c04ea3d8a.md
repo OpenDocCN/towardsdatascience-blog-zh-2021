@@ -73,15 +73,7 @@
 
 如果你想知道作为一名数据科学家，商业知识有多重要，你可以看看我的其他文章。
 
-[](/data-scientist-must-know-business-x-statistics-7bb8575a9525) [## 数据科学家必须了解商业 x 统计
-
-### 为什么业务和统计之间集成对于数据科学家来说至关重要
-
-towardsdatascience.com](/data-scientist-must-know-business-x-statistics-7bb8575a9525) [](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) [## 学习业务，成为伟大的数据科学家
-
-### 每个数据科学家的核心。(抱歉，不是编码的问题)
-
-towardsdatascience.com](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) 
+</data-scientist-must-know-business-x-statistics-7bb8575a9525>  </learn-the-business-to-become-a-great-data-scientist-635fa6029fb6>  
 
 在我的 [**LinkedIn**](https://www.linkedin.com/in/cornellius-yudha-wijaya/) 或 [**Twitter**](https://twitter.com/CornelliusYW) 上访问我。
 

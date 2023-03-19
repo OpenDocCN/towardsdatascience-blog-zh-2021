@@ -130,24 +130,8 @@ topic_model.visualize_topics()
 
 和往常一样，我把我的源代码放在一个公共的 GitHub 库中:
 
-[](https://github.com/sejaldua/digesting-the-digest) [## GitHub-sejaldua/digesting-the-digest:使用 Gmail API 对我推荐的媒体进行主题建模…
-
-### 使用 Gmail API 对我推荐的媒体进行主题建模
-
-github.com](https://github.com/sejaldua/digesting-the-digest) 
+<https://github.com/sejaldua/digesting-the-digest>  
 
 ## 参考
 
-[](https://github.com/MaartenGr/BERTopic) [## GitHub - MaartenGr/BERTopic:利用 BERT 和 c-TF-IDF 创建易于解释的主题。
-
-### BERTopic 是一种主题建模技术，它利用了🤗变压器和 c-TF-IDF 创建密集的集群，允许…
-
-github.com](https://github.com/MaartenGr/BERTopic) [](https://reposhub.com/python/natural-language-processing/MaartenGr-BERTopic.html) [## 利用 BERT 和基于类的 TF-IDF 创建易于解释的主题。-自然语言…
-
-### BERTopic 是一种主题建模技术，它利用 BERT 嵌入和 c-TF-IDF 来创建密集的集群，从而允许…
-
-reposhub.com](https://reposhub.com/python/natural-language-processing/MaartenGr-BERTopic.html) [](/interactive-topic-modeling-with-bertopic-1ea55e7d73d8) [## 用 BERTopic 进行交互式主题建模
-
-### 使用 BERTopic 进行主题建模的深入指南
-
-towardsdatascience.com](/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)
+<https://github.com/MaartenGr/BERTopic>  <https://reposhub.com/python/natural-language-processing/MaartenGr-BERTopic.html>  </interactive-topic-modeling-with-bertopic-1ea55e7d73d8> 

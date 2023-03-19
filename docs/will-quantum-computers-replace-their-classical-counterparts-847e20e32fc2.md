@@ -18,11 +18,7 @@
 
 毫无疑问，量子计算将在未来十年改变许多行业。然而，经典计算机将永远发挥作用。然而，一如既往，细节是魔鬼:哪些问题更适合量子计算机，哪些问题更适合经典计算机？哪些行业将从采用量子和经典混合计算策略中获益最大？
 
-[](/how-to-neutralize-quantum-security-threats-1f2efd8889e6) [## 如何中和量子安全威胁
-
-### 随着量子计算的加速，我们可能会面临对当今安全协议的巨大威胁。为了找到解决方案，我们…
-
-towardsdatascience.com](/how-to-neutralize-quantum-security-threats-1f2efd8889e6) 
+</how-to-neutralize-quantum-security-threats-1f2efd8889e6>  
 
 # 量子计算机不会取代经典计算机
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/how-to-neutralize-quantum-security-threats-1f2efd8889e6
 
 最后，量子机器非常容易出错。这些计算误差是量子系统固有的，本质上无法避免。这就是为什么大量的资金和人才被投入到量子错误检测中，开发出能够发现自身错误并加以纠正的机器。虽然在这个领域已经取得了巨大的进步，但是量子误差不可能完全消失。即使使用高度精确的量子计算机，用经典计算机验证最终结果仍然是必要的。
 
-[](/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a) [## 为什么 90%的机器学习模型从未投入生产
-
-### 公司缺乏领导支持、团队间的有效沟通和可访问的数据
-
-towardsdatascience.com](/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a) 
+</why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a>  
 
 # 等待中断
 
@@ -77,11 +69,7 @@ towardsdatascience.com](/why-90-percent-of-all-machine-learning-models-never-mak
 *   **量子人工智能**:数十亿美元正[投资](https://www.mes-insights.com/why-are-companies-investing-so-much-in-autonomous-vehicle-technology-a-931134/)在自动驾驶汽车上。目标是让车辆变得如此智能，以至于它们能适应地球上任何地方的繁忙道路。尽管有很多人才致力于训练 AI 算法来学习如何驾驶，但[事故](https://www.sciencedirect.com/science/article/pii/S2352146520301654)仍然是一个问题。量子人工智能可能比目前的方法更快、更强大，可能有助于解决这个问题。然而，这些好处可能只有在十年后才能收获，因为量子人工智能今天远不如量子模拟或密码学发达。因此，大多数人工智能算法将继续部署在经典计算机上。虽然现在自信地预测还为时过早，但在几十年内大多数人工智能将是量子的并非不可想象。
 *   **密码术**:今天的安全协议依赖于随机数和数字因式分解的高度，经典计算机可以计算生成密码，但很少能够破解密码。不过，几年后，量子计算机可能会强大到可以用“T2”破解任何密码。这就是为什么研究人员必须开始投资新的量子安全加密技术。然而，量子技术是一把双刃剑，它不仅能破解每个密码，还能生成新的、无法破解的密钥。这个空间正在迅速融入这个新的现实。由于经典计算机将保持相关性，量子安全加密技术也必须为这些计算机而存在。这是[可能的](https://www.etsi.org/images/files/ETSIWhitePapers/QuantumSafeWhitepaper.pdf)，公司已经开始用这种方式保护他们在传统电脑上的数据。
 
-[](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) [## 到 2030 年，软件开发人员可能会被淘汰
-
-### 为什么你不会丢掉工作
-
-towardsdatascience.com](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) 
+</software-developers-might-be-obsolete-by-2030-cb5ddbfec291>  
 
 # 为量子未来做准备
 

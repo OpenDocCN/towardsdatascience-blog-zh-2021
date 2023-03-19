@@ -14,11 +14,7 @@
 
 如果您错过了关于如何设置我们的环境和本地服务器的第 1 集，请阅读本文，然后不要忘记回来😉。
 
-[](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) [## SQL Server Management Studio 入门—第 1 部分分步安装
-
-### 这是一个免费且强大的工具，可以利用数据、提高技能并在面试中脱颖而出
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) 
+</getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0>  
 
 # 期待什么？
 
@@ -241,11 +237,7 @@ FROM HR_data.dbo.Departments*
 
 # *从关于 CRUD 操作、主键和外键的第 3 集开始继续这一旅程！*
 
-*[](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) [## 了解 SQL Server Management Studio —第 3 部分 CRUD 操作、主键和外键
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) 
+*</learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70>  
 
 ## 或者选择你喜欢的另一集
 

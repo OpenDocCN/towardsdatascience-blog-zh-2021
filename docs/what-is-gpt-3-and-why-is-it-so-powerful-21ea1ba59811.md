@@ -26,11 +26,7 @@ GPT-3(预训练生成变压器 3)是一种语言模型，由旧金山人工智�
 
 Transformer 模型的操作与 LSTMs 不同，它使用多个被称为注意块的单元来学习文本序列中哪些部分值得关注。单个转换器可以具有几个独立的注意块，每个注意块学习从词类到命名实体的语言的独立方面。对于变压器如何工作的深入概述，你应该看看我下面的文章。
 
-[](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) [## 什么是变压器，你如何使用它们？
-
-### 介绍在过去的几年中彻底改变了自然语言处理的模型。
-
-towardsdatascience.com](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) 
+</what-are-transformers-and-how-can-you-use-them-f7ccd546071a>  
 
 GPT-3 是由 OpenAI 创建的第三代 GPT 语言模型。GPT 3 号与之前型号的主要区别在于它的大小。GPT-3 包含 1750 亿个参数，是 GPT-2 的 17 倍，大约是微软图灵 NLG 模型的 10 倍。参考我在上面列出的前一篇文章中描述的转换器架构，GPT-3 有 96 个关注块，每个关注块包含 96 个关注头。换句话说，GPT 3 基本上是一个巨大的变形金刚模型。
 
@@ -61,11 +57,7 @@ GPT-3 是由 OpenAI 创建的第三代 GPT 语言模型。GPT 3 号与之前型�
 
 虽然在撰写本文时，GPT-3 是最大的，也可以说是最强大的语言模型，但它有自己的局限性。事实上，每一个机器学习模型，无论多么强大，都有一定的局限性。这个概念是我在下面关于没有免费的午餐定理的文章中详细探讨过的。
 
-[](/what-no-free-lunch-really-means-in-machine-learning-85493215625d) [## “没有免费的午餐”在机器学习中真正意味着什么
-
-### 揭开这个经常被误解的定理。
-
-towardsdatascience.com](/what-no-free-lunch-really-means-in-machine-learning-85493215625d) 
+</what-no-free-lunch-really-means-in-machine-learning-85493215625d>  
 
 考虑下面列出的 GPT 协议-3 的一些限制:
 

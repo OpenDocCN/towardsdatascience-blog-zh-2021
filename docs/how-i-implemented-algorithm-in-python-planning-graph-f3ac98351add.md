@@ -17,11 +17,7 @@ Python 中的规划图实现(图片由作者提供)
 
 如果你不熟悉规划图，想了解更多，请查看我下面的帖子:
 
-[](/improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018) [## 用规划图提高经典人工智能规划的复杂性
-
-### 使用一个新的搜索空间，规划图，以提高表现力和复杂性的问题，发现在经典…
-
-towardsdatascience.com](/improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018) 
+</improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018>  
 
 # 领域和问题表示
 
@@ -33,11 +29,7 @@ PDDL 的规划领域表述(作者代码)
 
 我们可以把 PDDL 想象成类似 JSON 或 XML 的东西，这意味着我们需要一个解析器来反序列化其中的表示。当我在 Github 上搜索时，出现了几个，但有一个似乎很适合我们的项目，即 **pddlpy** 。
 
-[](https://github.com/hfoffani/pddl-lib) [## hfoffani/pddl-lib
-
-### 一个 PDDL 库，通过使用 ANTLR 4 语法来解析 PDDL 文件，提供了一个非常简单的界面来与…
-
-github.com](https://github.com/hfoffani/pddl-lib) 
+<https://github.com/hfoffani/pddl-lib>  
 
 然而，它在开发中不再活跃，我在其中发现了一个 bug 和一些问题。因此，我决定使用它并编写一个适配器/包装器，这是一个很薄的层，我们添加它来修复 bug 并解决其他问题。
 
@@ -199,8 +191,4 @@ PDDL 适配器模块(由作者编码)
 
 完整的代码可以在下面的 Github 上找到:
 
-[](https://github.com/debbynirwan/planning_graph) [## debbynirwan/规划图
-
-### Python 中人工智能规划的规划图。通过创建帐户为 debbynirwan/planning_graph 开发做贡献…
-
-github.com](https://github.com/debbynirwan/planning_graph)
+<https://github.com/debbynirwan/planning_graph> 

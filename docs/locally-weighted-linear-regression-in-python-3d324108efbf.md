@@ -10,15 +10,7 @@
 
 在本文中，我们将实现一个名为*局部加权线性回归*的非参数学习算法。首先，我们将看看*参数化和非参数化*学习算法之间的区别，然后理解*加权函数*、*预测函数*，最后*使用 Python NumPy 和 Matplotlib 绘制*预测。
 
-[](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) [## Python 中从头开始的线性回归
-
-### 从零开始的机器学习:第 1 部分
-
-medium.com](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) [](/normal-equation-in-python-the-closed-form-solution-for-linear-regression-13df33f9ad71) [## 使用 Python 的正规方程:线性回归的封闭解
-
-### 从零开始的机器学习:第 3 部分
-
-towardsdatascience.com](/normal-equation-in-python-the-closed-form-solution-for-linear-regression-13df33f9ad71) 
+<https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d>  </normal-equation-in-python-the-closed-form-solution-for-linear-regression-13df33f9ad71>  
 
 **机器学习从零开始系列—**
 

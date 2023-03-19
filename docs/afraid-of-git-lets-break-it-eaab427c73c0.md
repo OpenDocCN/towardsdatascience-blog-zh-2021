@@ -310,12 +310,4 @@ git commit
 
 ## *进一步阅读的灵感*
 
-*[](https://cs50.harvard.edu/web/2020/notes/1/) [## 讲座 1 - CS50 的使用 Python 和 JavaScript 的 Web 编程
-
-### 本课程继承了哈佛大学 CS50 的内容，更深入地研究了设计和实现…
-
-cs50.harvard.edu](https://cs50.harvard.edu/web/2020/notes/1/) [](https://github.com/datacamp/courses-introduction-to-git/blob/master/chapter1.md) [## 课程-git 入门/主数据营第 1 章. MD/课程-git 入门
-
-### 这一章解释了什么是版本控制以及为什么你应该使用它，并介绍了在一个
-
-github.com](https://github.com/datacamp/courses-introduction-to-git/blob/master/chapter1.md)*
+*<https://cs50.harvard.edu/web/2020/notes/1/>  <https://github.com/datacamp/courses-introduction-to-git/blob/master/chapter1.md> *

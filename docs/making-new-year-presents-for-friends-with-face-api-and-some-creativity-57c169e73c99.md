@@ -32,7 +32,7 @@
 pip install azure-cognitiveservices-vision-face opencv-python
 ```
 
-要使用 Face API，你需要访问微软 Azure 云。如果你没有，你可以随时获得一个[](https://azure.microsoft.com/free/?WT.mc_id=academic-35500-dmitryso)**，或者[**Azure for Students**](https://azure.microsoft.com/free/students?WT.mc_id=academic-35500-dmitryso)/[**GitHub Student Developer Pack**](https://education.github.com/pack)以防你是学生。**
+要使用 Face API，你需要访问微软 Azure 云。如果你没有，你可以随时获得一个<https://azure.microsoft.com/free/?WT.mc_id=academic-35500-dmitryso>**，或者[**Azure for Students**](https://azure.microsoft.com/free/students?WT.mc_id=academic-35500-dmitryso)/[**GitHub Student Developer Pack**](https://education.github.com/pack)以防你是学生。**
 
 **一旦有了订阅，[创建 Face API 端点](https://portal.azure.com/#create/Microsoft.CognitiveServicesFace/?WT.mc_id=academic-35500-dmitryso)。选择离您最近的地区和免费层。它将允许您免费拨打多达 30000 个电话，每分钟 20 个电话的限制(这对我们的任务来说足够了)。**
 

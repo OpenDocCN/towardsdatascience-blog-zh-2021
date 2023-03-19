@@ -494,19 +494,11 @@ plt.savefig("predictions.png", bbox_inches = 'tight', pad_inches=0.5)
 
 > 这个项目来自 Suraj Krishnamurthy 的 GTSRB 分类程序。这里看 Github 项目原文:【https://github.com/surajmurthy/TSR_PyTorch 
 
-[](https://www.linkedin.com/in/taraprole/) [## 塔拉·普罗尔- TKS 创新者-知识社会(TKS) | LinkedIn
-
-### 我是一名 15 岁的企业家，已经创建了许多项目，包括一个在线课程和一个 NFT 作品集。我是…
-
-www.linkedin.com](https://www.linkedin.com/in/taraprole/) 
+<https://www.linkedin.com/in/taraprole/>  
 
 如果你有兴趣看更多我的作品，我有一份每周时事通讯，请在下面订阅！
 
-[](https://taraprole.substack.com/subscribe) [## 塔拉的时事通讯
-
-### 每周想法、目标和建议
-
-taraprole.substack.com](https://taraprole.substack.com/subscribe) 
+<https://taraprole.substack.com/subscribe>  
 
 # 参考
 

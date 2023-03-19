@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将讨论课程的第二单元，进化计算导论。在上一篇文章中，我们讨论了单元 1，最优化理论，你可以在这里查看:
 
-[](/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8) 
+</unit-1-optimization-theory-e416dcf30ba8>  
 
 在这篇文章中，我将从整体上介绍进化计算的基本概况。从生物学的灵感开始，我们将看到 EC 如何寻求解决问题，然后我们将移动到进化算法的基本概述并解释主要细节。在下一单元中，我们将真正看到遗传算法的复杂性。
 
@@ -244,8 +240,4 @@ EC 算法的初始种群非常重要。进化算法(EA)是一种基于群体的�
 
 第二单元的进化计算介绍到此结束，请继续关注第三单元，我们将在第三单元讲述遗传算法:
 
-[](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
+</unit-3-genetic-algorithms-part-1-986e3b4666d7> 

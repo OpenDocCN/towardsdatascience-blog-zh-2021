@@ -14,11 +14,7 @@
 
 大多数情况下，如果您遵循 Python Traceback 的说明，语法错误很容易修复。另一方面，我们有所谓的语义错误。这些类型的错误是:代码运行，但计算出错误的答案，或者代码的行为与预期不同。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 发现代码中的错误并修复它以消除错误的唯一方法是调试。我知道，当我们面对一个 bug 时，我们大多数人做的第一件事就是使用一堆打印语句来跟踪代码的执行，并检测错误发生在哪里。如果您的代码只有几行或最多几百行，这可能是一种有效的方法，但是随着您的代码库变长，这种方法变得不太可行，您将需要使用其他方法。
 
@@ -32,11 +28,7 @@ pdb 是一个命令行调试器，您可以在代码中插入断点，然后使�
 
 Pdb 可以用来跳过一些代码行，或者在一个循环中迭代特定的次数。如果需要，还可以扩展调试器，因为它是作为 Python 标准库中的一个类来实现的。Pdb 是一个非常基本的调试器，但可以添加各种扩展使其更加有用，例如 [rpdb](https://pypi.python.org/pypi/rpdb/) 和 [pdb++](https://github.com/antocuni/pdb) ，如果你正在使用 IPython，这可以使调试体验更好 [ipdb](https://github.com/gotcha/ipdb) 。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # №2:皮查姆
 
@@ -57,11 +49,7 @@ VS2019 IDE 支持基本的 Python 调试以及 [IronPython](https://wiki.python.
 
 另一方面，VSCode 除了 Git 控制、语法突出显示和代码重构之外，还有更高级的调试工具。VSCode 的优势之一是它可以处理多语言代码库；然而，它在识别语言方面并不灵活，这反映了其使用的局限性。
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 # №4:科莫多
 
@@ -81,11 +69,7 @@ Komodo 还在调试器模式中提供不同的可视化，让你加深对代码�
 
 使用这个[调试器](https://jupyterlab.readthedocs.io/en/stable/user/debugger.html)，您最终可以使用 Jupyter 作为一个完整的开发环境，而不需要在其他地方测试和调试您的代码。
 
-[](/version-control-101-definition-and-benefits-6fd7ad49e5f1) [## 版本控制 101:定义和好处
-
-### 什么是版本控制，为什么它很重要？
-
-towardsdatascience.com](/version-control-101-definition-and-benefits-6fd7ad49e5f1) 
+</version-control-101-definition-and-benefits-6fd7ad49e5f1>  
 
 # 最后的想法
 
@@ -93,11 +77,7 @@ towardsdatascience.com](/version-control-101-definition-and-benefits-6fd7ad49e5f
 
 直到现在，每次我想到调试，首先想到的是“打印语句”,我浪费了很多时间使用打印来检测和定位代码中的错误。尽管如此，随着我工作的代码库越来越长，使用 spring 语句变得越来越麻烦，而不是有用的方法。当我决定深入调试并找到更有效的方法来完成我的任务时。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 在我学习关于调试和调试器的所有知识的过程中，我使用了如此多的工具来了解那里有什么和什么最适合我。虽然我更喜欢使用的可能不是其他人更喜欢使用的，但是在选择调试器时，您只需要选择您最喜欢的。对我来说，那是而且仍然是 PDB。
 

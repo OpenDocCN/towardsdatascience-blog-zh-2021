@@ -16,11 +16,7 @@ Google colab 是 Python 和数据科学爱好者最方便的在线 IDE。它于 
 
 它是一个用 Python 构建 API 的高性能 web 框架。传统上，大多数开发人员使用 flask 作为构建 API 的首选，但由于一些限制，但不限于数据验证、身份验证、异步等，FastAPI 获得了很大的流行。FastAPI 通过 pydantic 模型提供自动文档生成功能、身份验证和数据验证。要详细了解这两个框架之间的显著差异，您可以在这里查看我关于分析 Vidya 的文章:
 
-[](https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/) [## FastAPI:Flask 的正确替代品？
-
-### 这篇文章作为数据科学博客的一部分发表。完成模型构建后的简介…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/) 
+<https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/>  
 
 FastAPI 有助于设置生产就绪的服务器，但是如果您想在将它部署到实际的云平台(如 Heroku)之前与您的团队共享，该怎么办呢？ngrok 通过隧道将您的本地主机暴露给互联网来解救您。现在，任何人都可以通过提供的链接访问您的 API 端点，但是如果所有这些都只能在 Google Colab 上完成呢？解决这个问题的方法是 ColabCode！
 
@@ -45,11 +41,7 @@ FastAPI 代码
 
 如果你想探索一些很酷的项目，请查看我的 GitHub 档案:
 
-[](https://github.com/kaustubhgupta) [## kaustubhgupta -概述
-
-### 🔭我目前正在探索 Python 及其所有功能。🌱我目前正在学习如何工作…
-
-github.com](https://github.com/kaustubhgupta) 
+<https://github.com/kaustubhgupta>  
 
 # 可乐码
 
@@ -111,28 +103,8 @@ ColabCode(code=False, lab=True)
 
 **我的领英:**
 
-[](https://www.linkedin.com/in/kaustubh-gupta/) [## Kaustubh Gupta -机器学习作家- upGrad | LinkedIn
-
-### 嗨，我是一名 Python 开发人员，能够进行网络抓取、自动化、数据科学、后端网络开发等方面的知识…
-
-www.linkedin.com](https://www.linkedin.com/in/kaustubh-gupta/) 
+<https://www.linkedin.com/in/kaustubh-gupta/>  
 
 **我的其他热门文章:**
 
-[](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) [## 用不到 10 行代码构建仪表板！
-
-### 探索 ExplainerDashBoard，开发交互式仪表板的最简单方法
-
-towardsdatascience.com](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) [](/rebuilding-my-7-python-projects-8c629079c8e6) [## 重建我的 7 个 Python 项目
-
-### 这就是我如何重建我的 Python 项目:数据科学、Web 开发和 Android 应用程序
-
-towardsdatascience.com](/rebuilding-my-7-python-projects-8c629079c8e6) [](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [## 在网站上运行 Python 代码:探索 Brython
-
-### Python 中的 JavaScript 等效脚本
-
-towardsdatascience.com](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [](/github-action-that-automates-portfolio-generation-bc15835862dc) [## 自动化项目组合生成的 GitHub 动作
-
-### 使用 Python 和基本前端的 Dockerized GitHub 动作。
-
-towardsdatascience.com](/github-action-that-automates-portfolio-generation-bc15835862dc)
+</build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b>  </rebuilding-my-7-python-projects-8c629079c8e6>  </run-python-code-on-websites-exploring-brython-83c43fb7ac5f>  </github-action-that-automates-portfolio-generation-bc15835862dc> 

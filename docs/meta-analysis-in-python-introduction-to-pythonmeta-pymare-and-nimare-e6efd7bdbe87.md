@@ -65,4 +65,4 @@ NiMARE 的一大局限是它专注于大脑和神经科学的元分析。研究�
 
 尽管 Python 目前还不是可以用于元分析中所有任务的主流程序，但是这些 Python 包可以很好地服务于较小的项目，并且非常容易实现。STATA 或 R 包含了更多开发的包，但是如果你很了解 Python，购买 STATA 的预算有限，或者 R 语法看起来太复杂，这三个库都适合你。
 
-*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

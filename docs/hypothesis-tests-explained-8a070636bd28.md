@@ -89,18 +89,6 @@
 
 # 相关文章
 
-[](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2) [## 通过 easy-ht Python 包简化了假设检验
-
-### 你应该使用哪种假设检验？皮尔逊还是斯皮尔曼？t 检验还是 Z 检验？卡方？easy-ht 没问题。
-
-towardsdatascience.com](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2) [](https://medium.datadriveninvestor.com/a-brief-introduction-to-the-concept-of-data-7b593587e0cf) [## 数据概念简介
-
-### 每个有抱负的数据科学家都必须知道数据的概念以及他们可以运行的分析类型。这篇文章…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/a-brief-introduction-to-the-concept-of-data-7b593587e0cf) [](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [## python 熊猫的基本统计数据
-
-### 入门指南
-
-medium.com](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) 
+</hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2>  <https://medium.datadriveninvestor.com/a-brief-introduction-to-the-concept-of-data-7b593587e0cf>  <https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [单击此处](https://alod83.medium.com/membership)。

@@ -87,7 +87,7 @@ eval(z)
 
 Julia 中的测试是用一种完全不同于其他编程语言的方法来完成的。如果你问我，我主观上喜欢它们的实现，因为我认为这是保持测试有组织的好方法。如果您想了解更多关于如何测试 Julia 包的内容，我实际上写了一整篇文章，您可以在这里查看:
 
-[](/how-to-test-your-software-with-julia-4050379a9f3) [## 如何用 Julia 测试你的软件
+</how-to-test-your-software-with-julia-4050379a9f3> [## 如何用 Julia 测试你的软件
 
 towardsdatascience.com](/how-to-test-your-software-with-julia-4050379a9f3) 
 

@@ -96,11 +96,7 @@
 
 如果您想了解更多关于发行版以及如何解释它们的信息，请查看以下内容:
 
-[](/quantiles-key-to-probability-distributions-ce1786d479a9) [## 分位数是理解概率分布的关键
-
-### 概率密度函数(PDF)与累积概率分布(CDF)。满足分位数并使用…
-
-towardsdatascience.com](/quantiles-key-to-probability-distributions-ce1786d479a9) 
+</quantiles-key-to-probability-distributions-ce1786d479a9>  
 
 # 3.歪斜
 
@@ -177,14 +173,6 @@ towardsdatascience.com](/quantiles-key-to-probability-distributions-ce1786d479a9
 
 您可能还喜欢:
 
-[](/quantiles-key-to-probability-distributions-ce1786d479a9) [## 分位数是理解概率分布的关键
-
-### 概率密度函数(PDF)与累积概率分布(CDF)。满足分位数并使用…
-
-towardsdatascience.com](/quantiles-key-to-probability-distributions-ce1786d479a9) [](https://kujaga.medium.com/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [## 数据科学访谈中的矩阵
-
-### 数据科学家的基本数学从零开始解释
-
-kujaga.medium.com](https://kujaga.medium.com/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) 
+</quantiles-key-to-probability-distributions-ce1786d479a9>  <https://kujaga.medium.com/math-refresher-for-data-scientist-part-1-matrices-88620a92d046>  
 
 我很乐意在下面的评论区听到你的想法和问题，直接通过我的 [LinkedIn](https://www.linkedin.com/in/agnieszka-kujawska/) 个人资料或*akujawska@yahoo.com 联系我。*回头见！

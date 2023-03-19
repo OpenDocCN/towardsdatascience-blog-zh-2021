@@ -12,11 +12,7 @@
 
 多任务学习是一种机器学习方法，其中一个模型学习同时解决多个任务。假设通过学习用相同的模型完成多个相关的任务，每个任务的性能将比我们在每个任务上训练单独的模型更高。
 
-[](/multi-task-learning-in-machine-learning-20a37c796c9c) [## 机器学习中的多任务学习
-
-### 基于神经网络的深度多任务学习
-
-towardsdatascience.com](/multi-task-learning-in-machine-learning-20a37c796c9c) 
+</multi-task-learning-in-machine-learning-20a37c796c9c>  
 
 然而，这一假设并不总是正确的。简单的多任务学习方法没有考虑任务之间的关系和学习完成所有任务的权衡。
 

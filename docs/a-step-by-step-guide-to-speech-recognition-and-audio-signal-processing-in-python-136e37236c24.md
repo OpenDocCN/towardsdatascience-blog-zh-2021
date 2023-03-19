@@ -30,11 +30,7 @@
 
 让我们用相应的伪代码逐一详细地介绍所有这些步骤和过程。此外，在我们开始之前，下面是一个完整代码库的链接，可以方便地与本教程一起阅读。
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/10.%20AI%20in%20Speech%20Recognition) [## rjrahul 24/ai-与 python-系列
-
-### Python 系列教程，旨在学习人工智能概念。这一系列教程从…
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/10.%20AI%20in%20Speech%20Recognition) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/10.%20AI%20in%20Speech%20Recognition>  
 
 # 步骤 1:读取音频信号文件
 

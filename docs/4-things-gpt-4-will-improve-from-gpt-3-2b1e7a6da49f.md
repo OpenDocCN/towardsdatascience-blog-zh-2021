@@ -18,7 +18,7 @@ Robynne Hu 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 ***免责声明:****【GPT-4】(还)不存在。接下来是根据我对 GPT 模型的了解，特别是对 GPT-3 模型的了解，对推测和预测的汇编，我在这篇长文《走向数据科学》中对其进行了汇编:*
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) 
 

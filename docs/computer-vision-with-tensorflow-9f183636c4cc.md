@@ -10,11 +10,7 @@
 
 这将是《人工智能导论》、机器学习和深度学习 Tensorflow story 的延续，在那里我讨论了标准的神经网络。如果这对你来说是全新的，我建议你先从这里开始。
 
-[](/introduction-to-artificial-intelligence-machine-learning-and-deep-learning-with-tensorflow-b5fa20477e89) [## 使用 Tensorflow 介绍人工智能、机器学习和深度学习
-
-### 机器学习和张量流的起点
-
-towardsdatascience.com](/introduction-to-artificial-intelligence-machine-learning-and-deep-learning-with-tensorflow-b5fa20477e89) 
+</introduction-to-artificial-intelligence-machine-learning-and-deep-learning-with-tensorflow-b5fa20477e89>  
 
 # 目录:
 

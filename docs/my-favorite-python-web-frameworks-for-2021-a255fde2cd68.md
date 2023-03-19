@@ -14,11 +14,7 @@
 
 幸运的是，有了像 Python 的奇妙包索引这样的生态系统，有很多奇妙的选项可供选择。在大多数情况下，您可以找到您的产品想要或需要的特定特性，或者您喜欢使用的特定特性和代码风格。也就是说，下面的列表将是一个排名列表。当你知道第一名是什么时，你可能会非常惊讶！这当然只是我的个人观点，和我在这个时候的个人偏好。此外，这是从数据科学家的角度来看的。虽然我承认这些包有能力做其他事情，例如 Django 进行全栈 web 开发的能力可能会使它成为使用 Python 的 web 开发人员的一个更好的选择，但对于像我这样的数据科学家来说是一个更差的选择，这可能会影响我对它的排名。最后，如果你想阅读这篇文章更全面的更新版本的前身，这里有一个你可能感兴趣的链接！
 
-[](/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) [## 面向现代开发人员的 5 个平滑 Python Web 框架
-
-### 5 个更棒的 Python Web 框架供你欣赏！
-
-towardsdatascience.com](/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) 
+</5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52>  
 
 # №10:涡轮
 
@@ -72,11 +68,7 @@ Tornado 不仅是一个伟大的 web 框架，而且还是一个异步网络库�
 
 它也可以是多才多艺的。尽管它可能依赖于一些相对基本的模板引擎，但它最终仍然能够做很多事情，而这个列表中的其他 web 框架已经做了足够多的工作。你也可以在 Flask 中添加许多附加组件或额外的功能，因为你可能已经注意到许多这些包都是基于 Flask 的。如果您想从头到尾学习如何开发和部署 Flask endpoint，包括服务器管理，我实际上有一个很酷(也很经典！是两年前写的！)的文章，您可以在这里查看！：
 
-[](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) [## 用 Gunicorn 3 展开烧瓶
-
-### 应用程序部署通常会带来意想不到的后果和错误。部署可以是制定或…
-
-towardsdatascience.com](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) 
+</deploying-flask-with-gunicorn-3-9eaacd0f6eea>  
 
 # №2: FastAPI
 
@@ -90,7 +82,7 @@ towardsdatascience.com](/deploying-flask-with-gunicorn-3-9eaacd0f6eea)
 
 这并不是来自与我同名的框架的偏见，它只是一个方便易用的框架！在很多方面，Emmett 属于 Flask 一方，但用许多可选的内置功能进行了升级。最后，我认为埃米特是最好的选择之一！由于结合了必要的后端 web 开发特性(如身份验证)和前端特性(如高质量的模板引擎),甚至还有可能做一些前端和后端的事情。总的来说，这是一个很好的选择，我写了一整篇关于它有多好的文章，如果你愿意，你可以在这里阅读:
 
-[](/elegant-web-development-with-emmett-in-python-612ed898a71e) [## 用 Python 语言用 Emmett 进行优雅的 Web 开发
+</elegant-web-development-with-emmett-in-python-612ed898a71e> [## 用 Python 语言用 Emmett 进行优雅的 Web 开发
 
 towardsdatascience.com](/elegant-web-development-with-emmett-in-python-612ed898a71e) 
 

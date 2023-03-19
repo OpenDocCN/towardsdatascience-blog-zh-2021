@@ -75,11 +75,7 @@ handler.py
 
 假设您想要监视网页，以确定某个产品何时再次可用。为了处理 HTML，我们需要一个解析器。幸运的是 Python 提供了`[beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start)`，一个 HTML 解析器。所以让我们继续运行`pip install beautifulsoup4`。如果你想了解更多关于 beautifulsoup 的信息，可以看看下面这篇文章:
 
-[](/image-scraping-with-python-a96feda8af2d) [## 使用 Python 进行图像抓取
-
-### 学习如何用 Python 从 Google 下载图片的代码指南！
-
-towardsdatascience.com](/image-scraping-with-python-a96feda8af2d) 
+</image-scraping-with-python-a96feda8af2d>  
 
 好的，现在让我们假设我们想买[这个漂亮的刷子](https://www.everdrop.de/products/handburste-aus-fsc-zertifiziertem-buchenholz-und-pflanzlichen-borsten)。
 
@@ -182,8 +178,4 @@ aws_secret_access_key=YOUR_KEY
 
 哦，如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名灵媒成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的链接注册，我甚至会做一些🍩。
 
-[](https://medium.com/@fabianbosler/membership) [## 通过我的推荐链接加入 Medium-Fabian Bosler
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@fabianbosler/membership)
+<https://medium.com/@fabianbosler/membership> 

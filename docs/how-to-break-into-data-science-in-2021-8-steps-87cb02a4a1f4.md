@@ -24,7 +24,7 @@ It 很容易理解为什么有人会想进入数据科学领域。这个领域�
 
 如果您想了解更多关于数据科学领域的不同发展道路，我写了一整篇文章，您可以在这里查阅:
 
-[](/learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2) [## 数据科学的学习途径——您应该学习什么？
+</learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2> [## 数据科学的学习途径——您应该学习什么？
 
 towardsdatascience.com](/learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2) 
 

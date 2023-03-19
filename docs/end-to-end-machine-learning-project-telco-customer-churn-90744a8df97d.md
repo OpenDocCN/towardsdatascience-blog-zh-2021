@@ -18,19 +18,11 @@
 
 本文中使用的数据集可在**ka ggle(**CC BY-NC-ND**)**和中获得，包含**十九列(自变量)**，表明一个虚构电信公司的客户的**特征。`Churn`列(**响应变量**)表示客户是否在上个月离开。类别`No`包括上个月没有离开公司的客户，而类别`Yes`包括决定终止与公司关系的客户。分析的目标是获得**客户特征和流失**之间的关系。**
 
-[](https://www.kaggle.com/blastchar/telco-customer-churn) [## 电信客户流失
-
-### 重点客户保留计划
-
-www.kaggle.com](https://www.kaggle.com/blastchar/telco-customer-churn) 
+<https://www.kaggle.com/blastchar/telco-customer-churn>  
 
 原始的 IBM 数据可以在下面的链接中找到:
 
- [## 电信客户流失
-
-### 这个示例数据模块基于各种因素跟踪一个虚构的电信公司的客户流失。“客户流失”栏…
-
-www.ibm.com](https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=samples-telco-customer-churn) 
+  
 
 Kaggle 中可用的数据集是对原始 IBM 数据的改编。
 
@@ -306,11 +298,7 @@ Scikit-Learn 库在`metrics`包中实现了交互信息。下面的代码计算�
 *   `max_features`:寻找最佳分割时要考虑的特征数量。
 *   `min_samples_split`:分割内部节点所需的最小样本数。
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) [## sk learn . ensemble . gradientboostingclassifier
-
-### 用于分类的梯度增强。GB 以向前分阶段的方式建立了一个附加模型；它允许…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html>  
 
 下一步是找到超参数的组合，从而对我们的数据进行最佳分类。这个过程称为超参数调整。
 

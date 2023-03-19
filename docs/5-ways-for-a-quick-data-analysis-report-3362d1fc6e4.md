@@ -26,15 +26,7 @@ Excel 是最广为人知的数据分析工具。每个人在职业生涯的某�
 
 一些关于如何构建 excel 数据透视表的帖子/教程:
 
-[](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tutorialspoint.com/excel_data_analysis/excel_data_analysis_pivottables.htm&ved=2ahUKEwi54tmI34LwAhVxmuYKHZYTB5AQFjACegQIAxAF&usg=AOvVaw2Om-ZveUKj-eqWLzq2ERlC) [## Excel 数据分析-数据透视表
-
-### 对大量数据进行数据分析通常是必要且重要的。它包括汇总数据…
-
-www.google.com](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tutorialspoint.com/excel_data_analysis/excel_data_analysis_pivottables.htm&ved=2ahUKEwi54tmI34LwAhVxmuYKHZYTB5AQFjACegQIAxAF&usg=AOvVaw2Om-ZveUKj-eqWLzq2ERlC) [](https://www.excel-easy.com/data-analysis/pivot-tables.html) [## Excel 中的数据透视表
-
-### 插入数据透视表|拖动字段|排序|筛选|更改汇总计算|二维数据透视表透视…
-
-www.excel-easy.com](https://www.excel-easy.com/data-analysis/pivot-tables.html) 
+<https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tutorialspoint.com/excel_data_analysis/excel_data_analysis_pivottables.htm&ved=2ahUKEwi54tmI34LwAhVxmuYKHZYTB5AQFjACegQIAxAF&usg=AOvVaw2Om-ZveUKj-eqWLzq2ERlC>  <https://www.excel-easy.com/data-analysis/pivot-tables.html>  
 
 # 使用 Tableau 的仪表板:
 
@@ -52,15 +44,7 @@ Tableau 是另一个广为人知的工具，可以帮助任何人查看和理解
 
 一些关于如何开发 Tableau 仪表板的帖子/教程:
 
-[](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tableau.com/solutions/analytics&ved=2ahUKEwjM1Krg3oLwAhXZ7XMBHbiQDpQQFjAXegQIHxAC&usg=AOvVaw2R0vWzi97ZygBiA9IxsqWJ) [## 我们的分析方法
-
-### 我们唯一的使命是帮助人们看到和理解数据。这意味着提供一个分析平台，允许…
-
-www.google.com](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tableau.com/solutions/analytics&ved=2ahUKEwjM1Krg3oLwAhXZ7XMBHbiQDpQQFjAXegQIHxAC&usg=AOvVaw2R0vWzi97ZygBiA9IxsqWJ) [](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/) [## 学习 Tableau 的分步资源指南
-
-### 文章视频书籍数据可视化是一种艺术，以一种方式呈现数据，即使是非分析师也可以…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/) 
+<https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.tableau.com/solutions/analytics&ved=2ahUKEwjM1Krg3oLwAhXZ7XMBHbiQDpQQFjAXegQIHxAC&usg=AOvVaw2R0vWzi97ZygBiA9IxsqWJ>  <https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/>  
 
 # 使用 Python 进行熊猫剖析:
 
@@ -82,15 +66,7 @@ pip install pandas-profiling
 
 一些关于如何建立熊猫概况报告的帖子/教程:
 
-[](/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625) [## 使用 Pandas-Profiling 加速您的探索性数据分析
-
-### 只需一行代码就能直观地了解数据的结构
-
-towardsdatascience.com](/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625) [](https://www.google.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3&ved=2ahUKEwjww8Ck3ILwAhUJ7HMBHZbuC90QjjgwBHoECBkQAg&usg=AOvVaw3OvX_S8_vPFQPt9D3PHkiI) [## 探索性数据分析与熊猫概况
-
-### Pandas profiling 是一个开源的 Python 模块，使用它我们可以快速地进行探索性的数据分析，只需要一个…
-
-www.google.comm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3&ved=2ahUKEwjww8Ck3ILwAhUJ7HMBHZbuC90QjjgwBHoECBkQAg&usg=AOvVaw3OvX_S8_vPFQPt9D3PHkiI) 
+</speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625>  <https://www.google.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3&ved=2ahUKEwjww8Ck3ILwAhUJ7HMBHZbuC90QjjgwBHoECBkQAg&usg=AOvVaw3OvX_S8_vPFQPt9D3PHkiI>  
 
 # 使用 R 的数据浏览器:
 
@@ -108,15 +84,7 @@ r 作为统计计算和图形的编程语言广为人知。在过去的 5 年里
 
 在 R 中构建数据分析报告的一些帖子/教程:
 
- [## RPubs
-
-### 编辑描述
-
-rpubs.com](https://rpubs.com/danapower/563991)  [## DataExplorer 简介
-
-### 这个文档介绍了 DataExplorer 包，并展示了它如何帮助你完成不同的任务…
-
-cran.r-project.org](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html#exploratory-data-analysis) 
+    
 
 # KNIME 分析平台:
 
@@ -136,11 +104,7 @@ Knime 是一个分析平台，用于在开源环境中生产数据科学。人�
 
 在 Knime 中构建工作流的一些帖子/教程:
 
-[](https://www.knime.com/learning) [## 学习|学习
-
-### 有多种支持材料可供使用:书籍、课程(在线、现场和自定进度)、技术…
-
-www.knime.com](https://www.knime.com/learning) 
+<https://www.knime.com/learning>  
 
 我对这些工具都有亲身体验，这有助于我理解其中的含义并轻松操作数据。上述工具并不仅限于此。我们可以开发详细的分析报告，预测模型，包括编程技能的 ML 模型。
 

@@ -47,7 +47,7 @@ library(gridExtra)    # display images in a gridRS <- 42              # random s
 
 数据由带有 6 个不同标签的图像组成:“建筑物”、“森林”、“冰川”、“山”、“海”和“街道”。不像[上一篇](https://medium.com/data-folks-indonesia/hand-gesture-recognition-8c0e2927a8bb)文章中的图像像素数据已经被转换成一个`.csv`文件的列，这次我们使用数据生成器直接读取图像。
 
-[](https://medium.com/data-folks-indonesia/hand-gesture-recognition-8c0e2927a8bb) [## 手势识别
+<https://medium.com/data-folks-indonesia/hand-gesture-recognition-8c0e2927a8bb> [## 手势识别
 
 medium.com](https://medium.com/data-folks-indonesia/hand-gesture-recognition-8c0e2927a8bb) 
 

@@ -14,7 +14,7 @@
 
 贝叶斯统计为您提供了更新您对新数据证据的信念的工具，这是一个在许多现实世界场景中常见的概念，例如用于跟踪流行病、预测经济趋势或预测气候变化。贝叶斯统计是许多更著名的统计模型的基础，例如高斯过程。
 
-[](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) [## 用简单的英语介绍高斯过程编程
+</introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d> [## 用简单的英语介绍高斯过程编程
 
 towardsdatascience.com](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) 
 
@@ -26,7 +26,7 @@ towardsdatascience.com](/introduction-to-gaussian-process-programming-in-plain-e
 
 2.第二篇**将向您介绍贝叶斯推理以及如何执行基本的模型评估。**
 
-[](/building-and-evaluating-your-bayesian-statistical-model-3ab703fc4ea8) [## 构建和评估您的贝叶斯统计模型
+</building-and-evaluating-your-bayesian-statistical-model-3ab703fc4ea8> [## 构建和评估您的贝叶斯统计模型
 
 towardsdatascience.com](/building-and-evaluating-your-bayesian-statistical-model-3ab703fc4ea8) 
 

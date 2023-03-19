@@ -12,11 +12,7 @@
 
 如果您想重温它，或者如果您首先找到了这一部分并想阅读第 1 部分，这里有链接。
 
-[](https://gustavorsantos.medium.com/exploratory-data-analysis-with-python-part-1-b6248b28dc85) [## 使用 Python 进行探索性数据分析—第 1 部分
-
-### 让您开始使用 Python 和 Pandas 分析数据的模板。
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/exploratory-data-analysis-with-python-part-1-b6248b28dc85) 
+<https://gustavorsantos.medium.com/exploratory-data-analysis-with-python-part-1-b6248b28dc85>  
 
 下面的列表是这个*模板*所遵循的，并且我们覆盖了粗体上的项目符号:
 
@@ -180,8 +176,4 @@ px.bar(mean_by_day, x='day', y='tip')
 
 如果你对这些内容感兴趣，请关注我的博客。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

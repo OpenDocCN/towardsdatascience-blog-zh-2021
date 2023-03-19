@@ -19,7 +19,7 @@ RL 的无模型方法中有时间差异(TD)学习，SARSA 和 Q 学习(QL)是两
 *   履行
 *   结论
 
-我们将通过钢管舞游戏的实现来比较这两种算法。**本帖的代码可以在这里找到**[](https://github.com/viethoangtranduong/reinforcement-learning/tree/main/SARSA%20vs%20QL)****:**[**QL 代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/train_QL.py) **，** [**萨尔萨代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/train_SARSA.py) **，以及** [**全功能代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/CartPole_Agent.ipynb) **。**(功能完整的代码已经实现了算法，并在推车杆游戏上进行了训练)**
+我们将通过钢管舞游戏的实现来比较这两种算法。**本帖的代码可以在这里找到**<https://github.com/viethoangtranduong/reinforcement-learning/tree/main/SARSA%20vs%20QL>****:**[**QL 代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/train_QL.py) **，** [**萨尔萨代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/train_SARSA.py) **，以及** [**全功能代码**](https://github.com/viethoangtranduong/reinforcement-learning/blob/main/SARSA%20vs%20QL/CartPole_Agent.ipynb) **。**(功能完整的代码已经实现了算法，并在推车杆游戏上进行了训练)**
 
 **TD 的学习将有点数学化，但请随意浏览并直接跳到 QL 和萨莎。**
 

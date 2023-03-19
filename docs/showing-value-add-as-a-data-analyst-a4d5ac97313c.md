@@ -83,8 +83,4 @@ Sharon McCutcheon 通过 Unsplash 拍摄的照片
 
 为了进一步了解数据分析世界，这篇文章关注的不仅仅是作为一名优秀的数据分析师你应该知道的标准工具。了解一些较少讨论的特征，这些特征将对你有长期的帮助。一如既往，继续学习！
 
-[](/what-makes-a-great-data-analyst-f6577cef81a3) [## 怎样才能成为一名优秀的数据分析师？
-
-### 提示:没有确切的答案
-
-towardsdatascience.com](/what-makes-a-great-data-analyst-f6577cef81a3)
+</what-makes-a-great-data-analyst-f6577cef81a3> 

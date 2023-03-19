@@ -14,15 +14,7 @@
 
 如果您错过了前两次关于 Python 基础和 Python 序列的研讨会，请在此处补上:
 
-[](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) [## UCL 数据科学协会:Python 基础
-
-### 研讨会 1: PY01
-
-towardsdatascience.com](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) [](/ucl-data-science-society-python-sequences-e3ffa67604a0) [## UCL 数据科学协会:Python 序列
-
-### 工作坊 2:列表、元组、集合和字典！
-
-towardsdatascience.com](/ucl-data-science-society-python-sequences-e3ffa67604a0) 
+</ucl-data-science-society-python-fundamentals-3fb30ec020fa>  </ucl-data-science-society-python-sequences-e3ffa67604a0>  
 
 ## 条件语句
 
@@ -395,18 +387,6 @@ insta gram:https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
+<https://philip-wilkinson.medium.com/membership>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [](/univariate-outlier-detection-in-python-40b621295bc5) [## Python 中的单变量异常检测
-
-### 从数据集中检测异常值的五种方法
-
-towardsdatascience.com](/univariate-outlier-detection-in-python-40b621295bc5)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89>  </univariate-outlier-detection-in-python-40b621295bc5> 

@@ -8,11 +8,7 @@
 
 在我们之前的文章中，我们用 3 个步骤介绍了机器学习的交叉熵概念。特别是，我们从信息论的角度讨论了 log(p)是什么，熵的真正含义，以及它与交叉熵损失的关系。
 
-[](https://medium.com/@david.h.kang/an-intuitive-guide-how-entropy-connects-to-cross-entropy-78b0713494a9) [## 直观指南:熵如何与交叉熵相联系
-
-### 你好。
-
-medium.com](https://medium.com/@david.h.kang/an-intuitive-guide-how-entropy-connects-to-cross-entropy-78b0713494a9) 
+<https://medium.com/@david.h.kang/an-intuitive-guide-how-entropy-connects-to-cross-entropy-78b0713494a9>  
 
 在本文中，我们将通过考虑*加权交叉熵*来扩展我们在交叉熵方面的讨论，加权交叉熵允许我们对一个标签进行加权。例如，当设计用于新冠肺炎诊断的最大似然算法时，我们可能希望对假阴性的惩罚比对假阳性的惩罚更重。让我们开始吧。
 

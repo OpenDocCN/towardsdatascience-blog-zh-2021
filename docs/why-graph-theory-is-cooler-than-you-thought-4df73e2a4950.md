@@ -97,11 +97,7 @@
 
 让我们以诊断模型为例。具体来说，我想看看这个网络分析用于诊断和识别患者中可能的精神分裂症的例子:
 
-[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782171/) [## 精神分裂症的图基网络分析
-
-### 在过去的几年里，已经发表了许多使用现代大脑网络分析的研究。研究人员和…
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782171/) 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782171/>  
 
 使用图表来表示大脑的网络分析，神经科学家能够绘制与精神分裂症诊断相关的关键发现。鉴于精神分裂症的发病有某些标志:
 

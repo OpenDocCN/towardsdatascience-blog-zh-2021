@@ -93,7 +93,7 @@
 
 [*面向有志分析师的三大技术平台*](/three-tech-stacks-for-aspiring-analysts-5cde49a22337)
 
-[](/10-tips-for-a-successful-internship-e8f0c14cd3d3)*成功实习的 10 个秘诀*
+</10-tips-for-a-successful-internship-e8f0c14cd3d3>*成功实习的 10 个秘诀*
 
 *[*我作为营销分析实习生学到的东西*](/what-i-learned-as-a-marketing-analytics-intern-f96307976bb3)*
 

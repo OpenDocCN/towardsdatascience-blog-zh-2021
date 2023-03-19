@@ -120,19 +120,7 @@
 
 ***如果你喜欢这篇文章，这里还有一些你可能喜欢的文章:***
 
-*[](https://medium.com/@kap923/hurricane-path-prediction-using-deep-learning-2f9fbb390f18) [## 使用深度学习的飓风路径预测
-
-### 每年 6 月 1 日到 11 月 30 日之间的时间窗标志着北大西洋飓风季节。在此期间…
-
-medium.com](https://medium.com/@kap923/hurricane-path-prediction-using-deep-learning-2f9fbb390f18) [](/stochastic-weather-generator-using-generative-adversarial-networks-a9856b0f83ef) [## 使用生成对抗网络的随机天气生成器
-
-### 使用 GANs 对多元分布建模
-
-towardsdatascience.com](/stochastic-weather-generator-using-generative-adversarial-networks-a9856b0f83ef) [](/hurricane-florence-building-a-simple-storm-track-prediction-model-1e1c404eb045) [## 飓风佛罗伦萨——建立一个简单的风暴路径预测模型
-
-### 飓风佛罗伦萨是 2018 年大西洋飓风季节的第一场主要飓风。从它在海角附近的起源…
-
-towardsdatascience.com](/hurricane-florence-building-a-simple-storm-track-prediction-model-1e1c404eb045) 
+*<https://medium.com/@kap923/hurricane-path-prediction-using-deep-learning-2f9fbb390f18>  </stochastic-weather-generator-using-generative-adversarial-networks-a9856b0f83ef>  </hurricane-florence-building-a-simple-storm-track-prediction-model-1e1c404eb045>  
 
 ***参考文献:***
 

@@ -253,11 +253,7 @@ Vision Transformer 过去存在“需要大量数据”和“需要大内存大�
 
 # 🌟我每周发布时事通讯！请订阅！🌟
 
-[](https://www.getrevue.co/profile/akiratosei) [## 阿基拉的机器学习新闻- Revue
-
-### 由 Akira 的机器学习新闻-由 Akihiro FUJII:制造工程师/机器学习工程师/硕士…
-
-www.getrevue.co](https://www.getrevue.co/profile/akiratosei) 
+<https://www.getrevue.co/profile/akiratosei>  
 
 — — — — — — — — — — — — — — — — — — –
 
@@ -265,11 +261,7 @@ www.getrevue.co](https://www.getrevue.co/profile/akiratosei)
 
 制造工程师/机器学习工程师/数据科学家/物理学硕士/[http://github.com/AkiraTOSEI/](https://t.co/hjHHbG24Ph?amp=1)，
 
-[](https://www.linkedin.com/in/%E4%BA%AE%E5%AE%8F-%E8%97%A4%E4%BA%95-999868122/?locale=en_US) [## Akihiro FUJII - テクニカルリード - 株式会社エクサウィザーズ/ExaWizards Inc. | LinkedIn
-
-### Twitter(我对最新的论文有一个简单的解释) :机器上的 https://twitter.com/AkiraTOSEI-周报…
-
-www.linkedin.com](https://www.linkedin.com/in/%E4%BA%AE%E5%AE%8F-%E8%97%A4%E4%BA%95-999868122/?locale=en_US) 
+<https://www.linkedin.com/in/%E4%BA%AE%E5%AE%8F-%E8%97%A4%E4%BA%95-999868122/?locale=en_US>  
 
 推特，我贴一句纸评论。
 

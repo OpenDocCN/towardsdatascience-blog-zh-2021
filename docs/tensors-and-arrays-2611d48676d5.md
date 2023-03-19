@@ -16,7 +16,7 @@
 
 为了掌握数组，我们最好访问 Python 中的 NumPy 库。NumPy ( *Numerical Python* )库是一个开源的 Python 库，是在 Python 中处理数字数据的事实上的标准。因此，NumPy 是许多数据科学工作中非常重要的一部分，并在其他库中广泛使用，如 Pandas、SciPy、Matplotlib 和 Scikit-Learn。
 
-我建议我们引用 NumPy 的原因是数组数据结构是 NumPy 库的核心。根据 NumPy 文档，数组可以被描述为"*值的网格，它包含关于原始数据、如何定位元素以及如何解释元素的信息。它有一个元素网格，可以通过各种方式在*[](https://numpy.org/doc/stable/user/quickstart.html#quickstart-indexing-slicing-and-iterating)**中进行索引。元素都是同一类型，称为数组* `*dtype*` *。*”。*
+我建议我们引用 NumPy 的原因是数组数据结构是 NumPy 库的核心。根据 NumPy 文档，数组可以被描述为"*值的网格，它包含关于原始数据、如何定位元素以及如何解释元素的信息。它有一个元素网格，可以通过各种方式在*<https://numpy.org/doc/stable/user/quickstart.html#quickstart-indexing-slicing-and-iterating>**中进行索引。元素都是同一类型，称为数组* `*dtype*` *。*”。*
 
 ```
 *import **numpy** as **np** array = np.array([
@@ -87,24 +87,4 @@ Tensor: [
 
 ## *参考*
 
-*[](https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/#:~:text=A%20tensor%20is%20a%20generalization,is%20known%20as%20a%20tensor) [## 一个温和的介绍张量的机器学习与 NumPy -机器学习掌握
-
-### 最后更新于 2019 年 12 月 6 日在深度学习中，经常可以看到很多关于张量作为…
-
-machinelearningmastery.com](https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/#:~:text=A%20tensor%20is%20a%20generalization,is%20known%20as%20a%20tensor) [](https://medium.com/thenoobengineer/numpy-arrays-vs-tensors-c58ea54f0e59) [## numpy 数组和张量有区别吗？
-
-### 我宁愿有无法回答的问题，也不愿有无法探索的答案\n
-
-medium.com](https://medium.com/thenoobengineer/numpy-arrays-vs-tensors-c58ea54f0e59) [](https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays) [## 张量和多维数组有什么区别吗？
-
-### 在这里，像计算机科学家一样思考是有帮助的...张量是一种多维数组，具有…
-
-math.stackexchange.com](https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays) [](https://numpy.org/doc/stable/user/absolute_beginners.html) [## NumPy:初学者的绝对基础-NumPy 1.19 手册
-
-### 欢迎来到 NumPy 的绝对初学者指南！如果您有任何意见或建议，请随时联系…
-
-numpy.org](https://numpy.org/doc/stable/user/absolute_beginners.html)  [## tf。张量|张量流核心版本 2.4.0
-
-### 张量是元素的多维数组，用
-
-www.tensorflow.org](https://www.tensorflow.org/api_docs/python/tf/Tensor)*
+*<https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/#:~:text=A%20tensor%20is%20a%20generalization,is%20known%20as%20a%20tensor>  <https://medium.com/thenoobengineer/numpy-arrays-vs-tensors-c58ea54f0e59>  <https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays>  <https://numpy.org/doc/stable/user/absolute_beginners.html>   *

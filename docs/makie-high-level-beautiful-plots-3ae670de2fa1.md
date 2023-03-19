@@ -12,27 +12,15 @@
 
 在 Julia 的生态系统中，已经出现了许多可视化数据的奇妙解决方案。尽管如此，许多用户经常最终使用 Plots.jl。虽然 Plots.jl 肯定是一个很酷的包，但重要的是要记住，该包必须提供的是来自其他编程语言的不同软件的三个独立端口。这些端口是 Plot.ly、Matplotlib.pyplot 和 GR。默认情况下，Plots.jl 使用 GR 可视化库，这是一个很好的库，但在许多方面非常缺乏特色。此外，像这样使用端口真的会减少预编译时间，而且使用 PyCall 这样的包会影响 Julia 的性能。有趣的是，如果你感兴趣，我确实有一个关于 Plots.jl 的 GR 后端的完整教程:
 
-[](/spruce-up-your-gr-visualizations-in-julia-88a964450a7) [## 在 Julia 中美化您的 GR 可视化
-
-### 没错，又是 Julia，我保证 R，Scala，Python 还在这个爱情圈里
-
-towardsdatascience.com](/spruce-up-your-gr-visualizations-in-julia-88a964450a7) 
+</spruce-up-your-gr-visualizations-in-julia-88a964450a7>  
 
 还有一些其他纯粹的朱利安解决方案已经出现。在我看来，最大的例子是牛虻包。牛虻包的交互性比不上 Plot.ly，但对大多数情况来说已经足够了。最重要的是，牛虻可视化很容易操作，而且看起来很好！我还写了一篇关于使用该包的教程和概述，如果您感兴趣，可以在这里查看:
 
-[](/gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c) [## 牛虻. JL——来自你梦中的纯朱莉娅绘图库
-
-### 看看朱莉娅对 2020 年统计绘图的最佳选择
-
-towardsdatascience.com](/gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c) 
+</gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c>  
 
 在 Julia 中还有另一个很棒的可视化库，名为 Vegalite.jl。我见过许多其他科学家，他们发誓说这是 Julia 中最好的一个，但我仍然偏爱牛虻. jl。这是因为我发现牛虻更容易使用。Vegalite 有一个奇怪的方法，它涉及到在你的绘图中为各种不同的设置使用大量的数组，而不是参数。也就是说，我要说的是，与列表中的其他选项相比，Vegalite 确实有一些严肃的统计可视化。实际上，我比较了另一篇文章中提到的所有三个选项，如果您愿意，可以在这里查看:
 
-[](/gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c) [## 牛虻. JL——来自你梦中的纯朱莉娅绘图库
-
-### 看看朱莉娅对 2020 年统计绘图的最佳选择
-
-towardsdatascience.com](/gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c) 
+</gadfly-jl-the-pure-julia-plotting-library-from-your-dreams-3ee6ca107a5c>  
 
 > 所有这些文章都有更多的信息可以链接，这真是太棒了。
 
@@ -86,11 +74,7 @@ figure
 
 实际上，我很喜欢这个库的功能，虽然它是极简的可视化，类似于没有交互性的 GR，这是我在大多数情况下所需要的。类型是可变的，所以我们现在可以改变这个结构内部的数据来产生不同的结果。更牛逼的是，我们可以在这个数字上加数字！这实际上让我想起了很多很久以前制作的图形库。这真的很酷，因为它是元编程和面向对象的，但该项目已经停止。实际上，我在《走向数据科学》上写过相关文章，所以如果你碰巧对那个项目感兴趣，里面有很多非常非常有趣的 Julia，你可以在这里查看:
 
-[](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) [## Hone.jl 的元编程网格和标签
-
-### 为 Julia 修复我的网格并将轴标签添加到我的图形库中
-
-towardsdatascience.com](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) 
+</metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad>  
 
 该系列有许多不同的部分，所以如果您真的对这个包及其背后的代码感兴趣，这可能是一个不错的读物。无论如何，从我的开发历史来看，很明显我是图形模块化的狂热爱好者，Makie.jl 正是提供了这一点！这很快成为我最喜欢的图形库。我们可以添加基本上任何新的数字到我们的数字，通过使用！版本散点！方法。
 

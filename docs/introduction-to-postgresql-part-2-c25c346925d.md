@@ -150,58 +150,10 @@ CREATE TABLE Ingredient(
 
 查看我最近的文章:
 
-[](/introduction-to-postgresql-part-1-6ca9f25b02e1) [## Postgresql 简介:第 1 部分
+</introduction-to-postgresql-part-1-6ca9f25b02e1>  </sqlite-vs-tinydb-7d6a6a42cb97> [## SQLite vs TinyDB
 
-### 让我们从头开始
-
-towardsdatascience.com](/introduction-to-postgresql-part-1-6ca9f25b02e1) [](/sqlite-vs-tinydb-7d6a6a42cb97) [## SQLite vs TinyDB
-
-towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) [](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [## 关于 Python 虚拟环境你需要知道什么
-
-### 如果你没有使用它们，你应该…
-
-python .平原英语. io](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [](https://python.plainenglish.io/tinydb-b646e3270fd7) [## 使用 TinyDB 的简要指南
-
-### 纯 Python 项目的内置数据库
-
-python .平原英语. io](https://python.plainenglish.io/tinydb-b646e3270fd7) [](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [## Python 数据库转储
-
-### 备份您的数据人员！
-
-python .平原英语. io](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) 
+towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) <https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586>  <https://python.plainenglish.io/tinydb-b646e3270fd7>  <https://python.plainenglish.io/python-database-dumping-9a8658994e5a>  
 
 参考资料:
 
-[](https://stackoverflow.com/questions/10335561/use-database-name-command-in-postgresql) [## PostgreSQL 中的“使用数据库名称”命令
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/10335561/use-database-name-command-in-postgresql)  [## 使用 PostgreSQL 序列创建自动递增列
-
-### 摘要:在本教程中，您将了解 PostgreSQL 串行伪类型以及如何使用串行伪类型…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-serial/) [](https://www.postgresqltutorial.com/postgresql-show-tables/) [## PostgreSQL 显示表
-
-### 摘要:在本教程中，您将学习如何使用 psql 工具和 pg_catalog 模式在 PostgreSQL 中显示表。如果…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-show-tables/) [](https://kb.objectrocket.com/postgresql/how-to-use-the-postgresql-double-precision-type-1435) [## 如何使用 PostgreSQL 双精度类型
-
-### 当您需要存储具有大量十进制数字的数值时，您需要确保利用…
-
-kb.objectrocket.com](https://kb.objectrocket.com/postgresql/how-to-use-the-postgresql-double-precision-type-1435) [](https://www.geeksforgeeks.org/postgresql-numeric-data-type/) [## PostgreSQL -数字数据类型- GeeksforGeeks
-
-### PostgreSQL 支持 NUMERIC 类型来存储具有大量数字的数字。通常数字类型是…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/postgresql-numeric-data-type/) [](https://dba.stackexchange.com/questions/212249/how-to-use-default-value-of-data-type-as-column-default) [## 如何使用数据类型的默认值作为列默认值？
-
-### 感谢给数据库管理员栈交换贡献一个答案！请务必回答问题…
-
-dba.stackexchange.com](https://dba.stackexchange.com/questions/212249/how-to-use-default-value-of-data-type-as-column-default)  [## PostgreSQL 外键
-
-### 摘要:在本教程中，您将了解 PostgreSQL 外键以及如何使用…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-foreign-key/) [](https://www.postgresqltutorial.com/postgresql-describe-table/) [## PostgreSQL 描述表
-
-### 摘要:在本教程中，您将学习如何使用 psql 工具和 information_schema 来描述…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-describe-table/)
+<https://stackoverflow.com/questions/10335561/use-database-name-command-in-postgresql>    <https://www.postgresqltutorial.com/postgresql-show-tables/>  <https://kb.objectrocket.com/postgresql/how-to-use-the-postgresql-double-precision-type-1435>  <https://www.geeksforgeeks.org/postgresql-numeric-data-type/>  <https://dba.stackexchange.com/questions/212249/how-to-use-default-value-of-data-type-as-column-default>    <https://www.postgresqltutorial.com/postgresql-describe-table/> 

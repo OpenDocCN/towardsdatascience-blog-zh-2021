@@ -28,19 +28,11 @@ kNN 也是这样工作的。根据 *k* 的值，该算法通过分类中最近�
 
 然而，在代码中使用该算法并成功生成预测并不那么简单。今天，我们将看看算法如何工作的本质细节，如何准备任何数据以使其与算法的内部一致，以及如何显著提高其性能(具体来说，从 80%提高到 95%)。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 引擎盖下的 k 近邻
 
@@ -195,11 +187,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 > 对于大多数数据集，在将文本/分类值转换为数字之前，会有更多与它们相关的问题。这里我们只关注转换部分，但是你可以在这里查看我关于使用 pandas 清理文本数据的权威指南:
 
-[](/master-the-most-hated-task-in-ds-ml-3b9779276d7c) [## 掌握 DS/ML 中最讨厌的任务
-
-### 编辑描述
-
-towardsdatascience.com](/master-the-most-hated-task-in-ds-ml-3b9779276d7c) 
+</master-the-most-hated-task-in-ds-ml-3b9779276d7c>  
 
 用数字编码分类值最流行的选项是 sklearn 的`[OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)`和`LabelEncoder`。我们今天只使用后者。
 
@@ -308,8 +296,4 @@ X_num_scaled.head()
 
 ## 不知道接下来要读什么？在这里，我为你挑选了一些东西:
 
-[](/how-to-master-the-subtle-art-of-train-test-set-generation-7a8408bcd578) [## 如何掌握训练/测试集生成的微妙艺术
-
-### 它不仅仅是一个普通的“训练测试分割”功能
-
-towardsdatascience.com](/how-to-master-the-subtle-art-of-train-test-set-generation-7a8408bcd578)
+</how-to-master-the-subtle-art-of-train-test-set-generation-7a8408bcd578> 

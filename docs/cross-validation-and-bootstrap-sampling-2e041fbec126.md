@@ -170,11 +170,7 @@ Bootstrap 采样是一种重采样技术，涉及**随机采样和替换**。单
 
 **今天的文章到此结束。如果你喜欢它，请看看下面这篇关于交叉熵损失函数的文章，也读一读。下次再见，祝阅读愉快:-)**
 
-**[](/cross-entropy-loss-function-f38c4ec8643e) [## 交叉熵损失函数
-
-### 在大多数分类问题中用于优化机器学习模型的损失函数…
-
-towardsdatascience.com](/cross-entropy-loss-function-f38c4ec8643e)** 
+**</cross-entropy-loss-function-f38c4ec8643e> ** 
 
 **加入 https://medium.com/@kiprono_65591/membership[的媒体](https://medium.com/@kiprono_65591/membership)，全面了解媒体上的每个故事。**
 

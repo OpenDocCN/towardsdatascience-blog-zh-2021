@@ -291,40 +291,16 @@ from pymc3.glm.families import Binomialwith pm.Model() as model_glm_logistic:
 
 如果你想更深入地研究贝叶斯统计，这里列出了一些额外的信息来源:
 
- [## 想想贝叶斯
-
-### 认为贝叶斯是一本免费的书。它在知识共享署名-非商业性使用-类似共享 4.0 下可用…
-
-allendowney.github.io](https://allendowney.github.io/ThinkBayes2) [](https://docs.pymc.io/en/stable/pymc-examples/examples/getting_started.html) [## PyMC3 - PyMC3 3.11.4 文档入门
-
-### 作者:John Salvatier，Thomas V. Wiecki，Christopher Fonnesbeck 注:本文基于 PeerJ CS 出版物…
-
-docs.pymc.io](https://docs.pymc.io/en/stable/pymc-examples/examples/getting_started.html) [](/stan-vs-pymc3-vs-edward-1d45c5d6da77) [## 斯坦 vs PyMc3 (vs 爱德华)
+  <https://docs.pymc.io/en/stable/pymc-examples/examples/getting_started.html>  </stan-vs-pymc3-vs-edward-1d45c5d6da77> [## 斯坦 vs PyMc3 (vs 爱德华)
 
 towardsdatascience.com](/stan-vs-pymc3-vs-edward-1d45c5d6da77) 
 
 最后，本文使用的代码可从以下网址获得:
 
-[](https://github.com/arthurmello/statistics/blob/master/6.%20Bayesian%20statistics/Bayesian%20statistics.ipynb) [## 统计/贝叶斯统计. ipynb at master Arthur Mello/统计
-
-### 教程的统计方法说明。通过创建帐户为 arthurmello/statistics 的发展做出贡献…
-
-github.com](https://github.com/arthurmello/statistics/blob/master/6.%20Bayesian%20statistics/Bayesian%20statistics.ipynb) 
+<https://github.com/arthurmello/statistics/blob/master/6.%20Bayesian%20statistics/Bayesian%20statistics.ipynb>  
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d) [## 为什么的科学:简介
-
-### 理解因果关系是如何工作的，以及如何处理它
-
-medium.com](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d) [](/xgboost-theory-and-practice-fb8912930ad6) [## XGBoost:理论与实践
-
-### 了解最流行的算法之一是如何工作的，以及如何使用它
-
-towardsdatascience.com](/xgboost-theory-and-practice-fb8912930ad6) [](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56) [## k 近邻:理论与实践
-
-### 了解如何使用 KNN，这是最直观的分类和回归算法之一
-
-towardsdatascience.com](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56) 
+<https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d>  </xgboost-theory-and-practice-fb8912930ad6>  </k-nearest-neighbors-theory-and-practice-7f6f6ee48e56>  
 
 > 如果你想进一步讨论，请随时在 [LinkedIn](https://www.linkedin.com/in/melloarthur/) 上联系我，这将是我的荣幸(老实说)。

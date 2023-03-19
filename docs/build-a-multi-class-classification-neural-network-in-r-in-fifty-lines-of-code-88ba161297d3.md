@@ -166,4 +166,4 @@ predict(test_data)
 
 你可以从[我的 GitHub repo](https://github.com/thivi/r_neuralnet_sample) 获得本教程中使用的完整代码。
 
-*原载于 2021 年 6 月 11 日*[](https://www.thearmchaircritic.org/tech-journal/build-a-multi-class-classification-neural-network-in-r-in-fifty-lines-of-code)**。**
+*原载于 2021 年 6 月 11 日*<https://www.thearmchaircritic.org/tech-journal/build-a-multi-class-classification-neural-network-in-r-in-fifty-lines-of-code>**。**

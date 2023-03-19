@@ -157,14 +157,6 @@ Inputs.table(data)
 
 # 相关文章
 
-[](/how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf) [## 如何将 Observablehq 图形插入 HTML 页面
-
-### 一个快速的教程，用你的观察制作精彩的 HTML 页面。
-
-towardsdatascience.com](/how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf) [](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [## 我在六月份发现的一些关于数据可视化的有趣文章和资源
-
-### 从网上收集的一些关于数据可视化的最新有趣文章和资源的摘要。
-
-towardsdatascience.com](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [## 如何改进带注释的 D3.js 图形
+</how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf>  </some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946>  </how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5> [## 如何改进带注释的 D3.js 图形
 
 towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5)

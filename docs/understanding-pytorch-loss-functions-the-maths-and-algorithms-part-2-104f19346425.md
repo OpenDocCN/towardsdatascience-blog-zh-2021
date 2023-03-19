@@ -4,7 +4,7 @@
 
 ## PyTorch 中损失函数的数学定义、算法和实现的分步指南
 
-**Part 1 可以在这里找到**[](/understanding-pytorch-loss-functions-the-maths-and-algorithms-part-1-6e439b27117e)****。****
+**Part 1 可以在这里找到**</understanding-pytorch-loss-functions-the-maths-and-algorithms-part-1-6e439b27117e>****。****
 
 **![](img/0c4448cc230ccf6b721aea7dd2e7cc6a.png)**
 
@@ -123,4 +123,4 @@ output = bcelogits_loss(input, target)input
 
 **这就是我们对 PyTorch 的不太流行但更好(在数值上更稳定等)的损失函数、它们的数学定义、算法实现和 PyTorch 的 API 实践的中间接触。**
 
-**【https://tinyurl.com/2npw2fnz】*订阅我的电子邮件简讯:*[](https://tinyurl.com/2npw2fnz)*****我定期在那里用通俗易懂的英语和漂亮的可视化总结 AI 研究论文。*******
+**【https://tinyurl.com/2npw2fnz】*订阅我的电子邮件简讯:*<https://tinyurl.com/2npw2fnz>*****我定期在那里用通俗易懂的英语和漂亮的可视化总结 AI 研究论文。*******

@@ -64,11 +64,7 @@
 
 可用的具体函数将取决于您的数据库。使用参考资料部分中的指南来查看您的数据库中有哪些内容，或者查看我在此处构建的深入指南:
 
-[](https://count.co/sql-resources/bigquery-standard-sql/window-functions-explained) [## 窗口函数说明| BigQuery 语法和示例|计数
-
-### 关于 SQL 窗口函数你需要知道的一切。窗口函数，或称之为分析函数…
-
-count.co](https://count.co/sql-resources/bigquery-standard-sql/window-functions-explained) 
+<https://count.co/sql-resources/bigquery-standard-sql/window-functions-explained>  
 
 ## 定义您的窗口🪟
 

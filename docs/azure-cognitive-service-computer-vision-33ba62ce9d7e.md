@@ -21,11 +21,7 @@
 *   定制视觉服务
 *   媒体服务视频分析器
 
-[](https://www.linkedin.com/in/p-jainani) [## Pankaj Jainani -云架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani) 
+<https://www.linkedin.com/in/p-jainani>  
 
 # 视觉、图像和视频
 
@@ -152,8 +148,4 @@ curl "https://<region>.api.cognitive.microsoft.com/vision/v2.0/recognizeText?mod
 
 **[1] Azure 认知服务— [文档](https://docs.microsoft.com/en-in/azure/cognitive-services/)**
 
-**[](https://www.linkedin.com/in/p-jainani) [## Pankaj Jainani -云架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani)**
+**<https://www.linkedin.com/in/p-jainani> **

@@ -58,19 +58,7 @@ Kubeflow 由许多组件组成，您可以结合使用或作为独立工具使�
 
 ****如果您想在不到 10 分钟的安装时间内轻松开始使用 Kubeflow，请查看以下故事:****
 
-****[](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [## 有了 MiniKF，Kubeflow 比以往任何时候都更容易访问
-
-### 10 分钟入门 Kubernetes 最好的机器学习平台。
-
-towardsdatascience.com](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [](/kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790) [## Kubeflow 是您完美的机器学习工作站
-
-### 将您的笔记本电脑变成网飞流媒体设备，在云上工作！
-
-towardsdatascience.com](/kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790) [](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [## AWS 上的 Mini Kubeflow 是您的新 ML 工作站
-
-### 通过 AWS 上的 MiniKF 加速您的机器学习模型开发
-
-towardsdatascience.com](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) 
+****</kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b>  </kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790>  </mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585>  
 
 在有了一个有效的 Kubeflow 安装之后，您可能想尝试几个例子。一个很好的方法是遵循下面的教程之一:
 

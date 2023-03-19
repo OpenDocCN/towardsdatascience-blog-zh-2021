@@ -142,7 +142,7 @@
 
 如果你好奇的话，我以前的一篇文章实际上涉及了我最后一个项目的一个具体特征:
 
-[](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6) [## 我建立了一个机器学习模型，像沃伦·巴菲特一样交易股票(第一部分)
+<https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6> [## 我建立了一个机器学习模型，像沃伦·巴菲特一样交易股票(第一部分)
 
 medium.com](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warren-buffett-part-i-445849b208c6) 
 
@@ -156,11 +156,7 @@ medium.com](https://medium.com/swlh/teaching-a-machine-to-trade-stocks-like-warr
 
 如果你想知道更多关于我在训练营之后的时间，请随意阅读我的另一篇文章:
 
-[](/how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742) [## 从编码训练营到编码工作
-
-### 我毕业后的旅程——不像你想的那么简单
-
-towardsdatascience.com](/how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742) 
+</how-i-found-a-coding-job-after-attending-a-coding-bootcamp-b22b05615742>  
 
 毕业过程非常平淡。没有像大学那样的大型仪式，但我们班更私人。毕业后，我们出去喝了几杯，开始了下一步。
 

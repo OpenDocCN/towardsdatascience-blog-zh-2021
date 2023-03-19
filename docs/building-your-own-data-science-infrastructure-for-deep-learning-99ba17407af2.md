@@ -267,10 +267,6 @@ GPU:$ 707**
 
 **感谢阅读！ *欢迎在评论中分享你的想法或阅读技巧。***
 
-**[](https://medium.com/@deganza11/membership) [## 通过我的推荐链接加入 Medium-Dennis Ganzaroli
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@deganza11/membership) 
+**<https://medium.com/@deganza11/membership>  
 
 *跟我上* [*中*](https://deganza11.medium.com/) *，*[*LinkedIn*](https://www.linkedin.com/in/dennis-ganzaroli-17785222/)*或*[*Twitter*](https://twitter.com/DennisGanzaroli) *跟我上脸书群* [***数据科学跟 yo dime***](https://www.facebook.com/Data-Science-with-Yodime-103661695297356)**

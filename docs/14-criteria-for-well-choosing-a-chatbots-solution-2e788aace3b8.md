@@ -175,16 +175,8 @@
 
 对于会话助理市场的概述:
 
-[](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc) [## 2020 年全球聊天机器人解决方案市场概述
-
-### 根据我对会话助手市场的积极观察，我给你一些关于……的统计数据和信息
-
-towardsdatascience.com](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc) 
+</an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc>  
 
 关于对话的复杂性:
 
-[](https://medium.com/ai-in-plain-english/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9) [## 建造者的对话式人工智能:4 个复杂等级
-
-### 当你想建立一个对话式人工智能解决方案时，重要的是要记住对话通常遵循…
-
-medium.com](https://medium.com/ai-in-plain-english/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9)
+<https://medium.com/ai-in-plain-english/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9> 

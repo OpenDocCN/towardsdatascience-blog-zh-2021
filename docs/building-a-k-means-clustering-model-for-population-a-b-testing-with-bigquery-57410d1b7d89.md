@@ -40,11 +40,7 @@
 
 首先， **k-means 聚类是一种无监督的机器学习算法，旨在将相似的数据点分组在一起**。这正是我们需要的。如果您想更多地了解 k-means 聚类是如何工作的，我推荐一位作者的这篇文章，在这篇文章中，您还将通过一个使用 Python 的示例得到指导:
 
-[](/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) [## 理解机器学习中的 K-均值聚类
-
-### K-means 聚类是最简单和最流行的无监督机器学习算法之一。
-
-towardsdatascience.com](/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) 
+</understanding-k-means-clustering-in-machine-learning-6a6e67336aa1>  
 
 基本上，k-means 聚类算法将从数据集中 y 个变量的框架内的 x 个点(x 由用户预先定义)开始。从这 x 个初始点，y 个变量中就其相似性而言最接近的点被聚集到每个聚类的先前点。最终，整个多维帧被分成 x 个部分，每个部分定义相似数据点的集群。**因此，k 均值聚类的原理相对容易理解**——这也是我选择使用这个模型而不是另一个模型的原因之一。如果说背后的数学执行是复杂繁琐的，那么它的基本原理就相对容易理解了。
 
@@ -88,8 +84,4 @@ towardsdatascience.com](/understanding-k-means-clustering-in-machine-learning-6a
 
 你喜欢读这篇文章吗？ [*成为会员*](https://marie-lefevre.medium.com/membership) *加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) [## 通过我的推荐链接加入媒体-玛丽·勒菲弗尔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-marie-lefevre.medium.com](https://marie-lefevre.medium.com/membership)
+<https://marie-lefevre.medium.com/membership> 

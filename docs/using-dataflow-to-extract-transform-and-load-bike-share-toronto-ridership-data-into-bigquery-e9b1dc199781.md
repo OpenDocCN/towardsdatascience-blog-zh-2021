@@ -154,7 +154,7 @@ gs://my-bucket-name/*
 
 # 建立数据流管道
 
-13.接下来，我们编写一个 Apache Beam 管道，它提取文件，执行转换，并将数据加载到 BigQuery 中。Python 文件`[etl_pipeline.py](https://github.com/bilalmkhan/etl-pipeline-beam)` [](https://github.com/bilalmkhan/etl-pipeline-beam/blob/main/etl_pipeline.py)包含管道的 Python 代码。三个函数执行主要的转换:`deconcat()`、`replace_nulls()`、`format_datetime_bq()`。我们可以使用云壳编辑器上传 Python 文件。
+13.接下来，我们编写一个 Apache Beam 管道，它提取文件，执行转换，并将数据加载到 BigQuery 中。Python 文件`[etl_pipeline.py](https://github.com/bilalmkhan/etl-pipeline-beam)` <https://github.com/bilalmkhan/etl-pipeline-beam/blob/main/etl_pipeline.py>包含管道的 Python 代码。三个函数执行主要的转换:`deconcat()`、`replace_nulls()`、`format_datetime_bq()`。我们可以使用云壳编辑器上传 Python 文件。
 
 # 设置 Python 环境
 

@@ -104,11 +104,7 @@ https://github.com/Baekalfen/PyBoy
 
 *如果您想实现这个解决方案或了解更多关于遗传算法的信息，您可以在下面的链接中找到我的 GitHub repo 上的完整 python 代码:*
 
-*[](https://github.com/octavio-santiago/Super-Mario-Land-AI) [## 奥克塔维奥-圣地亚哥/超级马里奥-兰-艾
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/octavio-santiago/Super-Mario-Land-AI) 
+*<https://github.com/octavio-santiago/Super-Mario-Land-AI>  
 
 非常感谢您的阅读！如有任何问题或建议，请通过 LinkedIn 联系我:[https://www.linkedin.com/in/octavio-b-santiago/](https://www.linkedin.com/in/octavio-b-santiago/)
 
@@ -118,16 +114,4 @@ github.com](https://github.com/octavio-santiago/Super-Mario-Land-AI)
 
 ## 更多阅读
 
-[](/hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503) [## 用决策深度强化学习来下象棋
-
-### 用机器学习创造国际象棋冠军
-
-towardsdatascience.com](/hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503) [](https://levelup.gitconnected.com/reinforcement-learning-teaching-the-machine-to-gamble-with-q-learning-bc6790ee66c2) [## 强化学习——教机器用 Q 学习赌博
-
-### 强化学习是人工智能和机器学习的一个领域，涉及模拟许多…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/reinforcement-learning-teaching-the-machine-to-gamble-with-q-learning-bc6790ee66c2) [](/how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785) [## 如何使用 Power BI 构建完美的仪表盘
-
-### 在 Power BI 中构建杀手级仪表板的技巧
-
-towardsdatascience.com](/how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785)*
+</hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503>  <https://levelup.gitconnected.com/reinforcement-learning-teaching-the-machine-to-gamble-with-q-learning-bc6790ee66c2>  </how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785> *

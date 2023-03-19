@@ -131,11 +131,7 @@ voila/render/path-to-notebook.ipynb
 
 整个预处理、仪表板笔记本文件和部署的笔记本链接都可以在我的 Github 存储库中找到:
 
-[](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) [## kaustubhgupta/Covid-Tweets-分析-仪表板
-
-### 这是我的分析。我已经尝试分析数据集中存在的每个特征，这些特征可以给出…
-
-github.com](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) 
+<https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard>  
 
 # 结论
 
@@ -145,28 +141,8 @@ github.com](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard)
 
 **我的 Linkedin:**
 
-[](https://www.linkedin.com/in/kaustubh-gupta) [## Kaustubh Gupta -机器学习作家- upGrad | LinkedIn
-
-### 嗨，我是一名 Python 开发人员，能够进行网络抓取、自动化、数据科学、后端网络开发等方面的知识…
-
-www.linkedin.com](https://www.linkedin.com/in/kaustubh-gupta) 
+<https://www.linkedin.com/in/kaustubh-gupta>  
 
 **其他热门文章:**
 
-[](/colabcode-deploying-machine-learning-models-from-google-colab-54e0d37a7b09) [## ColabCode:从 Google Colab 部署机器学习模型
-
-### 启动一个 VS 代码服务器，Jupyter 实验室，或者 FastAPI！
-
-towardsdatascience.com](/colabcode-deploying-machine-learning-models-from-google-colab-54e0d37a7b09) [](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [## 在网站上运行 Python 代码:探索 Brython
-
-### Python 中的 JavaScript 等效脚本
-
-towardsdatascience.com](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [](/rebuilding-my-7-python-projects-8c629079c8e6) [## 重建我的 7 个 Python 项目
-
-### 这就是我如何重建我的 Python 项目:数据科学、Web 开发和 Android 应用程序
-
-towardsdatascience.com](/rebuilding-my-7-python-projects-8c629079c8e6) [](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) [## 用不到 10 行代码构建仪表板！
-
-### 探索 ExplainerDashBoard，开发交互式仪表板的最简单方法
-
-towardsdatascience.com](/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b)
+</colabcode-deploying-machine-learning-models-from-google-colab-54e0d37a7b09>  </run-python-code-on-websites-exploring-brython-83c43fb7ac5f>  </rebuilding-my-7-python-projects-8c629079c8e6>  </build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b> 

@@ -20,11 +20,7 @@
 
 数据操作和字符串提取是数据科学访谈的重要组成部分，无论是作为一个单独的主题还是与其他主题相结合。我在之前的一篇文章中阐述了数据科学家的 6 个 Python 问题，并提供了主要科技公司提出的其他真实面试问题:
 
-[](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [## 2021 年 6 个 Python 数据科学面试问题
-
-### 数据科学家/工程师的数据操作和字符串提取
-
-towardsdatascience.com](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) 
+</6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13>  
 
 在这个领域有一个普遍的误解，那就是使用野蛮的强制方法是不值得推荐的，因为它效率低并且占用内存。
 
@@ -244,25 +240,13 @@ def reverse_words(s):
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
 ## 统计和编程
 
-[](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [## 2021 年 6 个 Python 数据科学面试问题
-
-### 数据科学家/工程师的数据操作和字符串提取
-
-towardsdatascience.com](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) 
+</5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  </6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13>  
 
 # 喜欢读这本书吗？
 

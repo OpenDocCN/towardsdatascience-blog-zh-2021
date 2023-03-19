@@ -30,11 +30,7 @@
 
 但是等等，这和常规的卷积运算有什么不同呢？在常规卷积运算中，我们通常有一个较大的滤波器大小，比如一个 3x3 或 5x5(甚至 7x7)的内核，然后通常需要对输入进行某种填充，这又会将其空间维度 **H x W** 转换为某个**H’x W’；** capisce？如果没有，这里是我的文章链接，任何关于卷积网及其操作的澄清。
 
-[](https://cs231n.github.io/convolutional-networks/) [## 用于视觉识别的 CS231n 卷积神经网络
-
-### 目录:卷积神经网络非常类似于以前的普通神经网络…
-
-cs231n.github.io](https://cs231n.github.io/convolutional-networks/) 
+<https://cs231n.github.io/convolutional-networks/>  
 
 # 好处？
 
@@ -56,11 +52,7 @@ cs231n.github.io](https://cs231n.github.io/convolutional-networks/)
 
 **Yann LeCun** 提供了一个有趣的思路，他将 CNN 中的全连接层比作简单的卷积层，具有 1x1 卷积核和一个全连接表。参见 2015 年的这篇文章:
 
- [## 登录脸书
-
-### 登录脸书，开始与你的朋友、家人和你认识的人分享和联系。
-
-www.facebook.com](https://www.facebook.com/yann.lecun/posts/10152820758292143) 
+  
 
 # 履行
 

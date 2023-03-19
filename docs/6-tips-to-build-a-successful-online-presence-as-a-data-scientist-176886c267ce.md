@@ -14,11 +14,7 @@
 
 这也是一个令人兴奋和有利可图的领域。然而，进入 it 行业并不容易，也不容易找到工作。找一份数据科学方面的工作竞争非常激烈，可能会让人觉得自己不够好，无法找到工作，或者无法被录用。
 
-[](/5-reasons-why-having-an-online-presence-is-essential-for-data-scientist-success-5c402071aa35) [## 为什么在线展示对数据科学家的成功至关重要的 5 个原因
-
-### 这不仅仅是找工作的一种方式。
-
-towardsdatascience.com](/5-reasons-why-having-an-online-presence-is-essential-for-data-scientist-success-5c402071aa35) 
+</5-reasons-why-having-an-online-presence-is-essential-for-data-scientist-success-5c402071aa35>  
 
 也就是说，你可以采取一些措施来增加你被录用的机会，帮助你在你瞄准的公司中脱颖而出。你可以做的一件事是建立一个稳固的在线形象，讲述你的故事，说服招聘人员给你一份工作。但是，是什么造就了稳固的在线形象呢？在这篇文章中，我们将通过 6 个提示来保证一个成功的在线展示。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/5-reasons-why-having-an-online-presence-is-essential-fo
 
 我知道一开始会很难，你不会有太多的参与。但是，如果你坚持不懈，最终会有回报的。
 
-[](/is-data-science-the-career-for-you-3596b6f0291a) [## 数据科学是你的职业吗？
-
-### 帮助你做决定的 6 个问题
-
-towardsdatascience.com](/is-data-science-the-career-for-you-3596b6f0291a) 
+</is-data-science-the-career-for-you-3596b6f0291a>  
 
 # 技巧 3:控制叙述
 
@@ -56,11 +48,7 @@ towardsdatascience.com](/is-data-science-the-career-for-you-3596b6f0291a)
 
 当你建立自己的形象时，更多地关注内容的质量而不是数量。人们会读一篇写得很好的博客，或者看一段制作精良的视频。所以要关注质量，努力在你发布的内容数量和内容质量之间找到一个好的平衡。
 
-[](/5-games-that-can-help-you-improve-your-skills-as-a-data-scientist-7d2d3f2f5a98) [## 可以帮助您提高数据科学家技能的 5 个游戏
-
-### 提高你的技能，同时享受乐趣。
-
-towardsdatascience.com](/5-games-that-can-help-you-improve-your-skills-as-a-data-scientist-7d2d3f2f5a98) 
+</5-games-that-can-help-you-improve-your-skills-as-a-data-scientist-7d2d3f2f5a98>  
 
 # 技巧 5:创建一个作品集网站
 
@@ -74,11 +62,7 @@ towardsdatascience.com](/5-games-that-can-help-you-improve-your-skills-as-a-data
 
 最重要的是要记住，没有人是从最高层开始的；你需要努力提高自己的技能来获得成功，所以不要让评论和批评扼杀了你的热情，阻止你继续前进。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 # 最后的想法
 

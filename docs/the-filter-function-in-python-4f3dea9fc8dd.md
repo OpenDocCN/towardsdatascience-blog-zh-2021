@@ -14,11 +14,7 @@
 
 *地图上的文章功能:*
 
-[](/the-map-function-in-python-eb9a90707d17) [## Python 中的地图函数
-
-### 了解如何使用 Python 中的地图功能
-
-towardsdatascience.com](/the-map-function-in-python-eb9a90707d17) 
+</the-map-function-in-python-eb9a90707d17>  
 
 ## 使用 for 循环
 
@@ -28,11 +24,7 @@ towardsdatascience.com](/the-map-function-in-python-eb9a90707d17)
 
 另一种实现方式是使用内置的 Python ***过滤器*** 函数。
 
-[](/two-cool-functions-to-know-in-python-7c36da49f884) [## Python 中需要了解的两个很酷的函数
-
-### 了解如何使用 Python 中的 tqdm 制作表格和显示进度条
-
-towardsdatascience.com](/two-cool-functions-to-know-in-python-7c36da49f884) 
+</two-cool-functions-to-know-in-python-7c36da49f884>  
 
 ## 滤波函数
 
@@ -62,11 +54,7 @@ towardsdatascience.com](/two-cool-functions-to-know-in-python-7c36da49f884)
 
 **了解****λ****函数在这里:**
 
-*[](/lambda-expressions-in-python-9ad476c75438) [## Python 中的 Lambda 表达式
-
-### 如何用 python 写匿名函数
-
-towardsdatascience.com](/lambda-expressions-in-python-9ad476c75438)* 
+*</lambda-expressions-in-python-9ad476c75438> * 
 
 ## *列表理解与映射和过滤*
 
@@ -90,10 +78,6 @@ towardsdatascience.com](/lambda-expressions-in-python-9ad476c75438)*
 
 **如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑注册成为一名灵媒会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的* [*链接*](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。**
 
-*[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)* 
+*<https://lmatalka90.medium.com/membership> * 
 
 **希望你喜欢这篇关于 Python 中* ***滤镜*** *功能的文章。感谢您的阅读！**

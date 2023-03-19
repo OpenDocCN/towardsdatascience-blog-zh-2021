@@ -16,19 +16,11 @@
 
 但是，如果您试图训练的模型过于耗费资源，无法在标准 Mac 硬件上构建，该怎么办？如果您想利用 GPU 来加快训练过程，该怎么办？根据这篇文章的标题，你可能会认为这是 Turi Create 的切入点。
 
-[](https://github.com/apple/turicreate) [## 苹果/turicreate
-
-### 快速链接:安装|文档| WWDC 2019 | WWDC 2018 查看我们在 WWDC 2019 和 WWDC 2018 的演讲…
-
-github.com](https://github.com/apple/turicreate) 
+<https://github.com/apple/turicreate>  
 
 为了更好地了解一个端到端的 Turi Create 项目是什么样子的，你可以看看[这个用于计算机视觉扑克牌检测的 repo](https://github.com/mcgovey/compvision-playing-card-detection) ，以及[这个总结项目的论文](https://github.com/mcgovey/compvision-playing-card-detection/raw/master/Kevin%20McGovern%20Project%20Overview.pdf)或[这个视频概述](https://www.youtube.com/watch?v=ZEHn_VSixwI)。
 
-[](https://github.com/mcgovey/compvision-playing-card-detection) [## mcgovey/compvision-扑克牌-检测
-
-### 使用扑克牌的视频，两三张扑克牌在一个随机的…
-
-github.com](https://github.com/mcgovey/compvision-playing-card-detection) 
+<https://github.com/mcgovey/compvision-playing-card-detection>  
 
 对于那些不熟悉 Turi Create T1 的人来说，它是一个 Python 库，抽象了 Tensorflow、PyTorch 甚至 Keras 的复杂性。它的 Python API 可以很容易地将数据格式化为所需的预处理图像格式，然后创建一个可以在不同类型的硬件上运行的模型(不仅仅是像 Create ML 这样的 MAC)。
 

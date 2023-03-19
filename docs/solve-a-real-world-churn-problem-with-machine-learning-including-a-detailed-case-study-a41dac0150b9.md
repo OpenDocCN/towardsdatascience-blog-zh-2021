@@ -386,4 +386,4 @@ kableExtra::kable_styling()
 
 例如，属于流失风险组 10 和 9 的客户比示例 1 和 2 具有明显更高的流失风险。因此，向他们提供更多的东西来留住他们是至关重要的。
 
-【https://www.manosantoniou.com】最初发表于[](https://www.manosantoniou.com/post/solve-a-real-world-churn-problem/)**。**
+【https://www.manosantoniou.com】最初发表于<https://www.manosantoniou.com/post/solve-a-real-world-churn-problem/>**。**

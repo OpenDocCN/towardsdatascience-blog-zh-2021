@@ -18,11 +18,7 @@
 
 我还有另一篇文章，概述了许多流行的图像标题架构。它提供了这些体系结构所使用的主要组件的背景，解释了每个体系结构的独特特征以及它们为什么有趣。如果你感兴趣，我鼓励你去看一看。
 
-[](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) [## 具有深度学习的图像标题:最先进的架构
-
-### 图像特征编码器、序列解码器、注意和多模态架构的简明指南，用简单的英语编写
-
-towardsdatascience.com](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) 
+</image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db>  
 
 # 图像字幕应用程序
 
@@ -246,18 +242,6 @@ eg ."*1000268201 _ 693 b 08 cb0e . jpg # 1 一个女孩走进一栋木屋里。*
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于变形金刚、音频深度学习和地理定位机器学习的其他系列。
 
-[](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [## 直观解释的变压器(第 1 部分):功能概述
-
-### NLP 变形金刚的简明指南，以及为什么它们比 rnn 更好，用简单的英语。注意力如何帮助…
-
-towardsdatascience.com](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [## 音频深度学习变得简单(第一部分):最新技术
-
-### 颠覆性深度学习音频应用和架构世界的温和指南。以及为什么我们都需要…
-
-towardsdatascience.com](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [## 利用地理位置数据进行机器学习:基本技术
-
-### 简明的地理空间数据特征工程和可视化指南
-
-towardsdatascience.com](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) 
+</transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>  </audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504>  </leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc>  
 
 让我们继续学习吧！

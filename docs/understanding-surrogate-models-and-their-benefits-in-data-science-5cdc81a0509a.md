@@ -225,16 +225,8 @@ Baptiste 模拟了 200 个不同的批次(“样本指数”从 0 到 199)，每
 
 相应的代码存储在这里:
 
-[](https://github.com/pierrelouisbescond/surrogate_model_demo) [## GitHub-pierrelouisscond/surrogate _ model _ demo
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/pierrelouisbescond/surrogate_model_demo) 
+<https://github.com/pierrelouisbescond/surrogate_model_demo>  
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+<https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

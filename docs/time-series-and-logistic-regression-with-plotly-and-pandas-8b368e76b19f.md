@@ -229,11 +229,7 @@ fig = px.scatter(df
 
 作为部署到 web 的最后一步，我目前正在开发 Streamlit。您可以在这里 看到这个 [**示例项目的 web 版本，并在下面的链接中查看另一篇关于如何使用**](https://share.streamlit.io/justinhchae/app_courts/main/main.py) **[**Streamlit**](https://www.streamlit.io/) 部署代码的文章。此外，本文和应用程序背后的整个源代码项目可在我的 [**GitHub repo 中找到。**](https://github.com/justinhchae/app_courts)**
 
-[](/deploy-code-with-streamlit-90090b611f3c) [## 使用 Streamlit 部署代码
-
-### 为什么要简化 it 以及关于从 Python 部署数据仪表板应用程序的一些提示。
-
-towardsdatascience.com](/deploy-code-with-streamlit-90090b611f3c) 
+</deploy-code-with-streamlit-90090b611f3c>  
 
 # 结论
 

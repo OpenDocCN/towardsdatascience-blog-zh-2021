@@ -22,7 +22,7 @@ Python 是最流行的编程语言之一，当涉及到开发服务于特定目�
 
 如果您想知道如何分发您自己的 Python 项目并使它们广泛可用，请务必阅读下面的指南。
 
-[](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [## 如何将 Python 包上传到 PyPI
+</how-to-upload-your-python-package-to-pypi-de1b363a1b3> [## 如何将 Python 包上传到 PyPI
 
 towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) 
 

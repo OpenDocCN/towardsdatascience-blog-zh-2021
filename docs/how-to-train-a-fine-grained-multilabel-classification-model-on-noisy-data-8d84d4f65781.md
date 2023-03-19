@@ -211,12 +211,4 @@ TensorMultiCategory(0.9796)
 
 # 如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:
 
-[](/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc) [## 基于深度时尚数据集和快速人工智能的服装分类
-
-### 一个关于我如何开始清理我的衣柜并最终训练一个神经网络的故事
-
-towardsdatascience.com](/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc) [](/how-to-build-a-baseline-model-be6ce42389fc) [## 如何构建基线模型
-
-### 构建基线模型以了解数据的实用方法
-
-towardsdatascience.com](/how-to-build-a-baseline-model-be6ce42389fc)
+</clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc>  </how-to-build-a-baseline-model-be6ce42389fc> 

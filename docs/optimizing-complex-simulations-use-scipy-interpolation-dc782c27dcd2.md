@@ -12,11 +12,7 @@
 
 在复杂的科学或商业研究中插入实验或模拟数据是一种相当普遍的做法。在我的上一篇文章中，我展示了如何使用简单的 Scipy 代码来实现一维或多维。
 
-[](https://medium.com/productive-data-science/how-to-interpolate-data-with-scipy-d314143285bc) [## 如何用 Scipy 内插数据
-
-### Python Scipy 包简化了一维或多维数据插值。
-
-medium.com](https://medium.com/productive-data-science/how-to-interpolate-data-with-scipy-d314143285bc) 
+<https://medium.com/productive-data-science/how-to-interpolate-data-with-scipy-d314143285bc>  
 
 这种方法的一个关键好处是，我们从 Scipy 例程中获得了**精确函数，并可以将其用于多种用途——其中之一是**快速优化**。**
 
@@ -147,11 +143,7 @@ def **optimum_interpolation**(domain,init_results,n=101):
 
 有关实验设计以及如何使用 [**Python 包生成健壮的实验计划**](https://doepy.readthedocs.io/en/latest/) 的更多信息，请参见我的文章。
 
-[](/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35) [## 使用简单的 Python 命令设计您的工程实验计划
-
-### 使用简单的 Python 命令设计您的工程实验计划。
-
-towardsdatascience.com](/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35) 
+</design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35>  
 
 # 在高维空间中非常有用
 

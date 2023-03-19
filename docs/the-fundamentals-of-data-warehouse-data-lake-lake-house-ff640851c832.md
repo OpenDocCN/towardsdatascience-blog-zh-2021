@@ -144,15 +144,7 @@ AWS Lake House 遵循一个生态系统架构，通过 5 个层使用位于集�
 
 作为参考，这里是 AWS 分析和 Lake House 最佳实践设计的官方 AWS 博客，以了解更多深入的细节。
 
-[](https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/) [## 通过 AWS Analytics | Amazon Web Services 利用数据的力量
-
-### 2020 年提醒我们，面对持续而突然的变化，需要保持敏捷。我交谈过的每一位顾客…
-
-aws.amazon.com](https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/) [](https://aws.amazon.com/blogs/big-data/build-a-lake-house-architecture-on-aws/) [## 在 AWS | Amazon Web Services 上构建湖边小屋架构
-
-### 当组织汇集所有结构的所有相关数据时，他们可以获得更深入、更丰富的洞察力…
-
-aws.amazon.com](https://aws.amazon.com/blogs/big-data/build-a-lake-house-architecture-on-aws/) 
+<https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/>  <https://aws.amazon.com/blogs/big-data/build-a-lake-house-architecture-on-aws/>  
 
 # 结论
 

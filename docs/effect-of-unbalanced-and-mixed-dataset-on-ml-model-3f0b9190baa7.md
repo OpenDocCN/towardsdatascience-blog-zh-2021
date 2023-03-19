@@ -51,11 +51,7 @@
 
 我写了一篇关于正常型和肺炎型 X 线影像分类的博客。在这里，我演示了识别模型的训练和评估步骤。
 
-[](/x-ray-image-classification-and-model-evaluation-7810044c0ff5) [## x 射线图像分类和模型评估
-
-### 基于张量流的胸部 x 光图像肺炎检测
-
-towardsdatascience.com](/x-ray-image-classification-and-model-evaluation-7810044c0ff5) 
+</x-ray-image-classification-and-model-evaluation-7810044c0ff5>  
 
 在本文中，我将使用相同的数据集，但做了一些修改以反映现实世界中的问题。我已经为训练、验证和测试创建了三个独立的数据集。
 

@@ -12,7 +12,7 @@
 
 在商业智能的学科中，在公司中收集“技术和过程”来系统地分析数据，我发现六个工件是大多数过程的基石。
 
-在大多数关于数据架构的文章中，它们中的一些被遗漏了，或者至少适当的工具被遗漏了，也许是有意的，也许不是(例如，参见 a16z [](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)上的[精彩文章，该文章主要关注报告、仪表板&临时访问)。).](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+在大多数关于数据架构的文章中，它们中的一些被遗漏了，或者至少适当的工具被遗漏了，也许是有意的，也许不是(例如，参见 a16z <https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure>上的[精彩文章，该文章主要关注报告、仪表板&临时访问)。).](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 我认为数据的唯一价值是改善一些单位的决策。为此，我们需要回答一系列问题。但是根据问题的不同，使用其中一个工件来回答它们要容易得多。
 

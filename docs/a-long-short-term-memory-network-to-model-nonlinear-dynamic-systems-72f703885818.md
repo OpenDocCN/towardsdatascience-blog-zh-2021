@@ -24,15 +24,7 @@
 
 在这篇文章中，我们将集中讨论长短期记忆(LSTM)网络来模拟非线性动态系统。对递归神经网络(RNN)和 LSTM 的基本理解将会有所帮助。为了更好地理解 RNN 和 LSTM 的工作方式，请参考下面这些精美的插图文章。
 
-[](/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9) [## 递归神经网络图解指南
-
-### 理解直觉
-
-towardsdatascience.com](/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9) [](/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) [## LSTM 和 GRU 的图解指南:一步一步的解释
-
-### 嗨，欢迎来到长短期记忆(LSTM)和门控循环单位(GRU)的图解指南。我是迈克尔…
-
-towardsdatascience.com](/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) 
+</illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9>  </illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>  
 
 # 考虑中的动态系统
 

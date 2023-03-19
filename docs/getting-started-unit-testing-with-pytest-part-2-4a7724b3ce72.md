@@ -10,11 +10,7 @@
 
 上周我写了关于[开始单元测试](/getting-started-unit-testing-with-pytest-9cba6d366d61)的文章。我们讨论了基本的断言测试、参数化、固定装置，最重要的是，测试如何节省您的时间，以便您可以完成更多的工作或花更多的时间与家人在一起——这是您的选择。本文从上一篇文章停止的地方开始，所以如果您需要复习，这里有那篇文章:
 
-[](/getting-started-unit-testing-with-pytest-9cba6d366d61) [## Pytest 单元测试入门
-
-### 没有数据科学家认为他们需要的工具，除非他们知道。
-
-towardsdatascience.com](/getting-started-unit-testing-with-pytest-9cba6d366d61) 
+</getting-started-unit-testing-with-pytest-9cba6d366d61>  
 
 单元测试的一个重要原则是它们应该是独立的。在测试环境中，这意味着我们的测试应该只依赖于我们正在测试的功能，而不是任何其他服务或功能。Immagine 你的函数对 goggles.com 进行 API 调用，并使用一些复杂的人工智能返回与你的搜索最相关的泳镜。如果我们不模拟 API 调用，我们的测试将依赖于它。
 

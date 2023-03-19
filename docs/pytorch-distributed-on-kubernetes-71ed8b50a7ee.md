@@ -18,15 +18,7 @@
 
 **这个故事比前两个故事更进了一步，在前两个故事中，我们讨论了基础，然后将我们的知识应用到现实世界的 Kaggle 比赛中。它为 Kubernetes 世界带来了分布式培训。可能比你想象的要简单。您需要做的只是添加几行代码！**
 
-[](/distributed-deep-learning-101-introduction-ebfc1bcd59d9) [## 分布式深度学习 101:简介
-
-### 如何用 PyTorch 编写分布式深度学习应用的指南
-
-towardsdatascience.com](/distributed-deep-learning-101-introduction-ebfc1bcd59d9) [](/pytorch-distributed-all-you-need-to-know-a0b6cf9301be) [## PyTorch 分发:所有你需要知道的
-
-### 用 PyTorch 编写分布式应用程序:一个真实的例子
-
-towardsdatascience.com](/pytorch-distributed-all-you-need-to-know-a0b6cf9301be) 
+</distributed-deep-learning-101-introduction-ebfc1bcd59d9>  </pytorch-distributed-all-you-need-to-know-a0b6cf9301be>  
 
 > [学习率](https://www.dimpo.me/newsletter?utm_source=medium&utm_medium=article&utm_campaign=pytorch_operator)是为那些对 AI 和 MLOps 的世界感到好奇的人准备的时事通讯。你会在每周五收到我关于最新人工智能新闻和文章的更新和想法。在这里订阅！
 
@@ -83,19 +75,11 @@ MiniKF
 
 因此，要在 GCP 上安装 Kubeflow，请遵循我在下面提供的指南:
 
-[](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [## 有了 MiniKF，Kubeflow 比以往任何时候都更容易访问
-
-### 10 分钟入门 Kubernetes 最好的机器学习平台。
-
-towardsdatascience.com](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) 
+</kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b>  
 
 或者，如果您喜欢 AWS:
 
-[](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [## AWS 上的 Mini Kubeflow 是您的新 ML 工作站
-
-### 通过 AWS 上的 MiniKF 加速您的机器学习模型开发
-
-towardsdatascience.com](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) 
+</mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585>  
 
 # 结论
 

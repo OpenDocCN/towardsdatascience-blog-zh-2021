@@ -46,12 +46,4 @@
 
 在 LinkedIn 上与我联系或在 Medium 上关注我。如果你喜欢这个故事，你可能会喜欢我关于 python decorators 的其他故事:
 
-[](https://betterprogramming.pub/decorator-pattern-and-python-decorators-b0b573f4c1ce) [## 装饰模式和 Python 装饰器
-
-### 为什么它们不一样？
-
-better 编程. pub](https://betterprogramming.pub/decorator-pattern-and-python-decorators-b0b573f4c1ce) [](/python-decorators-from-simple-decorators-to-nesting-multiple-33bbab8c5a45) [## Python 装饰器:从简单装饰器到嵌套多重
-
-### 如何用多个参数化的 decorators 修改一个函数？
-
-towardsdatascience.com](/python-decorators-from-simple-decorators-to-nesting-multiple-33bbab8c5a45)
+<https://betterprogramming.pub/decorator-pattern-and-python-decorators-b0b573f4c1ce>  </python-decorators-from-simple-decorators-to-nesting-multiple-33bbab8c5a45> 

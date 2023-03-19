@@ -12,15 +12,7 @@
 
 最后，我们将为我们的数据绘制**决策边界**。我们将使用只有两个特征的数据，由于感知器是一个二元分类器，因此将有两个类。我们将使用 **Python NumPy** 实现所有代码，使用 **Matplotlib** 可视化/绘图。
 
-[](/logistic-regression-from-scratch-in-python-ec66603592e2) [## Python 中从头开始的逻辑回归
-
-### 从零开始的机器学习:第 5 部分
-
-towardsdatascience.com](/logistic-regression-from-scratch-in-python-ec66603592e2) [](/polynomial-regression-in-python-b69ab7df6105) [## 用 Python 从头开始实现多项式回归
-
-### 从零开始的机器学习:第 4 部分
-
-towardsdatascience.com](/polynomial-regression-in-python-b69ab7df6105) 
+</logistic-regression-from-scratch-in-python-ec66603592e2>  </polynomial-regression-in-python-b69ab7df6105>  
 
 # 介绍
 

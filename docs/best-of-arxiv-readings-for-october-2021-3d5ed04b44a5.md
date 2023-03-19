@@ -202,7 +202,7 @@ SwinIR 是一种使用 Swin Transformer 的图像恢复方法，Swin Transformer
 
 *参考文献*
 
-*[1] Swin 变换器:使用移位窗口的分级视觉变换器。由*[](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+Z)**[*林语桐*](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+Y)*[](https://arxiv.org/search/cs?searchtype=author&query=Cao%2C+Y)**[*韩虎*](https://arxiv.org/search/cs?searchtype=author&query=Hu%2C+H)*[*【奕譞】魏*](https://arxiv.org/search/cs?searchtype=author&query=Wei%2C+Y)*[*张铮*2021**](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+Z)*******
+*[1] Swin 变换器:使用移位窗口的分级视觉变换器。由*<https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+Z>**[*林语桐*](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+Y)*<https://arxiv.org/search/cs?searchtype=author&query=Cao%2C+Y>**[*韩虎*](https://arxiv.org/search/cs?searchtype=author&query=Hu%2C+H)*[*【奕譞】魏*](https://arxiv.org/search/cs?searchtype=author&query=Wei%2C+Y)*[*张铮*2021**](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+Z)*******
 
 **【2】*变压器中位置信息:概述。由[菲利普·杜特尔](https://arxiv.org/search/cs?searchtype=author&query=Dufter%2C+P)、[马丁·施密特](https://arxiv.org/search/cs?searchtype=author&query=Schmitt%2C+M)、[辛里奇·舒茨](https://arxiv.org/search/cs?searchtype=author&query=Sch%C3%BCtze%2C+H)； *2021。**
 

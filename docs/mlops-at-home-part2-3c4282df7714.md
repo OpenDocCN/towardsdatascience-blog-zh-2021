@@ -14,7 +14,7 @@ MLOps 是目前机器学习和数据科学中最受**欢迎的**流行语之一�
 
 **你可以在这里阅读我是如何定义 MLOps 的:**
 
-[](/mlops-at-home-part1-4c60db29d4a2) [## 在家创建一个现代的、开源的 MLOps 堆栈
+</mlops-at-home-part1-4c60db29d4a2> [## 在家创建一个现代的、开源的 MLOps 堆栈
 
 towardsdatascience.com](/mlops-at-home-part1-4c60db29d4a2) 
 
@@ -68,11 +68,7 @@ MLOps 的一个关键优势是**可重复性**和**自动化**，然而我们在
 
 **您可以在这里查看笔记本:**
 
-[](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/2%20Simplified.ipynb) [## adamshafi 92/m lops-在家
-
-### 在 GitHub 上创建一个帐户，为 adamshafi 92/mlops-home 开发做出贡献。
-
-github.com](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/2%20Simplified.ipynb) 
+<https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/2%20Simplified.ipynb>  
 
 这款笔记本的核心元素是:
 
@@ -130,11 +126,7 @@ parameters = {'outliers' : {'feat1' : 4000
 
 这个笔记本在这里:
 
-[](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb) [## adamshafi 92/m lops-在家
-
-### 在 GitHub 上创建一个帐户，为 adamshafi 92/mlops-home 开发做出贡献。
-
-github.com](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb) 
+<https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb>  
 
 对于这个 MLOps 实现，我建议在函数中包含任何可能影响模型的关键字参数，这样我们就可以很容易地更改它们。我们还将使用一个参数字典来提供这些关键字参数。我在下面举了一个例子。
 
@@ -164,11 +156,7 @@ parameters = {'outliers' : {'GrLivArea' : 4000,
 
 总之，我已经创建了 8 个新的预处理函数。比较 repo 中的笔记本 2 和笔记本 3，比较代码是如何变化的。
 
-[](https://github.com/AdamShafi92/mlops-at-home/tree/main/1-refactoring_code) [## adamshafi 92/m lops-在家
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/AdamShafi92/mlops-at-home/tree/main/1-refactoring_code) 
+<https://github.com/AdamShafi92/mlops-at-home/tree/main/1-refactoring_code>  
 
 # 运行代码
 
@@ -227,16 +215,8 @@ RobustScaler(), Lasso(alpha=0.0005, random_state=1))lasso_fit = fit_model(lasso,
 
 ## *了解更多信息*
 
-*[](/explainable-ai-9a9af94931ff) [## 你应该了解的 5 个可解释的机器学习模型
-
-### 当简单的方法奏效时，为什么要使用复杂的模型？
-
-towardsdatascience.com](/explainable-ai-9a9af94931ff) 
+*</explainable-ai-9a9af94931ff>  
 
 ## 将我的内容直接发送到您的收件箱！
 
-[](https://adamsh.substack.com/p/coming-soon) [## Data Siens:机器学习技巧、诀窍和教程的资源。
-
-### 欢迎来到亚当的数据西恩斯。我是一名数据科学家，有 5 年的分析经验。我喜欢谈论任何事情…
-
-adamsh.substack.com](https://adamsh.substack.com/p/coming-soon)*
+<https://adamsh.substack.com/p/coming-soon> *

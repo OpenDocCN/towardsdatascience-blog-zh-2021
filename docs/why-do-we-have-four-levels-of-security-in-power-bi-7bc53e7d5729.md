@@ -234,8 +234,4 @@ Power BI 中的每个安全级别涵盖一个特定的领域。
 
 我希望这篇文章有助于理解 Power BI 中可用的安全特性以及如何使用它们。我建议通过上面提到的链接来了解每个特性的更多信息。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+<https://medium.com/@salvatorecagliari/membership> 

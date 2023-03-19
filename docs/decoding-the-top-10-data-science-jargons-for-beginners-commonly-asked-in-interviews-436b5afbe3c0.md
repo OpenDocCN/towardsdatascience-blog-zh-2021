@@ -16,11 +16,7 @@
 
 在研究预测数据科学问题时。通常会有一个因变量和多个自变量。下面是一个很好的资源，可以更好地理解因变量和自变量。
 
-[](https://www.scribbr.com/methodology/independent-and-dependent-variables/) [## 自变量和因变量
-
-### 在研究中，变量是可以取不同值的任何特征，如身高、年龄、物种或考试…
-
-www.scribbr.com](https://www.scribbr.com/methodology/independent-and-dependent-variables/) 
+<https://www.scribbr.com/methodology/independent-and-dependent-variables/>  
 
 # 极端值
 
@@ -28,11 +24,7 @@ www.scribbr.com](https://www.scribbr.com/methodology/independent-and-dependent-v
 
 这里有一篇详细的文章，讨论了异常值检测中常用的技术。
 
-[](/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) [## 离群点检测技术概述
-
-### 什么是离群值，如何处理？
-
-towardsdatascience.com](/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) 
+</a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561>  
 
 # 序数数据
 
@@ -42,11 +34,7 @@ towardsdatascience.com](/a-brief-overview-of-outlier-detection-techniques-1e0b2c
 
 下面是一篇非常好的文章，可以学习更多关于分类数据编码的最佳方法
 
-[](/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159) [## 为机器学习编码分类数据的更智能方法
-
-### 探索类别编码器
-
-towardsdatascience.com](/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159) 
+</smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159>  
 
 # 一键编码
 
@@ -56,11 +44,7 @@ towardsdatascience.com](/smarter-ways-to-encode-categorical-data-for-machine-lea
 
 要了解有关实现热编码的更多信息，请阅读下面的内容。
 
-[](https://www.educative.io/blog/one-hot-encoding) [## 5 分钟内的数据科学:什么是热门编码？
-
-### 一种热门的编码是将分类数据变量转换成数值的过程。学习如何热…
-
-www.educative.io](https://www.educative.io/blog/one-hot-encoding) 
+<https://www.educative.io/blog/one-hot-encoding>  
 
 # 偏斜度和峰度
 
@@ -70,11 +54,7 @@ www.educative.io](https://www.educative.io/blog/one-hot-encoding)
 
 下面是一篇非常好的文章，用可视化的表示方式来更好的理解偏度和峰度。
 
-[](https://www.analyticsvidhya.com/blog/2021/05/shape-of-data-skewness-and-kurtosis/) [## 偏度和峰度|数据的形状:偏度和峰度
-
-### 理解数据的形状是一个至关重要的行动。这有助于了解大部分信息在哪里，以及…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/shape-of-data-skewness-and-kurtosis/) 
+<https://www.analyticsvidhya.com/blog/2021/05/shape-of-data-skewness-and-kurtosis/>  
 
 # 不平衡数据集
 
@@ -82,11 +62,7 @@ www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/shape-of-d
 
 不平衡的数据集需要特别注意，因为构建模型或评估性能的常规方法不起作用。这里有一篇文章详细讨论了不平衡数据集以及更好地处理它们的最佳方法。
 
-[](/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) [## 机器学习中不平衡数据集的处理
-
-### 面对不平衡的班级问题，应该做什么，不应该做什么？
-
-towardsdatascience.com](/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) 
+</handling-imbalanced-datasets-in-machine-learning-7a0e84220f28>  
 
 # 缩放比例
 
@@ -94,11 +70,7 @@ towardsdatascience.com](/handling-imbalanced-datasets-in-machine-learning-7a0e84
 
 要了解什么是 it 扩展以及它为什么重要，请阅读下面的文章。
 
-[](/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048) [## 什么是特征缩放&为什么它在机器学习中很重要？
-
-### 最小最大分频器与标准分频器与鲁棒分频器
-
-towardsdatascience.com](/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048) 
+</what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048>  
 
 # 相互关系
 
@@ -108,11 +80,7 @@ towardsdatascience.com](/what-is-feature-scaling-why-is-it-important-in-machine-
 
 通过一个工作示例了解更多关于相关性以及如何在特征选择中使用它们的信息。阅读下面的文章，
 
-[](/feature-selection-correlation-and-p-value-da8921bfb3cf) [## 要素选择-相关性和 P 值
-
-### 通常，当我们获得一个数据集时，我们可能会在数据集中发现过多的要素。我们在中发现的所有功能…
-
-towardsdatascience.com](/feature-selection-correlation-and-p-value-da8921bfb3cf) 
+</feature-selection-correlation-and-p-value-da8921bfb3cf>  
 
 # 置信区间和置信水平
 
@@ -122,11 +90,7 @@ towardsdatascience.com](/feature-selection-correlation-and-p-value-da8921bfb3cf)
 
 要了解有关置信区间和置信水平检查背后的计算的更多信息，请参阅下面的文章
 
-[](/confidence-intervals-explained-simply-for-data-scientists-8354a6e2266b) [## 为数据科学家简单解释置信区间
-
-### 没有沉重的术语
-
-towardsdatascience.com](/confidence-intervals-explained-simply-for-data-scientists-8354a6e2266b) 
+</confidence-intervals-explained-simply-for-data-scientists-8354a6e2266b>  
 
 # 同方差和异方差
 
@@ -136,11 +100,7 @@ towardsdatascience.com](/confidence-intervals-explained-simply-for-data-scientis
 
 为了更好地理解这个概念。此外，了解为什么同方差是解决回归问题的一个重要假设。读下面这篇文章，
 
-[](https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/homoscedasticity/) [## 同方差统计解决方案
-
-### 同方差假设(意思是“相同的方差”)是线性回归模型的核心。同质性…
-
-www.statisticssolutions.com](https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/homoscedasticity/) 
+<https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/homoscedasticity/>  
 
 # 准备数据科学面试？
 

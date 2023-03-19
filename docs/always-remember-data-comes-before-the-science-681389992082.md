@@ -79,16 +79,4 @@
 
 ## 相关文章
 
-[](/its-about-time-we-broke-up-data-science-dd776ac2bd91) [## 该是我们解散数据科学的时候了
-
-### 为什么我们必须分散数据科学，以及它看起来会是什么样子
-
-towardsdatascience.com](/its-about-time-we-broke-up-data-science-dd776ac2bd91) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
-
-### 为什么你仍然应该学习启发式和基于规则的方法
-
-towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359)
+</its-about-time-we-broke-up-data-science-dd776ac2bd91>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35>  </deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359> 

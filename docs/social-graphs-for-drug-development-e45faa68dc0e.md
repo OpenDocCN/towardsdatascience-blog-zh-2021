@@ -6,7 +6,7 @@
 
 通过 unsplash 的图像权利
 
-早在二月份，当我们还能安全地聚在一起的时候，Grakn 实验室的第一次全球用户会议, [Grakn Cosmos](https://grakncosmos.com) 在伦敦举行；和[](https://www.linkedin.com/in/paul-agapow/?originalSubdomain=uk)[【阿斯利康】](https://www.astrazeneca.co.uk/)的健康信息学主管保罗·阿加泼，讲述了他的团队在建立社交图谱以减少临床试验招募时的时间和财政资源方面的工作。
+早在二月份，当我们还能安全地聚在一起的时候，Grakn 实验室的第一次全球用户会议, [Grakn Cosmos](https://grakncosmos.com) 在伦敦举行；和<https://www.linkedin.com/in/paul-agapow/?originalSubdomain=uk>[【阿斯利康】](https://www.astrazeneca.co.uk/)的健康信息学主管保罗·阿加泼，讲述了他的团队在建立社交图谱以减少临床试验招募时的时间和财政资源方面的工作。
 
 > 这是第一步，让我们发展专业知识去探索，看看我们能去哪里——我们是有问题要解决的人。
 

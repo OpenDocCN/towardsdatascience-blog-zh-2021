@@ -35,11 +35,7 @@ CLIR 系统通常包括两个步骤，第一步是翻译步骤，包括将查询
 
 有关这两种方法的更多信息，我可以参考我去年在语言学协会(ACL)会议上发表的一篇论文，在这篇论文中，我对上述两种方法进行了全面的比较。
 
-[](https://www.aclweb.org/anthology/2020.acl-main.613/) [## 医学跨语言信息检索中的文档翻译与查询翻译
-
-### 摘要我们对跨语言信息检索的两种主要方法进行了全面的比较
-
-www.aclweb.org](https://www.aclweb.org/anthology/2020.acl-main.613/) 
+<https://www.aclweb.org/anthology/2020.acl-main.613/>  
 
 # CLIR 和 COVID19
 

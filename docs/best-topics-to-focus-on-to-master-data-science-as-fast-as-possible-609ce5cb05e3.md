@@ -14,11 +14,7 @@
 
 如果你想从头开始学习一切，并制定一个完美的计划来学习你想要的一切，那么请务必查看下面的文章，在 12 个月内掌握数据科学，同时使用上述 12 个步骤学习和获得更多知识。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 然而，如果你没有很多时间，只想完成一个快速速成课程，那么这篇文章将是你尽快专注于数据科学最本质方面的完美选择。本文的主要目标是关注在数据科学领域被认为非常有价值的清晰的主题。
 
@@ -42,11 +38,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 我强烈推荐阅读下面这篇关于 NLP 的文章，这篇文章用四个正则表达式命令简化了 NLP。下面提供了链接。
 
-[](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) [## 4 个基本正则表达式操作符使自然语言处理变得更简单！
-
-### 了解四种基本的常规操作，以清理几乎任何类型的可用数据。
-
-towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) 
+</natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1>  
 
 # 编程；编排
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-r
 
 我强烈推荐初学者从下面的链接中找到掌握 Python 数据科学的十步快速程序指南。按照上述步骤的顺序进行操作，以获得最佳效果。
 
-[](/10-steps-to-master-python-for-data-science-f54199bb328d) [## 掌握数据科学 Python 的 10 个步骤
-
-### 成为数据科学和机器学习的 Python 大师的 10 个步骤
-
-towardsdatascience.com](/10-steps-to-master-python-for-data-science-f54199bb328d) 
+</10-steps-to-master-python-for-data-science-f54199bb328d>  
 
 数据科学的另一个要求是足够数量的 SQL。[结构化查询语言](https://en.wikipedia.org/wiki/SQL) (SQL)是一种用于编程的领域特定语言，设计用于管理关系数据库管理系统中保存的数据，或用于关系数据流管理系统中的流处理。
 
@@ -102,11 +90,7 @@ Python 编程对这一目的非常有益，因为它允许用户利用 matplotli
 
 要了解更多关于学习数学的最佳免费资源，你可以查看下面的链接，或者阅读包含学习数学的最佳资源的下一部分。
 
-[](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) 
+</do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  
 
 ## 学习数学的最佳资源:
 
@@ -148,26 +132,6 @@ towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a)
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
-
-### 你有没有可能给你的人工智能编程来发展情绪？
-
-towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
-
-### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
-
-towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+</5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  </can-your-ai-have-emotions-7efc35721e12>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  </how-to-read-and-understand-python-code-faster-180ba1ba9445>  </5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

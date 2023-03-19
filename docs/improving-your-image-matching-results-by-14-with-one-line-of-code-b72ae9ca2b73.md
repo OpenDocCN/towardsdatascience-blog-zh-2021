@@ -6,11 +6,7 @@
 
 OpenCV 4.5.1 中最令人兴奋的功能之一是 **BEBLID(增强的高效二进制局部图像描述符)**，这是一种新的描述符，能够提高图像匹配的准确性，同时减少执行时间！这篇文章将向你展示这个魔法是如何实现的。所有源代码都存储在这个 GitHub 存储库中:
 
-[](https://github.com/iago-suarez/beblid-opencv-demo/blob/main/demo.ipynb) [## iago-suarez/beblid-opencv-demo
-
-### 如何只用一行代码提高 14%的图片匹配度？BEBLID 是关键！…
-
-github.com](https://github.com/iago-suarez/beblid-opencv-demo/blob/main/demo.ipynb) 
+<https://github.com/iago-suarez/beblid-opencv-demo/blob/main/demo.ipynb>  
 
 在本例中，我们将匹配这两幅因视点变化而相关的图像:
 

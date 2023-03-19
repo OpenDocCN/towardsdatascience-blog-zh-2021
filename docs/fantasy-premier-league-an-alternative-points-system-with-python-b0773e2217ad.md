@@ -20,11 +20,7 @@
 
 我已经写了一篇关于 FPL 的文章，解释了如何使用 FPL API 获取相关数据。如果您感兴趣，可以在这里找到:
 
-[](/an-analysis-of-your-fantasy-premier-league-team-with-python-de4acf77e444) [## 用 Python 解析你的梦幻英超球队
-
-### 如何使用几行 Python 代码来可视化您的 FPL 团队的表现
-
-towardsdatascience.com](/an-analysis-of-your-fantasy-premier-league-team-with-python-de4acf77e444) 
+</an-analysis-of-your-fantasy-premier-league-team-with-python-de4acf77e444>  
 
 我们将首先使用这个 URL 端点和一个简单的 GET 请求从我们的头对头联盟获取数据:
 

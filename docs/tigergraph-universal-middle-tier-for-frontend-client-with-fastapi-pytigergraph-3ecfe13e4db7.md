@@ -340,24 +340,8 @@ def read_jaccard(source: Optional[str] = "100640876", etype: Optional[str] = "ha
 
 恭喜你。现在，您已经为您的 UI 创建了中间件，可以轻松地与您的图形解决方案进行交互。接下来，您需要创建您的 UI 来调用您刚刚创建的 API 的端点。如果你有任何问题，请随意在社区论坛或 Discord 上发表。
 
-[](https://community.tigergraph.com/) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com/) [](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 663 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://community.tigergraph.com/>  <https://discord.gg/gRHWBZNpxW>  
 
 此外，查看这些资源以获得关于 TigerGraph 和 FastAPI 的更多信息:
 
-[](https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/) [## TigerGraph 3.0 入门- TigerGraph
-
-### 使用 TigerGraph 的 GraphStudio 创建您的第一个图形数据库所需要知道的一切什么是 GraphStudio…
-
-www.tigergraph.com](https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/) [](https://fastapi.tiangolo.com/) [## FastAPI
-
-### FastAPI 框架，高性能，简单易学，快速编码，准备生产文档…
-
-fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
+<https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/>  <https://fastapi.tiangolo.com/> 

@@ -124,11 +124,7 @@ Azure 机器学习工作室的神经网络最佳参数(图片由作者提供)
 
 请参考此链接，查看完整的 8 个 autoML 工具，并一步一步查看 python 代码:
 
-[](https://www.datasciencemusthaveskills.com/home) [## datasciencemustawskills-Home
-
-### 让最好的机器学习模型为生产做好准备的最佳技巧和诀窍。
-
-www.datasciencemusthaveskills.com](https://www.datasciencemusthaveskills.com/home) 
+<https://www.datasciencemusthaveskills.com/home>  
 
 **希望你喜欢，继续探索！**
 

@@ -12,15 +12,7 @@
 
 模型可解释性是 ML 中的热门话题之一，因为它对于理解*黑盒*神经网络和一般 ML 系统非常重要。它们有助于识别 ML 系统中的潜在偏差，这些偏差会导致失败或不满意的用户体验。
 
-[](https://www.weforum.org/agenda/2021/07/ai-machine-learning-bias-discrimination/) [## 研究显示人工智能经常有偏见。以下是如何让算法为我们所有人服务的方法
-
-### 现有的人类偏见过于频繁地转移到人工智能上。这里有五种类型的偏见以及如何解决…
-
-www.weforum.org](https://www.weforum.org/agenda/2021/07/ai-machine-learning-bias-discrimination/) [](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212) [## 研究发现商业人工智能系统中的性别和皮肤类型偏见
-
-### 主要技术公司的三个商业发布的面部分析程序展示了皮肤类型和…
-
-news.mit.edu](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212) 
+<https://www.weforum.org/agenda/2021/07/ai-machine-learning-bias-discrimination/>  <https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212>  
 
 你会不时地看到这些头条新闻，因为无偏见 ML 模型的重要性在现代世界一直在上升。模型可解释性技术实际上允许我们检查我们的 ML 系统的低效率，并且寻找潜在的偏见。
 
@@ -28,11 +20,7 @@ news.mit.edu](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artifi
 
 另外，您可以在官方的 Keras examples repo 中找到 Grad-CAM 实现(使用 TF)的源代码，
 
-[](https://keras.io/examples/vision/grad_cam/) [## Keras 文档:Grad-CAM 类激活可视化
-
-### 作者:fchollet 创建日期:2020/04/26 最近修改时间:2021/03/07 描述:如何获得类激活…
-
-keras.io](https://keras.io/examples/vision/grad_cam/) 
+<https://keras.io/examples/vision/grad_cam/>  
 
 # 🧾目录
 
@@ -78,11 +66,7 @@ keras.io](https://keras.io/examples/vision/grad_cam/)
 
 为了更好地理解 ML 中模型可解释性的概念，请参考，
 
-[](https://christophm.github.io/interpretable-ml-book/) [## 可解释的机器学习
-
-### 机器学习在改进产品、流程和研究方面潜力巨大。但是电脑通常不会…
-
-christophm.github.io](https://christophm.github.io/interpretable-ml-book/) 
+<https://christophm.github.io/interpretable-ml-book/>  
 
 为了识别这样的特征，也为了发现我们的 NN 模型对于特定决策的*焦点*，我们引入了**模型可解释性**的概念(参见**【2】**)**)。它包括所有那些为我们的模型决策带来可解释性和透明性的技术。**
 
@@ -98,11 +82,7 @@ christophm.github.io](https://christophm.github.io/interpretable-ml-book/)
 
 **嗯，我们可以分析梯度，以检查我们的模型侧重于生成某个预测。梯度有助于我们测量输入( ***x*** )对输出的影响(如 ***x*** 上的某些函数 ***f*** )。这就是我们所需要的，图像中对神经网络输出影响最大的部分或区域。**
 
-**[](https://medium.com/analytics-vidhya/understanding-gradients-in-machine-learning-60fff04c6400) [## 理解机器学习中的梯度
-
-### 以张量值函数的导数为例。
-
-medium.com](https://medium.com/analytics-vidhya/understanding-gradients-in-machine-learning-60fff04c6400) 
+**<https://medium.com/analytics-vidhya/understanding-gradients-in-machine-learning-60fff04c6400>  
 
 我们将确保梯度调查区域的形象，这是重要的决策模型。这就是 Grad-CAM 方法中“Grad-”的含义，我们将在下一节探讨。** 
 
@@ -116,19 +96,11 @@ medium.com](https://medium.com/analytics-vidhya/understanding-gradients-in-machi
 
 **Grad-CAM 是由研究人员于 2017 年在论文***【Grad-CAM:通过基于梯度的定位来自深度网络的视觉解释】*** (参见**【1】**)中引入的，以便为模型的某些输出生成类激活图(CAM)。他们的方法 Grad-CAM 也概括了**【7】**的方法，也可用于其他类型的模型。在他们的论文中，人们可以观察到图像字幕模型以及 VQA(视觉问答)模型的可视化。**
 
-**[](/visual-question-answering-with-deep-learning-2e5e7cbfdcd4) [## 具有深度学习的视觉问答
-
-### 本博客包含“面向视觉问答的分层问题-图像共同关注”论文的实现…
-
-towardsdatascience.com](/visual-question-answering-with-deep-learning-2e5e7cbfdcd4) 
+**</visual-question-answering-with-deep-learning-2e5e7cbfdcd4>  
 
 首先，我们将从神经网络的基础上理解 Grad-CAM 的基本实现。因此，这个故事期望读者有一些关于神经网络，反向传播和卷积层的知识。
 
-[](/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9) [## 轻轻潜入卷积神经网络背后的数学
-
-### 神经网络之谜第五部分
-
-towardsdatascience.com](/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9) 
+</gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9>  
 
 然后，我们将强调 Grad-CAM 的一些特性，这些特性有助于更好地理解我们的模型。所以，我们开始吧！
 
@@ -150,11 +122,7 @@ towardsdatascience.com](/gentle-dive-into-math-behind-convolutional-neural-netwo
 
 *要知道内核和过滤器的区别，你可以参考我的这个故事，*
 
-*[](https://pub.towardsai.net/kernels-vs-filters-demystified-1fd594e1c38d) [## 内核与过滤器:去神秘化
-
-### 一劳永逸地理解差异。
-
-pub.towardsai.net](https://pub.towardsai.net/kernels-vs-filters-demystified-1fd594e1c38d) 
+*<https://pub.towardsai.net/kernels-vs-filters-demystified-1fd594e1c38d>  
 
 在 softmax 之前，我们的 CNN 的输出是 ***y_c*** ，在猫与狗分类器的情况下， ***y_c*** 是一个形状为`( 2 , 1 )`的数组。这个数组的第一个和第二个元素分别是类“cat”和“dog”的输出。
 
@@ -194,11 +162,7 @@ pub.towardsai.net](https://pub.towardsai.net/kernels-vs-filters-demystified-1fd5
 
 **在上一节中，我们已经获得了一个渐变来研究 ***y_cat*** (甚至 ***y_dog*** ) w.r.t 到单个特征图 ***A_k*** 的变化。但我们的目标是研究从 ***y_cat*** w.r.t 到 ***A*** ，一个由所有 ***K*** 组成的张量特征图。*中的一些特征映射可能对最终输出 ***y_cat*** 产生比其他更大的影响。如果我们能根据它们在 ***y_cat*** 中的影响，给这些特征图中的每一个分配一个分数就好了。如文中所述，我们可以计算*图 6* 中描述的梯度的所有元素的平均值，并将其用作该特征图的得分。***
 
-**[](https://www.guidetomlandai.com/Global-Average-Pooling/) [## 全球平均池
-
-### 本教程将展示 YOLO 如何使用张量流工作的基本解释。本教程的代码旨在…
-
-www.guidetomlandai.com](https://www.guidetomlandai.com/Global-Average-Pooling/) 
+**<https://www.guidetomlandai.com/Global-Average-Pooling/>  
 
 换句话说，我们正在执行特征映射的全局平均池化(GAP ),
 
@@ -248,11 +212,7 @@ www.guidetomlandai.com](https://www.guidetomlandai.com/Global-Average-Pooling/)
 
 **为了计算给定类别和模型的反事实解释，我们重复第 4 节中描述的相同过程。**
 
-**[](https://christophm.github.io/interpretable-ml-book/counterfactual.html) [## 6.1 反事实解释|可解释的机器学习
-
-### 作者:Susanne Dandl & Christoph Molnar 一个反事实的解释以“如果 X…
-
-christophm.github.io](https://christophm.github.io/interpretable-ml-book/counterfactual.html) 
+**<https://christophm.github.io/interpretable-ml-book/counterfactual.html>  
 
 但是这一次，在对特征图 ***A_k*** 进行全局平均池化的同时，我们对梯度取反，比如，
 
@@ -272,11 +232,7 @@ christophm.github.io](https://christophm.github.io/interpretable-ml-book/counter
 
 **我们可以使用 Grad-CAM 来识别训练数据集传递的模型预测中的偏差。考虑到本文中的示例，假设我们已经根据从 ImageNet 数据集获取的图像训练了一个护士和医生图像分类器。该分类器在测试数据集上表现很好，但不能很好地泛化。我们是怎么知道的？查看*图 12* 中的 Grad-CAM 热图，我们的有偏模型，我们可以观察到该模型专注于预测“护士”和“医生”标签时看似无关紧要的不需要的特征(部分面部、头发)。该模型似乎学习基于性别的特征，这在我们的用例中是不合适的。**
 
-**[](https://www.foreseemed.com/blog/bias-in-machine-learning) [## 机器学习和深度学习中的偏见是什么？
-
-### 随着医疗行业收集数字数据的能力增强，新一轮的基于机器的学习(ML)和…
-
-www.foreseemed.com](https://www.foreseemed.com/blog/bias-in-machine-learning) 
+**<https://www.foreseemed.com/blog/bias-in-machine-learning>  
 
 正如论文中提到的，数据集是有偏差的。78%标为“医生”的图像包含男性，而 93%标为“护士”的图像包含女性。显然，数据集中存在的性别偏见被传递到了模型中。请注意，该模型在测试数据集上表现良好，准确率为 82%。
 

@@ -103,12 +103,4 @@ Hyndman 教授的建议是将调和视为一个回归问题。
 
 # 参考
 
-[](https://otexts.com/fpp3/reconciliation.html) [## 11.3 预测协调|预测:原理与实践(第三版)
-
-### 警告:这一章的其余部分是更高级的，并且假设你知道一些基本的矩阵代数。回想一下…
-
-otexts.com](https://otexts.com/fpp3/reconciliation.html) [](https://github.com/carlomazzaferro/scikit-hts) [## GitHub-carlomazzaferro/sci kit-HTS:使用熟悉的 API 进行分层时间序列预测
-
-### 具有熟悉的 API 的分层时间序列。这是因为没有找到任何好的 HTS 实现…
-
-github.com](https://github.com/carlomazzaferro/scikit-hts)
+<https://otexts.com/fpp3/reconciliation.html>  <https://github.com/carlomazzaferro/scikit-hts> 

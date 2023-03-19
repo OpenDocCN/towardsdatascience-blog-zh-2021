@@ -274,24 +274,8 @@
 
 ## **硬件和生产力**
 
-**[](https://www.fastcompany.com/90590901/best-productivity-software-hardware-for-2021) [## 帮助你在 2021 年更聪明地工作的 7 个日常生产力技巧
-
-### 如果你像我一样，在屋子里徘徊，喃喃自语着“新年，新的我”，却不知道到底发生了什么…
-
-www.fastcompany.com](https://www.fastcompany.com/90590901/best-productivity-software-hardware-for-2021) [](https://betterhumans.pub/hardware-to-boost-your-productivity-in-2020-670c08e0ded1) [## 2020 年提高您工作效率的硬件
-
-### 如何投资购买合适的硬件来帮助您更有效地投入深度工作
-
-betterhumans.pub](https://betterhumans.pub/hardware-to-boost-your-productivity-in-2020-670c08e0ded1) 
+**<https://www.fastcompany.com/90590901/best-productivity-software-hardware-for-2021>  <https://betterhumans.pub/hardware-to-boost-your-productivity-in-2020-670c08e0ded1>  
 
 ## 我的更多文章
 
-[](/creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356) [## 用概念创建数据科学和机器学习组合
-
-### 传统简历的现代化
-
-towardsdatascience.com](/creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356) [](/one-eventful-year-as-a-computer-vision-engineer-3e8899cafce3) [## 一年的计算机视觉工程师
-
-### 一个机器学习实践者的所有学习、兴奋、失败、成功和事件浓缩成一个…
-
-towardsdatascience.com](/one-eventful-year-as-a-computer-vision-engineer-3e8899cafce3)**
+</creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356>  </one-eventful-year-as-a-computer-vision-engineer-3e8899cafce3> **

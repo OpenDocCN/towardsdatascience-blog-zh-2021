@@ -32,11 +32,7 @@ a <- c(12, 23, 4, 34)
 
 现在，你可以尝试用三个项目分别创建两个向量`population`和`countries`:`100, 120, 30`和`”Italy”, “France”, “Germany”`。您可以使用以下控制台进行游戏:
 
- [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors) 
+  
 
 解决方案是:
 
@@ -64,11 +60,7 @@ population <- c('Italy'=100, 'France'=33)
 
 你可以回到 R 控制台，试着给`population`向量的每一个项目分配一个名称。
 
- [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors#names.r) 
+  
 
 解决方案是:
 
@@ -94,11 +86,7 @@ mean(population)
 
 你可以在之前的 R 主机上试试这些功能。
 
- [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors#statistics.r) 
+  
 
 # 4 选择项目
 
@@ -140,11 +128,7 @@ population['Italy']
 
 您可以通过以下 R 控制台进行选择:
 
- [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors#select.r) 
+  
 
 ## **按条件选择**
 
@@ -164,11 +148,7 @@ sub_population <- population[condition]
 
 您可以利用以下控制台进行练习:
 
-[](https://replit.com/@alod83/Vectors#select_cond.r) [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors#select_cond.r) 
+<https://replit.com/@alod83/Vectors#select_cond.r>  
 
 前面练习的解决方案可能如下:
 
@@ -197,11 +177,7 @@ a + b
 
 我们来练习一下！计算两个向量之间的差。哪个名字有合成向量？
 
- [## 向量
-
-### 向量教程
-
-replit.com](https://replit.com/@alod83/Vectors#operations.r) 
+  
 
 解决方案是:
 
@@ -231,16 +207,4 @@ result <- c(population1, population2)
 
 # 相关文章
 
-[](/how-to-run-r-scripts-in-jupyter-15527148d2a) [## 如何在 Jupyter 中运行 R 脚本
-
-### 关于如何在 Jupyter 中安装并运行 R 内核的简短教程
-
-towardsdatascience.com](/how-to-run-r-scripts-in-jupyter-15527148d2a) [](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [## python 熊猫的基本统计数据
-
-### 入门指南
-
-medium.com](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) [## 为什么数据科学家也需要讲故事
-
-### 作为一名数据科学家是一份非常棒的工作:你可以收集数据，通过奇妙的抓取机制或网络…
-
-towardsdatascience.com](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83)
+</how-to-run-r-scripts-in-jupyter-15527148d2a>  <https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62>  </why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83> 

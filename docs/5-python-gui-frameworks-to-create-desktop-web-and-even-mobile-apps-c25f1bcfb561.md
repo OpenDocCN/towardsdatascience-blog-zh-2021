@@ -20,11 +20,7 @@ Python 已经在各种各样的用例中取得了成功。但是很少有人理�
 
 Gradio 是一个漂亮的 web UI 生成器。它是专门为机器学习项目设计的。
 
-[](/python-web-apps-for-machine-learning-e29d075e6459) [## 为 Python APIs 和 ML 模型创建 Web UIs
-
-### 快速制作原型并与其他人共享 web 应用程序。收集关于预测的反馈，以提高 ML 模型的性能。
-
-towardsdatascience.com](/python-web-apps-for-machine-learning-e29d075e6459) 
+</python-web-apps-for-machine-learning-e29d075e6459>  
 
 Gradio 有大约 25 种不同的小工具。每种都有自己的一套配置。您可以将每个 Python 函数包装在 Gradio 接口中，并在另一个小部件上显示其输出。
 
@@ -42,11 +38,7 @@ Gradio 有一个标志选项。如果用户发现模型预测关闭。他们可�
 
 Streamlit 是一个使用 Python 开发 web 应用程序的绝佳工具。它有一个声明式的编码风格，我觉得非常有用。
 
-[](/secure-your-streamlit-app-with-django-bb0bee2a6519) [## 使用 Django 保护您的 Streamlit 应用
-
-### 围绕你的机器学习 web 应用建立一个灵活的认证系统
-
-towardsdatascience.com](/secure-your-streamlit-app-with-django-bb0bee2a6519) 
+</secure-your-streamlit-app-with-django-bb0bee2a6519>  
 
 你不需要了解任何 HTML、CSS 或 JavaScript，也不需要学习任何网络开发在线课程。如果你懂 Python，你已经准备好了你需要的一切。
 
@@ -74,15 +66,7 @@ Streamlit 基础应用程序—作者图片
 
 你可以在我之前关于这个主题的文章中了解更多关于 Streamlit 的信息。这个应用还有一个[现场版](https://share.streamlit.io/thuwarakeshm/streamlit-intro/main/quickstart.py#interactive-k-means-clustering)你可以看看。
 
-[](/the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5) [## 用 Python 创建单词云的快速简单指南
-
-### 创建不同形状的单词云，以更好地传达信息。
-
-towardsdatascience.com](/the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5) [](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+</the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5>  </how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 # 阴谋破折号
 
@@ -114,11 +98,7 @@ python app.py
 
 你可以在我之前关于这个话题的博客文章中读到更多关于 Plotly Dash 的内容。
 
-[](/plotly-dashboards-in-python-28a3bb83702c) [## 这就是我如何纯粹用 Python 创建令人眼花缭乱的仪表盘。
-
-### Plotly dash 应用程序是用 python 构建生产级仪表板的最快方式。
-
-towardsdatascience.com](/plotly-dashboards-in-python-28a3bb83702c) 
+</plotly-dashboards-in-python-28a3bb83702c>  
 
 Plotly Dash 和 Streamlit 是这个列表中比较成熟的技术。虽然它们在开发 web 应用程序时非常有用，但我们还有一些工具可以帮助我们用 Python 构建跨平台的应用程序。下一个是一个很好的例子。
 
@@ -179,11 +159,7 @@ QT 和 PyQT5 是成熟的框架。因为它的生态系统是巨大的，可能�
 
 然而，PyQT5 不能免费用于商业用途。下一个是。
 
-[](https://www.pythonguis.com/pyqt5-tutorial/) [## PyQt5 教程 2021，用 Qt 创建 Python GUIs
-
-### 这份完整的 PyQt5 教程将带您从最初的概念到用 Python 构建全功能的 GUI 应用程序。它…
-
-www.pythonguis.com](https://www.pythonguis.com/pyqt5-tutorial/) 
+<https://www.pythonguis.com/pyqt5-tutorial/>  
 
 # Tkinter
 
@@ -211,11 +187,7 @@ Tkinter hello world 示例—图片由作者提供。
 
 正如您所看到的，与我们以前的工具相比，这个工具非常简单。
 
-[](https://realpython.com/python-gui-tkinter/) [## 用 Tkinter - Real Python 进行 Python GUI 编程
-
-### 在本文中，您将学习使用 Tkinter 进行 GUI 编程的基础知识，Tkinter 是事实上的 Python GUI 框架。主 GUI…
-
-realpython.com](https://realpython.com/python-gui-tkinter/) 
+<https://realpython.com/python-gui-tkinter/>  
 
 # 最后的想法
 

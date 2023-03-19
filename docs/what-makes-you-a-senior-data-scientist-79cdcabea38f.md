@@ -46,16 +46,4 @@ Clerverism 通过将其进一步细分为管理、分析、战略、协作和知
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222) [## 7 个月远程辅导的 7 个经验教训
-
-### 为什么您应该接受数据科学领域的学员
-
-towardsdatascience.com](/7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222) [](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [## 作为数据科学家起步的三大挑战
-
-### 我作为一名年轻的数据科学家所面临的问题以及我是如何克服这些问题的
-
-towardsdatascience.com](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [## 高效数据科学家的懒惰心态:自动化如何有所帮助
-
-### 在数据科学中利用 CI/CD 和自动化
-
-towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212)
+</7-lessons-learned-from-7-months-of-remote-mentoring-b9cebf0cf222>  </top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09>  </the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212> 

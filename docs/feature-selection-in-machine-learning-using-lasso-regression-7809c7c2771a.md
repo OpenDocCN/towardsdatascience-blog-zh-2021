@@ -127,4 +127,4 @@ Lasso 回归具有非常强大的内置要素选择功能，可用于多种情�
 
 如果你想了解更多关于 Lasso 回归的知识，加入我的 Python 在线课程[监督机器学习。](https://www.yourdatateacher.com/supervised-machine-learning-in-python-online-course/)
 
-*原载于 2021 年 5 月 5 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/05/05/feature-selection-in-machine-learning-using-lasso-regression/)**。**
+*原载于 2021 年 5 月 5 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/05/05/feature-selection-in-machine-learning-using-lasso-regression/>**。**

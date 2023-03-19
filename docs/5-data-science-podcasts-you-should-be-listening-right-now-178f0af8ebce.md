@@ -121,15 +121,7 @@ Juja Han 在 [Unsplash](https://unsplash.com/photos/uT55XxQLQGU) 上的照片
 
 ## 不确定接下来要读什么？这里有两个选择:
 
-[](/how-i-created-a-real-time-twitter-sentiment-analysis-tool-for-covid-292ff6a6323b) [## 我如何为 COVID 创建一个实时的 Twitter 情绪分析工具
-
-### 利用机器学习和 Python，我开发了一个模型，将关于 COVID 的推文分类为正面、负面或…
-
-towardsdatascience.com](/how-i-created-a-real-time-twitter-sentiment-analysis-tool-for-covid-292ff6a6323b) [](/normalization-and-standardization-in-2-minutes-e0609a01e76) [## 2 分钟内标准化和规范化
-
-### 特征缩放快速指南。
-
-towardsdatascience.com](/normalization-and-standardization-in-2-minutes-e0609a01e76) 
+</how-i-created-a-real-time-twitter-sentiment-analysis-tool-for-covid-292ff6a6323b>  </normalization-and-standardization-in-2-minutes-e0609a01e76>  
 
 ## 保持联络
 

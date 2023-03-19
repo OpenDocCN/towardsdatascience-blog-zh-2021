@@ -23,11 +23,7 @@
 
 你可以从我的[评估聚类结果](/evaluating-clustering-results-f13552ee7603)中阅读更多关于如何计算这些标准的细节。
 
-[](/evaluating-clustering-results-f13552ee7603) [## 评估聚类结果
-
-### 用于评估聚类结果的标准
-
-towardsdatascience.com](/evaluating-clustering-results-f13552ee7603) 
+</evaluating-clustering-results-f13552ee7603>  
 
 与其自己想出评估脚本，还不如用已经发布的流行软件工具和软件包来评估宏基因组宁滨的结果。让我们浏览其中的几个，并详细了解如何安装和运行它们。
 
@@ -145,20 +141,4 @@ AMBER、CheckM 和 GTDB-Tk 是宏基因组学分析中用来评估宁滨结果�
 
 你可能也会发现这些文章很有趣。
 
-[](https://medium.com/computational-biology/software-tools-for-reference-free-binning-of-metagenomes-f2d26b27eef2) [## 基因组无参考宁滨的软件工具
-
-### 结合宏基因组序列的工具介绍
-
-medium.com](https://medium.com/computational-biology/software-tools-for-reference-free-binning-of-metagenomes-f2d26b27eef2) [](https://medium.com/computational-biology/metagenomics-who-is-there-and-what-are-they-doing-9ea71f03eeee) [## 宏基因组学——谁在那里，他们在做什么？
-
-### 深入了解微生物群落的数据
-
-medium.com](https://medium.com/computational-biology/metagenomics-who-is-there-and-what-are-they-doing-9ea71f03eeee) [](/evaluating-clustering-results-f13552ee7603) [## 评估聚类结果
-
-### 用于评估聚类结果的标准
-
-towardsdatascience.com](/evaluating-clustering-results-f13552ee7603) [](https://medium.com/computational-biology/marker-genes-and-gene-prediction-of-bacteria-5fa4cb7802f3) [## 细菌的标记基因和基因预测
-
-### 什么是标记基因，它们的用法以及如何预测？
-
-medium.com](https://medium.com/computational-biology/marker-genes-and-gene-prediction-of-bacteria-5fa4cb7802f3)
+<https://medium.com/computational-biology/software-tools-for-reference-free-binning-of-metagenomes-f2d26b27eef2>  <https://medium.com/computational-biology/metagenomics-who-is-there-and-what-are-they-doing-9ea71f03eeee>  </evaluating-clustering-results-f13552ee7603>  <https://medium.com/computational-biology/marker-genes-and-gene-prediction-of-bacteria-5fa4cb7802f3> 

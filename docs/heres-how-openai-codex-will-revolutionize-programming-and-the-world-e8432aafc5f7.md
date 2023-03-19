@@ -152,10 +152,6 @@ Codex 不仅仅是发生在人工智能中的事情，世界上大部分人甚�
 
 # 推荐阅读
 
-[](/github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae) [## GitHub Copilot——新一代人工智能程序员
-
-### GitHub、微软、OpenAI 都达到了一个新的里程碑。
-
-towardsdatascience.com](/github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae) [](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae>  </gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd)

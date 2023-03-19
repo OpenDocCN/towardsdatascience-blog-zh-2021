@@ -47,12 +47,4 @@ VAE 生成图像。图片作者。
 
 变分自动编码器是一个非常简单而有趣的算法。我希望这对你来说很容易理解，但是不要着急，确保你理解了我们讨论的所有内容。除了 VAE 之外，还有许多类型的自动编码器。通过下面的链接，你可以随意学习其他的自动编码器。谢谢大家！
 
-[](/autoencoders-introduction-and-practical-applications-3eb7b5c1c7fd) [## 自动编码器:介绍和实际应用
-
-### 当我们想到无监督学习时，自动编码器可能是第一个想到的神经网络…
-
-towardsdatascience.com](/autoencoders-introduction-and-practical-applications-3eb7b5c1c7fd) [](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) [## 从自动编码器到贝塔 VAE
-
-### 自动编码器是一组神经网络模型，旨在学习高维数据的压缩潜变量…
-
-lilianweng.github.io](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+</autoencoders-introduction-and-practical-applications-3eb7b5c1c7fd>  <https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html> 

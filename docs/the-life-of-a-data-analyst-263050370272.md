@@ -52,8 +52,4 @@
 
 p.s .我把这个变成了一个系列！请查看下面的第 2 部分:
 
-[](/the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f) [## 数据分析师的生活—第二部分
-
-### 如(更多)图纸所示
-
-towardsdatascience.com](/the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f)
+</the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f> 

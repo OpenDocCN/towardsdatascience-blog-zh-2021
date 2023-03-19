@@ -70,15 +70,7 @@
 
 我不会讨论道德人工智能的原则和支柱。我将把它留给专家。特别是，下面的链接对我发展对人工智能生态系统的理解和道德视野帮助很大。
 
-[](https://www.weforum.org/agenda/2021/06/ethical-principles-for-ai/) [## 组织应遵循的 9 条人工智能伦理原则
-
-### 随着组织越来越多地应用人工智能，他们必须解决伦理和道德问题。这个…
-
-www.weforum.org](https://www.weforum.org/agenda/2021/06/ethical-principles-for-ai/) [](https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/) [## 专家们怀疑合乎道德的人工智能设计在未来十年内是否会被广泛采用
-
-### 这是皮尤研究中心和埃隆大学的想象互联网的第 12 次“互联网的未来”
-
-www.pewresearch.org](https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/) 
+<https://www.weforum.org/agenda/2021/06/ethical-principles-for-ai/>  <https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/>  
 
 看到这些组织戴上道德透镜并在这个方向上采取重大行动还有很长的路要走，令人痛心。
 

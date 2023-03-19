@@ -166,16 +166,4 @@
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/deep-image-quality-assessment-30ad71641fac) [## 深度图像质量评估
-
-### 深入研究全参考图像质量评估。从主观画质实验到深层客观…
-
-towardsdatascience.com](/deep-image-quality-assessment-30ad71641fac) [](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) [## 卷积神经网络——概要
-
-### 如何使用、何时使用以及提高性能的有用技巧
-
-towardsdatascience.com](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) [](/deep-video-inpainting-756e60ddcaaf) [## 深度视频修复
-
-### 用深度神经网络去除视频中不需要的对象。问题设置和最先进的审查。
-
-towardsdatascience.com](/deep-video-inpainting-756e60ddcaaf)
+</deep-image-quality-assessment-30ad71641fac>  </cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4>  </deep-video-inpainting-756e60ddcaaf> 

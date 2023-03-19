@@ -20,11 +20,7 @@
 
 # 谷歌数据分析专业证书
 
-[](https://grow.google/dataanalytics/#?modal_active=none) [## 谷歌数据分析证书
-
-### 你将学习成为谷歌数据分析的初级或助理数据分析师所需的技能…
-
-grow.google](https://grow.google/dataanalytics/#?modal_active=none) 
+<https://grow.google/dataanalytics/#?modal_active=none>  
 
 ## 概观
 
@@ -42,11 +38,7 @@ grow.google](https://grow.google/dataanalytics/#?modal_active=none)
 
 # IBM 数据分析师专业证书
 
-[](https://www.coursera.org/professional-certificates/ibm-data-analyst) [## IBM 数据分析师
-
-### 释放您在数据分析方面的潜力。为数据分析师这一热门职业培养就业技能。没有学位或者…
-
-www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-analyst) 
+<https://www.coursera.org/professional-certificates/ibm-data-analyst>  
 
 ## 概观
 
@@ -64,11 +56,7 @@ www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-an
 
 # 微软认证:数据分析师助理
 
-[](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) [## 微软认证:数据分析师助理-学习
-
-### 这个考试衡量你完成以下技术任务的能力:准备资料；对数据建模…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) 
+<https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/>  
 
 ## 概观
 

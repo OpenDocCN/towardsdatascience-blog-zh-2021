@@ -130,13 +130,9 @@ RDD 所做的，是将分界点附近的点(或学生)进行比较。例如，�
 If I’ve inspired you to join medium I would be really grateful if you did it through this [link](https://jamesasher4994.medium.com/membership) — it will help to support me to write better content in the future.If you want to learn more about data science, become a certified data scientist, or land a job in data science, then checkout [365 data science](https://365datascience.pxf.io/c/3458822/791349/11148) through my [affiliate link.](https://365datascience.pxf.io/c/3458822/791349/11148)
 ```
 
-[](/how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3) [## 如何预测没有数据的事物——还有盆景树
+</how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3> [## 如何预测没有数据的事物——还有盆景树
 
-towardsdatascience.com](/how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3) [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [## 如何轻松地在你的网站上动态显示你的 Matplotlib 图和 Pandas 数据框。
-
-### 这是一种令人惊讶的简单方法，可以在线向全世界展示您的图表和数据框架，而且不到…
-
-towardsdatascience.com](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) 
+towardsdatascience.com](/how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3) </how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  
 
 干杯，
 

@@ -80,11 +80,7 @@ trainer = Trainer(gpus=-1, accelerator='ddp')
 
 **短版**
 
-[](https://www.kaggle.com/c/imagenet-object-localization-challenge/data) [## ImageNet 对象本地化挑战
-
-### 识别图像中的物体
-
-www.kaggle.com](https://www.kaggle.com/c/imagenet-object-localization-challenge/data) 
+<https://www.kaggle.com/c/imagenet-object-localization-challenge/data>  
 
 转到 Kaggle，加入 comp 并使用下面的 bash 命令下载数据。
 

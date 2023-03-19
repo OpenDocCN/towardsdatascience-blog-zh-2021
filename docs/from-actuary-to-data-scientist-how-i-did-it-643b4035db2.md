@@ -76,11 +76,7 @@ SQL 现在被低估了。能够编写高效、优化和复杂的 SQL 的人越�
 
 它将设置您运行至少 80%的所需数据提取。这里有一些额外的 SQL 函数，你可以学着玩玩。
 
-[](/5-bigquery-sql-commands-you-probably-didnt-know-about-ebfd9d0dc160) [## 您[可能]不知道的 5 个 Bigquery SQL 命令
-
-### 将对您的数据科学职业生涯有巨大帮助的 5 个 SQL 技巧
-
-towardsdatascience.com](/5-bigquery-sql-commands-you-probably-didnt-know-about-ebfd9d0dc160) 
+</5-bigquery-sql-commands-you-probably-didnt-know-about-ebfd9d0dc160>  
 
 获得数据后，你需要对其施展某种数据科学魔法，包括—
 
@@ -102,11 +98,7 @@ Python 和 R 从一开始就主导了数据科学领域，但是随着最近**�
 
 为了让你开始，这里有一个关于熊猫的免费指南。
 
-[](/python-for-data-science-basics-of-pandas-5f8d9680617e) [## 用于数据科学的 Python 熊猫指南
-
-### 10 分钟内完成数据探索指南
-
-towardsdatascience.com](/python-for-data-science-basics-of-pandas-5f8d9680617e) 
+</python-for-data-science-basics-of-pandas-5f8d9680617e>  
 
 # 面试
 
@@ -133,11 +125,7 @@ towardsdatascience.com](/python-for-data-science-basics-of-pandas-5f8d9680617e)
 我个人从零开始建了一个 [**网站**](https://nickefy.github.io/porfoliosite/) 来托管我所有的作品，免费！
 我已经在这里写下了所有相关内容—
 
-[](/how-to-create-a-data-science-portfolio-by-a-data-scientist-2aed3f473cf0) [## 数据科学家如何创建数据科学产品组合
-
-### 展示数据科学项目的网站
-
-towardsdatascience.com](/how-to-create-a-data-science-portfolio-by-a-data-scientist-2aed3f473cf0) 
+</how-to-create-a-data-science-portfolio-by-a-data-scientist-2aed3f473cf0>  
 
 所以，你已经得到了面试，你有工作要展示。这一切都归结到最后一部分，沟通。如果你的目标是成为一名优秀的数据科学家，沟通是关键。
 

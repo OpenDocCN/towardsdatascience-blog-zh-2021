@@ -114,11 +114,7 @@ X_train[['Age','Fare']] = \
 
 > 参考我之前关于使用 SimpleImputer 类的文章:
 
-[](/imputing-missing-values-using-the-simpleimputer-class-in-sklearn-99706afaff46) [## 使用 sklearn 中的 SimpleImputer 类输入缺失值
-
-### 了解如何使用 SimpleImputer 类来替换 Pandas 数据帧中的 nan
-
-towardsdatascience.com](/imputing-missing-values-using-the-simpleimputer-class-in-sklearn-99706afaff46) 
+</imputing-missing-values-using-the-simpleimputer-class-in-sklearn-99706afaff46>  
 
 **年龄**和**费用**栏中缺失的值现在用各栏的中间值填充:
 
@@ -431,11 +427,7 @@ pipe.score(X_test,y_test)                     # 0.8097014925373134
 
 您还可以使用带有`GridSearchCV`类的`Pipeline`对象进行超参数调优。
 
-[](/tuning-the-hyperparameters-of-your-machine-learning-model-using-gridsearchcv-7fc2bb76ff27) [## 使用 GridSearchCV 调整机器学习模型的超参数
-
-### 了解如何使用 sklearn 中的 GridSearchCV 函数来优化您的机器学习模型
-
-towardsdatascience.com](/tuning-the-hyperparameters-of-your-machine-learning-model-using-gridsearchcv-7fc2bb76ff27) 
+</tuning-the-hyperparameters-of-your-machine-learning-model-using-gridsearchcv-7fc2bb76ff27>  
 
 下面的代码片段显示了如何将`Pipeline`对象传递给`GridSearchCV`类，以便您可以找到使用`LogisticRegression`类训练您的模型的最佳超参数:
 
@@ -576,8 +568,4 @@ display(df_results.sort_values(by='Accuracy', ascending=False))
 
 在本文中，我已经讨论了 sklearn 中`Pipeline`类的使用。在 sklearn 中使用管道最大的好处就是让你的机器学习工作流程更清晰，更容易理解。此外，您可以使用它来快速评估数据集的各种机器学习算法。我希望您现在对 sklearn 中的管道是如何工作的有了更清楚的了解！
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

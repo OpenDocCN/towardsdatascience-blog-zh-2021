@@ -16,11 +16,7 @@
 
 这两个地区对工作和生活的看法有天壤之别。大多数网站开发人员都有相当稳定的工作，有固定的工作时间，并获得相应的报酬。另一方面，许多游戏开发者不仅工作时间过长，还面临着持续的工作不稳定和相对于他们技能的微薄收入。此外，当谈到编程范例时，web 开发人员可以与游戏开发人员进行交流。哪个范式是最重要的在每个领域都有所不同，但目前网页和游戏的趋势正在分化。这两个行业之间的最佳编程实践也有所不同，但这很自然，因为它们处理的问题非常不同。最终，网页和游戏开发者几乎处于两个不同的世界。
 
-[](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) [## 到 2030 年，软件开发人员可能会被淘汰
-
-### 为什么你不会丢掉工作
-
-towardsdatascience.com](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) 
+</software-developers-might-be-obsolete-by-2030-cb5ddbfec291>  
 
 # 游戏开发者和工作/生活平衡
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/software-developers-might-be-obsolete-by-2030-cb5ddbfec
 
 因此，游戏行业并不是一个让许多需要养家糊口或面临职业倦怠风险的开发者茁壮成长的地方。那些有家庭需求或不能每天工作无数小时的人通常会退出这个行业，尽管他们拥有大量的技能，但他们会成为网络开发人员。在 web 开发中，软件更简单，工作更稳定，所以即使这种转变感觉像是进入了一个全新的世界，这也是一个有很多好处的决定。
 
-[](/bye-bye-python-hello-julia-9230bff0df62) [## 再见了蟒蛇。你好朱莉娅。
-
-### 随着 Python 的寿命逐渐停止，一个热门的新竞争者正在出现
-
-towardsdatascience.com](/bye-bye-python-hello-julia-9230bff0df62) 
+</bye-bye-python-hello-julia-9230bff0df62>  
 
 # 编程范式正在转变
 
@@ -88,11 +80,7 @@ Web 代码和游戏代码可以有很大的不同。作者图片
 
 总之，一个转行做游戏的网络开发者不仅仅需要克服一些障碍。他们还需要获得一种全新的软件思维方式。这需要大量的努力和热情，而不仅仅是几个周末的学习和练习。
 
-[](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) [## 为什么开发人员会爱上函数式编程
-
-### 从 Python 到 Haskell，这种趋势不会很快消失
-
-towardsdatascience.com](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) 
+</why-developers-are-falling-in-love-with-functional-programming-13514df4048e>  
 
 # 谁的最佳实践？
 

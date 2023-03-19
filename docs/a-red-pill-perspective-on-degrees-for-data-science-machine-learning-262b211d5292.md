@@ -50,12 +50,4 @@ GIF 来源:[https://giphy . com/gifs/Keanu-reeves-the-matrix-wachowskis-1 cnsm 9
 
 ## 相关文章
 
-[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [## 如何成为一名机器学习工程师
-
-### 包含课程的全面路线图
-
-towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3)
+<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  </how-to-become-a-machine-learning-engineer-e420e134c0a3> 

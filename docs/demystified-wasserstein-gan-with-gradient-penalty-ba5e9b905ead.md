@@ -16,11 +16,7 @@
 
 其中 *f* 是1-Lipschitz 连续。WGAN 出现的问题主要是因为用于在 critical 上加强 Lipschitz 连续性的权重裁剪方法。WGAN-GP 用对 critic 的梯度范数的约束来代替权重裁剪，以加强 Lipschitz 连续性。这允许比 WGAN 更稳定的网络训练，并且需要非常少的超参数调整。WGAN-GP，这篇文章建立在 Wasserstein GANs 的基础上，这已经在 [*揭秘系列*](https://asankar96.medium.com/list/demystified-deep-learning-1273a227565c) 的上一篇文章中讨论过了。查看下面的帖子来了解 WGAN。
 
-[](/demystified-wasserstein-gans-wgan-f835324899f4) [## 揭秘:瓦瑟斯坦·甘斯(WGAN)
-
-### 什么是瓦瑟斯坦距离？用 Wasserstein 距离训练 GANs 背后的直觉是什么？怎么样…
-
-towardsdatascience.com](/demystified-wasserstein-gans-wgan-f835324899f4) 
+</demystified-wasserstein-gans-wgan-f835324899f4>  
 
 ## 报表 1
 
@@ -76,11 +72,7 @@ towardsdatascience.com](/demystified-wasserstein-gans-wgan-f835324899f4)
 
 训练 WGAN-GP 模型的代码可在此处找到:
 
- [## GitHub-aadhithya/GAN-zoo-py torch:GAN 实现的动物园
-
-### GAN 实现的动物园。在 GitHub 上创建一个帐户，为 aadhithya/gan-zoo-pytorch 的发展做出贡献。
-
-github.com](https://github.com/aadhithya/gan-zoo-pytorch) 
+  
 
 # 输出
 
@@ -108,16 +100,4 @@ Wasserstein GANs 在训练生成性对抗网络方面提供了急需的稳定性
 
 如果你喜欢这篇文章，你可能也会喜欢:
 
-[](/principal-component-analysis-part-1-the-different-formulations-6508f63a5553) [## 主成分分析第 1 部分:不同的公式。
-
-### 什么是主成分分析？PCA 的最大方差和最小误差公式有哪些？我们如何…
-
-towardsdatascience.com](/principal-component-analysis-part-1-the-different-formulations-6508f63a5553) [](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5) [## 阿特鲁卷积和深度可分卷积的初步研究
-
-### 什么是萎缩/扩张和深度方向可分卷积？与标准卷积有何不同？什么…
-
-towardsdatascience.com](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5) [](/real-time-artwork-generation-using-deep-learning-a33a2084ae98) [## 使用深度学习的实时艺术品生成
-
-### 用于任意内容样式图像对之间的样式转换的自适应实例标准化(AdaIN)。
-
-towardsdatascience.com](/real-time-artwork-generation-using-deep-learning-a33a2084ae98)
+</principal-component-analysis-part-1-the-different-formulations-6508f63a5553>  </a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5>  </real-time-artwork-generation-using-deep-learning-a33a2084ae98> 

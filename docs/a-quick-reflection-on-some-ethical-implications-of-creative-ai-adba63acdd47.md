@@ -32,7 +32,7 @@
 
 但一个重要的问题不是人工智能能否成为生产者，而是人工智能的产出能否获得版权。
 
-增强特定技能的人工智能通常不会有显著的不同。然而，当我们有更多的人工智能能力成为相关学术或企业角色的[](https://en.wikipedia.org/wiki/inventor)**或 [**作者**](https://en.wikipedia.org/wiki/Author) 时，专利将会增加。希望人工智能辅助的[和人工智能生成的](https://osf.io/preprints/lawarxiv/np2jd/download)输出之间有所区别。**
+增强特定技能的人工智能通常不会有显著的不同。然而，当我们有更多的人工智能能力成为相关学术或企业角色的<https://en.wikipedia.org/wiki/inventor>**或 [**作者**](https://en.wikipedia.org/wiki/Author) 时，专利将会增加。希望人工智能辅助的[和人工智能生成的](https://osf.io/preprints/lawarxiv/np2jd/download)输出之间有所区别。**
 
 **如果我们开始想象特定人工智能生成的工作场景——人工智能在没有任何人类干预的情况下找到数据，训练自己，并“创造”特定的输出——我们可以想象它会如何对现有的知识产权规则施加压力。**
 
@@ -90,27 +90,11 @@
 
 ****如果你想阅读更多关于创造性人工智能以及如何开始学习它的内容，你可能也想阅读以下文章:****
 
-****[](https://medium.com/towards-artificial-intelligence/an-overview-of-creative-ai-3fb2e6d2706b) [## 创造性人工智能概述
-
-### 分析一种趋势，这种趋势正在将人工智能带向一个与人类创造力相结合的更具“创造性”的空间。
-
-medium.com](https://medium.com/towards-artificial-intelligence/an-overview-of-creative-ai-3fb2e6d2706b) [](https://medium.com/towards-artificial-intelligence/a-simple-approach-to-define-human-and-artificial-intelligence-4d91087d16ff) [## 定义人类和人工智能的简单方法
-
-### 在你开始担心人工智能之前，你应该考虑分析人类智能和人工智能之间的关系。
-
-medium.com](https://medium.com/towards-artificial-intelligence/a-simple-approach-to-define-human-and-artificial-intelligence-4d91087d16ff) [](https://medium.com/dataseries/my-favorite-free-or-free-to-audit-courses-to-learn-ai-ml-and-data-science-f15f614a84e5) [## 今天学习人工智能、人工智能和数据科学的最佳免费课程。
-
-### 60 多门课程，有评分，有简要总结(当然是 AI 做的)。
-
-medium.com](https://medium.com/dataseries/my-favorite-free-or-free-to-audit-courses-to-learn-ai-ml-and-data-science-f15f614a84e5) 
+****<https://medium.com/towards-artificial-intelligence/an-overview-of-creative-ai-3fb2e6d2706b>  <https://medium.com/towards-artificial-intelligence/a-simple-approach-to-define-human-and-artificial-intelligence-4d91087d16ff>  <https://medium.com/dataseries/my-favorite-free-or-free-to-audit-courses-to-learn-ai-ml-and-data-science-f15f614a84e5>  
 
 此外，我刚刚在亚马逊 上出版了一本新的电子书 [**，今年我已经在着手出版一些其他的了……让我们保持联系，一起努力吧。**](https://www.amazon.com/Jair-Ribeiro/e/B08RW788MS?ref_=dbs_p_ebk_r00_abau_000000)
 
-[](https://www.amazon.com/Jair-Ribeiro/e/B08RW788MS) [## 贾伊尔·里贝罗
-
-### Jair Ribeiro 出生于巴西，自 1998 年以来曾在多个国家居住过；三个女儿的父亲，他住在…
-
-www.amazon.com](https://www.amazon.com/Jair-Ribeiro/e/B08RW788MS) 
+<https://www.amazon.com/Jair-Ribeiro/e/B08RW788MS>  
 
 # 参考
 

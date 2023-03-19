@@ -84,11 +84,7 @@ web 服务器将使用我们作为 root 启动服务器的路径来呈现我们�
 
 如果你想知道更多有趣的用法，请查看这篇文章。
 
-[](/3-lines-of-python-code-to-write-a-web-server-46a109666dbf) [## 用 3 行 Python 代码编写一个 Web 服务器
-
-### 使用内置库“http.server”用 Python 编写的最简单的 web 服务器
-
-towardsdatascience.com](/3-lines-of-python-code-to-write-a-web-server-46a109666dbf) 
+</3-lines-of-python-code-to-write-a-web-server-46a109666dbf>  
 
 如果你遵循上面的文章，并把它变成一个“低代码”的解决方案，你也许能给它添加更多的定制功能。
 
@@ -302,10 +298,6 @@ cat get_time_app_extracted/get_time_app/print_time.py
 
 在本文中，我介绍了一种无需编写任何代码就能使用 Python 内置库的方法。如果我们确实记得使用它们，它确实提供了许多方便。希望你喜欢阅读这篇文章，内容会有所帮助！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

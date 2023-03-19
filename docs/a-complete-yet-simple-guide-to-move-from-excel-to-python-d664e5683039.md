@@ -169,11 +169,7 @@ df_excel['grades'] = np.select(conditions, values)
 
 我们挑选了这 3 列，用双方括号`df_excel[[`‘平均’，‘通过/失败’，‘等级’`]]` ，前 5 行可以用`.head()` 方法显示。
 
-[](https://medium.datadriveninvestor.com/how-to-start-making-money-coding-even-if-you-have-no-experience-3b114cf7c649) [## 即使没有经验，如何开始编码赚钱
-
-### 没有工作赚钱的最好方法。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-start-making-money-coding-even-if-you-have-no-experience-3b114cf7c649) 
+<https://medium.datadriveninvestor.com/how-to-start-making-money-coding-even-if-you-have-no-experience-3b114cf7c649>  
 
 # SumIf，CountIf，AverageIf
 
@@ -211,11 +207,7 @@ df_sumifs = df_sumifs.assign(sumifs = df_sumifs['math score'] + df_sumifs['readi
 
 我们将检查一些用于数据清理的方法。如果您想了解所有用于清理数据的方法，请查看我写的关于如何在 Python 中清理和准备数据的完整指南。
 
-[](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) [## 用 Python 清理和准备数据的简单指南
-
-### 如何识别和处理脏数据？
-
-towardsdatascience.com](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) 
+</a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33>  
 
 我们将继续使用我们之前定义的`df_excel`框架。
 
@@ -249,11 +241,7 @@ df_excel['race/ethnicity'].str.extract(r'([A-Z])')
 
 在这种情况下，我们使用正则表达式`r'([A-Z])’` ，其中`[A-Z]`表示大写的单词，而括号`()` 是选择所需模式所必需的。正则表达式可能看起来吓人，但它们比你想象的要简单。在下面的链接中，你会发现我为轻松学习正则表达式而制作的简单指南。
 
-[](/a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081) [## 简单直观的正则表达式指南
-
-### 轻松地从任何文本中提取信息。
-
-towardsdatascience.com](/a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081) 
+</a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081>  
 
 ## 属性标识单元格是否为空。isnull 方法
 
@@ -376,44 +364,20 @@ plt.show()
 
 在 Python plot 中可以做很多事情，比如给图形添加标签、标题、定制图形的大小和颜色，但这是一个全新的主题。我已经用 Python 制作了一个漂亮的可视化指南，包括线图、条形图、饼状图、直方图、箱线图等。请点击下面的链接查看。
 
-[](/a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392) [## Python 中美丽可视化的简单指南
-
-### 自定义 Matplotlib & Seaborn，永远忘记那些难看的蓝条。
-
-towardsdatascience.com](/a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392) 
+</a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392>  
 
 *就是这样！现在您已经准备好利用 Python 和 Pandas 提供的所有好处了！本文使用的所有代码在我的* [*Github*](https://github.com/ifrankandrade/data_preprocessing.git) *上都有。*
 
-[](https://frankandrade.ck.page/bd063ff2d3)****】与 3k+人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单。****
+<https://frankandrade.ck.page/bd063ff2d3>****】与 3k+人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单。****
 
 **下面是我看的学习 Python 的书单。**
 
-**[](https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb) [## 作为一名自学成才的程序员，我阅读了 4 本 Python 书籍
-
-### 学习 Python 来创建游戏、网站、自动化任务等的书籍
-
-better 编程. pub](https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb) 
+**<https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb>  
 
 一旦你掌握了熊猫，这里有一些你可以开始的项目。
 
-[](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [## 我曾经每年花 180 美元购买一个有利可图的赌博工具。今年我用 Python 做了一个
-
-### 完整的代码创建一个足球博彩工具与熊猫和硒。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [](https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098) [## 用 Python 赚钱——体育套利项目
-
-### 充分代码，使额外的钱与体育套利。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098) [](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) [## 使用 Python 自动生成 Excel 报表的简单指南
-
-### 使用 openpyxl 通过 Python 自动生成 Excel 报表。
-
-towardsdatascience.com](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) 
+<https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f>  <https://medium.datadriveninvestor.com/make-money-with-python-the-sports-arbitrage-project-3b09d81a0098>  </a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7>  
 
 我还做了一个指南，帮助你建立你的第一个机器学习模型。
 
-[](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [## Scikit-Learn 简单指南—用 Python 构建机器学习模型
-
-### Python 中的第一个 ML 模型。
-
-towardsdatascience.com](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a)**
+</a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a> **

@@ -136,8 +136,4 @@ ML 实验。再次被我的作者捕获。
 
 再见！
 
-[](https://hihello.me/p/951c78ee-719f-4c8b-98b5-d47af565d6b0) [## 赫克托安德烈斯梅希亚的
-
-### 数据科学家@ Nodel。
-
-hihello.me](https://hihello.me/p/951c78ee-719f-4c8b-98b5-d47af565d6b0)
+<https://hihello.me/p/951c78ee-719f-4c8b-98b5-d47af565d6b0> 

@@ -78,7 +78,7 @@ Python 3.9 的基于 PEG 的解析器消除了这些障碍，从长远来看，�
 
 尽管直到 Python 3.10 才被“引入”,但由于新的 PEG 解析器，CPython 接受了新的语法变化——所以我们有了一个完全兼容 3.9 的新特性
 
-在 Python 3.9 中，这是可行的。这是因为新的解析器支持这种语法，尽管直到 Python 3.10 才正式支持[](https://docs.python.org/3.10/whatsnew/3.10.html#parenthesized-context-managers)*。*
+在 Python 3.9 中，这是可行的。这是因为新的解析器支持这种语法，尽管直到 Python 3.10 才正式支持<https://docs.python.org/3.10/whatsnew/3.10.html#parenthesized-context-managers>*。*
 
 # *更多打字*
 

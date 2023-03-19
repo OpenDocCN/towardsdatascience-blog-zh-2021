@@ -12,11 +12,7 @@
 
 在您作为数据工程师或数据科学家的工作中，您将花费大量时间对数据进行预处理，以完成对您的传销的实际训练，然后从您的传销进行准确预测。
 
-[](/what-70-of-data-science-learners-do-wrong-ac35326219e4) [## 70%的数据科学学习者做错了什么
-
-### 在大学工程课程中，我的头反复撞在 2 米长的金属杆上，从中吸取了教训
-
-towardsdatascience.com](/what-70-of-data-science-learners-do-wrong-ac35326219e4) 
+</what-70-of-data-science-learners-do-wrong-ac35326219e4>  
 
 在将数据输入到机器学习模型(MLm)之前，数据类型转换和其他变形可能会带来一些好处。
 

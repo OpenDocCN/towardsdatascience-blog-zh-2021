@@ -64,11 +64,7 @@ BookCorpus 通常被描述为包含 11，038 本书，这是原作者报告的�
 
 虽然在确定 BookCorpus 中有问题内容的程度方面还有更多工作要做，但我们的分析表明它确实存在。举个例子，想想《图书文集》中的一本名为 [*的小说《警察和咖啡店里的女孩》*](https://www.smashwords.com/books/view/308710) 。
 
-[](https://www.smashwords.com/books/view/308710) [## 警察和咖啡店的女孩，特里·塔沃斯的电子书
-
-### 对杰德来说，有一个顾客让去咖啡店工作变得值得，他就是亚历克斯·凯恩警官。只需一个…
-
-www.smashwords.com](https://www.smashwords.com/books/view/308710) 
+<https://www.smashwords.com/books/view/308710>  
 
 这本书的序言明确指出“这本书的内容面向 18 岁以上的人。”这本书的标签包括“强势男性”和“顺从女性”
 

@@ -66,14 +66,6 @@
 
 ****参考文献:****
 
-*[](https://research.google/pubs/pub62/) [## MapReduce:大型集群上的简化数据处理——谷歌研究
-
-### MapReduce 是用于处理和生成大型数据集的编程模型和相关实现。用户…
-
-谷歌研究](https://research.google/pubs/pub62/) [](https://learning.oreilly.com/videos/taming-big-data/9781787125568/9781787125568-video1_2) [## 用 MapReduce 和 Hadoop 驯服大数据-动手！
-
-### 使用 MapReduce 和 Hadoop 驯服大数据——亲自动手！现在有了奥莱利在线学习。奥赖利成员…
-
-learning.oreilly.com](https://learning.oreilly.com/videos/taming-big-data/9781787125568/9781787125568-video1_2) 
+*<https://research.google/pubs/pub62/>  <https://learning.oreilly.com/videos/taming-big-data/9781787125568/9781787125568-video1_2>  
 
 迈克尔·诺尔的博客文章*

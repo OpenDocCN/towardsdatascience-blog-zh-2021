@@ -22,11 +22,7 @@
 
 每个模型 80 美元的 S3 成本是一笔巨大的意外成本，在某些情况下甚至可能超过 GPU 成本。如果您已经为定型生成了 tf.data.dataset，则可以通过将数据写入 TFRecords 来轻松地对数据进行预批处理。您可以在这里找到编写和解析 TFRecords 的指南:
 
-[](https://www.tensorflow.org/tutorials/load_data/tfrecord#writing_a_tfrecord_file) [## TFRecord 和 tf.train.Example | TensorFlow 核心
-
-### TFRecord 格式是一种用于存储二进制记录序列的简单格式。协议缓冲区是跨平台的…
-
-www.tensorflow.org](https://www.tensorflow.org/tutorials/load_data/tfrecord#writing_a_tfrecord_file) 
+<https://www.tensorflow.org/tutorials/load_data/tfrecord#writing_a_tfrecord_file>  
 
 # **2。解析时交错**
 
@@ -55,11 +51,7 @@ files_ds = files_ds.shard(self.shards, shard_index)ds = files_ds.interleave(lamb
 
 批量保存数据的另一个原因是为了避免 S3 节流和网络错误。在 S3，每个前缀每秒钟最多只能有 5500 个请求。这可能看起来很多——但是如果你同时训练许多模型，你可以达到这个极限。用优化 S3 分片的文件路径保存预先批处理的 TFRecords 是一种很好的做法。请参见下面的指南。
 
-[](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/) [## 理解高请求率的 S3 对象键命名模式
-
-### 我希望我的亚马逊简单存储服务(亚马逊 S3)桶获得高请求率。什么对象键命名模式…
-
-aws.amazon.com](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/) 
+<https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/>  
 
 # 4.错误处理
 

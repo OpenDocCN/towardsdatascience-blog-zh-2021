@@ -10,11 +10,7 @@
 
 我现在已经研究深度学习有一段时间了，我成为了 PyTorch 或 TensorFlow 等当前深度学习框架的超级粉丝。然而，随着我越来越习惯这样简单但强大的工具，深度学习中核心概念的基础，如反向传播，开始淡出。我相信回到基础总是好的，我想做一个详细的实践教程来理清事情。
 
-[](https://colab.research.google.com/drive/10sYc0tB2dw_jsw9D61SwliN1nqugyjP1?usp=sharing) [## MNIST 分类的逐步反向传播算法
-
-### 林炳成
-
-colab.research.google.com](https://colab.research.google.com/drive/10sYc0tB2dw_jsw9D61SwliN1nqugyjP1?usp=sharing) 
+<https://colab.research.google.com/drive/10sYc0tB2dw_jsw9D61SwliN1nqugyjP1?usp=sharing>  
 
 # 介绍
 

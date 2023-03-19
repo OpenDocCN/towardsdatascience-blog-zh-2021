@@ -436,8 +436,4 @@ man cd
 
 # 相关帖子
 
-[](/the-ultimate-markdown-cheat-sheet-3d3976b31a0) [## 终极降价备忘单
-
-### 写一篇精彩的自述
-
-towardsdatascience.com](/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+</the-ultimate-markdown-cheat-sheet-3d3976b31a0> 

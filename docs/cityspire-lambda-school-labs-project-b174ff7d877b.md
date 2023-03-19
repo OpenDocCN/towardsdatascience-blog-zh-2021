@@ -34,7 +34,7 @@ CitySpire 建筑图(图片由作者提供)
 
 ## 探索性数据分析和特征工程
 
-在网上查找任何数据是最耗时的一步，我前两周的大部分时间都在寻找和收集每个城市的天气数据，并将它们结合在一起:[](https://github.com/tigju/PT17_cityspire-b-ds/blob/main/notebooks/model/weather/combine_data.ipynb)*。下一步是清理数据，去掉丢失的值和特征工程。一些功能有超过 50%的丢失数据，我决定删除这些功能。其他特征有不到 20%的缺失值，所以我用平均值和中间值填充它们。另一个重要步骤是对分类值进行编码，并在将数据输入模型之前对所有数据进行缩放。对于编码，我使用了 OrdinalEncoder，对于缩放，我选择了 Sklearn 库中的 StandardScaler。探索性数据分析与特征工程流程在这里:[***GitHub***](https://github.com/tigju/PT17_cityspire-b-ds/blob/main/notebooks/model/weather/weather.ipynb)***。****
+在网上查找任何数据是最耗时的一步，我前两周的大部分时间都在寻找和收集每个城市的天气数据，并将它们结合在一起:<https://github.com/tigju/PT17_cityspire-b-ds/blob/main/notebooks/model/weather/combine_data.ipynb>*。下一步是清理数据，去掉丢失的值和特征工程。一些功能有超过 50%的丢失数据，我决定删除这些功能。其他特征有不到 20%的缺失值，所以我用平均值和中间值填充它们。另一个重要步骤是对分类值进行编码，并在将数据输入模型之前对所有数据进行缩放。对于编码，我使用了 OrdinalEncoder，对于缩放，我选择了 Sklearn 库中的 StandardScaler。探索性数据分析与特征工程流程在这里:[***GitHub***](https://github.com/tigju/PT17_cityspire-b-ds/blob/main/notebooks/model/weather/weather.ipynb)***。****
 
 ## *数据建模*
 

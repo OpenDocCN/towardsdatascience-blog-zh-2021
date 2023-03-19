@@ -202,8 +202,4 @@ np.sqrt(metrics.mean_squared_error(scope_df["resale_price"], predictions))
 
 # 参考
 
-[](https://www.channelnewsasia.com/singapore/ndr-2018-hdb-lease-99-years-flat-national-day-rally-804611) [## NDR 2018:为什么 HDB 的租约长达 99 年？李总理解释道
-
-### 这就是为什么 99 年租约也适用于私人住宅，李总理说。“我们为什么……还有一个实际原因
-
-www.channelnewsasia.com](https://www.channelnewsasia.com/singapore/ndr-2018-hdb-lease-99-years-flat-national-day-rally-804611)
+<https://www.channelnewsasia.com/singapore/ndr-2018-hdb-lease-99-years-flat-national-day-rally-804611> 

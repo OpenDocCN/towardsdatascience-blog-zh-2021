@@ -51,15 +51,7 @@
 
 也就是说，对于一个机器学习工程师来说，很好地掌握另一种编程语言(如 Java、C++或 Julia)并不罕见。
 
-[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [## 如何成为一名机器学习工程师
-
-### 包含课程的全面路线图
-
-towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3) 
+<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  </how-to-become-a-machine-learning-engineer-e420e134c0a3>  
 
 ## 薪资期望
 
@@ -89,20 +81,4 @@ towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3)
 
 ## **相关著作**
 
-**[](/overview-of-data-related-roles-70ca48f8deed) [## 数据相关角色概述
-
-### 不同视角的数据
-
-towardsdatascience.com](/overview-of-data-related-roles-70ca48f8deed) [](/the-data-science-journey-95f9239623ae) [## 数据科学之旅
-
-### 如何规划蒸蒸日上的职业生涯
-
-towardsdatascience.com](/the-data-science-journey-95f9239623ae) [](https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc) [## 数据科学家到底在做什么？
-
-### 这不是魔法…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc) [](https://pub.towardsai.net/data-science-career-path-rankings-b15ba395cb51) [## 数据科学职业道路排名
-
-### 引领您的数据科学职业生涯
-
-pub.towardsai.net](https://pub.towardsai.net/data-science-career-path-rankings-b15ba395cb51)**
+**</overview-of-data-related-roles-70ca48f8deed>  </the-data-science-journey-95f9239623ae>  <https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc>  <https://pub.towardsai.net/data-science-career-path-rankings-b15ba395cb51> **

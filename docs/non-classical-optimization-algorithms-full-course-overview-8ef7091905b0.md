@@ -8,11 +8,7 @@
 
 大家好！我决定就五种流行的非经典算法开始一个全新系列的帖子:**爬山法**、**模拟退火法**、**波束搜索法**、**蛙跳法、**和**贝叶斯优化法。**最受欢迎的非经典优化算法是一个被称为**进化计算**的领域，我已经就此创建了一个完整的系列，所以这就是为什么它不包括在这个系列中！您可以在此查看概述:
 
-[](/evolutionary-computation-full-course-overview-f4e421e945d9) [## 进化计算(完整课程)概述
-
-### 关于我将在这个全新的系列中涉及的材料、概念和应用的介绍性帖子！
-
-towardsdatascience.com](/evolutionary-computation-full-course-overview-f4e421e945d9) 
+</evolutionary-computation-full-course-overview-f4e421e945d9>  
 
 优化问题在机器学习和人工智能中大量存在。这些领域中的大多数模型都是建立在找到一组正确的参数的基础上的，这些参数可以最小化某种类型的误差函数，例如回归的平均和误差或分类的交叉熵。因此，研究这些类型的算法以理解机器学习和人工智能中使用的统计模型背后的直觉是至关重要的。
 
@@ -62,11 +58,7 @@ towardsdatascience.com](/evolutionary-computation-full-course-overview-f4e421e94
 *   数值方法(基本概念:为什么使用它们，为什么需要它们)
 *   最优化理论(你可以在下面查看我以前的帖子)
 
-[](/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8) 
+</unit-1-optimization-theory-e416dcf30ba8>  
 
 *   如何用 Python 编程—使用数据结构和算法
 *   了解 Python 科学库— Numpy

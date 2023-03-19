@@ -109,15 +109,7 @@ print(A)
 
 *感谢阅读。*
 
-[](/5-ways-to-provide-value-as-a-data-scientist-ce7bba57af02) [## 作为数据科学家提供价值的 5 种方式
-
-### 机器学习实践者如何成为任何组织中不可或缺的资产。
-
-towardsdatascience.com](/5-ways-to-provide-value-as-a-data-scientist-ce7bba57af02) [](/how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a) [## 2021 年如何成为计算机视觉工程师
-
-### 排名第一的大规模开放式在线课程(MOOCs)
-
-towardsdatascience.com](/how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a) 
+</5-ways-to-provide-value-as-a-data-scientist-ce7bba57af02>  </how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a>  
 
 **要联系我或找到更多类似本文的内容，请执行以下操作:**
 

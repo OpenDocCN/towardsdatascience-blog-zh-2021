@@ -20,11 +20,7 @@
 
 # 胸部 X 射线图像数据集
 
-[](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) [## 胸部 x 光图像(肺炎)
-
-### 5，863 张图片，2 个类别
-
-www.kaggle.com](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) 
+<https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>  
 
 数据集分为 3 个文件夹(train/val/test ),并包含每个图像类别(正常/肺炎 jpeg)的子文件夹。表 1 显示了所有文件夹下的图像数量。这篇文章只使用火车文件夹进行研究。
 

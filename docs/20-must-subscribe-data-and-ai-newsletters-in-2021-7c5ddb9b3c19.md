@@ -67,11 +67,7 @@ T 互联网上有大量关于数据科学和人工智能的噪音，专注于高
 
 这里是最好的免费资源👇
 
-[](/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12) [## 互联网上 20 大免费数据科学、ML 和 AI MOOCs
-
-### 以下是关于数据科学、机器学习、深度学习和人工智能的最佳在线课程列表
-
-towardsdatascience.com](/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12) 
+</top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12>  
 
 # 数据科学
 
@@ -123,11 +119,7 @@ KDnuggets 是机器学习、数据科学、人工智能等领域的领先网站�
 
 阅读[最新一期](https://t.co/DlYpKkUUlg?amp=1) &订阅[这里](https://thereshape.co/)
 
-[](https://medium.com/bitgrit-data-science-publication/why-is-data-engineering-popular-now-4e41b9f80cf4) [## 为什么现在流行数据工程？
-
-### 深入探讨数据工程的趋势及其重要性。
-
-medium.com](https://medium.com/bitgrit-data-science-publication/why-is-data-engineering-popular-now-4e41b9f80cf4) 
+<https://medium.com/bitgrit-data-science-publication/why-is-data-engineering-popular-now-4e41b9f80cf4>  
 
 # 数据工程
 
@@ -149,11 +141,7 @@ medium.com](https://medium.com/bitgrit-data-science-publication/why-is-data-engi
 
 阅读[所有文章](https://www.startdataengineering.com/post/) &订阅[这里](https://www.startdataengineering.com/news-letter/)。
 
-[](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b) [## 机器学习工作流程中缺失的库
-
-### 使用 Optuna 进行超参数优化的快速指南
-
-medium.com](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b) 
+<https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b>  
 
 # 机器学习
 
@@ -193,11 +181,7 @@ medium.com](https://medium.com/bitgrit-data-science-publication/the-missing-libr
 
 阅读[最新一期](https://mlopsroundup.substack.com/p/issue-21-selecting-mlops-capabilities) &订阅[这里](https://mlopsroundup.substack.com/)。
 
-[](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730) [## 检测人工智能生成的文本
-
-### 这是 ChatGPT 写的吗？我们有权知道。
-
-medium.com](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730) 
+<https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730>  
 
 # 人工智能
 
@@ -287,8 +271,4 @@ medium.com](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730)
 
 喜欢我的写作吗？**加入媒介**与我的 [**推荐链接**](https://benedictxneo.medium.com/membership) 。你会直接支持我🤗
 
-[](https://benedictxneo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Benedict Neo
-
-### 阅读本尼迪克特·尼欧(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-benedictxneo.medium.com](https://benedictxneo.medium.com/membership)
+<https://benedictxneo.medium.com/membership> 

@@ -173,16 +173,4 @@ python3 -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 
 
 对我提到的使这个设置工作的资源的一个巨大的呼喊！
 
-[](https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130) [## 在 LTS Ubuntu 18.04 上安装 CUDA 10.1
-
-### 我先说说我两年前在 CUDA 8.0 和 Ubuntu 16.04 上遇到的问题。这次我会…
-
-medium.com](https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130) [](https://documentation.commvault.com/commvault/v11/article?p=118661.htm) [## 使用 UEFI MOK(机器拥有的密钥)列表注册 Commvault 密钥
-
-### 将 Commvault 密钥注册到 UEFI NVRAM 中存储的 MOK(机器所有者密钥)列表中，即使 Commvault 驱动程序…
-
-documentation.commvault.com](https://documentation.commvault.com/commvault/v11/article?p=118661.htm) [](https://itsfoss.com/ppa-guide/) [## 什么是 PPA？关于 Linux 中的 PPA，你需要知道的一切
-
-### 如果你一直在使用 Ubuntu 或者其他基于 Ubuntu 的 Linux 发行版，比如 Linux Mint，Linux Lite，Zorin OS…
-
-itsfoss.com](https://itsfoss.com/ppa-guide/)
+<https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130>  <https://documentation.commvault.com/commvault/v11/article?p=118661.htm>  <https://itsfoss.com/ppa-guide/> 

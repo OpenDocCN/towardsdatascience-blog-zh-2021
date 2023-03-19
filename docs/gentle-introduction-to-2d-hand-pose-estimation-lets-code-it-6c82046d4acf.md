@@ -12,11 +12,7 @@
 
 我们继续我们的手姿态估计之旅。现在你正在读第二部分，是关于编码和 PyTorch 的。我强烈建议您在深入研究编码之前阅读第一部分:
 
-[](/gentle-introduction-to-2d-hand-pose-estimation-approach-explained-4348d6d79b11) [## 温和介绍 2D 手姿态估计:方法解释
-
-### 关于在哪里找到数据集，如何预处理数据，使用什么模型架构和损失的详细教程，以及…
-
-towardsdatascience.com](/gentle-introduction-to-2d-hand-pose-estimation-approach-explained-4348d6d79b11) 
+</gentle-introduction-to-2d-hand-pose-estimation-approach-explained-4348d6d79b11>  
 
 这将对你理解数据集、预处理、建模、训练和评估有很大帮助。
 

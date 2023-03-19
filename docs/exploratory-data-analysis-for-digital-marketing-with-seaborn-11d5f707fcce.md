@@ -268,11 +268,7 @@ sns.histplot(df_Clicked1020, x='Impressions', hue='age_group', binwidth=1, stat=
 
 我希望你喜欢这次旅行。欢迎在 Linkedin 上留言和我联系。
 
-[](https://www.linkedin.com/in/fangyiyu/) [## 余-助教-安大略理工大学| LinkedIn
-
-### 我喜欢摆弄数据，寻找见解，并将最先进的技术应用于数据。我喜欢做…
-
-www.linkedin.com](https://www.linkedin.com/in/fangyiyu/) 
+<https://www.linkedin.com/in/fangyiyu/>  
 
 # 参考
 

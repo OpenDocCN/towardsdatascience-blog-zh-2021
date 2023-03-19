@@ -195,12 +195,8 @@ T21 的一些缺点是:
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/still-using-the-same-old-hypothesis-tests-for-data-science-67a9913ce9b8) [## 还在用同样的旧假设检验数据科学吗？
+</still-using-the-same-old-hypothesis-tests-for-data-science-67a9913ce9b8> [## 还在用同样的旧假设检验数据科学吗？
 
-towardsdatascience.com](/still-using-the-same-old-hypothesis-tests-for-data-science-67a9913ce9b8) [](/support-vector-machine-theory-and-practice-13c2cbef1980) [## 支持向量机:理论与实践
-
-### 了解 SVM，最强大的最大似然算法之一
-
-towardsdatascience.com](/support-vector-machine-theory-and-practice-13c2cbef1980) 
+towardsdatascience.com](/still-using-the-same-old-hypothesis-tests-for-data-science-67a9913ce9b8) </support-vector-machine-theory-and-practice-13c2cbef1980>  
 
 > 如果你想进一步讨论，请随时在 LinkedIn 上联系我，这将是我的荣幸(老实说)。

@@ -62,7 +62,7 @@
 
 ![](img/79b4abe935927268a9539a736fcf38c4.png)![](img/258e68676760773df6972288ace86578.png)![](img/0f206bf0b749009cf00563981dbf1206.png)
 
-[](/coffee-solubility-in-espresso-an-initial-study-88f78a432e2c)**总溶解固体(TDS)是用折射仪测量的，这个数字结合弹丸的输出重量和咖啡的输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)。****
+</coffee-solubility-in-espresso-an-initial-study-88f78a432e2c>**总溶解固体(TDS)是用折射仪测量的，这个数字结合弹丸的输出重量和咖啡的输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)。****
 
 **[**提取率(EY)**](https://rmckeon.medium.com/coffee-extraction-splash-page-3e568df003ac) 是溶解到咖啡杯中的咖啡渣的百分比。通常情况下，只有 30%的咖啡是可溶的，对于浓缩咖啡，你的目标是 18%到 22%，如果没有涩味的话，可能的话再高一点。**
 

@@ -14,19 +14,11 @@
 
 幸运的是，对于 Python 程序员来说，有一些非常棒的工具可以用来在 Python 内部创建增强的 CLI。这类工具的一个例子是名为 Click 的 Python 模块。我在另一篇关于 Python 中令人敬畏的装饰者的文章中列出了 Click，如果你也想阅读那篇文章，你可以在这里阅读:
 
-[](/10-of-my-favorite-python-decorators-9f05c72d9e33) [## 我最喜欢的 10 个 Python 装饰者
-
-### Python 编程语言中更多优秀装饰者的概述。
-
-towardsdatascience.com](/10-of-my-favorite-python-decorators-9f05c72d9e33) 
+</10-of-my-favorite-python-decorators-9f05c72d9e33>  
 
 Click 模块是一个用于 Python 的可组合命令行工具包，由 Pallets 团队开发。如果您想了解有关托盘团队和 Click apparatus 的更多信息，您可以在此处查看 Click Github 页面:
 
-[](https://github.com/pallets/click) [## GitHub-Pallas/click:Python 可组合命令行接口工具包
-
-### Click 是一个 Python 包，可以用最少的代码以可组合的方式创建漂亮的命令行界面…
-
-github.com](https://github.com/pallets/click) 
+<https://github.com/pallets/click>  
 
 您可能不知道，但很可能您实际上也使用了托盘团队的另一个模块。他们还负责 Flask WSGI 模块，这是 Python 程序员的行业标准。不用说，这个团队对软件的贡献是显著的，我感谢他们对开源软件的承诺。
 
@@ -67,19 +59,11 @@ import click as clkdef main(): if __name__ == "main":
 
 虽然我不会详细介绍我是如何制作这个小游戏的，但您可能会在这篇文章中发现这一点:
 
-[](/writing-a-command-line-interface-simulation-game-in-under-30-minutes-using-python-239934f34365) [## 使用 Python 在 30 分钟内编写一个命令行界面模拟游戏
-
-### 用一些简单的 Python 代码在几分钟内制作的快速游戏。
-
-towardsdatascience.com](/writing-a-command-line-interface-simulation-game-in-under-30-minutes-using-python-239934f34365) 
+</writing-a-command-line-interface-simulation-game-in-under-30-minutes-using-python-239934f34365>  
 
 在本文中，我们主要评估点击模块的应用。也就是说，为了更好地理解这个项目，我还会展示一些类，做一些基本的解释来揭示游戏是如何工作的。要全面、深入地了解这款游戏以及我对其组件的编程，我当然会建议阅读上面的文章！此外，这里还有一个我今天要使用的 Github 库分支的链接:
 
-[](https://github.com/emmettgb/characterclash/tree/0.0.3-CLI) [## GitHub-emmettgb/character clash 0 . 0 . 3 版-CLI
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/emmettgb/characterclash/tree/0.0.3-CLI) 
+<https://github.com/emmettgb/characterclash/tree/0.0.3-CLI>  
 
 总之，这个程序的类结构是这样的:
 

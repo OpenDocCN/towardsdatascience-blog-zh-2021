@@ -57,11 +57,7 @@
 
 ****我在以前的博客中已经广泛地讨论了情感分析，我的第一个 NLP 项目是一个情感分析项目。查看下面的 Github 库。****
 
-****[](https://github.com/kurtispykes/twitter-sentiment-analysis) [## kurtispykes/twitter 情绪分析
-
-### 推特已经成为紧急时刻的重要沟通渠道。智能手机的普及使得…
-
-github.com](https://github.com/kurtispykes/twitter-sentiment-analysis) 
+****<https://github.com/kurtispykes/twitter-sentiment-analysis>  
 
 ## 包裹
 
@@ -71,16 +67,4 @@ github.com](https://github.com/kurtispykes/twitter-sentiment-analysis)
 
 ## 相关文章
 
-[](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [## 情绪分析:预测一条推文是否是关于一场灾难
-
-### 探索自然语言处理
-
-towardsdatascience.com](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [](/tips-to-land-a-data-science-role-in-2021-465dbb409f19) [## 2021 年获得数据科学职位的提示
-
-### 遵循这个指南
-
-towardsdatascience.com](/tips-to-land-a-data-science-role-in-2021-465dbb409f19)****
+</sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245>  <https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343>  </tips-to-land-a-data-science-role-in-2021-465dbb409f19> ****

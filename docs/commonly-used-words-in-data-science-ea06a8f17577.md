@@ -152,52 +152,8 @@ Web 抓取是从网站的源代码中提取数据，然后您可以从该网站�
 
 看看我最近的一些文章:
 
-[](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) [## 这周我学到了一些东西——实体框架对主键很挑剔
-
-### 当一个简单的任务变得比预期的更难时
-
-medium.com](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) [](/mysql-vs-oracle-sql-a97a7659f992) [## MySQL 与 Oracle SQL
-
-### 比较两个 Oracle 拥有的关系数据库管理系统
-
-towardsdatascience.com](/mysql-vs-oracle-sql-a97a7659f992) [](/why-data-science-is-important-for-all-developers-cfe31aa6fb2b) [## 为什么数据科学对所有开发人员都很重要
-
-### 是的，那意味着你也是
-
-towardsdatascience.com](/why-data-science-is-important-for-all-developers-cfe31aa6fb2b) [](https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c) [## 我如何让 Python 阅读我的电子邮件
-
-### 一个有趣的尝试，让你拥有更好的习惯和更高的生产力
-
-python .平原英语. io](https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c) [](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) [## OAuth 的简单介绍
-
-### 学习 OAuth 而不用打开同义词库
-
-medium.com](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) 
+<https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7>  </mysql-vs-oracle-sql-a97a7659f992>  </why-data-science-is-important-for-all-developers-cfe31aa6fb2b>  <https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c>  <https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589>  
 
 参考资料:
 
-[](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) [## 通用机器学习、统计和数据科学术语词汇表-分析
-
-### 许多人将 Vidhya 作为他们的第一知识来源。因此，我们创建了一个常见术语表…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) [](https://www.dataquest.io/blog/data-science-glossary/) [## 数据科学术语和行话:词汇表
-
-### 数据科学入门可能会让人不知所措，尤其是当您考虑到各种概念和…
-
-www.dataquest.io](https://www.dataquest.io/blog/data-science-glossary/) [](https://www.springboard.com/blog/data-science/data-science-terms/) [## 用简单英语解释的 30 个数据科学术语(有示例)-跳板博客
-
-### 如果你刚刚开始学习数据科学，你可能会学到很多新的术语。从 Hadoop 到 munging…
-
-www.springboard.com](https://www.springboard.com/blog/data-science/data-science-terms/) [](https://bernardmarr.com/data-science-terminology-26-key-definitions-everyone-should-understand/) [## 数据科学术语:每个人都应该理解的 26 个关键定义
-
-### 数据科学是推动我们在整个行业和领域看到的数据驱动型变革的理论和实践…
-
-bernardmarr.com](https://bernardmarr.com/data-science-terminology-26-key-definitions-everyone-should-understand/)  [## 什么是数据仓库？定义、架构和优势指南
-
-### 企业前所未有地重视数据分析，以至于根据 TDWI 最近的一项研究…
-
-www.stitchdata.com](https://www.stitchdata.com/resources/data-warehouse/) [](https://www.analyticsinsight.net/introducing-the-concept-of-augmented-reality-ar-based-ground-zero-analytics-data-visualization-in-real-environments/) [## 引入基于增强现实(AR)的地面零点分析概念
-
-### 引入增强现实(AR)概念，在真实环境中实现零基础分析数据可视化…
-
-www.analyticsinsight.net](https://www.analyticsinsight.net/introducing-the-concept-of-augmented-reality-ar-based-ground-zero-analytics-data-visualization-in-real-environments/)
+<https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/>  <https://www.dataquest.io/blog/data-science-glossary/>  <https://www.springboard.com/blog/data-science/data-science-terms/>  <https://bernardmarr.com/data-science-terminology-26-key-definitions-everyone-should-understand/>    <https://www.analyticsinsight.net/introducing-the-concept-of-augmented-reality-ar-based-ground-zero-analytics-data-visualization-in-real-environments/> 

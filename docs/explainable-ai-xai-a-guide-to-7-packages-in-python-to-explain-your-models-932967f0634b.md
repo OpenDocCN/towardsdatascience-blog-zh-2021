@@ -56,11 +56,7 @@ SHAP 是一个模型不可知的框架。关于方法论的更多细节可以在
 
 对于数据科学家来说，这是一个很好的起点。围绕使用这些值来生成更吸引人的可视化和洞察力的创造性方面在于数据科学家。下面的文章就是一个例子。
 
-[](https://medium.com/swlh/push-the-limits-of-explainability-an-ultimate-guide-to-shap-library-a110af566a02) [## 推动可解释性的极限——SHAP 图书馆终极指南
-
-### 本文是关于 python SHAP 库的高级和鲜为人知的特性的指南。它是基于一个例子…
-
-medium.com](https://medium.com/swlh/push-the-limits-of-explainability-an-ultimate-guide-to-shap-library-a110af566a02) 
+<https://medium.com/swlh/push-the-limits-of-explainability-an-ultimate-guide-to-shap-library-a110af566a02>  
 
 这个包充当了许多基于仪表板和应用程序的框架的基础，这些框架将在本文后面介绍。
 
@@ -128,11 +124,7 @@ Shapash 最近还在软件包中添加了报告和文档功能，这将在本文
 
 作者撰写的一篇中型文章详细介绍了软件包和各种输出。
 
-[](https://medium.com/value-stream-design/making-ml-transparent-and-explainable-with-explainerdashboard-49953ae743dd) [## 用 explainerdashboard 让 ML 变得透明和可解释
-
-### 世界正在越来越多的领域迅速采用越来越多的机器学习解决方案，包括一些严重…
-
-medium.com](https://medium.com/value-stream-design/making-ml-transparent-and-explainable-with-explainerdashboard-49953ae743dd) 
+<https://medium.com/value-stream-design/making-ml-transparent-and-explainable-with-explainerdashboard-49953ae743dd>  
 
 还有作者的 [PyData GLobal 2020 talk](https://www.youtube.com/watch?v=1nMlfrDvwc8) 。
 
@@ -148,11 +140,7 @@ medium.com](https://medium.com/value-stream-design/making-ml-transparent-and-exp
 
 关于这个包的更详细的指南可以在 Ravi 的这篇文章中找到。
 
-[](https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9) [## 解释器仪表板-为机器学习模型构建交互式仪表板
-
-### Python 包来快速构建一个交互式仪表盘，解释适合的机器学习的内部工作原理…
-
-medium.com](https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9) 
+<https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9>  
 
 # 5.Dalex
 

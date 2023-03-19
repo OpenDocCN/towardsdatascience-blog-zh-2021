@@ -16,11 +16,7 @@
 
 数据分析表达式(DAX)是微软在 2009 年发布的，是其多维表达式(MDX)语言在数据立方体方面的发展。从那时起，它开始渗透到它的数据平台中，包括 PowerPivot、Power BI 和 SQL Server Analysis Services。虽然有些 DAX 公式的工作方式就像我们熟悉和喜爱的 Excel 公式一样，但有些却不是。它的功能目的是处理关系数据并动态地执行聚合*。它应该是易学易用的。但事实并非如此。*
 
-*[](/the-future-of-data-science-5825bde65637) [## 数据科学的未来
-
-### 数据科学和业务环境正在融合
-
-towardsdatascience.com](/the-future-of-data-science-5825bde65637) 
+*</the-future-of-data-science-5825bde65637>  
 
 如果你熟悉结构化查询语言 SQL，你就会知道有些查询会给你带来挑战。但是一般来说，你理解数据模型，你知道语言本身在做什么。所以这只是解决一个非常切实的问题。如何用已知的命令集让底层数据以特定的方式显示出来？这很简单，即使有时很复杂。
 

@@ -94,11 +94,7 @@ c %>% filter(Year==1960) %>%
 
 我们可以做的第一件事是使用`theme_set()`函数改变`ggplot`的主题。如果有兴趣了解更多关于 R 中的 theme()函数的信息，请查看这篇文章。
 
-[](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [## 使用 ggplot2: theme()定制的主数据可视化
-
-### 自定义 ggplot2 主题，为高效工作流程创建您的个性化主题模板。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) 
+</master-data-visualization-with-ggplot2-theme-customization-8421695d24e2>  
 
 ```
 geom_text(aes(y=ifelse(GDP_bil_dol<1000, 500,GDP_bil_dol/2),
@@ -220,27 +216,7 @@ anim_save("myanimation.gif")
 
 对使用 ggplot 创建地块感兴趣，请查看以下帖子:
 
-[](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [## 使用 ggplot2 的主数据可视化:散点图和箱线图
-
-### 使用散点图和箱线图的数据可视化指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [## 使用 ggplot2 实现主数据可视化:直方图、条形图和密度图
-
-### 关于何时以及如何在 R 中使用直方图、条形图和密度图的指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [## 使用 ggplot2 实现主数据可视化:饼图、蜘蛛图和条形图
-
-### 关于在 r 中创建饼图、蜘蛛图和圆形条形图的指南。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [## 使用 ggplot2: theme()定制的主数据可视化
-
-### 自定义 ggplot2 主题，为高效工作流程创建您的个性化主题模板。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) 
+</data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26>  </master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc>  </master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827>  </master-data-visualization-with-ggplot2-theme-customization-8421695d24e2>  
 
 链接到 [Github 库](https://github.com/amalasi2418/Blog-post/tree/master/Blog%2014-animate)。
 

@@ -88,7 +88,7 @@ Some of the important Parameters
 
 有关参数及其用法的完整列表，请参考[文档](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#basic-plotting-plot)。现在让我们看看创造不同情节的方法。在本文中，我们不会详细解释每个情节。我们将只关注语法，如果你有一些熊猫的经验，这是不言自明的。要详细了解熊猫的故事情节，下面的文章将会很有帮助:
 
-[](https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas) [## 熊猫情节:深入到直接与熊猫密谋
+<https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas> [## 熊猫情节:深入到直接与熊猫密谋
 
 在本文中，我们将了解如何使用 pandas 来探索和可视化您的数据，然后我们将更深入地研究 pandas 的一些高级可视化功能。](https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas) 
 

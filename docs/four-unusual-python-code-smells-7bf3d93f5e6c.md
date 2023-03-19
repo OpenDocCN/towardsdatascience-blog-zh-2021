@@ -206,16 +206,4 @@ except ImportError:
 
 # 参考
 
-[](https://www.semanticscholar.org/paper/JSNOSE%3A-Detecting-JavaScript-Code-Smells-Fard-Mesbah/86dd17663c963772e6dd3ec8e2b1ab4a8a0e377f) [## [PDF] JSNOSE:检测 JavaScript 代码气味|语义学者
-
-### JavaScript 是一种强大而灵活的基于原型的脚本语言，越来越多地被开发人员用来…
-
-www.semanticscholar.org](https://www.semanticscholar.org/paper/JSNOSE%3A-Detecting-JavaScript-Code-Smells-Fard-Mesbah/86dd17663c963772e6dd3ec8e2b1ab4a8a0e377f) [](https://ieeexplore.ieee.org/document/7780188) [## 检测 Python 程序中的代码味道
-
-### Python 作为一种传统的动态语言，越来越多地应用于各种软件工程任务中。然而，由于…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/7780188)  [## Python 编程中的反模式
-
-### 注意(2019 年 9 月 1 日):这里的建议在这一点上有些过时。有一天会有更新来改变…
-
-lignos.org](https://lignos.org/py_antipatterns/)
+<https://www.semanticscholar.org/paper/JSNOSE%3A-Detecting-JavaScript-Code-Smells-Fard-Mesbah/86dd17663c963772e6dd3ec8e2b1ab4a8a0e377f>  <https://ieeexplore.ieee.org/document/7780188>   

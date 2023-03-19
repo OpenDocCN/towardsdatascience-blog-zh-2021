@@ -34,11 +34,7 @@ Visual Studio 代码的[远程开发](https://marketplace.visualstudio.com/items
 
 这个故事将主要描述如何使用远程容器，保持您的开发环境在本地。使用远程 SSH 非常相似，我将跳过远程 WSL，因为它只对 Windows 用户可用。如果你想了解更多关于 Windows 和 WSL 2.0 的内容，请看下面的故事。
 
-[](/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128) [## 双重引导已死:Windows 和 Linux 现在合二为一了。
-
-### 用 WSL 2 把你的 Windows 机器变成一个开发者工作站。
-
-towardsdatascience.com](/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128) 
+</dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128>  
 
 # 使用容器
 

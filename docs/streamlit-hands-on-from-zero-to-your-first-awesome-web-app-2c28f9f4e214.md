@@ -209,11 +209,7 @@
 
 *现在我们的数据已经准备好了，让我们在应用程序中绘制 choropleth 地图。请参考我的上一篇文章[如何使用 python/leav 创建 choropleth 地图](https://medium.com/p/c8cee104455f?source=post_stats_page----------------------------------------)来更详细地理解关于使用 python/leav 创建 choropleth 地图的代码和步骤。*
 
-*[](/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564) [## 叶和 Choropleth 地图:从零到专业
-
-### 使用带有图层控制和自定义工具提示的 follow 创建交互式 Choropleth 地图的分步教程
-
-towardsdatascience.com](/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564) 
+*</folium-and-choropleth-map-from-zero-to-pro-6127f9e68564>  
 
 让我们使用下面的代码来创建 follow map，它根据用户的输入，按不同的时期、财产类型和评估指标来可视化美国住房市场数据。
 
@@ -227,11 +223,7 @@ Choropleth 地图(图片由作者提供)
 
 这就对了。您已经使用 Streamlit 创建了第一个交互式仪表板/web 应用程序。玩玩它，想想如何扩展它的功能，或者给它添加更多的功能。您也可以阅读我的文章[*Streamlit hand-On:增强应用程序用户体验的功能和技巧*](/streamlit-hands-on-features-and-tips-for-enhanced-app-user-experience-aef7be8035fa) ，了解增强该应用程序可用性的其他功能和技术。
 
-[](/streamlit-hands-on-features-and-tips-for-enhanced-app-user-experience-aef7be8035fa) [## 简化动手操作:增强应用程序用户体验的功能和技巧
-
-### 通过真实的使用案例和完整的代码示例提升您的 Streamlit 技能
-
-towardsdatascience.com](/streamlit-hands-on-features-and-tips-for-enhanced-app-user-experience-aef7be8035fa) 
+</streamlit-hands-on-features-and-tips-for-enhanced-app-user-experience-aef7be8035fa>  
 
 祝贺你完成这个项目，我希望你喜欢这个教程。快乐学习！
 

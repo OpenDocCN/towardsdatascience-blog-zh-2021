@@ -48,11 +48,7 @@ Marc-Olivier Jodoin 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm
 
 *如果你想要一些学习这些的资源，可以看看我下面的文章:*
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 3)不要试图记住所有的东西
 
@@ -98,19 +94,11 @@ towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientis
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c) [## 如果我可以重新开始，我会如何学习数据科学(两年内)
-
-### 尽可能有效地学习数据科学的指南
-
-towardsdatascience.com](/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c) 
+</how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c>  
 
 # 特伦斯·申
 

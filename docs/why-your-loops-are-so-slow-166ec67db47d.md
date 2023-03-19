@@ -30,11 +30,7 @@ def summation(n):
 
 列表“n”越长，这个函数循环执行加法和断言操作的次数就越多。你可以想象，在这个列表中很可能有一个非常线性的方程来增加新的迭代。随着 n 范围的增长，编译的时间也会增长。我决定把这个带进 Jupyter，以便更好地形象化，所以如果你想看我用的笔记本，你可以在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/big%20o%20notation.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/big%20o%20notation.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/big%20o%20notation.ipynb>  
 
 这是我用来测试通过这个函数传递的不同数量的数字的函数:
 

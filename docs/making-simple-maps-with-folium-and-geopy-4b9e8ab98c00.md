@@ -82,8 +82,4 @@ the_map.save(‘the_map.html’)
 
 接下来:
 
-[](/your-cool-folium-maps-on-the-web-313f9d1a6bcd) [## 你在网上的酷叶地图
-
-### 利用 flask 和 heroku 与世界分享您的交互式地图
-
-towardsdatascience.com](/your-cool-folium-maps-on-the-web-313f9d1a6bcd)
+</your-cool-folium-maps-on-the-web-313f9d1a6bcd> 

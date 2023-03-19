@@ -148,11 +148,7 @@ pipe = pipeline.compose(
 
 完整的示例源代码请看我的 GitHub repo。
 
-[](https://github.com/pavel-fokin/iterators-composition) [## Pavel-fokin/迭代器-合成
-
-### 这是一篇文章“迭代器的合成”的例子
-
-github.com](https://github.com/pavel-fokin/iterators-composition) 
+<https://github.com/pavel-fokin/iterators-composition>  
 
 看起来不错！你怎么想呢?
 
@@ -176,18 +172,10 @@ github.com](https://github.com/pavel-fokin/iterators-composition)
 
 不用 OOP 用 Python 解释**依赖倒置原理**。
 
-[](https://levelup.gitconnected.com/tenet-of-inversion-with-python-9759ef73dbcf) [## Python 中的反转原则
-
-### 打破依赖倒置原则。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/tenet-of-inversion-with-python-9759ef73dbcf) 
+<https://levelup.gitconnected.com/tenet-of-inversion-with-python-9759ef73dbcf>  
 
 仔细观察 Python 中**多态性**的类型。
 
-[](https://levelup.gitconnected.com/hidden-power-of-polymorphism-in-python-c9e2539c1633) [## Python 中多态隐藏的力量
-
-### 如何在应用程序中实现多态接口？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/hidden-power-of-polymorphism-in-python-c9e2539c1633) 
+<https://levelup.gitconnected.com/hidden-power-of-polymorphism-in-python-c9e2539c1633>  
 
 ***感谢阅读！与我分享你对***[***LinkedIn***](https://www.linkedin.com/in/pavel-fokin/)***和***[***Twitter***](https://twitter.com/pavelfokin_)***的想法。如果你喜欢这个故事，请关注***[***me***](https://medium.com/@pavelfokin)***获取更多关于编程的精彩文章。***

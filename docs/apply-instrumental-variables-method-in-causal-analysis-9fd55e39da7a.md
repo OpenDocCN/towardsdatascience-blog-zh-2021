@@ -28,11 +28,7 @@
 
 IV 因果链中的链接基于潜在结果框架中的条件预期。如果你不熟悉潜在结果模型，你可以看看我以前的文章:
 
-[](https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426) [## 随机实验和潜在结果模型
-
-### 深入探究随机化的重要性
-
-medium.com](https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426) 
+<https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426>  
 
 第一阶段是从仪器 Z *i* 到感兴趣的因果变量(治疗变量 D *i* )的链接:
 

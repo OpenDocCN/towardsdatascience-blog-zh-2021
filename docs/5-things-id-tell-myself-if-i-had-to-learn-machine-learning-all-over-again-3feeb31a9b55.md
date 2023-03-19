@@ -45,11 +45,7 @@
 
 尽管如此，我开始使用必要的算法，但我发现当我从头开始编写算法时，我的理解成倍增长。
 
-[](https://github.com/kurtispykes/ml-from-scratch) [## kurtispykes/ml-从零开始
-
-### 通过在 GitHub 上创建一个帐户，为 kurtispykes/ml 的从头开发做出贡献。
-
-github.com](https://github.com/kurtispykes/ml-from-scratch) 
+<https://github.com/kurtispykes/ml-from-scratch>  
 
 ## #3 让好奇心引领
 
@@ -59,11 +55,7 @@ github.com](https://github.com/kurtispykes/ml-from-scratch)
 
 被好奇心所引导意味着你会跟随你内心的想法去做。对我来说，从前这意味着学习深度学习的基础知识，然后是学习一些关于自然语言处理的东西，现在是关于将机器学习模型投入生产——当然，你不会在一夜之间成为专家，这需要你付出大量的努力。
 
-[](/the-most-important-data-science-project-458d016ef8a6) [## 最重要的数据科学项目
-
-### 每个数据科学家都必须做的项目
-
-towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6) 
+</the-most-important-data-science-project-458d016ef8a6>  
 
 ## #4 亲自动手
 
@@ -89,12 +81,4 @@ towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6)
 
 ## **相关文章**
 
-**[](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [## 自学成才的数据专业人员的 5 条法则
-
-towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) [## 当我意识到数据科学证书不会推动我的职业发展时
-
-towardsdatascience.com](/the-moment-i-realized-data-science-certificates-wont-push-my-career-forward-efe2d404ab72) [](/dont-waste-time-building-your-data-science-network-2c336690dee4) [## 不要浪费时间构建您的数据科学网络
-
-### 专注于重要的事情
-
-towardsdatascience.com](/dont-waste-time-building-your-data-science-network-2c336690dee4)**
+**</5-laws-for-self-taught-data-professionals-4bf351ac5c24>  </dont-waste-time-building-your-data-science-network-2c336690dee4> **

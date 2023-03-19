@@ -68,16 +68,4 @@ Jonathan Pielmayer 在 [Unsplash](https://unsplash.com/s/photos/table?utm_source
 
 **你可能也会喜欢**
 
-[](/what-is-machine-learning-e67043a3a30c) [## 什么是机器学习
-
-### 讨论机器学习的学习方法、类型和实际应用
-
-towardsdatascience.com](/what-is-machine-learning-e67043a3a30c) [](/supervised-vs-unsupervised-learning-bf2eab13f288) [## 监督与非监督学习
-
-### 讨论机器学习中监督学习、非监督学习和半监督学习的主要区别
-
-towardsdatascience.com](/supervised-vs-unsupervised-learning-bf2eab13f288) [](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) [## 数据科学家和工程师必备的 14 个 pip 命令
-
-### 探索一些对日常编程最有用的 pip 命令
-
-towardsdatascience.com](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439)
+</what-is-machine-learning-e67043a3a30c>  </supervised-vs-unsupervised-learning-bf2eab13f288>  </14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439> 

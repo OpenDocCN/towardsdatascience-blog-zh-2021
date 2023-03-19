@@ -6,11 +6,7 @@
 
 在这篇文章中，主要目标是检查有多大可能减少对文本预处理的需求。下面，我将简单解释一下，您可以在这里找到详细信息:
 
-[](https://peerj.com/articles/cs-422/) [## 波斯情绪分析的一个网上商店独立的预处理使用卷积…
-
-### 情感分析在公司，尤其是商店中起着关键作用，它提高了确定…
-
-peerj.com](https://peerj.com/articles/cs-422/) ![](img/add78934baf3e66e8f6b3fbc4ea2b0c1.png)
+<https://peerj.com/articles/cs-422/>  ![](img/add78934baf3e66e8f6b3fbc4ea2b0c1.png)
 
 一种用于情感分类的卷积网络结构。参考:10.7717/peerj-cs . 422/图 1
 
@@ -50,8 +46,4 @@ peerj.com](https://peerj.com/articles/cs-422/) ![](img/add78934baf3e66e8f6b3fbc4
 
 GitHub:
 
-[](https://github.com/mosiomohsen/persian-sentiment-analysis-using-fastText-word-embedding-and-pseudo-labeling) [## mosiomohsen/波斯语情感分析使用快速文本单词嵌入和伪标记
-
-### 在这个项目中，试图通过创建 word…来减少复杂的波斯语预处理的需要
-
-github.com](https://github.com/mosiomohsen/persian-sentiment-analysis-using-fastText-word-embedding-and-pseudo-labeling)
+<https://github.com/mosiomohsen/persian-sentiment-analysis-using-fastText-word-embedding-and-pseudo-labeling> 

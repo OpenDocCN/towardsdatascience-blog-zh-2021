@@ -20,19 +20,11 @@
 
 不知道怎么做，还是觉得没必要的难？嗯，你显然没有听说过 [Excalidraw](https://excalidraw.com/) 。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 图纸、数字和文本
 
@@ -117,28 +109,4 @@ Excalidraw 还有一些特性，使同时控制多个对象变得轻而易举。
 
 # 您可能也会感兴趣…
 
-[](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [## 6 个熊猫的错误，无声地告诉你是一个菜鸟
-
-### 编辑描述
-
-towardsdatascience.com](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [](/10-advanced-matplotlib-concepts-you-must-know-to-create-killer-visuals-9a32d241e31d) [## 创建黑仔视觉效果必须知道的 10 个高级 Matplotlib 概念
-
-### 其实并不存在什么高级 Matplotlib 用户。这只是一个谁在…上花了更多时间的问题
-
-towardsdatascience.com](/10-advanced-matplotlib-concepts-you-must-know-to-create-killer-visuals-9a32d241e31d) [](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [## 2021 年使用 Optuna 调整 LightGBM 超参数的 Kaggler 指南
-
-### 编辑描述
-
-towardsdatascience.com](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [](/5-cross-validation-techniques-you-need-to-create-models-that-people-trust-62c4629a678b) [## 创建人们信任的模型所需的 5 种交叉验证技术
-
-### 编辑描述
-
-towardsdatascience.com](/5-cross-validation-techniques-you-need-to-create-models-that-people-trust-62c4629a678b) [](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [## 喜欢 3Blue1Brown 动画？了解如何在 10 分钟内用 Python 创建自己的
-
-### 编辑描述
-
-towardsdatascience.com](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [](https://ibexorigin.medium.com/how-i-earn-thousands-for-learning-data-science-with-no-degree-and-experience-3481e09dddd) [## 我如何在没有学位和经验的情况下通过学习数据科学赚取数千美元
-
-### 编辑描述
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/how-i-earn-thousands-for-learning-data-science-with-no-degree-and-experience-3481e09dddd)
+</6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </10-advanced-matplotlib-concepts-you-must-know-to-create-killer-visuals-9a32d241e31d>  </kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5>  </5-cross-validation-techniques-you-need-to-create-models-that-people-trust-62c4629a678b>  </love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d>  <https://ibexorigin.medium.com/how-i-earn-thousands-for-learning-data-science-with-no-degree-and-experience-3481e09dddd> 

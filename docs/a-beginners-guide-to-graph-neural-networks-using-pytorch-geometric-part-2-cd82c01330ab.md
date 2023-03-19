@@ -102,10 +102,6 @@
 
 5.链接到本系列的第 1 部分。我强烈建议看看这个:
 
-[](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742) [## 使用 PyTorch 几何图形的神经网络初学者指南—第 1 部分
-
-### PyTorch 几何入门
-
-towardsdatascience.com](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742) 
+</a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742>  
 
 我希望你喜欢阅读这篇文章，你可以在 [LinkedIn、](https://www.linkedin.com/in/rohithteja/) [Twitter](https://twitter.com/RohithTeja15) 或 [GitHub](https://github.com/rohithteja) 上找到我。随便打个招呼吧！

@@ -4,11 +4,7 @@
 
 ## 如何用已经很棒的包和 gridspec 提升您的可视化
 
-[](https://learningfrommachines.substack.com/welcome) [## 向机器学习
-
-### 想想那些向我们学习的算法。
-
-learningfrommachines.substack.com](https://learningfrommachines.substack.com/welcome) 
+<https://learningfrommachines.substack.com/welcome>  
 
 # 介绍
 

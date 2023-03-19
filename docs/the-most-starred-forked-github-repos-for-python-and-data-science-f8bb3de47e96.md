@@ -132,16 +132,4 @@ GitHub 库的**星★** 和**叉ψ**是项目受欢迎程度和质量的一个�
 
 *欢迎您加入我的数据科学学习之旅！关注此[媒体页面](https://kennethleungty.medium.com/)以了解更多数据科学内容，或者在 [LinkedIn](https://www.linkedin.com/in/kennethleungty/) 上联系我。尽情探索流行的 GitHub repos 吧！*
 
-*[](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) [## 英超 VAR 足球决策分析
-
-### 使用 Python 回顾英国足球中有争议的视频助理裁判的实现
-
-towardsdatascience.com](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) [](/free-resources-for-generating-realistic-fake-data-da63836be1a8) [## 用于生成真实假数据的免费资源
-
-### 零成本地为您的数据科学项目生成模拟和虚拟数据
-
-towardsdatascience.com](/free-resources-for-generating-realistic-fake-data-da63836be1a8) [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 《面向生产的机器学习工程》课程 1 的主要课程(含课堂讲稿)(由 DeepLearning 提供。艾&…
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)*
+*</analyzing-english-premier-league-var-football-decisions-c6d280061ebf>  </free-resources-for-generating-realistic-fake-data-da63836be1a8>  </key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752> *

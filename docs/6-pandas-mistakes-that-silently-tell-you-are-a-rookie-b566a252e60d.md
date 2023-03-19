@@ -14,19 +14,11 @@
 
 这些错误与你正在使用的工具的 API 或语法无关，但与理论和你的经验水平直接相关。今天，我们在这里谈论熊猫初学者经常出现的 6 个错误，我们将学习如何解决它们。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1.使用熊猫本身
 
@@ -70,7 +62,7 @@ Python 中的所有算术运算符(+、-、*、/、**)在用于 Pandas 系列或
 
 ![](img/2044d0e004da5bb84e90bc919f7b958a.png)
 
-【http://pbpython.com/pandas_dtypes.html】来源:[](http://pbpython.com/pandas_dtypes.html)
+【http://pbpython.com/pandas_dtypes.html】来源:<http://pbpython.com/pandas_dtypes.html>
 
 **在数据类型名称之后，数字表示该数据类型中的每个数字将占用多少位内存。因此，我们的想法是将数据集中的每一列都转换为尽可能小的子类型。怎么知道选哪个？嗯，这是给你的另一张桌子:**
 
@@ -134,28 +126,4 @@ Python 中的所有算术运算符(+、-、*、/、**)在用于 Pandas 系列或
 
 # **在你离开之前，我的读者喜欢这些——你为什么不给他们一张支票呢？**
 
-**[](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [## 2021 年使用 Optuna 调整 LightGBM 超参数的 Kaggler 指南
-
-### 编辑描述
-
-towardsdatascience.com](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [](/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8) [## 你从来不知道存在的 25 个 NumPy 函数| P(保证= 0.85)
-
-### 编辑描述
-
-towardsdatascience.com](/25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 编辑描述
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
-
-### 编辑描述
-
-towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [## 如何像专家一样处理百万行数据集
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d) [## 喜欢 3Blue1Brown 动画？了解如何在 10 分钟内用 Python 创建自己的
-
-### 编辑描述
-
-towardsdatascience.com](/love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d)**
+**</kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5>  </25-numpy-functions-you-never-knew-existed-p-guarantee-0-85-64616ba92fa8>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c>  </how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd>  </love-3blue1brown-animations-learn-how-to-create-your-own-in-python-in-10-minutes-8e0430cf3a6d> **

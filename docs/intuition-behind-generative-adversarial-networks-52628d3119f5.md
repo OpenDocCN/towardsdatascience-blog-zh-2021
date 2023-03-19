@@ -113,8 +113,4 @@ GAN 模型有两个主要部分，一个发生器和一个鉴别器；这是两�
 
 ***让我们看看鉴别器是如何工作的。***
 
-***[](/intuition-behind-gans-discriminator-122ed821e9e5) [## 甘辨伪背后的直觉
-
-### 打造您的 GAN 系列——第 2 部分，共 4 部分
-
-towardsdatascience.com](/intuition-behind-gans-discriminator-122ed821e9e5)***
+***</intuition-behind-gans-discriminator-122ed821e9e5> ***

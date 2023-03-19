@@ -32,11 +32,7 @@
 
 得益于尖端技术，计算机系统可以掌握人类语言的含义，从经验中学习，并做出预测。
 
-[](https://www.innoplexus.com/blog/how-artificial-intelligence-works/) [## 人工智能是如何工作的？神经丛
-
-### 人工智能每天都会获得更多的头版头条。人工智能，或称 AI，是一种技术…
-
-www.innoplexus.com](https://www.innoplexus.com/blog/how-artificial-intelligence-works/) 
+<https://www.innoplexus.com/blog/how-artificial-intelligence-works/>  
 
 正如一位计算创造力的批评家所说，模仿艺术方法还包括模拟人类的思维和推理，尤其是创造性思维。目前，算法和信息处理系统还不能实现这一点。在非常狭窄的情况下，这些系统可以接近甚至超过人类的表现，但只能在参数范围有限的极度受控环境中进行。人工超级智能(ASI)系统将能够在各方面超越人类。这包括做出判断、做出合理的决定，甚至是创作艺术和建立情感纽带。尽管科学进步，ASIs 仍然停留在理论上，仍然属于科幻小说的世界。
 
@@ -70,19 +66,11 @@ AI 在艺术创作中有什么作用？AI 工具真的很有创意！
 
 随着数字艺术包中的人工智能和机器学习(ML)元素变得越来越复杂，**艺术家用创新和意想不到的方式进行实验的新工具**变得可用。基于人工智能的解决方案也可以用来制作艺术家以前从未想象过的东西。
 
-[](https://aiartists.org/ai-generated-art-tools) [## 41 大人工智能艺术生成器:制作人工智能艺术、绘画及更多(2021 指南)-AIArtists.org
-
-### 如果你对在你的创造性实践中使用人工智能感兴趣，上面的应用程序、软件和工具是一个很好的地方…
-
-aiartists.org](https://aiartists.org/ai-generated-art-tools) 
+<https://aiartists.org/ai-generated-art-tools>  
 
 艾正在以多种方式帮助创意人员，包括帮助他们模仿过去著名画家的风格。这种模仿和复制的能力在作品的创作和修复中都是有用的。
 
-[](https://www.artnews.com/art-news/news/rembrandt-ai-restoration-1234596736/) [## 人工智能修复残缺的伦勃朗画作《守夜人》
-
-### 伦勃朗最优秀的作品之一，弗兰斯·班尼克·科克上尉指挥下的第二区民兵连(…
-
-www.artnews.com](https://www.artnews.com/art-news/news/rembrandt-ai-restoration-1234596736/) 
+<https://www.artnews.com/art-news/news/rembrandt-ai-restoration-1234596736/>  
 
 许多人都在猜测一种叫做人工智能艺术的新艺术类型的出现。这种新的艺术类型，更恰当地称为神经网络艺术，是利用复杂的算法创造出来的。
 
@@ -110,26 +98,10 @@ www.artnews.com](https://www.artnews.com/art-news/news/rembrandt-ai-restoration-
 
 **如果你想看更多应用的例子，一个艺术家在他们的作品中使用人工智能的画廊:**
 
-**[](https://www.nvidia.com/en-us/deep-learning-ai/ai-art-gallery/) [## 2021 艾美术馆
-
-### 参观人工智能艺术画廊，看看和听听艺术家和音乐家如何使用人工智能作为工具、合作者或灵感…
-
-www.nvidia.com](https://www.nvidia.com/en-us/deep-learning-ai/ai-art-gallery/)** 
+**<https://www.nvidia.com/en-us/deep-learning-ai/ai-art-gallery/> ** 
 
 **🚀- [圣甲虫的消息](https://medium.com/u/52eb891e229c?source=post_page-----a53dbd562cdb--------------------------------)**
 
-**[](https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc) [## 关于我——圣甲虫新闻
-
-### 圣甲虫的新闻欢迎页
-
-medium.com](https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc) [](https://medium.com/subscribe/@ScarabNews) [## 每当圣甲虫的新闻出版的时候得到一封电子邮件。
-
-### 每当圣甲虫的新闻出版的时候得到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@ScarabNews) [](https://medium.com/@ScarabNews/membership) [## 用我的推荐链接加入媒体-圣甲虫的新闻
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ScarabNews/membership) 
+**<https://medium.com/@tgey/about-me-thomas-gey-a8a42f6622cc>  <https://medium.com/subscribe/@ScarabNews>  <https://medium.com/@ScarabNews/membership>  
 
 *感谢您阅读这篇文章！如果你有任何问题，请在下面留言。***

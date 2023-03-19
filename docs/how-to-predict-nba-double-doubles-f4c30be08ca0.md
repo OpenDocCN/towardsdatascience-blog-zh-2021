@@ -334,8 +334,4 @@ confusionMatrix(
 
 **有关获取数据集的更多信息，请查看我的另一篇文章:**
 
-**[](https://medium.com/@ajpiter/web-scraping-nba-all-star-data-8788a7136727) [## 网络搜集 NBA 全明星数据
-
-### 了解如何在 R 中使用 rvest、gateway 和 hablar 包来抓取、清理和合并数据帧。
-
-medium.com](https://medium.com/@ajpiter/web-scraping-nba-all-star-data-8788a7136727)**
+**<https://medium.com/@ajpiter/web-scraping-nba-all-star-data-8788a7136727> **

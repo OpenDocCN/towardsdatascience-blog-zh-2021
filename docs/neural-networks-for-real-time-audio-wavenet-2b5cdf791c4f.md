@@ -120,11 +120,7 @@ WaveNet 类用定义神经网络的大小和结构的几个参数初始化。基
 
 ****在下一篇文章中，我们将研究使用无状态 LSTM，看看我们是否可以在保持高质量声音的同时提高 CPU 使用率和训练时间。在此继续阅读:****
 
-****[](https://link.medium.com/Jg5ft4WM0fb) [## 实时音频的神经网络:无状态的 LSTM
-
-### 这是关于使用神经网络进行实时音频的四部分系列的第三部分。对于上一篇关于…的文章
-
-link.medium.com](https://link.medium.com/Jg5ft4WM0fb) 
+****<https://link.medium.com/Jg5ft4WM0fb>  
 
 感谢您的阅读！
 

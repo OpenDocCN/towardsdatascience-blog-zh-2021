@@ -40,10 +40,6 @@
 
 有了 nbQA 这样的工具进行林挺、格式化和静态类型检查，开发整洁的笔记本变得前所未有的简单！
 
-[](https://github.com/nbQA-dev/nbQA) [## GitHub - nbQA-dev/nbQA:在 Jupyter 笔记本上运行 isort、pyupgrade、mypy、pylint、flake8 等等
-
-### ✅稳健地处理 ipython magics 尊重您的配置文件✅保留“安静模式”尾随分号✅ lints…
-
-github.com](https://github.com/nbQA-dev/nbQA) 
+<https://github.com/nbQA-dev/nbQA>  
 
 感谢阅读！如果你同意，请在评论中告诉我！

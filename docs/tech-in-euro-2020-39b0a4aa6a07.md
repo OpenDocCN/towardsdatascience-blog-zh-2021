@@ -38,18 +38,6 @@ Izuddin Helmi Adnan 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 如果你喜欢这篇文章并想联系我，请通过🖊️ [媒体](https://alexieidingli.medium.com/)联系我，🐦[推特](https://twitter.com/alexieidingli)，🔗[领英](https://www.linkedin.com/in/alexieidingli/)，📷 [Instagram](https://www.instagram.com/alexieidingli/) ，😊[脸书](https://www.facebook.com/alexieidingli)或者🌐[网站](http://www.dingli.org/)
 
-[](https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205) [## 通过分散注意力来控制疼痛
-
-### 分散注意力已被证明是疼痛管理的有效工具。莫琳·萨古纳遇见阿列克谢·丁力和卢卡…
-
-medium.com](https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205) [](/sitting-on-a-pile-of-digital-gold-f20b74e0ae47) [## 坐在一堆数字黄金上
-
-### 如何利用你已有的资源改变你的组织！
-
-towardsdatascience.com](/sitting-on-a-pile-of-digital-gold-f20b74e0ae47) [](/beyond-the-frontiers-of-disabilities-88b82631533d) [## 超越残疾的界限
-
-### 技术如何为残疾人打开一个全新的世界
-
-towardsdatascience.com](/beyond-the-frontiers-of-disabilities-88b82631533d) 
+<https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205>  </sitting-on-a-pile-of-digital-gold-f20b74e0ae47>  </beyond-the-frontiers-of-disabilities-88b82631533d>  
 
 Alexiei Dingli 教授是马耳他大学的人工智能教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他出版了几本同行评审的出版物，并成为马耳他的一部分。由马耳他政府成立的人工智能工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。

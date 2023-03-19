@@ -141,11 +141,7 @@ log_reg_model.fit(X,y)
 
 PCA 对于消除多重共线性是有用的。它充当数据预处理步骤。PCA 还有很多其他的用例。这只是降维技术之一。你可以通过阅读我写的下面这篇文章找到更多关于那些事情的信息:
 
-[](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) [## 2021 年你应该知道的 11 种降维技术
-
-### 减少数据集的大小，同时尽可能保留变化
-
-towardsdatascience.com](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) 
+</11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b>  
 
 我的读者可以通过下面的链接注册成为会员，以获得我写的每个故事的全部信息，我将收到你的一部分会员费。
 

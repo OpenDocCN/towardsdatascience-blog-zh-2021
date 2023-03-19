@@ -157,11 +157,7 @@ walked, table, order, minutes, friend, food, decided, coke, choose
 
 一旦我们准备好数据集，我们就可以训练我们的模型。您可以在这里查看我的 Python 脚本和其他相关的设置文件:
 
-[](https://github.com/kenilc/finetune4textgen) [## GitHub - kenilc/finetune4textgen:一个 python 脚本，用于微调文本的预训练模型…
-
-### 一个小 python 脚本，用于微调文本生成的预训练模型。该脚本大量使用了内置的…
-
-github.com](https://github.com/kenilc/finetune4textgen) 
+<https://github.com/kenilc/finetune4textgen>  
 
 剧本很直白；它本质上是用于训练和参数解析的[拥抱脸函数](https://huggingface.co/transformers/)的包装器，以及一些下载和上传数据文件和模型检查点的辅助函数。
 
@@ -169,11 +165,7 @@ github.com](https://github.com/kenilc/finetune4textgen)
 
 当然，不可能在一个中帖里提供一步一步使用平台的指南。我要分享的是在我为我的故事生成模型建立培训工作的过程中遇到的阻碍。如果你对这个平台完全陌生，我强烈建议你遵循 Google 的官方快速入门指南，理解标准的项目结构和命令是如何工作的。
 
-[](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/quickstart) [## 人工智能-平台-示例/master Google cloud platform/人工智能-平台-示例快速入门
-
-### 如果这是你第一次使用人工智能平台，我们建议你看一下人工智能平台介绍文档…
-
-github.com](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/quickstart) ![](img/c981d7222a41d8900c658a235b3ce95f.png)
+<https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/quickstart>  ![](img/c981d7222a41d8900c658a235b3ce95f.png)
 
 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由[micha Mancewicz](https://unsplash.com/@kreyatif?utm_source=medium&utm_medium=referral)拍摄的照片
 
@@ -218,11 +210,7 @@ github.com](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/mast
 
 **实现所有这些命令行参数似乎很乏味。幸运的是，拥抱脸为此专门提供了两个类: [TrainingArguments](https://huggingface.co/transformers/_modules/transformers/training_args.html) 和 [HfArgumentParser](https://huggingface.co/transformers/_modules/transformers/hf_argparser.html) 。更好的是，参数解析器是通用的，您可以将它用于任何需要命令行界面的 Python 程序。**
 
-**[](https://python.plainenglish.io/how-to-automatically-generate-command-line-interface-for-python-programs-e9fd9b6a99ca) [## 如何为 Python 程序自动生成命令行界面
-
-### 拥抱脸的 HfArgumentParser 是你的朋友。
-
-python .平原英语. io](https://python.plainenglish.io/how-to-automatically-generate-command-line-interface-for-python-programs-e9fd9b6a99ca) 
+**<https://python.plainenglish.io/how-to-automatically-generate-command-line-interface-for-python-programs-e9fd9b6a99ca>  
 
 ## 最后的步骤
 
@@ -273,11 +261,7 @@ auth.authenticate_user()# Cell 2
 
 给定一个经过训练的模型，我们仍然需要实验并决定如何使用它来生成文本。这就是所谓的解码，不同的解码方法和参数产生的结果大相径庭。
 
-[](https://huggingface.co/blog/how-to-generate) [## 如何生成文本:使用不同的解码方法通过转换器生成语言
-
-### 近年来，由于大规模语言生成的兴起，人们对开放式语言生成越来越感兴趣。
-
-huggingface.co](https://huggingface.co/blog/how-to-generate) 
+<https://huggingface.co/blog/how-to-generate>  
 
 这是文本生成的函数。`**kwargs`包含所有可选参数，如温度、top-p、是否进行采样或光束搜索等。默认是贪婪解码:概率最高的单词一个一个输出。当语句结束标记或最大。已达到长度。
 

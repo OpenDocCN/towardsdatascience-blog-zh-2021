@@ -28,11 +28,7 @@
 
 为了对抗纠缠，需要对模型行为中的任何意外变化保持警惕。这意味着广泛的监控和警报，尤其是当涉及到模型输入和输出的统计属性时。请随意阅读关于如何检测和应对漂移的更详细文章:
 
-[](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) [## 不要让你的模型质量渐行渐远
-
-### 解决生产 ML 系统中的数据漂移和概念漂移
-
-towardsdatascience.com](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) ![](img/b516b5d70d186d84d4d767577eee7796.png)
+</dont-let-your-model-s-quality-drift-away-53d2f7899c09>  ![](img/b516b5d70d186d84d4d767577eee7796.png)
 
 ## 2.校正级联
 
@@ -156,14 +152,6 @@ towardsdatascience.com](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) 
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) [## 不要让你的模型质量渐行渐远
+</dont-let-your-model-s-quality-drift-away-53d2f7899c09>  </8-tips-for-object-oriented-programming-in-python-3e98b767ae79> [## Python 中面向对象编程的 8 个技巧
 
-### 解决生产 ML 系统中的数据漂移和概念漂移
-
-towardsdatascience.com](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571)
+towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) </monte-carlo-dropout-7fd52f8b6571> 

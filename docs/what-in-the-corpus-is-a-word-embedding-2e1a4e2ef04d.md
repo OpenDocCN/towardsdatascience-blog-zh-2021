@@ -84,7 +84,7 @@ Zipf 定律的含义是，排名为 1000 的单词将每出现一个像“The”
 
 **![](img/9c04141a8d8ecf4d4357d712f5575d9b.png)**
 
-***阿拉马尔，J .(2018)。图解变压器[博客帖子]。检索自*[](https://jalammar.github.io/illustrated-transformer/)**
+***阿拉马尔，J .(2018)。图解变压器[博客帖子]。检索自*<https://jalammar.github.io/illustrated-transformer/>**
 
 ***使用两个任务以伪监督方式对 BERT 进行预训练:***
 

@@ -146,76 +146,20 @@ sudo pip3 install reportlab
 
 查看我最近的文章:
 
-[](https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d) [## FastAPI 中的中间件——它是什么？
+<https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d>  </introduction-to-postgresql-part-2-c25c346925d>  </introduction-to-postgresql-part-1-6ca9f25b02e1>  </sqlite-vs-tinydb-7d6a6a42cb97> [## SQLite vs TinyDB
 
-### 解释其中的奥秘…
-
-python .平原英语. io](https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d) [](/introduction-to-postgresql-part-2-c25c346925d) [## Postgresql 简介:第 2 部分
-
-### 让我们开始这个派对吧
-
-towardsdatascience.com](/introduction-to-postgresql-part-2-c25c346925d) [](/introduction-to-postgresql-part-1-6ca9f25b02e1) [## Postgresql 简介:第 1 部分
-
-### 让我们从头开始
-
-towardsdatascience.com](/introduction-to-postgresql-part-1-6ca9f25b02e1) [](/sqlite-vs-tinydb-7d6a6a42cb97) [## SQLite vs TinyDB
-
-towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) [](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [## 关于 Python 虚拟环境你需要知道什么
-
-### 如果你没有使用它们，你应该…
-
-python .平原英语. io](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) 
+towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) <https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586>  
 
 参考资料:
 
 [https://www.spagobi.org/](https://www.spagobi.org/communities/license/)
 
- [## 码头枢纽
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/r/spagobilabs/spagobi) [](https://open-source-guide.com/en/Solutions/Applications/Business-intelligence-suites/Spagobi) [## SpagoBI /开源指南
-
-### 研究版本:4.1 网站:发布者:企业(信息工程)许可:LGPL…
-
-open-source-guide.com](https://open-source-guide.com/en/Solutions/Applications/Business-intelligence-suites/Spagobi) [](https://www.knowage-suite.com/site/#nogo) [## 开源商业分析-知识套件
-
-### 本网站使用第三方分析 cookies，根据您在使用时透露的偏好提供服务…
-
-www.knowage-suite.com](https://www.knowage-suite.com/site/#nogo) [](https://sealreport.org/) [## 密封报告|开始使用
-
-### 现场演示网络报告服务器的现场演示可在 SealReport.org/demo.密封报告论坛上获得…
-
-sealreport.org](https://sealreport.org/)  [## 码头枢纽
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/r/eesysite/seal-report) [](https://github.com/ariacom/Seal-Report) [## aria com/Seal-报告
-
-### Seal Report 提供了一个完整的框架，用于从任何数据库或任何非 SQL 源生成每日报告。产品…
-
-github.com](https://github.com/ariacom/Seal-Report) 
+  <https://open-source-guide.com/en/Solutions/Applications/Business-intelligence-suites/Spagobi>  <https://www.knowage-suite.com/site/#nogo>  <https://sealreport.org/>    <https://github.com/ariacom/Seal-Report>  
 
 [http://querytreeapp.com/](http://querytreeapp.com/features/)
 
- [## 码头枢纽
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/r/d4software/querytree) 
+  
 
 https://www.finereport.com/
 
-[](https://community.finereport.com/) [## 欢迎来到 FineReport 社区！
-
-### FineReport 社区概述
-
-community.finereport.com](https://community.finereport.com/)  [## 码头枢纽
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/r/juglans/finereport) [](https://www.reportlab.com/) [## ReportLab -内容到 PDF 解决方案
-
-### 我们构建解决方案，以令人难以置信的速度生成丰富、有吸引力且完全定制的 PDF 文档。这可以让你…
-
-www.reportlab.com](https://www.reportlab.com/)
+<https://community.finereport.com/>    <https://www.reportlab.com/> 

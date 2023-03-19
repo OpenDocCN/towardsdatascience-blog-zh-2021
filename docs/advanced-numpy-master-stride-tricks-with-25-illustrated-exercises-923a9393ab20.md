@@ -13,7 +13,7 @@
 2022 年 1 月 6 日:根据来自*[*Sirouan Nouriddine*](https://medium.com/u/6fb228d2ed8f?source=post_page-----923a9393ab20--------------------------------) *2022 年 1 月 5 日:修复错别字并提高清晰度
 2021 年 12 月 30 日:从 NumPy 1.20.0 开始，有一个 sliding_window_view API，它也可以作为更高级别的 API 更多*见 [*此处*](https://numpy.org/doc/stable/reference/generated/numpy.lib.stride_tricks.sliding_window_view.html?highlight=as_strided#numpy-lib-stride-tricks-sliding-window-view)
 
-**(此处跳转到习题*[](#4838)**)***
+**(此处跳转到习题*<#4838>**)***
 
 **他可以被看作是访问和操作 NumPy `[ndarray](https://numpy.org/doc/stable/reference/arrays.ndarray.html)`的通常方式的扩展，给予用户更多的灵活性来控制最终的 NumPy [视图](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.view.html)。虽然这是一个深奥的功能，但一个特别实用的用法是当涉及到*滑动窗口*或*滚动统计*时。在本文中，我们将完成使用该 API 的 25 个不同的练习(并与我们通常的做法进行比较)。**
 

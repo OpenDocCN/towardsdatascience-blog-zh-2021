@@ -10,11 +10,7 @@
 
 这是我从事 SQL 工作的第 20 个年头(eek！).为了纪念这个里程碑，我最近写了一篇关于我所遵循的 10 个 SQL 命名标准的文章，我觉得这些标准可以产生易于阅读、调试和维护的 SQL。
 
-[](/10-sql-standards-to-make-your-code-more-readable-in-2021-4410dc50b909) [## 10 项 SQL 标准，让您的代码在 2021 年更具可读性
-
-### 制定一个 2021 年的纽约计划:易于阅读，维护 SQL
-
-towardsdatascience.com](/10-sql-standards-to-make-your-code-more-readable-in-2021-4410dc50b909) 
+</10-sql-standards-to-make-your-code-more-readable-in-2021-4410dc50b909>  
 
 按照这个主题，我想我应该探索一下 SQL 语言的其他元素，帮助区分出色的 SQL 和简单的函数式 SQL。
 
@@ -24,11 +20,7 @@ towardsdatascience.com](/10-sql-standards-to-make-your-code-more-readable-in-202
 
 给 BigQuery 用户一个快速提示——如果你想知道为什么我的 BigQuery UI 看起来和你的不一样，我使用的是 2021 年的更新 UI，刚刚在预览版中发布。如果你想知道我对新特性的看法，可以看看我几天前发表的文章。
 
-[](/5-great-features-in-bigquerys-new-ui-for-2021-yes-it-has-tabs-c4bac66d66b) [## big query 2021 年新 UI 的 5 大特性(是的，它有标签！)
-
-### 我探索了 BigQuery 的新 UI，它刚刚在预览版中发布
-
-towardsdatascience.com](/5-great-features-in-bigquerys-new-ui-for-2021-yes-it-has-tabs-c4bac66d66b) 
+</5-great-features-in-bigquerys-new-ui-for-2021-yes-it-has-tabs-c4bac66d66b>  
 
 # 有哪些常见的表格表达式？
 

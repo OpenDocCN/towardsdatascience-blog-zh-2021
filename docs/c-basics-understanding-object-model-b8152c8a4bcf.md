@@ -274,16 +274,4 @@ Data::Data()
 
 # 参考
 
- [## 多态性(计算机科学)-维基百科
-
-### 在编程语言和类型理论中，多态是为不同类型的实体提供单一接口。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Polymorphism_%28computer_science%29)  [## 虚函数(仅限 C++)
-
-### 编辑描述
-
-www.ibm.com](https://www.ibm.com/docs/en/i/7.3?topic=only-virtual-functions-c)  [## /upload/doc/object_models 索引
-
-### 编辑描述
-
-lifegoo.pluskid.org](https://lifegoo.pluskid.org/upload/doc/object_models/)
+     

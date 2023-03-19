@@ -1694,19 +1694,7 @@ plt.show()
 
 **其他一些文章:**
 
-**[](https://goncaloggomes.medium.com/machine-learning-hierarchical-and-k-means-clustering-with-python-fb73ee729128) [## 机器学习:用 Python 实现分层聚类和 K 均值聚类
-
-### 一种数据科学方法，涵盖最常用的模型来执行聚类分析和客户细分…
-
-goncaloggomes.medium.com](https://goncaloggomes.medium.com/machine-learning-hierarchical-and-k-means-clustering-with-python-fb73ee729128) [](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [## 机器学习:营销活动的成本预测(探索性数据分析——第一部分)
-
-### 预测营销活动最佳目标候选人的数据科学方法
-
-towardsdatascience.com](/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4) [](https://goncaloggomes.medium.com/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [## 关于移动营销活动的 15 个商业问题:ROAS(广告支出回报)
-
-### 探索性营销数据分析，用于监控和评估移动营销活动(EDA)的绩效
-
-goncaloggomes.medium.com](https://goncaloggomes.medium.com/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) 
+**<https://goncaloggomes.medium.com/machine-learning-hierarchical-and-k-means-clustering-with-python-fb73ee729128>  </machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4>  <https://goncaloggomes.medium.com/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6>  
 
 如何与我联系:
 

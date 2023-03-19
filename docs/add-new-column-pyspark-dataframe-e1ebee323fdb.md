@@ -157,16 +157,4 @@ from pyspark.sql.functions import rand**df = df.withColumn('colE', rand())**df.s
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) [](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </dynamic-typing-in-python-307f7c22b24e>  </mastering-indexing-and-slicing-in-python-443e23457125> 

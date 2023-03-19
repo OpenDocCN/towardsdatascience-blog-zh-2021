@@ -114,11 +114,7 @@ Telegram 是一款安全、便捷的跨平台消息应用，这意味着它可�
 
 BOT 通过邮件向运输团队发送交货确认(图片由作者提供)
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # **七。设计你的电报机器人**
 
@@ -216,17 +212,13 @@ requirements.txt
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 
 为了简洁易读，本文跳过了许多细节。你可以在下面列出的优秀文章中找到详细的说明。
 
-*【1】—*[](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/)**Dzaky Widya、* [*用 Python*](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) *、freecodecamp.org*学会在电报中构建你的第一个 bot*
+*【1】—*<https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/>**Dzaky Widya、* [*用 Python*](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) *、freecodecamp.org*学会在电报中构建你的第一个 bot*
 
 **【2】—*[*浩辉*](https://medium.com/u/500dff1f8d3b?source=post_page-----beb6ab29fca3--------------------------------) *、* [*如何免费部署一个使用 Heroku 的电报 Bot*](/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2)*、中型**
 

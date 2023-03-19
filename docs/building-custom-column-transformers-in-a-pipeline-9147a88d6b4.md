@@ -33,11 +33,7 @@ Scikit-learn 并没有完全涵盖数据科学家需要的所有内容，大多�
 
 转换后，整个管道将进行随机超参数搜索。该搜索允许通过选择超参数搜索来有效地优化变换中的参数。关于不同的超参数搜索的更多细节，请参考我关于这个主题的帖子:
 
-[](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) [## 超参数调整—始终调整您的模型
-
-### 不要放弃免费的性能提升。
-
-towardsdatascience.com](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) 
+</hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9>  
 
 ```
 import pandas as pd
@@ -66,11 +62,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=TEST_SIZE, r
 
 要转换的列通过转换器中的“feature_names”参数确定。电力变压器的指数由“电力”参数决定。将您想要优化的参数定义为类的属性是至关重要的。**在超参数搜索和随后的优化过程中，只能修改类别的属性。**关于不同管道参数定义的更多细节，请参考我在完整 sklearn 管道上的帖子:
 
-[](/automated-machine-learning-with-sklearn-pipelines-a2be2a0a6e1) [## 使用 Sklearn 管道的自动机器学习
-
-### 一条管道来统治他们。
-
-towardsdatascience.com](/automated-machine-learning-with-sklearn-pipelines-a2be2a0a6e1) 
+</automated-machine-learning-with-sklearn-pipelines-a2be2a0a6e1>  
 
 ```
 from sklearn.base import BaseEstimator, TransformerMixinclass CustomTransformer(BaseEstimator, TransformerMixin):
@@ -139,8 +131,4 @@ print(
 
 如果你对我的写作感兴趣，并想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

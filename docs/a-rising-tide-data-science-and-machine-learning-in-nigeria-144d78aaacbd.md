@@ -8,7 +8,7 @@
 
 由[大卫·罗蒂米](https://unsplash.com/@davidrotimi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/nigeria-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-** * *您可以在这里* ***** 找到该项目的代码[](https://www.kaggle.com/sootersaalu/a-rising-tide-ds-and-ml-in-nigeria)
+** * *您可以在这里* ***** 找到该项目的代码<https://www.kaggle.com/sootersaalu/a-rising-tide-ds-and-ml-in-nigeria>
 
 *虽然软件开发仍然是该国的首选编程工作，但数据科学在尼日利亚的受欢迎程度近年来不断增加，因为许多尼日利亚人发现自己被其潜力所吸引，并在该领域获得了收益。*
 

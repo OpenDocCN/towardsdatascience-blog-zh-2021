@@ -121,16 +121,8 @@
 
 *感谢阅读！如果你想更深入一点，看看我对达美乐比萨做的案例研究和他们的三个人工智能策略:*
 
-[](/the-pizza-chain-that-became-an-ai-front-runner-a0e297320cf6) [## 成为人工智能领跑者的披萨连锁店
+</the-pizza-chain-that-became-an-ai-front-runner-a0e297320cf6>  
 
-### 达美乐比萨采用了几种人工智能策略
+*此外，在我的关于人工智能的非技术性书籍*<https://thisisrealaibook.com/>**:*中，你可以找到关于人工智能策略的更详细的介绍，以及 100 个人工智能的现实世界实现*
 
-towardsdatascience.com](/the-pizza-chain-that-became-an-ai-front-runner-a0e297320cf6) 
-
-*此外，在我的关于人工智能的非技术性书籍*[](https://thisisrealaibook.com/)**:*中，你可以找到关于人工智能策略的更详细的介绍，以及 100 个人工智能的现实世界实现*
-
-*[](https://thisisrealaibook.com/) [## 这是真正的人工智能:100 个人工智能的现实世界实现
-
-### 你知道吗？最近，人工智能(AI)发现了世界上最好的流感疫苗。渐进…
-
-thisisrealaibook.com](https://thisisrealaibook.com/)*
+*<https://thisisrealaibook.com/> *

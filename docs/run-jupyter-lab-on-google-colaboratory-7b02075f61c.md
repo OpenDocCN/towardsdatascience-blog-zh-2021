@@ -187,4 +187,4 @@ jupyter lab --ip=0.0.0.0 --port=8989 --allow-root & ssh -o StrictHostKeyChecking
 
 如果您想获得关于视频和未来文章的更新，**订阅我的** [**简讯**](https://landing.mailerlite.com/webforms/landing/j5y2q1) **。你也可以通过填写[表格](https://forms.gle/bNpf9aqZJGLgaU589)让我知道你的期望。回头见！**
 
-*原载于*[](https://zerowithdot.com/jupyter-lab-colab/)**。**
+*原载于*<https://zerowithdot.com/jupyter-lab-colab/>**。**

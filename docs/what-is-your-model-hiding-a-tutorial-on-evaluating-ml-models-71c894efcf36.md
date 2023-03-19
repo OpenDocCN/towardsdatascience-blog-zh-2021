@@ -405,7 +405,7 @@ ROC AUC 并没有给我们一个完整的描述。相反，我们必须找到更
 
 *最初发表于*[*https://evidentlyai.com*](https://evidentlyai.com/blog/tutorial-2-model-evaluation-hr-attrition)*并与* [*埃琳娜·萨穆伊洛娃*](https://www.linkedin.com/in/elenasamuylova/) *合著。*
 
-如果你喜欢这个教程，看看上一个[](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)**！**
+如果你喜欢这个教程，看看上一个<https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production>**！**
 
 **在显然 AI，我们构建* [*开源工具*](https://github.com/evidentlyai/evidently) *来分析和监控机器学习模型。为了支持这个项目，给我们上一个⭐️*[*github*](https://github.com/evidentlyai/evidently)*！**
 

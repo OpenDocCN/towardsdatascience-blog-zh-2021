@@ -42,7 +42,7 @@
 
 > ****实际上，k 重交叉验证本身并不能减轻过度拟合*。然而，它有助于我们检测大量选项(我们有增加模型准确性的空间)来减轻过度拟合。当将 k-fold 交叉验证与网格搜索等超参数调整技术相结合时，我们肯定可以减轻过度拟合。对于像决策树这样的基于树的模型，有一些特殊的技术可以减轻过度拟合。几种这样的技术是:预修剪、后修剪和创建集合。如果你想详细了解它们，请阅读我的文章:*****
 
-*****[](/4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c) [## 4 种可以减轻决策树过度拟合的有用技术
+*****</4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c> [## 4 种可以减轻决策树过度拟合的有用技术
 
 towardsdatascience.com](/4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c) 
 

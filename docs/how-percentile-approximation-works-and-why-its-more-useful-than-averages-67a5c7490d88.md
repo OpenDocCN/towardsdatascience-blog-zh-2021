@@ -260,7 +260,7 @@ FROM responses;
 
 百分位数近似值似乎非常适合处理大型时间序列数据集。
 
-结果是一整个家族的[百分位近似超函数](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/)，内置于时标 DB 中。调用它们最简单的方法是使用`[percentile_agg](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/percentile_agg/)` [集合](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/percentile_agg/)和 [](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/) `[approx_percentile](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/)` [访问器](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/)。
+结果是一整个家族的[百分位近似超函数](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/)，内置于时标 DB 中。调用它们最简单的方法是使用`[percentile_agg](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/percentile_agg/)` [集合](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/percentile_agg/)和 <https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/> `[approx_percentile](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/)` [访问器](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/approx_percentile/)。
 
 此查询计算大约第 10、50 和 90 个百分点:
 
@@ -546,7 +546,7 @@ FROM responses;
 
 我们简要概述了百分位数，它们如何比更常见的统计总量(如平均值)提供更多信息，为什么存在百分位数近似值，以及它们通常如何工作以及在时间范围内如何超函数。
 
-**如果您想立即开始使用**[](https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/?utm_source=tds&utm_medium=blog&utm_campaign=hyperfunctions-1-0-2021&utm_content=docs-percentile-approx)****—以及更多功能，请创建一个完全托管的时标服务**:创建一个账户[免费试用 30 天](https://console.forge.timescale.com/signup?utm_source=tds&utm_medium=blog&utm_campaign=hyperfunctions-1-0-2021&utm_content=timescale-signup)。(Hyperfunctions 预装在每个新的数据库服务中，所以在你创建一个新的服务后，你就可以使用它们了)。**
+**如果您想立即开始使用**<https://docs.timescale.com/api/latest/hyperfunctions/percentile-approximation/?utm_source=tds&utm_medium=blog&utm_campaign=hyperfunctions-1-0-2021&utm_content=docs-percentile-approx>****—以及更多功能，请创建一个完全托管的时标服务**:创建一个账户[免费试用 30 天](https://console.forge.timescale.com/signup?utm_source=tds&utm_medium=blog&utm_campaign=hyperfunctions-1-0-2021&utm_content=timescale-signup)。(Hyperfunctions 预装在每个新的数据库服务中，所以在你创建一个新的服务后，你就可以使用它们了)。**
 
 ****如果您喜欢管理自己的数据库实例，您可以** [**下载并在 GitHub 上安装**](https://github.com/timescale/timescaledb-toolkit) `[**timescaledb_toolkit**](https://github.com/timescale/timescaledb-toolkit)` [**扩展**](https://github.com/timescale/timescaledb-toolkit) ，之后您将能够使用百分点近似值和其他超函数。**
 

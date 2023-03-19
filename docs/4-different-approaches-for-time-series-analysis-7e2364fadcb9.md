@@ -494,16 +494,4 @@ nrmse
 
 # 相关文章
 
-[](/how-to-model-a-time-series-through-a-sarima-model-e7587f85929c) [## 如何通过 SARIMA 模型对时间序列建模
-
-### 季节性时间序列建模教程。
-
-towardsdatascience.com](/how-to-model-a-time-series-through-a-sarima-model-e7587f85929c) [](/make-your-machine-learning-model-work-better-with-datetime-features-eb21de397fe8) [## 使用日期时间功能使您的机器学习模型更好地工作
-
-### 解释如何从日期和时间中提取新要素的现成教程
-
-towardsdatascience.com](/make-your-machine-learning-model-work-better-with-datetime-features-eb21de397fe8) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [## 当你在等待数据分析结果时，你该如何打发时间
-
-### 当你的计算机正在运行你喜欢的算法，而你正在等待的时候，一些建议不要浪费你的时间…
-
-towardsdatascience.com](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb)
+</how-to-model-a-time-series-through-a-sarima-model-e7587f85929c>  </make-your-machine-learning-model-work-better-with-datetime-features-eb21de397fe8>  </how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb> 

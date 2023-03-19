@@ -123,11 +123,7 @@ Fastai 使我们能够快速开发任何深度学习任务，正如我在前几�
 
 此外，这里是 GitHub repo 链接，包含所有代码:
 
-[](https://github.com/yashprakash13/RockPaperScissorsFastAI) [## yashprakash 13/rock paper scissors fastai
-
-### 在 GitHub 上创建一个帐户，为 yashprakash 13/rockppapersscissorsfastai 的开发做出贡献。
-
-github.com](https://github.com/yashprakash13/RockPaperScissorsFastAI) 
+<https://github.com/yashprakash13/RockPaperScissorsFastAI>  
 
 > 你想每周或两周收到一封免费的、干净的电子邮件，里面包含我发表的最好的策划文章和教程吗？加入我的代码广播吧！
 

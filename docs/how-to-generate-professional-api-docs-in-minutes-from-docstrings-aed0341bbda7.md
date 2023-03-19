@@ -23,11 +23,7 @@
 
 这里有一篇文章，里面有一些优秀的例子…
 
-[](https://nordicapis.com/5-examples-of-excellent-api-documentation/) [## 优秀 API 文档的 5 个例子(以及我们为什么这么认为)|北欧 APIs |
-
-### 如果你在 Nordic APIs 博客上花了很多时间，你会知道开发者体验是我们…
-
-nordicapis.com](https://nordicapis.com/5-examples-of-excellent-api-documentation/) 
+<https://nordicapis.com/5-examples-of-excellent-api-documentation/>  
 
 但是，编写文档经常感觉像是一件苦差事。这是每个开发人员在大规模项目中经历的认知负荷之上的额外负担。
 
@@ -287,8 +283,4 @@ pdoc --http localhost:8080 -c latex_math=True math-mod
 
 喜欢这篇文章吗？成为 [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而不会对您产生额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入 Medium—Tirthajyoti Sarkar
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

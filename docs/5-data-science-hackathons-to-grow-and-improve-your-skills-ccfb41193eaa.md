@@ -16,11 +16,7 @@
 
 今年，作为一名数据科学学习者或从业者，你有机会在舒适的家中参与一些令人惊叹的虚拟黑客马拉松。寻找黑客马拉松或任何活动并不总是一件容易的事情。尽管我们被信息所包围，但跟踪如此大量的信息总是具有挑战性。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 一如既往，我喜欢帮助你用最少的努力得到你想要的，因为你应该把精力放在真正的黑客马拉松上，而不是试图找到一个。在这篇文章中，我们将介绍 5 个即将到来的黑客马拉松，你现在就可以注册。
 
@@ -40,11 +36,7 @@ hack in Home II 不仅仅是一个黑客马拉松；它更像是一系列研讨�
 
 [脱碳 2021](https://www.eventbrite.com/e/hack-from-home-decarbonisation-2021-tickets-148337352013?aff=ebdssbonlinesearch&keep_tld=1) 黑客马拉松将专注于开发和探索降低碳活动的新解决方案。这是通过分析和汇总能源消费者的数据来实现的。本次黑客马拉松面向数据科学家、分析师、web 开发者和前端开发者开放。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №3:哈肯 2.0
 
@@ -62,11 +54,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 COP26 黑客马拉松的目标是开发和构建有助于理解和量化爱尔兰能源系统气候变化的解决方案。你可以以团队或个人的身份报名参加这次黑客马拉松。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 # №5:西格玛哈克 3.0
 
@@ -80,11 +68,7 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 如果你正在成为一名数据科学家，你已经学习了基础知识，并试图掌握尽可能多的数据科学方面，以便你可以准备好申请工作；停下来。让我告诉你，数据科学就业市场现在是如此饱和，你永远无法掌握一切；没人能。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 所以，你只需要非常了解基础知识，并在实际应用中练习使用它们。在我看来，实践构建项目、与团队合作以及运用你的知识的最佳方式是参加黑客马拉松。
 

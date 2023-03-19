@@ -6,11 +6,7 @@
 
 今年，我与温布尔登高中的一组教师合作，开发并推出了我们的 AI in Schools 计划的第一个迭代，通过分析真实数据，向高中生教授数据科学和机器学习技能。
 
-[](https://nwheeler443.medium.com/the-ai-in-schools-program-896f7000f31f) [## 学校中的人工智能项目
-
-### 向高中生介绍编程、数据科学和人工智能
-
-nwheeler443.medium.com](https://nwheeler443.medium.com/the-ai-in-schools-program-896f7000f31f) 
+<https://nwheeler443.medium.com/the-ai-in-schools-program-896f7000f31f>  
 
 我们关注了气候变化问题，并特别关注了学校的用电情况。女孩们使用三个数据源来调查学校的用电情况:
 

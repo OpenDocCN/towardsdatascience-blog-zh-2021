@@ -143,16 +143,4 @@ Distill 有一篇很棒的关于贝叶斯优化的文章，一定要看看牛津
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/active-sampling-for-pairwise-comparisons-476c2dc18231) [## 成对比较的主动采样
-
-### 如何配对玩家，以便在尽可能少的游戏中知道排名，同时游戏体验质量…
-
-towardsdatascience.com](/active-sampling-for-pairwise-comparisons-476c2dc18231) [](/can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc) [## 你能做得更好吗？抽样策略，重点是吉布斯抽样，实践和代码
-
-### 提供了通用采样策略的概述，重点是 Gibbs 采样、示例和 python 代码。
-
-towardsdatascience.com](/can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc) [](/a-note-on-parametric-and-non-parametric-bootstrap-resampling-72069b2be228) [## 置信区间:参数和非参数自助重采样
-
-### 制作一个好模型需要花费数天时间。但是一旦模型在那里，一个狡猾的问题潜伏在里面:“它能告诉我什么…
-
-towardsdatascience.com](/a-note-on-parametric-and-non-parametric-bootstrap-resampling-72069b2be228)
+</active-sampling-for-pairwise-comparisons-476c2dc18231>  </can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc>  </a-note-on-parametric-and-non-parametric-bootstrap-resampling-72069b2be228> 

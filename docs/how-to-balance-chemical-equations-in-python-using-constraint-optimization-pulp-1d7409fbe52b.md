@@ -10,7 +10,7 @@ App 截图
 
 *原贴于*[*【realpythonproject.com】*](https://www.realpythonproject.com/how-to-balance-chemical-equations-in-python-using-constraint-optimization-pulp/)
 
-*你可以在这里* 找到源代码[](https://github.com/rahulbanerjee26/Chemical-Equation-Balancer)
+*你可以在这里* 找到源代码<https://github.com/rahulbanerjee26/Chemical-Equation-Balancer>
 
 # *先决条件*
 

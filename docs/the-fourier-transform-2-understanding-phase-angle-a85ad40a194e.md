@@ -8,11 +8,7 @@
 
 查看该系列的前几篇文章！
 
-[](https://peterbbryan.medium.com/the-fourier-transform-1-ca31adbfb9ef) [## 傅立叶变换(1)
-
-### 频域介绍
-
-peterbbryan.medium.com](https://peterbbryan.medium.com/the-fourier-transform-1-ca31adbfb9ef) 
+<https://peterbbryan.medium.com/the-fourier-transform-1-ca31adbfb9ef>  
 
 在上一篇文章中，我展示了如何利用傅立叶变换的幅度来估计信号的频率成分。然而，仅仅依靠频率，我们无法完美地重建信号；我们需要相位！
 
@@ -32,18 +28,10 @@ peterbbryan.medium.com](https://peterbbryan.medium.com/the-fourier-transform-1-c
 
 这种相位信息也用傅里叶变换表示，可以用 numpy“角度”函数恢复。如果我们在与幅度最大的频率相同的索引处查看相位值，就可以确定与该频率成分相关的相位偏移。在这里(图 2)，傅立叶变换从上面的等式中恢复 0、1 和 2！
 
-[](https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_2) [## 理解-傅立叶/傅立叶 _2 在主彼得布莱恩/理解-傅立叶
-
-### 一些直觉帮助我理解傅立叶变换-理解-傅立叶/傅立叶 _ 2…
-
-github.com](https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_2) 
+<https://github.com/peterbbryan/Understanding-Fourier/tree/master/fourier_2>  
 
 如果回购或文本对你有价值，请为文章鼓掌！感谢阅读！
 
 查看本系列的下一篇文章！
 
-[](/the-fourier-transform-3-magnitude-and-phase-encoding-in-complex-data-8184e2ef75f0) [## 傅立叶变换(3):复数数据中的幅度和相位编码
-
-### 复数数据中的幅度和相位编码
-
-复数 datatowardsdatascience.com 中的幅度和相位编码](/the-fourier-transform-3-magnitude-and-phase-encoding-in-complex-data-8184e2ef75f0)
+</the-fourier-transform-3-magnitude-and-phase-encoding-in-complex-data-8184e2ef75f0> 

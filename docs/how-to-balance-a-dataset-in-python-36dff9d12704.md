@@ -458,14 +458,6 @@ plt.show()
 
 # 相关文章
 
-[](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [## 如何在 Python 中处理不平衡的多类数据集
-
-towardsdatascience.com](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b) [## 如何使用 scikit-learn 检查分类模型是否过度拟合
-
-towardsdatascience.com](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b) [](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) [## Python Pandas 中的数据预处理—第 6 部分删除重复项
-
-### 使用 Python 熊猫库删除重复项的快速教程。
-
-towardsdatascience.com](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) 
+</how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669>  </data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。

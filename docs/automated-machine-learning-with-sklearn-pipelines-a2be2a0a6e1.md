@@ -26,11 +26,7 @@ P ipelines 提供了自动化训练和测试模型的结构。它们可以包含
 
 一种常见的方法是从一个简单的模型开始，以提供一个基线性能。我在这篇文章中讨论了应该首先使用什么模型，以及为什么更简单的模型更好:
 
-[](/how-to-select-an-initial-model-for-your-data-science-problem-77f7b811bd0) [## 如何为您的数据科学问题选择初始模型
-
-### 为自己节省一些时间和麻烦，从简单开始。
-
-towardsdatascience.com](/how-to-select-an-initial-model-for-your-data-science-problem-77f7b811bd0) 
+</how-to-select-an-initial-model-for-your-data-science-problem-77f7b811bd0>  
 
 # **设置**
 
@@ -233,11 +229,7 @@ for transformer_params, imputer_params, scaler_params, feature_selection_params,
 
 注:这里使用随机搜索，因为它比网格搜索更有可能找到最佳模型。有关不同超参数搜索方法的详细信息以及随机搜索优于网格搜索的原因，请阅读以下帖子:
 
-[](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) [## 超参数调整—始终调整您的模型
-
-### 不要放弃免费的性能提升。
-
-towardsdatascience.com](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) 
+</hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9>  
 
 # **结论**
 
@@ -251,8 +243,4 @@ Sklearn 管道提供了很大的灵活性。然而，他们可能会面临挑战
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

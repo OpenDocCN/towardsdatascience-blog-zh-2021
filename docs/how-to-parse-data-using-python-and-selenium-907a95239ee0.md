@@ -10,11 +10,7 @@
 
 以前我谈到过硒以及如何在 Ruby 中使用它。今天，我将向您展示如何在 Python 中使用 Selenium。如果你想了解硒的基本知识，可以看看下面的帖子。在那篇文章中，我简要介绍了什么是硒以及我们何时可以使用它。
 
-[](/how-to-parse-data-using-ruby-and-selenium-5cf11605340c) [## 如何使用 Ruby 和 Selenium 解析数据
-
-### 了解硒的基础知识
-
-towardsdatascience.com](/how-to-parse-data-using-ruby-and-selenium-5cf11605340c) 
+</how-to-parse-data-using-ruby-and-selenium-5cf11605340c>  
 
 通过这篇文章，您将了解如何使用 Python、Selenium 和 ChromeDriver 解析一些数据。
 
@@ -74,8 +70,4 @@ driver = webdriver.Chrome()
 
 # 相关帖子
 
-[](/how-to-parse-data-using-ruby-and-selenium-5cf11605340c) [## 如何使用 Ruby 和 Selenium 解析数据
-
-### 了解硒的基础知识
-
-towardsdatascience.com](/how-to-parse-data-using-ruby-and-selenium-5cf11605340c)
+</how-to-parse-data-using-ruby-and-selenium-5cf11605340c> 

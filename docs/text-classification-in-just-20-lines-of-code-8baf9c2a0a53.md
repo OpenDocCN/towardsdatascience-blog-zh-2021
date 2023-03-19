@@ -173,11 +173,7 @@ learn.predict('This was a really bad day in my life. My whole family except my d
 
 这个小项目的完整代码可以在:[https://github.com/yashprakash13/RockPaperScissorsFastAI](https://github.com/yashprakash13/RockPaperScissorsFastAI)获得
 
-[](https://github.com/yashprakash13/RockPaperScissorsFastAI) [## yashprakash 13/rock paper scissors fastai
-
-### 这些笔记本包含来自 medium 系列博客文章的代码:Fastai-My 的快速介绍…
-
-github.com](https://github.com/yashprakash13/RockPaperScissorsFastAI) 
+<https://github.com/yashprakash13/RockPaperScissorsFastAI>  
 
 快乐学习！😁
 

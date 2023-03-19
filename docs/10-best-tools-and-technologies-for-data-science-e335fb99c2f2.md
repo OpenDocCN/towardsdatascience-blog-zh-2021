@@ -46,11 +46,7 @@ Jupyter Notebook 是一个开源的 web 应用程序，允许您创建和共享�
 
 这些笔记本可以与任何人共享，有助于更高效地协作编写代码。我强烈推荐使用 Jupyter 笔记本，因为你可以单独使用每个代码块，也可以选择使用降价。它被广泛应用于许多盈利的公司。以下是关于 Jupyter 笔记本的完整指南。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 **荣誉奖:**谷歌合作实验室
 
@@ -58,11 +54,7 @@ towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-107
 
 从下面提供的链接中查阅下面的文章，获得十多个 ide 的简明指南，您可以在您的项目中使用这些 IDE。
 
-[](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) [## 10+牛逼 Python 编辑器的简明指南，以及如何选择最适合你的编辑器…
-
-### 帮助您在各种 python 开发环境中进行选择的简明指南
-
-towardsdatascience.com](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) 
+</a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd>  
 
 # 3.绘图处理器
 
@@ -82,11 +74,7 @@ GPU 是计算机视觉和超级计算的动态资源，具有深度学习和神�
 
 您可以从下面的文章中了解更多关于 GPU 的信息，如果您确实需要一个 GPU 来进行深度学习。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 # 4.IBM Watson 工作室
 
@@ -222,26 +210,6 @@ Discord 频道、YouTube 视频、免费在线代码营、走向数据科学等�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  </do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  </python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  </12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  </everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

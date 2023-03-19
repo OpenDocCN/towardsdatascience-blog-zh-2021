@@ -8,23 +8,11 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将开始并完成课程的第 7 单元，差异进化。在前一篇文章中，我们应用了一种进化策略算法来寻找多目标问题的 Pareto 前沿。您可以在下面找到它:
 
-[](/unit-6-evolutionary-strategies-finding-the-pareto-front-65ad9ae54a34) [## 单元 6)进化策略——寻找帕累托前沿
-
-### 涵盖进化策略的主要概念:加号和逗号策略，并应用它们找到帕累托…
-
-towardsdatascience.com](/unit-6-evolutionary-strategies-finding-the-pareto-front-65ad9ae54a34) 
+</unit-6-evolutionary-strategies-finding-the-pareto-front-65ad9ae54a34>  
 
 如果你是这门课程的新手，请看看我以前的帖子，尤其是这两篇，因为我在那里详细介绍了进化计算和遗传算法的基础知识，因为我没有太多时间在这里重复我自己:
 
-[](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-towardsdatascience.com](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-2-introduction-to-evolutionary-computation-85764137c05a>  </unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 在这篇文章中，我们将介绍差分进化和标准遗传算法之间的主要差异，变异和交叉的单位向量的创建，不同的参数策略，然后以一个**自动机器学习**的应用程序结束，在这个应用程序中，我们将进化一个**卷积神经网络**的架构，用于对 **CIFAR-10** 数据集上的图像进行分类。我没有时间介绍卷积神经网络是如何工作的，也没有时间介绍通过 Keras 创建模型的微调，所以请在进一步深入之前刷新一下自己。
 
@@ -126,11 +114,7 @@ towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
 
 如果您想了解更多关于数据的信息，请访问下面的机器学习知识库:
 
- [## CIFAR-10 和 CIFAR-100 数据集
-
-### 水生哺乳动物海狸、海豚、水獭、海豹、鲸鱼观赏鱼、比目鱼、鳐鱼、鲨鱼、鳟鱼花兰花…
-
-www.cs.toronto.edu](https://www.cs.toronto.edu/~kriz/cifar.html) 
+  
 
 选择卷积神经网络的模型结构一直是参数调整的一个非常不确定的领域。通常，模型架构是由具有丰富经验的领域专家构建的；然而，随着**自动化机器学习的出现，**新颖的程序员可以在几乎没有经验的情况下构建高效的模型。自动机器学习是优化和机器学习理论的一个领域，其目标是为给定的算法找到最佳的超仪集。在我们的例子中，这些超参数对应于 CNN 的架构。
 
@@ -262,11 +246,7 @@ www.cs.toronto.edu](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 这个项目的原始代码将会在我的 GitHub 资源库中提供给这个特定的课程:
 
-[](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit7/auto_ml_cnn_arch.py) [## evolutionary computation course/auto _ ml _ CNN _ arch . py at main ous student/evolutionary computation course
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit7/auto_ml_cnn_arch.py) 
+<https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit7/auto_ml_cnn_arch.py>  
 
 如果你对这个项目感兴趣，并且想把这个算法应用到你自己的数据集中，我建议不要扩充我上面给出的代码。我目前正在开发一个基于进化计算的 Python 库，其中将包含一个基于这里描述的算法构建的专门算法，用于进化深度神经网络的架构。这个库应该会在接下来的两周内发布，当它发布的时候我会发布一个帖子，所以请耐心的关注和等待。
 
@@ -278,8 +258,4 @@ github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main
 
 敬请关注下一篇文章，我们将在第 8 单元“共同进化”中结束课程，在那里我们将共同进化游戏人工智能代理来玩月球登陆车！
 
-[](/unit-8-co-evolution-reinforcement-learning-for-game-ai-design-97453ed946ec) [## 单元 8)协同进化——游戏人工智能设计的强化学习
-
-### 共同进化的竞争游戏人工智能的发挥月球着陆器使用 Python 健身房环境和进化计算…
-
-towardsdatascience.com](/unit-8-co-evolution-reinforcement-learning-for-game-ai-design-97453ed946ec)
+</unit-8-co-evolution-reinforcement-learning-for-game-ai-design-97453ed946ec> 

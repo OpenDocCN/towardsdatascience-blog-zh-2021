@@ -263,11 +263,7 @@ D eep-Learning，很大一部分**人工智能**，越来越受欢迎。随着�
 
 # **神经网络系列之旅**
 
-**[](https://pierre-louis-weiss.medium.com/a-journey-through-neural-networks-part-0-fast-introduction-to-linear-algebra-e9f9ffa46513) [## 神经网络之旅(第 0 部分)——线性代数快速入门
-
-### 深度学习中使用的核心线性代数概念的更新
-
-pierre-louis-weiss.medium.com](https://pierre-louis-weiss.medium.com/a-journey-through-neural-networks-part-0-fast-introduction-to-linear-algebra-e9f9ffa46513) 
+**<https://pierre-louis-weiss.medium.com/a-journey-through-neural-networks-part-0-fast-introduction-to-linear-algebra-e9f9ffa46513>  
 
 # 参考
 

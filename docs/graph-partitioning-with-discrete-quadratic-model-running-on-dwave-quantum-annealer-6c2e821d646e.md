@@ -64,11 +64,7 @@ y = q_ik + q_jk - 2 * q_ik * q_jkq_ik | q_jk | sum | -2*prod | y
 
 一旦您获得了 Leap 的访问权，您就可以使用 LeapIDE 开发环境了。要启动一个工作区，你只需将浏览器指向一个以`*https://ide.dwavesys.io/#`*开头的地址，然后是 GitHub 库的地址。例如:
 
-[](https://github.com/rdisipio/classify_dqm_qubo/blob/main/karate.py) [## rdisipio/classify _ dqm _ 曲波
-
-### 使用曲波二次离散模型分类文档-rdisipio/classify _ dqm _ 曲波
-
-github.com](https://github.com/rdisipio/classify_dqm_qubo/blob/main/karate.py) 
+<https://github.com/rdisipio/classify_dqm_qubo/blob/main/karate.py>  
 
 ```
 *https://ide.dwavesys.io/#*[https://github.com/rdisipio/classify_dqm_qubo](https://github.com/rdisipio/classify_dqm_qubo)

@@ -206,8 +206,4 @@ python3 app.py
 
 # 参考
 
-[](https://core.telegram.org/bots) [## 机器人:开发者入门
-
-### 机器人是运行在 Telegram 内部的第三方应用程序。用户可以通过向机器人发送信息来与它们互动…
-
-core.telegram.org](https://core.telegram.org/bots)
+<https://core.telegram.org/bots> 

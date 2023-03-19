@@ -92,11 +92,7 @@
 
 你可以看看我的另一篇文章，了解特征值在主成分分析中是如何使用的。
 
-[](https://sergencansiz.medium.com/pca-where-to-use-and-how-to-use-b207a1d8e206) [## PCA:在哪里使用和如何使用
-
-### 以直观的方式了解 PCA 是如何工作的
-
-sergencansiz.medium.com](https://sergencansiz.medium.com/pca-where-to-use-and-how-to-use-b207a1d8e206) 
+<https://sergencansiz.medium.com/pca-where-to-use-and-how-to-use-b207a1d8e206>  
 
 ## 结论
 

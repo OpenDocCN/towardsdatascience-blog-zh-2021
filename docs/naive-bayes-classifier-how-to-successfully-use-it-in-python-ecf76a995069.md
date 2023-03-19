@@ -229,11 +229,7 @@ Note, the class label predicted by the model is the one with the highest probabi
 
 处理不平衡数据有多种方法，其中一种方法是对少数类进行过采样(在本例中，class=0)。这里就不赘述了。然而，如果你对过采样感兴趣，你可以在我之前关于逻辑回归的文章中找到一节:
 
-[](/logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2) [## Python 中的逻辑回归——如何工作的有用指南
-
-### 算法的详细解释以及如何用 Python 构建模型的有用示例
-
-towardsdatascience.com](/logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2) 
+</logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2>  
 
 ## **3。具有两个独立变量的分类 NB**
 
@@ -294,20 +290,8 @@ towardsdatascience.com](/logistic-regression-in-python-a-helpful-guide-to-how-it
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 你可能喜欢的相关故事:
 
-[](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [## BBN:贝叶斯信念网络——如何用 Python 有效地构建它们？
-
-### 使用真实生活数据在 Python 中构建模型的贝叶斯信念网络的详细解释
-
-towardsdatascience.com](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [](/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f) [## GMM:高斯混合模型——如何成功地使用它对你的数据进行聚类？
-
-### GMM 的直观解释和有用的 Python 示例
-
-towardsdatascience.com](/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f)
+</bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba>  </gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f> 

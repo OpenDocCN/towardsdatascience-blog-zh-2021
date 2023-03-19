@@ -34,8 +34,4 @@
 
 要了解这些问题如何导致商业文件，请阅读苏在 Krispy Krabcakes 的冒险经历。她非常有趣，并为商业分析和架构提供了很好的基础。
 
-[](/so-you-want-to-be-a-data-engineer-c1c92dcf3234) [## 所以你想成为一名数据工程师
-
-### 你更好地理解架构和业务分析
-
-towardsdatascience.com](/so-you-want-to-be-a-data-engineer-c1c92dcf3234)
+</so-you-want-to-be-a-data-engineer-c1c92dcf3234> 

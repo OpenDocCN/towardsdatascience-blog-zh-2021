@@ -72,19 +72,11 @@
 
 我们之前的研究已经强调了 AFL 梦幻得分偏向于奖励中场球员而不是其他位置。
 
-[](https://medium.com/analytics-vidhya/where-afl-players-earn-their-fantasy-points-f587d259877f) [## AFL 玩家在这里赚取他们的梦幻积分
-
-### 利用主成分分析探讨玩家位置与幻想分数之间的关系
-
-medium.com](https://medium.com/analytics-vidhya/where-afl-players-earn-their-fantasy-points-f587d259877f) 
+<https://medium.com/analytics-vidhya/where-afl-players-earn-their-fantasy-points-f587d259877f>  
 
 基于这项研究，我们建立了一个模型，根据球场上特定位置的统计数据来推断比赛位置。
 
-[](https://medium.com/analytics-vidhya/using-location-statistics-to-identify-afl-player-positions-cf6d50572c96) [## 使用位置统计来识别 AFL 球员位置
-
-### 沃利在哪里…讲述玩家角色故事的统计数据
-
-medium.com](https://medium.com/analytics-vidhya/using-location-statistics-to-identify-afl-player-positions-cf6d50572c96) 
+<https://medium.com/analytics-vidhya/using-location-statistics-to-identify-afl-player-positions-cf6d50572c96>  
 
 我们将把玩家位置添加到我们的预期价值模型中。此外，为了测试本文的有效性，我们比较了使用 DT 头寸和我们内部模型生成的头寸的模型结果。
 
@@ -133,7 +125,7 @@ medium.com](https://medium.com/analytics-vidhya/using-location-statistics-to-ide
 
 在我们的下一篇研究文章中，我们将探索最近(2020)赛季球员的个人表现，并详细描述我们对 2021 赛季的预测。
 
-[](/lifecycle-of-an-afl-players-career-part-2-a4bf9bdb01a8) [## AFL 球员职业生涯的生命周期(第二部分)
+</lifecycle-of-an-afl-players-career-part-2-a4bf9bdb01a8> [## AFL 球员职业生涯的生命周期(第二部分)
 
 towardsdatascience.com](/lifecycle-of-an-afl-players-career-part-2-a4bf9bdb01a8) 
 

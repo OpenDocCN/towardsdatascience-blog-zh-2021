@@ -30,11 +30,7 @@ Never underestimate the capacity of a person, no matter how stupid, to do someth
 
 另一方面，当你在云中训练时，生活是容易的。硬件、存储、网络和软件基础架构都已准备就绪，随时可以使用。您有各种各样的 GPU(和其他加速器)可供选择，以及不同类型和版本的软件框架。在云中，你可以自由地扩展，运行尽可能多的并行实验，也可以扩展独立的训练课程，在许多 GPU 核心(或其他加速器)上并行运行。云中的存储容量几乎是无限的，让您不必再为满足不断增长的存储需求而头疼。此外，云产品通常包括基于其定制硬件或网络拓扑的独特优化。除了已经在管理自己的数据中心的大型组织之外，创建自己的经济高效的基础架构，并具有云中提供的相同的灵活性和复杂性，几乎是不可思议的。查看[此处](https://medium.com/@julsimon/making-amazon-sagemaker-and-tensorflow-work-for-you-893365184233)了解更多将培训迁移到云的优势和挑战。
 
-[](https://julsimon.medium.com/making-amazon-sagemaker-and-tensorflow-work-for-you-893365184233) [## 让 Amazon SageMaker 和 TensorFlow 为您服务
-
-### 这是 Mobileye 的机器学习算法开发人员 Chaim Rand 的客座博文。它构建于 AIM410R 之上…
-
-julsimon.medium.com](https://julsimon.medium.com/making-amazon-sagemaker-and-tensorflow-work-for-you-893365184233) 
+<https://julsimon.medium.com/making-amazon-sagemaker-and-tensorflow-work-for-you-893365184233>  
 
 ## 管理成本
 
@@ -56,11 +52,7 @@ julsimon.medium.com](https://julsimon.medium.com/making-amazon-sagemaker-and-ten
 
 不幸的是，在云中调试失败的应用程序，很少仅仅是在调试模式下运行您喜欢的 IDE。同时，我们快速识别和修复云运行中的错误的能力会对成本和生产率产生巨大影响。常识要求重新审视我们的调试过程，并使它们适应新的开发范式。应该对代码进行修改，以支持错误的快速再现。例如，保存中间模型检查点可能会缩短重新生成的时间，捕获输入张量可能有助于识别导致错误的输入和权重的精确组合，以及用于运行更详细的模型训练的专用调试标志可能有助于查明问题的根本原因。有关有效 TensorFlow 调试的更多详细信息，请参见此处的。
 
-[](/debugging-in-tensorflow-392b193d0b8) [## TensorFlow 中的调试
-
-### 如何在不失去理智的情况下调试 TensorFlow 训练程序
-
-towardsdatascience.com](/debugging-in-tensorflow-392b193d0b8) 
+</debugging-in-tensorflow-392b193d0b8>  
 
 ## 3.进行持续、深入的性能分析和优化
 
@@ -74,11 +66,7 @@ towardsdatascience.com](/debugging-in-tensorflow-392b193d0b8)
 
 有许多不同的工具和技术来进行性能分析，这些工具和技术根据开发环境的具体情况而有所不同。关于分析 TensorFlow 模型性能的更多细节，请参见[此处](/tensorflow-performance-analysis-314b56dceb59)。
 
-[](/tensorflow-performance-analysis-314b56dceb59) [## 张量流性能分析
-
-### 如何从您的培训资源中获得最大价值
-
-towardsdatascience.com](/tensorflow-performance-analysis-314b56dceb59) 
+</tensorflow-performance-analysis-314b56dceb59>  
 
 ## 4.在代码中引入容错
 
@@ -96,15 +84,7 @@ towardsdatascience.com](/tensorflow-performance-analysis-314b56dceb59)
 
 查看[此处](/upgrade-your-dnn-training-with-amazon-sagemaker-debugger-d302fab5ee61)和[此处](/the-tensorflow-keras-summary-capture-layer-cdc436cb74ef)了解更多关于 TensorFlow 中监控和自动监控的主题。
 
-[](/upgrade-your-dnn-training-with-amazon-sagemaker-debugger-d302fab5ee61) [## 使用 Amazon SageMaker 调试器升级您的 DNN 培训
-
-### 如何在云中培训时提高效率并降低成本
-
-towardsdatascience.com](/upgrade-your-dnn-training-with-amazon-sagemaker-debugger-d302fab5ee61) [](/the-tensorflow-keras-summary-capture-layer-cdc436cb74ef) [## TensorFlow Keras 汇总捕获图层
-
-### 在以前的帖子中，我告诉过你我在 Mobileye 的团队(正式名称是 Mobileye，一家英特尔公司)是如何…
-
-towardsdatascience.com](/the-tensorflow-keras-summary-capture-layer-cdc436cb74ef) 
+</upgrade-your-dnn-training-with-amazon-sagemaker-debugger-d302fab5ee61>  </the-tensorflow-keras-summary-capture-layer-cdc436cb74ef>  
 
 ## **6。采用先进的超参数调谐技术**
 

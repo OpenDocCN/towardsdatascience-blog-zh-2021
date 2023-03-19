@@ -18,11 +18,7 @@
 
 构建一个 web 应用程序来与您的机器学习模型进行交互是一个不错的主意。特别是，Streamlit 等工具允许数据科学家创建 web 应用程序，而无需任何 HTML、CSS 或 JavaScript 代码。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 然而，网络应用并不适合一些人。假设你对托管 web 应用程序有所顾虑。不用担心；不是死路一条。我们有一个后备方案，这确实是一个解决问题的可靠方案。
 
@@ -94,11 +90,7 @@ pip install typer
 
 我将使用 K-Means 算法，我在以前的帖子中讨论过。K-Means 是一种简单而强大的数据点聚类技术。
 
-[](/running-election-campaigns-with-k-means-clustering-ecc40a91135a) [## 用 K-均值聚类进行竞选活动。
-
-### K-均值聚类实用介绍。
-
-towardsdatascience.com](/running-election-campaigns-with-k-means-clustering-ecc40a91135a) 
+</running-election-campaigns-with-k-means-clustering-ecc40a91135a>  
 
 这是我们的应用程序的修改版本。我们创建了两个命令:一个用于训练和保存 K 均值模型，另一个用于加载和在预测中使用。注意，train 函数定义有一个参数 file_path。Typer 会将其转换为命令行参数。
 

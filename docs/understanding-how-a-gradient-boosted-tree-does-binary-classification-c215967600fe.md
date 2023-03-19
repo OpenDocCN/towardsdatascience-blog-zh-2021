@@ -253,8 +253,4 @@ log(0.4446064 / (1 - 0.4446064)) / 0.7 = 0.3178395
 
 **我不是说像 XGBoost，LightGBM 等型号。在任何方面都很简单。我们没有触及非常重要的一点:分割点是如何确定的。这些决定是最重要的，这些车型在这方面实现的**性能提升确实令人惊讶**。然而，我的观点是，一旦这些分裂点被确定，大部分的工作基本上只是一长串的算法，基于你，用户设置的超参数。**
 
-[](https://matepocs.medium.com/membership) [## 加入我的推荐链接-伴侣概念
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-matepocs.medium.com](https://matepocs.medium.com/membership)
+<https://matepocs.medium.com/membership> 

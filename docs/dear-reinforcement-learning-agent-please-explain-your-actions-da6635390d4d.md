@@ -66,11 +66,7 @@ PS:如果真的好奇，向下滚动到有 RL-Shap 图的部分；)
 
 在这篇文章中，深度强化学习与 SHAP 联姻(SHapley Additive exPlanations)[1]。DRL 增加了 SHAP 值，这有助于更好地理解习得性行动选择策略。通过 OpenAI Gym LongiControl 环境[2]演示了 SHAP 方法在 DRL 的应用。
 
-[](/do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e) [## 要不要用强化学习训练一辆简化的自动驾驶汽车？
-
-### 试试我们新的远程控制环境
-
-towardsdatascience.com](/do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e) 
+</do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e>  
 
 # 介绍
 
@@ -114,11 +110,7 @@ SHAP 提供了一种博弈论的方法来解释机器学习模型的输出。对
 
 有关该环境的更详细介绍，我可以向您推荐以下文章:
 
-[](/do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e) [## 要不要用强化学习训练一辆简化的自动驾驶汽车？
-
-### 试试我们新的远程控制环境
-
-towardsdatascience.com](/do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e) 
+</do-you-want-to-train-a-simplified-self-driving-car-with-reinforcement-learning-be1263622e9e>  
 
 # 方法
 
@@ -198,8 +190,4 @@ RL-SHAP 图。垂直虚线突出显示了上图中分析的状态
 
 [6]沙普利，L. (1953 年)。n 人游戏的价值。对博弈论的贡献 2，28:307–317。
 
- [## 德国萨克森州 Roman liener-Dresden 博士|专业简介| LinkedIn
-
-### 查看 Roman liener 博士在 LinkedIn 上的专业简介。LinkedIn 是世界上最大的商业网络，帮助…
-
-www.linkedin.com](https://www.linkedin.com/in/dr-roman-lie%C3%9Fner-56346113b/)
+ 

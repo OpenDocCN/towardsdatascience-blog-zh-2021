@@ -84,14 +84,6 @@ Tableau 软件如何入门？Tableau 有四个主要产品选项可供选择: [T
 
 如果你喜欢这个，你可能也会喜欢:
 
-[](/the-one-piece-of-advice-that-changed-my-life-as-a-data-scientist-4bb0d3e67b88) [## 作为一名数据科学家，一条建议改变了我的生活
-
-### 如果你不能创造价值，编程是没有价值的
-
-towardsdatascience.com](/the-one-piece-of-advice-that-changed-my-life-as-a-data-scientist-4bb0d3e67b88) [](/why-smart-data-scientists-keep-failing-basic-data-science-interviews-3a0f70f1fad8) [## 为什么智能数据科学家总是在基础数据科学面试中失败
-
-### 如何抓住每一个工作机会
-
-towardsdatascience.com](/why-smart-data-scientists-keep-failing-basic-data-science-interviews-3a0f70f1fad8) [](/sql-skills-if-mastered-will-get-you-better-data-science-opportunities-9f912d4f88d3) [## SQL 技能(如果掌握的话)会让你获得更好的数据科学机会
+</the-one-piece-of-advice-that-changed-my-life-as-a-data-scientist-4bb0d3e67b88>  </why-smart-data-scientists-keep-failing-basic-data-science-interviews-3a0f70f1fad8>  </sql-skills-if-mastered-will-get-you-better-data-science-opportunities-9f912d4f88d3> [## SQL 技能(如果掌握的话)会让你获得更好的数据科学机会
 
 towardsdatascience.com](/sql-skills-if-mastered-will-get-you-better-data-science-opportunities-9f912d4f88d3)

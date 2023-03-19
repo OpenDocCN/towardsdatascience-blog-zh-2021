@@ -154,18 +154,10 @@
 
 这里是一个开始的好地方:
 
-[](/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464) [## 解释了最完整的神经网络图
-
-### 神经网络类型的动物园呈指数增长。人们需要一张地图在众多新兴架构之间导航…
-
-towardsdatascience.com](/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464) 
+</the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464>  
 
 我真的希望你喜欢这个小教程！如果你觉得有用或有趣，请随意评论，并[订阅](https://medium.com/@andrew.tchircoff)关于机器学习和其他技术主题的未来文章:)
 
 *****获取完整 R 脚本:**
 
-[](https://github.com/tristanoprofetto/neural-networks/tree/main/ANN/Regressor) [## 神经网络/ANN/tristanofetto 主回归器/神经网络
-
-### 使用深度学习库来实现针对不同类型数据优化的各种网络架构…
-
-github.com](https://github.com/tristanoprofetto/neural-networks/tree/main/ANN/Regressor)
+<https://github.com/tristanoprofetto/neural-networks/tree/main/ANN/Regressor> 

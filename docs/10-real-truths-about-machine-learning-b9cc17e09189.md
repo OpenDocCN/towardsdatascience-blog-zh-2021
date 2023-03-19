@@ -40,7 +40,7 @@ AutoML 只是为了让数据科学家的事情变得更简单，比如协助他�
 
 **要点:**之前，我发表过一篇关于 AutoML 的文章。你可以阅读它来找到更多的信息。以下是链接:
 
-[](/automl-will-not-replace-your-data-science-profession-52753a4a53ed) [## AutoML 不会取代你的数据科学职业
+</automl-will-not-replace-your-data-science-profession-52753a4a53ed> [## AutoML 不会取代你的数据科学职业
 
 towardsdatascience.com](/automl-will-not-replace-your-data-science-profession-52753a4a53ed) 
 
@@ -50,11 +50,7 @@ towardsdatascience.com](/automl-will-not-replace-your-data-science-profession-52
 
 **关键要点:**如果你是机器学习新手，我推荐你先学习 Scikit-learn。这将为你的学习之路打下坚实的基础。然后，尝试学习 TensorFlow 库。以下是开始使用 Scikit-learn 的方法(由我编写):
 
-[](/9-guidelines-to-master-scikit-learn-without-giving-up-in-the-middle-5102863d89d7) [## 掌握 Scikit 的 9 个指南——学而不中途放弃
-
-### 学习适合我的方法
-
-towardsdatascience.com](/9-guidelines-to-master-scikit-learn-without-giving-up-in-the-middle-5102863d89d7) 
+</9-guidelines-to-master-scikit-learn-without-giving-up-in-the-middle-5102863d89d7>  
 
 ## 真相 7:数据科学家不需要知道机器学习算法的内在数学。
 

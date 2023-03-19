@@ -62,4 +62,4 @@ Timnit Gebru 博士为谷歌工作，研究人工智能的伦理及其偏见。�
 
 正如我们一次又一次看到的那样，大型科技公司在道德监督方面并不擅长，尤其是如果这损害了它们的财务利益。虽然这项技术本身令人难以置信，但我担心这些算法可能会继续走目前有问题的道路。
 
-*嗨！我曾经是一名研究生和记者，发表了多份科学论文*[](https://scholar.google.ca/citations?user=CAQC6BEAAAAJ&hl=en)**研究神经科学和微生物组。如果你想在 Medium 上阅读更多的故事，你可以在这里用* [*会员身份订阅*](https://medium.com/@simonspichak/membership) *。你可以找到我关于媒介、大规模科学、未来主义和耐心的作品。如果你对我的写作感兴趣，你可以在这里阅读更多的*[](http://linktr.ee/simonspichak)**或者在我的* [*子专栏*](http://simonspichak.substack.com/) *上注册，获得我的故事的双周刊综述。***
+*嗨！我曾经是一名研究生和记者，发表了多份科学论文*<https://scholar.google.ca/citations?user=CAQC6BEAAAAJ&hl=en>**研究神经科学和微生物组。如果你想在 Medium 上阅读更多的故事，你可以在这里用* [*会员身份订阅*](https://medium.com/@simonspichak/membership) *。你可以找到我关于媒介、大规模科学、未来主义和耐心的作品。如果你对我的写作感兴趣，你可以在这里阅读更多的*<http://linktr.ee/simonspichak>**或者在我的* [*子专栏*](http://simonspichak.substack.com/) *上注册，获得我的故事的双周刊综述。***

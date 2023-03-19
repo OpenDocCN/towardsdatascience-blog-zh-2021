@@ -142,11 +142,7 @@ TaskGroup 允许我们通过单击来展开和折叠任何任务组:
 
 我在下面的文章中详细讨论了这个问题和可能的解决方案:
 
-[](/managing-dependencies-between-data-pipelines-in-apache-airflow-prefect-f4eba65886df) [## 管理 Apache Airflow & Prefect 中数据管道之间的依赖关系
-
-### 许多工作流调度程序允许我们在单个数据管道中管理依赖关系。但是如果你有依赖怎么办…
-
-towardsdatascience.com](/managing-dependencies-between-data-pipelines-in-apache-airflow-prefect-f4eba65886df) 
+</managing-dependencies-between-data-pipelines-in-apache-airflow-prefect-f4eba65886df>  
 
 你可以在上面链接的文章的评论部分找到我和 Jarek Potiuk 的讨论。
 
@@ -184,11 +180,7 @@ towardsdatascience.com](/managing-dependencies-between-data-pipelines-in-apache-
 
 新的抽象可能意味着**过早地转移到解决方案领域** ( *即，在完全理解问题领域 ( *理解最终用户及其需求*)之前实现诸如任务流或任务组* ) **之类的特性。早在 2018 年 8 月，Bluecore Engineering 的开发人员就写了一篇著名的文章，其中他们强调了为什么他们在公司采用 Airflow 时遇到困难，以及什么可能有助于解决这些问题。**
 
-[](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) [## 我们都在错误地使用气流，如何修复它
-
-### TL；dr:只使用 Kubernetes 运算符
-
-medium.com](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) 
+<https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753>  
 
 下面是这篇文章的一个简短引用:
 
@@ -210,15 +202,7 @@ medium.com](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong
 
 我以前的一些关于气流的文章:
 
-[](/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c) [## Apache Airflow 2.0 是否足以满足当前的数据工程需求？
-
-### 新版本中有什么变化:气流 2.0
-
-towardsdatascience.com](/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c) [](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) [## AWS 上的托管 Apache 气流—针对数据管道的新 AWS 服务
-
-### 面向 Apache Airflow (MWAA)的 AWS 托管工作流现已推出，值得一试吗？
-
-towardsdatascience.com](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) 
+</is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c>  </managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc>  
 
 **参考资料&附加资源**
 

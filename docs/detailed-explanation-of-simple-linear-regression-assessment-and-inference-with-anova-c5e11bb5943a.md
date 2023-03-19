@@ -106,11 +106,7 @@ Sy 是“y”变量的样本标准偏差
 
 请随意下载该数据集并跟随:
 
-[](https://github.com/rashida048/Simple-Linear-Regression/blob/main/arm_leg.csv) [## main rashida048 处的简单线性回归/arm _ leg . CSV/简单线性回归
-
-### SLR 模型开发、评估和推理，在 R-Simple-Linear-Regression/arm _ leg . CSV 主…
-
-github.com](https://github.com/rashida048/Simple-Linear-Regression/blob/main/arm_leg.csv) 
+<https://github.com/rashida048/Simple-Linear-Regression/blob/main/arm_leg.csv>  
 
 这里有一个线性趋势。让我们看看是否可以使用数据开发一个线性回归方程，该方程可以使用臂长合理地预测腿长。
 
@@ -319,11 +315,7 @@ p 值是可以观察到的检验统计的观察值或更极端值的概率。
 
 请随意从此链接下载 excel 文件，这样您就可以看到实现和公式:
 
-[](https://github.com/rashida048/Simple-Linear-Regression/blob/main/ss_ms_total.xlsx) [## 简单线性回归/ss _ ms _ total . xlsx at main rashida 048/简单线性回归
-
-### 在 R -简单线性回归/ss_ms_total.xlsx 中的 SLR 模型开发、评估和推断主要…
-
-github.com](https://github.com/rashida048/Simple-Linear-Regression/blob/main/ss_ms_total.xlsx) 
+<https://github.com/rashida048/Simple-Linear-Regression/blob/main/ss_ms_total.xlsx>  
 
 注意在表的末尾。我们使用公式计算了“总 SS ”,并将其作为“Reg SS”和“Res SS”的总和。两个“总 SS”几乎相同(490.395 和 490.372)。我们可以使用其中任何一个。从该表中:
 
@@ -351,11 +343,7 @@ r 平方调整= 1–8.187/(s _ leg)* * 2 = 0.5159
 
 但是我们只研究了 30 个样本，并在这 30 个样本上开发了模型。如果我们想从中推断出关于总人口的结论，我们需要假设检验。下面是一篇关于假设检验概念的详细文章:
 
-[](/a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e) [## 数据科学家使用 Python 进行假设检验的完整指南
-
-### 用样本研究问题、解决步骤和完整代码清楚地解释
-
-towardsdatascience.com](/a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e) 
+</a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e>  
 
 在这个例子中，我们将使用我们之前描述的 ANOVA 表进行假设检验。
 
@@ -387,11 +375,7 @@ beta1！= 0
 
 设置显著性水平α= 0.05。这意味着 95%的置信度。如果您需要重温置信区间的概念，请查看这篇文章:
 
-[](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) 
+</a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593>  
 
 **第二步:**
 
@@ -427,11 +411,7 @@ qf(0.95, df1 = 1, df2 = 28)
 
 请随意下载我做这些计算的原始 excel 文件:
 
-[](https://github.com/rashida048/Simple-Linear-Regression/blob/main/anova%20table.xlsx) [## 简单线性回归/ANOVA table . xlsx at main rashida 048/简单线性回归
-
-### SLR 模型的发展，评估和推断在 R -简单线性回归/方差分析表。xlsx 在主要…
-
-github.com](https://github.com/rashida048/Simple-Linear-Regression/blob/main/anova%20table.xlsx) 
+<https://github.com/rashida048/Simple-Linear-Regression/blob/main/anova%20table.xlsx>  
 
 注意，我没有计算表中的 p 值。因为我想在这里展示计算。我将使用 R 从 F 统计量计算 p 值。
 

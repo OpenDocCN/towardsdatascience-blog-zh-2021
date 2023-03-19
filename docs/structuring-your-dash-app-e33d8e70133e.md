@@ -22,7 +22,7 @@
 
 如果这种工具看起来很多，确实很多。但是，如果你不愿意，你不需要把它都写出来。我们不仅在下面的回购中提供了代码，而且还将其作为模板。所以，你可以点击“使用这个模板”按钮，按照指示开始编辑`app/`目录中的代码。
 
-[](https://github.com/edkrueger/dash-template) [## GitHub-edkrueger/dash-模板
+<https://github.com/edkrueger/dash-template> [## GitHub-edkrueger/dash-模板
 
 github.com](https://github.com/edkrueger/dash-template) 
 
@@ -62,11 +62,7 @@ pipenv 提供的功能使部署您的应用程序变得更加容易。如果您�
 pip install pipenv
 ```
 
-[](/virtual-environments-for-data-science-running-python-and-jupyter-with-pipenv-c6cb6c44a405) [## 数据科学的虚拟环境:使用 Pipenv 运行 Python 和 Jupyter
-
-### 为 Python 设置虚拟环境。
-
-towardsdatascience.com](/virtual-environments-for-data-science-running-python-and-jupyter-with-pipenv-c6cb6c44a405) 
+</virtual-environments-for-data-science-running-python-and-jupyter-with-pipenv-c6cb6c44a405>  
 
 ## 属国
 
@@ -163,11 +159,7 @@ pipenv 包再次用于运行预提交钩子。你开始明白我们为什么推�
 
 如果你想阅读更多关于预提交钩子的内容，可以看看我们下面的文章。
 
-[](/getting-started-with-python-pre-commit-hooks-28be2b2d09d5) [## Python 预提交挂钩入门
-
-### 定义拒绝不符合要求的提交的规则。
-
-towardsdatascience.com](/getting-started-with-python-pre-commit-hooks-28be2b2d09d5) 
+</getting-started-with-python-pre-commit-hooks-28be2b2d09d5>  
 
 ## 环境变量
 
@@ -269,16 +261,12 @@ git commit -m "your-message"
 
 如果你想更仔细地观察和更深入地理解这个过程，看看我们下面的文章。*注意:我们使用一些不同的工具，但是概念是相同的。*
 
-[](/ci-cd-by-example-in-python-46f1533cb09d) [## Python 中的 CI/CD 示例
-
-### 用 Python 简单演示了 CI/CD，带有诗歌和预提交钩子
-
-towardsdatascience.com](/ci-cd-by-example-in-python-46f1533cb09d) 
+</ci-cd-by-example-in-python-46f1533cb09d>  
 
 我们的下一篇文章将带您了解如何使用 Google 的应用引擎服务部署 Dash 应用。在这个平台上部署很方便，因为不需要对你的应用进行 Dockerize，而在部署到谷歌的云运行和计算引擎服务时，这是必要的。
 
 我们希望你喜欢这篇文章！有关数据科学、机器学习和开发的更多内容，请查看 [Edward 的 YouTube 频道](https://www.youtube.com/channel/UCmvdvjDaSjjMRIAxE5s7EZA)并订阅我下面的邮件列表，成为第一个听到新文章的人！
 
-[](https://edkruegerdata.com/subscribe) [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
+<https://edkruegerdata.com/subscribe> [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
 
 edkruegerdata.com](https://edkruegerdata.com/subscribe)

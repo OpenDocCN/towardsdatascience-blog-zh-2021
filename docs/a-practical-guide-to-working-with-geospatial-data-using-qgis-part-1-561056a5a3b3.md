@@ -234,16 +234,4 @@ shapefile 中的所有几何图形都使用多边形显示。此 shapefile 还�
 
 # 参考
 
-[](https://earthdata.nasa.gov/eosdis/daacs/sedac) [## 社会经济数据和应用中心|地球数据
-
-### 美国宇航局的社会经济数据和应用中心(SEDAC)由国际地球科学中心运营…
-
-earthdata.nasa.gov](https://earthdata.nasa.gov/eosdis/daacs/sedac) [](https://sedac.ciesin.columbia.edu/data/set/india-india-village-level-geospatial-socio-econ-1991-2001/data-download) [## 印度数据收集
-
-### 1991 年和 2001 年的文件在 Shapefile(.shp)和地理数据库(。gdb)格式。提供了 22 个和 28 个州的数据…
-
-sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu/data/set/india-india-village-level-geospatial-socio-econ-1991-2001/data-download)  [## qgis -谷歌搜索
-
-### 如果您在几秒钟内没有被重定向，请单击此处。QGIS 是一个免费和开源的跨平台桌面…
-
-www.google.com](https://www.google.com/search?q=qgis&oq=qgis&aqs=chrome.0.69i59l4j69i57j69i60l3.657j0j4&sourceid=chrome&ie=UTF-8)
+<https://earthdata.nasa.gov/eosdis/daacs/sedac>  <https://sedac.ciesin.columbia.edu/data/set/india-india-village-level-geospatial-socio-econ-1991-2001/data-download>   

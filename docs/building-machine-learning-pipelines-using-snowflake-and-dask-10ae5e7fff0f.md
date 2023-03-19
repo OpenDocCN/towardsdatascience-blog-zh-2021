@@ -265,18 +265,6 @@ python -m ml_pipeline -w 102 -j 'train'
 
 # 我的其他一些帖子你可能会感兴趣
 
-[](/lets-build-a-streaming-data-pipeline-e873d671fc57) [## 让我们建立一个流数据管道
-
-### 用于实时数据管道的 Apache Beam 和数据流
-
-towardsdatascience.com](/lets-build-a-streaming-data-pipeline-e873d671fc57) [](/gaussian-mixture-modelling-gmm-833c88587c7f) [## 高斯混合模型(GMM)
-
-### 使用无监督学习理解文本数据
-
-towardsdatascience.com](/gaussian-mixture-modelling-gmm-833c88587c7f) [](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7) [## 时间序列预测的贝叶斯方法
-
-### 今天，我们将从头开始在 R 中实现贝叶斯线性回归，并使用它来预测美国的 GDP 增长…
-
-towardsdatascience.com](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7) 
+</lets-build-a-streaming-data-pipeline-e873d671fc57>  </gaussian-mixture-modelling-gmm-833c88587c7f>  </a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7>  
 
 *注意:这篇文章中的一些链接是附属链接。*

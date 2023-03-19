@@ -26,11 +26,7 @@ A pache Airflow 是构建数据工程工作负载的常用平台。部署气流�
 
 自 2020 年 12 月起，AWS 为阿帕奇气流提供名为 MWAA 的全面托管服务。在本演示中，我们将构建一个 MWAA 环境和一个持续交付流程来部署数据管道。如果您想了解更多关于 AWS 上的托管 Apache 气流的信息，请阅读下面的文章:
 
-[](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) [## AWS 上的托管 Apache 气流—针对数据管道的新 AWS 服务
-
-### 面向 Apache Airflow (MWAA)的 AWS 托管工作流现已推出，值得一试吗？
-
-towardsdatascience.com](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) 
+</managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc>  
 
 我们从**在 AWS 管理控制台中创建一个气流环境**开始。整个过程是自动化的，你只需要点击一个按钮来部署一个 CloudFormation 堆栈，它将**创建一个 VPC** 和所有相关的组件，然后填充一些关于**你想要构建的实际环境**的细节。环境类，工人节点的最大数量)。
 

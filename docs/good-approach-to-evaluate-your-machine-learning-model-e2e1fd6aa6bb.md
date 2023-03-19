@@ -8,11 +8,7 @@
 
 即使可以使用[多种指标和评分方法](https://scikit-learn.org/stable/modules/model_evaluation.html)，理解我(可能还有许多其他人)面临的问题的正确指标仍然具有挑战性。这就是为什么我在大部分 ML 模型质量评估中使用飞贼 AI 的原因。在过去的两年里，我一直是开发飞贼 AI 的积极成员。
 
-[](https://snit.ch?utm_source=blogOlivier&utm_medium=referral&utm_campaign=abetterapproach) [## 机器学习模型验证工具|飞贼 AI
-
-### 让您的数据科学团队能够交付强大、值得信赖的人工智能。在异常情况影响您的业务之前检测到它们。
-
-snit.ch](https://snit.ch?utm_source=blogOlivier&utm_medium=referral&utm_campaign=abetterapproach) 
+<https://snit.ch?utm_source=blogOlivier&utm_medium=referral&utm_campaign=abetterapproach>  
 
 让我用一个例子来解释为什么选择正确的指标如此重要:使用 UC Irvine 机器学习存储库中集中的数据生成一个可以预测公司破产的模型。该数据集名为[台湾破产预测](https://archive-beta.ics.uci.edu/ml/datasets/taiwanese+bankruptcy+prediction)(由 CC 4.0 授权)，利用了《台湾经济日报》1999 年至 2009 年的破产数据。
 

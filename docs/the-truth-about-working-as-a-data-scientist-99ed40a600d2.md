@@ -114,15 +114,7 @@
 
 最后，这里有一些额外的资源可以帮助你开始进入这个令人惊奇的领域:
 
-[](/5-tips-for-making-the-transition-from-psychologist-to-data-scientist-8198fbbbb19e) [## 从心理学家转变为数据科学家的 5 个技巧
-
-### 以及如何做到这两点。
-
-towardsdatascience.com](/5-tips-for-making-the-transition-from-psychologist-to-data-scientist-8198fbbbb19e) [](/why-psychologists-can-be-great-data-scientists-970552b5223) [## 为什么心理学家可以成为伟大的数据科学家
-
-### 心理学和数据科学的交叉点
-
-towardsdatascience.com](/why-psychologists-can-be-great-data-scientists-970552b5223) 
+</5-tips-for-making-the-transition-from-psychologist-to-data-scientist-8198fbbbb19e>  </why-psychologists-can-be-great-data-scientists-970552b5223>  
 
 # 感谢您的阅读！
 

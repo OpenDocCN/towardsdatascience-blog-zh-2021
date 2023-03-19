@@ -106,11 +106,7 @@ Levenshtein.distance(
 
 由于 Chatterbot 的机器学习分类器，我们的聊天机器人可以进一步使用对话的**上下文**从预定义的消息列表中选择希望的最佳响应。所以我们的聊天机器人不仅知道颜色和色彩很可能是相同的，而且机器人应该进一步知道鞋子和衣服密切相关(即使我们以前从未用衣服这个词训练过我们的聊天机器人)。这方面的理论背景超出了本文的范围，但我们可以理解，主要是由于 NLTK(自然语言工具包)和余弦相似性，我们的聊天机器人语料库理解了鞋子和衣服之间的联系。看看这个令人印象深刻的视觉化图像，了解一下高维单词向量空间的概念:
 
-[](http://projector.tensorflow.org) [## 嵌入式投影仪-高维数据的可视化
-
-### 可视化高维数据。
-
-projector.tensorflow.org](http://projector.tensorflow.org) ![](img/720334e0ccdc59d6ef362b03b26e5868.png)
+<http://projector.tensorflow.org>  ![](img/720334e0ccdc59d6ef362b03b26e5868.png)
 
 “鞋”被理解为与“衣”、“衣”、“穿”、“穿”非常相似(截图来自[projector.tensorflow.org](http://projector.tensorflow.org))
 
@@ -128,10 +124,6 @@ projector.tensorflow.org](http://projector.tensorflow.org) ![](img/720334e0ccdc5
 
 目前，非常感谢阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+<https://jesko-rehberg.medium.com/membership>  
 
 最初发表在我的网站 [DAR-Analytics](http://dar-analytics.com/) 。

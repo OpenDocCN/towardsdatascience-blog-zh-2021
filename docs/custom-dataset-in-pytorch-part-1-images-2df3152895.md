@@ -139,20 +139,8 @@ torch.Size([64])
 
 # 更多来自作者
 
-[](/custom-datasets-in-pytorch-part-2-text-machine-translation-71c41a3e994e) [## Pytorch 中的自定义数据集—第 2 部分。文本(机器翻译)
-
-### 在本系列的第一部分中，我们学习了加载自定义图像数据集。在那篇文章中，我们也谈到了一些…
-
-towardsdatascience.com](/custom-datasets-in-pytorch-part-2-text-machine-translation-71c41a3e994e) [](https://medium.com/@ug2409/a-non-technical-introduction-to-reinforcement-learning-part-1-62373183b2bc) [## 强化学习的非技术性介绍(第 1 部分)
-
-### 没有数学。我保证。好吧，刚刚意识到，有一些。
-
-medium.com](https://medium.com/@ug2409/a-non-technical-introduction-to-reinforcement-learning-part-1-62373183b2bc) 
+</custom-datasets-in-pytorch-part-2-text-machine-translation-71c41a3e994e>  <https://medium.com/@ug2409/a-non-technical-introduction-to-reinforcement-learning-part-1-62373183b2bc>  
 
 ## 参考
 
- [## 数据集和数据加载器- PyTorch 教程 1.9.0+cu102 文档
-
-### 了解基础知识||快速入门||张量||数据集和数据加载器||转换||构建模型||自动签名||…
-
-pytorch.org](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+ 

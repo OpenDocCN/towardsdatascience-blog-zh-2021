@@ -16,11 +16,7 @@ Pandas 库是 Python 中用于数据分析过程的最佳特性之一。您可�
 
 建议阅读本指南的用户使用 Jupyter 笔记本来阅读本文中提到的大部分代码，以获得最佳体验。如果您不确定 Jupyter 笔记本的概念，请查看下面提供的链接，了解您需要了解的关于 Jupyter 笔记本以及如何有效利用它们的几乎所有信息。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 在接下来的章节中，让我们开始探索数据科学家可以在 Pandas 库中使用的每一个功能和操作。
 
@@ -45,11 +41,7 @@ df
 
 最后，您可以使用 Pandas 模块中可用的 DataFrame 函数来构建数据集，并以理想的格式存储它。在 just 列表的帮助下，下面的过程也是可能的。要了解更多关于词典的知识以及如何掌握它们，我推荐你从下面提到的链接中查阅我以前的一篇文章。
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 # 2.读取 CSV 文件:
 
@@ -105,11 +97,7 @@ df.describe()
 
 借助于通过一个命令收集的所有这些关键信息，我们可以利用这些统计数据来简化我们的整体数据分析过程。有了这些数据，我们还可以了解哪些是可以探索的最佳可视化技术。要了解构建数据科学项目时必须考虑的八种最佳可视化方法的更多信息，请查看下面的文章。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 # 6.编写 CSV 文件:
 
@@ -201,11 +189,7 @@ df = pd.DataFrame(dataset)df.sort_values(by = ["Supply"])
 
 Pandas 库还允许用户对他们的数据进行相应的排序，类似于列表这样的数据结构。我们可以向您推荐 Pandas 中可用的排序值功能，并提及您希望对整个数据集进行排序并按其各自的升序排列的特定列。如果你想了解更多关于掌握列表和与列表相关的大多数操作，请查看下面提到的文章。
 
-[](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</mastering-python-lists-for-programming-5423b011d937>  
 
 # 12.应用特定计算:
 
@@ -259,21 +243,9 @@ Pandas 库框架是 Python 编程中最好的工具之一。在该模块的帮�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
+</7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  </15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  </best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8> [## 在各种预算范围内，最适合深度学习的电脑
 
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
-
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [## 6 个最佳图像处理项目和有用的资源
+towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977> [## 6 个最佳图像处理项目和有用的资源
 
 towardsdatascience.com](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) 
 

@@ -80,16 +80,4 @@
 
 如果你想了解更多关于这些话题的内容，以下是我的一些文章:
 
-[](/state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2) [## 2021 年 5 月底语音合成的技术水平
-
-### 在 2021 年 5 月底展示语音合成研究(也称为文本到语音)的最新技术水平…
-
-towardsdatascience.com](/state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2) [](/14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8) [## 选择聊天机器人解决方案的 14 个标准
-
-### 选择自然语言会话辅助解决方案时，首先要考虑的标准是什么？
-
-towardsdatascience.com](/14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8) [](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc) [## 2020 年全球聊天机器人解决方案市场概述
-
-### 根据我对会话助手市场的积极观察，我给你一些关于……的统计数据和信息
-
-towardsdatascience.com](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc)
+</state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2>  </14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8>  </an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc> 

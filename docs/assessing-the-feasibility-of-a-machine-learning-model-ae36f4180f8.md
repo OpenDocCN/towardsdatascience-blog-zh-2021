@@ -90,11 +90,7 @@
 
 当把项目分解成步骤时，我也喜欢在早期加入一些快速见效的东西。对于企业来说，交付增量价值的项目计划比最终只交付价值的项目计划更容易接受。
 
-[](/keep-the-clock-running-on-your-data-science-project-dac26f8f0f69) [## 保持数据科学项目的正常运行
-
-### 速赢如何为突破赢得时间
-
-towardsdatascience.com](/keep-the-clock-running-on-your-data-science-project-dac26f8f0f69) 
+</keep-the-clock-running-on-your-data-science-project-dac26f8f0f69>  
 
 **车型生命周期**
 
@@ -104,11 +100,7 @@ towardsdatascience.com](/keep-the-clock-running-on-your-data-science-project-dac
 
 您详细的 LOE 评估是提出员工请求的重要工具。比如说，你可以展示一个有 3 个头的时间线和一个有 4 个头的时间线。如果你是一个需要[从零开始建立数据科学团队的团队，](https://skillenai.com/2020/12/09/build-a-data-science-team-from-scratch/)你也可以展示一个时间表。
 
-[](https://skillenai.com/2020/12/09/build-a-data-science-team-from-scratch/) [## 从零开始建立数据科学团队| Skillenai
-
-### 您的组织正在开始 it 分析或人工智能之旅吗？第一步是建立数据科学…
-
-skillenai.com](https://skillenai.com/2020/12/09/build-a-data-science-team-from-scratch/) 
+<https://skillenai.com/2020/12/09/build-a-data-science-team-from-scratch/>  
 
 # 结论
 

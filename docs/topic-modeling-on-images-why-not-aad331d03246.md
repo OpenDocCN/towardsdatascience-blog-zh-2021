@@ -38,11 +38,7 @@
 
 一幅图像比一千个字更能说明问题。但是如果我们给图像添加文字呢？这两种沟通方式的协同作用可以丰富对一个概念的解释和理解。
 
-[](https://colab.research.google.com/drive/1XHwQPT2itZXu1HayvGoj60-xAXxg9mqe?usp=sharing) [## 概念建模教程
-
-### Concept 是一种利用基于 CLIP 和 BERTopic 的技术对图像和文本进行概念建模的技术。
-
-colab.research.google.com](https://colab.research.google.com/drive/1XHwQPT2itZXu1HayvGoj60-xAXxg9mqe?usp=sharing) 
+<https://colab.research.google.com/drive/1XHwQPT2itZXu1HayvGoj60-xAXxg9mqe?usp=sharing>  
 
 在本文中，我将介绍使用[概念](https://github.com/MaartenGr/Concept)创建您自己的概念模型的步骤。你可以跟随上面链接中的 Google Colab 笔记本。
 
@@ -158,12 +154,4 @@ pip install concept
 
 您可以在下面找到 Concept 及其文档:
 
-[](https://github.com/MaartenGr/Concept) [## 概念建模:图像和文本的主题建模
-
-### Concept 是一种利用基于 CLIP 和 BERTopic 的技术对图像和文本进行概念建模的技术。
-
-github.com](https://github.com/MaartenGr/Concept) [](https://maartengr.github.io/Concept/) [## 概念文档
-
-### Concept 是一种利用基于 CLIP 和 BERTopic 的技术对图像和文本进行概念建模的技术。
-
-maartengr.github.io/Concept](https://maartengr.github.io/Concept/)
+<https://github.com/MaartenGr/Concept>  <https://maartengr.github.io/Concept/> 

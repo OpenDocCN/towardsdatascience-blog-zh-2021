@@ -88,12 +88,4 @@
 
 **我希望这些建议有所帮助！以下是一些你可能感兴趣的其他文章:**
 
-[](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [## 如何在简历中加入数据科学的第一点经验
-
-### 为有抱负的数据科学家解决先有鸡还是先有蛋的问题
-
-towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
-
-towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [](/making-your-data-science-resume-stand-out-119d2eb37d8c) [## 让你的数据科学简历脱颖而出
-
-towardsdatascience.com](/making-your-data-science-resume-stand-out-119d2eb37d8c)
+</how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace>  </why-your-data-science-portfolio-project-sucks-208ee830ad1b> 

@@ -91,11 +91,7 @@
 
 > 您应该在 [ERP](https://www.youtube.com/shorts/v0_R8P6MLQ0) 中设置每个补货 Qi 的哪个**数量以最小化总成本？**
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。构建您的模型
 
@@ -177,11 +173,7 @@ For 100 Iterations
 -> Integer Solution: **$29,221.3** with a maximum inventory of 356 cartons
 ```
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 三。结论和后续步骤
 
@@ -195,11 +187,7 @@ samirsaci.com](http://samirsaci.com)
 
 如果我们有你的需求的随机分布，我们想避免缺货怎么办？在下面的文章中，您可以找到一种简单的方法来建立补货规则，假设您的需求是随机分布的。
 
-[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) [## 零售库存管理——随机需求
-
-### 供应链优化模拟安全库存水平对库存管理绩效指标的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) 
+<https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/>  
 
 ## 后续步骤
 
@@ -215,11 +203,7 @@ www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-sto
 *   非线性采购成本
 *   更高的最小订购量
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 *欢迎随时联系我，我愿意就数据科学和供应链相关话题进行分享和交流。*
 
@@ -229,11 +213,7 @@ samirsaci.com](https://samirsaci.com)
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

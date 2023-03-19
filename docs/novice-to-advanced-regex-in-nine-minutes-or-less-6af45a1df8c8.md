@@ -248,11 +248,7 @@ OR 操作数允许我们指定不同的允许捕获组。因此，也许我们�
 
 ***快注*** —我把下面三种方法涵盖的相当快，应该够了。但是，如果您想更深入地了解这些，我在这里会更深入地介绍它们:
 
-[](/step-up-your-regex-game-in-python-1ec20c5d65f) [## 用 Python 升级你的正则表达式游戏
-
-### Python 中使用正则表达式的高级文本操作
-
-towardsdatascience.com](/step-up-your-regex-game-in-python-1ec20c5d65f) 
+</step-up-your-regex-game-in-python-1ec20c5d65f>  
 
 # 前瞻/后见断言
 

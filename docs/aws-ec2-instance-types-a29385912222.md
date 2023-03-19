@@ -52,28 +52,12 @@ AWS 提供了不同类型的 EC2 实例类型，这些实例类型经过了优�
 
 EC2 有大量不同的 EC2 实例，有时在亚马逊网站上比较它们可能会很耗时。以下网站为**比较 EC2 实例指标和定价**提供了一种非常直观的方式，请务必查看。
 
- [## Amazon EC2 实例比较
-
-### 名称 API 名称内存计算单元(ECU)每个 vCPU 的内存 GiB GPU 型号 GPU 内存 CUDA 计算能力 FPGAs
-
-ec2instances.info](https://ec2instances.info) 
+  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/types-of-cloud-computing-952ae75e07c9) [## 云计算的类型
-
-### 了解云计算类型以及 IaaS、PaaS 和 SaaS 之间的区别
-
-towardsdatascience.com](/types-of-cloud-computing-952ae75e07c9) [](/deployment-models-cloud-computing-b17fe1e58d44) [## 云计算中的部署模型
-
-### 了解私有云、公共云和混合云之间的区别
-
-towardsdatascience.com](/deployment-models-cloud-computing-b17fe1e58d44)
+</types-of-cloud-computing-952ae75e07c9>  </deployment-models-cloud-computing-b17fe1e58d44> 

@@ -133,54 +133,14 @@ K-NNC 分类报告-作者图片
 
 本文中使用的代码可以从下面的 GitHub 库获得。
 
-[](https://github.com/syamkakarla98/Satellite_Imagery_Analysis) [## syamkakarla 98/卫星图像分析
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/syamkakarla98/Satellite_Imagery_Analysis) 
+<https://github.com/syamkakarla98/Satellite_Imagery_Analysis>  
 
 快乐学习✨
 
 # 更多来自作者
 
-[](/wildfire-detection-using-satellite-imagery-with-python-d534d74d0505) [## 利用卫星影像和 Python 进行野火探测
-
-### 卫星图像与计算机视觉相遇:使用 Python 在澳大利亚进行野火探测的教程
-
-towardsdatascience.com](/wildfire-detection-using-satellite-imagery-with-python-d534d74d0505) [](/character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c) [## 使用 Detectron2 对自定义数据进行字符识别和分段
-
-### 利用迁移学习的力量
-
-towardsdatascience.com](/character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c) [](/beginners-guide-to-pyspark-bbe3b553b79f) [## PySpark 初学者指南
-
-### 第 1 章:使用美国股票价格数据介绍 PySpark
-
-towardsdatascience.com](/beginners-guide-to-pyspark-bbe3b553b79f) [](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [## 超光谱图像分析—入门
-
-### 使用 Python 进行高光谱图像分析的演练。
-
-towardsdatascience.com](/hyperspectral-image-analysis-getting-started-74758c12f2e9) 
+</wildfire-detection-using-satellite-imagery-with-python-d534d74d0505>  </character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c>  </beginners-guide-to-pyspark-bbe3b553b79f>  </hyperspectral-image-analysis-getting-started-74758c12f2e9>  
 
 # 参考
 
-[](/comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a) [## 使用 Python 进行卫星影像分析的综合指南
-
-### 使用 Python 分析卫星图像的不同方法和机器学习技术，以及实践教程和…
-
-towardsdatascience.com](/comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a) [](/ground-truth-labeling-of-satellite-imagery-using-k-means-clustering-with-python-b4ab02e1314f) [## 基于 Python 的 K-Means 聚类的卫星影像地面实况标注
-
-### 使用 Python 的 K-Means 聚类算法对卫星影像进行地面实况标注的简单教程
-
-towardsdatascience.com](/ground-truth-labeling-of-satellite-imagery-using-k-means-clustering-with-python-b4ab02e1314f) [](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) [## sk learn . neighbors . kneighborsclassifier-scikit-learn 0 . 24 . 1 文档
-
-### 实现 k-最近邻投票的分类器。了解更多信息。参数 n_neighborsint，默认值=5…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) [## sk learn . SVM . SVC-sci kit-learn 0 . 24 . 1 文档
-
-### c-支持向量分类。该实现基于 libsvm。拟合时间至少与…成二次比例
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)  [## 欢迎阅读 LightGBM 的文档！-light GBM 3.1.1.99 文档
-
-### 编辑描述
-
-lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/latest/#)
+</comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a>  </ground-truth-labeling-of-satellite-imagery-using-k-means-clustering-with-python-b4ab02e1314f>  <https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html>   

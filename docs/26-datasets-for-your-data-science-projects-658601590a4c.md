@@ -86,8 +86,4 @@
 
 我的另一篇文章，你可能想看看:
 
-[](/making-your-first-kaggle-submission-36fa07739272) [## 首次提交 Kaggle
-
-### 一个易于理解的指南，开始与竞争，并成功建模，使你的第一…
-
-towardsdatascience.com](/making-your-first-kaggle-submission-36fa07739272)
+</making-your-first-kaggle-submission-36fa07739272> 

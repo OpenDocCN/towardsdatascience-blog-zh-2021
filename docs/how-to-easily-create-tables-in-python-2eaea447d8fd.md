@@ -80,11 +80,7 @@ from tabulate import tabulate
 *print(tabulate(table, headers='firstrow', tablefmt='fancy_grid'))*
 ```
 
-*![](img/1919b6f1e3fb6ac96a09c3a97416a545.png)**[](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc) [## 成为更好的 Python 程序员的三个概念
-
-### 了解 Python 中的*和**运算符，*args 和**kwargs 以及更多内容
-
-towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc)* 
+*![](img/1919b6f1e3fb6ac96a09c3a97416a545.png)**</three-concepts-to-become-a-better-python-programmer-b5808b7abedc> * 
 
 ## *文学词典*
 
@@ -120,11 +116,7 @@ towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b58
 
 *我们可以通过向参数 ***showindex*** 传递一个 *iterable* 来添加一个自定义索引。例如，如果我们希望索引从 1 开始，我们可以传入一个*范围对象*作为参数:*
 
-*![](img/abaf27474b02977bdc71b636da2387a7.png)**[](/three-functions-to-know-in-python-4f2d27a4d05) [## Python 中需要了解的三个函数
-
-### 了解如何使用 python 中的映射、过滤和归约函数
-
-towardsdatascience.com](/three-functions-to-know-in-python-4f2d27a4d05)* 
+*![](img/abaf27474b02977bdc71b636da2387a7.png)**</three-functions-to-know-in-python-4f2d27a4d05> * 
 
 ## *缺少值*
 
@@ -175,10 +167,6 @@ with open('table.txt', 'w') as f:
 
 **如果你喜欢阅读这样的故事，并且想支持我成为一名作家，可以考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *报名，我就赚点小提成。***
 
-**[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)** 
+**<https://lmatalka90.medium.com/membership> ** 
 
 **我希望这篇关于如何使用制表函数轻松创建格式良好的表格的教程对你有所帮助。感谢您的阅读！**

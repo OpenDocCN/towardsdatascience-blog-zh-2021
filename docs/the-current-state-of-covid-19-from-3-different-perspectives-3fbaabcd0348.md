@@ -54,19 +54,11 @@ foloum_static 是一个函数，它允许您将一个叶子地图作为参数传
 
 在我的项目中有两个高级的情节，我将更详细地讨论，以便您能够在自己的项目中创建它们。其他情节相当简单，我强烈建议仔细阅读 Plotly 文档。请查看下面的链接:
 
-[](https://plotly.com/python/) [## Plotly Python 图形库
-
-### Plotly 的 Python 图形库制作出交互式的、出版物质量的图形。如何制作线图的示例…
-
-plotly.com](https://plotly.com/python/) 
+<https://plotly.com/python/>  
 
 首先，我们来谈谈 app 中的 follo pleth 地图。我之前写过一篇关于如何绘制更高级的多层 Choropleth 地图的教程。如果你不熟悉 leav，请查看这篇文章来学习你的 leav 技能。
 
-[](/how-to-step-up-your-folium-choropleth-map-skills-17cf6de7c6fe) [## 如何提高你的 Choropleth 地图技能
-
-### 将你的 Choropleth 地图带到下一关
-
-towardsdatascience.com](/how-to-step-up-your-folium-choropleth-map-skills-17cf6de7c6fe) 
+</how-to-step-up-your-folium-choropleth-map-skills-17cf6de7c6fe>  
 
 在上面的文章中，我正在查看一个例子，在这个例子中我实现了一个更高级的 map。当我写这篇文章时，我无法解决的一个问题是，我们如何删除 choropleth 的图例并为每个图层创建一个图例，因为默认情况下，每个列的所有图例都将显示在图上。在我的教程中，除了图层之外，每个图例都有一个单独的按钮。然而，我的最终目标是用一个图例绑定每一层。换句话说，当我点击层控制器和一个特定的列，层将自动出现其相关的图例。下面我将带您了解如何在我的应用程序中创建地图的步骤。
 
@@ -141,11 +133,7 @@ cmap4 = branca.colormap.StepColormap(
 
 为了更好地理解 StepColormap 函数的属性，请查阅下面的文档:
 
- [## 布兰卡
-
-### 用于处理色彩映射表的实用模块。一个创建色彩映射表的通用类…
-
-python-visualization.github.io](https://python-visualization.github.io/branca/colormap.html) 
+  
 
 让我们关注上面代码中的 cmap4，它是 covid_deaths_per_100k 的图例。其他列的过程是相同的，但是我想让您看看代码实际输出了什么。在最后一个代码片段的顶部，我创建了一个颜色列表来表示每个图例的颜色。首先，我使用调色板 GnBu_09 将 colors 属性设置为 Branca 步骤颜色。然后，我设置 vmin 值，这是一个允许我们在 leged 中设置最小数量的属性。另一方面，vmax 允许我们设置最大数量。最后一个属性标题允许我们为图例设置一个名称。我们在 cmap4 中创建的图例如下所示。
 
@@ -362,11 +350,7 @@ fig
 
 为了理解我是如何在 Streamlit 中创建我的应用程序的，我将首先带您看一个简单的例子。首先，您需要在您的环境中安装库。请查看下面关于如何安装 Streamlit 的文档。
 
-[](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) [## 如何全新安装 Streamlit - Streamlit 0.79.0 文档
-
-### 如果您在安装 Streamlit 时遇到任何问题，或者如果您想进行全新安装，请不要担心，我们会帮助您…
-
-docs.streamlit.io](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) 
+<https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html>  
 
 接下来，打开一个新的 python 脚本并复制粘贴以下内容:
 
@@ -391,11 +375,7 @@ streamlit run app.py
 
 瞧，这就是你的应用程序。上面的输出将在您的本地机器上运行。完成应用程序后，如果您想要部署它，您可以使用 Streamlit 共享。您需要在这里请求邀请[。根据文档，Streamlit 共享只能通过邀请获得。一旦你提出请求，需要几天时间才能收到邀请。如果您迫不及待，想要立即将您的应用程序托管到 Heroku，请查看我下面的文章，这是如何将您的 Streamlit 应用程序部署到 Heroku 的分步指南。](https://streamlit.io/sharing)
 
-[](/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd) [## 关于如何将您的 Streamlit 应用程序部署到 Heroku 的快速教程。
-
-### 欢迎学习如何将您的 Streamlit 应用程序部署到 Heroku 的分步教程。在过去的两周里，我一直…
-
-towardsdatascience.com](/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd) 
+</a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd>  
 
 现在您已经有了更好的理解，我将带您看一下我自己的应用程序。如上例，我的 main()函数由我的 Streamlit 应用程序的代码组成。我的应用程序由一个侧边栏组成，允许用户在应用程序和以下页面中导航:
 
@@ -419,11 +399,7 @@ towardsdatascience.com](/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to
 
 为了更好地理解每个功能，我强烈推荐文档。点击[此处](https://docs.streamlit.io/en/stable/getting_started.html)获取文档。我花了几天时间才找到创建应用程序的窍门。添加一个侧边栏、图片、gif 和不同种类的情节真的很简单。如前所述，对于我的 Plotly 和 folium 图，我使用了 st.plotly_chart()和 folium_static()函数。要完全访问我创建 Streamlit 应用程序的主函数，请单击下面的链接并向下滚动到 main()函数。
 
-[](https://github.com/navido89/covid19-dashboard-dataviz/blob/master/app.py) [## navido 89/covid 19-仪表板-数据
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/navido89/covid19-dashboard-dataviz/blob/master/app.py) 
+<https://github.com/navido89/covid19-dashboard-dataviz/blob/master/app.py>  
 
 总体而言，Streamlit 的性能令人印象深刻。为了提高应用程序的性能，我强烈建议利用缓存机制。点击[此处](https://docs.streamlit.io/en/stable/caching.html)查看如何在你的应用中实现缓存机制的文档。
 
@@ -437,8 +413,4 @@ github.com](https://github.com/navido89/covid19-dashboard-dataviz/blob/master/ap
 
 我希望你喜欢这篇文章，并从中获得灵感来创建自己的 Streamlit 应用程序。如果你对这个话题有任何问题或者对我的应用有任何反馈，请告诉我。总有改进的余地。如果你喜欢这篇文章，如果你能在任何社交媒体平台上分享它，我将非常感激。直到下一个 time️！✌️
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我是 Navid Mashinchi，是加利福尼亚州萨克拉门托的一名数据科学家。我一直在分析领域工作…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

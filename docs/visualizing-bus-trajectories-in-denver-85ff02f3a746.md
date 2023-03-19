@@ -19,11 +19,7 @@
 
 在寻找如何下载 GTFS 实时数据的例子时，我看到了这篇精美的文章和代码，展示了如何下载这样的地理空间数据。
 
-[](https://medium.com/swlh/visualizing-istanbul-bus-traffic-with-python-and-keplergl-a84895788825) [## 使用 Python 和 KeplerGL 可视化伊斯坦布尔公共汽车交通
-
-### 这是如何准备 GEOJSON 格式的数据并与 keplerGL 一起使用的简短说明。
-
-medium.com](https://medium.com/swlh/visualizing-istanbul-bus-traffic-with-python-and-keplergl-a84895788825) 
+<https://medium.com/swlh/visualizing-istanbul-bus-traffic-with-python-and-keplergl-a84895788825>  
 
 我按照奥赞·卡拉的方法下载了丹佛地区的 GTFS 数据，并对代码做了一些修改，还增加了一些额外的后处理步骤来计算总线速度。
 
@@ -39,11 +35,7 @@ medium.com](https://medium.com/swlh/visualizing-istanbul-bus-traffic-with-python
 
 下面的函数将下载我们需要的数据。为了能够从 RTD 的 GTFS 实时数据馈送下载数据，您将需要 HTTP 基本身份验证凭据。
 
- [## 实时数据馈送文档
-
-### RTD 航空公司要求所有乘客戴上口罩。容量限制为每位乘客约 15 人…
-
-www.rtd-denver.com](http://www.rtd-denver.com/gtfs-developer-guide.shtml#realtime-feeds) 
+  
 
 我们需要每分钟调用这个函数，因为公共汽车每分钟都会发送位置更新。
 

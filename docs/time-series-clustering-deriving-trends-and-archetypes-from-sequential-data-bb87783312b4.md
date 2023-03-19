@@ -149,16 +149,4 @@ URA 实习经历|来源:作者
 
 # *参考*
 
- *[## 时序群集— tslearn 0.5.1.0 文档
-
-### 聚类是将相似的对象组合在一起的任务。因此，这项任务很大程度上依赖于相似性的概念…
-
-tslearn.readthedocs.io](https://tslearn.readthedocs.io/en/stable/user_guide/clustering.html)* *[](/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3) [## 如何对时间序列数据应用 K 均值聚类
-
-### 使算法适应时间序列的理论和代码
-
-towardsdatascience.com](/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3) [](/dynamic-time-warping-3933f25fcdd) [## 动态时间扭曲
-
-### 解释和代码实现
-
-towardsdatascience.com](/dynamic-time-warping-3933f25fcdd)*
+ ** *</how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3>  </dynamic-time-warping-3933f25fcdd> *

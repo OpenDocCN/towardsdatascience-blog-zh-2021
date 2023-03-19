@@ -71,11 +71,7 @@ ii)保持整个过程中函数调用的数量尽可能的少，因为这是非�
 
 典型的策略是在参数空间中的局部和全局最优值之间进行补偿。考虑下面给出的图表:
 
-![](img/1a4cb867f8678762a405764d1a0d6d80.png)[](https://www.shutterstock.com/image-vector/local-global-maxima-minima-1961848822) [## 本地全球最大最小股票向量(免版税)1961848822
-
-### 查找高清的本地全球 Maxima Minima 股票图片和数百万其他免版税的股票照片、插图和…
-
-www.shutterstock.com](https://www.shutterstock.com/image-vector/local-global-maxima-minima-1961848822) 
+![](img/1a4cb867f8678762a405764d1a0d6d80.png)<https://www.shutterstock.com/image-vector/local-global-maxima-minima-1961848822>  
 
 在进行参数空间探索时，可以在函数具有高值或低值的地方找到许多这样的局部最优数据点。但是，这一过程不应就此停止，因为在其他一些领域可能有更多的最佳值。它被称为“*探险*”。另一方面，也应该重视从函数中持续返回最优(高或低)值的点。就是“*剥削*”。所以，两者都有一定的意义。这是一个微不足道的决定，“什么时候探索不同位置的更优数据点，或者什么时候利用同一个方向的&”。这是贝叶斯优化在参数空间中击败传统随机搜索或网格搜索方法的领域，因为它采取了中间立场。它有助于通过少量的实际函数调用更快地实现目标。另外两种方法是完全忽略这一事实的盲目搜索。搜索必须非常精确&“切中要害”以降低成本。贝叶斯方法很好地解决了这个问题。
 
@@ -205,8 +201,4 @@ bopt.best_samples_['ei'].plot()
 
 源代码可以在这里找到，
 
-[](https://github.com/avisheknag17/public_ml_models/blob/master/bayesian_optimization/bayesian_optimization.ipynb) [## avisheknag17/public_ml_models
-
-### 在 GitHub 上创建一个帐户，为 avisheknag17/public_ml_models 开发做出贡献。
-
-github.com](https://github.com/avisheknag17/public_ml_models/blob/master/bayesian_optimization/bayesian_optimization.ipynb)
+<https://github.com/avisheknag17/public_ml_models/blob/master/bayesian_optimization/bayesian_optimization.ipynb> 

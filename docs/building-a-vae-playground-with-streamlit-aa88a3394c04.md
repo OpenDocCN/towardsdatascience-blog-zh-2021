@@ -18,11 +18,7 @@ MNIST 数据集上的 Streamlit 应用
 
 ## **流线型**
 
-[](https://streamlit.io/) [## Streamlit *构建和共享数据应用的最快方式
-
-### 用我们神奇简单的 API，用几行代码构建一个应用程序。然后看到它随着你的迭代自动更新…
-
-streamlit.io](https://streamlit.io/) 
+<https://streamlit.io/>  
 
 Streamlit 是任何数据科学应用程序的绝佳工具。有了它，你可以使用纯 Python 创建漂亮的网络应用，而不需要任何 HTML、CSS 或 JavaScript。Streamlit 最棒的地方在于它的代码非常直观和 pythonic 化。Streamlit 可以帮助创建令人印象深刻的演示，并且是帮助您的项目实现的一个很好的工具！
 
@@ -48,11 +44,7 @@ VAE 类的插值函数
 
 幸运的是，包`streamlit-drawable-canvas`已经为我们做了！我们可以使用它来创建一个区域，用户可以使用鼠标来创建一个绘图，我们可以使用它作为模型的输入
 
-[](https://github.com/andfanilo/streamlit-drawable-canvas) [## 和平面/流线型可画画布
-
-### Streamlit 组件提供了一个使用 Fabric.js 的素描画布。自由绘制，线条，圆形，方框和多边形…
-
-github.com](https://github.com/andfanilo/streamlit-drawable-canvas) 
+<https://github.com/andfanilo/streamlit-drawable-canvas>  
 
 有了这个包，我们可以在任何我们想要的地方创建一个可绘制的画布。所有我们需要做的是设置一些参数，如高度，重量，填充颜色等。我们我们完了。我们可以在应用程序中使用这个组件，然后将用户的绘图保存为 numpy 数组。
 
@@ -92,11 +84,7 @@ github.com](https://github.com/andfanilo/streamlit-drawable-canvas)
 
 Docker 是一个集装箱工具。通过拍摄当前环境的快照并创建一个隔离的环境来运行应用程序，实现了可再现性。这使得我们可以在任何安装了 docker 的设备上发布和运行我们的代码。除了容器化应用程序，我们甚至可以使用 Docker 来创建可配置和可复制的开发人员环境。Docker 的安装说明可在以下链接中找到:
 
-[](https://www.docker.com/get-started) [## Docker | Docker 入门
-
-### 了解 Docker 提供的完整容器解决方案。为开发人员、IT 运营和…查找信息
-
-www.docker.com](https://www.docker.com/get-started) 
+<https://www.docker.com/get-started>  
 
 我们需要做的是创建一个`Dockerfile`，它包含 Docker 创建容器所需的所有指令。这个容器将包含我们需要的所有文件，也与我们运行应用程序的环境相同。
 

@@ -46,7 +46,7 @@ Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化
 
 简而言之，Kubernetes 是一个容器协调器，帮助确保每个容器都在它应该在的地方，并且容器之间可以相互通信。如果你想知道为什么你应该关注 Kubernetes，请阅读下面的故事:
 
-[](/kubernetes-101-why-should-you-care-6793a09a096a) [## Kubernetes 101:你为什么要关心？
+</kubernetes-101-why-should-you-care-6793a09a096a> [## Kubernetes 101:你为什么要关心？
 
 towardsdatascience.com](/kubernetes-101-why-should-you-care-6793a09a096a) 
 

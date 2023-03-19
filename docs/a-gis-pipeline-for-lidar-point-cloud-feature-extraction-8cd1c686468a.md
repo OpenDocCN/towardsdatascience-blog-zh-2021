@@ -425,15 +425,7 @@ GIS 管道最终输出产品的 3D 可视化，构建-构建带有“按作者�
 
 最后，我们使用交互式地理空间可视化来查看分类的点云和最终输出的建筑数据，如以下两个链接所示:
 
- [## xMap.ai - DBSCAN 3d 点
-
-### 此可视化显示了作为 gis 管道一部分的 dbscan 聚类的输出，用于从…提取矢量要素
-
-xmap.ai](https://xmap.ai/maps/pcloud/dbscan_pcloud_3d.html)  [## xMap.ai - gis 管道构建矢量
-
-### 该可视化显示了从 gis 管道中最终提取的矢量建筑物
-
-xmap.ai](https://xmap.ai/maps/pcloud/buildings_vector.html) 
+    
 
 该报告中的整个分析可以端到端自动进行，如果需要，可以安排为批处理作业。
 

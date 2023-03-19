@@ -12,11 +12,7 @@
 
 任何在数据科学领域工作的人都熟悉 R。您肯定遇到过有人认为 R 是一种缓慢的语言，无法处理更大的数据。事实并非总是如此。我在野外看到的许多 R 代码表明，对这种语言的工作原理缺乏基本的理解。让我们看一个例子，如何优化你的代码来与你合作，而不是与你作对。
 
-[](https://realdrewdata.medium.com/membership) [## 通过我的推荐链接加入 Medium-Drew Seewald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/membership) 
+<https://realdrewdata.medium.com/membership>  
 
 # 为什么循环很慢？
 
@@ -75,11 +71,7 @@ factors <- (1:x)[(x %% 1:x) == 0]
 
 首先，我们已经确定了 R 花很长时间运行循环的部分原因是因为它在每次循环时都要检查变量的类型。幸运的是，R 被设计成利用向量来避免这种情况。要求向量的每个元素都具有相同的类型，所以 R 在计算时不需要检查每个元素。因此，为了优化，我们将使用矢量化运算。
 
-[](/storing-data-r-data-structures-717245c6bab8) [## 存储数据:R 数据结构
-
-### 存放数据科学剩余产品的容器
-
-towardsdatascience.com](/storing-data-r-data-structures-717245c6bab8) 
+</storing-data-r-data-structures-717245c6bab8>  
 
 首先，我们将得到我们的数`x`，并使用模运算符(`%%`)来得到除以从 1 到`x`的每个数时的每个余数。我们可以使用`1:x`来创建从 1 到`x`的所有数字的向量。当我们用一个数字向量对单个元素`x`取模时，R 用向量的每个元素除`x`，返回余数的向量。
 

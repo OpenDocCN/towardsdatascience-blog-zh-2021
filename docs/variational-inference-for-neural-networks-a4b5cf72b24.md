@@ -28,11 +28,7 @@
 2.  马尔可夫链蒙特卡罗(MCMC)允许我们从后验样本中抽取样本。然而，它可能会非常慢，特别是对于大型模型和数据集，并且它不能很好地处理高度多峰的后验分布。
 3.  变分推断(VI)用一个更简单的“行为良好”的分布来近似后验概率。这就是我们在本文剩余部分要探讨的内容。
 
-[](/introduction-to-mcmc-1c8e3ea88cc9) [## MCMC 简介
-
-### 什么是蒙特卡洛近似法，Metropolis 算法是如何工作的？
-
-towardsdatascience.com](/introduction-to-mcmc-1c8e3ea88cc9) 
+</introduction-to-mcmc-1c8e3ea88cc9>  
 
 ## 什么是变异推理(VI)？
 

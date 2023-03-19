@@ -68,48 +68,8 @@ MySQL 和 Oracle SQL 都是 Oracle 公司的关系数据库管理系统。MySQL 
 
 看看我最近的一些文章:
 
-[](/why-data-science-is-important-for-all-developers-cfe31aa6fb2b) [## 为什么数据科学对所有开发人员都很重要
-
-### 是的，那意味着你也是
-
-towardsdatascience.com](/why-data-science-is-important-for-all-developers-cfe31aa6fb2b) [](https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c) [## 我如何让 Python 阅读我的电子邮件
-
-### 一个有趣的尝试，让你拥有更好的习惯和更高的生产力
-
-python .平原英语. io](https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c) [](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) [## OAuth 的简单介绍
-
-### 学习 OAuth 而不用打开同义词库
-
-medium.com](https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589) [](/mysql-vs-mariadb-6dda1649de44) [## MySQL vs. MariaDB
-
-### 比较两个非常相似但完全不同的 Rational 数据库管理系统
-
-towardsdatascience.com](/mysql-vs-mariadb-6dda1649de44) [](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) [## 将近五年后，我离职了
-
-### 回想我在那里的时光，以及为什么我要寻找一个新的机会
-
-miketechgame.medium.com](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) 
+</why-data-science-is-important-for-all-developers-cfe31aa6fb2b>  <https://python.plainenglish.io/making-python-read-my-emails-9e3b3a48887c>  <https://medium.com/codex/a-simpler-introduction-to-oauth-3533e53a4589>  </mysql-vs-mariadb-6dda1649de44>  <https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4>  
 
 参考资料:
 
-[](https://www.geeksforgeeks.org/difference-between-oracle-and-mysql/) [## Oracle 和 MySQL 的区别
-
-### 1.Oracle : Oracle 是一个关系数据库管理系统(RDBMS)。它是由甲骨文公司在 1980 年开发的…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/difference-between-oracle-and-mysql/)  [## MySQL 和 Oracle-Java point 的区别
-
-### MySQL 和 Oracle 是两个著名的关系数据库，在大小公司中都有使用。虽然甲骨文…
-
-www.javatpoint.com](https://www.javatpoint.com/mysql-vs-oracle) [](https://www.educba.com/mysql-vs-oracle/) [## MySQL 与 Oracle |最值得学习的 7 大区别
-
-### MySQL 是一个关系数据库。它既快又容易使用。它是最受欢迎的开源数据库之一。这是…
-
-www.educba.com](https://www.educba.com/mysql-vs-oracle/) [](https://hevodata.com/learn/mysql-vs-oracle/) [## MySQL 与 Oracle:全面分析-了解| Hevo
-
-### 在当今世界，公司之间的竞争非常普遍，即使他们提供相似的产品…
-
-hevodata.com](https://hevodata.com/learn/mysql-vs-oracle/) [](https://www.janbasktraining.com/blog/oracle-vs-sql-server-vs-mysql/) [## 数据库权威指南——Oracle vs . SQL Server vs . MySQL
-
-### 关系数据库管理系统(RDBMS)自 20 世纪 90 年代发展以来，已经成为标准的数据库系统
-
-www.janbasktraining.com](https://www.janbasktraining.com/blog/oracle-vs-sql-server-vs-mysql/)
+<https://www.geeksforgeeks.org/difference-between-oracle-and-mysql/>    <https://www.educba.com/mysql-vs-oracle/>  <https://hevodata.com/learn/mysql-vs-oracle/>  <https://www.janbasktraining.com/blog/oracle-vs-sql-server-vs-mysql/> 

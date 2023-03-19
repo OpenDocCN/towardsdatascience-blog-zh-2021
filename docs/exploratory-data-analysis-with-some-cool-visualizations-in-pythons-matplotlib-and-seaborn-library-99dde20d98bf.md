@@ -14,11 +14,7 @@
 
 请随意从以下链接下载数据集:
 
-[](https://github.com/rashida048/Datasets/blob/master/fifa.csv) [## master rashida048/Datasets 上的 Datasets/fifa.csv
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/fifa.csv) 
+<https://github.com/rashida048/Datasets/blob/master/fifa.csv>  
 
 首先导入包和数据集:
 
@@ -550,24 +546,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [## 开发一个卷积神经网络模型使用未标记的图像文件直接从…
-
-### 使用图像生成器将图像自动标记为子目录
-
-towardsdatascience.com](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [## 卷积神经网络:对层的良好理解和图像分类示例
-
-### 包含了大量的信息
-
-towardsdatascience.com](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [## 在 Matplotlib 中放大和缩小以更好地理解数据
-
-### 为每个地块提供完整的代码
-
-towardsdatascience.com](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81) [](/an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1) [## 使用 R 中的 Tidyverse 库进行数据分析概述
-
-### 很好的学习资源，也可以用作备忘单
-
-towardsdatascience.com](/an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1)
+</developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f>  </convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e>  </zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d>  </an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81>  </an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1> 

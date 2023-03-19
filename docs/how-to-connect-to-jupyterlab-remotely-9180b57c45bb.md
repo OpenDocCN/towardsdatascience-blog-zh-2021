@@ -31,11 +31,7 @@ conda install -c conda-forge jupyterlab
 
 如果你没有使用 conda，我推荐最小和轻量级的 Miniconda 安装程序。以下是开始使用 conda 和 Miniconda 的说明。
 
-[](https://betterprogramming.pub/how-to-use-miniconda-with-python-and-jupyterlab-5ce07845e818) [## 如何将 Miniconda 与 Python 和 JupyterLab 结合使用
-
-### 从头开始设置极简 Python 环境
-
-better 编程. pub](https://betterprogramming.pub/how-to-use-miniconda-with-python-and-jupyterlab-5ce07845e818) 
+<https://betterprogramming.pub/how-to-use-miniconda-with-python-and-jupyterlab-5ce07845e818>  
 
 # JupyterLab 安全
 
@@ -185,8 +181,4 @@ grep token slurm-<JOBID>.out
 
 *感谢阅读和支持媒体作者*
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium—Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)
+<https://lukegloege.medium.com/membership> 

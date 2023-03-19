@@ -19,11 +19,7 @@
 
 如果您还没有阅读关于随机实验的第 1 部分，请考虑绕道而行。它介绍了我们正在使用的行话，将使我们更容易理解我们从这里开始。
 
-[](/establishing-causality-part-1-49cb9230884c) [## 建立因果关系:第 1 部分
-
-### 随机实验的黄金标准
-
-towardsdatascience.com](/establishing-causality-part-1-49cb9230884c) 
+</establishing-causality-part-1-49cb9230884c>  
 
 这个系列的第二部分集中在随机实验不可行的情况下，人们不得不求助于另一种技术:*工具变量*。
 
@@ -151,14 +147,6 @@ Regression coefficient: 100.12765658545275
 
 你也可以试试[我的另一篇文章](https://michaloleszak.github.io/blog/)。不能选择？从这些中选择一个:
 
-[](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
+</6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> [## 贝叶斯数据分析最温和的介绍
 
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-### 按照以下步骤让您的 Python 类防弹
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
+towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) </8-tips-for-object-oriented-programming-in-python-3e98b767ae79> 

@@ -32,11 +32,7 @@ Jukan Tateisi 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 我对各种机器学习算法的最大理解来自于我从零开始的算法系列。我的想法是学习每种算法，从头开始编写代码，然后将我的实现与 Scikit 提供的实现进行比较——了解我的表现。
 
-[](https://github.com/kurtispykes/ml-from-scratch) [## kurtispykes/ml-从零开始
-
-### 通过在 GitHub 上创建一个帐户，为 kurtispykes/ml 的从头开发做出贡献。
-
-github.com](https://github.com/kurtispykes/ml-from-scratch) 
+<https://github.com/kurtispykes/ml-from-scratch>  
 
 这个阶段发展了我对各种机器学习模型背后的机制的理解，我学会了如何将数学公式转化为代码。
 
@@ -48,11 +44,7 @@ YouTube、亚马逊和网飞都是应用推荐引擎为最终用户创造价值�
 
 MovieLens 是一个已知的数据集，这意味着如果你遇到困难，网上有许多实现可以帮助你。该数据集由 162，000 名用户的 62，000 部电影组成。我过去对这个数据集做过一些工作，你可以把它作为一个起点。
 
-[](https://github.com/kurtispykes/recommender_system) [## kurtispykes/推荐系统
-
-### 这个项目的目的是利用对 movielens 数据集的综合分析来获得有趣的见解…
-
-github.com](https://github.com/kurtispykes/recommender_system) 
+<https://github.com/kurtispykes/recommender_system>  
 
 ## #4 假新闻检测
 
@@ -86,16 +78,4 @@ GIF 由@snl 在 [GIPHY](https://giphy.com/gifs/snl-saturday-night-live-season-45
 
 ## 相关文章
 
-[](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [](/the-most-important-data-science-project-458d016ef8a6) [## 最重要的数据科学项目
-
-### 每个数据科学家都必须做的项目
-
-towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6) [](https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations) [## 数据科学项目工作流和文件组织的最佳实践- neptune.ai
-
-### 自 2012 年《哈佛商业评论》发表文章称数据科学是 21 世纪最性感的工作以来，数据科学已经成为最热门的职业
-
-海王星. ai](https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations)
+</5-ideas-for-your-next-nlp-project-c6bf5b86935c>  </the-most-important-data-science-project-458d016ef8a6>  <https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations> 

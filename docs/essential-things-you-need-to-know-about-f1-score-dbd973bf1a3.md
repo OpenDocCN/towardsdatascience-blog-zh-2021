@@ -23,15 +23,7 @@
 
 F1 值是机器学习中最重要的评价指标之一。它通过结合两个相互竞争的指标——精确度和召回率，很好地总结了模型的预测性能。这篇文章是我前两篇关于准确度、精确度和召回的文章的延伸，我鼓励你去看看！
 
-[](https://medium.com/mlearning-ai/evaluating-classification-models-why-accuracy-is-not-enough-abf3d9c93a69) [## 评估分类模型:为什么精确度不够
-
-### 当我们考虑在机器中评估分类模型时，准确性是我们通常想到的一个指标…
-
-medium.com](https://medium.com/mlearning-ai/evaluating-classification-models-why-accuracy-is-not-enough-abf3d9c93a69) [](/precision-and-recall-made-simple-afb5e098970f) [## 精确度和召回变得简单
-
-### 通过简单的例子、一步一步的解释和动画 gif，使精确度和召回容易理解
-
-towardsdatascience.com](/precision-and-recall-made-simple-afb5e098970f) 
+<https://medium.com/mlearning-ai/evaluating-classification-models-why-accuracy-is-not-enough-abf3d9c93a69>  </precision-and-recall-made-simple-afb5e098970f>  
 
 在这篇文章中，我将涵盖所有你需要知道的关于 F1 分数的重要事情。我将通过解释何时使用 precision 或 recall 来设置上下文。接下来，我将定义 F1-score，并解释何时应该使用它。最后，我将比较两个数字平均的不同类型——包括调和平均数、几何平均数和算术平均数——并讨论为什么 F1 得分基于调和平均数。
 
@@ -109,11 +101,7 @@ towardsdatascience.com](/precision-and-recall-made-simple-afb5e098970f)
 
 关于调和、算术和几何平均的更多详细信息，我推荐下面这个由[丹尼尔·麦克尼克](https://medium.com/u/2d441c4de574?source=post_page-----dbd973bf1a3--------------------------------)写的帖子。
 
-[](/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0) [## 平均而言，你使用了错误的平均值:数据分析中的几何与调和平均值
-
-### 当意思不是你想的那样
-
-towardsdatascience.com](/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0) 
+</on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0>  
 
 如果你在谷歌上搜索 F1-score 为什么要用调和平均值，你会找到类似“调和平均值更多地惩罚不相等的值”和“调和平均值惩罚极值”这样的答案。一开始我很难理解他们。因为我喜欢简化概念，所以我在图 4 中创建了一个交互式 3D 散点图来帮助我更好地理解。实际上，这个 3D 散点图比较了**谐波、算术和几何平均值如何随着不同组的精度和召回值**而变化。请随意使用它！
 

@@ -16,37 +16,21 @@
 
 我最初发布了一篇关于如何开始使用图嵌入的博文。这个帖子可以在[这里](https://dev.neo4j.com/intro_graph_emb_tds)找到。
 
-[](/getting-started-with-graph-embeddings-2f06030e97ae) [## 图形嵌入入门
-
-### 使用 Neo4j 图形数据科学库的机器学习管道的第一步
-
-towardsdatascience.com](/getting-started-with-graph-embeddings-2f06030e97ae) 
+</getting-started-with-graph-embeddings-2f06030e97ae>  
 
 还有一个由 [Tomaz Bratanic](https://medium.com/u/57f13c0ea39a?source=post_page-----efb1db0895--------------------------------) 写的很棒的帖子，展示了 FastRP 在节点分类任务中的使用，可以在这里找到[。](https://dev.neo4j.com/fastrp_nc)
 
-[](/twitchverse-using-fastrp-embeddings-for-a-node-classification-task-bb8d34aa690) [## Twitchverse:为节点分类任务使用 FastRP 嵌入
-
-### 通过使用 FastRP 嵌入算法提取关系值，为下游节点生成特征…
-
-towardsdatascience.com](/twitchverse-using-fastrp-embeddings-for-a-node-classification-task-bb8d34aa690) 
+</twitchverse-using-fastrp-embeddings-for-a-node-classification-task-bb8d34aa690>  
 
 这篇特别的文章建立在上面的以及我的前一篇文章的基础上，在那篇文章中，我展示了使用 Streamlit 创建一个仪表板，以及如何修改 Neo4j 生成的图形嵌入超参数。这是为 FastRP 和 node2vec 图嵌入算法创建的。我通过 [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) 提供了一种二维可视化嵌入的方法。
 
 在这篇文章中，我们将探讨其中一种嵌入算法 FastRP 的原因和方法，另一篇文章的目标是如何优化这些超参数。
 
-[](/visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa) [## 用 Python 中的 t-SNE 可视化图形嵌入
-
-### 如何定性评估 Neo4j 图嵌入
-
-towardsdatascience.com](/visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa) 
+</visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa>  
 
 此外，这篇文章与托马兹·布拉塔尼克的文章[“理解 Node2Vec 算法的完全指南”是平行的](https://dev.neo4j.com/bratanic_node2vec)
 
-[](/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) [## 理解 Node2Vec 算法的完整指南
-
-### 理解 node2vec 算法及其超参数的深入指南
-
-towardsdatascience.com](/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) 
+</complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147>  
 
 ## 警告！
 

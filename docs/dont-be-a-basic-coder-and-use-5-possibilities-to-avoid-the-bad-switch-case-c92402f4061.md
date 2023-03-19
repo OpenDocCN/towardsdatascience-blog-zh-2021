@@ -187,16 +187,4 @@ for 循环遍历数组，将`cardType`与来自`cardTypes`的所有条目进行�
 
 # 预选套装物品
 
-[](https://medium.com/geekculture/how-net-5-breaks-your-c-coding-project-with-the-data-type-string-be41ea48f0a2) [## 之后如何修复 C#中的字符串操作？NET 5 更新
-
-### 中修复此问题的步骤。NET 框架和。网络核心
-
-medium.com](https://medium.com/geekculture/how-net-5-breaks-your-c-coding-project-with-the-data-type-string-be41ea48f0a2) [](https://medium.com/nerd-for-tech/the-reasons-not-to-migrate-from-javascript-to-typescript-89b587ed9ac9) [## 不从 JavaScript 迁移到 TypeScript 的原因！
-
-### 如何为媒体找到我的声音
-
-medium.com](https://medium.com/nerd-for-tech/the-reasons-not-to-migrate-from-javascript-to-typescript-89b587ed9ac9) [](https://medium.com/front-end-weekly/how-naming-ruins-your-code-6f3a53a380b9) [## 命名是如何毁掉你的代码的！
-
-### 伟大的代码始于你，终于有更多的时间为你的爱人编码！
-
-medium.com](https://medium.com/front-end-weekly/how-naming-ruins-your-code-6f3a53a380b9)
+<https://medium.com/geekculture/how-net-5-breaks-your-c-coding-project-with-the-data-type-string-be41ea48f0a2>  <https://medium.com/nerd-for-tech/the-reasons-not-to-migrate-from-javascript-to-typescript-89b587ed9ac9>  <https://medium.com/front-end-weekly/how-naming-ruins-your-code-6f3a53a380b9> 

@@ -179,11 +179,7 @@ PdM 的下一步是预测。这里，目标是预测被监控系统的未来状�
 
 *由于这些不确定性会导致预测结果与实际情况的重大偏差，因此开发一个系统的不确定性管理框架对于交付有意义的 RUL 预测至关重要。要了解更多关于如何管理与基于模型的预测相关的不确定性，请查看我以前的文章:*
 
-*[](/managing-uncertainty-in-computational-science-and-engineering-5e532085512b) [## 不确定性量化解释
-
-### 进行基于模型的可靠预测的实践
-
-towardsdatascience.com](/managing-uncertainty-in-computational-science-and-engineering-5e532085512b)* 
+*</managing-uncertainty-in-computational-science-and-engineering-5e532085512b> * 
 
 # *5.外卖食品*
 
@@ -206,4 +202,4 @@ towardsdatascience.com](/managing-uncertainty-in-computational-science-and-engin
 
 # *关于作者*
 
-> **我是一名从事航天应用不确定度量化和可靠性分析的博士研究生。统计和数据科学是我日常工作的核心。我喜欢分享我在迷人的统计学世界中学到的东西。查看我之前的帖子了解更多信息，并在 Linkedin*[*中*](https://shuaiguo.medium.com/)*[](https://www.linkedin.com/in/shuaiguo16/)**上与我联系。****
+> **我是一名从事航天应用不确定度量化和可靠性分析的博士研究生。统计和数据科学是我日常工作的核心。我喜欢分享我在迷人的统计学世界中学到的东西。查看我之前的帖子了解更多信息，并在 Linkedin*[*中*](https://shuaiguo.medium.com/)*<https://www.linkedin.com/in/shuaiguo16/>**上与我联系。****

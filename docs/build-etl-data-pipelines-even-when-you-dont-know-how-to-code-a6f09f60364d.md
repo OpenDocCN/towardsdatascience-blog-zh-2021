@@ -452,4 +452,4 @@ FROM `covid19-305322.epidemiology.covid19_with_population_data`;
 
 感谢您的时间，如果您觉得这篇文章有用，请在 LinkedIn 和 T2 Twitter 上关注我，了解关于数据、商业和这两者之间的任何令人兴奋的故事。下一集再见！
 
-*原载于 2021 年 2 月 22 日 http://thedigitalskye.com*[](http://thedigitalskye.com/2021/02/23/build-etl-data-pipelines-even-when-you-dont-know-how-to-code/)**。**
+*原载于 2021 年 2 月 22 日 http://thedigitalskye.com*<http://thedigitalskye.com/2021/02/23/build-etl-data-pipelines-even-when-you-dont-know-how-to-code/>**。**

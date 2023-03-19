@@ -265,11 +265,7 @@ cv2.waitKey(0)
 
 除了这些内核类型之外，还有一些“边缘检测器”,我们不仅仅使用边缘检测内核，而是使用一些额外的步骤来获得更好的结果。一个非常常见的边缘检测器是 Canny 边缘检测器，它在下面的帖子中有很好的解释和详细说明:
 
-[](/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123) [## Python 中的谨慎边缘检测——计算机视觉
-
-### 这是一个简单易懂的教程，一步一步讲解如何构建 Canny 边缘检测算法。
-
-towardsdatascience.com](/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123) 
+</canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123>  
 
 让我们试着看看边缘检测器和孔洞填充一起使用的一些结果，同时使用 Scipy 的内置函数:
 

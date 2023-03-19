@@ -163,18 +163,10 @@
 
 **你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的[会员](https://medium.com/@julia.nikulski/membership)。**
 
-**[](https://medium.com/@julia.nikulski/membership) [## 阅读朱莉娅·尼库尔斯基(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@julia.nikulski/membership)** 
+**<https://medium.com/@julia.nikulski/membership> ** 
 
 **既然你在这里，你可以看看我写的关于**数据科学和可持续发展的交集**以及在这个领域工作的有前途的项目和组织的文章。**
 
-**[](/data-science-for-sustainability-b912d5fb5d24) [## 数据科学促进可持续发展
-
-### 如何应用数据科学造福人类和地球，而不仅仅是商业
-
-towardsdatascience.com](/data-science-for-sustainability-b912d5fb5d24)** 
+**</data-science-for-sustainability-b912d5fb5d24> ** 
 
 # **参考**

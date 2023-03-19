@@ -83,16 +83,4 @@
 
 ## *你可能也会喜欢…*
 
-*[](/my-unbelievable-move-from-data-engineer-to-data-scientist-without-any-prior-experience-6f76614fe340) [## 我从数据工程师到数据科学家的不可思议的转变，之前没有任何经验
-
-### 通过掌握一项基本技能
-
-towardsdatascience.com](/my-unbelievable-move-from-data-engineer-to-data-scientist-without-any-prior-experience-6f76614fe340) [](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1) [## 我作为数据科学家和数据分析师的经历
-
-### 我希望从一开始就知道的成功秘诀
-
-towardsdatascience.com](/my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1) [](/why-youll-quit-your-data-science-job-6079d407bbeb) [## 为什么你会辞去数据科学的工作
-
-### 你应该做些什么来防止这种情况发生
-
-towardsdatascience.com](/why-youll-quit-your-data-science-job-6079d407bbeb)*
+*</my-unbelievable-move-from-data-engineer-to-data-scientist-without-any-prior-experience-6f76614fe340>  </my-experience-as-a-data-scientist-vs-a-data-analyst-91a41d1b4ab1>  </why-youll-quit-your-data-science-job-6079d407bbeb> *

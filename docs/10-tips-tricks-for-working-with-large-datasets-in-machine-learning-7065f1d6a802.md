@@ -52,11 +52,7 @@ int64 值的范围在`**-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
 
 阅读我以前的一篇文章，更好地理解通过类型转换降级的数据类型。
 
-[](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) [## 为大型数据集优化 Pandas 的内存使用
-
-### 有效利用数据类型来防止内存崩溃
-
-towardsdatascience.com](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) 
+</optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b>  
 
 # 3.)首选矢量化进行迭代:
 
@@ -66,11 +62,7 @@ towardsdatascience.com](/optimize-pandas-memory-usage-while-reading-large-datase
 
 跟随我以前的一篇文章，了解更多关于如何让熊猫的迭代速度加快 400 倍。
 
-[](/400x-time-faster-pandas-data-frame-iteration-16fb47871a0a) [## Pandas 数据帧迭代速度快 400 倍
-
-### 避免使用 iterrows()函数
-
-towardsdatascience.com](/400x-time-faster-pandas-data-frame-iteration-16fb47871a0a) 
+</400x-time-faster-pandas-data-frame-iteration-16fb47871a0a>  
 
 # 4.)多重处理:
 
@@ -80,11 +72,7 @@ towardsdatascience.com](/400x-time-faster-pandas-data-frame-iteration-16fb47871a
 
 跟随我以前的一篇文章[学习如何使用多处理模块扩展 Python 函数。](/25x-times-faster-python-function-execution-in-a-few-lines-of-code-4c82bdd0f64c)
 
-[](/25x-times-faster-python-function-execution-in-a-few-lines-of-code-4c82bdd0f64c) [## 用几行代码将 Python 函数的执行速度提高了 30 倍
-
-### Python 中多重处理的基本指南
-
-towardsdatascience.com](/25x-times-faster-python-function-execution-in-a-few-lines-of-code-4c82bdd0f64c) 
+</25x-times-faster-python-function-execution-in-a-few-lines-of-code-4c82bdd0f64c>  
 
 # 5.)增量学习:
 
@@ -107,11 +95,7 @@ rf.fit(X_train, y_train)**
 
 > 跟随我以前的一篇关于增量学习的文章来更好地理解增量学习和 warm_state 功能。
 
-[](/strategies-to-train-out-of-memory-data-with-scikit-learn-7b2ed15b9a80) [## 如何使用 Scikit-learn 训练内存不足的数据
-
-### 使用 partial_fit API 进行增量学习的基本指南
-
-towardsdatascience.com](/strategies-to-train-out-of-memory-data-with-scikit-learn-7b2ed15b9a80) 
+</strategies-to-train-out-of-memory-data-with-scikit-learn-7b2ed15b9a80>  
 
 # 7.)分布式库:
 
@@ -121,19 +105,7 @@ Pandas、Numpy、Scikit-Learn 等 Python 包提供了高级可用且灵活的 AP
 
 > 请在下面找到我以前关于分布式库的文章列表，比如 [Dask](/how-dask-accelerates-pandas-ecosystem-9c175062f409) 、 [Vaex](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) 和 [Modin](/modin-speed-up-your-pandas-notebooks-scripts-and-libraries-c2ac7de45b75) :
 
-[](/how-dask-accelerates-pandas-ecosystem-9c175062f409) [## Dask 如何加速熊猫生态系统？
-
-### 深入了解 Dask 数据框架，以及它是如何工作的
-
-towardsdatascience.com](/how-dask-accelerates-pandas-ecosystem-9c175062f409) [](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [## 使用 Vaex 处理具有 2 亿行的数据集
-
-### 使用 vaex 数据框对大型数据集执行操作
-
-towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [](/modin-speed-up-your-pandas-notebooks-scripts-and-libraries-c2ac7de45b75) [## 摩丁-加速你的熊猫笔记本，脚本和图书馆
-
-### 使用 Modin 扩展 Pandas 工作流，只需更改一行代码
-
-towardsdatascience.com](/modin-speed-up-your-pandas-notebooks-scripts-and-libraries-c2ac7de45b75) 
+</how-dask-accelerates-pandas-ecosystem-9c175062f409>  </process-dataset-with-200-million-rows-using-vaex-ad4839710d3b>  </modin-speed-up-your-pandas-notebooks-scripts-and-libraries-c2ac7de45b75>  
 
 # 8.)将对象保存为 Pickle 文件:
 
@@ -151,11 +123,7 @@ Pickle 文件可能是保存和读取数据集或临时文件的首选。Picklin
 
 > 阅读我的一篇[以前的文章](/stop-saving-your-data-frame-in-csv-format-7823d3873ba2)，观察使用各种数据格式进行读取和保存操作的基准时间比较
 
-[](/stop-saving-your-data-frame-in-csv-format-7823d3873ba2) [## 停止以 CSV 格式保存数据框
-
-### 使用各种数据格式进行读取和保存操作的基准时间比较
-
-towardsdatascience.com](/stop-saving-your-data-frame-in-csv-format-7823d3873ba2) 
+</stop-saving-your-data-frame-in-csv-format-7823d3873ba2>  
 
 # 结论:
 
@@ -167,10 +135,6 @@ towardsdatascience.com](/stop-saving-your-data-frame-in-csv-format-7823d3873ba2)
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

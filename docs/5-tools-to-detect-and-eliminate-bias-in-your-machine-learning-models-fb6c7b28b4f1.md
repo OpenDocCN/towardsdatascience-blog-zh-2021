@@ -16,11 +16,7 @@
 
 不同的来源可能导致机器学习模型中的偏差。您使用的数据可能已经有偏差，或者您选择的样本并不能代表整个样本库，或者您的算法可能不适合您的特定问题。不管是什么原因，检测你的机器学习算法中的偏差都不是一件容易的事情。
 
-[](/5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f) [## 每个数据科学家都应该知道的 5 种机器学习偏差
-
-### 要修正你的偏见，你需要知道它为什么会发生。
-
-towardsdatascience.com](/5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f) 
+</5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f>  
 
 这就是为什么在过去几年中，检测机器学习模型中的偏差一直是许多研究人员关注的焦点。这项研究开发了一些工具，你可以用来检查你的机器学习模型是否有偏差。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/5-types-of-machine-learning-bias-every-data-science-sho
 
 **谷歌还提供了许多材料，你可以使用这些材料来了解如何避开假设，并有效地使用它。**
 
-**[](/6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436) [## 提高 ML 模型准确性的 6 种方法
-
-### 简单的步骤获得更好的结果
-
-towardsdatascience.com](/6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436) 
+**</6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436>  
 
 # №2: AI 公平 360
 
@@ -52,11 +44,7 @@ IBM 提供了[*AI Fairness 360*](https://aif360.mybluemix.net/)*，*一个开源
 
 IBM 还提供了大量的[教程和材料](https://aif360.mybluemix.net/resources#tutorials)，你可以用它们来学习如何使用 AI Fairness 360。最后，他们提出了一个针对偏差的[评级系统，可用于验证任何机器学习应用结果。](https://arxiv.org/pdf/1808.00089.pdf)
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # №3:众包
 
@@ -66,11 +54,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 使用众包来检测机器学习应用中的偏见是受隐式关联测试(IAT)的启发。公司和研究人员经常使用 IAT 来衡量和检测人类偏见。使用众包的主要目的是从任何机器学习应用的第一步(也是最重要的一步)中消除偏见，这一步是数据收集和清理，或者通常所说的数据预处理。
 
-[](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) [## 每个数据科学家都应该知道的 10 个 NLP 术语
-
-### 了解术语对于理解任何教程都是必不可少的。
-
-towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) 
+</10-nlp-terms-every-data-scientist-should-know-43d3291643c0>  
 
 # №4:局部可解释的模型不可知解释(LIME)
 
@@ -80,11 +64,7 @@ towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d329164
 
 [*【本地可解释模型不可知解释(LIME)*](https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnostic-explanations-lime/) 是一个用于为不同机器学习模型的行为生成解释的工具。Lime 允许您操作模型的不同组件，以便您可以更好地理解它，并能够指出偏差的来源(如果存在的话)。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 # №5: FairML
 
@@ -98,11 +78,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 最费时费力的步骤之一是检测和减少模型中的偏差。因为偏差可能来自不同的来源和原因，所以开发人员很难指出您的模型中是否存在偏差。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 作为开发人员，我们喜欢创建工具，让我们的未来生活变得更加轻松。这就是为什么在过去的几年里，研究人员努力开发和构建可以帮助检测和减轻偏见的工具，以节省经常浪费在这方面的大量时间和精力。
 

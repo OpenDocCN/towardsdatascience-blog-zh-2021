@@ -50,11 +50,7 @@
 
 很快，我发现 Go Train 服务确实存在一些 API /数据集，如下所示:
 
-[](https://www.metrolinx.com/en/aboutus/opendata/default.aspx) [## Metrolinx 开放数据
-
-### 作为一个省政府机构，Metrolinx 受安大略省的开放数据指令，最大限度地访问…
-
-www.metrolinx.com](https://www.metrolinx.com/en/aboutus/opendata/default.aspx) 
+<https://www.metrolinx.com/en/aboutus/opendata/default.aspx>  
 
 然而，经过一些审查和分析，结论如下:
 
@@ -80,11 +76,7 @@ www.metrolinx.com](https://www.metrolinx.com/en/aboutus/opendata/default.aspx)
 
 经过进一步分析，我们发现 Google GMAIL API 提供了访问邮件的权限，甚至还有推送通知功能。这可用于增量数据处理，避免每次繁重的处理。
 
-[](https://developers.google.com/gmail/api) [## Gmail API |谷歌开发者
-
-### 编辑描述
-
-developers.google.com](https://developers.google.com/gmail/api) 
+<https://developers.google.com/gmail/api>  
 
 一旦我们知道了**如何**获取，现在将关注于**获取什么**，如果我们可以启动访问并处理电子邮件，只找出去火车延迟电子邮件，然后我们可以检索我们需要的信息作为如下模式的警报电子邮件:
 
@@ -110,11 +102,7 @@ developers.google.com](https://developers.google.com/gmail/api)
 
 这是一个专注于以最有效的方式完成工作的极好例子。这不是关于哪种语言/技术是最好的，在我之前的文章中也阐述了这一点。
 
-[](https://medium.com/swlh/dog-fight-python-vs-golang-vs-rust-for-json-processing-33c1ffe15ab9) [## 争夺 JSON 处理的大战——Python VS Golang VS Rust
-
-### 真实世界的用例比较
-
-medium.com](https://medium.com/swlh/dog-fight-python-vs-golang-vs-rust-for-json-processing-33c1ffe15ab9) 
+<https://medium.com/swlh/dog-fight-python-vs-golang-vs-rust-for-json-processing-33c1ffe15ab9>  
 
 让我们开始将它分解为更多的技术细节流程:
 
@@ -143,11 +131,7 @@ medium.com](https://medium.com/swlh/dog-fight-python-vs-golang-vs-rust-for-json-
 
 而且 Google Golang Gmail API 也有现成的代码。
 
-[](https://developers.google.com/gmail/api/quickstart/go) [## 快速入门| Gmail API | Google 开发者
-
-### 完成本页剩余部分描述的步骤，创建一个简单的 Go 命令行应用程序，使…
-
-developers.google.com](https://developers.google.com/gmail/api/quickstart/go) 
+<https://developers.google.com/gmail/api/quickstart/go>  
 
 ## 2.应用程序初始和主序列运行流程
 
@@ -222,11 +206,7 @@ T2:这是一个独特的构建和学习项目；本文中显示的数字、分�
 
 我开始写作之旅已经快三年了。你们的支持是让我不断前进，写出更多精彩学习分享的最重要动力。
 
-[](https://jayhuang75.medium.com/membership) [## 用我的推荐链接-黄伟加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jayhuang75.medium.com](https://jayhuang75.medium.com/membership) 
+<https://jayhuang75.medium.com/membership>  
 
 另外，你可以用下面的链接给我买一杯咖啡，让我有动力在周末进行更多的锻炼和学习。
 
@@ -234,8 +214,4 @@ jayhuang75.medium.com](https://jayhuang75.medium.com/membership)
 
 你能给我买杯咖啡吗？
 
-[](https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315) [## Go 列车延误分析的数据管道——第二部分
-
-### BI 仪表板和弹性搜索，如 API Power by Rust
-
-medium.com](https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315)
+<https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315> 

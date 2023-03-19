@@ -14,11 +14,7 @@ Alex Kotliarskyi 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 在我第一次参加黑客马拉松之前，我问了自己所有这些问题，尽管我怀疑自己知道的还不够多，还没有准备好与比我有更多知识和新经验的人竞争，但我还是参加了。
 
-[](/5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa) [## 5 次数据科学黑客马拉松，增长和提高您的技能
-
-### 结识新朋友，帮助解决世界问题。
-
-towardsdatascience.com](/5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa) 
+</5-data-science-hackathons-to-grow-and-improve-your-skills-ccfb41193eaa>  
 
 但是，我超越了自我怀疑，最终推动自己去体验黑客马拉松到底是怎么回事。在我的第一个之后，我开始扮演不同的角色，帮助组织黑客马拉松，参加一些，在一个案例中，我是一名法官。参加了几次黑客马拉松后，你开始制定一个计划，让你充分利用这次经历，即使你的团队没有获奖，你也能获得成功。
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/5-data-science-hackathons-to-grow-and-improve-your-skil
 
 几乎所有的黑客马拉松都围绕一个特定的主题或问题领域来解决。这个主题通常在参与者注册之前就已经知道了。确保你阅读了主题和你将在活动中试图解决的问题。了解问题集或主题的背景将有助于你在活动中做到最好，而不是浪费时间试图赶上主题。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 ## 4.通过不和谐或懈怠开始与其他与会者交流
 
@@ -66,11 +58,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 我知道，当任何人想到黑客马拉松时，他们会想到一个半黑暗的房间，一些人都在键盘上快速打字。但是，黑客马拉松不仅仅是一场速度编码竞赛。休息一下，和你的团队谈谈，和其他团队以及组织者谈谈。黑客马拉松是一个很好的机会来建立一个网络，当你未来开始找工作或实习或任何事情时，这个网络可以帮助你。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 ## 4.积极主动。
 
@@ -84,11 +72,7 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 你完了！经历不必因为事件结束而结束。
 
-[](/5-youtube-playlists-that-teach-you-all-about-data-science-ea300d6d8ed5) [## 5 个 YouTube 播放列表，教你所有关于数据科学的知识
-
-### 从一个来源获得你需要的所有知识
-
-towardsdatascience.com](/5-youtube-playlists-that-teach-you-all-about-data-science-ea300d6d8ed5) 
+</5-youtube-playlists-that-teach-you-all-about-data-science-ea300d6d8ed5>  
 
 ## 1.与你的关系保持联系
 
@@ -104,10 +88,6 @@ towardsdatascience.com](/5-youtube-playlists-that-teach-you-all-about-data-scien
 
 在第一次黑客马拉松之后，我开始参加和组织更多的活动和比赛；不仅如此，我的主要目标是鼓励人们去争取，不要怀疑自己。毕竟，不管你的知识水平如何，在黑客马拉松中，每个人都有一些东西可以提供给团队。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 如果你不是一个伟大的程序员，你可以成为一名设计师，如果你不是一名优秀的设计师，你可以管理团队，如果你不擅长这些事情，那么也许你可以做最后的演示。关键是，你可以为你的团队提供一些东西，所以不要怀疑自己，专注于充分利用这段经历。

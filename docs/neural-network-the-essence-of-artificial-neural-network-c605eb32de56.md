@@ -74,16 +74,4 @@
 
 ## 参考
 
-[](https://extension.umaine.edu/publications/4356e/#:~:text=At%20birth%2C%20a%20baby%27s%20brain,about%20three%20weeks%20after%20conception.) [## 公告#4356，儿童和大脑发展:我们所知道的儿童如何学习-合作…
-
-### 缅因大学合作推广部人类发展推广专家 Judith Graham 编写。已修订…
-
-extension.umaine.edu](https://extension.umaine.edu/publications/4356e/#:~:text=At%20birth%2C%20a%20baby%27s%20brain,about%20three%20weeks%20after%20conception.) [](/common-loss-functions-in-machine-learning-46af0ffc4d23) [## 机器学习中常见的损失函数
-
-### 机器通过损失函数来学习。这是一种评估特定算法如何模拟给定算法的方法…
-
-towardsdatascience.com](/common-loss-functions-in-machine-learning-46af0ffc4d23) [](/activation-functions-neural-networks-1cbd9f8d91d6) [## 神经网络中的激活函数
-
-### Sigmoid，tanh，Softmax，ReLU，Leaky ReLU 解释！！！
-
-towardsdatascience.com](/activation-functions-neural-networks-1cbd9f8d91d6)
+<https://extension.umaine.edu/publications/4356e/#:~:text=At%20birth%2C%20a%20baby%27s%20brain,about%20three%20weeks%20after%20conception.>  </common-loss-functions-in-machine-learning-46af0ffc4d23>  </activation-functions-neural-networks-1cbd9f8d91d6> 

@@ -14,19 +14,11 @@
 
 如果您错过了关于如何设置我们的环境和本地服务器的第 1 集，请阅读本文:
 
-[](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) [## 了解 SQL Server Management Studio —第 1 部分分步安装
-
-### 这是一个免费且强大的工具，可以利用数据、提高技能并在面试中脱颖而出
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) 
+</getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0>  
 
 如果您错过了第 2 集，关于使用设计工具或通过编写查询来创建数据库和表，以及关于命名约定的重要性，请继续阅读本文😉。
 
-[](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) [## 了解 SQL Server Management Studio —第 2 部分数据库、表和命名约定
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) 
+</getting-started-with-sql-server-management-studio-5cd24bb1a87c>  
 
 # 期待什么？
 
@@ -411,11 +403,7 @@ SELECT * FROM [HR_data].[dbo].[Employees]
 
 # 从关于模式和规范化的第 4 集开始继续这一旅程！
 
-[](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) [## 了解 SQL Server Management Studio —第 4 部分架构和规范化
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) 
+</learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258>  
 
 ## 或者选择你喜欢的另一集
 

@@ -294,34 +294,6 @@ PyCaret —作者图片
 
 # 更多 PyCaret 相关教程:
 
-[](/machine-learning-in-alteryx-with-pycaret-fafd52e2d4a) [## 用 PyCaret 在 Alteryx 中进行机器学习
+</machine-learning-in-alteryx-with-pycaret-fafd52e2d4a>  </machine-learning-in-knime-with-pycaret-420346e133e2>  </easy-mlops-with-pycaret-mlflow-7fbcbf1e38c6>  </write-and-train-your-own-custom-machine-learning-models-using-pycaret-8fa76237374e> [## 使用 PyCaret 编写和训练您自己的自定义机器学习模型
 
-### 使用 PyCaret 在 Alteryx Designer 中训练和部署机器学习模型的分步教程
-
-towardsdatascience.com](/machine-learning-in-alteryx-with-pycaret-fafd52e2d4a) [](/machine-learning-in-knime-with-pycaret-420346e133e2) [## 用 PyCaret 实现 KNIME 中的机器学习
-
-### 使用 PyCaret 在 KNIME 中训练和部署端到端机器学习管道的分步指南
-
-towardsdatascience.com](/machine-learning-in-knime-with-pycaret-420346e133e2) [](/easy-mlops-with-pycaret-mlflow-7fbcbf1e38c6) [## 使用 PyCaret + MLflow 轻松实现 MLOps
-
-### 一个初学者友好的，一步一步的教程，使用 PyCaret 在你的机器学习实验中集成 MLOps
-
-towardsdatascience.com](/easy-mlops-with-pycaret-mlflow-7fbcbf1e38c6) [](/write-and-train-your-own-custom-machine-learning-models-using-pycaret-8fa76237374e) [## 使用 PyCaret 编写和训练您自己的自定义机器学习模型
-
-towardsdatascience.com](/write-and-train-your-own-custom-machine-learning-models-using-pycaret-8fa76237374e) [](/build-with-pycaret-deploy-with-fastapi-333c710dc786) [## 用 PyCaret 构建，用 FastAPI 部署
-
-### 一步一步，初学者友好的教程，如何建立一个端到端的机器学习管道与 PyCaret 和…
-
-towardsdatascience.com](/build-with-pycaret-deploy-with-fastapi-333c710dc786) [](/time-series-anomaly-detection-with-pycaret-706a6e2b2427) [## 基于 PyCaret 的时间序列异常检测
-
-### 使用 PyCaret 对时间序列数据进行无监督异常检测的分步教程
-
-towardsdatascience.com](/time-series-anomaly-detection-with-pycaret-706a6e2b2427) [](/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9) [## 使用 PyCaret 和 Gradio 增强您的机器学习实验
-
-### 快速开发机器学习管道并与之交互的循序渐进教程
-
-towardsdatascience.com](/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9) [](/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe) [## 基于 PyCaret 的多时间序列预测
-
-### 使用 PyCaret 预测多个时间序列的分步教程
-
-towardsdatascience.com](/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe)
+towardsdatascience.com](/write-and-train-your-own-custom-machine-learning-models-using-pycaret-8fa76237374e) </build-with-pycaret-deploy-with-fastapi-333c710dc786>  </time-series-anomaly-detection-with-pycaret-706a6e2b2427>  </supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9>  </multiple-time-series-forecasting-with-pycaret-bc0a779a22fe> 

@@ -130,20 +130,4 @@ github:[https://github.com/arguz95/United](https://github.com/arguz95/United)
 
 ***随时联系我们！***
 
-[](https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/) [## 阿诺·古兹曼-安妮-麦吉尔大学-加拿大| LinkedIn
-
-### 我精力充沛，充满活力，通过促进沟通、团队合作和提供领导能力，有效地开展项目…
-
-www.linkedin.com](https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/) [](https://www.linkedin.com/in/ramprakash-babu/) [## 加拿大魁北克蒙特利尔大学管理学院
-
-### 我是麦吉尔大学的一名分析学管理硕士，对数据科学和…
-
-www.linkedin.com](https://www.linkedin.com/in/ramprakash-babu/) [](https://www.linkedin.com/in/alfonso-cabello/) [## 阿方索·卡韦略-UX/界面顾问-罗杰斯通讯| LinkedIn
-
-### 查看阿方索·卡贝略在全球最大的职业社区 LinkedIn 上的个人资料。阿方索有 6 份工作列在…
-
-www.linkedin.com](https://www.linkedin.com/in/alfonso-cabello/) [](https://www.linkedin.com/in/jules-zielinski/) [## 朱尔斯·齐林斯基-麦吉尔大学助教| LinkedIn
-
-### 在分析管理硕士学生专门在使用和解释数据使用机器学习…
-
-www.linkedin.com](https://www.linkedin.com/in/jules-zielinski/)
+<https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/>  <https://www.linkedin.com/in/ramprakash-babu/>  <https://www.linkedin.com/in/alfonso-cabello/>  <https://www.linkedin.com/in/jules-zielinski/> 

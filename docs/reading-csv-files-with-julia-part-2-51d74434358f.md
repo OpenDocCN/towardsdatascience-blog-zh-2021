@@ -14,11 +14,7 @@
 
 这是与 Julia 一起阅读 CSV 文章的第 2 部分，所以如果您是新来的，请查看第 1 部分:
 
-[](/reading-csv-files-with-julia-e2623fb62938) [## 与 Julia 一起阅读 CSV 文件
-
-### 了解如何使用 CSV.jl 读取各种逗号分隔的文件
-
-towardsdatascience.com](/reading-csv-files-with-julia-e2623fb62938) 
+</reading-csv-files-with-julia-e2623fb62938>  
 
 和以前一样，我们从导入包和模拟一些虚拟数据开始。我将重用上一篇文章中的`write_string`函数。
 
@@ -126,12 +122,4 @@ julia> animals_table2[animals_table2[:Liked], :]
 
 如果你正在寻找更多的朱莉娅文章，看看这些:
 
-[](/vectorize-everything-with-julia-ad04a1696944) [## 向量化朱莉娅的一切
-
-### 告别 for loops，广播所有的东西
-
-towardsdatascience.com](/vectorize-everything-with-julia-ad04a1696944) [](/control-flow-basics-with-julia-c4c10abf4dc2) [## Julia 的控制流基础知识
-
-### 休息，继续和所有其他有趣的事情
-
-towardsdatascience.com](/control-flow-basics-with-julia-c4c10abf4dc2)
+</vectorize-everything-with-julia-ad04a1696944>  </control-flow-basics-with-julia-c4c10abf4dc2> 

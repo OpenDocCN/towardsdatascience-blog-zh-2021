@@ -50,11 +50,7 @@ Python 附带了一个名为`copy`的模块，它提供了某些复制功能。�
 
 关于 Python 的动态类型模型的更多细节，你可以在 Medium 上阅读我的一篇文章:
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### ..是语言灵活性的根源
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) 
+</dynamic-typing-in-python-307f7c22b24e>  
 
 ## 正常分配
 

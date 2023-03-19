@@ -84,11 +84,7 @@ x[i]: number of temporary workers hired for shift i**Constraints**
 The total number of temporary workers hired for all shifts i = 1 … 7 should be minimal
 ```
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。纸浆线性规划
 
@@ -137,11 +133,7 @@ PuLP 是由 COIN-OR Foundation(运筹学计算基础设施)维护的用 Python �
 
 除了优化您的劳动力分配，您还可以遵循流程改进方法来提高每个工人的生产率，就像本文中介绍的拣选方法一样。
 
-[](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [## 使用 Python 的订单批处理提高仓库生产率
-
-### 物流持续改进设计一个模拟模型来估计几个单拣货员路线的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) 
+<https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/>  
 
 # 三。结论和下一步措施
 
@@ -167,11 +159,7 @@ www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-usin
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

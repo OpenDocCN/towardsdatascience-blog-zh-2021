@@ -45,11 +45,7 @@
 
 如果您发现自己通过一遍又一遍地复制工具来复制工作流程中的流程，您可能有机会通过将这些流程转换为批处理宏来简化工作流程。要了解更多关于批处理宏的信息，请看 Alteryx 的“批处理宏入门”帖子:
 
-[](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Getting-Started-with-Batch-Macros/ta-p/488165) [## 批处理宏入门
-
-### 如何开始使用批处理宏如果您是在 Designer 中使用宏的新手，可以从…
-
-community.alteryx.com](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Getting-Started-with-Batch-Macros/ta-p/488165) 
+<https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Getting-Started-with-Batch-Macros/ta-p/488165>  
 
 ## 5.首次运行前保存您的工作流程
 
@@ -71,11 +67,7 @@ community.alteryx.com](https://community.alteryx.com/t5/Alteryx-Designer-Knowled
 
 要全面了解数据库内工具，可以参考 Alteryx 文档页面:
 
-[](https://help.alteryx.com/20213/designer/in-database-overview) [## 主页| Alteryx 帮助
-
-### 编辑描述
-
-help.alteryx.com](https://help.alteryx.com/20213/designer/in-database-overview) 
+<https://help.alteryx.com/20213/designer/in-database-overview>  
 
 此外，当我开发一个工作流时，我经常查询数据库并将结果存储在一个. yxdb ( [Alteryx 数据库文件格式中。](https://help.alteryx.com/20213/designer/alteryx-database-file-format))然后我用了。yxdb 文件作为我的工作流的输入，这样:1 .工作流程运行速度更快。当我重新工作和测试我的过程时，我不会用大量的查询来访问数据库。
 
@@ -87,8 +79,4 @@ help.alteryx.com](https://help.alteryx.com/20213/designer/in-database-overview)
 
 如果您以前从未使用过 Alteryx，以下是我认为您应该尝试的一些原因:
 
-[](/why-you-should-learn-alteryx-5e5fcbc557ae) [## 为什么要学习 Alteryx
-
-### 你可以告别为数据争论和数据清理而编码了
-
-towardsdatascience.com](/why-you-should-learn-alteryx-5e5fcbc557ae)
+</why-you-should-learn-alteryx-5e5fcbc557ae> 

@@ -102,20 +102,8 @@
 
 ****如果你喜欢这篇文章，这里有更多！****
 
-****[](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [## 使用 Plotly 在一个动画情节中表现 5 个特征
+****</representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </effortless-exploratory-data-analysis-eda-201c99324857> [## 轻松的探索性数据分析(EDA)
 
-### 使用单个动画气泡图来分析数据和观察趋势。
+towardsdatascience.com](/effortless-exploratory-data-analysis-eda-201c99324857) </replacing-lewa-5808cf020bfa>  
 
-towardsdatascience.com](/representing-5-features-in-a-single-animated-plot-using-plotly-e4f6064c7f46) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/effortless-exploratory-data-analysis-eda-201c99324857) [## 轻松的探索性数据分析(EDA)
-
-towardsdatascience.com](/effortless-exploratory-data-analysis-eda-201c99324857) [](/replacing-lewa-5808cf020bfa) [## 取代莱瓦！
-
-### 利用机器学习寻找伟大罗伯特·莱万多夫斯基的潜在接班人。
-
-towardsdatascience.com](/replacing-lewa-5808cf020bfa) 
-
-查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。你可以在这里联系我[](https://rajsangani.me/)****。*** 感谢您的配合！*****
+查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。你可以在这里联系我<https://rajsangani.me/>****。*** 感谢您的配合！*****

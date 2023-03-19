@@ -89,11 +89,7 @@ NLP 任务:其他任务(作者的图表)
 *   对话中的语音分离包括分离在单个麦克风中同时说话的几个语音。
 *   [语音合成](https://en.wikipedia.org/wiki/Speech_synthesis)是从文本中生成语音。下面是我关于语音合成技术的文章的链接。
 
-[](/state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2) [## 2021 年 5 月底语音合成的技术水平
-
-### 2021 年 5 月底语音合成研究的最新进展，重点是深度学习…
-
-towardsdatascience.com](/state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2) 
+</state-of-the-art-of-speech-synthesis-at-the-end-of-may-2021-6ace4fd512f2>  
 
 # 光学识别
 
@@ -111,11 +107,7 @@ towardsdatascience.com](/state-of-the-art-of-speech-synthesis-at-the-end-of-may-
 *   [讽刺](https://en.wikipedia.org/wiki/Sarcasm)或[讽刺](https://en.wikipedia.org/wiki/Irony)的检测。
 *   感觉/情绪分析。这是为了确定一个文本是否包含感觉或情绪。下面是我关于情绪/情感分析的文章的链接。
 
-[](/is-your-chatbot-sensitive-575ad0217707) [## 你的聊天机器人敏感吗？
-
-### 对话辅助解决方案越来越多地包括情感分析功能。这是什么意思？是不是…
-
-towardsdatascience.com](/is-your-chatbot-sensitive-575ad0217707) 
+</is-your-chatbot-sensitive-575ad0217707>  
 
 *   意见提取类似于情感检测，但是在于检测意见的主题。
 *   语义聚类包括在没有监督的情况下生成具有相同语义的单词、句子的集合/组。

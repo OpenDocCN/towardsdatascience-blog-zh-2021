@@ -37,19 +37,7 @@
 
 使用下面的文章和研究论文来更好地理解高光谱图像。
 
-[](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [## 超光谱图像分析—入门
-
-### 使用 Python 进行高光谱图像分析的演练。
-
-towardsdatascience.com](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [## 使用 EarthPy 对卫星图像进行探索性数据分析
-
-### 在本文中，我们将使用 EarthPy 来处理卫星图像，并进行探索性数据分析(EDA)…
-
-towardsdatascience.com](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [](https://link.springer.com/chapter/10.1007/978-3-662-47456-3_9) [## 超光谱遥感应用简介
-
-### 植被指数叶面积指数高光谱数据悬浮泥沙含量土地类这些…
-
-link.springer.com](https://link.springer.com/chapter/10.1007/978-3-662-47456-3_9) 
+</hyperspectral-image-analysis-getting-started-74758c12f2e9>  </exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293>  <https://link.springer.com/chapter/10.1007/978-3-662-47456-3_9>  
 
 # 卷积神经网络(CNN)
 
@@ -162,44 +150,12 @@ CNN 模型摘要—作者图片
 
 > 详细的实践教程可以通过下面的 GitHub 链接获得。
 
-[](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/tree/master/1D_CNN) [## syamkakarla 98/超光谱 _ 图像 _ 分析 _ 简化
-
-### 使用 python 进行简单的高光谱图像分析，还实现了不同的机器学习技术。…
-
-github.com](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/tree/master/1D_CNN) 
+<https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/tree/master/1D_CNN>  
 
 # 更多来自作者
 
-[](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [## 使用 EarthPy 对卫星图像进行探索性数据分析
-
-### 在本文中，我们将使用 EarthPy 来处理卫星图像，并进行探索性数据分析(EDA)…
-
-towardsdatascience.com](/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293) [](/land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e) [## 利用深度神经网络对高光谱图像进行土地覆盖分类
-
-### 使用深度学习(DL)对使用 Python 的高光谱影像进行土地覆盖分类。
-
-towardsdatascience.com](/land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e) [](/autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b) [## 高光谱图像土地覆盖分类自动编码器第一部分
-
-### 使用 Python 使用自动编码器对高光谱图像进行土地覆盖分类的演练。
-
-towardsdatascience.com](/autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b) [](/beginners-guide-to-pyspark-bbe3b553b79f) [## PySpark 初学者指南
-
-### 第 1 章:使用美国股票价格数据介绍 PySpark
-
-towardsdatascience.com](/beginners-guide-to-pyspark-bbe3b553b79f) 
+</exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293>  </land-cover-classification-of-hyperspectral-imagery-using-deep-neural-networks-2e36d629a40e>  </autoencoders-for-land-cover-classification-of-hyperspectral-images-part-1-c3c847ebc69b>  </beginners-guide-to-pyspark-bbe3b553b79f>  
 
 # 参考
 
-[](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) [## 高光谱遥感场景
-
-### 收集者:M . graa，MA Veganzons，B . ayer di 在这里你可以找到一些公开的高光谱信息…
-
-www.ehu.eus](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) [](https://plotly.com/python/) [## Plotly Python 图形库
-
-### Plotly 的 Python 图形库制作出交互式的、出版物质量的图形。如何制作线图的示例…
-
-plotly.com](https://plotly.com/python/) [](https://keras.io/) [## keras:Python 深度学习 API
-
-### Keras 是为人类设计的 API，不是为机器设计的。Keras 遵循减少认知负荷的最佳实践:it…
-
-keras.io](https://keras.io/)
+<http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes>  <https://plotly.com/python/>  <https://keras.io/> 

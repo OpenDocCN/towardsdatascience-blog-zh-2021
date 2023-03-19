@@ -146,27 +146,7 @@ print("Score:", result['score'])
 
 如果你有任何问题或讨论，欢迎在下面评论！希望很快见到大家。如果你喜欢我的作品，请随意浏览我以前的其他帖子:
 
-[](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) [](/abstractive-summarization-using-pytorch-f5063e67510) [## 使用 Pytorch 的抽象摘要
-
-### 总结任何文本使用变压器在几个简单的步骤！
-
-towardsdatascience.com](/abstractive-summarization-using-pytorch-f5063e67510) [](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [## 使用 Pytorch 的变压器机器翻译
-
-### 只需简单的几个步骤就可以将任何语言翻译成另一种语言！
-
-towardsdatascience.com](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [](/bert-text-classification-using-pytorch-723dfb8b6b5b) [## 使用 Pytorch 的 BERT 文本分类
-
-### 文本分类是自然语言处理中的一项常见任务。我们应用 BERT，一个流行的变压器模型，对假新闻检测使用…
-
-towardsdatascience.com](/bert-text-classification-using-pytorch-723dfb8b6b5b) [](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) [## 使用 Pytorch 微调用于文本生成的 GPT2
-
-### 使用 Pytorch 和 Huggingface 微调用于文本生成的 GPT2。我们在 CMU 图书摘要数据集上进行训练，以生成…
-
-towardsdatascience.com](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) 
+</semantic-similarity-using-transformers-8f3cb5bf66d6>  </abstractive-summarization-using-pytorch-f5063e67510>  </machine-translation-with-transformers-using-pytorch-f121fe0ad97b>  </bert-text-classification-using-pytorch-723dfb8b6b5b>  </fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7>  
 
 # 参考
 

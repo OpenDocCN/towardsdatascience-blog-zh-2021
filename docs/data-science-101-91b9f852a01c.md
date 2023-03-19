@@ -83,11 +83,7 @@
 
 如果您想要一个大的快捷方式，您可以使用`pandas profiling`，它显示了关于您的数据框架的所有这些描述性统计数据，并且在短短几行代码中显示了更多内容[5]:
 
-[](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/) [## 简介-熊猫-简介 2.12.0 文档
-
-### 从熊猫生成档案报告。熊猫的 df.describe()函数很棒，但是对于严肃的……
-
-pandas-profiling.github.io](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/) 
+<https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/>  
 
 # 特征工程
 

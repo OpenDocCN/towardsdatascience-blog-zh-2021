@@ -243,8 +243,4 @@ f3 <- f2+
 
 **参考**
 
- [## Slopegraphs 和 R -愉快的转移-2018 年 5 月 26 日
-
-### 我试着每天至少浏览一下 R 博客的内容。不是每篇文章我都感兴趣，但我经常有一篇…
-
-ibecav.github.io](https://ibecav.github.io/slopegraph/)
+ 

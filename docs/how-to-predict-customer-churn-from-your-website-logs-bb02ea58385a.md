@@ -26,15 +26,7 @@
 
 > 你想先看看我的代码吗？请检查我的 Kaggle 笔记本或 Github 库。
 
-[](https://www.kaggle.com/suhong/a-tutorial-of-customer-churn-analysis-prediction) [## 客户流失分析与预测教程
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/suhong/a-tutorial-of-customer-churn-analysis-prediction) [](https://github.com/suhongkim/Churn-Prediciton-At-Scale.git) [## suhongkim/大规模流失预测
-
-### 利用 Sparkify(音乐流媒体网站)的用户日志文件的大数据，分析数据并预测用户流失
-
-github.com](https://github.com/suhongkim/Churn-Prediciton-At-Scale.git) 
+<https://www.kaggle.com/suhong/a-tutorial-of-customer-churn-analysis-prediction>  <https://github.com/suhongkim/Churn-Prediciton-At-Scale.git>  
 
 # 如何预测客户流失？
 

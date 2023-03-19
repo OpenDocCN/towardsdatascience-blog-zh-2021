@@ -56,16 +56,4 @@ docker compose up
 
 # 相关职位
 
-[](/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392) [## 如何对接现有的 Ruby on Rails 应用程序
-
-### 轻松运行 rails 应用程序
-
-towardsdatascience.com](/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392) [](/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428) [## 如何对现有的 Sinatra 应用程序进行 Dockerize
-
-### 轻松运行 Sinatra 应用程序
-
-towardsdatascience.com](/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428) [](/how-to-dockerize-an-existing-flask-application-115408463e1c) [## 如何对接现有的 Flask 应用程序
-
-### 轻松运行烧瓶应用程序
-
-towardsdatascience.com](/how-to-dockerize-an-existing-flask-application-115408463e1c)
+</how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392>  </how-to-dockerize-an-existing-sinatra-application-3a6943d7a428>  </how-to-dockerize-an-existing-flask-application-115408463e1c> 

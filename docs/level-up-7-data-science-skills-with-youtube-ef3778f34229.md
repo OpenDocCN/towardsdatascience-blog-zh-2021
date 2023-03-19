@@ -48,15 +48,7 @@ SQL 是用于与数据库通信并通过数据提取和查询获得洞察力的�
 
 如果您想了解更多细节，这些文章可能会有所帮助:
 
-[](/learn-sql-in-everyday-language-8d1e06f4daef) [## 用日常语言学习 SQL
-
-### SQL 就像 Excel 一样
-
-towardsdatascience.com](/learn-sql-in-everyday-language-8d1e06f4daef) [](/get-started-with-sql-joins-87835422644b) [## SQL 连接入门
-
-### 使用示例学习左连接、内连接、自连接
-
-towardsdatascience.com](/get-started-with-sql-joins-87835422644b) 
+</learn-sql-in-everyday-language-8d1e06f4daef>  </get-started-with-sql-joins-87835422644b>  
 
 **4。编程**
 
@@ -164,22 +156,6 @@ Nate 在 StrataScratch 频道专业化(图片由作者提供)
 
 ## **更多类似的文章**
 
-[](/five-data-science-podcasts-to-follow-1b82d7a092a5) [## 2021 年将推出 5 个数据科学播客
-
-### 当没有学习数据科学的动机时，您每天的灵感剂量
-
-towardsdatascience.com](/five-data-science-podcasts-to-follow-1b82d7a092a5) [](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [## 2021 年数据科学家关注的 15 大网站
-
-### 启发学习的网站和博客
-
-medium.com](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## Python 中的特征选择和 EDA
-
-### 如何使用数据可视化来指导 ML 中的特征选择
-
-towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) [](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) 
+</five-data-science-podcasts-to-follow-1b82d7a092a5>  <https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d>  </feature-selection-and-eda-in-python-c6c4eb1058a3>  </simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  
 
 *原载于 2021 年 4 月 10 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/level-up-7-data-science-skills-with-these-youtube-channels)*。*

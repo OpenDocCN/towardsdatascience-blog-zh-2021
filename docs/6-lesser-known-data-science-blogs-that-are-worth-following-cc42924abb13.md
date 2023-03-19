@@ -14,11 +14,7 @@
 
 有些人喜欢跟随流行的信息来源，因为毕竟，如果一件事广为人知，那么它就是好的。不幸的是，情况并非总是如此；有时候运气来了，尤其是当我们谈论互联网的时候。然而，这并不是说流行的数据科学教育资源不好。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 但是，在这个极具挑战性和要求很高的领域，引起注意并不总是容易的，不是因为资源的质量，而是因为资源的数量。作为一个从零开始并仍有很长路要走的数据科学博客作者，我理解新博客作者为证明自己并脱颖而出所经历的斗争。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 该博客专注于数据科学的纯技术方面，包括关于数据科学实际应用的教程文章。此外，该博客还有一个职业板块，可以找到一些数据科学方面的空缺和工作职位。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №2:数据经济
 
@@ -54,7 +46,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 **该博客包含许多关于数据科学不同主题的教程，以及实现这些教程的代码。他们还有一个特定的部分，提供关于编写有效的数据科学算法、在数据科学中成功等的技巧和诀窍。最后，他们提供了一个提示部分，展示了执行日常数据科学任务的最有效方法。**
 
-**[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+**</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -76,7 +68,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 我从一无所有开始；我从未想过人们会觉得我的文章有用；我的全部目标是写一些至少对一个人有益的东西。我很高兴每一个分享我的作品并帮助我增加我的观众的人，所以我想为那些努力提供高质量作品的博客们做同样的事情。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

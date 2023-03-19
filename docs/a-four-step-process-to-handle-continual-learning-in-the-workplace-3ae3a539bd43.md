@@ -68,16 +68,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/a-quick-and-easy-morning-routine-to-jumpstart-a-productive-week-6f35dc28f739) [## 快速简单的晨间例行公事，开启富有成效的一周
-
-### 如何在合适的时间开始你的周一早晨
-
-towardsdatascience.com](/a-quick-and-easy-morning-routine-to-jumpstart-a-productive-week-6f35dc28f739) [](/top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7) [## 离开我热爱的工作的三大教训
-
-### 跳槽到下一个机会:成为数据科学顾问
-
-towardsdatascience.com](/top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7) [](/with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981) [## 随着大数据的出现，了解正确背景变得越来越重要
-
-### 在开发算法之前，理解 3 个关键问题中的业务目标
-
-towardsdatascience.com](/with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981)
+</a-quick-and-easy-morning-routine-to-jumpstart-a-productive-week-6f35dc28f739>  </top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7>  </with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981> 

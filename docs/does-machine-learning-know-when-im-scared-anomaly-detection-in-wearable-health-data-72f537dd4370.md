@@ -197,15 +197,7 @@ print(X_train.shape, y_train.shape)
 
 我们的数据已经成功整形，现在可以构建我们的 autoencoder 了。本文不会深入讨论自动编码器和 LSTMs 的细节，但是我强烈建议查看以下信息:
 
-[](/anomaly-detection-using-autoencoders-5b032178a1ea) [## 使用自动编码器的异常检测
-
-### 使用 TensorFlow 中的自动编码器执行欺诈检测
-
-towardsdatascience.com](/anomaly-detection-using-autoencoders-5b032178a1ea) [](/lstm-for-time-series-prediction-de8aeb26f2ca) [## 时间序列预测的 LSTM
-
-### 用 PyTorch 训练长短期记忆神经网络并预测比特币交易数据
-
-towardsdatascience.com](/lstm-for-time-series-prediction-de8aeb26f2ca) 
+</anomaly-detection-using-autoencoders-5b032178a1ea>  </lstm-for-time-series-prediction-de8aeb26f2ca>  
 
 自动编码器将由分成编码器和解码器的 LSTM 层组成。首先，模型会将数据的输入序列编码成其关键特征的**简化表示，然后解码器会学习如何将该简化表示转换回其原始输入状态。使用自动编码器方法允许我们**在数据集**内创建“正常”特征的表示。因此，当输入异常序列时，模型将不能重建其简化表示，这将导致较高的模型误差。**
 

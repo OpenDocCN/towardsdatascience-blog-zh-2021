@@ -51,11 +51,7 @@ freq_dis_pos
 
 在我们的输出中，我们看到值以降序排列。这个顺序有助于我们知道哪个频率值最大。如果我们有一个名义变量的情况，这个顺序对我们有帮助。如果你的变量是用序数、区间或比率尺度来衡量的，那么分析起来就会变得更加困难。为了理解这个变量，你可以看看我们之前关于变量的帖子。
 
-[](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5) [## 熟悉数据科学最重要的武器~变量
-
-### 变量类型的基本概念、测量级别和不同的 python 表示技术
-
-towardsdatascience.com](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5) 
+</get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5>  
 
 总之，这个表将帮助你找到变量类型。
 

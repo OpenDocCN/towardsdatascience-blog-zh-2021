@@ -361,11 +361,7 @@ AWS CodePipeline 使数据科学家更容易执行 MLOps。希望亚马逊可以
 
 **注意:完成后一定要删除 SageMaker 端点**
 
-[](https://github.com/hd2zm/Data-Science-Projects/tree/master/Medium/Serverless_CI_CD) [## hd2zm/数据科学项目
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/hd2zm/Data-Science-Projects/tree/master/Medium/Serverless_CI_CD) 
+<https://github.com/hd2zm/Data-Science-Projects/tree/master/Medium/Serverless_CI_CD>  
 
 感谢阅读！如果你想阅读更多我的作品，请查看我的目录。
 

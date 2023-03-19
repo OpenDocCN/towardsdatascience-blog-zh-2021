@@ -8,23 +8,11 @@
 
 大家好，欢迎回到进化计算的完整课程！在本帖中，我们将开始课程的第 5 单元，进化编程。在上一篇文章中，我们通过解释标准遗传算法和遗传编程之间的主要区别，开始并完成了单元 4)遗传编程，此外还进化了时间序列分析问题的基本方程。你可以在这里查看:
 
-[](https://morganscottbrandon.medium.com/unit-4-genetic-programming-d80cd12c454f) [## 第 4 单元)遗传程序设计
-
-### 涵盖遗传规划的主要课题，并将其应用于时间序列分析问题
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-4-genetic-programming-d80cd12c454f) 
+<https://morganscottbrandon.medium.com/unit-4-genetic-programming-d80cd12c454f>  
 
 在本帖中，我们将涵盖进化编程和标准遗传算法之间的所有主要差异；即生存的变异和选择算子。如果这是你第一次看这个课程，请查看这两篇介绍进化计算的文章，这样你就能理解这里提出的概念:
 
-[](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-towardsdatascience.com](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-2-introduction-to-evolutionary-computation-85764137c05a>  </unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 # **目录**
 
@@ -174,8 +162,4 @@ towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
 
 在应用方面，进化规划最常用于调度与路由、电力系统、设计系统等约束环境。请继续关注下一篇文章，我们将通过解决一个真正的约束非线性规划问题来结束第 5 单元，这个问题被称为**压力容器设计问题，**我们可以在上面看到一个基本的图表。
 
-[](/unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef) [## 单元 5 应用)优化约束非线性压力容器设计问题
-
-### 我们将应用进化规划来寻找压力容器设计问题的最佳解决方案
-
-towardsdatascience.com](/unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef)
+</unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef> 

@@ -12,11 +12,7 @@
 
 在之前的一篇文章中，我们研究了泊松隐马尔可夫模型的架构，并考察了它的理论基础。如果你不熟悉马尔可夫模型或泊松模型，我鼓励你在这里回顾一下:
 
-[](/the-poisson-hidden-markov-model-for-time-series-regression-236c269914dd) [## 时间序列回归的泊松隐马尔可夫模型
-
-### 如何混合使用两个强大的随机过程来模拟时间序列数据
-
-towardsdatascience.com](/the-poisson-hidden-markov-model-for-time-series-regression-236c269914dd) 
+</the-poisson-hidden-markov-model-for-time-series-regression-236c269914dd>  
 
 在本文中，我们将通过 Python 和 statsmodels 中的一步一步的教程来构建和训练一个泊松 HMM，它基于美国制造业中真实世界的劳工罢工数据集，在统计建模的文献中被广泛使用。
 
@@ -611,18 +607,6 @@ self.k_regimes = k_regimes**
 
 # *相关文章*
 
-*[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [## 数学爱好者的隐马尔可夫模型指南
-
-### 它们是如何工作的，以及它们为什么被“隐藏”起来。
-
-towardsdatascience.com](/a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8) [](/a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3) [## 马尔可夫转换动态回归模型的蠕虫视角
-
-### 详细解释了 MSDR 模型，并使用真实世界数据集介绍了关于 MSDR 的 Python 教程
-
-towardsdatascience.com](/a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3) 
+*</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  </a-math-lovers-guide-to-hidden-markov-models-ad718df9fde8>  </a-worms-eye-view-of-the-markov-switching-dynamic-regression-model-2fb706ba69f3>  
 
 *感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com/) *获取关于回归和时间序列分析的技巧、操作方法和编程建议。**

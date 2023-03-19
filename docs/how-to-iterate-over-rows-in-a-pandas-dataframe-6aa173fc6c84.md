@@ -73,11 +73,7 @@ for row in **df.itertuples**():
 
 关于 Python 中**命名元组的更多细节，你可以阅读下面的文章。**
 
-[](/what-are-named-tuples-in-python-59dc7bd15680) [## Python 中的命名元组是什么
-
-### Python 中一个被忽略的扩展数据类型
-
-towardsdatascience.com](/what-are-named-tuples-in-python-59dc7bd15680) 
+</what-are-named-tuples-in-python-59dc7bd15680>  
 
 ## 迭代行时修改
 
@@ -120,16 +116,4 @@ pandas 提供了一组丰富的内置方法，这些方法针对大型 pandas �
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/how-to-drop-rows-in-pandas-dataframes-with-nan-values-in-certain-columns-7613ad1a7f25) [## 如何删除 Pandas 数据帧中某些列中有 NaN 值的行
-
-### 讨论从 pandas 数据帧中删除某些列中值为空的行的多种方法
-
-towardsdatascience.com](/how-to-drop-rows-in-pandas-dataframes-with-nan-values-in-certain-columns-7613ad1a7f25) [](/what-is-machine-learning-e67043a3a30c) [## 什么是机器学习
-
-### 讨论机器学习的学习方法、类型和实际应用
-
-towardsdatascience.com](/what-is-machine-learning-e67043a3a30c)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </how-to-drop-rows-in-pandas-dataframes-with-nan-values-in-certain-columns-7613ad1a7f25>  </what-is-machine-learning-e67043a3a30c> 

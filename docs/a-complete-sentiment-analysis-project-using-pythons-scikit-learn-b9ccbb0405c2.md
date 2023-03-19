@@ -221,24 +221,4 @@ tnr_knn = round(tn/(tn+fp), 4)print(tpr_knn, tnr_knn)
 
 ## 更多阅读
 
-[](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 大量不同种类的数据集
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [](/pair-plot-and-pairgrid-in-details-f782975032ea) [## 详细的 Pair plot 和 PairGrid
-
-### 用真实数据演示 Pandas 和 Seaborn 库中的配对图
-
-towardsdatascience.com](/pair-plot-and-pairgrid-in-details-f782975032ea) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
-
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) [## 数据科学家置信区间、t 检验和 z 检验完全指南
-
-### 大量的实践练习
-
-pub.towardsai.net](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec)
+</all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a>  </pair-plot-and-pairgrid-in-details-f782975032ea>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb>  <https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec> 

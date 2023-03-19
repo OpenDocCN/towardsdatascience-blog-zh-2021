@@ -44,4 +44,4 @@
 
 *封面照片来自 Pexels 上的*[*cotton bro*](https://www.pexels.com/@cottonbro)*。*
 
-*原载于 2021 年 3 月 23 日 http://thelonenutblog.wordpress.com*[](https://thelonenutblog.wordpress.com/2021/03/23/better-software-writing-skills-in-data-science-broken-window/)**。**
+*原载于 2021 年 3 月 23 日 http://thelonenutblog.wordpress.com*<https://thelonenutblog.wordpress.com/2021/03/23/better-software-writing-skills-in-data-science-broken-window/>**。**

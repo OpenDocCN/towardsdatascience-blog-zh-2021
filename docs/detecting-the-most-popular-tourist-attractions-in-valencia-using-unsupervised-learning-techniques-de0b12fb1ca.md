@@ -16,11 +16,7 @@ Jonny James 在 Unsplash 上拍摄的照片
 
 这个项目的代码可以从 GitHub 上的 Jupyter 笔记本中获得。
 
-[](https://github.com/amandaiglesiasmoreno/dbscan_photos_valencia) [## GitHub-amandaiglesiasmoreno/DBS can _ photos _ Valencia
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/amandaiglesiasmoreno/dbscan_photos_valencia) 
+<https://github.com/amandaiglesiasmoreno/dbscan_photos_valencia>  
 
 # **Flickr API**
 

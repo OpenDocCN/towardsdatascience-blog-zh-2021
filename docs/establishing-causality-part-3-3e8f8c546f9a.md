@@ -99,16 +99,4 @@
 
 *你也可以试试我的其他文章。不能选择？从这些中选择一个:*
 
-*[](/establishing-causality-part-1-49cb9230884c) [## 建立因果关系:第 1 部分
-
-### 随机实验的黄金标准
-
-towardsdatascience.com](/establishing-causality-part-1-49cb9230884c) [](/establishing-causality-part-2-45ab696d2246) [## 建立因果关系:第 2 部分
-
-### 通过工具变量加强随机性
-
-towardsdatascience.com](/establishing-causality-part-2-45ab696d2246) [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28)*
+*</establishing-causality-part-1-49cb9230884c>  </establishing-causality-part-2-45ab696d2246>  </6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28> *

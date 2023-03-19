@@ -86,16 +86,4 @@ M ost 机器学习算法是用统计、代数、微积分等数学东西来完�
 
 ## 参考
 
-[](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html) [## 用 Python 进行应用文本分析
-
-### 第四章。文本矢量化和转换管道机器学习算法对数字特征进行操作…
-
-www.oreilly.com](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html) [](https://www.manning.com/books/natural-language-processing-in-action) [## 自然语言处理在行动
-
-### 学习理论和实践技能需要超越仅仅理解自然语言处理的内部工作，并…
-
-www.manning.com](https://www.manning.com/books/natural-language-processing-in-action) [](https://machinelearningmastery.com/gentle-introduction-bag-words-model/) [## 单词袋模型的温和介绍-机器学习掌握
-
-### 词袋模型是在用机器学习算法对文本建模时表示文本数据的一种方式。的…
-
-machinelearningmastery.com](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+<https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html>  <https://www.manning.com/books/natural-language-processing-in-action>  <https://machinelearningmastery.com/gentle-introduction-bag-words-model/> 

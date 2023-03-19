@@ -62,28 +62,4 @@
 
 ## 更多阅读
 
-[](/how-i-switched-to-data-science-f070d2b5954c) [## 我如何转向数据科学
-
-### 我的旅程、错误和收获
-
-towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
-
-### 我作为波士顿大学数据分析专业硕士学生的经历和体会
-
-towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [## 关于 Keras 和 Tensorflow 中情感分析的一步一步的完整教程
-
-### 用于数据准备、深度学习模型开发和训练网络的完整工作代码
-
-towardsdatascience.com](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
-
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b) [## 完全控制 Matplotlib 中的支线剧情
-
-### 使用支线剧情和 GridSpec 一起更好地控制
-
-towardsdatascience.com](/take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b)
+</how-i-switched-to-data-science-f070d2b5954c>  </do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41>  </a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb>  </take-full-control-over-the-subplots-in-matplotlib-71b3bc11ff0b> 

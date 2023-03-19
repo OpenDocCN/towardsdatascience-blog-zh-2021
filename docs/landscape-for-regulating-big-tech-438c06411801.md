@@ -42,6 +42,6 @@
 
 [1] Teachout，Z. 2020。把他们分开。圣马丁出版集团:所有要点书籍。
 
-*这篇文章是“将科技用于公共卫生的注意事项”系列的第四篇——查看该系列的第一篇*[](/precautions-in-using-tech-for-public-health-part-i-technology-is-not-neutral-ff533acbf7e)**[*第二篇*](/precautions-in-using-tech-for-public-health-part-ii-factoring-climate-change-as-an-output-of-265c6afa0e1a) *和* [*第三篇*](/precautions-in-using-tech-for-public-health-part-iii-shifting-the-power-dynamics-of-data-987b027c3ede) *。***
+*这篇文章是“将科技用于公共卫生的注意事项”系列的第四篇——查看该系列的第一篇*</precautions-in-using-tech-for-public-health-part-i-technology-is-not-neutral-ff533acbf7e>**[*第二篇*](/precautions-in-using-tech-for-public-health-part-ii-factoring-climate-change-as-an-output-of-265c6afa0e1a) *和* [*第三篇*](/precautions-in-using-tech-for-public-health-part-iii-shifting-the-power-dynamics-of-data-987b027c3ede) *。***
 
 ***本博客系列由*[*Priya Govil*](https://medium.com/@priya.govil)*合著。韩瑜和普里亚·戈维尔是健康研究院的工作人员。本博客系列中反映的观点是作者的观点，不一定代表 AcademyHealth 的官方立场。***

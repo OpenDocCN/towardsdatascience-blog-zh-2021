@@ -54,40 +54,8 @@ Redis 是一种数据结构存储，可以用作 NoSQL 数据库。一个很大�
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [## 使用 Python 搜索 PDF 中的文本
-
-### 没有人喜欢使用 pdf，但是我们必须…
-
-python .平原英语. io](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [](/daas-data-as-a-service-78494933253f) [## DaaS —数据即服务
-
-### 它是什么，为什么它是下一件大事？
-
-towardsdatascience.com](/daas-data-as-a-service-78494933253f) [](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [## 一年的媒介写作
-
-### 回想我写博客第一年的起起落落。
-
-miketechgame.medium.com](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [](/deep-learning-in-data-science-f34b4b124580) [## 数据科学中的深度学习
-
-### 它是什么，为什么使用它？
-
-towardsdatascience.com](/deep-learning-in-data-science-f34b4b124580) [](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [## 美汤刮网
-
-### 用于解析 HTML 的 Python 库
-
-python .平原英语. io](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) 
+<https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055>  </daas-data-as-a-service-78494933253f>  <https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297>  </deep-learning-in-data-science-f34b4b124580>  <https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32>  
 
 参考资料:
 
- [## Redis 与 MySQL——快速数据库比较
-
-### 在这篇文章中，我们将指出 Redis 和 MySQL 数据库之间的一些主要区别，以及如何最好地使用…
-
-tableplus.com](https://tableplus.com/blog/2018/10/redis-vs-mysql-database-comparison.html) [](https://db-engines.com/en/system/MySQL%3BRedis) [## MySQL 与 Redis 的比较
-
-### MySQL 和 Redis 的详细并排视图
-
-db-engines.com](https://db-engines.com/en/system/MySQL%3BRedis) [](https://redis.io/) [## 雷迪斯
-
-### Redis 是一个开源的(BSD 许可的)、内存中的数据结构存储，用作数据库、缓存和消息代理…
-
-redis.io](https://redis.io/)
+  <https://db-engines.com/en/system/MySQL%3BRedis>  <https://redis.io/> 

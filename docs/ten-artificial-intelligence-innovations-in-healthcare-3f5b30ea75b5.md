@@ -67,18 +67,6 @@ SMARTCLAP 项目帮助脑瘫儿童；影响运动和姿势的儿童最常见的�
 
 *本文原载于*[***【The Synapse】***](https://thesynapse.net)*。请在下面留下你的想法评论。如果你喜欢这篇文章，请跟我来🐦[推特](https://twitter.com/alexieidingli)，🔗 [LinkedIn](https://www.linkedin.com/in/alexieidingli/) ，📷 [Instagram](https://www.instagram.com/alexieidingli/) 或者😊[脸书](https://www.facebook.com/alexieidingli/)*
 
-*[](https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205) [## 通过分散注意力来控制疼痛
-
-### 分散注意力已被证明是疼痛管理的有效工具。莫琳·萨古纳遇见阿列克谢·丁力和卢卡…
-
-medium.com](https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205) [](/beyond-the-frontiers-of-disabilities-88b82631533d) [## 超越残疾的界限
-
-### 技术如何为残疾人打开一个全新的世界
-
-towardsdatascience.com](/beyond-the-frontiers-of-disabilities-88b82631533d) [](https://medium.com/dataseries/call-for-chapters-ethical-implications-of-reshaping-healthcare-with-emerging-technologies-1be92d73145f) [## 征集章节——用新兴技术重塑医疗保健的伦理意义
-
-### 一系列创新的研究案例，这些案例正在改变我们看待医疗保健的方式，这要归功于人工…
-
-medium.com](https://medium.com/dataseries/call-for-chapters-ethical-implications-of-reshaping-healthcare-with-emerging-technologies-1be92d73145f) 
+*<https://medium.com/dataseries/managing-pain-through-distraction-c51e73d49205>  </beyond-the-frontiers-of-disabilities-88b82631533d>  <https://medium.com/dataseries/call-for-chapters-ethical-implications-of-reshaping-healthcare-with-emerging-technologies-1be92d73145f>  
 
 [**Alexei Dingli**](http://www.dingli.org/)**Prof 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他出版了几本同行评审的出版物，并成为马耳他的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。***

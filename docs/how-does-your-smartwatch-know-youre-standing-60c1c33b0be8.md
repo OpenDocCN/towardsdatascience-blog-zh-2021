@@ -134,15 +134,7 @@ F1 分数。作者
 
 **来源**
 
-[](https://www.iotforall.com/sensors-that-matter-wearables) [## 在可穿戴技术中发挥作用的传感器
-
-### 在过去的几年里，可穿戴电子产业得到了广泛的发展。该领域已进一步…
-
-www.iotforall.com](https://www.iotforall.com/sensors-that-matter-wearables) [](https://www.idtechex.com/en/research-report/wearable-sensors-2021-2031/780) [## 可穿戴传感器 2021-2031
-
-### 该报告全面概述了当今可穿戴设备中使用的每一种传感器技术。基于…
-
-www.idtechex.com](https://www.idtechex.com/en/research-report/wearable-sensors-2021-2031/780) 
+<https://www.iotforall.com/sensors-that-matter-wearables>  <https://www.idtechex.com/en/research-report/wearable-sensors-2021-2031/780>  
 
 [https://archive . ics . UCI . edu/ml/datasets/Human+活动+识别+使用+智能手机](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 

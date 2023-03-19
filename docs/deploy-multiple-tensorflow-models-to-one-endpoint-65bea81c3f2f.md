@@ -107,11 +107,7 @@ MME 模型(作者截图)
 
 # 整个代码和结论
 
-[](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/Inference/Multi-Model-Endpoint/TensorFlow) [## sage maker-部署/推理/多模型-端点/主节点上的张量流…
-
-### SageMaker 推理选项和其他功能的例子汇编。…
-
-github.com](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/Inference/Multi-Model-Endpoint/TensorFlow) 
+<https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/Inference/Multi-Model-Endpoint/TensorFlow>  
 
 要访问该示例的完整代码，请查看上面的链接。**库**还包含**我构建和编译的各种其他 SageMaker 推理示例**，你可以参考使用。多模型端点非常强大且经济高效，因为您可以将多个模型加载到一个端点中，而不是将一个端点与每个模型相关联。如果你有这些框架的用例，还有更多关于 [SKLearn](https://github.com/aws/amazon-sagemaker-examples/tree/master/advanced_functionality/multi_model_sklearn_home_value) 和 [PyTorch](https://github.com/aws/amazon-sagemaker-examples/tree/master/advanced_functionality/multi_model_pytorch) 的例子。
 

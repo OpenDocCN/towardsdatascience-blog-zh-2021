@@ -78,11 +78,7 @@
 
 在处理数据时，X 和 Y 之间的相关性意味着 Y 和 X 之间的相同相关性。这甚至进一步发展到更一般的统计相关性概念，即 X 和 Y 之间的相关性意味着 Y 和 X 之间的相关性。这一事实消除了将仅基于数据的模型(例如机器学习)解释为因果模型的可能性。然而，通过适当的假设，可能有希望从数据中了解因果结构，这将在以后关于因果发现的文章中讨论。
 
-[](/causal-discovery-6858f9af6dcb) [## 因果发现
-
-### 使用 Python 从数据中学习因果关系
-
-towardsdatascience.com](/causal-discovery-6858f9af6dcb) 
+</causal-discovery-6858f9af6dcb>  
 
 因此，如果对称性是代数和统计的核心属性，我们需要一种不同的形式来处理不对称关系，以表示因果关系。下一节将介绍一种方法。
 
@@ -116,11 +112,7 @@ SEMs 代表变量之间的关系。这些方程有两个特点。首先，等式
 
 因果推断有许多方面，如估计 [**因果关系**](/causal-effects-f30f962ffff3) ，使用**微积分**，分解**混淆**。我将在因果推理系列的下一篇文章中介绍和探讨这些话题。
 
-[](/causal-inference-962ae97cefda) [## 因果推理
-
-### 用 Python 回答因果问题
-
-towardsdatascience.com](/causal-inference-962ae97cefda) 
+</causal-inference-962ae97cefda>  
 
 ## 因果发现
 
@@ -132,7 +124,7 @@ towardsdatascience.com](/causal-inference-962ae97cefda)
 
 正如许多数据科学家(或任何与数据打交道的人)会告诉你的，从数据中回答问题既是科学也是艺术。这门“新的因果科学”提供了一个理论框架，有助于为这门艺术指明方向。尽管许多基础已经奠定，但因果关系仍然是一个年轻的领域，有几个未决问题。
 
-就像机器学习一样，因果关系的前沿也在不断前进。当然，我不可能在一篇博文中，甚至在一系列博文中全面地描述这个快速发展的领域。然而，在这个系列中，我的目标是分享一些我认为有用的关键观点和资源。为此，在接下来的几篇文章中，我将讨论因果关系的两大观点:[](/causal-inference-962ae97cefda)**和 [**因果发现**](https://shawhin.medium.com/causal-discovery-6858f9af6dcb) 。**
+就像机器学习一样，因果关系的前沿也在不断前进。当然，我不可能在一篇博文中，甚至在一系列博文中全面地描述这个快速发展的领域。然而，在这个系列中，我的目标是分享一些我认为有用的关键观点和资源。为此，在接下来的几篇文章中，我将讨论因果关系的两大观点:</causal-inference-962ae97cefda>**和 [**因果发现**](https://shawhin.medium.com/causal-discovery-6858f9af6dcb) 。**
 
 # **资源**
 
@@ -144,11 +136,7 @@ towardsdatascience.com](/causal-inference-962ae97cefda)
 
 ****支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️**
 
-**[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership)** 
+**<https://shawhin.medium.com/membership> ** 
 
 ****[《为什么:因果的新科学》朱迪亚·珀尔著](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)****
 

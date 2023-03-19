@@ -110,16 +110,4 @@ const processChange = debounce(() => saveInput());
 
 # 参考资料:
 
-[](https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf) [## JavaScript 中的节流和去抖动
-
-### 您是否过度调用函数并影响了性能？
-
-codeburst.io](https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf) [](https://stackoverflow.com/questions/24004791/can-someone-explain-the-debounce-function-in-javascript) [## 有人能解释一下 Javascript 中的“去抖”功能吗
-
-### 我写了一篇题为“用 JavaScript 消除去抖”的文章，在这篇文章中我解释了去抖函数是如何工作的…
-
-stackoverflow.com](https://stackoverflow.com/questions/24004791/can-someone-explain-the-debounce-function-in-javascript) [](https://www.freecodecamp.org/news/javascript-debounce-example/) [## 如何在 JavaScript 中延迟一个函数(JS ES6 示例)
-
-### 在 JavaScript 中，去抖功能确保您的代码在每次用户输入时只被触发一次。搜索框…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/javascript-debounce-example/)
+<https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf>  <https://stackoverflow.com/questions/24004791/can-someone-explain-the-debounce-function-in-javascript>  <https://www.freecodecamp.org/news/javascript-debounce-example/> 

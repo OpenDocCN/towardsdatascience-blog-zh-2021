@@ -31,7 +31,7 @@
 
 # 数据集使用🤗数据集
 
-HuggingFace 的网站有一个几乎所有类型的 NLP 任务的巨大数据集集合！它还允许用户通过使用 [Streamlit](https://streamlit.io/) 制作的内置数据集可视化工具来可视化数据集的某些方面。在浏览数据集列表时，一个特殊的多标签分类引起了我的注意:[](https://huggingface.co/datasets/go_emotions)**。其摘要指出:**
+HuggingFace 的网站有一个几乎所有类型的 NLP 任务的巨大数据集集合！它还允许用户通过使用 [Streamlit](https://streamlit.io/) 制作的内置数据集可视化工具来可视化数据集的某些方面。在浏览数据集列表时，一个特殊的多标签分类引起了我的注意:<https://huggingface.co/datasets/go_emotions>**。其摘要指出:**
 
 > **GoEmotions 数据集包含 58k 条精心策划的 Reddit 评论，标记为 27 种情感类别或中性。包括原始数据以及具有预定义训练/val/测试分割的数据集的较小简化版本。**
 
@@ -207,22 +207,6 @@ HuggingFace 的网站有一个几乎所有类型的 NLP 任务的巨大数据集
 
 **感谢您的耐心让我们走到这一步！如果你想了解更多关于 wandb 库和 HuggingFace 库的信息，我已经把它们链接到下面了，看看吧！**
 
-**[](https://wandb.ai) [## 权重和偏好-ML 开发工具
-
-### 一个中央仪表盘，用于跟踪您的超参数、系统指标和预测，以便您可以比较模型…
-
-wandb.ai](https://wandb.ai) [](https://docs.wandb.com) [## 权重和偏差
-
-### Weights & Biases 是一个机器学习平台，可以帮助开发者更快地构建更好的模型。使用 W&B 的轻量级…
-
-docs.wandb.com](https://docs.wandb.com) [](https://huggingface.co) [## 拥抱脸-人工智能社区建设未来。
-
-### 我们正在通过开源和开放科学来推进和民主化人工智能的旅程。
-
-huggingface.co](https://huggingface.co) [](https://www.youtube.com/c/AbhishekThakurAbhi) [## 阿布舍克·塔库尔
-
-### 我制作关于应用机器学习、深度学习和数据科学的视频。我是世界上第一个四大满贯…
-
-www.youtube.com](https://www.youtube.com/c/AbhishekThakurAbhi) 
+**<https://wandb.ai>  <https://docs.wandb.com>  <https://huggingface.co>  <https://www.youtube.com/c/AbhishekThakurAbhi>  
 
 我看得出你是个有文化的人，能走到这一步！我很高兴你能走到这一步！别忘了关注我更多这样的 ML 相关文章！查看我的[网站](https://www.arghyadeepdas.me/)，关注我的 [LinkedIn](https://www.linkedin.com/in/arghyadeep-das/) 、 [GitHub](https://github.com/arghyadeep99) 和 [Instagram](https://www.instagram.com/third_root_of_quadratic_eqn/) ！✨**

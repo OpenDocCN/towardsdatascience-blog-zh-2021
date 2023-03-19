@@ -90,12 +90,4 @@ Selenium 是一个优秀的功能性 Python 测试自动化。当您使用这个
 
 ## 为您提供 Python 项目实践
 
-[](/building-an-image-color-analyzer-using-python-12de6b0acf74) [## 使用 Python 构建图像颜色分析器
-
-### 使用 Scikit-learn 和 OpenCV 的机器学习项目
-
-towardsdatascience.com](/building-an-image-color-analyzer-using-python-12de6b0acf74) [](/building-a-speech-emotion-recognizer-using-python-4c1c7c89d713) [## 用 Python 构建语音情感识别器
-
-### 用 MLP 人工神经网络逐步指导语音情感识别
-
-towardsdatascience.com](/building-a-speech-emotion-recognizer-using-python-4c1c7c89d713)
+</building-an-image-color-analyzer-using-python-12de6b0acf74>  </building-a-speech-emotion-recognizer-using-python-4c1c7c89d713> 

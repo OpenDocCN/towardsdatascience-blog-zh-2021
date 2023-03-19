@@ -173,7 +173,7 @@ with urlopen(fl.location) as f:
 
 我不知道任何关于 CDS API 的文档，这使得它很难使用，因为允许的关键字和变量名因数据集而异。以下链接会有所帮助:
 
-*   每个数据集允许的关键字参数在这里是[](https://confluence.ecmwf.int/display/CKB/Climate+Data+Store+%28CDS%29+API+Keywords)**。**
+*   每个数据集允许的关键字参数在这里是<https://confluence.ecmwf.int/display/CKB/Climate+Data+Store+%28CDS%29+API+Keywords>**。**
 *   **表 [**中列出了可用的变量，这里**](https://confluence.ecmwf.int/display/CKB/ERA5%3A+data+documentation) **。**你提供列在`variable name in CDS`栏的东西。**
 
 **您也可以在 **处查看表格 [**中的示例脚本。**](https://confluence.ecmwf.int/display/CKB/Climate+Data+Store+(CDS)+API+Keywords)****
@@ -200,19 +200,7 @@ with urlopen(fl.location) as f:
 
 # **相关职位**
 
-**[](https://medium.com/analytics-vidhya/best-free-api-for-weather-records-era5-59c0e204829a) [## 天气记录最佳免费 API:era 5！
-
-### 在我作为数据科学家的工作中，有一次我需要在我的项目中添加天气数据的详细记录。我想要的东西…
-
-medium.com](https://medium.com/analytics-vidhya/best-free-api-for-weather-records-era5-59c0e204829a) [](https://medium.com/planet-os/digging-into-the-texas-freeze-using-python-and-era5-zarr-data-fa3c8ff562bb) [## 使用 Python 和 ERA5 zarr 数据挖掘德州冰冻期
-
-### 德克萨斯州通常属于亚热带气候，夏季炎热，冬季温和。然而，当一个短暂的…
-
-medium.com](https://medium.com/planet-os/digging-into-the-texas-freeze-using-python-and-era5-zarr-data-fa3c8ff562bb) [](https://medium.com/planet-os/era5-reanalysis-data-on-s3-cee2f22422ae) [## ERA5 再分析数据
-
-### 在过去的几个星期里，结合 AWS 公共数据集计划，我们一直在努力使再分析…
-
-medium.com](https://medium.com/planet-os/era5-reanalysis-data-on-s3-cee2f22422ae) 
+**<https://medium.com/analytics-vidhya/best-free-api-for-weather-records-era5-59c0e204829a>  <https://medium.com/planet-os/digging-into-the-texas-freeze-using-python-and-era5-zarr-data-fa3c8ff562bb>  <https://medium.com/planet-os/era5-reanalysis-data-on-s3-cee2f22422ae>  
 
 感谢你花时间阅读我的帖子。这个功能始于与我的同事 Jashvina Devadoss 的对话，她当时正在开发一个 [*类似的功能*](https://github.com/jashvina-devadoss/ERA5_time_downsample) *。*
 
@@ -220,8 +208,4 @@ medium.com](https://medium.com/planet-os/era5-reanalysis-data-on-s3-cee2f22422ae
 
 *感谢阅读和支持媒体作者*
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium—Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)**
+<https://lukegloege.medium.com/membership> **

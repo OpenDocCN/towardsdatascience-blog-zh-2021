@@ -90,44 +90,8 @@ Dash 从一开始就非常简单，理解相关的组件，比如在哪里输入
 
 查看我最近的文章:
 
-[](https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd) [## 使用 Python 获取天气信息
-
-### 这么多可以选择…
-
-python .平原英语. io](https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd) [](/mysql-vs-postgresql-3d48891452a) [## MySQL vs PostgreSQL
-
-towardsdatascience.com](/mysql-vs-postgresql-3d48891452a) [](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [## GraphQL 与 REST
-
-medium.com](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) [## 使用 Python 构建您自己的 Plex 客户端
-
-### Plex 是一个客户端-服务器媒体播放器，可用于流式视频、播放音乐、观看直播电视、收听播客…
-
-python .平原英语. io](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) [](/mysql-vs-sqlite-ba40997d88c5) [## MySQL 与 SQLite
-
-### 作为改变，我决定回到数据库。不过这一次，我想做一个小小的比较…
-
-towardsdatascience.com](/mysql-vs-sqlite-ba40997d88c5) 
+<https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd>  </mysql-vs-postgresql-3d48891452a>  <https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262>  </mysql-vs-sqlite-ba40997d88c5>  
 
 参考资料:
 
-[](https://dash.plotly.com/introduction) [## 简介| Dash for Python 文档| Plotly
-
-### Dash 是一个用于构建 web 分析应用程序的高效 Python 框架。写在 Flask 上面，Plotly.js，还有…
-
-dash.plotly.com](https://dash.plotly.com/introduction)  [## 第二部分。布局 Python 文档的破折号| Plotly
-
-### Dash 应用程序由两部分组成。第一部分是应用程序的“布局”,它描述了应用程序…
-
-dash.plotly.com](https://dash.plotly.com/layout) [](https://pypi.org/project/dash/) [## 破折号
-
-### Dash 是下载量最大、最值得信赖的构建 ML 和数据科学 web 应用的 Python 框架。建立在…之上
-
-pypi.org](https://pypi.org/project/dash/)  [## 仪表板核心部件
-
-### Dash 为交互式用户界面配备了增压组件。一组核心组件，编写和…
-
-dash.plotly.com](https://dash.plotly.com/dash-core-components) [](https://realpython.com/python-dash/) [## 用 Dash - Real Python 开发 Python 中的数据可视化接口
-
-### 过去，创建分析性 web 应用程序是经验丰富的开发人员的任务，他们需要了解…
-
-realpython.com](https://realpython.com/python-dash/)
+<https://dash.plotly.com/introduction>    <https://pypi.org/project/dash/>    <https://realpython.com/python-dash/> 

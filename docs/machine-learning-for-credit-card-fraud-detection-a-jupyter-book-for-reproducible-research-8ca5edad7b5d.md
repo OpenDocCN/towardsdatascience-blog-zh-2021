@@ -16,11 +16,7 @@
 
 这个初步版本是 Jupyter 图书格式，在开源许可下，所有的实验和结果都是可复制的。包含代码的部分是 Jupyter 笔记本，可以在本地执行，也可以使用 Google Colab 或 Binder 在云上执行。这本书的源代码(包括文本、图片和代码)可以在 GitHub 上找到:
 
-[](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook) [## 欺诈检测手册/欺诈检测手册
-
-### 初步版本可从 https://fraud-detection-handbook . github . io/fraud-detection-handbook/foreword . html 获得…
-
-github.com](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook) 
+<https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook>  
 
 目标受众是学生或专业人士，从实用的角度对信用卡欺诈检测的具体问题感兴趣。更一般地说，我们认为这本书对于处理涉及顺序数据和/或不平衡分类问题的机器学习问题的数据从业者和数据科学家来说也是有兴趣的。
 

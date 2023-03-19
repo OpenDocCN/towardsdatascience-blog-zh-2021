@@ -196,4 +196,4 @@ CNOT 门以两个量子位作为参数，一个作为控制 *q0* ，一个作为
 
 ![](img/bf118853271dcf661c90a444b237f022.png)
 
-*原载于 2021 年 3 月 28 日 https://kblagoev.com*[](https://kblagoev.com/blog/quantum-programming-abstraction-level-1-logic-gates/)**。**
+*原载于 2021 年 3 月 28 日 https://kblagoev.com*<https://kblagoev.com/blog/quantum-programming-abstraction-level-1-logic-gates/>**。**

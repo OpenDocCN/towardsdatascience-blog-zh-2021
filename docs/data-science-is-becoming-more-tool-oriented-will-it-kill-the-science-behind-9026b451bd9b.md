@@ -67,10 +67,6 @@ Excel 是应用广泛的一种。Python 是数据科学中最常用的编程语�
 
 成为 [Medium 会员](https://sonery.medium.com/membership)可以在 Medium 上访问无限数量的文章。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

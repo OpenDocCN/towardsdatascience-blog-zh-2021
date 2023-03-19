@@ -42,11 +42,7 @@
 
 您可以在下面的嵌入中尝试在鄂尔多斯-仁义网络中传播。将`network_type`指定为`"erdos_renyi"`，并修改`erdos_renyi.p`的值。您可以在 3D 查看器和分析选项卡之间切换，以获得查看模型的两种不同方式。
 
- [## 哈希核心
-
-### 网络意见传播
-
-core.hash.ai](https://core.hash.ai/embed.html?project=%40hash%2Fnetwork-opinion-spread&ref=stable&tabs=3d%2Canalysis) 
+  
 
 接下来的两个网络都将具有特定的特征，这些特征将它们与这个纯粹随机的网络区分开来。
 

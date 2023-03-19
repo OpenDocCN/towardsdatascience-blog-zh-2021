@@ -123,11 +123,7 @@
 
 > 这是我写的另一篇文章，涉及[数据科学与商业分析](/data-scientist-vs-business-analyst-heres-the-difference-f0a0a1f51c9) [5]:
 
-[](/data-scientist-vs-business-analyst-heres-the-difference-f0a0a1f51c9) [## 数据科学家与业务分析师。区别就在这里。
-
-### 他们有多大不同？他们有什么共同的特点？
-
-towardsdatascience.com](/data-scientist-vs-business-analyst-heres-the-difference-f0a0a1f51c9) 
+</data-scientist-vs-business-analyst-heres-the-difference-f0a0a1f51c9>  
 
 # 参考
 

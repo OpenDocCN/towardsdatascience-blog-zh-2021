@@ -127,11 +127,7 @@ t 统计公式，截屏来自维基百科。
 
 所有这些都是所谓的经典统计学。如果它没有引起你的共鸣，并且你觉得 p 值阈值和置信水平有些武断，那可能是你本质上是贝叶斯主义者！
 
-[](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) 
-
-如果是这样的话，一定要看看我关于这个主题的介绍性文章或者我在 DataCamp 上教的 Python 课程中的[贝叶斯数据分析。](http://www.datacamp.com/courses/bayesian-data-analysis-in-python)
+</the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> 
 
 ![](img/b5560b1c00216bb5bf48e310fcf0a2c4.png)
 
@@ -143,16 +139,4 @@ towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/data-measurement-levels-dfa9a4564176) [## 数据测量级别
-
-### 统计学家对变量类型、它们的意义以及对机器学习的影响的观点。
-
-towardsdatascience.com](/data-measurement-levels-dfa9a4564176) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/handling-missing-data-5be11eddbdd) [## 处理缺失数据
-
-### 一个统计学家关于如何(不)做它来保持你的机器学习工作流程的观点。
-
-towardsdatascience.com](/handling-missing-data-5be11eddbdd)
+</data-measurement-levels-dfa9a4564176>  </monte-carlo-dropout-7fd52f8b6571>  </handling-missing-data-5be11eddbdd> 

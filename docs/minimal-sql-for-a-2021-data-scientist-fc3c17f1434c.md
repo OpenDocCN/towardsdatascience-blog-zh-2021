@@ -200,12 +200,4 @@ CASE 关键字的用法。
 
 由于 python 编程语言是数据科学家另一个最受欢迎的技能，你也可以参考我在 python 上的以下帖子:
 
-[](/data-structures-in-python-da813beb2a0d) [## Python 中的数据结构
-
-### 精通列表——Python 最通用的数据结构
-
-towardsdatascience.com](/data-structures-in-python-da813beb2a0d) [](/python-in-2021-timeline-and-upcoming-features-c8369abbcc52) [## 2021 年的 Python 时间表和即将推出的功能
-
-### Python 3.10 的一些新特性的预览
-
-towardsdatascience.com](/python-in-2021-timeline-and-upcoming-features-c8369abbcc52)
+</data-structures-in-python-da813beb2a0d>  </python-in-2021-timeline-and-upcoming-features-c8369abbcc52> 

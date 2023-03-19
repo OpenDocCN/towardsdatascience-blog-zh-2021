@@ -29,17 +29,13 @@
 
 最后，我希望你能看到，不仅严格地从图嵌入中创建一个 ML 模型是可能的，而且有时你实际上能得到比传统 ML 模型更好的结果，甚至使用比传统方法维数更少的向量！
 
-***本帖附带的 Google Colab 笔记本可以在这里***[](https://dev.neo4j.com/classic_vs_graph_ml)****找到。****
+***本帖附带的 Google Colab 笔记本可以在这里***<https://dev.neo4j.com/classic_vs_graph_ml>****找到。****
 
 # *构建图表*
 
 *为了让自己开始运行，您需要创建一个免费的 Neo4j 沙盒数据库。在这个练习中，你需要选择一个空白的沙盒。*
 
-*[](https://neo4j.com/sandbox/) [## Neo4j 沙盒
-
-### 使用个人的、可访问的在线图形数据库快速开始学习 Neo4j。开始使用内置指南和…
-
-neo4j.com](https://neo4j.com/sandbox/) 
+*<https://neo4j.com/sandbox/>  
 
 您应该会看到如下所示的屏幕:
 

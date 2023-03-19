@@ -80,11 +80,7 @@
 
 喜欢这篇文章吗？加入我们的 [**项目 Alesia**](https://projectalesia.com/) 以获得更多关于个人数据隐私、数字福祉、负责任的机器学习、工程等方面的资源！
 
-[](https://projectalesia.com/) [## 阿莱西亚项目
-
-### 互联网上致力于数据隐私、负责任的机器学习、网络安全和数字主权问题的空间。
-
-projectalesia.com](https://projectalesia.com/) 
+<https://projectalesia.com/>  
 
 # 参考
 

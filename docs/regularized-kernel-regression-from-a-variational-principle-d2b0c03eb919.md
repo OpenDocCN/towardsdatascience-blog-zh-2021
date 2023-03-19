@@ -114,32 +114,4 @@ K **Nadaraya–Watson 估计量**就是这样一种方法。它通常来源于�
 
 # **参考**
 
- **[## 内核回归-维基百科
-
-### 在统计学中，核回归是一种估计随机变量条件期望的非参数技术。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Kernel_regression)** **[](https://en.wikipedia.org/wiki/Dirac_delta_function) [## 狄拉克德尔塔函数-维基百科
-
-### 在数学中，狄拉克δ函数()，也称为单位脉冲符号，是一个广义函数或…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Dirac_delta_function)  [## 分布(数学)-维基百科
-
-### 分布，也称为施瓦茨分布或广义函数，是对象的广义…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Distribution_%28mathematics%29) [](https://en.wikipedia.org/wiki/Lagrangian_mechanics) [## 拉格朗日力学-维基百科
-
-### 由意大利-法国数学家和天文学家约瑟夫·路易斯·拉格朗日在 1788 年从他的著作《Mécanique…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Lagrangian_mechanics)  [## 变分法-维基百科
-
-### 变分法是数学分析的一个领域，它利用了变量，即变量的微小变化。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Calculus_of_variations) [](https://cran.r-project.org/web/packages/bvpSolve/index.html) [## bvpSolve:微分方程边值问题求解器
-
-### 解决常微分方程组(“ODE”)的边值问题(“BVP”)和…
-
-cran.r-project.org](https://cran.r-project.org/web/packages/bvpSolve/index.html) [](http://berkeleyearth.org/data/) [## 数据概述-伯克利地球
-
-### 这里展示的数据集分为三类:输出数据、源数据和中间数据…
-
-berkeleyearth.org](http://berkeleyearth.org/data/)**
+ **** **<https://en.wikipedia.org/wiki/Dirac_delta_function>    <https://en.wikipedia.org/wiki/Lagrangian_mechanics>    <https://cran.r-project.org/web/packages/bvpSolve/index.html>  <http://berkeleyearth.org/data/> **

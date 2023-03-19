@@ -64,11 +64,7 @@
 
 # *参考资料:-*
 
-*[](https://en.wikipedia.org/wiki/Labeled_data) [## 标签数据-维基百科
-
-### 标记数据是用一个或多个标签标记的一组样本。标签通常需要一组…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Labeled_data) 
+*<https://en.wikipedia.org/wiki/Labeled_data>  
 
 [https://whatis.techtarget.com/definition/data-labeling](https://whatis.techtarget.com/definition/data-labeling)
 
@@ -84,20 +80,4 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Labeled_data)
 
 [https://engineering . matter port . com/splash-of-color-instance-segmentation-with mask-r-CNN-and-tensor flow-7c 761 e 238 b 46](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 
- [## 计算机视觉中的图像标注
-
-### 有四种主要类型的图像注释可以用来训练计算机视觉人工智能模型。图像…
-
-www.cloudfactory.com](https://www.cloudfactory.com/image-annotation-guide) [](https://en.wikipedia.org/wiki/Computer_vision) [## 计算机视觉-维基百科
-
-### 计算机视觉是一个跨学科的科学领域，处理计算机如何获得高层次的…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Computer_vision) [](https://arxiv.org/abs/1703.06870) [## 屏蔽 R-CNN
-
-### 我们提出了一个概念上简单、灵活、通用的对象实例分割框架。我们的方法…
-
-arxiv.org](https://arxiv.org/abs/1703.06870)  [## IEEE 工程管理汇刊|关于期刊| IEEE Xplore
-
-### 了解 IEEE 工程管理汇刊。IEEE 工程管理汇刊关注…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=17)*
+  <https://en.wikipedia.org/wiki/Computer_vision>  <https://arxiv.org/abs/1703.06870>   *

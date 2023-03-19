@@ -148,30 +148,10 @@ pip install heartrate
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/python/debug_tools) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/python/debug_tools) 
+<https://github.com/khuyentran1401/Data-science/tree/master/python/debug_tools>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692) [## 监控和优化您的 Linux 系统的 3 个工具
-
-### 用这三个工具控制你的机器
-
-towardsdatascience.com](/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692) [](/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c) [## 轻松导入和执行 Python 模块的 3 种技巧
-
-### 如何让你的 Python 模块对用户友好
-
-towardsdatascience.com](/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c) [](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)
+</3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692>  </3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c>  </3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60> 

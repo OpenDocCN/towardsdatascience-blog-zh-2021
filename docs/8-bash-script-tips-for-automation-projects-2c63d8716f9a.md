@@ -26,15 +26,7 @@ backpack_install Bash 脚本的运行。图片作者。
 
 这些文章也有助于您开始:
 
-[](https://betterprogramming.pub/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978) [## Bash 脚本编程的终极程序员指南
-
-### 深入探究 Bash 脚本，帮助您自动化任务
-
-better 编程. pub](https://betterprogramming.pub/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978) [](https://betterprogramming.pub/27-simple-bash-scripting-tips-for-beginners-d6764c977546) [## 初学者的 27 个简单 Bash 脚本技巧
-
-### 不要害怕 Bash 脚本。看完这些提示会更容易
-
-better 编程. pub](https://betterprogramming.pub/27-simple-bash-scripting-tips-for-beginners-d6764c977546) 
+<https://betterprogramming.pub/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978>  <https://betterprogramming.pub/27-simple-bash-scripting-tips-for-beginners-d6764c977546>  
 
 # 1.在函数之前设置变量和参数
 

@@ -48,11 +48,7 @@ OOP 的目标是以一种可维护、易读、最重要的是可重用的方式�
 
 有关如何在数据科学环境中使用 OOP 的更多示例，请查看这篇文章，这篇文章通过示例和源代码，带您了解如何使用类和对象更好地处理数据:
 
-[](/improve-your-data-wrangling-with-object-oriented-programming-914d3ebc83a9) [## 使用面向对象编程改善您的数据争论
-
-### munging 和 OOP 令人惊讶的成功结合
-
-towardsdatascience.com](/improve-your-data-wrangling-with-object-oriented-programming-914d3ebc83a9) 
+</improve-your-data-wrangling-with-object-oriented-programming-914d3ebc83a9>  
 
 # 为什么数据科学家需要 OOP？
 

@@ -53,12 +53,4 @@ self.d = defaultdict(Counter)
 
 谢谢你读到这里！我希望你在下一个 Python 项目中尝试使用`Counter`和`defaultdict`结构。如果你有其他好的用例，请在评论中告诉我！如果您对此感兴趣，请查看我的其他 Python 相关文章:
 
-[](/python-sets-are-underrated-55fc27db2ada) [## Python 集被低估了
-
-### 内置 Python 集的优雅而有用的用法指南
-
-towardsdatascience.com](/python-sets-are-underrated-55fc27db2ada) [](/7-essential-python-skills-for-research-496e1888e7c2) [## 用于研究的 7 个基本 Python 技能
-
-### 来自博士生的提示和技巧
-
-towardsdatascience.com](/7-essential-python-skills-for-research-496e1888e7c2)
+</python-sets-are-underrated-55fc27db2ada>  </7-essential-python-skills-for-research-496e1888e7c2> 

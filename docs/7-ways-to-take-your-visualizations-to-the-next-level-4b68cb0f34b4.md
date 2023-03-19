@@ -14,11 +14,7 @@
 
 但是，讲故事是一项不同于数据科学家所需的其他技能的技能。它利用你的创造力、设计技巧和能力，以最简单、最有效的方式解释和传递信息。尽管一开始提高这一技能似乎很有挑战性，但是一旦你了解了高效可视化的基础，你就可以很快提高你的技能。
 
-[](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [## 数据可视化 101:如何选择图表类型
-
-### 如何选择最能描述数据的图表类型
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) 
+</data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6>  
 
 如果您想要创建有效的可视化，以最好地帮助传递您的数据故事，那么您需要注意一些特定的信息。一旦你考虑了这些部分，你将创造出美丽、高效、简单的可视化效果，任何人都可以理解，并证明你为寻找隐藏的故事所付出的努力。
 
@@ -42,11 +38,7 @@ towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b883
 
 创建可视化时，通常会包含三种类型的文本、标题、级别和图例。一个可视化的标题需要是描述性的、精确的、切中要点的。你的观众应该通过阅读标题而不需要任何额外的信息来理解可视化所呈现的内容。
 
-[](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) [## 数据可视化 101:如何选择 Python 绘图库
-
-### 如何选择不同用途的绘图库
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) 
+</data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a>  
 
 下一步，标签，确保你的标签清晰，有一个可读的大小和简单的字体，不要忘了标签你的轴。图例应该被明智地使用，并且应该使理解你的图表更容易。对于所有这些文本，你需要使用简单的短语，除非必要，避免注释，避免花哨的分散注意力的字体，避免重复你的信息。
 
@@ -64,11 +56,7 @@ towardsdatascience.com](/data-visualization-101-how-to-choose-a-python-plotting-
 
 另一种选择是在不同的时间间隔或不同的条件下创建相同基础图的 Gif，以突出数据中的变化。这种策略也可以作为演示的一部分，这样你就可以带着你的观众一步一步地经历这些变化。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # №6:永远记住你的观众
 
@@ -84,11 +72,7 @@ towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizat
 
 有时候当我看其他数据科学家和数据可视化设计师的工作时，我觉得他们是艺术家而不是数据科学家。他们选择图表、颜色和字体的方式让我渴望成为一名更好的数据科学家和更高效的故事讲述者。
 
-[](/4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba) [## 4 个数据可视化工具，改变您的数据叙述方式
-
-### 虽然 Tableau 很棒，但这不是唯一的选择。
-
-towardsdatascience.com](/4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba) 
+</4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba>  
 
 我提高数据可视化技能的旅程不仅仅是为了成为一名更好的数据科学家。看，提高你的视觉化技能意味着如果你在学术界，你会成为一个更好的演讲者，一个更好的演讲者，一个更好的研究者。我们都有过糟糕的数据可视化的经历，我们都曾想过，“如果图表类型是…”，这可能会更有效率。
 

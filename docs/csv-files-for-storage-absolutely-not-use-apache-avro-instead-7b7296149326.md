@@ -14,11 +14,7 @@
 
 如果您想要更高效的列数据格式，只需看看 Parquet:
 
-[](/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d) [## 用于存储的 CSV 文件？不用了，谢谢。有更好的选择
-
-### 编辑描述
-
-towardsdatascience.com](/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d) 
+</csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d>  
 
 今天的文章回答了以下问题:
 
@@ -204,11 +200,7 @@ df_avro.head()
 
 喜欢这篇文章吗？成为[中等会员](https://medium.com/@radecicdario/membership)继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。
 
-[](https://medium.com/@radecicdario/membership) [## 阅读达里奥·拉德契奇(以及媒体上数以千计的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

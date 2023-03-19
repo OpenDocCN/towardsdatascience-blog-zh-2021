@@ -119,11 +119,7 @@ János Venczák 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 *我要感谢 Boaz shmu Eli[写的这篇精彩的文章，当我第一次开始学习分类指标时，它给了我很大的帮助。我强烈推荐它:](https://medium.com/u/57ee515c83c5?source=post_page-----afb5e098970f--------------------------------)*
 
-*[](/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2) [## 多类度量变得简单，第一部分:精度和召回率
-
-### 多个类的精度和召回的原因和方法(有易于理解的例子！)
-
-towardsdatascience.com](/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2) 
+*</multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2>  
 
 我发现其他有用的资源有:
 

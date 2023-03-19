@@ -12,11 +12,7 @@
 
 我最近写了关于 bagging 的文章，bagging 根据数据在多个引导上构建相同的模型，并结合每个模型的预测来获得总体分类或预测。
 
-[](https://betterprogramming.pub/bagging-tutorial-classify-higgs-boson-particles-with-ai-941801559231) [## 装袋教程——用人工智能分类希格斯玻色子粒子
-
-### Python 代码集成学习实用指南
-
-better 编程. pub](https://betterprogramming.pub/bagging-tutorial-classify-higgs-boson-particles-with-ai-941801559231) 
+<https://betterprogramming.pub/bagging-tutorial-classify-higgs-boson-particles-with-ai-941801559231>  
 
 打包的一个巨大优势是我们可以并行化它。另一方面，boosting 通过从弱学习者开始并添加一个基于弱学习者残差训练的新模型来顺序工作。
 
@@ -54,11 +50,7 @@ Boosting 重复几次，每个模型都在原始数据集的变化版本上进�
 
 直观地，我们添加到我们的集成模型中的每个弱学习者模型从集成的错误中学习。因此，随着每一次加法，加权残差影响下一个弱学习者。如果我们将权重视为一个调整参数，那么我们可以使用最流行的优化技术:梯度下降来找到它的最优值。
 
-[](https://pub.towardsai.net/do-you-understand-gradient-descent-and-backpropagation-most-dont-929d65f57a6c) [## 你理解梯度下降和反向传播吗？大多数人不知道。
-
-### 机器学习中一种常用优化算法背后的简单数学直觉。
-
-pub.towardsai.net](https://pub.towardsai.net/do-you-understand-gradient-descent-and-backpropagation-most-dont-929d65f57a6c) 
+<https://pub.towardsai.net/do-you-understand-gradient-descent-and-backpropagation-most-dont-929d65f57a6c>  
 
 为了掌握梯度推进是如何工作的，让我们重新考虑深度为 1、2、3 和 4 的几个决策树作为弱学习器。这一次，我们将应用学习率为 0.05 的梯度下降，并运行 boosting 进行 800 次迭代。
 

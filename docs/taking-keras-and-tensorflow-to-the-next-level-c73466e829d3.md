@@ -110,11 +110,7 @@ Monkey 修补使用函数式 API 定义的模型的训练步骤的示例
 
 使用正确的数据类型可以节省 50%(比如从 float64 到 float32)到 93%的内存(从默认的 int64 到瘦 uint8)。我曾在下面的文章中写过这个问题:
 
-[](/memory-efficient-data-science-types-53423d48ba1d) [## 高效内存数据科学:类型
-
-### 通过在正确的时间使用正确的浮点和整数，节省高达 90%的内存。
-
-towardsdatascience.com](/memory-efficient-data-science-types-53423d48ba1d) 
+</memory-efficient-data-science-types-53423d48ba1d>  
 
 特别是对于 TensorFlow 和 Keras 来说，有一件事人们通常会不假思索地坚持:一键编码和交叉熵。经验法则是用一键编码对标签进行编码，并为每个类输出一个值。这种做法通常是安全和正确的。然而，对于大规模数据集或具有大量类的问题，使用稀疏标注和稀疏交叉熵可能会改变生活。
 

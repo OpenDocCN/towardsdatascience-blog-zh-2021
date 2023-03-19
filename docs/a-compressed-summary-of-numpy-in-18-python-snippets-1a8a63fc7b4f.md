@@ -404,16 +404,8 @@ Deep copy
 
 通过这些例子，我尝试了一下 NumPy 包中的一些功能，如果您想更深入地了解 NumPy 数组，请在这里查看该项目的精彩文档:
 
-[](https://numpy.org/devdocs/user/quickstart.html) [## NumPy 快速入门- NumPy v1.23.dev0 手册
-
-### 你需要了解一点 Python。如需复习，请参阅 Python 教程。要完成这些示例，您需要…
-
-numpy.org](https://numpy.org/devdocs/user/quickstart.html) 
+<https://numpy.org/devdocs/user/quickstart.html>  
 
 如果你喜欢这个帖子，[加入 Medium](https://lucas-soares.medium.com/membership) ，[跟随](https://lucas-soares.medium.com/)。还有，订阅我的 [youtube 频道](https://www.youtube.com/channel/UCu8WF59Scx9f3H1N_FgZUwQ)在 [Tiktok](https://www.tiktok.com/@enkrateialucca?lang=en) 、[推特](https://twitter.com/LucasEnkrateia)、[LinkedIn](https://www.linkedin.com/in/lucas-soares-969044167/)&[insta gram](https://www.instagram.com/theaugmentedself/)上和我联系！谢谢，下次再见！:)
 
-[](https://lucas-soares.medium.com/subscribe) [## 每当卢卡斯·苏亚雷斯发表作品时，就收到一封电子邮件。
-
-### 每当卢卡斯·苏亚雷斯发表作品时，就收到一封电子邮件。注册后，如果您还没有，您将创建一个中型帐户…
-
-lucas-soares.medium.com](https://lucas-soares.medium.com/subscribe)
+<https://lucas-soares.medium.com/subscribe> 

@@ -12,7 +12,7 @@
 
 B ack 五月份，我看了一个属于大多数统计分布的分布函数，叫做概率密度函数，或 PDF。PDF 是统计推断的一个非常重要的部分，同样，它的兄弟函数累积分布函数也是如此。如果你想先了解 pdf 再了解 CDF，你可以在这里阅读我写的关于 pdf 的文章:
 
-[](/what-is-a-probability-density-function-d9b4b8bea121) [## 什么是概率密度函数？
+</what-is-a-probability-density-function-d9b4b8bea121> [## 什么是概率密度函数？
 
 towardsdatascience.com](/what-is-a-probability-density-function-d9b4b8bea121) 
 

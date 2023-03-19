@@ -18,11 +18,7 @@
 
 该分析使用了[鳄梨数据集](https://www.kaggle.com/neuromusic/avocado-prices)。在 GitHub 上查看 scalecast 并给它一颗星:
 
-[](https://github.com/mikekeith52/scalecast) [## mikekeith52/scalecast
-
-### 一个灵活的、代码最少的预测对象。通过在…上创建帐户，为 mikekeith52/scalecast 开发做出贡献
-
-github.com](https://github.com/mikekeith52/scalecast) 
+<https://github.com/mikekeith52/scalecast>  
 
 ```
 pip install --upgrade scalecast

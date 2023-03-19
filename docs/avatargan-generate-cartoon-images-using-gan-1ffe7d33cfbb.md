@@ -195,8 +195,4 @@ GANs 可用于执行照片修补或斑点填充，即，填充由于某种原因
 
 对于那些没有阅读或者没有亲自完成教程的懒人，这里有一个源代码的链接。
 
-[](https://github.com/aakashjhawar/AvatarGAN) [## aakashjhawar/AvatarGAN
-
-### 深度卷积 GAN 是一种生成式对抗网络架构。它使用了几个准则，特别是…
-
-github.com](https://github.com/aakashjhawar/AvatarGAN)
+<https://github.com/aakashjhawar/AvatarGAN> 

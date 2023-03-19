@@ -50,8 +50,4 @@ ML-Collage [36/52]:作者的数字。|📝[论文](https://arxiv.org/abs/2010.01
 
 这是这个月的🤗让我知道你最喜欢的论文是什么。如果你想获得一些每周 ML 拼贴输入，查看 Twitter 上的标签[# ML collage](https://twitter.com/hashtag/mlcollage)。你也可以在最后的总结中找到拼贴画📖博客帖子:
 
-[](/four-deep-learning-papers-to-read-in-september-2021-3650a30725d) [## 2021 年 9 月要读的四篇深度学习论文
-
-### 从 Auto-ML 到 Vision Transformer 培训和演示以及灾难性的费希尔爆炸
-
-towardsdatascience.com](/four-deep-learning-papers-to-read-in-september-2021-3650a30725d)
+</four-deep-learning-papers-to-read-in-september-2021-3650a30725d> 

@@ -46,11 +46,7 @@
 
 > 阅读下面提到的文章，深入了解皮尔逊和斯皮尔曼相关系数。
 
-[](/pearson-and-spearman-rank-correlation-coefficient-explained-60811e61185a) [## 皮尔逊和斯皮尔曼等级相关系数—解释
-
-### 随机变量之间的关系。
-
-towardsdatascience.com](/pearson-and-spearman-rank-correlation-coefficient-explained-60811e61185a) 
+</pearson-and-spearman-rank-correlation-coefficient-explained-60811e61185a>  
 
 # 5.主成分分析(PCA):
 
@@ -74,11 +70,7 @@ PCA 是一种降维技术，用于从数据集中提取特征。PCA 通过使用
 
 > 阅读下面提到的文章，深入了解 PCA 算法:
 
-[](/dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544) [## 降维——主成分分析能提高分类模型的性能吗？
-
-### 利用 PCA——降维技术提高 ML 模型的性能
-
-towardsdatascience.com](/dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544) 
+</dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544>  
 
 # 6.正向功能选择:
 

@@ -10,7 +10,7 @@ Marc-Olivier Jodoin 在 [Unsplash](https://unsplash.com/s/photos/architecture?ut
 
 在上一篇文章中，我们将 Kubernetes 定义为一个容器编排引擎，它有助于确保每个容器都在它应该在的地方，并且容器之间可以相互通信。
 
-[](/kubernetes-101-why-should-you-care-6793a09a096a) [## Kubernetes 101:你为什么要关心？
+</kubernetes-101-why-should-you-care-6793a09a096a> [## Kubernetes 101:你为什么要关心？
 
 towardsdatascience.com](/kubernetes-101-why-should-you-care-6793a09a096a) 
 

@@ -132,12 +132,4 @@ python3 app.py
 
 我的另外几篇文章你可能会觉得有用:
 
-[](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b) [## 你应该知道的 7 个很棒的 Jupyter 工具
-
-### 一些有用的技巧和窍门，我用在了几乎所有涉及 Jupyter 笔记本的数据科学项目中
-
-pub.towardsai.net](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b) [](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe) [## 如何使用 Bash 来自动化数据科学的枯燥工作
-
-### 使用命令行为您的数据科学项目编写一些可重用代码的指南
-
-towardsdatascience.com](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe)
+<https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b>  </how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe> 

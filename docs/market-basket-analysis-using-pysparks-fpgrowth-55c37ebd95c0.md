@@ -125,10 +125,6 @@ transformed_pdf.to_excel('transformed_pdfSalesTransactionIDCollectListPred.xlsx'
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+<https://jesko-rehberg.medium.com/membership>  
 
 最初发表在我的网站 [DAR-Analytics](https://www.dar-analytics.de/AboutUs.html) 。我的 Github 存储库中也有 Jupyter 笔记本和数据文件:[https://Github . com/DAR-DatenanalyseRehberg/DDDD _ Data-Driven-deadlines-Development/blob/main/Market _ Basket _ DDDD . ipynb](https://github.com/DAR-DatenanalyseRehberg/DDDD_Data-Driven-Dealings-Development/blob/main/Market_Basket_DDDD.ipynb)

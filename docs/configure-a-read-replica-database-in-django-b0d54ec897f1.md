@@ -106,12 +106,4 @@ DATABASE_ROUTERS = ['app.router.DatabaseRouter']
 
 感谢阅读这篇文章！如果你有任何问题，请在下面留言。另外，看看我以前的文章，你可能会喜欢:
 
-[](/data-structures-simplified-and-classified-e0c1e304436b) [## 数据结构—简化和分类
-
-### 本文将简化和总结这些最基本的数据结构，您将理解并能够…
-
-towardsdatascience.com](/data-structures-simplified-and-classified-e0c1e304436b) [](https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6) [## 软件工程原理
-
-### 固体干吻——这意味着什么？
-
-vpodk.medium.com](https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6)
+</data-structures-simplified-and-classified-e0c1e304436b>  <https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6> 

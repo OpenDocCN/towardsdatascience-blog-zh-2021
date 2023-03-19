@@ -28,21 +28,13 @@
 
 我们不能既储存能量又产生能量。例如，这就是为什么输入电网的电量必须始终等于消耗的电量。在这种设置中，重要的是实时预测**需要多少能量(需求方)**。这将有助于产生所需的能量，仅此而已。此外，我们可以使用人工智能来预测天气状况，包括风的模式，以确定我们可以在风电场(供应方)产生多少能量。例如，谷歌的 Deepmind AI 可以提前 36 小时预测风力模式，从而有可能提前一整天确定电网的承诺量。
 
-[](https://www.engadget.com/2019-02-26-google-machine-learning-wind-power.html) [## 谷歌的 DeepMind 可以提前一天预测风力模式
-
-### 风力发电已经变得越来越受欢迎，但它的成功受到这样一个事实的限制，即风来去自如…
-
-www.engadget.com](https://www.engadget.com/2019-02-26-google-machine-learning-wind-power.html) 
+<https://www.engadget.com/2019-02-26-google-machine-learning-wind-power.html>  
 
 # 提高运输效率
 
 根据 IPCC(政府间气候变化专门委员会)的数据，交通部门约占全球能源相关二氧化碳排放量的四分之一。你可以在这里阅读更多。人工智能可用于优化运输车队的路线，如废物收集或拼车车队。路线优化是一个极其困难的问题，尤其是当问题中加入了许多约束条件时，例如*降低碳足迹*、*避免交通堵塞*、*提高用户满意度*。基于人工智能的路线优化可以让许多商业模式变得可行和绿色。
 
-[](https://www.ipcc.ch/) [## IPCC -政府间气候变化专门委员会
-
-### 通过评估，IPCC 确定了关于气候变化的知识状况。它确定了哪里有…
-
-www.ipcc.ch](https://www.ipcc.ch/) 
+<https://www.ipcc.ch/>  
 
 # 提高太阳能电池板效率
 
@@ -64,8 +56,4 @@ www.ipcc.ch](https://www.ipcc.ch/)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我的* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

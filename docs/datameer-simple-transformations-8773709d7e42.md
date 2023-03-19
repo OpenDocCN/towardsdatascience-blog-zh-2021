@@ -149,8 +149,4 @@ HAVING COUNT(FS.Streams_Key) > 1;
 
 我们对 data meer——简单转换——的讨论到此结束。如果你有任何问题，请随时联系我。
 
-[](https://www.datameer.com/blog/datameer-offers-innovative-new-saas-data-transformation-solution/?utm_campaign=Transform%20Data%20in%20Snowflake&utm_source=SnoCo&utm_medium=Organic&utm_term=Post&utm_content=Simple-transformations) [## Datameer 提供创新的新 SaaS 数据转换解决方案
-
-### 我们在 Datameer 的团队自豪地宣布，我们正在提供创新的新 SaaS 数据转换解决方案…
-
-www.datameer.com](https://www.datameer.com/blog/datameer-offers-innovative-new-saas-data-transformation-solution/?utm_campaign=Transform%20Data%20in%20Snowflake&utm_source=SnoCo&utm_medium=Organic&utm_term=Post&utm_content=Simple-transformations)
+<https://www.datameer.com/blog/datameer-offers-innovative-new-saas-data-transformation-solution/?utm_campaign=Transform%20Data%20in%20Snowflake&utm_source=SnoCo&utm_medium=Organic&utm_term=Post&utm_content=Simple-transformations> 

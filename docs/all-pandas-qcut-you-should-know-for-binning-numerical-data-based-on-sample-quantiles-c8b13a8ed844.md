@@ -17,11 +17,7 @@ Pandas 有两个内置函数`cut()`和`qcut()`，用于将数值数据转换为�
 
 ****在上一篇文章中，我们已经介绍了`cut()`函数。****
 
-****[](/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) [## 所有熊猫切()你应该知道把数值数据转换成分类数据
-
-### 数值型数据在数据分析中很常见。通常你有连续的数字数据，或非常大的规模，或…
-
-towardsdatascience.com](/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) 
+****</all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f>  
 
 在本文中，您将学习如何使用`qcut()`基于样本分位数对数字数据进行分类。这篇文章的结构如下:
 

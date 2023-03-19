@@ -70,11 +70,7 @@ html = HTML_TEMPLATE.format(jsonstr=jsonstr)display(HTML(html))
 
 点击下面的链接，查看不同的机器学习项目。
 
-[](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners-in-2021/397/) [## 2021 年面向初学者的 30 大机器学习项目创意
-
-### 立即访问已解决的项目“我可以用机器学习做什么项目？”我们经常被问到这个问题…
-
-www.dezyre.com](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners-in-2021/397/) 
+<https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners-in-2021/397/>  
 
 本文是与 [Piyush Ingale](https://medium.com/u/40808d551f5a?source=post_page-----4c386fe3d971--------------------------------) 合作完成的。
 

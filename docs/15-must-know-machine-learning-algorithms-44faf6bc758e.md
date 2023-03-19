@@ -212,11 +212,7 @@ GBDT 算法非常强大，已经实现了许多升级版本，如 XGBOOST、Ligh
 
 我不会详细介绍，但我写了一篇更详细的文章来解释 LightGBM 是如何工作的。
 
-[](/understanding-the-lightgbm-772ca08aabfa) [## 了解光 GBM
-
-### 是什么让它更快更高效
-
-towardsdatascience.com](/understanding-the-lightgbm-772ca08aabfa) 
+</understanding-the-lightgbm-772ca08aabfa>  
 
 ## 10.CatBoost
 

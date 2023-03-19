@@ -116,11 +116,7 @@ USData.plot.bar(x='year',y='gdpPercap')
 
 你可以在以前的文章中读到更多关于熊猫密谋的内容:
 
-[](/plotting-with-pandas-an-introduction-to-data-visualization-8bd7c0831650) [## 用熊猫绘图:数据可视化导论
-
-### 如果您是一名初露头角的数据科学家或数据记者，能够可视化您的数据会让您有能力…
-
-towardsdatascience.com](/plotting-with-pandas-an-introduction-to-data-visualization-8bd7c0831650) 
+</plotting-with-pandas-an-introduction-to-data-visualization-8bd7c0831650>  
 
 # 海生的
 
@@ -204,11 +200,7 @@ Plotnine 允许您绘制任意数量的图表类型，这些图表类型是由�
 
 我在这里写了更多关于 Plotnine 的内容:
 
-[](/ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf) [## ggplot:使用 Plotnine 的 Python 中的图形语法
-
-### 一个强大的图形库，非常直观
-
-towardsdatascience.com](/ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf) 
+</ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf>  
 
 # MplFinance
 

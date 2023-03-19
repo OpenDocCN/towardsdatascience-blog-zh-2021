@@ -61,12 +61,4 @@
 
 **读也:**
 
- [## 自己的项目
-
-### 几天前，在放学回家的路上，我九岁的儿子告诉我他等不及要回家了…
-
-paulgraham.com](http://paulgraham.com/own.html) [](https://eugeneyan.com/writing/data-science-portfolio-how-why-what/) [## 为什么要有数据科学产品组合，它展示了什么
-
-### 正在考虑构建您的数据科学投资组合？如果我们在谷歌上搜索“数据科学组合”，我们会得到很多关于…
-
-eugeneyan.com](https://eugeneyan.com/writing/data-science-portfolio-how-why-what/)
+  <https://eugeneyan.com/writing/data-science-portfolio-how-why-what/> 

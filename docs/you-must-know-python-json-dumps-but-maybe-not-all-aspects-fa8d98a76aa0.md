@@ -284,10 +284,6 @@ json.dumps(my_dict, cls=DateTimeEncoder, indent=2)
 
 在本文中，我只介绍了 Python 中的一种方法— `json.dumps()`。对于像这样的内置方法，我们通常会大量使用它们，但是我们可能不知道它的每一个方面。强烈建议调查我们熟悉的方法，而不是继续寻找那些很少使用的方法，因为前者可能会让我们花的时间更有价值。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

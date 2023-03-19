@@ -173,11 +173,7 @@ fig_category.show()
 
 再次感谢您的阅读！如果你正在考虑成为 Medium 的付费会员，如果你使用我下面的推荐链接注册，我会非常感激！这会让直接收到你的一部分会费，所以这将是一个很大的帮助。
 
-[](https://byrondolon.medium.com/membership) [## 通过我的推荐链接加入 Medium—Byron Dolon
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-byrondolon.medium.com](https://byrondolon.medium.com/membership) 
+<https://byrondolon.medium.com/membership>  
 
 ```
 **More by me:** - [Check for a Substring in a Pandas DataFrame](/check-for-a-substring-in-a-pandas-dataframe-column-4b949f64852?sk=bfb5bbab11ae45c47bfb316d931c3b56)

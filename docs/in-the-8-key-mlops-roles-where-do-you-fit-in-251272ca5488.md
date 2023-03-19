@@ -44,11 +44,7 @@ ba 很少编码，但是他们有很好的数据素养。他们花大部分时�
 
 大多数 da 都知道如何编码。他们使用 R 或 Python 进行探索性数据分析。
 
-[](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) [## 如何在眨眼之间用 Python 做一吨的分析？
-
-### 使用这些 Python 探索性数据分析，将您的数据探索时间缩短到原来的十分之一…
-
-towardsdatascience.com](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) 
+</how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06>  
 
 # 软件工程师和开发人员
 
@@ -62,11 +58,7 @@ towardsdatascience.com](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa
 
 另一方面，软件工程有自己的技能。他们用诸如 Django T1 和 T2 Flask T3 这样的框架创建网络应用。大多数软件工程师也更喜欢前端框架，如 [React](https://reactjs.org/) 和 [Vue](https://vuejs.org/) 。React 允许为 iOS、Android 和桌面创建[跨平台应用](https://reactnative.dev/)。但是一些大型团队也有本地移动开发者。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 # 数据和 ML 架构师
 
@@ -80,21 +72,13 @@ ML 架构师担心整个机器学习项目生命周期。他们创建项目的�
 
 数据工程师是平台的推动者。他们确保相关数据可用于机器学习项目，并且其质量符合要求的标准。
 
-[](/stop-firefighting-data-quality-issues-4c064bcbbb53) [## 停止解决数据质量问题。
-
-### 高质量的数据是通过系统和定期的质量评估实现的。
-
-towardsdatascience.com](/stop-firefighting-data-quality-issues-4c064bcbbb53) 
+</stop-firefighting-data-quality-issues-4c064bcbbb53>  
 
 数据工程师大部分时间花在构建数据管道上。数据管道确保来自数据源的数据流不中断，对数据进行初步转换，并将其加载到适当的数据存储中。这个过程通常被称为 ETL。
 
 数据工程师使用 Airflow 和 Prefect 等工具来构建 ETL 管道。它们帮助协调各种单独的任务，并按计划运行它们。
 
-[](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) [## 自动化和编排数据管道的完美方式
-
-### 我正在将我所有的 ETL 工作从 Airflow 迁移到这个超级酷的框架中
-
-towardsdatascience.com](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) 
+</the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2>  
 
 它们也有助于数据湖、数据仓库等概念。他们精通 SQL 语言、Postgres、MySQL 等数据库技术。
 
@@ -104,11 +88,7 @@ MLOps 工程师确保模型部署到生产系统的自动化。不同组织的�
 
 MLOps 工程师的职责是从数据科学家那里获得模型，并将其提供给使用它的软件。数据科学家经常使用 Jupiter 笔记本或脚本文件来构建、测试和验证他们的机器学习模型。另一方面，软件工程师希望机器学习模型可以通过 REST 等可调用的 API 来访问。
 
-[](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e) [## 在生产中部署机器学习模型的 3 种方式
-
-### 部署 ML 模型，并使它们对用户或项目的其他组件可用。
-
-towardsdatascience.com](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e) 
+</3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e>  
 
 [MLOps 与 DevOps](https://www.phdata.io/blog/mlops-vs-devops-whats-the-difference/) 略有不同。这是因为机器学习项目本质上是实验性的，而软件项目是决定性的(大部分情况下。)此外，测试机器学习模型与软件测试截然不同。数据科学中的测试涉及预测质量和一系列其他独特的挑战。
 
@@ -122,11 +102,7 @@ MLOps 工程师通常对数据管道非常了解。他们也像数据工程师�
 
 优化工程师的工作是转换用低代码库构建的模型，以便在所选的硬件系统上执行得更好。他们知道如何将它们转换成 LLVM 位代码，并行运行它们，等等。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 # 数据科学家
 

@@ -80,18 +80,6 @@
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/sampling-methods-for-data-science-ddfeb5b3c8ed) [## 数据科学的抽样方法
-
-### 从人群中获取样本的最好方法是什么？
-
-towardsdatascience.com](/sampling-methods-for-data-science-ddfeb5b3c8ed) [](https://medium.datadriveninvestor.com/book-summary-practical-statistics-for-data-scientists-37489c44a8c2) [## 书籍摘要:数据科学家实用统计学
-
-### 如何让传统统计学适应数据科学？
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/book-summary-practical-statistics-for-data-scientists-37489c44a8c2) [](/hypothesis-testing-a23852264d09) [## 假设检验
-
-### 它是什么以及如何在 Python 中实现它
-
-towardsdatascience.com](/hypothesis-testing-a23852264d09) 
+</sampling-methods-for-data-science-ddfeb5b3c8ed>  <https://medium.datadriveninvestor.com/book-summary-practical-statistics-for-data-scientists-37489c44a8c2>  </hypothesis-testing-a23852264d09>  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn[联系我，这将是我的荣幸(老实说)。](https://www.linkedin.com/in/melloarthur/)

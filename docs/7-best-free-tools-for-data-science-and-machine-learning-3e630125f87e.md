@@ -26,11 +26,7 @@ Google Colab 是用于构建机器学习项目的最佳在线工具之一。在 
 
 我强烈推荐查看我以前的一篇关于 Jupyter 笔记本的文章，在那里我已经广泛地讨论了 Jupyter 笔记本的主题。下面提供了链接，您可以访问它来获得关于 Jupyter 笔记本及其在机器学习项目中的用途的更多信息。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 # 2.蟒蛇
 
@@ -92,26 +88,6 @@ IBM Watson Studio 有免费的基本规划，大多数用户都可以访问这�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) [](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
-
-### 探索每个成功的数据科学家必须具备的五项重要软技能！
-
-towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
-
-### 应该添加到简历中的五个高级自然语言处理主题和项目想法
-
-towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
-
-### 揭示人工智能，神经网络和深度学习的进步导致快速…
-
-towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) 
+</best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  </6-best-programming-practices-f2605c5b469c>  </5-essential-skills-to-develop-as-a-data-scientist-16442f094c09>  </5-nlp-topics-and-projects-you-should-know-about-65bc675337a0>  </ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

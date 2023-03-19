@@ -168,8 +168,4 @@ ds = xr.Dataset(data_vars, coords, attrs)
 
 *感谢您的阅读，我很乐意帮助您解决任何问题*
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium—Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)
+<https://lukegloege.medium.com/membership> 

@@ -287,11 +287,7 @@ y_test = **to_categorical**(y_test, n_classes)
 
 **相关文章:**
 
-[](/cifar-100-transfer-learning-using-efficientnet-ed3ed7b89af2) [## CIFAR 100:使用 EfficientNet 进行迁移学习
-
-### 使用最先进的 EfficientNet-B0 进行迁移学习
-
-towardsdatascience.com](/cifar-100-transfer-learning-using-efficientnet-ed3ed7b89af2) 
+</cifar-100-transfer-learning-using-efficientnet-ed3ed7b89af2>  
 
 谢谢大家阅读这篇文章。请分享您对这篇文章的宝贵反馈或建议！快乐阅读！📗 🖌
 

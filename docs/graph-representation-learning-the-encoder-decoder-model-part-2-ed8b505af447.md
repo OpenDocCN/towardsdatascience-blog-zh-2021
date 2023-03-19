@@ -16,7 +16,7 @@ GraphEDM 框架的表示——作者修改的原始纸质图像(经允许后发�
 
 在本系列的前一篇文章中，我从不同的角度提出了对网络嵌入的讨论，进行了不同的比较，包括欧几里德几何与非欧几里德几何，位置嵌入与结构嵌入，以及直推式学习与归纳式学习。
 
-[](/graph-representation-learning-network-embeddings-d1162625c52b) [## 图形表示学习——网络嵌入(上)
+</graph-representation-learning-network-embeddings-d1162625c52b> [## 图形表示学习——网络嵌入(上)
 
 towardsdatascience.com](/graph-representation-learning-network-embeddings-d1162625c52b) 
 
@@ -38,11 +38,7 @@ GraphEDM 框架认为输入是一个无向加权图， *G=(N，E)* ，其中 *N*
 
 邻接矩阵 *W* 是一个维数为|*N*|*x*|*N*的方阵，它对图中节点之间的关系进行编码。在未加权图形的情况下， *W* 包括 0 和 1 之间的值。否则，对于加权图，这些值对应于边权重。 *X* 矩阵的行数对应于图中的节点数| *N* |，列数对应于特征尺寸 *d* ₀.以下文章提供了此类维度的示例:
 
-[](/understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5) [## 了解图形神经网络的构建模块(简介)
-
-### 框架上的直觉(带有运行代码),用神经架构分析和学习图形数据
-
-towardsdatascience.com](/understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5) 
+</understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5>  
 
 对于(半)监督设置，我们需要包括目标标签，用于在特定的下游任务上训练模型。为节点 *N* 边 *E* 和/或整个图形 *G* 提供训练目标标签。监控信号的集合在 GraphEDM 论文中表示为 *S∈{N，E，G}* 。
 

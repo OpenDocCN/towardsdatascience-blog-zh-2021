@@ -70,11 +70,7 @@ M1 芯片再次领先。让我们看看多核测试的结果:
 
 第一次为数据科学配置 M1 芯片可能会很痛苦。这个过程与英特尔芯片不同，至少如果你想在本地运行所有的东西。幸运的是，这里有一个你可以遵循的分步指南:
 
-[](/how-to-easily-set-up-m1-macbooks-for-data-science-and-machine-learning-cd4f8a6b706d) [## 如何轻松设置 M1 macbook 进行数据科学和机器学习
-
-### 你只需要 10 分钟。和一台 M1 苹果机。
-
-towardsdatascience.com](/how-to-easily-set-up-m1-macbooks-for-data-science-and-machine-learning-cd4f8a6b706d) 
+</how-to-easily-set-up-m1-macbooks-for-data-science-and-machine-learning-cd4f8a6b706d>  
 
 我们将在纯 Python 测试中完成几个相对简单的任务:
 
@@ -178,11 +174,7 @@ M1 MAC 电脑没有专用的 GPU，但这并不是一个问题。很有可能，
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 了解更多信息
 

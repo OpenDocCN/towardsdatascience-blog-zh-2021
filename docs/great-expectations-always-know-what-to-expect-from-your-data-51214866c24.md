@@ -343,30 +343,10 @@ $ great_expectations --v3-api checkpoint run first_checkpoint
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example) [## 数据-科学/数据 _ 科学 _ 工具/伟大 _ 期望 _ 实例在大师 khuyentran 1401/数据-科学
-
-### 有用的数据科学主题以及代码和文章的集合…
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example) 
+<https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) [## kedro——可再生数据科学项目的 Python 框架
-
-### 使用 Kedro 创建可维护的模块化数据科学管道
-
-towardsdatascience.com](/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6)
+</kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d>  </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  </pytest-for-data-scientists-2990319e55e6> 

@@ -16,11 +16,7 @@
 
 *要快速了解 ES 的基础知识以及如何使用 Python 提供集群和设置索引的说明，请查看我之前的文章* [*使用 Python 创建和管理弹性搜索索引*](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) 。
 
-[](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 管理数据的实践指南…
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) 
+</creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  
 
 对于下面的例子，我将使用我在之前的文章中建立的`neflix_movies`索引。这个指数是根据 Kaggle 上的 7787 场网飞演出的数据构建的。原始数据是 CSV 格式的，包含网飞上可用的电影和电视剧的信息，包括元数据，如上映日期、片名和演员。我们的索引的映射定义如下:
 
@@ -28,7 +24,7 @@ towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python
 
 *如果你想学习如何创建更好的针对磁盘使用优化的 ES 索引，请查看我之前关于* [*优化弹性搜索中的磁盘使用*](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) *的帖子。*
 
-[](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [## 优化弹性搜索中的磁盘使用
+</optimising-disk-usage-in-elasticsearch-d7b4238808f7> [## 优化弹性搜索中的磁盘使用
 
 towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) 
 
@@ -294,23 +290,11 @@ release_year  |   n_entries
 
 感谢您的阅读！
 
-[](https://medium.com/@ndgoet/membership) [## 用我的推荐链接加入媒体。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ndgoet/membership) 
+<https://medium.com/@ndgoet/membership>  
 
 **如果你喜欢这篇文章，这里还有一些你可能喜欢的文章:**
 
-[](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [## 开始使用 Elasticsearch 需要掌握的四件事
-
-### 弹性研究概念和原则的简明概述
-
-towardsdatascience.com](/four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d) [](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [## 使用 Python 创建和管理弹性搜索索引
-
-### 从 CSV 文件创建 ES 索引以及使用 Python Elasticsearch 客户端管理数据的实践指南
-
-towardsdatascience.com](/creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113) [](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) [## 优化弹性搜索中的磁盘使用
+</four-things-you-need-to-master-to-get-started-with-elasticsearch-c51bed6ae99d>  </creating-and-managing-elasticsearch-indices-with-python-f676ff1c8113>  </optimising-disk-usage-in-elasticsearch-d7b4238808f7> [## 优化弹性搜索中的磁盘使用
 
 towardsdatascience.com](/optimising-disk-usage-in-elasticsearch-d7b4238808f7) 
 

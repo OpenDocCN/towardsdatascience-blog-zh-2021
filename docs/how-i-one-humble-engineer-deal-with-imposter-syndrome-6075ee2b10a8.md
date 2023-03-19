@@ -121,4 +121,4 @@
 
 非常感谢[萨拉·罗宾逊](https://twitter.com/SRobTweets)和[阿努·斯里瓦斯塔瓦](https://twitter.com/asrivas_dev)，我的两位聪明又体贴的同事对这篇文章的反馈。
 
-【https://daleonai.com】原载于 2021 年 3 月 9 日[](https://daleonai.com/my-take-imposter-syndrome-tech)**。关注*[*dale quark @*](https://twitter.com/dalequark)*了解更多。**
+【https://daleonai.com】原载于 2021 年 3 月 9 日<https://daleonai.com/my-take-imposter-syndrome-tech>**。关注*[*dale quark @*](https://twitter.com/dalequark)*了解更多。**

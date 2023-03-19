@@ -42,27 +42,15 @@ MLOps 是一套很难在家学习的概念。如果没有生产环境，很难�
 
 **要了解如何重构你的代码，请点击这里查看我的文章:**
 
-[](/mlops-at-home-part2-3c4282df7714) [## 想在家里实现 MLOps？重构您的代码
-
-### 首先让您的代码可重用，然后看看工具
-
-towardsdatascience.com](/mlops-at-home-part2-3c4282df7714) 
+</mlops-at-home-part2-3c4282df7714>  
 
 **如果你只是想要笔记本，不用多说:**
 
-[](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb) [## mlops-at-home/3 refacted . ipynb at main adamshafi 92/mlops-at-home
-
-### 在 GitHub 上创建一个帐户，为 adamshafi 92/mlops-home 开发做出贡献。
-
-github.com](https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb) 
+<https://github.com/AdamShafi92/mlops-at-home/blob/main/1-refactoring_code/3%20Refactored.ipynb>  
 
 包含完整 Kedro 项目的最终回购位于以下位置:
 
-[](https://github.com/AdamShafi92/mlops-at-home/tree/main/2-pipelines/hpmlops) [## 主 AdamShafi92 处的 mlops/2-管道/hpmlops/mlops-home
-
-### 这是您的新 Kedro 项目，它是使用 Kedro 0.17.4 生成的。看一下 Kedro 文档以获得…
-
-github.com](https://github.com/AdamShafi92/mlops-at-home/tree/main/2-pipelines/hpmlops) 
+<https://github.com/AdamShafi92/mlops-at-home/tree/main/2-pipelines/hpmlops>  
 
 # 创建一个 Kedro 项目
 
@@ -152,11 +140,7 @@ kedro new
 
 如果您想要一种从 Jupyter 笔记本中提取需求的简单方法，请看这里:
 
-[](/generating-a-requirements-file-jupyter-notebook-385f1c315b52) [## 从 Jupyter 笔记本生成 Requirements.txt 文件
-
-### 一个很容易被忽视的节省时间的方法。
-
-towardsdatascience.com](/generating-a-requirements-file-jupyter-notebook-385f1c315b52) 
+</generating-a-requirements-file-jupyter-notebook-385f1c315b52>  
 
 创建文件后，将内容复制到 Kedro 的等效文件中，该文件位于:
 
@@ -498,6 +482,6 @@ INFO — Pipeline execution completed successfully*
 
 ## *了解更多信息*
 
-*[](/tabnet-e1b979907694) [## TabNet:梯度推进的终结？
+*</tabnet-e1b979907694> [## TabNet:梯度推进的终结？
 
 towardsdatascience.com](/tabnet-e1b979907694)*

@@ -216,11 +216,7 @@ conda create --name mynewenvname --file spec-file.txt
 
 **有关创建可再现数据科学项目的最佳实践的更多信息，请参见我之前的文章。**
 
-**[](/a-recipe-for-organising-data-science-projects-50a1cc539c69) [## 组织数据科学项目的秘诀
-
-### 了解如何创建结构化和可重复的数据科学项目
-
-towardsdatascience.com](/a-recipe-for-organising-data-science-projects-50a1cc539c69) 
+**</a-recipe-for-organising-data-science-projects-50a1cc539c69>  
 
 感谢阅读！
 

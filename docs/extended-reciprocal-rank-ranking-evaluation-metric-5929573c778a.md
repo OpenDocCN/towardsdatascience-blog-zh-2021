@@ -80,8 +80,4 @@ ExtRR 最大的优点是——你可以通过使用一些相关的文档来评�
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/Mean_reciprocal_rank) [## 平均倒数排名-维基百科
-
-### 平均倒数排名是一种统计方法，用于评估产生可能响应列表的任何过程…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Mean_reciprocal_rank)
+<https://en.wikipedia.org/wiki/Mean_reciprocal_rank> 

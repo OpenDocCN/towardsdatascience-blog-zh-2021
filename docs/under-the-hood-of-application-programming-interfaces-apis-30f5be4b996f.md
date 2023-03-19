@@ -83,11 +83,7 @@ REST 代表**Re**presentation**S**state**T**transfer。这不是一个非常直�
 
 *在下面的帖子中解释了用 Python 从头开始构建 REST API 的一步一步的例子。*
 
-*[](/the-right-way-to-build-an-api-with-python-cd08ab285f8f) [## 用 Python 构建 API 的正确方法
-
-### 关于 Flask 中的 API 开发，您需要了解的所有内容
-
-towardsdatascience.com](/the-right-way-to-build-an-api-with-python-cd08ab285f8f)* 
+*</the-right-way-to-build-an-api-with-python-cd08ab285f8f> * 
 
 *理解 API——它们是什么，它们如何交互，以及它们做什么，是在当前软件开发环境中必须掌握的技能。希望这篇文章能对不熟悉这些概念的读者有所帮助。*
 

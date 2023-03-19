@@ -98,4 +98,4 @@ x[outliers_mask] # array([ 5., -10.])
 
 www.yourdatateacher.com*上* [*教授机器学习和数据科学的数据科学家吉安卢卡·马拉托。*](http://www.yourdatateacher.com/)
 
-*原载于 2021 年 11 月 1 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/11/01/outlier-identification-using-interquartile-range/)**。**
+*原载于 2021 年 11 月 1 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/11/01/outlier-identification-using-interquartile-range/>**。**

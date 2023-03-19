@@ -20,4 +20,4 @@
 
 有了这个清单，我想在数据上对 2021 年许两个愿望。第一，我希望整个领域，但尤其是它的 ML 部分，变得更“无聊”，但*有用*。第二，我们开始使用这种神奇的技术来解决我们面临的紧迫问题，并走向一个更加乐观和雄心勃勃的未来。
 
-*注:本文原载于 https://boyanangelov.com/blog/data-predictions-2021/*[](https://boyanangelov.com/blog/data-predictions-2021/)
+*注:本文原载于 https://boyanangelov.com/blog/data-predictions-2021/*<https://boyanangelov.com/blog/data-predictions-2021/>

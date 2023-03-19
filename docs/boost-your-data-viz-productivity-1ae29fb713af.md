@@ -63,11 +63,7 @@ Altair 支持**声明式编程**，它允许您基于输入数据和输出属性
 
 在这篇文章中，我们将使用下面的 Colab 笔记本。
 
- [## 中型牛郎星教程. ipynb
-
-### 合作笔记本
-
-drive.google.com](https://drive.google.com/file/d/17r77TMJ5Z6lPxRgG6UhLwxYC-_OhHYpr/view?usp=sharing) 
+  
 
 ## 装置
 

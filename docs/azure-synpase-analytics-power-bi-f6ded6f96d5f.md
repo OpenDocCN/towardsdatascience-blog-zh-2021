@@ -185,12 +185,4 @@ SELECT * FROM sys.dm_external_data_processed
 
 ## 资源
 
-[](https://datamozart.medium.com/synapse-serverless-sql-power-bi-having-fun-with-pivot-3491dbb13ae8) [## Synapse 无服务器 SQL 和 Power BI —享受 PIVOT 带来的乐趣！
-
-### 查看 Synapse 无服务器 SQL pool 的最新改进如何帮助您创建最受欢迎的 Power BI…
-
-datamozart.medium.com](https://datamozart.medium.com/synapse-serverless-sql-power-bi-having-fun-with-pivot-3491dbb13ae8) [](https://blog.crossjoin.co.uk/2021/01/31/comparing-the-performance-of-importing-data-into-power-bi-from-adlsgen2-direct-and-via-azure-synapse-analytics-serverless-part-2-transformations/) [## Chris Webb 的 BI 博客:将数据从 ADLSgen2 导入 Power BI 的性能比较…
-
-### 在我的上一篇文章中，我展示了如何从存储在 ADLSgen2 中的 csv 文件的文件夹中导入所有数据，而不做任何…
-
-blog.crossjoin.co.uk](https://blog.crossjoin.co.uk/2021/01/31/comparing-the-performance-of-importing-data-into-power-bi-from-adlsgen2-direct-and-via-azure-synapse-analytics-serverless-part-2-transformations/)
+<https://datamozart.medium.com/synapse-serverless-sql-power-bi-having-fun-with-pivot-3491dbb13ae8>  <https://blog.crossjoin.co.uk/2021/01/31/comparing-the-performance-of-importing-data-into-power-bi-from-adlsgen2-direct-and-via-azure-synapse-analytics-serverless-part-2-transformations/> 

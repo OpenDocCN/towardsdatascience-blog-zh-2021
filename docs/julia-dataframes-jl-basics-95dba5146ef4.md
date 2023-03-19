@@ -12,15 +12,7 @@
 
 如果你在寻找更高级的东西？看看我关于朱莉娅的其他文章:
 
-[](/joining-dataframes-in-julia-c435e3da32f3) [## 在 Julia 中连接数据框架
-
-### 学习所有连接——使用 DataFrames.jl 的内部、外部、交叉和半连接
-
-towardsdatascience.com](/joining-dataframes-in-julia-c435e3da32f3) [](/vectorize-everything-with-julia-ad04a1696944) [## 向量化朱莉娅的一切
-
-### 告别 for loops，广播所有的东西
-
-towardsdatascience.com](/vectorize-everything-with-julia-ad04a1696944) 
+</joining-dataframes-in-julia-c435e3da32f3>  </vectorize-everything-with-julia-ad04a1696944>  
 
 > 要获得所有媒体文章的完整访问权限，包括我的文章，请考虑在此订阅。
 

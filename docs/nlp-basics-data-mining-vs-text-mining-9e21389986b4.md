@@ -12,11 +12,7 @@
 
 一开始导航可能会很困难。一开始，你的大脑会立刻被大量的新信息轰炸。你试图涵盖所有的基础知识，确保你完全理解它们，并正确地对它们进行分类。
 
-[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
-
-### 构建强大 NLP 基础的 10 个步骤
-
-towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+</nlp-101-towards-natural-language-processing-92df5728f6bb>  
 
 同样的逻辑适用于数据科学的所有子领域；说的最多的大概就是自然语言处理了。如果你决定成为一名自然语言处理专家/研究员，你需要熟悉技术术语之外的概念。你还需要完全理解——至少——语言学和语法的基础。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6b
 
 # 数据挖掘
 
-[](/5-data-mining-techniques-every-data-scientist-should-know-be06426a4ed9) [## 每个数据科学家都应该知道的 5 种数据挖掘技术
-
-### 如何在混乱中找到模式？
-
-towardsdatascience.com](/5-data-mining-techniques-every-data-scientist-should-know-be06426a4ed9) 
+</5-data-mining-techniques-every-data-scientist-should-know-be06426a4ed9>  
 
 任何数据科学领域的核心目的都是揭示数据讲述的故事。为了揭示真实的故事，数据需要干净和有用。这就是数据挖掘的用武之地。数据挖掘是一个在大量数据中发现和提取模式的过程。这一过程通常是项目的第一步，为进一步分析准备数据。
 
@@ -64,11 +56,7 @@ towardsdatascience.com](/5-data-mining-techniques-every-data-scientist-should-kn
 
 **6。连续模式**:用于查找特定时间范围内的模式。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # 文本挖掘
 
@@ -94,11 +82,7 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 **4。文本总结**。用于从文本中自动提取有用的信息和短语，并使用它们来构建原始文本的摘要。它利用了神经网络、决策树和回归等技术。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # 结论
 
@@ -106,11 +90,7 @@ towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-d
 
 当我们面对意义相关或相近但差别不大的术语时，这个过程会变得更加混乱。起初，我们可能会发现很难区分这些术语，也很难完全理解它们之间的区别。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 一对容易混淆的术语是(数据挖掘、文本挖掘)。如果你是自然语言处理的新手，你可能会认为它们有相似的意思；毕竟，文本是数据的一种形式。事实是，数据挖掘是文本挖掘的一般化版本。因此，所有的文本挖掘都是数据挖掘，但反之则不正确。
 

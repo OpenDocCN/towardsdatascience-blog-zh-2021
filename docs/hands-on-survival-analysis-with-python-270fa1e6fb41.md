@@ -273,11 +273,7 @@ coxph.check_assumptions(df)
 
 如果你对 A/B 测试感兴趣，你可以阅读我下面的文章🌠
 
-[](/a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a) [## A/B 测试指南——如何制定、设计和解释
-
-### 用 Python 实现
-
-towardsdatascience.com](/a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a) 
+</a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a>  
 
 我希望你喜欢阅读生存分析，并发现这篇文章对你的分析有用！
 

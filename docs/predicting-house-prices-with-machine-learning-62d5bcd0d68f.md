@@ -224,11 +224,7 @@ learning _ rate 学习率用于减少每棵树的贡献。这只适用于梯度�
 
 🚀[这里有一个包含代码的 Jupyter 笔记本的链接。可以自己试试](https://mybinder.org/v2/gh/john-adeojo/AdvancedRegression/bc005403eba5e1a12f2e2560493f48b635875d25?filepath=Kaggle%20Advanced%20House%20Price%20v9.ipynb)
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/) 
+<https://www.linkedin.com/in/john-adeojo/>  
 
 # 参考
 

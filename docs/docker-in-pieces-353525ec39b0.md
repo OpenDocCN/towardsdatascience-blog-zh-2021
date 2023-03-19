@@ -34,31 +34,19 @@ python 中内置了一个机器学习软件应用程序，用于对图像和视�
 
 按照这篇教程学习如何在 Linux 上安装 docker。
 
-[](https://docs.docker.com/engine/install/ubuntu/) [## 在 Ubuntu 上安装 Docker 引擎
-
-### 预计阅读时间:12 分钟 Docker Desktop for Linux Docker Desktop 帮助您构建、共享和运行容器…
-
-docs.docker.com](https://docs.docker.com/engine/install/ubuntu/) 
+<https://docs.docker.com/engine/install/ubuntu/>  
 
 ## Windows 操作系统
 
 请按照本教程学习如何在 Windows 上安装 docker
 
-[](https://docs.docker.com/desktop/windows/install/) [## 在 Windows 上安装 Docker 桌面
-
-### 预计阅读时间:9 分钟更新到 Docker 桌面条款专业使用 Docker 桌面在大…
-
-docs.docker.com](https://docs.docker.com/desktop/windows/install/) 
+<https://docs.docker.com/desktop/windows/install/>  
 
 ## mac 操作系统
 
 请按照本教程学习如何在 Mac OS 上安装 docker。
 
-[](https://docs.docker.com/desktop/mac/install/) [## 在 Mac 上安装 Docker 桌面
-
-### 预计阅读时间:7 分钟更新到 Docker 桌面条款专业使用 Docker 桌面在大…
-
-docs.docker.com](https://docs.docker.com/desktop/mac/install/) 
+<https://docs.docker.com/desktop/mac/install/>  
 
 # Docker 概念
 
@@ -213,11 +201,7 @@ def home():
 
 **注册 DockerHub**
 
- [## Docker Hub 容器图像库|应用容器化
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/) 
+  
 
 在 Dockerhub 上拥有帐户后，您可以使用您的帐户上传 docker 图片。
 
@@ -418,8 +402,4 @@ print(results["outputs"])
 
 *访问 PixelLibAPI 存储库:*
 
-*[](https://github.com/ayoolaolafenwa/PixelLibAPI) [## GitHub-ayoolaolafenwa/PixelLibAPI
-
-### 这个库是使用 docker 部署机器学习模型作为 Rest API 的代码集合，用于执行…
-
-github.com](https://github.com/ayoolaolafenwa/PixelLibAPI)*
+*<https://github.com/ayoolaolafenwa/PixelLibAPI> *

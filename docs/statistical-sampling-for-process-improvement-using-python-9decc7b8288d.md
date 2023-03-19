@@ -46,11 +46,7 @@ Problem Statement** You are the **Customer Service Manager of an elevator parts 
 
 > *您能否使用您的样本数据，以 90%的置信区间估计平均处理时间？*
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。统计抽样
 
@@ -119,19 +115,7 @@ s = 6.81 (min)The confidence interval is [21.96, 23.54]
 
 如果您对持续改进的统计数据感兴趣，可以看看这个系列的文章，它们涵盖了使用 Python 实现的精益六适马概念
 
-[](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) [## 使用 Python - Kruskal Wallis 测试精益六适马
-
-### 物流持续改进如何用 Python 替换 Minitab 来执行 Kruskal Wallis 测试评估…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) [](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/) [## 基于 Python - Logistic 回归的精益六适马
-
-### 物流持续改进用 Python 替换 Minitab 来执行逻辑回归以估计最小…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/) [](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) [## 使用 Python - Chi-Squared 测试的精益六适马
-
-### 物流持续改进执行卡方检验，解释影响您的…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) 
+<https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/>  <https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/>  <https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/>  
 
 # 三。结论
 
@@ -149,11 +133,7 @@ www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squa
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

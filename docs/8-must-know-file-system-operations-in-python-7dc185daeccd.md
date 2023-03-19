@@ -234,14 +234,6 @@ shutil.rmtree(os.path.join('test_dir', 'level_1'))
 
 所有的源代码都在公开的 Google Colab 笔记本上，可以随时运行。
 
-[](https://colab.research.google.com/drive/104ryrhopuEbMRrV6mwfh_BZxUFisnod1?usp=sharing) [## 文件系统操作基础
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/104ryrhopuEbMRrV6mwfh_BZxUFisnod1?usp=sharing) [](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://colab.research.google.com/drive/104ryrhopuEbMRrV6mwfh_BZxUFisnod1?usp=sharing>  <https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

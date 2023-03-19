@@ -14,15 +14,7 @@
 
 对于新人来说，土匪这个名字来自老虎机(被称为独臂土匪)。你可以把它想成每次和它互动(拉它胳膊)都能奖励你(或者不奖励你)的东西。目标是，给定一群给出不同奖励的强盗，尽可能快地找出给出最高奖励的强盗。当我们开始玩游戏并不断收集关于每个强盗的数据时，强盗算法会帮助我们在利用迄今为止给我们最高奖励的强盗和探索其他强盗之间进行选择。
 
-[](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d) [## 多臂强盗:带 Python 代码的置信上限算法
-
-### 了解不同的置信上限 bandit 算法。为所有实验提供的 Python 代码。
-
-towardsdatascience.com](/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d) 
+<https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  </multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d>  
 
 你和你的朋友一直在使用 bandit 算法来优化每周电影之夜选择哪家餐馆和哪部电影。到目前为止，你已经尝试了不同的强盗算法，如[ε贪婪](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9)、[乐观初始值](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab)和[置信上限](/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d) (UCB)。您已经发现 **UCB1 调整的**算法在伯努利和普通奖励方面都比其他算法稍好，并且已经在过去几个月中使用了它。
 
@@ -153,15 +145,7 @@ for g, w in zip(get_agents(), wins):
 
 **出自同一作者。**
 
-[](/going-bayesian-testing-rate-metrics-82e872b79175) [## 走向贝叶斯:测试速率度量
-
-### 如何在没有 p 值和置信区间的情况下运行速率度量的 A/B 测试？
-
-towardsdatascience.com](/going-bayesian-testing-rate-metrics-82e872b79175) [](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [## 使用蒙特卡罗模拟计算𝛑
-
-### 用 Python 代码介绍蒙特卡罗模拟。
-
-medium.com](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) 
+</going-bayesian-testing-rate-metrics-82e872b79175>  <https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5>  
 
 # 参考
 

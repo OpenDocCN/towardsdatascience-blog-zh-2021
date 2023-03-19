@@ -16,19 +16,11 @@
 
 所有数据科学项目都是从数据采集开始的。经过一番搜索，我找到了一个网站，上面有我需要的东西，每一集《星际迷航》的脚本(不包括最近的系列)，格式一致:
 
- [## 黄诗丹的成绩单网站
-
-### 如果有任何更正，请发电子邮件给 chakoteya dot net 脸书集团的 chrissie。CBS 新推出的《星际迷航》系列是第一集…
-
-www.chakoteya.net](http://www.chakoteya.net/) 
+  
 
 更重要的是，我甚至不用写脚本就可以从这个网站下载所有这些脚本。原来有人已经这样做了，并把它们都放在 Kaggle 上的 JSON 中:
 
-[](https://www.kaggle.com/gjbroughton/start-trek-scripts) [## 星际迷航剧本
-
-### 所有《星际迷航》系列剧本的原始文本剧本和经过处理的台词
-
-www.kaggle.com](https://www.kaggle.com/gjbroughton/start-trek-scripts) 
+<https://www.kaggle.com/gjbroughton/start-trek-scripts>  
 
 # 2.处理数据
 
@@ -108,8 +100,4 @@ Streamlit 应用部署流程(图片由作者提供)
 
 [星际迷航互动角色互动图应用](https://gmorinan-trekviz-app-d7h5oq.streamlit.app)的完整代码可以在这个库中找到(其中包括一些额外的 HMTL 版本的互动图，每个图节点都是那个角色的图像):
 
- [## gmorinan/trekviz
-
-### 仪表板用于显示不同星际迷航系列中角色有多少台词和互动。要运行…
-
-github.com](https://github.com/gmorinan/trekviz)
+ 

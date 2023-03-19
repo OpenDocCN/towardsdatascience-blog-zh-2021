@@ -121,7 +121,7 @@
 
 机器学习模型不接受文本格式的输入，因此我们需要将文本数据转换为矢量形式。这个过程被称为**单词嵌入**。单词嵌入可以大致分为:
 
-1.  基于频率——最流行的技术是[](https://en.wikipedia.org/wiki/Bag-of-words_model)**[**TF-IDF**](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)**
+1.  基于频率——最流行的技术是<https://en.wikipedia.org/wiki/Bag-of-words_model>**[**TF-IDF**](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)**
 2.  **基于预测——最流行的技术是 **Word2vec** 和 **Glove****
 
 **这里我将使用基于频率的单词嵌入。**

@@ -141,8 +141,4 @@ covid-19 死亡率与测试次数呈负相关——来源:自然杂志[的文章
 
 在我下面的扩展文章中了解更多。
 
-[](/why-deep-learning-works-289f17cab01a) [## 深度学习为什么有效——循序渐进教程
-
-### 在开始是神经元:梯度下降，反向传播，回归，自动编码器，细胞神经网络…
-
-towardsdatascience.com](/why-deep-learning-works-289f17cab01a)
+</why-deep-learning-works-289f17cab01a> 

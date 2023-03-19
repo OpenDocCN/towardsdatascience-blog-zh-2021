@@ -120,8 +120,4 @@ python -m ipykernal install --user --name=ds_env**
 
 *****好了，这就是我对成功成为一名数据科学家的提示和建议。希望您发现这很有用，它们可以帮助您提高作为数据科学家的技能。请随意查看下面我的个人网站或在 Linkedin 上联系。*****
 
-*****[](https://www.datascientistguide.com/) [## 《数据科学家指南》中的数据科学和机器学习
-
-### 这篇博客记录了我作为一名数据科学家的旅程。我的职业生涯始于一名经济学家，并且一直对…
-
-www.datascientistguide.com](https://www.datascientistguide.com/)*****
+*****<https://www.datascientistguide.com/> *****

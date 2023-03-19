@@ -68,11 +68,7 @@ Computer: Cucumber was on the list! You are OUT!
 
 最近的工作叫做 FUSE，有一个很好的 MIT 许可，在这里[可以得到](https://github.com/WanzhengZhu/FUSE.git)，来自论文“ [FUSE:通过 Skip-grams 的相干聚类进行多面集合扩展](https://arxiv.org/pdf/1910.04345.pdf)”。虽然他们不提供数据集，但我们可以尝试使用我们自己的维基百科数据集或类似的开源文本数据集。我们首先按照保险丝安装说明中的指示，为 gloVe 和 BERT 抓取预训练模型。这个冒险的完整代码可以在 [**这里**](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Games_for_Bots.ipynb) **:** 找到
 
-[](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Games_for_Bots.ipynb) [## 严肃地说，在 main……
-
-### 没有。为 DC Shapiro/serious-a-repo-just-to-upload-one-file for-a-article 开发做出贡献，创建一个…
-
-github.com](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Games_for_Bots.ipynb) 
+<https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Games_for_Bots.ipynb>  
 
 **我的第一次尝试**是使用[提供的 45471 个句子的数据集](https://github.com/WanzhengZhu/FUSE/tree/master/data)来训练集合扩展模型。它太小了，因此，正如[在代码说明](https://github.com/WanzhengZhu/FUSE#Data)中指出的，它无法生成簇。聚类代码删除小的聚类。我没有试图联系提到的第三方以访问他们的数据集，这似乎是一个私人数据集。
 

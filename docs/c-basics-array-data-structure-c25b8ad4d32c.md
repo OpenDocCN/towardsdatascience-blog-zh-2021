@@ -150,7 +150,7 @@ void print_array(const std::array<T, size>& data)
 ```
 int data[6] = {1, 2, 3, 4, 5, 6};
 int *result = std::find_if(data, data+6,
-              [](const int x)
+              <const int x>
               {
                if (x == 4) return true;
                else return false;
@@ -162,7 +162,7 @@ int *result = std::find_if(data, data+6,
 ```
 std::array<int, 6> data{1, 2, 3, 4, 5, 6};
 auto result = std::find_if(data.begin(), data.end(),
-              [](const int x)
+              <const int x>
               {
                if (x == 4) return true;
                else return false;
@@ -174,7 +174,7 @@ auto result = std::find_if(data.begin(), data.end(),
 ```
 std::vector<int> data{1, 2, 3, 4, 5, 6};
 auto result = std::find_if(data.begin(), data.end(),
-              [](const int x)
+              <const int x>
               {
                if (x == 4) return true;
                else return false;
@@ -319,8 +319,4 @@ data.push_back(5);
 
 我没有把它放在这篇文章中，因为 std::deque 不连续存储数据。它实现为数组的集合，你可以把它想象成 std::vector 的链表。
 
-[](https://debby-nirwan.medium.com/subscribe) [## 每当王思然·尼旺发表文章时，就收到一封电子邮件。
-
-### 每当王思然·尼旺发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-debby-nirwan.medium.com](https://debby-nirwan.medium.com/subscribe)
+<https://debby-nirwan.medium.com/subscribe> 

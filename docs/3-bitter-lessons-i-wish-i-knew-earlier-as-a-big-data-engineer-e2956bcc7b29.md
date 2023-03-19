@@ -34,11 +34,7 @@ D 数据已经成为每个行业的重要资产。从医疗保健到电子商务
 
 年轻的数据工程师，就像我过去的自己，经常忽视 SQL 用法的重要性。我一点也不知道，我的 SQL 中的一个小的优化可以导致显著的性能提升。一个小而巧妙的行为可以增强最终用户的体验。
 
-[](/how-to-build-a-scalable-big-data-analytics-pipeline-7de18f8be848) [## 如何构建可扩展的大数据分析管道
-
-### 大规模建立端到端系统
-
-towardsdatascience.com](/how-to-build-a-scalable-big-data-analytics-pipeline-7de18f8be848) 
+</how-to-build-a-scalable-big-data-analytics-pipeline-7de18f8be848>  
 
 如今，许多大数据工具都带有预先优化的软件包。这使得 SQL 查询成为优化的唯一场所。掌握一个人的 SQL 并不总是简单的。归结起来就是理解系统的本质。我们组织数据的方式、所需的输出和查询执行条件。
 

@@ -124,11 +124,7 @@ git push -u origin main
 
 这允许您在本地机器上运行 Docker 命令。
 
-[](https://www.docker.com/products/docker-desktop) [## 用于 Mac 和 Windows 的 Docker 桌面
-
-### 任何应用程序、任何语言的开发人员都可以自由选择工具、应用程序堆栈和…
-
-www.docker.com](https://www.docker.com/products/docker-desktop) 
+<https://www.docker.com/products/docker-desktop>  
 
 # 密码
 
@@ -379,11 +375,7 @@ DevOps 生命周期。
 
 本文中的所有代码都可以在 Github repo:
 
-[](https://github.com/natworkeffects/fastapi-cd) [## GitHub-natworkeffects/fastapi-CD
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/natworkeffects/fastapi-cd) 
+<https://github.com/natworkeffects/fastapi-cd>  
 
 我想对所有帮助完成这篇文章的大量文档和 YouTube 视频大声欢呼:
 

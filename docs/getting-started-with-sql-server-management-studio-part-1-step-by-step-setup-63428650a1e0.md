@@ -99,11 +99,7 @@ Microsoft SQL Server Management Studio 通常被称为 SSMS，是一种用于配
 
 # 继续 SQL 之旅，阅读关于数据库、表等的第 2 部分！
 
-[](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) [## SQL Server Management Studio 入门
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) 
+</getting-started-with-sql-server-management-studio-5cd24bb1a87c>  
 
 ## 或者选择你喜欢的另一集
 

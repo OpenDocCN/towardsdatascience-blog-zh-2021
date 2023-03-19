@@ -170,20 +170,8 @@ t-SNE 是一个很好的工具，可以可视化不同数据点之间的相似�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/mds-multidimensional-scaling-smart-way-to-reduce-dimensionality-in-python-7c126984e60b) [## MDS:多维尺度 Python 中降维的聪明方法
-
-### 用一个详细的 Python 例子解释了 MDS 算法
-
-towardsdatascience.com](/mds-multidimensional-scaling-smart-way-to-reduce-dimensionality-in-python-7c126984e60b) [](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0) [## Isomap 嵌入——一种令人敬畏的非线性降维方法
-
-### 如何用等距映射“展开瑞士卷”？
-
-towardsdatascience.com](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0)
+</mds-multidimensional-scaling-smart-way-to-reduce-dimensionality-in-python-7c126984e60b>  </isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0> 

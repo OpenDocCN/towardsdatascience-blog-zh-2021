@@ -14,11 +14,7 @@
 
 网络抓取是你作为数据科学家需要掌握的重要技能之一；你需要知道如何寻找、收集和清理你的数据，这样你的结果才是准确和有意义的。
 
-[](/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f) [## 为您的应用选择最佳的 Python Web 抓取库
-
-### 前 5 个库的概述以及何时使用它们。
-
-towardsdatascience.com](/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f) 
+</choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f>  
 
 网络抓取一直是一个灰色的法律领域，所以在我们深入研究可以帮助您的数据提取任务的工具之前，让我们确保您的活动完全合法。2020 年，美国法院将公开数据的网络抓取完全合法化。也就是说，如果任何人都可以在网上找到这些数据(比如维基文章)，那么刮掉这些数据就是合法的。
 
@@ -49,11 +45,7 @@ Crawly 是另一个惊人的选择，特别是如果您只需要从网站提取�
 
 虽然如果你不是程序员，或者你刚刚开始接触数据科学和 web scarping，Crawly 是完美的，但它有其局限性。它只能提取有限的 HTML 标签集，包括:`Title`、`Author`、`Image URL`和`Publisher`。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # №3: [内容抓取器](https://contentgrabber.com/Manual/understanding_the_concept.htm)
 
@@ -71,11 +63,7 @@ Webhose.io 为任何公共网站提供全面的数据覆盖。此外，它提供
 
 Webhose.io 免费版每月提供 1000 个 HTTP 请求。付费计划提供更多通话，对提取数据的权力，以及更多好处，如图像分析和地理定位以及长达 10 年的存档历史数据。
 
-[](/5-chrome-extension-to-ease-up-your-life-as-a-data-scientist-c5c483605d0d) [## 5 Chrome 扩展，让您作为数据科学家的生活更加轻松
-
-### 这些扩展对于流畅的工作流是必须的
-
-towardsdatascience.com](/5-chrome-extension-to-ease-up-your-life-as-a-data-scientist-c5c483605d0d) 
+</5-chrome-extension-to-ease-up-your-life-as-a-data-scientist-c5c483605d0d>  
 
 # №5: [ParseHub](https://www.parsehub.com/)
 
@@ -104,10 +92,6 @@ Scrapingbee 提供了一个免费计划，包括 1000 个信用点和无限使�
 
 好消息是网页抓取不一定是乏味的；您不需要执行它，甚至不需要花费太多时间来手动执行它。使用正确的工具可以帮助您节省大量时间、金钱和精力。此外，这些工具对于分析师或没有足够编码背景的人来说是有益的。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 当你想要选择一个工具来抓取网页时，你需要考虑一些因素，如 API 集成和大规模抓取的可扩展性。本文向您介绍了一些可用于不同数据收集机制的工具；给他们一个机会，选择一个让你的下一个数据收集任务变得轻而易举的方法。

@@ -47,19 +47,11 @@
 
 您可以在此阅读比赛内容并查看结果:
 
-[](https://www.kaggle.com/c/nlp-getting-started) [## 灾难微博的自然语言处理
-
-### 预测哪些推文是关于真正的灾难，哪些不是
-
-www.kaggle.com](https://www.kaggle.com/c/nlp-getting-started) 
+<https://www.kaggle.com/c/nlp-getting-started>  
 
 **您可以在这里查看或克隆所有代码:**
 
-[](https://github.com/AdamShafi92/Exploring-Embeddings) [## adamshafi 92/探索-嵌入
-
-### 看看不同的方法来嵌入文本使用的数据从 ka ggle:https://www.kaggle.com/c/nlp-getting-started 运行…
-
-github.com](https://github.com/AdamShafi92/Exploring-Embeddings) 
+<https://github.com/AdamShafi92/Exploring-Embeddings>  
 
 # 可视化
 
@@ -348,11 +340,7 @@ model.score(X_test_vec, y_test)
 
 ## **通用句子编码器**
 
-**[](https://amitness.com/2020/06/universal-sentence-encoder/) [## 通用语句编码器直观解释
-
-### 随着像 BERT 和他的朋友们这样的变形模型在 NLP 研究团体中掀起风暴，人们可能会很想…
-
-amitness.com](https://amitness.com/2020/06/universal-sentence-encoder/) 
+**<https://amitness.com/2020/06/universal-sentence-encoder/>  
 
 谷歌的**通用句子编码器**包括一个变压器架构和深度平均网络。当发布时，它实现了最先进的结果，因为传统上，句子嵌入是对整个句子进行平均的。在通用句子编码器中，每个单词都有影响。
 
@@ -393,11 +381,7 @@ model.score(X_test_vec, y_test)
 
 ## 伯特
 
-[](https://github.com/UKPLab/sentence-transformers) [## uk plab/句子-变形金刚
-
-### 这个框架提供了一个简单的方法来计算句子和段落的密集向量表示(也称为…
-
-github.com](https://github.com/UKPLab/sentence-transformers) 
+<https://github.com/UKPLab/sentence-transformers>  
 
 BERT 代表来自变压器的双向编码器表示。它是一个深度学习模型，具有 **transformer** 架构。该模型以类似于 Word2Vec 的方式进行训练，即在句子中间屏蔽一个单词，并让模型填充空白。给定一个输入句子，它还被训练预测下一个句子。
 
@@ -446,20 +430,8 @@ model.score(X_test_vec, y_test)
 
 ## 了解更多信息
 
-[](/simple-logistic-regression-a9735ed23abd) [## 清理逻辑回归
-
-### 非数学家指南
-
-towardsdatascience.com](/simple-logistic-regression-a9735ed23abd) [](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) [## 2021 年，数据科学家和分析师必须学习技术技能
-
-### 以数据驱动的方法理解英国市场的技术技能。
-
-adam-shafi.medium.com](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) 
+</simple-logistic-regression-a9735ed23abd>  <https://adam-shafi.medium.com/tech-skills-2021-5805848851c6>  
 
 ## 联系我
 
-[](https://www.linkedin.com/in/adamshafi/) [## 亚当·沙菲-数据科学家-凯捷| LinkedIn
-
-### 拥有 4 年以上分析经验的数据科学家，包括管理团队、交付项目和转变…
-
-www.linkedin.com](https://www.linkedin.com/in/adamshafi/)**
+<https://www.linkedin.com/in/adamshafi/> **

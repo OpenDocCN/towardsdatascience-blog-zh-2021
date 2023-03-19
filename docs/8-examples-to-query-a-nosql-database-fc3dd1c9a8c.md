@@ -14,11 +14,7 @@ NoSQL 数据库存储数据的常用结构是键值对、宽列、图形或文�
 
 MongoDB 将数据存储为文档。MongoDB 中的文档由字段-值对组成。文档被组织在一个称为集合的结构中。打个比方，文档可以看作是表中的一行，集合可以看作是整个表。如果您是 NoSQL 或 MongoDB 的新手，这里有一篇介绍性文章可以让您兴奋起来:
 
-[](/introduction-to-nosql-with-mongodb-8e5a2513c9e8) [## 使用 MongoDB 介绍 NoSQL
-
-### 实用入门指南
-
-towardsdatascience.com](/introduction-to-nosql-with-mongodb-8e5a2513c9e8) 
+</introduction-to-nosql-with-mongodb-8e5a2513c9e8>  
 
 我们将通过 10 个例子来演示如何从 MongoDB 数据库中检索数据。
 

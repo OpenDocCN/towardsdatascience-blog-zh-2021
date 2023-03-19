@@ -200,8 +200,4 @@ q 值更新功能
 
 底线是，在下一场 UNO 的比赛中受到挑战时，我会继续相信我的直觉。我展示的作品可以在我的 Github 资源库中找到，任何熟悉高级 RL 方法的人都可以从这里获得。
 
-[](https://github.com/bernhard-pfann/uno-card-game_rl) [## 伯恩哈德-普法恩/乌诺-卡牌-游戏 _rl
-
-### 用强化学习解决 UNO 卡牌游戏-Bernhard-pfann/UNO-Card-Game _ rl
-
-github.com](https://github.com/bernhard-pfann/uno-card-game_rl)
+<https://github.com/bernhard-pfann/uno-card-game_rl> 

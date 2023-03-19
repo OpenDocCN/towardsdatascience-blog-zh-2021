@@ -91,11 +91,7 @@ Profit reached: 504 euros
 
 *   如果你多招聘两个助手(4 小时/天),销售更多三明治，利润增加 50%
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。构建您的模型
 
@@ -116,11 +112,7 @@ samirsaci.com](http://samirsaci.com)
 
 ## 3.求解模型并分析结果
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 三。后续步骤
 
@@ -142,21 +134,13 @@ samirsaci.com](http://samirsaci.com)
 
 如果你感兴趣的话，我写了一篇关于如何分享你的 python 脚本的文章，供没有任何 Python 经验的人使用。
 
-[](https://www.samirsaci.com/build-excel-automation-tools-with-python/) [## 用 Python 构建 Excel 自动化工具
-
-### 用于销售分析的 Excel 自动化工具的自动化和报告设计可供您的同事使用，无需…
-
-www.samirsaci.com](https://www.samirsaci.com/build-excel-automation-tools-with-python/) 
+<https://www.samirsaci.com/build-excel-automation-tools-with-python/>  
 
 ## 3.你需要多少助手？
 
 本文展示了一种简单的方法，在假设工作负载波动的情况下，使用线性规划来优化劳动力分配。
 
-[](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) [## 使用 Python 线性编程优化劳动力规划
-
-### 物流持续改进你需要雇佣多少临时工来消化你每周的…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) 
+<https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/>  
 
 # 关于我
 
@@ -164,11 +148,7 @@ www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-l
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

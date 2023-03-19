@@ -241,7 +241,7 @@ c_nei_data_service_api 类模块内的 write_data_file()函数。
 
 # 分析 Tableau Public 中的数据
 
-伊利诺伊州的芝加哥被称为“风城”我住在明尼苏达州东南部，那也是一个多风的地方。为了直观地比较芝加哥地区和明尼苏达州东南部最大的城市罗切斯特的日平均风速，我在 Tableau Public 中加载了用数据服务 API 检索的数据。在那里，我创建了一个[](https://public.tableau.com/profile/randall.runtsch#!/vizhome/DailyAverageWindspeedforSelectU_S_Locations/WindbyLocation)*日平均风速的仪表盘。我儿子住在加州圣何塞附近，所以圣何塞国际机场的风速也会显示出来。*
+伊利诺伊州的芝加哥被称为“风城”我住在明尼苏达州东南部，那也是一个多风的地方。为了直观地比较芝加哥地区和明尼苏达州东南部最大的城市罗切斯特的日平均风速，我在 Tableau Public 中加载了用数据服务 API 检索的数据。在那里，我创建了一个<https://public.tableau.com/profile/randall.runtsch#!/vizhome/DailyAverageWindspeedforSelectU_S_Locations/WindbyLocation>*日平均风速的仪表盘。我儿子住在加州圣何塞附近，所以圣何塞国际机场的风速也会显示出来。*
 
 *结果令我吃惊。罗切斯特国际机场(明尼苏达州)的风速一直高于芝加哥奥黑尔国际机场。这两个机场的风力都比圣何塞国际机场大得多。*
 

@@ -20,11 +20,7 @@
 
 我们将在这个迷你项目中使用的数据集将来自 Kaggle — [心力衰竭检测表格数据集](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)，可在 Creative Common 的许可下获得。从下面的 Kaggle 链接获取:
 
-[](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data) [## 心力衰竭预测
-
-### 预测死亡事件的 12 个临床特征。
-
-www.kaggle.com](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data) 
+<https://www.kaggle.com/andrewmvd/heart-failure-clinical-data>  
 
 我们导入一下，看看是什么样子的！
 
@@ -162,11 +158,7 @@ grid_search = GridSearchCV(rf_model_pipeline, params_dict, cv=10, n_jobs=-1)grid
 
 ## [我还建议成为一名中等会员，不要错过我每周发表的任何数据科学文章。](https://ipom.medium.com/membership/)在此加入👇
 
-[](https://ipom.medium.com/membership) [## 通过我的推荐链接加入 Medium—Yash pra kash
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership) 
+<https://ipom.medium.com/membership>  
 
 # 接通电话！
 
@@ -174,16 +166,4 @@ ipom.medium.com](https://ipom.medium.com/membership)
 
 我的其他几篇文章你可能会感兴趣:
 
-[](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [## 使用 Docker 部署 ML 模型的好方法
-
-### 使用 FastAPI 部署 ML 模型并在 VSCode 中轻松封装它的快速指南。
-
-towardsdatascience.com](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) [## 您下一个数据科学项目的 31 个数据集
-
-### 基于任务的数据集的汇编，可用于构建下一个数据科学项目
-
-towardsdatascience.com](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) [](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe) [## 如何使用 Bash 来自动化数据科学的枯燥工作
-
-### 使用命令行为您的数据科学项目编写一些可重用代码的指南
-
-towardsdatascience.com](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe)
+</the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8>  </31-datasets-for-your-next-data-science-project-6ef9a6f8cac6>  </how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe> 

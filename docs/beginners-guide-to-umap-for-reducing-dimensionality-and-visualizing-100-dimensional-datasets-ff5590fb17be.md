@@ -20,19 +20,11 @@
 
 作者图片和 UMAP 文档。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 什么是 UMAP？
 
@@ -147,11 +139,7 @@ plt.scatter(X_reduced_2[:, 0], X_reduced_2[:, 1], c=y, s=0.5);
 
 例如，在创建连通性图时，即使绘图部分中的 200k 行数据集也消耗了约 18GB 的 RAM。文档建议将`low_memory`设置为 True 作为一种可能的解决方案。此外，我建议通过使用 NumPy 将每一列转换为尽可能小的子类型来减少数据集的内存使用。我在以前的一篇文章中详细讨论了如何处理内存不足的问题:
 
-[](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [## 如何像专家一样处理百万行数据集
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) 
+</how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd>  
 
 此外，不要忘记变换/缩放数字要素，因为默认情况下它们往往具有不同的比例。我建议将 QuantileTransformer 用于双峰、三峰等疯狂分布。PowerTransformer 最适合倾斜的特征。无论您选择哪种转换器，目标始终是使特性尽可能呈正态分布。
 
@@ -165,22 +153,6 @@ towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c
 
 # 您可能也会对…感兴趣
 
-[](/process-10m-row-datasets-in-milliseconds-in-this-comprehensive-pandas-speed-guide-5a3125cbb78) [## 在这本全面的《熊猫速度指南》中，在几毫秒内处理约 1000 万行数据集
+</process-10m-row-datasets-in-milliseconds-in-this-comprehensive-pandas-speed-guide-5a3125cbb78>  </how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd>  </kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5> [## 2021 年使用 Optuna 调整 LightGBM 超参数的 Kaggler 指南
 
-### 按照预期的方式使用熊猫…
-
-towardsdatascience.com](/process-10m-row-datasets-in-milliseconds-in-this-comprehensive-pandas-speed-guide-5a3125cbb78) [](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd) [## 如何用自定义 Sklearn 变形金刚写出别人佩服的强大代码
-
-### 在 Sklearn 做好每一件事，大家都会开心
-
-towardsdatascience.com](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd) [](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [## 2021 年使用 Optuna 调整 LightGBM 超参数的 Kaggler 指南
-
-towardsdatascience.com](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [](/how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997) [## 你错过了 LightGBM。它在各个方面都击败了 XGBoost
-
-### 再也不会了，XGBoost，再也不会了
-
-towardsdatascience.com](/how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997) [](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9) [## 厌倦了陈词滥调的数据集？以下是来自所有领域的 18 个令人敬畏的选择
-
-### 从微生物学到体育的独特数据集！
-
-towardsdatascience.com](/tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9)
+towardsdatascience.com](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) </how-to-beat-the-heck-out-of-xgboost-with-lightgbm-comprehensive-tutorial-5eba52195997>  </tired-of-cliché-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9> 

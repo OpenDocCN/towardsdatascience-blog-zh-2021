@@ -259,18 +259,6 @@ vdk run world-cities-vdk
 
 # 相关文章
 
-[](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca) [## 从 Google 电子表格自动更新 Django 模型
-
-### 关于如何直接从 Google 电子表格创建和更新 Django 模型的现成 Python 教程
-
-towardsdatascience.com](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca) [](/building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23) [## 在 Django 中构建数据输入的快速 Web 界面
-
-### 关于如何安装 Django 并利用它快速构建数据输入的 Web 界面的教程
-
-towardsdatascience.com](/building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23) [](/relational-vs-non-relational-databases-f2ac792482e3) [## 关系数据库与非关系数据库
-
-### 关系数据库和非关系数据库的利弊。
-
-towardsdatascience.com](/relational-vs-non-relational-databases-f2ac792482e3) 
+</automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca>  </building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23>  </relational-vs-non-relational-databases-f2ac792482e3>  
 
 ***免责声明*** *:此文非赞助文章。我与通用数据工具包或其作者没有任何关系。这篇文章展示了该工具包的一个公正的概述，旨在让更多的人可以使用数据科学工具。*

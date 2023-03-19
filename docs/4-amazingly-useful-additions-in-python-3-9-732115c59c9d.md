@@ -96,12 +96,4 @@ $ sudo apt install python3.9
 
 ## 您可能还对以下内容感兴趣:
 
-[](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [](/6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9) [## 帮助你脱颖而出成为 Python 开发者的 6 个技巧
-
-### Python 开发人员和数据科学家的实用技巧
-
-towardsdatascience.com](/6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9)
+<https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39>  </6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9> 

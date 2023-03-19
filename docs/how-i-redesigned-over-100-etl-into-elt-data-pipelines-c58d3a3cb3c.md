@@ -17,11 +17,7 @@
 
 他们不知道，没有数据工程师，模型甚至不会存在。不会有任何数据需要交流。数据工程师建立仓库和管道，让数据在组织中流动。我们把这些点联系起来。
 
-[](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) [## 2021 年该不该成为数据工程师？
-
-### 数据工程是新的数据科学。
-
-towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35) 
+</should-you-become-a-data-engineer-in-2021-4db57b6cce35>  
 
 数据工程师是 2019 年增长最快的工作，**同比增长 50%**，高于数据科学家的工作增长，达**同比 32%**。
 
@@ -67,11 +63,7 @@ towardsdatascience.com](/should-you-become-a-data-engineer-in-2021-4db57b6cce35)
 
 我们选择了**阿帕奇气流**。我都写在这里了。
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 气流最初是由 **Airbnb** 的家伙们创建的，开源的。它也被像 **Twitter** 这样受欢迎的公司用作他们的管道管理系统。你可以阅读上面所有关于气流的好处。
 
@@ -121,11 +113,7 @@ from users
 
 我们使用**气流传感器设置相关性。**你可以在这里读到它们。
 
-[](/data-engineering-how-to-set-dependencies-between-data-pipelines-in-apache-airflow-using-sensors-fc34cfa55fba) [## 数据工程——如何在 Apache Airflow 中设置数据管道之间的依赖关系
-
-### 数据管道之间的有效依赖关系为数据团队构建了坚实的基础
-
-towardsdatascience.com](/data-engineering-how-to-set-dependencies-between-data-pipelines-in-apache-airflow-using-sensors-fc34cfa55fba) 
+</data-engineering-how-to-set-dependencies-between-data-pipelines-in-apache-airflow-using-sensors-fc34cfa55fba>  
 
 # 我为什么这么做
 
@@ -154,11 +142,7 @@ towardsdatascience.com](/data-engineering-how-to-set-dependencies-between-data-p
 
 自从我们迁移到 Google Cloud，这个团队就明白 Google Bigquery 在计算 SQL 查询方面的速度非常快。你可以在这里 阅读所有关于它的 [**。**](https://cloud.google.com/blog/products/bigquery/anatomy-of-a-bigquery-query)
 
-[](https://cloud.google.com/blog/products/bigquery/anatomy-of-a-bigquery-query) [## BigQuery 有多快？|谷歌云博客
-
-### 在这篇博文中，我们估计了需要多少 CPU、网络和磁盘来实现 BigQuery 的…
-
-cloud.google.com](https://cloud.google.com/blog/products/bigquery/anatomy-of-a-bigquery-query) 
+<https://cloud.google.com/blog/products/bigquery/anatomy-of-a-bigquery-query>  
 
 因此，关键是在源代码中只运行简单的“Select *”语句，并在 Google Cloud 上执行所有的连接。
 

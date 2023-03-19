@@ -179,14 +179,6 @@ y_pred_pr = pr.fit(x, y).predict(x)
 
 **同一作者的更多故事:**
 
-[](https://medium.com/codex/a-gentle-introduction-to-confidence-intervals-b9ab64b8a663) [## 置信区间的简明介绍
-
-### 在面试我的雇主的数据分析师职位的申请人时，我震惊地发现许多…
-
-medium.com](https://medium.com/codex/a-gentle-introduction-to-confidence-intervals-b9ab64b8a663) [](https://medium.com/codex/pytests-assert-is-not-what-you-think-it-is-ea59dfcb4bfd) [## Pytest 的断言不是你所想的那样
-
-### AST 是什么？pytest 如何破解它，给你一个更好的 UX？
-
-medium.com](https://medium.com/codex/pytests-assert-is-not-what-you-think-it-is-ea59dfcb4bfd) 
+<https://medium.com/codex/a-gentle-introduction-to-confidence-intervals-b9ab64b8a663>  <https://medium.com/codex/pytests-assert-is-not-what-you-think-it-is-ea59dfcb4bfd>  
 
 > **最后说明:**所有图表均由作者创作，所有亚马逊链接均为附属链接。而且所有的模型都是错的，但有些是有用的。

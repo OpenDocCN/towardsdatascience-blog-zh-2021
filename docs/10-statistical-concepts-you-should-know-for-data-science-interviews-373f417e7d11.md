@@ -219,19 +219,11 @@ p 值最专业、最精确的定义是，它是获得与零假设同样极端或
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/ten-deep-learning-concepts-you-should-know-for-data-science-interviews-a77f10bb9662) [## 数据科学面试你应该知道的十个深度学习概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/ten-deep-learning-concepts-you-should-know-for-data-science-interviews-a77f10bb9662) 
+</ten-deep-learning-concepts-you-should-know-for-data-science-interviews-a77f10bb9662>  
 
 ## 特伦斯·申
 

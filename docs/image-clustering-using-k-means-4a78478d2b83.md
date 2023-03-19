@@ -103,8 +103,4 @@ for i in range(len(image_cluster)):
 
 本文中的所有代码都驻留在这个 Github [链接](https://github.com/shubham7169/Projects/blob/master/Image_Clustering.ipynb)上:
 
-[](https://github.com/shubham7169/Projects/blob/master/Image_Clustering.ipynb) [## Shu bham 7169/项目
-
-### 通过在 GitHub 上创建一个帐户，为 shubham7169/Projects 开发做出贡献。
-
-github.com](https://github.com/shubham7169/Projects/blob/master/Image_Clustering.ipynb)
+<https://github.com/shubham7169/Projects/blob/master/Image_Clustering.ipynb> 

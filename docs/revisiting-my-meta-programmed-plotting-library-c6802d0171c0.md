@@ -10,21 +10,13 @@
 
 一年多以前，我开始用 Julia 编程语言开发一个新项目。该项目旨在作为主要的实践，以及证明语言中的一些概念和想法，同时也用 Julia 的范式和方法进行一些实验。该项目名为 Hone.jl，Hone.jl 是一个面向对象的图形库，使用高级声明性调用来创建元代码。这有一些缺点，主要是 Julia 在一定数量的重复代码后中断了解释。如果您想阅读我写的介绍该软件的文章，您可以在这里查看:
 
-[](/introducing-hone-a-modular-object-oriented-graphing-library-for-julia-823b028b462a) [## 介绍 Hone:一个面向对象的模块化图形库
-
-### 为 Julia 对我的图形库的第一个版本进行最后的润色。
-
-towardsdatascience.com](/introducing-hone-a-modular-object-oriented-graphing-library-for-julia-823b028b462a) 
+</introducing-hone-a-modular-object-oriented-graphing-library-for-julia-823b028b462a>  
 
 不管这些问题，我认为这是一个超级酷的项目！不仅如此，编程真的很有趣！本着这个包已经正式推出一年的精神，我决定回去看看这个包是如何工作的，以及它能够产生什么样的结果。如果您想尝试使用 Hone.jl，或者查看我将在本文中使用的代码，您可以在 Github 上查看它，或者查看我用来生成本文中的结果的笔记本:
 
 > [笔记本](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/revisiting%20Hone.ipynb)
 
-[](https://github.com/emmettgb/Hone.jl) [## emmettgb/Hone.jl
-
-### Julia 的面向对象图形模块化库[已弃用] Permalink 无法加载最新提交信息…
-
-github.com](https://github.com/emmettgb/Hone.jl) 
+<https://github.com/emmettgb/Hone.jl>  
 
 # 高级接口
 
@@ -146,11 +138,7 @@ df[!, :A]
 
 在我们开始修复这个包之前，我们应该看看里面的实际代码，这些代码实际上已经相当过时了。我知道这使用了装箱类型，这是一种在 Julia 中使用未知类型创建类型的过时方法，所以我们可能应该使用内部和外部构造函数将其更新为较新的方法。如果你想了解更多关于 Julia 中构造函数的知识，我也写了一篇文章，你可以点击这里:
 
-[](/an-advanced-look-at-constructors-in-julia-5b428882dde8) [## Julia 中构造函数的高级视图
-
-### 用 Julia 完整地看一下如何创建复杂的构造函数。
-
-towardsdatascience.com](/an-advanced-look-at-constructors-in-julia-5b428882dde8) 
+</an-advanced-look-at-constructors-in-julia-5b428882dde8>  
 
 ```
 git clone [https://github.com/emmettgb/Hone.jl.git](https://github.com/emmettgb/Hone.jl.git) --branch Unstable

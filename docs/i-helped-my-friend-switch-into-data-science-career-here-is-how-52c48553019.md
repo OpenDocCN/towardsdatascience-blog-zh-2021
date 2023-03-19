@@ -24,11 +24,7 @@
 
 > *举例来说，如果你是一名化学工程师或机械工程师，并希望成为一名数据科学家，你肯定可以从你的工具集中为数据科学项目带来很多价值。你的领域知识很重要。*
 
-[](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) [## 给那些想成为数据科学家的人的一封信
-
-### 我试图通过自己的故事来阐明这个行业。
-
-towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) 
+</a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd>  
 
 # 第 2 集—使用最佳在线课程学习数据科学基础知识
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f2
 
 > 首先，您必须学习数据科学基础知识。你会学到工作中的细节。另外，如果不知道你的目标是什么，就没有机会学习所有的东西。
 
-[](/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01) [## 用于各种教育目的的 6 个数据科学 YouTube 播放列表
-
-### 每个播放列表都针对您数据科学之旅中的特定需求。
-
-towardsdatascience.com](/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01) 
+</6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01>  
 
 # 第 3 集-组建一个团队来实施一个大项目，以便通过实践来学习编码和开发
 
@@ -50,11 +42,7 @@ towardsdatascience.com](/6-youtube-playlists-in-data-science-for-every-education
 
 > 当你和你的 ML 工程师朋友组成一个团队时，你可以负责代码量较少的部分，比如使用 SQL 编码的数据探索。您的 ML 工程师朋友可以设置管道，并带您完成训练和测试 ML 模型的过程。
 
-[](https://pub.towardsai.net/a-letter-to-those-data-scientists-living-in-north-america-9039b1925f4e) [## 给居住在北美的数据科学家的一封信
-
-### 最新的疫情可能会永远影响你的职业道路
-
-pub.towardsai.net](https://pub.towardsai.net/a-letter-to-those-data-scientists-living-in-north-america-9039b1925f4e) 
+<https://pub.towardsai.net/a-letter-to-those-data-scientists-living-in-north-america-9039b1925f4e>  
 
 # 临终遗言
 
@@ -72,8 +60,4 @@ pub.towardsai.net](https://pub.towardsai.net/a-letter-to-those-data-scientists-l
 *   ***连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！***
 *   ***关注我的* [*推特*](https://twitter.com/pedram_ataee) *！***
 
-**[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)**
+**<https://pedram-ataee.medium.com/membership> **

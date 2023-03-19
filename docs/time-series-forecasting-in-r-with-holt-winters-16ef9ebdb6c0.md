@@ -171,10 +171,6 @@ hist(HW1_for$residuals)
 
 您可能还注意到，本文中嵌入的代码为预测任何数据提供了一个很好的模板——只要在转换成时间序列时留意一下`frequency`和`start`,您就可以万事俱备了！为了节省您的时间和麻烦，源代码可以在我的 github 上找到:
 
-[](https://github.com/bamattis/Blog/tree/main/R/TimeSeries) [## 主 bamattis 的博客/R/时间系列/博客
-
-### 博客帖子。在 GitHub 上创建一个帐户，为 ba mattis/博客的发展做出贡献。
-
-github.com](https://github.com/bamattis/Blog/tree/main/R/TimeSeries) 
+<https://github.com/bamattis/Blog/tree/main/R/TimeSeries>  
 
 如果你觉得这个有用，请跟我来！ 欢呼一声，快乐的编码出来了。

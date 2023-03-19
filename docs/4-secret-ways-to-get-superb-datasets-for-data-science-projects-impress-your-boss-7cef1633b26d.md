@@ -18,11 +18,7 @@
 
 我坚信，如果你喜欢你正在做的事情，你会更有效率。根据经验，这是我今年获得晋升的六大建议中的第五条:
 
-[](/python-6-coding-hygiene-tips-that-helped-me-got-promoted-c70b4380f1c7) [## Python:帮助我获得晋升的 6 个编码卫生技巧。
-
-### 在这篇文章中，我列出了 6 个显而易见但并不总是适用的编码技巧，我希望有人能强迫我遵循 3 年…
-
-towardsdatascience.com](/python-6-coding-hygiene-tips-that-helped-me-got-promoted-c70b4380f1c7) 
+</python-6-coding-hygiene-tips-that-helped-me-got-promoted-c70b4380f1c7>  
 
 这就是为什么，作为一个父亲和数据科学家，找到正确的数据集，让你的机器学习模型变得独特和令人愉快是至关重要的。
 
@@ -63,11 +59,7 @@ NASA 提供的输入数据集示例-图片由作者提供
 
 *我已经写了一份关于这个 API 的完整指南，如果你有兴趣的话，我可以让你看看:*
 
-[](/python-i-have-tested-quandl-api-and-how-to-get-real-estates-economics-data-in-one-line-of-code-a13806ca9bb) [## Python:我已经测试了 Quandl API，以及如何在一行代码中获取房地产和经济数据。
-
-### 在这篇文章中，我测试了著名的 Quandl API 来下载房地产、经济、社会和金融数据…
-
-towardsdatascience.com](/python-i-have-tested-quandl-api-and-how-to-get-real-estates-economics-data-in-one-line-of-code-a13806ca9bb) 
+</python-i-have-tested-quandl-api-and-how-to-get-real-estates-economics-data-in-one-line-of-code-a13806ca9bb>  
 
 Quandl 提供的数据范围超越了金融和经济数据；你可以探索你所在区的房地产价格，雇佣市场活动等等。
 
@@ -103,11 +95,7 @@ Quandl 提供的数据范围超越了金融和经济数据；你可以探索你�
 
 下面是一个完整的例子，你可以阅读这篇精彩的文章，作者是一位致力于数据科学的作者( [Chris Lovejoy](https://medium.com/u/c155ffc8de0e?source=post_page-----7cef1633b26d--------------------------------) ):
 
-[](/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a) [## 我创建了自己的 YouTube 算法(为了不让我浪费时间)
-
-### 使用 YouTube API 和 AWS Lambda
-
-towardsdatascience.com](/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a) 
+</i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a>  
 
 现在我想结束这篇文章，为更具体的数据科学技能集开发提供一些额外的选择。
 
@@ -143,11 +131,7 @@ towardsdatascience.com](/i-created-my-own-youtube-algorithm-to-stop-me-wasting-t
 
 **我强烈推荐以下课程:**
 
-**[](https://www.udemy.com/course/trading-with-ml-in-python/?couponCode=TDSCIENCE) [## 2021 年:Python 中机器学习的算法交易
-
-### 大家好，我们是詹姆斯·布里格斯和赛义德·莱萨尼。我们都是数据科学家，在这里的多家银行工作…
-
-www.udemy.com](https://www.udemy.com/course/trading-with-ml-in-python/?couponCode=TDSCIENCE) 
+**<https://www.udemy.com/course/trading-with-ml-in-python/?couponCode=TDSCIENCE>  
 
 ## 结论:
 

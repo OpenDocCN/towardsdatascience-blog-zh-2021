@@ -10,11 +10,7 @@
 
 在本文中，我将继续探索多元工业时间序列。如果您需要重温一下在处理这些问题时可能会遇到的一些特殊挑战，您可以看看我以前的一篇关于这些挑战的文章:
 
-[](/all-multivariate-time-series-are-not-born-equal-ba2d26e2528e) [## 所有多元时间序列并非生来平等
-
-### 多元时间序列的不同家庭的介绍，以及这将如何影响你的探索和人工智能/ML…
-
-towardsdatascience.com](/all-multivariate-time-series-are-not-born-equal-ba2d26e2528e) 
+</all-multivariate-time-series-are-not-born-equal-ba2d26e2528e>  
 
 # 语境
 

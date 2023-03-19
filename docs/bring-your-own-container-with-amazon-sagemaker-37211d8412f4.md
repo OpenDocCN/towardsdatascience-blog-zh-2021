@@ -137,11 +137,7 @@ NER 目录(作者截图)
 
 ## 7.结论和附加资源
 
-[](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime/BYOC/PreTrained-Examples/SpacyNER) [## sage maker-部署/实时/BYOC/预训练-示例/SpacyNER at master …
-
-### SageMaker 推理选项和其他功能的例子汇编。…
-
-github.com](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime/BYOC/PreTrained-Examples/SpacyNER) 
+<https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime/BYOC/PreTrained-Examples/SpacyNER>  
 
 要访问示例的**完整代码**，请查看上方的**链接，还有大量其他 SageMaker 推理示例和资源。BYOC 一开始可能会令人生畏，但是它提供了难以置信的灵活性来配置和调整 SageMaker 以与您的框架一起工作。在一天结束时，通过改变当前设置中的几个文件，您可以使用您正在使用的任何模型和框架进行大规模的推理。**
 

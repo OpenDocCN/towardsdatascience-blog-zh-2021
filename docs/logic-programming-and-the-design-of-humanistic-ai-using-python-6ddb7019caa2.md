@@ -121,11 +121,7 @@ n_test = var()set(run(0, n_test,(membero, n_test,(12,14,15,19,21,20,22,29,23,30,
 
 上面提到的代码只包含所有必要的伪逻辑，不会在任何 IDE 上独立运行。完整的代码在下面链接的存储库中，我鼓励你从包含完整工作代码的存储库中浏览 Google Colab 笔记本。
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/03.%20Logic%20Programming%20for%20AI) [## 人工智能与 python 系列/03。人工智能的逻辑编程
-
-### Python 系列教程，旨在学习人工智能概念。人工智能的逻辑编程。
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/03.%20Logic%20Programming%20for%20AI) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/03.%20Logic%20Programming%20for%20AI>  
 
 # 结论
 
@@ -139,27 +135,15 @@ github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/03.%20L
 
 1.  学习在 Microsoft Azure 上为生产构建端到端的 AI & ML 工作流。
 
-[](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [## 使用 Azure Data Factory 实现端到端的机器学习工作流
-
-### 使用微软的 Azure 数据工厂(ADF)在一个屏幕上构建完整的 MLOps 生命周期
-
-towardsdatascience.com](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) 
+</implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94>  
 
 2.使用函数式编程范式构建健壮的 AI 应用程序。
 
-[](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) [## 大数据函数式编程终极指南
-
-### 纯函数和惰性求值——分布式数据计算的症结
-
-towardsdatascience.com](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) 
+</the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3>  
 
 3.使用机器学习的构造简化复杂的 NLP 代码
 
-[](/a-hybrid-approach-to-natural-language-processing-6435104d7711) [## 自然语言处理的混合方法
-
-### 将 NLP 集成到传统机器学习工作流的指南
-
-towardsdatascience.com](/a-hybrid-approach-to-natural-language-processing-6435104d7711) 
+</a-hybrid-approach-to-natural-language-processing-6435104d7711>  
 
 ## [关于我]
 

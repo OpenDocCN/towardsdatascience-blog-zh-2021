@@ -66,20 +66,4 @@
 
 # 相关文章
 
-[](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [## 数据可视化原理第 1 部分:空白、文本和颜色
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分 Altair 中的一个实际例子
-
-### 关于如何在 Python Altair 中构建、定制和添加注释到简单条形图的实用教程
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [](/how-to-build-a-narrative-from-data-85e327940c13) [## 如何从数据中构建叙事
-
-### 根据设置-冲突-解决范式分析数据的一些技巧
-
-towardsdatascience.com](/how-to-build-a-narrative-from-data-85e327940c13) [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) [## 为什么数据科学家也需要讲故事
-
-### 作为一名数据科学家是一份非常棒的工作:你可以收集数据，通过奇妙的抓取机制或网络…
-
-towardsdatascience.com](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83)
+</data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  </how-to-build-a-narrative-from-data-85e327940c13>  </why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83> 

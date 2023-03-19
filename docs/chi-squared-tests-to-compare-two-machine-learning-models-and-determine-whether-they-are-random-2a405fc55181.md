@@ -191,11 +191,7 @@ Pvalue: 0.30169958247834494
 
 在本文中，我只讨论了两种类型的评估。有统计程序来评估多个问题的众多模型。ROC 曲线在判断众多机器学习算法时极其俏皮。我给你链接了一些资源，让你对上面的解释有一个更全面的回顾。
 
-[](https://en.wikipedia.org/wiki/McNemar%27s_test) [## 麦克尼尔测试-维基百科
-
-### 在统计学中，麦克内马检验是一种用于成对名义数据的统计检验。它适用于 2 × 2 偶然性…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/McNemar%27s_test) 
+<https://en.wikipedia.org/wiki/McNemar%27s_test>  
 
 [https://en . Wikipedia . org/wiki/Chi-squared _ distribution #简介](https://en.wikipedia.org/wiki/Chi-squared_distribution#Introduction)
 

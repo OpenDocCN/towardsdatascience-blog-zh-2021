@@ -45,11 +45,7 @@
 
 在上一篇文章中，我讨论了不同的超参数调优方法，并介绍了贝叶斯优化。有关其他可用调优方法的详细信息、它们的缺陷和优点，请参考我之前的帖子:
 
-[](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) [## 超参数调整—始终调整您的模型
-
-### 不要放弃免费的性能提升。
-
-towardsdatascience.com](/hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9) 
+</hyperparameter-tuning-always-tune-your-models-7db7aeaf47e9>  
 
 > 贝叶斯优化是从可能的超参数空间中采样，基于这些样本建模函数，然后优化该模型的过程
 
@@ -275,8 +271,4 @@ _ = plot_objective(result=search_result)
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

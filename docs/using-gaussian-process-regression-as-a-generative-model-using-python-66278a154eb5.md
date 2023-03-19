@@ -149,7 +149,7 @@
 
 ***评估自己的表现***
 
-这就是你如何网格搜索你的最优值。注意，我们玩的是一个双参数游戏: **l** 和 **n** 。有关它们的更多信息，请访问[](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.WhiteKernel.html)****和[](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)**。******
+这就是你如何网格搜索你的最优值。注意，我们玩的是一个双参数游戏: **l** 和 **n** 。有关它们的更多信息，请访问<https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.WhiteKernel.html>****和<https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html>**。******
 
 *********网格搜索功能(一):*********
 

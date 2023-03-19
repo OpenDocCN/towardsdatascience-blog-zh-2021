@@ -8,7 +8,7 @@
 
 图片由 Shutterstock 提供。
 
-*公司每年花费超过*[***1500 万美元***](https://www.gartner.com/smarterwithgartner/how-to-stop-data-quality-undermining-your-business/) *处理* [*数据停机*](https://www.montecarlodata.com/the-rise-of-data-downtime/) *，换句话说，在数据丢失、损坏或其他错误的时间段内，每 5 家公司中就有 1 家*[](https://www.zdnet.com/article/companies-are-losing-revenue-opportunities-and-customers-because-of-bad-data-practices/)**因数据不完整或不准确而失去了一个客户。**
+*公司每年花费超过*[***1500 万美元***](https://www.gartner.com/smarterwithgartner/how-to-stop-data-quality-undermining-your-business/) *处理* [*数据停机*](https://www.montecarlodata.com/the-rise-of-data-downtime/) *，换句话说，在数据丢失、损坏或其他错误的时间段内，每 5 家公司中就有 1 家*<https://www.zdnet.com/article/companies-are-losing-revenue-opportunities-and-customers-because-of-bad-data-practices/>**因数据不完整或不准确而失去了一个客户。**
 
 **好在* [***还有希望数据的下一个前沿:可观测性*** *。*](/data-observability-the-next-frontier-of-data-engineering-f780feb874b) *以下是全球电子商务公司 Yotpo 的数据工程师和 BI 分析师如何利用大规模数据可观察性来提高成本节约、协作和生产率。**
 
@@ -20,7 +20,7 @@
 
 *从第一天起，Yotpo 就为支持公司多样化数据需求的内部团队投资了一个分布式数据平台，从生成营销报告到授权产品开发团队为他们的用户建立更好的服务。*
 
-*在过去的几年里，Yotpo 呈指数级增长，在全球范围内扩张业务，并收购了包括 Swell Rewards 和 SMSBump 在内的公司。随着 Yotpo 的发展，数据源的数量和数据管道的复杂性也在增加。随着时间的推移，跟踪数据完整性、沿袭和质量变得越来越困难，这是可靠数据的三个关键特征。这种[](/the-rise-of-data-downtime-841650cedfd5)**的数据停机时间，换句话说，就是数据丢失、不准确或其他错误的时期，导致了耗时且成本高昂的数据消防演习，从而导致了 Yotpo 的业务绩效和数据工程团队之间的摩擦。***
+*在过去的几年里，Yotpo 呈指数级增长，在全球范围内扩张业务，并收购了包括 Swell Rewards 和 SMSBump 在内的公司。随着 Yotpo 的发展，数据源的数量和数据管道的复杂性也在增加。随着时间的推移，跟踪数据完整性、沿袭和质量变得越来越困难，这是可靠数据的三个关键特征。这种</the-rise-of-data-downtime-841650cedfd5>**的数据停机时间，换句话说，就是数据丢失、不准确或其他错误的时期，导致了耗时且成本高昂的数据消防演习，从而导致了 Yotpo 的业务绩效和数据工程团队之间的摩擦。***
 
 > ***“一次又一次，我们的工作人员会找到我的团队，告诉我们数据是错误的，但我们根本不知道数据是如何泄露的，”多伦说。“我们很清楚，我们必须更好地控制我们的数据管道，因为我们不能让我们的数据消费者就数据问题向我们发出警报，并不断被意外捕获，没有人会以这种方式信任我们的分析。”***
 
@@ -70,7 +70,7 @@
 
 ***数据可观察性使 Yotpo 对重要数据集和表的健康状况有了更大的透明度。图片由巴尔·摩西提供。***
 
-***此外，数据可观察性使 Yotpo 能够更加透明地了解[](https://www.montecarlodata.com/how-to-solve-the-youre-using-that-table-problem/)**重要数据资产的相关性和使用模式，并在不同属性(如记录类型 ID 和特定数据集)被否决时通知他们。数据可观察性使他们能够跟踪新字段添加和使用的位置，以便您可以跟踪哪些仪表板需要更新。这些知识确保了 Yotpo 可以相信他们的数据是准确可靠的，即使他们的数据平台在不断发展。*****
+***此外，数据可观察性使 Yotpo 能够更加透明地了解<https://www.montecarlodata.com/how-to-solve-the-youre-using-that-table-problem/>**重要数据资产的相关性和使用模式，并在不同属性(如记录类型 ID 和特定数据集)被否决时通知他们。数据可观察性使他们能够跟踪新字段添加和使用的位置，以便您可以跟踪哪些仪表板需要更新。这些知识确保了 Yotpo 可以相信他们的数据是准确可靠的，即使他们的数据平台在不断发展。*****
 
 *****“一旦你对你的数据失去信任，你就失去了可靠性，”多伦说。“有了数据可观察性，数据停机时间更少，数据可靠性更高。痛苦的模式更改和破损仪表板的日子已经一去不复返了。”*****
 

@@ -28,11 +28,7 @@ JupyterLab 是为了解决 Jupyter 笔记本的一些缺点而开发的，是该
 
 **可视化调试器:**调试器前端在三月份作为一个独立的扩展推出，现在默认为支持新调试协议的内核提供。阅读下面关于如何使用它的故事。
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+</jupyter-is-now-a-full-fledged-ide-c99218d33095>  
 
 **简单界面模式:**关注单个文档或活动而不关闭主工作区中的其他选项卡通常很有用。简单界面模式(以前的单文档模式)使您能够做到这一点。
 
@@ -64,19 +60,7 @@ Jupyter server:Jupyter lab`3.0`现在依赖于 Jupyter Server，这是一个基�
 
 想了解如何生产您的笔记本电脑，或者如何将它们用作您的主要开发环境？阅读下面的故事。
 
-[](/jupyter-is-ready-for-production-as-is-b36f1d1ca8f8) [## Jupyter 准备生产；原样
-
-### 无需编写一行代码，即可将您的笔记本草稿转化为生产就绪的 Kubeflow 管道。
-
-towardsdatascience.com](/jupyter-is-ready-for-production-as-is-b36f1d1ca8f8) [](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [## AWS 上的 Mini Kubeflow 是您的新 ML 工作站
-
-### 通过 AWS 上的 MiniKF 加速您的机器学习模型开发
-
-towardsdatascience.com](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [](/kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790) [## Kubeflow 是您完美的机器学习工作站
-
-### 将您的笔记本电脑变成网飞流媒体设备，在云上工作！
-
-towardsdatascience.com](/kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790) 
+</jupyter-is-ready-for-production-as-is-b36f1d1ca8f8>  </mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585>  </kubeflow-is-your-perfect-machine-learning-workstation-91c5d26d4790>  
 
 > [学习率](https://www.dimpo.me/newsletter)是我每周给那些对 AI 和 MLOps 世界好奇的人发的简讯。你会在每周五收到我关于最新人工智能新闻、研究、回购和书籍的更新和想法。订阅[这里](https://www.dimpo.me/newsletter)！
 

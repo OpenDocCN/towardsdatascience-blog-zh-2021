@@ -14,19 +14,7 @@ ulia 是一种非常酷的编程语言，在过去的几年里，它将许多非
 
 对于朱莉娅语言的大部分独立部分，很容易看出他们在构思中投入了大量的思想和努力。从 Julia 出色的包管理器 Pkg，到它处理模块和文档的方式，Julia 已经做了一些非常酷的开箱即用的事情，使这种语言比许多其他可用于类似任务的编程语言更容易使用和流畅。该语言及其软件包的任何一个单独的部分都可以很快带领你进入一个有趣的编程概念和计算机科学的兔子洞。如果你想研究 Julia 语言中的其他一些很酷的东西，我有几篇文章可能会让你感兴趣，这些文章详细介绍了我喜欢软件包管理器(一个叫做 documented 的软件包)的什么，以及这两者如何协同工作来创建奇妙的“JuliaHub”我认为对朱莉娅感兴趣的人绝对值得一读:
 
-[](/julias-package-manager-is-awesome-23b9c02e3a0b) [## 朱莉娅的包装经理棒极了
-
-### 为什么 Julia 的 Pkg 是我用过的最好的软件包管理器。
-
-towardsdatascience.com](/julias-package-manager-is-awesome-23b9c02e3a0b) [](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f) [## 如何用 Documenter.jl 自动化 Julia 文档
-
-### 没有文档，软件是没有用的，所以用 Documenter.jl 把文档的痛苦去掉吧
-
-towardsdatascience.com](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f) [](/juliahub-the-greatest-approach-to-putting-together-packages-and-documentation-707688a472d2) [## JuliaHub:将包和文档放在一起的最好方法
-
-### JuliaHub 如何自动化所有程序员讨厌做的事情。
-
-towardsdatascience.com](/juliahub-the-greatest-approach-to-putting-together-packages-and-documentation-707688a472d2) 
+</julias-package-manager-is-awesome-23b9c02e3a0b>  </how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f>  </juliahub-the-greatest-approach-to-putting-together-packages-and-documentation-707688a472d2>  
 
 # REPL 基础知识
 
@@ -64,11 +52,7 @@ look/its/my/working/directory
 
 你可以用朱莉娅 REPLs 做的另一件很酷的事情是创建你自己的回复！您可以使用 REPLMaker 包来实现这一点，我正好有一个教程，您可以在这里查看:
 
-[](/replmaker-jl-create-interactive-julia-packages-67be382f3eb8) [## jl:创建交互式 Julia 包
-
-### 快速浏览使用 Julia 的 REPLMaker.jl 包为最终用户创建交互式代码。
-
-towardsdatascience.com](/replmaker-jl-create-interactive-julia-packages-67be382f3eb8) 
+</replmaker-jl-create-interactive-julia-packages-67be382f3eb8>  
 
 # 结论
 

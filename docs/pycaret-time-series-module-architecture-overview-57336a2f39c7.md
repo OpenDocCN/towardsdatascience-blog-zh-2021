@@ -141,15 +141,11 @@ pprint(lr_model._forecaster.named_steps)
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://ngupta13.medium.com/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，您无需支付额外费用*** *。*
 
-[](https://ngupta13.medium.com/membership) [## 通过我的推荐链接加入 Medium—Nikhil Gupta
-
-### 阅读 Nikhil Gupta(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-ngupta13.medium.com](https://ngupta13.medium.com/membership) 
+<https://ngupta13.medium.com/membership>  
 
 # 📗资源
 
-*   [](https://nbviewer.ipython.org/github/ngupta23/medium_articles/blob/main/time_series/pycaret/pycaret_ts_architecture.ipynb)**【Jupyter Notebook】(可在 Google Colab 中打开)包含本文代码**
+*   <https://nbviewer.ipython.org/github/ngupta23/medium_articles/blob/main/time_series/pycaret/pycaret_ts_architecture.ipynb>**【Jupyter Notebook】(可在 Google Colab 中打开)包含本文代码**
 
 # **📖建议下一次阅读**
 

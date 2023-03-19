@@ -19,11 +19,7 @@ power bi desktop 支持多种数据源，包括 Excel、SQL Server、IBM Db2 数
 
 关于 SQLite 数据库及其创建方式的更深入的见解可以在我之前的文章中找到。
 
-[](https://medium.com/analytics-vidhya/sql-database-with-python-5dda6c9a0c8d) [## 使用 Python 的 SQL 数据库
-
-### 建立自己的 SQLite 数据库和练习 SQL 查询的分步指南
-
-medium.com](https://medium.com/analytics-vidhya/sql-database-with-python-5dda6c9a0c8d) 
+<https://medium.com/analytics-vidhya/sql-database-with-python-5dda6c9a0c8d>  
 
 在开始这个过程之前，让我告诉你更多关于这个英雄的事情😎我们的故事— ***SQLite ODBC 驱动***
 
@@ -41,7 +37,7 @@ ODBC 驱动程序允许我们将 SQLite 数据库添加到它的数据源列表�
 
 让我们来看看继续这个故事所需要的所有东西。
 
-1.  ***一个 SQLite 数据库*** :我正在赠送我自己创建的 SQLite 数据库📚作为一个很好的外卖。你可以在这里找到[](https://github.com/17rsuraj/data-curious/tree/master/TowardsDataScience)*。数据库文件的名称是`tds.sqlite`*
+1.  ***一个 SQLite 数据库*** :我正在赠送我自己创建的 SQLite 数据库📚作为一个很好的外卖。你可以在这里找到<https://github.com/17rsuraj/data-curious/tree/master/TowardsDataScience>*。数据库文件的名称是`tds.sqlite`*
 2.  ****SQLite ODBC 驱动*** :我发现我一些同事的电脑上已经安装了。不过你可以随时从[***这里***](http://www.ch-werner.de/sqliteodbc/) 下载。根据您的操作系统，选择 32 位或 64 位版本。*
 3.  ****Power BI Desktop 版*** :如果你是在职专业人士，可以使用你的工作邮箱访问 Power BI Desktop。如果您是学生，将需要您的学校电子邮件地址才能访问。威力 BI 桌面可以从 [***这里***](https://powerbi.microsoft.com/en-us/downloads/) 下载。*
 

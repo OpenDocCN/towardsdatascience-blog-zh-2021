@@ -165,19 +165,11 @@ ON X.KEY >=Y.RANGE_START AND X.KEY <= Y.RANGE_END
 
 所有使用的例子都是在[count.co](https://count.co)中构建的，这是为分析师构建的 SQL 笔记本。您可以与以下示例互动:
 
- [## PostgreSQL 中的横向连接
-
-### 横向连接是一个强大的工具，可以添加到您的 SQL 武库中。这个笔记本浏览了一个例子。
-
-count.co](https://count.co/n/W2O2UEyL4Em) 
+  
 
 还有这里:
 
- [## 加入的乐趣
-
-### 本笔记介绍了《让您的 SQL 从优秀走向卓越:第 3 部分》中的一些例子。
-
-count.co](https://count.co/n/U4y4XkaeQLx) 
+  
 
 直到下次我们讨论窗口函数的时候！
 

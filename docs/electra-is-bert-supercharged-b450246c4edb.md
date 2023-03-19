@@ -136,10 +136,6 @@ GLUE 基准测试结果，RoBERTa 和 ELECTRA 分别参考了 RoBERTa-500K 和 E
 
 有兴趣进一步了解变形金刚吗？我写过很多关于它们的文章*——但这很容易成为我最喜欢的开场白:*
 
-*[](/evolution-of-natural-language-processing-8e4532211cfe) [## 自然语言处理的演变
-
-### 对 NLP 过去十年的直观直观解释
-
-towardsdatascience.com](/evolution-of-natural-language-processing-8e4532211cfe) 
+*</evolution-of-natural-language-processing-8e4532211cfe>  
 
 **除*另有说明外，所有图片均为作者所有*

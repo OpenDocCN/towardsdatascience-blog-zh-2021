@@ -62,11 +62,7 @@ auto-py-to-exe
 
 浏览您希望转换的脚本，并将其添加到“脚本位置”字段。在本例中，我将选择一个自动化 Excel 报告的脚本(您可以在下面的链接中找到我的自动化 Excel 指南)
 
-[](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) [## 使用 Python 自动生成 Excel 报表的简单指南
-
-### 使用 openpyxl 通过 Python 自动生成 Excel 报表。
-
-towardsdatascience.com](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) 
+</a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7>  
 
 你可以随意选择任何你想要的剧本。然而，如果你的脚本需要读取一个路径，确保你使用绝对路径，因为相对路径不会像你期望的那样处理可执行文件。如有必要，在下面包含以下代码行，以了解可执行文件的位置，并对脚本进行必要的更改，以便在正确的目录下读取/导出文件。
 
@@ -124,10 +120,6 @@ application_path = os.path.dirname(sys.executable)
 
 *祝贺你！现在，您的 Python 脚本已经被转换为可执行文件。如果您想安排该文件在您的计算机上运行的时间，请查看本指南。*
 
-[](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) [## 如何在 Mac 和 Windows 上轻松自动化您的 Python 脚本
-
-### 使用 crontab 和任务调度器来自动化您的脚本并节省时间
-
-towardsdatascience.com](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) 
+</how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94>  
 
 使用 Python 自动化您的生活！ [**加入我的 20k+人电子邮件列表，获取我的免费自动化备忘单。**](https://frankandrade.ck.page/44559e1ae7)

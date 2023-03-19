@@ -10,11 +10,7 @@
 
 这是系列文章的第二部分。你可以在这里找到第一部分:
 
-[](/working-with-sql-versus-pandas-part-1-plus-practice-problems-c23934c41e3) [## 使用 SQL 与熊猫(第 1 部分)以及练习题
-
-### 选择、过滤和排序数据
-
-towardsdatascience.com](/working-with-sql-versus-pandas-part-1-plus-practice-problems-c23934c41e3) 
+</working-with-sql-versus-pandas-part-1-plus-practice-problems-c23934c41e3>  
 
 # 介绍
 

@@ -43,24 +43,12 @@
 
 发表在《科学》杂志上的原始同行评议文章:
 
-[](https://www.science.org/doi/10.1126/science.abj6511) [## 美国科学促进会
-
-### 2021 美国科学促进协会。保留所有权利。AAAS 是 HINARI，AGORA 的合作伙伴…
-
-www.science.org](https://www.science.org/doi/10.1126/science.abj6511) 
+<https://www.science.org/doi/10.1126/science.abj6511>  
 
 在《自然》的新闻栏目中:
 
-[](https://www.nature.com/articles/d41586-021-03697-8) [## DeepMind AI 解决了化学中最有价值的技术之一
-
-### 机器学习算法使用电子密度预测材料属性。一个由科学家领导的小组在…
-
-www.nature.com](https://www.nature.com/articles/d41586-021-03697-8) 
+<https://www.nature.com/articles/d41586-021-03697-8>  
 
 DeepMind 自己的博客条目:
 
-[](https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI) [## 用人工智能模拟量子尺度上的物质
-
-### 用人工智能在量子尺度上模拟物质解决了 21 世纪的一些主要挑战，例如…
-
-deepmind.com](https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI)
+<https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI> 

@@ -78,16 +78,4 @@ Gartner 预测，正在创建的*所有*数据的百分比将从 2021 年的不�
 
 [作者 GIF，使用[元演示实验室](https://sketch.metademolab.com/canvas)创建]
 
- [## 动画绘画
-
-### 让孩子们的图画栩栩如生，通过动画人物走动！
-
-sketch.metademolab.com](https://sketch.metademolab.com/canvas) [](https://www.gartner.com/en/newsroom/press-releases/2021-10-18-gartner-identifies-the-top-strategic-technology-trends-for-2022) [## Gartner 确定了 2022 年的主要战略技术趋势
-
-### Gartner，Inc .今天宣布了组织在 2022 年需要探索的主要战略技术趋势。分析师…
-
-www.gartner.com](https://www.gartner.com/en/newsroom/press-releases/2021-10-18-gartner-identifies-the-top-strategic-technology-trends-for-2022) [](https://developer.ibm.com/blogs/what-is-generative-ai-and-how-much-power-does-it-have/) [## 什么是生成式人工智能，它有多大的能力
-
-### 了解生成式人工智能如何使计算机学习与输入相关的潜在模式，然后使用它来…
-
-developer.ibm.com](https://developer.ibm.com/blogs/what-is-generative-ai-and-how-much-power-does-it-have/)
+  <https://www.gartner.com/en/newsroom/press-releases/2021-10-18-gartner-identifies-the-top-strategic-technology-trends-for-2022>  <https://developer.ibm.com/blogs/what-is-generative-ai-and-how-much-power-does-it-have/> 

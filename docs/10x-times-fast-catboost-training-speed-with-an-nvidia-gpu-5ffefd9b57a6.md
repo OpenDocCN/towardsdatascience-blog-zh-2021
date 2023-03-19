@@ -24,7 +24,7 @@
 
 为了通过 GPU 训练获得更好的加速(例如 10 倍)，您的数据集应该有数百万个训练样本或数千个特征。数据集越大，GPU 的训练速度就越高。
 
-为了今天的比较，我决定使用希格斯数据集[](https://archive.ics.uci.edu/ml/datasets/HIGGS)****(***来源:*** *丹尼尔·怀特森丹尼尔' @ ' uci.edu，加州大学欧文分校物理学助理教授&天文学*。见底部引文)共有 11M 个样本(10.5M 训练样本，0.5M 测试样本)，28 个特征。该数据集适用于二元分类。通过运行以下命令，可以直接从 CatBoost 包中下载它。此外，确保您已经安装了 CatBoost 包。如果没有，阅读[该](/how-do-you-use-categorical-features-directly-with-catboost-947b211c2923)以获取说明。****
+为了今天的比较，我决定使用希格斯数据集<https://archive.ics.uci.edu/ml/datasets/HIGGS>****(***来源:*** *丹尼尔·怀特森丹尼尔' @ ' uci.edu，加州大学欧文分校物理学助理教授&天文学*。见底部引文)共有 11M 个样本(10.5M 训练样本，0.5M 测试样本)，28 个特征。该数据集适用于二元分类。通过运行以下命令，可以直接从 CatBoost 包中下载它。此外，确保您已经安装了 CatBoost 包。如果没有，阅读[该](/how-do-you-use-categorical-features-directly-with-catboost-947b211c2923)以获取说明。****
 
 ```
 **from catboost.datasets import higgstrain, test = higgs()**
@@ -130,25 +130,17 @@ test.shape  #(500,000, 29)**
 
 ****了解 CatBoost 的特殊功能！****
 
-****[](/5-cute-features-of-catboost-61532c260f69) [## CatBoost 的 5 个可爱特性
-
-### 其他升压算法没有这些功能
-
-towardsdatascience.com](/5-cute-features-of-catboost-61532c260f69) 
+****</5-cute-features-of-catboost-61532c260f69>  
 
 学习在 CatBoost 中直接使用分类特性！
 
-[](/how-do-you-use-categorical-features-directly-with-catboost-947b211c2923) [## 如何在 CatBoost 中直接使用分类特征？
-
-### 机器学习中的助推算法——第六部分
-
-towardsdatascience.com](/how-do-you-use-categorical-features-directly-with-catboost-947b211c2923) 
+</how-do-you-use-categorical-features-directly-with-catboost-947b211c2923>  
 
 ## 阅读下一条(可选):
 
 为数据科学和机器学习任务选择合适的笔记本电脑！
 
-[](/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63) [## 数据科学和机器学习任务对完美笔记本电脑的 20 项必要要求
+</20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63> [## 数据科学和机器学习任务对完美笔记本电脑的 20 项必要要求
 
 towardsdatascience.com](/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63) 
 

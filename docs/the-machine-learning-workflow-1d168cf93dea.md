@@ -34,27 +34,19 @@
 
 在我们开始任何类型的机器学习项目之前，我们首先需要获得高质量的数据。有几种方法可以获取数据，如利用公共数据集、数据搜集、产品干预、不同获取策略的组合等。
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) 
+</always-remember-data-comes-before-the-science-681389992082>  
 
 **数据清理** **&探索**
 
 数据很少处于干净的状态，例如，一些要素可能有很大一部分缺失值，或者可能存在应该处理的异常值。与这一过程相结合的是数据探索，它用于获得对数据的更深入的理解。
 
-[](https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc) [## 数据科学家到底在做什么？
-
-### 这不是魔法…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc) 
+<https://medium.datadriveninvestor.com/what-do-data-scientists-even-do-fb5d3bef30fc>  
 
 **数据准备/特征工程**
 
 准备数据集以使用机器学习模型是困难的，因为它需要直觉、数据操作技能和领域专业知识。此外，没有两个数据集是完全相同的，这意味着可能在一个项目中有效的技术不一定在另一个项目中有效(尽管它可以用作参考点)。
 
-[](/5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa) [## 机器学习项目中特征工程的 5 个最佳实践
+</5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa> [## 机器学习项目中特征工程的 5 个最佳实践
 
 towardsdatascience.com](/5-best-practices-for-feature-engineering-in-machine-learning-projects-e0a4e74fc4fa) 
 
@@ -66,21 +58,13 @@ towardsdatascience.com](/5-best-practices-for-feature-engineering-in-machine-lea
 
 模型开发/训练阶段涵盖了向机器学习模型输入其可以学习的数据的任务。机器学习模型处理大量数据的能力使企业能够为过去一度无法解决的问题提出解决方案。
 
-[](https://github.com/kurtispykes/ml-from-scratch) [## kurtispykes/ml-从零开始
-
-### 通过在 GitHub 上创建一个帐户，为 kurtispykes/ml 的从头开发做出贡献。
-
-github.com](https://github.com/kurtispykes/ml-from-scratch) 
+<https://github.com/kurtispykes/ml-from-scratch>  
 
 **模型验证/评估**
 
 我们使用一个实数来评估我们的机器学习模型的性能(即 RMSE、MAE、准确度)。一旦完成这些，我们就可以决定模型是否如我们所愿地执行，或者它是否需要更多的工作来从模型中获得期望的行为-这个过程将包括查看模型所犯的错误，并判断如何改进它们。
 
-[](/systematically-improving-your-machine-learning-model-41d327adf347) [## 系统地改进你的机器学习模型
-
-### 机器学习不可避免
-
-towardsdatascience.com](/systematically-improving-your-machine-learning-model-41d327adf347) 
+</systematically-improving-your-machine-learning-model-41d327adf347>  
 
 ## 部署
 
@@ -93,11 +77,7 @@ towardsdatascience.com](/systematically-improving-your-machine-learning-model-41
 
 部署仅仅是让用户可以访问机器学习模型。在生产环境中，模型可以接收输入，然后将输出返回给使用系统的最终用户。例如，用户可能会传入他们看到的某处房产的详细信息，模型会处理这些输入并返回价格估计。
 
-[](/serving-a-machine-learning-model-via-rest-api-5a4b38c02e90) [## 通过 REST API 服务于机器学习模型
-
-### 利用 Flask 服务于机器学习模型
-
-towardsdatascience.com](/serving-a-machine-learning-model-via-rest-api-5a4b38c02e90) 
+</serving-a-machine-learning-model-via-rest-api-5a4b38c02e90>  
 
 **模型监控&更新模型和数据**
 
@@ -105,11 +85,7 @@ towardsdatascience.com](/serving-a-machine-learning-model-via-rest-api-5a4b38c02
 
 此外，模型和数据在整个生产过程中都需要更新。这是在数据模式突然改变的情况下完成的，这可能损害模型的性能。
 
-[](https://blog.datatron.com/model-management-for-machine-learning/) [## 机器学习的模型管理- Datatron 博客
-
-### 多年来，机器学习数据科学家的模型管理已经发生了很大的变化。现在每个人都期待…
-
-blog.datatron.com](https://blog.datatron.com/model-management-for-machine-learning/) 
+<https://blog.datatron.com/model-management-for-machine-learning/>  
 
 ## 包裹
 
@@ -121,10 +97,6 @@ blog.datatron.com](https://blog.datatron.com/model-management-for-machine-learni
 
 ## 相关文章
 
-[](/essential-skills-for-machine-learning-engineers-720938c6e12b) [## 机器学习工程师的基本技能
-
-towardsdatascience.com](/essential-skills-for-machine-learning-engineers-720938c6e12b) [](/5-things-id-tell-myself-if-i-had-to-learn-machine-learning-all-over-again-3feeb31a9b55) [## 如果我必须重新学习机器学习，我会告诉自己的 5 件事
-
-towardsdatascience.com](/5-things-id-tell-myself-if-i-had-to-learn-machine-learning-all-over-again-3feeb31a9b55) [](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [## 如何创建引人注目的 Github 产品组合
+</essential-skills-for-machine-learning-engineers-720938c6e12b>  </how-to-create-a-compelling-github-portfolio-a229e7472a92> [## 如何创建引人注目的 Github 产品组合
 
 towardsdatascience.com](/how-to-create-a-compelling-github-portfolio-a229e7472a92)

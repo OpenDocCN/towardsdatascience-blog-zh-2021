@@ -194,18 +194,10 @@ mlflow UI。作者图片
 
 Pycaret 是一个低代码机器学习库的例子。有许多正在开发的工具试图以不同的方式简化机器学习的开发。要了解更多关于这些低工作量机器学习库的信息，请参阅我之前的文章。
 
-[](/low-effort-machine-learning-tools-9622d7d57135) [## 轻松的机器学习工具
-
-### 具有 PyCaret、BigQueryML 和 fastai 的低代码 AI
-
-towardsdatascience.com](/low-effort-machine-learning-tools-9622d7d57135) 
+</low-effort-machine-learning-tools-9622d7d57135>  
 
 有关现实世界中机器学习的更多信息，请参见下面的文章。
 
-[](/machine-learning-in-real-life-eebcb08f099c) [## 现实生活中的机器学习
-
-### 为现实世界的商业案例开发一个模型到底是什么样的
-
-towardsdatascience.com](/machine-learning-in-real-life-eebcb08f099c) 
+</machine-learning-in-real-life-eebcb08f099c>  
 
 感谢阅读！

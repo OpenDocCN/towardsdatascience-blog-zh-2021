@@ -62,11 +62,7 @@ S3 和 CloudFront 都是非常成熟的云服务，开始时也相对简单。�
 
 *这种方法是允许后端服务和外部服务器到服务器回调将数据上传到我们的 S3 桶的好方法。然而，许多应用程序也希望最终用户能够上传他们自己的数据，例如个人资料图像。为了能够将文件从前端应用程序直接上传到 S3 存储桶，我们需要 [S3 预先指定的 URL](https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html)。这个过程的工作方式(大致)是让后端服务向 S3 发送一个上传请求。然后，它使用 POST 或 PUT 方法生成加密的上传 URL，并将其返回给调用服务。最后，后端服务将这个签名的 URL 发送到前端客户端，然后前端客户端可以直接上传到 S3。降低成本和更好的性能(特别是使用 [S3 传输加速](https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration.html))只是使用预设计 URL 的一些好处。查看以下文章了解更多细节。*
 
-*[](https://aws.amazon.com/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/) [## 从网络或移动应用程序直接上传到亚马逊|亚马逊网络服务
-
-### 这篇博文介绍了一个样例应用程序 repo，并解释了从 S3 检索签名 URL 的过程。它…
-
-aws.amazon.com](https://aws.amazon.com/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/) 
+*<https://aws.amazon.com/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/>  
 
 ## **保护 S3 的静态数据**
 

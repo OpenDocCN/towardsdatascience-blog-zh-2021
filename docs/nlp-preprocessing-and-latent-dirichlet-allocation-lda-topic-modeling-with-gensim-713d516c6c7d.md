@@ -250,32 +250,8 @@ ldamallet = gensim.models.wrappers.LdaMallet(mallet_path,
 
 **在那之前，快乐的阅读、学习和探索！我希望通过这篇全面的教程，你对 Gensim 的主题建模有所了解。所有代码都可以在下面链接的 GitHub 资源库中找到。**
 
-**[](https://github.com/sejaldua/digesting-the-digest) [## GitHub-sejaldua/digesting-the-digest:使用 Gmail API 对我推荐的媒体进行主题建模…
-
-### 使用 Gmail API 对我推荐的媒体进行主题建模
-
-github.com](https://github.com/sejaldua/digesting-the-digest) 
+**<https://github.com/sejaldua/digesting-the-digest>  
 
 # 参考
 
-[](/latent-dirichlet-allocation-lda-9d1cd064ffa2) [## 潜在狄利克雷分配
-
-### 一种用于发现抽象主题的统计模型，又称主题建模。
-
-towardsdatascience.com](/latent-dirichlet-allocation-lda-9d1cd064ffa2) [](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) [## 用 Gensim 在 Python 中进行主题建模
-
-### 主题建模是一种从大量文本中理解和提取隐藏主题的技术。潜在的狄利克雷…
-
-www.machinelearningplus.com](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) [](http://mallet.cs.umass.edu) [## MALLET 主页
-
-### MALLET 是一个基于 Java 的软件包，用于统计自然语言处理、文档分类、聚类、主题…
-
-mallet.cs.umass.edu](http://mallet.cs.umass.edu) [](/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5) [## 《哈利·波特》文本的解读
-
-### 基于潜在狄利克雷分配的主题建模
-
-towardsdatascience.com](/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5) [](/mapping-the-tech-world-with-t-sne-7be8e1703137) [## 用 t-SNE 描绘科技世界
-
-### 我们用 t-SNE 算法分析了 20 万篇科技新闻
-
-towardsdatascience.com](/mapping-the-tech-world-with-t-sne-7be8e1703137)**
+</latent-dirichlet-allocation-lda-9d1cd064ffa2>  <https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/>  <http://mallet.cs.umass.edu>  </basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5>  </mapping-the-tech-world-with-t-sne-7be8e1703137> **

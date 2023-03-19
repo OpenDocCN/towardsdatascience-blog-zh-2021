@@ -297,11 +297,7 @@ model.summary()**
 
 **这个笔记本的完整版本可以在这个 Github repo 中找到:**
 
-**[](https://github.com/irenechang1510/Topic-classification-NN/blob/main/Topic%20classification%20with%20Neural%20Network.ipynb) [## Irene Chang 1510/主题-分类-NN
-
-### 在 GitHub 上创建一个帐户，为 Irene Chang 1510/Topic-class ification-NN 开发做贡献。
-
-github.com](https://github.com/irenechang1510/Topic-classification-NN/blob/main/Topic%20classification%20with%20Neural%20Network.ipynb) 
+**<https://github.com/irenechang1510/Topic-classification-NN/blob/main/Topic%20classification%20with%20Neural%20Network.ipynb>  
 
 请随时通过我的 LinkedIn 联系我，如果您有任何问题，我很乐意与您联系！
 

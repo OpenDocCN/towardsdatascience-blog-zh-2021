@@ -85,15 +85,11 @@ LeCun 的实现为当今的计算机视觉和图像处理应用设定了标准�
 
 从我们大脑中简单和复杂细胞的发现到 3D 物体检测的挑战，卷积神经网络结构走过了漫长的道路，从这一刻起，它们只会变得更加先进。看到在不久的将来我们将看到多少新的发展是令人兴奋的。如果你有兴趣成为这个过程的一部分，并学习深度学习，请查看我的内容指南。
 
-[](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) [## 我的人工智能内容指南
-
-### 帮助您轻松浏览我的内容的指南。
-
-oyalcin.medium.com](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) 
+<https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17>  
 
 更具体地说，如果您正在寻找使用 TensorFlow 构建自己的卷积神经网络，并使用 MNIST 数据集对手写数字进行分类，请查看这篇文章:
 
-[](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) [## 使用 MNIST 数据集在 10 分钟内完成图像分类
+</image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d> [## 使用 MNIST 数据集在 10 分钟内完成图像分类
 
 towardsdatascience.com](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) 
 

@@ -346,20 +346,4 @@ print(utils.get_length("Hello"))
 
 我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他作家在媒体上的文章)，那么你可以使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***注册。****
 
-*[](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [## 在数据科学面试中解释你的 ML 项目的逐步指南。
-
-### 在结尾有一个额外的样本脚本，让你谨慎地展示你的技术技能！
-
-towardsdatascience.com](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [## 使用 Huggingface 微调 HuBERT 用于定制音频数据中的情感识别
-
-### 构建自定义数据加载器、实验日志、改进指标的技巧和 GitHub repo，如果您想了解…
-
-towardsdatascience.com](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [](/end-to-end-deep-learning-project-part-1-930af1e1e191) [## 端到端深度学习项目:第 1 部分
-
-### 用 Keras 实现迁移学习的高效网络图像分类模型
-
-towardsdatascience.com](/end-to-end-deep-learning-project-part-1-930af1e1e191) [](https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b) [## 今天切换到这个播客应用程序的六个理由！
-
-### 带上你的朋友。
-
-varshitasher.medium.com](https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b)*
+*</step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf>  </fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8>  </end-to-end-deep-learning-project-part-1-930af1e1e191>  <https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b> *

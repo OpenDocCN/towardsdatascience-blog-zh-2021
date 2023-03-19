@@ -22,11 +22,7 @@
 
 如果你想直接跳到代码，那就这样吧:
 
-[](https://github.com/markdouthwaite/minimal-flask-api) [## markdouthwaite/最小烧瓶-api
-
-### 这个模板库为一个“生产就绪”的 Flask API 项目提供了一个最小的配置。它包括一个…
-
-github.com](https://github.com/markdouthwaite/minimal-flask-api) 
+<https://github.com/markdouthwaite/minimal-flask-api>  
 
 # 我们所说的“生产就绪”是什么意思？
 
@@ -62,11 +58,7 @@ github.com](https://github.com/markdouthwaite/minimal-flask-api)
 
 在这篇文章的其余部分，我将参考 GitHub [模板库](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)，我把它放在一起展示我认为是一个*最小*生产就绪 Flask API 的一些基本元素。您可以在这里找到存储库:
 
-[](https://github.com/markdouthwaite/minimal-flask-api) [## markdouthwaite/最小烧瓶-api
-
-### 这个模板库为一个“生产就绪”的 Flask API 项目提供了一个最小的配置。它包括一个…
-
-github.com](https://github.com/markdouthwaite/minimal-flask-api) 
+<https://github.com/markdouthwaite/minimal-flask-api>  
 
 要进行设置，您可以[直接从这个模板](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)创建一个新的存储库，或者您可以[将存储库](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)分支到您自己的帐户，然后[从那里克隆它](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)——任何适合您的方式！最后，如果你想用 Google Cloud Run 部署你的 API，一定要检查一下`google-cloud-run`分支。都准备好了吗？太好了！
 
@@ -144,11 +136,7 @@ def user(name):
 
 **相反，Flask 是*设计的*用于其他符合 WSGI 的 web 服务器。对于这篇文章，(在模板中)我使用了 [Gunicorn](https://gunicorn.org/) 。这是一个坚实的工具。然而，这不是唯一的选择，例如，还有`twisted`和`uWSGI`。如果您想了解关于您的部署选项的更多信息，Flask 提供了一些关于如何准备这些选项的极好的提示:**
 
- **[## 部署到生产烧瓶文档(1.1.x)
-
-### 本教程的这一部分假设您有一个要部署应用程序的服务器。它给出了一个概述…
-
-flask.palletsprojects.com](https://flask.palletsprojects.com/en/1.1.x/tutorial/deploy/)** 
+ **** 
 
 **在模板存储库中，Gunicorn 与 Flask 的配置由两个文件处理。第一个是`bin/run.sh` bash 脚本。如果您检查这个文件，您将看到一个命令。该命令将 Gunicorn 服务器指向您的 Flask 应用程序，在`0.0.0.0:8080`(即在您的本地主机上的端口 8080)公开应用程序，将您的应用程序设置为在`debug`级别登录(即记录*所有内容*)，并使用 4 个工作进程初始化服务器(即，将被初始化以处理对您的 API 的请求的工作进程的数量，以及因此可以并行处理的请求的数量)。后一个参数(`workers`)通常最好设置为运行 API 的服务器上可用内核的数量。**
 
@@ -272,11 +260,7 @@ app.register_blueprint(users) # ... 'core' handlers**
 
 **至此，我们已经触及了项目中的大多数关键文件和相关概念，让我们进行最后一步，将最小的 API 部署为一个活动的 web 服务。如果你想继续这最后一步，确保你已经检查了模板的`google-cloud-run`分支，并且(如果你还没有)在 Google Cloud 注册一个免费的*账户。在写这篇文章的时候，你可以获得 300 美元的注册费用，这比你在这里做任何事情的费用都要多。如果你不打算在 Google Cloud 上做更多的工作，请记住禁用你的帐户。***
 
-**[](https://cloud.google.com/free) [## GCP 免费等级免费扩展试用和永远免费|谷歌云
-
-### 20 多种免费产品免费体验热门产品，包括计算引擎和云存储，最高可达…
-
-cloud.google.com](https://cloud.google.com/free) 
+**<https://cloud.google.com/free>  
 
 还要注意，在继续之前，您需要确保您的 API 在本地运行，因此，如果您在继续操作时对模板项目中的文件进行了任何更改，请确保在继续操作之前检查这些更改是否有效。
 
@@ -288,11 +272,7 @@ cloud.google.com](https://cloud.google.com/free)
 
 然而，这篇文章不是关于 Docker 的*,我不会在这里详述。我将假定您对 Docker 和`Dockerfile` s 有一些基本的了解。如果您不熟悉 Docker，我鼓励您去看看网上有很多[很棒的资源](https://docs.docker.com/get-started/overview/)。不言而喻:在继续之前，确保你已经为你的系统下载了 Docker。*
 
-[](https://docs.docker.com/get-started/overview/) [## Docker 概述
-
-### Docker 是一个开发、发布和运行应用程序的开放平台。Docker 使您能够分离您的…
-
-docs.docker.com](https://docs.docker.com/get-started/overview/) 
+<https://docs.docker.com/get-started/overview/>  
 
 现在，回到你的`Dockerfile`本身。首先，您需要指定构建映像的基础映像。这体现在下面一行中:
 
@@ -365,11 +345,7 @@ curl {your-cloud-run-url}/health
 
 如果你想让你的 Flask-in-production 技能更上一层楼，一定要看看我的另一篇关于 ML 模型 API 负载测试 Flask 应用的文章:
 
-[](/load-testing-a-ml-model-api-e48ec0a0dffc) [## 对 ML 模型 API 进行负载测试
-
-### 将机器学习(ML)模型部署为实时服务，由业务关键型系统使用或直接由…
-
-towardsdatascience.com](/load-testing-a-ml-model-api-e48ec0a0dffc) 
+</load-testing-a-ml-model-api-e48ec0a0dffc>  
 
 这个帖子到此为止！和往常一样，反馈是非常受欢迎的，所以请随时在 [LinkedIn](https://www.linkedin.com/in/markdouthwaite/) 或 [Twitter](https://twitter.com/markldouthwaite) 上给我留言。
 

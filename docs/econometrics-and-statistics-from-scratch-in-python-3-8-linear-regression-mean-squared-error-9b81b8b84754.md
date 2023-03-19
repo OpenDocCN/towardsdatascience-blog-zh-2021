@@ -78,8 +78,4 @@
 
 Louis bruénaudet，巴黎大学法学和经济学/管理学双学位。
 
-[](https://louisbrulenaudet.com) [## 路易·瑙戴
-
-### Clover 和 lemone 的共同创始人，商业法和税务专家，编程接口设计…
-
-路易斯布伦奥德. com](https://louisbrulenaudet.com)
+<https://louisbrulenaudet.com> 

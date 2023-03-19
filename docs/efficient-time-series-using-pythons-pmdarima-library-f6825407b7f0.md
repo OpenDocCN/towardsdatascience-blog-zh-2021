@@ -149,10 +149,6 @@ plt.show()
 
 有关 pmdarima 的 auto_arima()函数的更多信息，请参见以下文档
 
- [## pmdarima:Python-pmdarima 1 . 8 . 0 文档的 arima 估计器
-
-### 将 R 的宠儿引入 Python，更有力地证明了为什么数据科学不需要 R。是 100% Python +…
-
-alkaline-ml.com](https://alkaline-ml.com/pmdarima/) 
+  
 
 感谢您的阅读！我的 [GitHub](https://github.com/mkosaka1/AirPassengers_TimeSeries) :)上有所有代码

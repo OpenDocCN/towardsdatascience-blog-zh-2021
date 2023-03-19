@@ -58,19 +58,7 @@
 
 ****感谢阅读。下面是一些你会喜欢的文章:****
 
-**[](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) [## 将改变商业战略的数据科学趋势
-
-### 从个人技能到业务发展，数据专业人士在未来几年有很多机会。
-
-towardsdatascience.com](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) [](/why-data-scientists-and-business-executives-struggle-to-work-together-c334d1f53054) [## 为什么数据科学家和企业高管难以合作
-
-### 如何弥合企业高管和数据科学家之间的差距，以克服挑战，走向数据和…
-
-towardsdatascience.com](/why-data-scientists-and-business-executives-struggle-to-work-together-c334d1f53054) [](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [## 数据科学家的最佳工作城市
-
-### 硅谷不是你唯一的选择。世界各地都需要数据科学家，说英语和法语可能…
-
-towardsdatascience.com](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) 
+**</trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7>  </why-data-scientists-and-business-executives-struggle-to-work-together-c334d1f53054>  </best-cities-to-work-as-a-data-scientist-a295ff60c6ef>  
 
 **参考文献:**
 

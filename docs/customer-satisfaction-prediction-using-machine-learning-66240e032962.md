@@ -311,11 +311,7 @@ Python 代码计算最近，频率和货币-
 
 要了解更多关于这种行为细分技术的信息，你可以访问这里
 
-[](https://www.barilliance.com/rfm-analysis/#:~:text=RFM%20analysis%20is%20a%20data,much%20they%27ve%20spent%20overall.) [## RFM 分析指南:RFM 营销的 6 个关键部分
-
-### RFM 分析增加电子商务销售。公司能够利用数据更好地了解客户的想法、感受和…
-
-www.barilliance.com](https://www.barilliance.com/rfm-analysis/#:~:text=RFM%20analysis%20is%20a%20data,much%20they%27ve%20spent%20overall.) 
+<https://www.barilliance.com/rfm-analysis/#:~:text=RFM%20analysis%20is%20a%20data,much%20they%27ve%20spent%20overall.>  
 
 所有客户的分布最近、频率和货币如下所示。
 
@@ -524,11 +520,7 @@ f1 分数增加了，我们的 FP 和 FN 值也降低了。我们现在将运行
 
 所有模型的代码片段都可以在这里找到-
 
-[](https://jovian.ai/paritosh/ml-models) [## 帕里托什/ml-模型-木星
-
-### 与 Paritosh 合作开发 ml-models 笔记本电脑。
-
-jovian.ai](https://jovian.ai/paritosh/ml-models) 
+<https://jovian.ai/paritosh/ml-models>  
 
 **深度学习模型**
 
@@ -709,11 +701,7 @@ Test f1_score: 0.8287339894123904**
 
 正如我们可以观察到的，两种堆叠模型的输出都比上述深度学习模型表现得更好。所有深度学习模型的代码片段都可以在这里找到—
 
-[](https://jovian.ai/paritosh/dl-models-2) [## Paritosh/dl-models-2 - Jovian
-
-### 与 Paritosh 合作开发 dl-models-2 笔记本电脑。
-
-jovian.ai](https://jovian.ai/paritosh/dl-models-2) 
+<https://jovian.ai/paritosh/dl-models-2>  
 
 ## 9.摘要
 
@@ -745,68 +733,36 @@ jovian.ai](https://jovian.ai/paritosh/dl-models-2)
 
 **我的 Github 个人资料**
 
-[](https://github.com/paritoshMahto07) [## paritoshMahto07 -概述
-
-### paritoshMahto07 有一个可用的存储库。在 GitHub 上关注他们的代码。
-
-github.com](https://github.com/paritoshMahto07) 
+<https://github.com/paritoshMahto07>  
 
 ## 13.参考
 
 一、现有解决方案-
 
-[](https://www.kaggle.com/andresionek/predicting-customer-satisfaction) [## 预测客户满意度
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自巴西电子商务公共数据集的数据…
-
-www.kaggle.com](https://www.kaggle.com/andresionek/predicting-customer-satisfaction) 
+<https://www.kaggle.com/andresionek/predicting-customer-satisfaction>  
 
 二。数据分析和可视化-
 
-[](https://www.kaggle.com/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp) [## 电子商务情感分析:EDA + Viz + NLP ✍
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp) 
+<https://www.kaggle.com/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp>  
 
 三。RFM 分析-
 
-[](/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17) [## Python 的新近性、频率、货币模型——以及丝芙兰如何使用它来优化他们的谷歌…
-
-### 上次我们使用群组分析方法分析了我们的在线购物者数据集。我们发现了一些有趣的…
-
-towardsdatascience.com](/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17) 
+</recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17>  
 
 四。自动编码器模型
 
-[](https://machinelearningmastery.com/autoencoder-for-classification/) [## 用于分类机器学习掌握的自动编码器特征提取
-
-### Autoencoder 是一种神经网络，可用于学习原始数据的压缩表示。安…
-
-machinelearningmastery.com](https://machinelearningmastery.com/autoencoder-for-classification/) 
+<https://machinelearningmastery.com/autoencoder-for-classification/>  
 
 动词 （verb 的缩写）堆叠 ML 模型
 
-[](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/) [## 堆叠集成机器学习与 Python -机器学习掌握
-
-### 堆叠或堆叠概括是一种集成机器学习算法。
-
-machinelearningmastery.com](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/) 
+<https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/>  
 
 不及物动词堆叠 DL 模型
 
-[](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/) [## Python -机器学习掌握中深度学习神经网络的堆叠集成
-
-### 模型平均是一种集成技术，其中多个子模型对组合预测的贡献相等。型号…
-
-machinelearningmastery.com](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/) 
+<https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/>  
 
 七。师徒制
 
-[](https://www.appliedaicourse.com/) [## 应用课程
-
-### 我们知道转行是多么具有挑战性。我们的应用人工智能/机器学习课程被设计为整体学习…
-
-www.appliedaicourse.com](https://www.appliedaicourse.com/) 
+<https://www.appliedaicourse.com/>  
 
 *感谢阅读，祝你有美好的一天！*🙂

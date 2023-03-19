@@ -243,16 +243,4 @@ plt.show()
 
 **你可能也会对这些文章感兴趣:**
 
-[](https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21) [## Python 可以带来很多乐趣
-
-### Cowsay 和 Dinosay 库，用于在 Python 中以 ASCII 艺术形式创建“会说话”的动物
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21) [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [## 当 Python 陷阱导致错误结果时
-
-### 一个奇怪的难以调试的带有舍入数字的 Python 故障
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [## 在 Python 🧸中创建玩具图
-
-### 高质量的极简交互式可视化，非常适合电子出版
-
-medium.com](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1)
+<https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21>  <https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe>  <https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1> 

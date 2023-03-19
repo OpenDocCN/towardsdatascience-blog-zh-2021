@@ -36,10 +36,6 @@
 
 关于如何制作一个伟大的数据科学作品集项目，我能给出的最好建议是找到一个真正的问题并解决它。即使是解决实际问题的简单项目通常也比使用已经准备好的数据集的人为项目更有趣。也许你想要解决的问题只是回答你对这个世界的一个迫切的问题——一个简单的分析项目可能是好的！也许你想构建一个可以在网络上运行的小应用程序，从一些 API 中提取数据，生成一些大家感兴趣的东西。或者，你可能想与现实世界的组织合作，帮助解决他们的问题。要了解更多想法，请参阅我关于在简历中获得一些数据科学经验的帖子:
 
-[](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [## 如何在简历中加入数据科学的第一点经验
-
-### 为有抱负的数据科学家解决先有鸡还是先有蛋的问题
-
-towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) 
+</how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace>  
 
 无论如何，要记住的重要事情是投资组合项目的最终结果应该是真正重要的东西，而不仅仅是放在 Github 上的笔记本。向我展示你可以解决一个真正的问题，并创造出有价值的东西，我会比你只是展示你可以进行死记硬背的机器学习练习的项目印象更深刻。

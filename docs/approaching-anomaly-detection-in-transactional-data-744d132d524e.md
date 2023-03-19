@@ -210,15 +210,7 @@ currentTimeMs > avgTimeMs + someConstant
 
 这两个存储库是异常检测和时序预测的研究和工具的重要信息源:
 
-[](https://github.com/yzhao062/anomaly-detection-resources) [## GitHub-yzhao 062/异常检测-资源:异常检测相关的书籍、论文、视频和…
-
-### 离群点检测(也称为异常检测)是一个令人兴奋但又具有挑战性的领域，其目的是识别出…
-
-github.com](https://github.com/yzhao062/anomaly-detection-resources) [](https://github.com/cuge1995/awesome-time-series) [## GitHub-cuge 1995/awesome-time-series:论文、代码和其他资源列表
-
-### 关于时间序列预测的最新论文、代码和其他资源的列表。
-
-github.com](https://github.com/cuge1995/awesome-time-series) 
+<https://github.com/yzhao062/anomaly-detection-resources>  <https://github.com/cuge1995/awesome-time-series>  
 
 # 5 结论和后续步骤
 

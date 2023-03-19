@@ -6,11 +6,7 @@
 
 支持本教程的完整代码可以在这里找到:
 
-[](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch) [## GitHub …
-
-### 如何训练 Resnet 神经网络在不到 40 行代码中从图像预测连续属性(填充级别)
-
-github.com](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch) 
+<https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch>  
 
 标准神经网络通常专注于分类问题，如识别猫和狗。然而，这些网络可以很容易地修改，以预测图像的连续属性，如年龄，大小或价格。
 
@@ -252,19 +248,11 @@ if itr % 200 == 0:
 
 完整代码可在此处找到:
 
-[](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch) [## GitHub …
-
-### 如何训练 Resnet 神经网络在不到 40 行代码中从图像预测连续属性(填充级别)
-
-github.com](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch) 
+<https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch>  
 
 在网络被训练和保存之后，它可以被加载用于进行预测:
 
-[](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch/blob/main/Infer.py) [## 使用 PyTorch/Infer 训练神经网络从 40 行代码的图像中预测连续属性…
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch/blob/main/Infer.py) 
+<https://github.com/sagieppel/Train-neural-net-to-predict-continuous-property-from-an-image-in-40-lines-of-code-with-PyTorch/blob/main/Infer.py>  
 
 该脚本加载您之前训练和保存的网络，并使用它进行预测。
 

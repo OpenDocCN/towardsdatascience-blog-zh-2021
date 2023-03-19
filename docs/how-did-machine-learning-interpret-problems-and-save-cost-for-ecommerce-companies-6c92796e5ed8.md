@@ -159,7 +159,7 @@
 
 **![](img/77a7b5a7dafd03bd0c4b3b9bfc47f778.png)**
 
-**理解人类的行为有助于解决他们的问题(图片来自[](https://www.pexels.com/@fotografierende?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**[**像素**](https://www.pexels.com/photo/hands-of-people-reaching-to-each-other-5541019/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) **)******
+**理解人类的行为有助于解决他们的问题(图片来自<https://www.pexels.com/@fotografierende?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>**[**像素**](https://www.pexels.com/photo/hands-of-people-reaching-to-each-other-5541019/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) **)******
 
 ****根据我在尼尔森公司工作期间对客户洞察团队的个人研究，我发现我们的行为驱动我们的行动，这间接意味着:你可以通过改变人们的行为来改变他们的行动。那如何适用于我们的问题呢？****
 

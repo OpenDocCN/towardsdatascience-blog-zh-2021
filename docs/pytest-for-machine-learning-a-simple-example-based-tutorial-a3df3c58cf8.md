@@ -14,11 +14,7 @@
 
 这篇文章中有许多精彩的观点，说明了为什么测试可以提高所有商业和行业的任何软件产品/服务的交付、性能和长期盈利能力。
 
-[](https://www.westagilelabs.com/blog/why-is-software-testing-and-qa-important-for-any-business/) [## 为什么软件测试和 QA 对任何企业都很重要
-
-### 如今，随着社会数字化程度的提高，软件的影响力越来越大。它有助于…
-
-www.westagilelabs.com](https://www.westagilelabs.com/blog/why-is-software-testing-and-qa-important-for-any-business/) 
+<https://www.westagilelabs.com/blog/why-is-software-testing-and-qa-important-for-any-business/>  
 
 今天，站在 2021 年，我们看到数据科学和机器学习工具、平台和服务越来越多地嵌入到几乎所有行业中，包括医疗保健、金融、制造、零售、娱乐、运输…
 
@@ -38,27 +34,15 @@ PyTest 是什么？
 
 Python 在其安装中提供了一个名为`unittest`的内置测试模块，但是它有一些缺点。这个 GitHub repo 以一种漂亮而直观的方式总结了这两者之间的一些测试场景，
 
- [## renzon/pytest-vs-unittest
-
-### pytest 和 unittes 测试框架之间的比较
-
-github.com](https://github.com/renzon/pytest-vs-unittest) 
+  
 
 互联网上有很多方便的学习和练习 Pytest 的资源。这里是入门教程，
 
-[](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest) [## 使用 Pytest 测试 Python 应用程序-信号量教程
-
-### 今天，测试应用程序已经成为任何有能力的开发人员都需要的标准技能。Python 社区…
-
-semaphoreci.com](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest) 
+<https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest>  
 
 而更全面稍微高级一点(处理设计模式)的是下面这个，
 
-[](https://realpython.com/pytest-python-testing/) [## 用 Pytest - Real Python 进行有效的 Python 测试
-
-### 在本教程中，您将学习如何使用 pytest 将您的测试提升到一个新的水平。你将负责中级和…
-
-realpython.com](https://realpython.com/pytest-python-testing/) 
+<https://realpython.com/pytest-python-testing/>  
 
 然而，**我觉得缺乏高度专注于使用 PyTest 进行机器学习模块的专用教程，并带有清晰的示例**。这是我第一次尝试解决这个问题。
 
@@ -191,8 +175,4 @@ Pytest 是一个轻量级且易于使用的实用程序，但它提供了足够�
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，* ***我会收到你的一部分会员费，而不会给你带来额外的费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

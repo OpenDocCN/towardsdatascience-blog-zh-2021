@@ -38,11 +38,7 @@ MongoDB Atlas 是 MongoDB 公司提供的解决方案。因此，MongoDB Atlas �
 
 *有关设置* MongoDB Atlas *或迁移到* MongoDB Atlas *的更多信息，请查看本文。*
 
-[](/mongodb-migrating-from-mlab-to-atlas-1070d06fddca) [## MongoDB:从 mLab 迁移到 Atlas
-
-### 迁移您的 MongoDB 以保持 Heroku 应用程序正常工作
-
-towardsdatascience.com](/mongodb-migrating-from-mlab-to-atlas-1070d06fddca) 
+</mongodb-migrating-from-mlab-to-atlas-1070d06fddca>  
 
 # 天蓝色宇宙数据库
 
@@ -62,11 +58,7 @@ Azure Cosmos DB free tier 让您可以轻松开始、开发和测试您的应用
 
 关于设置 Azure Cosmos DB 或迁移到 Cosmos DB 的更多信息，请查看本文。
 
-[](/mongodb-migrating-from-mlab-to-azure-cosmos-db-88c508f72d24) [## MongoDB:从 mLab 迁移到 Azure Cosmos DB
-
-### 如何将您的 mLab 数据库迁移到 Azure Cosmos DB 以保持您的应用程序运行。
-
-towardsdatascience.com](/mongodb-migrating-from-mlab-to-azure-cosmos-db-88c508f72d24) 
+</mongodb-migrating-from-mlab-to-azure-cosmos-db-88c508f72d24>  
 
 # AWS 文档 b
 

@@ -293,10 +293,6 @@ index_3 = outliers_3.index.to_list()indices = [index_1,index_2, index_3]for i in
 
 # **参考文献**
 
-[](https://www.datasklr.com/ols-least-squares-regression/diagnostics-for-leverage-and-influence) [## 离群值、杠杆和有影响的观察值
-
-### 观测值在空间中的位置在确定回归系数时起着重要作用。有些观察是远…
-
-www.datasklr.com](https://www.datasklr.com/ols-least-squares-regression/diagnostics-for-leverage-and-influence) 
+<https://www.datasklr.com/ols-least-squares-regression/diagnostics-for-leverage-and-influence>  
 
 [https://stattrek.com/regression/influential-points.aspx](https://stattrek.com/regression/influential-points.aspx)

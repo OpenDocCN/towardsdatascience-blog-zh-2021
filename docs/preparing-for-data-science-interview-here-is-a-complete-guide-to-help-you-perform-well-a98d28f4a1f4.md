@@ -30,11 +30,7 @@
 
 如果你有兴趣利用一些惊人的平台来建立一个真正令人印象深刻的简历。查看下面这篇文章，
 
-[](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) [## 如何打造令人印象深刻的数据科学简历？
-
-### 制作一份引人注目的有影响力的简历的建议
-
-towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) 
+</how-to-build-an-impressive-data-science-resume-7a9c71f761c5>  
 
 # 准备一个令人惊叹的投资组合网站
 
@@ -72,15 +68,7 @@ LearnSQL 是一个专门致力于构建和测试 SQL 技能的平台。他们有
 
 认证和课程完成不足以让你被录用。您需要很好地了解数据科学的基本概念。这里有一些令人惊讶的文章，它们引用了数据科学访谈中的常见概念和问题。
 
-[](https://betterprogramming.pub/the-data-science-interview-study-guide-c3824cb76c2e) [## 数据科学面试研究指南
-
-### 121 种资源帮助您获得数据科学梦寐以求的工作
-
-better 编程. pub](https://betterprogramming.pub/the-data-science-interview-study-guide-c3824cb76c2e) [](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) [## 超过 100 个数据科学家面试问题和答案！
-
-### 来自亚马逊、谷歌、脸书、微软等公司的面试问题！
-
-towardsdatascience.com](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) 
+<https://betterprogramming.pub/the-data-science-interview-study-guide-c3824cb76c2e>  </over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 # 拥有个人资料快照
 

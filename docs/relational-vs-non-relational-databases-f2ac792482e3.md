@@ -92,18 +92,6 @@ SQL 数据库引擎的示例有:
 
 # 相关文章
 
-[](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [## 如何使用 Python 熊猫和 tabula-py 从 PDF 中提取表格
-
-### 一个从 PDF 中提取重复表格的快捷脚本
-
-towardsdatascience.com](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) [## 描述性分析的简明介绍
-
-### 关于集中趋势、频率和分散指数的一些基本概念。
-
-medium.com](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) 
+</how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  </how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754>  <https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。

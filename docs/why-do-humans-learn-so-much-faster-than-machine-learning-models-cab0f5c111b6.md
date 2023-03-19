@@ -67,7 +67,7 @@ array([ 0.08414142,  0.0502594 , -0.08301819,  0.02449763,  0.06950121],
 
 你喜欢单词嵌入吗，你和我一样惊讶吗？还是你更怀疑？让我知道！
 
-*文章、代码和数据可以在 github*T10【上找到[](https://github.com/PaulHiemstra/wordembedding_magic)
+*文章、代码和数据可以在 github*T10【上找到<https://github.com/PaulHiemstra/wordembedding_magic>
 
 # *我是谁？*
 

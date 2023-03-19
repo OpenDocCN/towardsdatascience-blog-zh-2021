@@ -349,10 +349,6 @@ for attr in s1:
 
 在本文中，我介绍了 Python 中的命名元组，它是什么，如何创建命名元组类，以及如何将该类实例化为命名元组。然后，我举例说明了什么时候我们应该使用命名元组，什么时候不应该。希望你喜欢阅读！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

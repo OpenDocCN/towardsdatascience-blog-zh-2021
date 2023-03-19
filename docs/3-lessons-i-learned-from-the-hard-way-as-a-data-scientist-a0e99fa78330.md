@@ -76,10 +76,6 @@
 
 最后但同样重要的是，如果你还不是[中级会员](https://sonery.medium.com/membership)并打算成为其中一员，我恳请你使用以下链接。我将从你的会员费中收取一部分，不增加你的额外费用。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

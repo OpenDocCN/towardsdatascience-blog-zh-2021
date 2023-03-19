@@ -100,16 +100,4 @@ plt.show()
 
 链接:
 
-[](https://github.com/astrofrog/fast-histogram) [## GitHub-astro frog/Fast-histogram:Python 中的快速 1D 和 2D 直方图函数
-
-### 有时，您只想用规则的条柱计算简单的 1D 或 2D 直方图。很快。不废话。Numpy 的直方图…
-
-github.com](https://github.com/astrofrog/fast-histogram) [](https://github.com/holoviz/datashader) [## GitHub - holoviz/datashader:快速准确地渲染哪怕是最大的数据。
-
-### 构建状态覆盖最新开发版本最新发布文档支持 Datashader 是一个数据栅格化管道，用于…
-
-github.com](https://github.com/holoviz/datashader) [](https://colorcet.holoviz.org/) [## colorcet 1.0.0 文档
-
-### Colorcet 是一个感知精确的 256 色色图集，用于 Python 绘图程序，如…
-
-colorcet.holoviz.org](https://colorcet.holoviz.org/)
+<https://github.com/astrofrog/fast-histogram>  <https://github.com/holoviz/datashader>  <https://colorcet.holoviz.org/> 

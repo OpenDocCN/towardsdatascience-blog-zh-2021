@@ -39,11 +39,7 @@ A/B 测试的实验设计允许我们隔离外部因素，治疗是影响两组�
 
 如果样本服从正态分布，我们可以使用参数检验，否则我们使用非参数检验。假设检验的更多类型和细节将在下面的文章中解释:
 
-[](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html) [## 解释假设检验— KDnuggets
-
-### 语义网、数据集成和数据科学研究员安吉丽卡·洛·杜卡。根据吉姆·弗罗斯特的理论，假设…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html) 
+<https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html>  
 
 ## 评估 A/B 测试的结果
 

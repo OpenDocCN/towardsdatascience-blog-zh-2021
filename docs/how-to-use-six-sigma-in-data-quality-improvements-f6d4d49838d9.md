@@ -87,4 +87,4 @@ Pareto 的目标不是找到 x，而是找到正确的 x。它代表了最常见
 
 现在相信这个过程，你可以通过寻找下一个改进的机会重新开始这个循环。如果您迷失在数据质量度量中，遵循 DMAIC 步骤可以帮助组织您的项目并协调组织中数据清理计划的工作。这是一个坚实的框架，可以为您指明正确的方向，并让您了解数据质量之旅中的高层次计划。
 
-*原载于 2021 年 4 月 13 日 https://www.solution-tailor.com*[](https://www.solution-tailor.com/post/how-to-use-six-sigma-in-data-quality-improvements)**。**
+*原载于 2021 年 4 月 13 日 https://www.solution-tailor.com*<https://www.solution-tailor.com/post/how-to-use-six-sigma-in-data-quality-improvements>**。**

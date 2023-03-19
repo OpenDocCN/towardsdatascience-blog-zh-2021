@@ -195,11 +195,7 @@ int_int = {1: 5, 2: 7}*
 
 *如果您有兴趣了解更多有趣的 Python 特性，请查看这篇关于 Python 3.10 中新的匹配案例声明的文章:*
 
-*[](/switch-case-statements-are-coming-to-python-d0caf7b2bfd3) [## Python 中出现了 Switch-Case 语句
-
-### 最新版本展示了新的逻辑
-
-towardsdatascience.com](/switch-case-statements-are-coming-to-python-d0caf7b2bfd3)* 
+*</switch-case-statements-are-coming-to-python-d0caf7b2bfd3> * 
 
 *[🤖《变形金刚》NLP 课程 70%的折扣](https://bit.ly/nlp-transformers)*
 

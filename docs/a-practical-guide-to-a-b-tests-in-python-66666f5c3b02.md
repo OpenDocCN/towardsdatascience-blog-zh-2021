@@ -16,11 +16,7 @@
 
 A/B 检验是有效的，只依赖温和的假设，最重要的假设是[稳定单位治疗值假设，SUTVA](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 。它指出，治疗和控制单位不相互作用；否则，干扰会导致有偏差的估计。我最新的博客文章讨论了它的来源和主要技术的应对策略。
 
-[](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [## 用户干扰如何会搞乱你的 A/B 测试？
-
-### 来自 Lyft、LinkedIn 和 Doordash 的三个解决方案
-
-towardsdatascience.com](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) 
+</how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8>  
 
 作为一名数据科学家，我很高兴看到业界越来越多地采用实验和因果推理。《哈佛商业评论》最近发表了一篇题为“[为什么商学院需要教授实验](https://hbr.org/2021/06/why-business-schools-need-to-teach-experimentation)”的文章，强调了融入实验思维的重要性。与之相关的是，他们在另一篇论文中讨论了“[在线实验的惊人力量](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)”(Kohavi 和 Thomke，2017)。
 
@@ -347,27 +343,11 @@ A/B 测试需要广泛的统计知识和对细节的仔细关注。有成千上�
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 进一步阅读
 
-[](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [](/an-a-b-test-loses-its-luster-if-a-a-tests-fail-2dd11fa6d241) [## 如果 A/A 测试失败，A/B 测试就失去了光彩
-
-### A/A 测试的统计方法
-
-towardsdatascience.com](/an-a-b-test-loses-its-luster-if-a-a-tests-fail-2dd11fa6d241) [](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [## 用户干扰如何会搞乱你的 A/B 测试？
-
-### 来自 Lyft、LinkedIn 和 Doordash 的三个解决方案
-
-towardsdatascience.com](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) 
+</online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  </an-a-b-test-loses-its-luster-if-a-a-tests-fail-2dd11fa6d241>  </how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8>  
 
 [用曲奇猫测试手机游戏 A/B](https://learn.datacamp.com/projects/184)
 

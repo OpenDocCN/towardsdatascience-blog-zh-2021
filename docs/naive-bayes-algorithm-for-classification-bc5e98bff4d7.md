@@ -153,11 +153,7 @@ plt.ylabel(**"Predicted label"**)
 
 如果你对文本分类感兴趣，你可以阅读我下面的文章，我展示了文本挖掘技术，并使用逻辑回归对亚马逊的美食评论数据集进行了分类。
 
-[](https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640) [## 使用逻辑回归进行文本分类:BoW 和 Tf-Idf 的比较
-
-### 创建“语言感知数据产品”对于企业和组织来说变得越来越重要…
-
-medium.com](https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640) 
+<https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640>  
 
 # 结论
 

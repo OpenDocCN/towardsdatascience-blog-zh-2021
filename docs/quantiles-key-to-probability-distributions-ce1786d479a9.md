@@ -61,11 +61,7 @@ PDF 图上的概率由密度曲线下的面积表示。一个点下的面积等�
 
 对用于描述分布的其他参数感兴趣(期望值、方差、偏度和峰度)？跳到这里:
 
-[](/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207843d) 
+</statistical-moments-in-data-science-interviews-bfecd207843d>  
 
 根据上述分析，需要记住以下要点:
 
@@ -233,19 +229,7 @@ PDF 和 PMF 的主要区别。图片由作者提供。
 
 *您可能还喜欢:*
 
-*[](/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207843d) [](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [## 数据科学访谈中的矩阵
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [](/set-path-automatically-r-python-4dbc4963321e) [## 如何启动 R/Python 代码让同事心存感激
-
-### 设置路径和创建输出文件夹的自动化方式
-
-towardsdatascience.com](/set-path-automatically-r-python-4dbc4963321e) 
+*</statistical-moments-in-data-science-interviews-bfecd207843d>  </math-refresher-for-data-scientist-part-1-matrices-88620a92d046>  </set-path-automatically-r-python-4dbc4963321e>  
 
 # 参考
 

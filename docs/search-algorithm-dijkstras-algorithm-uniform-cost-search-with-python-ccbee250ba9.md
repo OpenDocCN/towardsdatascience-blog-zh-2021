@@ -72,15 +72,7 @@ UCS 或者 Dijkstra 的算法，逐步展开。图片作者。
 
 # 推荐阅读
 
-[](/search-algorithm-depth-first-search-with-python-1f10da161980) [## 搜索算法-深度优先搜索，使用 Python
-
-### 从头开始 Python 实现
-
-towardsdatascience.com](/search-algorithm-depth-first-search-with-python-1f10da161980) [](/search-algorithm-breadth-first-search-with-python-50571a9bb85e) [## 搜索算法-广度优先搜索，使用 Python
-
-### 从头开始 Python 实现
-
-towardsdatascience.com](/search-algorithm-breadth-first-search-with-python-50571a9bb85e) 
+</search-algorithm-depth-first-search-with-python-1f10da161980>  </search-algorithm-breadth-first-search-with-python-50571a9bb85e>  
 
 # 参考
 

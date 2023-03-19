@@ -101,7 +101,7 @@ DevOps 生命周期包含 8 个不同的连续阶段，包括:
 
 你的团队不仅需要了解事件发生的时间和方式，还需要了解事件的严重性。破坏 CEO 仪表盘的表格不值得像跟踪内部事件页面浏览量的表格一样被关注。对他们一视同仁的成本对你的团队的生产力和整个企业都是有害的。
 
-在循环的这一部分，可以使用端到端的沿袭和统计分析来理解手头问题的根本原因。随着团队越来越擅长理解、分类和响应事件，他们可以减少解决常见或预期数据事件的[](https://www.montecarlodata.com/data-quality-you-are-measuring-it-wrong/#:~:text=Time-to-resolution%20(TTR))**(TTR)时间。**
+在循环的这一部分，可以使用端到端的沿袭和统计分析来理解手头问题的根本原因。随着团队越来越擅长理解、分类和响应事件，他们可以减少解决常见或预期数据事件的<https://www.montecarlodata.com/data-quality-you-are-measuring-it-wrong/#:~:text=Time-to-resolution%20(TTR>)**(TTR)时间。**
 
 # **预防**
 

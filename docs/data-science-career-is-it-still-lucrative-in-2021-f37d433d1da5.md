@@ -26,7 +26,7 @@
 
 此外，Gartner 认为，机器学习及其相关领域，如深度学习、计算机视觉、自然语言处理，都超出了他们膨胀的预期峰值[7]，这对数据科学家来说是一个极好的消息。超越炒作曲线的峰值意味着公司开始制定关于机器学习和数据科学的现实计划。很快，数据科学可能会成为一种标准和职业，就像软件工程一样，总是有需求的。
 
-[](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) [## 2021 年进军数据科学:竞争越来越激烈了吗？
+</breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f> [## 2021 年进军数据科学:竞争越来越激烈了吗？
 
 towardsdatascience.com](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) 
 
@@ -34,13 +34,9 @@ towardsdatascience.com](/breaking-into-data-science-in-2021-is-it-still-easy-as-
 
 在线媒体上有一种说法，数据工程将取代数据科学在最热门工作中的位置[4]。然而，有人可能会说，其他数据相关领域的增长实际上对数据科学就业市场有利。任何从事大数据项目的人都知道，构建数据驱动的软件是一项团队工作。你可能需要召集一个由软件工程师、数据工程师、云和开发运维专家以及数据科学家组成的团队，共同构建高性能的人工智能软件。这就是为什么为从事人工智能产品的软件团队带来更多专家或自动化工具将有助于数据科学家专注于他们的实际工作，即进行数据分析，建立和优化高性能机器学习模型，以与业务利益相关者交流可操作的见解。
 
-[](https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83) [## 作为数据工程师工作
+<https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83> [## 作为数据工程师工作
 
-medium.com](https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83) [](/working-as-a-machine-learning-engineer-a364545ae93c) [## 作为一名机器学习工程师
-
-### 人工智能和数据人才的职业战略
-
-towardsdatascience.com](/working-as-a-machine-learning-engineer-a364545ae93c) 
+medium.com](https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83) </working-as-a-machine-learning-engineer-a364545ae93c>  
 
 **4。后疫情时代的经济复苏需要专门的数据科学团队**
 
@@ -66,15 +62,7 @@ towardsdatascience.com](/working-as-a-machine-learning-engineer-a364545ae93c)
 
 **更多文章来自作者:**
 
-[](/working-as-a-data-science-consultant-e626669ab72b) [## 担任数据科学顾问
-
-### 具有企业意识的数据科学家的职业战略
-
-towardsdatascience.com](/working-as-a-data-science-consultant-e626669ab72b) [](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) [## 开始数据科学职业生涯的最佳时机
-
-### 从数据科学职业生涯的早期开始中获益的 5 种方式
-
-towardsdatascience.com](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) 
+</working-as-a-data-science-consultant-e626669ab72b>  </the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff>  
 
 **关于作者:**
 

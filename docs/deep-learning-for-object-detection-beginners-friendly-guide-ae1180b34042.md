@@ -98,7 +98,7 @@
 
 通过在你的机器上安装谷歌云帐户和谷歌云 SDK，训练来自 [*模型动物园*](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) 的任何物体检测模型，变得简单明了。
 
-如果你想训练一个不属于模型动物园的模型(比如 YOLO)，那么按照我在另一篇文章[](https://pub.towardsai.net/beginners-helpful-guide-to-training-deep-learning-models-on-the-cloud-3202f29afd1b)*中描述的一系列步骤，在谷歌云上也是可行的。*
+如果你想训练一个不属于模型动物园的模型(比如 YOLO)，那么按照我在另一篇文章<https://pub.towardsai.net/beginners-helpful-guide-to-training-deep-learning-models-on-the-cloud-3202f29afd1b>*中描述的一系列步骤，在谷歌云上也是可行的。*
 
 # *用于执行对象检测任务的开源深度学习工具*
 

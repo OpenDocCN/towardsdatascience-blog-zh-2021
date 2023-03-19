@@ -138,8 +138,4 @@
 *   **std::optional** 复制包含的对象
 *   一元函数将被添加到 **C++23** 中，通过消除编写样板代码的需要来改进我们代码中的抽象
 
-[](https://debby-nirwan.medium.com/subscribe) [## 每当王思然·尼旺发表文章时，就收到一封电子邮件。
-
-### 每当王思然·尼旺发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-debby-nirwan.medium.com](https://debby-nirwan.medium.com/subscribe)
+<https://debby-nirwan.medium.com/subscribe> 

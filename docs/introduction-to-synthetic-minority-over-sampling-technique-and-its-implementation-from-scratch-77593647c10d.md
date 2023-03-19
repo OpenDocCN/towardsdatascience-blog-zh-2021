@@ -62,16 +62,4 @@ SMOTE 变换的不平衡二分类问题散点图
 
 # **相关文章**
 
-[](/k-nearest-neighbours-knn-algorithm-common-questions-and-python-implementation-14377e45b738) [## k 近邻(kNN)算法:常见问题和 Python 实现
-
-### 测试数据科学家关于 kNN 算法及其 Python 实现的问题
-
-towardsdatascience.com](/k-nearest-neighbours-knn-algorithm-common-questions-and-python-implementation-14377e45b738) [](/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) [## 机器学习中不平衡数据集的处理
-
-### 面对不平衡的班级问题，应该做什么，不应该做什么？
-
-towardsdatascience.com](/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) [](/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5) [## 对不平衡数据进行过采样的 5 种 SMOTE 技术
-
-### 了解过采样数据的 SMOTE 方法
-
-towardsdatascience.com](/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5)
+</k-nearest-neighbours-knn-algorithm-common-questions-and-python-implementation-14377e45b738>  </handling-imbalanced-datasets-in-machine-learning-7a0e84220f28>  </5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5> 

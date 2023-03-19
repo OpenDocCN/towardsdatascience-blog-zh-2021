@@ -94,8 +94,4 @@ GLM 方程中的输出部分(图片由作者提供)
 
 最终，您将不同的输入变量组合成一个加权和，无论使用线性、逻辑还是泊松回归，都需要确定未知系数。
 
-[](https://ahmarshah.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ahmar Shah 博士(牛津)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)
+<https://ahmarshah.medium.com/membership> 

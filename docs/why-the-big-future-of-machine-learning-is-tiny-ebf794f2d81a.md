@@ -154,8 +154,4 @@ Warden 认为 tinyML 将在未来影响几乎每个行业，零售、医疗保�
 
 *原载:*[*https://highdemandskills.com/blog/*](https://highdemandskills.com/blog/)
 
-[](https://highdemandskills.com/blog/) [## 最近的帖子- HDS
-
-### 直觉及其在人工智能中的应用
-
-highdemandskills.com](https://highdemandskills.com/blog/)
+<https://highdemandskills.com/blog/> 

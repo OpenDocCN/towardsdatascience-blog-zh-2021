@@ -132,23 +132,7 @@
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [## 在 Python 中停止使用 Print 进行调试。用冰淇淋代替
-
-### 你是使用打印还是日志来调试你的代码？用冰淇淋代替。
-
-towardsdatascience.com](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f) [## 使用 Python 获得通知的 3 种方式
-
-### 现在，您可以在等待培训完成的同时从事其他项目
-
-towardsdatascience.com](/how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f) 
+</pytest-for-data-scientists-2990319e55e6>  </stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc>  </3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f>  
 
 # 参考
 

@@ -28,7 +28,7 @@
 
 另一种在给定时刻查看数据的方式是从软件的角度。在我看来，这是纯分析视角和硬件视角之间的一个很好的中间点。在大多数情况下，以这种方式查看数据可能是最理想的，因为我们处理的数据类型通常不是简单的特性集。有时，数据甚至根本无法被解释，除非计算机正在这样做，例如分解。如果你对分解不太了解，我还有一篇文章解释了奇异值分解的数学细节，你可以在这里读到:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
 towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) 
 

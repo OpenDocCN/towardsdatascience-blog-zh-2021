@@ -38,20 +38,8 @@
 
 Oumuamua 是否是外星飞船仍有争议，需要更多的数据才能有任何确定性。在那之前，让我们继续探索我们的太阳系，一次探索一颗行星。可以肯定的是，为了实现更雄心勃勃的太空任务，我们需要人工智能来导航我们的航天器穿越太空。自动驾驶汽车将分析外星世界，并将信息传回地球。利用技术作为我们延伸的臂膀，我们可以设法探索前人未曾涉足的领域。
 
-如果你喜欢这篇文章并想联系我，请联系我🐦 [*碎碎念*](https://twitter.com/alexieidingli) *，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*insta gram*](https://www.instagram.com/alexieidingli/)*或者😊*[](https://www.facebook.com/alexieidingli/)**。**
+如果你喜欢这篇文章并想联系我，请联系我🐦 [*碎碎念*](https://twitter.com/alexieidingli) *，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*insta gram*](https://www.instagram.com/alexieidingli/)*或者😊*<https://www.facebook.com/alexieidingli/>**。**
 
-*[](/a-whole-new-ai-world-6a5e9e49aa12) [## 一个全新的人工智能世界
-
-### 疫情之后人工智能的兴起
-
-towardsdatascience.com](/a-whole-new-ai-world-6a5e9e49aa12) [](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) [## 自工业革命以来最重大的变化
-
-### 人工智能在当今工业中的应用概述
-
-towardsdatascience.com](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) [](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) [## 几分钟内从巴黎到伦敦
-
-### 交通创新如何重塑我们的未来
-
-medium.com](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) 
+*</a-whole-new-ai-world-6a5e9e49aa12>  </the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e>  <https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152>  
 
 [**阿列克谢·丁力教授**](http://www.dingli.org/) 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他已经出版了几本同行评审的出版物，并成为马耳他[的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。](https://malta.ai/)*

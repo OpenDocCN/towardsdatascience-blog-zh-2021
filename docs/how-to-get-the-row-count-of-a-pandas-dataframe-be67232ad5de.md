@@ -127,12 +127,4 @@ import pandas as pd df = pd.DataFrame(
 
 **你可能也会喜欢**
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
-
-towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) [](/how-to-pretty-print-pandas-dataframes-and-series-b301fa78bb6c) [## 如何漂亮地打印熊猫数据帧和系列
-
-towardsdatascience.com](/how-to-pretty-print-pandas-dataframes-and-series-b301fa78bb6c) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+</loc-vs-iloc-in-pandas-92fc125ed8eb>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

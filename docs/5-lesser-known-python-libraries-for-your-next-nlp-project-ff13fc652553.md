@@ -236,10 +236,6 @@ Come into town with me today to buy food!OUTPUTS:
 
 如果你对 NLP 感兴趣，可以看看我最近写的关于命名实体识别(NER)的文章。我将展示如何使用 spaCy——另一个强大的 NLP 库——来构建一个模型，自动识别非结构化文本中与家庭装修服务相关的单词。
 
-[](https://levelup.gitconnected.com/auto-detect-anything-with-custom-named-entity-recognition-ner-c89d6562e8e9) [## 通过自定义命名实体识别自动检测任何内容(NER)
-
-### 使用 spaCy v3 从头至尾的代码演练
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/auto-detect-anything-with-custom-named-entity-recognition-ner-c89d6562e8e9) 
+<https://levelup.gitconnected.com/auto-detect-anything-with-custom-named-entity-recognition-ner-c89d6562e8e9>  
 
 感谢阅读！

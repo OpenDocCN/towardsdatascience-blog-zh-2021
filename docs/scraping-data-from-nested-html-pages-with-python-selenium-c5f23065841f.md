@@ -122,12 +122,4 @@ df.to_csv('outputs/glossary.csv')
 
 # 相关文章
 
-[](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [## 如何使用 Python 熊猫和 tabula-py 从 PDF 中提取表格
-
-### 一个从 PDF 中提取重复表格的快捷脚本
-
-towardsdatascience.com](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [](/how-to-build-a-dataset-from-twitter-using-python-tweepy-861bdbc16fa5) [## 如何使用 Python tweepy 从 Twitter 构建数据集
-
-### 一个快速教程和一个现成的脚本来提取推文
-
-towardsdatascience.com](/how-to-build-a-dataset-from-twitter-using-python-tweepy-861bdbc16fa5)
+</how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754>  </how-to-build-a-dataset-from-twitter-using-python-tweepy-861bdbc16fa5> 

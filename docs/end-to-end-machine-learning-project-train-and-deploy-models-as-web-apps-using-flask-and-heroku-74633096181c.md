@@ -24,11 +24,7 @@
 
 在阅读之前，请随意感受一下这个应用程序(:):
 
- [## 糖尿病预测
-
-### 编辑描述
-
-predict-diabetes-using-ml.herokuapp.com](https://predict-diabetes-using-ml.herokuapp.com/) 
+  
 
 # **数据集详情**
 
@@ -536,19 +532,11 @@ def predict():#take inputs for all the attributes through the HTML form
 
 ***购物篮分析***
 
-*[](https://medium.com/analytics-vidhya/market-basket-analysis-on-3-million-orders-from-instacart-using-spark-24cc6469a92e) [## 使用 Spark 对 Instacart 的 300 万份订单进行购物篮分析。
-
-### 使用 FP-growth 算法分析超市产品之间的关联
-
-medium.com](https://medium.com/analytics-vidhya/market-basket-analysis-on-3-million-orders-from-instacart-using-spark-24cc6469a92e) 
+*<https://medium.com/analytics-vidhya/market-basket-analysis-on-3-million-orders-from-instacart-using-spark-24cc6469a92e>  
 
 **电影推荐系统**
 
-[](https://medium.com/analytics-vidhya/the-world-of-recommender-systems-e4ea504341ac) [## 推荐系统的世界
-
-### 数据科学领域的推荐系统有哪些？
-
-medium.com](https://medium.com/analytics-vidhya/the-world-of-recommender-systems-e4ea504341ac) 
+<https://medium.com/analytics-vidhya/the-world-of-recommender-systems-e4ea504341ac>  
 
 **信用违约分析**
 
@@ -556,30 +544,6 @@ medium.com](https://medium.com/analytics-vidhya/the-world-of-recommender-systems
 
 参考资料:
 
-[](https://www.upgrad.com/blog/deploying-machine-learning-models-on-heroku/) [## 在 Heroku | upGrad 博客上部署机器学习模型
-
-### 机器学习是一个连续的过程，包括数据提取、清理、挑选重要特征、建模…
-
-www.upgrad.com](https://www.upgrad.com/blog/deploying-machine-learning-models-on-heroku/)  [## Gunicorn - WSGI 服务器- Gunicorn 20.1.0 文档
-
-### Gunicorn 'Green Unicorn '是一个用于 UNIX 的 Python WSGI HTTP 服务器。这是从 Ruby 的 Unicorn 移植过来的 fork 前工人模型…
-
-docs.gunicorn.org](https://docs.gunicorn.org/en/stable/) [](https://devcenter.heroku.com/articles/python-gunicorn) [## 用 Gunicorn 部署 Python 应用程序
-
-### 并发处理传入 HTTP 请求的 Web 应用程序比……更有效地利用 dyno 资源。
-
-devcenter.heroku.com](https://devcenter.heroku.com/articles/python-gunicorn) [](https://stackabuse.com/deploying-a-flask-application-to-heroku/) [## 将 Flask 应用程序部署到 Heroku
-
-### 简介在本教程中，您将学习如何将 Flask 应用程序部署到 Heroku。该应用程序可以像一个简单的…
-
-stackabuse.com](https://stackabuse.com/deploying-a-flask-application-to-heroku/) [](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) [## 机器学习的特征缩放:理解标准化与
-
-### 要素缩放简介我最近在处理一个数据集，该数据集包含多个要素，跨越不同的…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) [](/build-deploy-diabetes-prediction-app-using-flask-ml-and-heroku-2de07cbd902d) [## 使用 Flask、ML 和 Heroku 构建和部署糖尿病预测应用程序
-
-### 面向机器学习爱好者的端到端项目部署👍
-
-towardsdatascience.com](/build-deploy-diabetes-prediction-app-using-flask-ml-and-heroku-2de07cbd902d) 
+<https://www.upgrad.com/blog/deploying-machine-learning-models-on-heroku/>    <https://devcenter.heroku.com/articles/python-gunicorn>  <https://stackabuse.com/deploying-a-flask-application-to-heroku/>  <https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/>  </build-deploy-diabetes-prediction-app-using-flask-ml-and-heroku-2de07cbd902d>  
 
 谢谢大家！！*

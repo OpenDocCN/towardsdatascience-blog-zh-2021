@@ -117,8 +117,4 @@ H 使用高基数的数据列会对模型的性能产生负面影响。这篇文
 
 ****作为一个认为树模型的力量是理所当然的人，深入研究树和数据基数之间的关系帮助我改进了建模方法。希望这篇文章也能以同样的方式帮助你。这里是所用代码的 [github 库](https://github.com/WeiHanLer/Tree-Cardinality-Article)。感谢阅读！****
 
-****[](https://github.com/WeiHanLer/Tree-Cardinality-Article) [## Wei hanler/树基数文章
-
-### 在 GitHub 上创建一个帐户，为 Wei hanler/Tree-Cardinality-Article 开发做贡献。
-
-github.com](https://github.com/WeiHanLer/Tree-Cardinality-Article)****
+****<https://github.com/WeiHanLer/Tree-Cardinality-Article> ****

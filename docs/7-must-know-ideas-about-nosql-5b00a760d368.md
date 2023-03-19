@@ -130,4 +130,4 @@ NoSQL 的意思是“不仅仅是 SQL”，它不仅仅代表一个帮助组织�
 3.  丹·沙利文的《凡人的 NoSQL》
 4.  [Eric Redmond 和 Jim R. Wilson 在七周内创建的七个数据库](https://www.amazon.com.au/Seven-Databases-Weeks-Modern-Movement-ebook/dp/B07CYLX6FD)
 
-*原载于 2021 年 3 月 8 日 http://thedigitalskye.com*[](http://thedigitalskye.com/2021/03/09/7-must-know-ideas-about-nosql/)**。**
+*原载于 2021 年 3 月 8 日 http://thedigitalskye.com*<http://thedigitalskye.com/2021/03/09/7-must-know-ideas-about-nosql/>**。**

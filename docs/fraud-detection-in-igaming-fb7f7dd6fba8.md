@@ -88,11 +88,7 @@
 
 我们通过使用局部可解释的模型不可知解释(LIME) [7]来实现这个任务。我在另一篇文章中解释了石灰的工作原理。请随意查看。
 
-[](/understanding-lime-f94dab852617) [## 了解石灰
-
-### 深入探究当地的解释及其重要性
-
-towardsdatascience.com](/understanding-lime-f94dab852617) 
+</understanding-lime-f94dab852617>  
 
 使用 LIME，我们能够检索每个预测的前 3 个最有影响的特征。然后，我们处理这些数据，并向我们的分析师发出警报。下面我们展示了一个欺诈玩家的样本输出。
 
@@ -108,15 +104,7 @@ LIME 在欺诈玩家上提供的输出。来源:作者
 
 喜欢这篇文章吗？我们在发表的论文中对此进行了更详细的讨论。请查看《斯普林格自然计算机科学》。
 
-[](https://link.springer.com/article/10.1007/s42979-021-00623-7) [## 一个实时说明性的解决方案，用于在互联网行业中检测可解释的网络欺诈…
-
-### 本文提出了一个实时的完全自治的解决方案，可解释的网络欺诈检测在…
-
-link.springer.com](https://link.springer.com/article/10.1007/s42979-021-00623-7) [](https://david-farrugia.medium.com/membership) [## 加入我的介绍链接媒体-大卫法鲁吉亚
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/membership) 
+<https://link.springer.com/article/10.1007/s42979-021-00623-7>  <https://david-farrugia.medium.com/membership>  
 
 # 参考
 
@@ -136,11 +124,7 @@ david-farrugia.medium.com](https://david-farrugia.medium.com/membership)
 
 想给我买杯咖啡吗？
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) [## 使用贝宝支付大卫法鲁吉亚。我
-
-### 如果您接受 cookies，我们将使用它们来改善和定制您的体验，并使我们的合作伙伴能够向您展示…
-
-paypal.me](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) 
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

@@ -24,7 +24,7 @@
 
 动手是掌握编程的关键。我们建议您在完成教程的过程中继续实现这些代码。**样本数据**和**关联的木星笔记本**在[的文件夹**场景 _1 中**这个 GitHub 链接**的**](https://github.com/dalmiaujjwal/Data_Wrangling_Tips_Tricks)中。
 
-如果你是 GitHub 新手，从 [**这个教程**](/must-know-tools-for-data-scientists-114d0b52b0a9) 学习它的基础知识。此外，要在您的系统上设置 Python 环境并学习 Anaconda 发行版的基础知识，请参考本教程[](/getting-started-guide-anaconda-80a4d30d3486)**。**
+如果你是 GitHub 新手，从 [**这个教程**](/must-know-tools-for-data-scientists-114d0b52b0a9) 学习它的基础知识。此外，要在您的系统上设置 Python 环境并学习 Anaconda 发行版的基础知识，请参考本教程</getting-started-guide-anaconda-80a4d30d3486>**。**
 
 ****本教程假设**读者至少具备使用 Python 和相关包(如 Pandas 和 Numpy)的中级知识。以下是本教程中使用的 Python 概念和 pandas 函数/方法的列表:**
 

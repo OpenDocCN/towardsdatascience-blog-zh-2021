@@ -80,12 +80,4 @@
 
 感谢您的阅读！
 
-[](/how-much-time-can-you-save-with-active-learning-b4886f5da462) [## 主动学习能节省多少时间？
-
-### 在 NLP 数据集上的动手实验。
-
-towardsdatascience.com](/how-much-time-can-you-save-with-active-learning-b4886f5da462) [](/1-to-5-star-ratings-classification-or-regression-b0462708a4df) [## 1 到 5 星评级—分类还是回归？
-
-### 通过实验找出答案。
-
-towardsdatascience.com](/1-to-5-star-ratings-classification-or-regression-b0462708a4df)
+</how-much-time-can-you-save-with-active-learning-b4886f5da462>  </1-to-5-star-ratings-classification-or-regression-b0462708a4df> 

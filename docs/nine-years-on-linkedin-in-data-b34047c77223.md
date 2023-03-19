@@ -182,11 +182,7 @@ library(stringr)
 
 Gregor Scheithauer 是一名顾问、数据科学家和研究员。他专门研究流程挖掘、业务流程管理和分析。你可以在[**LinkedIn**](https://www.linkedin.com/in/gscheithauer/)[**Twitter**](https://twitter.com/gscheithauer)上和他连线，或者在 [**中**](https://gscheithauer.medium.com/) 上这里。谢谢大家！
 
-[](https://github.com/scheithauer/r-LinkedInConnections) [## scheit hauer/r-linked connections
-
-### 您将学习如何使用 R、ggplot2 和 dpylr 分析您的 LinkedIn 连接数据。2021 年 3 月 15 日标志着我的…
-
-github.com](https://github.com/scheithauer/r-LinkedInConnections) 
+<https://github.com/scheithauer/r-LinkedInConnections>  
 
 # 沿途的有用资源
 

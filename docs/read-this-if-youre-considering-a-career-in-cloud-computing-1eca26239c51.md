@@ -211,8 +211,4 @@ DevOps 工程师了解软件开发生命周期和用于开发 CI/ CD 管道的�
 
 *如果你看重这类文章，想支持我这个作家，可以考虑* [*报名成为中等会员*](https://arunnthevapalan.medium.com/membership) *。每月 5 美元，你可以无限制地阅读媒体上的故事。*
 
-[](https://arunnthevapalan.medium.com/membership) [## 通过我的推荐链接加入 Medium—Arunn the vapalan
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-arunnthevapalan.medium.com](https://arunnthevapalan.medium.com/membership)
+<https://arunnthevapalan.medium.com/membership> 

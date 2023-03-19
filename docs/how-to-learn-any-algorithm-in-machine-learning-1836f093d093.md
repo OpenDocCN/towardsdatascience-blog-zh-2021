@@ -38,16 +38,4 @@ Jorge Fernández Salas 在 [Unsplash](https://unsplash.com?utm_source=medium&utm
 
 ## 我的一些文章:
 
-[](/in-data-science-its-specialize-or-die-7ede67a58676) [## 在数据科学中，要么专门化，要么死亡
-
-### 数据科学通才是指在该领域了解不多的人。
-
-towardsdatascience.com](/in-data-science-its-specialize-or-die-7ede67a58676) [](https://medium.com/swlh/why-you-must-use-linux-dddf7cabb266) [## 为什么你必须使用 Linux
-
-### 为历史上最好的操作系统辩护。
-
-medium.com](https://medium.com/swlh/why-you-must-use-linux-dddf7cabb266) [](/analyzing-campaign-contributions-from-individual-citizens-8fae00b40f5b) [## 分析公民个人的竞选捐款
-
-### r 的一项研究。
-
-towardsdatascience.com](/analyzing-campaign-contributions-from-individual-citizens-8fae00b40f5b)
+</in-data-science-its-specialize-or-die-7ede67a58676>  <https://medium.com/swlh/why-you-must-use-linux-dddf7cabb266>  </analyzing-campaign-contributions-from-individual-citizens-8fae00b40f5b> 

@@ -153,8 +153,4 @@ df_results = (df_left.merge(df_right,
 *   [遗传算法——停止过度拟合交易策略](https://medium.com/towards-artificial-intelligence/genetic-algorithm-stop-overfitting-trading-strategies-5df671d5cde1)
 *   [人工神经网络选股推荐系统](https://pub.towardsai.net/ann-recommendation-system-for-stock-selection-c9751a3a0520)
 
-[](https://www.linkedin.com/in/louis-chan-b55b9287) [## Louis Chan—FTI Consulting | LinkedIn 数据科学总监
-
-### 雄心勃勃的，好奇的和有创造力的个人，对分支知识和知识之间的相互联系有强烈的信念
-
-www.linkedin.com](https://www.linkedin.com/in/louis-chan-b55b9287)
+<https://www.linkedin.com/in/louis-chan-b55b9287> 

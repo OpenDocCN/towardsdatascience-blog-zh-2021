@@ -49,7 +49,7 @@ DagsHub x 论文，带代码，图片由作者提供
 *   **哈斯旺斯·艾库拉**
 *   **阿尔琼·阿肖克**
 
-****在本文中，研究者在**[](https://research.aimultiple.com/few-shot-learning/)****【FSL】的背景下考察了** [**自监督学习**](https://en.wikipedia.org/wiki/Self-supervised_learning) **(SSL)的作用。**尽管最近的研究显示了 SSL 在大型无标签数据集上的优势，但它在小型数据集上的效用相对来说还未被探索。他们发现，SSL 将少数元学习者的相对错误率降低了 4%-27%，即使数据集很小，并且只利用数据集中的图像。****
+****在本文中，研究者在**<https://research.aimultiple.com/few-shot-learning/>****【FSL】的背景下考察了** [**自监督学习**](https://en.wikipedia.org/wiki/Self-supervised_learning) **(SSL)的作用。**尽管最近的研究显示了 SSL 在大型无标签数据集上的优势，但它在小型数据集上的效用相对来说还未被探索。他们发现，SSL 将少数元学习者的相对错误率降低了 4%-27%，即使数据集很小，并且只利用数据集中的图像。****
 
 ****![](img/5302ca756e766f0edc0ee5eb7e01571b.png)****
 

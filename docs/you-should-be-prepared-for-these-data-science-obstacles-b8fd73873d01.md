@@ -116,11 +116,7 @@
 
 > *下面是我写的一篇类似的文章，关于掌握 Python 作为数据科学的先决条件[6]:*
 
-*[](/you-should-master-python-first-before-becoming-a-data-scientist-8ac1b1b4e10f) [## 在成为数据科学家之前，你应该先掌握 Python
-
-### 以下是为什么…的 4 个原因
-
-towardsdatascience.com](/you-should-master-python-first-before-becoming-a-data-scientist-8ac1b1b4e10f) 
+*</you-should-master-python-first-before-becoming-a-data-scientist-8ac1b1b4e10f>  
 
 # 参考
 

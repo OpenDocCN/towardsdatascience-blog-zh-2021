@@ -53,20 +53,4 @@ ML 实践的 CI/CD(图片由作者提供)
 
 ## 参考
 
-[](/7-mlops-smells-that-tells-that-your-ml-process-stinks-2f389c3ebd11) [## 7 MLOps“气味”表明您的 ML 流程很臭
-
-### 机器学习过程中的不良实践和其他症状表明了更深层次的问题
-
-towardsdatascience.com](/7-mlops-smells-that-tells-that-your-ml-process-stinks-2f389c3ebd11) [](https://aws.amazon.com/solutions/implementations/aws-mlops-framework/) [## AWS MLOps 框架|实施| AWS 解决方案
-
-### 这个 AWS 解决方案实现有什么作用？AWS MLOps 框架解决方案可帮助您简化和实施…
-
-aws.amazon.com](https://aws.amazon.com/solutions/implementations/aws-mlops-framework/) [](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) [## MLOps:机器学习中的连续交付和自动化管道
-
-### 本文档讨论了实现和自动化持续集成(CI)，持续交付…
-
-cloud.google.com](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) [](https://azure.microsoft.com/en-ca/services/machine-learning/mlops/) [## 机器学习操作- MLOps |微软 Azure
-
-### “使用 Azure Machine Learning 中的 MLOps 功能，我们能够提高生产率并增强运营……
-
-azure.microsoft.com](https://azure.microsoft.com/en-ca/services/machine-learning/mlops/)
+</7-mlops-smells-that-tells-that-your-ml-process-stinks-2f389c3ebd11>  <https://aws.amazon.com/solutions/implementations/aws-mlops-framework/>  <https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning>  <https://azure.microsoft.com/en-ca/services/machine-learning/mlops/> 

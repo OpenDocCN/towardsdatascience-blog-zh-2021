@@ -141,20 +141,8 @@
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/semi-supervised-learning-how-to-assign-labels-with-label-propagation-algorithm-9f1683f4d0eb) [## 半监督学习——如何使用标签传播算法分配标签
-
-### 半监督机器学习是如何工作的，如何在 Python 中使用？
-
-towardsdatascience.com](/semi-supervised-learning-how-to-assign-labels-with-label-propagation-algorithm-9f1683f4d0eb) [](/how-to-benefit-from-the-semi-supervised-learning-with-label-spreading-algorithm-2f373ae5de96) [## 如何从标签扩散算法的半监督学习中获益
-
-### 标注扩散算法如何与 Python 示例一起工作的详细说明
-
-towardsdatascience.com](/how-to-benefit-from-the-semi-supervised-learning-with-label-spreading-algorithm-2f373ae5de96)
+</semi-supervised-learning-how-to-assign-labels-with-label-propagation-algorithm-9f1683f4d0eb>  </how-to-benefit-from-the-semi-supervised-learning-with-label-spreading-algorithm-2f373ae5de96> 

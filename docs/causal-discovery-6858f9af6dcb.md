@@ -4,7 +4,7 @@
 
 ## 使用 Python 从数据中学习因果关系
 
-这是关于因果关系的三篇系列文章的最后一篇。之前的帖子里介绍了[](/causality-an-introduction-f8a3f6ac4c4a)**因果关系的“新科学”【1】，讨论了 [**因果推断**](/causal-inference-962ae97cefda) 的话题。本文的重点是一个相关的想法，**因果发现**。我将从描述什么是因果发现开始，给出它如何工作的草图，并以一个使用 Python 的具体例子结束。**
+这是关于因果关系的三篇系列文章的最后一篇。之前的帖子里介绍了</causality-an-introduction-f8a3f6ac4c4a>**因果关系的“新科学”【1】，讨论了 [**因果推断**](/causal-inference-962ae97cefda) 的话题。本文的重点是一个相关的想法，**因果发现**。我将从描述什么是因果发现开始，给出它如何工作的草图，并以一个使用 Python 的具体例子结束。**
 
 **![](img/6f91ba7bed469bcda8b305f9e16658af.png)**
 
@@ -180,11 +180,7 @@ nx**.**draw_networkx(graph_lingam, font_size**=**18, font_color**=**'r')**
 
 **关于因果关系的三部分系列到此结束。在这篇文章中，我试图从因果发现中勾勒出大的想法，同时仍然为实际应用提供足够的细节。尽管我无法在一篇简短的博客文章中对因果发现进行全面的回顾，但我已经尝试在下面的**资源**部分整理了一份好的参考资料列表。尽管还很年轻，但因果发现是一个充满希望的领域，可能有助于弥合机器和人类知识之间的差距。**
 
-**[](/causal-inference-962ae97cefda) [## 因果推理
-
-### 用 Python 回答因果问题
-
-towardsdatascience.com](/causal-inference-962ae97cefda)** 
+**</causal-inference-962ae97cefda> ** 
 
 # **资源**
 
@@ -196,11 +192,7 @@ towardsdatascience.com](/causal-inference-962ae97cefda)**
 
 ****支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️**
 
-**[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership)** 
+**<https://shawhin.medium.com/membership> ** 
 
 **《为什么之书:因果的新科学》朱迪亚·珀尔著**
 

@@ -58,4 +58,4 @@
 
 如果你对性能指标感兴趣，加入我的[在线课程](https://yourdatateacher.teachable.com/p/supervised-machine-learning-with-python)关于 Python 中的监督机器学习。
 
-*原载于 2021 年 6 月 7 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/06/07/precision-recall-accuracy-how-to-choose/)**。**
+*原载于 2021 年 6 月 7 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/06/07/precision-recall-accuracy-how-to-choose/>**。**

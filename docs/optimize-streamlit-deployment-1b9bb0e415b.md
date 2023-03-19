@@ -18,11 +18,7 @@
 
 我一直承认编写优化代码的重要性，但直到部署一个 Web 应用程序，我才完全意识到这意味着什么。在我的笔记本电脑上，即使是写得最差的代码也可能运行，尽管速度很慢。然而，网络上的后果要严重得多——内存泄漏和低效的代码会削弱体验。如果你不喜欢等待应用程序加载，用户也不会喜欢。
 
-[](/deploy-code-with-streamlit-90090b611f3c) [## 使用 Streamlit 部署代码
-
-### 为什么要简化 it 以及关于从 Python 部署数据仪表板应用程序的一些提示。
-
-towardsdatascience.com](/deploy-code-with-streamlit-90090b611f3c) 
+</deploy-code-with-streamlit-90090b611f3c>  
 
 在之前的一篇文章中(链接在上方的*，我分享了我在部署我的应用时遇到的一些问题。虽然我成功地启动并运行了应用程序，但在添加了更大的数据集后，它开始崩溃。因此，在本文中，我分享一些部署后的问题和解决方案。*
 
@@ -41,11 +37,7 @@ towardsdatascience.com](/deploy-code-with-streamlit-90090b611f3c)
 
 > ***第一课:用尽所有可能的选项来减小数据帧的大小。***
 
-[](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) [## 使处理大型数据帧变得更容易，至少对您的内存来说是这样
-
-### 将数据帧的大小减少多达 90%！
-
-towardsdatascience.com](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) 
+</make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4>  
 
 *   **应用程序将数据帧保存在内存中。**这里有一个折衷——将数据保存在内存中以实现快速访问，但保存太多，一切都会崩溃。想都没想，就把应用程序编码成在内存中保存整个数据帧(一开始就太大了)——这被证明是一场灾难。
 
@@ -55,21 +47,13 @@ towardsdatascience.com](/make-working-with-large-dataframes-easier-at-least-for-
 
 > 第三课:用@st.cache 缓存函数，不要忘记 TTL 参数。
 
-[](https://discuss.streamlit.io/t/this-app-has-gone-over-its-resource-limits/7334) [## 此应用已超出其资源限制
-
-### 几天前，我在 streamlit share 上托管了我的第一个应用程序，今天当我打开它时，我发现了这个错误。啊。此应用程序具有…
-
-discuse . streamlit . io](https://discuss.streamlit.io/t/this-app-has-gone-over-its-resource-limits/7334) 
+<https://discuss.streamlit.io/t/this-app-has-gone-over-its-resource-limits/7334>  
 
 *   **DataFrame 数据猪。**在熊猫数据帧中，当从 ***对象数据类型*** 转换为 ***分类数据类型*** 或 ***整数数据类型*** 时，每列的大小可以减少一半或更多。早期，我转换了大部分内容，但错过了一些专栏——这个疏忽最终吃掉了我的午餐。
 
 > 第 4 课:在数据帧中应用必要的最小精度；避免像瘟疫一样的“对象”类型。
 
-[](/pandas-save-memory-with-these-simple-tricks-943841f8c32) [## 熊猫——用这些简单的技巧节省记忆
-
-### 如何在内存使用方面更高效地使用熊猫
-
-towardsdatascience.com](/pandas-save-memory-with-these-simple-tricks-943841f8c32) 
+</pandas-save-memory-with-these-simple-tricks-943841f8c32>  
 
 *   **垃圾进口。这是程序设计的一个总括性问题。举个例子，在每个 Python 文件的顶部，我有用于数据清理的库和包的必要的 import 语句，但是 Web 应用程序不需要。虽然这些垃圾进口没有占用大量的内存，但它们仍然消耗了我无法给予的时间和内存。**
 
@@ -177,11 +161,7 @@ df['flag_col'] = df['flag_col'].astype('boolean')print(df['flag_col'].memory_usa
 *   对于 Streamlit 中的 Plotly 图表，创建较小的未压缩 pickle 文件片段，而不是从较大的压缩文件中读取。**每个文件应该只包含图表所需的列和数据**。在撰写本文时，尽管进行了优化和压缩，我发现如果从单个大型表中读取数据，显示图表的速度仍然太慢。
 *   **将布尔转换的示例从“布尔”更改为“布尔”——这是一个主要问题！更多信息，请点击这里阅读:**
 
-[](/when-to-use-the-nullable-nan-10c073b0261e) [## 何时使用可空的 NaN
-
-### 当 NA 不为 False、False 为 False 且 NA 不为 Null 时的布尔值。
-
-towardsdatascience.com](/when-to-use-the-nullable-nan-10c073b0261e) 
+</when-to-use-the-nullable-nan-10c073b0261e>  
 
 # 资源
 
@@ -189,35 +169,15 @@ towardsdatascience.com](/when-to-use-the-nullable-nan-10c073b0261e)
 
 ## 持久化熊猫数据帧的数据文件管理
 
-[](/stop-persisting-pandas-data-frames-in-csvs-f369a6440af5) [## 停止在 CSV 中保存 pandas 数据帧
-
-### pickle、parquet 和其他产品的优势——更快、更可靠、更高效
-
-towardsdatascience.com](/stop-persisting-pandas-data-frames-in-csvs-f369a6440af5) 
+</stop-persisting-pandas-data-frames-in-csvs-f369a6440af5>  
 
 ## 熊猫数据帧执行中的内存管理
 
-[](/pandas-save-memory-with-these-simple-tricks-943841f8c32) [## 熊猫——用这些简单的技巧节省记忆
-
-### 如何在内存使用方面更高效地使用熊猫
-
-towardsdatascience.com](/pandas-save-memory-with-these-simple-tricks-943841f8c32) [](/how-to-avoid-a-pandas-pandemonium-part-ii-3426f53d7fba) [## 如何避免熊猫大混乱，第二部分
-
-### 深入探究熊猫的常见错误。第二部分:加速和内存优化
-
-towardsdatascience.com](/how-to-avoid-a-pandas-pandemonium-part-ii-3426f53d7fba) 
+</pandas-save-memory-with-these-simple-tricks-943841f8c32>  </how-to-avoid-a-pandas-pandemonium-part-ii-3426f53d7fba>  
 
 ## 诊断和修复 Pandas 数据帧内存
 
-[](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) [## 使处理大型数据帧变得更容易，至少对您的内存来说是这样
-
-### 将数据帧的大小减少多达 90%！
-
-towardsdatascience.com](/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4) [](/python-garbage-collection-article-4a530b0992e3) [## 使用 Python 的垃圾收集器和 Pandas DataFrame 来提高效率和性能
-
-### 快 2021 年了。内存很便宜，很容易访问像亚马逊网络服务(AWS)或…
-
-towardsdatascience.com](/python-garbage-collection-article-4a530b0992e3) 
+</make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4>  </python-garbage-collection-article-4a530b0992e3>  
 
 # 结论
 

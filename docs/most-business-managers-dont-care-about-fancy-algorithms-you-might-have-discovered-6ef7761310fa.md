@@ -64,11 +64,7 @@ Lilian 谈到了我认为当今数据科学中最被误解的部分:它的实际
 
 例如，我们的 ML 技术主管 Amit 指出了一个在模型生产后可能出错的主要问题。他说，“现场数据可能与训练/测试数据有不同的分布”，这是一种你训练模型的数据和你在现实生活中收到的数据完全不同的情况，不管出于什么原因。有人称之为*特性漂移，*这是生产级数据科学家必须经常面对的一个常见问题。
 
-[](/3-strategies-to-successfully-switch-to-a-thriving-data-science-career-5cf0cbe1f010) [## 成功转入繁荣的数据科学职业的 3 个策略
-
-### 有抱负的数据科学家的 2 个常见陷阱，以及如何通过这些简单的方法避免它们。
-
-towardsdatascience.com](/3-strategies-to-successfully-switch-to-a-thriving-data-science-career-5cf0cbe1f010) 
+</3-strategies-to-successfully-switch-to-a-thriving-data-science-career-5cf0cbe1f010>  
 
 另一个在模型生产中经常出现的问题是“模型错误，你的预测是错误的。”一般来说，随着技术解决方案变得越来越复杂和具有挑战性，更多的 bug 自然会堆积起来。
 

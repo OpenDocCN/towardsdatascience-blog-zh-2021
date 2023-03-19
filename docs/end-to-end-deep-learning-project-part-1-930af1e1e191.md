@@ -27,11 +27,7 @@
 
 *提醒:这篇文章(以及后续文章)中的一些内容将会被详细讨论，因为它的目的是让人们(尤其是早期研究人员)理解一些设计决策背后的原因/利弊，并在面试中完美地回答这些问题。*
 
-[](https://github.com/V-Sher/house-interior-prediction) [## GitHub-V-Sher/房屋内部预测
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/V-Sher/house-interior-prediction) 
+<https://github.com/V-Sher/house-interior-prediction>  
 
 # 第 1 部分:设置
 
@@ -549,7 +545,7 @@ testGen.reset()****
 
 ****想到的另一种可能的解释是，网络已经达到了其关于给定数据集的容量，即，它不能再从中学习更多。这是可能的，因为我们正在尝试训练一个相对较大的网络(记住，我们已经解冻了一些额外的层，这意味着存在更多的可训练参数)，仅使用 344 个样本，这些样本无法提供足够的信息来学习问题(进一步)。****
 
-*****注意:在将更多图像推进训练过程以希望改进模型之前，可能值得对模型超参数、train:val 分割、预训练权重的选择(来自* [*嘈杂学生*](https://github.com/google-research/noisystudent) *训练的权重已知比来自 ImageNet 训练的权重更好*[](https://arxiv.org/pdf/1911.04252.pdf)**)以及网络架构本身进行修改。******
+*****注意:在将更多图像推进训练过程以希望改进模型之前，可能值得对模型超参数、train:val 分割、预训练权重的选择(来自* [*嘈杂学生*](https://github.com/google-research/noisystudent) *训练的权重已知比来自 ImageNet 训练的权重更好*<https://arxiv.org/pdf/1911.04252.pdf>**)以及网络架构本身进行修改。******
 
 # ****未来的工作****
 
@@ -563,20 +559,4 @@ testGen.reset()****
 
 ****我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***注册。********
 
-****[](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16) [## 通过几次点击部署端到端深度学习项目:第 2 部分
-
-### 从 Jupyter 笔记本到 Flask 应用程序采用模型，使用 Postman 和 Heroku 部署测试 API 端点
-
-towardsdatascience.com](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16) [](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [## 检测语音数据中的情感:使用 Huggingface 微调 HuBERT
-
-### 构建自定义数据加载器、实验日志、改进指标的技巧和 GitHub repo，如果您想了解…
-
-towardsdatascience.com](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [](https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b) [## 今天切换到这个播客应用程序的六个理由！
-
-### 带上你的朋友。
-
-varshitasher.medium.com](https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b) [](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) [## 了解 Python 导入，__init__。py 和 pythonpath —一劳永逸
-
-### 了解如何导入包和模块(以及两者之间的区别)
-
-towardsdatascience.com](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355)****
+****</deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16>  </fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8>  <https://varshitasher.medium.com/six-reasons-to-switch-to-this-podcast-app-today-3a396ada0a2b>  </understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355> ****

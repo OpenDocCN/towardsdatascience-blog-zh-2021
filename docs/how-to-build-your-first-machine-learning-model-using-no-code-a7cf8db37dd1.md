@@ -32,11 +32,7 @@ HCVpred 研究的概念框架。由作者绘制。
 
 以下链接提供了描述该研究全部细节的研究文章:
 
-[](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26223) [## 预测丙型肝炎病毒 NS5B 抑制剂生物活性的网络服务器
-
-### 医学系数据挖掘和生物医学信息学通讯作者中心
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26223) 
+<https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26223>  
 
 ## 1.2.模型建立过程
 
@@ -70,11 +66,7 @@ HCVpred 数据集由总共 578 个分子组成，已经通过实验测试了这�
 
 数据集托管在以下 GitHub 存储库( [**下载 HCV_NS5B_Curated.csv**](https://raw.githubusercontent.com/chaninlab/hcvpred/master/HCV_NS5B_Curated.csv) 文件):
 
-[](https://github.com/chaninlab/hcvpred/) [## chaninlab/hcvpred
-
-### HCVpred。在 GitHub 上创建一个帐户，为 chaninlab/hcvpred 开发做出贡献。
-
-github.com](https://github.com/chaninlab/hcvpred/) 
+<https://github.com/chaninlab/hcvpred/>  
 
 数据集的摘录如下所示:
 
@@ -316,11 +308,7 @@ Total Number of Instances              578
 
 如果您准备好了，可以在下面的文章中探索如何将 Python 用于数据科学:
 
-[](/how-to-master-python-for-data-science-1fb8353718bf) [## 数据科学如何掌握 Python
-
-### 这是数据科学所需的基本 Python
-
-towardsdatascience.com](/how-to-master-python-for-data-science-1fb8353718bf) 
+</how-to-master-python-for-data-science-1fb8353718bf>  
 
 # 补充视频
 
@@ -349,11 +337,7 @@ towardsdatascience.com](/how-to-master-python-for-data-science-1fb8353718bf)
 
 我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub 页面](https://github.com/dataprofessor/))。
 
-[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

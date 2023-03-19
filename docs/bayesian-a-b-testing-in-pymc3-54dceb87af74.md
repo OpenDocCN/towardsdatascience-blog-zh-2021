@@ -24,15 +24,7 @@
 
 > 如果您不完全确定什么是贝叶斯统计，或者您以前从未使用过 PyMC3，请查看我关于这个主题的入门级文章:
 
-[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [## 贝叶斯推理的简明介绍
-
-### 了解频率主义者和贝叶斯推理方法之间的区别
-
-towardsdatascience.com](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) [## 使用 PyMC3 在 Python 中进行贝叶斯推理
-
-### 重温硬币的例子，并使用 PyMC3 计算解决它。
-
-towardsdatascience.com](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) 
+</a-gentle-introduction-to-bayesian-inference-6a7552e313cb>  </conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5>  
 
 # A/B 测试动机
 
@@ -236,7 +228,7 @@ Uaaa，uaaa，uaaa。图片由作者提供。
 1.  **想支持我多写点机器学习和**
 2.  **无论如何都要计划获得中等订阅量，**
 
-**为什么不通过此链接**[](https://dr-robert-kuebler.medium.com/membership)****？这将对我帮助很大！😊****
+**为什么不通过此链接**<https://dr-robert-kuebler.medium.com/membership>****？这将对我帮助很大！😊****
 
 ***说白了，给你的价格不变，但大约一半的订阅费直接归我。***
 

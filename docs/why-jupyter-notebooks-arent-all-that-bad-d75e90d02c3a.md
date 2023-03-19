@@ -71,7 +71,7 @@ Jupyter 实验室示例。图片由作者提供。
 
 **例如，每当我创建一个包时，我都会确保包含一套 Jupyter 笔记本，其中包含几个关于如何使用该包的教程。这使得同事之间共享笔记本变得容易，特别是如果你已经花时间使它成为一个很好理解的文档。**
 
-**您可以使用诸如[](https://github.com/bqplot/bqplot)****和 [**ipyleaflet**](https://github.com/jupyter-widgets/ipyleaflet) 等扩展来提高 Jupyter 笔记本的可视化能力。这些工具在扩展绘图功能方面非常出色。******
+**您可以使用诸如<https://github.com/bqplot/bqplot>****和 [**ipyleaflet**](https://github.com/jupyter-widgets/ipyleaflet) 等扩展来提高 Jupyter 笔记本的可视化能力。这些工具在扩展绘图功能方面非常出色。******
 
 ****我个人是[**Voila**](https://github.com/voila-dashboards/voila)**和 [**Fastpages**](https://github.com/fastai/fastpages) 的忠实粉丝。瞧，你可以用交互式小工具渲染 Jupyter 笔记本的实时版本。Fastpages 是一个支持 Jupyter Notebook 的博客平台，可以用作文档。******
 
@@ -103,7 +103,7 @@ Jupyter 实验室示例。图片由作者提供。
 
 ****可能的 Jupyter 内核。图片由作者提供。****
 
-****还可以使用[](https://github.com/nteract/hydrogen)****和[**Vscode-jupyter**](https://github.com/microsoft/vscode-jupyter)**分别在 Atom 和 vs code 中运行 Jupyter 笔记本。**********
+****还可以使用<https://github.com/nteract/hydrogen>****和[**Vscode-jupyter**](https://github.com/microsoft/vscode-jupyter)**分别在 Atom 和 vs code 中运行 Jupyter 笔记本。**********
 
 ## ******小部件和可视化******
 

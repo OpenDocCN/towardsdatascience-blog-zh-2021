@@ -161,19 +161,7 @@ conda install -c conda-forge "datapane>=0.11.0"*
 
 *****我还挑了一篇有趣的文章供你进一步阅读……*****
 
-**[](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [## 通过交互式数据可视化传播新冠肺炎
-
-### 一个完整的指南条形图比赛和互动 Choropleth 地图新冠肺炎疫情与 Python。
-
-towardsdatascience.com](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) [## 操作 PDF 文件，用 PyPDF2 和正则表达式提取信息
-
-### 使用 PyPDF2 和正则表达式简化 PDF 操作任务
-
-towardsdatascience.com](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) [](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [## 使用 Python 处理文本文件的技巧和诀窍
-
-### 使用文本文件并熟悉 Python 中令人惊叹的技术
-
-towardsdatascience.com](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) 
+**</spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  </manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca>  </tips-and-tricks-to-work-with-text-files-in-python-89f14a755315>  
 
 # 祖贝尔·侯赛因
 

@@ -221,11 +221,7 @@
 
 *它仍然是一个作业(不是像我们上面做的那样***big query streaming***insert ),但是在架构方面它是非常高效的内存，并且 ***是空闲的*** 。您只需要不超过每天每个表的批处理作业配额。我之前在这里写过如何在 BigQuery 中监控**批量加载作业操作:***
 
-*[](/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa) [## 使用 Data Studio 监控您的 BigQuery 成本并报告使用情况
-
-### 简单有效的仪表板。具有实际的报告名称、用户和标签。包括方便的模板。
-
-towardsdatascience.com](/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa) 
+*</monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa>  
 
 > 很好，但可能会产生更高的费用。
 
@@ -473,4 +469,4 @@ towardsdatascience.com](/monitoring-your-bigquery-costs-and-reports-usage-with-d
 
 [15]:[https://towardsdatascience . com/extract-data-from-paypal-API-c25c 76748746？gi=e76b91a696e](/extract-data-from-paypal-api-c25c76748746?gi=e76b91a696e)* 
 
-**原载于 https://mydataschool.com*[](https://mydataschool.com/blog/how-to-load-data-into-bigquery-with-serverless-node-js/)**。***
+**原载于 https://mydataschool.com*<https://mydataschool.com/blog/how-to-load-data-into-bigquery-with-serverless-node-js/>**。***

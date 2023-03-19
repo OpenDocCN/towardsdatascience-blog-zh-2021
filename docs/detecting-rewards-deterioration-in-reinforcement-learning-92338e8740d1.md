@@ -38,12 +38,4 @@
 
 这项工作发表在 NeurIPS 2020 年 RWRL 研讨会上。
 
- [## 事件数据中的漂移检测:检测您的代理何时开始动摇
-
-### 在动态环境中检测代理性能的退化是具有挑战性的，因为…
-
-arxiv.org](https://arxiv.org/abs/2010.11660) [](https://github.com/ido90/DriftDetectionInEpisodicData) [## ido 90/drift detectioninepidicdata
-
-### 这份报告包含的代码文件漂移检测中的插曲数据:检测当您的代理开始动摇…
-
-github.com](https://github.com/ido90/DriftDetectionInEpisodicData)
+  <https://github.com/ido90/DriftDetectionInEpisodicData> 

@@ -21,19 +21,11 @@
 
 **对于*k*-折叠交叉验证:**
 
-[](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0) [## 用简单的英语解释 k 倍交叉验证
-
-### 用于评估模型的性能和超参数调整
-
-towardsdatascience.com](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0) 
+</k-fold-cross-validation-explained-in-plain-english-659e33c0bc0>  
 
 **对于决策树:**
 
-[](/train-a-regression-model-using-a-decision-tree-70012c22bcc1) [## 使用决策树训练回归模型
-
-### 对于复杂的非线性数据
-
-towardsdatascience.com](/train-a-regression-model-using-a-decision-tree-70012c22bcc1) 
+</train-a-regression-model-using-a-decision-tree-70012c22bcc1>  
 
 首先，我们将区分模型 ***参数*** 和 ***超参数*** 。
 
@@ -177,11 +169,7 @@ gs.best_estimator_
 
 此外，请注意，网格搜索和随机搜索一次考虑所有超参数，而不是一个接一个。这就是为什么网格搜索和随机搜索得到的不同超参数值给出了相同的准确率分数。如果您想查看单个超参数的影响，我建议您使用**验证曲线** —一种图形技术。我写的下面这篇文章解释了我们如何使用它。
 
-[](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8) [## 解释验证曲线—绘制单个超参数的影响
-
-### 少代码出图！省点时间解读吧！
-
-towardsdatascience.com](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8) 
+</validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8>  
 
 我的读者可以通过下面的链接注册成为会员，以获得我写的每个故事的全部信息，我将收到你的一部分会员费。
 

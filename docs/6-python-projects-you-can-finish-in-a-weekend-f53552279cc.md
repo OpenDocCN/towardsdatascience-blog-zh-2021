@@ -52,11 +52,7 @@
 
 您可以在下面的指南中了解如何完成这项任务和其他任务。
 
-[](/7-common-file-system-operations-you-can-do-with-python-e4670c0d92f2) [## 使用 Python 可以完成的 7 种常见文件系统操作
-
-### 使用 OS 和 Pathlib 模块来自动化 Python 的任务。
-
-towardsdatascience.com](/7-common-file-system-operations-you-can-do-with-python-e4670c0d92f2) 
+</7-common-file-system-operations-you-can-do-with-python-e4670c0d92f2>  
 
 # 电子表格自动化
 
@@ -72,19 +68,11 @@ towardsdatascience.com](/7-common-file-system-operations-you-can-do-with-python-
 
 关于如何自动化您的 Excel 报告的指南可以在下面的链接中找到。
 
-[](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) [## 使用 Python 自动生成 Excel 报表的简单指南
-
-### 使用 openpyxl 通过 Python 自动生成 Excel 报表。
-
-towardsdatascience.com](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) 
+</a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7>  
 
 Python 可以帮助你自动化更多的任务！如果您想了解更多关于自动化的项目想法，请查看下面的文章。
 
-[](https://medium.com/geekculture/4-web-scraping-projects-that-will-help-automate-your-life-6c6d43aefeb5) [## 4 个网页抓取项目将帮助你的生活自动化
-
-### 初级和高级项目，从头开始学习 Python 中的 web 抓取。
-
-medium.com](https://medium.com/geekculture/4-web-scraping-projects-that-will-help-automate-your-life-6c6d43aefeb5) 
+<https://medium.com/geekculture/4-web-scraping-projects-that-will-help-automate-your-life-6c6d43aefeb5>  
 
 # 创建图形用户界面(GUI)
 
@@ -130,18 +118,6 @@ Django 为初学者设计的一个很酷的项目是建立一个基本的作品�
 
 *就是这样！你可以在下面的链接中找到我完成的其他 Python 项目的完整代码。*
 
-[](https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848) [## 网络抓取基础——10 分钟内抓取一个赌博网站
+<https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848>  </a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a>  <https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384>  
 
-### 在这 10 分钟的教程中，我将向你展示如何用 Python 刮网站，即使你根本不编码！
-
-medium.com](https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848) [](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [## Scikit-Learn 简单指南—用 Python 构建机器学习模型
-
-### Python 中的第一个 ML 模型。
-
-towardsdatascience.com](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [](https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384) [## 我们能打败庄家吗？用简单模型预测足球比赛
-
-### 预测英超、西甲、意甲和德甲的足球比赛结果。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384) 
-
-[](https://frankandrade.ck.page/bd063ff2d3)
+<https://frankandrade.ck.page/bd063ff2d3>

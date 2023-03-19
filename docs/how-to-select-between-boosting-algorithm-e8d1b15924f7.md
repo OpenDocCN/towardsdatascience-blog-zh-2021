@@ -158,11 +158,7 @@ print(np.mean(predicted==Y_test))#Accuracy: 0.8731702323676938
 
 另外，boosting 只是集成学习算法中的一种。如果你有兴趣了解更多关于 ensembled learning 的内容，可以参考我下面的文章:
 
-[](/overview-of-ensemble-learning-c216a9f6c04) [## 什么是集成学习
-
-### 简单的集合方法，装袋，引导，助推
-
-towardsdatascience.com](/overview-of-ensemble-learning-c216a9f6c04) 
+</overview-of-ensemble-learning-c216a9f6c04>  
 
 感谢阅读！希望这篇文章能帮到你。
 

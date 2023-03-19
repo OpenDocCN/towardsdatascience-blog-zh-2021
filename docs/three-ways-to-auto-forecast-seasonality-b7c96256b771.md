@@ -14,11 +14,7 @@
 
 作为参考，我开发的模块将被称为预测模块。您可以在这里找到它:
 
-[](https://github.com/mikekeith52/AllStatesForecast) [## mikekeith52/AllStatesForecast
-
-### 构建预测对象，为我们公司想要扩展的许多时间序列创建易于访问的预测…
-
-github.com](https://github.com/mikekeith52/AllStatesForecast) 
+<https://github.com/mikekeith52/AllStatesForecast>  
 
 # 住房开工
 

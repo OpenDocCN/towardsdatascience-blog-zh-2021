@@ -18,15 +18,7 @@
 
 另外，如果你还没有看过我写的关于微软 Excel 的文章，请随意查看下面的链接。
 
-[](/use-python-to-stylize-the-excel-formatting-916e00e33302) [## 使用 Python 来格式化 Excel
-
-### 使用 Python 格式化 Excel 电子表格的分步教程
-
-towardsdatascience.com](/use-python-to-stylize-the-excel-formatting-916e00e33302) [](https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d) [## 使用 Excel 抓取数据(不需要代码)
-
-### 用 Excel 内置函数抓取数据的三个简单步骤
-
-medium.com](https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d) 
+</use-python-to-stylize-the-excel-formatting-916e00e33302>  <https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d>  
 
 # 背景
 
@@ -490,12 +482,4 @@ os.system('taskkill /F /IM POWERPNT.EXE')
 
 如果你觉得我的文章有用，请在[我的 LinkedIn 页面](https://www.linkedin.com/in/yeungwong/)上为我的技能背书，鼓励我写更多的文章。
 
-[](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4) [## 使用 Python 发送 Outlook 电子邮件
-
-### 使用 Python 发送通知电子邮件的分步教程
-
-medium.com](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4) [](https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4) [## 使用 Python 处理 PDF 作品
-
-### 没有 Adobe PDF 软件，您也可以编辑 PDF，例如添加文本、拆分页面和提取信息。
-
-medium.com](https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4)
+<https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4>  <https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4> 

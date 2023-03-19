@@ -28,11 +28,7 @@
 
 # **1.因果影响(谷歌)**
 
- **[## 因果影响
-
-### 这个包是做什么的？这个 R 包实现了一种方法来估计因果效应的设计…
-
-google.github.io](https://google.github.io/CausalImpact/CausalImpact.html)** 
+ **** 
 
 **假设你的公司为超级碗推出了一个新的电视广告，他们想看看它如何影响转化率。因果影响分析试图预测如果活动从未发生会发生什么——这被称为反事实。**
 
@@ -46,11 +42,7 @@ google.github.io](https://google.github.io/CausalImpact/CausalImpact.html)**
 
 # **2.罗宾(脸书)**
 
-**[](https://facebookexperimental.github.io/Robyn/) [## 萝苹
-
-### Robyn 是一个自动营销组合建模(MMM)代码。其目的是通过岭回归和聚类分析减少人为偏差
-
-Facebook experiment . github . io](https://facebookexperimental.github.io/Robyn/) 
+**<https://facebookexperimental.github.io/Robyn/>  
 
 营销组合建模是一种现代技术，用于估计几个营销渠道或活动对目标变量(如转换或销售)的影响。
 
@@ -68,11 +60,7 @@ Facebook experiment . github . io](https://facebookexperimental.github.io/Robyn/
 
 # **3.异常检测(Twitter)**
 
-**[](https://github.com/twitter/AnomalyDetection) [## GitHub-Twitter/Anomaly Detection:用 R 进行异常检测
-
-### AnomalyDetection 是一个用于检测异常的开源 R 包，从统计的角度来看，它在
-
-github.com](https://github.com/twitter/AnomalyDetection) 
+**<https://github.com/twitter/AnomalyDetection>  
 
 异常检测，也称为异常值分析，是一种识别与其余数据显著不同的数据点的方法。
 
@@ -90,19 +78,11 @@ Twitter 通过创建一个异常检测包为您解决了这个问题。这是一
 
 **不确定接下来要读什么？我为你挑选了另一篇文章:**
 
-**[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+**</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 **还有一个:**
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) [## 2022 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) 
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 # 特伦斯·申
 

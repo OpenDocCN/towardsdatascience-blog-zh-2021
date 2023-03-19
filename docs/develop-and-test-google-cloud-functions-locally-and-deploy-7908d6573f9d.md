@@ -35,11 +35,7 @@
 
 ## 使用我们的回购作为模板
 
-[](https://github.com/raki2305/gcp_cloudfunction_dev) [## gcp _ 云函数 _ 开发
-
-### 这个资源库展示了如何在本地自动开发谷歌云平台(GCP)的云功能…
-
-github.com](https://github.com/raki2305/gcp_cloudfunction_dev) 
+<https://github.com/raki2305/gcp_cloudfunction_dev>  
 
 1.  克隆我们的[库](https://github.com/raki2305/gcp_cloudfunction_dev)并在 [Google 云资源库](https://source.cloud.google.com/)上设置它
 2.  克隆您刚刚创建的*云存储库*。

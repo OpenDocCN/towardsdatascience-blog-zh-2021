@@ -12,11 +12,7 @@
 
 而且， [JupyterLab](https://jupyter.org/) 正在走向成为一个成熟的 IDE 只是不是你习惯的 IDE。凭借其出色的扩展和库，如 [kale](https://github.com/kubeflow-kale/kale) 和 [nbdev](https://github.com/fastai/nbdev) ，它当然能够做的不仅仅是起草一个想法。查看下面的故事，了解更多信息。
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+</jupyter-is-now-a-full-fledged-ide-c99218d33095>  
 
 但是，每隔一个月，我们可能要编辑一个`.py`文件。这个文件可能包含我们在笔记本中导入的一些实用函数，或者定义我们模型的类。这样工作是一个很好的实践，所以我们不会用许多定义污染笔记本。但是与 JupyterLab 捆绑在一起的文本编辑器仅仅是:一个简单的、没有特色的文本编辑器。
 

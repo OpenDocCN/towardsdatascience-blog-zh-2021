@@ -162,16 +162,4 @@ git 日志(作者截图)
 
 如果你觉得这很有帮助，请关注我，看看我的其他博客。敬请关注更多内容！❤
 
-[](/how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f) [## 作为数据科学家，如何更有效地沟通
-
-### 我从有效培训解决方案(ETS)培训中学到了什么
-
-towardsdatascience.com](/how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f) [](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [## 作为新毕业生获得第一份数据科学工作的 10 个技巧
-
-### 从我的求职之旅中学到的经验
-
-towardsdatascience.com](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [## 作为分析师如何准备商业案例面试？
-
-### 作为数据分析师或数据科学家，我们不仅需要知道概率和统计，机器学习算法…
-
-towardsdatascience.com](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8)
+</how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f>  </10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7>  </how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8> 

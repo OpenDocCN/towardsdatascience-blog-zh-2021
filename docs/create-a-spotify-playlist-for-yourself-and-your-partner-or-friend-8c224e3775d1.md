@@ -107,8 +107,4 @@ Spotify 提供阿朵订阅，附带一个名为 Duo Mix 的独特播放列表。
 
 -梅林
 
-[](https://ms101196.medium.com/membership) [## 通过我的推荐链接加入 Medium-Merlin sch fer
-
-### 阅读梅林·谢弗(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-ms101196.medium.com](https://ms101196.medium.com/membership)
+<https://ms101196.medium.com/membership> 

@@ -14,7 +14,7 @@
 
 当然，为了测量模型的准确性，可以使用几种不同的度量标准。这些指标也可能取决于您试图解决的问题的类型。例如，具有连续目标的回归模型很可能会使用 r 度量，而不是标准的分类准确性。幸运的是，我最近写了一篇文章，通过一些流行的标准来验证机器学习模块，甚至深入到它们背后的数学。如果你对那篇文章感兴趣，你可以在这里阅读:
 
-[](/writing-validation-metrics-from-scratch-e7d10af59f98) [## 从头开始编写验证指标
+</writing-validation-metrics-from-scratch-e7d10af59f98> [## 从头开始编写验证指标
 
 towardsdatascience.com](/writing-validation-metrics-from-scratch-e7d10af59f98) 
 

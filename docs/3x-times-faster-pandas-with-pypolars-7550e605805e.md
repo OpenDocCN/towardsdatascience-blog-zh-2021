@@ -64,11 +64,7 @@ PyPolars 可以使用以下命令从 PyPl 安装:
 
 人们可以通过浏览文档来详细了解这个库。有各种各样的其他开源库可以并行处理 Pandas 操作并加速这个过程。阅读下面提到的[文章](/4-libraries-that-can-parallelize-the-existing-pandas-ecosystem-f46e5a257809)了解 4 个这样的图书馆:
 
-[](/4-libraries-that-can-parallelize-the-existing-pandas-ecosystem-f46e5a257809) [## 4 个库可以并行处理现有的 Pandas 生态系统
-
-### 使用这些框架通过并行处理来分配 Python 工作负载
-
-towardsdatascience.com](/4-libraries-that-can-parallelize-the-existing-pandas-ecosystem-f46e5a257809) 
+</4-libraries-that-can-parallelize-the-existing-pandas-ecosystem-f46e5a257809>  
 
 # 参考资料:
 

@@ -76,11 +76,7 @@ set path=C:\Program Files\MySQL\MySQL Workbench 6.3 CEmysqldump -h <server> -u <
 
 如果您想了解更多关于 **mysqldump** 命令的信息，或者如果您正面临我所介绍的不同场景，请访问以下链接中的 MySQL 文档:
 
- [## MySQL :: MySQL 备份和恢复::1.4.5 mysqldump 提示
-
-### 本节将介绍一些技术，这些技术使您能够使用 mysqldump 来解决特定的问题:如何将一个
-
-dev.mysql.com](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/mysqldump-tips.html) 
+  
 
 非常感谢您的阅读！我希望这些技巧能帮助你保存 MySQL 数据库的备份，防止项目中的数据丢失。
 
@@ -88,14 +84,6 @@ dev.mysql.com](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/mysqldump-t
 
 # 更多阅读
 
-[](/powerbi-the-tool-that-is-beating-excel-8e88d2084213) [## power bi——击败 Excel 的工具
+</powerbi-the-tool-that-is-beating-excel-8e88d2084213> [## power bi——击败 Excel 的工具
 
-towardsdatascience.com](/powerbi-the-tool-that-is-beating-excel-8e88d2084213) [](/hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503) [## 用决策深度强化学习来下象棋
-
-### 用机器学习创造国际象棋冠军
-
-towardsdatascience.com](/hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503) [](/how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785) [## 如何使用 Power BI 构建完美的仪表盘
-
-### 在 Power BI 中构建杀手级仪表板的技巧
-
-towardsdatascience.com](/how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785)
+towardsdatascience.com](/powerbi-the-tool-that-is-beating-excel-8e88d2084213) </hacking-chess-with-decision-making-deep-reinforcement-learning-173ed32cf503>  </how-to-build-the-perfect-dashboard-with-power-bi-28c35d6cd785> 

@@ -20,11 +20,7 @@ Julia 语言是一项令人难以置信的技术壮举，自 2008 年以来一�
 
 多重分派是一个编程概念，它允许程序员多次编写一个函数来处理不同的类型。许多程序员倾向于远离函数式编程范式，因为它具有全局范围。这是可以理解的，让一切全球化，尤其是像 Julia 这样的出口，可能会很成问题。这主要是因为命名。实际上，很久以前我写过一篇关于 Julia 语言中的名称空间的文章，在那里我讨论了为什么一个类似于 C++的名称空间的实现可以减轻这个问题。我认为这是一个有趣的阅读，如果你想看看你可以在这里:
 
-[](/julias-big-problem-with-namespace-996d2e9ed71e) [## Julia 关于名称空间的大问题
-
-### 作为一名 Julia 开发者，这是一个可能会影响你的重大问题。
-
-towardsdatascience.com](/julias-big-problem-with-namespace-996d2e9ed71e) 
+</julias-big-problem-with-namespace-996d2e9ed71e>  
 
 这个问题在函数中尤其普遍。这是因为 Julia 不是一种面向对象的语言，因此没有一个真正的类作用域，我们可以使用它来使函数私有，以便处理特定的类型，我们只是编写方法来将我们的类型放入全局作用域中。这意味着很多时候我们可能有名字完全不同的方法，却做着完全相同的事情。当然，在朱丽亚身上完全不是这样，之所以不是这样，是因为多次派遣。
 
@@ -74,11 +70,7 @@ add5(x::Number) = x + 5
 
 这意味着我们不仅可以分派我们的类型，还可以让其他类型继承我们分派给抽象类型的那些函数。如果你想了解更多关于我刚刚提到的数字层级的知识，我有一整篇文章，你可以在这里阅读:
 
-[](/julia-and-imaginary-numbers-the-numerical-hierarchy-694aef87a7ce) [## 朱莉娅和虚数:数字等级
-
-### 对朱莉娅如何处理数字的深入探究。
-
-towardsdatascience.com](/julia-and-imaginary-numbers-the-numerical-hierarchy-694aef87a7ce) 
+</julia-and-imaginary-numbers-the-numerical-hierarchy-694aef87a7ce>  
 
 Julia 令人敬畏的内部构造函数为 dispatch 增添了美感。内部构造函数允许您创建多个输入来实现相同的输出。这些基本上是初始化函数，可以接受任意数量的参数，然后从提供的参数中构造应用它们的类型。真正酷的是，dispatch 会注意是否有人在调用内部或外部构造函数，所以您仍然可以使用普通参数创建类型，但您也可以使用新参数创建它。考虑下面的例子:
 

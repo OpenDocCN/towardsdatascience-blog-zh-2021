@@ -85,16 +85,4 @@ Google Data Studio 报告的屏幕截图，显示了 GA tracking-id 的粘贴位
 
 *欲了解更多 Data Studio 教程和技巧，请查看:*
 
-[](/4-limitations-of-google-data-studio-that-advanced-users-should-watch-out-for-fb2a907eaf5c) [## 高级用户应该警惕的 Google Data Studio 的 4 个局限性
-
-### (以及如何克服它们)
-
-towardsdatascience.com](/4-limitations-of-google-data-studio-that-advanced-users-should-watch-out-for-fb2a907eaf5c) [](/how-to-use-data-studio-to-research-and-visualize-your-stats-4ab64ff19341) [## 如何使用 Data Studio 研究和可视化您的媒体统计数据
-
-### 一步一步的初学者友好教程，以更好地理解你的文章的性能和参与
-
-towardsdatascience.com](/how-to-use-data-studio-to-research-and-visualize-your-stats-4ab64ff19341) [](https://medium.com/bite-sized-marketing/how-to-create-charts-that-display-negative-numbers-in-google-data-studio-4ecbb58c3a79) [## 如何在 Google Data Studio 中创建显示负数的图表
-
-### 使用 SEMrush 的 Data Studio 连接器和反向链接创建负值自定义字段的分步教程…
-
-medium.com](https://medium.com/bite-sized-marketing/how-to-create-charts-that-display-negative-numbers-in-google-data-studio-4ecbb58c3a79)
+</4-limitations-of-google-data-studio-that-advanced-users-should-watch-out-for-fb2a907eaf5c>  </how-to-use-data-studio-to-research-and-visualize-your-stats-4ab64ff19341>  <https://medium.com/bite-sized-marketing/how-to-create-charts-that-display-negative-numbers-in-google-data-studio-4ecbb58c3a79> 

@@ -120,11 +120,7 @@ sample_map
 
 要了解有关您在上面看到的其他参数的更多信息，请参考以下链接:
 
- [## 0.12.1 文件
-
-### 使用用于绘制地图的 Python 和 fleed . js 类制作漂亮的交互式地图。基地…
-
-python-visualization.github.io](https://python-visualization.github.io/folium/modules.html) 
+  
 
 下一步是建立 Choropleth 图。
 
@@ -159,11 +155,7 @@ sample_map
 
 到目前为止，这基本上就是你如何使用叶子创建一个基本的 Choropleth。这可能令人满意，但是我们应该告诉用户白色状态的真正含义。上面的图例没有告诉我们信息，因为它只是给了我们关于 wills 列的信息。为了增加趣味，并将该图提升到另一个层次，我们可能应该向该图添加另一个图例，以便用户只需查看地图就可以知道白色州代表空值。补充一个次要的传说，我在网上看到了一个很好的例子，我强烈推荐你去看看。请参见下面的链接:
 
-[](https://nbviewer.jupyter.org/gist/talbertc-usgs/18f8901fc98f109f2b71156cf3ac81cd) [## nbviewer 笔记本
-
-### 看看这个 Jupyter 笔记本！
-
-nbviewer.jupyter.org](https://nbviewer.jupyter.org/gist/talbertc-usgs/18f8901fc98f109f2b71156cf3ac81cd) 
+<https://nbviewer.jupyter.org/gist/talbertc-usgs/18f8901fc98f109f2b71156cf3ac81cd>  
 
 我们只是不打算添加一个常规的图例，而是添加一个可拖动的图例，让你的剧情更具互动性。要添加可拖动的图例，您可能需要了解一些基本的 HTML 和 JavaScript。请参见下面的示例代码。
 
@@ -446,8 +438,4 @@ sample_map2
 
 我希望你喜欢这个教程，并且你将能够在你未来的项目中运用这些技巧来介绍你的老板或客户。如果你对这个话题有任何问题或者有任何反馈，请随时联系我。如果你能在任何社交媒体平台上分享它，我将不胜感激。谢谢你，下次再见 time️！✌️
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我是 Navid Mashinchi，是加利福尼亚州萨克拉门托的一名数据科学家。我一直在分析领域工作…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

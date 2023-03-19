@@ -8,11 +8,7 @@
 
 *更深入的细节，请参考下面的文章:*
 
-[](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) [## 使用 Turf.js 通过自定义边界对坐标进行地理编码
-
-### 这个位置属于❝Which 地区/区域/区域吗？❞
-
-towardsdatascience.com](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) 
+</using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0>  
 
 为了说明这种功能，以国家**新加坡**为例，该岛被划分为 **5 个独立的区域** — **中部、北部、东北部、东部&西部**。
 
@@ -96,8 +92,4 @@ towardsdatascience.com](/using-turf-js-to-geocode-coordinates-with-custom-bounda
 
 ## 非常感谢你坚持到这篇文章的结尾！❤希望你觉得这个指南很有用，如果你想了解更多的 GIS、数据分析和网络应用相关的内容，请随时关注我。会非常感激😀
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

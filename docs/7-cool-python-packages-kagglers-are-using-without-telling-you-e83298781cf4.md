@@ -6,7 +6,7 @@
 
 ![](img/3429270999517254d65f5924d2f13d64.png)
 
-**照片由**[](https://www.pexels.com/@miphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)****上的** [**像素组成。**](https://www.pexels.com/photo/pineapple-with-brown-sunglasses-459601/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) **除特别注明外，所有图片均为作者所有。****
+**照片由**<https://www.pexels.com/@miphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>****上的** [**像素组成。**](https://www.pexels.com/photo/pineapple-with-brown-sunglasses-459601/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) **除特别注明外，所有图片均为作者所有。****
 
 **Kaggle 是数据科学和机器学习趋势的热点。**
 
@@ -14,19 +14,11 @@
 
 **这篇文章是关于 7 个这样的趋势包，它们直接替代了许多过时的或者急需升级的工具和技术。**
 
-**[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+**<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1️⃣.UMAP
 
@@ -139,7 +131,7 @@ Optuna 是下一代自动超参数调整框架，设计用于当今 ML 和深度
 
 实际估值器的超参数调整有点复杂，所以你为什么不看看我的详细指南:
 
-[](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
+</why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c> [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
 
 towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) 
 

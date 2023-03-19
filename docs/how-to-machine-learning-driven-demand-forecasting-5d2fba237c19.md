@@ -12,11 +12,7 @@
 
 通常的统计模型将一组*已知的*关系应用于数据集。例如，指数平滑法将有其估算潜在需求水平和趋势的方法。
 
-[](/simple-exponential-smoothing-749fc5631bed) [## 简单指数平滑
-
-### 什么是简单指数平滑模型？
-
-towardsdatascience.com](/simple-exponential-smoothing-749fc5631bed) 
+</simple-exponential-smoothing-749fc5631bed>  
 
 另一方面，机器学习是让算法自己理解数据集及其底层关系。
 
@@ -52,11 +48,7 @@ towardsdatascience.com](/simple-exponential-smoothing-749fc5631bed)
 
 机器学习模型的典型输入。来源:[我的需求预测培训](https://supchains.com/)
 
-[](/machine-learning-for-supply-chain-forecast-66ef297f58f2) [## 供应链预测的机器学习
-
-### 什么是机器学习？
-
-towardsdatascience.com](/machine-learning-for-supply-chain-forecast-66ef297f58f2) 
+</machine-learning-for-supply-chain-forecast-66ef297f58f2>  
 
 # ML 驱动的需求预测能带来什么？
 
@@ -94,11 +86,7 @@ towardsdatascience.com](/machine-learning-for-supply-chain-forecast-66ef297f58f2
 
 > 糟糕的数据会打败优秀的预测者。每次都是。
 
-[](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) [## 捕捉供应链中不受约束的需求
-
-### 下面这篇文章是我在 LinkedIn 上的一篇帖子的摘要。如果你对这样的辩论感兴趣，那就来连线吧！我…
-
-towardsdatascience.com](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) 
+</capturing-unconstrained-demand-in-supply-chains-78b46bae1b28>  
 
 ## 预期
 
@@ -114,21 +102,13 @@ towardsdatascience.com](/capturing-unconstrained-demand-in-supply-chains-78b46ba
 
 > 首先，修复流程。然后，完善模型。
 
-[](/the-4-dimensions-forecasting-framework-f7884ec1472) [## 四维预测框架
-
-### 如何设置预测流程
-
-towardsdatascience.com](/the-4-dimensions-forecasting-framework-f7884ec1472) 
+</the-4-dimensions-forecasting-framework-f7884ec1472>  
 
 ## 错误的指标
 
 我仍然看到许多供应链使用 MAPE 作为预测指标。除非你确定你跟踪的是正确的指标，否则运行任何预测改进都是没有意义的。
 
-[](/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d) [## 预测 KPI: RMSE、梅伊、MAPE 和 Bias
-
-### 下面这篇文章摘自我的书《供应链预测的数据科学》,可以在这里找到。你可以找到我的…
-
-towardsdatascience.com](/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d) 
+</forecast-kpi-rmse-mae-mape-bias-cdc5703d242d>  
 
 许多供应链也在很大的价格范围内销售不同的产品。价值 1 美分的产品的预测误差不如价值数百欧元/美元的产品的类似预测误差重要。
 
@@ -194,11 +174,7 @@ towardsdatascience.com](/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d)
 
 模型准确性应根据**未来未知数据进行测试。**这是评估预测质量的唯一方法。请记住，将您的模型所实现的准确性与简单基准(见下文)、您当前的预测引擎以及您的一致预测所实现的准确性进行比较。
 
-[](https://nicolas-vandeput.medium.com/assessing-products-forecastability-forecasting-benchmarks-vs-cov-2bdac1e7fd5f) [## 评估产品的可预测性:预测基准与 COV
-
-### 在这篇文章中，我将向你展示 3 种方法来评估你的产品(或任何时间序列)的可预测性…
-
-nicolas-vandeput.medium.com](https://nicolas-vandeput.medium.com/assessing-products-forecastability-forecasting-benchmarks-vs-cov-2bdac1e7fd5f) 
+<https://nicolas-vandeput.medium.com/assessing-products-forecastability-forecasting-benchmarks-vs-cov-2bdac1e7fd5f>  
 
 不要犹豫，做一些平行运行，以确认新的模型工作正常。
 

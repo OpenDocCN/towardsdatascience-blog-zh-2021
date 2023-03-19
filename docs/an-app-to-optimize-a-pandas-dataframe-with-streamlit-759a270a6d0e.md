@@ -46,7 +46,7 @@
 
 ## 数据
 
-为了测试和开发应用程序，我编写了另一个函数，它在磁盘上创建了 500，000 行和 58 MB 的完美数据作为 CSV 文件(此处有[](https://raw.githubusercontent.com/justinhchae/app_helper/main/data/source.csv)**)。我喜欢 58 MB 的大小，因为我认为它正好处于磁盘和内存都无法处理的极限。**
+为了测试和开发应用程序，我编写了另一个函数，它在磁盘上创建了 500，000 行和 58 MB 的完美数据作为 CSV 文件(此处有<https://raw.githubusercontent.com/justinhchae/app_helper/main/data/source.csv>**)。我喜欢 58 MB 的大小，因为我认为它正好处于磁盘和内存都无法处理的极限。**
 
 ## **UX**
 

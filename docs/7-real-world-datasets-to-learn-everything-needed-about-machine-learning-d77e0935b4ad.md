@@ -37,19 +37,11 @@
 
 *   预测房价-在分析和预处理后，将数据集分为训练和测试，然后实现一个模型来预测房价。如果你正在寻找一个参考，这里有一个 kaggle 笔记本，它评估了不同回归算法对房价预测的性能。
 
-[](https://www.kaggle.com/shreayan98c/boston-house-price-prediction) [## 波士顿房价预测
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用波士顿房价数据
-
-www.kaggle.com](https://www.kaggle.com/shreayan98c/boston-house-price-prediction) 
+<https://www.kaggle.com/shreayan98c/boston-house-price-prediction>  
 
 *   对影响房地产价格的重要因素的分析。这里有一个 Kaggle 笔记本供参考，以了解如何使用墨尔本住房数据执行探索性数据分析。
 
-[](https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis) [## 墨尔本||综合住房市场分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自墨尔本住房市场的数据
-
-www.kaggle.com](https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis) 
+<https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis>  
 
 ## **算法和工具**
 
@@ -66,19 +58,11 @@ www.kaggle.com](https://www.kaggle.com/janiobachmann/melbourne-comprehensive-hou
 
 *   识别不同的客户群—您可以学习使用此数据集构建聚类或客户群。下面是一个很好的客户细分参考
 
-[](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) [## 客户细分(K 均值)|分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
-
-www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) 
+<https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis>  
 
 *   研究性别和年龄在消费中的作用——以下是使用 SweetViz 进行探索性分析的快速参考
 
-[](https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers) [## 弹指间的 EDA！！！
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers) 
+<https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers>  
 
 ## **算法和工具**
 
@@ -95,11 +79,7 @@ www.kaggle.com](https://www.kaggle.com/nareshbhat/eda-within-snap-of-fingers)
 
 *   预测欺诈性交易(即异常检测)—下面的参考资料是一个很好的例子，解释了一些处理高度不平衡数据集的最佳技术
 
-[](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) [## 信用欺诈||处理不平衡的数据集
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用信用卡欺诈检测数据
-
-www.kaggle.com](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) 
+<https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets>  
 
 ## **算法**
 
@@ -116,11 +96,7 @@ www.kaggle.com](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-i
 
 *   预测新闻是真是假——这个用例可以通过深度学习来有效实现。这里是一个简单的初学者友好的例子，了解如何使用 TensorFlow 和 Keras 来实现假新闻预测
 
-[](https://www.kaggle.com/barkhaverma/fake-news-detection) [## 假新闻检测
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用假新闻中的数据
-
-www.kaggle.com](https://www.kaggle.com/barkhaverma/fake-news-detection) 
+<https://www.kaggle.com/barkhaverma/fake-news-detection>  
 
 *   对于那些对阅读和实施研究论文中讨论的方法论感兴趣的人，请查看研究论文[这里](https://scholar.smu.edu/cgi/viewcontent.cgi?article=1036&context=datasciencereview)它解释了假新闻预测的实施
 
@@ -144,27 +120,15 @@ www.kaggle.com](https://www.kaggle.com/barkhaverma/fake-news-detection)
 
 *   预测企业的成功和失败——评论、提示以及位置和其他企业属性可用于预测企业的成功和失败。这是一个帮助找到受欢迎的餐馆的笔记本示例
 
-[](https://www.kaggle.com/niyamatalmass/finding-the-perfect-restaurants-on-yelp) [## 在 Yelp 上寻找完美的餐厅
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/niyamatalmass/finding-the-perfect-restaurants-on-yelp) 
+<https://www.kaggle.com/niyamatalmass/finding-the-perfect-restaurants-on-yelp>  
 
 *   基于评论和提示的情感分析——这是一个参考笔记本，使用分类树实现了情感分类器
 
-[](https://www.kaggle.com/suzanaiacob/sentiment-analysis-of-the-yelp-reviews-data) [## Yelp 评论数据的情感分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/suzanaiacob/sentiment-analysis-of-the-yelp-reviews-data) 
+<https://www.kaggle.com/suzanaiacob/sentiment-analysis-of-the-yelp-reviews-data>  
 
 *   分析用户行为，如具有特定特征或来自特定位置的用户的兴趣等——该笔记本是对评论数据进行探索性分析的一个很好的例子
 
-[](https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-ratings-eda) [## 评论里有什么？- Yelp 评级 EDA
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Yelp 数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-ratings-eda) 
+<https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-ratings-eda>  
 
 *   网络分析以了解影响因素-可以使用基于用户数据的网络分析来识别关键影响因素
 
@@ -183,11 +147,7 @@ www.kaggle.com](https://www.kaggle.com/jagangupta/what-s-in-a-review-yelp-rating
 
 *   为用户构建产品推荐——这是一个 Git 存储库，它使用 Amazon review 数据集实现了产品推荐
 
-[](https://github.com/mandeep147/Amazon-Product-Recommender-System) [## mandeep 147/亚马逊产品推荐系统
-
-### 对 http://snap.stanford.edu/data/web-Amazon.html 在线提供的亚马逊评论数据集进行情感分析…
-
-github.com](https://github.com/mandeep147/Amazon-Product-Recommender-System) 
+<https://github.com/mandeep147/Amazon-Product-Recommender-System>  
 
 *   基于客户评论的情感分析——可以基于评论数据构建情感分析模型。此外，由于这是一个大规模数据集，在此数据集上训练的模型可以在不同的数据集上进行测试
 
@@ -215,8 +175,4 @@ ImageNet 是一个庞大的图像数据库，包含 1400 万张图像和 2 万�
 
 我是一名拥有超过 10 年经验的数据科学专家，并且已经撰写了 2 本数据科学方面的书籍。我写数据科学相关的内容是为了让它简单易懂。在 [**中**](https://medium.com/@rsharankumar) **跟我上来。**我也有一个 YouTube 频道，在那里我教授和谈论各种数据科学概念。如果有兴趣，可以订阅我下面的频道。
 
-[](https://www.youtube.com/c/DataSciencewithSharan) [## 莎兰的数据科学
-
-### 我是一名数据科学专业人员，在高级分析和应用机器领域拥有十多年的经验…
-
-www.youtube.com](https://www.youtube.com/c/DataSciencewithSharan)
+<https://www.youtube.com/c/DataSciencewithSharan> 

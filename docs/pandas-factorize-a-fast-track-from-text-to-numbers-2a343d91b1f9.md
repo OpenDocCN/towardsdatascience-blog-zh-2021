@@ -89,8 +89,4 @@ NaN = -1。图片由作者提供。
 
 如果这个内容是有帮助的，你想要更多的内容，请关注我。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

@@ -98,12 +98,4 @@ end
 
 # 看看我关于 Ruby 的其他帖子
 
-[](/useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf) [## 管理数据的有用的 Ruby 数组方法
-
-### 节省宝贵的时间，高效管理您的数据
-
-towardsdatascience.com](/useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf) [](/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9) [## 清理和格式化数据的 17 个有用的 Ruby 字符串方法
-
-### 你不写的每一行代码都是你不需要维护的一行代码
-
-towardsdatascience.com](/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9)
+</useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf>  </17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9> 

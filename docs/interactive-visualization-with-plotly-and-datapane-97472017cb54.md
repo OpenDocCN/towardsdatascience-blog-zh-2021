@@ -93,11 +93,7 @@ Datapane 是一个开源的 Python 库，允许用户快速构建交互式绘图
 
 要确保报告正确集成到介质中，您必须设置一个集成令牌。然后将这个令牌保存到您的 Datapane 帐户。这里有一个简单的演练:
 
-[](https://docs.datapane.com/reports/publishing-and-sharing/export-to-medium) [## 导出到介质
-
-### 在介质上写很多？Datapane 允许您将现有的 Datapane 报告转换为中等故事草稿，保留…
-
-docs.datapane.com](https://docs.datapane.com/reports/publishing-and-sharing/export-to-medium) 
+<https://docs.datapane.com/reports/publishing-and-sharing/export-to-medium>  
 
 # 与 Plotly 的互动情节
 
@@ -149,8 +145,4 @@ Plotly 提供了一个开箱即用的解决方案来实现绘图交互性。与 
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

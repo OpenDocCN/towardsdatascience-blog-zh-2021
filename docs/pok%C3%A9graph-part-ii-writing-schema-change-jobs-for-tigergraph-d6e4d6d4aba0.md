@@ -179,24 +179,12 @@ for i in range(1, 10): res = requests.get(url = f"https://pokeapi.co/api/v2/poke
 
 恭喜你。您创建了两个模式更改作业，一个全局作业和一个本地作业，并且将数据加载到了这个作业中！如果您想了解更多关于 TigerGraph 的信息，加入更多与 TigerGraph 相关的项目，询问关于 TigerGraph 的问题，或者只是与社区讨论 TigerGraph，请随时加入 Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 569 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 您可以在开发者门户网站找到更多 TigerGraph 工具:
 
- [## TigerGraph 开发者网站
-
-### 所有 TigerGraph 开发者内容的一站式商店。探索学习、TigerGraph 项目和我们生动的…
-
-developers.tigergraph.com](https://developers.tigergraph.com/) 
+  
 
 最后，阅读官方文档了解更多信息:
 
-[](https://docs.tigergraph.com/dev/gsql-ref/ddl-and-loading/modifying-a-graph-schema) [## 修改图表模式
-
-### 语句 ALTER VERTEX WITH TAGGABLE 用于将顶点类型标记为可标记或不可标记。顶点类型是…
-
-docs.tigergraph.com](https://docs.tigergraph.com/dev/gsql-ref/ddl-and-loading/modifying-a-graph-schema)
+<https://docs.tigergraph.com/dev/gsql-ref/ddl-and-loading/modifying-a-graph-schema> 

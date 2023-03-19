@@ -83,19 +83,7 @@ MLOps = devo PS+data ops+MLLabOps+MLProdOps+DSOps
 
 这篇博客是一长系列 **MLOps** 博客的第四部分。前三个博客是:
 
-[](/the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591) [## 在将机器学习应用程序投入生产时，避免这些数据陷阱
-
-### 你有多少次听到“机器学习应用程序在实验室工作得很好，但在现场却失败了。”？这是…
-
-towardsdatascience.com](/the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591) [](/10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87) [## 机器学习应用项目设计阶段的 10 个陷阱和 11 个最佳实践
-
-### 我们专注于您在机器学习项目的初始设计阶段可能遇到的陷阱。我们详述我们的…
-
-towardsdatascience.com](/10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87) [](https://medium.com/swlh/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) [## 停止调用机器学习操作执行流管道
-
-### 当我们继续开发机器学习操作(MLOps)时，我们需要考虑机器学习(ML)开发…
-
-medium.com](https://medium.com/swlh/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) 
+</the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591>  </10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87>  <https://medium.com/swlh/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366>  
 
 **MLOps** 系列的下一个计划博客是 **:**
 

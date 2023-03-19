@@ -32,7 +32,7 @@
 
 在医学成像中，我们可以处理 2D 图像，这些图像可以是 DICOM、jpg 或 png，也可以是 3D 体积，它们是切片组，每个切片是一个 2D 文件(大多数情况下是 DICOM)，而这个组是一个 nifti 文件，它代表整个患者或他身体的一部分。请阅读 [***本文***](https://pycad.co/what-is-the-difference-between-dicom-and-nifti-images/) 了解 dicom 和 nifti 的区别。
 
-我们将在本文中使用 3D 卷，因此如果您有想要转换成卷的 2D 文件，请参见本文[](https://pycad.co/how-to-convert-a-dicom-series-into-one-nifti-file-python/)*。*
+我们将在本文中使用 3D 卷，因此如果您有想要转换成卷的 2D 文件，请参见本文<https://pycad.co/how-to-convert-a-dicom-series-into-one-nifti-file-python/>*。*
 
 # *我们将使用的工具*
 
@@ -136,10 +136,6 @@
 
 ***即将推出全面的医学成像课程，涵盖使用 Monai 和 PyTorch 的 2D 和 3D 分割，并提供额外支持。加入等候名单以接收任何课程更新的通知。***
 
-***[](https://pycad.co/monai-and-pytoch-for-medical-imaging/) [## 医学成像深度学习登录页面- PYCAD
-
-### 使用 Monai 和 PyTorch 的医学成像中的 2D 和 3D 分割。
-
-pycad.co](https://pycad.co/monai-and-pytoch-for-medical-imaging/)*** 
+***<https://pycad.co/monai-and-pytoch-for-medical-imaging/> *** 
 
 > ***订阅[我的简讯](https://astounding-teacher-3608.ck.page/136bdb1fbe)获取我工作的所有更新:)。***

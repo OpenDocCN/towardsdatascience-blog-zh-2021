@@ -12,11 +12,7 @@
 
 情感分析是最常被研究的自然语言处理任务之一，在从公司管理他们的社交媒体形象到情感股票交易到产品评论的使用案例中都可以看到。
 
-[](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2) [## 建立一个基于预算新闻的算法交易者？那么你需要很难找到的数据
-
-### 创建一个零美元的算法交易者，分析免费的 API，数据集和网页抓取器。
-
-towardsdatascience.com](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2) 
+</building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2>  
 
 随着它越来越受欢迎，可用的软件包也越来越多，为了选出最好的，我把三个流行的软件包放在一起:NLTK (VADER)、TextBlob 和 Flair。
 
@@ -151,8 +147,4 @@ Runtime: 121s (vs 49s)
 
 对于仅使用预训练模型的出色性能，Flair 提供了可能与定制模型相匹配的性能。我还了解到，所有这些模型对文本长度的鲁棒性都比它们各自的文档可能让您相信的要高。如果你想要源代码，我把它上传到这里。我从 Neptune.ai 的[这个博客中学到了很多关于如何使用这些模型的知识。我希望这对你的情绪分析之旅有所帮助，如果你喜欢你所读的，请随意](https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair)[跟随我](https://jerdibattista.medium.com/)，阅读我写的更多内容。我倾向于每个月深入一个主题一次(因为这些文章通常要花我 3 天以上的时间)！
 
-[](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db) [## 深度学习预算:450 美元 eGPU vs 谷歌 Colab
-
-### Colab 对于开始深度学习来说是非凡的，但它如何与 eGPU +超极本相抗衡？
-
-towardsdatascience.com](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db)
+</deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db> 

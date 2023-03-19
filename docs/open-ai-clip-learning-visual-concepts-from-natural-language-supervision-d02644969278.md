@@ -58,11 +58,7 @@ CLIP 的主要卖点是零镜头图像分类，这意味着你可以获取一段
 
 这很酷，如果你想亲自尝试，我推荐你看看这篇很棒的博文:
 
-[](https://blog.roboflow.com/how-to-use-openai-clip/?fbclid=IwAR3TFIykuO6p7dswKL5haG1JLgpZRWYWsnGne95zRT4vh82GTQmabQaeauY) [## 如何尝试 CLIP: OpenAI 的零拍图像分类器
-
-### 本周早些时候，OpenAI 向计算机视觉世界扔了一颗炸弹:两个新的突破性模型暗示…
-
-blog.roboflow.com](https://blog.roboflow.com/how-to-use-openai-clip/?fbclid=IwAR3TFIykuO6p7dswKL5haG1JLgpZRWYWsnGne95zRT4vh82GTQmabQaeauY) 
+<https://blog.roboflow.com/how-to-use-openai-clip/?fbclid=IwAR3TFIykuO6p7dswKL5haG1JLgpZRWYWsnGne95zRT4vh82GTQmabQaeauY>  
 
 ## CLIP 很棒，也很有革命性，但是…
 

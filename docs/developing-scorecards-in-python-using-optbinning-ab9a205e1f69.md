@@ -148,20 +148,4 @@ OptBinning 最令人难以置信的特性之一是其易于投入生产的能力
 
 有关 OptBinning 的更多信息，请查看[项目 GitHub 页面](https://github.com/guillermo-navas-palencia/optbinning)和[文档页面](http://gnpalencia.org/optbinning/)。有关最优宁滨背后的逻辑和数学的信息，您可以在 Guillermo Navas-Palencia 的文章[“最优宁滨:数学规划公式”](https://arxiv.org/abs/2001.08025)中找到描述。
 
-[](https://github.com/guillermo-navas-palencia/optbinning) [## 吉列尔莫-纳瓦斯-帕伦西亚/奥普宾宁
-
-### OptBinning 是一个用 Python 编写的库，它实现了一个严格而灵活的数学编程公式来…
-
-github.com](https://github.com/guillermo-navas-palencia/optbinning)  [## 最优宁滨:数学规划公式
-
-### 最佳宁滨是在给定离散或连续数值的情况下，将变量离散到箱中的最佳离散化
-
-arxiv.org](https://arxiv.org/abs/2001.08025)  [## opt binning:Python 优化宁滨库- optbinning 0.7.0 文档
-
-### 最佳宁滨是在给定离散或连续数值的情况下，将变量离散到箱中的最佳离散化
-
-gnpalencia.org](http://gnpalencia.org/optbinning/) [](https://github.com/GabrielSGoncalves/optbinning_tutorial) [## GabrielSGoncalves/opt binning _ 教程
-
-### 通过在 GitHub 上创建帐户，为 GabrielSGoncalves/opt binning _ tutorial 开发做出贡献。
-
-github.com](https://github.com/GabrielSGoncalves/optbinning_tutorial)
+<https://github.com/guillermo-navas-palencia/optbinning>      <https://github.com/GabrielSGoncalves/optbinning_tutorial> 

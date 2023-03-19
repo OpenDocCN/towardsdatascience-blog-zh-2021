@@ -345,15 +345,7 @@ Spotify 跟踪歌曲的元数据和音频特征，我们可以用它们来建立
 
 如果你喜欢这篇文章，并且想了解更多关于推荐系统的知识，可以看看下面列出的我以前的一些文章。
 
-[](/how-to-build-powerful-deep-recommender-systems-using-spotlight-ec11198c173c) [## 如何使用 Spotlight 构建强大的深度推荐系统？
-
-### 利用深度学习构建电影推荐系统。
-
-towardsdatascience.com](/how-to-build-powerful-deep-recommender-systems-using-spotlight-ec11198c173c) [](/how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802) [## 如何用惊喜构建简单的推荐系统？
-
-### 使用这个 Python 库来构建图书推荐系统。
-
-towardsdatascience.com](/how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802) 
+</how-to-build-powerful-deep-recommender-systems-using-spotlight-ec11198c173c>  </how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802>  
 
 # 加入我的邮件列表
 

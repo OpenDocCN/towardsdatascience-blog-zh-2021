@@ -24,11 +24,7 @@
 
 附:查看这篇介绍线性回归和梯度下降的文章。
 
-[](/linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0) [## 绝对初学者的线性回归和梯度下降
-
-### 梯度下降的简单解释和实现
-
-towardsdatascience.com](/linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0) 
+</linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0>  
 
 因此，我们知道最佳模型是误差平方和最小的模型。但是为什么呢？为什么平方误差？为什么不是误差的绝对值？
 

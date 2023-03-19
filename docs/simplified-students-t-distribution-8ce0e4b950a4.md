@@ -46,11 +46,7 @@ t 分布类似于正态分布，只是它的尾部更粗更长。正态分布具
 
 我有另一篇关于 t 检验的文章，读者可能会发现它与这个讨论有关。
 
-[](/statistical-tests-t-test-andanova-674b242a5274) [## 统计检验:T 检验和方差分析
-
-### 快速比较意味着使用 python 的库
-
-towardsdatascience.com](/statistical-tests-t-test-andanova-674b242a5274) ![](img/03f08745d4f7f073fb85e4588da555da.png)
+</statistical-tests-t-test-andanova-674b242a5274>  ![](img/03f08745d4f7f073fb85e4588da555da.png)
 
 t 作为检验统计量
 

@@ -36,15 +36,7 @@
 
 这里，我们将使用 Colab 和 PixelLib。下面这篇文章给了我灵感，让我在 Colab 上构建一个图像分割工具，并使用 PixelLib 快速分割图像中的对象。
 
-[](/how-we-built-an-easy-to-use-image-segmentation-tool-with-transfer-learning-546efb6ae98) [## 我们如何用迁移学习构建一个易于使用的图像分割工具
-
-### 标记图像、预测新图像和可视化神经网络，所有这些都在一个 Jupyter 笔记本中(并全部共享…
-
-towardsdatascience.com](/how-we-built-an-easy-to-use-image-segmentation-tool-with-transfer-learning-546efb6ae98) [](/real-time-image-segmentation-using-5-lines-of-code-7c480abdb835) [## 使用 5 行代码的实时图像分割
-
-### 使用 PixelLib 在图像和视频中执行准确快速的对象分割
-
-towardsdatascience.com](/real-time-image-segmentation-using-5-lines-of-code-7c480abdb835) 
+</how-we-built-an-easy-to-use-image-segmentation-tool-with-transfer-learning-546efb6ae98>  </real-time-image-segmentation-using-5-lines-of-code-7c480abdb835>  
 
 ## 概观
 
@@ -109,11 +101,7 @@ result = ins.segmentImage(img_path,show_bboxes=False)
 
 如果您迫不及待地想试用这款最新产品，请在此注册:
 
-[](https://datature.io/intellibrush#sign-up) [## 数据智能刷-利用人工智能将标记数据的速度提高 10 倍
-
-### IntelliBrush 是数据标注团队标注复杂图像数据的最快方式。非常适合注释数据集…
-
-数据图. io](https://datature.io/intellibrush#sign-up) 
+<https://datature.io/intellibrush#sign-up>  
 
 ## 什么是 IntelliBrush？
 
@@ -152,8 +140,4 @@ Woen Yon 与少数聪明人合作，为当地和国际初创企业主提供网�
 
 他喜欢交朋友！请随时在 [LinkedIn](https://www.linkedin.com/in/woenyon/) 和 [Medium](https://laiwoenyon.medium.com/) 上与他联系
 
-[](https://laiwoenyon.medium.com/) [## 赖文渊-媒体
-
-### 阅读赖文渊在媒体上的文章。数据科学家，TDS 特约撰稿人。我喜欢结交来自世界各地的朋友…
-
-laiwoenyon.medium.com](https://laiwoenyon.medium.com/)
+<https://laiwoenyon.medium.com/> 

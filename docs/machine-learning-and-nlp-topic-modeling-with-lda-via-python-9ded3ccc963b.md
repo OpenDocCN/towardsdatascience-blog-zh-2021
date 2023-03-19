@@ -125,28 +125,8 @@
 
 使用的主要软件包:
 
- [## Gensim:面向人类的主题建模
-
-### 这个模块实现了字典的概念——单词和它们的整数 id 之间的映射。字典…
-
-radimrehurek.com](https://radimrehurek.com/gensim/corpora/dictionary.html)  [## Gensim:面向人类的主题建模
-
-### 机器学习咨询& NLP * PII 工具自动发现个人和敏感数据在线潜在…
-
-radimrehurek.com](https://radimrehurek.com/gensim/models/ldamulticore.html)  [## Gensim:面向人类的主题建模
-
-### 这个模块实现了与术语频率相关的功能-逆文档频率向量空间…
-
-radimrehurek.com](https://radimrehurek.com/gensim/models/tfidfmodel.html) 
+      
 
 延伸阅读:
 
-[](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) [## 潜在狄利克雷分配
-
-### 在自然语言处理中，潜在狄利克雷分配(LDA)是一种生成统计模型，它允许…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) [](/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158) [## 潜在狄利克雷分配直观指南
-
-### 主题建模是指确定最能描述一组文档的主题的任务。这些话题只会…
-
-towardsdatascience.com](/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
+<https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation>  </light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158> 

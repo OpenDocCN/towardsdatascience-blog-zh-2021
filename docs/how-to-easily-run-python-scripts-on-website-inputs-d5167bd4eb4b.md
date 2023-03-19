@@ -60,15 +60,7 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 如果你喜欢这篇文章，下面是我写的一些类似的文章:
 
-[](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [## 如何轻松地在你的网站上动态显示你的 Matplotlib 图和 Pandas 数据框。
-
-### 这是一种令人惊讶的简单方法，可以在线向全世界展示您的图表和数据框架，而且不到…
-
-towardsdatascience.com](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [](/how-to-analyze-survey-data-in-python-c131764ea02e) [## 如何用 Python 分析调查数据
-
-### 以下是一些使用 Python 清理、分析和可视化调查数据的技巧和代码。
-
-towardsdatascience.com](/how-to-analyze-survey-data-in-python-c131764ea02e) [](/how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3) [## 如何预测没有数据的事物——还有盆景树
+</how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  </how-to-analyze-survey-data-in-python-c131764ea02e>  </how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3> [## 如何预测没有数据的事物——还有盆景树
 
 towardsdatascience.com](/how-to-predict-something-with-no-data-and-bonsai-trees-b6ebc6471da3) 
 

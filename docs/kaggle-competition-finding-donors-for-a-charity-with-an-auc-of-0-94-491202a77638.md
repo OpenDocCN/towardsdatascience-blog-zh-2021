@@ -12,11 +12,7 @@
 
 该项目将采用 3 种监督算法，包括**随机森林、梯度推进和 XGBoost，**使用 1994 年美国人口普查数据准确模拟个人收入。然后，我将从初步结果中选择最佳候选算法，并进一步优化该算法以最佳地模拟数据。这个实现的目标是构建一个模型，准确预测一个人的收入是否超过 50，000 美元。这种任务可能出现在非营利机构中，这些机构依靠捐赠生存。了解个人的收入可以帮助非营利组织更好地了解需要多少捐赠，或者他们是否应该伸出援手。虽然很难直接从公共来源确定一个人的一般收入等级，但我们可以从其他公开的特征中推断出这个值。Kaggle 竞赛链接在这里。
 
-[](https://www.kaggle.com/c/udacity-mlcharity-competition/overview) [## Udacity ML 慈善比赛
-
-### 寻找慈善捐助者
-
-www.kaggle.com](https://www.kaggle.com/c/udacity-mlcharity-competition/overview) 
+<https://www.kaggle.com/c/udacity-mlcharity-competition/overview>  
 
 # 数据集概述
 
@@ -48,7 +44,7 @@ www.kaggle.com](https://www.kaggle.com/c/udacity-mlcharity-competition/overview)
 > 
 > 比赛结果
 
-注意:这篇文章并不是要解释每一行代码，而是项目中最重要的部分。因此，您可能会发现一些部分只是结果的描述。如果你对代码本身感兴趣，请在这里勾选[](https://github.com/YuehHanChen/Finding_donors_for_a_charity/blob/main/Finding_Donors_For_A_Charity.ipynb)****。****
+注意:这篇文章并不是要解释每一行代码，而是项目中最重要的部分。因此，您可能会发现一些部分只是结果的描述。如果你对代码本身感兴趣，请在这里勾选<https://github.com/YuehHanChen/Finding_donors_for_a_charity/blob/main/Finding_Donors_For_A_Charity.ipynb>****。****
 
 **现在，让我们开始吧！**
 

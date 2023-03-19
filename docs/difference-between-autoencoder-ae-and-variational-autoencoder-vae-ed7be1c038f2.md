@@ -139,8 +139,4 @@ VAE 的框图如下所示。在训练期间，输入数据 x 被馈送到编码�
 
 ***如果这篇文章对你有帮助，或者你想了解更多关于机器学习和数据科学的知识，请关注**[**Aqeel an war**](https://aqeel-anwar.medium.com/)**，或者在**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***或***[***Twitter***](https://twitter.com/_aqeelanwar)***上联系我。****
 
-*[](https://aqeel-anwar.medium.com/membership) [## 通过我的推荐链接加入媒体- Aqeel Anwar
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-aqeel-anwar.medium.com](https://aqeel-anwar.medium.com/membership)*
+*<https://aqeel-anwar.medium.com/membership> *

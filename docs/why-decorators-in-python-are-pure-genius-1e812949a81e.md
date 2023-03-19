@@ -16,11 +16,7 @@
 
 装饰者是一个完美实现的特性的黄金时代的例子。确实需要一段时间来理解，但这是值得的。当你开始使用它们时，你会注意到它们并没有使事情变得过于复杂，而是使你的代码变得整洁而时髦。
 
-[](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) [## 到 2030 年，软件开发人员可能会被淘汰
-
-### 为什么你不会丢掉工作
-
-towardsdatascience.com](/software-developers-might-be-obsolete-by-2030-cb5ddbfec291) 
+</software-developers-might-be-obsolete-by-2030-cb5ddbfec291>  
 
 # 首先是高阶函数
 
@@ -91,11 +87,7 @@ def roll():
 
 这做同样的事情，但是在开始时将`roll()`粘合到`startstop()`。
 
-[](/how-to-use-python-classes-effectively-10b42db8d7bd) [## 如何有效地使用 Python 类
-
-### 当一堆功能对你来说是更好的选择时
-
-towardsdatascience.com](/how-to-use-python-classes-effectively-10b42db8d7bd) 
+</how-to-use-python-classes-effectively-10b42db8d7bd>  
 
 ## 增加灵活性
 
@@ -160,11 +152,7 @@ def wastetime():
 
 十几行代码就完成了！另外，你可以在任意多的功能上使用`measuretime()`。
 
-[](/the-flawless-pipes-of-python-pandas-30f3ee4dffc2) [## 蟒蛇/熊猫的完美管道
-
-### 在本文中，您将学习如何在 Python 和 Pandas 中使用管道来使您的代码更高效，更好地…
-
-towardsdatascience.com](/the-flawless-pipes-of-python-pandas-30f3ee4dffc2) 
+</the-flawless-pipes-of-python-pandas-30f3ee4dffc2>  
 
 ## 降低代码速度
 
@@ -205,11 +193,7 @@ def scare():
 
 如果你有一些只有在用户登录时才能访问的功能，那么对于 decorators 来说这也是相当容易的。我会让你参考[的完整例子](https://realpython.com/primer-on-python-decorators/#is-the-user-logged-in)作为参考，但是原理很简单:首先你定义一个类似`login_required()`的函数。在任何需要登录的函数定义之前，弹出`@login_required`。很简单，我会说。
 
-[](/object-oriented-programming-is-dead-wait-really-db1f1f05cc44) [## 面向对象编程已经死了。等等，真的吗？
-
-### 函数式编程的鼓吹者们，你们把枪口对准了错误的敌人
-
-towardsdatascience.com](/object-oriented-programming-is-dead-wait-really-db1f1f05cc44) 
+</object-oriented-programming-is-dead-wait-really-db1f1f05cc44>  
 
 # 句法糖——或者为什么 Python 如此可爱
 

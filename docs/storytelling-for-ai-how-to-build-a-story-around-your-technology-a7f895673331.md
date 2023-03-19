@@ -30,11 +30,7 @@
 
 找一个你的大部分观众都能理解的简单概念，并以此为基础来构建你的故事。当我向从未编码或使用过 Git 的人解释[版本控制](/a-simple-story-to-explain-version-control-to-anyone-5ab4197cebbc)时，我理解了(几乎)从零开始建造一个小房子的比喻。每个人都知道房子是什么，厨房是什么，并且明白它需要 4 面墙。他们能够理解确保可能由几个人同时建造的相邻房间需要在设计、门等方面相互配合的挑战。
 
-[](/a-simple-story-to-explain-version-control-to-anyone-5ab4197cebbc) [## 向任何人解释版本控制的简单故事
-
-### 让我们一起盖房子吧…用 git。
-
-towardsdatascience.com](/a-simple-story-to-explain-version-control-to-anyone-5ab4197cebbc) 
+</a-simple-story-to-explain-version-control-to-anyone-5ab4197cebbc>  
 
 # **限制你使用花哨的技术词汇**
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/a-simple-story-to-explain-version-control-to-anyone-5ab
 
 我之前提到过，我对流行语有一点问题，(我过去可能对[大数据](/bye-bye-big-data-fbea187c7739)有一点抨击)。在企业界使用流行语让我感到沮丧。每个人都想要创新、大数据、实时、智能系统，而这些词的含义在无尽的 PowerPoint 路线图中迷失了。
 
-[](/bye-bye-big-data-fbea187c7739) [## 拜拜大数据！
-
-### 每个人过去都说大数据是未来。有错吗？现在呢？
-
-towardsdatascience.com](/bye-bye-big-data-fbea187c7739) 
+</bye-bye-big-data-fbea187c7739>  
 
 如果你的故事中包含流行语，它们的使用必须是合理的。当它们真正为您的解决方案增加价值时，请将它们放在适当的位置。甚至非技术人员也学会了看过去的流行语，现在想知道人工智能在实践中能提供什么，以及你的解决方案有多可行。
 

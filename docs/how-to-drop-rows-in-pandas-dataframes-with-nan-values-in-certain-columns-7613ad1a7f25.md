@@ -104,14 +104,6 @@ import pandas as pddf = pd.DataFrame({
 
 **你可能也会喜欢**
 
-[](/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f) [## 如何向现有的 Pandas 数据框架添加新列
-
-### 讨论在熊猫数据框中插入新列的 4 种方法
-
-towardsdatascience.com](/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f) [](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [## 使用性能可视化来监控 Python 代码
-
-### 如何持续测量、可视化和提高 Python 代码在生产中的性能
-
-medium.com](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [## 如何将 Python 包上传到 PyPI
+</how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f>  <https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb>  </how-to-upload-your-python-package-to-pypi-de1b363a1b3> [## 如何将 Python 包上传到 PyPI
 
 towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3)

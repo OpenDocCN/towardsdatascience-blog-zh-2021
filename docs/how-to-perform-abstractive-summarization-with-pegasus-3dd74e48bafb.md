@@ -88,12 +88,4 @@ PEGASUS 使用编码器-解码器模型|图片由作者提供
 
 # 参考
 
- [## PEGASUS:用提取的间隔句进行抽象摘要的预训练
-
-### 最近的工作预训练变压器与自我监督的目标对大型文本语料库显示了巨大的成功…
-
-arxiv.org](https://arxiv.org/abs/1912.08777)  [## 飞马座-变压器 4.2.0 文件
-
-### 声明:如果你看到一些奇怪的事情，请提交 Github 问题，并分配@patrickvonplaten。飞马座模型是…
-
-huggingface.co](https://huggingface.co/transformers/model_doc/pegasus.html)
+   

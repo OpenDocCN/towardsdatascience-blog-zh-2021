@@ -10,11 +10,7 @@
 
 让一个计算机程序学习如何玩 Atari 游戏似乎是一项非常困难的任务。好吧，我来告诉你…它是什么。但是相信我，如果我能做到，你也能。本页假设你已经通读并稍微理解了深度 RL 的理论(链接在下面)。但是要注意，理论不足以让代理学习雅达利！有了强化学习，一切都在实施中，魔鬼就在细节中！因此，这篇文章的其余部分将集中在一行一行地实现代码，以使我们的代理工作。
 
-[](/what-is-deep-reinforcement-learning-de5b7aa65778) [## 什么是深度强化学习？
-
-### 详细的介绍
-
-towardsdatascience.com](/what-is-deep-reinforcement-learning-de5b7aa65778) 
+</what-is-deep-reinforcement-learning-de5b7aa65778>  
 
 # 实施:
 

@@ -196,18 +196,10 @@ Plotly 很酷的一点是，你可以将鼠标悬停在该点上以获得更多�
 
 作为一个挑战，尝试用 Plotly Express 创建另一个可视化，并将其添加到仪表板中。要查看 Plotly Express 的其他可视化效果，请查看此博客:
 
-[](https://shreya-chaudhary.medium.com/enhancing-your-kaggle-computations-with-tigergraph-part-ii-creating-visualisations-with-plotly-1197d7707dac) [## 用 TigerGraph 增强你的 Kaggle 计算(第二部分):用 Plotly 创建可视化…
-
-### 使用 Plotly Express 创建简单的可视化
-
-shreya-chaudhary.medium.com](https://shreya-chaudhary.medium.com/enhancing-your-kaggle-computations-with-tigergraph-part-ii-creating-visualisations-with-plotly-1197d7707dac) 
+<https://shreya-chaudhary.medium.com/enhancing-your-kaggle-computations-with-tigergraph-part-ii-creating-visualisations-with-plotly-1197d7707dac>  
 
 接下来，尝试使用您选择的不同 API 创建另一个仪表板。如果您有任何问题或想要展示您的项目，请在此加入 TigerGraph Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 586 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 祝你好运！

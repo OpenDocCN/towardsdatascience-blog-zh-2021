@@ -4,7 +4,7 @@
 
 我们现在正处于回归的季节——无论是新学年，新工作，还是从夏季的缓慢节奏中回归(至少对我们这些生活在北半球的人来说)。这可能是一段紧张忙碌的时间，但也是培养新技能和思考新想法的时期。我们希望你是后者；我们在这里帮助一些优秀的阅读，从高度理论性的到明确的实践。现在是九月！我们走吧。
 
-*   [](/minimal-viable-developer-acing-your-first-month-in-software-8273663edb38)**在一份新的技术工作中，遵循一个屡试不爽的成功蓝图。无论你是一名数据科学家、机器学习工程师，还是日常工作中与代码打交道的人，你都不想错过 [Archy de Berker](https://medium.com/u/f651916e4a3f?source=post_page-----3cecc24818b3--------------------------------) 为你在新角色中的第一个月打下基础的文章。它涵盖了广泛的领域——从设置到部署，再到代码审查——所以在入职培训完成后，您很可能会将它作为一种资源重新使用。**
+*   </minimal-viable-developer-acing-your-first-month-in-software-8273663edb38>**在一份新的技术工作中，遵循一个屡试不爽的成功蓝图。无论你是一名数据科学家、机器学习工程师，还是日常工作中与代码打交道的人，你都不想错过 [Archy de Berker](https://medium.com/u/f651916e4a3f?source=post_page-----3cecc24818b3--------------------------------) 为你在新角色中的第一个月打下基础的文章。它涵盖了广泛的领域——从设置到部署，再到代码审查——所以在入职培训完成后，您很可能会将它作为一种资源重新使用。**
 *   **[**学习如何从务实、实用的角度对待公平的理念**](/what-does-it-mean-to-be-fair-measuring-and-understanding-fairness-4ab873245c4c) 。最近几个月，我们看到了许多关于机器学习和人工智能背景下公平意义的生动对话，但这个概念往往保持抽象和无定形。Divya Gopinath 的帖子是一个新的邀请，邀请大家加入这些讨论，着眼于可测量的、真实世界的用例。**
 
 **![](img/c33ac0725cf82dc67e6c61d8137b9eb3.png)**
@@ -14,7 +14,7 @@
 *   **[**发现令人兴奋的项目数据科学家们在非营利领域打头阵**](/adapting-data-science-tools-for-social-impact-in-philanthropy-73a8a382c79c) **。**我们经常听说科学家在学术界和工业界创造的前沿工作数据。正如 Madeline Lisaius 最近与 Elliot Gunn 的谈话所表明的那样，在非营利组织工作——如洛克菲勒基金会，Madeline 是该基金会的首席数据科学家——提供了许多关注关键社会影响和可持续发展问题的机会。**
 *   **[**跟上最新深度学习研究**](/four-deep-learning-papers-to-read-in-september-2021-3650a30725d) 。新的一个月只能意味着一件事:罗伯特·兰格精心挑选的学术论文推荐的新版本。九月的阵容涵盖了热门话题，包括 AutoML，视觉变压器(ViT)，以及费希尔信息矩阵和推广之间的关系。**
 *   **[**探索一种有前途的替代人工标注训练数据的方法**](/probabilistic-machine-learning-and-weak-supervision-dd604c5dbff8) 。我们非常高兴地欢迎雨果·鲍恩-安德森的回归，尤其是当他的最新帖子是一个令人信服的、亲自动手的深度探讨，展示了“关于人类如何与机器合作来标记训练数据和建立机器学习模型的原则证明”**
-*   **[](/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90)**按时交付项目，改善团队的业绩记录。作为一名七年的数据工程师， [Christophe Blefari](https://medium.com/u/b8c2e41fcf16?source=post_page-----3cecc24818b3--------------------------------) 亲眼目睹了迫使数据团队错过项目期限的诸多因素。他在这篇文章中致力于诊断问题——并提供潜在的补救措施，从更有效的优先化到雇佣具有不同技能的团队。****
+*   **</data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90>**按时交付项目，改善团队的业绩记录。作为一名七年的数据工程师， [Christophe Blefari](https://medium.com/u/b8c2e41fcf16?source=post_page-----3cecc24818b3--------------------------------) 亲眼目睹了迫使数据团队错过项目期限的诸多因素。他在这篇文章中致力于诊断问题——并提供潜在的补救措施，从更有效的优先化到雇佣具有不同技能的团队。****
 
 ****随着我们进入新的赛季，我们希望你能顺利过渡到接下来的比赛。一如既往地感谢[对我们作者工作的支持](https://medium.com/membership)。****
 

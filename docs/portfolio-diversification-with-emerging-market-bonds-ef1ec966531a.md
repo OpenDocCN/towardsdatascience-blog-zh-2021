@@ -263,22 +263,6 @@
 
 **(本练习的完整 Python 代码和支持文档可在我的 [GitHub 页面](https://github.com/at-tan/EM_Bonds_Diversification)获得。如果直接渲染 GitHub 笔记本文件有问题，请使用 [nbviewer](https://nbviewer.org/) 。)**
 
-**如果你看到了阅读这样的文章的价值，你可以在这里订阅 Medium[](https://at-tan.medium.com/membership)**来阅读我和无数其他作家的其他文章。谢谢你。****
+**如果你看到了阅读这样的文章的价值，你可以在这里订阅 Medium<https://at-tan.medium.com/membership>**来阅读我和无数其他作家的其他文章。谢谢你。****
 
-**[](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [## 比特币与宏观因素关系的转变
-
-### 使用回归和统计推断来估计自疫情以来的关系变化
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f) [](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [## 多元时间序列的堆积机器学习模型
-
-### PM 2.5 空气污染数据集的个例研究
-
-towardsdatascience.com](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [](https://medium.datadriveninvestor.com/top-python-hacks-for-finance-f9ea900a686c) [## 面向金融的顶级 Python 黑客
-
-### 用比特币时间序列数据
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/top-python-hacks-for-finance-f9ea900a686c) [](/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3) [## 外汇市场的等级聚类
-
-### 使用无监督的机器学习来识别行为货币群
-
-towardsdatascience.com](/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3)**
+**<https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f>  </stacking-machine-learning-models-for-multivariate-time-series-28a082f881>  <https://medium.datadriveninvestor.com/top-python-hacks-for-finance-f9ea900a686c>  </a-hierarchical-clustering-of-currencies-80b8ba6c9ff3> **

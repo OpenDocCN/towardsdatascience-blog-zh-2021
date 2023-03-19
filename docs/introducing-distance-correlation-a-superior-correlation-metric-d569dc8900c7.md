@@ -100,19 +100,11 @@ import dcordef distance_correlation(a,b):
 
 **不确定接下来该读什么？我为你挑选了另一篇文章:**
 
-[](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+</10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 **又一个！**
 
-[](/21-tips-for-every-data-scientist-for-2021-3d4c28471a6c) [## 2021 年每位数据科学家的 21 条建议
-
-### #19.学会如何设定期望值将对你在职业生涯中的“成功”程度产生很大影响。
-
-towardsdatascience.com](/21-tips-for-every-data-scientist-for-2021-3d4c28471a6c) 
+</21-tips-for-every-data-scientist-for-2021-3d4c28471a6c>  
 
 # 特伦斯·申
 

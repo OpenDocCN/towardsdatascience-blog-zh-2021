@@ -122,19 +122,11 @@ Pandas 是一个用于数据操作和分析的 Python 库。我个人在 Jupyter
 
 **不确定接下来要读什么？我为你挑选了另一篇文章:**
 
-[](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) [## 2022 年你应该知道的 10 个最实用的数据科学技能
-
-### 实际上能让你就业的技能
-
-towardsdatascience.com](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) 
+</10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a>  
 
 **又一个！**
 
-[](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) [## 为期 15 周的完整课程，旨在掌握数据科学的 SQL
-
-### 在 15 周内学习最重要的数据科学技能
-
-towardsdatascience.com](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) 
+</a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4>  
 
 ## 特伦斯·申
 

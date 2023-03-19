@@ -194,10 +194,6 @@ pokemon = [
 
 *另一种提高代码质量的方法是编写**类型提示**。类型提示是一个伟大的 Python 特性，许多项目都可以从中受益。如果你是输入提示的新手，那么我已经写了一篇关于这个主题的博文:*
 
-*[](/modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1) [## 用漂亮的类型提示使你罪恶的 Python 代码现代化
-
-### 成为拥有专业代码质量技能的顶级掠夺者
-
-towardsdatascience.com](/modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1) 
+*</modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1>  
 
 如果你对数据科学、编程或任何介于两者之间的东西感兴趣，那么请随意在 LinkedIn 上加我，并向✋问好*

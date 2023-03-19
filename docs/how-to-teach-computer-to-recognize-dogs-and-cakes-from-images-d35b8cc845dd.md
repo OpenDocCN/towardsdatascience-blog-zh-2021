@@ -77,8 +77,4 @@
 
 *原载于 2021 年 1 月 18 日*[*https://majsylw . netlify . app*](https://majsylw.netlify.app/post/ai4teenegers/)*。*
 
-[](https://github.com/majsylw/chihuahua-vs-muffin) [## GitHub-majsylw/chihuahua-vs-muffin:为波兰学生进行的深度学习练习…
-
-### 2020/21 年冬季为波兰学生进行的深度学习练习(波兰语)。与弗罗茨瓦夫合作…
-
-github.com](https://github.com/majsylw/chihuahua-vs-muffin)
+<https://github.com/majsylw/chihuahua-vs-muffin> 

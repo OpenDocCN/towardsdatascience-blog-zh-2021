@@ -209,24 +209,8 @@ GitHub desktop 会询问将存储库克隆到本地机器的哪个位置。这�
 
 现在你知道如何使用 GitHub 和 GitHub Desktop 完成最基本的版本控制任务了！
 
-[](https://realdrewdata.medium.com/membership) [## 通过我的推荐链接加入 Medium-Drew Seewald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/membership) 
+<https://realdrewdata.medium.com/membership>  
 
 # 进一步阅读
 
- [## 了解 GitHub 流程
-
-### 当你在做一个项目时，在任何给定的时间，你都会有一堆不同的功能或想法在进行中…
-
-guides.github.com](https://guides.github.com/introduction/flow/)  [## 使用 Git 进行版本控制
-
-### 沃尔夫曼和德古拉受雇于环球任务公司(一家从欣快感州立大学分离出来的太空服务公司)。
-
-SW 木工. github.io](https://swcarpentry.github.io/git-novice/)  [## 什么是版本控制|阿特拉斯 Git 教程
-
-### 版本控制，也称为源代码控制，是跟踪和管理软件代码变更的实践…
-
-www.atlassian.com](https://www.atlassian.com/git/tutorials/what-is-version-control)
+     

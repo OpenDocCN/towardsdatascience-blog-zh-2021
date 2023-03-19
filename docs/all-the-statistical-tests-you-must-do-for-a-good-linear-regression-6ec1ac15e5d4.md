@@ -241,8 +241,4 @@ LR 是一个强大的工具。特别是当你知道如何创建它并测试它�
 
 如果你喜欢这个内容，探索并关注我的博客。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

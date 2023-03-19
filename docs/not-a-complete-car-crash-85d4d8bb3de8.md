@@ -34,11 +34,7 @@
 
 你可能会问，什么是门？
 
-[](https://en.wikipedia.org/wiki/Dooring) [## 敲门-维基百科
-
-### 撞门是一种交通碰撞或撞车事故，其中骑自行车的人(或其他道路使用者)撞上了机动车的车门，或…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Dooring) 
+<https://en.wikipedia.org/wiki/Dooring>  
 
 **哎哟！**
 
@@ -68,11 +64,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Dooring)
 
 我们如何知道一个模型是好的，这个问题的核心是精确度和召回率的权衡。您可以在此了解有关这两个指标的更多信息:
 
-[](/explaining-precision-vs-recall-to-everyone-295d4848edaf) [## 向每个人解释精确与回忆
-
-### 定义精确度、召回率、准确度和 F1 分数之间的差异
-
-towardsdatascience.com](/explaining-precision-vs-recall-to-everyone-295d4848edaf) 
+</explaining-precision-vs-recall-to-everyone-295d4848edaf>  
 
 退一步说，我们需要研究的模型将不得不**尽可能减少预测的假阴性比例**。在这种情况下，假阴性是预测碰撞不会造成任何伤害，而实际上，这种碰撞确实造成了伤害。模型错过的每一次这样的碰撞本身就是**错过了了解什么因素导致了**这样的碰撞的机会，同样，**也错过了避免受伤**(以及拯救生命)的机会。
 
@@ -90,11 +82,7 @@ towardsdatascience.com](/explaining-precision-vs-recall-to-everyone-295d4848edaf
 
 现在，我们已经设定了基准，我们将根据这些基准挑选出某个(些)模型进行进一步调查，我们从这里下载了碰撞和车辆数据集，以进行处理:
 
-[](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) [## 交通事故-事故|芝加哥市|数据门户
-
-### 编辑描述
-
-data.cityofchicago.org](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) 
+<https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if>  
 
 我们首先清除每个数据集的空值，并简化(大部分)分类特征。这一过程中至关重要的一步是认识到我们正在解决的二元分类问题也是一个**类别不平衡**问题(幸运的是，造成伤害的事故在所有事故中属于少数类别)。下一步，我们在每个数据集上训练了一些来自 Sci-Kit Learn 监督学习算法的模型，使用这些训练好的模型进行预测，并评估这些预测的正确程度。作为最后的评估步骤，在交叉验证的基础上对每个模型的精确度和召回率进行评分。重要的是在交叉验证的基础上查看这些分数，以确保所获得的召回指标是稳健的。
 
@@ -132,8 +120,4 @@ data.cityofchicago.org](https://data.cityofchicago.org/Transportation/Traffic-Cr
 
 我们可以用更多的数据做更多的事情。实际上，在芝加哥城市门户网站上有更多的数据要处理，包括与司机相关的整个数据集。我们希望对数据集中的肇事逃逸进行与我们对门处理相同的分析。本博客中所有探索性数据分析、建模和可视化的代码可以在下面的 github repo 中找到:
 
-[](https://github.com/hsinhinlim/Flatiron-Module-3-Final-Project) [## hsinhinlim/熨斗-模块-3-最终-项目
-
-### 在 GitHub 上创建一个帐户，为 hsinhinlim/flat iron-Module-3-Final-Project 的开发做出贡献。
-
-github.com](https://github.com/hsinhinlim/Flatiron-Module-3-Final-Project)
+<https://github.com/hsinhinlim/Flatiron-Module-3-Final-Project> 

@@ -267,10 +267,6 @@ CREATE FUNCTION is_greater
 
 在 LinkedIn 上与我联系
 
-[](https://www.linkedin.com/in/rahulbanerjee2699/) [## Rahul baner JEE——产品工程实习生——EY | LinkedIn
-
-### 查看 Rahul Banerjee 在世界上最大的职业社区 LinkedIn 上的个人资料。拉胡尔有 4 个工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/rahulbanerjee2699/) 
+<https://www.linkedin.com/in/rahulbanerjee2699/>  
 
 *原载于*[*section . io*](https://www.section.io/engineering-education/sql-user-defined-functions/)*2021 年 2 月 1 日*

@@ -185,16 +185,4 @@ Out[2]: ('a', 'b', [1, 2, 3, 'surprise'])
 
 **更多来自同一作者。**
 
-[](/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df) [## 多武装匪徒:汤普森采样算法
-
-### 了解带 Python 代码的 Thompson 采样(贝叶斯)bandit 算法。
-
-towardsdatascience.com](/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df) [](/going-bayesian-testing-rate-metrics-82e872b79175) [## 走向贝叶斯:测试速率度量
-
-### 如何在没有 p 值和置信区间的情况下运行速率度量的 A/B 测试？
-
-towardsdatascience.com](/going-bayesian-testing-rate-metrics-82e872b79175) [](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [## 使用蒙特卡罗模拟计算𝛑
-
-### 用 Python 代码介绍蒙特卡罗模拟。
-
-medium.com](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5)
+</multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df>  </going-bayesian-testing-rate-metrics-82e872b79175>  <https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5> 

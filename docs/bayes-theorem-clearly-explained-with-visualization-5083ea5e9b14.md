@@ -263,20 +263,4 @@ P(H)可以通过用 P(D)减去 1 得到:
 
 **如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:**
 
-**[](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [## SHAP:用 Python 解释任何机器学习模型
-
-### SHAP 和沙普利价值观综合指南
-
-towardsdatascience.com](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00) [## 人类学习:通过绘图创建人类学习模型
-
-### 使用您的领域知识来标记您的数据
-
-towardsdatascience.com](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00)**
+**</observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </shap-explain-any-machine-learning-model-in-python-24207127cad7>  </human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00> **

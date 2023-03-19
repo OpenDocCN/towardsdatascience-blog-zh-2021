@@ -116,14 +116,6 @@ df.na.fill(value=0, subset=['population']).show()+---+---------+--------------+-
 
 你可以在下面找到更多 Spark 相关的文章。
 
-[](/distinct-vs-dropduplicates-in-spark-3e28af1f793c) [## Spark 中的 distinct()与 dropDuplicates()
-
-### Spark 中 distinct()和 dropDuplicates()有什么区别？
-
-towardsdatascience.com](/distinct-vs-dropduplicates-in-spark-3e28af1f793c) [](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/sort-vs-orderby-in-spark-8a912475390) [## Spark 中的 sort()与 orderBy()
+</distinct-vs-dropduplicates-in-spark-3e28af1f793c>  </sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a>  </sort-vs-orderby-in-spark-8a912475390> [## Spark 中的 sort()与 orderBy()
 
 towardsdatascience.com](/sort-vs-orderby-in-spark-8a912475390)

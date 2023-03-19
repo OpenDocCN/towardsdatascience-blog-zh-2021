@@ -179,10 +179,6 @@ MSE-MAD 损失函数
 
 本人积极训练铁人三项，热爱健身。
 
- [## 伊森·约翰逊-斯金纳-数学导师-夏普 Minds 学院| LinkedIn
-
-### 我最近在瑞尔森大学获得了应用数学硕士学位。我是财务的一部分…
-
-www.linkedin.com](https://www.linkedin.com/in/ethanjohnsonskinner/) 
+  
 
 推特:@Ethan_JS94

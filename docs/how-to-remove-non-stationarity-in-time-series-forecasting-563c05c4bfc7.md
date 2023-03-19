@@ -22,19 +22,11 @@
 
 > 你可以从[这里](https://ibexorigin.medium.com/list/time-series-forecast-from-scratch-c72ccf7a9229)访问这个时间序列预测系列的所有文章。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 为什么平稳性很重要？
 
@@ -54,7 +46,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 ![](img/faa4f2eb9cd729467ac10f3033b302e5.png)
 
-**形象由**[](https://otexts.com/fpp2/)****【1】组成。免费在线书籍。****
+**形象由**<https://otexts.com/fpp2/>****【1】组成。免费在线书籍。****
 
 **既然平稳序列有恒定方差，我们可以排除 **a，c，e，f，**和 **i** 。这些图显示了明显的上升或下降趋势或变化水平，如 **f** 所示。**
 

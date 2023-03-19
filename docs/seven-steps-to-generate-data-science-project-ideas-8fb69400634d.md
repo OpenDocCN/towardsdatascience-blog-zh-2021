@@ -310,14 +310,6 @@ Ng 建议阅读和复制机器学习论文，这是专门针对机器学习研�
 
 如果你喜欢这篇文章，一定要看看:
 
-[](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e) [## 应该用 Python pathlib 还是 os？
-
-### 两个 Python 路径库之间的决斗
-
-better 编程. pub](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e) [](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e) [## 应该用 Python pathlib 还是 os？
-
-### 两个 Python 路径库之间的决斗
-
-better 编程. pub](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e) 
+<https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e>  <https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e>  
 
 *最初发表于*[*https://www.datasciencesouth.com*](https://www.datasciencesouth.com/blog/data-science-project-ideas)*。*

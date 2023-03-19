@@ -227,30 +227,14 @@
 
 ******以下是后续**课程 3** 的文章:******
 
-******[](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee) [## MLOps 专业化认证的关键学习点—课程 3
-
-### 来自面向生产的机器学习工程(MLOps)课程的主要见解(附课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee) 
+******</key-learning-points-from-mlops-specialization-course-3-9e67558212ee>  
 
 如果您还没有，请查看该系列的**课程 1** :
 
-[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要内容
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) 
+</key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  
 
 # 在你走之前
 
 欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受构建生产 ML 系统的乐趣！
 
-[](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) [## 如何轻松绘制神经网络架构图
-
-### 使用无代码 diagrams.net 工具通过图表可视化展示您的深度学习模型
-
-towardsdatascience.com](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) [](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现许多数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96)******
+</how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875>  </the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96> ******

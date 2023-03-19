@@ -44,7 +44,7 @@ Python 片段基本分析:列列表、数据形状、日期范围和分组
 
 Tableau 即:测试对病例和死亡的影响——作者图片
 
-*注意:不幸的是，嵌入交互式 Tableau 仪表板相当具有挑战性。此处的 vizes 可以跟随*[](https://public.tableau.com/profile/deepika1871#!/vizhome/Covid_Analysis_16180481664000/Vaccinations)**。**
+*注意:不幸的是，嵌入交互式 Tableau 仪表板相当具有挑战性。此处的 vizes 可以跟随*<https://public.tableau.com/profile/deepika1871#!/vizhome/Covid_Analysis_16180481664000/Vaccinations>**。**
 
 *上面是一个可视化的表格，显示了各个国家的感染率和死亡率，并通过检测率进行了着色。我认为“最大值”是一个集合，因为它给出了每一列的最新观察结果。例如，测试率通过以下方式衡量:*
 

@@ -47,7 +47,7 @@
 
 ![](img/0b887c42fb4457dc6c945746eb4f421b.png)
 
-*来源:【https://www.hulu.com/hub/originals】[](https://www.hulu.com/hub/originals)*
+*来源:【https://www.hulu.com/hub/originals】<https://www.hulu.com/hub/originals>*
 
 *在像网飞或 Hulu 这样的应用程序中，我们希望预测用户对某个项目的评分。在这种情况下，我们希望测量系统预测评级的准确性。用于评估预测收视率准确性的流行指标是[均方根误差](https://en.wikipedia.org/wiki/Root-mean-square_deviation)和[平均绝对误差](https://en.wikipedia.org/wiki/Mean_absolute_error)。与 MAE 相比，RMSE 对重大失误的处罚力度更大。*
 

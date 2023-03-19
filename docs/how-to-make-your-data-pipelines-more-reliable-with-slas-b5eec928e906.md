@@ -76,7 +76,7 @@ SLA 还将沟通形式化并简化，确保您的团队和您的利益相关者�
 
 > 一旦您了解了(1)您正在处理哪些数据，(2)如何使用这些数据，以及(3)谁在使用这些数据，您就能够制定清晰、可行的 SLA。
 
-(如果你仍然不确定这些 SLA 会是什么样子，我强烈推荐阅读这个关于设置数据仓库 SLA 的[](https://locallyoptimistic.com/post/data-warehouse-sla-p2/)**[**系列**](https://locallyoptimistic.com/post/data-warehouse-sla-p1/) 。Brooklyn Data Co .的 Scott Breitenother 提供了一个非常强大的入门模板，以及与利益相关者沟通 SLA 的实用建议。**
+(如果你仍然不确定这些 SLA 会是什么样子，我强烈推荐阅读这个关于设置数据仓库 SLA 的<https://locallyoptimistic.com/post/data-warehouse-sla-p2/>**[**系列**](https://locallyoptimistic.com/post/data-warehouse-sla-p1/) 。Brooklyn Data Co .的 Scott Breitenother 提供了一个非常强大的入门模板，以及与利益相关者沟通 SLA 的实用建议。**
 
 ## **步骤 2:用 SLIs 测量数据可靠性**
 

@@ -60,12 +60,4 @@ Hedonic 模型是多变量回归模型，其具有作为输入的属性特征，
 
 如果您是数据科学的新手，您可能会对以下文章感兴趣:
 
-[](https://pub.towardsai.net/top-3-books-a-new-data-scientist-should-read-fb87742cafd3) [## 新数据科学家应该阅读的前三本书
-
-### 每个人的书架上都应该有数据科学书籍
-
-pub.towardsai.net](https://pub.towardsai.net/top-3-books-a-new-data-scientist-should-read-fb87742cafd3) [](/top-3-programming-mistakes-every-data-scientist-makes-c0a0476de3b9) [## 每个数据科学家都会犯的 3 大编程错误
-
-### 如何使用熊猫、Sklearn 和函数
-
-towardsdatascience.com](/top-3-programming-mistakes-every-data-scientist-makes-c0a0476de3b9)
+<https://pub.towardsai.net/top-3-books-a-new-data-scientist-should-read-fb87742cafd3>  </top-3-programming-mistakes-every-data-scientist-makes-c0a0476de3b9> 

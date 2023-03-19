@@ -52,7 +52,7 @@
 
 要亲自尝试，请查看我们的[示例笔记本](https://gist.github.com/zredlined/7692fe2bb8999f933f64e62cf912245e)。
 
-[](https://colab.research.google.com/gist/zredlined/7692fe2bb8999f933f64e62cf912245e/synthetic-data-uber-differential-privacy.ipynb) [## 谷歌联合实验室
+<https://colab.research.google.com/gist/zredlined/7692fe2bb8999f933f64e62cf912245e/synthetic-data-uber-differential-privacy.ipynb> [## 谷歌联合实验室
 
 ### Gretel . ai—colab.research.google.com 优步 DP 实验笔记本](https://colab.research.google.com/gist/zredlined/7692fe2bb8999f933f64e62cf912245e/synthetic-data-uber-differential-privacy.ipynb) 
 

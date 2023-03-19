@@ -164,11 +164,7 @@ h1:ᾱ1！= Ᾱ2
 
 根据实际情况，我们也可以设置零假设来检验两个均值之间的差值是否大于某个大于 0 的数，这个数有时称为效应大小。更大的效应大小使得更容易拒绝零假设，因为差异更大，因此增加了统计功效。要了解更多细节，你可以在这里查看我的文章:
 
-[](/how-is-sample-size-related-to-standard-error-power-confidence-level-and-effect-size-c8ee8d904d9c) [## 样本大小与标准误差、功效、置信水平和效应大小有什么关系？
-
-### 使用图表来展示相关性
-
-towardsdatascience.com](/how-is-sample-size-related-to-standard-error-power-confidence-level-and-effect-size-c8ee8d904d9c) 
+</how-is-sample-size-related-to-standard-error-power-confidence-level-and-effect-size-c8ee8d904d9c>  
 
 注意，当我们如上计算集体标准误差时，我们假设两个样本来自具有不同方差(σ1！= σ2 ) .当我们相信σ1 = σ2 时，我们可以计算合并的标准误差:
 
@@ -358,12 +354,4 @@ H0: P1！= P2
 
 感谢您的阅读。这是我所有博客帖子的列表。如果你感兴趣的话，可以去看看！
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [](https://zzhu17.medium.com/membership) [## 阅读朱(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership)
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  <https://zzhu17.medium.com/membership> 

@@ -36,17 +36,13 @@
 
 有一些技巧可以帮助提高批判性思维能力。其中一个技巧是基本原则思维。这是一个心理模型，有助于更好地理解问题。这是一个使用基本原则解决数据科学问题的示例。
 
-[](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) [## 如何用第一性原理思维解决数据科学问题？
+</how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21> [## 如何用第一性原理思维解决数据科学问题？
 
 towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) 
 
 心智模型是帮助清晰思考和更好决策的神奇工具。因此，采用心智模型有助于提高你的批判性思维能力。这里有一篇文章强调了在工作中采用心智模型的好处。
 
-[](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) [## 5 个心智模型有助于提升您的数据科学职业生涯
-
-### 激发超级思维的简单框架
-
-towardsdatascience.com](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) 
+</5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f>  
 
 # 编码
 
@@ -70,11 +66,7 @@ AutoML 解决方案会带来什么？近年来，许多汽车产品问世了。�
 
 您是否对数据科学感兴趣，但觉得自己不具备编码技能？这里有一篇文章可以帮助你学习数据科学的编码。
 
-[](/cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37) [## 不会编码？这里是学习数据科学编码的最好方法
-
-### 学习编码成为数据科学家的路线图
-
-towardsdatascience.com](/cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37) 
+</cant-code-here-is-the-best-way-to-learn-to-code-for-data-science-bfb0581ded37>  
 
 # 数学
 
@@ -96,11 +88,7 @@ towardsdatascience.com](/cant-code-here-is-the-best-way-to-learn-to-code-for-dat
 
 如果你有兴趣学习数据科学的数学。这是对你最好的菜。
 
-[](https://www.coursera.org/specializations/mathematics-for-data-science#courses) [## 数据科学的数学
-
-### 为您的数据科学技能奠定基础。掌握数据科学的广泛数学基础，并学习如何…
-
-www.coursera.org](https://www.coursera.org/specializations/mathematics-for-data-science#courses) 
+<https://www.coursera.org/specializations/mathematics-for-data-science#courses>  
 
 # 合作
 

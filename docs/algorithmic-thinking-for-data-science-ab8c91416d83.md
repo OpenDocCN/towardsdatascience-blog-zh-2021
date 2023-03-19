@@ -93,19 +93,7 @@ g(x) = 1.1x^2 + (10 + sin(x + 1.15) * x^1.5) + 6006f(x) = x^2
 
 ## 阅读有关数据科学算法的更多信息
 
-[](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) [## 逻辑程序设计和基于 Python 的人性化人工智能设计
-
-### 建立逻辑，促进机器中的人工智能
-
-towardsdatascience.com](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) [](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) [## 大数据函数式编程终极指南
-
-### 纯函数和惰性求值——分布式数据计算的症结
-
-towardsdatascience.com](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) [](/a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7) [## 最优化遗传“学习”算法指南
-
-### 利用强化学习和遗传算法重建图像
-
-towardsdatascience.com](/a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7) 
+</logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2>  </the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3>  </a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7>  
 
 # 结论
 

@@ -24,31 +24,19 @@
 
 面试几个月后，我决定把这个带回家的作业做成一个 Github 项目。最后，拥有一个 Github 项目是向外界展示我的编码技能和知识的最好方式之一。同时，我相信一个不符合软件开发最佳实践的 Github 项目是不值得的。所以，我决定让它更专业。怎么会？通过编写好的文档，开发几个测试，构建 CI/CD 管道，并在项目中进行最佳的编程实践。
 
-[](https://github.com/pdrm83/py2opt) [## GitHub — pdrm83/py2opt:如何用 2-opt 算法解决旅行商问题，a…
-
-### 在优化中，2-opt 是一个简单的局部搜索算法，具有特殊的交换机制，非常适合于解决
-
-github.com](https://github.com/pdrm83/py2opt) 
+<https://github.com/pdrm83/py2opt>  
 
 我还构建了一个名为 [py2opt](https://pypi.org/project/py2opt/) 的 PyPi 包。我以前用过很多社区开发的 Python 包。所以，我在想为什么我不应该回报。在这次旅行中，我学到了很多东西。在 PyPi 包的第一个版本发布几个月后，我收到了一封来自 10000 英里外的学生的电子邮件，感谢我并问了我一个问题。感觉很好。你可以感觉到你开发的东西解决了某人的问题。
 
 > 如果你想创建一个 Github 项目，请注意所有的细节。仅仅将代码推送到一个随机的存储库是不会有任何结果的。
 
-[](https://pypi.org/project/py2opt/) [## py2opt
-
-### 在优化中，2-opt 是一个简单的局部搜索算法，具有特殊的交换机制，非常适合于解决
-
-pypi.org](https://pypi.org/project/py2opt/) 
+<https://pypi.org/project/py2opt/>  
 
 ## 【第三集】写了一篇中等文章，并使之官方化！
 
 在确信 py2opt 包的质量之后，我写了一份白皮书解释我的实现。我将 2-opt 算法与动态规划和模拟退火进行了比较，并展示了我的实现执行得有多好。这对我来说是一个转折点。白皮书已经被 Google 通过搜索关键词“如何解决 TSP”索引到`wikipedia.com`、`math.uwaterloo.ca`等多个合法网站之上。这有助于我的文章和 Github 库获得非常稳定的日访问量(大约 100 次/天)。
 
-[](/how-to-solve-the-traveling-salesman-problem-a-comparative-analysis-39056a916c9f) [## 如何解决旅行商问题—比较分析
-
-### 通过 3 种优化方法:动态规划、模拟退火和 2-opt
-
-towardsdatascience.com](/how-to-solve-the-traveling-salesman-problem-a-comparative-analysis-39056a916c9f) 
+</how-to-solve-the-traveling-salesman-problem-a-comparative-analysis-39056a916c9f>  
 
 持续的每日流量有助于我的开源项目获得社区的关注。我的 2-opt 实现高效而快速。然而，在一个公共拉请求中，实现变得更快了。谢谢， [Clawsoon](https://github.com/clawsoon) ！这就是社区的力量。目前，我正在到处宣传这个项目，以确保更多的人了解这个项目。
 
@@ -78,8 +66,4 @@ towardsdatascience.com](/how-to-solve-the-traveling-salesman-problem-a-comparati
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我的* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

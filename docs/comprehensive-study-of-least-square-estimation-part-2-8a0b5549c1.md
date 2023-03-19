@@ -10,17 +10,13 @@
 
 在第一部分，我详细讨论了普通最小二乘问题。在这一部分(第二部分)，我将回顾多目标最小二乘问题。如果您尚未阅读第一部分，请参考以下文章了解更多信息:
 
-[](/comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3) [## 最小二乘估计的综合研究(上)
+</comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3> [## 最小二乘估计的综合研究(上)
 
 towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-1-32d24347f9e3) 
 
 更多信息和更详细的解释，请参考我的 YouTube 频道。
 
-[](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ/featured) [## 马尼·塔达扬
-
-### 关于数值线性代数、最优化、统计学、机器学习、编码等的教育视频。我的媒介…
-
-www.youtube.com](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ/featured) 
+<https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ/featured>  
 
 ## 多目标最小二乘
 
@@ -117,7 +113,7 @@ www.youtube.com](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ/featur
 
 请务必阅读第 3 部分关于约束最小二乘法的文章。
 
-[](/comprehensive-study-of-least-square-estimation-part-3-9ebefbbe8634) [## 最小二乘估计的综合研究(三)
+</comprehensive-study-of-least-square-estimation-part-3-9ebefbbe8634> [## 最小二乘估计的综合研究(三)
 
 towardsdatascience.com](/comprehensive-study-of-least-square-estimation-part-3-9ebefbbe8634) 
 

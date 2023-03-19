@@ -24,11 +24,7 @@
 
 还有一点需要注意的是，独热编码可能不适合基于树的机器学习，因为 OHE 在分割期间会导致效率低下。你可能想在下面的文章中读到更多。
 
-[](/one-hot-encoding-is-making-your-tree-based-ensembles-worse-heres-why-d64b282b5769) [## 一键编码使你的基于树的集合变得更糟，这是为什么？
-
-### 优化基于树的模型
-
-towardsdatascience.com](/one-hot-encoding-is-making-your-tree-based-ensembles-worse-heres-why-d64b282b5769) 
+</one-hot-encoding-is-making-your-tree-based-ensembles-worse-heres-why-d64b282b5769>  
 
 让我们使用一个 python 代码示例来更好地理解这个概念。
 
@@ -95,7 +91,7 @@ mpg.sample(5)
 
 **哈希编码通过** [**哈希函数**](https://computersciencewiki.org/index.php/Hashing) **将分类数据表示成数值。**哈希经常用于数据加密或数据比较，但主要部分仍然是相似的——使用哈希函数将一个特征转换为另一个特征。
 
-我不会深入解释散列过程，但是你可以阅读下面的文章来理解最常用的散列函数之一，[](https://ieeexplore.ieee.org/document/5474379)**。**
+我不会深入解释散列过程，但是你可以阅读下面的文章来理解最常用的散列函数之一，<https://ieeexplore.ieee.org/document/5474379>**。**
 
 **使用哈希编码的主要优点是，您可以控制该过程产生的数字列的数量。您可以用五列 25 或 50 个值(或任何您想要的数字)来表示分类数据。让我们试着用一个编码例子来做哈希编码。**
 
@@ -107,11 +103,7 @@ pip install category_encoders
 
 **该 Python 包包含许多用于分类编码过程的函数，并与 Featuretools 包(为配合 Featuretools 而开发的 category_encoders 包)配合使用。你可以看看我下面的文章，了解 Featuretools 做了什么。**
 
-**[](/easy-automated-feature-engineering-for-machine-learning-model-ea00c5059dd6) [## 用于机器学习模型的简单自动化特征工程
-
-### 自动化模型开发的痛苦部分
-
-towardsdatascience.com](/easy-automated-feature-engineering-for-machine-learning-model-ea00c5059dd6) 
+**</easy-automated-feature-engineering-for-machine-learning-model-ea00c5059dd6>  
 
 使用 category_encoders，让我们尝试对示例 mpg 数据集中的类别数据进行哈希编码。我们的数据集包含 13 基数的“model_year”数据，我想将它转换成五个数字特征。为此，我们可以尝试下面的代码。
 

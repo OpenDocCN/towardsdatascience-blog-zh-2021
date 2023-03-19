@@ -197,8 +197,4 @@ df3.style.apply(mean_greater)
 
 # 参考
 
-[](https://pandas.pydata.org/docs/user_guide/style.html#Styler-Functions) [## 表格可视化- pandas 1.3.4 文档
-
-### 本节演示如何使用 Styler 类可视化表格数据。有关可视化的信息，请使用…
-
-pandas.pydata.org](https://pandas.pydata.org/docs/user_guide/style.html#Styler-Functions)
+<https://pandas.pydata.org/docs/user_guide/style.html#Styler-Functions> 

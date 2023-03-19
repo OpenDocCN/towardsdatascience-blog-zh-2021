@@ -126,19 +126,11 @@ SE-ResNeXt-50 和 NFNet-F0 在架构上的区别。注意，在阿瑟-ResNeXt-50
 
 DeepMind 在其 GitHub 库中发布了 NFNets 的代码。然而，代码是用 JAX 的[和 T2 的](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research)[写成的。](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research)
 
-[](https://github.com/deepmind/deepmind-research/tree/master/nfnets) [## 深度思维/深度思维-研究
-
-### 该库包含 ICLR 2021 论文“表征信号传播以缩小性能差距”的代码
-
-github.com](https://github.com/deepmind/deepmind-research/tree/master/nfnets) 
+<https://github.com/deepmind/deepmind-research/tree/master/nfnets>  
 
 在流行的`timm`库中也可以找到 NFNets 的 PyTorch 实现。
 
-[](https://github.com/rwightman/pytorch-image-models) [## rwightman/py torch-图像-模型
-
-### PyTorch 图像模型、脚本、预训练权重- (SE)ResNet/ResNeXT、DPN、EfficientNet、MixNet、MobileNet-V3/V2…
-
-github.com](https://github.com/rwightman/pytorch-image-models) 
+<https://github.com/rwightman/pytorch-image-models>  
 
 # 结论
 

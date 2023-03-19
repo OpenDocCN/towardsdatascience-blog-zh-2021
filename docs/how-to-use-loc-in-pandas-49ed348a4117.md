@@ -120,11 +120,7 @@ ufo.loc[lambda df: df.City == ‘Abilene’, :]
 
 > **我们使用带有一个参数的 lambda 函数来指定行。传递给 lambda 函数的参数是 ufo 数据帧(被索引的数据帧)。lambda 函数返回一个布尔数组，然后用于指定行。**
 
-**[](/lambda-expressions-in-python-9ad476c75438) [## Python 中的 Lambda 表达式
-
-### 如何用 python 写匿名函数
-
-towardsdatascience.com](/lambda-expressions-in-python-9ad476c75438)** 
+**</lambda-expressions-in-python-9ad476c75438> ** 
 
 ## **结合这些方法**
 
@@ -140,11 +136,7 @@ ufo.loc[ufo.City == ‘Abilene’, ‘City’:’State’]
 
 **如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的 [***链接***](https://lmatalka90.medium.com/membership) *，我会赚一小笔佣金。***
 
-**[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)** 
+**<https://lmatalka90.medium.com/membership> ** 
 
 ## **结论**
 

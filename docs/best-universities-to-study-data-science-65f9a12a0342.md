@@ -28,11 +28,7 @@
 
 位于美国波士顿的麻省理工学院提供**商业分析硕士项目(MBAn)** 。这个为期 12 个月的项目为学生从事应用和管理现代数据科学的职业做准备，以解决关键的**商业**挑战。该计划的一个亮点是分析顶点项目，该项目允许学生与行业数据专业人员一起研究数据科学问题。所有学生都将获得 22，000 美元，并因其参与而抵消学费。MBA 毕业生继续在谷歌、亚马逊、波士顿咨询公司、麦肯锡公司和许多其他顶级科技和咨询公司工作。
 
-[](https://mitsloan.mit.edu/master-of-business-analytics#tour-welcome) [## 商业分析硕士|麻省理工斯隆管理学院
-
-### 阿舍赖特，MBAn 2020，探讨了为什么从麻省理工学院斯隆管理学院获得教育被比作从一个…
-
-mitsloan.mit.edu](https://mitsloan.mit.edu/master-of-business-analytics#tour-welcome) 
+<https://mitsloan.mit.edu/master-of-business-analytics#tour-welcome>  
 
 # 卡内基梅隆大学
 
@@ -40,11 +36,7 @@ mitsloan.mit.edu](https://mitsloan.mit.edu/master-of-business-analytics#tour-wel
 
 然而，获得卡内基梅隆大学计算数据科学硕士学位的学生可能不得不在匹兹堡之外寻找工作。这是因为美国的其他城市提供了更多的工作机会。
 
-[](https://mcds.cs.cmu.edu/) [## 卡内基梅隆大学-语言技术研究所
-
-### 卡内基梅隆大学计算机科学学院的学生和教师正在与数字…
-
-mcds.cs.cmu.edu](https://mcds.cs.cmu.edu/) 
+<https://mcds.cs.cmu.edu/>  
 
 > **提示:**值得一提的是，如果你打算毕业后在美国学习**和**工作，那么你应该多读一些关于 STEM 分类的内容。一些项目符合“STEM 指定项目”的条件，允许国际学生毕业后在美国延长培训 24 个月。否则，你将不得不返回你的国家。
 
@@ -52,11 +44,7 @@ mcds.cs.cmu.edu](https://mcds.cs.cmu.edu/)
 
 MILA 有几个通过参与机构提供的培训项目: [**麦吉尔大学**](https://www.cs.mcgill.ca/academic/graduate/admission/) 、 [**蒙特利尔高等商学院**](https://www.hec.ca/en/programs/masters/master-data-science-business-analytics/index.html) 和 [**蒙特利尔大学**](https://admission.umontreal.ca/programmes/maitrise-en-informatique/) 。如果你对研究感兴趣，MILA 将让学生和一名志愿者导师配对，为期 9 个月。导师将支持他们的学员实现个人和职业发展目标。2021 年 3 月，Mila 将启动导师计划的第二批项目。请记住，一些课程和导师项目需要高级法语水平，主要是在蒙特利尔大学。麦吉尔和 HEC 都提供一些英语课程。
 
-[](https://mila.quebec/en/) [## 首页-米拉
-
-### Mila 博士、理学硕士和 D.E.S.S .课程的督导请求将于 10 月 15 日至 12 月 15 日开放…
-
-米拉.魁北克](https://mila.quebec/en/) 
+<https://mila.quebec/en/>  
 
 # **欧洲**
 
@@ -78,21 +66,13 @@ MILA 有几个通过参与机构提供的培训项目: [**麦吉尔大学**](htt
 
 一个穿着制服戴着双角帽的理工学院学生。照片由 [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/User:Jastrow) 在[维基百科](https://en.wikipedia.org/wiki/Bicorne#/media/File:Bicorne_hat_Ecole_Polytechnique.jpg)上拍摄。
 
-[](https://programmes.polytechnique.edu/en/master/programs/data-science-for-business-joint-degree-with-hec) [## 商业硕士数据科学
-
-### 的 X-HEC 数据科学的商业硕士的科技是一个为期两年的计划，旨在为高层次的数据科学研究人员。
-
-programmes.polytechnique.edu](https://programmes.polytechnique.edu/en/master/programs/data-science-for-business-joint-degree-with-hec) 
+<https://programmes.polytechnique.edu/en/master/programs/data-science-for-business-joint-degree-with-hec>  
 
 ## **赫尔辛基大学**
 
 这可能会让许多有抱负的数据科学家感到惊讶。尽管如此，芬兰仍在数据相关项目上投入了大量资金，以帮助本国民众做好准备，利用人工智能和数据科学的指数级增长。赫尔辛基大学在教育芬兰人方面发挥了重要作用。学生可以选择专攻与数据科学相关的许多不同技术领域中的一个，如高级分析、机器学习、计算机视觉和研究。数据科学硕士课程为期两年，用芬兰语、英语和瑞典语授课。
 
- [## 数据科学│硕士课程|赫尔辛基大学
-
-### 跳转到赫尔辛基大学的主要内容学位发现者研究和发展所需的技能，以构建…
-
-www.helsinki.fi](https://www.helsinki.fi/en/admissions/degree-programmes/data-science-masters-programme) 
+  
 
 ## **结论**
 
@@ -100,19 +80,7 @@ www.helsinki.fi](https://www.helsinki.fi/en/admissions/degree-programmes/data-sc
 
 **感谢阅读。以下是你可能喜欢的其他文章:**
 
-[](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [## 数据科学家的最佳工作城市
-
-### 硅谷不是你唯一的选择。世界各地都需要数据科学家，说英语和法语可能…
-
-towardsdatascience.com](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [## 是什么让一个数据科学家脱颖而出？
-
-### 越来越多的人痴迷于硬技能，但软技能可以让你脱颖而出。
-
-towardsdatascience.com](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [](https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b) [## 你应该关注的 10 大人工智能影响者。
-
-### 随时关注人工智能领域的最新进展。
-
-medium.com](https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b) 
+</best-cities-to-work-as-a-data-scientist-a295ff60c6ef>  </what-makes-a-data-scientist-stand-out-e8822f466d4c>  <https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b>  
 
 **参考文献:**
 

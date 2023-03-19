@@ -120,7 +120,7 @@ gates = nc::dot(conv1d_1_out, W) + bias;
 
 **在下一篇文章中，我们将使用一个*有状态* LSTM 进行研究，看看我们能否提高训练的准确性和实时性能。**
 
-**[](/neural-networks-for-real-time-audio-stateful-lstm-b534babeae5d) [## 用于实时音频的神经网络:状态 LSTM
+**</neural-networks-for-real-time-audio-stateful-lstm-b534babeae5d> [## 用于实时音频的神经网络:状态 LSTM
 
 towardsdatascience.com](/neural-networks-for-real-time-audio-stateful-lstm-b534babeae5d) 
 

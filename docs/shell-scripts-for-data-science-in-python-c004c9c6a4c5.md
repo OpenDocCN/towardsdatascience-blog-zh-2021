@@ -94,12 +94,4 @@ Namespace(name='', age=1, date='20210709', debug=False, alive=False)
 
 我希望你喜欢这个故事和快乐的编码！
 
-[](/7-tell-tale-signs-that-you-need-to-level-up-your-python-ed2e41d0d2eb) [## 你需要提高你的 Python 水平的 7 个信号
-
-### 避免这些常见的不良做法和新手错误
-
-towardsdatascience.com](/7-tell-tale-signs-that-you-need-to-level-up-your-python-ed2e41d0d2eb) [](/python-type-hints-docstrings-7ec7f6d3416b) [## Python 类型提示和文档字符串
-
-### 在 Google 风格的文档字符串中自动插入 Python 的类型提示(3.5+)中的变量类型。
-
-towardsdatascience.com](/python-type-hints-docstrings-7ec7f6d3416b)
+</7-tell-tale-signs-that-you-need-to-level-up-your-python-ed2e41d0d2eb>  </python-type-hints-docstrings-7ec7f6d3416b> 

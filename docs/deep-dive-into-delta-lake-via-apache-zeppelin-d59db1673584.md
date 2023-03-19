@@ -168,16 +168,4 @@ Delta 最重要的特性是 ACID 支持，你可以在任何时候更新表而�
 
 # 参考
 
-[](http://zeppelin.apache.org/) [## 齐柏林
-
-### Apache Zeppelin 解释器概念允许任何语言/数据处理后端插入 Zeppelin。目前…
-
-zeppelin.apache.org](http://zeppelin.apache.org/) [](https://databricks.com/blog/2019/08/21/diving-into-delta-lake-unpacking-the-transaction-log.html) [## 了解 Delta Lake 事务日志- Databricks 博客
-
-### 事务日志是理解 Delta Lake 的关键，因为它是贯穿其许多…
-
-databricks.com](https://databricks.com/blog/2019/08/21/diving-into-delta-lake-unpacking-the-transaction-log.html) [](https://databricks.com/blog/2020/09/29/diving-into-delta-lake-dml-internals-update-delete-merge.html) [## Delta Lake 教程:如何使用 DML 轻松删除、更新和合并
-
-### 在以前的博客《深入三角洲湖:解包事务日志和深入三角洲湖:模式实施》中…
-
-databricks.com](https://databricks.com/blog/2020/09/29/diving-into-delta-lake-dml-internals-update-delete-merge.html)
+<http://zeppelin.apache.org/>  <https://databricks.com/blog/2019/08/21/diving-into-delta-lake-unpacking-the-transaction-log.html>  <https://databricks.com/blog/2020/09/29/diving-into-delta-lake-dml-internals-update-delete-merge.html> 

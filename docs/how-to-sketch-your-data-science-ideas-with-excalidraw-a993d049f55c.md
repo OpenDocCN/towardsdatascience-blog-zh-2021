@@ -142,20 +142,4 @@ Excalidraw 还允许您通过复制和粘贴 Excel 中的数据或纯逗号分�
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) [## 如何使用 Altair 创建多个图之间的绑定和条件
-
-### 使用绘图绑定从不同角度理解数据
-
-towardsdatascience.com](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00) [## 人类学习:通过绘图创建人类学习模型
-
-### 使用您的领域知识来标记您的数据
-
-towardsdatascience.com](/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00)
+</how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc>  </human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00> 

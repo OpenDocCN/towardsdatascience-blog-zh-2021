@@ -20,11 +20,7 @@
 
 您可以在下面的链接中找到所有这些信息；这可能是一个很好的起点，因为本文不会详细讨论相同的主题。
 
-[](/stylize-and-automate-your-excel-files-with-python-cab49b57b25a) [## 使用 Python 风格化和自动化您的 Excel 文件
-
-### 如何利用 Python 创建风格化的 Excel 报表使用 xlwings，初学者入门 Python 的一种方式。
-
-towardsdatascience.com](/stylize-and-automate-your-excel-files-with-python-cab49b57b25a) 
+</stylize-and-automate-your-excel-files-with-python-cab49b57b25a>  
 
 我这篇文章的目标是帮助你在使用我上一篇文章中学到的 Excel/python 格式化技巧的同时总结你的数据。我们将对数据进行旋转、分组和排序。然后制作图表、设计风格并向摘要页面添加徽标。这些技能相结合将使您能够在一个简单的 python 脚本中对数据进行汇总和格式化。希望这篇文章和上一篇一样有用！
 
@@ -280,8 +276,4 @@ logo.height = 54**
 
 *****注:本文仅代表个人观点和经验。*****
 
-****[](/one-useful-way-to-track-the-end-of-lockdown-using-python-936809116a0a) [## 使用 Python 跟踪锁定结束的一种有用方法
-
-### 使用 Python 和 OpenTable 的行业公开可用数据来跟踪全球从封锁和…
-
-towardsdatascience.com](/one-useful-way-to-track-the-end-of-lockdown-using-python-936809116a0a)****
+****</one-useful-way-to-track-the-end-of-lockdown-using-python-936809116a0a> ****

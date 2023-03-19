@@ -211,20 +211,8 @@ PCA 解释的方差图。图片来自[作者](https://solclover.com/)。
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 一些相关的文章你可能会感兴趣:
 
-[](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [## UMAP 降维——一种非常健壮的机器学习算法
-
-### 一致流形近似和投影(UMAP)如何工作，以及如何在 Python 中使用它
-
-towardsdatascience.com](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [](/dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec) [## DBSCAN 聚类算法——如何构建强大的基于密度的模型
-
-### 对有噪声的应用程序使用基于密度的空间聚类的详细指南
-
-towardsdatascience.com](/dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec)
+</umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568>  </dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec> 

@@ -18,7 +18,7 @@
 
 ## ****事先写一个小纸条****
 
-****在我们深入细节之前，我想声明我与古罗比没有任何关系。这个故事仅仅反映了我使用它的经验。应该注意的是，也有其他的商业替代品，如 IBM 的[](https://www.ibm.com/analytics/cplex-optimizer)**。此外，也可以使用一个有限的，免费版本的 Gurobi 作为纸浆解算器。然而，由于这些限制，它只对小问题有用。不管怎样，让我们开始吧！******
+****在我们深入细节之前，我想声明我与古罗比没有任何关系。这个故事仅仅反映了我使用它的经验。应该注意的是，也有其他的商业替代品，如 IBM 的<https://www.ibm.com/analytics/cplex-optimizer>**。此外，也可以使用一个有限的，免费版本的 Gurobi 作为纸浆解算器。然而，由于这些限制，它只对小问题有用。不管怎样，让我们开始吧！******
 
 ## ********古罗比更快********
 
@@ -55,18 +55,6 @@ m.setParam('TimeLimit', 60)**
 
 ****你喜欢这个故事吗？欢迎在 Medium 上关注我，并留下掌声或评论！下面，你可以找到一些有用的链接来开始使用线性编程和 Gurobi。****
 
-****[](/five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c) [## 五个问题将帮助你更好地为整数线性规划建模
-
-### 一种将现实世界问题公式化为数学模型的结构化方法，如背包问题
-
-towardsdatascience.com](/five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c) [](https://www.gurobi.com/resource/modeling-examples-using-the-gurobi-python-api-in-jupyter-notebook/) [## Gurobi Jupyter 笔记本建模示例
-
-### Gurobi Jupyter 笔记本建模示例是使用 Gurobi Python API 和……编码的数学优化模型
-
-www.gurobi.com](https://www.gurobi.com/resource/modeling-examples-using-the-gurobi-python-api-in-jupyter-notebook/) [](https://medium.com/opex-analytics/optimization-modeling-in-python-pulp-gurobi-and-cplex-83a62129807a) [## Python 中的优化建模:PuLp、Gurobi 和 CPLEX
-
-### 莫森·莫阿雷夫杜斯特
-
-medium.com](https://medium.com/opex-analytics/optimization-modeling-in-python-pulp-gurobi-and-cplex-83a62129807a) 
+****</five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c>  <https://www.gurobi.com/resource/modeling-examples-using-the-gurobi-python-api-in-jupyter-notebook/>  <https://medium.com/opex-analytics/optimization-modeling-in-python-pulp-gurobi-and-cplex-83a62129807a>  
 
 如何在计算机上安装 Gurobi(py)的教程。****

@@ -217,16 +217,4 @@ plt.show()
 
 **你会发现这些文章也很有趣:**
 
-[](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8) [## 如何在 Matplotlib 中用模式填充绘图
-
-### 向条形图、直方图、箱线图和饼图添加图案的方法
-
-towardsdatascience.com](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8) [](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [## 一个非常规但方便的 Matplotlib Broken_Barh 函数，当它特别…
-
-### 它是什么，如何使用和定制，何时使用
-
-towardsdatascience.com](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [](/how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813) [## 如何从箱线图中获取精确值(Python)
-
-### 从 matplotlib 盒图中提取数据集描述性统计数据的有效方法
-
-towardsdatascience.com](/how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813)
+</how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8>  </an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127>  </how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813> 

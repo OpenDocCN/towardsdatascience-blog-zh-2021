@@ -200,8 +200,4 @@ SQLFluff 以模块化的方式支持模板化。今天，我们支持关闭模�
 
 Niall Woodward (维护者)写了一篇博客，讲述了他一年来为开源做贡献的经历:
 
-[](https://www.niallrees.com/posts/lessons-from-a-year-of-open-source) [## 一年来为开源做出贡献的经验教训
-
-### 一年前，我决定 2020 年的首要任务是找到一个开源项目。在这篇文章中，我…
-
-www.niallrees.com](https://www.niallrees.com/posts/lessons-from-a-year-of-open-source)
+<https://www.niallrees.com/posts/lessons-from-a-year-of-open-source> 

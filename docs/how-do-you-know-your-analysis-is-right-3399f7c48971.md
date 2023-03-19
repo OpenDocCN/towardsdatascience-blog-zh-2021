@@ -79,8 +79,4 @@ Robina Weermeijer 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 要阅读更多关于数据分析的信息性(有时是机智的)文章，请看我的中型简介:
 
-[](https://megandibble.medium.com/) [## Megan Dibble -中等
-
-### 阅读写作梅根迪布尔在媒体上。高级数据分析师@ Stanley Black & Decker。我主要写数据…
-
-megandibble.medium.com](https://megandibble.medium.com/)
+<https://megandibble.medium.com/> 

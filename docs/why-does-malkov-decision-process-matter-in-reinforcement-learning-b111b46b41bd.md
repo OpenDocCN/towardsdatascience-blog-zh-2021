@@ -38,11 +38,7 @@
 
 下面这篇文章将有助于更详细地理解 k 臂土匪问题。
 
-[](/multi-armed-bandits-and-reinforcement-learning-dc9001dcb8da) [## 多臂土匪与强化学习
-
-### 用 Python 例子温和地介绍了经典问题
-
-towardsdatascience.com](/multi-armed-bandits-and-reinforcement-learning-dc9001dcb8da) 
+</multi-armed-bandits-and-reinforcement-learning-dc9001dcb8da>  
 
 # 例子续:胡萝卜后面的老虎
 

@@ -158,12 +158,4 @@ And yes, buying me a coffee **(and lots of it if you are feeling extra generous)
 
 也可以看看我的其他博客:
 
-[](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1) [## 为您的下一个数据科学项目提供 15 种免费开源数据资源
-
-### 为初学者和专业人士按不同类别组织的免费数据集的合并列表
-
-towardsdatascience.com](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1) [](/text-clustering-using-k-means-ec19768aae48) [## 基于 K-means 的文本聚类
-
-### K-means 算法的理论和实践理解完全指南
-
-towardsdatascience.com](/text-clustering-using-k-means-ec19768aae48)
+</15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1>  </text-clustering-using-k-means-ec19768aae48> 

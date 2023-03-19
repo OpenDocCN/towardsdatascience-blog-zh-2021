@@ -96,11 +96,7 @@ PCA 的可视化。图片作者。
 *   *每个随后的新变量包含较少的*信息**
 *   ***应用**:降维、聚类、离群点识别*
 
-*[](/independent-component-analysis-ica-a3eba0ccec35) [## 独立成分分析
-
-### 发现数据中隐藏的因素
-
-towardsdatascience.com](/independent-component-analysis-ica-a3eba0ccec35) 
+*</independent-component-analysis-ica-a3eba0ccec35>  
 
 # 例如:标准普尔 500 指数基金
 
@@ -154,11 +150,7 @@ towardsdatascience.com](/independent-component-analysis-ica-a3eba0ccec35)
 
 **主成分分析(PCA)** 是数据科学中一个流行而强大的工具。它提供了一种减少一组变量中冗余的方法。我们已经看到，这相当于数据协方差矩阵的特征向量分解。PCA 的应用包括降维、聚类和异常值检测。在我的[下一篇文章](https://shawhin.medium.com/independent-component-analysis-ica-a3eba0ccec35)中，我将讨论一种相似但完全不同的技术，**独立成分分析(ICA)。**
 
-[](/independent-component-analysis-ica-a3eba0ccec35) [## 独立成分分析
-
-### 发现数据中隐藏的因素
-
-towardsdatascience.com](/independent-component-analysis-ica-a3eba0ccec35) 
+</independent-component-analysis-ica-a3eba0ccec35>  
 
 # 资源
 
@@ -170,11 +162,7 @@ towardsdatascience.com](/independent-component-analysis-ica-a3eba0ccec35)
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+<https://shawhin.medium.com/membership>  
 
 # 参考
 

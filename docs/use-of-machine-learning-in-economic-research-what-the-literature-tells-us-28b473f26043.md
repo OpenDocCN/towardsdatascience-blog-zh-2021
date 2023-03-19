@@ -103,7 +103,7 @@ NLP 的商业经济学应用包括 [Bandiera (JPE，2020)](https://www.journals.
 
 我想提到的最后一篇论文是 [Mullainathan 和 Spiess (JEP，2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) 对这个主题做了很好的介绍。
 
-*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**
 
 ## *参考文献的完整列表(按出现的顺序):*
 

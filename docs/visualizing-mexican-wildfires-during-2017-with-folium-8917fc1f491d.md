@@ -24,15 +24,7 @@
 
 在墨西哥，森林火灾的预防和控制由国家森林防火计划(CONAFOR，其西班牙语缩写)执行，我们将通过以下链接使用其 2017 年的数据库:[【2】](https://www.datos.gob.mx/busca/organization/conafor)[【3】](http://187.218.230.4/OpenData/Incendios/)
 
-[](https://www.datos.gob.mx/busca/organization/conafor) [## 墨西哥酋长协会
-
-### 地图以文件和图像的形式表现了易受项目影响的表面…
-
-www.datos.gob.mx](https://www.datos.gob.mx/busca/organization/conafor)  [## /open data/incidendios 的索引
-
-### 墨西哥野火数据库
-
-187.218.230.4](http://187.218.230.4/OpenData/Incendios/) 
+<https://www.datos.gob.mx/busca/organization/conafor>    
 
 # 数据探索
 
@@ -166,11 +158,7 @@ affected_area_states.iloc[16,0] = ‘Estado de México`
 
 环境和自然资源部长(SEMARNAT)有一个向公众开放的每年各州野火数量的登记册，所以我们可以很容易地检查他们提供的数据是否是向公众开放的。进行这种练习，即使听起来很愚蠢，也是很重要的。
 
-[](http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_RFORESTA05_01&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREENTIDAD=*&NOMBREANIO=*) [## SEMARNAT
-
-### 《森林燃烧结果报告》中的森林燃烧数据
-
-dgieawf . semarnat . gob . MX](http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_RFORESTA05_01&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREENTIDAD=*&NOMBREANIO=*) 
+<http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_RFORESTA05_01&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREENTIDAD=*&NOMBREANIO=*>  
 
 在审查结束时，我们可以看到，他们在网站上与我们分享的信息确实与我们从国家森林委员会的公开数据中收集的信息相同。
 
@@ -192,11 +180,7 @@ dgieawf . semarnat . gob . MX](http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFSe
 
 要查看完整教程，请访问:
 
-[](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Python/visualizing_mexican_wildfires_tds) [## data _ visualization _ practice/Python/visualizing _ Mexican _ wild fires _ TDS at master…
-
-### 作者:Camacho-Perez Enrique，Arroyo-Velázquez Isaac 尚未发现任何记录表明野火是一种自然灾害，在…
-
-github.com](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Python/visualizing_mexican_wildfires_tds) 
+<https://github.com/isaacarroyov/data_visualization_practice/tree/master/Python/visualizing_mexican_wildfires_tds>  
 
 # 参考
 

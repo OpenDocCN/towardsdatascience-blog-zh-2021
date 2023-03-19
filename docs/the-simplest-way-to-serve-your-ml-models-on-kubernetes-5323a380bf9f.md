@@ -57,19 +57,11 @@
 
 **因此，要在 GCP 上安装 Kubeflow，请遵循我在下面提供的指南:**
 
-**[](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [## 有了 MiniKF，Kubeflow 比以往任何时候都更容易访问
-
-### 10 分钟入门 Kubernetes 最好的机器学习平台。
-
-towardsdatascience.com](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) 
+**</kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b>  
 
 或者，如果您喜欢 AWS:
 
-[](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [## AWS 上的 Mini Kubeflow 是您的新 ML 工作站
-
-### 通过 AWS 上的 MiniKF 加速您的机器学习模型开发
-
-towardsdatascience.com](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) 
+</mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585>  
 
 # 更深入
 

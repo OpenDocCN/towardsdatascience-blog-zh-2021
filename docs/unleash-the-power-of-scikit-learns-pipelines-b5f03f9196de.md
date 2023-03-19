@@ -10,11 +10,7 @@
 
 在我的上一篇文章中，我写了一篇介绍 scikit-learn 管道的文章。如果您尚未阅读，可以通过下面的链接访问:
 
-[](/introduction-to-scikit-learns-pipelines-565cc549754a) [## Scikit-learn 管道介绍
-
-### 使用 scikit-learn 构建端到端的机器学习管道
-
-towardsdatascience.com](/introduction-to-scikit-learns-pipelines-565cc549754a) 
+</introduction-to-scikit-learns-pipelines-565cc549754a>  
 
 在这篇文章中，我想扩展以前的帖子，展示一些很酷的功能，以创建更强大的管道，在帖子的最后，我将向您展示如何微调这些管道，以提高准确性。
 
@@ -26,19 +22,11 @@ towardsdatascience.com](/introduction-to-scikit-learns-pipelines-565cc549754a)
 
 出于教育目的，我们将使用 Kaggle 的成人人口普查收入数据集:
 
-[](https://www.kaggle.com/uciml/adult-census-income) [## 成人人口普查收入
-
-### 根据人口普查数据预测收入是否超过 5 万美元/年
-
-www.kaggle.com](https://www.kaggle.com/uciml/adult-census-income) 
+<https://www.kaggle.com/uciml/adult-census-income>  
 
 该数据集包含 6 个数字特征和 9 个分类特征，因此它似乎适合我们想要构建的管道。jupyter 笔记本将在我的 github 中提供，您可以通过以下链接下载:
 
-[](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/pipelines/Unleash%20the%20Power%20of%20Scikit-learn%27s%20Pipelines.ipynb) [## 走向-数据-科学-帖子-笔记本/释放 Scikit 的力量-学习的管道。ipynb at master…
-
-### 通过在 GitHub 上创建一个帐户，为 unaiLopez/forward-data-science-posts-notebooks 的开发做出贡献。
-
-github.com](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/pipelines/Unleash%20the%20Power%20of%20Scikit-learn%27s%20Pipelines.ipynb) 
+<https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/pipelines/Unleash%20the%20Power%20of%20Scikit-learn%27s%20Pipelines.ipynb>  
 
 在实现管道之前，我们必须对数据集做一点转换，因为所有未知的值都保存为“？”而不是 NaN，收入(目标列)是一个字符串，我们想把它编码成实数。
 
@@ -64,20 +52,4 @@ Make_column_selector 将帮助我们按类型选择列。在我们的例子中�
 
 ## 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) [## sklearn.model_selection。GridSearchCV
-
-### 对估计量的特定参数值的穷举搜索。重要成员是适合的，预测。GridSearchCV…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html) [## sklearn.metrics.make_scorer
-
-### 根据绩效指标或损失函数进行评分。这个工厂函数包装了评分函数，用于和…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html) [## sk learn . compose . column transformer
-
-### 将转换器应用于数组或 pandas 数据框架的列。该估计器允许不同的列或列…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) [## sklearn.pipeline.Pipeline
-
-### 使用 sklearn.pipeline.Pipeline 的示例:特征聚集与单变量选择特征聚集与…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html> 

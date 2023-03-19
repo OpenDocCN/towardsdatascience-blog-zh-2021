@@ -14,11 +14,7 @@
 
 在开始特征选择方法之前，请随意下载用于本练习的数据集:
 
- [## rashida 048/机器学习-BU
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Machine-Learning-BU 开发做贡献。
-
-github.com](https://github.com/rashida048/Machine-Learning-BU/blob/main/Feature_Selection.csv) 
+  
 
 让我们首先导入数据集:
 
@@ -216,22 +212,6 @@ selected_features
 
 ## 更多阅读:
 
-[](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [## 随机梯度下降:从头开始的解释和完整实现
+</stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd>  </exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260> [## 文本数据的探索性数据分析，包括可视化和情感分析
 
-### 使用单个感知器
-
-towardsdatascience.com](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [## 文本数据的探索性数据分析，包括可视化和情感分析
-
-towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 的终极备忘单
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/an-ultimate-data-visualization-course-in-python-for-free-12a5da0a517b) [## 免费的 Python 终极数据可视化课程
-
-### 学习比任何付费课程更多的可视化功能和技术
-
-towardsdatascience.com](/an-ultimate-data-visualization-course-in-python-for-free-12a5da0a517b) [](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [## Matplotlib 和 Seaborn 中的高级数据可视化集合
-
-### 让你的故事更有趣
-
-towardsdatascience.com](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14)
+towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </an-ultimate-data-visualization-course-in-python-for-free-12a5da0a517b>  </a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14> 

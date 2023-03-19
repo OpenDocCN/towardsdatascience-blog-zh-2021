@@ -274,11 +274,7 @@ p(Bartlett 球形度检验):0
 
 # 数据
 
-[](https://www.kaggle.com/aman139/indian-school-education-data) [## 印度的学校教育
-
-### 印度学校关于辍学率、毛入学率、供水设施、电力等的普查。
-
-www.kaggle.com](https://www.kaggle.com/aman139/indian-school-education-data) 
+<https://www.kaggle.com/aman139/indian-school-education-data>  
 
 MHRD 数据:[https://www . education . gov . in/sites/upload _ files/mhrd/files/statistics-new/ESAG-2018 . pdf](https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/ESAG-2018.pdf)
 
@@ -288,20 +284,4 @@ MHRD 数据:[https://www . education . gov . in/sites/upload _ files/mhrd/files/
 
 *全球基准:*
 
- [## 小学师生比
-
-### 世界银行提供的小学师生比数据
-
-data.worldbank.org](https://data.worldbank.org/indicator/SE.PRM.ENRL.TC.ZS) [](https://data.worldbank.org/indicator/SE.SEC.ENRL.LO.TC.ZS) [## 初中学生-教师比率
-
-### 世界银行提供的初中学生-教师比率:数据
-
-data.worldbank.org](https://data.worldbank.org/indicator/SE.SEC.ENRL.LO.TC.ZS) [](https://data.worldbank.org/indicator/SE.SEC.ENRL.TC.ZS) [## 中学师生比率
-
-### 世界银行提供的中学师生比数据
-
-data.worldbank.org](https://data.worldbank.org/indicator/SE.SEC.ENRL.TC.ZS) [](https://data.worldbank.org/indicator/SE.SEC.ENRL.UP.TC.ZS) [## 高中学生-教师比率
-
-### 世界银行提供的高中学生-教师比率:数据
-
-data.worldbank.org](https://data.worldbank.org/indicator/SE.SEC.ENRL.UP.TC.ZS)
+  <https://data.worldbank.org/indicator/SE.SEC.ENRL.LO.TC.ZS>  <https://data.worldbank.org/indicator/SE.SEC.ENRL.TC.ZS>  <https://data.worldbank.org/indicator/SE.SEC.ENRL.UP.TC.ZS> 

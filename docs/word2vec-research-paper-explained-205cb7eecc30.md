@@ -138,20 +138,12 @@ Word2vec 向量可以用 CBOW 或 Skip-gram 方法训练。由于模型的复杂
 
 *   word2vec 的 Gensim 实现:-
 
-[](https://radimrehurek.com/gensim/models/word2vec.html) [## Gensim:面向人类的主题建模
-
-### 机器学习咨询& NLP * PII 工具自动发现个人和敏感数据初始化模型…
-
-radimrehurek.com](https://radimrehurek.com/gensim/models/word2vec.html) 
+<https://radimrehurek.com/gensim/models/word2vec.html>  
 
 *   word2vec 的 Keras 实现:-[https://github . com/abaheti 95/Deep-Learning/tree/master/word 2 vec/keras](https://github.com/abaheti95/Deep-Learning/tree/master/word2vec/keras)
 *   word2vec 的 Tensorflow 实现:-
 
-[](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/word2vec.py) [## aymericdamien/tensor flow-示例
-
-### 面向初学者的 TensorFlow 教程和示例(支持 TF v1 & v2)-aymericdamien/tensor flow-示例
-
-github.com](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/word2vec.py) 
+<https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/word2vec.py>  
 
 *   Pytorch 实现 word 2 vec:-[https://github.com/Andras7/word2vec-pytorch](https://github.com/Andras7/word2vec-pytorch)
 

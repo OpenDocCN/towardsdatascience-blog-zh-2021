@@ -4,7 +4,7 @@
 
 ![](img/f5caeb02290b8293ad366669ebf4fb6e.png)
 
-艾通过作者创造艺术。更多例子上[](https://www.instagram.com/art_and_ai/)**；受法比奥哈关于*的启发[https://unsplash.com/photos/oyXis2kALVg](https://unsplash.com/photos/oyXis2kALVg)*
+艾通过作者创造艺术。更多例子上<https://www.instagram.com/art_and_ai/>**；受法比奥哈关于*的启发[https://unsplash.com/photos/oyXis2kALVg](https://unsplash.com/photos/oyXis2kALVg)*
 
 *我已经做了一段时间的开发人员了。几乎所有的职位和专业都在讨论什么是最好的工具。它与软件工具如 IDEs (VSCode，Webstorm，Vim 等)或硬件工具(mac，pc，linux)一起使用。讨论总是好的，然而，最终每个人都会发现自己的风格最适合自己的工作流程。因为每个人做的事情都有一点不同，所以这很有意义。有一个工具我到目前为止还没有讨论过，但是对我的工作有很大的帮助。*
 

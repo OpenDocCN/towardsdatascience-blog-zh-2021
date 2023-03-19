@@ -184,23 +184,7 @@ BTC 图:自比特币出现以来，美元汇率随时间的变化，数据来自
 
 这些日志图包含更多的数据，其他人已经在下面的博客文章中分析了这些数据。由于不是专家，我无法评价它们，但它们确实非常有趣:
 
-[](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) [## 用稀缺性模拟比特币价值
-
-### “作为一个思想实验，想象有一种像黄金一样稀缺的贱金属……”——中本聪
-
-medium.com](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) [](https://www.tradingview.com/chart/BLX/uYKn9Nrx-Bitcoin-longterm-chart/) [## BNC 的比特币长期图表:BLX
-
-### 我以为是时候做一个长期图表了，这些错误的图表到处都是，呵呵。他们错了，因为…
-
-www.tradingview.com](https://www.tradingview.com/chart/BLX/uYKn9Nrx-Bitcoin-longterm-chart/) [](https://www.lookintobitcoin.com/charts/bitcoin-logarithmic-growth-curve/) [## 比特币对数增长曲线|看比特币
-
-### 比特币对数增长曲线的免费实时数据图表显示了$BTC 价格行动的潜在未来方向。
-
-www.lookintobitcoin.com](https://www.lookintobitcoin.com/charts/bitcoin-logarithmic-growth-curve/) [](https://www.blockchaincenter.net/bitcoin-rainbow-chart/) [## 🌈比特币彩虹图(实时)-区块链中心
-
-### 彩虹图不是投资建议！过去的表现并不代表未来的结果。彩虹图…
-
-www.blockchaincenter.net](https://www.blockchaincenter.net/bitcoin-rainbow-chart/) 
+<https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25>  <https://www.tradingview.com/chart/BLX/uYKn9Nrx-Bitcoin-longterm-chart/>  <https://www.lookintobitcoin.com/charts/bitcoin-logarithmic-growth-curve/>  <https://www.blockchaincenter.net/bitcoin-rainbow-chart/>  
 
 **结论和精选的进一步阅读**
 
@@ -208,39 +192,15 @@ www.blockchaincenter.net](https://www.blockchaincenter.net/bitcoin-rainbow-chart
 
 *   在这篇文章发表几个月后添加:检查这个不需要密钥的替代 API:
 
-[](/obtain-unlimited-historical-crypto-data-through-simple-api-calls-without-keys-8a6f5ed55b43) [## 通过简单的 Web 代码获得无限的历史加密数据-没有 API 密钥
-
-### 从基于网络的代码中调用 CoinGecko 的免费 API 来获取价格、交易量和市值，您可以调整…
-
-towardsdatascience.com](/obtain-unlimited-historical-crypto-data-through-simple-api-calls-without-keys-8a6f5ed55b43) 
+</obtain-unlimited-historical-crypto-data-through-simple-api-calls-without-keys-8a6f5ed55b43>  
 
 *   现在推荐文章:
 
-[](/forecasting-future-prices-of-cryptocurrency-using-historical-data-83604e72bc68) [## 利用历史数据预测加密货币的未来价格
+</forecasting-future-prices-of-cryptocurrency-using-historical-data-83604e72bc68>  <https://medium.com/@hamzaahmad86/exploratory-data-analysis-of-cryptocurrency-historical-data-d8ec719641e7>  <https://medium.datadriveninvestor.com/python-for-finance-cryptocurrency-analysis-661ebd410fac>  <https://medium.com/spreadstreet/how-to-perform-correlation-analysis-on-cryptocurrencies-in-google-sheets-640d45861dda> [## 如何在 Google Sheets 中对加密货币进行相关性分析
 
-### 加密货币这个词已经席卷了金融界，然而却缺乏正式和公开的研究…
+medium.com](https://medium.com/spreadstreet/how-to-perform-correlation-analysis-on-cryptocurrencies-in-google-sheets-640d45861dda) <https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-ii-downloading-manipulating-and-analysing-bulk-data-e234a43e6259>  <https://medium.com/hackernoon/sentiment-analysis-in-cryptocurrency-9abb40005d15>  
 
-towardsdatascience.com](/forecasting-future-prices-of-cryptocurrency-using-historical-data-83604e72bc68) [](https://medium.com/@hamzaahmad86/exploratory-data-analysis-of-cryptocurrency-historical-data-d8ec719641e7) [## 加密货币历史数据的探索性数据分析
-
-### 加密货币这个词已经席卷了金融界，然而却缺乏正式和公开的研究…
-
-medium.com](https://medium.com/@hamzaahmad86/exploratory-data-analysis-of-cryptocurrency-historical-data-d8ec719641e7) [](https://medium.datadriveninvestor.com/python-for-finance-cryptocurrency-analysis-661ebd410fac) [## 用于金融加密货币分析的 Python
-
-### 使用 Python 分析加密货币
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/python-for-finance-cryptocurrency-analysis-661ebd410fac) [](https://medium.com/spreadstreet/how-to-perform-correlation-analysis-on-cryptocurrencies-in-google-sheets-640d45861dda) [## 如何在 Google Sheets 中对加密货币进行相关性分析
-
-medium.com](https://medium.com/spreadstreet/how-to-perform-correlation-analysis-on-cryptocurrencies-in-google-sheets-640d45861dda) [](https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-ii-downloading-manipulating-and-analysing-bulk-data-e234a43e6259) [## 加密货币数据分析第二部分:下载、操作和分析批量数据
-
-### 在上一个教程中，您已经了解了如何设置研究环境并为…获取加密货币 OHLCV 价格数据
-
-medium.com](https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-ii-downloading-manipulating-and-analysing-bulk-data-e234a43e6259) [](https://medium.com/hackernoon/sentiment-analysis-in-cryptocurrency-9abb40005d15) [## 加密货币中的情感分析
-
-### 在交易加密货币时，学会正确分析情绪。
-
-medium.com](https://medium.com/hackernoon/sentiment-analysis-in-cryptocurrency-9abb40005d15) 
-
-喜欢这篇文章，想给我提示？【[](https://www.paypal.me/LAbriata)**】-谢谢！**
+喜欢这篇文章，想给我提示？【<https://www.paypal.me/LAbriata>**】-谢谢！**
 
 **我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和电脑前。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [***成为中等会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(我为其获得小额收入的平台的原始附属链接，无需向您支付特殊费用)。* [***通过各种方式在这里捐赠***](https://lucianoabriata.altervista.org/office/donations.html)**。* [***联系我这里***](https://lucianoabriata.altervista.org/office/contact.html) *为任何一种查询。****
 

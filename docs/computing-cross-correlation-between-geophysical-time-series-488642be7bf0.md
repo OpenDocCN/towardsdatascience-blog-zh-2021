@@ -16,19 +16,11 @@
 
 在本文中，我们将了解如何计算地震时间序列之间的互相关，以及如何在时域和频域中提取两个地震信号之间关系的时移信息。请注意，除非数据的自由度很高，否则相关值并不显著。详情请参考下面的帖子。
 
-[](https://www.earthinversion.com/geophysics/estimation-degrees-of-freedom/) [## 时间序列自由度的估计
-
-### 两个(真实)随机过程 A 和 B 之间的相关性，这两个过程被采样为两个(真实)时间序列，A(t)和…
-
-www.earthinversion.com](https://www.earthinversion.com/geophysics/estimation-degrees-of-freedom/) 
+<https://www.earthinversion.com/geophysics/estimation-degrees-of-freedom/>  
 
 此外，人们可以使用蒙特卡罗模拟等数值测试来估计相关性的显著性。参考下面的帖子:
 
-[](https://www.earthinversion.com/techniques/monte-carlo-simulations-correlations/) [## 蒙特卡罗模拟来测试两个数据集之间的相关性[MATLAB]
-
-### 蒙特卡罗模拟(MCS)可用于从数据集中提取重要信息，而这是不可能的…
-
-www.earthinversion.com](https://www.earthinversion.com/techniques/monte-carlo-simulations-correlations/) 
+<https://www.earthinversion.com/techniques/monte-carlo-simulations-correlations/>  
 
 # 计算互相关
 

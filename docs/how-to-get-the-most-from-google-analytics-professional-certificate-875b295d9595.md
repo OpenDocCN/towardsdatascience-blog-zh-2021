@@ -70,20 +70,4 @@ Google Analytics Coursera 课程 5 第 4 周——学习日志:完成数据分�
 
 我希望这篇文章能帮助你确定在学习这门课程时应该关注的最重要的事情。如果你觉得这很有帮助，请关注我，看看我的其他博客。敬请关注更多内容！❤
 
-[](/how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f) [## 作为数据科学家，如何更有效地沟通
-
-### 我从有效培训解决方案(ETS)培训中学到了什么
-
-towardsdatascience.com](/how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f) [](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [## 作为新毕业生获得第一份数据科学工作的 10 个技巧
-
-### 从我的求职之旅中学到的经验
-
-towardsdatascience.com](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [## 作为分析师如何准备商业案例面试？
-
-### 作为数据分析师或数据科学家，我们不仅需要知道概率和统计，机器学习算法…
-
-towardsdatascience.com](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07) [## 想要在 SQL 面试中胜出，你必须知道的 10 个问题
-
-### 2021 年你应该知道的 SQL 面试问题
-
-towardsdatascience.com](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07)
+</how-to-communicate-more-effectively-as-a-data-scientist-de7dfc361b4f>  </10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7>  </how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8>  </10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07> 

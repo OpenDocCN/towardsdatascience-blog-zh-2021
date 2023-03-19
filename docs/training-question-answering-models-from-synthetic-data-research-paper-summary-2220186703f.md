@@ -74,6 +74,6 @@
 > 
 > ***作者:*** 劳尔·普里、瑞安·斯普林、莫斯托法·帕特瓦雷、穆罕默德·舒伊比、布莱恩·卡坦扎罗
 
-*另外，如果你喜欢读这篇文章，你可以选择* ***给我买一杯【柴】***【https://www.buymeacoffee.com/TechvizCoffee】[](https://www.buymeacoffee.com/TechvizCoffee)**——因为我实际上不喝咖啡:)非常感谢！完全是可选的，自愿的:)**
+*另外，如果你喜欢读这篇文章，你可以选择* ***给我买一杯【柴】***【https://www.buymeacoffee.com/TechvizCoffee】<https://www.buymeacoffee.com/TechvizCoffee>**——因为我实际上不喝咖啡:)非常感谢！完全是可选的，自愿的:)**
 
 *[![](img/c8131c8f55990f5ddf0dadc91a525112.png)](https://www.buymeacoffee.com/TechvizCoffee)*

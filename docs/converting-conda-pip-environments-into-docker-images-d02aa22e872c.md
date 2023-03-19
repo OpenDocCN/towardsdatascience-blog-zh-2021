@@ -64,10 +64,6 @@ import coiledcoiled.create_software_environment(
 
 或者来我的博客打招呼:
 
-[](https://crunchcrunchhuman.com/2021/12/22/kaggle-xgboost-distributed-cloud/) [## 在 20 秒内对 20GB 数据进行 XGBoost 训练
-
-### 如果您正在寻找方法来更快地训练 XGBoost 模型，或者在大于您的机器内存的数据集上训练，这里有一个…
-
-crunchcrunchhuman.com](https://crunchcrunchhuman.com/2021/12/22/kaggle-xgboost-distributed-cloud/) 
+<https://crunchcrunchhuman.com/2021/12/22/kaggle-xgboost-distributed-cloud/>  
 
 *原载于 2021 年 8 月 23 日*[*https://coiled . io*](https://coiled.io/blog/conda-pip-docker-convert/)*。*

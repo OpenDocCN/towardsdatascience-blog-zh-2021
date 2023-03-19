@@ -24,11 +24,7 @@ Javier Allegue Barros 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_
 
 让我们从本文中的石头剪刀布项目开始:
 
-[](/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5) [## 快速介绍 FastAI——我的经历
-
-### 让我告诉你我是如何在不到一个小时的时间里建立一个图像分类器模型的！
-
-towardsdatascience.com](/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5) 
+</a-fast-introduction-to-fastai-my-experience-b18d4457f6a5>  
 
 如果你还没有读过那篇文章，这就是我们在那里做的工作——石头剪刀布数据集是来自三类图像的图像集合，你猜对了——石头、纸和剪刀手势。**我们在**[**Fastai**](http://fast.ai)**深度学习库的帮助下，使用一些快速迁移学习对数据集进行图像分类。**
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/a-fast-introduction-to-fastai-my-experience-b18d4457f6a
 
 以防你对整个代码库感到疑惑:它都在这里。阅读本教程时，请随意跟随。:)
 
-[](https://github.com/yashprakash13/RockPaperScissorsFastAI) [## yashprakash 13/rock paper scissors fastai
-
-### 这些笔记本包含来自 medium 系列博客文章的代码:Fastai-My 的快速介绍…
-
-github.com](https://github.com/yashprakash13/RockPaperScissorsFastAI) 
+<https://github.com/yashprakash13/RockPaperScissorsFastAI>  
 
 ## 该应用程序
 
@@ -223,10 +215,6 @@ st.subheader('Prediction')st.markdown(f'The predicted label is: **{prediction}**
 
 以下是我所有数据科学文章的主代码库:
 
-[](https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best) [## yashprakash 13/数据-另一天
-
-### 我在网站上学习和撰写的所有数据科学项目、概念、工具和资源的主存储库…
-
-github.com](https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best) 
+<https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best>  
 
 我也在[推特](https://twitter.com/csandyash)上写数据科学和软件工程。

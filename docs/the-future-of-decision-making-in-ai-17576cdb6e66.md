@@ -80,8 +80,4 @@
 
 *我希望你喜欢这个关于决策和人工智能的一般性故事。请注意，我没有详细描述问题的特征以及哪些方法适用于哪些问题，因此也省略了对评估问题和设计问题的必要讨论。如果你对其他研究领域感兴趣，运筹学就是一个很好的例子，我已经写了一个小故事:*
 
-[](/why-operations-research-is-awesome-an-introduction-7a0b9e62b405) [## 为什么运筹学很棒——简介
-
-### 数学是宇宙的语言，根据定义，它是逻辑的。但是做数学不仅仅是逻辑——它是…
-
-towardsdatascience.com](/why-operations-research-is-awesome-an-introduction-7a0b9e62b405)
+</why-operations-research-is-awesome-an-introduction-7a0b9e62b405> 

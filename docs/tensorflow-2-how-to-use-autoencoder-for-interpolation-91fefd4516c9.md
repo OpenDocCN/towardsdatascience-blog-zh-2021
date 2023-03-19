@@ -46,11 +46,7 @@
 
 然而，本文的重点不是多项式拟合，而是插值。多项式拟合恰好便于插值。然而，多项式拟合方法有一个问题——无论是**参数化的**还是**非参数化的**，它们都按照被教授的方式运行。这意味着，如果数据是干净的，拟合将是干净和平滑的，但如果数据是有噪声的，拟合将是有噪声的。这个问题在传感器数据中更加普遍，例如，从您的心率传感器捕获的心跳数据、从[激光雷达](https://medium.com/analytics-vidhya/how-does-a-self-driving-vehicle-see-using-lidar-49f569ededf2)、 [CAN 总线](https://jmscslgroup.github.io/strym/)从您的汽车获取的速度数据、GPS 数据等。
 
-[](https://medium.com/analytics-vidhya/how-does-a-self-driving-vehicle-see-using-lidar-49f569ededf2) [## 自动驾驶车辆如何使用激光雷达进行观察？
-
-### 自动驾驶汽车已经成为最近的热门词汇，几家公司试图创造一个完美的机器人，如…
-
-medium.com](https://medium.com/analytics-vidhya/how-does-a-self-driving-vehicle-see-using-lidar-49f569ededf2) 
+<https://medium.com/analytics-vidhya/how-does-a-self-driving-vehicle-see-using-lidar-49f569ededf2>  
 
 此外，由于噪声，它们更难处理，尤其是如果您的算法需要对这类数据执行二重或二阶导数。一般来说，这些传感器数据是时间序列数据，即它们是随时间收集的，因此响应变量可能是一些物理量，如速度、物体与安装在自动驾驶汽车顶部的激光雷达的距离、心率，预测变量是时间。在对这样的数据进行操作时，可以有几个目标:我希望将数据插值到某个时间戳，在该时间戳内，我的传感器无法记录任何响应，但是由于传感器在实时世界中操作，并且由于底层的物理特性，这些数据会有噪声，我还希望有不受传感器噪声影响的可靠插值。此外，我的需求可能还包括此类**时间序列**数据的衍生物。[衍生品往往会放大潜在时间序列数据中的噪音](https://dl.acm.org/doi/abs/10.1145/3302509.3314026)。如果有一种方法可以获得数据的底层表示，同时丢弃噪声，那会怎么样？**在这种情况下，Autoencoder 帮助我实现了目标。**
 
@@ -58,11 +54,7 @@ medium.com](https://medium.com/analytics-vidhya/how-does-a-self-driving-vehicle-
 
 为了演示使用 Autoencoder 的去噪+插值目标，我使用了一个由我的[实验室](http://csl.arizona.edu/)从车辆收集的距离数据的示例，其中响应变量是我的车辆前方车辆的距离，预测值是时间。作为演示的一部分，我在我的 GitHub repo 上提供了一小部分数据，您可以免费使用。然而，它真的很小，除了本文描述的教程之外没有任何用处。
 
-[](https://github.com/rahulbhadani/medium.com/blob/master/data/lead_dist_sample.csv) [## rahulbhadani/medium.com
-
-### TF2 自动编码器中型产品的导程数据示例…
-
-github.com](https://github.com/rahulbhadani/medium.com/blob/master/data/lead_dist_sample.csv) 
+<https://github.com/rahulbhadani/medium.com/blob/master/data/lead_dist_sample.csv>  
 
 好了，现在该编码了。
 
@@ -186,12 +178,4 @@ plt.show()**
 
 ****如果你喜欢这篇文章，你会想了解更多关于如何使用 TensorFlow 2。查看我在 TensorFlow 2 上的一些其他文章:****
 
-****[](https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b) [## Tensorflow 2:模型验证、正则化和回调
-
-### 开发机器学习模型时的一个常见问题是过度拟合。此外，概化模型是实用的…
-
-medium.com](https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b) [](https://medium.com/analytics-vidhya/lambda-layer-in-tf-keras-c4e8b94c87e) [## tf.keras 中的 Lambda 层
-
-### Lambda 层是有用的，当你需要在前一层上做一些操作，但不想添加任何可训练的…
-
-medium.com](https://medium.com/analytics-vidhya/lambda-layer-in-tf-keras-c4e8b94c87e)****
+****<https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b>  <https://medium.com/analytics-vidhya/lambda-layer-in-tf-keras-c4e8b94c87e> ****

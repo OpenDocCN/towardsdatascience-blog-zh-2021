@@ -237,11 +237,7 @@ ggplot(mpg, aes(class, hwy, fill=as.factor(cyl)))+
 
 另一个常用的可视化。它在一个盒子里提供了关于数据的伟大的基本统计。如果你对盒状图完全陌生，这里有一个教程解释了如何从盒状图中检索数据。虽然情节是用 Python 写的。但是箱线图的解释是简单明了的英语。这对任何人都适用。
 
-[](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) [## 使用直方图和箱线图理解数据，并举例说明
-
-### 了解如何从直方图和箱线图中提取最多的信息。
-
-towardsdatascience.com](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) 
+</understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6>  
 
 这是一个基本的箱线图:
 

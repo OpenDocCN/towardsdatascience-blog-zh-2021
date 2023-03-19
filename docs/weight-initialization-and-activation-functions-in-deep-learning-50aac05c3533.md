@@ -23,11 +23,7 @@ D 开发深度学习模型需要大量的微调。本文讨论并比较了不同
 
 这是关于调整深度学习模型系列的第二篇文章。随着新文章的产生，我会添加下面的链接。
 
-[](/learning-rates-for-deep-learning-models-e500efe09f2e) [## 深度学习模型的学习率
-
-### 如何通过优化让好的模型变得伟大
-
-towardsdatascience.com](/learning-rates-for-deep-learning-models-e500efe09f2e) 
+</learning-rates-for-deep-learning-models-e500efe09f2e>  
 
 # 激活功能和初始化
 
@@ -87,11 +83,7 @@ Sigmoid 函数
 
 关于这些激活函数的输出范围如何影响的更多细节可以在我下面的文章中找到。
 
-[](/how-to-use-deep-learning-for-time-series-data-f641b1b41a96) [## 如何对时间序列数据使用深度学习
-
-### 了解时间序列深度学习的可用选项
-
-towardsdatascience.com](/how-to-use-deep-learning-for-time-series-data-f641b1b41a96) ![](img/a1f56c5714d1303351a161eac94c5c97.png)
+</how-to-use-deep-learning-for-time-series-data-f641b1b41a96>  ![](img/a1f56c5714d1303351a161eac94c5c97.png)
 
 Tanh 函数
 
@@ -184,11 +176,7 @@ Glorot 对于 ReLu 来说不是最佳的。因此引入了 he 初始化。
 
 对于这个例子，我在公共领域许可下使用 diamonds 数据集。这个数据集由分类变量和数字变量的组合组成。对于本文，我已经删除了分类特性。
 
-[](https://www.kaggle.com/shivam2503/diamonds) [## 钻石
-
-### 通过切割、颜色、净度、价格和其他属性来分析钻石
-
-www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds) 
+<https://www.kaggle.com/shivam2503/diamonds>  
 
 该数据集提供了许多要素的大量数据。因此，展示不同的激活功能和不同的初始化功能应该足够复杂。
 
@@ -206,11 +194,7 @@ www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds)
 
 为了可视化实验的结果，我使用了库 Plotly。我过去广泛使用过这个包。复制文章中的情节的代码来自下面的代码。关于 Plotly 的细节可以在链接文章中找到。
 
-[](/automated-interactive-reports-with-plotly-and-python-88dbe3aae5) [## 使用 Plotly 和 Python 自动生成交互式报告
-
-### 使用 Python 中的 Plotly 轻松生成交互式报告
-
-towardsdatascience.com](/automated-interactive-reports-with-plotly-and-python-88dbe3aae5) 
+</automated-interactive-reports-with-plotly-and-python-88dbe3aae5>  
 
 只有验证损失显示在图中。这种选择纯粹是为了减少结果中的混乱。更有效的结果分析将包括训练和验证损失曲线，产生模型优化的完整可视化。
 
@@ -263,11 +247,7 @@ towardsdatascience.com](/automated-interactive-reports-with-plotly-and-python-88
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership) 
+<https://zjwarnes.medium.com/membership>  
 
 # 参考
 

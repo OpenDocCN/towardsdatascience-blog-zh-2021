@@ -24,11 +24,7 @@
 
 接下来，导航到一个 Google Colab 笔记本。
 
-[](https://colab.research.google.com/) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/) 
+<https://colab.research.google.com/>  
 
 首先，安装并导入 pyTigerGraph。
 
@@ -233,18 +229,10 @@ else:
 
 点击此处查看完整的 Colab:
 
-[](https://colab.research.google.com/drive/12az8ahoX5FQu6-ARGYiwbyFD7B3LPIZV?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/12az8ahoX5FQu6-ARGYiwbyFD7B3LPIZV?usp=sharing) 
+<https://colab.research.google.com/drive/12az8ahoX5FQu6-ARGYiwbyFD7B3LPIZV?usp=sharing>  
 
 如果你有任何问题，发布到 TigerGraph 的社区页面。
 
-[](https://community.tigergraph.com/) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com/) 
+<https://community.tigergraph.com/>  
 
 谢谢大家！期待这个系列的下一篇博客！

@@ -16,11 +16,7 @@
 
 我是一个加密货币爱好者，我会每天查看不同硬币的价格。然而，逐个检查所有硬币是非常耗时的，这就是为什么我想每天早上用一个程序自动为我生成总结报告。如果你有兴趣了解更多的金融数据分析，可以随时查看我的出版物。
 
-[](https://medium.com/financial-data-analysis) [## 财务数据分析
-
-### 应用现代技术和统计方法来构建股票的最优投资组合…
-
-medium.com](https://medium.com/financial-data-analysis) 
+<https://medium.com/financial-data-analysis>  
 
 > 所有的代码和数据都上传到了我的 GitHub。你可以和民间的 [**这种回购**](https://github.com/cydalytics/Python_Excel_Formatting) **来进一步研究。=)**
 
@@ -28,11 +24,7 @@ medium.com](https://medium.com/financial-data-analysis)
 
 首先，我们需要收集数据以显示在表格中。例如，您可以从公司数据库中查询数据。您可以从您的业务伙伴处获取数据。或者就像我这个案例，瞬间从网上刮数据。我在这里使用的数据源是 CoinDesk API。关于这个 API 如何工作和参数设置的更多细节，你可以查看我下面的文章。
 
-[](https://medium.com/financial-data-analysis/web-scraping-cryptocurrency-1-minute-price-data-python-471dd165d934) [## 网络抓取加密货币 1 分钟价格数据(Python)
-
-### 从 CoinDesk 废弃不同加密货币价格的分步指南。
-
-medium.com](https://medium.com/financial-data-analysis/web-scraping-cryptocurrency-1-minute-price-data-python-471dd165d934) 
+<https://medium.com/financial-data-analysis/web-scraping-cryptocurrency-1-minute-price-data-python-471dd165d934>  
 
 ```
 import json
@@ -206,20 +198,4 @@ cyda 拍摄的照片
 
 原载于 cydalytics.blogspot.com 的
 
-[](https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d) [## 使用 Excel 抓取数据(不需要代码)
-
-### 用 Excel 内置函数抓取数据的三个简单步骤
-
-medium.com](https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d) [](/use-python-to-automate-the-powerpoint-update-4a385acf1243) [## 使用 Python 自动更新 PowerPoint
-
-### 使用 Python 编辑 PowerPoint 幻灯片的分步教程
-
-towardsdatascience.com](/use-python-to-automate-the-powerpoint-update-4a385acf1243) [](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4) [## 使用 Python 发送 Outlook 电子邮件
-
-### 使用 Python 发送通知电子邮件的分步教程
-
-medium.com](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4) [](https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4) [## 使用 Python 处理 PDF 作品
-
-### 没有 Adobe PDF 软件，您也可以编辑 PDF，例如添加文本、拆分页面和提取信息。
-
-medium.com](https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4)
+<https://medium.com/mlearning-ai/use-excel-to-scrape-data-no-codes-required-f13748587b0d>  </use-python-to-automate-the-powerpoint-update-4a385acf1243>  <https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4>  <https://medium.com/mlearning-ai/use-python-to-process-pdf-work-7a9d77d718f4> 

@@ -30,11 +30,7 @@ clones    conda     logs    packages  prefs    scratchspacesshell> mkdir configs
 
 现在我们有了 startup.jl，我们可以使用 dispatch 修改 Julia 中的任何代码。我写了一篇文章，详细介绍了我们将要对其他一些类型做些什么，我认为这肯定值得一读。它更详细地介绍了在 Julia 中使用类型和分派，我认为代码很好地展示了 Julia 的全部内容:
 
-[](/extending-julias-operators-with-amazing-results-96c042369349) [## 用惊人的结果扩展 Julia 的算子
-
-### 如何在 Julia 中加载和扩展方法，用一个真正激动人心的例子。
-
-towardsdatascience.com](/extending-julias-operators-with-amazing-results-96c042369349) 
+</extending-julias-operators-with-amazing-results-96c042369349>  
 
 我将在其中添加一些代码，根据我的喜好稍微改变一下 Julia。对于这个定制，我决定对加法运算符+进行修改。每当我们通过这个操作符传递两个数组时，我们都会得到一个元素相加的返回。这很奇怪，因为还有另一个操作符，元素相加操作符。+.很容易理解为什么这是他们附带的功能，我想代码应该是这样的:
 

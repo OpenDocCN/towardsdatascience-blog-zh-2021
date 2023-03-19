@@ -12,19 +12,7 @@
 
 *如果你需要复习 DataFrames.jl，先看看这些文章:*
 
-[](/julia-dataframes-jl-basics-95dba5146ef4) [## Julia DataFrames.jl 基础
-
-### 用 DataFrames.jl 戳戳你的数据
-
-towardsdatascience.com](/julia-dataframes-jl-basics-95dba5146ef4) [](/reading-csv-files-with-julia-e2623fb62938) [## 与 Julia 一起阅读 CSV 文件
-
-### 了解如何使用 CSV.jl 读取各种逗号分隔的文件
-
-towardsdatascience.com](/reading-csv-files-with-julia-e2623fb62938) [](/reading-csv-files-with-julia-part-2-51d74434358f) [## 与 Julia 一起阅读 CSV 文件—第 2 部分
-
-### 货币、布尔值等的自定义格式。
-
-towardsdatascience.com](/reading-csv-files-with-julia-part-2-51d74434358f) 
+</julia-dataframes-jl-basics-95dba5146ef4>  </reading-csv-files-with-julia-e2623fb62938>  </reading-csv-files-with-julia-part-2-51d74434358f>  
 
 > 要获得所有媒体文章的完整信息，包括我的文章，请点击这里订阅。
 
@@ -388,16 +376,4 @@ julia> first(new_males, 5)
 
 如果你想获得更多朱莉娅的乐趣，请访问 DataFrames.jl 和 CSV.jl:
 
-[](/julia-dataframes-jl-basics-95dba5146ef4) [## Julia DataFrames.jl 基础
-
-### 用 DataFrames.jl 戳戳你的数据
-
-towardsdatascience.com](/julia-dataframes-jl-basics-95dba5146ef4) [](/reading-csv-files-with-julia-e2623fb62938) [## 与 Julia 一起阅读 CSV 文件
-
-### 了解如何使用 CSV.jl 读取各种逗号分隔的文件
-
-towardsdatascience.com](/reading-csv-files-with-julia-e2623fb62938) [](/reading-csv-files-with-julia-part-2-51d74434358f) [## 与 Julia 一起阅读 CSV 文件—第 2 部分
-
-### 货币、布尔值等的自定义格式。
-
-towardsdatascience.com](/reading-csv-files-with-julia-part-2-51d74434358f)
+</julia-dataframes-jl-basics-95dba5146ef4>  </reading-csv-files-with-julia-e2623fb62938>  </reading-csv-files-with-julia-part-2-51d74434358f> 

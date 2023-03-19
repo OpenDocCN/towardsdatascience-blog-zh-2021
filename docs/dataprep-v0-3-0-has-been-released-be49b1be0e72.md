@@ -140,7 +140,7 @@ clean_duplication(df, “city”)
 
 *   *clean_date()* :清除并标准化日期
 *   *clean_df():* 对数据帧数据执行清理和标准化操作的集成解决方案
-*   *要了解更多关于 Clean 的最新功能，请点击* 查看布兰登和爱丽丝的文章[](/dataprep-clean-accelerate-your-data-cleaning-83406b4645bf)
+*   *要了解更多关于 Clean 的最新功能，请点击* 查看布兰登和爱丽丝的文章</dataprep-clean-accelerate-your-data-cleaning-83406b4645bf>
 
 **可用性**
 

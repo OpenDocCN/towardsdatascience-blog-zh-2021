@@ -92,10 +92,6 @@ Medium 在某种意义上是 YouTube 的书面版本。就像 YouTube 一样，M
 
 最后但同样重要的是，如果你还不是[的灵媒会员](https://sonery.medium.com/membership)，并打算成为一名灵媒会员，我恳请你使用下面的链接。我将收取你的一部分会员费，不增加你的额外费用。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

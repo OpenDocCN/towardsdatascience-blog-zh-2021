@@ -181,10 +181,6 @@ Mountcastle 的想法，Sapolsky 的想法以及我们对 GPT 建筑的迷恋，
 
 如果你想深入探索激发我们深度学习人工智能系统的实体之谜，并使你的想法成为可能，请查看下面的相关文章。
 
-[](/journey-to-the-center-of-the-neuron-c614bfee3f9) [## 通往神经元中心的旅程
-
-### 更接近激发深度学习网络的实体，并可能给我们关于如何走向更…
-
-towardsdatascience.com](/journey-to-the-center-of-the-neuron-c614bfee3f9) ![](img/039915fc04cbed2d77fdb7c70713fe62.png)
+</journey-to-the-center-of-the-neuron-c614bfee3f9>  ![](img/039915fc04cbed2d77fdb7c70713fe62.png)
 
 作者哈维尔·Ideami@ideami.com 的绘画

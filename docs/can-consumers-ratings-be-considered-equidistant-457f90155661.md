@@ -48,11 +48,7 @@
 
 与许多其他电子商店一样，亚马逊要求顾客使用五星评级来评价产品。我分析了[这个由 Kaggle 提供的数据集](https://www.kaggle.com/eswarchandt/amazon-music-reviews)，它包含了 900 种乐器的 2440 条评论(数据是在 CC0 许可下公开发布的)。
 
-[](https://www.kaggle.com/eswarchandt/amazon-music-reviews) [## 亚马逊乐器评论
-
-### 了解客户反馈
-
-www.kaggle.com](https://www.kaggle.com/eswarchandt/amazon-music-reviews) 
+<https://www.kaggle.com/eswarchandt/amazon-music-reviews>  
 
 我用来导入数据和获得初步计数的 **R 代码**如下所示。
 

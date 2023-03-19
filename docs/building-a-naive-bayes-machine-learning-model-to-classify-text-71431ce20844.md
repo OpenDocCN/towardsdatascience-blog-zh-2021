@@ -26,11 +26,7 @@ Python 中的朴素贝叶斯(所有图片由作者提供)
 
 如果你真的是机器学习的新手，我建议阅读一些关于更基本算法的文章，然后回到这一篇，因为我将建立在这些文章中详细解释的概念上。
 
-[](/k-means-clustering-for-beginners-ea2256154109) [## 适用于初学者的 k-均值聚类
-
-### 一个深入的解释和一步一步的指导这个有趣和有用的机器学习算法在 Python 中，由…
-
-towardsdatascience.com](/k-means-clustering-for-beginners-ea2256154109) 
+</k-means-clustering-for-beginners-ea2256154109>  
 
 本质上，两个事件发生的条件概率是根据每个事件的条件概率计算出来的。因此，对于给定的一段文本，计算每个标签的概率，并输出具有最高概率的标签。
 

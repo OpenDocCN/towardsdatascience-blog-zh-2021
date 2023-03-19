@@ -16,11 +16,7 @@
 
 幸运的是，有了一些基本的编程技巧，自己解析和分析这些数据并不困难，唯一的限制就是你的想象力。在本文中，我们将讨论使用 Python 获取活动数据并解析它的基础知识。我们将研究存储和导出活动数据的最常见格式，并探索一些用于解析活动数据的有用 Python 库。还会有一些示例脚本来解析数据文件并使用数据构建`[pandas](https://pandas.pydata.org/)`数据帧(否则我们不会在这里讨论 pandas，阅读本文不需要熟悉 pandas——一些 Python 和 XML 的基础知识会有所帮助)。示例脚本可以在以下 GitHub repo 中找到(运行所需的最低 Python 版本是 3.6，依赖项可以在 [Pipfile](https://github.com/bunburya/fitness_tracker_data_parsing/blob/main/Pipfile) 中找到):
 
-[](https://github.com/bunburya/fitness_tracker_data_parsing) [## bunburya/fitness _ tracker _ data _ parsing
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/bunburya/fitness_tracker_data_parsing) 
+<https://github.com/bunburya/fitness_tracker_data_parsing>  
 
 当我们说“活动数据”时，我们主要指的是 GPS 和时间数据，它们描述了一些基于运动的活动，如跑步、步行或骑自行车，以及您的设备可能提供的补充数据，如海拔、心率和节奏数据。
 

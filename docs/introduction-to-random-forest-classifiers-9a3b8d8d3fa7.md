@@ -219,14 +219,6 @@ test_pred_random_forest = clf.predict(X_testIF)print (metrics.classification_rep
 
 [1][https://www . basketball-reference . com/联赛/NBA_2019_per_game.html](https://www.basketball-reference.com/leagues/NBA_2019_per_game.html)
 
-[](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [](/my-first-hackathon-3f6d5fbf7d91) [## 我的第一次黑客马拉松
-
-### 什么是对的，什么是错的，什么是可以带走的？
-
-towardsdatascience.com](/my-first-hackathon-3f6d5fbf7d91)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89>  </my-first-hackathon-3f6d5fbf7d91> 

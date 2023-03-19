@@ -137,11 +137,7 @@ print('\n\nNode Decrypt:\n', node)
 
 可在应用程序中使用的模板代码位于:
 
-[](https://github.com/wolfiex/python-node-encryption) [## GitHub-wolf iex/python-node-encryption
-
-### 附带的 repository 文章:Install nodejs:conda Install nodejs Using node Install crytpto:NPM I…
-
-github.com](https://github.com/wolfiex/python-node-encryption) 
+<https://github.com/wolfiex/python-node-encryption>  
 
 自述文件包含所有相关的安装命令，并将用户指引到运行该示例的`communicate.py`文件。
 

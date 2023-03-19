@@ -22,11 +22,7 @@
 
 为了了解 venv 是什么，我们将把它分成两部分:*和 ***环境*** 。*
 
-*[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) [## 在两行代码中应用 Python 多重处理
-
-### 何时以及如何使用多个内核来加快执行速度
-
-towardsdatascience.com](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)* 
+*</applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f> * 
 
 ## *环境*
 
@@ -40,21 +36,13 @@ towardsdatascience.com](/applying-python-multiprocessing-in-2-lines-of-code-3ced
 
 *如果不使用虚拟环境，Python 的这种全局安装是您唯一的环境。您可以看到，将所有项目的依赖关系捆绑在一个大盒子里是很危险的。是时候将它划分到虚拟环境中了。*
 
-*[](/sqlalchemy-for-absolute-beginners-22227a287ef3) [## 绝对初学者的 SQLAlchemy
-
-### 创建数据库引擎并从 Python 执行 SQL
-
-towardsdatascience.com](/sqlalchemy-for-absolute-beginners-22227a287ef3)* 
+*</sqlalchemy-for-absolute-beginners-22227a287ef3> * 
 
 ## *虚拟的*
 
 *我喜欢把 venv 想成是专门为这个项目创造一个全新的、稍微轻松一点的环境。我们将在接下来的部分中看到，当您为项目创建 venv 时，您实际上为这个特定的项目重新安装了 Python、pip 和 dependencies-folder。这段代码不在你的默认 Python 路径中(例如`C:\Program Files\Python39`)，而是可以安装在任何地方，例如在你的项目文件夹中(例如`C:\myProject\weatherApp\venv`)。*
 
-*[](/python-logging-for-absolute-beginners-8e89032b1b4c) [## 绝对初学者的 Python 日志记录
-
-### 停止使用 print 语句进行调试，转而使用更高级的语句
-
-towardsdatascience.com](/python-logging-for-absolute-beginners-8e89032b1b4c)* 
+*</python-logging-for-absolute-beginners-8e89032b1b4c> * 
 
 ## *共享和构建环境*
 
@@ -68,11 +56,7 @@ towardsdatascience.com](/python-logging-for-absolute-beginners-8e89032b1b4c)*
 
 *让我们创建我们的虚拟环境吧！在下面的步骤中，我们将确保可以创建虚拟环境。对于这一部分，如果您对使用终端没有经验或不熟悉，建议阅读本文。我们将使用名为 virtualenv 的 Python 包来创建我们的 venvs。*
 
-*[](/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8) [## 面向绝对初学者的终端/控制台/命令行
-
-### 命令行使用简介
-
-towardsdatascience.com](/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8) 
+*</terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8>  
 
 ## 2.1 安装 Python
 
@@ -98,11 +82,7 @@ Virtualenv 是一个 Python 包，它允许我们创建 venvs。我们将在我�
     `python -m venv c:/applications/newpythonproject/venv` `
     这将在你的**根文件夹**中创建一个名为 venv 的新目录，包含 Python 和 pip 的新版本。我们将在这里安装我们的软件包。
 
-[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) [## 面向绝对初学者的 Cython:通过简单的两步将代码速度提高 30 倍
-
-### 为速度惊人的应用程序轻松编译 Python 代码
-
-towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) 
+</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad>  
 
 # 3.使用我们的虚拟环境
 
@@ -130,11 +110,7 @@ towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-si
 
 你可以通过在你的终端执行`deactivate`来关闭你的 venv。
 
-[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) [## 用 OpenCV 破坏猎鸭——初学者的图像分析
-
-### 编写代码，将击败每一个鸭子狩猎高分
-
-towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) 
+</image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6>  
 
 # 4.出口和建造 venv
 
@@ -150,11 +126,7 @@ towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-
 
 这正是 requirements.txt 所做的。它使用下面的命令`pip freeze > requirements.txt`冻结文本文件中`pip list`的内容。非常简单！唯一需要注意的是，上面的命令会在您当前所在的文件夹中创建 requirements.txt 文件，例如您的**根文件夹**。你也可以在其他地方或者用不同的名字`pip freeze > c:/some/other/path/mylist.txt`冻结文件，但是不推荐这样做。
 
-[](/advanced-multi-tasking-in-python-applying-and-benchmarking-threadpools-and-processpools-90452e0f7d40) [## Python 中的高级多任务处理:应用和基准测试线程池和进程池在 6…
-
-### 安全轻松地对您的代码应用多任务处理
-
-towardsdatascience.com](/advanced-multi-tasking-in-python-applying-and-benchmarking-threadpools-and-processpools-90452e0f7d40) 
+</advanced-multi-tasking-in-python-applying-and-benchmarking-threadpools-and-processpools-90452e0f7d40>  
 
 ## 4.2 加载您的依赖项
 
@@ -162,11 +134,7 @@ towardsdatascience.com](/advanced-multi-tasking-in-python-applying-and-benchmark
 
 再次注意，它在您当前所在的文件夹中搜索 requirements.txt。也可以像`pip install -r c:/some/other/location/requirements.txt`一样从另一个位置加载。
 
-[](/create-and-publish-your-own-python-package-ea45bee41cdc) [## 创建并发布您自己的 Python 包
-
-### 关于如何 pip 安装您定制的软件包的简短指南
-
-towardsdatascience.com](/create-and-publish-your-own-python-package-ea45bee41cdc) 
+</create-and-publish-your-own-python-package-ea45bee41cdc>  
 
 ## 4.3 忽略 git 中的虚拟环境
 
@@ -174,21 +142,13 @@ towardsdatascience.com](/create-and-publish-your-own-python-package-ea45bee41cdc
 
 建议告诉 git 忽略包含虚拟环境的文件夹。为了做到这一点，你可以简单地在你的**根文件夹**中创建一个名为`.gitignore`的文件(注意 gitignore 是扩展名，这个文件没有名字)，并给它以下内容`venv/`。这告诉 git 忽略你的 venv 文件夹。如果你保存 venv 的文件夹是别的名字，显然你必须在这里写下正确的文件夹名。
 
-[](/python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca) [## 安全地测试并应用对数据库的更改:Alembic 入门
-
-### 使用这个简单的 Python 工具对数据库进行版本控制
-
-towardsdatascience.com](/python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca) 
+</python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca>  
 
 ## 4.4 使用排除的 venv 从 git 项目安装包
 
 现在，当 Bob 从 Github 获取您的代码并想要使用您的程序时，会发生什么呢？如果你聪明的话，你可以把你的包冻结在 requirements.txt 中。Bob 可以简单地`pip install -r requirements.txt`并开始使用你的程序！
 
-[](/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893) [## 创建您的自定义私有 Python 包，您可以从您的 Git 存储库中 PIP 安装该包
-
-### 使用您的 git repo 共享您的自建 Python 包。
-
-towardsdatascience.com](/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893) 
+</create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893>  
 
 ## 4.5 虚拟环境，requirements.txt 和 docker
 
@@ -204,11 +164,7 @@ WORKDIR /usr/src/downloadService/src
 CMD ["python", "-i", "app.py"]
 ```
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) [## 通过使用环境变量和 env 文件来保证代码的安全
-
-### 安全地加载一个文件，其中包含我们的应用程序所需的所有机密数据，如密码、令牌等
-
-towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) 
+</keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286>  
 
 如果你对 Docker 没有经验，不要担心，只要知道我们可以自动将我们所有的源代码转移到一个容器中，安装所有的包(# 3)，然后启动我们的应用程序。
 
@@ -220,11 +176,7 @@ towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-an
 *   用 `pip freeze`冻结依赖地狱！每次安装或卸载时更新 requirements.txt
 *   在根目录下包含一个名为`pythonversion.txt`的文件，其中记录了您的 python 版本(`python --version`)。
 
-[](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830) [## 面向绝对初学者的 Docker——什么是 Docker 以及如何使用它(+示例)
-
-### 像管理应用程序一样管理您的基础架构
-
-towardsdatascience.com](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830) 
+</docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830>  
 
 *   不总是需要的:在 Docker 容器中构建应用程序，这样你也可以跟踪操作系统
 
@@ -252,8 +204,4 @@ towardsdatascience.com](/docker-for-absolute-beginners-what-is-docker-and-how-to
 
 页（page 的缩写）学生:比如我正在做的事情？[跟我来！](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)*
+<https://mikehuls.medium.com/membership> *

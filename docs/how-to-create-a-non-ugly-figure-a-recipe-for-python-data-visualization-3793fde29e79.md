@@ -99,11 +99,7 @@
 
 **如果你熟悉`seaborn`的可用选项，这对你来说可能不是问题。但是，如果您不是，最好找出您在支持的打印样式方面的选项。你可以在 seaborn 的网站上找到大量有用的例子，如下所示。**
 
-**[](https://seaborn.pydata.org/examples/index.html) [## 示例库- seaborn 0.11.2 文档
-
-### 编辑描述
-
-seaborn.pydata.org](https://seaborn.pydata.org/examples/index.html) 
+**<https://seaborn.pydata.org/examples/index.html>  
 
 当您不确定想要选择的绘图的名称时，如果您正在使用 PyCharm，您可以简单地输入`sns.plot`并让 IDE 为您填充可用的绘图相关方法，如下所示。
 

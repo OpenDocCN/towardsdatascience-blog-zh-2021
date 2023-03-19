@@ -107,11 +107,7 @@ east_color = east_color.astype('category')
 
 图 3。图片鸣谢:亚当·罗斯·尼尔森(作者)。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 结论
 

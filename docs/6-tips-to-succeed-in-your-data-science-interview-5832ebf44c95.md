@@ -72,11 +72,7 @@
 
 这里有一篇来自[特伦斯·申](https://medium.com/u/360a9d4d19ab?source=post_page-----5832ebf44c95--------------------------------)的关于微软常见问题的精彩文章。
 
-[](/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) [## 微软数据科学面试问答！
-
-### 微软面试中一些数据科学问题的演练
-
-towardsdatascience.com](/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) 
+</microsoft-data-science-interview-questions-and-answers-69ccac16bd9b>  
 
 ## 6 —反馈帮助你变得更好
 
@@ -84,11 +80,7 @@ towardsdatascience.com](/microsoft-data-science-interview-questions-and-answers-
 
 并不是说你已经学会了我的成功面试的 6 个技巧，你知道该怎么做，我不能向你保证这些技巧会给你一份工作，但我认为你可以增加获得工作的机会。如果你没有达到这一步，我写了另一篇关于如何准备简历的文章。
 
-[](/a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47) [## 从大三学生那里获得数据科学工作的一些技巧
-
-### 一位前求职者给现在求职者的建议
-
-towardsdatascience.com](/a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47) 
+</a-few-tips-to-get-a-job-in-data-science-from-a-junior-bb3009335f47>  
 
 祝你旅途好运！
 

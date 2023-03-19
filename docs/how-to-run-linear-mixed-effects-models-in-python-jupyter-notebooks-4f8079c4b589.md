@@ -86,16 +86,4 @@ Pymer4 的 LMER 输出
 
 感谢您的阅读，并随时查看我的其他数据科学教程！
 
-[](/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9) [## 量化时间序列数据之间同步性的四种方法
-
-### 用于计算同步指标的样本代码和数据，包括皮尔逊相关、时滞交叉相关…
-
-towardsdatascience.com](/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9) [](/how-to-correctly-interpret-your-continuous-and-categorical-variable-interactions-in-regressions-51e5eed5de1e) [## 如何使用 R 正确解释连续变量和分类变量的相互作用
-
-### 当你有互动时，解释系数可能是棘手的。你对它们的解释正确吗？
-
-towardsdatascience.com](/how-to-correctly-interpret-your-continuous-and-categorical-variable-interactions-in-regressions-51e5eed5de1e) [](https://jinhyuncheong.medium.com/membership) [## 通过我的推荐链接加入 Medium 金贤昌博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jinhyuncheong.medium.com](https://jinhyuncheong.medium.com/membership)
+</four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9>  </how-to-correctly-interpret-your-continuous-and-categorical-variable-interactions-in-regressions-51e5eed5de1e>  <https://jinhyuncheong.medium.com/membership> 

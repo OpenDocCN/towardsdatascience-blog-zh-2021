@@ -181,11 +181,7 @@ plt.show()
 
 要改变我们正在使用的彩色地图，我们可以使用`plt.scatter()`中的`cmap`参数将其设置为下面网页中的一个。对于这个例子，我们将使用彩虹色图。这将允许低伽马射线值以紫色/蓝色显示，高伽马射线值以红色显示。
 
-[](https://matplotlib.org/stable/tutorials/colors/colormaps.html) [## 在 Matplotlib - Matplotlib 3.4.2 文档中选择色彩映射表
-
-### Matplotlib 有许多内置的色彩映射表，可以通过。还有外部库，如[palettable]和…
-
-matplotlib.org](https://matplotlib.org/stable/tutorials/colors/colormaps.html) 
+<https://matplotlib.org/stable/tutorials/colors/colormaps.html>  
 
 ```
 # Set up the scatter plot
@@ -219,11 +215,7 @@ plt.show()
 
 样式表允许我们控制情节的外观和感觉。您可以在 matplotlib 网站上找到完整的示例列表，网址为:
 
- [## 样式表参考- Matplotlib 3.4.2 文档
-
-### 编辑描述
-
-matplotlib.org](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html) 
+  
 
 要设置样式表，我们可以使用`plt.style.use('bmh')`。“bmh”是一种特殊的风格，可以在上面的参考链接中找到。
 

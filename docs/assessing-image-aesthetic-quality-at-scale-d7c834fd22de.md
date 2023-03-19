@@ -28,11 +28,7 @@
 
 但是你如何创建一个模型来决定一个图像在美学上是有吸引力的呢？幸运的是，有相当多的研究做了这个主题。最值得注意的是，这项由谷歌完成的研究。在研究中，引入了实现深度学习的解决方案来解决该问题。
 
-[](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) [## 介绍 NIMA:神经影像评估
-
-### 图像质量和美学的量化一直是图像处理和计算机视觉领域的一个长期问题
-
-ai.googleblog.com](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) 
+<https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html>  
 
 # 解决方案
 

@@ -16,7 +16,7 @@ Joshua Hoehne 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 首先，你需要设置你的 Twitter 开发者账户(如果你已经有了，跳到第 2 步)。要创建这样的帐户，请遵循以下说明:
 
-1.  **导航至 https://developer.twitter.com/en/apply-for-access**[](https://developer.twitter.com/en/apply-for-access)**并使用您的 twitter 账户登录(如果您已经有一个的话)。如果没有，注册一个新的 Twitter 账户。登录后，您应该会看到以下网页(见下图)。**
+1.  **导航至 https://developer.twitter.com/en/apply-for-access**<https://developer.twitter.com/en/apply-for-access>**并使用您的 twitter 账户登录(如果您已经有一个的话)。如果没有，注册一个新的 Twitter 账户。登录后，您应该会看到以下网页(见下图)。**
 
 **![](img/cf9f2b8628f264842ad3aafe7cc914fb.png)**
 

@@ -98,11 +98,7 @@ UNIBOA 在 [Unsplash](https://unsplash.com/s/photos/augmented-reality?utm_source
 
 ## 如果你想了解更多关于计算机视觉和深度学习的知识，你可以在我即将到来的 O'Reilly live 培训课上和我一起学习。
 
-[](https://www.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920060576/) [## 使用 TensorFlow & Keras 对计算机视觉和深度学习世界的实用介绍
-
-### 你将学到的是你的现场活动？时间表指导员计算机视觉自 20 世纪 60 年代以来已经存在，并已…
-
-www.oreilly.com](https://www.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920060576/) 
+<https://www.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920060576/>  
 
 # 想要更多吗？
 

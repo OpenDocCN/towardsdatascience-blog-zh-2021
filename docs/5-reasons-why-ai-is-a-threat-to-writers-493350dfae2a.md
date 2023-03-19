@@ -50,7 +50,7 @@ AI 人很快意识到变压器架构背后的力量。一种能够并行训练�
 
 # 人工智能已经达到了人类的写作水平
 
-2020 年 7 月，撰写时事通讯“[](https://adolos.substack.com/)*”的利亚姆·波尔在[发表了一篇关于低效和过度思考的文章](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)。论文？创造性思维是解决办法。一篇结构良好的自助文章，正如一位评论者所指出的，“阅读你在黑客新闻上发现的 99%的废话。”典型的生产力文章。HackerNews 的人——他们以精通技术而闻名——对这篇文章发表了评论，只有少数人发现了其中的诀窍。*
+2020 年 7 月，撰写时事通讯“<https://adolos.substack.com/>*”的利亚姆·波尔在[发表了一篇关于低效和过度思考的文章](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)。论文？创造性思维是解决办法。一篇结构良好的自助文章，正如一位评论者所指出的，“阅读你在黑客新闻上发现的 99%的废话。”典型的生产力文章。HackerNews 的人——他们以精通技术而闻名——对这篇文章发表了评论，只有少数人发现了其中的诀窍。*
 
 *重点在哪里？利亚姆·波尔的文章完全由 GPT-3 撰写。有趣的是，这篇文章没有展示任何形式的创造性思维，因为它感觉像是所有生产力 101 课程的回流。然而，Porr 成功地欺骗了大多数人，让他们认为这是一篇真正的文章。*
 
@@ -134,14 +134,6 @@ AI 人很快意识到变压器架构背后的力量。一种能够并行训练�
 
 # *推荐阅读*
 
-*[](/ai-will-impact-computer-based-jobs-first-and-hard-11af4d47487) [## 人工智能将首先冲击基于计算机的工作——而且很难
+*</ai-will-impact-computer-based-jobs-first-and-hard-11af4d47487>  </software-3-0-how-prompting-will-change-the-rules-of-the-game-a982fbfe1e0> [## 软件 3.0——提示将如何改变游戏规则
 
-### OpenAI 的 CEO 做了一个可能改变一切的预测。
-
-towardsdatascience.com](/ai-will-impact-computer-based-jobs-first-and-hard-11af4d47487) [](/software-3-0-how-prompting-will-change-the-rules-of-the-game-a982fbfe1e0) [## 软件 3.0——提示将如何改变游戏规则
-
-towardsdatascience.com](/software-3-0-how-prompting-will-change-the-rules-of-the-game-a982fbfe1e0) [](/5-must-know-ai-concepts-in-2021-75d8c1ff938) [## 2021 年必须知道的 5 个人工智能概念
-
-### 这是你不想错过的。
-
-towardsdatascience.com](/5-must-know-ai-concepts-in-2021-75d8c1ff938)*
+towardsdatascience.com](/software-3-0-how-prompting-will-change-the-rules-of-the-game-a982fbfe1e0) </5-must-know-ai-concepts-in-2021-75d8c1ff938> *

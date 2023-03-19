@@ -180,11 +180,7 @@ Numpy 奇异值分解
 
 顺便提一下，如果你的矩阵不是半正定的( **psd** ，所以所有特征值都大于或等于**0【因此是“半”】)，我不会使用 SVD，而是使用下面 PCA 方法中概述的“特征值”。关于 psd 矩阵的奇异值分解的有趣讨论可在此处找到:**
 
-[](https://math.stackexchange.com/a/3818408) [## 负定矩阵的特征值和奇异值
-
-### 感谢为数学栈交换贡献一个答案！请务必回答问题。提供详细信息…
-
-math.stackexchange.com](https://math.stackexchange.com/a/3818408) 
+<https://math.stackexchange.com/a/3818408>  
 
 ## 特征值/特征向量
 
@@ -196,11 +192,7 @@ math.stackexchange.com](https://math.stackexchange.com/a/3818408)
 
 当我们这样做的时候:“特征”在机器学习中几乎无处不在，所以重温这些从来都不是一个坏主意。如果你感兴趣，可以在这里找到更多的建议:
 
-[](/identify-well-connected-users-in-a-social-network-19ea8dd50b16) [## 在无向图中识别良好连接的用户
-
-### 这主要是关于使用无向图和 Scipy 的稀疏矩阵实现(首席运营官)来存储数据和…
-
-towardsdatascience.com](/identify-well-connected-users-in-a-social-network-19ea8dd50b16) 
+</identify-well-connected-users-in-a-social-network-19ea8dd50b16>  
 
 # 结论
 

@@ -92,7 +92,7 @@
 
 对更多背景感兴趣？查看我之前关于后决策状态的文章:
 
-[](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) [## 什么是后决策状态？他们想从我们这里得到什么？
+</what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40> [## 什么是后决策状态？他们想从我们这里得到什么？
 
 towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) 
 

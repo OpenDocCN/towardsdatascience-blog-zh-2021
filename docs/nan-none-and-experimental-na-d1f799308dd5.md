@@ -50,7 +50,7 @@
 
 上图中有两件事需要注意。首先，在使用 *numpy.nan* 、*熊猫*表示整数型缺失值时，将整数型数据(默认推断为 *int64* )类型强制转换为浮点型数据(默认为 *float64* )。其次， *pandas* 再次允许我们利用两个哨兵中的任何一个来表示整数类型的缺失值。也就是说，当 *None* 用于表示缺失值时，它会隐式地将其转换为浮点值 *NaN* ，参见上面的结果数据帧。然而，将整数自动类型转换为浮点值并不总是很方便。尤其是当我们希望整数保持为整数的时候。因为有时整数也作为标识符用于索引目的。别担心😉因为熊猫已经解决了这个问题😎
 
-再次截止到 2020 年 1 月发布的 **v1.0** 中，所有*熊猫【*现有的*可空整数*dtype，如([](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.UInt64Dtype.html)*)[*int 64*](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Int64Dtype.html)，使用新的实验用*熊猫。NA* 作为缺失值指示器，代替 *NaN* 值。这太棒了😃因为通过使用任何 *pandas 的*扩展 integer 类型，我们可以在需要时避免整型到浮点型的类型转换。请注意，为了区别于 NumPy 的整数类型，例如“int64”，extension-dtypes 的字符串别名中的第一个字母是大写的，例如“Int64”。因此，作为一个例子，让我们使用扩展类型 *Int64* 和包含缺失值的一列**整数**来构造一个简单的数据帧，见下文*
+再次截止到 2020 年 1 月发布的 **v1.0** 中，所有*熊猫【*现有的*可空整数*dtype，如(<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.UInt64Dtype.html>*)[*int 64*](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Int64Dtype.html)，使用新的实验用*熊猫。NA* 作为缺失值指示器，代替 *NaN* 值。这太棒了😃因为通过使用任何 *pandas 的*扩展 integer 类型，我们可以在需要时避免整型到浮点型的类型转换。请注意，为了区别于 NumPy 的整数类型，例如“int64”，extension-dtypes 的字符串别名中的第一个字母是大写的，例如“Int64”。因此，作为一个例子，让我们使用扩展类型 *Int64* 和包含缺失值的一列**整数**来构造一个简单的数据帧，见下文*
 
 *![](img/3b49292e9eff3fb8c8a049df4ebfd4fa.png)*
 

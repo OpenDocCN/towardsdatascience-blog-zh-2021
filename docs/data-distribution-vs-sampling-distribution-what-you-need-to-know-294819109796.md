@@ -118,12 +118,4 @@ Bootstrapping 是一种简单的估计抽样分布的方法，它从总体中随
 
 # 有用的链接
 
-[](/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297) [## 探索性数据分析中的度量指南
-
-### 熟悉稳健的指标/估计，如截断均值、中位数绝对偏差等
-
-towardsdatascience.com](/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297) [](/mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd) [## MLxtend:一个 Python 库，带有用于数据科学任务的有趣工具
-
-### MLxtend 库(机器学习扩展)有许多有趣的功能，用于日常数据分析和机器…
-
-towardsdatascience.com](/mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd)
+</a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297>  </mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd> 

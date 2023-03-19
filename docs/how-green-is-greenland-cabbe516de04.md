@@ -255,12 +255,4 @@ MNDWI for Nuuk(图片由作者提供)
 
 ## 参考资料:
 
-[](https://earthobservatory.nasa.gov/features/MeasuringVegetation) [## 测量植被(NDVI 和 EVI)
-
-### 为了监测植被的主要波动并了解它们如何影响环境，科学家们使用…
-
-earthobservatory.nasa.gov](https://earthobservatory.nasa.gov/features/MeasuringVegetation)  [## EarthPy - EarthPy 0.9.2 文档入门
-
-### EarthPy 是一个专门处理空间和遥感数据的 python 包。EarthPy 还包含一个 IO 模块…
-
-earthpy.readthedocs.io](https://earthpy.readthedocs.io/en/latest/get-started.html)
+<https://earthobservatory.nasa.gov/features/MeasuringVegetation>   

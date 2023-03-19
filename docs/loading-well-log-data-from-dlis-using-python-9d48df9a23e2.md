@@ -40,11 +40,7 @@ dlsio 是一个 python 库，由 Equinor ASA 开发，用于读取 DLIS 文件�
 
 这篇文章是我的 Python &岩石物理学系列的一部分。完整系列的详情可在[这里](http://andymcdonald.scot/python-and-petrophysics)找到。您也可以在我的 GitHub 存储库中找到我的 Jupyter 笔记本和数据集，链接如下
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series) [## andymcdgeo/岩石物理学-Python-系列
-
-### 本系列 Jupyter 笔记本将带您了解使用 Python 和岩石物理数据的各个方面。一个…
-
-github.com](https://github.com/andymcdgeo/Petrophysics-Python-Series) 
+<https://github.com/andymcdgeo/Petrophysics-Python-Series>  
 
 要阅读这篇文章，可以在上面的链接中找到 Jupyter 笔记本，这篇文章的数据文件可以在 Python & Petrophysics 库的 [Data 子文件夹](https://github.com/andymcdgeo/Petrophysics-Python-Series/tree/master/Data)中找到。
 
@@ -301,7 +297,7 @@ Dimension: 	[1]
 
 ***感谢阅读！***
 
-如果您觉得这篇文章很有用，请随时查看我的其他文章，这些文章介绍了 Python 和测井数据的各个方面。你也可以在 GitHub 的[](https://github.com/andymcdgeo)**找到我和其他人在本文中使用的代码。**
+如果您觉得这篇文章很有用，请随时查看我的其他文章，这些文章介绍了 Python 和测井数据的各个方面。你也可以在 GitHub 的<https://github.com/andymcdgeo>**找到我和其他人在本文中使用的代码。**
 
 *如果你想联系我，你可以在[*LinkedIn*](https://www.linkedin.com/in/andymcdonaldgeo/)*或者我的* [*网站*](http://andymcdonald.scot/) *找到我。**
 

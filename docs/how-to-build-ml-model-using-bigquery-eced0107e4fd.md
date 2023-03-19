@@ -143,11 +143,7 @@ AS
 
 如果您想学习如何使用 Python 构建逻辑回归模型，本文可能会有所帮助:
 
-[](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## 使用 Python scikit 的简单逻辑回归-学习
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) 
+</simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  
 
 “AS”关键字之后的第二部分指定了训练数据集:
 
@@ -316,18 +312,6 @@ FROM
 
 ## 更多相关文章
 
-[](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [## 2021 年数据科学家关注的 15 大网站
+<https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d>  </learn-sql-in-everyday-language-8d1e06f4daef>  </get-started-with-sql-joins-87835422644b>  
 
-### 启发学习的网站和博客
-
-medium.com](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [](/learn-sql-in-everyday-language-8d1e06f4daef) [## 用日常语言学习 SQL
-
-### SQL 就像 Excel 一样
-
-towardsdatascience.com](/learn-sql-in-everyday-language-8d1e06f4daef) [](/get-started-with-sql-joins-87835422644b) [## SQL 连接入门
-
-### 使用示例学习左连接、内连接、自连接
-
-towardsdatascience.com](/get-started-with-sql-joins-87835422644b) 
-
-*原载于 2021 年 2 月 9 日 https://www.visual-design.net*[](https://www.visual-design.net/post/how-to-build-ml-model-using-bigquery)**。**
+*原载于 2021 年 2 月 9 日 https://www.visual-design.net*<https://www.visual-design.net/post/how-to-build-ml-model-using-bigquery>**。**

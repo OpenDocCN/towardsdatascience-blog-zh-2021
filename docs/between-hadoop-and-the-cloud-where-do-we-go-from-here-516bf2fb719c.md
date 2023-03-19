@@ -139,4 +139,4 @@ Being 是在云上运行 Hadoop 的一个进步，首选意味着利用云提供
 2.  **[Bill Havanki 的《将 Hadoop 迁移到云上》](https://learning.oreilly.com/library/view/moving-hadoop-to/9781491959626/)**
 3.  **[Hadoop:汤姆·怀特的权威指南](https://learning.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch17.html)**
 
-**【http://thedigitalskye.com】原载于 2021 年 3 月 1 日[](http://thedigitalskye.com/2021/03/02/between-hadoop-and-the-cloud-where-do-we-go-from-here/)**。****
+**【http://thedigitalskye.com】原载于 2021 年 3 月 1 日<http://thedigitalskye.com/2021/03/02/between-hadoop-and-the-cloud-where-do-we-go-from-here/>**。****

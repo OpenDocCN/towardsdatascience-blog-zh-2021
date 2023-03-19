@@ -122,10 +122,6 @@ autoencoder.save(args.model_dir)
 
 新生成的模型存储在我的“*输出/* 文件夹的 *S3* 桶中，并以 8.4 MB*model.tar.gz*档案的形式出现。下载并解压后，我能够使用 *VAE* 类的 *load()* 方法，并成功地做出推理来生成声音。以下是我的模型生成的“*零*”声音数字的示例:
 
- [## 零
-
-### 流零由 msaintfelix 在桌面和移动。在 SoundCloud 上免费播放超过 2.65 亿首歌曲。
-
-soundcloud.com](https://soundcloud.com/msaintfelix/zero) 
+  
 
 查看我的 [GitHub 资源库](https://github.com/msaintfelix/Training_Custom_VAE_Model_in_AWS_SageMaker)这个项目，感谢阅读！

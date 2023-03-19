@@ -72,11 +72,7 @@ Seaborn 中有 3 个图形级函数，用于在 FacetGrid 上创建以下图:
 
 如果您想了解关于这些图形级函数的更多信息，我还写了一篇文章，用几个例子详细解释了它们:
 
-[](/3-seaborn-functions-that-cover-almost-all-your-visualization-tasks-793f76510ac3) [## 3 个 Seaborn 函数覆盖了(几乎)所有的可视化任务
-
-### 综合实践指南
-
-towardsdatascience.com](/3-seaborn-functions-that-cover-almost-all-your-visualization-tasks-793f76510ac3) 
+</3-seaborn-functions-that-cover-almost-all-your-visualization-tasks-793f76510ac3>  
 
 在表达了对这些伟大功能的赞赏之后，让我们回到最初的话题。
 
@@ -112,10 +108,6 @@ towardsdatascience.com](/3-seaborn-functions-that-cover-almost-all-your-visualiz
 
 最后但同样重要的是，如果你还不是[中级会员](https://sonery.medium.com/membership)并打算成为其中一员，我恳请你使用以下链接。我将从你的会员费中收取一部分，不增加你的额外费用。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

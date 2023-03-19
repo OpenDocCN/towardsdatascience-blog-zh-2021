@@ -46,11 +46,7 @@
 
 毫无疑问，数据科学工作的需求很大——看看一个工作角色上传到 LinkedIn 上时收到的申请数量。我曾经和一位招聘人员交谈过，他们告诉我他们每天收到 150-250 份工作申请**。**
 
-[](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) [## 获得数据科学工作比以往任何时候都难
-
-### 以及如何利用找工作的困难成为你的优势
-
-towardsdatascience.com](/getting-a-data-science-job-is-harder-than-ever-fb796aae1922) 
+</getting-a-data-science-job-is-harder-than-ever-fb796aae1922>  
 
 这让我大致了解了我所面临的情况，但同时，这也让我想知道我如何才能在所有这些申请人中脱颖而出。
 
@@ -78,11 +74,7 @@ towardsdatascience.com](/getting-a-data-science-job-is-harder-than-ever-fb796aae
 
 > **注**:下面这篇文章深入探讨了这种方法。它最初是出于自由职业的考虑而创建的，但通过实施这一策略，我也收到了相当一部分永久性的邀请(我没有接受，因为这不是我想要的)。
 
-[](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) [## 吸引自由数据科学客户的 5 种方法
-
-### 我做的一件简单的事
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) 
+<https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab>  
 
 # 自由职业的兴起
 
@@ -90,11 +82,7 @@ medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-ways-to-a
 
 雇主们也见证了雇佣自由职业者而不是全职员工的诸多好处。因此，市场上这类机会稳步上升。
 
-[](/freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6) [## 2021 年，自由职业可能是从事数据科学的最佳方式
-
-### 为什么我决定做自由职业者
-
-towardsdatascience.com](/freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6) 
+</freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6>  
 
 最初，自由职业只是我在没有全职工作的那几个月里为了经济上过得去而做的事情。我从未申请过自由职业，也不知道如何申请，因此我不禁对自己的未来感到不安。
 
@@ -148,16 +136,4 @@ towardsdatascience.com](/freelancing-may-be-the-best-way-to-do-data-science-in-2
 
 ## 相关文章
 
-[](https://medium.datadriveninvestor.com/how-freelance-data-science-has-changed-my-life-4c387aa6164d) [## 自由数据科学如何改变了我的生活
-
-### 以及为什么它有可能改变你的生活
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-freelance-data-science-has-changed-my-life-4c387aa6164d) [](/5-tips-for-beginner-freelance-data-scientists-e2b421f239d) [## 初学自由职业数据科学家的 5 个技巧
-
-### 陆上演出指南
-
-towardsdatascience.com](/5-tips-for-beginner-freelance-data-scientists-e2b421f239d) [](/3-traits-all-great-data-scientist-have-c43ab2de6e64) [## 所有伟大的数据科学家都具有的 3 个特质
-
-### 你可以开始为自己工作了
-
-towardsdatascience.com](/3-traits-all-great-data-scientist-have-c43ab2de6e64)
+<https://medium.datadriveninvestor.com/how-freelance-data-science-has-changed-my-life-4c387aa6164d>  </5-tips-for-beginner-freelance-data-scientists-e2b421f239d>  </3-traits-all-great-data-scientist-have-c43ab2de6e64> 

@@ -94,7 +94,7 @@ tensor flow em NIST 可以被视为 MNIST 数据集，其中有 10 个类别标�
 
 # 4.聚类:
 
-我们提出的模型的基本部分是设备的[](https://en.wikipedia.org/wiki/Cluster_analysis)****群集。集群可以被认为是组合相似的设备。它允许设备从来自具有相似学习特征的设备的附加协作层中受益。例如，假设 EMNIST 数据集正被用于训练，并且两个设备可能具有大量学习识别数字 5 类别标签的经验。通过分享他们的体重，他们可以理想地帮助彼此以更快的速度学习。聚类发生在我们模型的第二阶段，并且在第二和第三阶段进行的训练中起着重要作用。在我们的研究中，我们测试了两种聚类方法。****
+我们提出的模型的基本部分是设备的<https://en.wikipedia.org/wiki/Cluster_analysis>****群集。集群可以被认为是组合相似的设备。它允许设备从来自具有相似学习特征的设备的附加协作层中受益。例如，假设 EMNIST 数据集正被用于训练，并且两个设备可能具有大量学习识别数字 5 类别标签的经验。通过分享他们的体重，他们可以理想地帮助彼此以更快的速度学习。聚类发生在我们模型的第二阶段，并且在第二和第三阶段进行的训练中起着重要作用。在我们的研究中，我们测试了两种聚类方法。****
 
 1.  *******K-Means 聚类:***
     K-Means 算法( [scikit learn，2020](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) )是一种为一组特定输入点创建聚类的成熟方法。该算法采用这些输入点，并且输入整数 K. K 表示要形成的聚类的数量。****
@@ -240,24 +240,4 @@ tensor flow em NIST 可以被视为 MNIST 数据集，其中有 10 个类别标�
 
 ****参考资料:****
 
-****[](https://www.tensorflow.org/federated) [## 张量流联邦
-
-### TensorFlow Federated:分散数据上的机器学习 TensorFlow Federated (TFF)是一个开源框架，用于…
-
-www.tensorflow.org](https://www.tensorflow.org/federated)  [## 联邦学习系统调查:数据隐私和保护的愿景、宣传和现实
-
-### 联邦学习在实现机器学习模型的协作训练方面已经成为一个热门的研究课题
-
-arxiv.org](https://arxiv.org/abs/1907.09693)  [## 非 IID 数据上 FedAvg 的收敛性
-
-### 联合学习使得大量边缘计算设备能够在没有数据共享的情况下共同学习模型。作为一个…
-
-arxiv.org](https://arxiv.org/abs/1907.02189)  [## 面向用户持有数据的联邦学习的实用安全聚合
-
-### 安全聚合协议允许一组互不信任的成员，每个成员持有一个私有值，来…
-
-arxiv.org](https://arxiv.org/abs/1611.04482) [](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) [## 联合学习:没有集中训练数据的协作机器学习
-
-### 标准的机器学习方法需要将训练数据集中在一台机器或数据中心。还有…
-
-ai.googleblog.com](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)****
+****<https://www.tensorflow.org/federated>        <https://ai.googleblog.com/2017/04/federated-learning-collaborative.html> ****

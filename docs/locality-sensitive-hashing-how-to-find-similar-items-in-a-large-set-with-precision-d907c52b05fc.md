@@ -177,11 +177,7 @@ HashManager 是一个可调用的类，它将生成随机散列函数，然后�
 
 同样，请访问我的 github 链接中的笔记本:
 
-[](https://github.com/Jmkernes/Locality-sensitive-hashing-tutorial) [## jmkernes/区分位置哈希教程
-
-### 顾名思义，这是一个关于本地敏感散列的教程。所有的信息都包含在…
-
-github.com](https://github.com/Jmkernes/Locality-sensitive-hashing-tutorial) 
+<https://github.com/Jmkernes/Locality-sensitive-hashing-tutorial>  
 
 在那里，您将找到完整的代码，以及额外的测试示例和比较。您还可以试验一下 b 和 r 参数，看看它变化了多少。我们发现 LSH 在 N=1000 和 D=50 的随机欧几里得向量问题上获得了 25 倍的加速。不算太坏。
 

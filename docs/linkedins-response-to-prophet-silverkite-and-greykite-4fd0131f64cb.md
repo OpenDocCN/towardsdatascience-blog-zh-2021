@@ -161,19 +161,7 @@ Silverkite 的架构图。来源:[1]
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [## 脸书的先知+深度学习= NeuralProphet
-
-### 用深度学习的力量改进可解释的先知模型
-
-towardsdatascience.com](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [## 开始学习时间序列预测的最佳书籍
-
-### 更妙的是，它是免费的！
-
-towardsdatascience.com](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [](/introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b) [## 分层时间序列预测简介—第二部分
-
-### Python 中使用 scikit-hts 的示例
-
-towardsdatascience.com](/introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b) 
+</facebooks-prophet-deep-learning-neuralprophet-76796aed1d86>  </the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb>  </introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b>  
 
 # 参考
 

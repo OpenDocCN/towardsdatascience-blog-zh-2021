@@ -214,11 +214,7 @@ print('RMSE:', rmse)
 
 如果你需要关于自举的复习，或者如果你想学习更多关于采样技术的知识，你可以看看我下面的文章。
 
-[](/resampling-methods-for-inference-analysis-e75fecfefcb2) [## 推理分析的重采样方法
-
-### 当你有一个样本，但你想了解人口
-
-towardsdatascience.com](/resampling-methods-for-inference-analysis-e75fecfefcb2) 
+</resampling-methods-for-inference-analysis-e75fecfefcb2>  
 
 我希望你喜欢阅读关于集成学习方法的文章，并发现这篇文章对你的分析有用！
 

@@ -126,8 +126,4 @@ River 扩展了原生 python 字典结构，以支持更高效的数据操作。
 
 河纸:[https://arxiv.org/abs/2012.04740](https://arxiv.org/abs/2012.04740)
 
- [## 阅读亚历山德拉·阿米登(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-alexandra-amidon.medium.com](https://alexandra-amidon.medium.com/membership)
+ 

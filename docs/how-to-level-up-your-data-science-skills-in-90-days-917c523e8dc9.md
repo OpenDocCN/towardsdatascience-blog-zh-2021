@@ -62,15 +62,7 @@ Pouyan R. Fard，2021
 
 **更多文章来自作者:**
 
-[](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) [## 开始数据科学职业生涯的最佳时机
-
-### 从数据科学职业生涯的早期开始中获益的 5 种方式
-
-towardsdatascience.com](/the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff) [](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) [## 2021 年进军数据科学:竞争越来越激烈了吗？
-
-towardsdatascience.com](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) [](/data-science-career-is-it-still-lucrative-in-2021-f37d433d1da5) [## 数据科学职业:2021 年还有利可图吗？
-
-towardsdatascience.com](/data-science-career-is-it-still-lucrative-in-2021-f37d433d1da5) 
+</the-best-time-to-kick-start-your-data-science-career-4ca5e0b56ff>  </breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f>  
 
 **关于作者:**
 

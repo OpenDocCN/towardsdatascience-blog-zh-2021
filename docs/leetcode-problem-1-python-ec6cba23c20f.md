@@ -95,20 +95,8 @@ from typing import Listclass Solution: def twoSum(self, nums: List[int], target:
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/augmented-assignments-python-caa4990811a0) [## Python 中的扩充赋值
-
-### 了解增强赋值表达式在 Python 中的工作方式，以及为什么在使用它们时要小心…
-
-towardsdatascience.com](/augmented-assignments-python-caa4990811a0) [](/apply-vs-map-vs-applymap-pandas-529acdf6d744) [## 熊猫中的 apply() vs map() vs applymap()
-
-### 讨论 Python 和 Pandas 中 apply()、map()和 applymap()的区别
-
-towardsdatascience.com](/apply-vs-map-vs-applymap-pandas-529acdf6d744)
+</augmented-assignments-python-caa4990811a0>  </apply-vs-map-vs-applymap-pandas-529acdf6d744> 

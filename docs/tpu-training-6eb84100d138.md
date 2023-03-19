@@ -212,11 +212,7 @@ TPU 文档提供了关于如何最小化填充开销的指南。简化版是这�
 
 可以用来测量训练系统与给定模型的兼容性的参数之一是主机将训练批次馈送到加速器中的能力(例如，通过每秒批次来测量)与加速器处理输入批次的能力之间的比率。io 带宽、输入管道中的数据处理操作量、CPU 内核的数量和类型以及加速器的速度都会影响这一比率。如果该比率小于 1，您可能会遇到输入管道瓶颈。在这种情况下，加速器在等待输入数据时将保持空闲，宝贵的计算周期将被浪费。这是一种不理想的情况，我们已经在[之前的帖子](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851)中对此进行了阐述。
 
-[](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) [## 使用 TensorFlow 数据服务、NVIDIA DALI 和其他解决方案克服数据预处理瓶颈
-
-### 最大限度地提高培训资源利用率，加速学习，节省资金
-
-towardsdatascience.com](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) 
+</overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851>  
 
 在 TPU 上训练时，由于其消耗数据的速度很快，您在数据准备管道上遇到瓶颈的可能性可能会增加。即使您的输入管道不包括繁重的处理，被解析、混洗和批处理的大量数据也很容易阻塞 CPU 资源。通过使用 [tf.data.service](https://www.tensorflow.org/api_docs/python/tf/data/experimental/service) 卸载到辅助 CPU 可能会减轻一些负担。(参见[此](https://github.com/tensorflow/ecosystem/tree/master/data_service)示例，了解如何使用 TPU)。然而，它并不是在所有情况下都有帮助，您可能需要求助于更具创造性的解决方案，包括:调整分配给管道不同部分的进程数量，更改数据的格式和/或精度，或将计算转移到 TPU 上。
 
@@ -236,11 +232,7 @@ towardsdatascience.com](/overcoming-data-preprocessing-bottlenecks-with-tensorfl
 
 为了充分利用 TPU，您可能需要将批量增加到超出您习惯的水平。您的模型可能对训练批次大小很敏感，对其进行调整以收敛(在相同数量的数据遍历上)可能会带来巨大的挑战。查看我们之前的[博客文章](/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3)了解更多关于这个话题的细节。
 
-[](/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3) [## (高度)分布式 DNN 训练指南
-
-### 将培训扩展到多名员工时需要注意什么
-
-towardsdatascience.com](/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3) 
+</a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3>  
 
 # 摘要
 

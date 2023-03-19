@@ -69,10 +69,6 @@
 
 *   另外，如果您对本教程的代码感兴趣，可以在下面找到它:
 
-[](https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Project%203%2C%20Is%20Tirana%20Overpopulated_.ipynb) [## 数据科学项目
-
-### 在 GitHub 上创建一个帐户，为 DeaBardhoshi/数据科学项目的发展做出贡献。
-
-github.com](https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Project%203%2C%20Is%20Tirana%20Overpopulated_.ipynb) 
+<https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Project%203%2C%20Is%20Tirana%20Overpopulated_.ipynb>  
 
 感谢阅读！

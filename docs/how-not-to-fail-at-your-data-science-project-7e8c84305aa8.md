@@ -120,15 +120,7 @@ Guille 阿尔瓦雷斯在 [Unsplash](https://unsplash.com?utm_source=medium&utm_
 
 PS 更多[商业科学](https://medium.com/tag/business-science)来自我的写作:
 
-[](/data-science-lessons-were-not-learning-fast-enough-83ead4827735) [## 数据科学课程我们学得不够快
-
-### 令人失望的是，新数据科学家犯的错误与专业人士犯的错误非常相似。
-
-towardsdatascience.com](/data-science-lessons-were-not-learning-fast-enough-83ead4827735) [](/to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61) [## 预测还是不预测，这是供应链的问题
-
-### 解决利润而不是准确性的 5 个秘密因素
-
-towardsdatascience.com](/to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61) 
+</data-science-lessons-were-not-learning-fast-enough-83ead4827735>  </to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

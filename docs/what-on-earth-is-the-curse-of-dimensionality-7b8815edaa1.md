@@ -50,19 +50,11 @@
 
 最流行的分解方法当然是奇异值分解，或 SVD。SVD 是一种简单的分解方法，它使用三个矩阵 V、U 和 S 来将维数降低到标准形式。如果你想了解更多关于标准形式的知识，我实际上有一整篇文章，你可以在这里阅读:
 
-[](/what-on-earth-is-canonical-form-23cef915601d) [## “规范形式”到底是什么？
-
-### 计算中本征向量、值和整体分解的数学概述。
-
-towardsdatascience.com](/what-on-earth-is-canonical-form-23cef915601d) 
+</what-on-earth-is-canonical-form-23cef915601d>  
 
 虽然 SVD 是一种很好的非常流行的分解方法，但我认为记住有许多不同的分解方法是很重要的，比如随机投影。随机投影是一种以[约翰逊-林登斯特劳斯引理](https://en.wikipedia.org/wiki/Johnson-Lindenstrauss_lemma)为中心的分解方法。这基本上说明了高维的数据可以被投影到较低的维中。幸运的是，如果你想了解更多关于随机投影的知识，我有一篇文章你可以在这里找到:
 
-[](/random-projection-and-its-role-in-data-science-f253dd66485b) [## 随机投影及其在数据科学中的作用
-
-### 随机投影概述及其在现代数据科学实践中通常扮演的角色。
-
-towardsdatascience.com](/random-projection-and-its-role-in-data-science-f253dd66485b) 
+</random-projection-and-its-role-in-data-science-f253dd66485b>  
 
 # 结论
 

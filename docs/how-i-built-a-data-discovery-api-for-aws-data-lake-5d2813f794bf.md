@@ -184,11 +184,7 @@ boto3.setup_default_session(region_name="us-east-1")
 
 要了解如何额外配置 **API 键**来确保 API 安全，请查看我以前的文章。它还展示了如何使用 AWS X-Ray 配置**分布式跟踪，以便更好地控制 AWS 上的 FastAPI 服务:**
 
-[](/fastapi-aws-secure-api-part-2-1123bff28b55) [## FastAPI + AWS =安全 API(第 2 部分)
-
-### 让我们用 FastAPI、AWS Lambda、API Gateway、CloudWatch 和 AWS X-Ray 构建一个安全且可观察的 Python REST API
-
-towardsdatascience.com](/fastapi-aws-secure-api-part-2-1123bff28b55) 
+</fastapi-aws-secure-api-part-2-1123bff28b55>  
 
 # 我们如何监控我们的数据发现服务？
 

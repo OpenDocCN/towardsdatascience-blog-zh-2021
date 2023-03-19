@@ -90,11 +90,7 @@ Templates 文件夹:这个文件夹中包含了你的 HTML 文件，这些文件
 
 在部署你的投资组合网站时，如果你更喜欢付费的虚拟主机提供商，你可以试试 [Hostgator](https://www.hostgator.com/web-hosting/?utm_source=google&utm_medium=brandsearch&kclickid=17bb7495-8212-4e23-a6af-b76621bb43a5&kenshoo_ida=Host%20Gator%20IDA&adid=381250712778&utm_term=hostgator&matchtype=e&addisttype=g&campaign=2043273492&adgroup=79038778769&gclid=CjwKCAjw26H3BRB2EiwAy32zhRXdMqDSZc7dKc1PQuCsA0QS675x_6-W4b_uHiy0ViLeMWtSBr9KHBoCa9sQAvD_BwE) 或 [Digital Ocean](https://try.digitalocean.com/developerbrand/?utm_campaign=emea_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavTgNi1qcuVxQNWGRwfRD8oeAkkuhGbF79rh_Ru-5V-LL_u-qdMDX-AaAr5pEALw_wcB) 。我一直在用 Heroku 做我的部署。我写了一篇逐步介绍如何在 Heroku 上部署你的投资组合网站的文章。一定要去看看。
 
-[](https://precillieo.medium.com/get-your-python-flask-app-deployed-in-a-swift-6fd653009e4) [## 让您的 Python Flask 应用程序部署在 Swift 中
-
-### 在构建了一个应用程序之后，你有一种与他人分享你的工作的愿望，因为你不能…
-
-precillieo.medium.com](https://precillieo.medium.com/get-your-python-flask-app-deployed-in-a-swift-6fd653009e4) 
+<https://precillieo.medium.com/get-your-python-flask-app-deployed-in-a-swift-6fd653009e4>  
 
 按照部署的步骤，在添加 Procfile、Requirements.txt 之后，您的项目目录的树应该如下所示。
 

@@ -22,11 +22,7 @@
 
 这篇文章使用了' *sklearn-genetic'* 包:
 
-[](https://github.com/manuel-calzolari/sklearn-genetic) [## GitHub-manuel-calzo lari/sk learn-Genetic:sci kit-learn 的遗传特征选择模块
-
-### 学习遗传算法模拟自然选择的过程来搜索…
-
-github.com](https://github.com/manuel-calzolari/sklearn-genetic) 
+<https://github.com/manuel-calzolari/sklearn-genetic>  
 
 该软件包与现有的 *sklearn* 模型兼容，并为基因选择提供了大量的功能和选项。
 
@@ -132,8 +128,4 @@ print('Features:', X.columns[model.support_])
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

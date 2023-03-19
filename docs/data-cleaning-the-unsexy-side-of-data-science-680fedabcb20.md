@@ -58,16 +58,4 @@
 
 ## **你可能也会喜欢…**
 
-**[](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [## 如何向非技术人员展示机器学习结果
-
-### 展示利益相关者能够理解的模型结果
-
-towardsdatascience.com](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [](/how-to-deliver-a-successful-data-presentation-bfd23684197d) [## 如何交付成功的数据演示
-
-### 我从向高层领导做报告中学到的经验
-
-towardsdatascience.com](/how-to-deliver-a-successful-data-presentation-bfd23684197d) [](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770) [## 如何成为一名成功的数据故事讲述者
-
-### 数据演示初学者指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770)**
+**</how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76>  </how-to-deliver-a-successful-data-presentation-bfd23684197d>  <https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770> **

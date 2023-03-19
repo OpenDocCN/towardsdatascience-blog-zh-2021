@@ -149,34 +149,14 @@ plt.show()
 
 *就是这样！现在你已经准备好用 Python 制作你自己的 wordcloud 了！我在下面的文章中用辛普森一家的角色创建了一些单词云。*
 
-[](/the-simpsons-is-the-best-tv-show-to-increase-your-english-vocabulary-f433fe060a74) [## 《辛普森一家》是增加你英语词汇量的最佳电视节目
-
-### 《辛普森一家》和 83 部电视剧中所有剧集所用词汇的数据分析。找出辛普森一家的…
-
-towardsdatascience.com](/the-simpsons-is-the-best-tv-show-to-increase-your-english-vocabulary-f433fe060a74) 
+</the-simpsons-is-the-best-tv-show-to-increase-your-english-vocabulary-f433fe060a74>  
 
 下面是我看的学习 Python 的书单。
 
-[](https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb) [## 作为一名自学成才的程序员，我阅读了 4 本 Python 书籍
-
-### 学习 Python 来创建游戏、网站、自动化任务等的书籍
-
-better 编程. pub](https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb) 
+<https://betterprogramming.pub/4-python-books-i-read-as-a-self-taught-programmer-5a5453840cdb>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 感谢阅读这篇文章！在下面的文章中，你可以找到我用 Python 制作的其他漂亮的可视化指南。
 
-[](/a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392) [## Python 中美丽可视化的简单指南
-
-### 自定义 Matplotlib & Seaborn，永远忘记那些难看的蓝条。
-
-towardsdatascience.com](/a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392) [](/avatar-meets-data-visualization-60631f86ba7d) [## 用最后的气宗化身实现 Python 中的数据可视化
-
-### 学习使用 Plotly、Seaborn 和 Matplotlib 库制作令人惊叹的可视化效果。
-
-towardsdatascience.com](/avatar-meets-data-visualization-60631f86ba7d) [](/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b) [## 2021 年，8 款免费工具可实现交互式数据可视化——无需编码
-
-### 您不需要编写任何代码来轻松创建交互式数据可视化。
-
-towardsdatascience.com](/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b)
+</a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392>  </avatar-meets-data-visualization-60631f86ba7d>  </8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b> 

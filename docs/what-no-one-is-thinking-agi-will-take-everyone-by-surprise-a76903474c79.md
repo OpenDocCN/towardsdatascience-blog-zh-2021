@@ -66,12 +66,8 @@ AGI 会让我们大吃一惊。当我们不能评估我们正在询问的事物�
 
 ## 推荐阅读
 
-[](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
+</gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484> [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
 
-towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) [## 人工智能和机器人技术将不可避免地融合
-
-### AGI 将有一个身体，并将生活在这个世界上。
-
-towardsdatascience.com](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) [](/ai-wont-master-human-language-anytime-soon-3e7e3561f943) [## 人工智能不会很快掌握人类语言
+towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) </artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02>  </ai-wont-master-human-language-anytime-soon-3e7e3561f943> [## 人工智能不会很快掌握人类语言
 
 towardsdatascience.com](/ai-wont-master-human-language-anytime-soon-3e7e3561f943)

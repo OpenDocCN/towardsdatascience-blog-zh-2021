@@ -134,8 +134,4 @@ Minitab (2017 年 6 月 29 日)。Cp 和 Cpk:两种过程视角，一种过程�
 
 扎克(2020，08 年 1 月)。*线性回归的四个假设。*静态学。[https://www . statology . org/linear-regression-assumptions/https://www . statology . org/linear-regression-assumptions/](https://www.statology.org/linear-regression-assumptions/)
 
-[](http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/155-best-subsets-regression-essentials-in-r/) [## R 中的最佳子集回归本质
-
-### 最佳子集回归是一种模型选择方法，包括…
-
-www.sthda.com](http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/155-best-subsets-regression-essentials-in-r/)
+<http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/155-best-subsets-regression-essentials-in-r/> 

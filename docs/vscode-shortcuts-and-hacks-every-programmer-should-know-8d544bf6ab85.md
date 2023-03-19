@@ -186,11 +186,7 @@ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscode
 
 一定要看看我下面的文章，我简要介绍了 VIM 和一些我最喜欢的在 VIM 中使用的键绑定。
 
-[](/a-machine-learning-engineers-toolkit-23def8d819e2) [## 机器学习工程师的工具包
-
-### Bash 别名、Vim 和有用的 VSCode 扩展
-
-towardsdatascience.com](/a-machine-learning-engineers-toolkit-23def8d819e2) 
+</a-machine-learning-engineers-toolkit-23def8d819e2>  
 
 **2b。将** `**CAPS LOCK**` **键重新映射到** `**ESC**`
 

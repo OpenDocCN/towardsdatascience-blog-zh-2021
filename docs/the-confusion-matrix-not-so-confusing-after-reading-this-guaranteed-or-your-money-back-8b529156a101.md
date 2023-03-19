@@ -35,7 +35,7 @@
 
 # 欢迎参加派对
 
-队伍很长，外面很冷。你和你的朋友不想排很长很冷的队伍，所以你走向保镖，给他 500 美元。保镖向你和你的朋友点点头，让你进去，但有一个条件，保镖问，“困惑矩阵向你展示了什么？”你困惑地看着保镖，心想保镖一定是疯了。你的朋友突然脱口而出，“*混淆矩阵显示了你的分类模型在进行预测* [](#f243)时混淆的方式。”当你看向你的朋友并回头看向保镖时，突然你的一条眉毛扬起。然后保镖向你的朋友点点头，让你和你的朋友进去，你敬畏地看着你朋友的反应。你带卡尔·皮尔逊来参加聚会是件好事。
+队伍很长，外面很冷。你和你的朋友不想排很长很冷的队伍，所以你走向保镖，给他 500 美元。保镖向你和你的朋友点点头，让你进去，但有一个条件，保镖问，“困惑矩阵向你展示了什么？”你困惑地看着保镖，心想保镖一定是疯了。你的朋友突然脱口而出，“*混淆矩阵显示了你的分类模型在进行预测* <#f243>时混淆的方式。”当你看向你的朋友并回头看向保镖时，突然你的一条眉毛扬起。然后保镖向你的朋友点点头，让你和你的朋友进去，你敬畏地看着你朋友的反应。你带卡尔·皮尔逊来参加聚会是件好事。
 
 你喝了几杯酒，突然对学习混淆矩阵更感兴趣，所以你向卡尔询问更多。
 “你想了解什么？”他问，你回答，“实际上很多，但首先，是什么？”
@@ -44,7 +44,7 @@
 
 准确性分数本身并没有太大的价值，因为它只是给你一个模型表现如何的“总体”评估。所以本质上，这意味着准确性分数*很酷，所有的*都很酷，直到你开始问更深层次的问题，比如“在算法做出的真实预测的数量中，有多少是真实的？”这是当我们使用更稳健的方法，如混淆矩阵，以更好地理解算法的性能。
 
-混淆矩阵——也称为*错误矩阵* [](#f243)或*混淆表* [](#f243)，是一个`N x N`矩阵/表(具有相同行数和列数的矩阵)，它显示算法(通常是分类算法)的性能，其中`N`是您正在处理的分类或目标类的数量。
+混淆矩阵——也称为*错误矩阵* <#f243>或*混淆表* <#f243>，是一个`N x N`矩阵/表(具有相同行数和列数的矩阵)，它显示算法(通常是分类算法)的性能，其中`N`是您正在处理的分类或目标类的数量。
 
 为了简单起见，让我们使用两个目标类(二进制分类)。这意味着我们的混淆矩阵将是一个 2x2 矩阵，也称为二进制混淆矩阵。
 
@@ -152,7 +152,7 @@ S̲c̲o̲r̲e̲:
 3.  **假阳性(FP)** :做出的**阳性**预测的数量，实际上是**阴性**——不正确。
 4.  **真阳性(TP)** :实际为**阳性**的**阳性**预测的数量——正确。
 
-> **注—其他昵称为**[](#f243)****:**
+> **注—其他昵称为**<#f243>****:**
 > -TN:正确拒绝
 > -FN:[ⅱ型错误](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Type_II_error)、遗漏、低估
 > -FP:[ⅰ型错误](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Type_I_error)、虚警、高估
@@ -392,15 +392,7 @@ S̲c̲o̲r̲e̲:
 
 **如果您有兴趣了解如何使用多变量策略而不是单变量策略来输入缺失数据，请阅读下面的文章！**
 
-**[](/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-9e6e84857d98) [## 处理数据集中缺失值的更好方法:使用迭代估算器(第一部分)
-
-### 如何使用多元估算器处理缺失数据
-
-towardsdatascience.com](/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-9e6e84857d98) [](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458) [## 处理数据集中缺失值的更好方法:对股票市场数据使用迭代估算器(第二部分)
-
-### 使用多变量估算器操纵历史股票市场数据，这是本系列的第二部分
-
-gifari.medium.com](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458) 
+**</a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-9e6e84857d98>  <https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458>  
 
 如果你喜欢阅读这篇文章，请关注我的 [***中型***](https://gifari.medium.com/) *和*[***Kaggle***](https://www.kaggle.com/gifarihoque)*我会不时在这里发布更多内容。还有，随时和我联系*[***LinkedIn***](https://www.linkedin.com/in/gifari/)*。如果你认为我的工作值得一杯咖啡，请给我买一杯吧！任何支持都帮助我坚持下去。*
 

@@ -21,11 +21,7 @@
 *   **巴塞罗纳市的登记失业人数**
 *   **巴塞罗那市每户平均税收**
 
-[](https://opendata-ajuntament.barcelona.cat/en/) [## 开放数据 BCN
-
-### 每个渴望发现巴塞罗那的人的空间
-
-open data-a jument . Barcelona . cat](https://opendata-ajuntament.barcelona.cat/en/) 
+<https://opendata-ajuntament.barcelona.cat/en/>  
 
 # 按街区分列的失业率的时间演变
 

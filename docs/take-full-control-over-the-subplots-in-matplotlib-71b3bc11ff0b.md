@@ -58,11 +58,7 @@ fig.tight_layout(pad = 2)for a in ax:
 
 主要目的是在那些矩形里放一些真实的图形和地块。下一步我会这么做。但为此，我们需要一个数据集。我将使用这个数据集:
 
-[](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) 
+<https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv>  
 
 请随意下载数据集并跟随。
 
@@ -81,11 +77,7 @@ Index(['SEQN', 'ALQ101', 'ALQ110', 'ALQ130', 'SMQ020', 'RIAGENDR', 'RIDAGEYR', '
 
 我将再次制作一个 2x3 的绘图数组，并在“ax”元素中设置绘图。我们将像二维数组一样简单地通过索引来访问每个“ax”元素。我希望你记得如何索引一个二维数组。如果您需要复习，请查看这篇文章:
 
-[](/indexing-and-slicing-of-1d-2d-and-3d-arrays-in-numpy-e731afff0bbe) [## Numpy 中 1D、2D 和 3D 数组的索引和切片
-
-### 本文从基础到高级展示了 Numpy 数组的索引和切片。
-
-towardsdatascience.com](/indexing-and-slicing-of-1d-2d-and-3d-arrays-in-numpy-e731afff0bbe) 
+</indexing-and-slicing-of-1d-2d-and-3d-arrays-in-numpy-e731afff0bbe>  
 
 因此，下面是如何访问“ax”元素并在其中设置绘图。我给你留了两个空位。请随意装满它们。我的想法是演示如何去做。
 
@@ -169,20 +161,4 @@ g4.set_title('Line plot of the Weight of the population')
 
 ## 更多阅读:
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
-
-### 我作为波士顿大学数据分析专业硕士学生的经历和体会
-
-towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 入门指南
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) [## Python 时序数据可视化完全指南
-
-### 这应该给你足够的资源来制作时间序列数据的视觉效果
-
-towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01)
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41>  </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01> 

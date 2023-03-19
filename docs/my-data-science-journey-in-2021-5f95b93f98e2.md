@@ -32,21 +32,13 @@
 
 如果你是一名数据科学家或者想进入这个领域，请查看这篇关于如何更有效地学习的文章:
 
-[](/how-i-grow-as-a-data-scientist-62027b7cc069) [## 作为一名数据科学家，我如何成长
-
-### 适合我的可能也适合你
-
-towardsdatascience.com](/how-i-grow-as-a-data-scientist-62027b7cc069) 
+</how-i-grow-as-a-data-scientist-62027b7cc069>  
 
 在线写作的另一个好处是，它创造了一个奇妙的在线存在，并作为你的数据科学投资组合。在沃尔玛的现场面试中，所有的面试官都提到了我的技术博客文章。
 
 写作时，我把质量放在首位。例如，我花了大约一年时间为下面这篇文章做研究，这篇文章记录了科技公司在实验策略中最常犯的错误:
 
-[](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) 
+</online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  
 
 # 第二节:学会破解面试
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solu
 
 例如，编写有效的代码曾经是我最大的弱点，我遵循这些技巧来提高我的 SQL 和 Python 编程技能:
 
-[](/how-data-scientists-can-improve-their-coding-skills-b4f2924198ae) [## 数据科学家如何提高他们的编码技能
-
-### 可以帮助你轻松编程的 6 个技巧
-
-towardsdatascience.com](/how-data-scientists-can-improve-their-coding-skills-b4f2924198ae) ![](img/a88b763185e4c6589331d28c72265226.png)
+</how-data-scientists-can-improve-their-coding-skills-b4f2924198ae>  ![](img/a88b763185e4c6589331d28c72265226.png)
 
 照片由[杰米街](https://unsplash.com/@jamie452?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/christmas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -80,11 +68,7 @@ towardsdatascience.com](/how-data-scientists-can-improve-their-coding-skills-b4f
 
 利用额外的时间，我深入研究了其他科技公司如何解决具体技术问题的文献，并了解了其中的细微差异。事实上，我每天花大约 8 个小时，每周花 6 天时间(大约 50 个小时/周)研究相关主题。因此，到本季度末，我对实验和数据科学的理解显著提高。
 
-[](/randomization-blocking-and-re-randomization-f0e3ab4d79ca) [## 随机化、分块和重新随机化
-
-### 在线实验的三个基本支柱
-
-towardsdatascience.com](/randomization-blocking-and-re-randomization-f0e3ab4d79ca) 
+</randomization-blocking-and-re-randomization-f0e3ab4d79ca>  
 
 # 上一季度:深度>广度
 
@@ -96,11 +80,7 @@ towardsdatascience.com](/randomization-blocking-and-re-randomization-f0e3ab4d79c
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 2020 新年决心
 

@@ -8,7 +8,7 @@
 
 最后，本文认为，英国和欧盟应该谨慎对待关键通信基础设施的外包，并更认真地对待最近涉及中国的安全问题。
 
-*[*英国核问题项目*](https://rusi.org/publication/conference-reports/2020-uk-poni-papers) *2020 论文可在此处*[](https://rusi.org/sites/default/files/202011_poni_papers_2020_web.pdf)**及录音可在此处*[](https://www.youtube.com/watch?v=TZ-frSSLIdw)**。我的博文可以在这里找到*[](https://blog.tiggalina.org/2020/11/06/ukponi2020/)**。*****
+*[*英国核问题项目*](https://rusi.org/publication/conference-reports/2020-uk-poni-papers) *2020 论文可在此处*<https://rusi.org/sites/default/files/202011_poni_papers_2020_web.pdf>**及录音可在此处*<https://www.youtube.com/watch?v=TZ-frSSLIdw>**。我的博文可以在这里找到*<https://blog.tiggalina.org/2020/11/06/ukponi2020/>**。*****
 
 # **当前人工智能能力**
 

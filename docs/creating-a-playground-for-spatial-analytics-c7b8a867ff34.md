@@ -239,4 +239,4 @@ CREATE VIEW POI_DENSITY AS
 
 *我想引用我亲爱的同事[汤姆·图尔奇奥](https://people.sap.com/tom.turchioe)的话，他概述了在 SAP HANA 上运行 GIS 的主要优势是 [**生产力、敏捷性、加速和集成**](https://blogs.sap.com/2020/02/12/the-four-advantages-of-arcgis-on-hana/) (重点强调集成😊).虽然 Tom 的博客是专门为 Arcg is 定制的，但无论实际的 GIS 客户端是什么，概述的质量都是有效的。*
 
-**原载于 2021 年 3 月 1 日 https://blogs.sap.com*[](https://blogs.sap.com/2021/03/01/creating-a-playground-for-spatial-analytics/)**。***
+**原载于 2021 年 3 月 1 日 https://blogs.sap.com*<https://blogs.sap.com/2021/03/01/creating-a-playground-for-spatial-analytics/>**。***

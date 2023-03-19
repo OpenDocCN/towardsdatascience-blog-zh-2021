@@ -170,11 +170,7 @@ Formatted_Text = re.sub(r"[^a-zA-Z:$-,%.?!]+", ' ', text)
 
 您还可以访问完整的 Github 资源库，其中包含一系列实现中的所有步骤，并附有简要说明。
 
-[](https://github.com/techykajal/Data-Pre-processing/blob/main/Text_Preprocessing.ipynb) [## 数据预处理/Text _ preprocessing . ipynb at main techykajal/数据预处理
-
-### 通过在 GitHub 上创建帐户，为 techykajal/数据预处理开发做出贡献。
-
-github.com](https://github.com/techykajal/Data-Pre-processing/blob/main/Text_Preprocessing.ipynb) 
+<https://github.com/techykajal/Data-Pre-processing/blob/main/Text_Preprocessing.ipynb>  
 
 干杯！！你已经坚持到最后了。😉
 
@@ -198,20 +194,4 @@ And yes, buying me a coffee **(and lots of it if you are feeling extra generous)
 
 也可以看看我的其他博客:
 
-[](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063) [## 8 ML/AI 项目，让您的投资组合脱颖而出
-
-### 有趣的项目想法与源代码和参考文章，也附上一些研究论文。
-
-towardsdatascience.com](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063) [](/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755) [## 用 10 个简单的步骤搜集 1000 篇新闻文章
-
-### 如果你遵循这 10 个简单的步骤，使用 python 进行网络抓取是非常简单的。
-
-towardsdatascience.com](/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755) [](/a-guide-to-scrape-tweet-replies-from-twitter-2f6168fed624) [## 从推特上收集回复的指南
-
-### 使用 Octoparse 抓取 tweet 回复的初学者指南
-
-towardsdatascience.com](/a-guide-to-scrape-tweet-replies-from-twitter-2f6168fed624) [](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1) [## 为您的下一个数据科学项目提供 15 种免费开源数据资源
-
-### 为初学者和专业人士按不同类别组织的免费数据集的合并列表
-
-towardsdatascience.com](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1)
+</8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063>  </scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755>  </a-guide-to-scrape-tweet-replies-from-twitter-2f6168fed624>  </15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1> 

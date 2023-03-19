@@ -216,11 +216,7 @@ plt.savefig('ts_cumul_returns')
 
 最后，让我们计算相关矩阵:
 
-[](/understanding-correlation-and-diversification-661c19a26555) [## 理解相关性和多样化
-
-### 为什么投资不相关的资产是值得的
-
-towardsdatascience.com](/understanding-correlation-and-diversification-661c19a26555) 
+</understanding-correlation-and-diversification-661c19a26555>  
 
 ```
 print(stock_returns.corr())**Output:**

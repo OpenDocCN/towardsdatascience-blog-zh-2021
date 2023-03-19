@@ -64,11 +64,7 @@ if not (is_tripple_quoted_string and '"' not in string[3:-3]):
 
 如果您想了解更多关于 Python 中的类型注释，请阅读:
 
-[](https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d) [## Python 3.8 中的类型注释
-
-### 了解如何通过逐步键入来使 Python 代码更容易阅读，更不容易出错
-
-medium.com](https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d) 
+<https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d>  
 
 如果你想知道最近的改进，请阅读我的 [Python 3.10 文章](https://betterprogramming.pub/python-3-10-is-released-know-whats-new-and-if-it-s-worth-the-switch-19c7a5738f7c)。
 

@@ -6,7 +6,7 @@
 
 ## 定义一般相关性度量的第一步
 
-*本文旨在信息论框架内简要介绍信息量的概念，并概述这一概念在数据分析领域的可能用途。从这些简单的元素中，我想到了本文*[](https://medium.com/analytics-vidhya/how-to-measure-the-non-linear-correlation-between-multiple-variables-804d896760b8)**中提出的多元非线性相关性度量。**
+*本文旨在信息论框架内简要介绍信息量的概念，并概述这一概念在数据分析领域的可能用途。从这些简单的元素中，我想到了本文*<https://medium.com/analytics-vidhya/how-to-measure-the-non-linear-correlation-between-multiple-variables-804d896760b8>**中提出的多元非线性相关性度量。**
 
 # *代表信息可变性*
 

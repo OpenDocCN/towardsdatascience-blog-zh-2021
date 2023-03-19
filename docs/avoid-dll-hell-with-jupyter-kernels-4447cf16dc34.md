@@ -18,11 +18,7 @@
 
 Anaconda 个人版让打包和分发 ML 应用变得轻而易举:
 
-[](https://www.anaconda.com/products/individual) [## Anaconda |个人版
-
-### Anaconda 的开源个人版是在一个应用程序上执行 Python/R 数据科学和机器学习的最简单的方法
-
-www.anaconda.com](https://www.anaconda.com/products/individual) 
+<https://www.anaconda.com/products/individual>  
 
 中的*到底是什么由你决定——你可以使用 *Python* 或 *R* ，并包含你的项目所需的任何库/框架。当你完成后，你就有了一个可移植的内核，它可以跟随你的应用程序，并确保它总是看到相同的运行时环境。不管你的同事使用的是 *Windows* 、 *MacOS* 还是 *Linux* 都没关系——你可以轻松地与他们分享你的项目，并确保他们在他们的机器上看到的结果与你在自己的机器上看到的一样。*
 
@@ -32,11 +28,7 @@ www.anaconda.com](https://www.anaconda.com/products/individual)
 
 这是你可以用*康达环境*做的所有酷事情的官方清单，但在下一节，我将带你经历一个典型的场景:
 
- [## 管理环境- conda 4.9.2.post24+e37cf84a 文档
-
-### 使用 conda，您可以创建、导出、列出、删除和更新具有不同版本 Python 和/或的环境
-
-docs.conda.io](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) 
+  
 
 # GPU 上的张量流
 

@@ -38,19 +38,11 @@
 
 自 2017 年 9 月 1 日起，芝加哥所有警区都在全市范围内强制实施统一的车祸报告。超过 50 万起事故报告可在[芝加哥数据门户](https://www.chicago.gov/city/en/narr/foia/CityData.html)获得，并且每天更新。详细的事故报告包括事故类型、事故是否发生在红灯路口，以及每起事故的纬度/经度。
 
-[](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes-Dashboard/8tdq-a5dp) [## 交通事故-事故-仪表板|芝加哥市|数据门户
-
-### 编辑描述
-
-data.cityofchicago.org](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes-Dashboard/8tdq-a5dp) 
+<https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes-Dashboard/8tdq-a5dp>  
 
 数据门户还包含每个摄像机的每日闯红灯摄像机违规，并包括路口的名称和纬度/经度位置。
 
-[](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) [## 闯红灯摄像头违规|芝加哥市|数据门户
-
-### 编辑描述
-
-data.cityofchicago.org](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) 
+<https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37>  
 
 在过滤我的数据，只包括 2017 年 9 月至 2021 年 1 月之间发生的撞车事故后，我剩下了超过 60，000 起与交叉路口相关的事故，这些事故发生在芝加哥 3000 多个红灯交叉路口中的一个。
 

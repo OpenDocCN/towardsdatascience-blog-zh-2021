@@ -84,11 +84,7 @@ Apache Airflow 是一个非常易用的**工作流管理系统**，它允许用�
 
 在这里了解更多[。](https://airflow.apache.org/)
 
-[](/5-essential-tips-when-using-apache-airflow-to-build-an-etl-pipeline-for-a-database-hosted-on-3d8fd0430acc) [## 使用 Apache Airflow 为托管在…上的数据库构建 ETL 管道时的 5 个基本技巧
-
-### 初学者使用气流的最佳实践
-
-towardsdatascience.com](/5-essential-tips-when-using-apache-airflow-to-build-an-etl-pipeline-for-a-database-hosted-on-3d8fd0430acc) 
+</5-essential-tips-when-using-apache-airflow-to-build-an-etl-pipeline-for-a-database-hosted-on-3d8fd0430acc>  
 
 ## 5.美味的汤
 

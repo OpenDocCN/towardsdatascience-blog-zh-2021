@@ -459,16 +459,4 @@ tweedie_variance_power = 1,
 
 # 好消息来源
 
- [## 欢迎阅读 LightGBM 的文档！-light GBM 3.2.1.99 文档
-
-### 编辑描述
-
-lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/latest/index.html) [](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) [## 增强树简介- xgboost 1.5.0-dev 文档
-
-### XGBoost 代表“极端梯度增强”，其中术语“梯度增强”源于论文 Greedy…
-
-xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) [](https://github.com/microsoft/LightGBM/tree/master/R-package/demo) [## light GBM/R-主 microsoft/LightGBM 上的包/演示
-
-### 基于决策树的快速、分布式、高性能梯度推进(GBT、GBDT、GBRT、GBM 或 MART)框架…
-
-github.com](https://github.com/microsoft/LightGBM/tree/master/R-package/demo)
+  <https://xgboost.readthedocs.io/en/latest/tutorials/model.html>  <https://github.com/microsoft/LightGBM/tree/master/R-package/demo> 

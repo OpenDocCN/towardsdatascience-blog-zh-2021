@@ -83,11 +83,7 @@ model.add(layers.Conv2D(64, (3, 3), activation='relu'))
 
 在这种时候，最好获得一些外部帮助。如果有博客、文章或视频非常详细地介绍了特定的主题，强烈建议开发人员查看这些示例参考来完成特定的任务。像有代码的论文这样的网站是一个很好的选择，可以为研究论文的重建提供一些编程参考。对于类似的网站，我强烈建议查看我以前关于十大最佳免费资源的文章，通过下面提供的链接了解更多关于数据科学和机器学习的信息。
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 # 结论:
 
@@ -101,26 +97,10 @@ towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [## 用 Python 生成二维码，不到 10 行
-
-### 构建一个简单的 Python 项目，用 QR 码加密您的信息
-
-towardsdatascience.com](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) 
+</generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  </how-to-write-code-effectively-in-python-105dc5f2d293>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

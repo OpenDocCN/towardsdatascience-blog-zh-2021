@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/what-makes-a-successful-tableau-ironviz-visualization-from-an-ironviz-qualifying-judge-4e1025b3a3c2?source=collection_archive---------18----------------------->
 
-2021 年对我个人和职业来说都是不可思议的一年。尽管如此，我还是非常兴奋被选为第一轮 IronViz 资格赛的评委，与我们社区所有这些超级天才和一流的成员一起。随着以 Data + Joy 为主题的 IronViz 资格赛前 10 名决赛选手的[](https://www.tableau.com/about/blog/2021/8/data-joy-iron-viz-qualifier-contest-results-2021)**宣布，我准备写下这次经历，并帮助您确定在未来的资格赛中应该考虑什么。**
+2021 年对我个人和职业来说都是不可思议的一年。尽管如此，我还是非常兴奋被选为第一轮 IronViz 资格赛的评委，与我们社区所有这些超级天才和一流的成员一起。随着以 Data + Joy 为主题的 IronViz 资格赛前 10 名决赛选手的<https://www.tableau.com/about/blog/2021/8/data-joy-iron-viz-qualifier-contest-results-2021>**宣布，我准备写下这次经历，并帮助您确定在未来的资格赛中应该考虑什么。**
 
 **![](img/3afa17de46e87eb1c3fe852ac28211ee.png)**
 

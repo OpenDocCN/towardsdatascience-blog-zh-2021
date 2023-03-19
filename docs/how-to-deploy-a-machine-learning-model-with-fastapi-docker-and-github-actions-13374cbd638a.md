@@ -32,11 +32,7 @@
 
 > 新到中？你可以每月订阅 5 美元，解锁我写的不限数量的关于编程、MLOps 和系统设计的文章，以帮助数据科学家(或 ML 工程师)编写更好的代码。
 
-[](https://medium.com/membership/@ahmedbesbes) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 阅读 Ahmed Besbes 的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-medium.com](https://medium.com/membership/@ahmedbesbes) 
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 将模型投入生产意味着什么？
 
@@ -467,39 +463,7 @@ sudo docker-compose up --build -d
 
 这里是我在学习 FastAPI 和部署时浏览的一些高质量资料。
 
-[](https://fastapi.tiangolo.com/) [## FastAPI
-
-### FastAPI 框架，高性能，简单易学，快速编码，准备生产文档…
-
-fastapi.tiangolo.com](https://fastapi.tiangolo.com/)  [## pydantic
-
-### 版本文档:1.8.2 使用 python 类型注释的数据验证和设置管理。pydantic…
-
-pydantic-docs.helpmanual.io](https://pydantic-docs.helpmanual.io/) [](https://www.starlette.io/) [## 明星
-
-### ✨闪耀的小 ASGI 框架。✨ Starlette 是一个轻量级的 ASGI 框架/工具包，非常适合…
-
-www.starlette.io](https://www.starlette.io/) [](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) [## 为什么我们从 Flask 转向 FastAPI 进行生产机器学习
-
-### 最流行的工具并不总是最好的
-
-medium.com](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) [](/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4) [## 如何正确地发布和部署您的机器学习模型
-
-### FastAPI、Docker 和 GitHub 操作实用指南
-
-towardsdatascience.com](/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4) [](/machine-learning-service-for-real-time-prediction-9f18d585a5e0) [## 用于实时预测的机器学习服务
-
-### 使用 FastAPI 为实时预测构建一个生产就绪的机器学习服务。
-
-towardsdatascience.com](/machine-learning-service-for-real-time-prediction-9f18d585a5e0) [](/build-an-async-python-service-with-fastapi-sqlalchemy-196d8792fa08) [## 用 FastAPI & SQLAlchemy 构建异步 python 服务
-
-### 使用 FastAPI 和新的 SQLAlchemy AsyncIO 构建一个完全异步的 python 服务，包括异步数据库查询…
-
-towardsdatascience.com](/build-an-async-python-service-with-fastapi-sqlalchemy-196d8792fa08) [](https://testdriven.io/blog/moving-from-flask-to-fastapi/) [## 从 Flask 转移到 FastAPI
-
-### Python 是最流行的编程语言之一。从脚本到 API 开发再到机器学习…
-
-testdriven.io](https://testdriven.io/blog/moving-from-flask-to-fastapi/) 
+<https://fastapi.tiangolo.com/>    <https://www.starlette.io/>  <https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679>  </how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4>  </machine-learning-service-for-real-time-prediction-9f18d585a5e0>  </build-an-async-python-service-with-fastapi-sqlalchemy-196d8792fa08>  <https://testdriven.io/blog/moving-from-flask-to-fastapi/>  
 
 # 感谢阅读！🙏
 

@@ -44,11 +44,7 @@
 
 该模型从 CNN 开始提取特征，然后将这些特征馈送到转换器，然后将转换器的输出馈送到前馈网络，进行最终预测。我已经回顾了许多最近流行的论文，这条管道被频繁地修改，例如，它最近也被用在这里:
 
-[](/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235) [## 脸书和 NYU 通过自我监督学习降低 Covid 医院压力——Covid 预后
-
-### 通过使用变形金刚和对比学习的自我监督实现令人印象深刻的绩效。
-
-towardsdatascience.com](/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235) 
+</facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235>  
 
 > 我们的损失在预测的和地面真实物体之间产生最佳的二分匹配，然后优化特定于物体(包围盒)的损失。
 

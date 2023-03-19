@@ -161,11 +161,7 @@ Wrote 500 elements to TFRecord
 
 音频是第二种常用的数据类型；有各种各样的大型数据集可用。Christopher Dossman 列出了超过 1 TB 的音频数据——这只是更大的公开数据中的一部分:
 
-[](/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad) [## 一个数据湖的音频数据集
-
-### 我在音频研究中使用的 25 个大型音频数据集列表
-
-towardsdatascience.com](/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad) 
+</a-data-lakes-worth-of-audio-datasets-b45b88cd4ad>  
 
 对于本节，我们不会从一开始就处理 TBs。相反，我们将关注一个更小的数据集。
 
@@ -298,11 +294,7 @@ tf.Tensor(1, shape=(), dtype=int64)
 
 如果您有兴趣了解这种文件格式，您可以阅读我关于自定义音频数据分类的帖子。在那里，我使用 TFRecord 文件来存储我的数据集，并直接在其上训练神经网络:
 
-[](/custom-audio-classification-with-tensorflow-af8c16c38689) [## 使用 TensorFlow 进行自定义音频分类
-
-### 包含代码的端到端示例项目。
-
-towardsdatascience.com](/custom-audio-classification-with-tensorflow-af8c16c38689) 
+</custom-audio-classification-with-tensorflow-af8c16c38689>  
 
 # 文学
 

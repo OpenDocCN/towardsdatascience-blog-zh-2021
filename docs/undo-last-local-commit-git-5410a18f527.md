@@ -61,24 +61,8 @@ Git 是帮助开发人员、数据科学家和工程师编写代码版本的最�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](https://betterprogramming.pub/how-to-merge-other-git-branches-into-your-own-2fe69f70a2b4) [## 如何将其他 Git 分支合并到您自己的分支中
-
-### 使用命令行或 GitHub 桌面快速合并分支
-
-better 编程. pub](https://betterprogramming.pub/how-to-merge-other-git-branches-into-your-own-2fe69f70a2b4) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+<https://betterprogramming.pub/how-to-merge-other-git-branches-into-your-own-2fe69f70a2b4>  </dynamic-typing-in-python-307f7c22b24e>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

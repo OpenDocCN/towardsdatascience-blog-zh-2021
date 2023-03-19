@@ -54,11 +54,7 @@ Delta xG(图片由作者提供)
 
 然而，该模型在预测比赛的势头方面表现得相当好。你可以在下面看看实际表现如何与前一周的预测相比较。
 
-[](/epl-analysis-and-gameweek-21-prediction-8249c3b0117c) [## EPL 分析和游戏周 21 预测
-
-### 使用 xG 统计预测英超联赛结果的数据驱动尝试
-
-towardsdatascience.com](/epl-analysis-and-gameweek-21-prediction-8249c3b0117c) 
+</epl-analysis-and-gameweek-21-prediction-8249c3b0117c>  
 
 下表提供了对第 22 周比赛的预测。
 GD 的绝对值显示了比赛的竞争力。该值越高，预计匹配越偏向一侧，预测的准确性也越高。
@@ -86,10 +82,6 @@ GW 22 预测(图片由作者提供)
 我希望你喜欢这篇文章，我强烈推荐 [**注册*中级会员***](https://abhijithchandradas.medium.com/membership) 来阅读更多我写的文章或成千上万其他作者写的各种主题的故事。
 [你的会员费直接支持我和你看的其他作家。你还可以在 Medium](https://abhijithchandradas.medium.com/membership) 上看到所有的故事。
 
-[](https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b) [## 如何使用数据科学找到 VVD 的最佳替代品！
-
-### 一种数据驱动的方法来确定受伤的利物浦中后卫维吉尔·范·迪克的最佳替代者。
-
-abhijithchandradas.medium.com](https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b) ![](img/eab02cd07edb1e4d0810983a623730e5.png)
+<https://abhijithchandradas.medium.com/how-to-find-the-best-replacement-for-vvd-using-data-science-52b64428b45b>  ![](img/eab02cd07edb1e4d0810983a623730e5.png)
 
 阿莱西奥·费斯塔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

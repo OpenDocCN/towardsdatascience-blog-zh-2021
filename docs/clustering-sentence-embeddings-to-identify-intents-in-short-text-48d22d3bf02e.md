@@ -227,10 +227,6 @@ UMAP+HDBSCAN 随机搜索超参数空间的结果。图片由作者提供。
 
 本文中的所有代码示例，以及我为简化这些概念的应用而创建的 chatintents python 包，都可以在这里找到:
 
-[](https://github.com/dborrelli/chat-intents) [## GitHub - dborrelli/chat-intents:聚集句子嵌入以提取消息意图
-
-### 集群句子嵌入以提取消息意图
-
-github.com](https://github.com/dborrelli/chat-intents) 
+<https://github.com/dborrelli/chat-intents>  
 
 感谢阅读。如果你觉得这篇文章很有帮助，请在下面留言或联系 LinkedIn。

@@ -52,57 +52,33 @@ AlphaFold 2 以不同的形式如此迅速地被广泛使用，很快就让世�
 
 在我开始之前，我先回顾一下一篇非常重要但在很大程度上被媒体忽视的论文:最初的 CASP14 评估确定 AlphaFold 2 是截至 2020/2021 年硬目标(即在蛋白质数据库中没有同源物的蛋白质，因此不容易建模)的最佳建模程序:
 
- [## 第 14 轮关键评估中困难目标模型的拓扑评估
-
-### 编辑描述
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26172) 
+  
 
 本文描述了由指定评估员(美国 HHMI gris hin 小组，长期与 CASP 相关)对所有 CASP14 参与者预测的所有模型进行的官方 CASP14 分析，特别考虑了预测困难靶标的结构的问题，即难以通过同源建模等经典技术建模的蛋白质结构。通过使用与以前版本的 CASP 非常相似的指标，评估人员发现，顶级组(是的，AlphaFold 2)的表现远远优于预测社区的其他成员。但不是在所有的高难度目标上！对于两个目标，其他组的预测者表现更好(然而 AlphaFold 2 确实得到了正确的全局拓扑)。评估人员发现，AlphaFold 2 为大多数目标提供了高度准确的模型，包括一些相当大的蛋白质(较大的蛋白质通常更难建模)。此外，它的一些预测是杰出的，达到了与原子位置的实验不确定性相当的精确度，在许多情况下甚至是氨基酸侧链(在 CASP 的这个轨道中通常甚至不被评估)。像其余的预测者一样，AlphaFold 2 仍然很难对柔性区域和寡聚体装配进行建模(但是，它确实取得了进展，并有助于改善他们的预测-见下一节)。
 
 在另一篇论文中，同一组评估人员显示，CASP14 的目标不是特别容易；事实上，它们是有史以来最难的:
 
- [## 蛋白质结构预测第 14 轮评估中的目标分类…
-
-### 编辑描述
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1002/prot.26202) 
+  
 
 ## 需要新的评估方法
 
 AlphaFold 预测的高度准确性引发了一个我们在 CASP13 中已经提出的问题。到那时，当 AlphaFold 的第一版进入游戏时(它以微弱优势获胜，并不真正意味着像 AlphaFold 2 那样的革命)，我们得出结论，随着蛋白质三级结构预测取得新的里程碑，需要为未来的 CASPs 设计新的方向:
 
-[](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25787) [## CASP13 在三级结构预测方面的进一步改进提示了新的途径。
-
-### Luciano A. Abriata，Giorgio E. Tamò，Matteo Dal Peraro，通讯作者生命科学学院，生命科学研究所
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25787) 
+<https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25787>  
 
 具体来说，我们建议放弃将靶分成不同的结构域，重新考虑难度指标，不仅评估主链，还评估氨基酸侧链，评估残基方式和可能的残基-残基质量评估。因此，对于 CASP14，鉴于 AlphaFold 2(以及其他方法)的成功，评估人员对评估的新挑战进行了单独的分析和讨论:
 
-[](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26192) [## CASP14 中蛋白质模型结构准确性评估:新老挑战
-
-### 在 CASP 中，对第三方机构提交的模型进行了模型精度估计方法的盲测
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26192) 
+<https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26192>  
 
 一个这样的进一步分析需要评估组成蛋白质靶标的不同结构域之间预测的相互作用:
 
- [## 第十四轮结构临界评估中的域相互作用评估…
-
-### 编辑描述
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1002/prot.26225) 
+  
 
 在通过测量 3D 单位之间相互作用质量的互补分数评估整个蛋白质靶标的模型(与仅评估结构域相反，仅评估结构域是通常进行的主要评估类型),并考虑 10 个特定靶标时，排名最高的预测因子再次是 AlphaFold 2。事实上，它预测了 10 个完整蛋白质中的 8 个的高度准确的模型，其中 3 个的得分远远高于所有其他组的模型。
 
 CASP14 论文的另一个亮点是发现了 AlphaFold 2 的模型，该模型可用于一种称为“分子置换”的基于 X 射线的蛋白质结构确定技术，在该技术中，模型被用作根据实验 X 射线衍射数据求解结构的基础。虽然严格来说，这在以前的 CASP 版本中对一些目标已经是可能的，但是 AlphaFold 2 的高质量模型使得这可以在更多的目标上实现。事实上，对于一些目标，实验数据是可用的，但不是“分阶段的”(通过“分子置换”使用模型来促进实验结构确定的步骤)；在某些情况下，AlphaFold 提供的模型有助于解决相位问题和完成实验结构测定(然后可以比较所有模型):
 
-[](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26214) [## 评估 CASP14 模型对分子置换的效用
-
-### 琼娜·佩雷拉，兰迪·j·里德，通讯作者，剑桥大学血液学系，剑桥…
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26214) 
+<https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26214>  
 
 # 用 AlphaFold 2 和 RoseTTAFold 扩展蛋白质结构数据库的覆盖范围
 
@@ -114,57 +90,33 @@ onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.2
 
 *我不会在这里花更多的时间，因为我在下面的文章中专门讨论了 Deepmind-EBI 的工作，强调了一些重要的观点，如该数据库中的模型在其他方面的局限性:*
 
-*[](/alphafold-based-databases-and-fully-fledged-easy-to-use-alphafold-interfaces-poised-to-baf865c6d75e) [## 基于 AlphaFold 的数据库和成熟的，易于使用的，在线 AlphaFold 界面准备…
-
-### 不仅是计算生物学，还有实验生物学。对生物学中数据科学领域未来的思考。
-
-towardsdatascience.com](/alphafold-based-databases-and-fully-fledged-easy-to-use-alphafold-interfaces-poised-to-baf865c6d75e) 
+*</alphafold-based-databases-and-fully-fledged-easy-to-use-alphafold-interfaces-poised-to-baf865c6d75e>  
 
 但我将在此补充这篇预印本，它提供了一个仔细的分析，表明从可折叠蛋白质区域 47%的结构覆盖率的当前基线(考虑实验衍生的加上基于模板的同源性模型), EBI-阿尔法折叠数据库中当前可用的模型将覆盖率提高到 75%。特别是，50%的人类蛋白质组覆盖着实验结构数据或高质量的结构模型，考虑到大约 20%的蛋白质组只是长的无序片段或完全无序的蛋白质，这就更加令人印象深刻了。
 
-[](https://www.biorxiv.org/content/10.1101/2021.08.03.454980v1) [## AlphaFold 前后人类蛋白质组的结构覆盖
-
-### 蛋白质结构领域正在经历一场革命。从增加的技术处理量来确定…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.08.03.454980v1) 
+<https://www.biorxiv.org/content/10.1101/2021.08.03.454980v1>  
 
 ## 蛋白质复合物模型数据库
 
 EBI-Deepmind 数据库不断增长，这对实验和计算生物学家社区来说很好，但它只专注于单体形式的单个蛋白质的结构。然而，CASP 评估发现，相对于当时的技术水平，AlphaFold 2 在预测蛋白质之间的复合物结构方面似乎有所改进(进一步的工作进一步解决了这一问题，见下一节)。事实上，不仅 CASP 评估得出了这一结论，CAPRI 竞赛也得出这一结论，该竞赛专门用于评估和跟踪蛋白质-蛋白质复合物建模的最新进展:
 
-[](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26222?casa_token=NPEuF3FwyZsAAAAA%3A76nV_Sr8iXLNq4b_TnbqzQSmZHHwneD4gVR9IurVrxEY6QZXdDC14I07-YuoN3dfd8yHNkx1FJIsUA) [## 蛋白质装配的预测，下一个前沿:CASP14‐CAPRI 实验
-
-### 我们提出了 CAPRI Round 50 的结果，第四次联合 CASP-CAPRI 蛋白质装配预测挑战。这一轮…
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26222?casa_token=NPEuF3FwyZsAAAAA%3A76nV_Sr8iXLNq4b_TnbqzQSmZHHwneD4gVR9IurVrxEY6QZXdDC14I07-YuoN3dfd8yHNkx1FJIsUA) 
+<https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26222?casa_token=NPEuF3FwyZsAAAAA%3A76nV_Sr8iXLNq4b_TnbqzQSmZHHwneD4gVR9IurVrxEY6QZXdDC14I07-YuoN3dfd8yHNkx1FJIsUA>  
 
 一项刚刚作为预印本问世的新工作利用了 AlphaFold 2 和 RoseTTAFold(一种精确度接近 AlphaFold 2 的蛋白质建模方法，与 AlphaFold 2 同时发表在 *Science* 上的[)来预测蛋白质复合物的结构，而不是单个蛋白质的结构。更具体地说，这项工作提出了一系列系统识别的，*酿酒酵母*(酵母)蛋白质组的核心真核蛋白质复合物的可能精确的模型。RoseTTAFold 和 AlphaFold 用于扫描 830 万对酵母蛋白质的成对多重序列比对，以检测相互作用对，筛选应该可以实现准确预测的情况，然后建立它们组装的 3D 模型。这项工作产生了一个预测蛋白质复合物的新的大型数据集，每个蛋白质复合物包含两到五个蛋白质成分，几乎跨越了真核细胞中所有的关键过程。超过 100 个模拟的蛋白质装配体以前没有被识别，超过 600 个已知可能形成复合物，但是它们的结构还没有被描述。](https://www.science.org/doi/10.1126/science.abj8754)
 
 这份预印本肯定会在一级期刊上成为一篇突出的论文，其影响类似于 Deepmind-EBI 合作对所有单个蛋白质建模的影响。您现在可以在这里阅读(不幸的是，完整的模型复合体列表尚未发布):
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.30.462231v1) [## 核心真核蛋白质复合物的结构
-
-### 蛋白质-蛋白质相互作用在生物学中起着关键作用，但是尽管几十年的努力，许多蛋白质的结构…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.30.462231v1) 
+<https://www.biorxiv.org/content/10.1101/2021.09.30.462231v1>  
 
 一个相关的预印本，实际上与上面的预印本共享一些作者姓名，使用了 AlphaFold 2 和 RoseTTAFold 的类似组合来模拟人类线粒体蛋白质的复合物:
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.14.460228v1) [## 人类线粒体蛋白复合物揭示了大规模的共同进化分析和深度…
-
-### 深度学习方法的最新发展导致了三维预测准确性的突破
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.14.460228v1) 
+<https://www.biorxiv.org/content/10.1101/2021.09.14.460228v1>  
 
 ## 用α折叠多聚体预测蛋白质复合物
 
 就在我准备提交这篇文章的时候，一份来自 Deepmind 的新预印本登陆了 bioRxiv。这份预印本介绍了一种新的α折叠模型，专门用于已知化学计量的多聚体输入(“α折叠多聚体”)。开发人员报告说，它大大提高了预测多聚体界面的准确性，超过了整个社区迄今为止一直在做的仅适用于多种蛋白质的常规α折叠。新程序在复杂的基准数据集上实现了中高精度，即使在没有可用模板的情况下也是如此:
 
-[](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1.full.pdf+html) [## 用α折叠多聚体预测蛋白质复合物
-
-### 虽然绝大多数结构良好的单个蛋白质链现在可以高精度预测，因为…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1.full.pdf+html) 
+<https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1.full.pdf+html>  
 
 # **评估 AlphaFold 2 对它的预测，以及它不是为预测而设计的**
 
@@ -174,11 +126,7 @@ www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1.ful
 
 上周刚刚出版的这本伟大的预印本，收集了专家对 AlphaFold 预测蛋白质结构本身以外的几个特征的潜力进行的评估:
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1) [## AlphaFold 2 应用的结构生物学社区评估
-
-### 大多数蛋白质折叠成三维结构，这些结构决定了它们如何发挥作用，并协调细胞的生物过程。
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1) 
+<https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1>  
 
 这项工作评估了 AlphaFold 2 预测在蛋白质特征结构元素研究中的应用，作为评估突变影响的工具，用于预测小分子的功能和结合位点(关键是因为大多数药物实际上是结合蛋白质的小分子)，相互作用的建模(与上一节和下一节相关)，以及实验结构数据的建模。本预印本的一些亮点:
 
@@ -195,35 +143,19 @@ www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.26.461876v1)
 
 这项工作发现，总的 AlphaFold 2 预测结合结构相当好，超过一半的情况具有良好的准确性，其中相当一部分实际上非常准确。不过，我在这里发现了一个警告:尽管作者为此放弃了模板的使用，但众所周知，AlphaFold 2 对蛋白质数据库有点“烂熟于心”。这意味着，如果你给它一个序列，它的结构在 PDB 中已经存在，它可能能够非常精确地恢复它，甚至不需要任何模板信息。事实上，一些非正式报告和 Deepmind 的论文本身表明，在输入比对中有大量序列时，模板信息变得不那么重要，并且在许多情况下可以忽略，而不会损害预测质量。
 
-[](https://www.biorxiv.org/content/10.1101/2021.07.27.453972v2.abstract) [## AlphaFold2 能否准确预测蛋白质-肽复合物结构？
-
-### 在这篇预印本中，我们研究了 AlphaFold2，AF2 是否可以预测蛋白-肽复合物的结构
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.07.27.453972v2.abstract) 
+<https://www.biorxiv.org/content/10.1101/2021.07.27.453972v2.abstract>  
 
 致力于开发蛋白质对接方法的重要团体也在开发 AlphaFold 来辅助他们自己的方法。例如，在这里，这份预印本结合了作者自己的方法 ClusPro 来重做 AlphaFold 的蛋白质-蛋白质复合物模型，然后使用 AlphaFold 来完善这些模型:
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.07.459290v1) [## 通过结合 Alphafold2 和 ClusPro 改进蛋白质模型的对接
-
-### 先前已经证明，基于神经网络的程序 AlphaFold2 可以用于对接蛋白质，只要给定…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.07.459290v1) 
+<https://www.biorxiv.org/content/10.1101/2021.09.07.459290v1>  
 
 这项其他工作探索了如何调整输入序列比对和模型识别，以改善 AlphaFold 2 对蛋白质-蛋白质复合物的预测:
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2) [## 使用 AlphaFold2 和扩展多重序列改进蛋白质-蛋白质相互作用的预测…
-
-### 由于最近的成就，预测单链蛋白质的结构现在接近成为一个解决的问题…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2) 
+<https://www.biorxiv.org/content/10.1101/2021.09.15.460468v2>  
 
 这另一份预印本也探索了使用 AlphaFold 来模拟蛋白质-肽复合物:
 
-[](https://www.biorxiv.org/content/10.1101/2021.08.01.454656v1) [## 利用蛋白质折叠神经网络进行肽-蛋白质对接
-
-### 最近发表的深度神经网络如 AlphaFold2 和…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.08.01.454656v1) 
+<https://www.biorxiv.org/content/10.1101/2021.08.01.454656v1>  
 
 ## 预测折叠结构不同于预测折叠路径
 
@@ -231,11 +163,7 @@ AlphaFold 2 出来的时候说了很多，说它“解决了蛋白质折叠问�
 
 这篇预印本将包括 AlphaFold 2 在内的最先进的蛋白质结构预测方法产生的途径与实际折叠途径的实验数据进行了比较。这种比较很棘手，因为折叠数据很少给出原子随时间的位置；相反，大多数数据是关于蛋白质折叠时蛋白质的氨基酸暴露在溶剂中多长时间(蛋白质折叠时氨基酸受到保护，不受溶剂影响，因为它们形成接触并被埋在蛋白质内部)。然而，这些数据得到了基于物理学的蛋白质折叠模拟的补充，蛋白质折叠受到已知结构的限制。简而言之，这项工作发现，至少对我来说不奇怪，当前的蛋白质结构预测方法不能产生正确的折叠路径，即使当它们的最终折叠结构高度准确时也是如此:
 
-[](https://www.biorxiv.org/content/10.1101/2021.09.20.461137v1.abstract) [## 目前的蛋白质结构预测器不能产生有意义的折叠途径
-
-### 蛋白质结构预测一直被认为是理解蛋白质折叠的一个门户问题。最近…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.20.461137v1.abstract) 
+<https://www.biorxiv.org/content/10.1101/2021.09.20.461137v1.abstract>  
 
 # 摘自《分子生物学杂志》的一期特刊
 
@@ -243,11 +171,7 @@ www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2021.09.20.461137v1.abs
 
 本期的许多文章根本不是关于 AlphaFold 的，但提供了有趣的观点，说明结构生物信息学、蛋白质设计、蛋白质动力学、蛋白质折叠和蛋白质生物物理学领域的主要研究人员如何看待这些方法和一般机器学习正在带来的革命:
 
-[](https://www.sciencedirect.com/science/article/pii/S0022283621004642) [## 阿尔法折叠:蛋白质科学的特殊问题和特殊时代
-
-### 编辑描述
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0022283621004642) 
+<https://www.sciencedirect.com/science/article/pii/S0022283621004642>  
 
 我在这里只评论我特别感兴趣的文章，这些文章与机器学习有更多的关系，但是我建议你访问上面的链接了解更多。
 

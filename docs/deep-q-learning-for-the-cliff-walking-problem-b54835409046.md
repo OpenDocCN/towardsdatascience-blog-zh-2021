@@ -111,43 +111,23 @@ Q-learning 依赖于时间差异，使用“预期”值`Q_t`和“观察”值`
 
 *我实现的表格* ***Q-learning 和 SARSA*** *对于悬崖行走的问题在这里有详细介绍:*
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) [## 用非策略强化学习走下悬崖
-
-### 政策外强化学习和政策内强化学习的深入比较
-
-towardsdatascience.com](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) 
+</walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff>  
 
 ****离散策略梯度*** *变体如本文所示:**
 
-*[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) [## 基于离散策略梯度算法的悬崖行走问题
-
-### 用 Python 实现了一个完整的增强算法。手动执行这些步骤来说明内部…
-
-towardsdatascience.com](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) 
+*</cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 *为* ***深策渐变*** *，勾选:*
 
-[](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc) [## 悬崖漫步的深度政策梯度
-
-### 用 Python 实现 TensorFlow 2.0。在这个解决方案中，参与者由一个神经网络来表示，它是…
-
-towardsdatascience.com](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc) 
+</deep-policy-gradient-for-cliff-walking-37d5014fd4bc>  
 
 *下面的文章给出了* ***深度 Q 学习*** *的一个最小工作示例:*
 
-[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) 
+</a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  
 
 *最后，我在这里讨论经验回放、批量学习和目标学习的实现示例:*
 
-[](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) [## 如何对经验重放、批量学习和目标网络进行建模
-
-### 使用 TensorFlow 2.0，快速学习稳定和成功的深度 Q 学习的三个基本技巧
-
-towardsdatascience.com](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) 
+</how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172>  
 
 ## 参考
 

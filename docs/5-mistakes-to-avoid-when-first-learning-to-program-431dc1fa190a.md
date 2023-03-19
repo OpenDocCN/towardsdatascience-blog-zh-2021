@@ -14,7 +14,7 @@
 
 编程是进入数据科学领域及其所有分支的首要基础。在我看来，编程本身就是一项很好的学习技能，不管最终目标是什么应用。学习编程将教会你如何从结构上思考问题，并用简单的语言表达出来，让计算机执行。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -34,11 +34,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 当你心中有一个答案时，我希望你花一些时间，把这个答案作为一组步骤，从输入到回答的逻辑步骤。在这个阶段，避免使用精确的语法，把重点放在使用想法或概念上。这样，你就试着用你的大脑去思考任何一种编程语言，而不是一种特定的语言。
 
-[](/7-data-science-myths-that-we-should-leave-behind-in-2021-e5984f62d6fd) [## 我们应该在 2021 年抛弃的 7 个数据科学神话
-
-### 打破数据科学领域常见的错误观念
-
-towardsdatascience.com](/7-data-science-myths-that-we-should-leave-behind-in-2021-e5984f62d6fd) 
+</7-data-science-myths-that-we-should-leave-behind-in-2021-e5984f62d6fd>  
 
 # №3:记忆语法
 
@@ -54,11 +50,7 @@ towardsdatascience.com](/7-data-science-myths-that-we-should-leave-behind-in-202
 
 一旦你习惯了写算法，你就可以开始考虑把你的算法写成代码了。在这个阶段，尽可能多地使用伪代码，因为如果你掌握了这一点，你就可以用任何编程语言编写代码。
 
-[](/6-new-awesome-features-in-python-3-10-a0598e87689f) [## Python 3.10 中 6 个令人惊叹的新特性
-
-### 新的 Python 版本推出了有趣的新特性。
-
-towardsdatascience.com](/6-new-awesome-features-in-python-3-10-a0598e87689f) 
+</6-new-awesome-features-in-python-3-10-a0598e87689f>  
 
 # №5:匆忙进入应用程序
 
@@ -74,10 +66,6 @@ towardsdatascience.com](/6-new-awesome-features-in-python-3-10-a0598e87689f)
 
 我教孩子、青少年和成人编程已经有 6 年多了，通过这些年，我注意到我所有的学生都倾向于做一种模式，不管他们的年龄如何。本文探讨了初学者在第一次学习编程时经常犯的 5 个常见错误。
 
-[](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) [## 证明你 Python 知识水平的 5 个证书
-
-### 有时候，拥有一个证书可能是你需要的验证
-
-towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) 
+</the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b>  
 
 这些错误可能有助于你快速学会用特定的编程语言编程，但是它们不会让你有效地理解它。最重要的是，这些错误会妨碍你完全掌握编程的本质，以及写代码的真正意义。

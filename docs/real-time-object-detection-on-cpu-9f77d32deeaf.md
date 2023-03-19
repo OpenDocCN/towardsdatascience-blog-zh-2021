@@ -114,28 +114,4 @@ $ python3 yolo__openvino_demo.py -m /**path_to_model_directory**/yolov3-tiny-416
 
 ## 参考
 
-[](https://pjreddie.com/darknet/yolo/) [## YOLO:实时目标检测
-
-### 你只看一次(YOLO)是一个最先进的，实时对象检测系统。在 Pascal Titan X 上，它处理…
-
-pjreddie.com](https://pjreddie.com/darknet/yolo/)  [## ONNX |主页
-
-### 在您喜欢的框架中开发，而不用担心下游推理的影响。ONNX 使您能够使用…
-
-onnx.ai](https://onnx.ai/) [](https://docs.openvinotoolkit.org/latest/index.html) [## OpenVINO 工具包概述- OpenVINO 工具包
-
-### open vino toolkit 是一个全面的工具包，用于快速开发应用程序和解决方案，解决各种…
-
-docs.openvinotoolkit.org](https://docs.openvinotoolkit.org/latest/index.html) [](https://github.com/jkjung-avt/tensorrt_demos) [## jkjung-avt/tensorrt_demos
-
-### 演示如何使用 TensorRT 优化 Caffe/tensor flow/DarkNet/py torch 模型并在 NVIDIA 上进行推理的示例…
-
-github.com](https://github.com/jkjung-avt/tensorrt_demos) [](https://github.com/Chen-MingChang/pytorch_YOLO_OpenVINO_demo) [## 陈明昌/pytorch_YOLO_OpenVINO_demo
-
-### 用于 OpenVINO 推理的 Pytorch YOLO 模型(YOLO-V3 / YOLO-V4 /缩放-YOLO-V4 / YOLO-V5)的集成。Windows 10…
-
-github.com](https://github.com/Chen-MingChang/pytorch_YOLO_OpenVINO_demo) [](https://github.com/lutzroeder/netron) [## lutzroeder/netron
-
-### Netron 是神经网络、深度学习和机器学习模型的查看器。Linux:下载。AppImage 文件或…
-
-github.com](https://github.com/lutzroeder/netron)
+<https://pjreddie.com/darknet/yolo/>    <https://docs.openvinotoolkit.org/latest/index.html>  <https://github.com/jkjung-avt/tensorrt_demos>  <https://github.com/Chen-MingChang/pytorch_YOLO_OpenVINO_demo>  <https://github.com/lutzroeder/netron> 

@@ -44,11 +44,7 @@ Python 是一种令人惊叹的编程语言，在与数据科学关系不大的�
 
 关于你在第一阶段已经知道的东西，仍然有改进的空间——特别是你作为数据科学家经常使用的东西。其中一些是 list comprehension、lambda、zip()、f-string 和`with`语句。我写了一篇文章解释他们如何处理代码。
 
-[](/7-tips-to-level-up-your-python-code-for-data-science-4a64dbccd86d) [## 提升数据科学 Python 代码的 7 个技巧
-
-### 让你的生活更轻松
-
-towardsdatascience.com](/7-tips-to-level-up-your-python-code-for-data-science-4a64dbccd86d) 
+</7-tips-to-level-up-your-python-code-for-data-science-4a64dbccd86d>  
 
 最后但并非最不重要的一点是，获得网络搜集等数据收集的必要技能将有助于你脱颖而出，成为一名数据科学家。这里有一个[完整的 web 抓取指南](https://medium.com/geekculture/web-scraping-cheat-sheet-2021-python-for-web-scraping-cad1540ce21c)，它包含了你掌握 Python 这一技能所需要知道的一切。
 
@@ -94,8 +90,4 @@ towardsdatascience.com](/7-tips-to-level-up-your-python-code-for-data-science-4a
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑[注册成为一名媒体会员](https://frank-andrade.medium.com/membership)。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金。
 
-[](https://frank-andrade.medium.com/membership) [## 阅读弗兰克·安德拉德(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

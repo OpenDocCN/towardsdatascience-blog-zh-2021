@@ -50,11 +50,7 @@ ByteHub 引入了一个叫做**特征转换**的概念:可以应用于原始时�
 
 我希望这篇文章能激发你在下一个时间序列建模项目中尝试 ByteHub。如果你想试一试，[完整的文档](https://docs.bytehub.ai/)和安装说明在 [GitHub](https://github.com/bytehub-ai/bytehub) 上。
 
-[](https://github.com/bytehub-ai/bytehub) [## bytehub-ai/bytehub
-
-### 易于使用的功能商店。特征存储是用于数据科学和机器学习的数据存储系统。它可以…
-
-github.com](https://github.com/bytehub-ai/bytehub) 
+<https://github.com/bytehub-ai/bytehub>  
 
 所有的[教程和示例](https://github.com/bytehub-ai/code-examples/tree/main/tutorials)都可以从 Google Colab 笔记本上运行。
 

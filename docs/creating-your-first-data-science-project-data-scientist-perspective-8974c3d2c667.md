@@ -57,7 +57,7 @@
 
 如果你很难思考你的数据科学项目结构，那么我的另一篇文章可以帮助你。使用 CRISP-DM 方法，您可以定义项目的结构，并有更好的方式来展示项目。
 
-[](/crisp-dm-methodology-for-your-first-data-science-project-769f35e0346c) [## CRISP-DM 方法用于您的第一个数据科学项目
+</crisp-dm-methodology-for-your-first-data-science-project-769f35e0346c> [## CRISP-DM 方法用于您的第一个数据科学项目
 
 towardsdatascience.com](/crisp-dm-methodology-for-your-first-data-science-project-769f35e0346c) 
 

@@ -72,16 +72,4 @@
 
 **想了解更多关于数据科学的信息吗？你可能会对这些文章感兴趣:**
 
-[](/signs-you-are-using-data-visualization-tools-wrong-121220696500) [## 数据可视化工具使用不当的迹象
-
-### 以及取而代之做什么
-
-towardsdatascience.com](/signs-you-are-using-data-visualization-tools-wrong-121220696500) [](https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00) [## 避免这五种让你看起来像数据新手的行为
-
-### 成为一个值得信赖、讨人喜欢的数据合作伙伴
-
-medium.com](https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00) [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [## 我希望在我的数据科学职业生涯中避免的 5 个错误
-
-### 我得到了这些教训，所以你不必这样做
-
-towardsdatascience.com](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)
+</signs-you-are-using-data-visualization-tools-wrong-121220696500>  <https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00>  </5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1> 

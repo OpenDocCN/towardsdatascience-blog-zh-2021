@@ -12,11 +12,7 @@ T 今天我读了 Zahar Chikishev 的《TensorFlow Sad Story 》,虽然我同意
 
 接下来，我或多或少地按照最初帖子的顺序讨论了每个主题，你可以在这里阅读:
 
-[](https://medium.com/geekculture/tensorflow-sad-story-cf8e062d84ba) [## 张量流悲伤故事
-
-### 我已经使用 Pytorch 好几年了，并且一直很喜欢它。它清晰、直观、灵活、快速。还有…
-
-medium.com](https://medium.com/geekculture/tensorflow-sad-story-cf8e062d84ba) 
+<https://medium.com/geekculture/tensorflow-sad-story-cf8e062d84ba>  
 
 # 易于安装
 

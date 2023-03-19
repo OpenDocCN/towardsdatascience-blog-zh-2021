@@ -30,11 +30,7 @@
 
 **我选择利用 Apple Metal Framework 来执行上述操作，并在 GPU 上执行操作。整个代码可以很容易地翻译成其他语言，如 [OpenCL](https://opencl.org/) 或 [CUDA](https://developer.nvidia.com/cuda-zone) 。**
 
-**[](https://developer.apple.com/metal/) [## 金属苹果显影剂
-
-### 为了更好地实现最新的 GPU 渲染技术，您现在可以调用动态库，使用函数指针，以及…
-
-developer.apple.com](https://developer.apple.com/metal/) 
+**<https://developer.apple.com/metal/>  
 
 为了对 Metal 上的数据执行流水线，我们需要创建一个*命令缓冲区*，将命令写入其中，并将缓冲区提交给命令队列。Metal 将[发送命令](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/performing_calculations_on_a_gpu?preferredLanguage=occ)给 GPU 执行。
 

@@ -16,7 +16,7 @@
 
 在我的上一篇文章中，我展示了你可以创建一个简单的 web 应用程序，不需要破折号就可以合并 Plotly 图表。相反，你可以结合使用 Flask 和网页模板。这也给了你创建多页面应用的优势。
 
-[](/web-visualization-with-plotly-and-flask-3660abf9c946) [## 用 Plotly 和 Flask 实现 Web 可视化。
+</web-visualization-with-plotly-and-flask-3660abf9c946> [## 用 Plotly 和 Flask 实现 Web 可视化。
 
 towardsdatascience.com](/web-visualization-with-plotly-and-flask-3660abf9c946) 
 

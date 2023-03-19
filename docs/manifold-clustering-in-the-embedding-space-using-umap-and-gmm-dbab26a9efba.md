@@ -173,4 +173,4 @@ GMM 是一种概率模型，它假设所有的数据点都是由有限个参数�
 
 如果你想了解更多关于数据聚类算法的调优技术，你可以阅读这些文章:[数据聚类？不要担心算法](https://datasciencevademecum.com/2014/02/27/data-clustering-dont-worry-about-the-algorithm/)和[数据聚类的分布式遗传进化调优:第 1 部分](https://datasciencevademecum.com/2014/02/27/a-distributed-genetic-evolutionary-tuning-for-data-clustering/)。
 
-*原载于 2021 年 1 月 2 日 https://datasciencevademecum.com*[](https://datasciencevademecum.com/2021/01/02/manifold-clustering-in-the-embedding-space-using-umap-and-gmm/)**。**
+*原载于 2021 年 1 月 2 日 https://datasciencevademecum.com*<https://datasciencevademecum.com/2021/01/02/manifold-clustering-in-the-embedding-space-using-umap-and-gmm/>**。**

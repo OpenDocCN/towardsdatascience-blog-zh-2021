@@ -19,7 +19,7 @@ Mick Haupt 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 *   [**利用您的数据和 Python 技能解决供应链问题**](/production-planning-and-resource-management-of-manufacturing-systems-in-python-5458e9c04183) 。这些天来，关于产品短缺和运输延迟的讨论无处不在。然而，正如 Will Keefe 所展示的，当涉及到建模需求和约束、准备和安排生产周期以及可视化和交流计划时，您的 Python 知识可以成为一个重要的差异制造者。
 *   [**让同事和利益相关者能够充分利用他们自己掌握的数据**](/what-helped-us-build-strong-self-service-analytics-in-a-fintech-startup-ef9f0333b94d) 。许多在行业中工作的数据科学家发现，他们花了太多时间为不太懂数据的同行提供基本的数据见解。姚文玲坚持认为有一个更好的方法:培训内部用户成为有效的数据消费者，甚至是数据创造者。
-*   [](/overfitting-and-conceptual-soundness-3a1fd187a6d4)**对过度拟合(及其重要性)有了更细致的了解。 [Klas Leino](https://medium.com/u/d1ed71c899ca?source=post_page-----97e4f60ffe93--------------------------------) 的帖子对过度拟合提供了清晰而有用的指导，特别是在深度学习的背景下。Klas 向我们介绍了 TruLens 库，并展示了它如何帮助我们避免不健全功能的缺陷，并增加我们对模型在未来未知数据上的性能的信任。**
+*   </overfitting-and-conceptual-soundness-3a1fd187a6d4>**对过度拟合(及其重要性)有了更细致的了解。 [Klas Leino](https://medium.com/u/d1ed71c899ca?source=post_page-----97e4f60ffe93--------------------------------) 的帖子对过度拟合提供了清晰而有用的指导，特别是在深度学习的背景下。Klas 向我们介绍了 TruLens 库，并展示了它如何帮助我们避免不健全功能的缺陷，并增加我们对模型在未来未知数据上的性能的信任。**
 
 **我们希望你喜欢这个星期和我们一起度过的时光！如果你想支持我们作者(和我们)的工作，[今天就考虑成为一名中级会员](https://medium.com/membership)。**
 

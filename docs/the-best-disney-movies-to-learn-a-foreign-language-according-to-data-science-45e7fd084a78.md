@@ -85,11 +85,7 @@
 
 如果你想知道更多关于如何通过看电视节目和电影来学习语言，我写了一个完整的指南来解释我是如何通过看电视来学习 3 种语言的。
 
-[](https://medium.com/better-humans/a-data-driven-approach-to-learning-any-language-by-watching-tv-and-movies-95525ddff52e) [## 通过看电视和电影学习任何语言的数据驱动方法
-
-### 我用我在编程和自然语言方面的知识分析了 3000 部电影，找到了最适合学习的…
-
-medium.com](https://medium.com/better-humans/a-data-driven-approach-to-learning-any-language-by-watching-tv-and-movies-95525ddff52e) 
+<https://medium.com/better-humans/a-data-driven-approach-to-learning-any-language-by-watching-tv-and-movies-95525ddff52e>  
 
 ## 词汇简单难懂的电影类型
 

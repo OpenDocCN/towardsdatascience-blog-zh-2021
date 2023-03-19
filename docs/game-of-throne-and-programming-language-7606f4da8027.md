@@ -16,11 +16,7 @@
 
 在开始之前，我建议你阅读发表在 [TDS](https://medium.com/u/7e12c71dfa81?source=post_page-----7606f4da8027--------------------------------) 上的第一部分，以获得第一个角色的第一个概述，因为本文中的不同角色将引用它:
 
-[](/what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273) [## 如果编程语言是《权力的游戏》中的角色会怎样？(作为一名数据科学家)
-
-### 为了庆祝冬天的到来，如果 C#、Python、C++、Java、SQL、Ruby，甚至 R 都是《权力的游戏》角色会怎么样…
-
-towardsdatascience.com](/what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273) 
+</what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273>  
 
 在这篇文章中，我们将探索戴维·贝尼奥夫和乔治·马丁的剩余角色，并作为一名数据科学家，从编程语言丛林的历史和复杂性中获取更多信息。
 
@@ -123,34 +119,18 @@ Giphy.com gif
 
 正如个人数据科学家提示，如果你想从零开始学习 Python，了解更多算法交易，成为下一个提利昂·兰尼斯特，我强烈推荐这门课程:
 
-[](https://www.udemy.com/course/learn-algorithmic-trading-in-one-day/?couponCode=TDSCIENCE) [## 一天学会算法交易(美国大选更新)
-
-### 交易 707 是数据科学家和交易员的结合。我们都在伦敦工作和生活。我们觉得累了…
-
-www.udemy.com](https://www.udemy.com/course/learn-algorithmic-trading-in-one-day/?couponCode=TDSCIENCE) 
+<https://www.udemy.com/course/learn-algorithmic-trading-in-one-day/?couponCode=TDSCIENCE>  
 
 # 来源:
 
 (1)迈向数据科学#第 1 部分:
 
-[](/what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273) [## 如果编程语言是《权力的游戏》中的角色会怎样？(作为一名数据科学家)
-
-### 为了庆祝冬天的到来，如果 C#、Python、C++、Java、SQL、Ruby，甚至 R 都是《权力的游戏》角色会怎么样…
-
-towardsdatascience.com](/what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273) 
+</what-if-programming-languages-were-game-of-thrones-characters-as-a-data-scientist-c3a9ae523273>  
 
 (2)大纲— Brainfck:
 
-[](https://theoutline.com/post/825/brainfuck-coding-languages?zd=1&zi=zwoxtyke) [## Brainfuck 是设计用来伤害的代码
-
-### 软件是计算机程序和库的总称，是使我们的机器运转的编码逻辑。在…
-
-theoutline.com](https://theoutline.com/post/825/brainfuck-coding-languages?zd=1&zi=zwoxtyke) 
+<https://theoutline.com/post/825/brainfuck-coding-languages?zd=1&zi=zwoxtyke>  
 
 (3)维基百科— Ruby:
 
-[](https://en.wikipedia.org/wiki/Ruby_%28programming_language%29) [## Ruby(编程语言)
-
-### 范型多范型:功能性的，命令式的，面向对象的，反射式的由松本幸宏开发者设计…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Ruby_%28programming_language%29)
+<https://en.wikipedia.org/wiki/Ruby_%28programming_language%29> 

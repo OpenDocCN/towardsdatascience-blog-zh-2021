@@ -225,10 +225,6 @@ with fi.input(files='my_file.gz', openhook=fi.hook_compressed) as f:
 
 在本文中，我介绍了 Python 内置模块`fileinput`以及如何使用它读取多个文本文件。当然，它永远不会取代`open()`函数，但就将多个文件读入单个流而言，我相信它是最佳实践。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和数以千计的其他作者！(点击上面的链接)

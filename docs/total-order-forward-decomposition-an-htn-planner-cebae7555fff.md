@@ -148,11 +148,7 @@ HTN 规划是解决人工智能规划问题的另一种方法。它类似于经�
 
 *为了测试这个算法，我基于 Dana Nau 的实现用 C++17 编写了它，它是用 Python 编写的，如下所示:*
 
- *[## 比特桶
-
-### 编辑描述
-
-bitbucket.org](https://bitbucket.org/dananau/pyhop/src/master/)* 
+ ** 
 
 ## *规划领域*
 
@@ -197,8 +193,4 @@ bitbucket.org](https://bitbucket.org/dananau/pyhop/src/master/)*
 
 *我已经用 C++写了代码，包括算法的一般实现和一些例子。如果你有兴趣，可以在这里探索一下:*
 
-*[](https://github.com/debbynirwan/tfd_cpp) [## debbynirwan/tfd_cpp
-
-### 全序向前分解算法:HTN 计划程序库。这个库提供了 TFD 算法-一个 HTN…
-
-github.com](https://github.com/debbynirwan/tfd_cpp)*
+*<https://github.com/debbynirwan/tfd_cpp> *

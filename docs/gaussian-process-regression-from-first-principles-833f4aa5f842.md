@@ -14,7 +14,7 @@
 
 在本文中，我们将从**第一原理**开始讨论高斯过程回归(GPR)，使用来自机器学习、最优化和贝叶斯推理的数学概念。我们将从高斯过程开始，用它来形式化如何用 GPR 模型进行预测，然后讨论 GPR 模型的两个关键因素:协方差函数和超参数优化。最后，我们将在下面的数学推导的基础上，讨论一些直观的方法来查看 GPR。
 
-如果你也想看到这些想法以学术风格的论文呈现，请点击这里的链接[](https://drive.google.com/file/d/1KkmOahqH7bFVoezHCaarPlqPn0o8Kcvl/view?usp=sharing)**。我们开始吧！**
+如果你也想看到这些想法以学术风格的论文呈现，请点击这里的链接<https://drive.google.com/file/d/1KkmOahqH7bFVoezHCaarPlqPn0o8Kcvl/view?usp=sharing>**。我们开始吧！**
 
 # **什么是高斯过程？**
 

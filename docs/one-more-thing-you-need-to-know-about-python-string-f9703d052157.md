@@ -156,10 +156,6 @@ t2 = MyTemplate('&name is &age')t2.safe_substitute(name='Chris')
 
 使用 Python 字符串模板，我们可以一起定义和组织所有的字符串模板，并在我们项目的任何地方使用它。这将导致一个干净整洁的代码呈现。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

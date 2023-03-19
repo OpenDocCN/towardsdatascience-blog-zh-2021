@@ -12,11 +12,7 @@
 
 由于政府担心不断增加的垃圾处理量，英格波尔成为了一个零垃圾国家的新里程碑。按照目前的速度，到 2035 年，三宝垃圾填埋场将会耗尽空间，这对新加坡人来说是一个令人担忧的情况。更糟糕的是，新加坡用于建设新焚烧厂或垃圾填埋场的土地有限。政府希望通过分享联合回收努力每年节省的总能量来激励公民。
 
-[](https://www.nea.gov.sg/our-services/waste-management) [## 概观
-
-### 国家环境局(NEA)计划、发展和管理新加坡的固体(或一般)和危险…
-
-www.nea.gov.sg](https://www.nea.gov.sg/our-services/waste-management) 
+<https://www.nea.gov.sg/our-services/waste-management>  
 
 > 我们将使用**回收统计数据**来计算从 2003 年到 2020 年每年节约的能源，基于五种废物类型:塑料、纸张、玻璃、黑色金属和有色金属。
 
@@ -109,38 +105,18 @@ www.nea.gov.sg](https://www.nea.gov.sg/our-services/waste-management)
 
 ## 深度笔记
 
-[](https://deepnote.com/project/Singapore-Recycled-Energy-Xh_wbptwTn2l-I1GQ-O1Vw/%2FAnnual-Recycled-Energy-Saved-in-Singapore%2FREADME.md) [## 新加坡再生能源
-
-### 面向数据科学家和研究人员的托管笔记本电脑。
-
-deepnote.com](https://deepnote.com/project/Singapore-Recycled-Energy-Xh_wbptwTn2l-I1GQ-O1Vw/%2FAnnual-Recycled-Energy-Saved-in-Singapore%2FREADME.md) 
+<https://deepnote.com/project/Singapore-Recycled-Energy-Xh_wbptwTn2l-I1GQ-O1Vw/%2FAnnual-Recycled-Energy-Saved-in-Singapore%2FREADME.md>  
 
 ## 开源代码库
 
-[](https://github.com/kingabzpro/Annual-Recycled-Energy-Saved-in-Singapore) [## GitHub-kingabzpro/Annual-Recycled-Energy-Saved-in-Singapore:了解新加坡节约了多少能源…
-
-### 了解新加坡每年通过回收塑料、纸张、玻璃、黑色金属和有色金属节约了多少能源…
-
-github.com](https://github.com/kingabzpro/Annual-Recycled-Energy-Saved-in-Singapore) 
+<https://github.com/kingabzpro/Annual-Recycled-Energy-Saved-in-Singapore>  
 
 **卡格尔**
 
-[](https://www.kaggle.com/kingabzpro/singapore-recycling-and-waste-management) [## 新加坡回收和废物管理
-
-### 使用 Kaggle 笔记本电脑探索和运行机器学习代码|使用来自新加坡废物管理的数据
-
-www.kaggle.com](https://www.kaggle.com/kingabzpro/singapore-recycling-and-waste-management) 
+<https://www.kaggle.com/kingabzpro/singapore-recycling-and-waste-management>  
 
 # 学习资源
 
 **DataCamp 课程** : [使用 Python 的数据分析师](https://www.datacamp.com/tracks/data-analyst-with-python)
 
-[](https://www.goodreads.com/book/show/23594979-data-analytics-made-accessible) [## 数据分析变得可访问
-
-### 作为信息安全课程的教科书阅读。就教科书而言，写得很好，但有些部分…
-
-www.goodreads.com](https://www.goodreads.com/book/show/23594979-data-analytics-made-accessible) [](https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium) [## WillKoehrsen 硕士的数据分析/媒体/数据分析
-
-### Medium stats Python toolkit 是一套工具，用于检索、分析、预测和可视化您的媒体…
-
-github.com](https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium)
+<https://www.goodreads.com/book/show/23594979-data-analytics-made-accessible>  <https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium> 

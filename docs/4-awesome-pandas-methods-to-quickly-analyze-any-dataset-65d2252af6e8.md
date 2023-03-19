@@ -58,11 +58,7 @@ df_city_group = df.groupby("City")
 
 这里有一篇关于 Python 一行程序高效编码的有趣文章！
 
-[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) [## Python 编程中您应该知道的 5 个最强大的一行程序
-
-### 一行程序保持你的代码干净、清晰、简短和易于理解。
-
-towardsdatascience.com](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) 
+</5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3>  
 
 # 使用量最大。nlargest()
 
@@ -126,15 +122,11 @@ Pandas `.nlargest()`的语法是最简单的答案。
 
 下面的例子解释了所有这些情况，
 
-在这里阅读关于比较运算符[](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.gt.html)*的包装器的更多文档。*
+在这里阅读关于比较运算符<https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.gt.html>*的包装器的更多文档。*
 
 *这些 Python 技巧甚至进一步节省了我在许多项目中的时间。*
 
-*[](/3-time-saving-python-tricks-a017f4215aeb) [## 3 个节省时间的 Python 技巧
-
-### ..这在我最近的项目中节省了 40%的时间！
-
-towardsdatascience.com](/3-time-saving-python-tricks-a017f4215aeb)* 
+*</3-time-saving-python-tricks-a017f4215aeb> * 
 
 ****总结，****
 

@@ -34,15 +34,11 @@ JavaScript 是否会在机器学习领域扮演重要角色的问题是采用。
 
 我对 JavaScript 最大的问题是它的类型。JavaScript 具有非常弱的类型，这是由设计隐含的。我认为，在某些方面，这可以使语言变得非常容易使用，但也使类型有时可以做编译器想做的任何事情。我并不认为这是科学计算的最佳选择，尽管我可以肯定地看到在某些情况下这个特性肯定是有用的。然而，我的主观偏好是显式类型——我更喜欢告诉我的编译器做什么。此外，如果您想了解更多关于显式和隐式类型的知识，我不久前写了一篇文章，您可以在这里阅读，这篇文章更详细地介绍了这些概念:
 
-[](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f) [## 关于类型:显式与隐式，静态与动态
-
-### 快速浏览类型以及它们如何与语言交互。
-
-towardsdatascience.com](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f) 
+</all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f>  
 
 我认为 JavaScipt 有一些非常酷的处理数据的方法。我当然指的是 JavaScript 的数据数组，它可以被视为包含命名数据的对象，就像字典一样。我认为这些应用于科学计算会很棒。在很多方面，它们就像是数据类的基础实现版本，更接近语言本身。我最近也写了一篇关于 Python 的数据类的文章，我认为值得一读，你可以在这里查看:
 
-[](/pythons-data-classes-are-underrated-cc6047671a30) [## Python 的数据类被低估了
+</pythons-data-classes-are-underrated-cc6047671a30> [## Python 的数据类被低估了
 
 towardsdatascience.com](/pythons-data-classes-are-underrated-cc6047671a30) 
 
@@ -54,10 +50,6 @@ towardsdatascience.com](/pythons-data-classes-are-underrated-cc6047671a30)
 
 当然，还有许多其他优秀编程语言的例子可以用于统计分析和机器学习。一个这样的例子是 R，我认为它在分析甚至可视化方面有优势。此外，shiny 只是一个很棒的包，可以构建一些非常酷的仪表板，RStudio 只是一个很好的工作环境。另一种你可以考虑的语言是 Julia。虽然 Julia 仍然是我在本文中尚未提到的最小的语言，但它在过去几年中发展迅速。当然，我仍然会首先推荐 Python，因为它是最用户友好的，通过像 StackOverflow 这样的网站提供最多的在线支持。请查看这个比较不同语言提问的可视化图片:
 
-[](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) [## 堆栈溢出开发者调查 2020
-
-### 每个月，大约有 5000 万人访问 Stack Overflow 来学习、分享和建立他们的职业生涯。行业估计…
-
-insights.stackoverflow.com](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) 
+<https://insights.stackoverflow.com/survey/2020#most-popular-technologies>  
 
 我认为任何可用的工具都值得学习，如果你有时间的话。当然，在数据科学的世界里，可能有更重要的东西需要学习，因为每时每刻都有太多的东西需要学习。但我认为 JavaScript 是一种可以应用于如此多不同应用程序的技能，它肯定会派上用场。如果你是那种最终与 web 开发人员一起工作的数据科学家，当他们问问题时，知道他们在谈论什么也是很方便的，所以出于许多不同的原因，它肯定是一种很有价值的语言。感谢您的阅读，我希望这篇文章提供了一些重要的信息和一些关于 JavaScript 的好建议。我真的对 JavaScript 在机器学习领域的未来感到兴奋，因为我认为它有潜力，而且肯定会是一种很酷的语言！

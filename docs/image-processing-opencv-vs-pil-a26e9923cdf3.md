@@ -27,7 +27,7 @@
 
 在我的项目中，很多信息也隐藏在图像名称中。这里讨论的字符串操作方法在这样的任务中非常方便。
 
-[](/five-must-know-string-methods-in-python-e97925d12eec) [## Python 中五个必须知道的字符串方法
+</five-must-know-string-methods-in-python-e97925d12eec> [## Python 中五个必须知道的字符串方法
 
 towardsdatascience.com](/five-must-know-string-methods-in-python-e97925d12eec) 
 
@@ -170,7 +170,7 @@ from PIL import Image, ImageEnhance*
 
 *💡关于 OpenCV 中如何进行图像处理的理论解释可以在这里找到 [*。*](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html)*OpenCV 的妙处在于，你可以在它的网站上看到无数用 Python、C++和 Java 编写的例子。**
 
-**同样，更多关于 PIL 的信息可以在这里[](https://pillow.readthedocs.io/en/stable/)**。*💡***
+**同样，更多关于 PIL 的信息可以在这里<https://pillow.readthedocs.io/en/stable/>**。*💡***
 
 **这只是图像处理中最常用的两个 Python 包的概述，以及它们如何以不同的方式返回相同的结果。我希望你喜欢并从这本书中学到一些东西。**
 

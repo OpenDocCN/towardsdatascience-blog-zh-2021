@@ -327,6 +327,6 @@ exec "$PYENV_COMMAND_PATH" "$@"
 
 最后一点我们还没有真正经历过，但是一旦我们理解了当我们键入`python`时，我们的计算机如何知道使用哪个版本的 python，它真的一点也不复杂。然而，要理解它，我们需要理解**模块搜索路径和**，正如我们将在下一篇文章中看到的，这实际上只不过是在 python 启动时对`$PATH`进行一些小的标准操作。
 
-[](https://markjamison03.medium.com/python-and-the-module-search-path-e71ae7a7e65f) [## Python 和模块搜索路径
+<https://markjamison03.medium.com/python-and-the-module-search-path-e71ae7a7e65f> [## Python 和模块搜索路径
 
 markjamison03.medium.com](https://markjamison03.medium.com/python-and-the-module-search-path-e71ae7a7e65f)

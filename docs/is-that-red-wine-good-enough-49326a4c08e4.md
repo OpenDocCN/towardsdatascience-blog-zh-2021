@@ -292,11 +292,7 @@ p## Confusion Matrix and Statistics
 
 **不确定接下来该读什么？我为你挑选了另一篇文章:**
 
-[](https://curious-joe.medium.com/have-r-look-after-your-stocks-8462af2ee3c1) [## 让 R 看好你的股票！
-
-### 使用 R 为您检查股票价格并通知您。
-
-curious-joe.medium.com](https://curious-joe.medium.com/have-r-look-after-your-stocks-8462af2ee3c1) 
+<https://curious-joe.medium.com/have-r-look-after-your-stocks-8462af2ee3c1>  
 
 # 阿拉法特·侯赛因
 

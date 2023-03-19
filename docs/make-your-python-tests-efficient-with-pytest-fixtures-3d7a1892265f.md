@@ -108,11 +108,7 @@ def db_conn(creds):
 
 您可以从以下网址获得完整的代码:
 
-[](https://github.com/Mathanraj-Sharma/python_boilerplate/tree/main/tests/test_fixtures) [## python _ boilerplate/tests/test _ fixtures at main mathan Raj-Sharma/python _ boilerplate
-
-### Python 样板文件包含创建 Python 包所需的所有样板文件。…
-
-github.com](https://github.com/Mathanraj-Sharma/python_boilerplate/tree/main/tests/test_fixtures) 
+<https://github.com/Mathanraj-Sharma/python_boilerplate/tree/main/tests/test_fixtures>  
 
 这些是一些简单的测试用例，用来看看当我们调用具有不同作用域的 fixtures 时会发生什么。运行以下命令来运行测试
 

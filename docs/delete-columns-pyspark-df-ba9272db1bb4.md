@@ -104,16 +104,4 @@ df = df.drop(*cols_to_drop)**df.show()
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512) [## Apache Spark 3.0:5 个最激动人心的新特性
-
-### Apache Spark 3.0 新版本中最激动人心的 5 个特性
-
-towardsdatascience.com](/apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a>  </apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512> 

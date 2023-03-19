@@ -14,11 +14,7 @@
 
 这就是为什么研究人员孜孜不倦地驱动算法、建立模型和开发软件，以使计算机更容易理解我们并与我们交流。然而，在过去的几十年里，技术爆炸式发展，使得新算法比以往任何时候都更复杂、更准确、更简单、更好、更快。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 作为一名数据科学家，工作的一个重要部分是跟上技术的最新发展，以便我们能够更好、更高效地开展工作。我们需要收集、分析和处理的数据量越来越大，但我们需要做得更快、更好。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 本文将向您介绍 5 种自然语言处理模型，如果您想跟上该领域的发展并希望您的模型更准确地运行，您需要熟悉这些模型。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # №1:伯特
 
@@ -57,11 +49,7 @@ XLNet 避免了 BERT 的局限性。它不依赖于数据损坏，因为它是�
 
 如果你想在你的下一个项目中使用 XLNet，开发它的研究人员在 [Tensorflow](https://github.com/zihangdai/xlnet) 中发布了 XLNet 的官方实现。另外，XLNet 的一个实现可以在 [PyTorch](https://github.com/pingpong-ai/xlnet-pytorch) 上获得。
 
-[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
-
-### 构建强大 NLP 基础的 10 个步骤
-
-towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+</nlp-101-towards-natural-language-processing-92df5728f6bb>  
 
 # 第三名:罗伯塔
 
@@ -88,11 +76,7 @@ RoBERTa 的实现作为 PyTorch 包的一部分在 Github 上开源。
 
 如果你想体验 ALBERT，谷歌开发的原始代码库可以在 [Github](https://github.com/google-research/google-research/tree/master/albert) 上的谷歌研究知识库中找到。您也可以使用使用 [TensorFlow](https://github.com/brightmart/albert_zh) 和 [PyTorch](https://github.com/lonePatient/albert_pytorch) 的实现 ALBERT。
 
-[](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) [## NLP 101:什么是自然语言处理？
-
-### NLP 是怎么开始的？
-
-towardsdatascience.com](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) 
+</nlp-101-what-is-natural-language-processing-b4a968a3b7bf>  
 
 # №5:结构伯特
 
@@ -112,11 +96,7 @@ BERT 的源代码还没有以开源的形式提供，研究团队将来把它放
 
 老实说，阅读研究论文从来都不是一件有趣的事情；它们很长，故意以复杂的格式编写，并且通常不容易导航。这就是为什么我总是欣赏一篇概括算法的主要思想以及何时可以使用它们的直截了当的文章。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 在本文中，我经历了 5 个自然语言处理模型，它们比之前的模型更先进、更复杂、更准确，并且只是朝着更好的模型迈出了一步。
 

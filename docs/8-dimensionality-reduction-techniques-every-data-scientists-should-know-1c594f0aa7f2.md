@@ -86,11 +86,7 @@ Scikit-learn 包附带了 PCA 的实现，请阅读[文档](https://scikit-learn
 
 > 请阅读我之前发表的文章，了解 PCA 如何提高分类模型的性能
 
-[](/dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544) [## 降维——主成分分析能提高分类模型的性能吗？
-
-### 利用 PCA——降维技术提高 ML 模型的性能
-
-towardsdatascience.com](/dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544) 
+</dimensionality-reduction-can-pca-improve-the-performance-of-a-classification-model-d4e34194c544>  
 
 # (6.)t-SNE:
 
@@ -102,11 +98,7 @@ Scikit-learn 包附带了 t-SNE 的实现，阅读[文档](https://scikit-learn.
 
 > 阅读下面提到的来自[distilt . pub](https://distill.pub/)的文章，了解如何有效地使用 t-SNE:
 
-[](https://distill.pub/2016/misread-tsne/) [## 如何有效地使用 t-SNE
-
-### 一种流行的探索高维数据的方法叫做 t-SNE，是由范德马滕和辛顿提出的…
-
-蒸馏. pub](https://distill.pub/2016/misread-tsne/) 
+<https://distill.pub/2016/misread-tsne/>  
 
 # (7.)UMAP:
 
@@ -116,11 +108,7 @@ UMAP 在数据的原始空间中构建了一个邻居图，并试图在更低维
 
 > 阅读 Scikit documentaion 的下述文章，了解如何有效地使用 UMAP:
 
-[](https://umap-learn.readthedocs.io/en/latest/basic_usage.html) [## 如何使用 UMAP - umap 0.5 文档
-
-### UMAP 是一种通用的流形学习和降维算法。它旨在与…兼容
-
-umap-learn.readthedocs.io](https://umap-learn.readthedocs.io/en/latest/basic_usage.html) 
+<https://umap-learn.readthedocs.io/en/latest/basic_usage.html>  
 
 # (9.)自动编码器:
 

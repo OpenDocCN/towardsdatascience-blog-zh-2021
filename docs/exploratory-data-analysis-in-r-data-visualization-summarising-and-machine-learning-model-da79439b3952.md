@@ -20,11 +20,7 @@
 
 如果您经常关注我的文章，您可能已经在 Python 中看到过另一个使用相同数据集的探索性数据分析项目。以下是链接:
 
-[](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) 
+</exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  
 
 我在这里使用相同的数据集来执行 r 中的探索性数据分析。
 
@@ -349,22 +345,6 @@ true _ positive/(true _ positive+0.5 *(false _ positive+false _ negative))= 0.81
 
 ## 更多阅读
 
-[](/a-complete-free-course-on-inferential-statistics-for-data-scientists-in-r-129483f5f522) [## 一个完全免费的 R 语言数据科学家推断统计学课程
+</a-complete-free-course-on-inferential-statistics-for-data-scientists-in-r-129483f5f522>  </a-complete-beginners-guide-to-data-visualization-in-ggplot2-121f1eee23cd>  </text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504>  </python-or-r-which-one-is-better-for-data-scientists-or-data-analysts-3be038f6c74c> [## Python 还是 R？数据科学家和数据分析师哪个好？
 
-towardsdatascience.com](/a-complete-free-course-on-inferential-statistics-for-data-scientists-in-r-129483f5f522) [](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [## 文本数据的探索性数据分析，包括可视化和情感分析
-
-towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [](/a-complete-beginners-guide-to-data-visualization-in-ggplot2-121f1eee23cd) [## ggplot2 中数据可视化的完全初学者指南
-
-### 这是一个丰富的图书馆。今天就开始使用吧
-
-towardsdatascience.com](/a-complete-beginners-guide-to-data-visualization-in-ggplot2-121f1eee23cd) [](/text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504) [## R 语言中文本文件的处理、清理和分类
-
-### 使用了一些很棒的包和 K 近邻分类器
-
-towardsdatascience.com](/text-files-processing-cleaning-and-classification-of-documents-in-r-394c6b4f1504) [](/python-or-r-which-one-is-better-for-data-scientists-or-data-analysts-3be038f6c74c) [## Python 还是 R？数据科学家和数据分析师哪个好？
-
-towardsdatascience.com](/python-or-r-which-one-is-better-for-data-scientists-or-data-analysts-3be038f6c74c) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
-
-### 我作为波士顿大学数据分析专业硕士学生的经历和体会
-
-towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41)
+towardsdatascience.com](/python-or-r-which-one-is-better-for-data-scientists-or-data-analysts-3be038f6c74c) </do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41> 

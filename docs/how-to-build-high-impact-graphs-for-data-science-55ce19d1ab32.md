@@ -96,19 +96,7 @@
 
 # 相关文章
 
-[](/how-to-build-a-narrative-from-data-85e327940c13) [## 如何从数据中构建叙事
-
-### 根据设置-冲突-解决范式分析数据的一些技巧
-
-towardsdatascience.com](/how-to-build-a-narrative-from-data-85e327940c13) [](/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5) [## ipyvizzu:用 Python 构建图表动画的快速库
-
-### ipyvizzu 库的概述，以及一个实际的例子。
-
-towardsdatascience.com](/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5) [](/can-context-analysis-help-extract-meaningful-insights-178a21a88e9f) [## 上下文分析能帮助提取有意义的见解吗？
-
-### 通过上下文分析从数据中提取有意义见解的三种策略
-
-towardsdatascience.com](/can-context-analysis-help-extract-meaningful-insights-178a21a88e9f) 
+</how-to-build-a-narrative-from-data-85e327940c13>  </ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5>  </can-context-analysis-help-extract-meaningful-insights-178a21a88e9f>  
 
 # 我们能说数据科学家是数据记者吗？
 

@@ -58,11 +58,7 @@
 
 **类似文章:**
 
-[](/novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b) [## 基于速度转移矩阵的道路交通异常度量新方法
-
-### 利用 GPS 交通数据测量道路网络异常水平的新方法
-
-towardsdatascience.com](/novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b) 
+</novel-road-traffic-anomaly-metric-based-on-speed-transition-matrices-f2faf7d3b38b>  
 
 # 参考
 

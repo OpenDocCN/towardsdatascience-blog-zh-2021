@@ -10,7 +10,7 @@
 
 托拜厄斯·菲舍尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
-作为一名科学家，我们可能都已经知道这一职业。哈佛商业评论**报道称，这一职业曾被称为[](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)*“21 世纪最性感的工作”。尽管数据科学家的趋势比前几年有所下降，但是，数据科学家仍然是一个需求量很大的职业。***
+作为一名科学家，我们可能都已经知道这一职业。哈佛商业评论**报道称，这一职业曾被称为<https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century>*“21 世纪最性感的工作”。尽管数据科学家的趋势比前几年有所下降，但是，数据科学家仍然是一个需求量很大的职业。***
 
 *目前，大学、课程或其他地方有许多课程提供成为数据科学家的课程。广泛用于学习数据科学的工具之一是参加在线课程( **Udemy** 、 **Coursera** 、 **Datacamp** 等)。).原因是，与我们必须参加讲座相比，时间相对较短，我们可以随时随地访问它。*
 

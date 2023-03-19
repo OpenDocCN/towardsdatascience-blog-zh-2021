@@ -115,11 +115,7 @@
 
 ****下面，我就分享一些例子。要了解更多细节，请查看参考资料和类似的文章:****
 
-****[](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [## 数据可视化 101:如何选择图表类型
-
-### 如何选择最能描述数据的图表类型
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) 
+****</data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6>  
 
 ## A.条形图而不是饼图
 

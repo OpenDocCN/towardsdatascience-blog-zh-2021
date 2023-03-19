@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将从课程的第一单元开始，最优化理论。在上一篇文章中，我们介绍了课程的基本概况，你可以在这里查看:
 
-[](/evolutionary-computation-full-course-overview-f4e421e945d9) [## 进化计算(完整课程)概述
-
-### 关于我将在这个全新的系列中涉及的材料、概念和应用的介绍性帖子！
-
-towardsdatascience.com](/evolutionary-computation-full-course-overview-f4e421e945d9) 
+</evolutionary-computation-full-course-overview-f4e421e945d9>  
 
 首先，最优化理论到底是什么？最优化理论是数学的一个分支，致力于解决最优化问题。优化问题是数学函数，我们希望最小化或最大化函数值。这类问题在计算机科学和应用数学中大量存在。找到这些问题的良好解决方案是赋予数据科学和机器学习模型良好准确性的原因，因为它们本身是建立在用于找到良好解决方案以最小化误差函数的数值方法之上的。机器学习中常见的优化问题的例子是最小化 MSE、MAE、交叉熵等。
 
@@ -184,8 +180,4 @@ x 轴上是 F1 值，y 轴上是 F2 值。在这种情况下，我们希望最�
 
 单元 1 的优化理论到此结束，请继续关注单元 2 的进化计算介绍，这是一种解决优化类型问题的方法:
 
-[](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-towardsdatascience.com](/unit-2-introduction-to-evolutionary-computation-85764137c05a)
+</unit-2-introduction-to-evolutionary-computation-85764137c05a> 

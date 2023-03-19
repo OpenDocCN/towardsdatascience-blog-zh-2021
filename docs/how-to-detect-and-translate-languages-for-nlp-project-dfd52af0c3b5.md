@@ -124,16 +124,4 @@ Natumai kwamba, nitakapojiwekea akiba, nitaweza kusafiri kwenda Mexico
 
 *****最后一件事:*** *在以下链接中阅读更多类似这样的文章。***
 
-**[](https://medium.com/datadriveninvestor/how-to-deploy-your-nlp-model-to-production-as-an-api-with-algorithmia-e4081854d524) [## 如何使用 Algorithmia 将您的 NLP 模型作为 API 部署到生产中
-
-### 一种在无服务器产品上逐步部署 NLP 模型的简单方法。
-
-medium.com](https://medium.com/datadriveninvestor/how-to-deploy-your-nlp-model-to-production-as-an-api-with-algorithmia-e4081854d524) [](https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a) [## 如何使用 Texthero 为您的 NLP 项目准备基于文本的数据集
-
-### 一个简单的 python 工具包，可以快速、轻松地处理基于文本的数据集。
-
-chatbotslife.com](https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a) [](https://davis-david.medium.com/meet-the-winners-of-swahili-news-classification-challenge-60f5edd7aa9) [## 认识斯瓦希里语新闻分类挑战赛的获胜者
-
-### 首届 Zindi 非洲 NLP 虚拟黑客马拉松关注非洲语言。
-
-davis-david.medium.com](https://davis-david.medium.com/meet-the-winners-of-swahili-news-classification-challenge-60f5edd7aa9)**
+**<https://medium.com/datadriveninvestor/how-to-deploy-your-nlp-model-to-production-as-an-api-with-algorithmia-e4081854d524>  <https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a>  <https://davis-david.medium.com/meet-the-winners-of-swahili-news-classification-challenge-60f5edd7aa9> **

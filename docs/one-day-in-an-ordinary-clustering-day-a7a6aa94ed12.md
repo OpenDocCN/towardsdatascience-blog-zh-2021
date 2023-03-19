@@ -12,7 +12,7 @@
 
 我原以为为我的目标找到正确的数据是小菜一碟，但现在回想起来，我不得不承认这并不容易。反正我最终在 Kaggle 上找到了数据集，[这里](https://www.kaggle.com/sarangpurandare/83k-football-players-103-stats-per-season)。
 
-> 在我们开始我们的奸诈之旅之前，想提一下，所有代码你都可以在这里找到[](https://nbviewer.jupyter.org/github/MEgamroder/ML_activities/blob/master/Football%20clustering%20final.ipynb)****。****
+> 在我们开始我们的奸诈之旅之前，想提一下，所有代码你都可以在这里找到<https://nbviewer.jupyter.org/github/MEgamroder/ML_activities/blob/master/Football%20clustering%20final.ipynb>****。****
 
 **首先，在深入集群定义之前，我们应该采取几个步骤:**
 

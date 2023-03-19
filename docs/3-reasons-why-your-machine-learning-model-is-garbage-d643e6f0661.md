@@ -60,19 +60,7 @@
 
 **iv)微调模型，以匹配或减少问题的实际复杂性和模型复杂性之间的差距**
 
-[](/python-vs-r-for-data-science-cf2699dfff4b) [## Python 与 R 在数据科学中的对比
-
-### 为什么你在浪费时间
-
-towardsdatascience.com](/python-vs-r-for-data-science-cf2699dfff4b) [](/5-stages-of-learning-data-science-40bca61f11b1) [## 学习数据科学的 5 个阶段
-
-### 以及如何战胜它们
-
-towardsdatascience.com](/5-stages-of-learning-data-science-40bca61f11b1) [](/understanding-the-relational-model-of-database-management-systems-56f17db99f56) [## 理解数据库管理系统的关系模型
-
-### 以及为什么它在整个行业如此受欢迎
-
-towardsdatascience.com](/understanding-the-relational-model-of-database-management-systems-56f17db99f56) 
+</python-vs-r-for-data-science-cf2699dfff4b>  </5-stages-of-learning-data-science-40bca61f11b1>  </understanding-the-relational-model-of-database-management-systems-56f17db99f56>  
 
 > 附言:更多关于数据科学、编程以及生物学家如何在数据革命中导航的简明扼要的文章，请关注我的[博客](https://sukanta-saha.medium.com/)。
 > 

@@ -72,11 +72,7 @@ MacQueen 的初始化方式和 Lloyd 一样。两者之间的唯一区别是，�
 
 最后，我想提一下，有多种方法来选择初始质心，以改善劳埃德和麦克奎恩。如果想了解更多，建议看下面这篇文章。
 
-[](https://medium.com/analytics-vidhya/comparison-of-initialization-strategies-for-k-means-d5ddd8b0350e) [## k-Means 初始化策略的比较
-
-### k-Means 是一种数据划分算法，是聚类算法中最直接的选择之一。一些…
-
-medium.com](https://medium.com/analytics-vidhya/comparison-of-initialization-strategies-for-k-means-d5ddd8b0350e) 
+<https://medium.com/analytics-vidhya/comparison-of-initialization-strategies-for-k-means-d5ddd8b0350e>  
 
 # 参考
 

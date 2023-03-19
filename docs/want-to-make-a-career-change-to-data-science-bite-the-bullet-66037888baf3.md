@@ -30,15 +30,7 @@
 
 第二，尝试不同的学习方法:看视频应该是你最后的手段。所以，通过阅读、理解和尝试复制别人的代码来练习。你可以使用 [Kaggle](https://www.kaggle.com/) 和 [GitHub](https://github.com/boemer00/Python-Data-Science-Handbook/blob/dependabot/pip/pillow-6.2.0/notebooks/Index.ipynb) 来找到写得好且简洁的代码，不管你的水平如何。还有，业余时间看数据科学方面的书。你可以完全避开技术书籍或教科书，寻找不同的类型。世界排名第一的棋手芒努斯·卡尔森，不下棋的时候，他就在读关于象棋和历史上著名棋手的书**【2】**。也就是说，这里有一些开始的想法:
 
-[](https://www.goodreads.com/book/show/39813845-the-art-of-statistics) [## 统计的艺术
-
-### 统计学思维的权威指南统计学无处不在，对科学和商业一样不可或缺…
-
-www.goodreads.com](https://www.goodreads.com/book/show/39813845-the-art-of-statistics) [](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction?ac=1&from_search=true&qid=yedjexfopY&rank=1) [## 摧毁数学的武器
-
-### 作者探讨了算法所产生的伦理和道德困境，这些算法本身就包含了…
-
-www.goodreads.com](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction?ac=1&from_search=true&qid=yedjexfopY&rank=1) 
+<https://www.goodreads.com/book/show/39813845-the-art-of-statistics>  <https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction?ac=1&from_search=true&qid=yedjexfopY&rank=1>  
 
 ## **3。该系统不是为职业变化而设计的**
 
@@ -75,19 +67,7 @@ www.goodreads.com](https://www.goodreads.com/book/show/28186015-weapons-of-math-
 
 **感谢阅读。这里有一些你会喜欢的文章:**
 
-[](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [## 数据科学家的最佳工作城市
-
-### 硅谷不是你唯一的选择。世界各地都需要数据科学家，说英语和法语可能…
-
-towardsdatascience.com](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [## 是什么让一个数据科学家脱颖而出？
-
-### 越来越多的人痴迷于硬技能，但软技能可以让你脱颖而出。
-
-towardsdatascience.com](/what-makes-a-data-scientist-stand-out-e8822f466d4c) [](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) [## 将改变商业战略的数据科学趋势
-
-### 从个人技能到业务发展，数据专业人士在未来几年有很多机会。
-
-towardsdatascience.com](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) 
+</best-cities-to-work-as-a-data-scientist-a295ff60c6ef>  </what-makes-a-data-scientist-stand-out-e8822f466d4c>  </trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7>  
 
 **参考文献:**
 

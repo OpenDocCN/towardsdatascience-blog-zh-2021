@@ -14,7 +14,7 @@
 
 那是我深入播客世界的地方。我可以用来学习新事物的技术播客，可以帮助我更好地了解就业市场的职业播客，以及许多其他类型的播客。播客是一种无需在特定地点甚至特定时间学习的好方法。2020 年是激动人心的一年。这是许多新播客出现的原因。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -32,7 +32,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 Code Newbie podcast 还提供了开发人员和程序员关于他们的学习和职业生涯的故事，您可以使用这些故事来推进和简化您自己的旅程。这个播客经常一个月分享 4~6 集，平均每集 30~55 分钟。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -54,11 +54,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 开发者茶由程序员兼开发者 [Jonathan Cutrell](https://twitter.com/jcutrell) 主持，旨在帮助开发者在职业生涯中脱颖而出，并对技术世界产生积极影响。截至本文撰写之时，该播客已有超过 1300 万次下载。这个播客的另一个优点是，你可以通过乔纳森的 Twitter 账户或电子邮件与其讨论。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №6:和我一起学习编码
 
@@ -72,10 +68,6 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 我在做日常家务时最喜欢做的事情是听一两个播客，在打扫、吸尘或烹饪时学习一些新东西，并有效利用我的时间。听播客不需要你在特定时间保持静止或收听，这使它成为忙碌的人或习惯于多任务处理的人的理想学习资源。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 这就是为什么我决定写这篇文章来和你分享 6 个我最喜欢的编程播客，给各个层次的人；无论您是刚开始编程，还是已经在这个领域工作并需要刷新您的记忆，您都会在这些播客中找到您需要的内容。所以，下次你发现自己在做无聊的家务时，收听这些播客，享受学习的乐趣。

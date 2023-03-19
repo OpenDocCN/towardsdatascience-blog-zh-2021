@@ -124,10 +124,6 @@
 
 我希望你喜欢我的文章，并感到鼓舞，开始建设。如果您想阅读更多关于高级编程项目的内容，请查看我下面的系列文章:
 
-[](https://betterprogramming.pub/7-advanced-projects-to-improve-your-programming-skills-f05d7875104) [## 提高编程技能的 7 个高级项目
-
-### 走出你的舒适区，提升你的技能
-
-better 编程. pub](https://betterprogramming.pub/7-advanced-projects-to-improve-your-programming-skills-f05d7875104) 
+<https://betterprogramming.pub/7-advanced-projects-to-improve-your-programming-skills-f05d7875104>  
 
 **感谢阅读！**

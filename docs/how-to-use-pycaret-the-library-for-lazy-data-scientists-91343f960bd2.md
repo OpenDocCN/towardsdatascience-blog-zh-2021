@@ -192,11 +192,7 @@ evaluate_model(tuned_catboost)
 
 **解释模型**函数是解释模型预测的有用工具。这个函数使用一个名为 SHAP 的可解释机器学习库，我在下面的文章中提到过。
 
-[](/how-to-make-your-machine-learning-models-more-explainable-f20f75928f37) [## 如何让你的机器学习模型更容易解释
-
-### 尤其是在向非技术人员演示时。
-
-towardsdatascience.com](/how-to-make-your-machine-learning-models-more-explainable-f20f75928f37) 
+</how-to-make-your-machine-learning-models-more-explainable-f20f75928f37>  
 
 只用一行代码，我们就可以为模型创建一个 SHAP [蜂群图](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)。
 

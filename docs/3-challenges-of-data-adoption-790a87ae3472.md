@@ -95,7 +95,7 @@
 
 这些都是有意义的挑战，但并非不可能解决。一种勤奋、务实、善解人意的方法可以帮助我们在业务和数据之间架起一座桥梁，承载不断增加和变化的双向流量。
 
-*这篇文章的故事是为一个名为* [***【准备您的数据以供从一线到高管团队采用】***](https://www.keboola.com/webinars/prepare-your-data-for-adoption-from-the-front-line-to-the-c-suite#watchVideo) *的网络研讨会而创作的，由来自*[*Keboola*](https://www.keboola.com)*和*[*thought spot*](https://www.thoughtspot.com)*的同事共同完成。这段录音可以在这里找到*[](https://www.youtube.com/watch?v=VCrnuUAsHqY)**。**
+*这篇文章的故事是为一个名为* [***【准备您的数据以供从一线到高管团队采用】***](https://www.keboola.com/webinars/prepare-your-data-for-adoption-from-the-front-line-to-the-c-suite#watchVideo) *的网络研讨会而创作的，由来自*[*Keboola*](https://www.keboola.com)*和*[*thought spot*](https://www.thoughtspot.com)*的同事共同完成。这段录音可以在这里找到*<https://www.youtube.com/watch?v=VCrnuUAsHqY>**。**
 
 *一如既往，我无限感激切尔西·威尔金森耐心地将我的想法塑造成可出版的形式。*
 

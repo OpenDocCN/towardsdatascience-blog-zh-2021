@@ -12,11 +12,7 @@
 
 故事开始于大约一年前，当时我构建了一个名为 [Owl](https://rapidapi.com/pedram.ataee/api/word-similarity/) 的单词相似度服务。我还创建了一系列 REST API 供社区使用这项服务。API 可在[这里](https://rapidapi.com/pedram.ataee/api/word-similarity/)获得。这是我的一个爱好项目。就我想让它对数据科学社区可用而言，我不想为在云基础架构上托管它支付太多费用。在本文中，我想与您分享如何在您的本地计算机上托管数据科学服务，并在不到 30 秒的时间内将其公开到互联网。我没有夸大其词。如果你想了解更多关于 OWL API 的知识，你可以阅读下面的文章。
 
-[](/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) [## 如何计算词语相似度——比较分析
-
-### Owl API 是一个强大的单词相似性服务，使用高级文本聚类技术和各种 word2vec 模型
-
-towardsdatascience.com](/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) 
+</how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080>  
 
 ## —远离大牌。
 
@@ -72,8 +68,4 @@ towardsdatascience.com](/how-to-compute-word-similarity-a-comparative-analysis-e
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

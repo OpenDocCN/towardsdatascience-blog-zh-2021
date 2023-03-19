@@ -10,11 +10,7 @@ Geran de Klerk 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果你还没有，你应该读一读我写的关于决策树的文章。
 
-[](/decision-trees-ac091793070) [## 决策树的非技术性指南
-
-### 现代的、基于树的模型的构建模块…
-
-towardsdatascience.com](/decision-trees-ac091793070) 
+</decision-trees-ac091793070>  
 
 理解决策树及其缺陷对于理解随机森林为什么存在以及它为什么强大至关重要。
 
@@ -227,20 +223,8 @@ Random Forest 通过以下方式解决这些问题:
 
 ## 更多数据科学文章:
 
-[](https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c) [## 面向数据科学家的高级 SQL
-
-### 掌握 SQL 以节省时间和炫耀
-
-medium.com](https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c) [](/decision-trees-ac091793070) [## 决策树的非技术性指南
-
-### 现代的、基于树的模型的构建模块…
-
-towardsdatascience.com](/decision-trees-ac091793070) 
+<https://medium.com/analytics-vidhya/advanced-sql-for-data-scientists-8e99a3c7f24c>  </decision-trees-ac091793070>  
 
 ## 联系我:
 
-[](https://www.linkedin.com/in/adamshafi/) [## Adam Shafi -数据科学沉浸式大会| LinkedIn
-
-### 拥有 4 年以上分析经验的数据科学家，包括管理团队、交付项目和转变…
-
-www.linkedin.com](https://www.linkedin.com/in/adamshafi/)
+<https://www.linkedin.com/in/adamshafi/> 

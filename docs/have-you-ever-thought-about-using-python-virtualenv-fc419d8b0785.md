@@ -114,30 +114,10 @@ virtualenv --clear path_to_my_venv
 
 # 相关文章
 
-[](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
+</how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
 
-towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [## python 熊猫的基本统计数据
-
-### 入门指南
-
-medium.com](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [## 如何设计一个数据新闻故事
-
-### 如何设计一个数据新闻故事
-
-如何设计一个数据新闻 Storyalod83.medium.com](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) 
+towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) <https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62>  <https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e>  
 
 # 参考
 
-[](https://medium.com/@shivangisareen/for-anyone-using-jupyter-notebook-installing-packages-18a9468d0c1c) [## 对于任何使用 Jupyter 笔记本的人-安装软件包
-
-### 全局和本地安装软件包
-
-medium.com](https://medium.com/@shivangisareen/for-anyone-using-jupyter-notebook-installing-packages-18a9468d0c1c) [](https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available) [## 在虚拟环境中运行 Jupyter 笔记本电脑 v:安装的 sklearn 模块不可用
-
-### 我已经安装了一个创建了 virtualenv machinelearn 并且安装了几个 python 模块(pandas，scipy 和 sklearn)在…
-
-stackoverflow.com](https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available) [](https://janakiev.com/blog/jupyter-virtual-envs/) [## 在 Jupyter Notebook 和 Python 中使用虚拟环境
-
-### 你在用 Jupyter Notebook 和 Python 吗？您是否也想从虚拟环境中获益？在这个…
-
-janakiev.com](https://janakiev.com/blog/jupyter-virtual-envs/)
+<https://medium.com/@shivangisareen/for-anyone-using-jupyter-notebook-installing-packages-18a9468d0c1c>  <https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available>  <https://janakiev.com/blog/jupyter-virtual-envs/> 

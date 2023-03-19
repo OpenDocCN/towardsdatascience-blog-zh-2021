@@ -283,8 +283,4 @@ df = pd.DataFrame(data, columns = ['Date', 'Title', 'Subtitle', 'Author', 'Publi
 
 所有源代码可在以下 GitHub repo 获得:
 
-[](https://github.com/sejaldua/digesting-the-digest) [## GitHub-sejaldua/digesting-the-digest:使用 Gmail API 对我推荐的媒体进行主题建模…
-
-### 使用 Gmail API 对我推荐的媒体进行主题建模
-
-github.com](https://github.com/sejaldua/digesting-the-digest)
+<https://github.com/sejaldua/digesting-the-digest> 

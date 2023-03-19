@@ -82,4 +82,4 @@
 
 如今，拥有一个出色的商业智能系统对每个企业来说都非常重要。对公司的内部流程和外部健康保持积极的警惕对于当今快节奏的业务至关重要。利用数据改善公司应该是企业核心价值不可或缺的一部分。数据被认为是 21 世纪的石油，BI 就像一盏灯，从中提供价值。
 
-*原载于 2021 年 5 月 12 日 https://praneethvasarla.com*[](https://praneethvasarla.com/7-reasons-why-business-intelligence-bi-is-crucial/)**。**
+*原载于 2021 年 5 月 12 日 https://praneethvasarla.com*<https://praneethvasarla.com/7-reasons-why-business-intelligence-bi-is-crucial/>**。**

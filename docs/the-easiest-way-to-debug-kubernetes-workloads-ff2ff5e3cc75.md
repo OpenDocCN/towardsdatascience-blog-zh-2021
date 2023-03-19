@@ -76,16 +76,4 @@
 
 *本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/49?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_49)
 
-[](https://itnext.io/cloud-native-ci-cd-with-tekton-laying-the-foundation-a377a1b59ac0) [## 使用 Tekton 的云原生 CI/CD—奠定基础
-
-### 是时候通过 Tekton Pipelines 在 Kubernetes 上开始您的云原生 CI/CD 之旅了…
-
-itnext.io](https://itnext.io/cloud-native-ci-cd-with-tekton-laying-the-foundation-a377a1b59ac0) [](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [## 用 seccomp 强化 Docker 和 Kubernetes
-
-### 您的容器可能不像您想象的那样安全，但是 seccomp 配置文件可以帮助您解决这个问题…
-
-itnext.io](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [](/networking-tools-every-developer-needs-to-know-e17c9159b180) [## 每个开发人员都需要知道的网络工具
-
-### 让我们学习被忽视的网络技能，如检查 DNS 记录，扫描端口，排除连接故障…
-
-towardsdatascience.com](/networking-tools-every-developer-needs-to-know-e17c9159b180)
+<https://itnext.io/cloud-native-ci-cd-with-tekton-laying-the-foundation-a377a1b59ac0>  <https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111>  </networking-tools-every-developer-needs-to-know-e17c9159b180> 

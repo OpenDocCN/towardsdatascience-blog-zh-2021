@@ -270,4 +270,4 @@ aws s3 --profile lambda-model rm s3://${BUCKET_NAME}/model.pkl
 
 最后，我们可以通过远程运行培训(例如使用 ECS)、添加版本控制和 CloudWatch 警报来改进我们的模型基础设施。如果需要，我们可以添加一个过程来保持 Lambda 的温度，因为冷启动需要几秒钟。我们还应该向端点添加身份验证。
 
-*原载于*[](https://blog.telsemeyer.com/2021/01/10/building-a-serverless-containerized-machine-learning-model-api-using-terraform-aws-lambda-api-gateway-and/)**。**
+*原载于*<https://blog.telsemeyer.com/2021/01/10/building-a-serverless-containerized-machine-learning-model-api-using-terraform-aws-lambda-api-gateway-and/>**。**

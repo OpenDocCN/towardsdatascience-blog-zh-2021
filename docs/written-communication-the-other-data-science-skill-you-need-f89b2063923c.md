@@ -95,19 +95,7 @@ Matthew T Rader 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 感谢你阅读这篇文章。如果你想阅读类似的帖子，请查看我下面的更多内容:
 
-[](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c) [## 为什么专注对您的数据科学之旅至关重要
-
-### 以及它将如何节省您进入该领域的时间
-
-towardsdatascience.com](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c) [](/11-tips-for-you-from-my-data-science-journey-df884faa9f3) [## 我的数据科学之旅给你的 11 个建议。
-
-### 帮助您更成功地进入数据科学的提示。
-
-towardsdatascience.com](/11-tips-for-you-from-my-data-science-journey-df884faa9f3) [](/a-potential-data-science-foundation-for-math-backgrounds-188b03b9f1ff) [## 数学背景的潜在数据科学基础
-
-### 帮助您开始学习数据科学的课程指南
-
-towardsdatascience.com](/a-potential-data-science-foundation-for-math-backgrounds-188b03b9f1ff) 
+</why-focus-is-key-for-your-data-science-journey-b62715b2a1c>  </11-tips-for-you-from-my-data-science-journey-df884faa9f3>  </a-potential-data-science-foundation-for-math-backgrounds-188b03b9f1ff>  
 
 如果你有任何问题，请随时在 Linkedin 和 Twitter 上发表评论或联系我们。对 Twitter 上的 DM 开放。
 

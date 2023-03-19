@@ -296,7 +296,7 @@ $ kill -9 19118 # Send SIGKILL to the process specified with the ID
 
 *这是因为`VideoTransformTrack.recv()`逐个处理所有的输入帧——如果它延迟，产生输出帧也会延迟。*
 
-*为了解决这个问题，`VideoTransformTrack.recv()`不得不在每次运行时丢弃一些输入帧并选择最新的一个。在`streamlit-webrtc`中，当`[async_transform](https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/__init__.py#L98)` [](https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/__init__.py#L98)选项设置为`True`时，在这里[完成。](https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/transform.py#L97-L98)*
+*为了解决这个问题，`VideoTransformTrack.recv()`不得不在每次运行时丢弃一些输入帧并选择最新的一个。在`streamlit-webrtc`中，当`[async_transform](https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/__init__.py#L98)` <https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/__init__.py#L98>选项设置为`True`时，在这里[完成。](https://github.com/whitphx/streamlit-webrtc/blob/f03d3150adfa27c44bb7f2d22d495351090d9341/streamlit_webrtc/transform.py#L97-L98)*
 
 *![](img/4965fb56646deb046db46c0c15c84872.png)*
 

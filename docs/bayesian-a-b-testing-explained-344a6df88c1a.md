@@ -10,11 +10,7 @@
 
 A/B 测试在各个行业都有很多应用。从试图确定最佳市场群体到医疗药物测试，它有各种应用，并允许企业根据结果做出决策。有两种常用的方法来进行 A/B 测试，频率主义方法和贝叶斯方法，这两种方法都是从假设测试的基础开始的。在本文中，我将介绍贝叶斯方法在 A/B 测试中的解释和实现。这篇文章假设你对实践中的 A/B 测试有一个很好的理解，如果没有，你可以在这里了解更多关于它和频率主义方法[。](/frequentist-a-b-testing-explained-90b9ce8c28b9)
 
-[](/frequentist-a-b-testing-explained-90b9ce8c28b9) [## Frequentist A/B 测试说明
-
-### 本文将解释 A/B 测试的 frequentist 方法，并提供一个何时以及如何…
-
-towardsdatascience.com](/frequentist-a-b-testing-explained-90b9ce8c28b9) 
+</frequentist-a-b-testing-explained-90b9ce8c28b9>  
 
 **目录**
 
@@ -125,16 +121,4 @@ Bayesian    : p(ῦ | data)
 
 如果您喜欢这篇文章，您可能也会感兴趣:
 
-[](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca)
+</monte-carlo-method-explained-8635edf2cf58>  </markov-chain-explained-210581d7a4a9>  </random-walks-with-restart-explained-77c3fe216bca> 

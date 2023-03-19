@@ -16,11 +16,7 @@ Python 无疑已经脱颖而出，并在许多方面证明了自己是一种有�
 
 现在，数据科学领域已经成为数据管理概念的代名词，并且已经为 Python 程序员提供了 Pandas.py 这个光荣的礼物。这已经成为管理数据的行业标准，不仅是在 Python 编程方面，而且基本上是整个数据科学学科。不用说，Pandas 是一个非常棒的软件包，任何有抱负的数据科学家、数据工程师，甚至在某些情况下软件工程师都应该学习。熊猫可以被认为是一种工具，掌握你工具箱中的所有工具是很重要的。考虑到这一点，我决定采用一些相对不为人知的熊猫技巧，我发现这些技巧对数据科学非常有价值。希望这些提示能帮助程序员成为熊猫图书馆的绝对专家！另外，对于那些希望看到本文中的代码运行的人来说，您也可以查看笔记本(我在本文中使用的 ipynb)文件如下:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/7%20Of%20My%20Favorite%20Pandas%20Tricks.ipynb) [## Emmetts-DS-NoteBooks/7 我最喜欢的熊猫戏法
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/7%20Of%20My%20Favorite%20Pandas%20Tricks.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/7%20Of%20My%20Favorite%20Pandas%20Tricks.ipynb>  
 
 ## 创建数据框
 
@@ -36,19 +32,11 @@ import pandas as pddf = pd.DataFrame({"A" : [5, 10, 15, 20], "B" : ['a', 'c', 'c
 
 无论如何，有点跑题了——但是如果你想看看我的 Julia 包(即使你不写 Julia，只写 Python，我想你会欣赏我正在做的事情)，这里有一个 OddFrames 的 Github 的链接。jl:
 
-[](https://github.com/ChifiSource/OddFrames.jl) [## GitHub-chifi source/odd frames . JL:面向对象的、基于 dict 的 DataFrames 包！
-
-### jl 是 Julia 的一种新的数据管理和操作包。然而，许多类似的软件包…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl) 
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 我感谢所有的支持给这个包的发展(观点，拉请求，叉，克隆，明星)它意味着我的世界。即使在试图解析简单的逗号分隔值(。CSV)文件，我遇到了很多问题，尤其是在输入方面。我还写了一篇关于那场灾难的文章——如果你也想看的话，你当然也可以在这里看到:
 
-[](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) [## 我在 Julia 中创建 CSV 阅读器时经历的痛苦
-
-### 想知道 CSV 文件是如何解析的吗？这是字符串处理的好方法！
-
-towardsdatascience.com](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) 
+</the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c>  
 
 我跑题了，咆哮着说像熊猫这样的东西实际上是多么难以创建，现在让我们讨论什么是访问器——以及它们如何应用于这种类型的问题。访问器只是一个简单的解决方案，可以用来以令人难以置信的流畅轻松实现 Pandas 库中的新类型和更改。访问器扩展了 Pandas 的功能，并提供了特定的操作。当然，这取决于类型。在 Pandas 中实现访问器的一个很好的例子是日期-时间访问器。
 
@@ -100,11 +88,7 @@ data **=** pd.read_clipboard()PyperclipException                        Tracebac
 
 为了改变数据的显示方式，我们需要使用 pd.get_option()和 pd.set_option()方法。可以想象，get_option()方法返回当前设置，set_option()方法更改所述设置。要获得可更改选项的完整列表，您可以在此处阅读 Pandas 文档:
 
- [## 选项和设置- pandas 1.3.3 文档
-
-### 熊猫有一个选项系统，让你定制它的行为的某些方面，显示相关的选项是那些…
-
-pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html#available-options) 
+  
 
 与该表一起，将该示例用作模板并插入任何想要更改给定选项应该相对容易:
 
@@ -166,11 +150,7 @@ Name: A, dtype: int64
 
 显然，这是一些写得非常好的 Python 代码…为什么？因为它很简单，利用了已经存在的 Python，比我们用这种语言编写的任何迭代循环都更有效，而且它读起来像英语。当然，这是在读者分别理解这些方法的应用的前提下。此外，我还有一篇文章，更详细地介绍了 lambda 及其在科学上的应用，如果你感兴趣，可以在这里阅读:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 # 结论
 

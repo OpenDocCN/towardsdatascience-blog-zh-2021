@@ -78,10 +78,6 @@ Looker 和 Tableau 是低代码数据可视化领域的两大玩家。如果你�
 
 *不知道接下来要读什么？您可能会对以下数据科学相关文章感兴趣:*
 
-[](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
+</5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba> [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
 
-towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00) [## 避免这五种让你看起来像数据新手的行为
-
-### 成为一个值得信赖、讨人喜欢的数据合作伙伴
-
-medium.com](https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00)
+towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) <https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00> 

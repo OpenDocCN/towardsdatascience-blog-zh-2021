@@ -167,11 +167,7 @@ Lambda 函数作为列表理解|作者图片中的一行程序
 
 🚩5 个最强大的一行程序甚至可以进一步提高你的编码。
 
-[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) [## Python 编程中您应该知道的 5 个最强大的一行程序
-
-### 一行程序保持你的代码干净、清晰、简短和易于理解。
-
-towardsdatascience.com](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) 
+</5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3>  
 
 现在可以通过 [***在这里报名成为中会员***](https://medium.com/@17.rsuraj/membership) 阅读我和其他作家发表的所有故事。如果你这样做，我会得到你的费用的一小部分。请随意加入我的[电子邮件列表](https://medium.com/subscribe/@17.rsuraj)来保持对我写作的更新。
 

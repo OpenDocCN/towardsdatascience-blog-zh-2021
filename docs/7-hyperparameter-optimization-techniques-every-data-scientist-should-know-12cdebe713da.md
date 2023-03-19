@@ -65,7 +65,7 @@ Scikit-Learn 包还附带了 RandomSearchCV 实现。
 
 > 阅读下面提到的文章中的[，了解将网格搜索 CV 减半如何将超参数优化速度提高 20 倍。](/20x-times-faster-grid-search-cross-validation-19ef01409b7c)
 
-[](/20x-times-faster-grid-search-cross-validation-19ef01409b7c) [## 网格搜索交叉验证速度提高 20 倍
+</20x-times-faster-grid-search-cross-validation-19ef01409b7c> [## 网格搜索交叉验证速度提高 20 倍
 
 towardsdatascience.com](/20x-times-faster-grid-search-cross-validation-19ef01409b7c) 
 

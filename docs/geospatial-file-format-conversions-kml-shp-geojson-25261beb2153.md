@@ -16,11 +16,7 @@
 
 ## 注意:对于任何想了解 browserify 的人，请参考下面的文章🙃
 
-[](https://medium.com/weekly-webtips/import-use-npm-modules-in-the-browser-easily-e70d6c84fc31) [## 在浏览器中轻松导入和使用 NPM 模块
-
-### 逐步使用 Browserify —完整代码+使用案例演示
-
-medium.com](https://medium.com/weekly-webtips/import-use-npm-modules-in-the-browser-easily-e70d6c84fc31) 
+<https://medium.com/weekly-webtips/import-use-npm-modules-in-the-browser-easily-e70d6c84fc31>  
 
 然后在不到一个小时的时间里，我终于创建了我自己的离线空间文件转换工具，没有使用限制🤩
 
@@ -42,8 +38,4 @@ medium.com](https://medium.com/weekly-webtips/import-use-npm-modules-in-the-brow
 
 ## 非常感谢您阅读这篇文章，希望您发现它对您的使用案例有用。如果您想了解更多地理空间相关内容，请随时关注我的 [Medium](https://geek-cc.medium.com/) 。会非常感激😀
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

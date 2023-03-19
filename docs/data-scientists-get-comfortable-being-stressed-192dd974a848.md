@@ -16,11 +16,7 @@
 
 哪里有炒作，哪里就一定有人群。我是不是无意中说了围绕人工智能和大数据有很多炒作？当然，这可能是数据科学被称为 21 世纪最性感工作的结果。然而，我**不是**说的是避免卷入人工智能和大数据。
 
-[](/data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71) [## 数据科学:不知道 2021 年还性感吗
-
-### 了解数据科学是否仍然有吸引力，它是否适合你
-
-towardsdatascience.com](/data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71) 
+</data-science-i-wonder-if-its-still-sexy-in-2021-b68006c78f71>  
 
 大数据和人工智能将在本世纪人类的进步中发挥重要作用，我希望有更多不同背景的人出于正确的原因参与这一历史关键时刻，例如为他人提供必要的资源以提高生产力，人类的爱，以及解决世界上一些最困难问题的纯粹快乐。
 
@@ -79,16 +75,4 @@ towardsdatascience.com](/data-science-i-wonder-if-its-still-sexy-in-2021-b68006c
 
 ## 如果你喜欢这个，你可能也会喜欢:
 
-[](/3-traits-all-great-data-scientist-have-c43ab2de6e64) [## 所有伟大的数据科学家都具有的 3 个特质
-
-### 你可以开始为自己工作了
-
-towardsdatascience.com](/3-traits-all-great-data-scientist-have-c43ab2de6e64) [](/a-sure-way-to-improve-your-data-science-skills-8d564f9fe995) [## 提高数据科学技能的可靠方法
-
-### 有意提高我们的技能
-
-towardsdatascience.com](/a-sure-way-to-improve-your-data-science-skills-8d564f9fe995) [](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96) [## 克服数据科学骗子综合症的 5 招
-
-### 从我个人的经验来看…
-
-towardsdatascience.com](/5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96)
+</3-traits-all-great-data-scientist-have-c43ab2de6e64>  </a-sure-way-to-improve-your-data-science-skills-8d564f9fe995>  </5-hacks-to-overcome-data-science-imposter-syndrome-47cc45032e96> 

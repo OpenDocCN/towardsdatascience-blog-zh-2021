@@ -91,8 +91,4 @@
 
 要更深入地了解概念漂移，请查看我的相关文章:
 
-[](/concept-drift-can-ruin-your-model-performance-and-how-to-address-it-dff08f97e29b) [## 概念漂移会破坏您的模型性能，以及如何解决它
-
-### 数据中概念漂移和状态变化的严格分析
-
-towardsdatascience.co](/concept-drift-can-ruin-your-model-performance-and-how-to-address-it-dff08f97e29b)
+</concept-drift-can-ruin-your-model-performance-and-how-to-address-it-dff08f97e29b> 

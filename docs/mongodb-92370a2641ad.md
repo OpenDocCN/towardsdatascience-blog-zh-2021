@@ -263,36 +263,8 @@ async def UpdateUtility(utility: Utility, id: str):
 
 查看我最近的文章:
 
-[](https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f) [## 用 MySQL 和 Python 组织我的图片
-
-### 又快又脏，但很管用…
-
-python .平原英语. io](https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f) [](https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89) [## 一直以来，我都在使用 SQL 反模式
-
-### 下面是如何修复它…
-
-medium.com](https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89) [](https://python.plainenglish.io/creating-a-basic-photoshop-app-with-python-c24181a09f69) [## 使用 Python 创建照片编辑应用程序
-
-### 我从没想过会这么容易
-
-python .平原英语. io](https://python.plainenglish.io/creating-a-basic-photoshop-app-with-python-c24181a09f69) [](https://python.plainenglish.io/the-lazy-way-of-using-python-to-search-wikipedia-fce2a7260390) [## 使用 Python 搜索维基百科的懒惰方式
-
-### 是的，有一个更简单的方法…
-
-python .平原英语. io](https://python.plainenglish.io/the-lazy-way-of-using-python-to-search-wikipedia-fce2a7260390) [](https://python.plainenglish.io/building-an-old-school-text-based-game-with-python-efcc33d25a42) [## 用 Python 构建一个老式的基于文本的游戏
-
-### 他们还没死！
-
-python .平原英语. io](https://python.plainenglish.io/building-an-old-school-text-based-game-with-python-efcc33d25a42) 
+<https://python.plainenglish.io/organizing-my-pictures-with-mysql-and-python-ca5dee8fe02f>  <https://medium.com/codex/all-along-ive-been-using-a-sql-antipattern-50f9a6232f89>  <https://python.plainenglish.io/creating-a-basic-photoshop-app-with-python-c24181a09f69>  <https://python.plainenglish.io/the-lazy-way-of-using-python-to-search-wikipedia-fce2a7260390>  <https://python.plainenglish.io/building-an-old-school-text-based-game-with-python-efcc33d25a42>  
 
 参考资料:
 
-[](https://docs.mongodb.com/manual/reference/method/db.collection.update/) [## db.collection.update() - MongoDB 手册
-
-### 本页记录了 shell 方法，并没有提到 MongoDB Node.js 驱动程序(或任何其他驱动程序)方法…
-
-docs.mongodb.com](https://docs.mongodb.com/manual/reference/method/db.collection.update/) [](https://kb.objectrocket.com/mongo-db/how-to-update-a-mongodb-document-in-python-356) [## 如何用 Python 更新 MongoDB 文档
-
-### 如果您在 MongoDB 中存储数据，您可能需要不时地更新文档。幸运的是，皮蒙戈人…
-
-kb.objectrocket.com](https://kb.objectrocket.com/mongo-db/how-to-update-a-mongodb-document-in-python-356)
+<https://docs.mongodb.com/manual/reference/method/db.collection.update/>  <https://kb.objectrocket.com/mongo-db/how-to-update-a-mongodb-document-in-python-356> 

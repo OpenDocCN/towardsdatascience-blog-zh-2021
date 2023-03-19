@@ -83,16 +83,4 @@ sent_2 = dictionary.doc2bow(simple_preprocess(corpus[1]))print(f"Soft Cosine Sim
 
 ## 相关文章
 
-[](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [## 情绪分析:预测一条推文是否是关于一场灾难
-
-### 探索自然语言处理
-
-towardsdatascience.com](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [](/introduction-to-machine-translation-5613f834e0be) [## 机器翻译导论
-
-### 自然语言处理专业课程 1 第 3 周笔记
-
-towardsdatascience.com](/introduction-to-machine-translation-5613f834e0be)
+</5-ideas-for-your-next-nlp-project-c6bf5b86935c>  </sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245>  </introduction-to-machine-translation-5613f834e0be> 

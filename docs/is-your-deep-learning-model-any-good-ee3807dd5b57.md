@@ -55,11 +55,7 @@
 
 几分钟后，您将获得一个开发环境，其中包含测试`lightning-flash`所需的一切。阅读下面关于`remote-containers`扩展以及如何使用它进行开发的更多内容。
 
-[](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) [## 你唯一需要的 VS 代码扩展
-
-### 如果您必须安装一个 Visual Code Studio 扩展，这就是它！
-
-towardsdatascience.com](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) 
+</the-only-vs-code-extension-you-will-ever-need-e095a6d09f24>  
 
 # 结论
 

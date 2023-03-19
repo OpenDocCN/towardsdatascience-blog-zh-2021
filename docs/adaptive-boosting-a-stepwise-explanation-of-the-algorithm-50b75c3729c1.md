@@ -211,11 +211,7 @@ y = 3.5
 
 为了向您展示如何在 Python 中实现自适应增强，我使用了来自 scikit-learn 的快速示例，其中他们基于支持向量机对数字图像进行分类。您可以在这里找到示例和相应的代码:
 
-[](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) [## 识别手写数字-sci kit-学习 0.24.2 文档
-
-### 这个例子展示了如何使用 scikit-learn 来识别手写数字(从 0 到 9)的图像。打印(__doc__ )…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) 
+<https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html>  
 
 但是对比这个例子，我们会用 AdaBoost 对数字进行分类。之后，我们再看表演。
 

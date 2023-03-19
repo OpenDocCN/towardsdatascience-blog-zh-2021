@@ -82,28 +82,12 @@
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/python/functools%20example.ipynb) [## 数据科学/func tools example . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/func tools example . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/python/functools%20example.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/python/functools%20example.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上联系我。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [## 在 Python 中停止使用 Print 进行调试。用冰淇淋代替
-
-### 你是使用打印还是日志来调试你的代码？用冰淇淋代替。
-
-towardsdatascience.com](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [## 使用 SimPy 在 Python 中模拟真实事件
+</python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60>  </3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc>  </simulate-real-life-events-in-python-using-simpy-e6d9152a102f> [## 使用 SimPy 在 Python 中模拟真实事件
 
 towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f)

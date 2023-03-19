@@ -82,18 +82,10 @@ python -m mitoinstaller install
 
 **奖励**:如果你达到了这一点，这意味着你进入了自动化，[这里是你可以用 Python](https://medium.com/geekculture/4-web-scraping-projects-that-will-help-automate-your-life-6c6d43aefeb5) 完成的另外 4 个自动化项目，[这里是你甚至不用写一行代码就可以完成的另外 4 个项目](https://medium.com/geekculture/4-web-scraping-projects-you-can-finish-in-a-weekend-1ee03b0b50d5)。
 
-[](https://medium.datadriveninvestor.com/3-python-books-i-read-to-automate-some-boring-data-science-tasks-2a946601a827) [## 我阅读了 3 本 Python 书籍来自动化一些枯燥的数据科学任务
-
-### 用于数据收集、数据争论等的 Python 自动化！
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/3-python-books-i-read-to-automate-some-boring-data-science-tasks-2a946601a827) 
+<https://medium.datadriveninvestor.com/3-python-books-i-read-to-automate-some-boring-data-science-tasks-2a946601a827>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

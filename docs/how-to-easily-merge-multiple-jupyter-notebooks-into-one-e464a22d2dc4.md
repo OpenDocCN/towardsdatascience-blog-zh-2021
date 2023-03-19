@@ -96,12 +96,4 @@ Jupyter 开发团队给了我们包 `nbformat`来进行类似的操作，比如�
 
 # 更多文章阅读
 
-[](https://python.plainenglish.io/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046) [## 新发布的 JupyterLab 3 提供了什么
-
-### 主要新增和升级功能
-
-python .平原英语. io](https://python.plainenglish.io/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046) [](/8-tips-to-write-cleaner-code-376f7232652c) [## 编写更简洁代码的 8 个技巧
-
-### 始终获得干净、可读和优雅的代码
-
-towardsdatascience.com](/8-tips-to-write-cleaner-code-376f7232652c)
+<https://python.plainenglish.io/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046>  </8-tips-to-write-cleaner-code-376f7232652c> 

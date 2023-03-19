@@ -32,11 +32,7 @@
 
 广义线性模型(GLM)家族的所有成员都非常容易解释。在本文中，我不会深入研究可解释的 ML 算法。要知道 GLM 是如何工作的，去看看我的另一篇[文章。](/what-is-so-general-about-generalized-linear-model-15dde9be2640)
 
-[](/what-is-so-general-about-generalized-linear-model-15dde9be2640) [## 广义线性模型有什么好概括的？
-
-### 线性和非线性数据回归模型的一般形式
-
-towardsdatascience.com](/what-is-so-general-about-generalized-linear-model-15dde9be2640) 
+</what-is-so-general-about-generalized-linear-model-15dde9be2640>  
 
 **排列特征重要性:**
 

@@ -31,7 +31,7 @@ conda install -c conda-forge ipyleaflet
 
 传单是最流行的可视化地理空间数据的 JavaScript 库之一。它被 OpenStreetMap 和 MapBox 等大型机构广泛采用。
 
-如果您正在寻找 ipyleaflet 的替代方案，您可以考虑使用[](https://python-visualization.github.io/folium/)*python 包来帮助您可视化交互式传单地图。*
+如果您正在寻找 ipyleaflet 的替代方案，您可以考虑使用<https://python-visualization.github.io/folium/>*python 包来帮助您可视化交互式传单地图。*
 
 # *小部件简介*
 
@@ -113,11 +113,7 @@ conda install -c conda-forge ipyleaflet
 
 *如果你想对这个话题有更详细的解释，请看看我下面的另一篇博文。*
 
-*[](/geopandas-hands-on-introduction-to-geospatial-machine-learning-6e7e4a539daf) [## geo pandas hand-on:地理空间机器学习介绍
-
-### 关于如何处理地理空间机器学习的教程
-
-towardsdatascience.com](/geopandas-hands-on-introduction-to-geospatial-machine-learning-6e7e4a539daf) 
+*</geopandas-hands-on-introduction-to-geospatial-machine-learning-6e7e4a539daf>  
 
 # **添加图层**
 

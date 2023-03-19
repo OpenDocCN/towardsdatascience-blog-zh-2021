@@ -138,8 +138,4 @@ MdAPE — 19.2
 
 感谢阅读！
 
-[](https://vityazevdanil.medium.com/) [## 丹尼尔·维蒂亚泽夫培养基
-
-### 数据和业务分析师。我制作业务流程的数学模型，并帮助人们做出决策。
-
-vityazevdanil.medium.com](https://vityazevdanil.medium.com/)
+<https://vityazevdanil.medium.com/> 

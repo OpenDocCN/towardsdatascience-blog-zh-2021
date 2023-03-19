@@ -8,25 +8,13 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将开始课程的第 6 单元，进化策略。在前一篇文章中，我们开始并完成了第五单元进化编程:
 
-[](/unit-5-evolutionary-programming-cced3a00166a) [## 第 5 单元)进化规划
-
-### 涵盖进化编程的主要概念:变异和选择操作符
-
-towardsdatascience.com](/unit-5-evolutionary-programming-cced3a00166a) [](/unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef) [## 单元 5 应用)优化约束非线性压力容器设计问题
-
-### 我们将应用进化规划来寻找压力容器设计问题的最佳解决方案
-
-towardsdatascience.com](/unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef) 
+</unit-5-evolutionary-programming-cced3a00166a>  </unit-5-application-optimizing-constrained-non-linear-pressure-vessel-design-problem-2fabe9f041ef>  
 
 在本帖中，我们将讨论进化策略和标准遗传算法之间的主要区别。我们还将涵盖进化策略的主要概念，即选择的**加**和**逗号**策略。作为总结，我们将应用我们的算法来寻找**多目标问题**的**帕累托前沿**。
 
 如果你不熟悉多目标问题或帕累托前沿，请查看我之前在优化理论方面的帖子:
 
-[](/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8) 
+</unit-1-optimization-theory-e416dcf30ba8>  
 
 此外，因为进化策略是进化编程的一个扩展，请参见上面链接的我以前关于进化编程的文章。
 
@@ -67,11 +55,7 @@ towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8)
 
 到目前为止，我们一直在处理寻找单个优化问题的最小值。现在，我们将进入多目标问题(MOP)。MOP 是指我们希望使用相同的领域空间同时最小化一组优化问题的问题。有两种主要的方法来处理 MOP，加权聚合和帕累托占优。**加权聚合**的工作原理是简单地对每个函数进行加权，并将它们的函数值加在一起形成一个聚合，并试图使该和最小化。另一方面，**帕累托优势**引入了解决方案之间优势的概念，目标是返回**帕累托前沿**，这是一个决策向量前沿，它强烈支配输入空间中的所有其他决策向量，但彼此仅微弱支配。如果你不熟悉帕累托占优，请查看我以前关于最优化理论的帖子，这样我就不会在这里重复了。
 
-[](/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8) 
+</unit-1-optimization-theory-e416dcf30ba8>  
 
 我们要解决的目标是同时最小化以下两个目标:
 
@@ -171,11 +155,7 @@ towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8)
 
 你可以在我的 GitHub 上找到这个进化课程的完整代码:
 
-[](https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit6) [## 学生/进化计算课程
-
-### 通过在 GitHub 上创建一个帐户，为 ou student/evolutionary computationcourse 开发做出贡献。
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit6) 
+<https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit6>  
 
 # 结论
 
@@ -185,11 +165,7 @@ github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main
 
 敬请关注下一篇文章，我们将在其中讨论第 7 单元自动机器学习的差异进化！
 
-[](/unit-7-differential-evolution-automated-machine-learning-eb22014e592e) [## 第 7 单元)差异进化—自动机器学习
-
-### 应用差分进化的概念在进化一个深度卷积神经网络的结构上…
-
-towardsdatascience.com](/unit-7-differential-evolution-automated-machine-learning-eb22014e592e) 
+</unit-7-differential-evolution-automated-machine-learning-eb22014e592e>  
 
 # **参考文献**
 

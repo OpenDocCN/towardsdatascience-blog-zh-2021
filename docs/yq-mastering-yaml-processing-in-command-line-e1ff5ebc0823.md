@@ -102,16 +102,4 @@
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/51?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_51)
 
-[](/networking-tools-every-developer-needs-to-know-e17c9159b180) [## 每个开发人员都需要知道的网络工具
-
-### 让我们学习被忽视的网络技能，如检查 DNS 记录，扫描端口，排除连接故障…
-
-towardsdatascience.com](/networking-tools-every-developer-needs-to-know-e17c9159b180) [](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495) [## 您不知道自己需要的高级 Git 特性
-
-### 你错过了一些很棒的 git 特性，比如 word diff，auto-correct，插件或者提交签名，是时候了…
-
-itnext.io](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495) [](/its-time-to-say-goodbye-to-docker-5cfec8eff833) [## 你不用再用 Docker 了
-
-### Docker 不是唯一的集装箱工具，可能会有更好的替代工具…
-
-towardsdatascience.com](/its-time-to-say-goodbye-to-docker-5cfec8eff833)
+</networking-tools-every-developer-needs-to-know-e17c9159b180>  <https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495>  </its-time-to-say-goodbye-to-docker-5cfec8eff833> 

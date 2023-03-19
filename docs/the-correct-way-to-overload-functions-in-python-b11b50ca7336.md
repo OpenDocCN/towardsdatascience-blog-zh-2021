@@ -64,16 +64,4 @@
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/50?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_50)
 
-[](/all-the-important-features-and-changes-in-python-3-10-e3d1fe542fbf) [## Python 3.10 中的所有重要特性和变化
-
-### Python 3.10 的发布越来越近了，所以是时候看看最重要的新特性和变化了…
-
-towardsdatascience.com](/all-the-important-features-and-changes-in-python-3-10-e3d1fe542fbf) [](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [## 使用 Python 调度各种循环作业
-
-### 让我们探索一下运行 cron 作业、延迟任务、重复任务或任何其他计划作业的所有库…
-
-towardsdatascience.com](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [](/the-magic-of-python-context-managers-adb92ace1dd0) [## Python 上下文管理器的魔力
-
-### 使用和创建令人敬畏的 Python 上下文管理器的方法，这将使你的代码更具可读性、可靠性和…
-
-towardsdatascience.com](/the-magic-of-python-context-managers-adb92ace1dd0)
+</all-the-important-features-and-changes-in-python-3-10-e3d1fe542fbf>  </scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc>  </the-magic-of-python-context-managers-adb92ace1dd0> 

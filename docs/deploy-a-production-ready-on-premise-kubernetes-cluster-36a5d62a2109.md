@@ -16,11 +16,7 @@
 
 Kubespray 使用 Ansible 行动手册作为库存和供应工具，帮助我们部署通用的 Kubernetes 集群。它还处理我们的配置管理任务。它自动化了你部署 Kubernetes 的所有困难。你所需要的只是修改 Kubespray 提供的 YAML 文件配置。以下指南是从 Kubespray 的文档中复制的，您可以在这里查看:
 
-[](https://github.com/kubernetes-sigs/kubespray) [## kubernetes-sigs/kubespray
-
-### 如果您有任何问题，请查看 kubespray.io 上的文档，并加入我们的 kubernetes slack 频道#kubespray。
-
-github.com](https://github.com/kubernetes-sigs/kubespray) 
+<https://github.com/kubernetes-sigs/kubespray>  
 
 首先，您需要 git 克隆存储库并使用 pip 安装 Python 需求。
 
@@ -32,11 +28,7 @@ sudo pip3 install -r requirements.txt
 
 如果您无法安装 Ansible，请查看以下链接:
 
-[](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) [## 安装 Ansible — Ansible 文档
-
-### 本页描述如何在不同的平台上安装 Ansible。Ansible 是一个无代理的自动化工具，由…
-
-docs.ansible.com](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) 
+<https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html>  
 
 清单文件夹中有一个样本清单。您需要复制并命名您的整个集群(例如 mycluster)。存储库已经为您提供了库存构建器来更新 Ansible 库存文件。
 
@@ -112,21 +104,13 @@ all:
 
 第一个是为 API 服务器的高可用性设置一个负载平衡器。负载平衡器用于在我们的一个主节点不工作时防止服务失败。通常我们会设置至少三个主服务器。您可以在文档的 K8s 的 HA 端点部分找到更多详细信息。
 
-[](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/ha-mode.md) [## kubernetes-sigs/kubespray
-
-### 以下组件需要高度可用的端点:etcd 集群、kube-apiserver 服务实例。的…
-
-github.com](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/ha-mode.md) 
+<https://github.com/kubernetes-sigs/kubespray/blob/master/docs/ha-mode.md>  
 
 > 对于生产就绪的 Kubernetes 集群，我们需要使用外部负载平衡器(LB)而不是内部 LB。外部 LB 为外部客户机提供访问，而内部 LB 只接受到本地主机的客户机连接。
 
 我使用[ha proxy](http://www.haproxy.org/)+[keepalive](https://github.com/acassen/keepalived)来配置一个高可用的负载平衡器。设置了两个虚拟机来执行负载平衡器功能。我提到的参考资料来自这个网站:
 
-[](https://www.digitalocean.com/community/tutorials/how-to-set-up-highly-available-haproxy-servers-with-keepalived-and-floating-ips-on-ubuntu-14-04) [## 如何在 Ubuntu 14.04 上设置具有 Keepalived 和 Floating IPs 的高可用 HAProxy 服务器|…
-
-### 高可用性是系统设计的一个功能，它允许应用程序自动重启或重新路由工作到…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-set-up-highly-available-haproxy-servers-with-keepalived-and-floating-ips-on-ubuntu-14-04) 
+<https://www.digitalocean.com/community/tutorials/how-to-set-up-highly-available-haproxy-servers-with-keepalived-and-floating-ips-on-ubuntu-14-04>  
 
 文章虽然有点老，但是概念是一样的，程序也挺像的。
 
@@ -200,29 +184,17 @@ $ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/s
 
 您可以获取该脚本，然后在本地执行它。它有很好的文档记录，因此您可以通读它，并在运行它之前了解它在做什么。
 
-[](https://helm.sh/docs/intro/install/) [## 安装舵
-
-### 本指南介绍了如何安装 Helm CLI。Helm 可以从源代码安装，也可以从预构建的二进制文件安装…
-
-helm.sh](https://helm.sh/docs/intro/install/) 
+<https://helm.sh/docs/intro/install/>  
 
 # 进入
 
 为了让您的用户访问部署在 Kubernetes 的服务，您需要公开您的服务。有三种从集群外部访问的方式:入口、负载平衡器和节点端口。在生产中，不建议使用节点端口，因为它缺乏可用性。对于负载平衡器，我们已经使用 MetalLB 实现了。现在，我们将实现入口。请查看本网站入口的详情:
 
-[](https://kubernetes.io/docs/concepts/services-networking/ingress/) [## 进入
-
-### 功能状态:Kubernetes v 1.19[稳定]一个管理对集群中服务的外部访问的 API 对象…
-
-kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/ingress/) 
+<https://kubernetes.io/docs/concepts/services-networking/ingress/>  
 
 根据官方 Kubernetes 文档的描述，[入口](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.20/#ingress-v1-networking-k8s-io)公开了从集群外部到集群内[服务](https://kubernetes.io/docs/concepts/services-networking/service/)的 HTTP 和 HTTPS 路由。流量路由由入口资源上定义的规则控制。入口控制器控制入口资源。我使用的那个叫做 NGINX 入口控制器。您可以使用 Helm 轻松安装。
 
-[](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/) [## NGINX 文档|使用 Helm 安装
-
-### 入口控制器 Helm 3.0+支持的 Kubernetes 版本。Git。如果您想使用 NGINX Plus:构建一个…
-
-docs.nginx.com](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/) 
+<https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/>  
 
 ```
 helm repo add nginx-stable https://helm.nginx.com/stablehelm repo updatehelm install my-release nginx-stable/nginx-ingress
@@ -232,19 +204,11 @@ helm repo add nginx-stable https://helm.nginx.com/stablehelm repo updatehelm ins
 
 pod 中的数据是短暂的，如果您希望数据持久化，您可以将数据存储在持久性卷中。根据 Kubernetes 官方文档的描述，*持久卷* (PV)是集群中的一块存储，由管理员提供或使用[存储类](https://kubernetes.io/docs/concepts/storage/storage-classes/)动态提供。
 
-[](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) [## 持久卷
-
-### 本文档描述了 Kubernetes 中持久性卷的当前状态。建议熟悉卷…
-
-kubernetes.io](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) 
+<https://kubernetes.io/docs/concepts/storage/persistent-volumes/>  
 
 每个存储类都有一个处理卷分配的置备程序。我选的是长角牛。根据 Longhorn 官方文档的描述，它指出
 
-[](https://longhorn.io/) [## 长角牛
-
-### 在过去，ITOps 和 DevOps 发现很难添加…
-
-longhorn.io](https://longhorn.io/) 
+<https://longhorn.io/>  
 
 > Longhorn 是一个轻量级的、可靠的、功能强大的分布式块存储系统。Longhorn 使用容器和微服务实现分布式块存储。它为每个块设备卷创建一个专用的存储控制器，并跨存储在多个节点上的多个副本同步复制该卷。存储控制器和副本本身是使用 Kubernetes 编排的。
 
@@ -284,19 +248,11 @@ kubectl -n longhorn-system get pod
 
 您需要一个注册表来存储您开发的 docker 图像。其中一个开源选择是 Harbor。
 
-[](https://goharbor.io/) [## 海港
-
-### 什么是港湾？Harbor 是一个开源注册表，它通过策略和基于角色的访问控制来保护工件…
-
-goharbor.io](https://goharbor.io/) 
+<https://goharbor.io/>  
 
 同样，你可以很容易地安装舵图港。我用的那个是 bitnami 维护的:
 
-[](https://github.com/bitnami/charts/tree/master/bitnami/harbor/#installing-the-chart) [## 比特纳米/图表
-
-### 这种舵图是在 goharbor/harbor-helm 图的基础上开发的，但包括了一些与
-
-github.com](https://github.com/bitnami/charts/tree/master/bitnami/harbor/#installing-the-chart) 
+<https://github.com/bitnami/charts/tree/master/bitnami/harbor/#installing-the-chart>  
 
 # 结论
 
@@ -320,16 +276,8 @@ github.com](https://github.com/bitnami/charts/tree/master/bitnami/harbor/#instal
 
 如果您想知道如何准备认证 Kubernetes 应用程序开发人员(CKAD)考试，请查看这篇文章:
 
-[](/pass-ckad-certified-kubernetes-application-developer-with-a-score-of-97-af072a65f1ce) [## 以 97 分通过 CKAD(认证 Kubernetes 应用开发者)！
-
-### 学习指南和技巧
-
-towardsdatascience.com](/pass-ckad-certified-kubernetes-application-developer-with-a-score-of-97-af072a65f1ce) 
+</pass-ckad-certified-kubernetes-application-developer-with-a-score-of-97-af072a65f1ce>  
 
 你可能也想检查下面的附属链接。
 
-[](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-kubernetes-application-developer%2F) [## Kubernetes 认证应用程序开发人员(CKAD)培训
-
-### Kubernetes 认证可以让你的职业生涯达到一个全新的水平。在 Kubernetes 上学习、实践并获得认证…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-kubernetes-application-developer%2F)
+<https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-kubernetes-application-developer%2F> 

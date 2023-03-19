@@ -100,15 +100,7 @@ pandas 文档包含了对 GroupBy 函数的所有可能特性和用法的更详�
 
 本教程的完整笔记本和代码可以在这个 [Github 库](https://github.com/rebecca-vickery/machine-learning-tutorials/blob/master/data-analysis/pandas_grouby.ipynb)中找到。更多有用的 pandas 方法、函数和技巧，请看我以前的文章。
 
-[](/10-things-you-didnt-know-about-pandas-d20f06d1bf6b) [## 关于熊猫你不知道的 10 件事
-
-### 直到现在…
-
-towardsdatascience.com](/10-things-you-didnt-know-about-pandas-d20f06d1bf6b) [](/tips-and-tricks-for-fast-data-analysis-in-python-f108ad32fa90) [## Python 中快速数据分析的技巧和诀窍
-
-### 用 python 快速总结和描述数据集
-
-towardsdatascience.com](/tips-and-tricks-for-fast-data-analysis-in-python-f108ad32fa90) 
+</10-things-you-didnt-know-about-pandas-d20f06d1bf6b>  </tips-and-tricks-for-fast-data-analysis-in-python-f108ad32fa90>  
 
 感谢阅读！
 

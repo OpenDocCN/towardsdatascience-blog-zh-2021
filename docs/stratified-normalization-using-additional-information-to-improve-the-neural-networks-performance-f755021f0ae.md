@@ -83,10 +83,6 @@
 
 作为参考，这里我留下了包含本文中解释的所有内容以及许多其他细节的论文。如果你有任何问题或想法，请不要犹豫写评论或联系我。
 
-[](https://www.frontiersin.org/articles/10.3389/fnins.2021.626277/full) [## 基于分层归一化神经网络的跨主体脑电情感识别
-
-### 由于大量的潜在应用，最近已经进行了大量的努力来创造机器…
-
-www.frontiersin.org](https://www.frontiersin.org/articles/10.3389/fnins.2021.626277/full) 
+<https://www.frontiersin.org/articles/10.3389/fnins.2021.626277/full>  
 
 ***如果你喜欢这个帖子，请考虑*** [***订阅***](https://javiferfer.medium.com/membership) ***。你将获得我所有的内容+所有其他来自牛逼创作者的文章！***

@@ -82,8 +82,4 @@ l:验证集的混淆矩阵；r:测试集的混淆矩阵
 
 [*该项目的 GitHub 资源库。*](https://github.com/hillarykhan/LS-Unit2-Build)
 
-[](https://www.vox.com/identities/2019/6/14/18663296/congress-eeoc-workplace-discrimination) [## 越来越多的工作场所歧视案件甚至在调查之前就结案了
-
-### 这是典型的华盛顿第 22 条军规:多年来，国会一直严厉批评调查工作场所的机构…
-
-www.vox.com](https://www.vox.com/identities/2019/6/14/18663296/congress-eeoc-workplace-discrimination)
+<https://www.vox.com/identities/2019/6/14/18663296/congress-eeoc-workplace-discrimination> 

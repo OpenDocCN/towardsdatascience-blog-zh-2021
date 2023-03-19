@@ -71,19 +71,15 @@
 
 我希望这提供了一些关于机器学习的局限性的见解，以及它为什么不是一个一刀切的解决方案。请记住，这更像是一篇有轶事经验支持的自以为是的文章，所以从这篇文章中获取你想要的。但一如既往，我祝你学习一切顺利！
 
-> **如果您喜欢这篇文章，请务必订阅**[](https://terenceshin.medium.com/subscribe)****，千万不要错过另一篇关于数据科学指南、技巧和提示、生活经验等的文章！****
+> **如果您喜欢这篇文章，请务必订阅**<https://terenceshin.medium.com/subscribe>****，千万不要错过另一篇关于数据科学指南、技巧和提示、生活经验等的文章！****
 
 **不确定接下来要读什么？我为你挑选了另一篇文章:**
 
-**[](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) [## 2022 年你应该知道的 10 个最实用的数据科学技能
-
-### 实际上能让你就业的技能
-
-towardsdatascience.com](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) 
+**</10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a>  
 
 **又一个！**
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 

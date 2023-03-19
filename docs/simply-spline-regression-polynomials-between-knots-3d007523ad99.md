@@ -14,11 +14,7 @@
 
 多项式回归可能在局部数据中过度拟合，因此，如果过度拟合，在预测未来趋势时会产生误导。此外，多项式回归线由样本中的每个数据点全局控制。一个单独的数据点可以剧烈地移动多项式曲线。异常值会改变曲线，因此在进行多项式拟合之前从数据中移除异常值非常重要。我还有一篇关于如何去除异常值的文章。
 
-[](/practical-implementation-of-outlier-detection-in-python-90680453b3ce) [## 异常检测在 python 中的实际实现
-
-### IQR、汉佩尔和 DBSCAN 法
-
-towardsdatascience.com](/practical-implementation-of-outlier-detection-in-python-90680453b3ce) 
+</practical-implementation-of-outlier-detection-in-python-90680453b3ce>  
 
 > **花键**
 
@@ -44,11 +40,7 @@ towardsdatascience.com](/practical-implementation-of-outlier-detection-in-python
 
 拟合的 R 平方值显示了遵循趋势的样条的强度。R 平方值越高，模型拟合越好。显然还有一些其他的因素，比如同质性，但这超出了本文的范围。下面的文章就是为了讨论这个话题而写的。
 
-[](/heteroscedasticity-in-regression-model-21d9f5a93e59) [## 回归模型中的异方差性
-
-### 使用统计模型检查异方差性
-
-towardsdatascience.com](/heteroscedasticity-in-regression-model-21d9f5a93e59) 
+</heteroscedasticity-in-regression-model-21d9f5a93e59>  
 
 如果 df = 1，degree = 1，本质上将是一个线性回归模型。
 

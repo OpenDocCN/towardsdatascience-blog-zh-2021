@@ -295,11 +295,7 @@ click_count <<- click_count+1*
 
 ****Shinyapps.io* 提供免费和付费计划。通过免费计划，您可以同时部署多达 5 个闪亮的应用程序，并且每月有多达 25 个小时的活动时间由该帐户下托管的所有应用程序共享。***
 
-***[](https://huajing-shi.medium.com/membership) [## 用我的推荐链接-华景石加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-huajing-shi.medium.com](https://huajing-shi.medium.com/membership) 
+***<https://huajing-shi.medium.com/membership>  
 
 r 代码和输入数据可从 my [GitHub repo](https://github.com/shi093/Map-Freight-Analysis-Framework) 获得。*** 
 

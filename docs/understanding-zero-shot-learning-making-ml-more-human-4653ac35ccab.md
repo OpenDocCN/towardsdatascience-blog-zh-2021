@@ -70,11 +70,7 @@ CLIP 架构的可能输入示例。幸运的猫在 [Unsplash](https://unsplash.c
 
 正如该架构的名字所暗示的那样，CLIP 使用了一种叫做**对比学习**的技术来理解图像和文本配对之间的关系。如果你不熟悉对比学习，我建议在继续之前先看看这篇关于对比学习的文章。
 
-[](/understanding-contrastive-learning-d5b19fd96607) [## 理解对比学习
-
-### 学会无标签学习。
-
-towardsdatascience.com](/understanding-contrastive-learning-d5b19fd96607) ![](img/ca26d5b28c9676cac11beb0eb2818ccc.png)
+</understanding-contrastive-learning-d5b19fd96607>  ![](img/ca26d5b28c9676cac11beb0eb2818ccc.png)
 
 剪辑方法概述。图来自[2]。
 
@@ -92,11 +88,7 @@ towardsdatascience.com](/understanding-contrastive-learning-d5b19fd96607) ![](im
 
 为了更直观地了解这种学习数据表示的想法，我推荐下面的文章:
 
-[](/understanding-latent-space-in-machine-learning-de5a7c687d8d) [## 理解机器学习中的潜在空间
-
-### 学习深度学习的一个基本的，但经常是“隐藏的”概念
-
-towardsdatascience.com](/understanding-latent-space-in-machine-learning-de5a7c687d8d) 
+</understanding-latent-space-in-machine-learning-de5a7c687d8d>  
 
 **为什么图像编码应该与其对应的文本编码尽可能相似？**现在我们知道了什么是编码，以及为什么学习好的编码很重要，我们可以探索为什么我们要强制模型使图像和文本编码相似。
 
@@ -128,11 +120,7 @@ Polina Razorilova 在 [Unsplash](https://unsplash.com/photos/rIDlMH07nRY) 上拍
 
 有趣的是， [CLIP](https://github.com/openai/CLIP) 是一种相对较新的方法，与更传统的零镜头学习方法相比，它具有独特的简单性。这些概念中的一些，包括基于**嵌入的方法**和**生成方法**将在下面的文章中直观地解释。
 
-[](https://www.kdnuggets.com/2021/04/zero-shot-learning.html) [## 零射学习:你能在没有看到一个物体的情况下对它进行分类吗？- KDnuggets
-
-### 开发能够对以前从未见过的数据执行预测功能的机器学习模型已成为一项挑战
-
-www.kdnuggets.com](https://www.kdnuggets.com/2021/04/zero-shot-learning.html) 
+<https://www.kdnuggets.com/2021/04/zero-shot-learning.html>  
 
 > 无论使用哪种方法，零射击学习的一个共同主题是，我们可以使用一些不是明确标签的**辅助信息(即文本描述)**作为监督的弱形式。
 

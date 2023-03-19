@@ -12,11 +12,7 @@ Julia 编程语言有一个丰富和扩展的基础，它本身能够做很多�
 
 Julia 语言的一个优点是一个方法定义本质上有无限的能力。这是一个非常朱利安的事情进口推动！()方法，并扩展它以处理您环境中的类型。方法中也有一些不规则和奇怪的东西，可能很重要，其中一些甚至是一些有经验的 Julian 程序员也没有经历过。今天，我们将从核心 Julia 数据类型的基础开始，介绍该方法的所有细微差别，然后我想介绍如何扩展该模块以使用类型的示例实例。这个项目还有一个笔记本，您可以在这里查看:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Push%20in%20julia.ipynb) [## Emmetts-DS-NoteBooks/Push in Julia . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Push%20in%20julia.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Push%20in%20julia.ipynb>  
 
 # 用力！:基础知识
 
@@ -39,19 +35,11 @@ example = [9, 7, 4, 28]
 
 这在朱莉娅是一个很好的实践。那个？()方法允许我们尽可能深入地快速浏览文档。与传统上可能在 web 浏览器中查找一些文档相比，这种文档字符串系统有很多非常好的优点。实际上，我写了一整篇文章，更详细地讨论了 Juliahub 系统的文档，如果你不知道这两件事，你可能会感兴趣，下面是这个故事的链接:
 
-[](/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b) [## Julia 的文档字符串系统非常棒，原因如下
-
-### 概述为什么我认为 Julian 文档优于大多数其他语言的方法
-
-towardsdatascience.com](/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b) 
+</julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b>  
 
 从中我们可以看出一点，它将会变异成我们提供的第一个论点。在深入研究之前，我们可以立即指出这一点，因为这个方法在一个解释点结束。这是另一个深入到背后故事的很酷的故事:
 
-[](/the-real-meaning-behind-in-method-calls-b10772f0e30b) [## 背后的真正含义！在方法调用中
-
-### 当一个方法在一个解释点结束时意味着什么？
-
-towardsdatascience.com](/the-real-meaning-behind-in-method-calls-b10772f0e30b) 
+</the-real-meaning-behind-in-method-calls-b10772f0e30b>  
 
 回到我们的笔记本，我们已经对这个方法有了很好的了解，但是让我们看看实际的文档能告诉我们什么。
 
@@ -114,15 +102,7 @@ import Base: push!
 
 如果你不知道如何扩展方法，就像这样，我就不在这里赘述了，但我有两篇文章，其中一篇有视频，在 Julia 中详细介绍了这一点:
 
-[](https://medium.com/chifi-media/extending-julias-base-for-our-superframes-jl-package-4574555ff6ae) [## 为我们的 SuperFrames.jl 包扩展 Julia 的基础
-
-### 通过扩展 Julia 的基础将索引添加到我们的 SuperFrames 包中。
-
-medium.com](https://medium.com/chifi-media/extending-julias-base-for-our-superframes-jl-package-4574555ff6ae) [](/extending-julias-operators-with-amazing-results-96c042369349) [## 用惊人的结果扩展 Julia 的算子
-
-### 如何在 Julia 中加载和扩展方法，用一个真正激动人心的例子。
-
-towardsdatascience.com](/extending-julias-operators-with-amazing-results-96c042369349) 
+<https://medium.com/chifi-media/extending-julias-base-for-our-superframes-jl-package-4574555ff6ae>  </extending-julias-operators-with-amazing-results-96c042369349>  
 
 希望现在这个概念在你的头脑中是新鲜和熟悉的，这将更容易理解我到底想做什么。我们的目标输入参数将是:
 

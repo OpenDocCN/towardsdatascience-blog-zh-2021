@@ -63,11 +63,7 @@ folium.Map(location= [27.665, -81.516], zoom_start = 4, tiles = 'Stamen Terrain'
 
 我相信你有兴趣看看我们能否在地图上标出事件或事故。我们当然可以。为了演示，我将使用一个数据集来显示佛罗里达州的事件。请随意从这里下载数据集:
 
-[](https://github.com/rashida048/Datasets/blob/master/Florida_Subsidence_Incident_Reports.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/Florida_Subsidence_Incident_Reports.csv) 
+<https://github.com/rashida048/Datasets/blob/master/Florida_Subsidence_Incident_Reports.csv>  
 
 将数据集导入笔记本。
 
@@ -116,22 +112,6 @@ florida.add_child(incidents)
 
 ## 更多阅读
 
-[](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
+</four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb>  </an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370> [## 熊猫总结数据的三个非常有用的功能
 
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极备忘单
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) [## 熊猫总结数据的三个非常有用的功能
-
-towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) [](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [## 随机梯度下降:从头开始的解释和完整实现
-
-### 使用单个感知器
-
-towardsdatascience.com](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd)
+towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) </exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  </stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd> 

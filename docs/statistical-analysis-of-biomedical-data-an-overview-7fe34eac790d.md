@@ -181,19 +181,7 @@ t-test 提供了一个检验统计量，该统计量对应于两个平均值相�
 2.  ***Gromski，P. S .，Muhamadali，h .，Ellis，D. I .，Xu，y .，Correa，e .，Turner，M. L .，& Goodacre，R. (2015)。教程回顾:代谢组学和偏最小二乘法-判别分析-权宜婚姻或奉子成婚。化学分析学报，879，10-23。[https://doi.org/10.1016/j.aca.2015.02.012](https://doi.org/10.1016/j.aca.2015.02.012)***
 3.  ***David S. Wishart，代谢组学统计学导论，代谢组学创新中心(TMIC)，[https://www.youtube.com/channel/UC4CHrL7t9brRTIomi9rDLHA](https://www.youtube.com/channel/UC4CHrL7t9brRTIomi9rDLHA)***
 
-***[](/the-cornerstone-to-the-next-revolution-deepminds-alphafold-2-2768f8d38326) [## 下一次革命的基石——deep mind 的 AlphaFold 2
-
-### 人工智能是如何解决 50 年来蛋白质折叠和建模的大挑战的
-
-towardsdatascience.com](/the-cornerstone-to-the-next-revolution-deepminds-alphafold-2-2768f8d38326) [](/3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661) [## 你的机器学习模型表现不佳的 4 个原因
-
-### 建立更好的 ML 模型的图解方法
-
-towardsdatascience.com](/3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661) [](/python-vs-r-for-data-science-cf2699dfff4b) [## Python 与 R 在数据科学中的对比
-
-### 为什么你在浪费时间
-
-towardsdatascience.com](/python-vs-r-for-data-science-cf2699dfff4b) 
+***</the-cornerstone-to-the-next-revolution-deepminds-alphafold-2-2768f8d38326>  </3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661>  </python-vs-r-for-data-science-cf2699dfff4b>  
 
 > 附言:如果你想要更多关于数据科学、编程以及生物学家如何在数据革命中导航的简明扼要的文章，可以考虑关注我的博客。
 > 

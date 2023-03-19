@@ -39,11 +39,7 @@ print(isinstance(val, np.generic))True
 
 如果您想了解更多关于编程中的类型层次结构，我用 Julia 编程语言写了一篇文章，您可以在这里查看:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 ## №2:屏蔽阵列
 
@@ -80,11 +76,7 @@ df.isnull().sum()
 
 如果您想为熊猫图书馆学习更多类似的技巧，我写了一篇文章，详细介绍了该图书馆能够做的 20 件令人兴奋的事情，任何有抱负的数据爱好者都可能会感兴趣:
 
-[](/20-great-pandas-tricks-for-data-science-3a6daed71da0) [## 数据科学的 20 个大熊猫技巧
-
-### 你应该每天使用的 20 个大熊猫技巧。
-
-towardsdatascience.com](/20-great-pandas-tricks-for-data-science-3a6daed71da0) 
+</20-great-pandas-tricks-for-data-science-3a6daed71da0>  
 
 ## №5:真实
 
@@ -164,10 +156,6 @@ np.nan_to_num(np.inf)
 
 NumPy 无疑是一个非常棒的线性代数库。该模块使 Python 中的任何科学计算变得容易得多，如果不是这样，这种语言不太可能在科学计算领域被广泛采用。NumPy 最大的优点就是它的影响力。因为这个包很有影响力，所以维护得很好。此外，它还集成了整个 Python 工具生态系统。这意味着通用的 NumPy 函数可以在整个 Python 包中使用，大约有 250，000 个。对 NumPy 库的一个真正的赞美是，其他完全不同语言的生态系统也开始调整它们的语法，使之更像 NumPy，例如 C++的 XTensor，我写了一个简短的教程，你可以在这里查看:
 
-[](/linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736) [## 用 XTensor 用 C++写的线性代数就跟 Numpy 一样！
-
-### 使用张量库快速浏览 C++中的代数运算。
-
-towardsdatascience.com](/linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736) 
+</linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736>  
 
 NumPy 带来了许多对科学家来说非常有用的优秀类型和方法，这确实使它成为对整个社区有益的包。很容易理解为什么越来越多的科学家继续专门转向 Python 来使用这个模块，因为它可能是所有计算中如此高级的线性代数的最完善和精炼的解决方案之一！

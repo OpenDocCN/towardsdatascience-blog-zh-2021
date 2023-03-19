@@ -234,7 +234,7 @@ numpy 是 python 用于操作数组的包，[利用矢量化运算来实现更�
 
 祝你的学习之旅一切顺利！如有任何建议或问题，请随时通过 LinkedIn 联系我。
 
-[](https://www.linkedin.com/in/travistang) [## Travis Tang -数据分析师- Gojek
+<https://www.linkedin.com/in/travistang> [## Travis Tang -数据分析师- Gojek
 
 www.linkedin.com](https://www.linkedin.com/in/travistang) 
 

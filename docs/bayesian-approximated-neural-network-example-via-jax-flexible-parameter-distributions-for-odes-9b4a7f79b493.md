@@ -16,11 +16,7 @@
 
 我更喜欢将变量依赖关系保存在外部，而不是内嵌，但是我想提供一个工作的单个文件脚本，以便更容易地查看所有引用的函数和变量。下面是单个文件中的完整代码(文件:**Bayesian _ appx _ nn _ ex _ jax . py**):
 
-[](https://github.com/bmurders2/Bayesian-Approximated-Neural-Networks-for-Flexible-ODE-Parameter-Distributions) [## GitHub-bmurders 2/用于灵活模式参数分布的贝叶斯近似神经网络…
-
-### 使用贝叶斯近似神经网络的工作概念证明，通过漏失获得灵活的参数…
-
-github.com](https://github.com/bmurders2/Bayesian-Approximated-Neural-Networks-for-Flexible-ODE-Parameter-Distributions) 
+<https://github.com/bmurders2/Bayesian-Approximated-Neural-Networks-for-Flexible-ODE-Parameter-Distributions>  
 
 Python 文件依赖于以下包:
 

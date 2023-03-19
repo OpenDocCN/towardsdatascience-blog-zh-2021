@@ -299,16 +299,4 @@ print(f"\033[1mOkCupid user statuses\033[0m\n{S.to_markdown(headers=[], tablefmt
 
 **你会发现这些文章也很有趣:**
 
-[](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [## 你从未用过的 5 种熊猫方法…而且你没有失去任何东西！
-
-### 你知道他们到底什么时候能帮上忙吗？
-
-towardsdatascience.com](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [## 一个非常规但方便的 Matplotlib Broken_Barh 函数，当它特别…
-
-### 它是什么，如何使用和定制，何时使用
-
-towardsdatascience.com](/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127) [](/2-efficient-ways-of-creating-fancy-pictogram-charts-in-python-8b77d361d500) [## 用 Python 创建精美象形图的两种有效方法
-
-### 什么是象形图，何时使用，以及如何在 Plotly 和 PyWaffle 库中创建它们
-
-towardsdatascience.com](/2-efficient-ways-of-creating-fancy-pictogram-charts-in-python-8b77d361d500)
+</5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55>  </an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127>  </2-efficient-ways-of-creating-fancy-pictogram-charts-in-python-8b77d361d500> 

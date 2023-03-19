@@ -239,12 +239,4 @@ docker volume rm test-vol-4 test-vol-5
 
 # 相关职位
 
-[](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [## 如何在 Docker 容器中挂载目录
-
-### 专注于编写代码，无需担心环境管理
-
-towardsdatascience.com](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [](/the-ultimate-markdown-cheat-sheet-3d3976b31a0) [## 终极降价备忘单
-
-### 写一篇精彩的自述
-
-towardsdatascience.com](/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+</how-to-mount-a-directory-inside-a-docker-container-4cee379c298b>  </the-ultimate-markdown-cheat-sheet-3d3976b31a0> 

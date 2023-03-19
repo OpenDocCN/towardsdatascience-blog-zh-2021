@@ -39,11 +39,7 @@
 
 > 阅读下面提到的文章，更好地理解 7 种过采样技术:
 
-[](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) [## 7 处理不平衡数据的过采样技术
-
-### 各种过采样技术的深度分析
-
-towardsdatascience.com](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) 
+</7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f>  
 
 # 2.)下采样多数类:
 
@@ -62,11 +58,7 @@ towardsdatascience.com](/7-over-sampling-techniques-to-handle-imbalanced-data-ec
 
 > 按照 imblearn 文档获取上述每种技术的实现:
 
-[](https://imbalanced-learn.org/stable/references/under_sampling.html) [## 欠采样方法-版本 0.8.0
-
-### imblearn.under_sampling 提供了对数据集进行欠采样的方法。的…
-
-imbalanced-learn.org](https://imbalanced-learn.org/stable/references/under_sampling.html) 
+<https://imbalanced-learn.org/stable/references/under_sampling.html>  
 
 # 3.)**生成合成数据:**
 
@@ -125,10 +117,6 @@ Scikit-learn 为所有机器学习算法提供了`**class_weight**`参数。
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

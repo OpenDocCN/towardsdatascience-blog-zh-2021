@@ -14,11 +14,7 @@
 
 正因为如此，你会发现自己总是处于学习新事物、新算法、新方面或新编程语言的过程中。有时，跟踪所有这些新信息会让人不知所措。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 在你的学习之旅和职业生涯中，你经常会开发一些活动来处理这些海量的信息。在这篇文章中，我将分享我应对不知所措的方法，那就是写博客。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 写关于你遇到的小知识种类的博客文章会让你更容易拥有你所学的所有信息的日志，所以你可以在进行下一步之前很容易地回到它们。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # 加深并展示你的知识。
 
@@ -54,11 +46,7 @@ towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54)
 
 良好的沟通是成功的数据科学家的基本技能之一，所以通过写博客，你正在努力提高你的沟通和领导技能。
 
-[](/11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5) [## 帮助您获得成为数据科学家所需知识的 11 本书
-
-### 帮助你成为更好的数据科学家的书籍。
-
-towardsdatascience.com](/11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5) 
+</11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5>  
 
 # 对你的投资组合是一个很好的补充
 
@@ -76,11 +64,7 @@ towardsdatascience.com](/11-books-to-help-gain-the-knowledge-you-need-to-be-a-da
 
 最后，我敢打赌，当你需要学习一些东西的时候，你会阅读很多其他人写的文章，写博客可能是你回报社区的方式，有助于它变得更大更好。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # 最后的想法
 
@@ -88,11 +72,7 @@ towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-d
 
 作为数据科学家，我们充分意识到数据科学是一个无止境的领域，新进展和新技术是该领域的规范，我们工作的一部分就是跟上这些进展，并确保利用它们来保持我们的工作与时俱进。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 一种释放压力、避免不知所措、跟踪你所学的知识、润色你的简历的方法是写技术博客。在这篇文章中，我向你展示了作为一名数据科学家或开发人员，你应该考虑将博客添加到你的日常工作中的 5 个理由，以及它将如何极大地有益于你的职业和心理健康。
 

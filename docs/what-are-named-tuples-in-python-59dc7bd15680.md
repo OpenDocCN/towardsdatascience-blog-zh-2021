@@ -78,8 +78,4 @@ namedtuple 的类型化版本
 
 最后要注意的是，命名元组是不可变的，这意味着它们的元素不能就地改变。在下面的文章中，你可以读到更多关于可变和不可变对象类型之间的区别，以及两者如何服务于 Python 的动态类型模型。
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+</dynamic-typing-in-python-307f7c22b24e> 

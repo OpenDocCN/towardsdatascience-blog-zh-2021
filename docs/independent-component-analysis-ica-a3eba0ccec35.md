@@ -84,15 +84,11 @@ ICA 中有两个关键假设**。我们试图揭示的隐藏独立成分必须�
 
 **主成分分析和独立成分分析的比较。图片作者。**
 
-**[](/principal-component-analysis-pca-79d228eb9d24) [## 主成分分析
-
-### 直觉、数学和石头
-
-towardsdatascience.com](/principal-component-analysis-pca-79d228eb9d24) 
+**</principal-component-analysis-pca-79d228eb9d24>  
 
 # 示例:从 EEG 中去除眨眼
 
-一如既往，我将以一个具体的实例来结束我的发言。在这个例子中，我将使用 ICA 从 EEG 数据中移除眨眼伪迹，代码可在 GitHub 的[](https://github.com/ShawhinT/YouTube/tree/main/ica)**库中找到。**
+一如既往，我将以一个具体的实例来结束我的发言。在这个例子中，我将使用 ICA 从 EEG 数据中移除眨眼伪迹，代码可在 GitHub 的<https://github.com/ShawhinT/YouTube/tree/main/ica>**库中找到。**
 
 **脑电图(EEG)是一种测量大脑产生的电活动的技术。EEG 的一个主要缺点是它对运动和其他非脑伪像的敏感性。每当参与者眨眼时，就会出现这样的假象。在下图中，通过 Fp1 电极(靠近头部前方)的电压-时间图中的尖峰可以清楚地看到眨眼伪影。**
 
@@ -144,10 +140,6 @@ towardsdatascience.com](/principal-component-analysis-pca-79d228eb9d24)
 
 ******支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](/membership?source=about_page-------------------------------------) ⭐️****
 
-****[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership)**** 
+****<https://shawhin.medium.com/membership> **** 
 
 ******【1】hyvrinen A，Oja E.** 独立成分分析:算法与应用。神经网络。2000;13(4–5):411–430.doi:10.1016/s 0893–6080(00)00026–5****

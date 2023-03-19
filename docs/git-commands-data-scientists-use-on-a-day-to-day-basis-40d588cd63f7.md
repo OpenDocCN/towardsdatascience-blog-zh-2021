@@ -530,16 +530,4 @@ git pull **origin_medium** second_agenda --allow-unrelated-histories
 
 直到下次:)
 
-[](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [## 在数据科学面试中解释你的 ML 项目的逐步指南。
-
-### 在结尾有一个额外的样本脚本，让你谨慎地展示你的技术技能！
-
-towardsdatascience.com](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [](https://medium.com/swlh/how-i-would-explain-gans-from-scratch-to-a-5-year-old-part-1-ce6a6bccebbb) [## 我将如何从零开始向一个 5 岁的孩子解释甘斯:第 1 部分
-
-### GANs 背后的基本直觉、目标函数、生成器和鉴别器架构以及深入的伪代码…
-
-medium.com](https://medium.com/swlh/how-i-would-explain-gans-from-scratch-to-a-5-year-old-part-1-ce6a6bccebbb) [](/recreating-keras-code-in-pytorch-an-introductory-tutorial-8db11084c60c) [## 在 PyTorch 中重新创建 Keras 代码——入门教程
-
-### 学习在 PyTorch 中创建神经网络的基础知识。
-
-towardsdatascience.com](/recreating-keras-code-in-pytorch-an-introductory-tutorial-8db11084c60c)
+</step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf>  <https://medium.com/swlh/how-i-would-explain-gans-from-scratch-to-a-5-year-old-part-1-ce6a6bccebbb>  </recreating-keras-code-in-pytorch-an-introductory-tutorial-8db11084c60c> 

@@ -100,11 +100,7 @@ Pandas 具有查找缺失值的数量或者用合适的值替换它们的功能�
 
 缺失 no 让我们更容易探究缺失值的分布。
 
-[](/visualize-missing-values-with-missingno-ad4d938b00a1) [## 可视化缺失值和缺失号
-
-### 浏览数据集中缺失的值。
-
-towardsdatascience.com](/visualize-missing-values-with-missingno-ad4d938b00a1) 
+</visualize-missing-values-with-missingno-ad4d938b00a1>  
 
 # 结论
 
@@ -112,10 +108,6 @@ Python 是数据科学中一个杰出的库是有原因的。有许多图书馆�
 
 最后但同样重要的是，如果你还不是[中级会员](https://sonery.medium.com/membership)并打算成为其中一员，我恳请你使用以下链接。我将从你的会员费中收取一部分，不增加你的额外费用。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

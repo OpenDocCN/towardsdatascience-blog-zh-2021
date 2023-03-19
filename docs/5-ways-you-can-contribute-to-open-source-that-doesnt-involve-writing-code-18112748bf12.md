@@ -14,11 +14,7 @@
 
 在数据科学中，许多著名的日常使用的库和包，如 Numpy 和 Pandas，都是开源项目，通过全球许多开发人员的努力才取得了今天的成就。作为当今世界的一名数据科学家，为开源项目做贡献通常不仅仅是你简历上的一个很好的附件，而是一个必不可少的项目。
 
-[](/documentation-101-the-6-pillars-of-a-good-documentation-fdf564ad8eba) [## 文档 101:优秀文档的 6 大支柱
-
-### 以及它们中每一个的用途。
-
-towardsdatascience.com](/documentation-101-the-6-pillars-of-a-good-documentation-fdf564ad8eba) 
+</documentation-101-the-6-pillars-of-a-good-documentation-fdf564ad8eba>  
 
 但是，为开源做贡献，尤其是对初学者或以前从未做过贡献的人来说，有点令人生畏。你可能会觉得自己还不具备做出贡献所需的技能，或者你的编码或技术知识还不够。所以，你继续等待，直到你达到一个知识水平，在那里你可以舒服地做出你的第一个贡献。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/documentation-101-the-6-pillars-of-a-good-documentation
 
 你可以请求帮助组织会议或聚会。你可以提议在你所在的城市、大学或工作场所谈论或主持一次聚会。你也可以自愿为这些会议做一些管理工作。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №2:设计图形。
 
@@ -48,11 +40,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 一些项目需要帮助编辑和校对文档的核心。您可能会提出更好的例子和解释来提高文档或其中特定部分的质量和可读性。文档贡献还包括将文档翻译成其他语言，为项目的不同特性创建新的教程，甚至为最近的项目更新创建和维护时事通讯。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №4:回答别人的问题。
 
@@ -72,7 +60,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 当我第一次想为开源做贡献时，我非常害怕，我的技能水平比不上已经做出贡献的那些了不起的人。我总是担心我的代码不好，我非常害怕被拒绝。因此，我决定从非代码贡献开始涉足开源领域，了解这个过程是如何进行的，以及我应该如何去做。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 

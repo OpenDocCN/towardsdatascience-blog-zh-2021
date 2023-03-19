@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在本帖中，我们将应用我们所学的进化编程来优化受约束的非线性压力容器的设计，从而结束本课程的第 5 单元。因为这篇文章将只涉及概念的应用，请查看我详细解释进化编程的前一篇文章。您可以在这里找到它:
 
-[](/unit-5-evolutionary-programming-cced3a00166a) [## 第 5 单元)进化规划
-
-### 涵盖进化编程的主要概念:变异和选择操作符
-
-towardsdatascience.com](/unit-5-evolutionary-programming-cced3a00166a) 
+</unit-5-evolutionary-programming-cced3a00166a>  
 
 在上一篇文章中，我们讨论了经典的进化编程算法，我们将从头开始实现它来解决我们的问题！
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/unit-5-evolutionary-programming-cced3a00166a)
 
 正如我们所看到的，我们有最终的约束问题，一个连续和离散混合的变量域，以及四个约束，其中一个是非线性的(G3)。这将是一个完美的问题来测试我们的经典进化规划算法的效率。如果你想要一篇关于最优化理论和约束问题的评论，看看我之前的文章:
 
-[](/unit-1-optimization-theory-e416dcf30ba8) [## 单元 1)最优化理论
-
-### 最优化理论和四种主要最优化问题的概述
-
-towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8) 
+</unit-1-optimization-theory-e416dcf30ba8>  
 
 # **文学论文的帮助**
 
@@ -136,11 +128,7 @@ towardsdatascience.com](/unit-1-optimization-theory-e416dcf30ba8)
 
 *正如我所有的实现一样，你可以在下面我的 GitHub 页面上找到完整的代码:*
 
-*[](https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit5) [## 学生/进化计算课程
-
-### 通过在 GitHub 上创建一个帐户，为 ou student/evolutionary computationcourse 开发做出贡献。
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit5) 
+*<https://github.com/OUStudent/EvolutionaryComputationCourse/tree/main/Unit5>  
 
 # **结论**
 

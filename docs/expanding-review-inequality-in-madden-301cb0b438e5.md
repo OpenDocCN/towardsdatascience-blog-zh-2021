@@ -74,16 +74,4 @@ GameRant 的文章写于 2019 年。我很惊讶这篇文章没有提到[马登 
 
 在这里，我们展示了用户和评论家之间的差距从未如此之大。代码和数据都可以在 [GitHub](https://github.com/glickmac/Madden_Scores) 上找到。马登不再是每个人的足球模拟，然而，由于独家许可，它是唯一可用的 AAA 足球模拟。我个人仍然觉得每年秋天的几个小时里马登是令人愉快的；虽然由于我的人生阶段，功能的下降，或者两者的结合，我发现自己不像以前在专营权中那样投入。我的名字是[科迪·格利克曼](https://codyglickman.com/)，可以在 [LinkedIn](https://www.linkedin.com/in/codyglickman/) 上找到我。一定要看看我下面的其他文章:
 
-[](https://medium.com/swlh/exploring-college-football-salaries-dc472448684d) [## 探索大学足球薪酬
-
-### 按州和会议列出的每个学生的价格
-
-medium.com](https://medium.com/swlh/exploring-college-football-salaries-dc472448684d) [](/a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2) [## 一个幻想草案秩序彩票使用 R 闪亮
-
-### 作为 web 应用程序编写的 NBA 风格的彩票系统
-
-towardsdatascience.com](/a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2) [](/college-football-travel-during-covid-1ced0164840e) [## COVID 期间的大学足球旅行
-
-### 使用 NetworkX 对 2020 年大学足球赛程的网络分析以及对困难决策的思考
-
-towardsdatascience.com](/college-football-travel-during-covid-1ced0164840e)
+<https://medium.com/swlh/exploring-college-football-salaries-dc472448684d>  </a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2>  </college-football-travel-during-covid-1ced0164840e> 

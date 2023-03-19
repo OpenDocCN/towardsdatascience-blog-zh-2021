@@ -28,11 +28,7 @@
 
 但是，在使用潜变量模型时，会考虑这些未解释或隐藏的量。否则，这些量可能会在我们的模型中出现错误。关于有意建模错误的一些直觉，请看本文:
 
-[](https://medium.com/swlh/thinking-generatively-c0bce13dd3e6) [## 生成性思维
-
-### 在最小化我们的 ML 模型中的错误时，有意将错误或噪声合并到我们的模型中的好处…
-
-medium.com](https://medium.com/swlh/thinking-generatively-c0bce13dd3e6) 
+<https://medium.com/swlh/thinking-generatively-c0bce13dd3e6>  
 
 ## 变异推理:贝叶斯方法
 
@@ -84,19 +80,11 @@ medium.com](https://medium.com/swlh/thinking-generatively-c0bce13dd3e6)
 
 *基本上，我们已经用一个下限代替一个整体分布来近似真实的后验分布，这样更容易优化。从上图可以看出，这个想法是试图使用任意分布 ***Q(θ)找到真实的后验概率。******Q(θ)***的这种优化作为后验概率的最佳近似， ***p(θ|Y)*** 通常通过类似于**期望最大化** (EM)算法的迭代优化过程来实现。 [Ravi Charan](https://medium.com/u/393ce2bbf82c?source=post_page-----4abdd9eb5c12--------------------------------) 关于 EM 算法的文章是一篇很好的读物(非常数学化):*
 
-*[](/expectation-maximization-explained-c82f5ed438e5) [## 解释期望最大化
-
-### 用于聚类、NLP 等的通用算法
-
-towardsdatascience.com](/expectation-maximization-explained-c82f5ed438e5) 
+*</expectation-maximization-explained-c82f5ed438e5>  
 
 这就结束了(潜在地)理解驱动最先进模型的强大思想的推理之旅，如*变分自动编码器*和*生成对抗网络。约瑟夫·罗卡的这篇文章对 VAEs 进行了详尽的概念化，非常值得一读。*
 
-[](/understanding-variational-autoencoders-vaes-f70510919f73) [## 了解变分自动编码器(VAEs)
-
-### 逐步建立导致 VAEs 的推理。
-
-towardsdatascience.com](/understanding-variational-autoencoders-vaes-f70510919f73) 
+</understanding-variational-autoencoders-vaes-f70510919f73>  
 
 感谢您的宝贵时间！如果你喜欢这篇文章，请喜欢或分享内容以示支持，让我知道你的兴趣。在[媒体](https://anweshrm.medium.com/)上关注我或者通过 [LinkedIn](http://www.linkedin.com/in/anwesh-marwade-87172211b) 联系我。
 
@@ -104,5 +92,5 @@ towardsdatascience.com](/understanding-variational-autoencoders-vaes-f70510919f7
 
 参考资料:
 
-1.  *维基百科生活质量文章(https://en.wikipedia.org/wiki/Quality_of_life)*[](https://en.wikipedia.org/wiki/Quality_of_life)
+1.  *维基百科生活质量文章(https://en.wikipedia.org/wiki/Quality_of_life)*<https://en.wikipedia.org/wiki/Quality_of_life>
 2.  *西蒙·罗杰斯和马克·吉罗拉米。2016.机器学习初级教程，第二版(2nd。由…编辑).查普曼&霍尔/CRC。**

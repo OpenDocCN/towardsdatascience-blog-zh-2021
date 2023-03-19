@@ -16,11 +16,7 @@
 
 在这一系列博客文章的第一部分中，我探讨了 Databricks 如何与 Seldon-core 相结合来检查我所看到的部署和运行 MLOps 的大部分需求；然而，Seldon-core 的开源产品对最终用户来说相当麻烦，而且不符合简单性的愿景；写一个 python 类，按下按钮，得到 REST 端点。这篇文章是我上一篇文章的延伸，所以我推荐看看:
 
-[](/get-started-with-mlops-fd7062cab018) [## MLOps 入门
-
-### 包含开源工具的综合 MLOps 教程
-
-towardsdatascience.com](/get-started-with-mlops-fd7062cab018) 
+</get-started-with-mlops-fd7062cab018>  
 
 ## 我们在看什么工具
 

@@ -74,11 +74,7 @@ BigQuery 公共数据集确实涵盖了主要的区块链项目，但是如果�
 
 幸运的是，通常存在方便的客户端库，它们抽象出特定 API 的复杂性，并允许数据科学家使用他们喜欢的语言——Python 或 r。这种 Python 库的例子包括`[bitcoin](https://pypi.org/project/bitcoin/)`(比特币)、`[trinity](https://trinity.ethereum.org/)`和`[web3.py](https://web3py.readthedocs.io/en/stable/)`(以太坊)、`[blockcypher](https://github.com/blockcypher/blockcypher-python)`(比特币、莱特币、Dogecoin、Dash)、`[tronpy](https://pypi.org/project/tronpy/)`(创)、`[litecoin-utils](https://pypi.org/project/litecoin-utils/)`(莱特币)等。R 包的例子比较少但确实存在:`[Rbitcoin](https://cran.r-project.org/web/packages/Rbitcoin/index.html)`(比特币)`[ether](https://cran.r-project.org/web/packages/ether/index.html)`(以太坊)`[tronr](https://github.com/next-game-solutions/tronr)` (TRON)。
 
-[](https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753) [## 介绍 tronr，一个探索 TRON 区块链的 R 包
-
-### 查询账户余额、交易、代币转账等等。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753) 
+<https://levelup.gitconnected.com/introducing-tronr-an-r-package-to-explore-the-tron-blockchain-f0413f38b753>  
 
 除了 API，还可以考虑使用专用的 ETL 工具从区块链收集数据。这个领域一个著名的开源项目是“[区块链 ETL](http://blockchainetl.io/) ”，这是一个由 [Nansen.ai](https://nansen.ai/) 开发的[Python 脚本集合](https://github.com/blockchain-etl)。事实上，正是这些脚本将数据输入到前面提到的 BigQuery 公共数据集。
 

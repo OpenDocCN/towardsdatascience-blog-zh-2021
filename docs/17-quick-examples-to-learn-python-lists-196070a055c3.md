@@ -218,11 +218,7 @@ mylist = ["This", "is", "a", "great", "example"]newlist = [len(x) for x in mylis
 
 列表理解是一个非常重要的话题。如果你想了解更多，这里有一篇关于列表理解的文章。
 
-[](/11-examples-to-master-python-list-comprehensions-33c681b56212) [## 掌握 Python 列表理解的 11 个例子
-
-### 如何有效地使用列表理解？
-
-towardsdatascience.com](/11-examples-to-master-python-list-comprehensions-33c681b56212) 
+</11-examples-to-master-python-list-comprehensions-33c681b56212>  
 
 ## 结论
 

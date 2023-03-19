@@ -312,8 +312,4 @@ SIR 的扩散率。作者的图像
 
 ## 您可以在这里找到本系列的第 3 部分:
 
-[](/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2) [## 使用 Python 的图机器学习第 3 部分:无监督学习
-
-### 大都会艺术博物馆中绘画的聚类和嵌入
-
-towardsdatascience.com](/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2)
+</graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2> 

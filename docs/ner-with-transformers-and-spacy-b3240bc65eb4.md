@@ -118,10 +118,6 @@ Fastly released its Q1-21 performance on Thursday, after which the stock price d
 
 如果您有兴趣了解更多关于使用 NER 空间库的信息，我会在这里做更深入的介绍:
 
-[](/ner-for-extracting-stock-mentions-on-reddit-aa604e577be) [## NER 在 Reddit 上提取股票提及
-
-### 如何使用命名实体识别进行有意义的分类
-
-towardsdatascience.com](/ner-for-extracting-stock-mentions-on-reddit-aa604e577be) 
+</ner-for-extracting-stock-mentions-on-reddit-aa604e577be>  
 
 **所有图片均由作者提供，除非另有说明*

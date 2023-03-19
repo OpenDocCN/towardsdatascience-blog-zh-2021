@@ -36,11 +36,7 @@
 
 有关这些概念的更多背景知识，请查看这篇 3 分钟的文章。
 
-[](/decorators-and-closures-by-example-in-python-382758321164) [## Python 中的装饰器和闭包示例
-
-### 如何使用装饰器增强函数的行为
-
-towardsdatascience.com](/decorators-and-closures-by-example-in-python-382758321164) 
+</decorators-and-closures-by-example-in-python-382758321164>  
 
 # 跟踪装饰者:@tracefunc
 

@@ -201,12 +201,4 @@ for i, col in enumerate(df_cat.columns):
 
 绘制了变量的相关性和分布之后，如何知道应该处理多重共线性还是正态性问题？你可以从下面我以前的文章中找到更多信息:
 
-[](/multi-collinearity-in-regression-fe7a2c1467ea) [## 回归中的多重共线性
-
-### 为什么这是个问题？如何跟踪和修复它
-
-towardsdatascience.com](/multi-collinearity-in-regression-fe7a2c1467ea) [](/is-normal-distribution-necessary-in-regression-how-to-track-and-fix-it-494105bc50dd) [## 回归中正态分布有必要吗？如何跟踪修复？
-
-### 博克斯-考克斯变换，夏皮罗-维尔克检验，QQ 图
-
-towardsdatascience.com](/is-normal-distribution-necessary-in-regression-how-to-track-and-fix-it-494105bc50dd)
+</multi-collinearity-in-regression-fe7a2c1467ea>  </is-normal-distribution-necessary-in-regression-how-to-track-and-fix-it-494105bc50dd> 

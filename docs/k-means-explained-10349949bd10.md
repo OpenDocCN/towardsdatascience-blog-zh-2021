@@ -82,16 +82,4 @@ elbow 方法使用距离平方和(SSE)来根据数据点与其分配的聚类之
 
 这里有一些我写的其他文章，你可能会喜欢:
 
-[](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](/support-vector-machine-svm-explained-58e59708cae3) [## 支持向量机(SVM)解释说
-
-### 用 Python 解释和实现 SVM
-
-towardsdatascience.com](/support-vector-machine-svm-explained-58e59708cae3) [](/random-forest-explained-6b4849d56a2f) [## 兰登森林解释道
-
-### 决策树和随机森林的理解与实现
-
-towardsdatascience.com](/random-forest-explained-6b4849d56a2f)
+</markov-chain-explained-210581d7a4a9>  </support-vector-machine-svm-explained-58e59708cae3>  </random-forest-explained-6b4849d56a2f> 

@@ -105,20 +105,4 @@ I'm user
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [## 如何在命令行上创建和查看交互式备忘单
-
-### 停止搜索命令行。用作弊来节省时间
-
-towardsdatascience.com](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [](/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6) [## Hydra.cc 简介:配置数据科学项目的强大框架
-
-### 尝试不同的参数和模型，而无需花费数小时来修改代码！
-
-towardsdatascience.com](/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6) [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [## 模式介绍:验证数据的 Python 库
-
-### 验证您的数据变得更加复杂！
-
-towardsdatascience.com](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6)
+</how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff>  </introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6>  </introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  </pytest-for-data-scientists-2990319e55e6> 

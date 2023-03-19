@@ -18,11 +18,7 @@
 
 首先，我们需要理解 Vimrc 文件。Vimrc 文件是 Vim 的配置文件，允许您定制 Vim、安装插件等等。它通常在`~/.vimrc`中找到，但是如果它不在那里，你可以创建它。对于 Windows，您可以在这里找到关于查找 vimrc 文件的更多信息。
 
-[](https://vim.fandom.com/wiki/Open_vimrc_file) [## 打开 vimrc 文件
-
-### 1 什么是 vimrc？2 每个目录的 vimrc 3 位置 vimrc 4 打开 vimrc 4.1 来源 vimrc 4.2 从…恢复
-
-vim.fandom.com](https://vim.fandom.com/wiki/Open_vimrc_file) 
+<https://vim.fandom.com/wiki/Open_vimrc_file>  
 
 我在寻找一个 vimrc 文件，其中充满了有用的缺省值，作为我未来的 vimrc 的基础。首先，我想分享我在多个帖子和讨论中发现的一个反复出现的答案。引用道格·布莱克的文章，
 
@@ -32,11 +28,7 @@ vim.fandom.com](https://vim.fandom.com/wiki/Open_vimrc_file)
 
 在我的搜索过程中，我偶然发现了 Reddit 上的这篇文章，它指出 Sensible 是 vimrc 文件的一个很好的起点。
 
-[](https://github.com/tpope/vim-sensible) [## t ope/vim-可感知
-
-### 可以把 sensible.vim 看作是“不兼容”模式之上的一个步骤:一组通用的默认设置，希望每个人都可以…
-
-github.com](https://github.com/tpope/vim-sensible) 
+<https://github.com/tpope/vim-sensible>  
 
 与我得到的其他选择(范围从完全相同的 Sensible 到超过 300 行)相比，我决定更深入地研究这一点作为起点。
 
@@ -261,11 +253,7 @@ endif
 
 `=~#`操作符意味着与正则表达式匹配，所以在这种情况下，它检查您是否正在使用`fish` shell。Vim 在`fish`上运行时有一些已知的问题，主要是因为`fish`不完全兼容 POSIX。
 
-[](https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix) [## fish 为什么&如何不支持 POSIX？
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix) 
+<https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix>  
 
 如果您正在使用 Vim 的旧版本(比 7.4 版本更早)或者使用没有补丁 276 的 7.4 版本，这一行将把您的 shell 设置为`bash`，以避免在运行一些不能用`fish` shell 执行的命令时出错。
 
@@ -317,11 +305,7 @@ set sessionoptions-=options
 
 Tim Pope 自己解释说，他禁用它是因为记住全局选项会覆盖对 vimrc 所做的更改，这是他不想要的。
 
-[](https://github.com/tpope/vim-sensible/issues/117) [## 为什么设置 session options-= options Issue # 117 tpope/vim-sensible
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/tpope/vim-sensible/issues/117) 
+<https://github.com/tpope/vim-sensible/issues/117>  
 
 ```
 set viewoptions-=options
@@ -331,11 +315,7 @@ set viewoptions-=options
 
 我对视图不太熟悉，但是这一页解释了为什么不使用这一行会导致 Vim 在加载保存的视图时跳转到不同的工作目录。
 
-[](https://vim.fandom.com/wiki/Make_views_automatic) [## 使视图自动化
-
-### 当你关闭一个文件的时候，你可以使用:mkview 来保存文件夹，但是你必须在下次使用…
-
-vim.fandom.com](https://vim.fandom.com/wiki/Make_views_automatic) 
+<https://vim.fandom.com/wiki/Make_views_automatic>  
 
 ```
 “ Allow color schemes to do bright colors without forcing bold.if &t_Co == 8 && $TERM !~# ‘^Eterm’
@@ -369,11 +349,7 @@ endif
 
 这两行将防止意外删除，而不可能同时使用 Ctrl+U 和 Ctrl+W 进行撤销。通过在实际的 Ctrl+U 或 Ctrl+W 之前执行`Ctrl+G u`，我们可以使用撤销操作(正常模式下的`u`)恢复我们删除的文本，如果没有这些重新映射，这是不可能的。
 
-[](https://vim.fandom.com/wiki/Recover_from_accidental_Ctrl-U) [## 从意外 Ctrl-U 中恢复
-
-### 您可能会意外丢失正在文本中键入的文本，并且无法使用“撤销”来恢复。这个小贴士可以让你…
-
-vim.fandom.com](https://vim.fandom.com/wiki/Recover_from_accidental_Ctrl-U) 
+<https://vim.fandom.com/wiki/Recover_from_accidental_Ctrl-U>  
 
 # 最后的想法
 
@@ -383,11 +359,7 @@ vim.fandom.com](https://vim.fandom.com/wiki/Recover_from_accidental_Ctrl-U)
 
 有一些我省略了，比如如果使用 fish shell，将 shell 设置为 bash，因为我自己也在使用 zsh shell。
 
-[](/maybe-its-time-to-upgrade-your-terminal-experience-a9e12b2af77) [## 也许是时候升级你的终端体验了
-
-### 默认的 MacOS 终端不适合你，也不适合任何人。
-
-towardsdatascience.com](/maybe-its-time-to-upgrade-your-terminal-experience-a9e12b2af77) 
+</maybe-its-time-to-upgrade-your-terminal-experience-a9e12b2af77>  
 
 首先，我开始寻找构建 vimrc 的最佳文件。在搜索过程中，我发现很多其他人也在搜索同样的东西。然而，在对 Vim 配置有了基本的了解之后，我决定从头开始构建一个，因为我使用 Vim 不仅是为了编码，也是为了写作。
 
@@ -397,8 +369,4 @@ towardsdatascience.com](/maybe-its-time-to-upgrade-your-terminal-experience-a9e1
 
 *学习机是一系列关于我所学到的，并且认为足够有趣可以分享的事情的故事。有时也是关于机器学习的基础。* [*获得定期更新*](https://chandraseta.medium.com/subscribe) *上新故事和* [*成为中等会员*](https://chandraseta.medium.com/membership) *阅读无限故事。*
 
-[](https://chandraseta.medium.com/membership) [## 成为媒体成员—里奥纳尔迪·钱德拉塞塔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事
-
-chandraseta.medium.com](https://chandraseta.medium.com/membership)
+<https://chandraseta.medium.com/membership> 

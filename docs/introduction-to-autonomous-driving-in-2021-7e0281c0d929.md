@@ -116,11 +116,7 @@
 
 它需要计算机视觉和深度学习基础知识。
 
-[](/understanding-perception-and-motion-planning-for-autonomous-driving-2021-e9241e067db7) [## 理解自动驾驶的感知和运动规划(2021)
-
-### 深入研究当前的 SOTA 方法，共同预测汽车周围的环境及其行为
-
-towardsdatascience.com](/understanding-perception-and-motion-planning-for-autonomous-driving-2021-e9241e067db7) 
+</understanding-perception-and-motion-planning-for-autonomous-driving-2021-e9241e067db7>  
 
 # 关键 4)数据为王
 

@@ -100,16 +100,4 @@ df.orderBy('country', 'age').show(truncate=False)+----------+---------+---------
 
 ## 你可能也喜欢
 
-[](/distinct-vs-dropduplicates-in-spark-3e28af1f793c) [## Spark 中的 distinct()与 dropDuplicates()
-
-### Spark 中 distinct()和 dropDuplicates()有什么区别？
-
-towardsdatascience.com](/distinct-vs-dropduplicates-in-spark-3e28af1f793c) [](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/how-to-efficiently-re-partition-spark-dataframes-c036e8261418) [## 如何有效地重新划分火花数据帧
-
-### 如何增加或减少火花数据帧的数量
-
-towardsdatascience.com](/how-to-efficiently-re-partition-spark-dataframes-c036e8261418)
+</distinct-vs-dropduplicates-in-spark-3e28af1f793c>  </sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a>  </how-to-efficiently-re-partition-spark-dataframes-c036e8261418> 

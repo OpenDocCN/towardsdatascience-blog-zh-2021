@@ -14,11 +14,7 @@
 
 现在有这么多很棒的网络研讨会、会议和虚拟活动，有时候我真希望能全部参加。我是说，你永远学不完东西！但是，我知道我不能参加所有的活动，主要是因为时间限制。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 因此，我决定浏览本月所有与数据科学相关的活动，并选择我认为非常有利于参加的四个活动，我想与您分享这些活动，以防您正在寻找好的活动来关注和学习新的东西，或者只是与社区进行社交。
 
@@ -42,11 +38,7 @@ AI for Good lab 团队专注于应用数据科学概念、机器学习和人工�
 
 本次网络研讨会*免费*参加，通过注册本次网络研讨会，您将能够收到一份录音，以防因时差原因无法现场参加。
 
-[](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) [## 您现在可以开始学习的 5 门在线数据科学课程
-
-### 在家舒适地学习数据科学的所有基础知识。
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) 
+</5-online-data-science-courses-you-can-start-now-748e4a2b5403>  
 
 # №3:2021 年数据科学日
 
@@ -72,11 +64,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2
 
 参加教育活动、讲座和会议是任何领域的任何人拓宽人脉、参与社区活动和结识志同道合者的主要途径。但是最近出去认识新的人，讨论研究或者仅仅是最近的技术进步并不是一个选择——希望这很快会改变。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 所以，现在，如果我们想“认识”新朋友，我们必须虚拟地去做，因为科学不会因为任何事情而停止，它将继续前进，我们必须跟上它。幸运的是，一旦 COVID 来袭，许多大学、学院和组织者决定将他们为学生提供的所有活动扩展到任何地方任何想学习新事物的人。
 

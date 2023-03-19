@@ -316,8 +316,4 @@ df_tx_hop = flat_table.normalize(df_tx_hop)df_tx_hop = df_tx_hop.drop(columns=["
 
 与此同时，如果您有任何问题或者您想了解更多关于 TigerGraph 的信息，请加入 TigerGraph Discord！
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 572 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

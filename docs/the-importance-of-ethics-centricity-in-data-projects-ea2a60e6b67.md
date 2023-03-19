@@ -64,7 +64,7 @@
 
 由于数据项目的伦理可能比经济学更模糊，我们创建了我们的框架作为指南。为什么？提供所需的结构和早期预警信号，帮助我们的客户遵循他们的道德指南针，并采取适当的措施。这样每个人都可以安全公平地享受数据和 AI 带来的好处。
 
-*这篇文章和框架已经与我的同事曼多·罗特曼和楼科曼合作完成，并于早前发表到我们公司的网站*[](https://www.igh.com/post/ethical-data-analytics-iii-solving-an-ethical-use-case)**。它是一个三件套系列的一部分，其中第一部* [*在这里可以找到*](/ethical-data-analytics-what-every-business-needs-to-know-e772bf8f670c) *，第二部* [*在这里可以找到*](/how-to-make-your-data-project-ethical-by-design-99629dcd2443) *。**
+*这篇文章和框架已经与我的同事曼多·罗特曼和楼科曼合作完成，并于早前发表到我们公司的网站*<https://www.igh.com/post/ethical-data-analytics-iii-solving-an-ethical-use-case>**。它是一个三件套系列的一部分，其中第一部* [*在这里可以找到*](/ethical-data-analytics-what-every-business-needs-to-know-e772bf8f670c) *，第二部* [*在这里可以找到*](/how-to-make-your-data-project-ethical-by-design-99629dcd2443) *。**
 
 *[1]SFTP 准则是从一项对 36 份著名的人工智能原则文件进行的元研究中提炼出来的。*
 

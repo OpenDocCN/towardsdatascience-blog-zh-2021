@@ -124,20 +124,8 @@
 
 *数据科学体验是一系列关于我作为数据科学家和机器学习工程师的个人经历和观点的故事。* [*获得定期更新*](https://chandraseta.medium.com/subscribe) *上新故事和* [*成为中等会员*](https://chandraseta.medium.com/membership) *阅读无限故事。*
 
-[](https://chandraseta.medium.com/membership) [## 成为媒体成员—里奥纳尔迪·钱德拉塞塔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事
-
-chandraseta.medium.com](https://chandraseta.medium.com/membership) 
+<https://chandraseta.medium.com/membership>  
 
 感谢阅读！这里有一些我的其他文章，你可能会喜欢。
 
-[](/5-things-i-learned-from-my-first-time-working-with-big-data-a6193deb982f) [## 我从第一次使用大数据中学到的 5 件事
-
-### 你从事过大数据或“大数据”方面的工作吗？
-
-towardsdatascience.com](/5-things-i-learned-from-my-first-time-working-with-big-data-a6193deb982f) [](/5-questions-to-ask-yourself-before-deciding-to-become-a-data-scientist-c266172eb7af) [## 在决定成为数据科学家之前要问自己的 5 个问题
-
-### 在走上数据科学职业道路之前，先了解自己
-
-towardsdatascience.com](/5-questions-to-ask-yourself-before-deciding-to-become-a-data-scientist-c266172eb7af)
+</5-things-i-learned-from-my-first-time-working-with-big-data-a6193deb982f>  </5-questions-to-ask-yourself-before-deciding-to-become-a-data-scientist-c266172eb7af> 

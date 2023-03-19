@@ -74,16 +74,4 @@ Kaniko 项目提供了两个图像— `warmer`和`executor`，上面我们使用
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/61?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_61)
 
-[](/making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f) [## 使用 kubectl 插件简化 Kubernetes 操作
-
-### 使用这些 kubectl 插件来提高您的生产力，使所有的 Kubernetes 任务和操作更容易，更快和…
-
-towardsdatascience.com](/making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f) [](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [## yq:在命令行中掌握 YAML 处理
-
-### 学习使用 yq 命令行实用程序和这个简单的备忘单更有效地解析和操作 YAML 文件
-
-towardsdatascience.com](/yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823) [](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [## 调试 Kubernetes 工作负载的最简单方法
-
-### 对 Kubernetes 上运行的任何应用程序进行调试和故障排除的最快最简单的方法…
-
-towardsdatascience.com](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75)
+</making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f>  </yq-mastering-yaml-processing-in-command-line-e1ff5ebc0823>  </the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75> 

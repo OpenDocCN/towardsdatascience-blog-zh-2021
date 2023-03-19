@@ -22,11 +22,7 @@
 
 我已经写了一个关于地理人口分析的“ **kedro 动手**”系列，本文中的知识已经在那里实现了:
 
-[](/kedro-hands-on-build-your-own-demographics-atlas-pt-1-16f2cb6676d5) [## Kedro 手把手:建立自己的人口统计图谱。角。1:数据收集和清理
-
-### 如何使用 OSM(开放街道地图)和 OGD(开放政府数据)和 kedro 建立自己的简单人口地图集…
-
-towardsdatascience.com](/kedro-hands-on-build-your-own-demographics-atlas-pt-1-16f2cb6676d5) 
+</kedro-hands-on-build-your-own-demographics-atlas-pt-1-16f2cb6676d5>  
 
 # 什么是 kedro，为什么要用它？
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/kedro-hands-on-build-your-own-demographics-atlas-pt-1-1
 
 [Jo Stichbury](https://medium.com/u/49dd0198b639?source=post_page-----3036c3b7564--------------------------------) 关于 kedro 的文章是一个很好的开始:
 
-[](/kedro-prepare-to-pimp-your-pipeline-f8f68c263466) [## 准备给你的管道拉皮条
-
-### 用于生产就绪数据管道的新 Python 库
-
-towardsdatascience.com](/kedro-prepare-to-pimp-your-pipeline-f8f68c263466) 
+</kedro-prepare-to-pimp-your-pipeline-f8f68c263466>  
 
 # #1.模块化管道设计结构
 
@@ -131,11 +123,7 @@ logging.error(abc)
 
 我通常会尽量多地记录`*warnings*` 和`*errors*` ，但尽量少记录`*infos*` ，因为讽刺的是，它们是你最不想存储的信息。要了解有关不同级别的日志记录的更多信息，请参考此处:
 
- [## 日志记录-Python-Python 3 . 9 . 1 文档的日志记录工具
-
-### 源代码:Lib/logging/__init__。py 这个模块定义了实现灵活事件记录的函数和类…
-
-docs.python.org](https://docs.python.org/3/library/logging.html) 
+  
 
 另一个技巧是指定**处理程序**来记录到管道的特定文件夹中——这意味着如果您正在运行子-子管道，日志应该保存在该管道的相应文件夹中。从上面的例子中可以看出，如果您只想保存`**prepration_1_a**` 子管道的日志，文件应该保存在这里:
 
@@ -149,11 +137,7 @@ docs.python.org](https://docs.python.org/3/library/logging.html)
 
 我同意 Lou Kratz 关于 kedro 的一个问题是，kedro 不支持像用增量数据集读取那样好的写入结果。这意味着，如果您正在处理一个运行了 6-7 个小时的大型数据集，突然内存不足或遇到一些错误…您的结果将不会被保存(哎哟！).问题已经在这里[提出](https://github.com/quantumblacklabs/kedro/issues/499)，让我们等待更新。
 
-[](/kedro-6-months-in-138c27aed13b) [## Kedro 6 个月
-
-### 在各个项目和团队使用了 6 个月的 kedro 之后，列举自己的想法，带回家。
-
-towardsdatascience.com](/kedro-6-months-in-138c27aed13b) 
+</kedro-6-months-in-138c27aed13b>  
 
 与此同时，我们可以通过将保存结果分成多个文件并使用日志记录来跟踪它们来实现一种变通方法。如果您想将结果保存到一个文件中，使用`pandas.write_csv`的**追加**功能，如下所示。使用这种方法，当在`*pipelines.py*` 中声明节点时，您不必指定`**Outputs**`(参见我在技巧#1 中的 3 个节点的例子)。记得直接在`*nodes.py*`写日志跟踪进程就行了
 

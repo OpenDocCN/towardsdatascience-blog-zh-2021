@@ -90,11 +90,7 @@
 
 **曼城的罗德里&西班牙似乎是一个重要的影响者！**
 
-[](https://jovian.ml/rajbsangani/six-degrees-medium/v/1&cellId=12) [## rajbsangani/六度中等木星
-
-### 与 rajbsangani 合作开发六度介质笔记本电脑。
-
-jovian.ml](https://jovian.ml/rajbsangani/six-degrees-medium/v/1&cellId=12) 
+<https://jovian.ml/rajbsangani/six-degrees-medium/v/1&cellId=12>  
 
 # 结尾部分
 

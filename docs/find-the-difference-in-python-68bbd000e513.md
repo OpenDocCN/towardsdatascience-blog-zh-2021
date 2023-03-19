@@ -154,11 +154,7 @@ dl.get_close_matches('thme', ['them', 'that', 'this'])
 
 通常，该距离由修改术语 A 到 b 所需的最小替换、插入和删除次数来定义。有时，不同的修改将被赋予不同的权重。在本文中，我将跳过算法部分。如果你感兴趣的话，可以去 Levenshtein Distance 的 Wiki 页面了解详情。
 
- [## 莱文斯坦距离
-
-### 在信息论、语言学和计算机科学中，Levenshtein 距离是一个字符串度量，用于测量…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Levenshtein_distance) 
+  
 
 其实这篇文章还没写完。使用 Difflib，我们甚至可以实现如何将 Levenshtein 距离应用于两个字符串的步骤。这可以使用 Difflib 中的`SequenceMatcher`类来完成。
 
@@ -208,10 +204,6 @@ seq_matcher = dl.SequenceMatcher(lambda c: c in 'abc', s1, s2)
 
 在本文中，我介绍了另一个名为 Difflib 的 Python 内置库。它可以生成报告，指出两个列表或两个字符串之间的差异。此外，它还可以帮助我们在输入和候选字符串列表之间找到最匹配的字符串。最终，我们可以使用这个模块的一个类来实现一些更复杂和高级的功能。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

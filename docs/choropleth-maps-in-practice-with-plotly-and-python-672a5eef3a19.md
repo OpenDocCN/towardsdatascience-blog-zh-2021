@@ -14,11 +14,7 @@ Choropleth 地图是那些整个地区都被颜色覆盖的地图。来源于古
 
 在继续讲下去之前，我想让你知道这个故事是对前一个故事的补充。如果你想要更多的信息或者想知道 choropleth 地图和 GeoJSON 的基本原理是什么，我强烈推荐你从这个故事开始，然后回来了解更多的细节🙃
 
-[](/how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05) [## 如何使用 Plotly 和 Dash 创建出色的自定义 choropleth 地图🌎
-
-### 使用 GeoJSON 文件迈出第一步&了解如何在地球上的任何地方构建 choropleth 地图。用…举例说明
-
-towardsdatascience.com](/how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05) 
+</how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05>  
 
 话虽如此，今天的目的是:
 
@@ -131,26 +127,14 @@ import plotly.express as px
 
 在结果部分，我们看到了进化的一部分，但不能用最后的图片来说是否已经过了顶峰。一个很好的解决方法是动画我们的地图。为此，我向您推荐下面的故事，在这个故事中，您将学习如何使用 Plotly 跟踪 KPI。
 
-[](/how-to-create-animated-scatter-maps-with-plotly-and-dash-f10bb82d357a) [## 如何使用 plotly 和 dash 创建出色的动画散点图
-
-### plotly 中的动画地图可能很难配置。在本教程中，您将学习如何逐步进行，使用…
-
-towardsdatascience.com](/how-to-create-animated-scatter-maps-with-plotly-and-dash-f10bb82d357a) 
+</how-to-create-animated-scatter-maps-with-plotly-and-dash-f10bb82d357a>  
 
 此外，如果我们今天专注于地图创建，Plotly 还提供了一个名为 Dash 的框架，它允许在易于使用的应用程序中集成地块和地图。如果你希望通过 Heroku 发现如何嵌入你的 choropleth 地图并在互联网上免费部署，我建议你阅读这篇文章
 
-[](/deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8) [## 在 Heroku 上部署 Dash 或 Flask web 应用程序。简易 CI/CD。
-
-### 在笔记本电脑上开发 python web 应用非常棒。让每个人都能接触到它更令人满意。让我们…
-
-towardsdatascience.com](/deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8) 
+</deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8>  
 
 最后，要发现更多关于 GeoJSON 的信息，并获得更多关于今天的代码的信息，我只能建议你去了解激发这个故事的主要故事。
 
-[](https://medium.com/@thibaud.lamothe2/how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05) [## 如何使用 Plotly 和 Dash 创建出色的自定义 choropleth 地图🌎
-
-### 使用 GeoJSON 文件迈出第一步&了解如何在地球上的任何地方构建 choropleth 地图。用…举例说明
-
-medium.com](https://medium.com/@thibaud.lamothe2/how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05) 
+<https://medium.com/@thibaud.lamothe2/how-to-create-outstanding-custom-choropleth-maps-with-plotly-and-dash-49ac918a5f05>  
 
 > 希望你喜欢，希望不久能见到你🤠

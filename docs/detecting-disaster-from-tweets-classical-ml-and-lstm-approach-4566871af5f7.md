@@ -12,11 +12,7 @@
 
 我将使用来自 Kaggle 挑战赛的数据，该挑战赛名为“**自然语言处理灾难推文**”。你可以在下面链接的“数据”部分找到“ *train.csv* ”文件。
 
-[](https://www.kaggle.com/c/nlp-getting-started/overview) [## 灾难微博的自然语言处理
-
-### 预测哪些推文是关于真正的灾难，哪些不是
-
-www.kaggle.com](https://www.kaggle.com/c/nlp-getting-started/overview) 
+<https://www.kaggle.com/c/nlp-getting-started/overview>  
 
 数据集有 5 列。列“ *target* ”是标签列，这意味着我将使用其他列，如“ *text* ”、“ *location* ”和“ *keyword* ”来训练一个可以预测列“ *target* 的值的模型。现在，首先让我们了解每一列的含义:
 
@@ -317,8 +313,4 @@ weighted avg       0.77      0.77      0.77      2270
 
 参考:
 
-[](https://keras.io/examples/nlp/pretrained_word_embeddings/) [## Keras 文档:使用预先训练的单词嵌入
-
-### 作者:fchollet 创建日期:2020/05/05 最近修改时间:2020/05/05 描述:新闻组上的文本分类 20…
-
-keras.io](https://keras.io/examples/nlp/pretrained_word_embeddings/)
+<https://keras.io/examples/nlp/pretrained_word_embeddings/> 

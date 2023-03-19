@@ -18,34 +18,18 @@
 
 你如何建立一种“文档优先的文化”？ [Prukalpa](https://medium.com/u/38a5ef6ab673?source=post_page-----c4fb73c35af3--------------------------------) 分享 Atlan 的数据团队如何应对这一挑战。这不是一个一夜之间的过程；团队集思广益，设定目标，不断迭代，并实现对文档框架的修复。他们成功地将文档整合到日常工作流程中，这表明其他数据团队也有可能采用他们的方法。
 
-[](/data-documentation-woes-heres-a-framework-6aba8f20626c) [## 数据文档困境？这里有一个框架。
-
-### 我们用来建立文档优先文化的原则和步骤
-
-towardsdatascience.com](/data-documentation-woes-heres-a-framework-6aba8f20626c) 
+</data-documentation-woes-heres-a-framework-6aba8f20626c>  
 
 当您探索一个新的开源工具或希望了解一个项目如何工作时，自述文件通常是您首先要看的东西。Navendu Pottekkat 撰写 kickass 自述文件的指南将关键部分分解为有用的自述文件。他认为，“如果人们不知道你的软件是做什么的，那么他们就不会使用它或为它做贡献，他们很可能会在开源软件的海洋中找到更清晰和简洁的东西。”Navendu 的文章非常详细，这对于 README 指南来说是不寻常的；他还注意加入一些技巧，让它们看起来更有吸引力。
 
-[](/how-to-write-an-awesome-readme-68bf4be91f8b) [## 如何写一篇精彩的自述
-
-### 一个全面的指南写自述，脱颖而出，使人去哇！
-
-towardsdatascience.com](/how-to-write-an-awesome-readme-68bf4be91f8b) 
+</how-to-write-an-awesome-readme-68bf4be91f8b>  
 
 [亚当·加伊特科夫斯基](https://medium.com/u/ca8e382fc78a?source=post_page-----c4fb73c35af3--------------------------------)分享了使用 R Markdown 和 LaTeX 编写专业数据科学文档的简短指南。对于那些不经常使用它的人来说，LaTeX 可能会有一个陡峭的学习曲线。尽管如此，学习 LaTeX 是一项值得的投资，因为它提供了文本和数学公式的一致格式。
 
-[](/writing-professsional-data-science-documentation-1141737836fa) [## 撰写专业数据科学文档
-
-### 使用 LaTeX 启动 R Markdown 可以帮助您专业地记录有关数据科学的技术细节…
-
-towardsdatascience.com](/writing-professsional-data-science-documentation-1141737836fa) 
+</writing-professsional-data-science-documentation-1141737836fa>  
 
 如果你仍然不相信文档是必不可少的，[阿德蒙德·李](https://medium.com/u/7cfb1b8791bb?source=post_page-----c4fb73c35af3--------------------------------)为数据科学家证明了它的重要性。他认为文档确保了可再现性和项目的完成，并建议同行为了可读性而仔细阅读它总是一个好主意。
 
-[](/why-you-should-document-your-work-as-a-data-scientist-a265af8a373) [## 为什么您应该记录您作为数据科学家的工作
-
-### 你看。
-
-towardsdatascience.com](/why-you-should-document-your-work-as-a-data-scientist-a265af8a373) 
+</why-you-should-document-your-work-as-a-data-scientist-a265af8a373>  
 
 在编写更好的文档方面，你有最喜欢的资源吗？你的团队使用的一些最佳实践是什么？删除一些链接，我想在评论中了解更多！

@@ -119,15 +119,7 @@ Josh Appel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 PS 我定期写[商业科学](https://medium.com/tag/business-science)。推荐后续阅读:
 
-[](/to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61) [## 预测还是不预测，这是供应链的问题
-
-### 解决利润而不是准确性的 5 个秘密因素
-
-towardsdatascience.com](/to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61) [](/how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9) [## 如何通过一个简单的步骤增加您数据的价值
-
-### 为什么数据审计很重要，以及如何做得更好
-
-towardsdatascience.com](/how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9) 
+</to-forecast-or-not-to-forecast-that-is-the-supply-chain-question-439e0eb47b61>  </how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

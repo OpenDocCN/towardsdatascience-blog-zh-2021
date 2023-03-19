@@ -14,11 +14,7 @@
 
 在这里，实习有所作为，不仅仅是帮助学生获得经验，知道毕业后找到工作后会有什么期待。不过，这也有助于他们决定获得学位后想从事什么职业。因此，如果你是一名学生，本科生或研究生，试图获得实习机会，这肯定会改变你对自己领域的看法，并有助于你以后找到工作。
 
-[](/what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1) [## 什么是成功的数据科学家？成功的 5 个特征
-
-### 学位不是成功的保证。
-
-towardsdatascience.com](/what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1) 
+</what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1>  
 
 每年九月，全球的公司都会开放下一年夏天的申请。所以，今天，我将带你浏览一下 2021 年秋季或 2022 年夏季的 10 个远程实习机会，你现在就可以申请。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/what-makes-a-successful-data-scientist-5-traits-to-succ
 
 接下来是 IBM 提供的数据科学实习。[这个](https://careers.ibm.com/job/13393046/remote-data-science-and-engineering-intern-remote/?codes=SN_LinkedIn)远程机会对欧洲或美国的学生开放，国际申请人也有机会。申请这份实习工作，需要具备中级 Python 技能和 NLP 知识，有扎实的数据结构基础，英语流利。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 # №4: Woohoo 机器学习实习
 
@@ -56,11 +48,7 @@ Workiva 为任何居住在美国或拥有美国工作许可证的人提供远程
 
 总部位于美国的点餐和就餐应用 Snackpass 提供这种远程实习，在这里你可以帮助回答推广餐馆的重要商业问题。为数百名用户设计和构建机器学习模型，针对不同的用例测试和优化这些模型。
 
-[](/5-books-to-help-you-master-the-pandas-library-acb5c305159b) [## 帮助你掌握熊猫图书馆的 5 本书
-
-### 超越“进口熊猫作为 pd”
-
-towardsdatascience.com](/5-books-to-help-you-master-the-pandas-library-acb5c305159b) 
+</5-books-to-help-you-master-the-pandas-library-acb5c305159b>  
 
 # №8: 1Qbit 机器学习研究员实习
 
@@ -78,7 +66,7 @@ Shopify 让开设自己的私人企业变得像在网上购买产品一样简单
 
 无论你上学是为了什么学位，我们在大学里学到的东西和我们毕业后开始找工作后实际要做的事情之间总是有差距的。不仅如此，通常，在我们毕业并开始经历求职噩梦之后——不过你最好在毕业之前开始——我们会意识到，我们甚至没有获得一个完整级别职位所需的经验。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

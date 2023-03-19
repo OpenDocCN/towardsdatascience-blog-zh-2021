@@ -151,4 +151,4 @@ Google 的 Pub/Sub 平台非常适合处理大量的数据和分离你的架构�
 
 **祝好运，编码快乐！**
 
-*原载于 2021 年 4 月 25 日 http://www.theappliedarchitect.com*[](http://www.theappliedarchitect.com/setting-up-gcp-pub-sub-integration-with-python/)**。**
+*原载于 2021 年 4 月 25 日 http://www.theappliedarchitect.com*<http://www.theappliedarchitect.com/setting-up-gcp-pub-sub-integration-with-python/>**。**

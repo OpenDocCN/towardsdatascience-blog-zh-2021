@@ -54,11 +54,7 @@
 
 如果你想了解更多关于如何免费在线学习数据科学以及在哪里可以找到资源，我之前写了一个全面的指南，可以在下面找到。
 
-[](/how-to-learn-data-science-for-free-eda10f04d083) [## 如何免费学习数据科学
-
-### 一个完整的学习路径，包括不花你一分钱的资源
-
-towardsdatascience.com](/how-to-learn-data-science-for-free-eda10f04d083) 
+</how-to-learn-data-science-for-free-eda10f04d083>  
 
 感谢阅读！
 

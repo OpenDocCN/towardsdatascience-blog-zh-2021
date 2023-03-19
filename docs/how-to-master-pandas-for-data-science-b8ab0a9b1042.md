@@ -192,23 +192,19 @@ rf_train_f1 = f1_score(y_train, y_train_pred, average='weighted')
 *# 5\. Test set performance**# 5.1\. Calculate Accuracy* rf_test_accuracy = accuracy_score(y_test, y_test_pred) *# 5.2\. Calculate MCC* rf_test_mcc = matthews_corrcoef(y_test, y_test_pred)*# Calculate F1-score* rf_test_f1 = f1_score(y_test, y_test_pred, average='weighted')
 ```
 
-[](/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd) [## 如何用 Python 构建你的第一个机器学习模型
+</how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd> [## 如何用 Python 构建你的第一个机器学习模型
 
 towardsdatascience.com](/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd) 
 
 *   也可以执行超参数调整，以便通过搜索最佳超参数集来提高模型性能。
 
-[](/how-to-tune-hyperparameters-of-machine-learning-models-a82589d48fc8) [## 如何调整机器学习模型的超参数
-
-### 使用 Scikit-learn 的分步教程
-
-towardsdatascience.com](/how-to-tune-hyperparameters-of-machine-learning-models-a82589d48fc8) 
+</how-to-tune-hyperparameters-of-machine-learning-models-a82589d48fc8>  
 
 # 5.学习资源
 
 ## 5.1.熊猫官方文件
 
-正如在介绍性段落中简要提到的，整个熊猫文档由 3411 页组成。具体来说，文档由 4 部分组成:(1)[](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)*，(2) [*用户指南*](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) ，(3) [*API 参考*](https://pandas.pydata.org/docs/reference/index.html#api) ，(4) [*开发者指南*](https://pandas.pydata.org/docs/development/index.html#development) 。*
+正如在介绍性段落中简要提到的，整个熊猫文档由 3411 页组成。具体来说，文档由 4 部分组成:(1)<https://pandas.pydata.org/docs/getting_started/index.html#getting-started>*，(2) [*用户指南*](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) ，(3) [*API 参考*](https://pandas.pydata.org/docs/reference/index.html#api) ，(4) [*开发者指南*](https://pandas.pydata.org/docs/development/index.html#development) 。*
 
 *官方的 [*Pandas 用户指南*](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html) 提供了一个全面的文档，其中有大量的例子来解释每个功能是如何使用的。这些用户指南被方便地组合在一起，用于涵盖广泛主题的常见任务。如果你多少知道你想做什么，这是特别有用的。例如，如果你知道你想要更多关于如何在 Pandas 中选择数据的信息，那么你可以阅读关于 [*索引和选择数据*](https://pandas.pydata.org/docs/user_guide/indexing.html) 的指南。*
 
@@ -294,11 +290,7 @@ towardsdatascience.com](/how-to-tune-hyperparameters-of-machine-learning-models-
 
 *我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub 页面](https://github.com/dataprofessor/))。*
 
-*[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+*<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

@@ -252,16 +252,8 @@ for idx, row in santa_fe6.iterrows():
 
 选举调查是用柱形图、堆积柱形图还是发散柱形图？
 
-[](/election-surveys-with-plotly-50c904d730de) [## 用 Plotly 进行的选举调查
-
-### 堆叠棒线还是发散棒线？
-
-towardsdatascience.com](/election-surveys-with-plotly-50c904d730de) 
+</election-surveys-with-plotly-50c904d730de>  
 
 平行坐标图与 Plotly，规范化或标准化？
 
-[](/parallel-coordinates-plots-with-plotly-dffe3f526c6b) [## 平行坐标用 Plotly 绘制
-
-### 常态化还是标准化？
-
-towardsdatascience.com](/parallel-coordinates-plots-with-plotly-dffe3f526c6b)
+</parallel-coordinates-plots-with-plotly-dffe3f526c6b> 

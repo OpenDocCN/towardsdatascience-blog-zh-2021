@@ -20,11 +20,7 @@
 
 当给别人发短信时，如果你犯了一个错误，你的错误通常会被自动更正等人工智能应用程序更正。为了探索数据科学和人工智能的更多日常应用，我强烈推荐通过下面提供的链接查看下面的文章。涵盖了我们日常生活中 AI 的大部分常见用例。
 
-[](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) [## 数据科学和人工智能的 10 个令人敬畏的现实世界应用
-
-### 理解和分析人工智能和数据科学在现实世界中的日常使用！
-
-towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) 
+</10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74>  
 
 毫不奇怪，人工智能在现代世界中有这些奇妙的日常应用。然而，看看当代人工智能的一些更奇特和独特的用例是耐人寻味的。
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-
 
 要了解这个主题以及人工智能如何影响与宇宙相关的主题的定期发现，我强烈建议查看我以前的一篇文章“人工智能是破解宇宙奥秘的关键，原因如下！”从下面提供的链接。
 
-[](/artificial-intelligence-is-the-key-to-crack-the-mysteries-of-the-universe-heres-why-56c208d35b62) [## 人工智能是破解宇宙奥秘的关键，下面是原因！
-
-### 人工智能、数据科学和深度学习的工具是否先进到足以破解人类大脑的秘密
-
-towardsdatascience.com](/artificial-intelligence-is-the-key-to-crack-the-mysteries-of-the-universe-heres-why-56c208d35b62) 
+</artificial-intelligence-is-the-key-to-crack-the-mysteries-of-the-universe-heres-why-56c208d35b62>  
 
 # 2.人工智能在占星术、命理学和其他类似领域的应用
 
@@ -110,11 +102,7 @@ towardsdatascience.com](/artificial-intelligence-is-the-key-to-crack-the-mysteri
 
 如果你有兴趣了解更多关于如何利用人工智能的力量来改善你的营销策略，请查看下面提供的链接。
 
-[](/3-ways-to-utilize-the-power-of-artificial-intelligence-for-your-marketing-today-f30b7b76feda) [## 3 种利用人工智能力量进行营销的方法！
-
-### 你应该考虑将人工智能用于营销目的的 3 个理由，以及一些有用的链接来帮助你…
-
-towardsdatascience.com](/3-ways-to-utilize-the-power-of-artificial-intelligence-for-your-marketing-today-f30b7b76feda) 
+</3-ways-to-utilize-the-power-of-artificial-intelligence-for-your-marketing-today-f30b7b76feda>  
 
 # 结论:
 
@@ -134,26 +122,6 @@ towardsdatascience.com](/3-ways-to-utilize-the-power-of-artificial-intelligence-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) [](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
-
-### 你有没有可能给你的人工智能编程来发展情绪？
-
-towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) 
+</10-best-free-websites-to-learn-programming-939ec029009b>  </best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  </5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  </can-your-ai-have-emotions-7efc35721e12>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

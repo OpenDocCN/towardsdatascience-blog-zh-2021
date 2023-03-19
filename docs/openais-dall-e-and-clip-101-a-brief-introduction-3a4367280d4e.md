@@ -61,11 +61,7 @@ OpenAI WALL-E 演示，来源:[https://openai.com/blog/dall-e/](https://openai.c
 
 从社会影响的角度来看，除了 WALL-E 可能对一些职业和过程产生的明显影响(例如，与股票摄影相关的影响)，OpenAI 在他们的博客中提到[，他们“计划分析 DALL E 这样的模型如何与社会问题相关联[…]，模型输出中偏见的可能性，以及这项技术隐含的长期道德挑战。俗话说，一幅图像胜过千言万语，我们应该非常认真地对待像这样的工具如何影响未来的错误信息传播，以及其他问题，如如何识别这种算法的训练数据的价值，就像下面的推文所示。](https://openai.com/blog/dall-e/)
 
-[](https://techcrunch.com/2021/01/05/openais-dall-e-creates-plausible-images-of-literally-anything-you-ask-it-to/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANp4CqFZPdCYy-ESEnshoBM-X5vWZNTlTjeCxFen-LhhQwtRgE_LLFfeDpKp4Cmds4e54XIyHyIEKZrp8uNTGsS66daYFMTHg9AiDuhhD-Hu2LsTnXNd-b8z4sJaEZtJUCr6_B-cGpzlfwFqYe4_FB7PKf2IokWoXP6GSwzrlVT-) [## OpenAI 的 DALL-E 可以为你要求的任何东西创建可信的图像
-
-### OpenAI 最新的奇怪而迷人的创造是 DALL-E，通过草率的总结，它可能被称为“GPT 3 号…
-
-techcrunch.com](https://techcrunch.com/2021/01/05/openais-dall-e-creates-plausible-images-of-literally-anything-you-ask-it-to/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANp4CqFZPdCYy-ESEnshoBM-X5vWZNTlTjeCxFen-LhhQwtRgE_LLFfeDpKp4Cmds4e54XIyHyIEKZrp8uNTGsS66daYFMTHg9AiDuhhD-Hu2LsTnXNd-b8z4sJaEZtJUCr6_B-cGpzlfwFqYe4_FB7PKf2IokWoXP6GSwzrlVT-) 
+<https://techcrunch.com/2021/01/05/openais-dall-e-creates-plausible-images-of-literally-anything-you-ask-it-to/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANp4CqFZPdCYy-ESEnshoBM-X5vWZNTlTjeCxFen-LhhQwtRgE_LLFfeDpKp4Cmds4e54XIyHyIEKZrp8uNTGsS66daYFMTHg9AiDuhhD-Hu2LsTnXNd-b8z4sJaEZtJUCr6_B-cGpzlfwFqYe4_FB7PKf2IokWoXP6GSwzrlVT->  
 
 ## 夹子
 

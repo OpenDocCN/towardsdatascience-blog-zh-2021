@@ -90,11 +90,7 @@ D **药物-药物相互作用**当两种或两种以上的药物相互反应时�
 
 ****[**苯妥英**](https://www.healthhub.sg/a-z/medications/135/phenytoin) 是一种治疗癫痫发作障碍的常用抗癫痫药物，其血药浓度必须小心保持在一致的水平，以确保其有效性和安全性。****
 
-****[](https://www.mediview.sg/keyword/n-zXKQXN/phenytoin/) [## 关键词:苯妥英
-
-### MediView 是一个药物图像门户网站，可以充当您口袋中的药房。MediView 是 1400 多个质量…
-
-www.mediview.sg](https://www.mediview.sg/keyword/n-zXKQXN/phenytoin/) 
+****<https://www.mediview.sg/keyword/n-zXKQXN/phenytoin/>  
 
 以下是一个涉及苯妥英的药物相互作用的例子:
 
@@ -180,25 +176,13 @@ www.mediview.sg](https://www.mediview.sg/keyword/n-zXKQXN/phenytoin/)
 
 ********更新:**Streamlit 部署最近已经完成！请点击这里查看:******
 
-******[](/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db) [## 如何在 Streamlit 上部署交互式 Pyvis 网络图
-
-### 使用 Python 在线发布您美丽的网络图，并简化它，让全世界都能看到并与之互动
-
-towardsdatascience.com](/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db)****** 
+******</how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db> ****** 
 
 ## ******在你走之前******
 
 ******欢迎您**加入我的数据科学学习之旅！**一定要关注这个[媒体](https://kennethleungty.medium.com/)页面，以便了解更多令人兴奋的数据科学内容，或者访问 [LinkedIn](https://linkedin.com/in/kennethleungty) 。尽情探索网络图吧！******
 
-******[](/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) [## 探索新加坡的非法毒品——数据透视
-
-### 通过 Python 中的探索性数据分析发现保健品的好、坏、丑
-
-towardsdatascience.com](/exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557) [](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [## 新冠肺炎疫苗——公众情绪如何？
-
-### 使用 NLP (Stanza、NLTK Vader 和 TextBlob)对新冠肺炎疫苗推文进行逐步情感分析
-
-towardsdatascience.com](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) 
+******</exploring-illegal-drugs-in-singapore-a-data-perspective-3716a75ee557>  </covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99>  
 
 ## 参考
 

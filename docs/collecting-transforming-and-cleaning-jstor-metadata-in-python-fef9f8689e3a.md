@@ -65,7 +65,7 @@ JSTOR data for research 提供了关于所有科学学科研究趋势的有价�
 
 **更新:2021 年 5 月，用于研究的 JSTOR 数据切换到新平台** [**星座**](https://constellate.org/) **。**
 
-*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**
 
 # *感谢*
 

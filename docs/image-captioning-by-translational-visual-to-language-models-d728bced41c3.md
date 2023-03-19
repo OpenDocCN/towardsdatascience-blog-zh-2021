@@ -12,11 +12,7 @@
 
 这是一个以实验为目的的研究项目，有很深的学术文档，所以如果你是一个论文爱好者，那么就去查看这篇文章的项目页面
 
-[](https://github.com/cankocagil/Image-Captioning) [## GitHub-cankocagil/Image-Captioning:图像字幕的卷积语言模型
-
-### 这份报告主要是集中在图像字幕任务使用的先进技术的背景下深…
-
-github.com](https://github.com/cankocagil/Image-Captioning) 
+<https://github.com/cankocagil/Image-Captioning>  
 
 这篇文章将是从论文到文章的一个几乎直接的过渡，将涵盖使用简单而有效的计算机视觉和 NLP 应用程序的图像字幕任务，并具有深刻的解释。如果你正在寻找一个带有可解释的代码、计算和文档的图像标题的启动，你来对地方了。包括一切。本文将向您介绍任何图像字幕任务的概念和上下文设计，包括全面的视觉效果和“从头开始”的代码，以及解释。为了简单起见，代码被排除在外，但托管在项目页面上。来自其他来源的视觉资料的参考文献在标题中嵌入了链接，而其他参考文献则在最后给出。让我们潜入更深的地方。
 
@@ -307,27 +303,15 @@ ResNet152-to-GRU 为从测试数据中随机选择的图像提供参考并生成
 *   **推特** : [坎科卡吉尔 2](https://twitter.com/canKocagil2)
 *   **领英**
 
-[](https://www.linkedin.com/in/can-kocagil-970506184/) [## 可 Kocagil -数据科学家- OREDATA | LinkedIn
-
-### 查看 Can Kocagil 在全球最大的职业社区 LinkedIn 上的个人资料。Can 列出了 3 项工作…
-
-www.linkedin.com](https://www.linkedin.com/in/can-kocagil-970506184/) 
+<https://www.linkedin.com/in/can-kocagil-970506184/>  
 
 *   **GitHub**
 
-[](https://github.com/cankocagil) [## 坎科卡吉尔-概述
-
-### 阻止或报告 11 月 12 月 1 月 2 月 3 月 4 月 5 月 6 月 7 月 8 月 9 月 10 月 1 日星期三 Fri 在 1 个存储库中创建了 1 个提交，您不能…
-
-github.com](https://github.com/cankocagil) 
+<https://github.com/cankocagil>  
 
 ## **项目页面**
 
-[](https://github.com/cankocagil/Image-Captioning) [## GitHub-cankocagil/Image-Captioning:图像字幕的卷积语言模型
-
-### 这份报告主要是集中在图像字幕任务使用的先进技术的背景下深…
-
-github.com](https://github.com/cankocagil/Image-Captioning) 
+<https://github.com/cankocagil/Image-Captioning>  
 
 **参考文献**
 

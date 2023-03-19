@@ -87,16 +87,8 @@ pip install nbconvert*
 
 ## *了解更多信息*
 
-*[](/mlops-at-home-part2-3c4282df7714) [## 想在家里实现 MLOps？重构您的代码
-
-### 首先让您的代码可重用，然后看看工具
-
-towardsdatascience.com](/mlops-at-home-part2-3c4282df7714) 
+*</mlops-at-home-part2-3c4282df7714>  
 
 ## 将我的内容直接发送到您的收件箱！
 
-[](https://adamsh.substack.com/p/coming-soon) [## Data Siens:机器学习技巧、诀窍和教程的资源。
-
-### 欢迎来到亚当的数据西恩斯。我是一名数据科学家，有 5 年的分析经验。我喜欢谈论任何事情…
-
-adamsh.substack.com](https://adamsh.substack.com/p/coming-soon)*
+<https://adamsh.substack.com/p/coming-soon> *

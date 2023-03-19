@@ -91,7 +91,7 @@ power <- [wp.t](https://rdrr.io/pkg/WebPower/man/wp.t.html)(n1 = sample_sizes, d
 
 *如果您有兴趣进一步探索统计功效的数学和理论，并了解在假设检验和回归模型的功效分析中使用的不同统计数据，您可以参见《人物分析》* *中的* [*回归建模手册的第 11 章。*](http://peopleanalytics-regression-book.org)
 
-最初我是一名纯粹的数学家，后来我成为了一名心理计量学家和数据科学家。我热衷于将所有这些学科的严谨性应用到复杂的人的问题上。我也是一个编码极客和日本 RPG 的超级粉丝。在[*LinkedIn*](https://www.linkedin.com/in/keith-mcnulty/)*或*[*Twitter*](https://twitter.com/dr_keithmcnulty)*上找我。也可以看看我在【drkeithmcnulty.com】[](http://drkeithmcnulty.com/)**上的博客。***
+最初我是一名纯粹的数学家，后来我成为了一名心理计量学家和数据科学家。我热衷于将所有这些学科的严谨性应用到复杂的人的问题上。我也是一个编码极客和日本 RPG 的超级粉丝。在[*LinkedIn*](https://www.linkedin.com/in/keith-mcnulty/)*或*[*Twitter*](https://twitter.com/dr_keithmcnulty)*上找我。也可以看看我在【drkeithmcnulty.com】<http://drkeithmcnulty.com/>**上的博客。***
 
 *![](img/cc612b78236abc118b415517e2ca36f7.png)*
 

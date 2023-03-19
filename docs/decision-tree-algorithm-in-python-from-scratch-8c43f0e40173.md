@@ -16,11 +16,7 @@
 
 用 python 构建决策树的黄金标准是 scikit-learn 实现:
 
-[](https://scikit-learn.org/stable/modules/tree.html) [## 1.10.决策树-scikit-了解 0.24.1 文档
-
-### 决策树(DTs)是一种用于分类和回归的非参数监督学习方法。目标是…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/tree.html) 
+<https://scikit-learn.org/stable/modules/tree.html>  
 
 当我测试我的代码时，我想确保结果与 scikit-learn 实现相同。
 

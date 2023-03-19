@@ -48,11 +48,7 @@ Python 是一种流行的脚本编程语言，它提供了各种数据结构，�
 
 # 问题 1:计算一致字符串的数量
 
-[](https://leetcode.com/problems/count-the-number-of-consistent-strings/) [## 计算一致字符串的数量- LeetCode
-
-### 给你一个允许的字符串，由不同的字符和一个字符串单词数组组成。一串是一致的…
-
-leetcode.com](https://leetcode.com/problems/count-the-number-of-consistent-strings/) 
+<https://leetcode.com/problems/count-the-number-of-consistent-strings/>  
 
 > -给你一个允许的字符串，由不同的字符和一组字符串单词组成。如果字符串中的所有字符都出现在允许的字符串中，则该字符串是一致的。
 > 
@@ -84,11 +80,7 @@ Robinhood 在他们的面试过程中包含了这个问题。
 
 # 问题 2:一个盒子里的最大球数，微软
 
-[](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) [## 盒子里的最大球数- LeetCode
-
-### 你在一个球厂工作，你有 n 个球，从下限到上限编号(即 n ==…
-
-leetcode.com](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) 
+<https://leetcode.com/problems/maximum-number-of-balls-in-a-box/>  
 
 > -您在一家球厂工作，在那里您有 n 个球，编号从下限到上限(包括上限)(即 n ==上限-下限+ 1)，以及从 1 到无穷大的无限多个盒子。你在这个工厂的工作是把每个球放进盒子里，盒子上的数字等于球的数字总和。例如，球号 321 将被放入箱号 3 + 2 + 1 = 6，球号 10 将被放入箱号 1 + 0 = 1。
 > -给定两个整数 lowLimit 和 highLimit，返回球数最多的盒子中的球数。
@@ -135,11 +127,7 @@ leetcode.com](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)
 
 # 问题 3:相对排序数组，由亚马逊
 
-[](https://leetcode.com/problems/relative-sort-array/) [## 相对排序数组- LeetCode
-
-### 给定两个数组 arr1 和 arr2，arr2 的元素是不同的，arr2 中的所有元素也在 arr1 中。排序…
-
-leetcode.com](https://leetcode.com/problems/relative-sort-array/) 
+<https://leetcode.com/problems/relative-sort-array/>  
 
 > -给定两个数组 arr1 和 arr2，arr2 的元素是不同的，arr2 中的所有元素也在 arr1 中。
 > -对 arr1 的元素进行排序，使 arr1 中项目的相对顺序与 arr2 中的相同。arr2 中没有出现的元素应该按升序放在 arr1 的末尾。
@@ -185,11 +173,7 @@ leetcode.com](https://leetcode.com/problems/relative-sort-array/)
 
 # 问题 4:在一个数组中找到所有的重复项，脸书、亚马逊和微软
 
-[](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [## 查找数组中的所有重复项- LeetCode
-
-### 给定一个长度为 n 的整数数组 nums，其中 nums 的所有整数都在范围[1，n]内，并且每个整数都出现在…
-
-leetcode.com](https://leetcode.com/problems/find-all-duplicates-in-an-array/) 
+<https://leetcode.com/problems/find-all-duplicates-in-an-array/>  
 
 > -给定一个长度为 n 的整数数组 nums，其中 nums 的所有整数都在范围[1，n]内，并且每个整数出现一次或两次，返回出现两次的所有整数的数组。
 > 
@@ -219,11 +203,7 @@ leetcode.com](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 # **问题 5: 4Sum II，亚马逊和 Adobe**
 
-**[](https://leetcode.com/problems/4sum-ii/) [## 4Sum II - LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/4sum-ii/) 
+**<https://leetcode.com/problems/4sum-ii/>  
 
 > -给定四个长度均为 n 的整数数组 nums1、nums2、nums3 和 nums4，返回元组(I，j，k，l)的数目，使得:
 > 
@@ -274,27 +254,11 @@ leetcode.com](https://leetcode.com/problems/4sum-ii/)
 
 ***Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。***
 
-**[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)** 
+**<https://leihua-ye.medium.com/membership> ** 
 
 # **我的数据科学面试顺序:**
 
-**[](/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987) [## 破解数据科学访谈:数据科学家的五项 SQL 技能
-
-### Leetcode 助你获得高薪数据职位
-
-towardsdatascience.com](/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987) [](/how-to-solve-python-coding-questions-using-stack-94571f31af3f) [## 如何使用堆栈解决 Python 编码问题
-
-### 2021 年数据科学家和软件工程师的基本数据类型
-
-towardsdatascience.com](/how-to-solve-python-coding-questions-using-stack-94571f31af3f) [](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+**</crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987>  </how-to-solve-python-coding-questions-using-stack-94571f31af3f>  </5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 # 喜欢读这本书吗？
 

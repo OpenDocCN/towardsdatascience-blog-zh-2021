@@ -278,15 +278,7 @@ And another line here.*
 
 *一些精选的有趣文章供你进一步阅读*
 
-*[](/write-a-few-lines-of-code-and-detect-faces-draw-landmarks-from-complex-images-mediapipe-932f07566d11) [## 写几行代码检测人脸，从复杂图像中画出地标~MediaPipe
-
-### 使用 MediaPipe 从复杂的图像中检测人脸既简单又有趣
-
-towardsdatascience.com](/write-a-few-lines-of-code-and-detect-faces-draw-landmarks-from-complex-images-mediapipe-932f07566d11) [](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [## 通过交互式数据可视化传播新冠肺炎
-
-### 一个完整的指南条形图比赛和互动 Choropleth 地图新冠肺炎疫情与 Python。
-
-towardsdatascience.com](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) 
+*</write-a-few-lines-of-code-and-detect-faces-draw-landmarks-from-complex-images-mediapipe-932f07566d11>  </spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  
 
 # 祖贝尔·侯赛因
 

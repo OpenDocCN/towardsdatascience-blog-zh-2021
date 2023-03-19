@@ -389,8 +389,4 @@ Game lost; too many moves.
 
 点击这里查看文章的第二部分:
 
-[](https://nandakishorej8.medium.com/part-2-building-a-deep-q-network-to-play-gridworld-catastrophic-forgetting-and-experience-6b2b000910d7) [## 第 2 部分——构建深度 Q 网络玩 grid world——灾难性遗忘和体验…
-
-### 在这篇文章中，我们来讨论一下普通 Q 学习模型中的问题:灾难性遗忘。我们会解决这个问题…
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/part-2-building-a-deep-q-network-to-play-gridworld-catastrophic-forgetting-and-experience-6b2b000910d7)
+<https://nandakishorej8.medium.com/part-2-building-a-deep-q-network-to-play-gridworld-catastrophic-forgetting-and-experience-6b2b000910d7> 

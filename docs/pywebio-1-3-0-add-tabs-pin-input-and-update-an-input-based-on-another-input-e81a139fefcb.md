@@ -126,28 +126,12 @@ PyWebIO 有很多有用的[输入法](https://pywebio.readthedocs.io/en/v1.3.0/i
 
 您可以在这里随意使用本文的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_1_3_0) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_1_3_0) 
+<https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_1_3_0>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [## Streamlit 和 spaCy:创建一个应用程序来预测情绪和单词的相似性，最小域…
-
-### 只需要 10 行代码！
-
-towardsdatascience.com](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [## 使用 SimPy 在 Python 中模拟真实事件
+</pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e>  </how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4>  </streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4>  </simulate-real-life-events-in-python-using-simpy-e6d9152a102f> [## 使用 SimPy 在 Python 中模拟真实事件
 
 towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f)

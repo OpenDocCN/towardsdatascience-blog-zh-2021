@@ -14,11 +14,7 @@
 
 2020 年，微软 Azure 被宣布为增长最快的云提供商[1]，因此我决定挑战自己，了解更多关于他们的数据科学服务，并完成他们的 [Azure 数据科学家认证](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)。
 
-[](https://www.credly.com/badges/a91b0677-0a13-433e-a19b-cb06add00a9a) [## 微软认证:Azure 数据科学家助理由微软颁发给 Pier Paolo Ippolito。
-
-### 获得 Azure 数据科学家助理认证验证了应用 Azure 机器的技能和知识…
-
-www.credly.com](https://www.credly.com/badges/a91b0677-0a13-433e-a19b-cb06add00a9a) 
+<https://www.credly.com/badges/a91b0677-0a13-433e-a19b-cb06add00a9a>  
 
 在本文中，我们将介绍一些 Azure key 机器学习服务，以及它们如何相互比较，以创建完整的人工智能解决方案。如果您有兴趣了解更多关于云计算和大数据系统的基础知识，可以在我以前的文章[“数据科学家的云基础”](/cloud-foundations-for-data-scientists-e9d0c14fc98a)和[“大数据分析:Spark 和 Hadoop”](/big-data-analysis-spark-and-hadoop-a11ba591c057)中找到更多信息。
 

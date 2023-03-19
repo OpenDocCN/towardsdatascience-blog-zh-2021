@@ -14,7 +14,7 @@
 
 之前，我读过一篇适合初学者的关于数据转换的文章，你可以在这里阅读。
 
-[](/beginner-explanation-for-data-transformation-9add3102f3bf) [## 数据转换的初级解释
+</beginner-explanation-for-data-transformation-9add3102f3bf> [## 数据转换的初级解释
 
 towardsdatascience.com](/beginner-explanation-for-data-transformation-9add3102f3bf) 
 

@@ -325,11 +325,7 @@ XGBoost 也是一种基于树的集成监督学习算法，它使用了[梯度�
 > 
 > 你可以在[媒体](https://medium.com/@gkeretchashvili)上关注我，了解最新文章。
 
-[](https://medium.com/@gkeretchashvili) [## gurami keretcashvili-培养基
-
-### 一个数据科学家不是懂 python，Sklearn，TensorFlow 等的人。但是谁知道如何玩…
-
-medium.com](https://medium.com/@gkeretchashvili) 
+<https://medium.com/@gkeretchashvili>  
 
 # **参考文献**
 

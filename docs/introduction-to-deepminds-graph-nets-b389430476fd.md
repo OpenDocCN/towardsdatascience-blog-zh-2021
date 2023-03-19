@@ -10,23 +10,11 @@ Iza Gawrych 在 [Unsplash](https://unsplash.com/s/photos/russian-dolls?utm_sourc
 
 2018 年 10 月，来自 DeepMind/Google、麻省理工学院和爱丁堡大学的 27 名研究人员组成的团队发表了一篇论文，题为: [*“关系归纳偏差、深度学习和图网络”*](https://arxiv.org/abs/1806.01261) *。*
 
-[](https://deepmind.com/research/open-source/graph-nets-library) [## 图形网络库
-
-### Graph Nets 是 DeepMind 的库，用于在 TensorFlow 和 Sonnet 中构建图形网络。
-
-deepmind.com](https://deepmind.com/research/open-source/graph-nets-library)  [## 关系归纳偏差、深度学习和图形网络
-
-### 人工智能(AI)最近经历了一次复兴，在视觉等关键领域取得了重大进展
-
-arxiv.org](https://arxiv.org/abs/1806.01261) 
+<https://deepmind.com/research/open-source/graph-nets-library>    
 
 本文的关键部分是“立场文件”和实际实现，因为它包括一个用于在 TensorFlow 和 Sonnet 中构建图形神经网络的库(Sonnet 是 DeepMind 在 TensorFlow 之上的神经网络库)。到目前为止，这篇论文已经被引用了近 1000 次，因此值得进一步研究。
 
-[](https://github.com/deepmind/graph_nets) [## 深度思维/图形网
-
-### Graph Nets 是 DeepMind 的库，用于在 Tensorflow 和 Sonnet 中构建图形网络。联系 graph-nets@google.com…
-
-github.com](https://github.com/deepmind/graph_nets) 
+<https://github.com/deepmind/graph_nets>  
 
 在本说明中，Mark Needham 和我将首先总结论文提出的关键理论论点，然后通过一个玩具示例来说明图形网络库。
 
@@ -107,11 +95,7 @@ github.com](https://github.com/deepmind/graph_nets)
 
 ## *如何在图形网络中创建图形的示例:*
 
-*[](https://colab.research.google.com/drive/1J4a7ngAK744svL4_pYTZqln8nGmIkLJb?usp=sharing) [## 谷歌联合实验室
-
-### 图表结构
-
-colab.research.google.com](https://colab.research.google.com/drive/1J4a7ngAK744svL4_pYTZqln8nGmIkLJb?usp=sharing) 
+*<https://colab.research.google.com/drive/1J4a7ngAK744svL4_pYTZqln8nGmIkLJb?usp=sharing>  
 
 图表中的这个图形可以显示如下:
 
@@ -137,11 +121,7 @@ GraphTuples 渲染，用 [https://arrows.app](https://arrows.app) 制作
 该配置可以为*边缘*、*节点*和*全局*获取三个可学习的子功能，并且是对 Sonnet 库和模块的调用。
 这些可以是线性模块(`[snt.Linear](https://sonnet.readthedocs.io/en/latest/api.html#linear-modules)`)或多层感知器(`[snt.nets.MLP](https://sonnet.readthedocs.io/en/latest/api.html#mlp)`)，或者是十四行诗的[循环模块中的 14 个类中的任何一个。](https://sonnet.readthedocs.io/en/latest/api.html#recurrent-modules)
 
- [## 基本十四行诗文档
-
-### 执行 RNN 的动态展开。展开对应于在输入序列的每个元素上调用核心…
-
-十四行诗](https://sonnet.readthedocs.io/en/latest/api.html#recurrent-modules) 
+  
 
 Sonnet 在后端提供的功能看起来确实很强大，为任何 GNN 的设计提供了很大的灵活性。
 
@@ -160,11 +140,7 @@ OUTPUT_GLOBAL_SIZE = 3graph_network = modules.GraphNetwork(
 
 *“消息传递神经网络”*的一个例子由`[modules.InteractionNetwork](https://github.com/deepmind/graph_nets/blob/master/graph_nets/modules.py?q=class:InteractionNetwork)`给出，它实现了巴塔格利亚等人的论文的工作:[“用于学习关于对象、关系和物理的交互网络”](https://arxiv.org/pdf/1612.00222.pdf)。在这里，作者开发了一个模型，“它可以推理复杂系统中的对象如何交互”，对于这个模型，消息传递组件是至关重要的一部分。
 
- [## 学习物体、关系和物理的互动网络
-
-### 对物体、关系和物理的推理是人类智能的核心，也是人工智能的关键目标
-
-arxiv.org](https://arxiv.org/abs/1612.00222) 
+  
 
 同样，一旦构建了 GraphsTuple，它只需要指定十四行诗函数并传递 GraphsTuple，如下所示:
 
@@ -183,7 +159,7 @@ interact = modules.InteractionNetwork(
 
 作者还提供了许多可运行的例子作为笔记本
 
-[](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb) [## 谷歌联合实验室
+<https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb> [## 谷歌联合实验室
 
 colab.research.google.com](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb) 
 

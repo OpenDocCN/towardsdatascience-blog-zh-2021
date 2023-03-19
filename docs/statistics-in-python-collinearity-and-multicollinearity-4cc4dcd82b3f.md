@@ -10,11 +10,7 @@
 
 在我的上一篇文章中，您了解了数据集中数据之间的关系，无论是在同一列中(*方差*)，还是在列之间(*协方差*和*相关性*)。
 
-[](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) [## Python 中的统计学-了解方差、协方差和相关性
-
-### 理解你的数据之间的关系，知道皮尔逊相关系数和…
-
-towardsdatascience.com](/statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01) 
+</statistics-in-python-understanding-variance-covariance-and-correlation-4729b528db01>  
 
 当您开始机器学习之旅时，您通常会遇到的另外两个术语是:
 
@@ -360,8 +356,4 @@ calculate_vif(df=df, features=['mean radius',
 
 > 值得注意的是，VIF 只对连续变量有效，对分类变量无效。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

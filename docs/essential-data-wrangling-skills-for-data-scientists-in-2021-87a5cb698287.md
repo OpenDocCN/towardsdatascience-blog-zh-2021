@@ -22,11 +22,7 @@
 
 我将详细说明大多数命令的功能，但是如果您想重温 Python 的基础知识，我建议您阅读下面的文章。
 
-[](https://link.medium.com/BhKOU360jcb) [## Python 中的数据结构简介
-
-### 数据结构是一种存储、组织和处理数据的格式。它们是围绕…的基本结构
-
-link.medium.com](https://link.medium.com/BhKOU360jcb) 
+<https://link.medium.com/BhKOU360jcb>  
 
 ```
 # installing pandas package

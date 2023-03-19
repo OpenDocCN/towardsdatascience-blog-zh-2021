@@ -16,11 +16,7 @@
 
 如果您以前从未使用过 Python 中的类，并且希望了解更多，请在下面找到我以前的一篇文章，在这篇文章中，我给出了一个项目的概述，您可以从这些项目开始，以发展关于类如何工作的基础知识。
 
-[](/3-useful-projects-to-learn-python-classes-cf0076c36297) [## 学习 Python 类的 3 个有用项目
-
-### 开发直觉来构建您自己的定制对象
-
-towardsdatascience.com](/3-useful-projects-to-learn-python-classes-cf0076c36297) 
+</3-useful-projects-to-learn-python-classes-cf0076c36297>  
 
 在本文中，我将提供一个将灵活的类对象嵌入到一个简单的 Plotly-Dash python 应用程序中的例子。 [Plotly-Dash](https://plotly.com/dash/) 是一套面向用户界面的库和框架，用于各种数据可视化用例。
 
@@ -167,8 +163,4 @@ Tracker 实例还初始化了三个附加属性，当项目被所有者“使用
 
 ****访问我的免费数据科学资源清单** [**这里**](https://landing.mailerlite.com/webforms/landing/k1n3r2)**
 
-**[](https://edo-romani1.medium.com/membership) [## 通过我的推荐链接加入 Medium-Edoardo Romani
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-edo-romani1.medium.com](https://edo-romani1.medium.com/membership)**
+**<https://edo-romani1.medium.com/membership> **

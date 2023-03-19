@@ -24,7 +24,7 @@
 
 *PS**:代码在*[*Github*](https://github.com/ahmedbesbes/playground)*上有。随意派生、克隆它，在本地运行它或者为你的任何项目重新利用它*
 
-*PS * * *:app 直播。在这里检查一下*[](https://share.streamlit.io/ahmedbesbes/playground/main/app.py)**并试用一下。**
+*PS * * *:app 直播。在这里检查一下*<https://share.streamlit.io/ahmedbesbes/playground/main/app.py>**并试用一下。**
 
 *现在让我们看看这个应用程序是怎么回事😉*
 

@@ -302,10 +302,6 @@ Image by [旭刚 史](https://pixabay.com/users/shixugang-640931/?utm_source=lin
 
 在本文中，我介绍了 Python 中的内置序列化方法——Pickle。它可用于快速简便的电子监管。它支持几乎所有类型的 Python 对象，例如函数，甚至熊猫数据框。当对不同版本的 Python 使用 Pickle 时，我们还需要记住，Pickle 的版本也可能不同。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

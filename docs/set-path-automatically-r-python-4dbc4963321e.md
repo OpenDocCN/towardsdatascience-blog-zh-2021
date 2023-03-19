@@ -100,12 +100,4 @@ Python:创建输出路径(如果尚不存在)
 
 您可能还喜欢:
 
-[](/statistical-moments-in-data-science-interviews-bfecd207843d) [## 数据科学访谈中的统计时刻
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/statistical-moments-in-data-science-interviews-bfecd207843d) [](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046) [## 数据科学访谈中的矩阵
-
-### 数据科学家的基本数学从零开始解释
-
-towardsdatascience.com](/math-refresher-for-data-scientist-part-1-matrices-88620a92d046)
+</statistical-moments-in-data-science-interviews-bfecd207843d>  </math-refresher-for-data-scientist-part-1-matrices-88620a92d046> 

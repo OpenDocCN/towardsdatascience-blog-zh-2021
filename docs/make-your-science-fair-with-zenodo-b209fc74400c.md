@@ -63,11 +63,7 @@ RESTful APIs 的一个很好的简单解释可以在这个视频的前两分钟�
 
 更深入的解释，请看佩里·艾辛的帖子。
 
-[](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f) [## API 到底是什么？
-
-### 你有没有听说过“API”这个词，并想知道这到底是什么？你是否有一个模糊的想法，但是…
-
-medium.com](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f) 
+<https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f>  
 
 # 在我们开始之前…
 
@@ -251,22 +247,10 @@ API 的主要优势是能够将远程数据上传到您的帐户。
 
 # 额外资源
 
- [## 开发者|芝诺多
-
-### Zenodo REST API 目前支持:研究成果的存放-上传和发布(与功能相同…
-
-developers.zenodo.org](https://developers.zenodo.org/) [](https://fairplus.github.io/the-fair-cookbook/content/recipes/findability/zenodo-deposition.html#programmatic-deposition-to-zenodo-via-the-rest-api) [## 存放在 Zenodo 通用存储库中
-
-### 存放在芝诺多通用存储库中首席研究员、数据经理、数据科学家、主要目的的资助者…
-
-fairplus.github.io](https://fairplus.github.io/the-fair-cookbook/content/recipes/findability/zenodo-deposition.html#programmatic-deposition-to-zenodo-via-the-rest-api) 
+  <https://fairplus.github.io/the-fair-cookbook/content/recipes/findability/zenodo-deposition.html#programmatic-deposition-to-zenodo-via-the-rest-api>  
 
 *特别感谢* [*Rachana Maniyar 博士*](https://medium.com/u/2073923b733b?source=post_page-----b209fc74400c--------------------------------) *编辑本帖的草稿版本*
 
 *感谢阅读和支持媒体作者*
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium—Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)
+<https://lukegloege.medium.com/membership> 

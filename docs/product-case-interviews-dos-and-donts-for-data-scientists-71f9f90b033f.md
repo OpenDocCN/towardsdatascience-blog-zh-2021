@@ -167,12 +167,4 @@
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) [## 数据科学家破解商业案例访谈的终极指南(第 1 部分)
-
-### 数据科学家在产品感觉访谈中胜出的度量框架
-
-towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) [](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f) [## 数据科学家破解商业案例访谈的终极指南(第二部分)
-
-### 4 种产品感问题和框架
-
-towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f)
+</the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4>  </the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f> 

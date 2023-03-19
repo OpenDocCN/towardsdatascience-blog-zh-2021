@@ -97,7 +97,7 @@
 
 [5] R.H. Riffenburgh，第 13 章——多因素 ANOVA 和 ANCOVA，编辑:R.H. Riffenburgh,《医学统计学》(第三版),学术出版社，2012 年，第 275-297 页
 
-[6]斯蒂芬妮·格伦。来自 StatisticsHowTo.com[](https://www.statisticshowto.com/)**的“平衡与不平衡的设计:定义，例子”:对我们其余人的基本统计！[https://www . statistics show to . com/balanced-and-unbalanced-designs/](https://www.statisticshowto.com/balanced-and-unbalanced-designs/)**
+[6]斯蒂芬妮·格伦。来自 StatisticsHowTo.com<https://www.statisticshowto.com/>**的“平衡与不平衡的设计:定义，例子”:对我们其余人的基本统计！[https://www . statistics show to . com/balanced-and-unbalanced-designs/](https://www.statisticshowto.com/balanced-and-unbalanced-designs/)**
 
 **[7]弗兰克·哈勒尔，“分类与预测。”博客，2020 年 9 月。[https://www.fharrell.com/post/classification/](https://www.fharrell.com/post/classification/)**
 

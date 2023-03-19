@@ -14,11 +14,7 @@ Pandas 是用于数据探索和可视化的最流行的 Python 库之一。Panda
 
 阅读文章下面的[，了解如何使用 Vaex 处理有 2 亿条记录的数据集。](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b)
 
-[](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [## 使用 Vaex 处理具有 2 亿行的数据集
-
-### 使用 vaex 数据框对大型数据集执行操作
-
-towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) 
+</process-dataset-with-200-million-rows-using-vaex-ad4839710d3b>  
 
 在本文中，您可以了解如何使用 Modin 提升 Pandas 库计算的性能，只需更改一行代码。
 

@@ -68,19 +68,11 @@
 
 因此，我找到了一篇由夏普视觉实验室的[乔希·埃布纳](https://twitter.com/Josh_Ebner)撰写的不错的博文。他解释了初级和高级数据科学家之间的区别，数据科学基础技能所需的数学知识，数据科学理论和实践之间的区别，等等。你应该读一下:
 
-[](https://www.sharpsightlabs.com/blog/math-for-data-science/) [## 你不需要了解很多数据科学的数学知识
-
-### 关于数据科学需要多少数学知识，有很多错误的信息。大多数人告诉你，你需要的方式…
-
-www.sharpsightlabs.com](https://www.sharpsightlabs.com/blog/math-for-data-science/) 
+<https://www.sharpsightlabs.com/blog/math-for-data-science/>  
 
 蒂姆·霍普的一点建议怎么样？在成为数据科学家之前，他是一名数学专业的学生，也是一名数学博士。他当然知道数据科学需要多少数学知识。简答:不多，不到 10%:
 
-[](https://tdhopper.com/blog/how-i-became-a-data-scientist/) [## 尽管我是数学专业的，但我是如何成为一名数据科学家的——tdhopper.com
-
-### 注意:下面的帖子充斥着轶事和印象的定性推断。也许讽刺的是…
-
-tdhopper.com](https://tdhopper.com/blog/how-i-became-a-data-scientist/) 
+<https://tdhopper.com/blog/how-i-became-a-data-scientist/>  
 
 这是他在 YouTube 上的演讲。
 
@@ -94,11 +86,7 @@ tdhopper.com](https://tdhopper.com/blog/how-i-became-a-data-scientist/)
 
 [Rebecca Vickery](https://medium.com/u/8b7aca3e5b1c?source=post_page-----b9d1c34dfa56--------------------------------) 列出了数据科学领域需要学习的数学主题:
 
-[](https://medium.com/vickdata/maths-and-statistics-a-complete-roadmap-for-learning-data-science-part-3-e1ec585195cf) [## 数学与统计，学习数据科学的完整路线图—第 3 部分
-
-### 数据科学的数学和统计学中的关键概念，以及在哪里学习它们。
-
-medium.com](https://medium.com/vickdata/maths-and-statistics-a-complete-roadmap-for-learning-data-science-part-3-e1ec585195cf) 
+<https://medium.com/vickdata/maths-and-statistics-a-complete-roadmap-for-learning-data-science-part-3-e1ec585195cf>  
 
 这就是这篇文章的**什么**。接下来，我们将谈论**为什么**和**如何**。
 
@@ -172,11 +160,7 @@ medium.com](https://medium.com/vickdata/maths-and-statistics-a-complete-roadmap-
 
 是的，每当我失败时，我就是这样看待贝叶斯定理的。当挫折没有被赋予一个授权的意义时，它会让你变得愚蠢。哈里森·简斯马的博客文章拯救了我。我强烈推荐你阅读他的博客文章。他准确地描绘了一个智力一般的人试图自学数据科学的心理状态:
 
-[](/how-to-learn-data-science-staying-motivated-8665ed649687) [## 如何学习数据科学:保持动力。
-
-### 关于如何在你的教育之旅中保持一致的建议。
-
-towardsdatascience.com](/how-to-learn-data-science-staying-motivated-8665ed649687) 
+</how-to-learn-data-science-staying-motivated-8665ed649687>  
 
 # 新方法
 
@@ -198,11 +182,7 @@ towardsdatascience.com](/how-to-learn-data-science-staying-motivated-8665ed64968
 
 在第四次工业革命中，我们所有人都试图进入数据科学领域。我们时间紧迫，我们没有 3 年时间。我们需要尽快起床开始生产东西(我上一份工作已经过去一年了)。这就是为什么我们必须想出新的学习方法来满足 21 世纪的商业需求。卡梅隆·沃伦在他的博客文章《不要做数据科学》中对此做了更好的解释:
 
-[](/dont-do-data-science-solve-business-problems-6b70c4ee0083) [## 不做数据科学，解决业务问题
-
-### “数据科学家”这一术语在现代商业用语中已经口语化，表示几乎拥有所有…
-
-towardsdatascience.com](/dont-do-data-science-solve-business-problems-6b70c4ee0083) 
+</dont-do-data-science-solve-business-problems-6b70c4ee0083>  
 
 老实说，我非常尊重学术界。一些最伟大的发现来自学术机构。事实上，我仍然渴望成为学术界的一名研究人员，主要是因为它不是由商业利益操纵的。我想读硕士，然后读机器学习的博士(甚至可能是两个博士)。我认为人类的发展依赖于学术界，正如它依赖于企业带来技术来解决问题一样。也就是说，每件事都有时间和地点，现在我需要的是快速但基本的学习。
 
@@ -210,11 +190,7 @@ towardsdatascience.com](/dont-do-data-science-solve-business-problems-6b70c4ee00
 
 我不追随我的激情。我花了很多年试图找到我的激情。经历了一次又一次的失败后，我明白了一个人不能纯粹基于自己的激情来选择职业。这是一个艰难而痛苦的教训，它与通常的激励帖子和常识背道而驰。那你接下来要做的。阅读卡梅隆·沃伦所说的:
 
-[](https://medium.com/@camwarrenm/how-to-figure-out-what-your-passionate-about-a23d59c0163d) [## 如何找到你的激情所在
-
-### 通过微观动机寻找满足感和成功。
-
-medium.com](https://medium.com/@camwarrenm/how-to-figure-out-what-your-passionate-about-a23d59c0163d) 
+<https://medium.com/@camwarrenm/how-to-figure-out-what-your-passionate-about-a23d59c0163d>  
 
 # 我是如何学习的
 

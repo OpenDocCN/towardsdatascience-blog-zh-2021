@@ -18,19 +18,11 @@ Julia 中的统计测试总是比许多语言竞争者更难做。对于很多 J
 
 如果你感到困惑，并且从未听说过车床，你可以在 GitHub 上查看:
 
-[](https://github.com/ChifiSource/Lathe.jl) [## ChifiSource/Lathe.jl
-
-### Lathe.jl 是 Julia 中用于预测建模的一体化软件包。它附带了一个统计库…
-
-github.com](https://github.com/ChifiSource/Lathe.jl) 
+<https://github.com/ChifiSource/Lathe.jl>  
 
 对于这篇文章以及以后类似的文章，我创建了一个名为车床书籍的新存储库。我对这个新的存储库的意图是为那些想使用该软件，但可能不知道如何使用的人创建一个更好的方法，用真实世界的例子来演示它，这些例子在数据方面是可重复的。此存储库中的所有笔记本都将从存储库或外部来源加载文件。这与我的其他笔记本储存库有很大的不同，因为它真的很容易实验。下面是我在这篇文章中使用的笔记本的链接:
 
-[](https://github.com/emmettgb/Lathe-Books/blob/main/stats/stats_InferentialTesting.ipynb) [## emmett GB/车床书籍
-
-### 使用和演示车床的笔记本。jl 软件-emmettgb/车床-书籍
-
-github.com](https://github.com/emmettgb/Lathe-Books/blob/main/stats/stats_InferentialTesting.ipynb) 
+<https://github.com/emmettgb/Lathe-Books/blob/main/stats/stats_InferentialTesting.ipynb>  
 
 # 数据
 

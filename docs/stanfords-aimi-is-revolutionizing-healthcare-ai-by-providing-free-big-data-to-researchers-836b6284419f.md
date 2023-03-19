@@ -30,7 +30,7 @@
 
 ![](img/b96904196165373b544549b012ed32d7.png)
 
-来源:Depositphotos.com[一切皆有可能](https://depositphotos.com/portfolio-1907633.html?content=photo)/[](https://depositphotos.com/)
+来源:Depositphotos.com[一切皆有可能](https://depositphotos.com/portfolio-1907633.html?content=photo)/<https://depositphotos.com/>
 
 # 这对人工智能和医疗保健意味着什么？
 

@@ -19,7 +19,7 @@
 *   更新文章以修复打字错误，例如
 *   删除一篇文章
 
-我们将专注于捕捉请求和提取信息。我们的 API 如何与我们的数据库通信是另一个主题，在本文的[](https://mikehuls.medium.com/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424)**中有很好的描述。也可以查看本文 中的 [**来创建一个版本控制的数据库结构。**](https://mikehuls.medium.com/version-control-your-database-part-1-creating-migrations-and-seeding-992d86c90170)**
+我们将专注于捕捉请求和提取信息。我们的 API 如何与我们的数据库通信是另一个主题，在本文的<https://mikehuls.medium.com/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424>**中有很好的描述。也可以查看本文 中的 [**来创建一个版本控制的数据库结构。**](https://mikehuls.medium.com/version-control-your-database-part-1-creating-migrations-and-seeding-992d86c90170)**
 
 **由于我们的 API 将负责捕捉请求并获取它们携带的信息，所以让我们首先快速检查一下请求是如何工作的，以便我们可以准确地为我们的 API 创建端点来捕捉所有信息。**
 

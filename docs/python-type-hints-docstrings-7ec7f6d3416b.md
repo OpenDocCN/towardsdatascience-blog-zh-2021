@@ -82,11 +82,7 @@ Google 风格的文档字符串的自动变量类型添加
 
 请在下面的故事中找到更多关于预提交 Git 挂钩的有用提示👇
 
-[](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) [## 在 Python 中自动化干净代码的 4 个技巧
-
-### 通过这些林挺和格式化工具，使用预提交 Git 挂钩来自动化 Python 代码样式
-
-better 编程. pub](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) 
+<https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e>  
 
 除了林挺和格式化工具，您还可以通过 bash 命令在这些 Git 挂钩中包含 Python 脚本的执行，使我们能够自动化`docstring_from_type_hints()`功能。这样，在每次提交时，类型提示都会被插入到我们的 docstring 中。
 
@@ -96,8 +92,4 @@ MkDocs 中自动生成的 Google 风格的 docstring 示例
 
 更进一步，我们可以用 Mkdocs 中的 Python 文档自动创建一个静态网站。以下是更多相关信息👇
 
-[](/five-tips-for-automatic-python-documentation-7513825b760e) [## 自动化 Python 文档的五个技巧
-
-### 用这五个自动化步骤和预提交 Git 挂钩在 MkDocs & Material 中创建漂亮的 Python 文档
-
-towardsdatascience.com](/five-tips-for-automatic-python-documentation-7513825b760e)
+</five-tips-for-automatic-python-documentation-7513825b760e> 

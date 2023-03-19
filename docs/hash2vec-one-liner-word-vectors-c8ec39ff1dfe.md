@@ -170,11 +170,7 @@ R ( `r_j`)中的每一列都可以被认为是我们的超球体的一个随机�
 
 **PS:** 我没见过类似这样的技术被实验过，以前也没用过。这就是驱使我写这篇文章的原因。但是由于迷失在大量发表在空间中的 ML 论文中，类似的工作被忽视的情况并不少见。如果你看到一篇论文在做类似的工作。请随意发表关于他们的文章。
 
-[](https://thushv89.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-thushv89.medium.com](https://thushv89.medium.com/membership) 
+<https://thushv89.medium.com/membership>  
 
 # 附录
 

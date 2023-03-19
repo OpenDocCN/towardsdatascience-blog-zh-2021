@@ -55,11 +55,7 @@ runs_raw.info()的输出；作者图片
 
 您可能知道，我使用 R 开始了我的数据科学生涯[，因此，我非常熟悉](/nine-years-on-linkedin-in-data-b34047c77223) [ggpot2](https://gscheithauer.medium.com/how-to-add-number-of-observations-to-a-ggplot2-boxplot-b22710f7ef80) 。随着我在客户项目中越来越频繁地使用 Python，我开始寻找类似的 Python 可视化包。我很高兴地说，有了[剧情](/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)就有了一个很好的替代方案。
 
-[](/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5) [## Python 中的数据可视化，如 R 的 ggplot2
-
-### 一步一步的教程如何创建一个基本的图表到一个出版就绪的 dataviz 图表
-
-towardsdatascience.com](/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5) 
+</data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5>  
 
 然而，由于我喜欢尝试新事物，特别是可视化软件包，所以我想尝试 Altair 软件包。Altair 是一个 Python 数据可视化包，它遵循一种[声明式方法](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)，就像 ggplot2 和 [Plotnine](/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5) 一样。
 

@@ -78,8 +78,4 @@ Streamlit 现在完全支持表情符号。
 
 下面是我总结《星际迷航》角色互动的一个例子:
 
- [## 特莱维兹
-
-### 特莱维兹
-
-TrekViztrekviz.com](https://trekviz.com)
+ 

@@ -10,21 +10,13 @@
 
 这是该系列的第四篇文章，即“腹侧颞叶皮层时空功能磁共振成像的认知计算模型”。如果你想了解整个系列，请点击下面的链接。
 
- [## 腹侧颞叶皮层时空功能磁共振成像的认知计算模型
-
-### 在这一系列文章中，我们将回顾以下文章
-
-cankocagil.medium.com](https://cankocagil.medium.com/cognitive-computational-modelling-for-spatio-temporal-fmri-in-ventral-temporal-cortex-f353b5c20fdd) 
+  
 
 我将介绍人脑中分布式区域上的无监督表示学习的主题及其在大脑解码研究中的用例。让我们开始吧。
 
 所有相关资料都放在我的 GitHub 页面上。别忘了去看看。如果你是一个纸质爱好者，你可以阅读这一系列文章的纸质版，也可以在我的回购中找到。
 
-[](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) [## 腹侧颞叶皮层的时空功能磁共振成像认知计算模型
-
-### 视觉解码的分布区域的人类腹侧颞叶皮层，显著性和注意力一直活跃…
-
-github.com](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) 
+<https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex>  
 
 # **无监督的&人脑中的流形学习**
 
@@ -141,35 +133,19 @@ LLE 论人类大脑中的掩蔽区域(图片由作者提供)
 
 1.  **发表文章**
 
-[](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) [## 人脑认知计算模型导论(上)
-
-### 这是该系列的第一篇文章，即“时空功能磁共振成像的认知计算建模…
-
-cankocagil.medium.com](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) 
+<https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9>  
 
 2.
 
-[](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) [## 发现神经影像分析(第二部分)
-
-### 这是该系列的第二篇文章，即“腹侧部时空功能磁共振成像的认知计算模型……
-
-cankocagil.medium.com](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) 
+<https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3>  
 
 3.
 
-[](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) [## 人脑的功能连接和相似性分析(下)
-
-### 人脑的空间分析
-
-cankocagil.medium.com](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) 
+<https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb>  
 
 4.
 
-[](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) [## 人脑分布式区域的无监督表示学习(下)
-
-### 无监督学习和人脑的交集
-
-cankocagil.medium.com](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) 
+<https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f>  
 
 2.**在路上(即将到来…)**
 

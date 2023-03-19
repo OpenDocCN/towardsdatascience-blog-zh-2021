@@ -118,11 +118,7 @@ pip uninstall package_name
 
 当然，使用终端还可以做许多其他事情。关于使用终端进行虚拟环境管理的详细说明，请参考我以前的文章:
 
-[](/8-essential-commands-to-get-started-with-conda-environments-788878afd38e) [## 开始使用 Conda 环境的 8 个基本命令
-
-### 开始为所有数据科学项目使用环境
-
-towardsdatascience.com](/8-essential-commands-to-get-started-with-conda-environments-788878afd38e) 
+</8-essential-commands-to-get-started-with-conda-environments-788878afd38e>  
 
 ## 结论
 

@@ -92,12 +92,4 @@ GDG 声称在机器学习中，数学被高估了。编码和知道如何处理�
 
 # 推荐阅读
 
-[](/i-landed-a-job-at-an-ai-startup-after-studying-for-only-4-months-76d816117a1c) [## 仅仅学习了 4 个月，我就在一家人工智能初创公司找到了一份工作
-
-### 我学了什么，怎么学的，什么时候学的，学到什么程度
-
-towardsdatascience.com](/i-landed-a-job-at-an-ai-startup-after-studying-for-only-4-months-76d816117a1c) [](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd) [## 我离开人工智能行业的 5 个原因
-
-### 我在一家人工智能公司工作了 3 年。现在我决定无限期地离开这个行业。
-
-towardsdatascience.com](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd)
+</i-landed-a-job-at-an-ai-startup-after-studying-for-only-4-months-76d816117a1c>  </5-reasons-why-i-left-the-ai-industry-2c88ea183cdd> 

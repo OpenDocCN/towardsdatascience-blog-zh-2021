@@ -76,7 +76,7 @@ NO2 测试数据集的 XGBoost 预测
 
 ![](img/fbc76f914fe0abd3f9eae9b781ede99c.png)
 
-*该图显示了机器学习模型中预测 NO2 浓度(ppb)的前 100 个特征的位置。黑色圆圈的大小表示特征的重要性。一张互动版地图在这里*[](https://varshg.com/aq-maps/NO2-feature-imp.html)**。**
+*该图显示了机器学习模型中预测 NO2 浓度(ppb)的前 100 个特征的位置。黑色圆圈的大小表示特征的重要性。一张互动版地图在这里*<https://varshg.com/aq-maps/NO2-feature-imp.html>**。**
 
 *影响该地区 NO2 浓度的一些最重要的特征包括带有发电机的商业综合体(KTUV Fox 2 办公室)、奥克兰国际机场、圣莱安德罗的一家医院(可能带有发电机和锅炉)以及奥克兰的数字房地产数据中心。*
 

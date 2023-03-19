@@ -137,21 +137,13 @@
 
 例如，我曾经参加了 Udacity 的数据工程纳米学位课程。我需要建立一个数据管道项目，并提交给 Udacity 的评审员以通过课程。这是我当时一直在做的项目。
 
-[](https://github.com/Pathairush/data_engineering) [## pathairush/数据工程
-
-### 大家好，欢迎来到我的数据工程项目库。该存储库旨在展示我的数据工程…
-
-github.com](https://github.com/Pathairush/data_engineering) 
+<https://github.com/Pathairush/data_engineering>  
 
 在线课程迫使我建立一个项目来获得认证。这是教你一项新技能的好方法，也是让我独立完成一些项目的好方法，而不仅仅是看讲座视频。
 
 有了 Nanodegree 课程的经验和模板，我可以更容易地为以后的项目调整模式。如果你想要一个想法来构建你自己的项目，请随时查看我的 Github。这是另一个你可以自己构建的数据工程项目的例子。
 
-[](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline) [## pathairush/RDBMS _ to _ HDFS _ data _ pipeline
-
-### 这个项目旨在将数据从关系数据库系统(RDBMS)转移到 Hadoop 文件系统(HDFS)。这里是…
-
-github.com](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline) 
+<https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline>  
 
 你做的兼职越多，你学得越快。你将面临一个潜在的空间，你可以应用你的知识，从大规模的在线课程。
 
@@ -183,15 +175,7 @@ github.com](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline)
 
 如果你想有一个这种学习方法的例子，看看这个。我试着用这些技巧写下面的文章。
 
-[](/data-quality-check-for-your-data-analysis-tutorial-with-pandas-7ee96d7dc4b6) [## 用于数据分析的数据质量检查—熊猫教程
-
-### 用于检查数据质量的代码片段
-
-towardsdatascience.com](/data-quality-check-for-your-data-analysis-tutorial-with-pandas-7ee96d7dc4b6) [](/feature-engineering-tutorial-with-pandas-b3b4de1f8a7c) [## 任何企业的特征工程——熊猫教程
-
-### 获取机器学习功能的起始代码片段
-
-towardsdatascience.com](/feature-engineering-tutorial-with-pandas-b3b4de1f8a7c) 
+</data-quality-check-for-your-data-analysis-tutorial-with-pandas-7ee96d7dc4b6>  </feature-engineering-tutorial-with-pandas-b3b4de1f8a7c>  
 
 ## 他人的反馈
 

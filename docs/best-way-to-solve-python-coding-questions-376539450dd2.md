@@ -18,11 +18,7 @@
 
 因此，如果我们将数字 5 传递给函数，那么它将返回整数 0 到 5 的和，或 *(0+1+2+3+4+5)* ，等于 15。如果我们传入除了整数之外的任何其他数据类型，比如字符串或浮点数等，函数应该返回 0。
 
-[](/a-skill-to-master-in-python-d6054394e073) [## 如何在 Python 中分割序列
-
-### 了解如何在 Python 中分割列表和字符串
-
-towardsdatascience.com](/a-skill-to-master-in-python-d6054394e073) 
+</a-skill-to-master-in-python-d6054394e073>  
 
 # 制定计划
 
@@ -131,11 +127,7 @@ add(5)
 
 *关于可迭代对象的更多信息:*
 
-[](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc) [## 成为更好的 Python 程序员的三个概念
-
-### 了解 Python 中的*和**运算符，*args 和**kwargs 以及更多内容
-
-towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc) 
+</three-concepts-to-become-a-better-python-programmer-b5808b7abedc>  
 
 # 使用 Reduce 函数
 
@@ -156,11 +148,7 @@ return reduce(lambda x,y: x+y, range(num+1))else:
 
 *关于 reduce 功能的更多信息:*
 
-[](/three-functions-to-know-in-python-4f2d27a4d05) [## Python 中需要了解的三个函数
-
-### 了解如何使用 python 中的映射、过滤和归约函数
-
-towardsdatascience.com](/three-functions-to-know-in-python-4f2d27a4d05) 
+</three-functions-to-know-in-python-4f2d27a4d05>  
 
 # 使用三元运算符
 
@@ -183,11 +171,7 @@ return reduce(lambda x,y: x+y, range(num+1)) if type(num) == int else 0
 
 *关于三元运算符的更多信息:*
 
-[](/ternary-operators-in-python-49c685183c50) [## Python 中的三元运算符
-
-### 用三元运算符改进您的 Python 代码！
-
-towardsdatascience.com](/ternary-operators-in-python-49c685183c50) 
+</ternary-operators-in-python-49c685183c50>  
 
 # sum()函数
 
@@ -206,19 +190,11 @@ return sum(range(num+1)) if type(num) == int else 0
 
 *有关代码性能的更多信息:*
 
-[](/become-a-more-efficient-python-programmer-3850c94b95a4) [## 成为更高效的 Python 程序员
-
-### 了解用 Python 创建列表和完成其他任务的最佳方式
-
-towardsdatascience.com](/become-a-more-efficient-python-programmer-3850c94b95a4) 
+</become-a-more-efficient-python-programmer-3850c94b95a4>  
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *报名，我就赚点小提成。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 # 结论
 

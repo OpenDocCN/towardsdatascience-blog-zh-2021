@@ -156,28 +156,12 @@ net.add_edges(edges)
 
 在这个回购中，您可以随意使用这篇文章的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-match-two-people-with-python-7583b51ff3f9) [## 如何用 Python 找到最佳匹配
+</how-to-match-two-people-with-python-7583b51ff3f9>  </how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c> [## 如何用 Excalidraw 勾画您的数据科学想法
 
-### 给定个人偏好，如何匹配使得总偏好最大化？
-
-towardsdatascience.com](/how-to-match-two-people-with-python-7583b51ff3f9) [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
-
-towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) [## 如何使用 Altair 创建多个图之间的绑定和条件
-
-### 使用绘图绑定从不同角度理解数据
-
-towardsdatascience.com](/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)
+towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) </how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc> 

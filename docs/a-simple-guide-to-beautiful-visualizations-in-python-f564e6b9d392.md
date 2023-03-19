@@ -399,18 +399,6 @@ plt.show()
 
 感谢阅读这篇文章！在下面的文章中，我展示了制作热图、文字云的代码，以及如何在不编码的情况下制作交互式可视化。
 
-[](/avatar-meets-data-visualization-60631f86ba7d) [## 用最后的气宗化身实现 Python 中的数据可视化
+</avatar-meets-data-visualization-60631f86ba7d>  </how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5>  </8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b>  
 
-### 学习使用 Plotly、Seaborn 和 Matplotlib 库制作令人惊叹的可视化效果。
-
-towardsdatascience.com](/avatar-meets-data-visualization-60631f86ba7d) [](/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5) [## 如何用 Python 轻松制作漂亮的文字云
-
-### 使用 stylecloud 和 wordcloud 库来定制你的 wordcloud。
-
-towardsdatascience.com](/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5) [](/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b) [## 2021 年，8 款免费工具可实现交互式数据可视化——无需编码
-
-### 您不需要编写任何代码来轻松创建交互式数据可视化。
-
-towardsdatascience.com](/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b) 
-
-[](https://frankandrade.ck.page/bd063ff2d3)
+<https://frankandrade.ck.page/bd063ff2d3>

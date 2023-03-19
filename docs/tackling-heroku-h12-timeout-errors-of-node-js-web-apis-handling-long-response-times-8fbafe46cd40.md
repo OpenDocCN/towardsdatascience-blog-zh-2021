@@ -95,8 +95,4 @@ Image by Author |注意，变量的命名应该与它们在。环境文件
 
 非常感谢您的阅读，如果您想阅读我即将发布的应对工作挑战(包括人员和技术问题)的文章，请跟我来！会非常感激😀
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

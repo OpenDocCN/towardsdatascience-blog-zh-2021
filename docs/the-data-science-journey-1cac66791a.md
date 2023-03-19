@@ -72,4 +72,4 @@ Python(如果你坚持的话，也可以是另一种编程语言)对于在旅程
 
 数据科学之旅可能是有益的，也可能是痛苦的，而且速度惊人地快。挫折、恶化的错误和困惑威胁着进步。快乐的时刻、新获得的自豪感以及在强大的支持网络中工作会让你坚持下去。像许多旅程一样，你投入的和你得到的是相称的。导游应该给你指路，但是旅程是你自己承担的。
 
-科里·韦德是伯克利编码学院[](https://www.berkeleycodingacademy.com/)**的主管和创始人，他在这里向来自世界各地的青少年教授 Python、数据科学、机器学习和人工智能。他还是《Python 工作坊**[*的主要作者和《用 XGBoost 和 Scikit-learn*](https://courses.packtpub.com/courses/python) *进行渐变增强* [*的作者。*](https://www.amazon.com/gp/product/B08GSSGTYF/)**
+科里·韦德是伯克利编码学院<https://www.berkeleycodingacademy.com/>**的主管和创始人，他在这里向来自世界各地的青少年教授 Python、数据科学、机器学习和人工智能。他还是《Python 工作坊**[*的主要作者和《用 XGBoost 和 Scikit-learn*](https://courses.packtpub.com/courses/python) *进行渐变增强* [*的作者。*](https://www.amazon.com/gp/product/B08GSSGTYF/)**

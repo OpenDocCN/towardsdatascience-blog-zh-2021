@@ -79,15 +79,7 @@
 
 开始学习可能会很困难，但是开始学习以下两本书的主题是不会错的:
 
-[](https://amzn.to/39TdfxD) [## 代码完成(开发人员最佳实践)
-
-### 代码完成(开发者最佳实践)电子书:史蒂夫，麦康奈尔:亚马逊。英国:Kindle 商店
-
-amzn.to](https://amzn.to/39TdfxD) [](https://amzn.to/3jpDE9s) [## 设计模式:可重用面向对象软件的元素
-
-### 购买设计模式:可重用面向对象软件的元素 01
-
-amzn.to](https://amzn.to/3jpDE9s) 
+<https://amzn.to/39TdfxD>  <https://amzn.to/3jpDE9s>  
 
 > 技巧 3——学习软件工程的基础知识。这将使您的工作更容易，您的代码更健壮，并允许您更好地与组织的其他部分联系起来。
 
@@ -103,15 +95,7 @@ amzn.to](https://amzn.to/3jpDE9s)
 
 如果您想开始使用 MLOps，我在这里写了一个简短的系列文章，带您浏览一个端到端的示例:
 
-[](/docker-for-data-scientists-part-1-41b0725d4a50) [## 面向数据科学家的 Docker 第 1 部分
-
-### 最基本的。数据科学家和机器学习工程师快速入门指南
-
-towardsdatascience.com](/docker-for-data-scientists-part-1-41b0725d4a50) [](/docker-for-data-scientists-part-2-7655c02fe975) [## 数据科学家的 Docker 第 2 部分
-
-### 开发机器学习模型、编写 API、打包到 Docker 中、在任何地方运行、分享的完整指南…
-
-towardsdatascience.com](/docker-for-data-scientists-part-2-7655c02fe975) 
+</docker-for-data-scientists-part-1-41b0725d4a50>  </docker-for-data-scientists-part-2-7655c02fe975>  
 
 > 技巧 4——了解将您的工作部署到生产环境中的方法和工具。了解基本的 MLOps 将表明你理解模型开发只是工作的一小部分。
 
@@ -125,19 +109,11 @@ towardsdatascience.com](/docker-for-data-scientists-part-2-7655c02fe975)
 
 你不一定要成为专家才能为人们的学习做出贡献。如果你对此不确定或者不知道从哪里开始，我强烈推荐阅读奥斯汀·克莱恩的一些作品，比如这篇文章:
 
-[](https://medium.com/low-pass-filter/show-your-work-39e6466c4273) [## 展示你的作品
-
-### 奥斯汀·克莱恩
-
-medium.com](https://medium.com/low-pass-filter/show-your-work-39e6466c4273) 
+<https://medium.com/low-pass-filter/show-your-work-39e6466c4273>  
 
 或者这本伟大的书更详细地探讨了这个问题:
 
-[](https://amzn.to/39WKPTp) [## 展示你的作品！:10 件没人告诉你的被发现的事:10 种分享你的…
-
-### 购买展示你的作品！:10 件没人告诉过你的被发现的事情:10 种分享你的创造力和获得…
-
-amzn.to](https://amzn.to/39WKPTp) 
+<https://amzn.to/39WKPTp>  
 
 技巧 5——展示你所知道的。在 GitHub 上做项目，在博客上谈论你学到的一些东西，演讲和活动或者活跃的 YouTube 频道会让你鹤立鸡群。
 
@@ -153,18 +129,10 @@ amzn.to](https://amzn.to/39WKPTp)
 
 下面是其他可能有帮助的资源列表。如果上面提到的书有点沉重，那么由 [Ahmed Besbes](https://medium.com/u/adc8ea174c69?source=post_page-----3b7a732114a9--------------------------------) 撰写的这篇关于软件工程的文章是一个很好的开端:
 
-[](https://medium.com/swlh/software-engineering-tips-and-best-practices-for-data-science-5d85dbcf87fd) [## 数据科学的软件工程技巧和最佳实践
-
-### 伟大的代码带来伟大的机器学习
-
-medium.com](https://medium.com/swlh/software-engineering-tips-and-best-practices-for-data-science-5d85dbcf87fd) 
+<https://medium.com/swlh/software-engineering-tips-and-best-practices-for-data-science-5d85dbcf87fd>  
 
 这是 Vincent Tatan 对最近 MLOps 思想的一个很好的介绍和概述:
 
-[](/intro-to-mlops-ml-technical-debt-9d3d6107cd95) [## MLOps 简介:ML 技术债务
-
-### 为什么 ML 会成为你最大的噩梦
-
-towardsdatascience.com](/intro-to-mlops-ml-technical-debt-9d3d6107cd95) 
+</intro-to-mlops-ml-technical-debt-9d3d6107cd95>  
 
 免责声明:这篇文章确实包含附属链接。

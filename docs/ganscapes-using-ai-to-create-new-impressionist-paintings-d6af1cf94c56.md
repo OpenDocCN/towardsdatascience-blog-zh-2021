@@ -120,11 +120,7 @@ OpenAI 设计了两个模型，一个图像编码器和一个文本编码器。�
 
 StyleGAN2 ADA 的一个重大改进是在训练过程中动态改变图像增强的数量。早在 2020 年 1 月，我就写过这方面的改进。
 
-[](/creating-abstract-art-with-stylegan2-ada-ea3676396ffb) [## 用风格创造抽象艺术
-
-### 我如何使用自适应鉴别器增强和学习转移来生成具有人工智能的改进的抽象画。
-
-towardsdatascience.com](/creating-abstract-art-with-stylegan2-ada-ea3676396ffb) 
+</creating-abstract-art-with-stylegan2-ada-ea3676396ffb>  
 
 ## 培训风格 GAN2 ADA
 

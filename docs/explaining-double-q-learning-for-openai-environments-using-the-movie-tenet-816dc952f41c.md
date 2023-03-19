@@ -18,7 +18,7 @@
 
 作为一个粉丝，我理解我们中的一些人因为疫情还没有看这部电影，因此在这篇文章中，绝对不会有剧透。我们只讨论一些让电影惊艳的概念，而不是电影，你不需要看电影***来阅读这篇文章。***
 
-**Tl；博士:【https://github.com/perseus784/Vehicle_Overtake_Double_DQN】[](https://github.com/perseus784/Vehicle_Overtake_Double_DQN)**
+**Tl；博士:【https://github.com/perseus784/Vehicle_Overtake_Double_DQN】<https://github.com/perseus784/Vehicle_Overtake_Double_DQN>**
 
 *   *与解释机器学习所有概念的帖子不同，在这里，我们专注于项目的学习。每个元素如何影响我们的项目，以及如何设计这些将是主要的焦点。*
 *   *这一点很重要，因为你可以通过原始论文以及互联网上不同帖子的其他精彩文章更好地了解概念和理解，但如果你打算自己实施一个，这种方法将有助于你了解实际障碍。*
@@ -349,7 +349,7 @@ else:
 
 **总的来说，该项目为我们提供了关于深度 RL 的原始像素输入、网络架构选择、超参数调整、奖励函数设计、体验回放、探索与开发机制以及双重深度 Q 学习的良好知识。有了这个，我们可以进一步将这个项目扩展到更先进的技术，如 A2C 或 DDPG 的连续空间学习。**
 
-**这里看一下代码[](https://github.com/perseus784/Vehicle_Overtake_Double_DQN)**。****
+**这里看一下代码<https://github.com/perseus784/Vehicle_Overtake_Double_DQN>**。****
 
 **完整演示:**
 

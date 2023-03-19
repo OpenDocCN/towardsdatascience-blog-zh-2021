@@ -10,11 +10,7 @@
 
 在这篇文章中，我将解释如何对一个现有的 Python 项目进行 Dockerize。我将使用我的一个 Python [项目](/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)进行演示。Dockerized 应用程序有很多好处。其中最突出的一点是，其他开发人员可以在没有任何环境管理的情况下顺利运行项目。可以省时省力，开发者可以专注于开发。如果你刚刚开始使用 Docker，那么请阅读下面的帖子，我已经介绍了一些基础知识。
 
-[](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [## 如何在 Docker 容器中挂载目录
-
-### 专注于编写代码，无需担心环境管理
-
-towardsdatascience.com](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) 
+</how-to-mount-a-directory-inside-a-docker-container-4cee379c298b>  
 
 # 设置
 
@@ -114,12 +110,4 @@ dog.
 
 # 相关职位
 
-[](/how-to-run-mysql-using-docker-ed4cebcd90e4) [## 如何使用 Docker 运行 MySQL
-
-### 轻松运行 MySQL
-
-towardsdatascience.com](/how-to-run-mysql-using-docker-ed4cebcd90e4) [](/how-to-run-postgresql-using-docker-15bf87b452d4) [## 如何使用 Docker 运行 PostgreSQL
-
-### 轻松运行 PostgreSQL
-
-towardsdatascience.com](/how-to-run-postgresql-using-docker-15bf87b452d4)
+</how-to-run-mysql-using-docker-ed4cebcd90e4>  </how-to-run-postgresql-using-docker-15bf87b452d4> 

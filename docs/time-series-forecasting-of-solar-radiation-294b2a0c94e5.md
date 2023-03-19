@@ -87,10 +87,6 @@ LSTM 是具有存储过去记忆能力的循环神经网络。正是由于这种
 
 GitHub 链接:
 
-[](https://github.com/sgautam666/Time_Series_Forecasting_of_Solar_Irradiance) [## sgautam 666/时间序列太阳辐照度预测
-
-### 太阳能发电增长迅速，例如，根据环境影响评估，得克萨斯州已计划增加 10…
-
-github.com](https://github.com/sgautam666/Time_Series_Forecasting_of_Solar_Irradiance) 
+<https://github.com/sgautam666/Time_Series_Forecasting_of_Solar_Irradiance>  
 
 领英:[https://www.linkedin.com/in/suman-gautam-9091572b/](https://www.linkedin.com/in/suman-gautam-9091572b/)

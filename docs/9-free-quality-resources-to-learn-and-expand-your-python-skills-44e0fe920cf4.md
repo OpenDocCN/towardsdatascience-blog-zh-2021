@@ -16,11 +16,7 @@ Python 成为当今流行的编程语言有很多原因；它比其他语言更�
 
 Python 材料的数量令人震惊，有数百本书、网站和博客。成千上万的教程、开发者和 YouYube 视频。虽然我很感激这种巨大的努力，但我知道如果你是这个领域的新手，或者只是为了提高自己而寻找一般信息，在一大堆材料中导航是多么困难。
 
-[](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) [## 证明你 Python 知识水平的 5 个证书
-
-### 有时候，拥有一个证书可能是你需要的验证
-
-towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) 
+</the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b>  
 
 在这篇文章中，我收集了 9 个免费资源，你可以用它们来学习、提高或扩展你的知识和技能。因此，我将为初学 Python 的人提供大约 3 个参考资料，为已经了解一些 Python 但想扩展知识的人提供 3 个参考资料，还有 3 个参考资料涵盖更高级的主题和 Python 的应用。
 
@@ -46,11 +42,7 @@ towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-
 
 或者通过使用图形 Python 库 Turtle。如果你想通过画图形来学习 Python，或者如果你正在教孩子和年轻人编程，并且想让事情变得有趣，这个网站是非常好的。
 
-[](/5-ways-to-write-more-pythonic-code-a33069f968c) [## 编写更多 Pythonic 代码的 5 种方法
-
-### 提升代码的质量和 Python 代码的可读性
-
-towardsdatascience.com](/5-ways-to-write-more-pythonic-code-a33069f968c) 
+</5-ways-to-write-more-pythonic-code-a33069f968c>  
 
 # 变得舒适(中级)
 
@@ -72,7 +64,7 @@ towardsdatascience.com](/5-ways-to-write-more-pythonic-code-a33069f968c)
 
 这本书可能是完整的 Python 书籍之一，从什么是 Python 到如何打包你的代码并在发布给公众后维护它。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 
@@ -96,7 +88,7 @@ towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-
 
 这个网站经历了不同的开发环境，以及如何选择最适合你的一个；它涵盖了如何安装和使用它们。编程的一个关键方面是版本控制，我相信你应该在学习如何编码的同时学习，这个网站做得很好。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

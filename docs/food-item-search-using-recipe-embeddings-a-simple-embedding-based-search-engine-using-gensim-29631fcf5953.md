@@ -12,11 +12,7 @@
 
 我们将此作为教程来学习。代码在我的 Github 里。
 
-[](https://github.com/arnab64/food-search-recipe-embeddings) [## arnab 64/食物搜索食谱嵌入
-
-### 一个简单的基于嵌入的搜索引擎，使用了 gensim，fastText 和 ElasticSearch
-
-github.com](https://github.com/arnab64/food-search-recipe-embeddings) 
+<https://github.com/arnab64/food-search-recipe-embeddings>  
 
 笔记本:[https://github . com/arnab 64/food-search-recipe-embeddings/tree/main/src](https://github.com/arnab64/food-search-recipe-embeddings/tree/main/src)
 

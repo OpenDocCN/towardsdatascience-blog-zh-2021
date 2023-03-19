@@ -58,11 +58,7 @@ pgadmin:
 
 我已经讨论了 docker-compose 文件的各个元素。有兴趣就看看吧。
 
-[](/how-to-run-postgresql-using-docker-15bf87b452d4) [## 如何使用 Docker 运行 PostgreSQL
-
-### 轻松运行 PostgreSQL
-
-towardsdatascience.com](/how-to-run-postgresql-using-docker-15bf87b452d4) 
+</how-to-run-postgresql-using-docker-15bf87b452d4>  
 
 对于**环境**标签，需要的变量是 **PGADMIN_DEFAULT_EMAIL** 和**pg admin _ DEFAULT _ PASSWORD**。点击阅读更多相关信息[。](https://www.pgadmin.org/docs/pgadmin4/development/container_deployment.html)
 
@@ -110,19 +106,7 @@ docker compose up
 
 **现在您知道了如何使用 Docker 通过 pgadmin4 连接到 Heroku Postgres 数据库。如果你觉得这篇文章很有帮助，可以看看下面的文章，我在那里谈了更多关于 Docker 的内容。**
 
-**[](/how-to-run-mysql-using-docker-ed4cebcd90e4) [## 如何使用 Docker 运行 MySQL
-
-### 轻松运行 MySQL
-
-towardsdatascience.com](/how-to-run-mysql-using-docker-ed4cebcd90e4) [](/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7) [## 如何使用 Docker 运行 MySQL 和 phpMyAdmin
-
-### Docker 简化了 MySQL 管理
-
-towardsdatascience.com](/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7) [](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [## 如何在 Docker 容器中挂载目录
-
-### 专注于编写代码，无需担心环境管理
-
-towardsdatascience.com](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) 
+**</how-to-run-mysql-using-docker-ed4cebcd90e4>  </how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7>  </how-to-mount-a-directory-inside-a-docker-container-4cee379c298b>  
 
 # 资源
 

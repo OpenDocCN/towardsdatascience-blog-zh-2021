@@ -4,17 +4,13 @@
 
 > **更新**:发现我关于渐变提升的新书，[实用渐变提升](https://amzn.to/3is9IwR)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://www.amazon.com/dp/B0BJ82S916) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://www.amazon.com/dp/B0BJ82S916> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://www.amazon.com/dp/B0BJ82S916) 
 
 **更新**:了解如何重用下面详述的方法来执行模型选择(向 AutoML 迈进的又一步):
 
-[](/hacking-hp-tuning-to-perform-automatic-model-selection-ef11d4c08ea2) [## 黑掉惠普调优来执行自动型号选择
-
-### 超参数调整可用于执行模型选择并加速高效的 ML 模型创建。
-
-towardsdatascience.com](/hacking-hp-tuning-to-perform-automatic-model-selection-ef11d4c08ea2) ![](img/b5b3147995ce23f5965ff1bc46242b9b.png)
+</hacking-hp-tuning-to-perform-automatic-model-selection-ef11d4c08ea2>  ![](img/b5b3147995ce23f5965ff1bc46242b9b.png)
 
 照片由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [Indra Utama](https://unsplash.com/@indraddd?utm_source=medium&utm_medium=referral) 拍摄
 

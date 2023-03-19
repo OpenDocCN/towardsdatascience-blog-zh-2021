@@ -77,19 +77,11 @@ Epoch 11/20 59/59 [==============================] - 3s 50ms/step - loss: 0.0317
 
 如需完整的脚本，请点击以下链接进入我的 Github 页面:
 
-[](https://github.com/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb) [## 安德里贝罗 1989/中号
-
-### tensor flow js/digit _ recognition/tensor flow _ js _ training . ipynb
-
-github.com](https://github.com/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb) 
+<https://github.com/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb>  
 
 或者通过以下链接直接访问 Google Colab 笔记本:
 
-[](https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb) [## 谷歌联合实验室
-
-### tensorflow_js_training.ipynb
-
-colab.research.google.com](https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb) 
+<https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflowjs/digit_recognition/tensorflow_js_training.ipynb>  
 
 # 在 S3 用 TensorFlow.js 托管模型
 
@@ -217,11 +209,7 @@ TensorFlow.js 是一个完全在浏览器中训练和运行机器学习模型的
 
 完整的“index.html”和“script.js”脚本请点击下面的链接。在这次回购中，我还包括了一个使用 bootstrap 4 的更好看的应用程序(“index_mobile.html”和“script_mobile.js”)。
 
-[](https://github.com/andreRibeiro1989/medium/tree/main/tensorflowjs/digit_recognition) [## 安德里贝罗 1989/中号
-
-### tensor flow js/digit _ recognition/
-
-github.com](https://github.com/andreRibeiro1989/medium/tree/main/tensorflowjs/digit_recognition) 
+<https://github.com/andreRibeiro1989/medium/tree/main/tensorflowjs/digit_recognition>  
 
 有关原始和引导 web 应用程序的演示，请点击以下链接:
 

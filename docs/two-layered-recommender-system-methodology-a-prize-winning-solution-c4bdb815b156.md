@@ -110,7 +110,7 @@
 
 热门功能—用户观看时间、LightFM 的用户功能、日程更改。
 
-如果你感兴趣，这里的代码是[](https://github.com/ndmel/2nd_place_recsys_cinema_challenge_2020)**。**
+如果你感兴趣，这里的代码是<https://github.com/ndmel/2nd_place_recsys_cinema_challenge_2020>**。**
 
 ****🔮改进方法****
 

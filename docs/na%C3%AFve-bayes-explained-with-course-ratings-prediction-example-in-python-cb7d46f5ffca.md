@@ -55,11 +55,7 @@ Americana 使用 Canva 创建的图像
 
 我们在这个例子中使用的数据集是 Kaggle 的“Coursera 课程回顾”数据集，可以通过下面的链接访问:
 
-[](https://www.kaggle.com/imuhammad/course-reviews-on-coursera/notebooks?datasetId=915988&sortBy=dateRun&tab=profile) [## Coursera 上的课程评论
-
-### Coursera 上 145 万条课程评论
-
-www.kaggle.com](https://www.kaggle.com/imuhammad/course-reviews-on-coursera/notebooks?datasetId=915988&sortBy=dateRun&tab=profile) 
+<https://www.kaggle.com/imuhammad/course-reviews-on-coursera/notebooks?datasetId=915988&sortBy=dateRun&tab=profile>  
 
 在我们决定如何处理这个问题之前，看看我们的数据并了解它的总体结构总是很有帮助的。上传者提供的数据集描述表明，它由学生和参与者在 Coursera(最大的在线课程提供商之一)上发布的 145 万条课程评论组成。考虑到我们有一个很大的数据集，删除缺少条目的行不太可能导致有很大偏差的结果。在删除丢失的值后，我们的数据集最终有 1，454，571 行 5 列。
 

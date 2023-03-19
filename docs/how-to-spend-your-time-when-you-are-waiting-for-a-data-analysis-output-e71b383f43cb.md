@@ -119,16 +119,4 @@
 
 # 相关文章
 
-[](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [## 加快和优化 Python 的三个技巧
-
-### 关于我在六月份的阅读中发现的三个 Python 技巧的评论。
-
-towardsdatascience.com](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [## 如何设计一个数据新闻故事
-
-### 如何设计一个数据新闻故事
-
-如何设计一个数据新闻 Storyalod83.medium.com](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) [## 为什么数据科学家也需要讲故事
-
-### 作为一名数据科学家是一份非常棒的工作:你可以收集数据，通过奇妙的抓取机制或网络…
-
-towardsdatascience.com](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83)
+</three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6>  <https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e>  </why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83> 

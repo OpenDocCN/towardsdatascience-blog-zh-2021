@@ -68,11 +68,7 @@ cv2.destroyAllWindows()
 
 这个实验的源代码可以在这里找到:
 
-[](https://github.com/abypaulvarghese56/Edgevisionpi) [## abypaulvarghese56/Edgevisionpi
-
-### 在 Raspberry PI 4 中从 4 个不同的 IP 摄像机捕获 RTSP 流，并使用英特尔 NCS 执行人体检测。它…
-
-github.com](https://github.com/abypaulvarghese56/Edgevisionpi) 
+<https://github.com/abypaulvarghese56/Edgevisionpi>  
 
 我的第一步是在 Raspberry PI 中安装 GStreamer。这是相当直接的。
 
@@ -82,11 +78,7 @@ sudo apt-get install gstreamer1.0-tools
 
 下一步是为 raspberry PI 安装英特尔 OpenVino toolkit。这是必要的，因为处理引擎是英特尔 NCS。我必须安装一个支持英特尔 NCS 的 OpenVINO 版本，因为最新版本的 OpenVINO 只支持英特尔 NCS 2。请点击下面的链接，并根据您拥有的 NCS 安装 OpenVINO。
 
- [## 为 Raspbian* OS 安装 OpenVINO 工具包- OpenVINO 工具包
-
-### 注意:这些步骤适用于 32 位 Raspbian*操作系统，这是 Raspberry Pi*主板的官方操作系统。这些步骤已经…
-
-docs.openvinotoolkit.org](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_raspbian.html) 
+  
 
 其他库包括:
 
@@ -146,11 +138,7 @@ self.camlink1 = 'rtsp://<username>:<password>@192.168.1.2:554/cam/realmonitor?ch
 
 这个想法非常简单，从队列(4 个队列)中抓取帧，并将其推送到英特尔 NCS。这里的队列使用发布/订阅模型工作。摄像机是酒馆，流程服务器是 SUB。如果 NCS 在一个帧中检测到一个人，我们将把这个帧移到另一个队列中。我使用的是英特尔型号 zoom 的个人检测零售 013 型号。该模型的详细信息可在此处找到:
 
-[](https://docs.openvinotoolkit.org/2021.2/omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013.html) [## 人员检测零售-0013 - OpenVINO 工具包
-
-### 这是一个用于零售场景的行人检测器。它基于类似 MobileNetV2 的主干网，包括…
-
-docs.openvinotoolkit.org](https://docs.openvinotoolkit.org/2021.2/omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013.html) 
+<https://docs.openvinotoolkit.org/2021.2/omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013.html>  
 
 您应该使用与您的设备兼容的型号，这一点非常重要。如果您有 NCS2，那么您应该使用支持 NCS 2 的型号。这是一个可以在视频帧中检测出人的模型。它接受高度为 320、宽度为 544 的输入帧
 

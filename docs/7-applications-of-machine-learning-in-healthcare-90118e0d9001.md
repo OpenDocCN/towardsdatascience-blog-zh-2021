@@ -38,11 +38,7 @@
 
 Happify，Woebot，Wysa 是一些基于人工智能的心理健康应用程序，在行业中越来越受欢迎。这些聊天机器人服务利用深度学习模型与患者进行现实对话。
 
-[](/building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851) [## 用 Python 构建聊天机器人——初学者指南
-
-### 从头开始创建您的第一个人工智能聊天机器人
-
-towardsdatascience.com](/building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851) 
+</building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851>  
 
 # 3.患者医疗保健和数据分析
 
@@ -56,11 +52,7 @@ towardsdatascience.com](/building-a-chatbot-in-python-the-beginners-guide-2743ad
 
 从文本医疗信息，自然语言处理-NLP 提供了适当的治疗见解。
 
-[](/natural-language-processing-nlp-for-beginners-6d19f3eedfea) [## 面向初学者的自然语言处理
-
-### 使用 Python 的 NLP 循序渐进初学者指南
-
-towardsdatascience.com](/natural-language-processing-nlp-for-beginners-6d19f3eedfea) 
+</natural-language-processing-nlp-for-beginners-6d19f3eedfea>  
 
 # 5.处方中的错误
 

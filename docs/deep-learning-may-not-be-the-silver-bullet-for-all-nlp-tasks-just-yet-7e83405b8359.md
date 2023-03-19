@@ -58,16 +58,4 @@
 
 ## 相关文章
 
-[](/combating-overfitting-in-deep-learning-efb0fdabfccc) [## 对抗深度学习中的过度拟合
-
-### 阻止你的深度学习模型过度拟合
-
-towardsdatascience.com](/combating-overfitting-in-deep-learning-efb0fdabfccc) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c)
+</combating-overfitting-in-deep-learning-efb0fdabfccc>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35>  </5-ideas-for-your-next-nlp-project-c6bf5b86935c> 

@@ -18,11 +18,7 @@ Batch Norm 是现在很多架构中普遍使用的神经网络层。它通常作
 
 你可能也会喜欢阅读我的另一篇关于批处理规范的文章，这篇文章解释了为什么批处理规范如此有效。
 
-[](/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0) [## 直观地解释了批量定额——它为什么有效
-
-### 一个温和的指南的原因，批量规范层的成功，使训练收敛更快，在平原英语
-
-towardsdatascience.com](/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0) 
+</batch-norm-explained-visually-why-does-it-work-90b98bcc58a0>  
 
 如果你对一般的神经网络架构感兴趣，我有一些你可能会喜欢的文章。
 
@@ -73,11 +69,7 @@ towardsdatascience.com](/batch-norm-explained-visually-why-does-it-work-90b98bcc
 
 如果你想了解更多这方面的内容，请参阅我的《神经网络优化器》,其中详细解释了这一点，以及不同的优化器算法如何发展来应对这些挑战。
 
-[](/neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788) [## 神经网络优化器变得简单:核心算法和为什么需要它们
-
-### 梯度下降优化器使用的基本技术的温和指南，如 SGD，Momentum，RMSProp，Adam 和…
-
-towardsdatascience.com](/neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788) 
+</neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788>  
 
 # 批量定额的必要性
 
@@ -184,18 +176,6 @@ Batch Norm 是一个非常有用的层，您最终会在您的网络架构中经
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于变形金刚、音频深度学习和地理定位机器学习的其他系列。
 
-[](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [## 直观解释的变压器(第 1 部分):功能概述
-
-### NLP 变形金刚的简明指南，以及为什么它们比 rnn 更好，用简单的英语。注意力如何帮助…
-
-towardsdatascience.com](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [## 音频深度学习变得简单(第一部分):最新技术
-
-### 颠覆性深度学习音频应用和架构世界的温和指南。以及为什么我们都需要…
-
-towardsdatascience.com](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [## 利用地理位置数据进行机器学习:基本技术
-
-### 简明的地理空间数据特征工程和可视化指南
-
-towardsdatascience.com](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) 
+</transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>  </audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504>  </leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc>  
 
 让我们继续学习吧！

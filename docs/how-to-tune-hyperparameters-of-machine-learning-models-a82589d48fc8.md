@@ -210,11 +210,7 @@ scikit-learn 的`GridSearchCV()`功能将用于执行超参数调谐。特别需
 
 下一步是什么？在本教程中，您已经研究了两个超参数的调优，但这还不是全部。对于随机森林模型，您还可以调整其他几个超参数。您可以查看来自`scikit-learn`的 API，获得一个可以尝试的超参数列表。
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) [## sk learn . ensemble . randomforestclassifier-sci kit-learn 0 . 24 . 2 文档
-
-### 随机森林分类器。随机森林是一个元估计器，它适合于许多决策树分类器…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html>  
 
 或者，您可以使用本文中描述的代码作为起始模板，尝试为其他机器学习算法调整超参数。
 
@@ -226,11 +222,7 @@ scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.ense
 
 我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我制作的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub page](https://github.com/dataprofessor/) )。
 
-[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

@@ -20,50 +20,30 @@
 
 我们在 7 月份发表了一篇阅读量最大的文章， [Natassha Selvaraj](https://medium.com/u/6a2ef1b1f09d?source=post_page-----f77c7ff0303e--------------------------------) 讲述了她自己的职业转变，显然引起了 TDS 读者的共鸣:基于个人经历，但充满了可操作的见解，你们中的许多人认为她的故事鼓舞人心。
 
-[](/i-tripled-my-income-with-data-science-heres-how-2c32ceb782cf) [## 数据科学让我的收入翻了三倍。以下是方法。
-
-### 一年多前，我被新冠肺炎·疫情抢走了工作。结果是塞翁失马，焉知非福。
-
-towardsdatascience.com](/i-tripled-my-income-with-data-science-heres-how-2c32ceb782cf) 
+</i-tripled-my-income-with-data-science-heres-how-2c32ceb782cf>  
 
 ## [“你用 Python 读 Excel 文件吗？有一个快 1000 倍的方法。”](/read-excel-files-with-python-1000x-faster-407d07ad0ed8)
 
 如果将数据加载速度提高三个数量级听起来像是一个诱人的前提，那么你会在 Nicolas Vandeput 的关于用 Python 处理 Excel 文件的实验教程中发现巨大的价值。
 
-[](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) [## 用 Python 读 Excel 文件吗？有一个快 1000 倍的方法。
-
-### 在本文中，我将向您展示用 Python 加载数据的五种方法。实现了 3 个数量级的加速。
-
-towardsdatascience.com](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) 
+</read-excel-files-with-python-1000x-faster-407d07ad0ed8>  
 
 ## [《数据科学家的 Python 高效编码指南》](/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
 
 学习核心技术技能和最佳实践对于有抱负的数据科学家来说至关重要，但目前只能获得一个。【Varshita Sher 博士收集了一些有用的技巧和诀窍，让日常的 Python 工作流程更加顺畅和高效，填补了这个空白。
 
-[](/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79) [## 数据科学家的 Python 高效编码指南
-
-### 我每天用来编写干净代码的技巧和窍门
-
-towardsdatascience.com](/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79) 
+</data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79>  
 
 ## [《如何快速成为数据科学家》](/how-to-quickly-become-a-data-scientist-40ec00408eba)
 
 与你典型的“更快获得 X”指南不同， [Mohammed Ayar](https://medium.com/u/f2f097ed2ac0?source=post_page-----f77c7ff0303e--------------------------------) 的帖子承认，学习和培训成为一名数据科学家需要大量艰苦的工作和实践。但这并不意味着没有快速跟踪过程的方法，这正是他分享的框架可以帮助你的。
 
-[](/how-to-quickly-become-a-data-scientist-40ec00408eba) [## 如何快速成为数据科学家
-
-### 将 X 年的工作压缩到 X 个月
-
-towardsdatascience.com](/how-to-quickly-become-a-data-scientist-40ec00408eba) 
+</how-to-quickly-become-a-data-scientist-40ec00408eba>  
 
 ## [“让我的数据科学家工作更轻松的 5 件事”](/5-things-that-make-my-job-as-a-data-scientist-easier-dc0820f0f136)
 
 在工作了一年后，Shree Vandana 学到了一些重要的工具和流程，可以将懒散的一天变成高效的一天。无论你是否是一名职业生涯早期的数据科学家，你都应该看看她的建议。
 
-[](/5-things-that-make-my-job-as-a-data-scientist-easier-dc0820f0f136) [## 让我作为数据科学家的工作更轻松的 5 件事
-
-### 在作为一名数据科学家工作了一年之后，我在这里分享一些我一路走来学到的东西，我觉得…
-
-towardsdatascience.com](/5-things-that-make-my-job-as-a-data-scientist-easier-dc0820f0f136) 
+</5-things-that-make-my-job-as-a-data-scientist-easier-dc0820f0f136>  
 
 你是否读过(或写过)一篇可能对其他数据科学家的工作有所帮助的文章？分享到评论里吧！

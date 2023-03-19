@@ -10,11 +10,7 @@
 
 当处理一个新的机器学习问题时，没有办法从一开始就知道解决方案是什么，除非尝试和测试各种不同的实验。随着时间的推移，从业者已经实现了各种不同的技术，以查看在大多数机器学习项目中什么有效，什么无效。由此，当在机器学习管道中执行特征工程步骤时，我们已经能够生成一组最佳实践。
 
-[](/feature-engineering-for-numerical-data-e20167ec18) [## 数字数据的特征工程
-
-### 工程数值的技巧
-
-towardsdatascience.com](/feature-engineering-for-numerical-data-e20167ec18) 
+</feature-engineering-for-numerical-data-e20167ec18>  
 
 请注意，这些最佳实践中的每一个可能会也可能不会改进您对每个特定问题的解决方案，但是它们不太可能对最终的结果造成极大的损害。
 
@@ -65,10 +61,6 @@ towardsdatascience.com](/feature-engineering-for-numerical-data-e20167ec18)
 
 ## **相关文章**
 
-**[](/a-peek-at-data-sampling-methods-5d7199c8aab8) [## 数据采样方法管窥
-
-towardsdatascience.com](/a-peek-at-data-sampling-methods-5d7199c8aab8) [](/tackling-different-types-of-bias-in-data-projects-29e326660639) [## 处理数据项目中不同类型的偏差
-
-towardsdatascience.com](/tackling-different-types-of-bias-in-data-projects-29e326660639) [](/7-common-gotchas-of-data-projects-62e8646552f2) [## 数据项目的 7 个常见问题
+**</a-peek-at-data-sampling-methods-5d7199c8aab8>  </7-common-gotchas-of-data-projects-62e8646552f2> [## 数据项目的 7 个常见问题
 
 towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2)**

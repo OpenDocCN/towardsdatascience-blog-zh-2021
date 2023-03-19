@@ -25,19 +25,11 @@ Solen Feyissa 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 我们将使用**熊猫**来转换数据。
 我在这里 写了关于熊猫 [**的基础知识，涵盖了你需要了解的关于处理数据的主要概念。**](/python-for-data-science-basics-of-pandas-5f8d9680617e)
 
-[](/python-for-data-science-basics-of-pandas-5f8d9680617e) [## 用于数据科学的 Python 熊猫指南
-
-### 10 分钟内完成数据探索指南
-
-towardsdatascience.com](/python-for-data-science-basics-of-pandas-5f8d9680617e) 
+</python-for-data-science-basics-of-pandas-5f8d9680617e>  
 
 然后我们将使用**阿帕奇气流**使整个过程自动化。Airflow 是数据工程师用来有效管理和监控其自动化任务的工作流管理系统。我碰巧在这里 写了一篇关于在 Apache Airflow [**上构建第一个管道的综合指南。**](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9)
 
-[](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) [## 数据工程 Apache 气流的基础——构建您的第一条管道
-
-### 如果你从事技术工作，你很有可能需要管理数据。
-
-towardsdatascience.com](/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9) 
+</data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9>  
 
 对于这个例子，我们将使用 **Google Bigquery** 作为我们的数据仓库，因为这是我目前正在使用的。但是，要理解数据可以从任何数据仓库中提取出来，并以类似的方式进行操作。
 

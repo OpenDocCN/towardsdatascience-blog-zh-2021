@@ -10,17 +10,13 @@
 
 这篇文章是“基础知识及以后”系列中的逻辑回归文章的后续。因此，如果你是机器学习的新手，那么我建议你先浏览一下这篇文章，但是如果你已经知道什么是逻辑回归，那么让我们开始工作吧！
 
-[](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800) [## 基础与超越:逻辑回归
-
-### 一点一点拆开逻辑回归算法
-
-medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800) 
+<https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800>  
 
 在这篇文章中，我们将使用 python 编写一个逻辑回归模型。所以让我们开始吧！
 
 # 数据
 
-任何机器学习算法的核心都是数据。你的机器学习模型总是需要数据来“学习”。因此，为了我们今天的目的，我们将使用一个非常简单的学生录取结果数据集，可以在这里找到[](https://github.com/kumudlakara/Medium-codes/blob/main/logistic_regression/student_result_data.txt)**。**
+任何机器学习算法的核心都是数据。你的机器学习模型总是需要数据来“学习”。因此，为了我们今天的目的，我们将使用一个非常简单的学生录取结果数据集，可以在这里找到<https://github.com/kumudlakara/Medium-codes/blob/main/logistic_regression/student_result_data.txt>**。**
 
 **该数据集包含申请者的历史记录。一个记录包括申请人在两次入学考试中的成绩和最终的录取决定(无论该考生是否被录取)。我们今天的目标是建立一个逻辑回归模型，它将能够决定(或者更好地分类)一个申请人是否应该被录取。在我们的数据集中，前两列是两个测试中的标记，第三列是以二进制编码的决策标签( *y* )(即 *y* = 1，如果允许，而 *y* = 0，如果不允许)。我们的目的是预测这个标签 *y* 。**
 
@@ -72,11 +68,7 @@ medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regre
 
 **如果你感到有点失落，你可以随时关注“基础和超越:逻辑回归”的帖子，因为这个帖子正是那个帖子的代码版本。**
 
-**[](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800) [## 基础与超越:逻辑回归
-
-### 一点一点拆开逻辑回归算法
-
-medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800) 
+**<https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800>  
 
 好了，为了我们的目的，让我们直接跳到逻辑回归的成本函数方程:
 
@@ -160,11 +152,7 @@ medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regre
 
 **您可以在此找到完整的代码和数据集，以供参考:**
 
-**[](https://github.com/kumudlakara/Medium-codes) [## kumudlakara/中等代码
-
-### 用逻辑回归预测学生录取结果代码
-
-github.com](https://github.com/kumudlakara/Medium-codes) 
+**<https://github.com/kumudlakara/Medium-codes>  
 
 1.  [https://medium . com/analytics-vid hya/basics-and-beyond-logistic-regression-34549 D2 ee 800](https://medium.com/analytics-vidhya/basics-and-beyond-logistic-regression-34549d2ee800)
 2.  【https://www.coursera.org/learn/machine-learning/home/ 号

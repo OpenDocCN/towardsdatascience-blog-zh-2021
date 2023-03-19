@@ -30,11 +30,7 @@ Azure ML Studio 菜单分为三个主要部分:**、作者、资产和管理**�
 *   **型号:**用于注册和管理您的型号。
 *   **端点:**在这里，您可以控制和查看所有端点，通过这些端点，您可以让其他系统和应用程序使用您的模型/算法。
 
-[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) 
+<https://medium.com/@hucker.marius/membership>  
 
 ## **经营**
 
@@ -173,10 +169,6 @@ AutoML 非常适合不使用代码创建模型。这是一个无代码的用户�
 
 Azure ML Studio 是一个真正强大的平台，正在被永久开发以进一步改进和促进数据科学家和数据工程师的工作。我相信在未来他们会进一步自动化流程，包括越来越多不同的和更复杂的算法。如果你还没有尝试过 Azure，有一个 30 天的试用阶段来测试资源和玩一点点。我可以推荐你深入 Azure 并了解一点它——它是许多基于机器学习的系统和应用的未来。
 
-[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) 
+<https://medium.com/@hucker.marius/membership>  
 
 ## [阅读更多像这样的](http://Read more like this)

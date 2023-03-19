@@ -25,7 +25,7 @@
 
 *语法(语言学)*
 
-*中的* [*语言学中的*](https://en.wikipedia.org/wiki/Linguistics) *，语法(来源于* [*古希腊语*](https://en.wikipedia.org/wiki/Ancient_Greek)*γραμματικήgrammatikḗ)中的一种* [*自然语言*](https://en.wikipedia.org/wiki/Natural_language) *是其套* [*结构上的*](https://en.wikipedia.org/wiki/Structure) *约束说话者或写作者的* [*从句*](https://en.wikipedia.org/wiki/Clause_(linguistics)) *这个术语也可以指对这样的约束条件的研究，一个领域包括诸如*[](https://en.wikipedia.org/wiki/Phonology)**[*词法*](https://en.wikipedia.org/wiki/Morphology_(linguistics)) *和* [*句法*](https://en.wikipedia.org/wiki/Syntax) *之类的领域，通常由* [*语音学*](https://en.wikipedia.org/wiki/Phonetics)*补充【维基百科】***
+*中的* [*语言学中的*](https://en.wikipedia.org/wiki/Linguistics) *，语法(来源于* [*古希腊语*](https://en.wikipedia.org/wiki/Ancient_Greek)*γραμματικήgrammatikḗ)中的一种* [*自然语言*](https://en.wikipedia.org/wiki/Natural_language) *是其套* [*结构上的*](https://en.wikipedia.org/wiki/Structure) *约束说话者或写作者的* [*从句*](https://en.wikipedia.org/wiki/Clause_(linguistics)) *这个术语也可以指对这样的约束条件的研究，一个领域包括诸如*<https://en.wikipedia.org/wiki/Phonology>**[*词法*](https://en.wikipedia.org/wiki/Morphology_(linguistics)) *和* [*句法*](https://en.wikipedia.org/wiki/Syntax) *之类的领域，通常由* [*语音学*](https://en.wikipedia.org/wiki/Phonetics)*补充【维基百科】***
 
 ***缺乏大型单语或平行语料库和手工制作的语言资源的语言被称为低资源语言。在 NLP 中，与流行语言相比，这些语言很多，比如英语，它们有相对成熟的人工智能框架和工具。在这个案例研究中，我们认为卡纳达语是一种低资源语言。***
 
@@ -166,15 +166,7 @@
 
 ***以下链接加载了谷歌联合实验室**中的预测演示。*****
 
-***[](https://drive.google.com/file/d/1YN-KYZkc-I9wM1-h8i7DABWX7ek9QczB/view?usp=sharing) [## finetune_less_length.mp4
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1YN-KYZkc-I9wM1-h8i7DABWX7ek9QczB/view?usp=sharing) [](https://drive.google.com/file/d/1VOV9YmoZlH4JE8Sgm8LEG2jnXjK2dSTA/view?usp=sharing) [## m3.mp4
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1VOV9YmoZlH4JE8Sgm8LEG2jnXjK2dSTA/view?usp=sharing) 
+***<https://drive.google.com/file/d/1YN-KYZkc-I9wM1-h8i7DABWX7ek9QczB/view?usp=sharing>  <https://drive.google.com/file/d/1VOV9YmoZlH4JE8Sgm8LEG2jnXjK2dSTA/view?usp=sharing>  
 
 **10。结论和未来工作**
 

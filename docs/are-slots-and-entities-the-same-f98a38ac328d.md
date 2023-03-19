@@ -25,11 +25,7 @@
 
 这是我关于 Rasa 系列的下一篇文章。你可以看看下面之前的帖子。
 
-[](/building-a-chatbot-with-rasa-3f03ecc5b324) [## 用 Rasa 构建聊天机器人
-
-### 入门指南
-
-towardsdatascience.com](/building-a-chatbot-with-rasa-3f03ecc5b324) 
+</building-a-chatbot-with-rasa-3f03ecc5b324>  
 
 在那里，我们讨论了 Rasa 和聊天机器人的一些基本组成部分，如果你是 Rasa 的新手，先浏览一下这篇文章会有所帮助。
 

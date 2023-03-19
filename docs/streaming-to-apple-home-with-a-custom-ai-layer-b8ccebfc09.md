@@ -72,21 +72,13 @@ YOLO 采用了一种完全不同的方法。它将一个**单个**神经网络�
 
 Homebridge 是一个非常强大的工具，可以连接各种设备，甚至是定制设备，我们很快就会看到苹果家庭基础设施。
 
- [## 住宅桥
-
-### Homebridge 为您的非 HomeKit 智能家居设备增加了 HomeKit 支持。
-
-homebridge.io](https://homebridge.io) 
+  
 
 ## ffmpeg 插件
 
 在这个例子中，我选择了一个使用 [ffmpeg](https://ffmpeg.org) 来读取这些帧的插件。
 
-[](https://github.com/Sunoo/homebridge-camera-ffmpeg) [## Sunoo/homebridge-camera-ffmpeg
-
-### Homebridge 插件提供基于 FFmpeg 的相机支持在安装这个插件之前，你应该安装 Homebridge…
-
-github.com](https://github.com/Sunoo/homebridge-camera-ffmpeg) 
+<https://github.com/Sunoo/homebridge-camera-ffmpeg>  
 
 这应该被配置为从端口 *:5000* (或者配置在 Flask 中的端口)上的*本地主机*读取帧。也可以为设备和其他设置选择名称。
 
@@ -121,11 +113,7 @@ github.com](https://github.com/Sunoo/homebridge-camera-ffmpeg)
 
 # 跑步 yolo
 
-[](https://pjreddie.com/darknet/yolo/) [## YOLO:实时目标检测
-
-### 你只看一次(YOLO)是一个最先进的，实时对象检测系统。在 Pascal Titan X 上，它处理…
-
-pjreddie.com](https://pjreddie.com/darknet/yolo/) 
+<https://pjreddie.com/darknet/yolo/>  
 
 一个简单的脚本可以用来处理帧和检测帧上的物体
 

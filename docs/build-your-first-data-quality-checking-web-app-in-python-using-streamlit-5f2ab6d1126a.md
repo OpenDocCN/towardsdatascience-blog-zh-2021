@@ -213,34 +213,10 @@ st.markdown("# Data Quality Checker ✅")
 
 GitHub 提供完整代码:
 
-[](https://github.com/maladeep/data-quality-checker) [## 睡眠不良/数据质量检查
-
-### 检查任何数据集的基本质量。
-
-github.com](https://github.com/maladeep/data-quality-checker) 
+<https://github.com/maladeep/data-quality-checker>  
 
 > 想进一步讨论这个吗？请在 Linkedin 上发表评论或与我联系。
 
 # 推荐读物
 
-[](/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e) [## 用 Python 命名匹配的惊人有效的方法
-
-### 数据匹配、模糊匹配、重复数据删除
-
-towardsdatascience.com](/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e) [](https://www.datapine.com/blog/data-quality-management-and-metrics/) [## 数据质量管理和数据控制指标指南
-
-### 数据质量管理是一套旨在保持高质量信息的实践。DQM 一直在…
-
-www.datapine.com](https://www.datapine.com/blog/data-quality-management-and-metrics/) [](/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365) [## 鲜为人知的方法，让你的数据可视化真棒
-
-### 去掉多余的部分，1+1=3
-
-towardsdatascience.com](/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365) [](/how-to-measure-data-quality-815076010b37) [## 如何衡量数据质量
-
-### 你应该跟踪的 13 个指标(但不要跟踪)
-
-towardsdatascience.com](/how-to-measure-data-quality-815076010b37) [](/build-your-first-data-visualization-web-app-in-python-using-streamlit-37e4c83a85db) [## 使用 Streamlit 构建您的第一个 Python 数据可视化 Web 应用程序
-
-### 在不到 20 分钟的时间内，使用 Streamlit 视觉表达功能进行自我探索式可视化
-
-towardsdatascience.com](/build-your-first-data-visualization-web-app-in-python-using-streamlit-37e4c83a85db)
+</surprisingly-effective-way-to-name-matching-in-python-1a67328e670e>  <https://www.datapine.com/blog/data-quality-management-and-metrics/>  </little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365>  </how-to-measure-data-quality-815076010b37>  </build-your-first-data-visualization-web-app-in-python-using-streamlit-37e4c83a85db> 

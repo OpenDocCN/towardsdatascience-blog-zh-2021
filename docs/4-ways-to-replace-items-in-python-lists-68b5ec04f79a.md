@@ -17,11 +17,7 @@
 
 希望你也会发现它们有用！现在欣赏:D 的文章
 
-[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [## 3 门数据工程课程，在 2021 年推进您的职业发展
-
-### 加入数据行业，改变角色或通过注册数据工程简单地学习前沿技术…
-
-towardsdatascience.com](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) 
+</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 # 介绍
 
@@ -66,11 +62,7 @@ lst[2] = 22 #that is 12 + 10
 
 或者，如果最后一个数字是 9，则用 0 代替，并计算后面的(*倒数第二个*)数字。如果不等于 9，则加 1 并返回修改后的列表。否则，如果后面的每个数字都是 9，那么该函数将返回一个以 1 开头的列表和与原始列表中的元素数量一样多的 0。
 
-[](https://anbento4.medium.com/10-mcqs-to-practice-before-your-databricks-apache-spark-3-0-developer-exam-bd886060b9ab) [## 参加 Databricks Apache Spark 3.0 开发人员考试前的 10 个 MCQ 练习
-
-### 你付出了努力。你投入了金钱和时间。现在，考试就要开始了，你只有一次机会…准备好了吗？
-
-anbento4.medium.com](https://anbento4.medium.com/10-mcqs-to-practice-before-your-databricks-apache-spark-3-0-developer-exam-bd886060b9ab) 
+<https://anbento4.medium.com/10-mcqs-to-practice-before-your-databricks-apache-spark-3-0-developer-exam-bd886060b9ab>  
 
 # 2.For 循环
 

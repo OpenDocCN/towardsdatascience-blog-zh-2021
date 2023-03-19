@@ -26,11 +26,7 @@
 
 我们将使用 VPython 来重现这一物理现象。VPython 允许我们对这一现象进行 3D 可视化。我们将使用 GlowScript，这是一个用于 VPython 的在线代码编辑器。您可以在此处访问它:
 
-[](https://glowscript.org/) [## GlowScript IDE
-
-### GlowScript 是一个易于使用、功能强大的环境，用于创建 3D 动画并将其发布到 web 上。在这里…
-
-glowscript.org](https://glowscript.org/) 
+<https://glowscript.org/>  
 
 点击链接后，点击“登录”并使用您的 Google 帐户登录。然后在 GlowScript 页面点击“此处”按钮，再点击“创建新程序”即可开始！或者，您可能希望在本地运行 VPython，在这种情况下，您必须导入 VPython 模块。完整的 VPython / Glowscript 文档可以在[这里](https://www.glowscript.org/docs/VPythonDocs/index.html)找到。
 

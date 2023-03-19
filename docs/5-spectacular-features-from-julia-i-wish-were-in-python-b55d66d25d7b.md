@@ -14,19 +14,11 @@
 
 每当程序员使用多种语言时，他们开始看到某些语言相对于其他语言的优势和权衡。我最喜欢用的编程语言之一是 Julia 编程语言。编程语言中有太多的事情做得非常好，以至于每当我对 Julia 使用不同的语言时，我都会错过。我有一篇关于我为什么如此爱朱莉娅的文章，以及我个人与这篇文章中所写语言的关系:
 
-[](/how-i-came-to-love-the-julia-language-948c32e2f9b0) [## 我是如何爱上朱莉娅语言的
-
-### 为什么 Julia 迅速成为我最喜欢的数据科学编程语言
-
-towardsdatascience.com](/how-i-came-to-love-the-julia-language-948c32e2f9b0) 
+</how-i-came-to-love-the-julia-language-948c32e2f9b0>  
 
 当然，鉴于我主要从事数据科学工作，这个应用程序的另一个流行选择是 Python 编程语言。我也喜欢这种语言，我也认为它有很多很棒的特性。这些特性中的一些肯定会激发出一些伟大的 Julia 代码，但是今天我想把重点放在相反的方面。今天我想展示一些我最喜欢的 Julia 语言的特性，我认为 Python 可以从中受益。鉴于 Python 语言，我认为其中的一些功能很有意义，然而其他功能只是我喜欢的功能，显然不是 Python 方向的一部分。本文还有一个笔记本，以防您希望看到使用的 Julia 代码(真的不多):
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/These%20features%20would%20be%20cool%20in%20Python.ipynb) [## emmetts-DS-NoteBooks/这些特性在 master 的 Python.ipynb 中会很酷…
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/These%20features%20would%20be%20cool%20in%20Python.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/These%20features%20would%20be%20cool%20in%20Python.ipynb>  
 
 # №1:健壮的类型系统
 
@@ -118,11 +110,7 @@ insert!(::BitVector, ::Integer, ::Any) at bitarray.jl:887
 
 也就是说，Python 更具声明性的“方法到类型”方面(方法是在类的范围之外定义的)与类型和它们的函数产生了更大的分离。这是因为正如我之前详细讨论的，没有方法错误。也就是说，将一个类型与一个函数联系起来的唯一东西是该函数中的算法，也许还有参数类型的转换。然而，如前所述，参数的强制转换除了作为代码的文档之外，实际上没有任何作用。多重分派实际上是一个过度强大的编程泛型，如果你想了解更多，我有一篇关于它的文章，你可以在这里阅读:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 # №5:扩展底座
 

@@ -16,11 +16,7 @@
 
 最近，我写了一篇关于我们如何通过网络简化进入数据科学的初始阶段的文章。作为对这篇文章的回应，我在 LinkedIn 上收到了许多联系请求，声称他们希望与我联系，这样他们就可以建立自己的职业网络。
 
-[](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [## 不要让闯入数据科学变得比需要的更难
-
-### 我是如何在没有学位或工作经验的情况下找到第一份数据相关工作的
-
-towardsdatascience.com](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) 
+</dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260>  
 
 不要误解我，我对和我联系的人没有意见。事实上，我在每篇文章的结尾都鼓励它。我非常感激我处在一个人们希望与我联系并跟随我踏上数据科学之旅的位置。与大家分享我的经历的目的是，我希望从我的角度表达作为一名数据科学家或自由职业者的现实，因为我们都努力成为不可或缺的人。
 
@@ -68,11 +64,7 @@ towardsdatascience.com](/dont-make-breaking-into-data-science-harder-than-it-nee
 
 **这是非常正确的…每一个建筑都必须从某个地方开始。**
 
-**[](/start-your-data-science-journey-in-4-steps-f5b5a6e7e80b) [## 用 4 个步骤开始您的数据科学之旅
-
-### 开始数据科学职业生涯的自以为是的路径指南
-
-towardsdatascience.com](/start-your-data-science-journey-in-4-steps-f5b5a6e7e80b) 
+**</start-your-data-science-journey-in-4-steps-f5b5a6e7e80b>  
 
 ## 合适的人会找到你
 
@@ -101,11 +93,7 @@ towardsdatascience.com](/start-your-data-science-journey-in-4-steps-f5b5a6e7e80b
 
 这些想法不一定要从细微处开始。重要的是，你开始创造并分享你正在创造的东西——最终，合适的人会来找你。
 
-[](/the-most-important-data-science-project-458d016ef8a6) [## 最重要的数据科学项目
-
-### 每个数据科学家都必须做的项目
-
-towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6) 
+</the-most-important-data-science-project-458d016ef8a6>  
 
 ## 最后的想法
 
@@ -115,16 +103,4 @@ towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6)
 
 ## 相关文章
 
-[](https://medium.com/analytics-vidhya/a-strategic-approach-to-becoming-a-data-scientist-2e0f1bf65ebf) [## 成为数据科学家的战略方法
-
-### 克服进入数据科学的困难
-
-medium.com](https://medium.com/analytics-vidhya/a-strategic-approach-to-becoming-a-data-scientist-2e0f1bf65ebf) [](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) [## 吸引自由数据科学客户的 5 种方法
-
-### 我做的一件简单的事
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab) [](/finding-a-mentor-in-data-science-9863de5b3620) [## 寻找数据科学领域的导师
-
-### 如何爬上巨人的肩膀
-
-towardsdatascience.com](/finding-a-mentor-in-data-science-9863de5b3620)**
+<https://medium.com/analytics-vidhya/a-strategic-approach-to-becoming-a-data-scientist-2e0f1bf65ebf>  <https://medium.datadriveninvestor.com/5-ways-to-attract-freelance-data-science-clients-to-you-b79fdb76eab>  </finding-a-mentor-in-data-science-9863de5b3620> **

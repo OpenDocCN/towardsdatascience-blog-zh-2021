@@ -185,19 +185,7 @@ TensorFlow 决定森林将取代好的，旧的`scikit-learn`？大概不会。�
 
 您可能还会对以下内容感兴趣:
 
-[](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) [## 菲克(𝜙k)——熟悉最新的相关系数
-
-### 这在分类变量、序数变量和区间变量之间也是一致的！
-
-towardsdatascience.com](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) [](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [## 你可能没听说过的 9 种有用的熊猫方法
-
-### 它们可以让你的日常工作更容易、更快捷。
-
-towardsdatascience.com](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [](/chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348) [## chef boost——基于树的模型的替代 Python 库
-
-### 与 scikit-learn 的主要区别概述
-
-towardsdatascience.com](/chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348) 
+</phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7>  </9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee>  </chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348>  
 
 # 参考
 

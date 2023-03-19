@@ -141,24 +141,8 @@ except AttributeError:
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [## 数据科学家必须知道的 16 个 Bash 命令
-
-### 探索一些最常用的 bash 命令
-
-towardsdatascience.com](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [## 使用预提交挂钩自动化 Python 工作流
-
-### 什么是预提交钩子，它们如何给你的 Python 项目带来好处
-
-towardsdatascience.com](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+</16-must-know-bash-commands-for-data-scientists-d8263e990e0e>  </automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

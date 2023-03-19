@@ -24,11 +24,7 @@
 
 记住这些基本概念，让我们深入了解 Bob 对现代数据堆栈未来的预测。(关于更广泛的对话，一定要看看下面我的采访)。
 
-[](https://www.montecarlodata.com/impact-2021-the-modern-data-stack/) [## 影响 2021 -现代数据堆栈-蒙特卡洛数据
-
-### 关于塑造云中数据的技术和趋势的对话 Bob Muglia，雪花和巴尔公司前首席执行官…
-
-www.montecarlodata.com](https://www.montecarlodata.com/impact-2021-the-modern-data-stack/) 
+<https://www.montecarlodata.com/impact-2021-the-modern-data-stack/>  
 
 # 1.数据湖和数据仓库将变得难以区分
 

@@ -286,11 +286,7 @@ ax.text(-0.2,3,'hey')
 
 所有代码均可从以下网址获得:
 
-[](https://github.com/frankligy/python_visualization_tutorial) [## frank ligy/python _ 可视化 _ 教程
-
-### 关于如何用 python 制作出版就绪图的综合指南，我计划分享如何制作…
-
-github.com](https://github.com/frankligy/python_visualization_tutorial) 
+<https://github.com/frankligy/python_visualization_tutorial>  
 
 # 继续阅读
 

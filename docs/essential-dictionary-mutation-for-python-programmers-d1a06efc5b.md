@@ -34,11 +34,7 @@ cities: dict = {
 
 我们可以使用 sorted()方法和 dict cast 对这个字典进行排序。对于键，我们将使用字典中的数值。为了对每个键都这样做，我们需要使用一个 lambda 表达式来计算每个值的键。如果你想了解更多关于 lambda 的知识和它的用途，我有一篇关于它的文章，我认为值得一读！你可以在这里找到这篇文章:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 让我们继续整理字典:
 
@@ -181,11 +177,7 @@ for row in reader:
 
 大约一个月前，我写了一篇非常酷的文章，讲述了如何以表格的形式可视化字典，就像可视化数据框一样。因为这是一个很酷的技巧，我决定把它加在这个列表的末尾，这样字典征服者就可以找到更好的方法来查看他们的数据。如果你有兴趣阅读这篇文章，你可以在这里查看:
 
-[](/automating-markup-with-python-and-html5-9054362e87ce) [## 使用 Python 和 HTML5 自动化标记
-
-### 使用原始 Python 处理 HTML5 非常容易，以便从字典数据创建 web 友好的表格。
-
-towardsdatascience.com](/automating-markup-with-python-and-html5-9054362e87ce) 
+</automating-markup-with-python-and-html5-9054362e87ce>  
 
 # 结论
 

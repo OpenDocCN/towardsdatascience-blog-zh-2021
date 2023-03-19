@@ -13,7 +13,7 @@
 在这篇文章中，我有两个目标:
 
 1.  我想揭开支持向量机背后的机制，让你更好地理解它的整体逻辑。
-2.  我想教你如何用 Python 实现一个简单的 SVM，并使用[](https://www.gradio.app/)**部署它。最后，您将能够构建这样的东西:**
+2.  我想教你如何用 Python 实现一个简单的 SVM，并使用<https://www.gradio.app/>**部署它。最后，您将能够构建这样的东西:**
 
 **作者创建的 GIF**
 
@@ -213,19 +213,11 @@ return {model.classes_[i]: predict[i] for i in range(3)}**# Importing gradio** i
 
 ****不确定接下来要读什么？我为你挑选了另一篇文章:****
 
-**[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+**</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/4-machine-learning-concepts-i-wish-i-knew-when-i-built-my-first-model-3b8ca9506451) [## 4 个机器学习概念我希望在构建第一个模型时就知道
-
-### 用这 4 个技巧构建惊人的机器学习模型
-
-towardsdatascience.com](/4-machine-learning-concepts-i-wish-i-knew-when-i-built-my-first-model-3b8ca9506451) 
+</4-machine-learning-concepts-i-wish-i-knew-when-i-built-my-first-model-3b8ca9506451>  
 
 ## 特伦斯·申
 

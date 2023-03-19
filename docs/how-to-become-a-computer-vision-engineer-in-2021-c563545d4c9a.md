@@ -216,11 +216,7 @@ Instagram、抖音、YouTube、脸书……这些都是拥有移动应用的公�
 
 Neptune.ai 是一个平台，它将自己作为 MLOps 和开发一个强大的机器学习应用程序所涉及的许多过程中的一个过程的解决方案。更具体地说，Neptune.ai 帮助注册从机器学习管道和工作流中产生的元数据。有关该系统如何应用于计算机视觉的更多信息，请访问以下链接:
 
-[](https://neptune.ai/blog/mlops-pipeline-for-computer-vision-image-classification) [## 为计算机视觉构建 MLOps 流水线:图像分类任务[教程] - neptune.ai
-
-### Vaswani 及其团队在 2018 年推出的变形金刚带来了研究领域的重大变革…
-
-海王星. ai](https://neptune.ai/blog/mlops-pipeline-for-computer-vision-image-classification) 
+<https://neptune.ai/blog/mlops-pipeline-for-computer-vision-image-classification>  
 
 **感谢阅读 **
 

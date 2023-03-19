@@ -60,16 +60,4 @@ Alex Padurariu 在 [Unsplash](https://unsplash.com/s/photos/table?utm_source=uns
 
 **你可能也会喜欢**
 
-[](/inference-vs-prediction-b719da908000) [## 推断和预测的区别是什么
-
-### 在统计学习的背景下讨论预测和推断的区别
-
-towardsdatascience.com](/inference-vs-prediction-b719da908000) [](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简而言之，特征缩放和标准化
-
-### 为什么、如何以及何时调整要素的比例
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)
+</inference-vs-prediction-b719da908000>  </feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  </mastering-indexing-and-slicing-in-python-443e23457125> 

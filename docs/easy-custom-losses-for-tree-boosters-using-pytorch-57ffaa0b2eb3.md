@@ -56,11 +56,7 @@
 
 完整的实现可以在 [git repo](https://github.com/TomerRonen34/treeboost_autograd) 以及[回归和二进制分类的现成例子](https://github.com/TomerRonen34/treeboost_autograd/tree/main/examples)中找到——针对 CatBoost、XGBoost 和 LightGBM。
 
-[](https://github.com/TomerRonen34/treeboost_autograd) [## to erron 34/tree boost _ autograded
-
-### 当您可以让 Pytorch 为您计算时，为什么要为您的目标计算一阶和二阶导数呢？请查看…
-
-github.com](https://github.com/TomerRonen34/treeboost_autograd) 
+<https://github.com/TomerRonen34/treeboost_autograd>  
 
 也可以在 PyTorch 论坛上查看一下[迪奥戈·佩恩斯](https://github.com/dpernes)关于如何计算二阶导数的精彩回答。
 

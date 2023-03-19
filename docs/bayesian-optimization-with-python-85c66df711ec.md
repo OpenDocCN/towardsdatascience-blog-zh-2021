@@ -165,5 +165,5 @@ plt.show()*
 
 # *参考*
 
-*[1] C. M. Bishop (2006)，[](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)*【斯普林格】。【https://github.com/fmfn/BayesianOptimization】 [](https://github.com/fmfn/BayesianOptimization) 。
+*[1] C. M. Bishop (2006)，<https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf>*【斯普林格】。【https://github.com/fmfn/BayesianOptimization】 <https://github.com/fmfn/BayesianOptimization> 。
 【3】[https://scikit-optimize.github.io/stable/](https://scikit-optimize.github.io/stable/)。**

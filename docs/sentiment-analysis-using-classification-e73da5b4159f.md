@@ -115,8 +115,4 @@ np.mean(predicted==Y_test)
 
 最后，如果你没有带标签的数据，想看看如何通过计算正面/负面词汇来计算情感得分，你可以参考我下面的另一篇文章。
 
-[](/design-your-own-sentiment-score-e524308cf787) [## 设计你自己的情感分数
-
-### 熊猫的情感分析
-
-towardsdatascience.com](/design-your-own-sentiment-score-e524308cf787)
+</design-your-own-sentiment-score-e524308cf787> 

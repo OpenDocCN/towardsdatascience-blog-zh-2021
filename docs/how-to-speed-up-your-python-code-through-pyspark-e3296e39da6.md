@@ -26,11 +26,7 @@
 
 Apache Spark 可以从其官方网站下载:
 
-[](https://spark.apache.org/downloads.html) [## 下载| Apache Spark
-
-### 注意，Spark 2.x 是用 Scala 2.11 预建的，除了 2.4.2 版本是用 Scala 2.12 预建的。火花 3.0+…
-
-spark.apache.org](https://spark.apache.org/downloads.html) 
+<https://spark.apache.org/downloads.html>  
 
 你可以选择火花释放和包装时间。如果您没有任何特殊需求，可以下载 Apache Hadoop 的最新版本和预编译版本。下载后，您可以将其移动到您的首选目录，并用一个较短的名称重命名。
 
@@ -136,30 +132,10 @@ sc.sql(query)
 
 # 相关著作
 
-[](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
+</how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d>  </how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
 
 towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) 
 
 # 参考
 
-[](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421) [## 如何在本地安装 PySpark
-
-### 在这里，我将一步一步地在您的笔记本电脑上安装 pyspark。
-
-medium.com](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421) [](https://www.sicara.ai/blog/2017-05-02-get-started-pyspark-jupyter-notebook-3-minutes) [## 3 分钟内开始使用 PySpark 和 Jupyter 笔记本| Sicara
-
-### Apache Spark 是大数据爱好者的必备品。简而言之，Spark 是一个快速而强大的框架，它提供了一个…
-
-www.sicara.ai](https://www.sicara.ai/blog/2017-05-02-get-started-pyspark-jupyter-notebook-3-minutes) [](/pyspark-and-sparksql-basics-6cb4bf967e53) [## PySpark 和 SparkSQL 基础知识
-
-### 如何用 Python 编程实现 Spark
-
-towardsdatascience.com](/pyspark-and-sparksql-basics-6cb4bf967e53)
+<https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421>  <https://www.sicara.ai/blog/2017-05-02-get-started-pyspark-jupyter-notebook-3-minutes>  </pyspark-and-sparksql-basics-6cb4bf967e53> 

@@ -40,11 +40,7 @@
 
 如果你需要更多地了解这一点，下面的文章涵盖了 SIR 模型和每个微分方程是如何建立的，以及可能从模型中推断出的各种解释，以帮助疾病控制。
 
-[](/how-mathematics-can-aid-in-controlling-epidemics-1dfe986fa806) [## 数学如何帮助控制流行病
-
-### 分室模型
-
-towardsdatascience.com](/how-mathematics-can-aid-in-controlling-epidemics-1dfe986fa806) 
+</how-mathematics-can-aid-in-controlling-epidemics-1dfe986fa806>  
 
 这篇文章的目的是给出各种合作模式的一个总的概述，以及它们通常在什么时候被使用。在这方面已经做了很多研究，不同的人根据感染的类型和当时所需的控制措施改变了它们。
 

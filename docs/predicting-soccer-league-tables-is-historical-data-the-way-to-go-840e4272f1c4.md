@@ -219,12 +219,4 @@ rand_forest**.**fit(X, y)
 
 来源:
 
-[](https://github.com/kingazaan/serie_a_analysis) [## GitHub-kingazaan/serie _ a _ analysis
-
-### 我使用了过去 10 个意甲赛季的数据，以预测本赛季 2010/2011 赛季的所有数据…
-
-github.com](https://github.com/kingazaan/serie_a_analysis)  [## 意大利-a 系列-数据中心-无摩擦数据
-
-### 意大利甲级联赛。数据在线变得容易。快速方便地共享和查找数据。简单，坚实，光滑。无摩擦和…
-
-数据中心. io](https://datahub.io/sports-data/italian-serie-a/r/0.html)
+<https://github.com/kingazaan/serie_a_analysis>   

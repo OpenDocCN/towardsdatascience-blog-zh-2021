@@ -122,4 +122,4 @@ model = Pipeline([ ('power',PowerTransformer()), ('scaler',StandardScaler()), ('
 
 如果你想了解更多关于电力转换的知识，请加入我的 Python 在线课程中的[机器学习数据预处理。](https://yourdatateacher.teachable.com/p/data-pre-processing-for-machine-learning-in-python)
 
-*原载于 2021 年 4 月 21 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/04/21/when-and-how-to-use-power-transform-in-machine-learning/)**。**
+*原载于 2021 年 4 月 21 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/04/21/when-and-how-to-use-power-transform-in-machine-learning/>**。**

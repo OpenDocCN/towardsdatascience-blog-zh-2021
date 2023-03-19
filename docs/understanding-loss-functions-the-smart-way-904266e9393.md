@@ -43,11 +43,7 @@
 
 现在，既然我们知道有两种类型的**监督的**机器学习问题:**回归(连续目标值)**和**分类(离散目标值)**，那么让我们来探究它们中的每一个，看看所有类型的损失函数用于它们中的每一个，并基于它们对于提高机器学习[模型的性能](/how-to-evaluate-machine-learning-model-performance-in-python-135b4ae27f7e)的效率来比较它们。要了解更多关于您可以使用一些技术来测量性能的信息，请在完成这篇文章后访问这篇文章以了解更多信息。
 
-[](/how-to-evaluate-machine-learning-model-performance-in-python-135b4ae27f7e) [## 如何评价 Python 中机器学习模型性能？
-
-### 一个实用的方法来计算模型的性能和在 Python 中的实现，涵盖了所有数学…
-
-towardsdatascience.com](/how-to-evaluate-machine-learning-model-performance-in-python-135b4ae27f7e) 
+</how-to-evaluate-machine-learning-model-performance-in-python-135b4ae27f7e>  
 
 # 回归中使用的损失函数:
 
@@ -185,18 +181,6 @@ towardsdatascience.com](/how-to-evaluate-machine-learning-model-performance-in-p
 
 ***你可以在这里阅读更多我的文章:***
 
-***[](/q-q-plots-explained-5aa8495426c0) [## Q-Q 图解释
-
-### 探索 Q-Q 图的力量。
-
-towardsdatascience.com](/q-q-plots-explained-5aa8495426c0) [](/how-to-learn-data-science-from-beginners-to-masters-in-just-1-year-my-personal-experience-6152bedd8157) [## 如何在短短 1 年内把数据科学从初学者学到大师(我的亲身经历)
-
-### 随着时间的推移，我的从初学者到大师学习数据科学的清单的完整汇编只需要一年时间…
-
-towardsdatascience.com](/how-to-learn-data-science-from-beginners-to-masters-in-just-1-year-my-personal-experience-6152bedd8157) [](/how-i-became-kaggle-3x-expert-in-just-1-month-b63b37b53865) [## 我成为 Kaggle 大师的旅程
-
-### 先说说我成为三大类 Kaggle 专家，后来成为笔记本高手的故事。还有…
-
-towardsdatascience.com](/how-i-became-kaggle-3x-expert-in-just-1-month-b63b37b53865) 
+***</q-q-plots-explained-5aa8495426c0>  </how-to-learn-data-science-from-beginners-to-masters-in-just-1-year-my-personal-experience-6152bedd8157>  </how-i-became-kaggle-3x-expert-in-just-1-month-b63b37b53865>  
 
 **谢谢**！***

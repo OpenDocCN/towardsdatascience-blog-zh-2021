@@ -10,11 +10,7 @@
 
 解释机器学习模型是一项艰巨的任务，因为我们需要了解模型在后端如何工作，模型使用的所有参数是什么，以及模型如何生成预测。我们可以使用不同的 python 库来创建机器学习模型可视化，并分析模型的工作对象。
 
-[](/machine-learning-model-dashboard-4544daa50848) [## 机器学习模型仪表板
-
-### 创建仪表板来解释机器学习模型
-
-towardsdatascience.com](/machine-learning-model-dashboard-4544daa50848) 
+</machine-learning-model-dashboard-4544daa50848>  
 
 Staker 是一个开源的 python 库，支持对不同类型的黑盒模型进行机器学习模型解释。它帮助我们创建不同类型的可视化，使我们更容易理解模型是如何工作的。
 

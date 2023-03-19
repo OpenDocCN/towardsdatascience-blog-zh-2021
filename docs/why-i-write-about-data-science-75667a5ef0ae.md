@@ -50,11 +50,7 @@
 
 回想起来，我很高兴我开始写作。我从中学到了很多东西，我觉得它让我成为了一名更全面的数据科学家。重读我的第一篇文章，我觉得去年我进步了很多。希望一年后我会有同样的感觉。如果你对那篇文章感兴趣，你可以在下面阅读它。
 
-[](/the-power-of-feature-engineering-b6f3bb7de39c) [## 特征工程的力量
-
-### 为什么您可能只应该使用逻辑回归来建模非线性决策边界(使用 Python 代码)
-
-towardsdatascience.com](/the-power-of-feature-engineering-b6f3bb7de39c) 
+</the-power-of-feature-engineering-b6f3bb7de39c>  
 
 ## 图像来源
 

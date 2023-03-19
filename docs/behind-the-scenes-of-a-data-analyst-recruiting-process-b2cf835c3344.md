@@ -82,16 +82,4 @@ LinkedIn 显示求职者的数量。找那些申请人数少的公司，申请�
 
 ## 你可能也会喜欢…
 
-[](/advice-to-go-from-junior-to-senior-data-analyst-4680b7c126ed) [## 从初级数据分析师到高级数据分析师的建议
-
-### 如何展示你已准备好进入下一阶段
-
-towardsdatascience.com](/advice-to-go-from-junior-to-senior-data-analyst-4680b7c126ed) [](/7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285) [## 在接受数据分析师提议之前，要考虑的 7 个鲜为人知的因素
-
-### 剧透一下——这不是薪水或头衔
-
-towardsdatascience.com](/7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285) [](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [## 如何应对糟糕的经理
-
-### 当放弃不是一个选项时——还不是
-
-medium.com](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47)
+</advice-to-go-from-junior-to-senior-data-analyst-4680b7c126ed>  </7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285>  <https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47> 

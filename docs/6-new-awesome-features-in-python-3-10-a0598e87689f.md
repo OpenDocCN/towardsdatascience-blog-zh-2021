@@ -16,7 +16,7 @@ Python 的流行有很多原因。最重要的两个因素是 Python 的通用�
 
 一周前(2021 年 10 月 4 日)，Python 新版本发布，Python 3.10。在这个新版本中，Python 增加了独特而有价值的特性，同时删除了一些旧特性。我们可以将任何新软件版本中添加或删除的功能分为几类，如语法功能、添加到默认库中或对现有功能的改进。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 
@@ -69,7 +69,7 @@ match subject:
         <action_default>
 ```
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -102,11 +102,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 Python 中有趣的 Python 函数之一是`zip()`函数，这是 Python 中的一个内置函数，允许您组合和迭代来自几个序列的元素。在以前的版本中，您可以对不同长度的序列使用`zip` ，但是现在，引入了一个新的参数*strict*来检查传递给 zip 函数的所有 iterables 是否长度相同。
 
-[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
-
-### 不管你的技术背景如何，都要学习 Python。
-
-towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+</9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4>  
 
 ## 4.2 自动文本编码
 
@@ -124,10 +120,6 @@ towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-pytho
 
 然后，我开始教孩子们计算机科学，我意识到 Python 可以激励年轻一代去追求技术职业。除了用 Python 编写或阅读代码的简单性以及开始用 Python 实现代码的速度之外，我最喜欢这种编程语言的一点是 Python 软件基金会如何努力保持 Python 的相关性。
 
-[](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) [## 证明你 Python 知识水平的 5 个证书
-
-### 有时候，拥有一个证书可能是你需要的验证
-
-towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) 
+</the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b>  
 
 随着 Python 的每一个新版本，都添加了令人难以置信的新特性，这些特性是大多数用户一直要求的，这些特性将使我们用 Python 编写代码更有效，并使人们更容易进入编程——一般而言——特别是 Python。在这篇文章中，我与您分享了 Python 3.10 中的 6 个新特性，这些特性是我最感兴趣的，我可以和我的学生一起使用。

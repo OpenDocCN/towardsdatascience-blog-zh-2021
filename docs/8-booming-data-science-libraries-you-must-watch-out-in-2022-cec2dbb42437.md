@@ -14,19 +14,11 @@
 
 >您可以从[这里](https://www.ibidem-translations.com/edu/librerias-ciencia-datos/)阅读文章的 spansh 版本(creds to[Chema bescós](https://www.linkedin.com/in/josemariabescos/))。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1️⃣.SHAP
 
@@ -68,11 +60,7 @@ GPT-3 只给出了三个句子作为生成对话的提示:“以下是两个人�
 
 如果你想了解更多关于这个库的知识，请查看我的综合教程:
 
-[](/how-to-explain-black-box-models-with-shap-the-ultimate-guide-539c152d3275) [## 讨厌黑盒模型？是时候改变 SHAP 了
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-explain-black-box-models-with-shap-the-ultimate-guide-539c152d3275) 
+</how-to-explain-black-box-models-with-shap-the-ultimate-guide-539c152d3275>  
 
 ## 证明文件📚:【https://shap.readthedocs.io/en/latest/ 
 
@@ -102,11 +90,7 @@ UMAP 是在 2018 年引入的，作为这两种主流降维和可视化算法之
 
 你可以在我最近写的这篇文章中看到 UMAP 的行动:
 
-[](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be) [## 如何用 UMAP 以惊人的美丽方式分析 100 维数据
-
-### 编辑描述
-
-towardsdatascience.com](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be) 
+</beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be>  
 
 ## 证明文件📚:【https://umap-learn.readthedocs.io/en/latest/ 
 
@@ -178,11 +162,7 @@ Optuna 的这种人气不是白来的。它符合完美调优框架的所有要�
 
 您可以从我的文章中了解到使用 Optuna 的所有技巧和提示，这些技巧和提示在文档中不会经常看到:
 
-[](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) [## 为什么 Kaggle 的所有人都痴迷于 Optuna 进行超参数调优？
-
-### 编辑描述
-
-towardsdatascience.com](/why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c) 
+</why-is-everyone-at-kaggle-obsessed-with-optuna-for-hyperparameter-tuning-7608fdca337c>  
 
 ## 证明文件📚:【https://optuna.readthedocs.io/en/stable/ 
 
@@ -206,26 +186,10 @@ Plotly 理所当然地赢得了比较。今天，它被集成到许多流行的�
 
 数据科学是一个快速发展的行业。为了跟上变化，社区正在以比您学习现有工具和库更快的速度推出新的工具和库。这对于初学者来说太难了。我希望在这篇文章中，我已经设法将你的关注点缩小到 2022 年最有前途的一揽子计划。请注意，所有讨论的库都是在 Matplotlib、Seaborn、XGBoost、NumPy 和 Pandas 等主要库之上的额外库，这些库甚至不需要提及。感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 有问题吗？在 [LinkedIn](https://www.linkedin.com/in/bextuychiev/) 上打我？
 
 # 您可能也会感兴趣…
 
-[](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [## 6 个熊猫的错误，无声地告诉你是一个菜鸟
-
-### 没有错误消息——这就是它们的微妙之处
-
-towardsdatascience.com](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 让我来揭示秘密…
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) [## 多类分类指标综合指南
-
-towardsdatascience.com](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) [](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5) [## 2021 年使用 Optuna 调整 LightGBM 超参数的 Kaggler 指南
-
-towardsdatascience.com](/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5)
+</6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd> 

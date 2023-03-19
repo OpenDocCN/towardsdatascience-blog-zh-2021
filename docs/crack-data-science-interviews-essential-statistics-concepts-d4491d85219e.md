@@ -18,11 +18,7 @@
 
 统计学和机器学习是密不可分的双胞胎，在这两个领域中有许多概念可以互换使用。在另一章中，我阐述了机器学习中最基本的概念。如果你还没有机会，这里是:
 
-[](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [## 破解数据科学访谈:基本的机器学习概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 1 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) 
+</crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa>  
 
 在今天的帖子中，让我们转向统计学，解决数据科学访谈中最常见的 10 个概念。
 
@@ -59,15 +55,7 @@ towardsdatascience.com](/crack-data-science-interviews-essential-machine-learnin
 
 ## 参考
 
-[](https://www.displayr.com/different-types-of-missing-data/) [## 缺失数据有哪些不同类型？|显示器
-
-### 缺失数据有四种不同的质量类型。缺失数据要么是:结构缺失，缺失…
-
-www.displayr.com](https://www.displayr.com/different-types-of-missing-data/) [](https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General-) [## zhi Qiang zhongddu/数据-科学-采访-问答-综合-
-
-### 我希望这篇文章能帮助初学者更好地理解数据科学，并在你的学习中有更好的表现
-
-github.com](https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General-) 
+<https://www.displayr.com/different-types-of-missing-data/>  <https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General->  
 
 # 概念 2:装袋和增压
 
@@ -108,23 +96,7 @@ Boosting 是一种**集成学习算法**，它使用原始数据的子集来生�
 
 ## **参考**
 
-**[](/20-machine-learning-related-questions-to-prepare-for-interviews-93bcba72f911) [## 准备面试的 20 个机器学习相关问题
-
-### 自信地完成面试
-
-towardsdatascience.com](/20-machine-learning-related-questions-to-prepare-for-interviews-93bcba72f911) [](https://en.wikipedia.org/wiki/Bootstrap_aggregating) [## 自举聚合
-
-### Bootstrap aggregating，也称为 bagging(来自 bootstrap aggregat ing ),是一种机器学习集成元算法…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Bootstrap_aggregating) [](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning) [## 机器学习中的装袋、助推和堆叠
-
-### Bagging Bootstrap AGGregatING(Bagging)是一种集合生成方法，它使用样本的变化…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)  [## 装袋助推法
-
-### 什么是装袋助推？
-
-medium.com](https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb) 
+**</20-machine-learning-related-questions-to-prepare-for-interviews-93bcba72f911>  <https://en.wikipedia.org/wiki/Bootstrap_aggregating>  <https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning>    
 
 # 概念三:什么是 Bootstrap？
 
@@ -132,19 +104,7 @@ Bootstrap 是一种从原始数据集中重复抽取随机样本的重采样方�
 
 ## **参考**
 
-[](/a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea) [## R 中的 Bootstrap 实用指南
-
-### 什么，为什么，什么时候，如何
-
-towardsdatascience.com](/a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea) [](/bootstrap-and-statistical-inference-in-python-a06d098a8bfd) [## Python 中的 Bootstrap 和统计推断
-
-### 数据科学访谈中常见的重采样问题
-
-towardsdatascience.com](/bootstrap-and-statistical-inference-in-python-a06d098a8bfd) [](/statistical-simulation-in-python-part-2-91f71f474f77) [## FAANG 在 2021 年询问这些 Python 模拟
-
-### 数据科学和数据工程面试的必读材料，第 2 部分
-
-towardsdatascience.com](/statistical-simulation-in-python-part-2-91f71f474f77) 
+</a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea>  </bootstrap-and-statistical-inference-in-python-a06d098a8bfd>  </statistical-simulation-in-python-part-2-91f71f474f77>  
 
 # **概念 4:多重共线性**
 
@@ -164,15 +124,7 @@ towardsdatascience.com](/statistical-simulation-in-python-part-2-91f71f474f77)
 
 **参考**
 
-[](https://www.investopedia.com/terms/v/variance-inflation-factor.asp) [## 差异通货膨胀系数(VIF)
-
-### 方差膨胀因子(VIF)是对一组多重回归中多重共线性数量的度量
-
-www.investopedia.com](https://www.investopedia.com/terms/v/variance-inflation-factor.asp) [](/multi-collinearity-in-regression-fe7a2c1467ea) [## 回归中的多重共线性
-
-### 为什么这是个问题？如何跟踪和修复它
-
-towardsdatascience.com](/multi-collinearity-in-regression-fe7a2c1467ea) 
+<https://www.investopedia.com/terms/v/variance-inflation-factor.asp>  </multi-collinearity-in-regression-fe7a2c1467ea>  
 
 # 概念 5:维度的诅咒
 
@@ -182,15 +134,7 @@ towardsdatascience.com](/multi-collinearity-in-regression-fe7a2c1467ea)
 
 ## 参考
 
-[](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) [## 统计学习导论:在 R 中的应用
-
-### 亚马逊网站:统计学习导论:应用于 R(统计学中的斯普林格文本)…
-
-www.amazon.com](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) [](/the-curse-of-dimensionality-50dc6e49aa1e) [## 维度的诅咒
-
-### 为什么高维数据会如此麻烦
-
-towardsdatascience.com](/the-curse-of-dimensionality-50dc6e49aa1e) 
+<https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370>  </the-curse-of-dimensionality-50dc6e49aa1e>  
 
 # **概念 6:第一类和第二类错误**
 
@@ -220,19 +164,7 @@ towardsdatascience.com](/the-curse-of-dimensionality-50dc6e49aa1e)
 
 ## 参考
 
-[](/22-statistics-questions-to-prepare-for-data-science-interviews-d5651a8b3c56) [## 为数据科学面试做准备的 22 个统计问题
-
-### 自信的钉钉数据科学访谈，第 2 部分
-
-towardsdatascience.com](/22-statistics-questions-to-prepare-for-data-science-interviews-d5651a8b3c56) [](https://medium.com/the-innovation/the-so-called-simpsons-paradox-6d0efdca6fdc) [## 所谓的“辛普森悖论”
-
-### 我们因为失去了它而变得更好
-
-medium.com](https://medium.com/the-innovation/the-so-called-simpsons-paradox-6d0efdca6fdc) [](https://en.wikipedia.org/wiki/Simpson%27s_paradox) [## 辛普森悖论
-
-### 辛普森悖论，也有其他几个名字，是概率和统计中的一种现象，其中…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Simpson%27s_paradox) 
+</22-statistics-questions-to-prepare-for-data-science-interviews-d5651a8b3c56>  <https://medium.com/the-innovation/the-so-called-simpsons-paradox-6d0efdca6fdc>  <https://en.wikipedia.org/wiki/Simpson%27s_paradox>  
 
 # **概念 9:大数定律**
 
@@ -254,27 +186,11 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试顺序:
 
-[](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的四项 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+</online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  </essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 # 喜欢读这本书吗？
 

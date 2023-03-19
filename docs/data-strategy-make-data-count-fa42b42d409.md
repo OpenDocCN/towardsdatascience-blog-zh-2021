@@ -105,11 +105,7 @@ T4 数据正在推动我们的经济。企业正在利用数据做出更好的�
 
 *请参考下面的文章，了解执行数据策略的更多技巧。*
 
-[](/if-only-someone-had-told-me-dbaf4b073838) [## 要是有人告诉我就好了
-
-### 初创企业首席数据科学家的 3 个数据策略执行技巧
-
-towardsdatascience.com](/if-only-someone-had-told-me-dbaf4b073838) 
+</if-only-someone-had-told-me-dbaf4b073838>  
 
 ## 结论
 

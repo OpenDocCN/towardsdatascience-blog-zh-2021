@@ -132,12 +132,4 @@
 
 谢谢
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/) [](https://github.com/john-adeojo/deploy_notebook_example) [## John-adeojo/deploy _ notebook _ 示例
-
-### 在 GitHub 上创建一个帐户，为 John-adeojo/deploy _ notebook _ example 开发做贡献。
-
-github.com](https://github.com/john-adeojo/deploy_notebook_example)
+<https://www.linkedin.com/in/john-adeojo/>  <https://github.com/john-adeojo/deploy_notebook_example> 

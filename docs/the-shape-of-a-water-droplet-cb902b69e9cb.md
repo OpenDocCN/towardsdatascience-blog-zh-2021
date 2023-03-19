@@ -117,12 +117,4 @@
 
 *谢谢 T. G. Vignesh 对这篇文章的校对。*
 
-*[](https://sjosh90.medium.com/membership) [## 加入我的介绍链接-苏米特乔希媒体
-
-### 阅读 Sumit Joshi(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-sjosh90.medium.com](https://sjosh90.medium.com/membership) [](https://sjosh90.medium.com/subscribe) [## 每当 Sumit Joshi 发布时收到电子邮件。
-
-### 每当 Sumit Joshi 发布时收到电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-sjosh90.medium.com](https://sjosh90.medium.com/subscribe)*
+*<https://sjosh90.medium.com/membership>  <https://sjosh90.medium.com/subscribe> *

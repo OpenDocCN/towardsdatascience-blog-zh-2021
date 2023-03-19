@@ -20,7 +20,7 @@
 
 说来话长，我就把它分解成几个片段。
 
-从今天开始，我将开设一个名为“ ***科技职业*** ”的新博客系列它以职业成长、有效沟通和其他“啊哈”时刻的故事为特色，为现有的更多技术序列添加了个人色彩，如“[](/why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7?sk=2f50d13ab53a4984153e4ccda8870bb1)**[***实验和因果推理***](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e?sk=736ba64dc8481993cd98e043256c4bf4)*[***破解数据科学面试*** “要浏览现有的博客文章，请参考](/how-to-solve-python-coding-questions-using-stack-94571f31af3f?sk=82ce6f24681521226a4619d3d660dda9)[这个欢迎页面](https://medium.com/swlh/leihua-ye-phd-data-scientist-250424b32b5a?sk=7cbe614f29679d5cd8d1c61260f30a14)。***
+从今天开始，我将开设一个名为“ ***科技职业*** ”的新博客系列它以职业成长、有效沟通和其他“啊哈”时刻的故事为特色，为现有的更多技术序列添加了个人色彩，如“</why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7?sk=2f50d13ab53a4984153e4ccda8870bb1>**[***实验和因果推理***](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e?sk=736ba64dc8481993cd98e043256c4bf4)*[***破解数据科学面试*** “要浏览现有的博客文章，请参考](/how-to-solve-python-coding-questions-using-stack-94571f31af3f?sk=82ce6f24681521226a4619d3d660dda9)[这个欢迎页面](https://medium.com/swlh/leihua-ye-phd-data-scientist-250424b32b5a?sk=7cbe614f29679d5cd8d1c61260f30a14)。***
 
 **再说一遍，“ ***科技职业*** ”系列不再讨论技术，而是关注我作为一名数据专家的奋斗和个人成长。这是我的承诺:我会在 NDA 允许的范围内提供尽可能多的细节，并分享这一过程中的每一个教训，无论是好是坏，不会粉饰任何东西。**
 
@@ -156,11 +156,7 @@
 
 ***Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。***
 
-**[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)** 
+**<https://leihua-ye.medium.com/membership> ** 
 
 ## **外卖食品**
 

@@ -289,15 +289,7 @@ performance(pred, "auc")
 
 [https://cran.r-project.org/web/packages/rattle/rattle.pdf](https://cran.r-project.org/web/packages/rattle/rattle.pdf)
 
- [## 用 R - The Rattle 包进行数据挖掘
-
-### r(http://www.r-project.org/)是近几年来最令人兴奋的免费数据挖掘软件项目之一。它…
-
-data-mining-tutorials.blogspot.com](https://data-mining-tutorials.blogspot.com/2011/08/data-mining-with-r-rattle-package.html) [](https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=a23f7684a456aed8c215fc0ca095ca83) [## 使用 Rattle 和 R 的数据挖掘:为知识发现挖掘数据的艺术(使用 R！)
-
-### Amazon.com:使用 Rattle 和 R 的数据挖掘:为知识发现挖掘数据的艺术(使用 R！) (8582569999992)…
-
-www.amazon.com](https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=a23f7684a456aed8c215fc0ca095ca83) 
+  <https://www.amazon.com/gp/product/1441998896/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1441998896&linkCode=as2&tag=medium0074-20&linkId=a23f7684a456aed8c215fc0ca095ca83>  
 
 (上面这本书的链接是附属链接。)
 

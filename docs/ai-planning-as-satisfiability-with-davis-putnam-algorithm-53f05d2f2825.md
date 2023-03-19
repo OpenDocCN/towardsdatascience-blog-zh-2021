@@ -18,11 +18,7 @@
 
 如果你不熟悉传统的规划方法，请阅读下面链接的我上一篇文章中的介绍部分。
 
-[](/improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018) [## 用规划图提高经典人工智能规划的复杂性
-
-### 使用一个新的搜索空间，规划图，以提高表现力和复杂性的问题，发现在经典…
-
-towardsdatascience.com](/improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018) 
+</improving-classical-ai-planning-complexity-with-planning-graph-c63d47f87018>  
 
 在这篇文章中，我将通过一步一步的例子来解释这个概念。
 
@@ -295,8 +291,4 @@ CNF(作者图片)
 
 *我用 Python 写了编码和 Davis-Putnam 算法。如果您感兴趣，请从这里获取:*
 
-*[](https://github.com/debbynirwan/planning_sat) [## debbynirwan/planning_sat
-
-### 这个库实现了作为可满足性的规划，可用于解决带状…
-
-github.com](https://github.com/debbynirwan/planning_sat)*
+*<https://github.com/debbynirwan/planning_sat> *

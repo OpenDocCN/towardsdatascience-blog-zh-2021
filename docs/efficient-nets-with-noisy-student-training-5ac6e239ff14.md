@@ -141,11 +141,7 @@
 
 模型精度前 1 名和前 5 名及其可训练参数计数([来源](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.pdf))
 
-[](https://github.com/bharatdhyani13/EfficientNet-Noisy-Student-Training) [## bharatdhyani 13/efficient net-noise-学生培训
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/bharatdhyani13/EfficientNet-Noisy-Student-Training) 
+<https://github.com/bharatdhyani13/EfficientNet-Noisy-Student-Training>  
 
 ## 结论
 

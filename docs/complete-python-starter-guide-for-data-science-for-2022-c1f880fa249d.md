@@ -20,11 +20,7 @@ Python 3.10 的当前版本是从以前的 Python 2 时代发展而来的，这�
 
 我们将关注开发人员在从事数据科学项目时最应该关注的特定主题，以获得最佳结果。如果您正在寻找关于即兴 Python 编程的更高级的作品，请查看下面的文章，以了解 Python 的一些最佳实践。
 
-[](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) 
+</how-to-write-code-effectively-in-python-105dc5f2d293>  
 
 # 迭代语句:
 
@@ -84,11 +80,7 @@ lst
 
 append 函数是编程和数据科学领域中使用的最重要的命令之一。我们还可以在列表上执行和操作其他一些功能。要了解更多关于其他可用选项的信息，我强烈推荐通过下面提供的链接查看使用 Python 编程掌握列表的详细版本。
 
-[](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</mastering-python-lists-for-programming-5423b011d937>  
 
 # 词典:
 
@@ -114,11 +106,7 @@ dict_values(['A', 'B', 'C'])
 
 上面的起始代码应该允许用户对如何使用字典值和关键元素的一些基本概念有一个简单的理解。如果你期待一个关于字典和集合的扩展指南，我推荐你看看下面的文章，以获得更多关于这些主题的知识。
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 # 功能:
 
@@ -126,11 +114,7 @@ towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f)
 
 Python 还允许它的用户直接访问它的一些匿名(或高级)函数选项，这将有助于更快更高效地开发您的项目。我已经在另一篇文章中非常详细地介绍了以下主题，如果您有兴趣进一步探讨这个主题，我建议您查看一下。下面提供了相同内容的链接。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 # 探索用于数据科学的 Python 库:
 
@@ -153,11 +137,7 @@ data.head()
 
 为了更多地了解 Pandas 并征服这个库背后的分析工具，我建议查看我以前的一篇文章，该文章介绍了每个数据科学家的武器库中必须包含的 14 个最重要的 Pandas 操作。以下是相同的以下链接。
 
-[](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) 
+</14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  
 
 ## 2.Matplotlib:
 
@@ -169,11 +149,7 @@ towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-kno
 
 上面的图像展示了一个在 matplotlib 库的帮助下构建的条形图。我们可以使用 matplotlib 执行更多的可视化、图表和其他统计可视化。要了解有关数据科学项目的不同类型的可视化的更多信息，请查看下面提供的链接。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 ## 3.NumPy:
 
@@ -181,11 +157,7 @@ towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science
 
 如果没有 numpy 的适当效用，解决大多数复杂的数学问题和机器学习项目几乎是不可能的。因此，非常详细地理解这个概念是至关重要的。建议读者阅读下面的文章，了解每个数据科学家都必须了解的十五个 numpy 功能。
 
-[](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) 
+</15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  
 
 ## 4.sci kit-学习:
 
@@ -206,11 +178,7 @@ tokens = nltk.word_tokenize(sentence)
 
 如果你正在研究图像处理方面的东西，那么计算机视觉库 Open-CV 是非常值得推荐的。从下面的链接查看以下库的完整指南。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 # 结论:
 
@@ -226,28 +194,12 @@ Python 是一种革命性的编程语言，由于其简单、易学、多功能�
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [## 用 Python 生成二维码，不到 10 行
-
-### 构建一个简单的 Python 项目，用 QR 码加密您的信息
-
-towardsdatascience.com](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) 
+</generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

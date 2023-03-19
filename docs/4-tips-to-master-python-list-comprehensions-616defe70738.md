@@ -42,21 +42,13 @@ Python 列表理解视频。尼克·皮彭布勒尔
 
 例如，让我们从 0–9 的列表中过滤出任何奇数:
 
-[](/advanced-python-list-techniques-c6195fa699a3) [## 你应该知道的 8 种高级 Python 列表技术！
-
-### 让全能榜单更加强大！
-
-towardsdatascience.com](/advanced-python-list-techniques-c6195fa699a3) 
+</advanced-python-list-techniques-c6195fa699a3>  
 
 # 技巧 3:用列表理解有条件地修改列表
 
 假设您有一个员工名单，如果他们的销售额超过 100 美元，他们将获得 13%的佣金。有人给了你一份销售清单，你需要修改它，看看是否要支付佣金:
 
-[](/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c) [## 你应该知道的 7 种高级 Python 字典技术
-
-### 根据以下提示掌握 Python 字典
-
-towardsdatascience.com](/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c) 
+</7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c>  
 
 # 技巧 4:在列表理解中使用多个条件句
 

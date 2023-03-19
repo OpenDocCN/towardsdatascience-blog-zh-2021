@@ -12,19 +12,11 @@ GMT 或通用绘图工具已经成为绘制地球、海洋和行星科学地图�
 
 我已经在多篇帖子中谈到了 GMT 5 以及如何使用它绘制高质量的地图。我还详细讨论了 GMT 6 的 Python 接口 PyGMT。侏儒在引擎盖下使用 GMT 6 完成所有任务。
 
- [## GMT 初学者教程
-
-### 通用制图工具广泛应用于地球、行星和其他研究领域，以处理数据和…
-
-www.earthinversion.com](https://www.earthinversion.com/utilities/GMT-tutorial-for-beginners/) 
+  
 
 在这篇文章中，我的目标是向你介绍使用 GMT 6 创建简单地图的基础知识，并让你熟悉语法。GMT 6 中的大多数风格几乎与 GMT 5 相同，除了编码语法有了显著的改进。它变得更有组织性，可以用更少的代码完成更多的工作。它增加了使用有意义的完整命令的选项，而不仅仅是别名。当我们用一些例子来讨论这个问题时，它会变得更加清楚。
 
-[](https://www.earthinversion.com/utilities/GMT-advanced-II/) [## GMT 高级教程 II
-
-### 对于基础教程，请访问这里。本教程由运行 GMT 的 Bash 脚本文件组成。数据文件…
-
-www.earthinversion.com](https://www.earthinversion.com/utilities/GMT-advanced-II/) 
+<https://www.earthinversion.com/utilities/GMT-advanced-II/>  
 
 # 安装 GMT
 
@@ -171,11 +163,7 @@ gmt end
 
 人们可以用 GMT 做更多的事情。我会在以后的文章中尝试解决这个问题。更多 GMT 相关的例子，可以看看我博客里的其他帖子。我希望这篇教程能在你的努力中派上用场。
 
-[](https://www.earthinversion.com/utilities/High-quality-maps-using-the-modern-interface-to-the-Generic-Mapping-Tools/) [## 使用通用制图工具的现代界面制作高质量地图
-
-### GMT 或通用绘图工具已经成为绘制地球、海洋和行星科学地图的同义词。它可以…
-
-www.earthinversion.com](https://www.earthinversion.com/utilities/High-quality-maps-using-the-modern-interface-to-the-Generic-Mapping-Tools/) 
+<https://www.earthinversion.com/utilities/High-quality-maps-using-the-modern-interface-to-the-Generic-Mapping-Tools/>  
 
 # 参考
 

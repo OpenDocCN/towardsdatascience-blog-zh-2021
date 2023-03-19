@@ -34,7 +34,7 @@ Alpha (α)被称为**显著性水平或可接受误差**；α = 0.05 通常是�
 
 ![](img/c64a8aadb8b2de95e2800667b20c96a8.png)
 
-*上表来自第一项确定 30-74 岁美国成年人实际心脏年龄的研究。这项研究可以在这里找到*[](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6434a6.htm?s_cid=mm6434a6_w)**。**
+*上表来自第一项确定 30-74 岁美国成年人实际心脏年龄的研究。这项研究可以在这里找到*<https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6434a6.htm?s_cid=mm6434a6_w>**。**
 
 **40-49 岁的成年人很可能会有一个超出心脏年龄大约 6 岁的情况，并且有 95%的把握！**
 

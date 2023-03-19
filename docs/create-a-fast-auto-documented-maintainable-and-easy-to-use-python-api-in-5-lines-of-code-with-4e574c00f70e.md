@@ -48,7 +48,7 @@ def simple_route():
 
 ## 启动我们的 API
 
-是时候启动我们的 API 了。打开终端，导航到上一步中的`main.py`文件所在的文件夹(如果您没有使用终端的经验，请查看本文[](https://mikehuls.medium.com/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8)**)。执行以下命令:**
+是时候启动我们的 API 了。打开终端，导航到上一步中的`main.py`文件所在的文件夹(如果您没有使用终端的经验，请查看本文<https://mikehuls.medium.com/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8>**)。执行以下命令:**
 
 ```
 uvicorn main:app --reload

@@ -10,7 +10,7 @@
 
 (图片由作者提供)
 
-[*第一部分*](/how-to-build-a-production-ready-financial-question-answering-system-with-jina-and-bert-48335103043f) *—学习如何使用神经搜索框架，*[](https://github.com/jina-ai/jina)**，构建一个* ***金融问答(QA)搜索应用*** *与*[*FiQA*](https://sites.google.com/view/fiqa/home)*数据集，*[*py torch*](https://pytorch.org/)*
+[*第一部分*](/how-to-build-a-production-ready-financial-question-answering-system-with-jina-and-bert-48335103043f) *—学习如何使用神经搜索框架，*<https://github.com/jina-ai/jina>**，构建一个* ***金融问答(QA)搜索应用*** *与*[*FiQA*](https://sites.google.com/view/fiqa/home)*数据集，*[*py torch*](https://pytorch.org/)*
 
 ***第 2 部分——通过纪娜了解如何评估和改进您的财务 QA 搜索结果***
 

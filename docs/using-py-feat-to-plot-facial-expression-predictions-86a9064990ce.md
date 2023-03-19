@@ -12,15 +12,7 @@
 
 Py-feat 是一个免费、开源、易于使用的面部表情数据处理工具，它提供了一个工具包，可以轻松地从图像和视频中检测面部表情，预处理和分析面部表情数据，并可视化面部表情数据。您可以通过浏览以下链接了解更多关于 Py-feat 的信息:
 
- [## Py-Feat
-
-### Py-Feat 提供了一套全面的工具和模型来轻松检测面部表情(动作单元，情绪…
-
-py-feat.org](https://py-feat.org/content/intro.html) [](https://github.com/cosanlab/py-feat) [## GitHub - cosanlab/py-feat:面部表情分析工具箱
-
-### Py-FEAT 是一个用 Python 写的面部表情(FEX)研究套件。该软件包包括检测工具…
-
-github.com](https://github.com/cosanlab/py-feat) 
+  <https://github.com/cosanlab/py-feat>  
 
 在本教程中，我们探索如何使用 Py-Feat 在一个单一的人脸图像。
 
@@ -100,18 +92,6 @@ image_prediction.plot_detections();
 
 ## 作者的相关文章—
 
-[](/can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4) [## 你能教电脑看到你的痛苦吗？
-
-### 答案是肯定的，以下是方法
-
-towardsdatascience.com](/can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4) [](/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad) [## 介绍 open HAC——用于数字生物标记分析和机器学习的开源工具包
-
-### 用于人体活动分类研究和模型创建的新视频分析平台。
-
-towardsdatascience.com](/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad) [](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f) 
+</can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4>  </introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad>  </making-it-rain-with-raincloud-plots-496c39a2756f>  
 
 *感谢您的阅读！*

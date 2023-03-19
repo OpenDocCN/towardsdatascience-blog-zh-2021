@@ -17,11 +17,7 @@
 3.  您做了一个 95%分位数的需求预测，您的预测是 150，而观察到的需求是 120。你如何评估你的预测质量？
 4.  你销售高利润的产品。最糟糕的是什么:库存过多还是不足？设置安全库存目标时，您应该以高需求分位数还是低需求分位数为目标？
 
-[](/probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81) [## 概率预测和库存优化
-
-### 预测只能帮助你做出正确的供应链决策。
-
-towardsdatascience.com](/probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81) 
+</probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81>  
 
 # 分位数预测
 
@@ -105,11 +101,7 @@ L_α (d,f) = (d-f) α    if d≥f
 
 在我的[预测 KPI 文章](/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d)中，我强调了优化预测平均绝对误差(MAE)的最终目的是预测中值需求。
 
-[](/forecast-kpi-how-to-assess-the-accuracy-of-a-product-portfolio-bc38135a6d2a) [## 预测 KPI:如何评估产品组合的准确性？
-
-### 当您处理数千个 SKU 时，如何评估预测的准确性？
-
-towardsdatascience.com](/forecast-kpi-how-to-assess-the-accuracy-of-a-product-portfolio-bc38135a6d2a) 
+</forecast-kpi-how-to-assess-the-accuracy-of-a-product-portfolio-bc38135a6d2a>  
 
 如下图所示，50%分位数弹球损失函数对应于*常规*绝对误差——它们是可以互换的。请记住，根据定义，预测 50%的需求分位数与预测需求中位数是一样的。这是另一个例子，说明优化 MAE 将导致针对需求中值的预测(和*而不是*需求平均值)。
 

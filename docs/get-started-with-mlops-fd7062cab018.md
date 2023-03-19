@@ -133,11 +133,7 @@ pch.vector 创建的人向量—【www.freepik.com
 
 既然我们已经建立了 Seldon-core 的基础版本，我们可以开始探索如何部署我们的 mlflow 模型。可悲的是，我们将不得不做一些充实来实现这一点——即，尽管在 Seldon-core 中支持 mlflow 模型，但它不是以一个漂亮的大按钮的形式自动部署我们的模型。但是，请记住，部署模型所涉及的许多步骤都是可以自动化的——我将在下一篇博客文章中更全面地讨论这一点，可以在下面找到:
 
-[](/making-mlops-easy-for-end-users-a3c22491e5e0) [## 让最终用户轻松使用 MLOps
-
-### 使用开源工具简化 MLOps 的教程
-
-towardsdatascience.com](/making-mlops-easy-for-end-users-a3c22491e5e0) 
+</making-mlops-easy-for-end-users-a3c22491e5e0>  
 
 好吧。我们希望从 Databricks 模型注册表中获取 mlflow 模型，并将其部署到 Seldon-core 中。Seldon-core 确实提供了一个开箱即用的 mlflow 包装器来部署 mlflow 模型，但对我来说，它总是与有问题的模型发生冲突。相反，我采用了一种更加定制的方法，我们需要创建一个与 Seldon 兼容的 docker 映像，我们可以将它部署到 Seldon-core 上。实际上，我发现这更好，因为它将允许我们在后面与漂移和异常值检测相关的章节中探索 Seldon 的更多边缘应用。首先，我们需要从 Databricks mlflow 服务器下载 mlflow 模型:
 
@@ -311,8 +307,4 @@ Alibi-Detect 中的异常值检测算法支持(2021 年 5 月 4 日)
 
 在本系列的下一部分中，我将介绍如何结合使用 Databricks 和 BentoML 来为最终用户创建一个无缝的设置:
 
-[](/making-mlops-easy-for-end-users-a3c22491e5e0) [## 让最终用户轻松使用 MLOps
-
-### 使用开源工具简化 MLOps 的教程
-
-towardsdatascience.com](/making-mlops-easy-for-end-users-a3c22491e5e0)
+</making-mlops-easy-for-end-users-a3c22491e5e0> 

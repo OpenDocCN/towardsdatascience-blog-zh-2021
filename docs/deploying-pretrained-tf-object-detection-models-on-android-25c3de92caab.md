@@ -112,11 +112,7 @@ TensorFlow 对象检测 API 提供了许多[预训练的对象检测模型](http
 
 我们将使用 CameraX 包中的一个`[PreviewView](https://developer.android.com/reference/kotlin/androidx/camera/view/PreviewView)`向用户显示实时摄像机反馈。在它上面，我们将放置一个覆盖图，称为`[BoundingBoxOverlay](https://github.com/shubham0204/Hand_Detection_TFLite_Android/blob/main/app/src/main/java/com/shubham0204/ml/handdetection/BoundingBoxOverlay.kt)`，在摄像机画面上绘制边界框。我不会在这里讨论实现，但是您可以从源代码或我的这个故事中了解它，
 
-[](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) [## 基于 MLKit 的 Android 实时自拍分割
-
-### 在 Android 中执行有史以来最快的图像分割
-
-proandroiddev.com](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) 
+<https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba>  
 
 因为我们要预测实时帧数据上的手的边界框，所以我们还需要一个`ImageAnalysis.Analyzer`对象，它返回来自实时摄像机馈送的每一帧。请看来自`[FrameAnalyzer.kt](https://github.com/shubham0204/Hand_Detection_TFLite_Android/blob/main/app/src/main/java/com/shubham0204/ml/handdetection/FrameAnalyser.kt)`的片段，
 

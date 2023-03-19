@@ -483,15 +483,11 @@ T 型链接的网格搜索优化 SVM(图片由作者提供)
 
 *   完整的合作实验室 Python 笔记本
 
-[](https://colab.research.google.com/drive/1EcVY0jQsO6uKzTMlCPK1wt-T6eEYNDzA?usp=sharing) [## 基于 SVM 的银行营销数据集分类
-
-### 由 Yasas Sandeepa 创作
-
-colab.research.google.com](https://colab.research.google.com/drive/1EcVY0jQsO6uKzTMlCPK1wt-T6eEYNDzA?usp=sharing) 
+<https://colab.research.google.com/drive/1EcVY0jQsO6uKzTMlCPK1wt-T6eEYNDzA?usp=sharing>  
 
 *   前一篇文章
 
-[](/build-a-machine-learning-model-to-a-practical-use-case-from-scratch-3a8dc65ab6f1) [## 从零开始建立一个机器学习模型到实际使用案例
+</build-a-machine-learning-model-to-a-practical-use-case-from-scratch-3a8dc65ab6f1> [## 从零开始建立一个机器学习模型到实际使用案例
 
 towardsdatascience.com](/build-a-machine-learning-model-to-a-practical-use-case-from-scratch-3a8dc65ab6f1) 
 

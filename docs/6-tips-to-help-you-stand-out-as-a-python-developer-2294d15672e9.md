@@ -84,11 +84,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 如果您想了解更多关于 Python 的动态类型模型，请阅读下面的文章。
 
-[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### ..是语言灵活性的根源
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) 
+</dynamic-typing-in-python-307f7c22b24e>  
 
 ## 使用 sphinx 自动生成文档
 
@@ -106,11 +102,7 @@ Sphinx 是一个强大的工具，它可以帮助您根据添加到源代码中�
 
 要更全面地了解 Python 中的预提交钩子，请阅读我下面的文章。
 
-[](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [## 使用预提交挂钩自动化 Python 工作流
-
-### 什么是预提交钩子，它们如何给你的 Python 项目带来好处
-
-towardsdatascience.com](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) 
+</automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb>  
 
 ## 结论
 

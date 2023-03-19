@@ -91,28 +91,4 @@
 
 # *参考*
 
-*[](https://agilitycms.com/resources/posts/-api-vs-webhooks-what-s-the-difference) [## Webhooks vs API:有什么区别？敏捷 CMS
-
-### 随着现代 web 开发的发展，与人有效交流的愿望树立了一个很大的先例。至…
-
-agilitycms.com](https://agilitycms.com/resources/posts/-api-vs-webhooks-what-s-the-difference) [](https://www.mparticle.com/blog/apis-vs-webhooks) [## APIs vs. Webhooks:有什么区别？
-
-### API(应用程序编程接口)支持软件应用程序之间的双向通信，由…
-
-www.mparticle.com](https://www.mparticle.com/blog/apis-vs-webhooks) [](https://sendgrid.com/blog/webhook-vs-api-whats-difference/) [## Webhook vs API:两者有什么区别？-发送网格
-
-### 随着你熟悉 SendGrid 的服务，甚至许多互联网公司的服务，你会看到术语“API”…
-
-sendgrid.com](https://sendgrid.com/blog/webhook-vs-api-whats-difference/) [](https://nordicapis.com/5-examples-of-apis-we-use-in-our-everyday-lives/) [## 我们日常生活中使用的 5 个 API 示例|北欧 APIs |
-
-### APIs 也就是应用程序编程接口——在今天的经济中比以往任何时候都发挥着更大的作用。他们允许…
-
-nordicapis.com](https://nordicapis.com/5-examples-of-apis-we-use-in-our-everyday-lives/) [](https://sendgrid.com/blog/whats-webhook/) [## 什么是网钩？
-
-### webhook 是一个越来越受欢迎的 API 概念。随着越来越多我们在网上做的事情可以用…
-
-sendgrid.com](https://sendgrid.com/blog/whats-webhook/)  [## 什么是 Webhooks？
-
-### 过去 10 年左右，互联网的一个有趣趋势是从静态网站演变到…
-
-www.culttt.com](https://www.culttt.com/2014/01/22/webhooks)*
+*<https://agilitycms.com/resources/posts/-api-vs-webhooks-what-s-the-difference>  <https://www.mparticle.com/blog/apis-vs-webhooks>  <https://sendgrid.com/blog/webhook-vs-api-whats-difference/>  <https://nordicapis.com/5-examples-of-apis-we-use-in-our-everyday-lives/>  <https://sendgrid.com/blog/whats-webhook/>   *

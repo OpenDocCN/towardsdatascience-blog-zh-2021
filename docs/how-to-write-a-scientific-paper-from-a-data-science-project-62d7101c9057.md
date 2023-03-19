@@ -152,18 +152,6 @@
 
 # 相关著作
 
-[](/how-to-build-a-narrative-from-data-85e327940c13) [## 如何从数据中构建叙事
-
-### 根据设置-冲突-解决范式分析数据的一些技巧
-
-towardsdatascience.com](/how-to-build-a-narrative-from-data-85e327940c13) [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [## 如何设计一个数据新闻故事
-
-### 如何设计一个数据新闻故事
-
-如何设计一个数据新闻 Storyalod83.medium.com](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7) 
+</how-to-build-a-narrative-from-data-85e327940c13>  <https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e>  </dataset-manipulation-with-open-refine-a5043b7294a7>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。

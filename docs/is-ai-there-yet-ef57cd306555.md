@@ -88,20 +88,8 @@
 
 我们面临的挑战是找出推动这些创新的最佳方式，同时创造我们可以信任和理解的解决方案。我们还没到那一步，AI 也不应该被认为是我们盲目追随的这个神奇的神。另一方面，我们不能忽视它和它给我们带来的好处。如果我们能够设法应对前面提到的挑战，我们就能真正改善许多人的生活。
 
-这是我想出的一本书的节选，我还在找出版商**。因此，如果你喜欢这篇文章，并想与我联系，请这样做🐦*[](https://twitter.com/alexieidingli)**，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*Instagram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。***
+这是我想出的一本书的节选，我还在找出版商**。因此，如果你喜欢这篇文章，并想与我联系，请这样做🐦*<https://twitter.com/alexieidingli>**，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*Instagram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。***
 
-**[](/is-my-business-ready-for-ai-217b8040f1b0) [## 我的业务为人工智能做好准备了吗？
-
-### 决定你是否应该冒险的快速指南。
-
-towardsdatascience.com](/is-my-business-ready-for-ai-217b8040f1b0) [](/a-whole-new-ai-world-6a5e9e49aa12) [## 一个全新的人工智能世界
-
-### 疫情之后人工智能的兴起
-
-towardsdatascience.com](/a-whole-new-ai-world-6a5e9e49aa12) [](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) [## 自工业革命以来最重大的变化
-
-### 人工智能在当今工业中的应用概述
-
-towardsdatascience.com](/the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e) 
+**</is-my-business-ready-for-ai-217b8040f1b0>  </a-whole-new-ai-world-6a5e9e49aa12>  </the-most-significant-change-since-the-industrial-revolution-9b2b3dad199e>  
 
 [**阿列克谢·丁力教授**](http://www.dingli.org/) 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他已经出版了几本同行评审的出版物，并成为马耳他[的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。](https://malta.ai/)**

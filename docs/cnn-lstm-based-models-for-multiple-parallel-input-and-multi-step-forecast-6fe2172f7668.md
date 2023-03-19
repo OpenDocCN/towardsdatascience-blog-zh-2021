@@ -407,28 +407,4 @@ mape: 5.46
 
 # 有用的链接
 
-[](https://www.sciencedirect.com/science/article/abs/pii/S0925231219309877) [## 用于多时间序列异常检测的多头 CNN-RNN:工业案例研究
-
-### 我们提出了一种用于多时间序列异常检测的多头 CNN-RNN。*时间序列独立于…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0925231219309877) [](https://link.springer.com/chapter/10.1007/978-981-15-3357-0_14) [## 多头机器学习架构的集成，用于医疗保健的时间序列预测…
-
-### shruti Kaushik Abhinav choudh URY Nataraj das Gupta Sayee Natarajan Larry a . Pickett Varun Dutt 部分算法…
-
-link.springer.com](https://link.springer.com/chapter/10.1007/978-981-15-3357-0_14) [](https://ieeexplore.ieee.org/document/8292737) [## 基于深度学习网络的移动流量预测研究
-
-### 随着向第五代(5G)蜂窝技术的演进，对移动互联网的预测和理解…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/8292737) [](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/) [## 电力使用的多步 LSTM 时间序列预测模型-机器学习掌握
-
-### 鉴于智能电表的兴起和太阳能等发电技术的广泛采用…
-
-machinelearningmastery.com](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/) [](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) [## 如何开发用于时间序列预测的 LSTM 模型-机器学习掌握
-
-### 长短期记忆网络，简称 LSTMs，可用于时间序列预测。有很多种…
-
-machinelearningmastery.com](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) [](https://irosyadi.netlify.app/research/time-series-forecasting/) [## 时间数列预测法
-
-### 单变量 LSTM 模型:一个观察时间序列数据，预测序列中下一个值的多变量 LSTM…
-
-irosyadi.netlify.app](https://irosyadi.netlify.app/research/time-series-forecasting/)
+<https://www.sciencedirect.com/science/article/abs/pii/S0925231219309877>  <https://link.springer.com/chapter/10.1007/978-981-15-3357-0_14>  <https://ieeexplore.ieee.org/document/8292737>  <https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/>  <https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/>  <https://irosyadi.netlify.app/research/time-series-forecasting/> 

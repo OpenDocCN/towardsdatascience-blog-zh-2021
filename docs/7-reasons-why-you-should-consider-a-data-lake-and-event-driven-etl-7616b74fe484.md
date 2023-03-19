@@ -53,11 +53,7 @@
 
 **数据湖相互独立地扩展存储和处理(*查询和检索数据的 API 请求*)。一些云数据仓库也支持这种模式。在我之前的文章中有更多的介绍:**
 
-**[](/why-you-are-throwing-money-away-if-your-cloud-data-warehouse-doesnt-separate-storage-and-compute-65d2dffd450f) [## 如果您的云数据仓库没有将存储和计算分开，您为什么要浪费金钱
-
-### 在迁移到云之前，您应该考虑什么来使您的数据仓库和数据湖经得起未来的考验&如何…
-
-towardsdatascience.com](/why-you-are-throwing-money-away-if-your-cloud-data-warehouse-doesnt-separate-storage-and-compute-65d2dffd450f)** 
+**</why-you-are-throwing-money-away-if-your-cloud-data-warehouse-doesnt-separate-storage-and-compute-65d2dffd450f> ** 
 
 # **6.便利**
 

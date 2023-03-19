@@ -86,11 +86,7 @@ EleutherAI 网站的标题(图片由作者提供)
 
 这是链接，你可以自己试试。
 
- [## 电子文档生成测试用户界面
-
-### 语言模型的 EleutherAI web 应用测试
-
-6b.eleuther.ai](https://6b.eleuther.ai/) 
+  
 
 **温度设定**
 
@@ -122,11 +118,7 @@ Eleuther AI 网站的一个问题是，它会在很少的单词后删除文本�
 
 以下是访问笔记本的链接:
 
-[](https://colab.research.google.com/github/ViniTheSwan/Bot/blob/main/colab_demo.ipynb) [## 谷歌联合实验室
-
-### GPT J
-
-colab.research.google.com](https://colab.research.google.com/github/ViniTheSwan/Bot/blob/main/colab_demo.ipynb) 
+<https://colab.research.google.com/github/ViniTheSwan/Bot/blob/main/colab_demo.ipynb>  
 
 运行所有笔记本单元格，直到最后一个单元格。在笔记本的最后一个单元格，我们可以做我们的推断。我们可以更改 Top-P 和温度设置，并设置输入文本。但是我们也可以选择改变输出文本的长度。
 
@@ -192,19 +184,7 @@ GPT-J 非常容易访问，对于许多应用程序来说，它是非常方便�
 
 # 相关文章
 
-[](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) [](/einstein-index-notation-d62d48795378) [## 爱因斯坦指数符号
-
-### 爱因斯坦求和、指数符号和数值
-
-towardsdatascience.com](/einstein-index-notation-d62d48795378) [](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [## 具有策略梯度的 Snake 深度强化学习
-
-### 策略梯度深度强化学习在蛇游戏中的应用
-
-towardsdatascience.com](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) 
+</backpropagation-in-neural-networks-6561e1268da8>  </einstein-index-notation-d62d48795378>  </snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054>  
 
 LinkedIn
 [https://www.linkedin.com/in/vincent-m%C3%BCller-6b3542214/](https://www.linkedin.com/in/vincent-m%C3%BCller-6b3542214/)

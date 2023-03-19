@@ -56,15 +56,7 @@
 
 我们一个 RFC 的标题。摘要由多个队友审阅，人们在文本中进行评论，内容随着异步输入而不断发展。图片作者。
 
-[](https://github.com/rust-lang/rfcs) [## 铁锈语言/RFC
-
-### 许多变更，包括 bug 修复和文档改进，都可以通过普通的 GitHub 实现和审查…
-
-github.com](https://github.com/rust-lang/rfcs) [](https://www.infoq.com/news/2017/12/react-rfc-process/) [## React 采用 RFC 流程
-
-### 脸书已决定采用新的征求意见(RFC)流程来帮助指导 React 的设计并使其更加顺畅
-
-www.infoq.com](https://www.infoq.com/news/2017/12/react-rfc-process/) 
+<https://github.com/rust-lang/rfcs>  <https://www.infoq.com/news/2017/12/react-rfc-process/>  
 
 我们的 RFC 有一个特定的结构:
 
@@ -98,11 +90,7 @@ www.infoq.com](https://www.infoq.com/news/2017/12/react-rfc-process/)
 
 下面有一个关于数据项目管理的有趣阅读链接。*最佳 Scrum 实践*部分有一些关于项目边界的信息。
 
-[](https://neptune.ai/blog/data-science-project-management-in-2021-the-new-guide-for-ml-teams) [## 2021 年数据科学项目管理【ML 团队新指南】- neptune.ai
-
-### 数据科学是主流，在竞争最激烈的市场中，许多组织正在通过以下方式击败竞争对手…
-
-海王星. ai](https://neptune.ai/blog/data-science-project-management-in-2021-the-new-guide-for-ml-teams) 
+<https://neptune.ai/blog/data-science-project-management-in-2021-the-new-guide-for-ml-teams>  
 
 # 即席建模
 
@@ -114,11 +102,7 @@ RFC 获得批准，我们开始开发土地。第一站是*特别建模*:在我�
 
 我们采用 OSEMN 框架来管理流程的这一步:**获取、清理、探索、建模、解释**。此即席分析的输出将是一个问题提取模型，其中包含一份关于提高其准确性和召回率的可能方法的报告。
 
-[](/5-steps-of-a-data-science-project-lifecycle-26c50372b492) [## 数据科学项目生命周期的 5 个步骤
-
-### 通常，当我们谈论数据科学项目时，似乎没有人能够给出一个可靠的解释来说明…
-
-towardsdatascience.com](/5-steps-of-a-data-science-project-lifecycle-26c50372b492) 
+</5-steps-of-a-data-science-project-lifecycle-26c50372b492>  
 
 让我们在项目的背景下讨论这些阶段。
 
@@ -141,11 +125,7 @@ towardsdatascience.com](/5-steps-of-a-data-science-project-lifecycle-26c50372b49
 
 **只需将您的数据输入训练脚本，并更改配置来训练自定义空间管道。[来源。](https://spacy.io/usage/training)**
 
-**[](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/) [## 如何训练空间自动检测新实体(NER)[完全指南]
-
-### 命名实体识别(NER)是自动识别文本中讨论的实体的过程
-
-www.machinelearningplus.com](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/) 
+**<https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/>  
 
 # 模型分析
 
@@ -197,19 +177,7 @@ www.machinelearningplus.com](https://www.machinelearningplus.com/nlp/training-cu
 
 本质上，这就是 MLOps:一组良好的实践，引导模型从概念到产品。
 
-[](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) [## ML Ops:作为工程学科的机器学习
-
-### 随着 ML 从研究走向应用商业解决方案的成熟，我们是否需要提高其运营的成熟度…
-
-towardsdatascience.com](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) [](https://www.coursera.org/learn/mlops-fundamentals) [## 机器学习操作基础
-
-### 本课程向参与者介绍了用于部署、评估、监控和管理的 MLOps 工具和最佳实践
-
-www.coursera.org](https://www.coursera.org/learn/mlops-fundamentals) [](https://thechief.io/c/editorial/top-10-open-source-mlops-tools/) [## 十大开源 MLOps 工具
-
-### MLOps 指的是结合使用 DevOps 和机器学习来创建强大的自动化、跟踪、流水线…
-
-首席执行官](https://thechief.io/c/editorial/top-10-open-source-mlops-tools/) 
+</ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f>  <https://www.coursera.org/learn/mlops-fundamentals>  <https://thechief.io/c/editorial/top-10-open-source-mlops-tools/>  
 
 所以，回到退出计划。在 [birdie.ai](https://medium.com/u/7774c8644bd4?source=post_page-----9c6fbfc29d3b--------------------------------) 这里，我们有一些预先存在的架构来运行我们的数据丰富过程，大量使用 AWS 基础设施。我们需要选择一个脚手架来执行新的模型。
 
@@ -231,15 +199,7 @@ AWS Lambda +阶跃函数数据处理流水线。图片作者。
 
 我们的游戏计划现在正致力于重组我们之前的一个管道来执行问题提取。这意味着如果数据科学团队交付一个经过测试的、可扩展的推理代码，开发时间将从几天缩短到*小时*。
 
-[](https://analyticsindiamag.com/why-data-scientists-should-follow-software-development-standards/) [## 为什么数据科学家应该遵循软件开发标准
-
-### 随着组织开始认识到数据的价值，对数据科学家的需求呈指数级增长…
-
-analyticsindiamag.com](https://analyticsindiamag.com/why-data-scientists-should-follow-software-development-standards/) [](https://bigdata-madesimple.com/how-software-engineers-and-data-scientists-can-collaborate-together/) [## 软件工程师和数据科学家如何合作
-
-### 数据科学家是伟大的数学家，拥有很多跨学科的知识和超强的分析能力…
-
-bigdata-madesimple.com](https://bigdata-madesimple.com/how-software-engineers-and-data-scientists-can-collaborate-together/) 
+<https://analyticsindiamag.com/why-data-scientists-should-follow-software-development-standards/>  <https://bigdata-madesimple.com/how-software-engineers-and-data-scientists-can-collaborate-together/>  
 
 # 前端原型
 
@@ -257,11 +217,7 @@ bigdata-madesimple.com](https://bigdata-madesimple.com/how-software-engineers-an
 
 我们能够使用 [Tableau](https://www.tableau.com/) 快速制作一个连接到产品分析仪表板的工作原型。将 Tableau 仪表板连接到 HTML 页面真的很容易！
 
-[](https://www.zuar.com/blog/embedded-analytics-how-to-embed-tableau-dashboards-into-a-web-page/) [## 如何在网页中嵌入 Tableau 仪表板
-
-### 本文将向您展示三种将 Tableau 仪表盘嵌入网页的方法。iframe + Tableau 共享链接 Tableau…
-
-www.zuar.com](https://www.zuar.com/blog/embedded-analytics-how-to-embed-tableau-dashboards-into-a-web-page/) ![](img/a6c02e6b813c5612385562424c69a13f.png)
+<https://www.zuar.com/blog/embedded-analytics-how-to-embed-tableau-dashboards-into-a-web-page/>  ![](img/a6c02e6b813c5612385562424c69a13f.png)
 
 使用 Tableau 的原型问题浏览器。我们建立了一个问题类型的层次结构，可以在多个级别进行分析:*图像质量组*包含艺术模式、亮度差和颜色组；亮度差包括所有涉及亮度或太暗的问题。图片作者。
 

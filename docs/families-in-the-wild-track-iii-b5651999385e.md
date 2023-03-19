@@ -86,19 +86,11 @@ head -n 5 track-III/test/gallery_list.csv
 
 我的 GitHub 上有所有代码:
 
-[](https://github.com/visionjo/pykinship) [## GitHub-vision jo/py graphy:用于可视化亲属关系识别的软件组件和演示。一个重点是…
-
-### 视觉亲属识别的软件组件和演示。重点是 FIW 数据集-数据加载器…
-
-github.com](https://github.com/visionjo/pykinship) 
+<https://github.com/visionjo/pykinship>  
 
 我们所指的脚本是:
 
-[](https://github.com/visionjo/pykinship/blob/master/rfiw-tools/track-III-demo.py) [## py 亲属关系/track-III-demo . py at master vision jo/py 亲属关系
-
-### 视觉亲属识别的软件组件和演示。重点是 FIW 数据集-数据加载器…
-
-github.com](https://github.com/visionjo/pykinship/blob/master/rfiw-tools/track-III-demo.py) 
+<https://github.com/visionjo/pykinship/blob/master/rfiw-tools/track-III-demo.py>  
 
 # 结果和分析
 
@@ -202,11 +194,7 @@ track-III 结果的 CMC 曲线。作者使用[科学绘图](https://github.com/g
 
 了解与 2021 年 IEEE FG 会议同时举行的当前 RFIW 的更多信息。
 
-[](https://medium.com/to-recognize-families-in-the-wild-a-machine-vision/rfiw2021-7ceb357a39a6) [## 认识野生家庭(RFIW)
-
-### 数据挑战系列(第 5 版)
-
-medium.com](https://medium.com/to-recognize-families-in-the-wild-a-machine-vision/rfiw2021-7ceb357a39a6) 
+<https://medium.com/to-recognize-families-in-the-wild-a-machine-vision/rfiw2021-7ceb357a39a6>  
 
 ## 野生数据集中的家族
 
@@ -214,19 +202,7 @@ medium.com](https://medium.com/to-recognize-families-in-the-wild-a-machine-visio
 
 这里是以前的媒体博客，涵盖了概述、路线 I 和路线 II(即，此博客在路线 III 上)。
 
-[](/demo-for-rfiw-2020-task-1-kinship-verification-8a8ed7081bcc) [## 视觉亲属关系验证:Python 熊猫教程
-
-### 2020 年 IEEE AMFG 国际会议数据挑战研讨会
-
-towardsdatascience.com](/demo-for-rfiw-2020-task-1-kinship-verification-8a8ed7081bcc)  [## 识别野外的家庭:机器视觉教程
-
-### 第 1 部分—概述
-
-medium.com](https://medium.com/that-publication/fiw-part1-d41ec8b355cb) [](https://medium.com/that-publication/the-4th-recognizing-families-in-the-wild-rfiw-bec59285fb4) [## 认识野外的家庭
-
-### 2020 年 IEEE FG 数据挑战研讨会
-
-medium.com](https://medium.com/that-publication/the-4th-recognizing-families-in-the-wild-rfiw-bec59285fb4) 
+</demo-for-rfiw-2020-task-1-kinship-verification-8a8ed7081bcc>    <https://medium.com/that-publication/the-4th-recognizing-families-in-the-wild-rfiw-bec59285fb4>  
 
 我录制的论文，其中包括一个关于 FIW 基准和数据集的部分。
 

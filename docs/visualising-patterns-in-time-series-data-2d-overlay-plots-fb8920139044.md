@@ -118,16 +118,8 @@
 
 您可以在 github 上获得示例数据和示例笔记本:
 
-[](https://github.com/czagoni/medium-visualising-patterns) [## czagoni/中型可视化图案
-
-### 本报告包含文章“时间序列数据中的可视化模式:2D 叠加图”的示例笔记本…
-
-github.com](https://github.com/czagoni/medium-visualising-patterns) 
+<https://github.com/czagoni/medium-visualising-patterns>  
 
 感谢阅读！如果你喜欢这篇文章，你也应该看看:
 
-[](https://medium.com/analytics-vidhya/data-driven-thermal-models-for-buildings-15385f744fc5) [## 数据驱动的建筑热模型
-
-### DarkGreyBox:受遗传算法和机器学习启发的开源 python 建筑热模型
-
-medium.com](https://medium.com/analytics-vidhya/data-driven-thermal-models-for-buildings-15385f744fc5)
+<https://medium.com/analytics-vidhya/data-driven-thermal-models-for-buildings-15385f744fc5> 

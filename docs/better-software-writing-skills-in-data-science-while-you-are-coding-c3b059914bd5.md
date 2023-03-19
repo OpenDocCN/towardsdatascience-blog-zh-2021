@@ -50,4 +50,4 @@ protectedMultiprocessing::Creating a process for elements 0-124 protectedMultipr
 
 这是我对第六章“实用程序员:从熟练工到大师”阅读的补充，作为提高数据科学中软件写作技能的媒介。下周我们将看一下第 7 章:项目前。
 
-*原载于 2021 年 4 月 30 日 http://thelonenutblog.wordpress.com*[](https://thelonenutblog.wordpress.com/2021/04/30/better-software-writing-skills-in-data-science-while-you-are-coding/)**。**
+*原载于 2021 年 4 月 30 日 http://thelonenutblog.wordpress.com*<https://thelonenutblog.wordpress.com/2021/04/30/better-software-writing-skills-in-data-science-while-you-are-coding/>**。**

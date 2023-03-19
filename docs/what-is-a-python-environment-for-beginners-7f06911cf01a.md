@@ -78,8 +78,4 @@ Python 是一种语言，就像它开发的所有语言一样。为了避免不�
 
 让我们在下一篇文章中看看系统变量`$PATH`是如何工作的，并深入探究流行的 python 工具(pyenv、conda、poems)是如何操纵它来简化 python 版本管理的。
 
-[](https://markjamison03.medium.com/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e) [## Python，系统路径以及 conda 和 pyenv 如何操纵它
-
-### 深入探究当您在 shell 中键入“python”时会发生什么，以及流行的环境管理工具如何操纵…
-
-markjamison03.medium.com](https://markjamison03.medium.com/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e)
+<https://markjamison03.medium.com/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e> 

@@ -175,18 +175,10 @@ CSP 对初始和目标状态的约束(图片由作者提供)
 
 我用 Python 写了编码和 CSP 回溯算法。CSP 回溯算法取自以下链接:
 
-[](https://freecontent.manning.com/constraint-satisfaction-problems-in-python/) [## Python - Manning 中的约束满足问题
-
-### 从经典的计算机科学问题，在 Python 中由大卫科佩卡大量的问题，计算工具…
-
-freecontent.manning.com](https://freecontent.manning.com/constraint-satisfaction-problems-in-python/) 
+<https://freecontent.manning.com/constraint-satisfaction-problems-in-python/>  
 
 …因为我发现使用函数比使用上一节算法中的元组集更容易理解和实现 CSP 约束。
 
 如果您对代码感兴趣，请从这里获取:
 
-[](https://github.com/debbynirwan/planning_csps) [## debbynirwan/planning _ CSP
-
-### 具有约束满足问题的人工智能规划。- debbynirwan/planning_csps
-
-github.com](https://github.com/debbynirwan/planning_csps)
+<https://github.com/debbynirwan/planning_csps> 

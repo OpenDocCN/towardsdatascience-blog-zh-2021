@@ -80,4 +80,4 @@ Lars 认为，对于大多数组织来说，采用数据网格实际上可能是
 
 ***您有过实施数据网格的经验吗？请在下面的评论中分享你的想法。***
 
-*原载于 2021 年 1 月 28 日 Hyperight.com*[](https://hyperight.com/is-data-mesh-right-for-your-organisation/)**。**
+*原载于 2021 年 1 月 28 日 Hyperight.com*<https://hyperight.com/is-data-mesh-right-for-your-organisation/>**。**

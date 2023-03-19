@@ -10,11 +10,7 @@
 
 截至 9 月 30 日，TigerGraph 已经正式发布了 3.2 版本，现在 3.2 也同样适用于 TG Cloud！要了解更多关于该版本的信息，请查看发布说明。
 
-[](https://docs.tigergraph.com/v/3.2/faqs/release-notes-tigergraph-3.2) [## 发行说明- TigerGraph Server 3.2
-
-### TigerGraph 文档中的官方 TigerGraph 发行说明
-
-docs.tigergraph.com](https://docs.tigergraph.com/v/3.2/faqs/release-notes-tigergraph-3.2) 
+<https://docs.tigergraph.com/v/3.2/faqs/release-notes-tigergraph-3.2>  
 
 ## 基本原理
 
@@ -35,11 +31,7 @@ docs.tigergraph.com](https://docs.tigergraph.com/v/3.2/faqs/release-notes-tigerg
 
 首先，我们将在 TigerGraph Cloud 上设置一个 TigerGraph 3.2 解决方案。为此，导航至 https://tgcloud.io/的，并创建您的免费账户(如果您还没有的话)。
 
- [## TigerGraph 云门户
-
-### 在此创建您的免费帐户
-
-tgcloud.io](https://tgcloud.io/) 
+  
 
 登录后，导航至“我的解决方案”选项卡，然后单击蓝色的“创建解决方案”按钮。
 
@@ -129,16 +121,8 @@ tgcloud.io](https://tgcloud.io/)
 
 如果您有任何问题，请不要犹豫，在社区论坛上发表。
 
-[](https://community.tigergraph.com/) [## 老虎图
-
-### 问 TigerGraph 问题！
-
-community.tigergraph.com](https://community.tigergraph.com/) 
+<https://community.tigergraph.com/>  
 
 再者，如果你想和其他 TigerGraph 开发者聊天，一定要加入不和。
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 716 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

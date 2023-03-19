@@ -88,18 +88,6 @@ AI 算法的训练然后用于尽可能最小化损失函数，以便具有良�
 *   为此目的，人们总是在梯度的负方向上在一个点上迭代。步长由学习速率决定。
 *   梯度下降可以有不同的问题，这些问题可以借助于不同的激活函数或初始权重来解决。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-towardsdatascience.com](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](/introduction-to-random-forest-algorithm-fed4b8c8e848) [## 随机森林算法简介
-
-### 算法是如何工作的，我们可以用它来做什么
-
-towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294)***
+***</understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  </introduction-to-random-forest-algorithm-fed4b8c8e848>  </beginners-guide-extract-transform-load-etl-49104a8f9294> ***

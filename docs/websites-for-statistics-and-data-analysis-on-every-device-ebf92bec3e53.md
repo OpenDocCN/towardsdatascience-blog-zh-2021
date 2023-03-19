@@ -76,27 +76,15 @@ t 检验计算器。作者 Luciano Abriata 图。
 
 第一个计算线性回归、15 阶多项式回归，以及指数、对数和幂回归。使用非常简单，它接受从常规电子表格程序复制粘贴的 x，y 表格:
 
- [## 多项式回归
-
-### 编辑描述
-
-polynomialregression.drque.net](http://polynomialregression.drque.net/online.php) 
+  
 
 第二种方法仅限于多项式回归，但我喜欢它，因为它更具交互性；特别是，您可以上下改变多项式的阶数并实时获得结果(包括图形)，因此进行探索性拟合更有用:
 
- [## 多项式回归数据拟合
-
-### 具有一定技术背景的多项式回归数据拟合应用程序。
-
-www.arachnoid.com](https://www.arachnoid.com/polysolve/index.html) 
+  
 
 为了更普遍地适应，同时保持简单，我知道的最好的在线工具是这样的:
 
-[](https://mycurvefit.com/) [## mycurvefit.com 在线曲线拟合
-
-### 一个在线曲线拟合解决方案，使它很容易快速执行曲线拟合使用各种拟合方法，使…
-
-mycurvefit.com](https://mycurvefit.com/) 
+<https://mycurvefit.com/>  
 
 该网站提供了几个内置函数来将(x，y)数据(可以手动输入，也可以按照说明复制粘贴)拟合到常规函数中，包括线性函数、5 阶多项式以及各种 sigmoidal、指数、幂、双曲线和高斯形状。x 和 y 值可以在拟合之前进行变换，这扩展了可用的快速拟合集。但最重要的是，用户可以编辑自己的功能，这在我做的测试中似乎效果不错。此外，这个拟合网站允许根据不同的方案对 x 和 y 值进行加权。
 
@@ -112,11 +100,7 @@ mycurvefit.com 的例子。作者 Luciano Abriata 图。
 
 我制作了这个在线工具，用户可以在他们的网络浏览器上运行主成分分析:
 
-[](http://lucianoabriata.altervista.org/jsinscience/pca/pca3.html) [## 在线主成分分析
-
-### LALOlib，用 Google 图表显示 PC 散点图、每变量负载线图和特征值柱状图。
-
-lucianoabriata.altervista.org](http://lucianoabriata.altervista.org/jsinscience/pca/pca3.html) 
+<http://lucianoabriata.altervista.org/jsinscience/pca/pca3.html>  
 
 有了它，人们可以轻松地加载一个由多个变量描述的带标签的对象表，然后点击几下就可以获得通过 PC1 和 PC2 上的投影分布对象的图，以及解释观察到的投影的负载图和特征值图。此外，该工具返回由奇异值分解过程产生的矩阵，以便用户可以重新制作他们自己的图。
 
@@ -144,11 +128,7 @@ LALOLab 包括用于线性代数、统计、编程中的流程控制、基本图
 
 您可以在此访问 LALOLab:
 
- [## LALOLab:线性代数在线实验室
-
-### 用于机器学习和科学计算(线性代数、统计、优化)的 web 应用程序。
-
-洛里娅](https://mlweb.loria.fr/lalolab/) 
+  
 
 ## 在 web 应用程序中运行计算的 JavaScript 库
 
@@ -198,58 +178,30 @@ var d = det(mul(pMatrix, transposeMatrix(qMatrix)));
 
 第一篇文章回顾了浏览器内编程的最佳工具，包括 HTML5 中使用的 JavaScript 以及相关的 web 技术。通过脚本、库、web 应用程序甚至完整 web 应用程序的具体示例，强调了这些技术在执行数值计算、文本处理和挖掘、通过查询在线数据库和 web 服务检索和分析数据、有效的数据可视化(包括 3D 可视化，甚至虚拟和增强现实)方面的潜力；所有这些都在浏览器中以相对较低的编程工作量完成，应用于化学信息学、结构生物学、生物物理学和基因组学以及其他分子科学。
 
-[](https://www.mdpi.com/2227-9709/4/3/28) [## 分子科学的网络应用已经成熟
-
-### 尽管服务器端程序对于维护数据库和运行数据分析管道和模拟是必不可少的…
-
-www.mdpi.com](https://www.mdpi.com/2227-9709/4/3/28) 
+<https://www.mdpi.com/2227-9709/4/3/28>  
 
 这篇文章讨论了客户端 web 编程在科学教育和推广中的应用:
 
-[](https://pubmed.ncbi.nlm.nih.gov/29254737/) [## 用客户端网络编程增加研究、教育和推广
-
-### 在过去的十年中，计算和网络技术的发展使得成熟的…
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/29254737/) 
+<https://pubmed.ncbi.nlm.nih.gov/29254737/>  
 
 我最后评论一下这些作品的一些副产品。第一个是完全为在网络浏览器中运行而构建的生物信息学工具，很像上面介绍的 LALOLab 环境，但这里致力于探索蛋白质中氨基酸变异背后的物理化学原因:
 
-[](https://pubmed.ncbi.nlm.nih.gov/27315797/) [## 检测和序列/结构映射的生物物理限制的蛋白质变异…
-
-### doi: 10.1186/s12859-016-1124-4。1 生命学院生物工程研究所生物分子模拟实验室…
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27315797/) 
+<https://pubmed.ncbi.nlm.nih.gov/27315797/>  
 
 这另一个副产品是关于使用 web 编程为分子可视化和建模产生增强和虚拟现实体验:
 
-[](https://peerj.com/articles/cs-260/) [## 网络中基于商品增强现实的分子可视化和建模的构建模块…
-
-### 多年来，使用虚拟和增强现实(AR)进行分子可视化和建模的沉浸式界面已经…
-
-peerj.com](https://peerj.com/articles/cs-260/) 
+<https://peerj.com/articles/cs-260/>  
 
 这项工作进一步发展成为一个完整的化学教育网站，moleculARweb:
 
-[](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00179) [## 分子网:一个通过交互式网络提供化学和结构生物学教育的网站。
-
-### 增强/虚拟现实(ARs/VRs)有望彻底改革 STEM 教育。然而，大多数易于使用的工具是…
-
-pubs.acs.org](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00179) 
+<https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00179>  
 
 在本文中，我将在这个平台上与其他技术一起讨论:
 
-[](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) [## 交互式增强现实网络应用为科学教育带来身临其境的体验…
-
-### 多媒体材料以独特的方式帮助教师更好地传递知识，帮助学生掌握概念。虚拟…
-
-pub.towardsai.net](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) 
+<https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f>  
 
 在这份同行评审意见中:
 
- [## 利用 WebXR - Nature 为科学教育提供大众化的交互式沉浸式体验…
-
-### 对编辑来说——抽象的物体和概念，极端的尺寸，差的可用性或高的购买成本…
-
-www.nature.com](https://www.nature.com/articles/s43588-021-00142-8) 
+  
 
 我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和计算机里。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [*成为媒介会员*](https://lucianosphere.medium.com/membership) *访问我和其他作家的所有故事，* [*订阅通过邮件获取我的新故事*](https://lucianosphere.medium.com/subscribe) *(平台原创附属链接)。*

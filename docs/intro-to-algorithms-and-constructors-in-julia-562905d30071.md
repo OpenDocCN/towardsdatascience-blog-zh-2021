@@ -14,11 +14,7 @@
 
 > SuperFrames.jl 存储库:
 
-[](https://github.com/ChifiSource/SuperFrames.jl) [## ChifiSource/SuperFrames.jl
-
-### 我们一起编写的 DataFrames.jl 扩展:)如果您想了解更多信息，可以通过以下方式与我们合作…
-
-github.com](https://github.com/ChifiSource/SuperFrames.jl) 
+<https://github.com/ChifiSource/SuperFrames.jl>  
 
 # 介绍
 

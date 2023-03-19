@@ -28,11 +28,7 @@ M 多任务处理是指(几乎)同时执行多个任务或流程的能力。像 
 
 并行是指任务实际上同时开始。这可能发生在多核处理器或多线程处理器上，其中每个核/线程可以独立地启动一个任务。并发是指任务在重叠的时间段内开始、运行和完成，这可能发生在单核服务器上。如果你熟悉 Python 中的全局解释器锁(GIL)，你一定知道 Python 在一个进程中只允许一个线程控制解释器，也就是说[一个单进程多线程程序最多可以达到 100%的 CPU 利用率](https://leimao.github.io/blog/Python-Concurrency-High-Level/)。真正的 Python 已经给出了关于 GIL 的很好的教程。
 
-[](https://realpython.com/python-gil/) [## 什么是 Python 全局解释器锁(GIL)？-真正的蟒蛇
-
-### Python 的全局解释器锁或 GIL，简单来说就是一个互斥体(或锁)，只允许一个线程持有…
-
-realpython.com](https://realpython.com/python-gil/) 
+<https://realpython.com/python-gil/>  
 
 在我看来，并行性相当于抢先式多任务处理，并发性相当于协作式多任务处理。
 
@@ -50,15 +46,7 @@ I/O 受限问题是指性能由输入/输出操作完成的等待时间决定的
 
 如果你想深入研究`threading`和`asyncio`，我也推荐以下来自《真实的 Python》的优秀文章。
 
-[](https://realpython.com/intro-to-python-threading/) [## Python 线程介绍——真正的 Python
-
-### 立即观看本教程有一个由真正的 Python 团队创建的相关视频课程。和书面的一起看…
-
-realpython.com](https://realpython.com/intro-to-python-threading/) [](https://realpython.com/async-io-python/) [## Python 中的异步 IO:完整的演练-真实的 Python
-
-### 以下是您将涉及的内容:您需要 Python 3.7 或更高版本来完整地阅读本文，以及…
-
-realpython.com](https://realpython.com/async-io-python/) 
+<https://realpython.com/intro-to-python-threading/>  <https://realpython.com/async-io-python/>  
 
 我花了相当多的时间介绍多任务处理的问题和理论，我认为在进入代码之前了解这些是非常重要的。我希望你现在已经打好了基础。让我们进入有趣的部分吧！
 
@@ -130,8 +118,4 @@ Tornado 中的并发请求
 
 ## 参考
 
-[](https://leimao.github.io/blog/Python-Concurrency-High-Level/) [## Python 中的多处理 VS 线程 VS 异步
-
-### 在现代计算机编程中，经常需要并发来加速解决问题。在 Python 编程中…
-
-雷猫. github.i](https://leimao.github.io/blog/Python-Concurrency-High-Level/)
+<https://leimao.github.io/blog/Python-Concurrency-High-Level/> 

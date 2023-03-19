@@ -268,7 +268,7 @@ Sturm-Liouville 问题并不总是有非平凡解。如果存在非平凡解，�
 
 **资源**:
 
-[](https://edoras.sdsu.edu/~mthomas/f17.705/topics/iter_solv/AeroStudents.com.theHeatEquation.pdf)*热度方程。于 2021 年 9 月 27 日访问*
+<https://edoras.sdsu.edu/~mthomas/f17.705/topics/iter_solv/AeroStudents.com.theHeatEquation.pdf>*热度方程。于 2021 年 9 月 27 日访问*
 
 *[2]保罗·道金斯。 [*分离变量*](https://tutorial.math.lamar.edu/Classes/DE/SeparationofVariables.aspx) 。于 2021 年 9 月 28 日访问*
 

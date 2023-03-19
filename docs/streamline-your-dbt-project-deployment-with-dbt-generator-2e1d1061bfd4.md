@@ -38,11 +38,7 @@ pip install dbt-generator
 
 这个包应该在您的 dbt repo 中执行。这个包的源代码可以在这里找到:
 
-[](https://github.com/tuanchris/dbt-generator) [## GitHub - tuanchris/dbt-generator:为 dbt 生成和处理基本模型
-
-### 这个包有助于生成基本模型并批量转换它们。对于有 10 个以上型号的信号源，此包…
-
-github.com](https://github.com/tuanchris/dbt-generator) 
+<https://github.com/tuanchris/dbt-generator>  
 
 # 生成基础模型
 

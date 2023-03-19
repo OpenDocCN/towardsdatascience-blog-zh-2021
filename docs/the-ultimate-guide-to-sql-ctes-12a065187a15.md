@@ -128,11 +128,7 @@ group by 1, 2) as avg_ratings) avg_ratings_decilewhere rating_decile = 1;
 1.  点击从 Kaggle [下载免费数据集](https://www.kaggle.com/rishitjavia/netflix-movie-rating-dataset)
 2.  上传到 SQL 数据库。如果您还没有设置，您可以在下面找到我的指南，了解如何快速有效地设置:
 
-[](/4-steps-to-start-practicing-sql-at-home-cb771beeca20) [## 在家开始练习 SQL 的 4 个步骤
-
-### 下载 MySQL 自己做
-
-towardsdatascience.com](/4-steps-to-start-practicing-sql-at-home-cb771beeca20) 
+</4-steps-to-start-practicing-sql-at-home-cb771beeca20>  
 
 3.尝试自己重新创建我在上面写的 cte(注意，我首先将收视率数据与电影数据结合起来，以添加电影名称)
 
@@ -145,12 +141,4 @@ towardsdatascience.com](/4-steps-to-start-practicing-sql-at-home-cb771beeca20)
 
 您还可以在下面找到我的其他 SQL 指南:
 
-[](/6-hidden-sql-mistakes-to-avoid-2e771bed085b) [## 要避免的 6 个隐藏的 SQL 错误
-
-### 他们在雷达下飞行，给你带来麻烦
-
-towardsdatascience.com](/6-hidden-sql-mistakes-to-avoid-2e771bed085b) [](/you-know-excel-time-to-learn-sql-e77a2b5c8fbb) [## 你知道 Excel。该学 SQL 了。
-
-### 9 个核心 excel 功能转化为 SQL
-
-towardsdatascience.com](/you-know-excel-time-to-learn-sql-e77a2b5c8fbb)
+</6-hidden-sql-mistakes-to-avoid-2e771bed085b>  </you-know-excel-time-to-learn-sql-e77a2b5c8fbb> 

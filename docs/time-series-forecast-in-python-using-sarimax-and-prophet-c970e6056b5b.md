@@ -18,11 +18,7 @@
 
 在开始任何数据科学或人工智能相关的任务之前，执行探索性数据分析(EDA)是一个好的做法。在整个 EDA 过程中，你将获得有价值的见解，这些见解可能会极大地影响你即将到来的建模策略。如果你不熟悉 EDA，我推荐你看一看我的另一个故事，我在其中执行了一个示例 EDA。
 
-[](/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af) [## 使用 SQL 和 Seaborn (SNS)在 Python 中进行探索性数据分析(EDA)
-
-### 探索性数据分析(EDA)是一种分析数据集以总结其主要特征的方法，通常…
-
-towardsdatascience.com](/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af) 
+</exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af>  
 
 然而，在处理时间序列数据时，需要执行额外的步骤。更具体地说，数据需要“分解”成趋势、季节和残差。为此，我们可以使用 *statsmodel* 库在 1 行代码内执行任务！
 
@@ -95,11 +91,7 @@ SARIMAX 模型验证(图片由作者提供)
 
 PROPHET 是脸书发布的开源库，它基于可分解的(*趋势+季节性+假日*)模型。
 
-[](https://github.com/facebook/prophet) [## GitHub——Facebook/prophet:为时间序列数据生成高质量预测的工具，具有…
-
-### 工具，用于对具有线性或非线性多重季节性的时间序列数据进行高质量预测…
-
-github.com](https://github.com/facebook/prophet) 
+<https://github.com/facebook/prophet>  
 
 它使用户能够使用简单直观的参数创建具有良好准确性的时间序列预测，并支持包括自定义季节性和节假日的影响。
 

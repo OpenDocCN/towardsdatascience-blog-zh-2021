@@ -40,11 +40,7 @@ SHAP 是理解和调试模型的最强大的 Python 包。它可以告诉我们�
 
 我们还可视化了鲍鱼的性别，这是一个分类特征。在我们可以在模型中使用这个特性之前，我们需要使用一键编码来转换它。如您所见，这将为每个生成的二进制要素生成一个单独的 SHAP 值。这使得很难理解原始分类特征的总体贡献。我们在下面的文章中探索了一个解决方案。
 
-[](/shap-for-categorical-features-7c63e6a554ea) [## 分类特征的 SHAP
-
-### 将已经用一键编码转换的分类特征的 SHAP 值相加
-
-towardsdatascience.com](/shap-for-categorical-features-7c63e6a554ea) 
+</shap-for-categorical-features-7c63e6a554ea>  
 
 对于数据探索的最后一点，我们为连续特征创建一个相关矩阵。你可以看到我们正在处理高度相关的特征。长度和直径完全相关。同样，**整体重量**与其他重量测量值高度相关。例如肉的重量(**去壳重量**)和除去肉的壳的重量(**壳重**)。
 
@@ -177,11 +173,7 @@ towardsdatascience.com](/shap-for-categorical-features-7c63e6a554ea)
 
 直觉上，这种关系似乎很奇怪。难道我们不会期待老鲍鱼更大，肉更多吗？事实上，这是壳重和去壳重之间的**相互作用**的结果。由于相关性，我们在相关性图中看不到它。在下面的文章中，我们将探讨如何使用 SHAP 互动值来识别这样的互动。
 
-[](/analysing-interactions-with-shap-8c4a2bc11c2a) [## 分析与 SHAP 的互动
-
-### 使用 SHAP Python 包来识别和可视化数据中的交互
-
-towardsdatascience.com](/analysing-interactions-with-shap-8c4a2bc11c2a) 
+</analysing-interactions-with-shap-8c4a2bc11c2a>  
 
 # 二元目标变量
 
@@ -212,27 +204,11 @@ towardsdatascience.com](/analysing-interactions-with-shap-8c4a2bc11c2a)
 
 正如我们所见，SHAP 值是用来理解我们的模型如何进行预测的有用工具。然而，我们只是触及了该方案所能提供的皮毛。如果你想了解更多，我写了很多关于 SHAP 的文章。下面的文章深入探讨了 SHAP 和沙普利价值观的某些方面。
 
-[](/from-shapley-to-shap-understanding-the-math-e7155414213b) [## 从沙普利到 Shapley 理解数学
+</from-shapley-to-shap-understanding-the-math-e7155414213b>  </kernelshap-vs-treeshap-e00f3b3a27db>  </using-shap-to-debug-a-pytorch-image-regression-model-4b562ddef30d>  
 
-### 如何计算 SHAP 要素贡献的概述
+我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的<https://conorosullyds.medium.com/membership>****推荐会员来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。****
 
-towardsdatascience.com](/from-shapley-to-shap-understanding-the-math-e7155414213b) [](/kernelshap-vs-treeshap-e00f3b3a27db) [## KernelSHAP vs TreeSHAP
-
-### 基于速度、复杂性和其他考虑因素比较 SHAP 近似方法
-
-towardsdatascience.com](/kernelshap-vs-treeshap-e00f3b3a27db) [](/using-shap-to-debug-a-pytorch-image-regression-model-4b562ddef30d) [## 使用 SHAP 调试 PyTorch 图像回归模型
-
-### 使用 DeepShap 来理解和改进驱动自动驾驶汽车的模型
-
-towardsdatascience.com](/using-shap-to-debug-a-pytorch-image-regression-model-4b562ddef30d) 
-
-我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的[](https://conorosullyds.medium.com/membership)****推荐会员来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。****
-
-**[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+**<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

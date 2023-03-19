@@ -118,10 +118,6 @@ FeatureUnion 的输出-四个数据源合并在一个矩阵中。图片作者。
 
 ***如果你想支持我的内容创作活动，欢迎点击我下面的推荐链接，加入 Medium 的会员计划**。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。*
 
-*[](https://medium.com/@theDrewDag/membership) [## 通过我的推荐链接加入 Medium-Andrew D # data science
-
-### 阅读 Andrew D #datascience(以及媒体上成千上万的其他作者)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@theDrewDag/membership) 
+*<https://medium.com/@theDrewDag/membership>  
 
 # 密码*

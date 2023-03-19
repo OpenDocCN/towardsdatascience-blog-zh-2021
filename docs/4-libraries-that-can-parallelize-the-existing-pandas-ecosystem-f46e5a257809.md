@@ -56,11 +56,7 @@ Vaex 提出了有效的算法，并使用延迟计算(惰性计算)来执行计�
 
 > 阅读下面提到的文章，了解更多关于 Vaex 库的实现和工作的信息。
 
-[](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [## 使用 Vaex 处理具有 2 亿行的数据集
-
-### 使用 vaex 数据框对大型数据集执行操作
-
-towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) 
+</process-dataset-with-200-million-rows-using-vaex-ad4839710d3b>  
 
 > 跟随[这个站点](https://vaex.io/docs/index.html)，浏览 Vaex 文档和 [GitHub 库](https://github.com/vaexio/vaex)。
 
@@ -76,11 +72,7 @@ Modin 充分利用了 CPU 内核，从而提升了计算的性能。开发人员
 
 > 阅读下面提到的文章，了解更多关于摩丁库的实现和工作。
 
-[](/speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb) [## 通过改变一行代码来加速你的熊猫工作流程
-
-### 使用 Modin 扩展您的数据探索和可视化
-
-towardsdatascience.com](/speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb) 
+</speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb>  
 
 > 跟随[这个站点](https://modin.readthedocs.io/en/latest/)，浏览摩丁文档。
 

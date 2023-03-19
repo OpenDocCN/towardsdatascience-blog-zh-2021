@@ -10,11 +10,7 @@
 
 几个月前，我写了一篇文章讨论 Apache Airflow 作为 ETL 和数据科学的工作流管理平台的利与弊。由于最近的重大升级，我想更新一下气流 2.0 中的变化。为了全面了解情况，您可能想先看看之前的文章:
 
-[](/is-apache-airflow-good-enough-for-current-data-engineering-needs-c7019b96277d) [## Apache Airflow 是否足以满足当前的数据工程需求？
-
-### Apache Airflow 作为 ETL 和数据科学的工作流管理平台的利与弊，以及由此衍生的…
-
-towardsdatascience.com](/is-apache-airflow-good-enough-for-current-data-engineering-needs-c7019b96277d) 
+</is-apache-airflow-good-enough-for-current-data-engineering-needs-c7019b96277d>  
 
 **目录**
 
@@ -100,11 +96,7 @@ from airflow.providers.amazon.aws.operators.athena import AWSAthenaOperator
 
 以下是这些功能(任务流和任务组)的详细概述:
 
-[](/taskflow-api-in-apache-airflow-2-0-should-you-use-it-d6cc4913c24c) [## Apache Airflow 2.0 中的任务流 API 您应该使用它吗？
-
-### 在重新设计气流数据管道之前，请三思
-
-towardsdatascience.com](/taskflow-api-in-apache-airflow-2-0-should-you-use-it-d6cc4913c24c) 
+</taskflow-api-in-apache-airflow-2-0-should-you-use-it-d6cc4913c24c>  
 
 # 新版本中尚未解决的气流的弱点
 
@@ -120,11 +112,7 @@ towardsdatascience.com](/taskflow-api-in-apache-airflow-2-0-should-you-use-it-d6
 
 如果您想更多地了解整个调度逻辑，本文提供了一个很好的解释:
 
-[](/apache-airflow-tips-and-best-practices-ff64ce92ef8) [## Apache 气流技巧和最佳实践
-
-### 利用气流构建可靠数据管道的中级指南。
-
-towardsdatascience.com](/apache-airflow-tips-and-best-practices-ff64ce92ef8) 
+</apache-airflow-tips-and-best-practices-ff64ce92ef8>  
 
 ## 仍然没有数据管道的版本控制
 
@@ -149,11 +137,7 @@ towardsdatascience.com](/apache-airflow-tips-and-best-practices-ff64ce92ef8)
 *   谷歌(Google)——提供全面管理的服务:GCP 上的云作曲家服务
 *   **Amazon** —提供完全托管的服务，具有弹性(*即自动扩展*)工作节点容量的额外优势:Apache Airflow 的托管工作流。本文提供了更多相关信息:
 
-[](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) [## AWS 上的托管 Apache 气流—针对数据管道的新 AWS 服务
-
-### 面向 Apache Airflow (MWAA)的 AWS 托管工作流现已推出，值得一试吗？
-
-towardsdatascience.com](/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc) 
+</managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc>  
 
 ## 地方发展
 

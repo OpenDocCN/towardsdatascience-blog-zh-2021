@@ -130,16 +130,4 @@ sudo /Applications/XAMPP/bin/mysql_upgrade
 
 # 相关文章
 
-[](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) [## 如何在 PhpMyadmin 中导入和导出数据集
-
-### Phpmyadmin
-
-alod83.medium.com](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) [](https://alod83.medium.com/how-to-install-xampp-bcb43fb11912) [## 如何安装 XAMPP
-
-### 为了创建一个完整的 web 应用程序，首先要做的是安装一个 Web 服务器。有几个…
-
-alod83.medium.com](https://alod83.medium.com/how-to-install-xampp-bcb43fb11912) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7)
+<https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3>  <https://alod83.medium.com/how-to-install-xampp-bcb43fb11912>  </dataset-manipulation-with-open-refine-a5043b7294a7> 

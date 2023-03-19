@@ -49,7 +49,7 @@
 
 这两种方法都是**无监督的**:我们不依赖于将每个文档与人工生成的摘要相关联的标记数据集，因为它们创建起来很昂贵，并且需要领域专家的贡献。我也不知道有任何公开可用的临床报告评估数据集(如果有，请在评论中告诉我！).
 
-我们将使用的输入数据取自 mtsamples.com[](https://www.mtsamples.com/)*，这是一个庞大的匿名转录医疗报告集合，可以免费获得。*
+我们将使用的输入数据取自 mtsamples.com<https://www.mtsamples.com/>*，这是一个庞大的匿名转录医疗报告集合，可以免费获得。*
 
 *我们将使用一封[心脏评估信](https://www.mtsamples.com/site/pages/sample.asp?Type=86-Letters&Sample=39-Cardiovascular%20-%20Letter)，但是您可以随意探索该集合并尝试使用其他文档。*
 
@@ -129,8 +129,4 @@
 
 *我希望尽快找到时间，在一篇新文章中讨论**总结评估策略**和**指针生成器网络**。与此同时，请在评论区留下你的想法，如果你觉得这有帮助，请分享！如果你喜欢我的工作，现在你也可以给我买瓶啤酒！🍺*
 
-*[](https://www.linkedin.com/in/tbuonocore/) [## Tommaso Buonocore -帕维亚大学大数据和生物医学信息学博士生
-
-### 生物医学工程师和人工智能爱好者，目前正在研究 NLP 解决方案，以改善基于医疗保健的预测任务…
-
-www.linkedin.com](https://www.linkedin.com/in/tbuonocore/)*
+*<https://www.linkedin.com/in/tbuonocore/> *

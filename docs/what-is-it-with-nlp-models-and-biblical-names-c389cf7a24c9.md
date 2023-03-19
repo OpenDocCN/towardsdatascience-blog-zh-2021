@@ -322,6 +322,6 @@ spaCy 是当今 NLP 中发生的最令人兴奋的事情之一，它被认为是
 2.  这是另一个关于主要 ML 数据集的[问题的例子。](https://www.csail.mit.edu/news/major-ml-datasets-have-tens-thousands-errors)
 3.  像[清单](https://github.com/marcotcr/checklist)这样的工具确实有助于验证你的模型或数据不会遭受类似的问题。一定要去看看。
 
-*这篇博文的 Jupyter 笔记本可以在这里*[](https://gist.github.com/omri374/95087c4b5bbae959a82a0887769cbfd9)**找到。**
+*这篇博文的 Jupyter 笔记本可以在这里*<https://gist.github.com/omri374/95087c4b5bbae959a82a0887769cbfd9>**找到。**
 
 *[**关于作者:** Omri Mendels](https://www.linkedin.com/in/omrimendels/) 是微软首席数据科学家。*

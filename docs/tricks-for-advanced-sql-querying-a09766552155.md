@@ -161,16 +161,8 @@ end as shopper_classification
 
 2021 年企业 DBMS 前景的大分解:
 
-[](https://www.eweek.com/database/top-vendors-of-database-management-software-for-2021/) [## 2021 年数据库管理软件的顶级供应商| eWEEK
-
-### 我们日常使用的所有业务和个人数据都存储在数据库管理系统或存储阵列中…
-
-www.eweek.com](https://www.eweek.com/database/top-vendors-of-database-management-software-for-2021/) 
+<https://www.eweek.com/database/top-vendors-of-database-management-software-for-2021/>  
 
 一些有用的 SQL 查询优化技术的总结:
 
-[](https://www.sqlshack.com/query-optimization-techniques-in-sql-server-tips-and-tricks/) [## SQL Server 中的查询优化技术:提示和技巧
-
-### 2018 年 6 月 19 日修复错误的查询和解决性能问题可能需要数小时(或数天)的研究和…
-
-www.sqlshack.com](https://www.sqlshack.com/query-optimization-techniques-in-sql-server-tips-and-tricks/)
+<https://www.sqlshack.com/query-optimization-techniques-in-sql-server-tips-and-tricks/> 

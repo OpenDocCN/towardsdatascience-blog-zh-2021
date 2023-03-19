@@ -26,11 +26,7 @@
 
 或者，您可以在 Binder 上运行 Jupyter 笔记本来阅读本文:
 
-[](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/5910c3feb8d8eb525ec79d7f2d257dc326eff85f) [## GitHub:WhatIThinkAbout/baby robot/5910 C3 feb 8d 8 EB 525 EC 79d 7 f2d 257 DC 326 eff 85 f
-
-### 单击运行此交互式环境。来自活页夹项目:可复制、可共享、交互式计算…
-
-mybinder.org](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/5910c3feb8d8eb525ec79d7f2d257dc326eff85f) ![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)
+<https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/5910c3feb8d8eb525ec79d7f2d257dc326eff85f>  ![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)
 
 # 简单网格级别
 
@@ -185,7 +181,7 @@ mybinder.org](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/5910c3feb8d8e
 
 图 9:测试策略迭代的初始确定性策略。
 
-由于某些操作会导致循环状态，并且没有通向退出的路径，因此策略评估将永远不会收敛。因此，要运行策略评估，我们要么需要使用[](/state-values-and-policy-evaluation-ceefdd8c2369#de56)*折扣奖励，要么将评估步骤限制为固定的迭代次数。*
+由于某些操作会导致循环状态，并且没有通向退出的路径，因此策略评估将永远不会收敛。因此，要运行策略评估，我们要么需要使用</state-values-and-policy-evaluation-ceefdd8c2369#de56>*折扣奖励，要么将评估步骤限制为固定的迭代次数。*
 
 *选择贴现因子方法，并应用值 0.9，策略评估在 75 次迭代中收敛。有了这些生成的状态值，我们就可以积极行动，应用策略改进来生成新的策略。这给出了状态值和新策略，如下面的图 10 所示。*
 

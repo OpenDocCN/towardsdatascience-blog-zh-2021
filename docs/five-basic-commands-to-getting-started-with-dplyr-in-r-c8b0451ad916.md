@@ -12,11 +12,7 @@
 
 见鬼，我甚至在 YouTube 上制作了一个完整的视频系列，教其他人如何使用熊猫。随便看看(不要脸的塞)！
 
-[](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) [## 熊猫零到英雄-使用熊猫的初学者教程
-
-### 熊猫零到英雄是一个视频教程系列，旨在教初学者友好的方式使用熊猫
-
-towardsdatascience.com](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) 
+</pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c>  
 
 然而，最近，我发现自己在 R 上花了越来越多的时间，主要是因为我在准备精算考试，但我也很好奇，想了解人们在 R 中使用的 Pandas 等效工具。
 
@@ -224,14 +220,6 @@ drinks %>%
 
 我希望你喜欢这篇文章，并从中获得一些有用的东西。请随意查看我关于如何使用 r 的其他教程文章。
 
-[](/back-to-basics-linear-regression-in-r-3ffe4900482b) [## 回归基础——R 中的线性回归
-
-### 线性回归是统计学中最基本的知识之一，下面是如何用 R
-
-towardsdatascience.com](/back-to-basics-linear-regression-in-r-3ffe4900482b) [](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) [## 基于 R 中 K-均值聚类的客户细分
-
-### 强大的 k-means 算法初学者指南
-
-medium.com](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa) 
+</back-to-basics-linear-regression-in-r-3ffe4900482b>  <https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa>  
 
 保重，继续学习！

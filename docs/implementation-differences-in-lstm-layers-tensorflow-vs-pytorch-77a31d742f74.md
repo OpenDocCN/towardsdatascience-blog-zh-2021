@@ -107,18 +107,6 @@ Pytorch LSTM API 中可以看到的另一个主要区别是，在启动时，我
 
 # 参考
 
- [## 了解 LSTM 网络
+  <https://medium.com/analytics-vidhya/demystifying-lstm-weights-and-biases-dimensions-c47dbd39b30a> [## 揭秘 LSTM 权重和偏见维度。
 
-colah.github.io](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) [](https://www.coursera.org/learn/nlp-sequence-models) [## 序列模型
-
-www.coursera.org](https://www.coursera.org/learn/nlp-sequence-models) [](https://medium.com/analytics-vidhya/demystifying-lstm-weights-and-biases-dimensions-c47dbd39b30a) [## 揭秘 LSTM 权重和偏见维度。
-
-medium.com](https://medium.com/analytics-vidhya/demystifying-lstm-weights-and-biases-dimensions-c47dbd39b30a)  [## TF . keras . layers . lstm | tensor flow Core v 2 . 4 . 1
-
-### 长短期记忆层- Hochreiter 1997。
-
-www.tensorflow.org](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM) [](https://stackoverflow.com/questions/44947842/can-someone-explain-to-me-the-difference-between-activation-and-recurrent-activa) [## 有人能给我解释一下激活和循环激活的区别吗…
-
-stackoverflow.com](https://stackoverflow.com/questions/44947842/can-someone-explain-to-me-the-difference-between-activation-and-recurrent-activa)  [## LSTM - PyTorch 1.8.1 文件
-
-pytorch.org](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
+medium.com](https://medium.com/analytics-vidhya/demystifying-lstm-weights-and-biases-dimensions-c47dbd39b30a)   <https://stackoverflow.com/questions/44947842/can-someone-explain-to-me-the-difference-between-activation-and-recurrent-activa> 

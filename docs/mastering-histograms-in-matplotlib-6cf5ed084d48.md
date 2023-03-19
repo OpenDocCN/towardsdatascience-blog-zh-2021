@@ -179,20 +179,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/how-to-present-the-relationships-amongst-multiple-variables-in-python-70f1b5693f5) [## 如何在 Python 中呈现多个变量之间的关系
-
-### 了解如何使用 Python 中的多元图表和绘图来呈现要素之间的关系
-
-towardsdatascience.com](/how-to-present-the-relationships-amongst-multiple-variables-in-python-70f1b5693f5) [](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [## 在 Matplotlib 中放大和缩小以更好地理解数据
-
-### 为每个地块提供完整的代码
-
-towardsdatascience.com](/zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d) [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [## 开发一个卷积神经网络模型使用未标记的图像文件直接从…
-
-### 使用图像生成器将图像自动标记为子目录
-
-towardsdatascience.com](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [](/an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1) [## 使用 R 中的 Tidyverse 库进行数据分析概述
-
-### 很好的学习资源，也可以用作备忘单
-
-towardsdatascience.com](/an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1)
+</how-to-present-the-relationships-amongst-multiple-variables-in-python-70f1b5693f5>  </zooming-in-and-zooming-out-in-matplotlib-to-better-understand-the-data-b4a5f5b4107d>  </developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f>  </an-overview-of-data-analysis-with-the-tidyverse-library-in-r-e94c151bf7d1> 

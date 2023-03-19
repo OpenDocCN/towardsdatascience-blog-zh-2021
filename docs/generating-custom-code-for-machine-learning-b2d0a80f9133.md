@@ -20,11 +20,7 @@ Traingenerator 是一个 web 应用程序，为 Pytorch 和 Sklearn 提供定制
 
 我们可以使用下面给出的链接来打开 Traingenerator，这是一个 streamlit 应用程序，用于生成自定义代码模板。
 
-[](https://traingenerator.jrieke.com/) [## 训练生成器 ML 的模板代码
-
-### 为机器学习生成模板代码的 web 应用程序
-
-traingenerator.jrieke.com](https://traingenerator.jrieke.com/) 
+<https://traingenerator.jrieke.com/>  
 
 # 创建自定义代码
 
@@ -66,11 +62,7 @@ traingenerator.jrieke.com](https://traingenerator.jrieke.com/)
 
 如果您对创建自己的 streamlit 应用程序感兴趣，您可以查看下面的链接，在那里我解释了如何创建一个基本的 streamlit 应用程序。
 
-[](/creating-streamlit-dashboard-from-scratch-59316a74fa1) [## 从头开始创建 Streamlit 仪表板。
-
-### Streamlit 是一个很棒的工具，可以轻松构建视觉上吸引人的仪表板。
-
-towardsdatascience.com](/creating-streamlit-dashboard-from-scratch-59316a74fa1) 
+</creating-streamlit-dashboard-from-scratch-59316a74fa1>  
 
 本文是与[皮尤什·英加尔](https://medium.com/u/40808d551f5a?source=post_page-----b2d0a80f9133--------------------------------)合作完成的。
 

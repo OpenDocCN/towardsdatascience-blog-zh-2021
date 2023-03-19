@@ -58,7 +58,7 @@ Yann LeCun 在 2019 年 12 月就该话题对[进行了深度访谈](https://www
 
 这是一种自上而下的人工智能方法。它旨在通过使用“问题的高级符号表示”来赋予机器智能，遵循由艾伦·纽厄尔和司马贺提出的物理符号系统假设。例如，[专家系统](https://www.osti.gov/biblio/5675197)——最受欢迎的符号人工智能形式——被设计成通过遵循一套如果-那么规则来模拟人类决策。
 
-混合模型是结合符号 AI 和 DL 优点的一种尝试。马丁·福特在他的《智能建筑师[](https://bookshop.org/books/architects-of-intelligence-the-truth-about-ai-from-the-people-building-it/9781789131512?aid=11092)*一书中，就这种方法采访了人工智能专家。吴恩达强调了它在解决我们只有小数据集的问题时的有用性。麻省理工学院计算认知科学教授乔希·特南鲍姆(Josh Tenenbaum)和他的团队开发了一种混合模型[“在没有任何明确监督的情况下，学习视觉概念、单词和句子的语义解析。”](https://openreview.net/forum?id=rJgMlhRctm)*
+混合模型是结合符号 AI 和 DL 优点的一种尝试。马丁·福特在他的《智能建筑师<https://bookshop.org/books/architects-of-intelligence-the-truth-about-ai-from-the-people-building-it/9781789131512?aid=11092>*一书中，就这种方法采访了人工智能专家。吴恩达强调了它在解决我们只有小数据集的问题时的有用性。麻省理工学院计算认知科学教授乔希·特南鲍姆(Josh Tenenbaum)和他的团队开发了一种混合模型[“在没有任何明确监督的情况下，学习视觉概念、单词和句子的语义解析。”](https://openreview.net/forum?id=rJgMlhRctm)*
 
 *纽约大学心理学教授加里·马库斯认为，混合模型可以更好地处理常识推理。[在最近的一篇论文](https://arxiv.org/ftp/arxiv/papers/2002/2002.06177.pdf)中，马库斯通过提及人类智力来强调他的观点:*
 
@@ -126,8 +126,4 @@ Yann LeCun 在 2019 年 12 月就该话题对[进行了深度访谈](https://www
 
 ****推荐阅读****
 
-**[](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd) [## 我离开人工智能行业的 5 个原因
-
-### 我在一家人工智能公司工作了 3 年。现在我决定无限期地离开这个行业。
-
-towardsdatascience.com](/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd)**
+**</5-reasons-why-i-left-the-ai-industry-2c88ea183cdd> **

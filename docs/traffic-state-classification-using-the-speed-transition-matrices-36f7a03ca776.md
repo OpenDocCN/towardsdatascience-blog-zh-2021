@@ -18,11 +18,7 @@
 
 如欲了解更多关于 STM 的信息，请参考以下文章:
 
-[](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) [## 速度转移矩阵:一种新的道路交通数据建模技术
-
-### 有很多种建模道路交通数据的方法。研究人员大多使用某种时间序列…
-
-medium.com](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) 
+<https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1>  
 
 # 方法学
 

@@ -264,10 +264,6 @@ OUT[0]: array([[1, 2, 5, 6],
 
 就是这样！本指南所写的所有代码都可以在我的 [Github](https://github.com/ifrankandrade/data_preprocessing.git) 上找到。你可以把它和熊猫一起使用来解锁更多的 Numpy 功能。下面是使用 Pandas 和 Numpy 库从 Excel 迁移到 Python 的指南。
 
-[](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) [## 从 Excel 迁移到 Python 的完整而简单的指南
-
-### 用熊猫和 Numpy 永远抛弃 Excel。
-
-towardsdatascience.com](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) 
+</a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)

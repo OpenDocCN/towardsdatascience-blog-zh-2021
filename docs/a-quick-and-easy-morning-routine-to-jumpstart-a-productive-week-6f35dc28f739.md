@@ -68,16 +68,4 @@
 
 *本文包含附属链接。如果你想了解更多，可以看看我下面的其他文章！*
 
-[](/top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2) [## 公众演讲能在数据科学领域帮助你的三大理由
-
-### 理解你的听众，回答问题，并寻求反馈
-
-towardsdatascience.com](/top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2) [](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [## 远程工作很难让你成为一名出色的数据科学家
-
-### 不要因为你太安静而被忽视
-
-towardsdatascience.com](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [](/top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7) [## 离开我热爱的工作的三大教训
-
-### 跳槽到下一个机会:成为数据科学顾问
-
-towardsdatascience.com](/top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7)
+</top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2>  </remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0>  </top-3-lessons-learned-from-leaving-a-job-i-loved-6c71a76cae7> 

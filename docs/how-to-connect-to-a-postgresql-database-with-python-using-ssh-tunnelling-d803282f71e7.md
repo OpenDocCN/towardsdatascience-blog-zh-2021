@@ -84,11 +84,7 @@ creds = json.load(open(“/Users/{USER}/path/db_cred.json”, ‘r’))
 
 无论多么方便，将凭证隐藏在本地文件中并不是最佳实践。我建议将它们存储为环境变量，如下文所述:
 
-[](/connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6) [## 使用环境变量隐藏您的密码
-
-### 关于如何在使用 Python 连接到数据库时使用环境变量隐藏密钥的教程
-
-towardsdatascience.com](/connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6) 
+</connect-to-databases-using-python-and-hide-secret-keys-with-env-variables-a-brief-tutorial-4f68e33a6dc6>  
 
 # **使用 Psycopg2 连接到 PostgreSQL】**
 

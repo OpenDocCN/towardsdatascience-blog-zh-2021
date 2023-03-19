@@ -60,11 +60,7 @@
 
 激活云壳—作者 GIF
 
-[](https://github.com/tuanchris/dataflow-sql) [## Tuan Chris/数据流-sql
-
-### Permalink 无法加载最新的提交信息。gcloud pubsub 主题创建订单构建实时管道...
-
-github.com](https://github.com/tuanchris/dataflow-sql) 
+<https://github.com/tuanchris/dataflow-sql>  
 
 通过运行以下命令将此存储库克隆到 Cloudshell:
 

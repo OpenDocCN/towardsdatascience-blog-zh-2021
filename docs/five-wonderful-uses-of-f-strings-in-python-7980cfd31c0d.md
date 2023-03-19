@@ -78,8 +78,4 @@ f 字符串也可以派上用场的情况下，你想包括分隔符在长的数
 
 我们已经看到 f 字符串在格式化字符串时非常有用。我们也看到了它们的一些使用方法。f 弦还有其他一些很好的用途，如果你想深入了解，官方文档[是一个很好的起点。如果这篇文章激起了你对字符串数据类型的兴趣，这里还有一篇你可能会喜欢的文章，它是关于 Python 中的字符串方法及其用途的。](https://www.python.org/dev/peps/pep-0498/https://www.python.org/dev/peps/pep-0498/https://www.python.org/dev/peps/pep-0498/)
 
-[](/useful-string-methods-in-python-5047ea4d3f90) [## Python 中有用的字符串方法
-
-### 了解一些 Python 内置的可用于字符串的方法
-
-towardsdatascience.com](/useful-string-methods-in-python-5047ea4d3f90)
+</useful-string-methods-in-python-5047ea4d3f90> 

@@ -82,16 +82,4 @@ end
 
 # 相关职位
 
-[](/how-to-dockerize-an-existing-flask-application-115408463e1c) [## 如何对接现有的 Flask 应用程序
-
-### 轻松运行烧瓶应用程序
-
-towardsdatascience.com](/how-to-dockerize-an-existing-flask-application-115408463e1c) [](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [## 如何在 Docker 容器中挂载目录
-
-### 专注于编写代码，无需担心环境管理
-
-towardsdatascience.com](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [](/how-to-run-a-python-script-using-a-docker-container-ea248e618e32) [## 如何使用 Docker 容器运行 Python 脚本
-
-### 轻松运行 Python
-
-towardsdatascience.com](/how-to-run-a-python-script-using-a-docker-container-ea248e618e32)
+</how-to-dockerize-an-existing-flask-application-115408463e1c>  </how-to-mount-a-directory-inside-a-docker-container-4cee379c298b>  </how-to-run-a-python-script-using-a-docker-container-ea248e618e32> 

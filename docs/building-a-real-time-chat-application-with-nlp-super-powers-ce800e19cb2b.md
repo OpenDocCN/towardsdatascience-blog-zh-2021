@@ -80,11 +80,7 @@
 
 要查看完整代码，请访问 Github 资源库:
 
-[](https://github.com/devalparikh/NLP_Chat_App) [## devalparikh/NLP_Chat_App
-
-### 使用 NLP 和 socket networks Permalink 的实体检测/音调检测实时聊天应用程序无法加载最新的…
-
-github.com](https://github.com/devalparikh/NLP_Chat_App) 
+<https://github.com/devalparikh/NLP_Chat_App>  
 
 ## 结论
 

@@ -82,7 +82,7 @@ rf = RandomForestRegressor(random_state = 42).fit(X_train, y_train)
 
 如果你想了解更多关于基于树的模型是如何工作的，可以看看我下面的文章:
 
-[](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) [## 整体之战——随机森林 vs 梯度推进
+</battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7> [## 整体之战——随机森林 vs 梯度推进
 
 towardsdatascience.com](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) 
 

@@ -150,11 +150,7 @@ GIF:最终仪表板
 
 最近开始用 Python 和机器学习写算法交易系列。你可以在下面找到第一条。
 
-[](https://pub.towardsai.net/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182) [## 用 Python 和机器学习进行算法交易第 1 部分
-
-### 什么是算法交易，如何获取交易数据
-
-pub.towardsai.net](https://pub.towardsai.net/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182) 
+<https://pub.towardsai.net/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182>  
 
 更多文章关注我。请随时在 [LinkedIn](https://www.linkedin.com/in/mayankvadsola/) 上联系我。谢谢大家！
 

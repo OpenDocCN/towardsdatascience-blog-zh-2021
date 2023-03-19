@@ -68,11 +68,7 @@
 
 如果你有兴趣安排一封带附件的邮件，请参考我的另一篇文章。
 
-[](/how-to-send-email-with-attachments-by-using-python-41a9d1a3860b) [## 如何使用 Python 发送带附件的电子邮件
-
-### 作为一名数据分析师，我经常会收到这样的请求:“你能每周给我发一份报告吗？”或者…
-
-towardsdatascience.com](/how-to-send-email-with-attachments-by-using-python-41a9d1a3860b) 
+</how-to-send-email-with-attachments-by-using-python-41a9d1a3860b>  
 
 **入口点**将是您定义在脚本中运行的函数，在本例中是`schedule_email`。
 
@@ -88,14 +84,6 @@ towardsdatascience.com](/how-to-send-email-with-attachments-by-using-python-41a9
 
 **如果你喜欢读这篇文章，你可能也会喜欢这些:**
 
-[](/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31) [## 如何用熊猫用 Python 重写 SQL 查询
-
-### 在 Python 中再现相同的 SQL 查询结果
-
-towardsdatascience.com](/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31) [](/how-to-style-your-dataframe-with-python-eabf376d1efd) [## 如何用 Python 设计你的数据框架
-
-### 如何使用 Python 高亮显示、格式化或着色您的数据框
-
-towardsdatascience.com](/how-to-style-your-dataframe-with-python-eabf376d1efd) 
+</how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31>  </how-to-style-your-dataframe-with-python-eabf376d1efd>  
 
 **你可以在 Medium 上找到我其他作品的链接，关注我** [**这里**](https://medium.com/@chingjunetao) **。感谢阅读！**

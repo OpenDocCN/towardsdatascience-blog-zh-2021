@@ -105,11 +105,7 @@
 
 首先也是最重要的，作为统计推断基石的中心极限定理，都是关于正态分布的。我鼓励您在此阅读更多相关内容:
 
-[](/central-limit-theorem-70b12a0a68d8) [## 中心极限定理
-
-### 关于数据科学家统计推断基石的相关性。
-
-towardsdatascience.com](/central-limit-theorem-70b12a0a68d8) 
+</central-limit-theorem-70b12a0a68d8>  
 
 简而言之，CLT 认为，从随机数据样本中计算出的一些统计数据(如总和或平均值)符合正态分布。CLT 最重要的两个实际用例是回归分析和[假设检验](/the-hypothesis-testers-guide-75f7db2e4d0d)。
 
@@ -141,11 +137,7 @@ CTR 与观测 CTR 的参考分布。由作者生成。
 
 假设检验拯救世界！要了解关于这个主题的更多信息，请不要犹豫，请阅读我的假设检验者指南:
 
-[](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一个简短的关于为什么可以拒绝假说，但不能接受它们的入门书，有例子和视觉效果。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d) 
+</the-hypothesis-testers-guide-75f7db2e4d0d>  
 
 这里，让我强调一下卡方分布在这个过程中的作用。第一步是假设三个网站版本平均产生相同的购买数量。如果这是真的，我们预计每个版本的购买数量是相同的，那将是`(17+9+14)/3`，或者 13.33 次购买。卡方分布允许我们测量如果颜色没有影响，观察到的购买与预期的偏离程度。
 
@@ -226,16 +218,4 @@ ANOVA 输出。
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/data-measurement-levels-dfa9a4564176) [## 数据测量级别
-
-### 统计学家对变量类型、它们的意义以及对机器学习的影响的观点。
-
-towardsdatascience.com](/data-measurement-levels-dfa9a4564176) [](/handling-missing-data-5be11eddbdd) [## 处理缺失数据
-
-### 一个统计学家关于如何(不)做它来保持你的机器学习工作流程的观点。
-
-towardsdatascience.com](/handling-missing-data-5be11eddbdd) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571)
+</data-measurement-levels-dfa9a4564176>  </handling-missing-data-5be11eddbdd>  </monte-carlo-dropout-7fd52f8b6571> 

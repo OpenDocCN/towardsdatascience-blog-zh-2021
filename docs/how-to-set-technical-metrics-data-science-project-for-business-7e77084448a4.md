@@ -20,11 +20,7 @@
 
 在下面的文章中，我就为什么一个伟大的数据科学家是懂业务的人这一问题提出了自己的观点。
 
-[](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) [## 学习业务，成为伟大的数据科学家
-
-### 每个数据科学家的核心。(抱歉，不是编码的问题)
-
-towardsdatascience.com](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) 
+</learn-the-business-to-become-a-great-data-scientist-635fa6029fb6>  
 
 每个数据科学家都知道的一个知识是**将业务问题模拟成技术需求**。每个业务项目都将从业务用户希望数据科学家解决的业务问题开始。我们需要讨论我们的项目将触及的每个业务方面的情况。为什么？因为我们的模式会受到每个商业选择的影响。
 
@@ -160,11 +156,7 @@ simulation_plot(metric_range = np.arange(0.7, 1.01, 0.01), S = 30564, L = 15244,
 
 这个模拟的所有代码都存储在我下面的 GitHub 页面上。
 
-[](https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation) [## GitHub-cornelliusyudhawijaya/交叉销售-保险-商业-模拟:该项目旨在开发…
-
-### 这个项目是开发一个机器学习模型来预测客户对保险交叉销售感兴趣…
-
-github.com](https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation) 
+<https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation>  
 
 # **结论**
 

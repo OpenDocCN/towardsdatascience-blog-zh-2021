@@ -22,11 +22,7 @@
 
 在上一篇文章中，我们讨论了 LASSO 如何以及为什么提高广义线性模型的可解释性和准确性。我们将在这里重述基础知识，但是如果你有兴趣深入研究这个理论，可以看看下面的文章。
 
-[](https://edkruegerdata.com/lasso-increases-the-interpretability-and-accuracy-of-linear-models-c1b340561c10) [## LASSO 增加了线性模型的可解释性和准确性
-
-### 了解套索的工作原理和原因
-
-edkruegerdata.com](https://edkruegerdata.com/lasso-increases-the-interpretability-and-accuracy-of-linear-models-c1b340561c10) 
+<https://edkruegerdata.com/lasso-increases-the-interpretability-and-accuracy-of-linear-models-c1b340561c10>  
 
 我们可以使用套索通过选择特征来改善模型中的过度拟合。它与线性回归，逻辑回归和其他几个模型。本质上，如果模型有系数，可以使用 LASSO。与其他特征选择技术不同，LASSO 中的特征选择是内生的。即，它出现在模型的算法内部。LASSO 不是查看要素的每个组合或实施逐步子集选择，而是在算法中选择要素，自动生成子集选择。
 
@@ -158,11 +154,7 @@ Lasso 回归的代码和结果(来源:作者)
 
 如果你想了解更多关于岭回归的知识，可以看看下面这篇由 [Qshick](https://medium.com/u/1fd952af85cc?source=post_page-----271ce0f22bd--------------------------------) 撰写的文章！
 
-[](/ridge-regression-for-better-usage-2f19b3a202db) [## 更好使用的岭回归
-
-### 回答“什么是岭回归”这个问题的最简单方法是“线性回归的变异”。在…
-
-towardsdatascience.com](/ridge-regression-for-better-usage-2f19b3a202db) 
+</ridge-regression-for-better-usage-2f19b3a202db>  
 
 ## 比较系数
 
@@ -174,7 +166,7 @@ towardsdatascience.com](/ridge-regression-for-better-usage-2f19b3a202db)
 
 我们希望你喜欢这篇文章！要了解更多关于数据科学、机器学习和开发的内容，请查看 [Edward 的 YouTube 频道](https://www.youtube.com/channel/UCmvdvjDaSjjMRIAxE5s7EZA)，并订阅我下面的邮件列表，成为第一个听到新文章的人！
 
-[](https://edkruegerdata.com/subscribe) [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
+<https://edkruegerdata.com/subscribe> [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
 
 edkruegerdata.com](https://edkruegerdata.com/subscribe) 
 

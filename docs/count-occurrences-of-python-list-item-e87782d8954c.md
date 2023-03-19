@@ -84,22 +84,10 @@ Counter({1: 3, 2: 2, 3: 3, 5: 1, 6: 1})**
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [## 使用性能可视化来监控 Python 代码
-
-### 如何持续测量、可视化和提高 Python 代码在生产中的性能
-
-medium.com](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [## 数据科学家必须知道的 16 个 Bash 命令
-
-### 探索一些最常用的 bash 命令
-
-towardsdatascience.com](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [](/4-amazingly-useful-additions-in-python-3-9-732115c59c9d) [## Python 3.9 中 4 个非常有用的新增功能
+<https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb>  </16-must-know-bash-commands-for-data-scientists-d8263e990e0e>  </4-amazingly-useful-additions-in-python-3-9-732115c59c9d> [## Python 3.9 中 4 个非常有用的新增功能
 
 towardsdatascience.com](/4-amazingly-useful-additions-in-python-3-9-732115c59c9d)

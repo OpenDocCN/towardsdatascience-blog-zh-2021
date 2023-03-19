@@ -188,11 +188,7 @@
 
 如果你开始学习机器学习的数学，你可以阅读我的另一篇文章来避免学习陷阱。我还提供了您可能想在那篇文章中查阅的数学材料。
 
-[](/5-mistakes-to-avoid-when-studying-math-for-machine-learning-6c8bcb2e2d06) [## 为机器学习学习数学时要避免的 5 个错误
-
-### 在你的学习方法中要避免哪些陷阱
-
-towardsdatascience.com](/5-mistakes-to-avoid-when-studying-math-for-machine-learning-6c8bcb2e2d06) 
+</5-mistakes-to-avoid-when-studying-math-for-machine-learning-6c8bcb2e2d06>  
 
 希望有帮助！
 

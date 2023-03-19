@@ -173,8 +173,4 @@ month_urls = generate_urls()for month in month_urls:
 
 介绍图片是[斯蒂芬·瓦伦丁](https://unsplash.com/@valentinsteph?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的一张照片。其他所有图片均由作者拍摄。本文中使用的代码可以在这里找到:
 
-[](https://github.com/LiamConnors/Medium-articles) [## Liam Connors/Medium-文章
-
-### 我在媒体上发表的文章的代码。为 LiamConnors/Medium-articles 开发创建一个…
-
-github.com](https://github.com/LiamConnors/Medium-articles)
+<https://github.com/LiamConnors/Medium-articles> 

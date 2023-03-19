@@ -12,11 +12,7 @@
 
 要知道什么是线性回归？我们如何训练它？我们如何获得最佳拟合线？我们如何解读它？以及我们如何评估拟合的准确性，您可以访问以下文章。
 
-[](/magic-of-calculus-linear-regression-ad84686371c3) [## 微积分的魔力:线性回归
-
-### 人类行为异常地拥有优秀的知识和技术储备。我们试图理解并产生…
-
-towardsdatascience.com...](/magic-of-calculus-linear-regression-ad84686371c3) 
+</magic-of-calculus-linear-regression-ad84686371c3>  
 
 在了解了线性回归的基本直觉之后，某些概念让它变得更加迷人，更加有趣。这些还提供了对算法缺陷、其影响和补救措施的深入理解。并且，我们将在文章中探讨这些概念。
 

@@ -219,18 +219,10 @@ and category_labels[0][2] in ('Beauty Salons and Barbers')
 
 通过 Foursquare 查看[我们的网络研讨会](https://www.snowflake.com/about/webinars/),进一步了解:
 
-[](https://www.snowflake.com/webinar/thought-leadership/how-to-select-your-next-retail-location-using-third-party-data/) [## 如何使用第三方数据选择下一个零售点
-
-### 零售业的成功在于位置，位置，位置，对吗？嗯，前提是该位置是您的客户…
-
-www.snowflake.com](https://www.snowflake.com/webinar/thought-leadership/how-to-select-your-next-retail-location-using-third-party-data/) 
+<https://www.snowflake.com/webinar/thought-leadership/how-to-select-your-next-retail-location-using-third-party-data/>  
 
 # 想要更多吗？
 
 我是 Felipe Hoffa，雪花的数据云倡导者。谢谢你和我一起冒险。你可以在推特上关注我[，并查看](https://twitter.com/felipehoffa)[reddit.com/r/snowflake](https://www.reddit.com/r/snowflake/)上最有趣的雪花新闻。
 
-[](https://github.com/Snowflake-Labs/awesome-snowflake) [## 雪花实验室/棒极了雪花
-
-### 关于雪花社区和内容的主要链接的令人敬畏的资源的策划列表，记得订阅:活动…
-
-github.com](https://github.com/Snowflake-Labs/awesome-snowflake)
+<https://github.com/Snowflake-Labs/awesome-snowflake> 

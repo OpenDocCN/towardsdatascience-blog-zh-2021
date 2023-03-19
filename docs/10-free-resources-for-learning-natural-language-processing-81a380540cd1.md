@@ -18,11 +18,7 @@
 
 # 1.自然语言处理导论
 
-[](https://courses.analyticsvidhya.com/courses/Intro-to-NLP) [## 无 NLP 课程简介
-
-### 自然语言处理(NLP)是从非结构化文本中提取信息的艺术。本课程教你…
-
-courses.analyticsvidhya.com](https://courses.analyticsvidhya.com/courses/Intro-to-NLP) 
+<https://courses.analyticsvidhya.com/courses/Intro-to-NLP>  
 
 Shivam Bansal 的这个短期课程是对这个领域的一个很好的介绍。它基于 python，在一系列视频讲座和练习中涵盖了正则表达式、文本处理和文本分类。在课程的最后，有一个建立你的第一个简单的基于文本的机器学习模型的指南。完成课程后，您还可以选择参加一个简短的考试，以获得结业证书。
 
@@ -38,11 +34,7 @@ Shivam Bansal 的这个短期课程是对这个领域的一个很好的介绍。
 
 # 3.真棒 NLP
 
-[](https://github.com/keon/awesome-nlp) [## keon/awesome-nlp
-
-### book:专门用于自然语言处理(NLP)的精选资源列表
-
-github.com](https://github.com/keon/awesome-nlp) 
+<https://github.com/keon/awesome-nlp>  
 
 Awesome NLP 是一个 Github 知识库，包含了自然语言处理领域的大量精选资源。这里有各种不同的资源，包括教程、图书馆、数据集、研究论文和书籍。
 
@@ -54,11 +46,7 @@ Awesome NLP 是一个 Github 知识库，包含了自然语言处理领域的大
 
 # 5.使用 pytorch 的 NLP
 
-[](https://github.com/joosthub/PyTorchNLPBook) [## joosthub/PyTorchNLPBook
-
-### 使用深度学习构建智能语言应用程序。这是一个伴侣…
-
-github.com](https://github.com/joosthub/PyTorchNLPBook) 
+<https://github.com/joosthub/PyTorchNLPBook>  
 
 Pytorch 是一个深度学习框架，非常适合开发基于 NLP 的模型。这个知识库是 Delip Rao 和 Brian McMahan 所著的《使用 PyTorch 进行自然语言处理:使用深度学习构建智能语言应用程序》一书的姊妹篇，包含示例笔记本、数据集和笔记。
 
@@ -66,41 +54,25 @@ Pytorch 是一个深度学习框架，非常适合开发基于 NLP 的模型。�
 
 # 6.语音和语言处理
 
-[](https://web.stanford.edu/~jurafsky/slp3/) [## 语音和语言处理
-
-### 第 8 章的新版本(将 POS 和 NER 放在一章中)，第 9 章的新版本(有变形金刚)…
-
-web.stanford.edu](https://web.stanford.edu/~jurafsky/slp3/) 
+<https://web.stanford.edu/~jurafsky/slp3/>  
 
 这个资源是丹·茹拉夫斯基和詹姆斯·h·马丁的《T4 演讲和语言处理》一书的免费阅读版。这是对一般自然语言处理的很好介绍，涵盖了从文本数据的基本处理到深度学习架构和机器翻译的所有内容。
 
 # 7.用自然语言工具包分析文本
 
- [## NLTK 图书
-
-### Steven Bird、Ewan Klein 和 Edward Loper 这本书的 NLTK 版本针对 Python 3 和 NLTK 3 进行了更新。第一个…
-
-www.nltk.org](https://www.nltk.org/book/) 
+  
 
 NLTK 是被称为自然语言工具包的 Python 库。这是处理文本数据的领先平台之一，包括用于文本分类、标记化、词干化和语义推理的简单接口。这本书不仅是一个非常详细的使用 NLTK 的指南，也是一个学习 NLP 的好资源，有很多实用的例子。
 
 # 8.Kaggle 课程—自然语言处理
 
- [## 学习自然语言处理教程
-
-### 通过学习处理文本数据来突出自己。
-
-www.kaggle.com](https://www.kaggle.com/learn/natural-language-processing) 
+  
 
 如果你完全是 NLP 领域的新手，只是想访问一些简单而简短的教程，Kaggle 的这个非常短的课程是一个很好的快速入门教程。虽然简短，但它确实涵盖了基本原理，包括文本处理、文本分类和单词嵌入。
 
 # 9.Microsoft NLP 食谱
 
-[](https://github.com/microsoft/nlp-recipes) [## 微软/NLP-食谱
-
-### 近年来，自然语言处理(NLP)在质量和可用性方面取得了快速发展，这有助于…
-
-github.com](https://github.com/microsoft/nlp-recipes) 
+<https://github.com/microsoft/nlp-recipes>  
 
 这个由微软开发和维护的知识库旨在记录和标准化开发利用自然语言处理的系统的最佳实践。
 
@@ -108,11 +80,7 @@ github.com](https://github.com/microsoft/nlp-recipes)
 
 # 10.火花 NLP
 
-[](https://github.com/JohnSnowLabs/spark-nlp) [## 约翰·斯诺实验室/spark-nlp
-
-### Spark NLP 是一个构建在 Apache Spark ML 之上的自然语言处理库。它提供简单、高性能的&…
-
-github.com](https://github.com/JohnSnowLabs/spark-nlp) 
+<https://github.com/JohnSnowLabs/spark-nlp>  
 
 Spark NLP 严格来说并不是一个学习资源，但是因为它是一个基于 Apache Spark 构建的自然语言处理库，所以它是 Spark 开发人员大规模利用自然语言处理能力的一个很好的工具。
 

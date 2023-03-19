@@ -10,11 +10,7 @@
 
 在上一篇文章中，我展示了如何构建一个无服务器的解决方案，将各种数据从 Datastore 导出到 BigQuery。该文章中介绍的方法完全有效，甚至适用于大型数据存储。然而，主要的缺点是每次我们将所有行从数据存储导出到 BigQuery。对于大型数据存储来说，这可能会产生不必要的成本，消耗不必要的时间。
 
-[](/serverless-approach-to-export-datastore-to-bigquery-4156fadb8509) [## 将数据存储导出到 BigQuery 的无服务器方法
-
-### 一种在 Google 云平台上使用无服务器方法定期将数据存储导出到 BigQuery 的简单方法
-
-towardsdatascience.com](/serverless-approach-to-export-datastore-to-bigquery-4156fadb8509) 
+</serverless-approach-to-export-datastore-to-bigquery-4156fadb8509>  
 
 解决这个问题的方法之一是对数据库进行一系列更新。例如， [AWS DynamoDB](https://aws.amazon.com/dynamodb/) 提供了[流](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html)，可以很容易地与 AWS Lambdas 链接。在[谷歌 Firestore](https://cloud.google.com/firestore) (被命名为数据存储的下一代[)中可以找到非常相似的功能，其中对文档的更改会触发云功能—](https://cloud.google.com/datastore/docs/firestore-or-datastore) [参见文档。](https://cloud.google.com/functions/docs/calling/cloud-firestore)
 
@@ -37,11 +33,7 @@ p 收集/p 转换概述(按作者)
 
 我将使用 Python 作为编程语言。但是，管道也可以在 Java 和 Golang 中构建。完整的工作示例可在 GitHub 项目中获得([https://GitHub . com/jkrajniak/demo-datastore-export-filtering](https://github.com/jkrajniak/demo-datastore-export-filtering))。在这里，我将只对重要的代码块进行评论。
 
-[](https://github.com/jkrajniak/demo-datastore-export-filtering) [## jkrajniak/demo-数据存储-导出-过滤
-
-### 在 GitHub 上创建一个帐号，为 jkrajniak/demo-datastore-export-filtering 开发做贡献。
-
-github.com](https://github.com/jkrajniak/demo-datastore-export-filtering) 
+<https://github.com/jkrajniak/demo-datastore-export-filtering>  
 
 ## 管道
 
@@ -131,11 +123,7 @@ def process(self, kind_name, **kwargs):
 
 为了跟踪并行执行的进度，可以使用与我在之前的[文章中展示的类似的解决方案](https://medium.com/nordcloud-engineering/keep-track-on-your-cloud-computations-67dd8f172479)
 
-[](https://medium.com/nordcloud-engineering/keep-track-on-your-cloud-computations-67dd8f172479) [## 跟踪你的云计算
-
-### 如何使用无服务器组件在无限数量的函数中跟踪你的分布式计算。
-
-medium.com](https://medium.com/nordcloud-engineering/keep-track-on-your-cloud-computations-67dd8f172479) 
+<https://medium.com/nordcloud-engineering/keep-track-on-your-cloud-computations-67dd8f172479>  
 
 或者[谷歌工作流](https://cloud.google.com/workflows)。虽然组织起来是可行的，但我认为这种努力不值得可能的成本降低。
 

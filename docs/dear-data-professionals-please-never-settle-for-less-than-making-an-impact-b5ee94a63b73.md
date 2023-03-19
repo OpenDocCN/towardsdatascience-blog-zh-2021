@@ -99,4 +99,4 @@
 
 2021 年，鉴于从数据中获取有意义和有用的见解的需求越来越大，让我们问问自己，“作为一名数据专业人士，我们愿意接受什么样的挑战？”**为了成为神奇的独角兽，在创造长期业务影响的同时，我们愿意付出多大的努力？**
 
-*原载于 2021 年 1 月 9 日 http://thedigitalskye.com*[](http://thedigitalskye.com/2021/01/09/dear-data-professionals-please-never-settle-for-less-than-making-an-impact/)**。**
+*原载于 2021 年 1 月 9 日 http://thedigitalskye.com*<http://thedigitalskye.com/2021/01/09/dear-data-professionals-please-never-settle-for-less-than-making-an-impact/>**。**

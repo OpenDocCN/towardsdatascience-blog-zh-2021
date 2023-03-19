@@ -149,8 +149,4 @@ sample['review'].map(lambda x: analyser.polarity_scores(x))
 
 如果您有一个标记良好的数据集(具有真实的情感得分)，您可以考虑使用分类方法。更多细节请参考我下面的另一篇文章
 
-[](/sentiment-analysis-using-classification-e73da5b4159f) [## 使用分类的情感分析
-
-### 如何根据历史数据计算情感得分
-
-towardsdatascience.com](/sentiment-analysis-using-classification-e73da5b4159f)
+</sentiment-analysis-using-classification-e73da5b4159f> 

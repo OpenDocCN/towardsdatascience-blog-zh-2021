@@ -81,11 +81,7 @@
 
 ## 完整的代码库(图像输入)
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/06.%20Emotion%20Recognition%20using%20Facial%20Images) [## 人工智能与 python 系列/06。使用面部图像的情感识别
-
-### 人工智能的 Python。教程-使用图像中的面部表情进行情感识别。
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/06.%20Emotion%20Recognition%20using%20Facial%20Images) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/06.%20Emotion%20Recognition%20using%20Facial%20Images>  
 
 尽管上面的代码片段实现了程序的核心逻辑，但我还是建议仔细阅读上面链接的资源库中的完整 Colab 笔记本，以获得对整个工作代码的详细理解。
 
@@ -128,11 +124,7 @@ github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/06.%20E
 
 ## 完整的代码库(视频输入)
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/07.%20Emotion%20Recognition%20using%20Live%20Video) [## 人工智能与 python 系列/07。使用实时视频的情感识别
-
-### Python for AI —教程—实时视频输入中的情感识别
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/07.%20Emotion%20Recognition%20using%20Live%20Video) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/07.%20Emotion%20Recognition%20using%20Live%20Video>  
 
 与处理图像的示例类似，上面的代码片段显示了一个工作逻辑。然而，我鼓励你仔细阅读 Colab 笔记本中的完整工作代码以及上面链接的库。
 
@@ -152,19 +144,7 @@ github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/07.%20E
 
 ## 阅读大量关于机器学习的循序渐进教程
 
-[](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [## 使用 Azure Data Factory 实现端到端的机器学习工作流
-
-### 使用微软的 Azure 数据工厂(ADF)在一个屏幕上构建完整的 MLOps 生命周期
-
-towardsdatascience.com](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [](/a-step-by-step-guide-to-speech-recognition-and-audio-signal-processing-in-python-136e37236c24) [## Python 中语音识别和音频信号处理的分步指南
-
-### 向机器教授人类词汇的科学
-
-towardsdatascience.com](/a-step-by-step-guide-to-speech-recognition-and-audio-signal-processing-in-python-136e37236c24) [](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) [## 逻辑程序设计和基于 Python 的人性化人工智能设计
-
-### 建立逻辑，促进机器中的人工智能
-
-towardsdatascience.com](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) 
+</implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94>  </a-step-by-step-guide-to-speech-recognition-and-audio-signal-processing-in-python-136e37236c24>  </logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2>  
 
 ## 关于我
 

@@ -83,10 +83,6 @@
 
 阅读下面提到的文章，了解处理数据集中缺失值的流行策略
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+</7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e>  
 
 > 感谢您的阅读

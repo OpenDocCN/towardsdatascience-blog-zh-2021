@@ -98,12 +98,4 @@
 
 所以亲爱的数据科学家们，当心数据转移。
 
-[](/stop-using-p-0-05-9743e5cddc21) [## 停止使用 p<0.05
-
-### 通过在统计测试中选择适当的显著性水平来改进您的预测模型和数据分析
-
-towardsdatascience.com](/stop-using-p-0-05-9743e5cddc21) [](/are-your-models-using-the-correct-significance-levels-c88367ee0544) [## 您的模型使用了正确的显著性水平吗？
-
-### 避免一切都变得重要的大数据谬论。使用 p < 0.05 通常是不合适的。
-
-towardsdatascience.com](/are-your-models-using-the-correct-significance-levels-c88367ee0544)
+</stop-using-p-0-05-9743e5cddc21>  </are-your-models-using-the-correct-significance-levels-c88367ee0544> 

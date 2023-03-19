@@ -46,11 +46,7 @@ Python 2 和 3 共存了很长时间——图片 [Python.land](https://python.la
 
 如果你还没有看完整的文章，可以看看，这是一篇很棒的文章，很多人都很喜欢:
 
-[](https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e) [## 世界上最常用的 22 个 Python 包
-
-### 对 Python 使用方式的教育和惊人见解
-
-medium.com](https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e) 
+<https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e>  
 
 # Python 还是很好学的
 

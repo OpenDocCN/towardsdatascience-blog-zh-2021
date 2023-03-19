@@ -254,15 +254,7 @@ embeded_lgb_selector.fit(X, y)**
 
 # **不确定接下来要读什么？这里有两个选择:**
 
-**[](/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4) [## 时间序列分析与理论、图表和代码第 1 部分
-
-### 什么是时间序列，预测任务的步骤是什么？如何绘制趋势和季节性？如何…
-
-towardsdatascience.com](/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4) [](/outlier-detection-theory-visualizations-and-code-a4fd39de540c) [## 异常值检测——理论、可视化和代码
-
-### 五种算法来统治他们，五种算法来发现他们，五种算法来把他们带到黑暗中…
-
-towardsdatascience.com](/outlier-detection-theory-visualizations-and-code-a4fd39de540c) 
+**</time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4>  </outlier-detection-theory-visualizations-and-code-a4fd39de540c>  
 
 # 保持联络
 

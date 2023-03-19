@@ -26,11 +26,7 @@
 
 在本文中，我们不会关注 TVD 背后的计算，相反，我们将了解如何使用 Welly 的位置模块来计算它。如果你想知道更多关于计算背后的数学知识，我在下面的描述中提供了一些文章的链接。
 
-[](https://www.drillingformulas.com/minimum-curvature-method/) [## 最小曲率法
-
-### Facebook0Tweet0Pin0LinkedIn0 最小曲率法平滑平衡切线的两条直线段…
-
-www.drillingformulas.com](https://www.drillingformulas.com/minimum-curvature-method/) 
+<https://www.drillingformulas.com/minimum-curvature-method/>  
 
 ## 视频版教程
 
@@ -414,8 +410,4 @@ plt.show()
 
 如果你喜欢阅读这些教程，并想支持我作为一名作家和创作者，那么请考虑报名成为一名媒体成员。一个月 5 美元，你就可以无限制地阅读数千篇各种主题的文章。如果您使用 [**我的链接**](https://andymcdonaldgeo.medium.com/membership) **，**注册，我将为您赚取一小笔佣金，无需额外费用！
 
-[](https://andymcdonaldgeo.medium.com/membership) [## 通过我的推荐链接加入 Medium 安迪·麦克唐纳
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-andymcdonaldgeo.medium.com](https://andymcdonaldgeo.medium.com/membership)
+<https://andymcdonaldgeo.medium.com/membership> 

@@ -183,56 +183,8 @@ RStudio 数据集。
 
 **|** *参考文献*
 
-[](https://www.r-project.org/) [## 统计计算的 R 项目
-
-### r 是一个用于统计计算和图形的自由软件环境。它可以在各种各样的 UNIX 上编译和运行…
-
-www.r-project.org](https://www.r-project.org/) [](https://www.business-science.io/business/2020/12/17/six-reasons-to-use-R-for-business-2021.html) [## 学习 R For Business 的 6 个理由[2021]
-
-### 商业数据科学(DS4B)是商业分析的未来，然而(2)有效地学习如何使用工具…
-
-www .商业科学. io](https://www.business-science.io/business/2020/12/17/six-reasons-to-use-R-for-business-2021.html) [](https://data-flair.training/blogs/why-learn-r/) [## 为什么要学 R？学习 R 编程语言的 10 个便利理由
-
-### 在开始学习 R 编程之前，每个 R 爱好者脑海中都会出现这样的问题——为什么要学习 R？什么…
-
-数据-天赋.培训](https://data-flair.training/blogs/why-learn-r/)  [## 综合 R 档案网
-
-### 编辑描述
-
-cran.r-project.org](https://cran.r-project.org/) [](https://www.tutorialspoint.com/r/r_mean_median_mode.htm) [## R -均值、中位数和众数
-
-### R 中的统计分析是通过使用许多内置函数来执行的。这些函数中的大部分都是 R 库的一部分…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/r/r_mean_median_mode.htm)  [## 正态分布
-
-### 均值等于的正态分布的密度、分布函数、分位数函数和随机生成
-
-stat.ethz.ch](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Normal.html) [](http://www.r-tutor.com/elementary-statistics/numerical-measures/standard-deviation) [## 标准偏差
-
-### 观察变量的标准差是其方差的平方根。问题找到标准…
-
-www.r-tutor.com](http://www.r-tutor.com/elementary-statistics/numerical-measures/standard-deviation) 
+<https://www.r-project.org/>  <https://www.business-science.io/business/2020/12/17/six-reasons-to-use-R-for-business-2021.html>  <https://data-flair.training/blogs/why-learn-r/>    <https://www.tutorialspoint.com/r/r_mean_median_mode.htm>    <http://www.r-tutor.com/elementary-statistics/numerical-measures/standard-deviation>  
 
 **|** *看看我最近的一些文章*
 
-[](https://medium.com/codex/a-journey-with-kubernetes-part-4-apis-19b311290a4f) [## 库伯内特之旅第 4 部分:API
-
-### 将 Python API 部署到 Kubernetes
-
-medium.com](https://medium.com/codex/a-journey-with-kubernetes-part-4-apis-19b311290a4f) [](/mongodb-3f605f8533a0) [## MongoDB
-
-### 从安装到实现:第 4 部分
-
-towardsdatascience.com](/mongodb-3f605f8533a0) [](https://medium.com/swlh/why-i-needed-to-graduate-college-with-no-debt-2bdcd37ccd4f) [## 为什么我需要无债一身轻地从大学毕业
-
-### 比你想的更重要…
-
-medium.com](https://medium.com/swlh/why-i-needed-to-graduate-college-with-no-debt-2bdcd37ccd4f) [](https://medium.com/python-in-plain-english/3-ways-to-handle-errors-in-fastapi-that-you-need-to-know-e1199e833039) [## 你需要知道的 FastAPI 中处理错误的 3 种方法
-
-### 在过去的几个月里，我写了很多关于 FastAPI 以及它有多棒的文章。然而，有一件事…
-
-medium.com](https://medium.com/python-in-plain-english/3-ways-to-handle-errors-in-fastapi-that-you-need-to-know-e1199e833039) [](https://medium.com/python-in-plain-english/speechrecognition-in-python-df4e56fecf51) [## Python 中的语音识别
-
-### 艰难地学习
-
-medium.com](https://medium.com/python-in-plain-english/speechrecognition-in-python-df4e56fecf51)
+<https://medium.com/codex/a-journey-with-kubernetes-part-4-apis-19b311290a4f>  </mongodb-3f605f8533a0>  <https://medium.com/swlh/why-i-needed-to-graduate-college-with-no-debt-2bdcd37ccd4f>  <https://medium.com/python-in-plain-english/3-ways-to-handle-errors-in-fastapi-that-you-need-to-know-e1199e833039>  <https://medium.com/python-in-plain-english/speechrecognition-in-python-df4e56fecf51> 

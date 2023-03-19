@@ -54,20 +54,8 @@
 
 如果您对如何在 Python 中将数据集分割成训练和测试子集感兴趣，请务必阅读下面的文章。
 
-[](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [## 如何用 Python 将数据集分割成训练集和测试集
-
-### 探索从建模数据集创建训练和测试样本的三种方法
-
-towardsdatascience.com](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) 
+</how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830>  
 
 您可能感兴趣的其他文章:
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简而言之，特征缩放和标准化
-
-### 为什么、如何以及何时调整要素的比例
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [](/supervised-vs-unsupervised-learning-bf2eab13f288) [## 监督与非监督学习
-
-### 讨论机器学习中监督学习、非监督学习和半监督学习的主要区别
-
-towardsdatascience.com](/supervised-vs-unsupervised-learning-bf2eab13f288)
+</feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  </supervised-vs-unsupervised-learning-bf2eab13f288> 

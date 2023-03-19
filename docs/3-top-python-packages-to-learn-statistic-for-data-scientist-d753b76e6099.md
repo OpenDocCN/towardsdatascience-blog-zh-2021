@@ -141,11 +141,7 @@ Pingouin 指南也为你提供了一个学习指南[来使用一些测试包函�
 
 如果您想了解关于 Pingouin 包的更多信息，我已经写了一篇关于该包的更深入的解释。
 
-[](/accelerate-complicated-statistical-test-for-data-scientist-with-pingouin-f98f29184400) [## 用 Pingouin 加速数据科学家复杂的统计测试
-
-### 在一个包中快速简单的重要统计测试
-
-towardsdatascience.com](/accelerate-complicated-statistical-test-for-data-scientist-with-pingouin-f98f29184400) 
+</accelerate-complicated-statistical-test-for-data-scientist-with-pingouin-f98f29184400>  
 
 # 3.统计模型
 

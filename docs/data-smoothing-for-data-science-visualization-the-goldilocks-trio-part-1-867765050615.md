@@ -520,10 +520,6 @@ B 样条，如上面所示的二次样条，使用与线性样条相同的分段
 
 *[http://math.hws.edu/eck/cs424/notes2013/canvas/bezier.html](http://math.hws.edu/eck/cs424/notes2013/canvas/bezier.html)*
 
- *[## 动画贝塞尔曲线
-
-### 玩控制点来修改曲线！这些动画说明了参数贝塞尔曲线是如何…
-
-www.jasondavies.com](https://www.jasondavies.com/animated-bezier/)* 
+ ** 
 
 *[https://tholman.com/bezier-curve-simulation/](https://tholman.com/bezier-curve-simulation/)*

@@ -115,8 +115,4 @@ print('Job Done.')
 
 在我们继续建模之前，我们将首先探索更多关于数据集的内容，并从中发现一些有趣的模式。这将在下一篇文章中讨论(见下文)。感谢阅读！
 
-[](https://medium.com/@tianjie1112/predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d) [## 预测新加坡 HDB 转售价格:EDA 和建模
-
-### 进行 EDA 并尝试不同的 ML 模型来预测转售价格
-
-medium.com](https://medium.com/@tianjie1112/predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d)
+<https://medium.com/@tianjie1112/predicting-singapore-hdb-resale-price-eda-and-modeling-94af7d26798d> 

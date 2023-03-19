@@ -20,11 +20,7 @@
 
 如果你没有看过我在 Bamboolib 上的博客，你可以在这里找到它:
 
-[](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) [## Bamboolib:你见过的最有用的 Python 库之一
-
-### 下面是我对这个很酷的 Python 库的看法，以及为什么你应该尝试一下
-
-towardsdatascience.com](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) 
+</bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7>  
 
 话虽如此，让我们把我们的手放在米托！
 
@@ -223,14 +219,6 @@ all_games_csv.rename(columns={"new-column-1inv": "above_9"}, inplace=True)all_ga
 
 ***你可能还喜欢:***
 
-[](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) [## Bamboolib:你见过的最有用的 Python 库之一
+</bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7>  </5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7> [## 5 个你不知道但应该知道的 Python 库
 
-### 下面是我对这个很酷的 Python 库的看法，以及为什么你应该尝试一下
-
-towardsdatascience.com](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) [](/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7) [## 5 个你不知道但应该知道的 Python 库
-
-towardsdatascience.com](/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7) [](/3-awesome-python-libraries-that-you-should-know-about-e2485e6e1cbe) [## 你应该知道的 3 个很棒的 Python 库
-
-### 发现三个很酷的库，以及为什么你应该马上尝试它们
-
-towardsdatascience.com](/3-awesome-python-libraries-that-you-should-know-about-e2485e6e1cbe)
+towardsdatascience.com](/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7) </3-awesome-python-libraries-that-you-should-know-about-e2485e6e1cbe> 

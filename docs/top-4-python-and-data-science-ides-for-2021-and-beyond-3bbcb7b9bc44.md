@@ -88,11 +88,7 @@ PyCharm 给你更专业的体验。这不容易描述，但是使用几分钟后
 
 你可以在这里阅读我的完整概述:
 
-[](/tired-of-jupyterlab-try-dataspell-a-new-amazing-ide-for-data-science-fb7cbc1280d4) [## 厌倦了 JupyterLab？试试 DataSpell——一个全新的数据科学集成开发环境
-
-### 编辑描述
-
-towardsdatascience.com](/tired-of-jupyterlab-try-dataspell-a-new-amazing-ide-for-data-science-fb7cbc1280d4) 
+</tired-of-jupyterlab-try-dataspell-a-new-amazing-ide-for-data-science-fb7cbc1280d4>  
 
 笔记本电脑的体验非常棒，但是它比 PyCharm 更有优势。它可能不会提供免费版本。你现在可以在预览模式下使用它，但是谁知道一旦正式发布会发生什么。
 
@@ -104,11 +100,7 @@ towardsdatascience.com](/tired-of-jupyterlab-try-dataspell-a-new-amazing-ide-for
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 阅读达里奥·拉德契奇(以及媒体上数以千计的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

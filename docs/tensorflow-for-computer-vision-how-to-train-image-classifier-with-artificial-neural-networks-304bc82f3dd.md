@@ -28,11 +28,7 @@
 
 唯一的问题是——它的结构不适合开箱即用的深度学习。您可以按照我以前的文章创建一个合适的目录结构，并将其分为训练集、测试集和验证集:
 
-[](/tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42) [## 用于图像分类的 TensorFlow 深度学习项目的三大先决条件
-
-### 编辑描述
-
-towardsdatascience.com](/tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42) 
+</tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42>  
 
 # 缩小、灰度化和平面化图像
 
@@ -171,11 +167,7 @@ towardsdatascience.com](/tensorflow-for-image-classification-top-3-prerequisites
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

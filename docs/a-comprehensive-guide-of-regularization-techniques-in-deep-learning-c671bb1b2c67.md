@@ -101,15 +101,7 @@ Dropout 的想法是在每个图形的处理过程中移除**输入**和**隐藏
 
 **更多相关文章:**
 
-[](https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d) [## 机器学习模型的 k 重交叉验证
-
-### 使用 sklearn 的交叉验证技术概述
-
-pub.towardsai.net](https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d) [](https://pub.towardsai.net/understanding-optimization-algorithms-309d8065599d) [## 用简单的语言解释优化算法的基础
-
-### 理解如何最小化机器学习算法中的成本函数的指南
-
-pub.towardsai.net](https://pub.towardsai.net/understanding-optimization-algorithms-309d8065599d) 
+<https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d>  <https://pub.towardsai.net/understanding-optimization-algorithms-309d8065599d>  
 
 ## **参考文献:**
 

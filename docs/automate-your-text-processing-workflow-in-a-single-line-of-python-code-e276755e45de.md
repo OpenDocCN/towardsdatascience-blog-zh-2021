@@ -123,11 +123,7 @@ CleanText library 只涵盖了一些文本清理参数，还有改进的空间�
 
 > 阅读下面提到的文章来了解 AutoNLP——一个自动化的 NLP 库。
 
-[](https://medium.com/swlh/autonlp-sentiment-analysis-in-5-lines-of-python-code-7b2cd2c1e8ab) [## AutoNLP:用 5 行 Python 代码进行情感分析
-
-### AutoNLP —自然语言处理的自动化
-
-medium.com](https://medium.com/swlh/autonlp-sentiment-analysis-in-5-lines-of-python-code-7b2cd2c1e8ab) 
+<https://medium.com/swlh/autonlp-sentiment-analysis-in-5-lines-of-python-code-7b2cd2c1e8ab>  
 
 # 参考资料:
 

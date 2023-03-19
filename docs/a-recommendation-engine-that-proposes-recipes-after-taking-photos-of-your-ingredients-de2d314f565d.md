@@ -121,11 +121,7 @@ docker run -e token=Your_token tylerdurden1291/telegram-bot-recipes:mainimage
 
 由于我正在使用深度学习模型，我需要 GPU 资源，感谢*谷歌*，我们可以通过 Colab 笔记本轻松访问。因此，我分享了我用来训练 Keras 上的预训练模型的 [Resnet](/understanding-and-visualizing-resnets-442284831be8) 模型的笔记本。
 
-[](https://drive.google.com/file/d/1A4g5NcBPVu6wpIUgKa4ZuqNoZiO01Q5q/view?usp=sharing) [## Image _ classification _ 杂货. ipynb
-
-### 合作笔记本
-
-drive.google.com](https://drive.google.com/file/d/1A4g5NcBPVu6wpIUgKa4ZuqNoZiO01Q5q/view?usp=sharing) 
+<https://drive.google.com/file/d/1A4g5NcBPVu6wpIUgKa4ZuqNoZiO01Q5q/view?usp=sharing>  
 
 当模型完全训练好时，这里是在应用程序中对单个图像进行预测的代码。
 

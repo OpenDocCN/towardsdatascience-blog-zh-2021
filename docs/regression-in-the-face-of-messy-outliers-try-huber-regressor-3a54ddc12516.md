@@ -36,11 +36,7 @@
 
 *在统计学中，Huber 损失是一种特殊的损失函数(由瑞士数学家 Peter Jost Huber 于 1964 年首次引入),广泛用于稳健回归问题——存在异常值的情况会降低基于误差的最小平方损失的性能和准确性。*
 
-*[](/where-did-the-least-square-come-from-3f1abc7f7caf) [## 最小二乘法从何而来？
-
-### 在机器学习面试中，如果被问及最小二乘损失的数学基础，你会怎么回答…
-
-towardsdatascience.com](/where-did-the-least-square-come-from-3f1abc7f7caf) 
+*</where-did-the-least-square-come-from-3f1abc7f7caf>  
 
 ## 技术细节
 
@@ -135,8 +131,4 @@ plt.show()
 
 *喜欢这篇文章吗？成为 [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而不会对您产生额外费用*** *。**
 
-*[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)*
+*<https://medium.com/@tirthajyoti/membership> *

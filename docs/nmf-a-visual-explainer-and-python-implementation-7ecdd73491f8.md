@@ -353,19 +353,11 @@ doc_topic = nmf_model.fit_transform(data_dtm_noun)display_topics(nmf_model, tv_n
 
 ***在 TF-IDF 上***
 
-*[](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) [## TF-IDF:总统就职演说的可视化解释器和 Python 实现
-
-### 曾经被要求向非技术观众解释 TF-IDF 吗？这是 TF-IDF(术语频率-反…
-
-towardsdatascience.com](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) 
+*</tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550>  
 
 **关于从 NMF 生成话题创建推荐系统**
 
-[](/building-a-content-based-childrens-book-recommender-for-parents-680e20013e90) [## 为家长构建基于内容的儿童图书推荐系统
-
-### 睡前故事崩溃的解决方案
-
-towardsdatascience.com](/building-a-content-based-childrens-book-recommender-for-parents-680e20013e90) 
+</building-a-content-based-childrens-book-recommender-for-parents-680e20013e90>  
 
 **NMF 与其他主题建模方法**
 

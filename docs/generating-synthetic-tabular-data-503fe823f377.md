@@ -77,11 +77,7 @@ GAN 由两种型号组成:
 
 加入我的 [**项目 Alesia**](https://projectalesia.com/) 了解更多关于机器学习、MLOps、数据隐私、数字福利等更多内容！
 
-[](https://projectalesia.com/) [## 阿莱西亚项目
-
-### 互联网上致力于数据隐私、机器学习和数字主权问题的空间。
-
-projectalesia.com](https://projectalesia.com/) 
+<https://projectalesia.com/>  
 
 # 参考:
 

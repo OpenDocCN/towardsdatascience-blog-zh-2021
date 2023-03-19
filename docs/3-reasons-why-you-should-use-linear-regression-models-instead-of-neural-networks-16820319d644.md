@@ -71,11 +71,7 @@
 
 特别是，我将留给您两个很好的资源，您可以使用它们开始工作:
 
-[](https://online.stat.psu.edu/stat501/) [## 欢迎来到 STAT 501！统计 501
-
-### 我们希望你喜欢这门课程，并有一个愉快的学期。这是 STAT 501 在线课程材料网站…
-
-online.stat.psu.edu](https://online.stat.psu.edu/stat501/) 
+<https://online.stat.psu.edu/stat501/>  
 
 # 感谢阅读！
 
@@ -85,19 +81,11 @@ online.stat.psu.edu](https://online.stat.psu.edu/stat501/)
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-comprehensive-statistics-and-probability-cheat-sheet-for-data-science-interviews-547b201345b9) [## 数据科学面试综合统计和概率备忘单
-
-### 统计和概率的重要术语和方程
-
-towardsdatascience.com](/a-comprehensive-statistics-and-probability-cheat-sheet-for-data-science-interviews-547b201345b9) 
+</a-comprehensive-statistics-and-probability-cheat-sheet-for-data-science-interviews-547b201345b9>  
 
 **又一个！**
 
-[](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) [## 想成为数据科学家？不要从机器学习开始。
-
-### 有抱负的数据科学家最大的误解是
-
-towardsdatascience.com](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) 
+</want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f>  
 
 ## 特伦斯·申
 

@@ -18,11 +18,7 @@
 
 其数学基础被称为傅立叶变换。简而言之，如果您的信号有周期成分，FT 是用于从信号中提取其频率(或周期)的数学过程。
 
-[](https://en.wikipedia.org/wiki/Fourier_transform) [## 傅立叶变换-维基百科
-
-### 在数学中，傅立叶变换(FT)是一种数学变换，它根据空间或时间分解函数
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Fourier_transform) 
+<https://en.wikipedia.org/wiki/Fourier_transform>  
 
 对信号中的时间间隔(一个窗口或一段时间)应用一次 FT，可以得到该窗口内的周期分量。如果您将窗口移动到信号中的不同位置，并再次应用 FT，您将获得该窗口中的周期分量。重复这个过程很多次，每次只移动窗口一点点，就会描绘出周期成分如何随时间演化的画面(如果有的话)。
 
@@ -32,11 +28,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Fourier_transform)
 
 这是我不久前开始的一个项目，目标是构建任何音频文件的声谱图(周期成分随时间的演变):
 
-[](https://github.com/FlorinAndrei/soundspec) [## 信号处理:音频文件的频谱可视化；使用…
-
-### 音频文件的频谱可视化；使用傅立叶变换需要 Python 3 和一些典型的数字运算…
-
-github.com](https://github.com/FlorinAndrei/soundspec) 
+<https://github.com/FlorinAndrei/soundspec>  
 
 如果你从电影[《黑暗骑士](https://www.imdb.com/title/tt0468569/)中选取歌曲 [Why So Serious](https://www.youtube.com/watch?v=1zyhQjJ5UgY) (小丑主题)，并对其应用 soundspec，这就是你得到的声谱图:
 

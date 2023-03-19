@@ -180,20 +180,8 @@ Keras Tuner 是一个简单的、可分发的超参数优化框架，它自动�
 
 # 额外资源
 
-[](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html) [## 使用 Keras 调谐器进行超参数调谐
-
-### 2020 年 1 月 29 日-由汤姆·欧玛利发布机器学习项目的成功通常关键取决于…
-
-blog.tensorflow.org](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html) [](https://keras.io/guides/keras_tuner/) [## Keras 文档:超参数调整
-
-### Keras 文档
-
-:超参数调整 Keras 文档 keras.io](https://keras.io/guides/keras_tuner/) 
+<https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html>  <https://keras.io/guides/keras_tuner/>  
 
 ## 研究论文
 
-[](https://jmlr.org/papers/v18/16-558.html) [## 超带:基于 Bandit 的超参数优化新方法
-
-### 李丽莎、凯文·贾米森、朱利亚·德萨沃、阿夫申·罗斯塔米扎德、阿米特·塔尔沃卡尔；18(185):1−52, 2018.…的性能
-
-jmlr.org](https://jmlr.org/papers/v18/16-558.html)
+<https://jmlr.org/papers/v18/16-558.html> 

@@ -48,20 +48,8 @@ Aditya Chinchure 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 所以在合成中，人工智能既可以是艺术的天才创造者，也可以仅仅是艺术家使用的工具。当然，这引发了很多问题，比如人工智能艺术的功劳归谁？是程序的问题吗？但是它没有法人实体！程序员呢？程序员创造了算法，它可以指导人工智能获取新知识。但是就像师傅带徒弟一样，它并不能决定学习什么！当然，这场辩论没有结论，并将在未来几年继续激烈进行。但我们应该以开放的观点来看待它，拥抱技术，并接受我们可以通过将人工智能与艺术相结合来达到新的不可想象的高度。
 
-*如果您喜欢这篇文章，并想联系我，请联系我🐦*[](https://twitter.com/alexieidingli)**，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*insta gram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。**
+*如果您喜欢这篇文章，并想联系我，请联系我🐦*<https://twitter.com/alexieidingli>**，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*insta gram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。**
 
-*[](/a-new-culture-time-f555fcd351aa) [## 新文化时代
-
-### 如何在网上坚持下去
-
-towardsdatascience.com](/a-new-culture-time-f555fcd351aa) [](/fake-new-world-876a633e86c9) [## 假新世界
-
-### 几十年前，在万维网(WWW)出现之前，聊天室是一种流行的消遣方式。当年…
-
-towardsdatascience.com](/fake-new-world-876a633e86c9) [](/printing-my-takeout-7abfc28ce415) [## 打印我的外卖
-
-### 这是一个周六的晚上，当你在看你最喜欢的电影时，电视上突然出现了一则美味披萨的广告。外壳是…
-
-towardsdatascience.com](/printing-my-takeout-7abfc28ce415) 
+*</a-new-culture-time-f555fcd351aa>  </fake-new-world-876a633e86c9>  </printing-my-takeout-7abfc28ce415>  
 
 [**阿列克谢·丁力教授**](http://www.dingli.org/) 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他已经出版了几本同行评审的出版物，并成为马耳他[的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。](https://malta.ai/)*

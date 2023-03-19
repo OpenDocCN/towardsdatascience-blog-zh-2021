@@ -37,11 +37,7 @@
 
 要深入理解它，你必须有频率分布的先验知识。要知道什么是频数分布，如何制定频数分布表。可以看我们之前的文章基于频率分布。
 
-[](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) [## 为了提高数据分析能力，你必须知道频率分布
-
-### 在 7 分钟内找到频率分布的所有基础知识
-
-towardsdatascience.com](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) 
+</to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4>  
 
 在我们以前的文章中，我们可能会看到如何从原始数据创建一个频率分布表。当我们试图从数据中寻找模式时，我们可能会面临另一个问题。你猜怎么分析频率表从数据集中找到模式？如果您想从频率表中找到一个模式，您必须查找每个唯一值或类间隔的频率。仅仅通过查找每个唯一值的频率，就能发现什么规律吗？不，你必须同时比较每个值的频率。对于一些独特的值或类间隔，或者当频率值较少且*更容易比较*时，这将是容易的。但是，如果我们试图比较大量唯一值的频率，我们会感到困惑。我们可以通过可视化数据来解决这个问题。图表使扫描和比较频率变得容易得多，提供了整个变量分布的单一图像。因为它们容易掌握，也引人注目。有时，您必须在非技术人员面前展示数据。如果我们需要向非技术观众展示我们的发现，图表是更好的表达方式。在本文中，我们将讨论三种表示分布表的图形:
 
@@ -292,7 +288,7 @@ wnba[‘PTS’].plot.hist(grid = True, xticks = arange(2,585,58.2), rot = 30)
 4.  [*通过可视化频率分布找到数据集的模式(Stat-04)*](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2?source=your_stories_page-------------------------------------)
 5.  [*比较多个频率分布，从数据集中提取有价值的信息(Stat-05)*](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b?source=your_stories_page-------------------------------------)
 6.  [*通过简短的讨论消除你对均值的误解(Stat-06)*](https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08?source=your_stories_page-------------------------------------)
-7.  [](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f?source=your_stories_page-------------------------------------)
+7.  <https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f?source=your_stories_page------------------------------------->
 8.  *[*数据科学基础概率概念(Stat-08)*](/basic-probability-concepts-for-data-science-eb8e08c9ad92?source=your_stories_page-------------------------------------)*
 9.  *[*从朴素贝叶斯定理到朴素贝叶斯分类器的路线图(Stat-09)*](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a?source=your_stories_page-------------------------------------)*
 10.  *[*数据科学爱好者需要了解的假设检验(Stat-10)*](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028?source=your_stories_page-------------------------------------)*

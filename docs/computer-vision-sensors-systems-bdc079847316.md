@@ -139,11 +139,7 @@ Canny 边缘检测后得到的图像。由作者处理的图像。由 [Flinchcr]
 
 完整的实现包括我的 Colab 笔记本车道检测 OpenCV 的进一步改进和优化。
 
-[](https://colab.research.google.com/drive/1sX5J1FDec9AUqxELuXfhBq6WLZ-FFssY?usp=sharing) [## 车道检测 OpenCV
-
-### 谷歌协作笔记本
-
-colab.research.google.com](https://colab.research.google.com/drive/1sX5J1FDec9AUqxELuXfhBq6WLZ-FFssY?usp=sharing) 
+<https://colab.research.google.com/drive/1sX5J1FDec9AUqxELuXfhBq6WLZ-FFssY?usp=sharing>  
 
 这种方法可能看起来会产生很好的结果，但是这种实现远不是最佳的，因为:
 
@@ -163,26 +159,14 @@ colab.research.google.com](https://colab.research.google.com/drive/1sX5J1FDec9AU
 
 完整的实现包括 Git 存储库的克隆、依赖项的安装和推理代码都可以在我的 Colab 笔记本车道检测 SCNN 中找到。
 
-[](https://colab.research.google.com/drive/1uBv9KQilCvEuAmTvpzQfhSNjN8gJHfY5#scrollTo=h8YWDFqFK6cH) [## 车道检测 SCNN
-
-### 谷歌协作笔记本
-
-colab.research.google.com](https://colab.research.google.com/drive/1uBv9KQilCvEuAmTvpzQfhSNjN8gJHfY5#scrollTo=h8YWDFqFK6cH) 
+<https://colab.research.google.com/drive/1uBv9KQilCvEuAmTvpzQfhSNjN8gJHfY5#scrollTo=h8YWDFqFK6cH>  
 
 # 承认
 
 本文第一部分站在一个巨人的肩膀上， [Shree K. Nayar](https://en.wikipedia.org/wiki/Shree_K._Nayar) 。这是计算机视觉基本原理课程第一课的总结。我计划发布更多的文章来传达我对这门课程的理解。我怀着深深的感激之情，感谢 Nayar 为让这样一个高质量的课程变得免费和容易获得所做的努力。
 
-[](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/about) [## 计算机视觉的基本原理
-
-### 计算机视觉的基本原理是由 Shree Nayar 提出的系列讲座，他是计算机科学…
-
-www.youtube.com](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/about) 
+<https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/about>  
 
 第二部分从[获取完整的自动驾驶汽车路线](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/)以实现基于 OpenCV 的车道检测。这部分还依赖于 [Pytorch 自动驾驶](https://github.com/voldemortX/pytorch-auto-drive)项目运行视频推理进行车道检测。
 
-[](https://github.com/XingangPan/SCNN) [## GitHub -新港畔/SCNN:用于车道检测的空间 CNN(aaai 2018)
-
-### 潘新刚，，罗平，，唐晓鸥。“深度的空间:交通场景的空间 CNN
-
-github.com](https://github.com/XingangPan/SCNN)
+<https://github.com/XingangPan/SCNN> 

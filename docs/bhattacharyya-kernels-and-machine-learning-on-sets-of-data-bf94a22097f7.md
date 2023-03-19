@@ -10,15 +10,7 @@
 
 当一个特征不是被定义为单个数字，而是一组对象时，集合上的机器学习问题就出现了。一个很好的例子是，当您试图根据订单历史推断客户的一些情况时。我在过去的这些文章中介绍了 set 上的深度学习方法:
 
-[](/graph-neural-network-and-permutation-invariance-979754a08178) [## 图形神经网络与置换不变性
-
-### 用不变性理论学习图形和关系数据
-
-towardsdatascience.com](/graph-neural-network-and-permutation-invariance-979754a08178) [](/set-attention-models-for-time-series-classification-c09360a60349) [## 用于时间序列分类的集合注意模型
-
-### 真实世界时间序列数据的深度学习算法
-
-towardsdatascience.com](/set-attention-models-for-time-series-classification-c09360a60349) 
+</graph-neural-network-and-permutation-invariance-979754a08178>  </set-attention-models-for-time-series-classification-c09360a60349>  
 
 但是在本文中，我将回顾如何使用内核方法来学习集合。
 

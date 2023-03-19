@@ -30,11 +30,7 @@ Jr Korpa 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referr
 
 我知道这很难完全理解，所以让我把它分解成更简单的术语——把*经验*想象成数据，把*任务*想象成用这些数据预测某事，把*绩效评估*想象成预测实际上是否正确的答案。现在，如果你想对机器学习有一个大致的了解，看看这个帖子-
 
-[](https://thedatascienceportal.com/posts/so-what-is-machine-learning) [## 那么什么是机器学习呢？
-
-### 你可以很容易地找到许多机器学习的流行用例。我敢肯定，当你需要购买新的…
-
-thedatascienceportal.com](https://thedatascienceportal.com/posts/so-what-is-machine-learning) 
+<https://thedatascienceportal.com/posts/so-what-is-machine-learning>  
 
 现在我们已经了解了什么是机器学习，让我们看看它是如何应用于解决有趣的商业问题的。
 
@@ -225,11 +221,7 @@ Firmbee.com 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 如果你想了解更多关于数据预处理的知识，这里有一篇全面而简单的文章。了解数据预处理技术，以及处理缺失数据、错误数据、特征编码、降维等问题的方法..
 
-[](https://thedatascienceportal.com/posts/data-preprocessing) [## 数据预处理:概念
-
-### 本文的目的是介绍数据预处理中使用的概念，数据预处理是机器…
-
-thedatascienceportal.com](https://thedatascienceportal.com/posts/data-preprocessing) 
+<https://thedatascienceportal.com/posts/data-preprocessing>  
 
 # 型号选择
 
@@ -309,8 +301,4 @@ thedatascienceportal.com](https://thedatascienceportal.com/posts/data-preprocess
 
 *原载于 2021 年 3 月 29 日 https://thedatascienceportal.com**[*。请访问数据科学门户网站，了解更多此类内容！*](https://thedatascienceportal.com/posts/machine-learning-process/)*
 
-*[](https://thedatascienceportal.com) [## 主页-数据科学门户
-
-### 我肯定你上过网飞、脸书和 YouTube。你看到你喜欢的东西，你和它互动-你喜欢一个…
-
-thedatascienceportal.com](https://thedatascienceportal.com)*
+*<https://thedatascienceportal.com> *

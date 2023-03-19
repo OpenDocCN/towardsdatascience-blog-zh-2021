@@ -16,7 +16,7 @@
 *   [**提高你的讲故事和表达能力**](/the-key-to-success-in-industry-learn-to-communicate-results-effectively-2e68d83b2c74) **。**我们最近与 [Vicky Yu](https://medium.com/u/cd08464b29cc?source=post_page-----eab65bc314e0--------------------------------) 的谈话涵盖了许多领域，包括 Vicky 对数据分析师角色演变的看法。然而，一个关键的要点是，不管一个人的工作描述是什么，“如果你不以他们能理解的方式解释，利益相关者就不会欣赏你的贡献。”
 *   [**探索数据与生物学交汇的新前沿**](/graph-convolutional-neural-networks-to-analyze-complex-carbohydrates-91f6bae297de) **。Daniel Bojar 的最新工作集中在聚糖上，聚糖是一种复杂的碳水化合物，在病毒感染或肿瘤免疫逃避等过程中起着关键作用。在这里，他转向图形卷积神经网络(GCNs)来建立分析这些化合物的新技术。**
 *   [**了解数据团队如何开发新方法来满足业务需求**](/identifying-document-types-at-scribd-116311993c8e) **。**在工业领域工作需要快速、创造性的解决复杂问题的方法。[来自](https://medium.com/u/4d0d3b9bbc14?source=post_page-----eab65bc314e0--------------------------------) [Scribd](https://medium.com/u/24e2f22359fa?source=post_page-----eab65bc314e0--------------------------------) 应用研究团队的 Jonathan Ramkissoon 向我们展示了他利用语义理解和用户行为对用户上传到平台的文档类型进行分类的过程。
-*   [](/35-software-development-laws-everyone-loves-to-ignore-5ebba515852d)****打破某些规则(或制定新规则)。创造力往往在于掌握规则和以深思熟虑的、有意的方式变通规则之间的平衡。Semi Koen 收集了不少于 35 条适用于数据科学的软件开发传统智慧。许多是半开玩笑的，但所有这些都促使我们反思我们如何开展工作。****
+*   </35-software-development-laws-everyone-loves-to-ignore-5ebba515852d>****打破某些规则(或制定新规则)。创造力往往在于掌握规则和以深思熟虑的、有意的方式变通规则之间的平衡。Semi Koen 收集了不少于 35 条适用于数据科学的软件开发传统智慧。许多是半开玩笑的，但所有这些都促使我们反思我们如何开展工作。****
 
 **创造力对你意味着什么？你认为这是一个数据科学家的重要素质吗？[考虑与 TDS 社区分享您的想法](/questions-96667b06af5)。**
 

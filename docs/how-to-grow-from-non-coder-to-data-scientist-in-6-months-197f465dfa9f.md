@@ -61,11 +61,7 @@
 
 汗学院的[统计和概率课程](https://www.khanacademy.org/math/statistics-probability)将涵盖数据科学家所需的所有关键统计主题。如果你觉得这门课太难了，或者你渴望用足够的统计数据开始学习数据科学，那么看看下面的文章。
 
-[](/basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55) [## 每个数据科学家都必须知道的基本统计概念
-
-### 从 python 实现的实际角度来看
-
-towardsdatascience.com](/basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55) 
+</basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55>  
 
 它涵盖了数据科学家必备的基本统计学概念。如果你更倾向于教程视频，那么检查这个[播放列表](https://www.youtube.com/watch?v=AGilnXKhFtE&list=PLH5lMW7dI2qfbseLLwda1lbbvLShnuMp2)。
 
@@ -83,11 +79,7 @@ towardsdatascience.com](/basic-statistical-concepts-every-data-scientist-must-kn
 
 要了解更多关于从零开始构建一些惊人的可视化，请查看下面的文章。
 
-[](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a) [## 如何从头开始使用 python 进行可视化
-
-### 使用 Matplotlib 和 Seaborn 库的分步指南
-
-towardsdatascience.com](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a) 
+</how-to-do-visualization-using-python-from-scratch-651304b5ee7a>  
 
 ## 学习执行数据分析
 
@@ -95,27 +87,15 @@ Coursera 里有很多数据科学相关的课程。选择一个最适合你的�
 
 如果你是一个初学者，还没有进行过任何数据分析，那么就从 Coursera 的这个 2 小时的课程开始吧。
 
-[](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) [## 使用 Python 和 Pandas 进行探索性数据分析
-
-### 在与您的工作区域分屏播放的视频中，您的讲师将指导您完成以下步骤:初始…
-
-www.coursera.org](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) 
+<https://www.coursera.org/projects/exploratory-data-analysis-python-pandas>  
 
 如果你对数据分析有一个基本的概念，或者你已经完成了上面的课程，那么你可以报名参加下面的课程。本课程有一些令人惊讶的反馈，许多人承认通过本课程获得了实实在在的好处。
 
-[](https://www.coursera.org/learn/data-analysis-with-python) [## 使用 Python 进行数据分析
-
-### 了解如何使用 Python 分析数据。本课程将带您从 Python 的基础开始，探索许多不同的…
-
-www.coursera.org](https://www.coursera.org/learn/data-analysis-with-python) 
+<https://www.coursera.org/learn/data-analysis-with-python>  
 
 如果你渴望了解更多，那么你可以通过下面的课程向 kaggle 学习特征工程。
 
- [## 学习特征工程教程
-
-### 更好的特性造就更好的模型。了解如何充分利用您的数据。
-
-www.kaggle.com](https://www.kaggle.com/learn/feature-engineering) 
+  
 
 # 建立坚实的基础
 
@@ -127,27 +107,15 @@ www.kaggle.com](https://www.kaggle.com/learn/feature-engineering)
 
 *   **选项 1 —密歇根大学用 Python** *开发的应用数据科学:如果你对本文迄今为止涉及的主题有信心，下面的课程更适合。它不关注基本的统计或数据分析。它将带您快速了解机器学习用例、文本挖掘和网络分析*
 
-[](https://www.coursera.org/specializations/data-science-python) [## 使用 Python 的应用数据科学
-
-### 获得对数据的新见解。学习应用数据科学方法和技术，并获得分析技能…
-
-www.coursera.org](https://www.coursera.org/specializations/data-science-python) 
+<https://www.coursera.org/specializations/data-science-python>  
 
 *   **选项 2——约翰·霍普金斯大学的数据科学专业***:这个课程是基于 R 的，如果你正在用 R 学习数据科学，那么这个会更适合。这是一门完整的数据科学课程，涵盖了数据探索、可视化、统计和模型构建等主题。*
 
-*[](https://www.coursera.org/specializations/jhu-data-science) [## 数据科学
-
-### 约翰·霍普金斯大学的使命是教育学生，培养他们终身学习的能力
-
-www.coursera.org](https://www.coursera.org/specializations/jhu-data-science) 
+*<https://www.coursera.org/specializations/jhu-data-science>  
 
 *   **选项 3 — IBM 数据科学**:这是一门完整的数据科学课程，类似于上面的约翰霍普金斯。这门课是用 Python 讲授的，这使得它更有吸引力。这门课程提供了更好的职业机会。大约 20%完成这门课程的人获得了工作机会。本课程涵盖了数据科学项目的整个流程。它还涵盖了数据科学家常用的工具、技术和库。
 
-[](https://www.coursera.org/professional-certificates/ibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-science) 
+<https://www.coursera.org/professional-certificates/ibm-data-science>  
 
 # 设定目标并庆祝你的胜利
 
@@ -172,19 +140,11 @@ www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-sc
 *   **识别公司:**发挥你的优势会让你更有优势。找出与你的教育或专业背景更相符的公司。你也可以申请许多通才数据科学职位。
 *   **建立投资组合:**组织招聘新人的时间和资源都是有限的。作品集有助于展示你的能力。这通常会增加你进入面试入围名单的机会。如果你有兴趣免费建立一个作品集网站，请查看我下面的文章。
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) [## 如何免费创建一个令人惊叹的个人投资组合网站
-
-### 帮助你创建一个简单的指南。不需要专业知识！
-
-towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) 
+</how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd>  
 
 *   **打造一份好的简历:**你的简历代表了你和你的技能。它需要准确地代表你的经验和知识。有一些技巧可以让你用有影响力的陈述写出更好的简历。如果你有兴趣的话，请点击这里查看这篇文章，学习一些技巧和工具来打造一份令人印象深刻的简历。
 
-[](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) [## 如何打造令人印象深刻的数据科学简历？
-
-### 制作一份引人注目的有影响力的简历的建议
-
-towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) 
+</how-to-build-an-impressive-data-science-resume-7a9c71f761c5>  
 
 *   **面试前:**对你申请的职位和公司做些调查。可以与现有员工接触，以更好地了解工作、文化等。
 *   **面试时:**要自信，同时要诚实面对自己的优点和缺点。雇主更喜欢正直、数据科学知识水平较低的候选人，而不是数据科学知识水平很高但不诚实或不透明的人。
@@ -193,11 +153,7 @@ towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f7
 
 下面的故事解释了作者从神经科学到数据科学的旅程。经过 8 年的神经科学研究和工作，作者找到了进入数据科学的方法。
 
-[](/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3) [## 我如何在 6 个月内从零编码技能成为数据科学家
-
-### 我用来自学数据科学的 4 个工具没有花一美元
-
-towardsdatascience.com](/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3) 
+</how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3>  
 
 下面是我从销售职业进入数据科学的个人旅程。我对 R 和 Python 一无所知。我没有受过数据科学或统计学方面的正规教育。事实上，我不擅长编程，但现在我已经写了 2 本数据科学方面的书，并成功地执行了一些交钥匙数据科学项目。
 

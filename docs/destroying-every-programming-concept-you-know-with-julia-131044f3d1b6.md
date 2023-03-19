@@ -30,11 +30,7 @@ Lisp 编程语言引入了函数式编程范式，随后是另一种众所周知
 
 既然我们已经了解了范例，现在让我们用一些非常有趣(并且令人困惑)的代码来摧毁我们刚刚了解的一切。这个项目的代码是一个名为 OddFrames.jl 的包。这是一个面向对象的基于索引的 Julia 数据帧模块，旨在使处理数据更容易，更像 Python 的 API。如果你想了解更多关于这个项目的信息，你可以查看这里链接的 Github 页面:
 
-[](https://github.com/ChifiSource/OddFrames.jl) [## GitHub-chifi source/odd frames . JL:面向对象的、基于 dict 的 DataFrames 包！
-
-### jl 是 Julia 的一种新的数据管理和操作包。然而，许多类似的软件包…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl) 
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 这个项目还很年轻，这也是为什么很多方法仍然存在问题的原因。现在，请允许我揭示这个包的面向对象特性是如何工作的，这是接下来的怪异之处的先决条件。它从外部构造函数开始调用:
 
@@ -56,7 +52,7 @@ OddFrame.head()
 
 内部构造函数相对较短，因为它练习提取，所以我当然可以分享整个函数——并逐一运行每一行，这样我们就可以了解这个函数真正是如何工作的。我有一篇文章是关于为什么抽取实际上是一个很好的编程实践，如果你有兴趣了解更多的话，你可以看看这篇文章，但是我认为下面的演示肯定会准确地演示为什么这是编程时的一个很好的实践。不管怎样，这篇文章是这样的:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -78,11 +74,7 @@ length_check(columns)name_check(labels)
 
 接下来，我们必须获得每条数据的类型，这实际上非常重要——我想我在早期低估了跟踪数据类型的重要性。实际上，你会惊讶于仅从字符串中找出这一点有多难，例如在 CSV 读取的场景中，我实际上写了另一篇关于这一点的文章，因为我用于编写它的代码非常令人沮丧，你可以在这里阅读它——解决方案当然很有趣:
 
-[](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) [## 我在 Julia 中创建 CSV 阅读器时经历的痛苦
-
-### 想知道 CSV 文件是如何解析的吗？这是字符串处理的好方法！
-
-towardsdatascience.com](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c) 
+</the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c>  
 
 ```
 types = [typeof(x[1]) for x in columns]

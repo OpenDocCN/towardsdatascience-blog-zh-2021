@@ -24,11 +24,7 @@
 
 其次，如果您使用数据库运行查询来进行分析和报告，那么您应该将查询推送到 Git。这主要是问题发生的地方。能够访问数据库的业务、营销、运营、分析团队通常不太了解 Git。他们将查询存储在基于浏览器的查询编辑器、文本编辑器或 SQL 客户端中。通常，这些东西都不直接与 Git 回购相关。人们可以将 Oracle SQL Developer 等 SQL 客户端和 VSCode 等代码编辑器直接与数据库引擎连接，以确保顺利开发和将代码推入 Git。尽管如此，这通常是产生摩擦的原因。
 
-[](/git-best-practices-for-sql-5366ab4abb50) [## SQL 的 Git 最佳实践
-
-### 使用 GitHub、GitLab、BitBucket 等来存储和组织 SQL 查询，以实现发现和重用
-
-towardsdatascience.com](/git-best-practices-for-sql-5366ab4abb50) 
+</git-best-practices-for-sql-5366ab4abb50>  
 
 ## 工作流/编排者
 
@@ -76,11 +72,7 @@ towardsdatascience.com](/git-best-practices-for-sql-5366ab4abb50)
 
 我之前写过关于菜鸟 Git 的错误。不遵循分支策略就是其中一个错误。当你在一个团队中工作时，你需要确定一个将代码拉入、开发、合并和推进到你的存储库中的过程。这就是代码升级如何从较低的环境到较高的环境发生(读取开发→测试，测试→生产前，生产前→生产，等等)。).
 
-[](/rookie-git-mistakes-to-avoid-45919c0058f8) [## 要避免的菜鸟饭桶错误
-
-### 使用 Git 时，做一些简单的事情来避免沮丧和浪费时间
-
-towardsdatascience.com](/rookie-git-mistakes-to-avoid-45919c0058f8) 
+</rookie-git-mistakes-to-avoid-45919c0058f8>  
 
 有效地使用 Git 是一项技能，您需要在前进的过程中不断努力。从最普通的拉取、推送提交和合并，您还应该了解精选、过滤分支、恢复等等。
 

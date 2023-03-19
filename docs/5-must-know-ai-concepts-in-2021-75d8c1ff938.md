@@ -118,10 +118,6 @@ GPT-3 最有力的特点之一是它能够用相同的砝码处理不同的任�
 
 # 推荐阅读
 
-[](/5-deep-learning-trends-leading-artificial-intelligence-to-the-next-stage-11f2ef60f97e) [## 引领人工智能进入下一阶段的 5 个深度学习趋势
-
-### 深度学习主导了人工智能，但它需要更新以保持其霸权，并推动该领域向前发展。
-
-towardsdatascience.com](/5-deep-learning-trends-leading-artificial-intelligence-to-the-next-stage-11f2ef60f97e) [](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</5-deep-learning-trends-leading-artificial-intelligence-to-the-next-stage-11f2ef60f97e>  </gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd)

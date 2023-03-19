@@ -229,16 +229,4 @@ plt.show()
 
 **你会发现这些文章也很有趣:**
 
-[](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [## 用 Python 创建瀑布图
-
-### 做这件事最简单的方法
-
-medium.com](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [## 在 Python 🧸中创建玩具图
-
-### 高质量的极简交互式可视化，非常适合电子出版
-
-medium.com](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [](https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21) [## Python 可以带来很多乐趣
-
-### Cowsay 和 Dinosay 库，用于在 Python 中以 ASCII 艺术形式创建“会说话”的动物
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21)
+<https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45>  <https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1>  <https://levelup.gitconnected.com/python-can-be-lots-of-fun-999552d69d21> 

@@ -16,11 +16,7 @@
 
 为了用 python 实现，我将使用 Scikit-Learn 的线性回归和 Statsmodel 的 OLS 方法来拟合房价数据。为了简单起见，这里所有的特征数据都是数字。我将使用下一篇文章中使用的相同的房价数据。
 
-[](https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388) [## 大型数据集中的特征选择
-
-### 使用 Shapash 和 Scikit-Learn 的 SelectKBest
-
-medium.com](https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388) 
+<https://medium.com/geekculture/feature-selection-in-large-datasets-fc27a7e8e388>  
 
 我将从房价的线性回归模型开始，从数据集中选择几个数字预测值。预测值为“总体质量”、“GrLivArea”、“TotalBsmtSF”、“YearBuilt”、“FullBath”、“HalfBath”、“GarageArea”，目标为“销售价格”。这些功能的相应描述如下。
 
@@ -36,11 +32,7 @@ medium.com](https://medium.com/geekculture/feature-selection-in-large-datasets-f
 
 我还有另一篇异常值检测文章，特别关注基于 IQR、汉佩尔和 DBSCAN 方法的数值异常值。
 
-[](/practical-implementation-of-outlier-detection-in-python-90680453b3ce) [## 异常检测在 python 中的实际实现
-
-### IQR、汉佩尔和 DBSCAN 法
-
-towardsdatascience.com](/practical-implementation-of-outlier-detection-in-python-90680453b3ce) 
+</practical-implementation-of-outlier-detection-in-python-90680453b3ce>  
 
 在这里，文章将具体到回归模型和使用库克距离的方法来检测异常值。
 

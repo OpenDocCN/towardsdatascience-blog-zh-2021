@@ -91,11 +91,7 @@ camera.start();
 
 您还可以在 MediaPipe 的网站上看到该代码的核心以及一些基本信息:
 
-[](https://google.github.io/mediapipe/solutions/hands#javascript-solution-api) [## 手
-
-### 感知手的形状和动作的能力是改善跨领域用户体验的重要组成部分。
-
-google.github.io](https://google.github.io/mediapipe/solutions/hands#javascript-solution-api) 
+<https://google.github.io/mediapipe/solutions/hands#javascript-solution-api>  
 
 # 在 MediaPipe 的 CodePen 示例中测试更多高级功能
 
@@ -124,19 +120,11 @@ MediaPipe 的笔，在[https://lucianabriata . alter vista . org/tests/media pip
 
 截至 2021 年 9 月 7 日，MediaPipe 不仅提供手和手指跟踪，还提供人脸检测和人脸网格计算、虹膜检测、全身姿势检测、头发分割、一般对象检测和跟踪、特征匹配和自动视频裁剪。并非所有这些工具在 JavaScript 中都可用(至少到目前为止),但它们很可能会变得可用。要了解更多关于 JavaScript 可用的 MediaPipe 工具，请查看:
 
- [## JavaScript 中的媒体管道
-
-### MediaPipe 目前提供以下解决方案:单击上面的解决方案链接以了解更多信息，包括 API…
-
-google.github.io](https://google.github.io/mediapipe/getting_started/javascript) 
+  
 
 要了解所有编程语言中所有这些工具的更多信息，请访问它们的主要网站:
 
-[](https://github.com/google/mediapipe) [## GitHub——Google/media pipe:用于直播和流媒体的跨平台、可定制的 ML 解决方案。
-
-### MediaPipe 为直播和流媒体提供跨平台、可定制的 ML 解决方案。
-
-github.com](https://github.com/google/mediapipe) 
+<https://github.com/google/mediapipe>  
 
 # 想象潜在的应用范围
 
@@ -148,6 +136,6 @@ github.com](https://github.com/google/mediapipe)
 
 作为一名科学家和业余音乐学习者，我不能忽视手跟踪工具在研究鼓手、吉他手等肢体运动和协调方面的潜力。尽管这项技术可能还不能满足正常的执行速度，但我认为它已经足够满足一些初步调查。我会玩这个，如果我发现一些有趣的东西，我会发一个新帖子让你知道。
 
-喜欢这篇文章，想给我提示？【[](https://www.paypal.me/LAbriata)**】-谢谢！**
+喜欢这篇文章，想给我提示？【<https://www.paypal.me/LAbriata>**】-谢谢！**
 
 ***我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和计算机里。我写我广泛兴趣范围内的一切。查看我的* [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [*成为媒介会员*](https://lucianosphere.medium.com/membership) *访问我和其他作家的所有故事，* [*订阅通过邮件获取我的新故事*](https://lucianosphere.medium.com/subscribe) *(平台原创附属链接)。***

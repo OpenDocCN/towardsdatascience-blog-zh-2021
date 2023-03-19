@@ -101,11 +101,7 @@ df['Embarked'].value_counts(normalize = True).**to_frame().style.format('{:.2%}'
 
 如果你想了解更多关于熊猫的展示选项，你可以查看:
 
-[](/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) [## 你应该知道的 8 个常用熊猫展示选项
-
-### 熊猫帮助你开始数据分析的提示和技巧
-
-towardsdatascience.com](/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) 
+</8-commonly-used-pandas-display-options-you-should-know-a832365efa95>  
 
 # 6.将连续数据绑定到离散区间
 
@@ -131,11 +127,7 @@ Name: Fare, dtype: int64
 
 如果你想了解更多关于宁滨的熊猫`cut()`，你可以看看:
 
-[](/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) [## 所有熊猫切()你应该知道把数值数据转换成分类数据
-
-### 数值型数据在数据分析中很常见。通常你有连续的数字数据，或非常大的规模，或…
-
-towardsdatascience.com](/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) 
+</all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f>  
 
 # 7.分组依据并执行 value_counts()
 
@@ -154,11 +146,7 @@ Name: Sex, dtype: int64
 
 如果你想了解更多关于`groupby()`的信息，可以查看:
 
-[](/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) [## 所有熊猫 groupby()你应该知道分组数据和执行操作
-
-### 熊猫帮助你开始数据分析的提示和技巧
-
-towardsdatascience.com](/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) 
+</all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5>  
 
 # 8.将结果序列转换成数据帧
 

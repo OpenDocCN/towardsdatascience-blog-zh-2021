@@ -12,11 +12,7 @@
 
 如果你是马尔可夫过程的新手，请阅读下面的文章，然后回到这里继续阅读:
 
-[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) 
+</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  
 
 # 一个隐马尔可夫模型的真实例子
 
@@ -104,7 +100,7 @@ p21 + p22 = 1*
 
 **我们说的是在任意时刻 *t* ，观察到的失业率 *y_t* 是**建模均值**μ_ cap _ t 和**残差** *ε_t* 之和。**建模均值** *μ_cap_t* 是回归模型对 *t* 时刻失业率的预测。**残差** *ε_t* 就是从观测速率中减去预测速率。我们将互换使用术语**建模含义**和**预测含义**。**
 
-**我们将进一步假设我们已经使用了一个非常好的回归模型来计算模型化的均值 *μ_cap_t.* ，因此，残差 *ε_t* 可以被假设为[](/heteroscedasticity-is-nothing-to-be-afraid-of-730dd3f7ca1f)**，即其方差不随均值变化，此外， *ε_t* 正态分布在一个零均值和一些方差σ周围。在符号形式上， *ε_t* **是一个 *N(0，σ )* 分布随机变量**。****
+**我们将进一步假设我们已经使用了一个非常好的回归模型来计算模型化的均值 *μ_cap_t.* ，因此，残差 *ε_t* 可以被假设为</heteroscedasticity-is-nothing-to-be-afraid-of-730dd3f7ca1f>**，即其方差不随均值变化，此外， *ε_t* 正态分布在一个零均值和一些方差σ周围。在符号形式上， *ε_t* **是一个 *N(0，σ )* 分布随机变量**。****
 
 ****现在让我们回到 *μ_cap_t* 。由于 *μ_cap_t* 是回归模型的预测值，所以 *μ_cap_t* 实际上是某个回归函数 *η(。)*这样说:****
 
@@ -125,7 +121,7 @@ y _ bar =(y _ 1+y2+…+y _ n)/n，* 我们得到一个 [**均值模型**](/the-c
 
 ****在上图中， ***X*** 中第一列 1 作为回归 *β_cap_0* 拟合截距的占位符。“cap”符号表示它是训练模型后系数的拟合值。而***X****_ t*是在时间 *t* 的一排 ***X*** 。****
 
-****如果链接函数*η(****)x****_ t，****【β_ cap】****)*是线性的，就得到[](/assumptions-of-linear-regression-5d87c347140)****线性模型。如果链接函数是指数函数，则得到 [**泊松**](/poisson-regression-models-for-time-series-data-sets-54114e68c46d) ， [**NLS**](/a-guide-to-building-nonlinear-least-squares-nls-regression-models-310b97a7baeb) 等。回归模型等等。********
+****如果链接函数*η(****)x****_ t，****【β_ cap】****)*是线性的，就得到</assumptions-of-linear-regression-5d87c347140>****线性模型。如果链接函数是指数函数，则得到 [**泊松**](/poisson-regression-models-for-time-series-data-sets-54114e68c46d) ， [**NLS**](/a-guide-to-building-nonlinear-least-squares-nls-regression-models-310b97a7baeb) 等。回归模型等等。********
 
 ****让我们仔细看看**线性模型**，其特征在于以下一组等式:****
 
@@ -418,22 +414,6 @@ y _ bar =(y _ 1+y2+…+y _ n)/n，* 我们得到一个 [**均值模型**](/the-c
 
 # ***相关阅读***
 
-***[](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [## 离散时间马尔可夫链初学者指南
-
-### 以及如何使用 Python 模拟离散马尔可夫过程的教程
-
-towardsdatascience.com](/a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12) [](/an-introduction-to-the-poisson-integer-arima-regression-model-b66d3ff2e6e5) [## 泊松整数 ARIMA 回归模型简介
-
-### 以及如何使用 Python 和 statsmodels 实现泊松 INAR(1)回归模型的教程
-
-towardsdatascience.com](/an-introduction-to-the-poisson-integer-arima-regression-model-b66d3ff2e6e5) [](/poisson-regression-models-for-time-series-data-sets-54114e68c46d) [## 时间序列数据集的泊松回归模型
-
-### 如何使用 Python 和 Statsmodels 为计数的时间序列数据集构建泊松回归模型
-
-towardsdatascience.com](/poisson-regression-models-for-time-series-data-sets-54114e68c46d) [](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) 
+***</a-beginners-guide-to-discrete-time-markov-chains-d5be17cf0e12>  </an-introduction-to-the-poisson-integer-arima-regression-model-b66d3ff2e6e5>  </poisson-regression-models-for-time-series-data-sets-54114e68c46d>  </an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  
 
 *感谢阅读！如果你喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com/) *获取关于回归和时间序列分析的技巧、操作和编程建议。****

@@ -197,16 +197,4 @@ INNER JOIN df2
 
 # 相关文章
 
-[](/how-to-sample-a-dataframe-in-python-pandas-d18a3187139b) [## 如何在 Python Pandas 中对数据帧进行采样
-
-### 使用不同的技术对 Python Pandas 中的数据集进行采样的现成代码
-
-towardsdatascience.com](/how-to-sample-a-dataframe-in-python-pandas-d18a3187139b) [](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d)
+</how-to-sample-a-dataframe-in-python-pandas-d18a3187139b>  </how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d> 

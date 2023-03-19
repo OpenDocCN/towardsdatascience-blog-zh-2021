@@ -90,11 +90,7 @@ CPT 配置来自 Spinkler 功能逻辑:当天气晴朗时(多云=假),洒水器�
 
 这个 CPT 比较复杂。专家可以完成它，或者贝叶斯定理可以帮助我们计算每个值。我已经在前一篇文章中解释了如何使用这个定理来计算这些值。所以我就不在这里做了，我让下面的链接:
 
-[](/will-you-become-a-zombie-if-a-99-accuracy-test-result-positive-3da371f5134) [## 贝叶斯思维导论:从贝叶斯定理到贝叶斯网络
-
-### 假设世界上存在一种非常罕见的疾病。你患这种疾病的几率只有千分之一。你想要…
-
-towardsdatascience.com](/will-you-become-a-zombie-if-a-99-accuracy-test-result-positive-3da371f5134) 
+</will-you-become-a-zombie-if-a-99-accuracy-test-result-positive-3da371f5134>  
 
 我们可以使用与其他节点相同的逻辑来检查这个 CPT 告诉我们的内容:
 

@@ -55,10 +55,6 @@
 
 ## *参考文献—*
 
- *[## 一种 k-有界 Levenshtein 距离的快速算法
-
-### Fujimoto Seiji mbleven 是一种计算 k-有界 Levenshtein 距离的快速算法。总的来说，这是…
-
-ceptord.net](https://ceptord.net/fastcomp/index.html)* 
+ ** 
 
 *[https://github.com/fujimotos/mbleven](https://github.com/fujimotos/mbleven)*

@@ -124,7 +124,7 @@
 
 ![](img/6749176af9e4645703c180a32413b953.png)
 
-图 WheirdWhales NFTs 事务的静态网络。每个地址由一个节点(圆圈)表示，事务由边(线)表示。边缘颜色指的是令牌 ID。**这里有一个高分辨率的图可用**[](https://tdemarchin.github.io/DataScienceOnBlockchainWithR-PartII//DataScienceOnBlockchainWithR-PartII.html)****。****
+图 WheirdWhales NFTs 事务的静态网络。每个地址由一个节点(圆圈)表示，事务由边(线)表示。边缘颜色指的是令牌 ID。**这里有一个高分辨率的图可用**<https://tdemarchin.github.io/DataScienceOnBlockchainWithR-PartII//DataScienceOnBlockchainWithR-PartII.html>****。****
 
 **现在让我们使用事务的时间戳为我们的网络添加一个时间维度。这将允许我们可视化网络随时间的演变。为此，我们将使用令人惊叹的 *networkDynamic* 包。**
 

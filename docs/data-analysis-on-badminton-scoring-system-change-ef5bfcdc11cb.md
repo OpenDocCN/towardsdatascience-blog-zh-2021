@@ -100,11 +100,7 @@
 
 也看看我的另一篇帖子吧！
 
-[](https://juanliong.medium.com/epl-covid-19-data-analysis-a79ee0d75fe) [## EPL 新冠肺炎数据分析
-
-### 新冠肺炎对英超(EPL)球队影响的比较分析
-
-juanliong.medium.com](https://juanliong.medium.com/epl-covid-19-data-analysis-a79ee0d75fe) 
+<https://juanliong.medium.com/epl-covid-19-data-analysis-a79ee0d75fe>  
 
 # 参考
 

@@ -22,11 +22,7 @@
 
 *注意:标记化是数据科学家在清理和准备数据时要做的许多工作之一。在下面的文章中，我写了一个指南来帮助你完成这些繁琐的任务。两篇文章的代码在我的*[*Github*](https://github.com/ifrankandrade/data_preprocessing.git)*上都有。*
 
-[](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) [## 用 Python 清理和准备数据的简单指南
-
-### 如何识别和处理脏数据？
-
-towardsdatascience.com](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) 
+</a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33>  
 
 # 1.简单的标记化。使分离
 
@@ -47,11 +43,7 @@ that they can change the world, are the ones who do.”””text.split()
 
 正如您在上面看到的，split()方法没有将标点符号视为单独的标记。这可能会改变您的项目结果。
 
-[](https://medium.com/geekculture/4-free-and-paid-web-scraping-courses-every-data-scientist-should-take-956562ac68dc) [## 每个数据科学家都应该参加的 4 门免费和付费网络搜集课程
-
-### 获得这一每个数据科学家都应该具备的必备技能。
-
-medium.com](https://medium.com/geekculture/4-free-and-paid-web-scraping-courses-every-data-scientist-should-take-956562ac68dc) 
+<https://medium.com/geekculture/4-free-and-paid-web-scraping-courses-every-data-scientist-should-take-956562ac68dc>  
 
 # 2.用 NLTK 进行标记化
 
@@ -145,8 +137,4 @@ list(tokenize(text))
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 阅读弗兰克·安德拉德(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

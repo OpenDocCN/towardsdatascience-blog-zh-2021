@@ -72,11 +72,7 @@ ADF 支持所有现代数据结构，包括通过数据湖和数据仓库等存�
 
 为了从头开始运行并遵循为您的 ML 模型创建训练和测试模型的步骤，下面的存储库中显示了一个详细的示例。
 
-[](https://github.com/MicrosoftDocs/pipelines-azureml) [## 管道-azureml
-
-### 这份报告显示了 E2E 的培训和 Azure 机器学习的 CLI 部署管道。欲了解更多信息，请访问…
-
-github.com](https://github.com/MicrosoftDocs/pipelines-azureml) 
+<https://github.com/MicrosoftDocs/pipelines-azureml>  
 
 无论您选择哪种方法，ADF 都会公正地对待管道。管道从 ADL 存储帐户读取数据，并对新数据运行其训练和预测脚本，并在每次运行时刷新模型，以微调已训练的算法。这个机器学习管道的输出是一个结构化的数据集，作为日常输出文件存储在 Azure Blob 存储中。
 
@@ -130,11 +126,7 @@ Azure Blob Storage 是一项基于云的服务，可帮助您为分析需求创�
 
 > ***一个端到端的 MLOps 存储库托管在下面:***
 
-[](https://github.com/microsoft/MLOps) [## 实施 MLOps
-
-### MLOps 端到端示例和解决方案。一组示例展示了不同的端到端方案，可操作性…
-
-github.com](https://github.com/microsoft/MLOps) 
+<https://github.com/microsoft/MLOps>  
 
 ## 结论
 

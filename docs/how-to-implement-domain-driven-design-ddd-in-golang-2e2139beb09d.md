@@ -28,11 +28,7 @@ DDD 的关键词——埃里克·埃文斯的书《领域驱动设计:解决软�
 
 首先，我想指出，本文描述了我对 DDD 的理解，我在文中展示的实现是基于我在 Go 相关项目中的经验。我们将创建的实现绝不是社区接受的最佳实践。我还将按照 DDD 的方法来命名项目中的文件夹，以便于理解和遵循，但我不确定我是否希望一个真正的存储库是这样的。出于这个原因，我还将有一个单独的存储库分支，在那里我已经修复了结构，并且重构将在第二篇文章中解释。
 
-[](/how-to-structure-ddd-in-golang-28a7c3e7263b) [## 如何构建戈兰的 DDD
-
-### 后续介绍如何在 Go 中以 DDD 方式组织代码和包的结构
-
-towardsdatascience.com](/how-to-structure-ddd-in-golang-28a7c3e7263b) 
+</how-to-structure-ddd-in-golang-28a7c3e7263b>  
 
 我在互联网上看到了许多关于 DDD 以及如何正确实施的热烈讨论。让我印象深刻的一件事是，大多数时候，人们似乎忘记了 DDD 背后的目的，而是最终在小的实施细节上争论不休。我认为重要的是，遵循 Evan 提出的方法论，而不是某个东西被命名为 X 或 y。
 
@@ -369,11 +365,7 @@ Tavern_test.go —用 MongoDB 存储库替换内存
 
 > 公平的警告，第二篇文章比这篇长文章要短得多
 
-[](/how-to-structure-ddd-in-golang-28a7c3e7263b) [## 如何构建戈朗的 DDD
-
-### 关于如何在 Go 中用 DDD 方法组织代码和包结构的后续文章
-
-towardsdatascience.com](/how-to-structure-ddd-in-golang-28a7c3e7263b) 
+</how-to-structure-ddd-in-golang-28a7c3e7263b>  
 
 那么，你的观点是什么，这种建筑方法看起来像是你可以使用的吗？
 

@@ -60,15 +60,7 @@ Stitch Fix 的数据平台副总裁杰夫·马格努松几年前写了一篇[文
 
 查看这些文章了解更多信息。
 
-[](https://www.astronomer.io/guides/dynamically-generating-dags) [## 在气流中动态生成| Apache 气流指南
-
-### 在 Airflow 中创建 DAG 的最简单方法是在 DAGs 文件夹中定义它。任何带有. py 后缀的都将是…
-
-www .天文学家. io](https://www.astronomer.io/guides/dynamically-generating-dags) [](/how-to-build-a-dag-factory-on-airflow-9a19ab84084c) [## 如何在气流上建造 DAG 工厂
-
-### 用一半代码构建高效 Dag 的指南
-
-towardsdatascience.com](/how-to-build-a-dag-factory-on-airflow-9a19ab84084c) 
+<https://www.astronomer.io/guides/dynamically-generating-dags>  </how-to-build-a-dag-factory-on-airflow-9a19ab84084c>  
 
 ## 2.构建允许人们与您的 Dag 进行交互的界面
 
@@ -80,11 +72,7 @@ towardsdatascience.com](/how-to-build-a-dag-factory-on-airflow-9a19ab84084c)
 
 这里的底线是构建允许人们与你的 Dag 交互的界面。在我们的例子中是一个简单的 YAML 文件。但是，天空是极限。如果您需要的话，您甚至可以构建一个 web UI 来实现这一点。
 
-[](/generalizing-data-load-processes-with-airflow-a4931788a61f) [## 用气流概括数据加载过程
-
-### 数据加载过程不应该写两遍，它们应该是通用的
-
-towardsdatascience.com](/generalizing-data-load-processes-with-airflow-a4931788a61f) 
+</generalizing-data-load-processes-with-airflow-a4931788a61f>  
 
 ## 3.气流操作员工厂是必要的
 
@@ -126,10 +114,6 @@ towardsdatascience.com](/generalizing-data-load-processes-with-airflow-a4931788a
 
 > **更新:**本文的第二部分现已推出
 
-[](/data-engineers-shouldnt-write-airflow-dags-part-2-8dee642493fb) [## 数据工程师不应该写气流图——第二部分
-
-### 阿帕奇气流的框架建议
-
-towardsdatascience.com](/data-engineers-shouldnt-write-airflow-dags-part-2-8dee642493fb) 
+</data-engineers-shouldnt-write-airflow-dags-part-2-8dee642493fb>  
 
 *如果你想随时更新我的作品，* ***请加入我的*** [***简讯***](https://metadatacommunity.substack.com/) ***！*** *偶尔，我会和我的读者分享一些东西。如果你加入我会很感激的:)*

@@ -159,4 +159,4 @@
 
 *****有兴趣了解如何解决大规模数据质量问题吗？伸出手去*** [***巴尔***](https://www.linkedin.com/in/barrmoses)*[***瑞安***](https://www.linkedin.com/in/ryan-kearns-203686a9) ***，以及其余的*** [***蒙特卡洛***](http://www.montecarlodata.com/) ***团队以及*** [***注册为我们的数据观测***](https://bit.ly/spotlightresident)***
 
-***本教程的关联练习可用，此处*[](https://github.com/monte-carlo-data/data-downtime-challenge)**，本文所示改编代码可用，此处*[](https://github.com/monte-carlo-data/data-observability-in-practice)**。*****
+***本教程的关联练习可用，此处*<https://github.com/monte-carlo-data/data-downtime-challenge>**，本文所示改编代码可用，此处*<https://github.com/monte-carlo-data/data-observability-in-practice>**。*****

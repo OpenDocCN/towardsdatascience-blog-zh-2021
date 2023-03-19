@@ -26,11 +26,7 @@
 
 这是关于基本概念的两篇文章的第一章。在第一章中，我将重点放在机器学习部分，并解释 DS 面试中的这些常见问题。在第二章中，我转换话题，详细阐述统计方面的内容。这是:
 
-[](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [## 破解数据科学访谈:基本统计概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 2 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) 
+</crack-data-science-interviews-essential-statistics-concepts-d4491d85219e>  
 
 # 概念 1:偏差和方差
 
@@ -179,27 +175,11 @@ L1 更稳健，有多种解决方案，而 L2 不那么稳健，只有一种解�
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试顺序:
 
-[](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [## 2021 年数据科学家面临的 4 个棘手的 SQL 问题
-
-### 可能会让你犯错的简单查询
-
-towardsdatascience.com](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [](/bootstrap-and-statistical-inference-in-python-a06d098a8bfd) [## Python 中的 Bootstrap 和统计推断
-
-### 数据科学面试中常见的引导问题
-
-towardsdatascience.com](/bootstrap-and-statistical-inference-in-python-a06d098a8bfd) [](/statistical-simulation-in-python-part-2-91f71f474f77) [## Python 中的 4 种统计模拟，第 2 部分
-
-### 任何数据科学面试最重要的部分！
-
-towardsdatascience.com](/statistical-simulation-in-python-part-2-91f71f474f77) 
+</4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77>  </bootstrap-and-statistical-inference-in-python-a06d098a8bfd>  </statistical-simulation-in-python-part-2-91f71f474f77>  
 
 # 喜欢读这本书吗？
 

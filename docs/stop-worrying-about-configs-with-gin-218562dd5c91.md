@@ -38,11 +38,7 @@ def make_drink(drink_name:str, ingredients:list, ice:bool=False):
 
 要使这个 Gin 可配置，我们需要做的就是给函数`[@gin](http://twitter.com/gin).configurable`添加一个简单的装饰器，它告诉库将这个函数索引为一个可以在`.gin`文件中配置的函数——如果你不知道什么是装饰器，我在下面链接了一篇解释它们如何工作的文章。
 
-[](/level-up-your-code-with-python-decorators-c1966d78607) [## 用 Python decorators 提升你的代码
-
-### 日志记录、类型检查、异常处理等等！
-
-towardsdatascience.com](/level-up-your-code-with-python-decorators-c1966d78607) 
+</level-up-your-code-with-python-decorators-c1966d78607>  
 
 因此，让我们开始编写 gin 文件:
 

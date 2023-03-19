@@ -62,19 +62,11 @@
 
 选择正确的课程非常重要。一个错误的选择可能会降低你的动力水平。如果你没有编码经验，那么从基于浏览器的平台开始会更好。优点是你不需要安装任何工具。你可以尝试在业余时间学习，你的进步将被保存。这里是一个使用浏览器学习 Python 编程的平台。
 
-[](https://www.codecademy.com/learn/learn-python-3) [## 学习 Python 3 | Codecademy
-
-### 学习世界上最流行的编程语言的最新和最棒的版本！
-
-www.codecademy.com](https://www.codecademy.com/learn/learn-python-3) 
+<https://www.codecademy.com/learn/learn-python-3>  
 
 熟悉 python 之后，下一步是尝试在您的机器上使用 Python。下面是一个初学者友好的关于使用 python 进行数据科学的课程。超过 90%的学习者认为这门课程很有用。大约 15%的人在完成这门课程后，发现自己的职业生涯受益匪浅。
 
-[](https://www.coursera.org/learn/python-for-applied-data-science-ai#about) [## 用于数据科学、人工智能和开发的 Python
-
-### 用这个初学者友好的工具开始你的 Python 数据科学学习，以及一般的编程…
-
-www.coursera.org](https://www.coursera.org/learn/python-for-applied-data-science-ai#about) 
+<https://www.coursera.org/learn/python-for-applied-data-science-ai#about>  
 
 上述课程将有助于获取数据科学所需的 Python 知识。你会对课程中涉及的主题充满信心。但是当你试图解决一个数据科学问题时，你会发现它很难。正是在这一点上，信心水平通常会下降，并经常让许多人认为编码不适合他们。我将展示一些策略来克服这一点，并获得前进的真正信心。
 
@@ -86,19 +78,11 @@ www.coursera.org](https://www.coursera.org/learn/python-for-applied-data-science
 
 下面一个重点关注 Python 不同的编程方面，比如不同的库、不同的数据类型、控制流和函数。它还涵盖了数据清理和探索性分析中常用的功能。
 
-[](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners) [## 数据科学初学者教程
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Pokemon- Weedle's Cave 的数据
-
-www.kaggle.com](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners) 
+<https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners>  
 
 下面的脚本侧重于对房价数据集执行数据分析。这将让我们更好地了解如何使用 python 进行数据探索。它还将有助于理解不同分析背后的基本原理以及如何实现它们。
 
-[](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) [## 使用 Python 进行全面的数据探索
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用房价数据-高级回归…
-
-www.kaggle.com](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
+<https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python>  
 
 从别人的代码开始有助于更好地理解概念。不要选择一个没有被正确记录或者看起来很复杂的脚本。这里的想法是熟悉并学会用简单的方式做事。没有必要担心以最好的方式做事。只是还没有。
 
@@ -110,35 +94,19 @@ www.kaggle.com](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration
 
 **分类问题**
 
-[](https://www.kaggle.com/c/titanic) [## 泰坦尼克号-机器从灾难中学习
-
-### 从这里开始！预测泰坦尼克号上的生存并熟悉 ML 基础知识
-
-www.kaggle.com](https://www.kaggle.com/c/titanic) 
+<https://www.kaggle.com/c/titanic>  
 
 **回归问题**
 
-[](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) [## 房价-高级回归技术
-
-### 预测销售价格并实践特征工程、RFs 和梯度推进
-
-www.kaggle.com](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
+<https://www.kaggle.com/c/house-prices-advanced-regression-techniques>  
 
 **计算机视觉**
 
-[](https://www.kaggle.com/c/digit-recognizer) [## 数字识别器
-
-### 用著名的 MNIST 数据学习计算机视觉基础
-
-www.kaggle.com](https://www.kaggle.com/c/digit-recognizer) 
+<https://www.kaggle.com/c/digit-recognizer>  
 
 **自然语言处理**
 
-[](https://www.kaggle.com/c/nlp-getting-started) [## 灾难微博的自然语言处理
-
-### 预测哪些推文是关于真正的灾难，哪些不是
-
-www.kaggle.com](https://www.kaggle.com/c/nlp-getting-started) 
+<https://www.kaggle.com/c/nlp-getting-started>  
 
 完成学习挑战后，你就可以慢慢进入 kaggle 竞赛。另一个提高学习的方法是和有经验的人一起合作，一起解决问题。
 

@@ -23,11 +23,7 @@
 
 [本帖](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)包含了一个很棒的资源列表，可以学习更多关于各种数据科学基础的知识。我还有一篇关于使用 Pandas 和 Plotly 进行数据可视化的文章:
 
-[](/new-to-data-visualization-start-with-new-york-city-107785f836ab) [## 数据可视化新手？从纽约市开始
-
-### 我是如何使用纽约的大量公开数据以及 Plotly 和 Pandas 来开发我的数据可视化的…
-
-towardsdatascience.com](/new-to-data-visualization-start-with-new-york-city-107785f836ab) 
+</new-to-data-visualization-start-with-new-york-city-107785f836ab>  
 
 这些数据科学库的伟大之处在于，它们拥有优秀的示例文档，以及大量免费的在线教程。以下是以视频形式对 NumPy 的精彩介绍:[https://www.youtube.com/watch?v=lXZk0g60qRg](https://www.youtube.com/watch?v=lXZk0g60qRg)。以下是一个很棒的关于熊猫的视频系列:[https://www.youtube.com/watch?v=ZyhVh-qRZPA&list = PL-osie 80 tetswmv 9 I 9 c 58 MDD csskifdds](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)。
 
@@ -35,11 +31,7 @@ towardsdatascience.com](/new-to-data-visualization-start-with-new-york-city-1077
 
 无论您是连接远程集群、导航您自己的文件系统，还是运行脚本，在某些时候您可能必须与命令行交互。您应该知道基本的 Linux shell 命令，如`ls`(列出目录中的文件)、`cd`(更改目录)、`mkdir`(创建目录)、`rm`(删除文件)、`wc`(计算行数、字数和字节数)、`mv`(移动文件)、`cp`(复制文件)、`grep`(快速搜索文件中的模式)、`head`(查看文件的第一个块)和`ssh`(安全连接到远程设备)。了解一些更特殊的命令也很有帮助，比如`ln`创建符号链接，而`scp`向/从远程服务器传输文件。请注意，这些命令在 Mac OS 和 Linux 上是相同的。没有必要记住每一个命令(虽然如果你忘记了一个命令是做什么的话，`man`命令是非常有用的)，但是上面提到的那些确实可以走很长的路。了解如何创建一个简单的 shell 脚本来一次运行一堆任务，以及如何使用`cron`来调度作业也很有帮助。以下教程是一个很好的起点:
 
-[](https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal) [## 面向初学者的 Linux 命令行| Ubuntu
-
-### Ubuntu 是一个开源软件操作系统，可以运行在桌面、云、互联网上
-
-ubuntu.com](https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal) 
+<https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal>  
 
 ## 3.学习`git`和 GitHub
 

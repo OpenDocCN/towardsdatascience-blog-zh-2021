@@ -142,16 +142,4 @@ fd --help
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684) [## 使用 Wtfutil 在您的终端中创建一个漂亮的仪表板
-
-### 现在你可以在你的终端上查看你的日程表，待办事项，系统信息，Docker，Git 等等。
-
-towardsdatascience.com](/create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684) [](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [## 如何在命令行上创建和查看交互式备忘单
-
-### 停止搜索命令行。用作弊来节省时间
-
-towardsdatascience.com](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/ptpython-a-better-python-repl-6e21df1eb648) [## Ptpython:更好的 Python REPL
-
-towardsdatascience.com](/ptpython-a-better-python-repl-6e21df1eb648)
+</create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684>  </how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> 

@@ -12,11 +12,7 @@ Apriori 算法用于数据挖掘，以识别数据集中的频繁项和关联规
 
 本文将提供一个非数学的演练，演示它如何使用 Python mlxtend 库工作。对于进一步的阅读，我推荐彼得·哈灵顿**的《机器学习在行动** 》中的**第 11 章**。
 
-[](https://www.manning.com/books/machine-learning-in-action) [## 机器学习在行动
-
-### 行动中的机器学习是独特的书，融合了机器学习的基础理论与实践…
-
-www.manning.com](https://www.manning.com/books/machine-learning-in-action) 
+<https://www.manning.com/books/machine-learning-in-action>  
 
 ## 准备
 

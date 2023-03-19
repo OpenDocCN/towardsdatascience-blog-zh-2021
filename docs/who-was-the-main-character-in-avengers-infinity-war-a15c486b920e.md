@@ -14,11 +14,7 @@
 
 我们将使用复仇者联盟 3：无限战争的文字记录，可以在网上找到。以下是我改编的出处:
 
-[](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) [## 《复仇者联盟 3：无限战争》
-
-### 漫威开幕式演职员表][无线电传输声音][漫威影业有限责任公司标志照常播放，但这一次，在结尾…
-
-transcripts.fandom.com](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) 
+<https://transcripts.fandom.com/wiki/Avengers:_Infinity_War>  
 
 上面的脚本包含了无限战争的情节，这是[在知识共享](https://www.fandom.com/licensing)下授权的。
 
@@ -85,18 +81,10 @@ transcripts.fandom.com](https://transcripts.fandom.com/wiki/Avengers:_Infinity_W
 
 在这个项目的下一部分中，我们将使用哈利波特系列探索这样的故事网络是如何随着时间的推移而演变的。点击下面的链接继续阅读！
 
-[](https://jiangzh.medium.com/storytelling-via-temporal-networks-110ddeefb633) [## 通过时间网络讲故事
-
-### 我们将使用 Python 快速探究《哈利·波特》系列不同书籍中角色的演变…
-
-jiangzh.medium.com](https://jiangzh.medium.com/storytelling-via-temporal-networks-110ddeefb633) 
+<https://jiangzh.medium.com/storytelling-via-temporal-networks-110ddeefb633>  
 
 我受到了下面这篇文章的启发，这篇文章使用了自然语言处理(NLP)方法来分析角色，如果你对更多的电影数据分析感兴趣，我强烈推荐它:
 
-[](/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1) [## 用空间和自然语言处理重温复仇者联盟 3：无限战争
-
-### 发现复仇者和恶棍提到的顶级名词、动词和实体
-
-towardsdatascience.com](/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1) 
+</reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1>  
 
 如果你有任何新的见解，请随时发表评论！

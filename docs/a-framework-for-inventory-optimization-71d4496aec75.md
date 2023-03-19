@@ -213,11 +213,7 @@
 
 > **参见我的上一篇文章，*“捕捉供应链中不受约束的需求”，*了解更多关于捕捉实际需求而不仅仅是销售的信息。**
 
-*[](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) [## 捕捉供应链中不受约束的需求
-
-### 下面这篇文章是我在 LinkedIn 上的一篇帖子的摘要。如果你对这样的辩论感兴趣，那就来连线吧！我…
-
-towardsdatascience.com](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) 
+*</capturing-unconstrained-demand-in-supply-chains-78b46bae1b28>  
 
 根据客户的行为，缺货可能会导致延期交货或销售损失。但情况可能更糟:品牌声誉受损、更大订单的损失(如果订单需要某个特定的零件)，信息丢失，甚至停产。让我们逐一回顾所有这些短缺效应。
 
@@ -255,11 +251,7 @@ towardsdatascience.com](/capturing-unconstrained-demand-in-supply-chains-78b46ba
 
 *[2]范德普特，尼古拉(2021)。四维预测框架。走向数据科学。[https://towards data science . com/the-4-dimensions-forecasting-framework-f 7884 EC 1472](/the-4-dimensions-forecasting-framework-f7884ec1472)*
 
-*[](/the-4-dimensions-forecasting-framework-f7884ec1472) [## 四维预测框架
-
-### 如何设置预测流程
-
-towardsdatascience.com](/the-4-dimensions-forecasting-framework-f7884ec1472) 
+*</the-4-dimensions-forecasting-framework-f7884ec1472>  
 
 > ***如何引用这篇文章***vande put，Nicolas (2021)。库存优化框架。走向数据科学。
 

@@ -23,11 +23,7 @@ Matplotlib 是 Python 中一个很棒的库，我总是一次又一次地使用�
 
 对于下面的例子，你可以在我的 GitHub 知识库中找到我的 Jupyter 笔记本和数据集，链接如下。
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series) [## andymcdgeo/岩石物理学-Python-系列
-
-### 本系列 Jupyter 笔记本将带您了解使用 Python 和岩石物理数据的各个方面。一个…
-
-github.com](https://github.com/andymcdgeo/Petrophysics-Python-Series) 
+<https://github.com/andymcdgeo/Petrophysics-Python-Series>  
 
 我的 YouTube 频道上的以下视频演示了如何使用 fill_betweenx()应用一些填充。
 

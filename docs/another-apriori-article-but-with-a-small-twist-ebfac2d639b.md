@@ -98,10 +98,6 @@ LHS 和 RHS 分别是“左手侧”和“右手侧”。LHS 是倾向于导致�
 
 如果你喜欢这篇文章，你可能也会喜欢我关于使用 PuLP 解决一个简单优化问题的文章。
 
-[](https://python.plainenglish.io/python-pulp-optimization-a-simple-logistics-example-4a8f713ba807) [## Python + Pulp 优化:一个简单的物流例子
-
-### Python 的纸浆是一个优化工具，像 Excel 求解器(硬币或纸浆)。我有一个不太适合的用例…
-
-python .平原英语. io](https://python.plainenglish.io/python-pulp-optimization-a-simple-logistics-example-4a8f713ba807) 
+<https://python.plainenglish.io/python-pulp-optimization-a-simple-logistics-example-4a8f713ba807>  
 
 继续学习！

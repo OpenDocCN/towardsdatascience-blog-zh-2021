@@ -93,11 +93,7 @@ missingpy 库是一个非常方便的工具，可以在几行 Python 代码中�
 
 > 阅读我以前的文章，了解处理数据集中缺失值的 7 种技巧
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+</7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e>  
 
 # 参考资料:
 

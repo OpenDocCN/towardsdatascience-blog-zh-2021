@@ -24,11 +24,7 @@ pandas.read_clipboard(*sep='\\s+'*, ***kwargs*)
 
 > 如果你想深入了解熊猫的`read_csv`功能的一些参数，我会为你提供帮助。
 
-[](/there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03) [## “pandas.read_csv()”并不像看上去那样简单
-
-### 深入研究 pandas 中 read_csv 函数的一些参数
-
-towardsdatascience.com](/there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03) 
+</there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03>  
 
 # 使用
 

@@ -129,32 +129,4 @@
 *   **熟练员工:**数据科学家是声誉良好的员工，公司需要支付合理的薪水，并为他们提供有意义的项目。
 *   **企业战略:**企业领导人需要理解这些新技术的核心概念，以便将它们纳入企业商业模式的战略定位。
 
-[](https://www.forbes.com/sites/forbesagencycouncil/2019/10/01/the-age-of-analytics-and-the-importance-of-data-quality/#2e39afc5c3c4) [## 分析时代和数据质量的重要性
-
-### 分析的使用不再局限于财大气粗的大公司。它现在很普遍，59%的…
-
-www.forbes.com](https://www.forbes.com/sites/forbesagencycouncil/2019/10/01/the-age-of-analytics-and-the-importance-of-data-quality/#2e39afc5c3c4) [](https://www.matillion.com/resources/blog/5-key-differences-between-a-data-lake-vs-data-warehouse/) [## 数据湖和数据仓库的 5 个主要区别
-
-### 数据湖不是数据仓库的直接替代品，它们是服务于不同领域的补充技术
-
-www.matillion.com](https://www.matillion.com/resources/blog/5-key-differences-between-a-data-lake-vs-data-warehouse/) [](https://coopsys.com/data-storage-options-for-your-small-business/) [## 小型企业合作系统的数据存储选项
-
-### 哪种存储解决方案最适合您的组织？IT 经理和业务领导团队面临着一个…
-
-coopsys.com](https://coopsys.com/data-storage-options-for-your-small-business/) [](https://www.forbes.com/sites/bernardmarr/2016/06/15/building-your-big-data-infrastructure-4-key-components-every-business-needs-to-consider/#a04611e577e7) [## 构建您的大数据基础架构:每个企业都需要考虑的 4 个关键组件
-
-### 大数据可以为各种规模的企业带来巨大的好处。然而，与任何商业项目一样，适当的准备…
-
-www.forbes.com](https://www.forbes.com/sites/bernardmarr/2016/06/15/building-your-big-data-infrastructure-4-key-components-every-business-needs-to-consider/#a04611e577e7) [](https://www.intouchsol.com/blog/six-must-steps-optimal-machine-learning-data-science/) [## 优化机器学习和数据科学| Intouch 解决方案的六个必做步骤
-
-### 亚伯拉罕·马斯洛的人类需求层次——以金字塔的形式描绘——最早是在 1943 年提出的，并给出了…
-
-www.intouchsol.com](https://www.intouchsol.com/blog/six-must-steps-optimal-machine-learning-data-science/) [](https://www.wsj.com/articles/companies-take-a-piecemeal-approach-to-automation-tech-11554396270) [## 公司对自动化技术采取零敲碎打的方法
-
-### 人工智能、机器人和其他下一代自动化技术的发展正在推动一些…
-
-www.wsj.com](https://www.wsj.com/articles/companies-take-a-piecemeal-approach-to-automation-tech-11554396270) [](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) [## 商业中的人工智能成为现实
-
-### 关于作者:Sam Ransbotham 是卡罗尔学校信息系统系的副教授…
-
-sloanreview.mit.edu](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/)
+<https://www.forbes.com/sites/forbesagencycouncil/2019/10/01/the-age-of-analytics-and-the-importance-of-data-quality/#2e39afc5c3c4>  <https://www.matillion.com/resources/blog/5-key-differences-between-a-data-lake-vs-data-warehouse/>  <https://coopsys.com/data-storage-options-for-your-small-business/>  <https://www.forbes.com/sites/bernardmarr/2016/06/15/building-your-big-data-infrastructure-4-key-components-every-business-needs-to-consider/#a04611e577e7>  <https://www.intouchsol.com/blog/six-must-steps-optimal-machine-learning-data-science/>  <https://www.wsj.com/articles/companies-take-a-piecemeal-approach-to-automation-tech-11554396270>  <https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/> 

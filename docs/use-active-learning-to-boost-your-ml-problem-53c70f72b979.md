@@ -117,7 +117,7 @@ AL 背后的主要思想是允许我们的模型以" **smart** 的方式选择�
 
 *3.取值最小的样本(在*数量 _ 样本*数量中)——最不确定的样本:*
 
-*要了解更多关于查询策略的信息，请阅读本主动学习手册[](http://burrsettles.com/pub/settles.activelearning.pdf)****【3】。*****
+*要了解更多关于查询策略的信息，请阅读本主动学习手册<http://burrsettles.com/pub/settles.activelearning.pdf>****【3】。*****
 
 *****想了解更多主动学习 python 的包—看这个 [**调查**](https://medium.com/data-from-the-trenches/a-proactive-look-at-active-learning-packages-8845fb6541e9)**【4】。*******
 

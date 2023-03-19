@@ -34,21 +34,13 @@ Corridos tumbados 是墨西哥地区的变体，是传统 corrido 的变体，�
 
 *   Colab:
 
-[](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/Onsets_and_Frames.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/Onsets_and_Frames.ipynb) 
+<https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/Onsets_and_Frames.ipynb>  
 
 我们生成了大约 241 个 MIDI 格式的 corridos tumbados，在一个名为“music21”的库的帮助下，我们从中提取音符和和弦，并将它们用作我们网络的输入。然后，我们用一个长短期记忆递归神经网络(LSTM)来产生谎言运行，这是结果:
 
 *   Colab:
 
-[](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/GeneratorMusicLstm.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/GeneratorMusicLstm.ipynb) 
+<https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/GeneratorMusicLstm.ipynb>  
 
 ## 我们失败的原因
 
@@ -62,11 +54,7 @@ colab.research.google.com](https://colab.research.google.com/github/MJVNOR/Datas
 
 *   Colab:
 
-[](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/nsynth.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/nsynth.ipynb) 
+<https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/nsynth.ipynb>  
 
 该算法用高音声音训练，它用来自一千种不同乐器的 30 万个音符训练。当您组合两种完全不同的声音时，合成器会更加复杂，因为它必须处理更多的声音，而不仅仅是单个音符，除了合成器在高音方面受过训练，所以它会尝试将任何其他频率解释为高音，这意味着，除了通过使用 16，000 个样本来创建低质量的旋律之外，由于可能缺乏乐器，并希望将频率提高，从而产生看起来像恐怖电影一样的音频畸变。
 
@@ -86,11 +74,7 @@ colab.research.google.com](https://colab.research.google.com/github/MJVNOR/Datas
 
 *   Colab:
 
-[](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/AutoMusicGen.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/AutoMusicGen.ipynb) 
+<https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/AutoMusicGen.ipynb>  
 
 ## 我们失败的原因
 
@@ -114,26 +98,10 @@ WaveNet 是一种称为深度卷积神经网络的神经网络，用于生成逐
 
 # Github 知识库
 
-[](https://github.com/MJVNOR/DatasetMidiCorridosTumbadosAcustico) [## MJVNOR/DatasetMidiCorridosTumbadosAcustico
-
-### 通过在 GitHub 上创建一个帐户，为 MJVNOR/DatasetMidiCorridosTumbadosAcustico 开发做出贡献。
-
-github.com](https://github.com/MJVNOR/DatasetMidiCorridosTumbadosAcustico) 
+<https://github.com/MJVNOR/DatasetMidiCorridosTumbadosAcustico>  
 
 # 参考
 
 霍桑，c .、埃尔森，e .、宋，j .、罗伯茨，a .、西蒙，I .、拉弗尔，c .、… &埃克，D. (2017)。双目标钢琴改编曲。arXiv 预印本 arXiv:1710.11153。
 
-[](https://deepai.org/machine-learning-glossary-and-terms/interpolation) [## 插入文字
-
-### 插值是利用特定数据集内的信息进行有根据的猜测。这是一个“最佳猜测”,使用…
-
-deepai.org](https://deepai.org/machine-learning-glossary-and-terms/interpolation)  [## 维基百科，自由百科全书
-
-### 波网是一个红色的神经元深度超过一般的音频 muesta 一 muesta。企业投资研究中心
-
-es.wikipedia.org](https://es.wikipedia.org/wiki/WaveNet) [](https://hub.packtpub.com/what-is-lstm/) [## 什么是 LSTM？包装中心
-
-### LSTM 代表长期短期记忆。它是一种有效“扩展”内存的方法或架构…
-
-hub.packtpub.com](https://hub.packtpub.com/what-is-lstm/)
+<https://deepai.org/machine-learning-glossary-and-terms/interpolation>    <https://hub.packtpub.com/what-is-lstm/> 

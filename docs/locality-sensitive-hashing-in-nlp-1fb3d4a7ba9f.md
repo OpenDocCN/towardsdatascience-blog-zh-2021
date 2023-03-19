@@ -117,26 +117,6 @@ planes_l[0].shape
 
 如果你喜欢这篇文章，这里有更多！
 
-[](/overfitting-is-not-the-only-problem-regularisation-can-help-with-6fcdbfdb9384) [## 过度适应并不是正规化可以帮助解决的唯一问题
-
-### 从数学上理解岭回归在特征数量超过数据点时的作用
-
-towardsdatascience.com](/overfitting-is-not-the-only-problem-regularisation-can-help-with-6fcdbfdb9384) [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [## 处理具有高基数的要素
-
-### 一个简单的实用程序，我用来处理具有许多唯一值的分类特征
-
-towardsdatascience.com](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/scatter-plots-on-maps-using-plotly-79f16aee17d0) [## 使用 Plotly 在地图上散布图
-
-### 了解如何用很少的代码创建交互式散点图来表示数据中的多个要素
-
-towardsdatascience.com](/scatter-plots-on-maps-using-plotly-79f16aee17d0) 
+</overfitting-is-not-the-only-problem-regularisation-can-help-with-6fcdbfdb9384>  </dealing-with-features-that-have-high-cardinality-1c9212d7ff1b>  </regex-essential-for-nlp-ee0336ef988d>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </scatter-plots-on-maps-using-plotly-79f16aee17d0>  
 
 查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的宝贵时间！

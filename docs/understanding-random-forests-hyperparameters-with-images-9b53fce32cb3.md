@@ -167,28 +167,16 @@ rf = RandomForestClassifier(min_samples_leaf=20, random_state=2)
 
 如果你对这些内容感兴趣，请点击那个按钮告诉我应该写些什么，并关注我。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos) 
+<https://medium.com/gustavorsantos>  
 
 ## 参考
 
 [https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 
-[](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning) [## 1.10.决策树
-
-### 决策树(DTs)是一种用于分类和回归的非参数监督学习方法。目标是…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning) 
+<https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning>  
 
 [https://sci kit-learn . org/stable/modules/tree . html #最小成本复杂性修剪](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
 
 [随机森林文档](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=random%20forest%20classifier#sklearn.ensemble.RandomForestClassifier)
 
-[](/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d) [## 随机森林:超参数以及如何微调它们
-
-### 如何优化最常用的机器学习模型之一
-
-towardsdatascience.com](/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d)
+</random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d> 

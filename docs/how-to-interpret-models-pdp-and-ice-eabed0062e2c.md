@@ -38,11 +38,7 @@ M 模型的可解释性变得越来越有价值。然而，当处理具有复杂
 
 这个数据集是在开放数据共享公共领域奉献和许可(PDDL)下许可的。
 
-[](https://datahub.io/machine-learning/abalone#readme) [## 鲍鱼
-
-### 这个数据集的资源可以在 https://www.openml.org/d/183 找到作者:来源:未知-请引用…
-
-数据中心. io](https://datahub.io/machine-learning/abalone#readme) 
+<https://datahub.io/machine-learning/abalone#readme>  
 
 该数据集的目标是确定鲍鱼的年龄。通常，这是通过切开球果，给球果染色，然后用显微镜计数球果的数目来完成的。不幸的是，用这种方法测量年龄非常耗时、有创且费力。
 
@@ -111,8 +107,4 @@ plot_partial_dependence(model, X, [(feature_1, feature_2)], kind='both')
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

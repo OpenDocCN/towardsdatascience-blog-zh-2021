@@ -16,19 +16,11 @@ C 分类是机器学习的一种形式，使用统计分析和概率论来预测
 
 使用多分派范例，语法对于任何其他语言都是非常独特的，或者与另一种语言完全相同。例如，如果我们考虑 Python，它当然是统计学、机器学习和数据科学最流行的语言，我们可以通过使用构造函数和多重分派来模仿该语言在 Julia 中的能力。这正是我们今天将要使用的软件，车床，所做的事情，目的是让 Pythonic 的科学家们非常容易地开始学习 Julia 语言——而不必学习大量新的语法规则。如果您想了解更多关于车床的信息，您可以访问车床网站:
 
- [## 车床
-
-### 车床使用更快的方法和简单的方法。使得包装快速、简单且轻便。许多工具和模型…
-
-车床. ai](https://lathe.ai/) 
+  
 
 对于这个项目，我也有一个笔记本，您可以查看它，以便更好地掌握我将要查看的代码:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Baltimore%20Crime%20Classification.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Baltimore%20Crime%20Classification.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Baltimore%20Crime%20Classification.ipynb>  
 
 # 数据
 
@@ -42,11 +34,7 @@ using DataFrames; df = CSV.read("baltimore_crime.csv", DataFrame)
 
 如果你想了解更多关于什么是 sink 参数，以及它是如何工作的，那么你可以查看我在这里写的关于它的概述:
 
-[](/what-is-a-sink-argument-caf77dab6ac5) [## 什么是“下沉”论点？
-
-### 关于在 Julia 编程语言中使用接收器参数的介绍。
-
-towardsdatascience.com](/what-is-a-sink-argument-caf77dab6ac5) 
+</what-is-a-sink-argument-caf77dab6ac5>  
 
 DataFrames.jl 的显示输出相当恐怖，这是我一直讨厌这个包的地方。实际上，我确实派生了这个包，并试图修改显示，但由于 DataFrames.jl 如此依赖于其他生态系统包，如 PrettyTables.jl，我们决定等待 PrettyTables.jl 的下一个版本发布会更有意义。这当然是有意义的，但是在一段时间内使用这个包会有负面影响。渐渐地，我放弃了我不想要的列，因为它们变得可见。我是通过使用 select！()方法和 Not()方法——这当然是从数据帧中删除列的一种非常谨慎的方法。：
 
@@ -134,11 +122,7 @@ model = RandomForestClassifier(Array(trainX_encoded), Array(trainy))
 
 请注意，我必须将数组类型转换为我的两个数组，这是因为 DataFrames.jl 从. 24 版本开始就在 PooledArrays 中存储数据，而 Lathe 的调度不是针对 AbstractArrays，而是只针对数组。如果你想学习更多关于 Julia 语言中类型抽象的知识，我有另外一篇文章你也可以阅读:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 接下来，我将 testX 转换成数组类型:
 
@@ -154,11 +138,7 @@ pipe = encoder + model
 
 我实际上写了一篇关于如何做到这一点的文章，如果你不熟悉 Julia，我肯定认为它不值得一读:
 
-[](/extending-julias-operators-with-amazing-results-96c042369349) [## 用惊人的结果扩展 Julia 的算子
-
-### 如何在 Julia 中加载和扩展方法，用一个真正激动人心的例子。
-
-towardsdatascience.com](/extending-julias-operators-with-amazing-results-96c042369349) 
+</extending-julias-operators-with-amazing-results-96c042369349>  
 
 最后，我们可以在新管道上调用 predict()函数，该函数将对我们的值进行编码，然后将其传递给模型:
 
@@ -183,10 +163,6 @@ println("Accuracy: ", catacc(testy, yhat) * 100)
 
 尽管这些特性之间缺乏统计意义，但很难否认 Lathe.jl 包中提供的很酷的语法和方法。我认为这些管道特别酷，我很高兴能继续深入研究它们。如果您对该模型与其他地方的实现相比如何感到好奇，您可以随时查看我对该模型和 SkLearn 之间的性能和准确性进行的比较，这无疑是很有启发性的:
 
-[](/performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7) [## 性能测试——Python 和 SkLearn 与 Julia 和 Lathe
-
-### 在两个生态系统工具的最新版本上执行一些基本指标。
-
-towardsdatascience.com](/performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7) 
+</performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7>  
 
 非常感谢您的阅读，我希望这篇文章对您有所帮助，让您在 Julia 中成为一名更好的程序员！

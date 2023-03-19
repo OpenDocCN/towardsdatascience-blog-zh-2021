@@ -43,11 +43,7 @@ GAM 是一个线性模型，与广义线性模型(如线性回归)相比有一�
 
 这篇文章的笔记本在这里:
 
-[](https://github.com/AdamShafi92/GAM) [## 亚当沙菲 92/GAM
-
-### 探索广义加性模型探索广义加性模型游戏中期后配套笔记本…
-
-github.com](https://github.com/AdamShafi92/GAM) 
+<https://github.com/AdamShafi92/GAM>  
 
 # 用线性回归估计非线性函数
 
@@ -186,11 +182,7 @@ gam.summary()print(gam.score(X_test,y_test))
 
 PyGAM 有更多的深度，因为它提供了多种游戏类型。查看 PyGAM 文档，了解其他类型的 GAM(例如用于分类)和不同的可用地块类型。
 
-[](https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html) [## pyGAM - pyGAM 文档之旅
-
-### 广义可加模型是光滑的半参数模型，其形式为:\[g(\mathbb{E}[y|X]) = \beta_0 +…
-
-pygam.readthedocs.io](https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html) 
+<https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html>  
 
 # 结论
 
@@ -202,16 +194,8 @@ pygam.readthedocs.io](https://pygam.readthedocs.io/en/latest/notebooks/tour_of_p
 
 ## 了解更多信息
 
-[](/5-project-ideas-91da0da17b31) [## 启动您的数据科学职业生涯的 5 个项目创意
-
-### 成功项目的框架。
-
-towardsdatascience.com](/5-project-ideas-91da0da17b31) 
+</5-project-ideas-91da0da17b31>  
 
 ## 将我的内容直接发送到您的收件箱！
 
-[](https://adamsh.substack.com/p/coming-soon) [## Data Siens:机器学习技巧、诀窍和教程的资源。
-
-### 欢迎来到亚当的数据西恩斯。我是一名数据科学家，有 5 年的分析经验。我喜欢谈论任何事情…
-
-adamsh.substack.com](https://adamsh.substack.com/p/coming-soon)
+<https://adamsh.substack.com/p/coming-soon> 

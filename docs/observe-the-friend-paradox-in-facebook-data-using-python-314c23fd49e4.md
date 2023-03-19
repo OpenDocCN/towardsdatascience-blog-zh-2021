@@ -131,29 +131,13 @@ GIF by Author —在这里与图表[互动](https://khuyentran1401.github.io/pag
 
 在这个回购中，您可以随意使用这篇文章的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/friend_paradox/facebook_network.ipynb) [## 数据科学/Facebook _ network . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/Facebook _ network . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/friend_paradox/facebook_network.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/visualization/friend_paradox/facebook_network.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
-
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [](/build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0) [## 用 Diffbot 构建和分析知识图
-
-### 如何用知识图谱回答疑难问题
-
-towardsdatascience.com](/build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0) [](/i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474) [## 我收集了超过 1k 的顶级机器学习 Github 配置文件，这就是我的发现
-
-### 从 Github 上的顶级机器学习档案中获得见解
-
-towardsdatascience.com](/i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474) [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
+</pyvis-visualize-interactive-network-graphs-in-python-77e059791f01>  </build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0>  </i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474>  </how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c> [## 如何用 Excalidraw 勾画您的数据科学想法
 
 towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) 
 

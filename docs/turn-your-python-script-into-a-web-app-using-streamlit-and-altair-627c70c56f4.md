@@ -6,7 +6,7 @@
 
 *在本文中，我将给出一个快速教程，介绍如何使用*[*Streamlit*](https://streamlit.io/)*和*[*Altair*](https://altair-viz.github.io/)*——这两个库提供了一个快速简单的框架来创建交互式仪表盘和数据发现工具。*
 
-*我们将使用 2020 年东京奥运会*[](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm)**的数据来计算哪些国家获得了最多的奖牌，并比较男女运动员如何为他们的团队取得成功做出贡献。我在教程中使用的数据集可以在*[*ka ggle*](https://www.kaggle.com/jamieeeee/tokyo-2020-olympics-medal-count)*上找到。**
+*我们将使用 2020 年东京奥运会*<https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm>**的数据来计算哪些国家获得了最多的奖牌，并比较男女运动员如何为他们的团队取得成功做出贡献。我在教程中使用的数据集可以在*[*ka ggle*](https://www.kaggle.com/jamieeeee/tokyo-2020-olympics-medal-count)*上找到。**
 
 *但是在我们开始之前，先介绍一下这两个库:*
 

@@ -10,13 +10,13 @@
 
 图片由卢卡斯·佩泽塔在[像素](https://www.pexels.com/photo/black-telescope-under-blue-and-blacksky-2034892/)上提供。
 
-*在本系列文章中，我们将介绍如何从头开始创建自己的数据可观察性监视器，映射到数据健康的五大支柱*[](/introducing-the-five-pillars-of-data-observability-e73734b263d5)**。第一部分可以在这里找到*[](https://www.montecarlodata.com/data-observability-in-practice-using-sql-1/)**。***
+*在本系列文章中，我们将介绍如何从头开始创建自己的数据可观察性监视器，映射到数据健康的五大支柱*</introducing-the-five-pillars-of-data-observability-e73734b263d5>**。第一部分可以在这里找到*<https://www.montecarlodata.com/data-observability-in-practice-using-sql-1/>**。***
 
 ***本系列的第二部分改编自 Barr Moses 和 Ryan Kearns' O'Reilly 的培训，* [***管理数据停机时间:将可观测性应用于您的数据管道***](https://www.oreilly.com/live-training/courses/managing-data-downtime/0636920508717/) *，这是业内首个关于数据可观测性的课程。关联练习可在* [*这里*](https://github.com/monte-carlo-data/data-downtime-challenge) *获得，本文所示改编代码可在* [*这里*](https://github.com/monte-carlo-data/data-observability-in-practice) *获得。***
 
 **随着世界对数据需求的增加，强大的数据管道变得更加必要。当数据中断时——无论是由于模式更改、空值、重复还是其他原因——数据工程师需要知道。**
 
-**最重要的是，我们需要在破坏影响到下游系统和消费者之前，尽快评估破坏的根本原因。我们使用“[](/the-rise-of-data-downtime-841650cedfd5)**”来指代数据丢失、出错或不准确的时间段。如果您是一名数据专业人员，您可能很熟悉提出以下问题:****
+**最重要的是，我们需要在破坏影响到下游系统和消费者之前，尽快评估破坏的根本原因。我们使用“</the-rise-of-data-downtime-841650cedfd5>**”来指代数据丢失、出错或不准确的时间段。如果您是一名数据专业人员，您可能很熟悉提出以下问题:****
 
 *   ****数据是最新的吗？****
 *   ****数据是否完整？****

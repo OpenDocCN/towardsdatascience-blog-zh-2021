@@ -14,19 +14,11 @@
 
 我经常采用机器学习优先的方法来分析数据，但在探索了我的 Github 之后，我意识到我没有太多的探索笔记本，特别是在自然语言处理(NLP)领域，这是我热衷于关注的领域——更具体地说，是感兴趣的对话式人工智能。
 
-[](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) 
+<https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343>  
 
 情感分析任务包括使用自然语言处理(NLP)和机器学习(ML)的技术对主观数据进行解释和分类。由于世界上的许多数据都是数字格式的，许多企业正在利用情感分析的力量来收集关于品牌声誉、客户对各种产品的想法等更多信息。
 
-[](/getting-started-with-sentiment-analysis-731531ec880d) [## 情感分析入门
-
-### 自然语言处理专业课程 1 第 1 周笔记
-
-towardsdatascience.com](/getting-started-with-sentiment-analysis-731531ec880d) 
+</getting-started-with-sentiment-analysis-731531ec880d>  
 
 ## 问题陈述
 
@@ -46,11 +38,7 @@ towardsdatascience.com](/getting-started-with-sentiment-analysis-731531ec880d)
 
 > **注意**:本文中用于生成可视化效果的所有代码都可以在 Github 上找到。
 
-[](https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb) [## kurtispykes/twitter 情绪分析
-
-### 通过在 GitHub 上创建一个帐户，为 kurtispykes/twitter 情绪分析开发做出贡献。
-
-github.com](https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb) 
+<https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb>  
 
 ## 数据分解
 

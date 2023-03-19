@@ -323,11 +323,7 @@ results.to_csv("svm_linear.csv",index = False)
 
 README**文件也有助于其他事情，比如构建虚拟环境和其他一些事情，所以如果你想的话，一定要检查一下。**
 
-[](https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best) [## yashprakash 13/data-另一天
-
-### 我在我的…上学习和撰写的所有数据科学项目、概念、工具和资源的主存储库
-
-github.com](https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best) 
+<https://github.com/yashprakash13/data-another-day#ml-mini-projects-because-crash-courses-are-the-best>  
 
 > 单独学习数据科学可能会很难。[跟我来](https://medium.com/@ipom)让我们一起乐一乐。😁
 > 
@@ -335,8 +331,4 @@ github.com](https://github.com/yashprakash13/data-another-day#ml-mini-projects-b
 
 另外，看看我的另一篇文章，你可能会感兴趣:
 
-[](https://pub.towardsai.net/how-to-build-an-end-to-end-deep-learning-portfolio-project-caa459bf3029) [## 如何建立端到端的深度学习组合项目
-
-### 我用来构建一个完整的、真实的重要项目的步骤的完整指南，可以自豪地展示在…
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-build-an-end-to-end-deep-learning-portfolio-project-caa459bf3029)
+<https://pub.towardsai.net/how-to-build-an-end-to-end-deep-learning-portfolio-project-caa459bf3029> 

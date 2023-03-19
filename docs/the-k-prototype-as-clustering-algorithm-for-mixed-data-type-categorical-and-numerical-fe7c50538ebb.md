@@ -49,7 +49,7 @@ warnings.filterwarnings('ignore', category = FutureWarning)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 ```
 
-数据可以在这里下载[](https://raw.githubusercontent.com/audhiaprilliant/audhiaprilliant.github.io/master/assets/docs/10000%20Sales%20Records.csv)**或者你可以通过访问 [***这个网站***](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) 轻松生成这个数据。完全免费。尽情享受吧！**
+数据可以在这里下载<https://raw.githubusercontent.com/audhiaprilliant/audhiaprilliant.github.io/master/assets/docs/10000%20Sales%20Records.csv>**或者你可以通过访问 [***这个网站***](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) 轻松生成这个数据。完全免费。尽情享受吧！**
 
 ```
 **# Load the data

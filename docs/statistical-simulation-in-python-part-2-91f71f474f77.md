@@ -22,11 +22,7 @@ eberhard grossgasteiger 在 [Unsplash](https://unsplash.com/?utm_source=unsplash
 
 在之前的帖子中，我已经介绍了统计思维和 R 代码的基础知识。如果你错过了，这里是入口:
 
-[](/statistical-simulation-in-r-part-1-d9cb4dc393c9) [## R 中的统计模拟，第 1 部分
-
-### Ace 数据科学访谈
-
-towardsdatascience.com](/statistical-simulation-in-r-part-1-d9cb4dc393c9) 
+</statistical-simulation-in-r-part-1-d9cb4dc393c9>  
 
 免责声明:我假设我的读者朋友理解统计学基础知识(例如，什么是二项分布)，并且熟悉 Python 编程环境(例如，如何编写简单的 for 循环)。下面是由朱撰写的关于[常见统计分布](/seven-must-know-statistical-distributions-and-their-simulations-for-data-science-681c5ac41e32)的简要回顾。
 
@@ -169,27 +165,11 @@ import numpy as npdef weight_func(sequence):# step 1
 
 **Medium 最近进化出了自己的* [*作家合伙人计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。**
 
-*[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)* 
+*<https://leihua-ye.medium.com/membership> * 
 
 # *我的数据科学面试序列*
 
-*[](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [## 2021 年数据科学家面临的 4 个棘手的 SQL 问题
-
-### 可能会让你犯错的简单查询
-
-towardsdatascience.com](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) [## “臭名昭著”的算法:Python 中的二分搜索法
-
-### 数据科学和软件工程面试中最基本的算法
-
-towardsdatascience.com](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) 
+*</4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77>  </5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  </binary-search-in-python-the-programming-algorithm-8b8fa039eaa>  
 
 # 喜欢读这本书吗？
 

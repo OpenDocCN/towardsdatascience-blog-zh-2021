@@ -25,7 +25,7 @@ Robynne Hu 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 要深入了解统计，请查看我的“数据科学统计基础”帖子。
 
-[](/stats-essentials-for-data-science-cfcdee17af68) [## 数据科学统计基础
+</stats-essentials-for-data-science-cfcdee17af68> [## 数据科学统计基础
 
 towardsdatascience.com](/stats-essentials-for-data-science-cfcdee17af68) 
 

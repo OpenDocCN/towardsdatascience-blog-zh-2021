@@ -20,11 +20,7 @@
 
 如果您在 Heroku 中没有现成的数据库，请阅读下面的帖子，其中我介绍了在 Heroku 中创建 PostgreSQL 数据库的所有步骤。
 
-[](/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66) [## 如何使用 Docker 通过 pgadmin4 连接到 Heroku Postgres 数据库
-
-### 了解世界上最先进的开源关系数据库。
-
-towardsdatascience.com](/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66) 
+</how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66>  
 
 ## 2.使用 Python 无服务器函数连接到数据库
 
@@ -111,12 +107,4 @@ https://vercel-python-postgresql.vercel.app/api/index
 
 干得好！现在您知道了如何使用 Vercel python 无服务器函数连接到 Heroku PostgreSQL 数据库。我希望你能从这篇文章中学到一些新的东西，如果你觉得这篇文章有帮助的话，看看下面的文章，我在那里谈了更多关于 Vercel 的内容。
 
-[](/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0) [## 如何将 Python 无服务器功能部署到 Vercel
-
-### 让基础设施来承担重担。
-
-towardsdatascience.com](/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0) [](/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2) [## 如何将 Ruby 无服务器功能部署到 Vercel
-
-### 关注你的代码，而不是基础设施
-
-towardsdatascience.com](/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2)
+</how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0>  </how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2> 

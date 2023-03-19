@@ -14,11 +14,7 @@
 
 当你想学习新的东西时，你的第一个合乎逻辑的步骤将是查找路线图或有组织的教学大纲，以正确的顺序获得所有你需要的知识。通常，找到一个简单、精确、可操作的路线图并不是一件容易的事情。这本身就是一个需要导航的学习之旅。
 
-[](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) [## 每个数据科学家都应该知道的 10 个 NLP 术语
-
-### 了解术语对于理解任何教程都是必不可少的。
-
-towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) 
+</10-nlp-terms-every-data-scientist-should-know-43d3291643c0>  
 
 相对于深度教程的数量，一般的视野更广，可以遵循的步骤也不多。这就是为什么我决定写这篇文章，也许是为了帮助你更全面地了解你需要谈论哪些步骤，需要涵盖哪些材料，以及需要获得哪些知识才能被认为是自然语言处理专家。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d329164
 
 幸运的是，有大量的资源可以用来免费学习编程，比如 [CodeAcademy](https://www.codecademy.com/) 、 [edX](https://www.edx.org/search?q=programming) 和 [Coursera](https://www.coursera.org/search?query=programming&) 。
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 # 第二步:数学、统计和概率
 
@@ -48,11 +40,7 @@ towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a)
 
 从这些方面入手的一个好方法是阅读概念摘要，然后根据需要深入研究每一个方面。下面是我对[线性代数](https://www.uio.no/studier/emner/matnat/ifi/IN5550/v19/la.pdf)、[微积分](https://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)、[统计](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)、[概率论](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)的一些喜欢的总结。
 
-[](/probability-theory-in-data-science-bacb073edf1f) [## 数据科学是关于概率的
-
-### 数据科学中最常用的 4 种概率分布
-
-towardsdatascience.com](/probability-theory-in-data-science-bacb073edf1f) 
+</probability-theory-in-data-science-bacb073edf1f>  
 
 # 步骤 3:文本预处理
 
@@ -64,11 +52,7 @@ towardsdatascience.com](/probability-theory-in-data-science-bacb073edf1f)
 
 理解这些概念基础的一个很好的资源是麻省理工学院关于文本分析的开放课件。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # 步骤 4:机器学习基础
 
@@ -78,11 +62,7 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 学习机器学习基础知识的一个有用资源是[麻省理工](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)机器学习课程或 [CodeAcademy 提供的这门课程。](https://www.codecademy.com/learn/machine-learning)
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # 步骤 5: NLP 核心技术
 
@@ -106,11 +86,7 @@ NLP 技术包括应用语言模型、分类文本、构建序列模型、解析�
 
 自然语言处理是数据科学的一个分支；它是一个分支，致力于使计算机能够理解和使用人类语言与我们交流，或者只是理解我们正在谈论的东西。在过去的几年里，技术的进步使得各种自然语言处理技术得到了有效的实现和广泛的应用。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 在本文中，我向您展示了一个简单、清晰的路线图，帮助您获得学习自然语言处理所需的知识并找到一份工作。本文中的步骤是包容性的，所以我从头开始。如果你已经完成了一些步骤，那么你可以继续下一步。
 

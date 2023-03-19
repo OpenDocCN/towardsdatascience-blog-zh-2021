@@ -274,11 +274,7 @@ FAISS CPU 语义搜索模型用于构建 streamlit 中的数据驱动应用程�
 
 请在 streamlit 上找到简单应用的网络广播链接
 
-[](https://drive.google.com/file/d/1i5VnSBbBmjMMSHPPItkULKIJVBgkYMs2/view?usp=sharing) [## self _ case _ study1 _ 录音. mp4
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1i5VnSBbBmjMMSHPPItkULKIJVBgkYMs2/view?usp=sharing) 
+<https://drive.google.com/file/d/1i5VnSBbBmjMMSHPPItkULKIJVBgkYMs2/view?usp=sharing>  
 
 ## 11.结论和未来工作
 

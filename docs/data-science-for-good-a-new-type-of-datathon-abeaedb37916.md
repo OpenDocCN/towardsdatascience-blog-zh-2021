@@ -51,19 +51,7 @@
 
 **感谢阅读。这里有一些你可能会喜欢的文章:**
 
-[](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [](https://medium.com/swlh/how-to-boost-your-coding-skills-c1911f78e63c) [## 如何提高你的编码技能
-
-### 如果你正在学习如何编码，那么理解什么是神经可塑性以及如何破解你的…
-
-medium.com](https://medium.com/swlh/how-to-boost-your-coding-skills-c1911f78e63c) [](/machine-learning-is-like-football-e3e3ace8ce7a) [## 机器学习就像足球
-
-### 对复杂话题的有趣类比
-
-towardsdatascience.com](/machine-learning-is-like-football-e3e3ace8ce7a) 
+</switching-career-to-data-science-in-your-30s-6122e51a18a3>  <https://medium.com/swlh/how-to-boost-your-coding-skills-c1911f78e63c>  </machine-learning-is-like-football-e3e3ace8ce7a>  
 
 **参考文献:**
 

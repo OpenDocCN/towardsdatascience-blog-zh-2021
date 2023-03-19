@@ -66,16 +66,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [## 高效数据科学家的懒惰心态:自动化如何有所帮助
-
-### 在数据科学中利用 CI/CD 和自动化
-
-towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [## 作为数据科学家起步的三大挑战
-
-### 我作为一名年轻的数据科学家所面临的问题以及我是如何克服这些问题的
-
-towardsdatascience.com](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [## 为什么 2021 年你需要一位数据科学导师
-
-### 问导师的 5 件事对你的职业和学习有帮助
-
-towardsdatascience.com](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7)
+</the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212>  </top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09>  </why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7> 

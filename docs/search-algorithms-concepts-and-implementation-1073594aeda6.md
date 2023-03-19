@@ -197,16 +197,4 @@ A*类似于 Dijkstra 算法，因为它也用于查找最短路径，但它比 D
 
 # 参考
 
-[](https://leetcode.com/problems/shortest-path-in-binary-matrix/) [## 二元矩阵中的最短路径- LeetCode
-
-### 给定一个 n×n 二进制矩阵网格，返回矩阵中最短畅通路径的长度。如果没有明确的…
-
-leetcode.com](https://leetcode.com/problems/shortest-path-in-binary-matrix/) [](https://leetcode.com/problems/minimum-path-sum/) [## 最小路径和- LeetCode
-
-### 给定一个填充有非负数的 m x n 网格，找出一条从左上到右下的路径，使和最小化…
-
-leetcode.com](https://leetcode.com/problems/minimum-path-sum/) [](https://leetcode.com/problems/unique-paths/) [## 唯一路径- LeetCode
-
-### 一个机器人位于一个 m x n 网格的左上角(在下图中标为“开始”)。机器人只能…
-
-leetcode.com](https://leetcode.com/problems/unique-paths/)
+<https://leetcode.com/problems/shortest-path-in-binary-matrix/>  <https://leetcode.com/problems/minimum-path-sum/>  <https://leetcode.com/problems/unique-paths/> 

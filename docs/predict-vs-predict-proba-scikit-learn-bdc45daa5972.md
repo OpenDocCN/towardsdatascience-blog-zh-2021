@@ -72,16 +72,4 @@ knn.fit(iris_X_train, iris_y_train)
 
 **你可能也会喜欢**
 
-[](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn vs sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736) [](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f) [## Python scikit 中的 fit()vs predict()vs fit _ predict()-learn
-
-### sklearn 中的 fit，predict 和 fit_predict 方法有什么区别
-
-towardsdatascience.com](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f) [](https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3) [## Python scikit 中的 fit()vs transform()vs fit _ transform()-学习
-
-### sklearn 中的 fit，transform 和 fit_transform 方法有什么区别
-
-medium.com](https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3)
+</scikit-learn-vs-sklearn-6944b9dc1736>  </fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f>  <https://medium.com/geekculture/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3> 

@@ -14,11 +14,7 @@
 
 当开发人员和数据科学家编写关于特定主题的在线教程或创建视频时，总会有一个假设，如果你在这里(在教程或视频旁边)，那么你就知道发生了什么。因此，他们会使用技术术语，假设读者/观察者知道它们的意思。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 如果你不知道这些术语的意思，阅读或观看这些教程可能会很麻烦。因为那样的话，你需要停下来，谷歌一下这个术语，然后回到教程。你可以想象，或者经历过，这并不理想。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 如果您正在使用 Python 来构建您的项目， [Gensim](https://radimrehurek.com/gensim/index.html) 包可以帮助您从 Wiki 或基于 Wiki 的文章中构建语料库。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # 2 号:词干
 
@@ -84,11 +76,7 @@ NLTK 包还提供了可以用来提取单词的词条的方法。
 
 词汇对于从自然语言处理模型中获得更准确的结果是必不可少的。例如，在对一些推文进行情感分析时，了解推文周围的主题，描述事物的口语化方式可以在分析结果中产生很大的差异。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # №6:单词嵌入
 
@@ -155,10 +143,6 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 不管它们的来源如何，理解这些术语是理解该领域、阅读任何讨论该领域的资源并最终掌握该领域的必要步骤。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 本文向您介绍了自然语言处理的基本术语，您可以在大多数描述任何领域方面的文章和视频中找到这些术语。希望了解这些术语的含义会让你更容易接触到资源，建立新的项目，在你的学习之旅中前进，并实现你的梦想职业。

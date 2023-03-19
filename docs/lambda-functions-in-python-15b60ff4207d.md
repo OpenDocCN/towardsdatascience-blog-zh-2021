@@ -282,11 +282,7 @@ iterable = [1, 3, 5, 6, 9, 11, 15, 16, 21]reduce(lambda x: x + y, iterable)
 
 编写独特的内容，在上下文和外观上为读者增加价值，这是我自己的责任，定义如下:
 
-[](https://rukshanpramoditha.medium.com/10-best-practices-that-i-always-follow-to-make-medium-a-better-place-for-readers-e48c6bc27126) [## 我一直遵循的让媒体成为读者更好的地方的 10 个最佳实践
-
-### 这是一个重要的指南，可以帮助你在内容和外观上为读者增加价值
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/10-best-practices-that-i-always-follow-to-make-medium-a-better-place-for-readers-e48c6bc27126) 
+<https://rukshanpramoditha.medium.com/10-best-practices-that-i-always-follow-to-make-medium-a-better-place-for-readers-e48c6bc27126>  
 
 下次再见，祝大家学习愉快！同时，你可以在以下网址阅读我的其他帖子:
 

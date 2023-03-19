@@ -114,20 +114,8 @@ x = x + y  # x is evaluated twice
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](https://codecrunch.org/what-does-if-name-main-do-e357dd61be1a) [## Python 中 if __name__ == "__main__ "是做什么的？
-
-### Python 中主方法的执行时间和方式
-
-codecrunch.org](https://codecrunch.org/what-does-if-name-main-do-e357dd61be1a) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+<https://codecrunch.org/what-does-if-name-main-do-e357dd61be1a>  </dynamic-typing-in-python-307f7c22b24e> 

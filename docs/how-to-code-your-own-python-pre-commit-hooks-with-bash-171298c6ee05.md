@@ -12,19 +12,11 @@
 
 *这里是这个项目的模板。我们使用诗歌进行包装管理。本文着重于编写定制的预提交钩子。*
 
-[](https://github.com/edkrueger/poetry-template) [## 爱德华·克鲁格/诗歌模板
-
-### 运行诗歌安装来安装环境。运行诗歌运行预提交安装初始化 git 挂钩。跑诗跑…
-
-github.com](https://github.com/edkrueger/poetry-template) 
+<https://github.com/edkrueger/poetry-template>  
 
 *有关 Python 预提交钩子的更多介绍性信息，请查看本文。*
 
-[](/getting-started-with-python-pre-commit-hooks-28be2b2d09d5) [## Python 预提交挂钩入门
-
-### 定义拒绝不符合要求的提交的规则。
-
-towardsdatascience.com](/getting-started-with-python-pre-commit-hooks-28be2b2d09d5) 
+</getting-started-with-python-pre-commit-hooks-28be2b2d09d5>  
 
 # 什么是预提交挂钩？
 

@@ -114,4 +114,4 @@ Smith 建议“这是一个发现更多关于利益相关者、他们的挑战�
 
 网飞是一个依靠渐进式创新繁荣发展的组织的优秀范例。由于过去 20 年人工智能模型的持续微小改进，人们在网飞观看的 80%以上的视频是通过他们的[推荐系统](https://dl.acm.org/doi/pdf/10.1145/2843948)发现的。
 
-*这篇文章最早发表于《福布斯》上的*[](https://www.forbes.com/sites/ganeskesari/2021/01/21/accuracy-isnt-everything-how-even-a-wrong-ai-model-can-transform-your-business/)**。增加了插图。**
+*这篇文章最早发表于《福布斯》上的*<https://www.forbes.com/sites/ganeskesari/2021/01/21/accuracy-isnt-everything-how-even-a-wrong-ai-model-can-transform-your-business/>**。增加了插图。**

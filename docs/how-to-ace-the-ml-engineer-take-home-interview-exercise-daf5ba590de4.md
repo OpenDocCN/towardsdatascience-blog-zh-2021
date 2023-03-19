@@ -12,7 +12,7 @@ JESHOOTS.COM 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 这篇文章的灵感来自 [Tessa Xie](https://medium.com/u/dadb1d33c05a?source=post_page-----daf5ba590de4--------------------------------) ，她最近写了一篇关于**数据科学(DS)** 带回家练习的文章，她在文章中分享了 DS 带回家练习的*为什么*和*如何*以及应该如何进行。
 
-在过去几个月的面试中，我最近获得了一份在[](https://dictionary.cambridge.org/dictionary/english/decacorn)*十日学校担任 ML 工程师的工作，我认为分享我在做 **ML 工程**课后练习时学到并应用的东西是有益的。*
+在过去几个月的面试中，我最近获得了一份在<https://dictionary.cambridge.org/dictionary/english/decacorn>*十日学校担任 ML 工程师的工作，我认为分享我在做 **ML 工程**课后练习时学到并应用的东西是有益的。*
 
 ## *首先，简单介绍一下我自己…*
 

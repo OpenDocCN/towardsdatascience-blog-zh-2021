@@ -107,11 +107,7 @@ DAG 运行状态
 
 在下面的链接中找到更多关于 Airflow REST API 的信息。
 
- [## 气流休息 API
-
-### 编辑描述
-
-airflow.apache.org](https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html) 
+  
 
 有一个名为 sense_master 的表，用于存储“**传感器**检测到并触发“插入数据”过程的所有文件名。每隔 5 分钟，传感器会将 SFTP 服务器目录中的文件列表与数据库表中存储的文件列表进行比较。它将需要处理的文件名传递给 insert_data DAG。
 
@@ -141,12 +137,4 @@ SUM(Number of S-CSCF Successful Initial Registrations + Number of 401 Responses 
 
 如果您想了解更多关于 Apache Airflow 的知识，Udemy 上有一个很好的课程，可以教授 Airflow 的基础知识，还可以动手构建数据管道。如果您有兴趣，请参考以下附属链接:
 
-[](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F) [## Apache 气流的完整实践介绍
-
-### 大家好，我叫马克·兰伯特，今年 27 岁，很高兴能引起你们的好奇心！我目前在工作…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F) [](https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka) [## 使用 Shell、Airflow 和 Kafka 的 ETL 和数据管道
-
-### 学完本课程后，你将能够描述两种不同的方法将原始数据转换成…
-
-click.linksynergy.com](https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka)
+<https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F>  <https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka> 

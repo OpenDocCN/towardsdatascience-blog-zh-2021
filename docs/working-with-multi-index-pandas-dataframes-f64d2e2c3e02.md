@@ -567,8 +567,4 @@ df_result.set_index(**['Zone','School']**)
 
 我希望这篇文章使处理多索引数据框架不像最初看起来那么可怕。记住我在本文中讨论的技术的最好方法是自己尝试代码示例。如果你有进一步的问题，请留下你的评论，我会尽量在这里回答。玩得开心！
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

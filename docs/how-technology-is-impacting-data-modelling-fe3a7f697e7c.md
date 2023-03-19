@@ -30,11 +30,7 @@
 
 我最近看到了一个视频，视频中一组数据专家讨论了这些问题。
 
-[](https://www.greatdataminds.com/insights/data-vault-vs-traditional-vs-flatten-that-crap-out/) [## 数据仓库对比传统对比消除垃圾:伟大的数据头脑
-
-### 时代在改变！组织正处于云之旅的不同阶段。传统架构也是如此…
-
-www.greatdataminds.com](https://www.greatdataminds.com/insights/data-vault-vs-traditional-vs-flatten-that-crap-out/) 
+<https://www.greatdataminds.com/insights/data-vault-vs-traditional-vs-flatten-that-crap-out/>  
 
 这是一个漫长而有趣的讨论，如果你选择不看，这里是我的总结。
 
@@ -77,10 +73,6 @@ www.greatdataminds.com](https://www.greatdataminds.com/insights/data-vault-vs-tr
 
 如果你今天想读 Kimball 的“数据仓库工具包”，我强烈推荐这篇文章(以及其他关于 [holistics.io](https://www.holistics.io/blog/tag/data-modeling/) 的数据建模资源)，它解释了哪些章节仍然相关，哪些章节你可以安全地跳过。
 
-[](https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/) [## 数据仓库工具包 2020 年读者指南
-
-### 在为《分析设置指南》做研究时，我读了拉尔夫·金博尔和玛吉·罗斯的传奇著作《数据…
-
-www.holistics.io](https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/) 
+<https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/>  
 
 我没有使用 data vault 的实践经验(它似乎更适合企业数据集成)，但如果你想了解更多，我发现[这篇评论](https://www.ben-morris.com/data-vault-2-modelling-the-good-the-bad-and-the-downright-confusing/)很有趣。

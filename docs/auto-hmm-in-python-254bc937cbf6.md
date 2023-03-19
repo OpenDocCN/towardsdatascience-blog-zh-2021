@@ -20,11 +20,7 @@ HMM 中的训练是通过 Baum-Welch 完成的，这是 EM 算法的特例。解
 
 要访问代码，请访问我的 GitHub
 
-[](https://github.com/manitadayon/Auto_HMM) [## GitHub - manitadayon/Auto_HMM:隐马尔可夫模型
-
-### 隐马尔可夫模型。在 GitHub 上创建一个帐户，为 manitadayon/Auto_HMM 开发做贡献。
-
-github.com](https://github.com/manitadayon/Auto_HMM) 
+<https://github.com/manitadayon/Auto_HMM>  
 
 请仔细阅读 DHMM 测试和嗯测试 Python 文件中的例子。它们要求您提供 CSV 文件地址、HMM 模型的迭代次数、训练规模、特征数量(时间序列的维度)。
 
@@ -50,18 +46,10 @@ First_DHMM.Best_States()
 
 关于我最近的活动和任何问题的更多信息，请访问我的 YouTube 页面。我还编写了 tsBNgen，这是用于生成合成时间序列数据的 Python 包，可以用作 Auto-HMM 模型的输入。要了解更多关于 tsBNgen 的信息，请访问下面我的 YouTube 页面。
 
-[](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ) [## 人工智能和 ML 基础
-
-### 关于数值线性代数、最优化、统计学、机器学习、编码等的教育视频。专注于…
-
-www.youtube.com](https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ) 
+<https://www.youtube.com/channel/UCjNDIlqrFdKUgSeN9wV-OzQ>  
 
 如果您有任何问题或疑虑，可以访问我的个人页面
 
- [## 首页- Manie Tadayon
-
-### 欢迎来到我的个人页面项目项目和出版物在机器学习，人工智能和信号处理。更多信息…
-
-manietadayon.com](https://manietadayon.com/) 
+  
 
 要了解有关 HMM 建模和实现的更多信息，请参考以下视频:

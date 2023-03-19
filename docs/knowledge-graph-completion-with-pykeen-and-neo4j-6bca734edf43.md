@@ -44,11 +44,7 @@
 
 为了跟随本教程，我建议您下载 Neo4j 桌面应用程序。
 
-[](https://neo4j.com/) [## Neo4j 图形数据平台——图形数据库的领导者
-
-### 介绍 Neo4j AuraDB Free 世界领先的图形数据库，现在可作为一个始终免费的云服务新！
-
-neo4j.com](https://neo4j.com/) 
+<https://neo4j.com/>  
 
 一旦安装了 Neo4j 桌面，就可以[下载数据库转储](https://drive.google.com/file/d/1u34cFBYvBtdBsqOUPdmbcIyIt88IiZYe/view?usp=sharing)并使用它来恢复数据库实例。
 
@@ -81,11 +77,7 @@ PyKEEN 是一个不可思议的、简单易用的库，可用于知识图完成�
 我喜欢它是因为它的高级接口，使得构建 PyKEEN 图和训练嵌入模型变得非常容易。
 查看其 GitHub 知识库了解更多信息。
 
-[](https://github.com/pykeen/pykeen) [## GitHub - pykeen/pykeen:🤖用于学习和评估知识图嵌入的 Python 库
-
-### py keen(Python Knowl Edge embedding in GS)是一个 Python 包，旨在训练和评估知识图嵌入…
-
-github.com](https://github.com/pykeen/pykeen) 
+<https://github.com/pykeen/pykeen>  
 
 ## 将 Neo4j 转换为 PyKEEN 图
 
@@ -157,11 +149,7 @@ L-天冬酰胺和结肠癌之间的间接途径。作者图片
 
 出于好奇，我在谷歌上搜索了 L-天冬酰胺与结肠癌的结合，看到了这篇 2019 年的文章。
 
-[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412063/) [## SOX12 通过调节天冬酰胺促进结直肠癌细胞增殖和转移
-
-### 性别决定区 Y (SRY)-box (SOX)家族在癌发生和癌症进展中起着至关重要的作用…
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412063/) 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412063/>  
 
 虽然我外行的眼睛并不真正理解是否应该增加或减少天冬酰胺来帮助治疗疾病，但至少看起来两者之间似乎有关系。
 

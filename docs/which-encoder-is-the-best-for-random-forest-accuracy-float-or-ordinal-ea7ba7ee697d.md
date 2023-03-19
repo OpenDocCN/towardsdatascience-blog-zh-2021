@@ -18,11 +18,7 @@ O 处理分类数据和问题的最常见模型类型之一是随机森林分类
 
 我的预测是，顺序编码器的性能将超过浮点和标签编码器。我之所以估计这个案例，部分是因为我在这个课题上的经验。以我的经验来看，顺序编码对于基于基尼指数的预测非常有效，而在许多其他分类模型中，一种热编码可能是最合适的解决方案。我估计这是因为一个热点将创建更多的特征来作为我们节点的基础，这将把我们的胡萝卜放入几个基于布尔的篮子中，而不是只保留一个集合编码的特征。另一方面，float 编码器只是简单地将字符转换成数字，所以本质上它要做的事情和 ordinal 编码器一样，对每个类别应用唯一的值。我认为序数编码器在这方面仍将领先的原因是，序数编码器不会有可能具有高方差且本质上是任意的高数字，它不会浪费任何连续的空间，使我们的评估者更容易跟踪我们总体中的数字。如果你想了解更多关于这三种编码器的信息，你可以在这里查阅我写的这篇关于这三种编码器的文章，甚至是如何用 Julia 编写它们:
 
-[](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39) [## 编码器——如何编写，如何使用
-
-### 通过这个“从头开始”的演练，探索编码器在机器学习中的多种用途！
-
-towardsdatascience.com](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39) 
+</encoders-how-to-write-them-how-to-use-them-d8dd70f45e39>  
 
 # 依赖性和数据
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39
 
 这个过程的第一步是读入我们的数据。为此，我们将使用 sink 参数和 CSV.read()方法。如果你想了解更多关于水槽的论点，我也有一篇关于它的文章，你可以在这里找到:
 
-[](/what-is-a-sink-argument-caf77dab6ac5) [## 什么是“下沉”论点？
-
-### 关于在 Julia 编程语言中使用接收器参数的介绍。
-
-towardsdatascience.com](/what-is-a-sink-argument-caf77dab6ac5) 
+</what-is-a-sink-argument-caf77dab6ac5>  
 
 我为这个项目选择的数据是 2008 年发生在亚特兰大的犯罪数据集。让我们继续往下读:
 

@@ -98,11 +98,7 @@ GROUP BY YEAR(InvoiceDate), MONTH(InvoiceDate);
 
 这个问题语句需要 GROUP_CONCAT 函数和使用子查询的组合来解决。顺便说一下，您可以参考我下面的另一篇文章，了解在大数据上使用子查询的 SQL 性能的更多细节。
 
-[](https://medium.com/@EasonLiawYiXian/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf) [## 大数据上窗口函数与子查询的 SQL 性能
-
-### 使用窗口函数提高查询性能。
-
-medium.com](https://medium.com/@EasonLiawYiXian/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf) 
+<https://medium.com/@EasonLiawYiXian/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf>  
 
 通常，当你遇到这种涉及多个步骤的问题陈述时，我喜欢把这个问题陈述分成如下几个部分:
 

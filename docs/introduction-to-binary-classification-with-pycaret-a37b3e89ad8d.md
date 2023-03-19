@@ -80,7 +80,7 @@ PyCaret 分类模块可用于二进制或多类分类问题。它有超过 18 �
 
 # 7.0 获取数据
 
-您可以从这里找到的原始数据源[](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)**下载数据，并使用 pandas [**(了解如何使用)**](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) 加载数据，或者您可以使用 PyCaret 的数据存储库，使用`get_data()`函数加载数据(这将需要互联网连接)。**
+您可以从这里找到的原始数据源<https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients>**下载数据，并使用 pandas [**(了解如何使用)**](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) 加载数据，或者您可以使用 PyCaret 的数据存储库，使用`get_data()`函数加载数据(这将需要互联网连接)。**
 
 ```
 **# loading the dataset** from pycaret.datasets import get_data

@@ -243,8 +243,4 @@ Panda 的`.crosstab(col1, col2)`函数构建了一个交叉制表表，显示两
 
 **这就结束了我们对分类任务的探索性数据分析。我们查看了 Kaggle 上[人力资源分类数据集的 EDA 项目的 13 个代码块。这些代码块对于让您从顶层理解数据集及其功能非常重要。在这里找到完整的代码](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)。您也可以查看文章 [11 回归任务](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)的 EDA 代码块。**
 
-**[](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) [## EDA(探索性数据分析)的 11 个基本代码块
-
-### 探索任何数据科学项目并获得宝贵见解的实用指南
-
-towardsdatascience.com](/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)**
+**</11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd> **

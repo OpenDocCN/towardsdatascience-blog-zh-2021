@@ -26,11 +26,7 @@ freepik 创作的健康照片
 
 ***注:您可以使用下面的笔记本跟随:***
 
-[](https://www.kaggle.com/parulpandey/a-quick-guide-to-sorting-in-pandas) [## 熊猫分类快速指南
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自大多数星级 Github 存储库的数据
-
-www.kaggle.com](https://www.kaggle.com/parulpandey/a-quick-guide-to-sorting-in-pandas) 
+<https://www.kaggle.com/parulpandey/a-quick-guide-to-sorting-in-pandas>  
 
 ```
 df = pd.read_csv('Most starred Github Repositories.csv')

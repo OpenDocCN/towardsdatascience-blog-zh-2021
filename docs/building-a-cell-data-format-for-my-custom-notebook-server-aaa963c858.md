@@ -14,19 +14,11 @@
 
 我最近参与的一个相当酷的项目，让我非常兴奋的是新的 Jockey 笔记本编辑器。该编辑器可用于处理整个技术堆栈范围内的笔记本电脑，并计划提供各种功能，远远超出标准单元环境。有几个组件需要为后端构建，今天我将为我们的单元编辑器制作后端。这也将与我之前编程的骑师会议和配置设置相关联，因此如果您想阅读我编程所有这些内容的文章，您可以在此处进行:
 
-[](/building-a-server-settings-configuration-for-my-notebook-server-b0a7258e50f3) [## 为我的笔记本电脑服务器构建服务器设置配置
-
-### 使用 Jockey.jl 创建服务器配置
-
-towardsdatascience.com](/building-a-server-settings-configuration-for-my-notebook-server-b0a7258e50f3) 
+</building-a-server-settings-configuration-for-my-notebook-server-b0a7258e50f3>  
 
 另外，这里有一个 Github 上 Jockey 的链接。Github 可能会让您对这个项目的构建方向、包组成和目标有更好的了解。
 
-[](https://github.com/ChifiSource/Jockey.jl) [## GitHub-chifi source/Jockey . JL:Jockey IDE/笔记本服务器
-
-### 骑师 IDE/笔记本服务器。在 GitHub 上创建一个帐户，为 ChifiSource/Jockey.jl 的开发做出贡献。
-
-github.com](https://github.com/ChifiSource/Jockey.jl) 
+<https://github.com/ChifiSource/Jockey.jl>  
 
 今天，我们正在为后端会话制作一个关键组件，它将成为一种基础数据格式，我们将把它加载到文件中，并在将来使用它。还会有一篇后续文章介绍我如何为这些数据创建保存/加载算法。
 

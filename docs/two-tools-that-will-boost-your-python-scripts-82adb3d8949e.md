@@ -102,11 +102,7 @@ python script.py -ft=5 -st=7 -od='/my_computer/desktop/'
 
 如果你已经读完了，这里有一份礼物:
 
-[](/how-to-write-code-like-a-senior-developer-9ee34555858f) [## 如何像资深开发者一样写 Python 代码
-
-### 使用 Pylint 改进您的编码风格。
-
-towardsdatascience.com](/how-to-write-code-like-a-senior-developer-9ee34555858f) 
+</how-to-write-code-like-a-senior-developer-9ee34555858f>  
 
 在这个故事中，你会发现作为一个高级开发人员使用一个超级简单的包来编写 Python 的秘密工具。
 

@@ -26,11 +26,7 @@
 
 > ***GitHub 链接到项目(工作进行中)***
 
-**[](https://github.com/o0oBluePhoenixo0o/CheapAtlas) [## o0oBluePhoenixo0o/CheapAtlas
-
-### 如何使用 OSM(开放街道地图)和 OGD(开放政府数据)和 kedro 建立自己的简单人口地图集…
-
-github.com](https://github.com/o0oBluePhoenixo0o/CheapAtlas)** 
+**<https://github.com/o0oBluePhoenixo0o/CheapAtlas> ** 
 
 # **目录**
 
@@ -66,23 +62,7 @@ github.com](https://github.com/o0oBluePhoenixo0o/CheapAtlas)**
 
 **在 Medium 上，如果您在搜索框中输入“*建筑足迹*”，会有很多教程和讨论。[亚当·范·艾顿](https://medium.com/u/a5a78eaee501?source=post_page-----8c48060e5c1a--------------------------------)、[托德·斯塔维什](https://medium.com/u/2d2820731ad3?source=post_page-----8c48060e5c1a--------------------------------)在 SpaceNet challenge 上的一些著名文章。同样来自 [Romain Candy](https://medium.com/u/f4746d32109f?source=post_page-----8c48060e5c1a--------------------------------) 和 [Lucas Suryana](https://medium.com/u/10aa14045a3a?source=post_page-----8c48060e5c1a--------------------------------) 关于构建有效的“足迹检测器”。**
 
-**[](https://medium.com/the-downlinq/building-extraction-with-yolt2-and-spacenet-data-a926f9ffac4f) [## 利用 YOLT2 和 SpaceNet 数据进行建筑物提取
-
-### 第一次从卫星图像中识别建筑物轮廓的 SpaceNet 挑战赛证明了…
-
-medium.com](https://medium.com/the-downlinq/building-extraction-with-yolt2-and-spacenet-data-a926f9ffac4f) [](https://medium.com/the-downlinq/spacenet-winning-implementations-and-new-imagery-release-55f738e14253) [## SpaceNet:成功实施和新图像发布
-
-### 最近，我们宣布了里约热内卢建筑足迹提取竞赛的获胜者。在…
-
-medium.com](https://medium.com/the-downlinq/spacenet-winning-implementations-and-new-imagery-release-55f738e14253) [](https://medium.com/picterra/how-to-make-a-building-footprint-detector-768045a15bcc) [## 如何制作建筑足迹探测器
-
-### 介绍
-
-medium.com](https://medium.com/picterra/how-to-make-a-building-footprint-detector-768045a15bcc) [](https://medium.com/@lucaselbert/building-footprint-extraction-in-a-dense-area-with-maskrcnn-jakarta-indonesia-3bc529d141b5) [## 使用 MaskRCNN 在密集区域提取建筑足迹-印度尼西亚雅加达
-
-### 建筑足迹是观察一个地区人口密度的良好指标。
-
-medium.com](https://medium.com/@lucaselbert/building-footprint-extraction-in-a-dense-area-with-maskrcnn-jakarta-indonesia-3bc529d141b5) 
+**<https://medium.com/the-downlinq/building-extraction-with-yolt2-and-spacenet-data-a926f9ffac4f>  <https://medium.com/the-downlinq/spacenet-winning-implementations-and-new-imagery-release-55f738e14253>  <https://medium.com/picterra/how-to-make-a-building-footprint-detector-768045a15bcc>  <https://medium.com/@lucaselbert/building-footprint-extraction-in-a-dense-area-with-maskrcnn-jakarta-indonesia-3bc529d141b5>  
 
 ## 1.2 正确性与托布勒定律
 
@@ -170,11 +150,7 @@ HDBSCAN 是由 Campello、Moulavi 和 Sander 开发的聚类算法[6]。它扩�
 
 另一本更好理解 HDBSCAN 的好书是佩佩·贝尔巴
 
-[](/understanding-hdbscan-and-density-based-clustering-121dbee1320e) [## 了解 HDBSCAN 和基于密度的聚类
-
-### 对 HDBSCAN 聚类算法的内部工作原理和关键概念的自上而下的全面介绍…
-
-towardsdatascience.com](/understanding-hdbscan-and-density-based-clustering-121dbee1320e) 
+</understanding-hdbscan-and-density-based-clustering-121dbee1320e>  
 
 我们应该关注 HDBSCAN 的 3 个主要参数:
 
@@ -220,11 +196,7 @@ towardsdatascience.com](/understanding-hdbscan-and-density-based-clustering-121d
 
 Vishal Morde 在 XGBoost 上的一篇精彩帖子
 
-[](/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) [## XGBoost 算法:愿她统治长久！
-
-### 接管世界的机器学习算法的新女王…
-
-towardsdatascience.com](/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) 
+</https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d>  
 
 还测试了具有和不具有“构建块”功能的 XGBoost 分类器，以显示不准确性的差异。
 

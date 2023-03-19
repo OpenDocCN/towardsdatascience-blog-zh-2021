@@ -141,24 +141,8 @@ plt.show()
 
 *最初发布于 aboutdatablog.com:* [你不知道的有用的 Python NLP 库…](https://www.aboutdatablog.com/post/useful-python-nlp-libraries-that-you-did-not-know-about)**2021 年 8 月 26 日。**
 
-**PS:我正在 Medium 和*[](https://www.aboutdatablog.com/)**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)***
+**PS:我正在 Medium 和*<https://www.aboutdatablog.com/>**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)***
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c) [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [## Jupyter 笔记本中的 8 大魔法命令
-
-### 通过学习最有用的命令来提高您的生产力
-
-towardsdatascience.com](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [## 关于 jupyter 笔记本你不知道的 9 件事
-
-### 用这些建议提高你的工作效率
-
-towardsdatascience.com](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [](/top-9-jupyter-notebook-extensions-7a5d30269bc8) [## 9 大 Jupyter 笔记本扩展
-
-### 改进笔记本电脑功能，提高您的工作效率
-
-towardsdatascience.com](/top-9-jupyter-notebook-extensions-7a5d30269bc8)**
+**</jupyter-notebook-autocompletion-f291008c66c>  </top-8-magic-commands-in-jupyter-notebook-c1582e813560>  </9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3>  </top-9-jupyter-notebook-extensions-7a5d30269bc8> **

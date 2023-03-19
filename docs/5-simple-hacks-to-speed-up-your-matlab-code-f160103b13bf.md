@@ -64,7 +64,7 @@ MATLAB 的黄金法则是**总是将较快循环的索引分配给矩阵维数�
 
 *Matlab 在函数***【conv】***、 ***conv2、*** 和 ***convn*** 中卷积的实现依赖于移动窗口方法，使用自动多线程来提高性能(仅当 Matlab 尚未用标志“-singleCompThread”初始化时，有关如何使用此标志的更多信息请参见[此处](https://es.mathworks.com/help/matlab/ref/maxnumcompthreads.html))。*
 
-*尽管如此，如果我们应用原来的[](https://en.wikipedia.org/wiki/Convolution_theorem)**卷积定理，即***【conv】****(a，b)=****IFFT****(****FFT****(a，N)，我们可以加快卷积的计算速度。*****FFT****(b，N))* ，最初由 Bruno Luong 提出的一个想法[。](http://www.mathworks.com/matlabcentral/fileexchange/24504-fft-based-convolution)***
+*尽管如此，如果我们应用原来的<https://en.wikipedia.org/wiki/Convolution_theorem>**卷积定理，即***【conv】****(a，b)=****IFFT****(****FFT****(a，N)，我们可以加快卷积的计算速度。*****FFT****(b，N))* ，最初由 Bruno Luong 提出的一个想法[。](http://www.mathworks.com/matlabcentral/fileexchange/24504-fft-based-convolution)***
 
 ***在以下示例中，我们需要记住对数据进行零填充，以获得可比较的结果:***
 

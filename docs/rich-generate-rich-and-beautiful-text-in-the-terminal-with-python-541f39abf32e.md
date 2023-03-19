@@ -150,20 +150,4 @@ python -m rich.spinner
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b) [## 用 Termcolor 和 Pyfiglet 美化你的终端文本
-
-### 厌倦了你的终端输出？让我们改变它的颜色和形状！
-
-towardsdatascience.com](/prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b) [](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [## 在 Python 中停止使用 Print 进行调试。用冰淇淋代替
-
-### 你是使用打印还是日志来调试你的代码？用冰淇淋代替。
-
-towardsdatascience.com](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [## 了解您的 CSV 文件从您的终端与 XSV
-
-### 用一行代码通过你的终端快速理解你的 CSV 文件
-
-towardsdatascience.com](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
+</prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b>  </stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc>  </understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293>  </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0> 

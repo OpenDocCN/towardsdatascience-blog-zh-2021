@@ -149,11 +149,7 @@
 
 *感谢阅读*
 
-[](/5-soft-skills-you-need-as-a-machine-learning-engineer-and-why-41ef6854cef6) [## 作为机器学习工程师你需要的 5 个软技能(以及为什么)
-
-### 包括成为任何劳动力的有用组成部分的提示
-
-towardsdatascience.com](/5-soft-skills-you-need-as-a-machine-learning-engineer-and-why-41ef6854cef6) 
+</5-soft-skills-you-need-as-a-machine-learning-engineer-and-why-41ef6854cef6>  
 
 # 想要更多吗？
 

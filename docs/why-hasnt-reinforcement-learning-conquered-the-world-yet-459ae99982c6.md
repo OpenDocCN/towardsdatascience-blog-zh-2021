@@ -50,7 +50,7 @@ Artem Beliaikin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 也可能有人认为，学术界和实践界作为一个群体被隔离得太多了。RL 可以分为[四个政策等级](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a)。学术界倾向于关注数学上优雅的解决方案，而工业界更依赖于直接采样和确定性模型的扩展。政策的可解释性在学术著作中也经常被忽视。因此，RL 研究很少付诸实践。
 
-[](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 
@@ -70,11 +70,7 @@ towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185
 
 将世界视为服从顺序决策的随机系统不一定是自然的或直观的，这导致了许多不适定的问题。
 
-[](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f) [## 商业环境中强化学习需要考虑的五件事
-
-### 强化学习不仅仅可以用于走迷宫和玩棋盘游戏。现实生活中的实施…
-
-towardsdatascience.com](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f) 
+</five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f>  
 
 ## 数据可用性
 
@@ -86,11 +82,7 @@ RL 在游戏中表现如此出色的原因是它们可以无限多次重复。�
 
 如果没有一个非常好的模拟环境，几乎不可能获得足够高质量的观察结果和学习策略。
 
-[](/need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0) [## 需要帮助做决定吗？问问你的数字双胞胎吧！
-
-### 将实时数据与模拟、机器学习和人类推理相结合，以提升决策水平。
-
-towardsdatascience.com](/need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0) 
+</need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0>  
 
 # 未来展望
 

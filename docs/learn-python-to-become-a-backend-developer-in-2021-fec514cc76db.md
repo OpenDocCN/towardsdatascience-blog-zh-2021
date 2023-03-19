@@ -158,15 +158,7 @@ QA 工程师负责确保应用程序符合公司公布的质量标准。他们�
 
 ## 学习 Python —
 
-[](/top-13-resources-to-learn-python-programming-46f3b0b74b91) [## 学习 Python 编程的 13 大资源
-
-### 可以免费访问的资源，涵盖从入门到深入教程的所有内容。
-
-towardsdatascience.com](/top-13-resources-to-learn-python-programming-46f3b0b74b91) [](/top-11-github-repositories-to-learn-python-e75e8676757a) [## 学习 Python 的 11 大 Github 库
-
-### 学习 Python 的流行 GitHub 库
-
-towardsdatascience.com](/top-11-github-repositories-to-learn-python-e75e8676757a) 
+</top-13-resources-to-learn-python-programming-46f3b0b74b91>  </top-11-github-repositories-to-learn-python-e75e8676757a>  
 
 来源:[freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw&t=61s)
 

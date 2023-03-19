@@ -107,11 +107,7 @@ rm -rf data_science_env
 rmdir data_science_env /s
 ```
 
-[](https://betterprogramming.pub/4-books-i-read-as-a-self-taught-data-scientist-380d13d8bb0c) [## 作为一名自学成才的数据科学家，我读了 4 本书
-
-### 涵盖成为数据科学家所需的大部分内容的书籍
-
-better 编程. pub](https://betterprogramming.pub/4-books-i-read-as-a-self-taught-data-scientist-380d13d8bb0c) 
+<https://betterprogramming.pub/4-books-i-read-as-a-self-taught-data-scientist-380d13d8bb0c>  
 
 # 共享 Python 项目
 

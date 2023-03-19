@@ -189,12 +189,4 @@ MIMIC-III，一个免费的重症监护数据库。Johnson AEW，Pollard TJ，Sh
 
 如果您想分享任何想法，请随时在 LinkedIn 上联系我们。
 
-[](https://www.linkedin.com/in/duncan-w/) [## Duncan Wang -数据分析和建模顾问-普惠| LinkedIn
-
-### 在麦吉尔大学的分析管理硕士(MMA)候选人，有证明的历史经验，在…
-
-www.linkedin.com](https://www.linkedin.com/in/duncan-w/) [](https://www.linkedin.com/in/sophie-courtemanche-martel/?originalSubdomain=ca) [## 索菲·考特曼斯-马特尔- UX/UI 专家-顾问-洛博劳有限公司| LinkedIn
-
-### 麦吉尔大学德绍特尔管理学院研究生(2020-2021)攻读…
-
-www.linkedin.com](https://www.linkedin.com/in/sophie-courtemanche-martel/?originalSubdomain=ca)
+<https://www.linkedin.com/in/duncan-w/>  <https://www.linkedin.com/in/sophie-courtemanche-martel/?originalSubdomain=ca> 

@@ -82,10 +82,6 @@
 
 **如果你想支持这个:喜欢，评论，或者[伸出](https://twitter.com/natolambert)！这第一次出现在我的子堆栈上[。](https://democraticrobots.substack.com/)**
 
-**[](https://robotic.substack.com/) [## 自动化大众化
-
-### 一个关于机器人和人工智能的博客，让它们对每个人都有益，以及即将到来的自动化浪潮…
-
-robotic.substack.com](https://robotic.substack.com/) ![](img/a348a53a1e69775f184f388b8ede360c.png)
+**<https://robotic.substack.com/>  ![](img/a348a53a1e69775f184f388b8ede360c.png)
 
 现在为博客的“漂亮部分”寻找外部照片。谢谢爸爸。**

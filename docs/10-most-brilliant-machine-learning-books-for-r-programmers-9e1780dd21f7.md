@@ -14,11 +14,7 @@
 
 很难否认闪闪发光的仪表盘或 ggplot2 的威力。不用说，很难想象如果没有 R 编程语言，统计学习会是什么样子。尤其是 R 保持了概念和领域的生命力，多年来它是实现这一目的最流行的语言。如果您想了解更多关于这种实践中常用的所有语言，以及 R 的优缺点，我有一篇关于 2021 年数据科学最佳语言的文章，您可以在这里查看:
 
-[](/what-language-should-you-learn-for-data-science-in-2021-fdeebb88d6e) [## 2021 年数据科学要学什么语言？
-
-### 在新的十年里，哪些语言看起来对数据科学最有前途？
-
-towardsdatascience.com](/what-language-should-you-learn-for-data-science-in-2021-fdeebb88d6e) 
+</what-language-should-you-learn-for-data-science-in-2021-fdeebb88d6e>  
 
 用 R 编程语言可以做很多很棒的事情。此外，我想说，R 将很快成为任何数据科学家或有抱负的数据科学家的宝贵财富。关于 R 编程语言的一个伟大的事情是，随着它的生态系统，它真的已经存在了相当长的时间！这意味着在互联网上找到帮助往往相对容易。这意味着的另一件事更符合我在这篇文章中想要谈论的内容，
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/what-language-should-you-learn-for-data-science-in-2021
 
 在过去的几年里，书籍已经有点过时，这已经不是什么秘密了。也就是说，总的来说，现在写的书要少得多，而销售的文章和电子书要比精装书多得多。这是一件很棒的事情，因为我们可以拯救树木，但是使用 R，我们还可以受益于多年来为编程语言编写的整个教育书籍库！很难确定哪本书是我最喜欢的，因为我认为阅读编程是学习编程的最好方式——这些书已经派上了用场！如果你也想看看我最喜欢的几本 Python 书籍之间的类似比较，我这里有一本你可以看看:
 
-[](/7-ground-breaking-machine-learning-books-for-python-ea6db967e36c) [## 7 本开创性的 Python 机器学习书籍
-
-### 我用 10 多本我最喜欢的书来主导 Python 中数据科学的机器学习部分。
-
-towardsdatascience.com](/7-ground-breaking-machine-learning-books-for-python-ea6db967e36c) 
+</7-ground-breaking-machine-learning-books-for-python-ea6db967e36c>  
 
 # №1:用 R 进行深度学习
 
@@ -128,11 +120,7 @@ towardsdatascience.com](/7-ground-breaking-machine-learning-books-for-python-ea6
 
 我很久以前在另一个数据科学书籍综述中提到的一本书是*统计学习导论:r 中的应用*这本书的伟大之处在于它非常关注我认为非常重要的统计概念。如果你也想看看我在这篇文章中提到的其他一些很棒的书，你可以在这里查阅整篇文章:
 
-[](/5-great-data-science-books-for-lifelong-learners-3a6405a7f890) [## 面向终身学习者的 5 本伟大的数据科学书籍
-
-### 在这次疫情期间，我对那些对机器学习感兴趣的人的阅读建议。
-
-towardsdatascience.com](/5-great-data-science-books-for-lifelong-learners-3a6405a7f890) 
+</5-great-data-science-books-for-lifelong-learners-3a6405a7f890>  
 
 这本书的伟大之处在于它所涵盖的内容。本书涵盖的概念仍然完全适用于当前的 R 包生态系统。此外，这本书确实着眼于 R 编程语言的许多优势，并利用它们进行统计学习。围绕这本书的是对统计计算的深入研究，以及一些用 r。
 

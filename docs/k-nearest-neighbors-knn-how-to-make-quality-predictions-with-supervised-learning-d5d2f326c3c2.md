@@ -194,20 +194,4 @@ k 近邻(kNN)机器学习算法。图片由[作者](https://solclover.com/)提�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) [](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) [## CART:清晰而强大的模型的分类和回归树
-
-### CART 算法是如何工作的，如何在 Python 中成功使用？
-
-towardsdatascience.com](/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85) [](/k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d) [## K-Means 聚类——在 Python 中成功使用的综合指南
-
-### 用真实数据的 Python 演示解释 K-Means 算法
-
-towardsdatascience.com](/k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d) [](/random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1) [## 随机森林模型:为什么它们比单一决策树更好？
-
-### 详细解释了随机森林机器学习算法如何工作，是什么使它优于决策树…
-
-towardsdatascience.com](/random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1)
+<https://solclover.com/membership>  </cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85>  </k-means-clustering-a-comprehensive-guide-to-its-successful-use-in-python-c3893957667d>  </random-forest-models-why-are-they-better-than-single-decision-trees-70494c29ccd1> 

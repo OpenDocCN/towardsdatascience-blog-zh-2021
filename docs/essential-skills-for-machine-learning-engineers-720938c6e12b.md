@@ -12,7 +12,7 @@
 
 数据科学家的重点是将分散的数据转化为可操作的见解。另一方面，机器学习工程师专注于开发利用数据的工作软件以及自动化预测模型。
 
-[](/overview-of-data-related-roles-70ca48f8deed) [## 数据相关角色概述
+</overview-of-data-related-roles-70ca48f8deed> [## 数据相关角色概述
 
 ### 不同视角的数据](/overview-of-data-related-roles-70ca48f8deed) 
 
@@ -63,27 +63,11 @@ ML 工程师可能需要了解的一些其他工具(取决于他们工作的公�
 
 **软件工程&编程**
 
-[](https://leetcode.com/problemset/all/) [## 问题- LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problemset/all/) [](https://www.hackerrank.com/dashboard) [## 仪表板|黑客排名
-
-### 加入 700 多万开发人员在 HackerRank 上解决代码挑战的行列，这是为…
-
-www.hackerrank.com](https://www.hackerrank.com/dashboard) 
+<https://leetcode.com/problemset/all/>  <https://www.hackerrank.com/dashboard>  
 
 **数据科学&机器学习**
 
-[](https://www.kaggle.com/) [## Kaggle:你的机器学习和数据科学社区
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-www.kaggle.com](https://www.kaggle.com/) [](https://datahack.analyticsvidhya.com/?utm_source=main-logo) [## DataHack:数据科学家最大的数据黑客马拉松平台
-
-### DataHack 上的数据科学黑客马拉松使您能够与领先的数据科学家和机器学习专家在以下领域竞争…
-
-datahack.analyticsvidhya.com](https://datahack.analyticsvidhya.com/?utm_source=main-logo) 
+<https://www.kaggle.com/>  <https://datahack.analyticsvidhya.com/?utm_source=main-logo>  
 
 **课程**
 
@@ -102,14 +86,6 @@ datahack.analyticsvidhya.com](https://datahack.analyticsvidhya.com/?utm_source=m
 
 如果你喜欢这篇文章，请通过订阅我的**免费** [每周简讯](https://mailchi.mp/ef1f7700a873/sign-up)与我联系。不要错过我写的关于人工智能、数据科学和自由职业的帖子。
 
-[](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [## 作为一名自学成才的数据科学家，我最大的挑战是
+</my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c>  </5-laws-for-self-taught-data-professionals-4bf351ac5c24> [## 自学成才的数据专业人员的 5 条法则
 
-### 以及我是如何克服它们的
-
-towardsdatascience.com](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [## 自学成才的数据专业人员的 5 条法则
-
-towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [## 数据科学家应该知道软件工程的最佳实践
-
-### 成为不可或缺的数据科学家
-
-towardsdatascience.com](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada)
+towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) </data-scientist-should-know-software-engineering-best-practices-f964ec44cada> 

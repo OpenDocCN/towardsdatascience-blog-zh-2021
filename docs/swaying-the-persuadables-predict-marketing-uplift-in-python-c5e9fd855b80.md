@@ -12,11 +12,7 @@
 
 我之前的一篇文章提到了客户流失:我们如何发现那些想去其他商店购物的客户？营销团队将接触他们，并试图对抗竞争对手的诱惑。
 
-[](/buy-til-you-die-predict-customer-lifetime-value-in-python-9701bfd4ddc0) [## 购买到死:用 Python 预测客户终身价值
-
-### 端到端示例:Beta 几何/负二项分布模型(BG/NBD)，使用 Python 中的生存期
-
-towardsdatascience.com](/buy-til-you-die-predict-customer-lifetime-value-in-python-9701bfd4ddc0) 
+</buy-til-you-die-predict-customer-lifetime-value-in-python-9701bfd4ddc0>  
 
 今天的文章超越了客户流失风险预测。
 
@@ -34,7 +30,7 @@ towardsdatascience.com](/buy-til-you-die-predict-customer-lifetime-value-in-pyth
 
 ![](img/3f6830025c0240ce6f3a4d42c02f56cf.png)
 
-一个表情恶劣的年轻女子在粉红色上排斥一些单独的东西。股票图片—立即下载照片—标准许可下的 iStock(istockphoto.com)/by master 1305[](https://www.istockphoto.com/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-gm1044676028-279591282)
+一个表情恶劣的年轻女子在粉红色上排斥一些单独的东西。股票图片—立即下载照片—标准许可下的 iStock(istockphoto.com)/by master 1305<https://www.istockphoto.com/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-gm1044676028-279591282>
 
 *   ****睡狗、蔑视者、**或**勿扰者**对营销传播表现出强烈的厌恶。如果他们没有受到促销活动的困扰，他们会有更高的购买倾向。被广告纠缠会惹恼这些顾客；或者提高他们的意识，他们还不如取消他们几个月或几年前已经订购的服务。向他们传达营销信息不仅是浪费，而且会适得其反。**
 
@@ -461,10 +457,6 @@ towardsdatascience.com](/buy-til-you-die-predict-customer-lifetime-value-in-pyth
 
 **Jupyter 笔记本可从 GitHub 下载: [h3ik0th/sklift:用 sci kit-lift(github.com)进行隆起建模](https://github.com/h3ik0th/sklift)**
 
-**[](https://medium.com/subscribe/@h3ik0.th) [## 每当 H3iko 发布时收到一封电子邮件。
-
-### 每当 H3iko 发布时收到一封电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-medium.com](https://medium.com/subscribe/@h3ik0.th) 
+**<https://medium.com/subscribe/@h3ik0.th>  
 
 数据集:Hillstrom，内置于各种 Python 包如 sklift、py upon、causalinfer，以及微软的 [ML Studio:使用样本数据集](https://docs.microsoft.com/en-us/previous-versions/azure/machine-learning/classic/use-sample-datasets)。可以单独从[下载 csv 文件。](https://blog.minethatdata.com/2008/05/best-answer-e-mail-analytics-challenge.html)**

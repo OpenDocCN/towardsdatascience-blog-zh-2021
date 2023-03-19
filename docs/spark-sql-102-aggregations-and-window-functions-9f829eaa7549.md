@@ -79,7 +79,7 @@ from pyspark.sql.functions import row_numberw = Window.partitionBy('user_id').or
 
 如上所述，一些功能可以应用于窗口中的行的子集。一个典型的用例是计算值的累积和，其中帧将指定我们希望从窗口的开始直到当前行应用该函数。此外，很明显，帧中各行的顺序很重要，因为如果各行的顺序不同，累积和将具有不同的形状。可以使用以下两个函数之一来指定帧:
 
-*   [](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.sql.Window.rowsBetween.html#pyspark.sql.Window.rowsBetween)
+*   <https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.sql.Window.rowsBetween.html#pyspark.sql.Window.rowsBetween>
 *   *[*rangeBetween()*](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.sql.Window.rangeBetween.html#pyspark.sql.Window.rangeBetween)*
 
 *这两个函数都有两个参数:帧的开始和结束，它们可以指定如下:*

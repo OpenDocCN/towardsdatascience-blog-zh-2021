@@ -129,11 +129,7 @@ API & Lambda 来自 CFN 模板(作者截图)
 
 # 5.整个代码和结论
 
-[](https://github.com/RamVegiraju/Serverless-CFN) [## GitHub-RamVegiraju/server less-CFN:一个小型演示无服务器应用程序的示例 CFN 堆栈
-
-### 一个小型演示无服务器应用程序的示例 CFN 堆栈-GitHub-RamVegiraju/server less-CFN:一个
-
-github.com](https://github.com/RamVegiraju/Serverless-CFN) 
+<https://github.com/RamVegiraju/Serverless-CFN>  
 
 要复制示例并访问完整演示的代码，请查看位于上方的**库。起初，CloudFormation 看起来令人生畏，因为它有一种奇怪的 yaml 语法和语言，掌握 CloudFormation 肯定需要一个学习曲线。但是，如果您对该服务有了一定的了解和熟悉，它将帮助您从一个中央模板文件中以简单高效的方式构建和管理极其强大的应用程序。虽然这种比较显示了手动部署与 IaC 部署在方便性和效率上的差异，但是当您的项目增长并且有多个开发人员在一个项目上工作时，这种差异会更加明显。关于接下来的步骤，请看这篇[文章](https://workshop.quickstart.awspartner.com/40_setup_cicd/1_setup_cicd.html)中的 CloudFormation 如何无缝地帮助在 AWS 中构建 CI/CD 管道。**
 

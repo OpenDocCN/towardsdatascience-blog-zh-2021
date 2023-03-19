@@ -493,4 +493,4 @@ p_val## [1] 0.05634202*
 *   *[R 中的 Wilcoxon 检验:如何在非正态假设下比较两组](https://statsandr.com/blog/wilcoxon-test-in-r-how-to-compare-2-groups-under-the-non-normality-assumption/)*
 *   *[如何在 R 中一次对多个变量进行 t 检验或方差分析](https://statsandr.com/blog/how-to-do-a-t-test-or-anova-for-many-variables-at-once-in-r-and-communicate-the-results-in-a-better-way/)*
 
-**原载于 2021 年 1 月 27 日 https://statsandr.com*[](https://statsandr.com/blog/hypothesis-test-by-hand/)**。***
+**原载于 2021 年 1 月 27 日 https://statsandr.com*<https://statsandr.com/blog/hypothesis-test-by-hand/>**。***

@@ -147,16 +147,4 @@ $ sh-benchmark.zsh
 *   [https://fumiyas . github . io/2013/12/01/benchmark . sh-advent-calendar . html](https://fumiyas.github.io/2013/12/01/benchmark.sh-advent-calendar.html)
 *   [https://github.com/shellspec/shellbench](https://github.com/shellspec/shellbench)
 
-[](https://medium.com/better-programming/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978) [## Bash 脚本编程的终极程序员指南
-
-### 深入探究 Bash 脚本，帮助您自动化任务
-
-medium.com](https://medium.com/better-programming/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978) [](https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546) [## 初学者的 27 个简单 Bash 脚本技巧
-
-### 不要害怕 Bash 脚本。看完这些提示会更容易
-
-medium.com](https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546) [](https://medium.com/better-programming/13-fantastic-learning-tools-and-resources-for-bash-scripting-51a6de98015c) [## 13 个精彩的 Bash 脚本学习工具和资源
-
-### 您将每天使用的替代 Bash 脚本工具
-
-medium.com](https://medium.com/better-programming/13-fantastic-learning-tools-and-resources-for-bash-scripting-51a6de98015c)
+<https://medium.com/better-programming/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978>  <https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546>  <https://medium.com/better-programming/13-fantastic-learning-tools-and-resources-for-bash-scripting-51a6de98015c> 

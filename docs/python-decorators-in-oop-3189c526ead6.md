@@ -299,11 +299,7 @@ print(student.score) **student.score = 400** print(student.score)
 
 **关于这一点的更详细的讨论，请查看这个帖子:**
 
- **[## Python 类中的装饰器
-
-### 假设我们需要一个装饰器，我们只在一个特定的类中使用它。大概是这样的:
-
-medium.com](https://medium.com/@vadimpushtaev/decorator-inside-python-class-1e74d23107f6)** 
+ **** 
 
 ## **注意#2:除了 Java 中的构造函数重载之外，还有其他选项来模拟我们讨论的方法吗(比如，from_str 或 from_tuple)？**
 

@@ -182,11 +182,7 @@ AG Grid(不可知网格的缩写*)是一个功能全面且高度可定制的 Jav
 
 ***👉如果你有兴趣了解更多关于 Streamlit 的信息，你可以查看我之前关于 building Playground 的故事，这是一个直接从浏览器与模型交互的 Streamlit 应用程序。***
 
-***[](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9) [## 我如何用 Streamlit 建立一个机器学习平台
-
-### 从浏览器中修改模型
-
-towardsdatascience.com](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9) 
+***</how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9>  
 
 # 感谢阅读🙏
 

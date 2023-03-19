@@ -14,11 +14,7 @@
 
 也就是说，虽然这可能是 SkLearn 模块的主要吸引力，但也有许多非常酷的扩展类和功能。这些不仅很棒，而且为 Python 中的机器学习建立了一整套语法体系，现在几乎所有其他建模包都在遵循这一体系。如果你想了解这方面的更多信息，我写了一篇关于 SkLearn 如何用标准化的函数和类改变 Python 中机器学习模型的适当编程的许多方面的文章，请查看:
 
-[](/how-scikit-learn-changed-machine-learning-forever-90c1eebe3484) [## Scikit-Learn 如何永远改变了机器学习
-
-### 社区开发的软件包如何定义机器学习
-
-towardsdatascience.com](/how-scikit-learn-changed-machine-learning-forever-90c1eebe3484) 
+</how-scikit-learn-changed-machine-learning-forever-90c1eebe3484>  
 
 我认为这个包对整个行业的影响是令人印象深刻的，而且非常酷！不用说，这个包在将 Python 和机器学习带到这个领域的前沿方面做了很多工作。然而，我们很容易沉迷于其中的一些工具，而忽略许多其他非常棒的工具，只喜欢少数几个，因为这个模块非常全面，实际上相当大。
 

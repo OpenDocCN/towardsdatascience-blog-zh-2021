@@ -10,7 +10,7 @@
 
 我们都通过实现一个小的分类或回归问题来开始我们的机器学习之旅。今天我将使用 pure numpy 实现一个多类分类神经网络。我将使用虹膜数据集。下面是我在 colab 笔记本上的代码的链接。
 
-[](https://colab.research.google.com/drive/1RacUOXLadYAHfq_VSLy8NDcMui_APlPI?usp=sharing) [## 谷歌联合实验室
+<https://colab.research.google.com/drive/1RacUOXLadYAHfq_VSLy8NDcMui_APlPI?usp=sharing> [## 谷歌联合实验室
 
 多类分类神经网络](https://colab.research.google.com/drive/1RacUOXLadYAHfq_VSLy8NDcMui_APlPI?usp=sharing) 
 
@@ -139,8 +139,4 @@ costs, fw, fb = murals_batch(unit_per_layer_counts, x_train, y_train, lr=0.01, e
 
 我是 TCS 的机器学习工程师，我的(数字软件和解决方案)团队正在开发令人惊叹的产品。点击下面的链接，了解更多关于我们产品的信息:
 
-[](https://www.tcs.com/dss) [## 数字软件和解决方案:提供高度个性化的体验
-
-### Digital Software & Solutions 的互联智能解决方案将帮助您转变产品和服务…
-
-www.tcs.com](https://www.tcs.com/dss)
+<https://www.tcs.com/dss> 

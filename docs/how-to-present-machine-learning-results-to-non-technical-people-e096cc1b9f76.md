@@ -59,16 +59,4 @@
 
 作为数据科学家，冲动是显示原始模型结果，但通常我们需要将输出转换成利益相关者可以理解的形式。现在你已经看到了我的方法，我希望你能更容易地表达你的模型结果，让每个人都能理解。
 
-[](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
-
-### 将数据科学与数据分析相结合
-
-medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1) [## 为什么建立机器学习模型就像烹饪一样
-
-### 逐步比较
-
-towardsdatascience.com](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1) [](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e) [## 为什么数据科学家应该首先成为数据分析师
-
-### 确保成功的职业战略
-
-towardsdatascience.com](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e)
+<https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd>  </why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1>  </why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e> 

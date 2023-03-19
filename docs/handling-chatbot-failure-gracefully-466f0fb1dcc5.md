@@ -18,15 +18,7 @@
 
 这是我关于 Rasa 系列的下一篇文章。您可以查看以下系列的前几篇文章:
 
-[](/building-a-chatbot-with-rasa-3f03ecc5b324) [## 用 Rasa 构建聊天机器人
-
-### 开始—第一部分
-
-towardsdatascience.com](/building-a-chatbot-with-rasa-3f03ecc5b324) [](/are-slots-and-entities-the-same-f98a38ac328d) [## 插槽和实体是一样的吗？
-
-### 用 Rasa 构建聊天机器人—第二部分
-
-towardsdatascience.com](/are-slots-and-entities-the-same-f98a38ac328d) 
+</building-a-chatbot-with-rasa-3f03ecc5b324>  </are-slots-and-entities-the-same-f98a38ac328d>  
 
 在那里，我们讨论了 Rasa 和聊天机器人的基本组成部分，如果你是 Rasa 新手，通读前两篇文章肯定会有所帮助。
 
@@ -368,11 +360,7 @@ utter_ask_rephrase:
 
 # 示例代码
 
-[](https://github.com/Polaris000/BlogCode/tree/main/FallbackExample) [## blog code/fallback 示例 Polaris000/BlogCode
-
-### 示例代码来自我在 Medium 和我的个人网站上的博客文章。-blog code/fallback main 上的示例…
-
-github.com](https://github.com/Polaris000/BlogCode/tree/main/FallbackExample) 
+<https://github.com/Polaris000/BlogCode/tree/main/FallbackExample>  
 
 ## 该系列的其他文章(这是第三篇)
 

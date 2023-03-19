@@ -110,11 +110,7 @@ IN [0]: print(df_review_imb.value_counts(‘sentiment’))
 
 *注 2:通常在将数据分成训练集和测试集之前，我们应该清理数据。在本例中，数据已经被清除；然而，现实世界中的数据是不干净的，所以每当你需要清理数据时，请查看下面的指南，了解 Python 中数据清理的最佳实践。*
 
-[](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) [## 用 Python 清理和准备数据的简单指南
-
-### 如何识别和处理脏数据？
-
-towardsdatascience.com](/a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33) 
+</a-straightforward-guide-to-cleaning-and-preparing-data-in-python-8c82f209ae33>  
 
 ## 将数据分为训练集和测试集
 
@@ -206,11 +202,7 @@ test_x_vector = tfidf.transform(test_x)
 
 *注意:我们可以更好地准备文本数据，以便通过使用标记化和移除我们认为不相关的多余单词(除了 CountVectorizer 和 Tfidf 默认具有的停用词表之外)来开发更好的模型。有关使用 Python 进行标记化的更多信息，请查看下面的文章。*
 
-[](/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4) [## 用 Python 标记文本的 5 种简单方法
-
-### 标记文本、大型语料库和不同语言的句子。
-
-towardsdatascience.com](/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4) 
+</5-simple-ways-to-tokenize-text-in-python-92c6804edfc4>  
 
 # 型号选择
 
@@ -400,18 +392,6 @@ IN [0]: print(svc_grid.best_params_)
 
 下面你可以找到一些我用 Python 做过的项目。
 
-[](https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384) [## 我们能打败庄家吗？用简单模型预测足球比赛
-
-### 预测英超、西甲、意甲和德甲的足球比赛结果。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384) [](https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848) [## 网络抓取基础——10 分钟内抓取一个赌博网站
-
-### 在这 10 分钟的教程中，我将向你展示如何用 Python 刮网站，即使你根本不编码！
-
-medium.com](https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848) [](/the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23) [## 学习外语的最佳电影
-
-### 根据数据科学
-
-towardsdatascience.com](/the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23) 
+<https://medium.datadriveninvestor.com/can-we-beat-the-bookies-predicting-football-games-with-a-simple-model-43fe020fb384>  <https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848>  </the-best-movies-to-learn-english-according-to-data-science-2dccb4b3ee23>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)

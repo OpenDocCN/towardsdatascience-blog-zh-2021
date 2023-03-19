@@ -114,12 +114,4 @@ Anastasia Shuraeva 拍摄的照片。
 
 毕竟，如果我能在不到一分钟的时间内让一个关于在比萨饼上放冰淇淋的故事听起来令人信服，想象一下更有能力的人能做什么。
 
-[](https://medium.com/swlh/no-gpt-3-is-not-superintelligent-its-not-tricking-humans-and-it-s-not-pretending-to-be-stupid-fa92e9c026df) [## 不，GPT 3 号并不聪明。它不是在欺骗人类，也不是在装傻。
-
-### 有一个不健康的水平，GPT-3 动力蛇油出售给非技术读者。
-
-medium.com](https://medium.com/swlh/no-gpt-3-is-not-superintelligent-its-not-tricking-humans-and-it-s-not-pretending-to-be-stupid-fa92e9c026df) [](https://medium.com/geekculture/will-ai-replace-programmers-fb6fcfd70b37) [## AI 会取代程序员吗？
-
-### OpenAI 的算法打开了代码生成人工智能的闸门，但它将如何影响软件开发人员？
-
-medium.com](https://medium.com/geekculture/will-ai-replace-programmers-fb6fcfd70b37)
+<https://medium.com/swlh/no-gpt-3-is-not-superintelligent-its-not-tricking-humans-and-it-s-not-pretending-to-be-stupid-fa92e9c026df>  <https://medium.com/geekculture/will-ai-replace-programmers-fb6fcfd70b37> 

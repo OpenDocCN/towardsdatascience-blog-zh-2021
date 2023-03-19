@@ -97,11 +97,7 @@ True
 {'param1': 5, 'param2': 6}
 ```
 
-[](/10-examples-to-master-args-and-kwargs-in-python-6f1e8cc30749) [## 掌握 Python 中*args 和**kwargs 的 10 个例子
-
-### 如何使用和不使用它们
-
-towardsdatascience.com](/10-examples-to-master-args-and-kwargs-in-python-6f1e8cc30749) 
+</10-examples-to-master-args-and-kwargs-in-python-6f1e8cc30749>  
 
 ## 4.班级
 
@@ -114,11 +110,7 @@ Python 中的一切都是整数、列表、字典、函数等类型的对象。�
 *   数据属性:创建一个类的实例需要什么
 *   方法(即过程属性):我们如何与类的实例交互。
 
-[](/a-comprehensive-guide-for-classes-in-python-e6bb72a25a5e) [## Python 中的类的综合指南
-
-### 如何定义一个类并与之交互
-
-towardsdatascience.com](/a-comprehensive-guide-for-classes-in-python-e6bb72a25a5e) 
+</a-comprehensive-guide-for-classes-in-python-e6bb72a25a5e>  
 
 ## 5.列表
 
@@ -135,11 +127,7 @@ words = ['data','science'] #create a listprint(words[0]) #access an item
 ['data', 'science', 'machine']
 ```
 
-[](/11-must-know-operations-to-master-python-lists-f03c71b6bbb6) [## 掌握 Python 列表的 11 个必知操作
-
-### 附有示例的综合实践指南。
-
-towardsdatascience.com](/11-must-know-operations-to-master-python-lists-f03c71b6bbb6) 
+</11-must-know-operations-to-master-python-lists-f03c71b6bbb6>  
 
 ## 6.列表理解
 
@@ -165,11 +153,7 @@ b
 [4, 7, 7, 8]
 ```
 
-[](/11-examples-to-master-python-list-comprehensions-33c681b56212) [## 掌握 Python 列表理解的 11 个例子
-
-### 如何有效地使用列表理解？
-
-towardsdatascience.com](/11-examples-to-master-python-list-comprehensions-33c681b56212) 
+</11-examples-to-master-python-list-comprehensions-33c681b56212>  
 
 ## 7.字典
 
@@ -197,11 +181,7 @@ grades['John']
 'B'
 ```
 
-[](/12-examples-to-master-python-dictionaries-5a8bcd688c6d) [## 掌握 Python 词典的 12 个例子
-
-### 学习词典的综合实用指南
-
-towardsdatascience.com](/12-examples-to-master-python-dictionaries-5a8bcd688c6d) 
+</12-examples-to-master-python-dictionaries-5a8bcd688c6d>  
 
 ## 8.设置
 
@@ -224,11 +204,7 @@ a = {1, 4, 'foo', 4, 'foo'}print(a)
 {1, 4, 'foo'}
 ```
 
-[](/12-examples-to-master-python-sets-71802ea56de3) [## 掌握 Python 集合的 12 个示例
-
-### 学习集综合实践指南
-
-towardsdatascience.com](/12-examples-to-master-python-sets-71802ea56de3) 
+</12-examples-to-master-python-sets-71802ea56de3>  
 
 ## 9.元组
 
@@ -260,11 +236,7 @@ a = count_sum(arr)print(a)
 <class 'tuple'>
 ```
 
-[](/10-examples-to-master-python-tuples-6c606ed42b96) [## 掌握 Python 元组的 10 个例子
-
-### 综合实践指南
-
-towardsdatascience.com](/10-examples-to-master-python-tuples-6c606ed42b96) 
+</10-examples-to-master-python-tuples-6c606ed42b96>  
 
 ## 10.λ表达式
 
@@ -285,11 +257,7 @@ lambda x: x ** 2
 
 考虑一个需要做一次或很少几次的操作。此外，我们对这个操作进行了许多修改，与原来的略有不同。在这种情况下，为每个操作定义一个单独的函数是不理想的。相反，lambda 表达式提供了一种更有效的方式来完成任务。
 
-[](/the-power-of-lambda-expressions-in-python-c5a1dcea9837) [## Python 中 Lambda 表达式的威力
-
-### 附有示例的实用指南
-
-towardsdatascience.com](/the-power-of-lambda-expressions-in-python-c5a1dcea9837) 
+</the-power-of-lambda-expressions-in-python-c5a1dcea9837>  
 
 ## 结论
 

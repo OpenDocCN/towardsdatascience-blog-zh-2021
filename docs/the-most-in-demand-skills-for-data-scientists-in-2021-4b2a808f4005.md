@@ -106,19 +106,11 @@ Scikit-learn 可以说是 Python 中最重要的机器学习库。在使用 Pand
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) [## 2021 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) 
+</all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7>  
 
 # 特伦斯·申
 

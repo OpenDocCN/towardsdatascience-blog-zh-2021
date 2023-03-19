@@ -20,11 +20,7 @@
 
 我们将要使用的库是 Huggingface 的 [Transformers。如果你不熟悉变形金刚，你可以继续阅读我以前的文章，看看它能做什么:](https://github.com/huggingface/transformers)
 
-[](/top-nlp-libraries-to-use-2020-4f700cdb841f) [## 2020 年将使用的顶级 NLP 库
-
-### AllenNLP，Fast.ai，Spacy，NLTK，TorchText，Huggingface，Gensim，OpenNMT，ParlAI，DeepPavlov
-
-towardsdatascience.com](/top-nlp-libraries-to-use-2020-4f700cdb841f) 
+</top-nlp-libraries-to-use-2020-4f700cdb841f>  
 
 要安装变压器，您只需运行:
 
@@ -106,27 +102,7 @@ print(summary_text)
 
 仅此而已！希望你喜欢这篇文章。如果你喜欢我的作品，请随意看看我的其他文章，敬请期待更多内容:)
 
-[](/top-nlp-books-to-read-2020-12012ef41dc1) [## 2020 年最佳 NLP 读物
-
-### 这是我个人为自然语言处理推荐的书籍列表，供实践者和理论家参考
-
-towardsdatascience.com](/top-nlp-books-to-read-2020-12012ef41dc1) [](/bert-text-classification-using-pytorch-723dfb8b6b5b) [## 使用 Pytorch 的 BERT 文本分类
-
-### 文本分类是自然语言处理中的一项常见任务。我们应用 BERT，一个流行的变压器模型，对假新闻检测使用…
-
-towardsdatascience.com](/bert-text-classification-using-pytorch-723dfb8b6b5b) [](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) [## 使用 Pytorch 微调用于文本生成的 GPT2
-
-### 使用 Pytorch 和 Huggingface 微调用于文本生成的 GPT2。我们在 CMU 图书摘要数据集上进行训练，以生成…
-
-towardsdatascience.com](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) [](/implementing-transformer-for-language-modeling-ba5dd60389a2) [## 为语言建模实现转换器
-
-### 使用 Fairseq 训练变压器模型
-
-towardsdatascience.com](/implementing-transformer-for-language-modeling-ba5dd60389a2) [](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) 
+</top-nlp-books-to-read-2020-12012ef41dc1>  </bert-text-classification-using-pytorch-723dfb8b6b5b>  </fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7>  </implementing-transformer-for-language-modeling-ba5dd60389a2>  </semantic-similarity-using-transformers-8f3cb5bf66d6>  
 
 # 参考
 

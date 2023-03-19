@@ -65,11 +65,7 @@ sudo apt-get install nasm
 
 对于我们今天的项目，我们将编写一个简单的 Hello " Name "程序。这本质上是 Hello World！这个应用程序还将展示如何为输入和诸如此类的事情保留字节。而我通常认为你好世界！对于第一个项目来说有点太简单了，因为在大多数高级语言中，它只是类似于`print(“Hello world!”)`的东西，在汇编的例子中，我认为这是一个很好的学习例子！此外，这段代码将在 Github 上提供，因此您可以随意下载、汇编或在这里查看:
 
-[](https://github.com/emmettgb/Assembly-Intro) [## GitHub-emmettgb/Assembly-Intro:NASM 汇编中的一些介绍性示例
-
-### NASM 装配中的一些介绍性例子。通过创建帐户，为 emmettgb/Assembly-Intro 开发做出贡献…
-
-github.com](https://github.com/emmettgb/Assembly-Intro) 
+<https://github.com/emmettgb/Assembly-Intro>  
 
 ## 部分
 
@@ -157,11 +153,7 @@ add rax, rbx
 
 当然，对我来说，与您一起检查每个系统调用的工作量将是非常大的，例如，在 Linux 中有 313 个系统调用，所以我将只展示我今天要处理的系统调用。您可以在这里查看 Linux 系统调用的完整列表:
 
- [## x86 64 的 Linux 系统调用表
-
-### Linux 4.7(2016 年 7 月 20 日从 github.com/torvalds/linux 拉)，x86_64 注:64 位 x86 使用 syscall 而不是…
-
-blog.rchapman.org](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/) 
+  
 
 无论如何，我们今天要看的 3 个调用是 sys_exit、sys_read 和 sys_write。我们的程序被设计为先读后写，因为它从来没有真正要求我们的名字(你能看出来，因为我们没有为此保留字节)，所以我们需要调用的第一件事是 sys_write。我将在这里为 sys_read 和 sys_write 提供一个小表:
 

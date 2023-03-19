@@ -62,11 +62,7 @@
 
 我们可以通过使用仿函数来改变我们的类和 **PrintId()** 函数，使其更加通用。如果你需要更多的细节，请阅读我关于 C++ Lambda 的帖子。
 
-[](/c-basics-understanding-lambda-7df00705fa48) [## C++基础:理解 Lambda
-
-### 定义函子的一种简便方法，可以帮助我们简化代码。
-
-towardsdatascience.com](/c-basics-understanding-lambda-7df00705fa48) 
+</c-basics-understanding-lambda-7df00705fa48>  
 
 有了这个变化，所有类型都可以工作了。
 
@@ -139,8 +135,4 @@ towardsdatascience.com](/c-basics-understanding-lambda-7df00705fa48)
 
 了解一些库(比如 std::function)是如何实现的，对于避免不必要的使用非常重要。例如，我们可能不希望在我们的算法中调用 std::function 对象一百万次，因为上面描述的函数调用和动态分派的开销。
 
-[](https://debby-nirwan.medium.com/subscribe) [## 每当王思然·尼旺发表文章时，就收到一封电子邮件。
-
-### 每当王思然·尼旺发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-debby-nirwan.medium.com](https://debby-nirwan.medium.com/subscribe)
+<https://debby-nirwan.medium.com/subscribe> 

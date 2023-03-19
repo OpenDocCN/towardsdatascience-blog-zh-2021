@@ -66,4 +66,4 @@ Sebastian Herrmann 在 [Unsplash](/s/photos/frustration?utm_source=unsplash&utm_
 
 前进！
 
-[*卡特琳娜·申克博士。*](https://katerinaschenke.com/) *是*[*Katalyst Methods*](https://www.katalystmethods.com/)*的创始人和负责人，也是*[*ed tech Recharge*](http://edtechrecharge.com/)*的联合创始人，在那里她与教育媒体公司合作设计和评估游戏、软件和评估。她还与关注学习的组织合作，如脸书、互联学习实验室和联合国儿童基金会，开展研究项目，帮助他们改善教育政策和实践。了解更多请点击【katalystmethods.com】[](https://www.katalystmethods.com/)*
+[*卡特琳娜·申克博士。*](https://katerinaschenke.com/) *是*[*Katalyst Methods*](https://www.katalystmethods.com/)*的创始人和负责人，也是*[*ed tech Recharge*](http://edtechrecharge.com/)*的联合创始人，在那里她与教育媒体公司合作设计和评估游戏、软件和评估。她还与关注学习的组织合作，如脸书、互联学习实验室和联合国儿童基金会，开展研究项目，帮助他们改善教育政策和实践。了解更多请点击【katalystmethods.com】<https://www.katalystmethods.com/>*

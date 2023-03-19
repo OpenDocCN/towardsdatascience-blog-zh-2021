@@ -99,8 +99,4 @@
 
 *地理空间机器学习领域非常广阔，我希望这篇文章能给你一瞥这个领域的多样性。如果你对任何相关的话题感兴趣，请不要犹豫让我知道。你也可以看看我的其他地理空间机器学习帖子:*
 
-*[](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) [## 用简单的英语介绍高斯过程编程
-
-towardsdatascience.com](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) [](/interactive-geospatial-ai-visualization-in-jupyter-notebook-f3223f534327) [## Jupyter 笔记本中的交互式地理空间人工智能可视化
-
-towardsdatascience.com](/interactive-geospatial-ai-visualization-in-jupyter-notebook-f3223f534327)*
+*</introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d> *

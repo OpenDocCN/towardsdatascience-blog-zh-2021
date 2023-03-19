@@ -16,11 +16,7 @@
 
 好吧，这不是*最有创意的*命名，但有很多很好的理由使用这种范式，以及随之而来的 Julia 编程语言。对我来说，多重分派是一种非常自然的编程方式，尤其是在科学计算方面。除此之外，这种语言还做了几件事情，使得多重分派比以前任何语言都要好。在我们进入多重分派之前，还有一件事；本文中的所有示例都来自我目前正在发布的一个包，它是一个面向对象的 DataFrames 包，在 Julia 中的 DataFrames.jl 和 Pandas.py 等选项之间架起了一座桥梁。如果您想了解更多关于这个包的信息，贡献或支持它(谢谢)，您可以在这里查看这个包:
 
-[](https://github.com/ChifiSource/OddFrames.jl) [## GitHub-chifi source/odd frames . JL:面向对象的、基于 dict 的 DataFrames 包！
-
-### jl 是 Julia 的一种新的数据管理和操作包。然而，许多类似的软件包…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl) 
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 # 关于多重分派的更多信息
 
@@ -47,11 +43,7 @@ length(string)
 
 我们需要做的就是将我们要写入的特定类型添加到我们的方法定义中，以便于实现这一点。如果你想更多地了解为什么多重派遣如此酷，以及关于这个主题的更多技术细节，我有一篇更详细的文章，你可以在这里阅读:
 
-[](/parametric-polymorphism-is-really-cool-e6ac25f0fa53) [## 参数多态真的很酷
-
-### 永远塑造了函数式编程的概念。
-
-towardsdatascience.com](/parametric-polymorphism-is-really-cool-e6ac25f0fa53) 
+</parametric-polymorphism-is-really-cool-e6ac25f0fa53>  
 
 > 此外，那是两年前发表的——为什么。
 
@@ -106,11 +98,7 @@ function OddFrame(file_path::String)# Labels/Columnsextensions = Dict("csv" => r
 
 这都是通过分派完成的，内部构造函数和外部构造函数的调用本质上是相同的——只是传递的类型不同。不用说，这将构造函数带到了一个全新的水平！如果你想了解更多关于构造函数的知识，你可以阅读这篇文章或者观看这个视频:
 
-[](/an-advanced-look-at-constructors-in-julia-5b428882dde8) [## Julia 中构造函数的高级视图
-
-### 用 Julia 完整地看一下如何创建复杂的构造函数。
-
-towardsdatascience.com](/an-advanced-look-at-constructors-in-julia-5b428882dde8) 
+</an-advanced-look-at-constructors-in-julia-5b428882dde8>  
 
 # 结论
 

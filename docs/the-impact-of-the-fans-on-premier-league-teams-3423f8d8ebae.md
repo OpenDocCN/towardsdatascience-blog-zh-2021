@@ -14,11 +14,7 @@
 
 之前，我对有球迷的比赛和没有球迷的比赛之间的数据和统计进行了整体分析。
 
-[](/home-field-advantage-does-it-exist-without-fans-a0778c5a6a29) [## 主场优势:没有粉丝还存在吗？
-
-### 疫情时代之前和期间的数据和统计
-
-towardsdatascience.com](/home-field-advantage-does-it-exist-without-fans-a0778c5a6a29) 
+</home-field-advantage-does-it-exist-without-fans-a0778c5a6a29>  
 
 然而，对于这篇文章，我想深入到具体的球队，了解球迷对他们的成功有多大的影响。为此，我们将比较 2019-2021 赛季期间有球迷和无球迷比赛的比赛结果和每支球队的统计数据。
 
@@ -26,7 +22,7 @@ towardsdatascience.com](/home-field-advantage-does-it-exist-without-fans-a0778c5
 
 两个赛季的所有球队都包括在内，除了那些在 2019-2020 赛季结束时降级或晋级的球队。否则，我们就不会有联盟中这些球队的两组比赛的数据。
 
-收集的数据都是 2019 赛季开始到 2021 年 3 月 15 日的比赛。这些比赛被分成两组:一组有球迷在场，另一组没有。*关于数据收集过程的更多细节，请随意参考之前的*[](/home-field-advantage-does-it-exist-without-fans-a0778c5a6a29)**。**
+收集的数据都是 2019 赛季开始到 2021 年 3 月 15 日的比赛。这些比赛被分成两组:一组有球迷在场，另一组没有。*关于数据收集过程的更多细节，请随意参考之前的*</home-field-advantage-does-it-exist-without-fans-a0778c5a6a29>**。**
 
 # *勘探领域*
 

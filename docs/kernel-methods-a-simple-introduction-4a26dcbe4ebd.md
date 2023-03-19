@@ -98,12 +98,4 @@ RBF 使用高斯基函数。每个基函数代表输入空间中的高斯分布�
 
 # 你可能喜欢的其他文章
 
-[](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2) [## 支持向量机:重要的推导
-
-### SVM 理论的全面阐释和形象化
-
-towardsdatascience.com](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2) [](/kalman-filtering-a-simple-introduction-df9a84307add) [## 卡尔曼滤波:简单介绍
-
-### 高斯噪声下线性系统的最优在线学习算法
-
-towardsdatascience.com](/kalman-filtering-a-simple-introduction-df9a84307add)
+</support-vector-machines-svms-important-derivations-4f50d1e3d4d2>  </kalman-filtering-a-simple-introduction-df9a84307add> 

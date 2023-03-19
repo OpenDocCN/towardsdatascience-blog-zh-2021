@@ -20,7 +20,7 @@
 
 照片由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) 拍摄
 
-如果你对人工智能和机器学习完全陌生，那么通过 Coursera 在吴恩达的 deeplearning.ai 项目中提供的 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) 课程，强调了为什么人工智能是如此多行业的焦点，而不仅仅是医疗保健。对于医疗保健特定的材料，您可以尝试由北美[放射学会](https://www.rsna.org/en/education/ai-resources-and-training/webinars) (RSNA，小额费用)、[医学成像信息学学会(SIIM)](https://siim.org/general/custom.asp?page=siim_webinars) 和[美国放射学院(ACR)](https://pages.acr.org/Informatics-E-Learning-Hub.html#module1) 提供的网络研讨会，以及由健康人工智能研究中心提供的研究研讨会、期刊俱乐部、小组讨论，包括[](https://www.youtube.com/c/stanfordaimi)[医学和成像人工智能中心(AIMI 中心)](https://aimi.stanford.edu/)的 YouTube 频道。
+如果你对人工智能和机器学习完全陌生，那么通过 Coursera 在吴恩达的 deeplearning.ai 项目中提供的 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) 课程，强调了为什么人工智能是如此多行业的焦点，而不仅仅是医疗保健。对于医疗保健特定的材料，您可以尝试由北美[放射学会](https://www.rsna.org/en/education/ai-resources-and-training/webinars) (RSNA，小额费用)、[医学成像信息学学会(SIIM)](https://siim.org/general/custom.asp?page=siim_webinars) 和[美国放射学院(ACR)](https://pages.acr.org/Informatics-E-Learning-Hub.html#module1) 提供的网络研讨会，以及由健康人工智能研究中心提供的研究研讨会、期刊俱乐部、小组讨论，包括<https://www.youtube.com/c/stanfordaimi>[医学和成像人工智能中心(AIMI 中心)](https://aimi.stanford.edu/)的 YouTube 频道。
 
 无论你是正在接受培训的放射科医师，还是经过委员会认证的放射科医师，由 RSNA 和 SIIM 赞助的[国家影像信息学课程(NIIC)](https://www.rsna.org/en/education/trainee-resources/national-imaging-informatics-curriculum-and-course) 都清晰地介绍了更广阔的信息学世界——结合录音和现场讲座，以及“翻转课堂”,使信息学名人和同学能够进行小组讨论。任何住院医师项目的受训者都可以参加这一课程，只需象征性的费用，但是住院医师需要说服他们的项目主管提供一个临床时间表的休息时间。训练有素的放射科医生也可以付费参加该课程。
 

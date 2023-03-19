@@ -117,13 +117,13 @@ Michael 来自安捷伦科技公司，该公司为研究实验室制造生命科
 
 如果你想与迈克尔保持联系，请随时通过他的 LinkedIn 与他联系。
 
-[](https://www.linkedin.com/in/michael-ng-59814011/) [## 迈克尔·吴-数据分析经理-安捷伦科技| LinkedIn
+<https://www.linkedin.com/in/michael-ng-59814011/> [## 迈克尔·吴-数据分析经理-安捷伦科技| LinkedIn
 
 www.linkedin.com](https://www.linkedin.com/in/michael-ng-59814011/) 
 
 如果你喜欢这篇文章，请在 LinkedIn 上联系我！我撰写关于学习数据科学、数据科学技巧和诀窍以及一般技术的内容。
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang —数据分析师— Gojek
+<https://www.linkedin.com/in/travistang/> [## Travis Tang —数据分析师— Gojek
 
 www.linkedin.com](https://www.linkedin.com/in/travistang/) 
 
@@ -131,11 +131,7 @@ www.linkedin.com](https://www.linkedin.com/in/travistang/)
 
 # 你可能也会喜欢…
 
-[](/a-chat-with-grabs-senior-data-analyst-cliff-chew-64eda27a6fa6) [## 与 Grab 的高级数据分析师 Cliff Chew 的对话
-
-### 从经济学家转型为数据分析师的教训
-
-towardsdatascience.com](/a-chat-with-grabs-senior-data-analyst-cliff-chew-64eda27a6fa6) 
+</a-chat-with-grabs-senior-data-analyst-cliff-chew-64eda27a6fa6>  
 
 # 确认
 

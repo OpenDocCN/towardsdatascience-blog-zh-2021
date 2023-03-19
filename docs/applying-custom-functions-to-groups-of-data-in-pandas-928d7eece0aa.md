@@ -58,16 +58,4 @@ grouping = data.groupby([‘target’])
 
 ## 参考
 
-[](https://github.com/caseywhorton/medium-blog-code) [## GitHub-Casey Horton/medium-blog-code
-
-### 在 GitHub 上创建一个帐户，为 Casey Horton/medium-blog-code 开发做贡献。
-
-github.com](https://github.com/caseywhorton/medium-blog-code)  [## 分组依据:拆分-应用-合并-熊猫 1.2.1 文档
-
-### 我们所说的“分组依据”指的是涉及以下一个或多个步骤的过程:将数据分成…
-
-pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) [](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) [## Iris 数据集- scikit-learn 0.24.1 文档
-
-### 编辑描述
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+<https://github.com/caseywhorton/medium-blog-code>    <https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html> 

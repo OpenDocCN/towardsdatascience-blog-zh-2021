@@ -220,11 +220,7 @@ O 我们对深度的感知对于创造我们周围的 3D 世界至关重要。�
 
 *看看第二部分。*
 
-*[](/dl-for-depth-estimation-p2-7cb2c9ff325d) [## 计算机如何看深度:基于深度学习的方法的最新进展
-
-### 第 2 部分:基于图像的立体视觉
-
-towardsdatascience.com](/dl-for-depth-estimation-p2-7cb2c9ff325d)* 
+*</dl-for-depth-estimation-p2-7cb2c9ff325d> * 
 
 # *七参考文献*
 
@@ -244,39 +240,15 @@ towardsdatascience.com](/dl-for-depth-estimation-p2-7cb2c9ff325d)*
 
 *在 [LinkedIn](https://www.linkedin.com/company/superannotate/) 、 [Twitter](https://twitter.com/jrobvision) 和[脸书](https://www.facebook.com/superannotate)上关注罗宾逊博士*
 
-*[](https://www.jrobsvision.com/) [## 乔·罗宾逊的主页
-
-### Joseph P. Robinson 获得了电气和计算机工程学士学位(2014 年)和计算机工程博士学位(2020 年)…
-
-www.jrobsvision.com。](https://www.jrobsvision.com/) 
+*<https://www.jrobsvision.com/>  
 
 # 阅读更多由[约瑟夫·罗宾逊博士](https://medium.com/u/8049fa781539?source=post_page-----368581b244ed--------------------------------)在媒体上发表的文章
 
-[](/pandas-tips-tricks-need-for-speed-54e217cc6aa0) [## 熊猫小贴士:需要速度
-
-### 个人最喜欢的一句俏皮话
-
-towardsdatascience.com](/pandas-tips-tricks-need-for-speed-54e217cc6aa0) [](https://jvision.medium.com/remote-development-with-pycharm-d741287e07de) [## 使用 Pycharm 进行远程开发
-
-### 就是这么简单！
-
-jvision.medium.com](https://jvision.medium.com/remote-development-with-pycharm-d741287e07de) [](/a-great-tool-for-image-datasets-cb249663ca45) [## 对图像数据集进行重复数据删除的绝佳方式
-
-### 生产中的命令行工具
-
-towardsdatascience.com](/a-great-tool-for-image-datasets-cb249663ca45) [](https://jvision.medium.com/reduce-the-clutter-adapt-the-space-6daeef2e2ca9) [## 减少杂乱，适应空间
-
-### 变得有条理、高效甚至舒适的 3 个技巧
-
-jvision.medium.com](https://jvision.medium.com/reduce-the-clutter-adapt-the-space-6daeef2e2ca9) 
+</pandas-tips-tricks-need-for-speed-54e217cc6aa0>  <https://jvision.medium.com/remote-development-with-pycharm-d741287e07de>  </a-great-tool-for-image-datasets-cb249663ca45>  <https://jvision.medium.com/reduce-the-clutter-adapt-the-space-6daeef2e2ca9>  
 
 [*深度估计:基础知识和直觉*](/depth-estimation-1-basics-and-intuition-86f2c9538cd1) 作者 [Daryl Tan](https://medium.com/u/d5d47d10c0e9?source=post_page-----368581b244ed--------------------------------) ，是我在准备本系列*第二部分*时偶然发现的一篇博客，是一篇很棒的文章。它很好地补充了第一部分(即这篇博客)。此外，主题将帮助我们更深入地理解这个主题。
 
-[](/depth-estimation-1-basics-and-intuition-86f2c9538cd1) [## 深度估计:基础和直觉
-
-### 理解事物相对于相机有多远仍然是困难的，但对于激动人心的…
-
-towardsdatascience.com](/depth-estimation-1-basics-and-intuition-86f2c9538cd1) 
+</depth-estimation-1-basics-and-intuition-86f2c9538cd1>  
 
 # 突击测验
 

@@ -109,7 +109,7 @@ Dall-E 需要解决的一些伦理问题既棘手又模棱两可。在我们期�
 
 [https://www.linkedin.com/in/travistang/](https://www.linked.com/in/travistang/)
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang -数据分析师
+<https://www.linkedin.com/in/travistang/> [## Travis Tang -数据分析师
 
 www.linkedin.com](https://www.linkedin.com/in/travistang/) 
 

@@ -183,11 +183,7 @@ Copilot 创建的 Plotly 图形。作者图片
 
 以下是我的一些文章，希望你也喜欢:
 
-[](/turn-excel-into-a-beautiful-web-application-using-streamlit-7a18516ca01a) [## 使用 Streamlit 将 Excel 变成漂亮的 Web 应用程序
-
-### 使用 python 库 Streamlit 将数据呈现为交互式仪表盘 web 应用程序
-
-towardsdatascience.com](/turn-excel-into-a-beautiful-web-application-using-streamlit-7a18516ca01a) [](/automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293) [## 5 分钟内自动完成谷歌表单报告
+</turn-excel-into-a-beautiful-web-application-using-streamlit-7a18516ca01a>  </automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293> [## 5 分钟内自动完成谷歌表单报告
 
 towardsdatascience.com](/automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293) 
 

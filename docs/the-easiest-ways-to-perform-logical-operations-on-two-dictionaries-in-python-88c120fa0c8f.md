@@ -198,14 +198,6 @@ sym_dif**Output:** {'a': 1, 'b': 2, 'g': 7, 'h': 8}
 
 如果你喜欢这篇文章，你也可以发现下面这些有趣的:
 
-[](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [## 如何用 Python 阅读你的星座运势
-
-### 用 Python 找乐子
-
-better 编程. pub](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [](/bar-plots-best-practices-and-issues-30f1ad32c68f) [## 条形图:最佳实践和问题
-
-### 如何创建一个有洞察力的图表
-
-towardsdatascience.com](/bar-plots-best-practices-and-issues-30f1ad32c68f) [](/testing-birthday-paradox-in-faker-library-python-54907d724414) [## 在 Faker 库中测试生日悖论(Python)
+<https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1>  </bar-plots-best-practices-and-issues-30f1ad32c68f>  </testing-birthday-paradox-in-faker-library-python-54907d724414> [## 在 Faker 库中测试生日悖论(Python)
 
 towardsdatascience.com](/testing-birthday-paradox-in-faker-library-python-54907d724414)

@@ -10,7 +10,7 @@
 
 # 1.介绍
 
-数据科学是一个快速发展的领域，因为它为企业和行业带来了巨大的价值和数据驱动的洞察力。作为一种职业，*数据科学家*被誉为 21 世纪最性感的[](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)*，这也是发表在《哈佛商业评论》上的标志性文章的标题。*
+数据科学是一个快速发展的领域，因为它为企业和行业带来了巨大的价值和数据驱动的洞察力。作为一种职业，*数据科学家*被誉为 21 世纪最性感的<https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century>*，这也是发表在《哈佛商业评论》上的标志性文章的标题。*
 
 *每个有抱负的数据科学家在他们的数据科学学习旅程中都会遇到的一个问题是: ***一个人到底应该如何学习数据科学？*** 这个问题的答案可能会有很大的不同，这取决于学习者可以获得的独特机会和资源。*
 
@@ -259,11 +259,7 @@
 
 *我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频中，我也在 GitHub 上分享 Jupyter 笔记本([数据教授 GitHub 页面](https://github.com/dataprofessor/))。*
 
-*[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+*<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

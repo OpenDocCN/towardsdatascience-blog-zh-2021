@@ -84,16 +84,4 @@
 
 ## **相关文章**
 
-**[](/building-reproducible-machine-learning-pipelines-c80407c4319f) [## 构建可复制的机器学习管道
-
-### 如何安全地部署机器学习模型
-
-towardsdatascience.com](/building-reproducible-machine-learning-pipelines-c80407c4319f) [](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [## 机器学习模型部署
-
-### 被遗忘的阶段
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [](/4-machine-learning-system-architectures-e65e33481970) [## 4 机器学习系统架构
-
-towardsdatascience.com](/4-machine-learning-system-architectures-e65e33481970) [](/the-machine-learning-workflow-1d168cf93dea) [## 机器学习工作流程
-
-towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea)**
+**</building-reproducible-machine-learning-pipelines-c80407c4319f>  <https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd>  </4-machine-learning-system-architectures-e65e33481970> **

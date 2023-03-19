@@ -64,12 +64,4 @@ Shyam 是 Yara SmallHolder solutions 的数据团队负责人，他的团队负�
 
 # 你可能喜欢的其他文章
 
-[](https://shyamdsundar.medium.com/guiding-organizations-by-value-amidst-uncertainty-part-1-1a26e65ac049) [## 在不确定性中用价值引导组织——第一部分
-
-### 从价值的角度定义商业
-
-shyamdsundar.medium.com](https://shyamdsundar.medium.com/guiding-organizations-by-value-amidst-uncertainty-part-1-1a26e65ac049) [](https://medium.com/the-innovation/prioritising-the-scientific-way-507d4200b6b8) [## 优先考虑科学方法
-
-### 在领导分析和数据科学实践时，我经常处理关于优先级和选择的问题…
-
-medium.com](https://medium.com/the-innovation/prioritising-the-scientific-way-507d4200b6b8)
+<https://shyamdsundar.medium.com/guiding-organizations-by-value-amidst-uncertainty-part-1-1a26e65ac049>  <https://medium.com/the-innovation/prioritising-the-scientific-way-507d4200b6b8> 

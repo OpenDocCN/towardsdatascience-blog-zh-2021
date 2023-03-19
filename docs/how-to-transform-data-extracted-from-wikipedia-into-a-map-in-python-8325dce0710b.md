@@ -395,40 +395,8 @@ markers = list(set(markers))for marker in markers:
 
 # 相关文章
 
-[](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [## 我在六月份发现的一些关于数据可视化的有趣文章和资源
-
-### 从网上收集的一些关于数据可视化的最新有趣文章和资源的摘要。
-
-towardsdatascience.com](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [## 数据可视化原理第 2 部分:布局和重点
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分 Altair 中的一个实际例子
-
-### 关于如何在 Python Altair 中构建、定制和添加注释到简单条形图的实用教程
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) 
+</some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946>  </data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  
 
 # 参考
 
-[](https://fontawesome.com/v5.15/icons/flag?style=regular) [## 字体真棒
-
-### 世界上最受欢迎和最容易使用的图标集刚刚得到了升级。更多图标。更多款式。更多选择。
-
-fontawesome.com](https://fontawesome.com/v5.15/icons/flag?style=regular) [](https://stackoverflow.com/questions/41095716/hover-in-popup-in-folium) [## 悬停在叶子的弹出窗口中
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/41095716/hover-in-popup-in-folium) [](https://stackoverflow.com/questions/55344513/add-menu-bar-on-folium-map-to-select-or-deselect-particular-object-marker) [## 在叶图上添加菜单栏以选择或取消选择特定对象(标记)
-
-### 我已经建立了一个很酷的地图，如下图所示，但是有更多的物体。
-
-stackoverflow.com](https://stackoverflow.com/questions/55344513/add-menu-bar-on-folium-map-to-select-or-deselect-particular-object-marker) [](https://stackoverflow.com/questions/51486454/convert-geopandas-shapely-polygon-to-geojson) [## 将 geopandas shapely 多边形转换为 geojson
-
-### 我用 geopandas 创建了一个圆，它返回了一个形状优美的多边形:polygon:((...))我想要这个相同的多边形作为一个…
-
-stackoverflow.com](https://stackoverflow.com/questions/51486454/convert-geopandas-shapely-polygon-to-geojson) [](/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00) [## 用 leav 和 Geopy 制作酷地图。
-
-### 使用 Nominatim geocoder 将城市名称转换为点位置，并使用 leav 进行可视化。
-
-towardsdatascience.com](/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00)
+<https://fontawesome.com/v5.15/icons/flag?style=regular>  <https://stackoverflow.com/questions/41095716/hover-in-popup-in-folium>  <https://stackoverflow.com/questions/55344513/add-menu-bar-on-folium-map-to-select-or-deselect-particular-object-marker>  <https://stackoverflow.com/questions/51486454/convert-geopandas-shapely-polygon-to-geojson>  </making-simple-maps-with-folium-and-geopy-4b9e8ab98c00> 

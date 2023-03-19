@@ -64,11 +64,7 @@ CharlesChessAI 的智能基于 3 个预定义的策略:
 
 仍在开发中的代码在下面我的 GitHub 库中:
 
-[](https://github.com/octavio-santiago/CharlesChess_Reinforcement_Learning) [## 奥克塔维奥-圣地亚哥/查理塞斯 _ 强化 _ 学习
-
-### 在 GitHub 上创建一个帐户，为 Octavio-Santiago/Charles chess _ Reinforcement _ Learning 的发展做出贡献。
-
-github.com](https://github.com/octavio-santiago/CharlesChess_Reinforcement_Learning) 
+<https://github.com/octavio-santiago/CharlesChess_Reinforcement_Learning>  
 
 # 结论
 

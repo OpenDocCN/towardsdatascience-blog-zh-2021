@@ -22,11 +22,7 @@ Tablexplore 是一个基于 Python 的开源工具，可用于绘制和分析任
 
 为了安装 tablexplore for windows，我们可以从下面给出的链接直接下载 windows installer。
 
-[](https://dmnfarrell.github.io/tablexplore/) [## 表格探索
-
-### 该应用程序旨在为教育/科学使用，并允许快速可视化数据与方便的…
-
-dmnfarrell.github.io](https://dmnfarrell.github.io/tablexplore/) 
+<https://dmnfarrell.github.io/tablexplore/>  
 
 安装后，我们可以直接启动它，开始使用它。
 

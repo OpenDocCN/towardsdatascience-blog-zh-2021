@@ -68,14 +68,6 @@ J. Kelly Brito 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果在这一点上你不相信，我会建议两件事。首先，读一读阿图尔·加万德的书，这是一本写得非常好的简单快速的读物。其次，试着想想所有项目中需要完成的关键任务，在某些情况下，这些任务没有完成，甚至根本没有完成，做一个清单，看看下次有多少任务被遗漏或做错了，或者更好的是，在整个项目中参考它，看看它为你节省了多少时间和精力，而你下次不必考虑它们了！
 
-[](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
+</introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

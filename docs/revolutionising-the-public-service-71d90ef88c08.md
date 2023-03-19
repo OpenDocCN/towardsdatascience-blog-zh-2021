@@ -48,18 +48,6 @@
 
 如果你喜欢这篇文章并想联系我，请在🖊️ [媒体](https://alexieidingli.medium.com/)上联系我，🐦[推特](https://twitter.com/alexieidingli)，🔗 [LinkedIn](https://www.linkedin.com/in/alexieidingli/) ，📷 [Instagram](https://www.instagram.com/alexieidingli/) ，😊[脸书](https://www.facebook.com/alexieidingli)或者🌐 [*网站*](http://www.dingli.org)
 
-[](https://medium.com/dataseries/the-future-of-governments-267476e790a8) [## 政府的未来
-
-### 通过技术重塑我们与国家的关系
-
-medium.com](https://medium.com/dataseries/the-future-of-governments-267476e790a8) [](/how-to-create-a-world-class-ai-national-strategy-in-10-steps-eec5bc1f91fd) [## 如何用 10 步打造世界级人工智能国家战略
-
-### 关于马耳他及其如何成为世界上人工智能排名前 10 位的国家的案例研究
-
-towardsdatascience.com](/how-to-create-a-world-class-ai-national-strategy-in-10-steps-eec5bc1f91fd) [](/10-questions-you-always-wanted-to-ask-an-ai-disruptor-but-never-did-5203a6d31aa4) [## 10 个问题，你一直想问一个 AI 颠覆者，却一直没有！
-
-### Alexiei Dingli 教授在过去的二十年里一直从事人工智能(AI)的研究。在第一部分中…
-
-towardsdatascience.com](/10-questions-you-always-wanted-to-ask-an-ai-disruptor-but-never-did-5203a6d31aa4) 
+<https://medium.com/dataseries/the-future-of-governments-267476e790a8>  </how-to-create-a-world-class-ai-national-strategy-in-10-steps-eec5bc1f91fd>  </10-questions-you-always-wanted-to-ask-an-ai-disruptor-but-never-did-5203a6d31aa4>  
 
 Alexiei Dingli 教授是马耳他大学人工智能教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他出版了几本同行评审的出版物，并成为马耳他的一部分。由马耳他政府成立的人工智能工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。

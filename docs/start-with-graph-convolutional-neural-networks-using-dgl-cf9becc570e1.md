@@ -48,11 +48,7 @@
 
 试试这个 COLAB 笔记本中的代码:
 
-[](https://github.com/napoles-uach/MediumPost/blob/main/CoraDGL.ipynb) [## 位于主那不勒斯的 medium post/corad GL . ipynb-uach/medium post
-
-### 中型笔记本。在 GitHub 上创建一个帐户，为 napoles-uach/MediumPost 开发做出贡献。
-
-github.com](https://github.com/napoles-uach/MediumPost/blob/main/CoraDGL.ipynb) 
+<https://github.com/napoles-uach/MediumPost/blob/main/CoraDGL.ipynb>  
 
 我希望你喜欢这个讲座，如果是的话，请鼓掌 50 次！！
 

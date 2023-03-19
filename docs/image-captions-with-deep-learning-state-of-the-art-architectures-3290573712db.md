@@ -26,11 +26,7 @@
 
 此外，如果您感兴趣，我还有一篇文章介绍了使用 Keras 和 Tensorflow 的端到端图像标题示例。
 
-[](/image-captions-with-attention-in-tensorflow-step-by-step-927dad3569fa) [## Tensorflow 中带注意的图像标题，逐步
-
-### Keras 和 Tensorflow 2.0 中使用编码器-解码器的端到端示例，用简单的英语讲述
-
-towardsdatascience.com](/image-captions-with-attention-in-tensorflow-step-by-step-927dad3569fa) 
+</image-captions-with-attention-in-tensorflow-step-by-step-927dad3569fa>  
 
 # 它是如何工作的？
 
@@ -173,15 +169,7 @@ towardsdatascience.com](/image-captions-with-attention-in-tensorflow-step-by-ste
 
 波束搜索非常有效，在许多 NLP 应用中被广泛使用。我有几篇文章以直观的方式详细解释了这些。如果你感兴趣，我鼓励你去看一看。
 
-[](/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24) [## 自然语言处理的基础直观解释:波束搜索，它是如何工作的
-
-### 波束搜索如何增强预测的简明指南
-
-towardsdatascience.com](/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24) [](/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b) [## 解释自然语言处理的基础——Bleu 评分和 WER 指标
-
-### NLP 模型的两个基本指标(Bleu 分数和单词错误率)的简明指南，用简单的英语编写
-
-towardsdatascience.com](/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b) 
+</foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24>  </foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b>  
 
 # Bleu 分数度量
 
@@ -205,18 +193,6 @@ towardsdatascience.com](/foundations-of-nlp-explained-bleu-score-and-wer-metrics
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于变形金刚、音频深度学习和地理定位机器学习的其他系列。
 
-[](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [## 直观解释的变压器(第 1 部分):功能概述
-
-### NLP 变形金刚的简明指南，以及为什么它们比 rnn 更好，用简单的英语。注意力如何帮助…
-
-towardsdatascience.com](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [## 音频深度学习变得简单(第一部分):最新技术
-
-### 颠覆性深度学习音频应用和架构世界的温和指南。以及为什么我们都需要…
-
-towardsdatascience.com](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [## 利用地理位置数据进行机器学习:基本技术
-
-### 简明的地理空间数据特征工程和可视化指南
-
-towardsdatascience.com](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) 
+</transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>  </audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504>  </leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc>  
 
 让我们继续学习吧！

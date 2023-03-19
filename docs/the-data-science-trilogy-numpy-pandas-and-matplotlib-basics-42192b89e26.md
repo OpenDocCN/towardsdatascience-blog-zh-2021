@@ -434,15 +434,7 @@ Seaborn 代码输出(图片由作者提供)
 
 安:今天的介绍就到这里！当然，没有哪一篇文章会涵盖所有内容，所以这里有几篇其他的好文章，这样你就可以继续你的学习之旅:
 
-[](/a-beginners-guide-to-data-analysis-in-python-188706df5447) [## Python 数据分析初学者指南
-
-### Python 数据分析入门分步指南
-
-towardsdatascience.com](/a-beginners-guide-to-data-analysis-in-python-188706df5447) [](/introduction-to-data-visualization-in-python-89a54c97fbed) [## Python 中的数据可视化简介
-
-### 如何使用 Matplotlib，Pandas 和 Seaborn 制作图形
-
-towardsdatascience.com](/introduction-to-data-visualization-in-python-89a54c97fbed) 
+</a-beginners-guide-to-data-analysis-in-python-188706df5447>  </introduction-to-data-visualization-in-python-89a54c97fbed>  
 
 ## 来源
 
@@ -462,8 +454,4 @@ towardsdatascience.com](/introduction-to-data-visualization-in-python-89a54c97fb
 4.  https://github.com/JairParra
 5.  【https://medium.com/@hair.parra 
 
-[](https://www.linkedin.com/in/hair-parra-526ba19b/) [## Hair Parra —数据科学家/数据工程师— DevX Analytics —思科| LinkedIn
-
-### 查看 Hair Parra 在全球最大的职业社区 LinkedIn 上的个人资料。头发有 8 个工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/hair-parra-526ba19b/)
+<https://www.linkedin.com/in/hair-parra-526ba19b/> 

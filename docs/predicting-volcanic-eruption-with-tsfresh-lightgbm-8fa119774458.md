@@ -12,11 +12,7 @@
 
 我与 tsfresh 和 lightGBM 一起为这场比赛创建了一个简单的解决方案，它在比赛的公共排行榜上排名第 18 位。在这篇文章中，我想详细描述我的解决方案。我还清理并记录了我的竞赛代码，作为 Kaggle 上的公共内核。您可以通过下面的链接查看本文的完整代码。
 
-[](https://www.kaggle.com/ekhtiar/18th-place-predicting-eruption-full-tutorial) [## 【第 18 名】预测🌋喷发全教程
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/ekhtiar/18th-place-predicting-eruption-full-tutorial) 
+<https://www.kaggle.com/ekhtiar/18th-place-predicting-eruption-full-tutorial>  
 
 如果您正从多元时间序列数据开始，我希望阅读这篇文章能对您的以下两个主题有所帮助:
 
@@ -27,11 +23,7 @@ www.kaggle.com](https://www.kaggle.com/ekhtiar/18th-place-predicting-eruption-fu
 
 时序数据的特征生成可能非常耗时。然而，我们想要为时间序列数据生成的许多技术/特征是众所周知的和标准化的。使用 tsfresh，您可以毫不费力地自动计算大量这些已知的时间序列特征。它甚至有内置的方法来评估生成的要素的要素重要性。整个项目是开源的，你可以在 GitHub 上查看回购。
 
-[](https://github.com/blue-yonder/tsfresh) [## 蓝色的/新鲜的
-
-### 这个存储库包含 TSFRESH python 包。缩写代表“基于时间序列特征提取…
-
-github.com](https://github.com/blue-yonder/tsfresh) 
+<https://github.com/blue-yonder/tsfresh>  
 
 使用 tsfresh 相当简单。API 非常干净，你只需要从他们详尽的可用特性列表中描述你想要的特性，然后让 tsfresh 提取它们。然而，在探索的开始，不知道你想要的那种特性是非常普遍的。所以 tsfresh 也提供了预构建的特征提取设置。我将在下面描述其中的一些:
 
@@ -73,11 +65,7 @@ selected_features_df = extract_features(another_df, column_id =   'id', kind_to_
 
 目前，我们的数据集有 2854 个要素。首先，我处理了训练数据集的所有可能特征(ComprehensiveFCParameters)。这产生了近 8000 个特征。然后，我删除了高度相关的列和准常数特征。这使我们的特征下降到 2854。我还应用了一个递归的特性排除法来选择前 501 个特性(500 似乎是一个太好的数字了)。这些列在此笔记本中是硬编码的。完整的数据集也作为公共数据集上传到 Kaggle 上，您可以通过以下链接查看:
 
-[](https://www.kaggle.com/ekhtiar/ingv-parquet) [## INGV 用 ts-fresh 加工特征
-
-### 用 ts-fresh 处理 INGV 火山爆发预测数据
-
-www.kaggle.com](https://www.kaggle.com/ekhtiar/ingv-parquet) 
+<https://www.kaggle.com/ekhtiar/ingv-parquet>  
 
 # 模型架构
 

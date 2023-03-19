@@ -20,11 +20,7 @@
 
 阅读我以前的[文章](/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38)，深入了解特性编码策略
 
-[](/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38) [## 特征工程——深入研究编码和宁滨技术
-
-### 特征编码和特征宁滨技术图解
-
-towardsdatascience.com](/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38) 
+</feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38>  
 
 在本文中，我们将讨论使用决策树模型绑定数字特征的最佳策略之一。
 

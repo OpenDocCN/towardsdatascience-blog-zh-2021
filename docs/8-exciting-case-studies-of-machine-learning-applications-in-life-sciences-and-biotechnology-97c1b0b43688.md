@@ -160,16 +160,4 @@
 
 你喜欢我的故事吗？在这里你可以找到更多。
 
-[](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [## 发现 9 个咨询领域，开始任何经验水平的激动人心的数据科学之旅
-
-### 和更多指导，让您做好咨询准备
-
-towardsdatascience.com](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa) [## 顶级技术趋势及其对数据科学、机器学习和人工智能的影响
-
-### 你和你的职业生涯的行动计划
-
-towardsdatascience.com](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa) [](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [## edX 2021 上数据科学 MicroMasters 计划的终极指南
-
-### 你应该选择 6 个程序中的哪一个？
-
-towardsdatascience.com](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387)
+</discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4>  </the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa>  </the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387> 

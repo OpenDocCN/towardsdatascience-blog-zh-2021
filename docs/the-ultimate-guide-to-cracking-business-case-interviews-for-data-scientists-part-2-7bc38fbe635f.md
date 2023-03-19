@@ -10,11 +10,7 @@
 
 *这是数据科学家破解商业案例访谈的第 2 部分！参见本文的第 1 部分:*
 
-[](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) [## 数据科学家破解商业案例访谈的终极指南(第 1 部分)
-
-### 数据科学家在产品感觉访谈中胜出的度量框架
-
-towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) 
+</the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4>  
 
 如果你更喜欢视频，可以看看这个 YouTube 视频[和](https://www.youtube.com/watch?v=nPJKFWMiIC8)[这个播放列表](https://www.youtube.com/playlist?list=PLY1Fi4XflWSvtu963rZpfH6WeX54vSrDW)，前者是这篇文章的缩略版本，后者是来自脸书、LinkedIn 和 Lyft 的真实商业案例面试问题的样本答案。
 
@@ -178,8 +174,4 @@ towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews
 
 **要继续阅读，我们建议如下:**
 
-**[](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) [## 数据科学面试中的 7 个 A/B 测试问题和答案
-
-### A/B 测试，也称为受控实验，在工业中广泛用于产品上市决策。它允许技术…
-
-towardsdatascience.com](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)**
+**</7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63> **

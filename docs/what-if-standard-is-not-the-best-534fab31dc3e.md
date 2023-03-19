@@ -20,11 +20,7 @@
 pd.read_csv().apply(lambda x: len(np.unique(x)))
 ```
 
-[](https://pandas.pydata.org) [## 熊猫
-
-### pandas 是一个快速、强大、灵活且易于使用的开源数据分析和操作工具，构建于…
-
-pandas.pydata.org](https://pandas.pydata.org) 
+<https://pandas.pydata.org>  
 
 这对于许多应用来说是很好的，并且不需要数据科学家付出任何努力来实现它是非常直接的，但是..
 
@@ -44,11 +40,7 @@ pandas.pydata.org](https://pandas.pydata.org)
 
 使用*升压。Python* 我能够将我新创建的模块加载到一个 Python 模块中，所以使用它会像熊猫一样容易。
 
-[](https://boost.org) [## Boost C++库
-
-### Boost 提供免费的同行评审的可移植 C++源代码库。我们强调与 C++配合良好的库…
-
-boost.org](https://boost.org) 
+<https://boost.org>  
 
 下面是一个绑定函数的例子
 
@@ -93,11 +85,7 @@ pydiversity.diversity("mainTable.csv")
 
 # 密码
 
-[](https://github.com/fvalle1/fastDiverse/) [## GitHub-f Valle 1/fast diversity:大表上多样性估计的快速实现
-
-### 以快速有效的方式估计矩形矩阵中不同元素的数量。这很容易做到…
-
-github.com](https://github.com/fvalle1/fastDiverse/) 
+<https://github.com/fvalle1/fastDiverse/>  
 
 # 参考
 

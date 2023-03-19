@@ -39,11 +39,7 @@ S **情感分析**是一种自然语言处理技术，用于确定给定文本�
 
 > 阅读下面的文章，了解如何使用朴素贝叶斯分类算法开发一个电影评论情感分析模型。
 
-[](https://satyam-kumar.medium.com/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d) [## 使用朴素贝叶斯分类器的 IMDB 电影评论极性
-
-### 简介:
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d) 
+<https://satyam-kumar.medium.com/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d>  
 
 # 文本 Blob:
 
@@ -95,11 +91,7 @@ BERT 代表 Google 开发的 Transformers 的双向编码器表示，它是用�
 
 遵循下面提到的关于用 BERT 实现情感分析模型的文章。
 
-[](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) [## 伯特和拥抱脸 10 分钟情感分析
-
-### 学习预训练的自然语言处理模型的基础，伯特，并建立一个使用 IMDB 电影评论的情感分类器…
-
-towardsdatascience.com](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) 
+</sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671>  
 
 # 基于命名实体的情感分析器；
 

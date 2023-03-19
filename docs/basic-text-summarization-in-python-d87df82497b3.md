@@ -96,11 +96,7 @@ Unleashing the Power of Online Reporting Source: Sustainable Brands, 15 February
 
 完整的源代码可以在这里找到-
 
-[](https://github.com/grahamharrison68/Public-Github/blob/master/Text%20Mining/Text%20Summarization%20Article.ipynb) [## grahamharrison68/Public-Github
-
-### GH 公共项目库。通过在…上创建帐户，为 grahamharrison68/Public-Github 开发做出贡献
-
-github.com](https://github.com/grahamharrison68/Public-Github/blob/master/Text%20Mining/Text%20Summarization%20Article.ipynb) 
+<https://github.com/grahamharrison68/Public-Github/blob/master/Text%20Mining/Text%20Summarization%20Article.ipynb>  
 
 # 感谢您的阅读！
 

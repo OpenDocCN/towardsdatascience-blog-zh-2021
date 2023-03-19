@@ -154,33 +154,13 @@ Processing data1
 
 本文的源代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/python/module_example) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/python/module_example) 
+<https://github.com/khuyentran1401/Data-science/tree/master/python/module_example>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上联系我。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [](/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f) [## 如何使用诗歌毫不费力地将 Python 包发布到 PyPI
-
-### 在 10 分钟内分享您有用的 Python 工具
-
-towardsdatascience.com](/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f) [](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [## Rich:用 Python 在终端生成丰富美观的文本
-
-### 用几行代码调试和创建很酷的 Python 包
-
-towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) 
+</python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60>  </how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f>  </3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e>  
 
 # 参考
 

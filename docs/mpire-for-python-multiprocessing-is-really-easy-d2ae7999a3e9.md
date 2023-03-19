@@ -106,7 +106,7 @@ MPIRE 包含更多的特性，其中一些将在接下来的基准测试部分�
 
 对于 Ray 来说，`Actor` 功能运行良好。人们可以使用`ActorPool` 来很好地分配工作量:
 
-对于 MPIRE，我们可以利用 [](https://slimmer-ai.github.io/mpire/usage/workerpool/worker_state.html) `[worker_state](https://slimmer-ai.github.io/mpire/usage/workerpool/worker_state.html)`和`[worker_exit](https://slimmer-ai.github.io/mpire/usage/map/worker_init_exit.html)`功能。在这种情况下，我们还可以利用写入时拷贝:
+对于 MPIRE，我们可以利用 <https://slimmer-ai.github.io/mpire/usage/workerpool/worker_state.html> `[worker_state](https://slimmer-ai.github.io/mpire/usage/workerpool/worker_state.html)`和`[worker_exit](https://slimmer-ai.github.io/mpire/usage/map/worker_init_exit.html)`功能。在这种情况下，我们还可以利用写入时拷贝:
 
 与其他库相比，样板代码的数量有限。与 Ray 一样，还有一个额外的好处，即负载会自动在工作人员之间进行平衡。
 

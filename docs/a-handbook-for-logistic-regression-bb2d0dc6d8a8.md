@@ -119,11 +119,7 @@ Sigmoid 函数来恢复概率。图像来源:自创
 
 作为最后一步，为了测试我们对逻辑回归的学习，我们可以从执行探索性数据分析、拟合模型和分析学习到的系数开始，解决一个多类分类问题。在[这本笔记本中，](https://www.kaggle.com/abhishekmungoli/logistic-regression-iris-dataset/notebook)我总结了[鸢尾花数据集](https://en.wikipedia.org/wiki/Iris_flower_data_set)上逻辑回归的所有重要方面，以及额外的 EDA 和可解释的 AI 部分。请随意叉笔记本，延伸分析&学习。
 
-[](https://www.kaggle.com/abhishekmungoli/logistic-regression-iris-dataset/notebook) [## 逻辑回归 Iris 数据集
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自[私有数据源]的数据
-
-www.kaggle.com](https://www.kaggle.com/abhishekmungoli/logistic-regression-iris-dataset/notebook) 
+<https://www.kaggle.com/abhishekmungoli/logistic-regression-iris-dataset/notebook>  
 
 # 结论
 
@@ -143,11 +139,7 @@ www.kaggle.com](https://www.kaggle.com/abhishekmungoli/logistic-regression-iris-
 
 ******另外，查看我关于线性回归的博文[或视频版本](https://medium.com/geekculture/a-complete-guide-to-linear-regression-cfa984055671)[这里](https://www.youtube.com/watch?v=-OVHiTZofN0&list=PL89V0TQq5GLpnZlZMeUa8EAmM-v9QqXqQ)。******
 
-******[](https://medium.com/geekculture/a-complete-guide-to-linear-regression-cfa984055671) [## 线性回归完全指南
-
-### 涵盖线性回归的所有基础知识
-
-medium.com](https://medium.com/geekculture/a-complete-guide-to-linear-regression-cfa984055671) 
+******<https://medium.com/geekculture/a-complete-guide-to-linear-regression-cfa984055671>  
 
 [DataTrek](https://www.youtube.com/channel/UCg0PxC9ThQrbD9nM_FU1vWA) :线性回归系列
 

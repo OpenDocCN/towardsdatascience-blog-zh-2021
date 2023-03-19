@@ -18,11 +18,7 @@
 
 Readme.so 可从以下链接获得:
 
-[](https://readme.so/it) [## README . so——创建自述文件的最简单方法
-
-### 使用 readme.so 的 markdown 编辑器和现成的模板为您的存储库轻松创建一个简单的 readme
-
-readme.so](https://readme.so/it) 
+<https://readme.so/it>  
 
 它是完全免费的，只需要几分钟就可以理解它是如何工作的。Readme.so 支持多种语言，包括意大利语、法语、西班牙语和许多其他语言。
 
@@ -91,14 +87,6 @@ readme.so](https://readme.so/it)
 
 # 相关文章
 
-[](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
+<https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d>  </how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
 
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
-
-towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7)
+towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) </dataset-manipulation-with-open-refine-a5043b7294a7> 

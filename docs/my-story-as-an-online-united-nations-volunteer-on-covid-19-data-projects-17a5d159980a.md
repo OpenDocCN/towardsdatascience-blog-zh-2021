@@ -24,11 +24,7 @@
 
 此外，非营利组织可能缺乏为拥有数据科学专业知识和奉献时间热情的人组织这种“为好的数据”机会的经验。他们可能很少看到过去让志愿者参与数据科学项目的案例，因此很少或根本不知道可以做什么以及如何安排。这促使我写这篇博客来分享我作为数据导向项目志愿者的经历，以及我对“数据为善”项目核心步骤的思考。你可以在这里找到关于我的项目[的博客，在这里](/what-open-data-can-tell-you-about-covid-19-in-southeast-asia-besides-number-of-cases-6bea0d3d51d)找到 tableau 仪表盘[。](https://public.tableau.com/profile/hua.deng#!/vizhome/COVID-19ResponsesinSoutheastAsia/COVID-19ResponsesinSoutheastAsia)
 
- [## Tableau 公共
-
-### 新冠肺炎在东南亚的反应
-
-public.tableau.com](https://public.tableau.com/profile/hua.deng#!/vizhome/COVID-19ResponsesinSoutheastAsia/COVID-19ResponsesinSoutheastAsia) 
+  
 
 # **思考 1——如何确定数据项目的范围？**
 

@@ -124,11 +124,7 @@ dist1.summary
 
 我在这篇文章中写过什么是生产数据科学。本质上，这意味着**以更高的速度、稳健的方式进行同样的数据科学活动**。
 
-[](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) [## 为什么以及如何学习“生产数据科学”？
-
-### 什么是生产数据科学，它有哪些组成部分？
-
-medium.com](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) 
+<https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37>  
 
 您可以使用 Scipy 函数从头开始编写纯 Python 代码，遍历各种发行版，并对您拥有的数据运行 GOF 测试。但是当有人已经为完全相同的任务编写了一个优秀的库(带有高质量的文档)时，你为什么还要浪费时间呢？
 
@@ -136,10 +132,6 @@ medium.com](https://medium.com/productive-data-science/why-and-how-should-you-le
 
 Y 你可以查看作者的 [**GitHub**](https://github.com/tirthajyoti?tab=repositories) **知识库**获取机器学习和数据科学方面的代码、思想和资源。如果你和我一样，对人工智能/机器学习/数据科学充满热情，请随时[在 LinkedIn 上添加我](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)或[在 Twitter 上关注我](https://twitter.com/tirthajyotiS)。
 
-[](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) [## Tirthajyoti Sarkar -数据科学和解决方案工程经理- Adapdix 公司|…
-
-### 将 AI/ML 的力量放在工业 4.0 和下一代智能工厂的边缘。将人工智能引入工业领域…
-
-www.linkedin.com](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) 
+<https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/>  
 
 享受中等:[https://medium.com/@tirthajyoti/membership](https://medium.com/@tirthajyoti/membership)

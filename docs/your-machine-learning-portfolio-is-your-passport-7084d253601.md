@@ -18,11 +18,7 @@
 
 在我看来，更好的解决方案是建立一个个人网站，作为两者的混合体。个人网站可以让你把所有的东西都放在一个地方，这样就解决了组织的问题。此外，你将有更多的灵活性来定制你的投资组合，你可以让它对不太懂技术的读者来说更美观。
 
-[](https://kurtispykes.github.io/#about) [## 库尔蒂斯·派克斯
-
-### 我花了 6 年时间追求足球生涯；我在达格南&红桥足球俱乐部效力时，他们在第四梯队…
-
-kurtispykes.github.io](https://kurtispykes.github.io/#about) 
+<https://kurtispykes.github.io/#about>  
 
 ## 全力以赴
 
@@ -30,11 +26,7 @@ kurtispykes.github.io](https://kurtispykes.github.io/#about)
 
 让我们面对现实吧，成为每个领域的专家是不可能的。明确你想从事的领域，并选择与该领域最相关的机器学习项目。能够根据你想做的工作类型来定制你的机器学习项目，会向客户/雇主发出一个清晰的信息，告诉他们你可以如何让他们受益，如果你不得不参加面试，这将为你带来额外的优势。
 
-[](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) [## 从长远来看，专业化的“数据科学家”将会胜出
-
-### 成为专家会比成为多面手让你走得更远
-
-towardsdatascience.com](/the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00) 
+</the-specialized-data-scientist-will-win-in-the-long-run-22c47342aa00>  
 
 ## 要展示的项目类型
 
@@ -44,7 +36,7 @@ towardsdatascience.com](/the-specialized-data-scientist-will-win-in-the-long-run
 
 理想情况下，你希望在你的投资组合中包括一个端到端的机器学习项目，但展示数据探索等其他方面也无妨，以显示你是全面发展的。
 
-[](/the-machine-learning-workflow-1d168cf93dea) [## 机器学习工作流程
+</the-machine-learning-workflow-1d168cf93dea> [## 机器学习工作流程
 
 towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea) 
 
@@ -68,14 +60,6 @@ towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea)
 
 ## **相关文章**
 
-**[](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b) [## 为什么我停止申请数据科学的工作
+**</why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b>  </how-to-create-a-compelling-github-portfolio-a229e7472a92> [## 如何创建引人注目的 Github 产品组合
 
-### 以及为什么你应该考虑效仿
-
-towardsdatascience.com](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b) [](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [## 如何创建引人注目的 Github 产品组合
-
-towardsdatascience.com](/how-to-create-a-compelling-github-portfolio-a229e7472a92) [](https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d) [## 为您的数据科学投资组合撰写博客
-
-### 你有什么选择？
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d)**
+towardsdatascience.com](/how-to-create-a-compelling-github-portfolio-a229e7472a92) <https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d> **

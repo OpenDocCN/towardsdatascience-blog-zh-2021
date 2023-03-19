@@ -94,11 +94,7 @@ RNNs 呢，比如长短期记忆(LTSM)或者门控循环单元(GRU)？rnn 通常
 
 如果你打算和 RNNs 一起工作，我建议你学习 PyTorch 或者 TensorFlow。如果你需要一个快速入门指南，我不久前写了一篇关于它的文章:
 
-[](/lstm-for-time-series-prediction-de8aeb26f2ca) [## 时间序列预测的 LSTM
-
-### 用 PyTorch 训练长短期记忆神经网络并预测比特币交易数据
-
-towardsdatascience.com](/lstm-for-time-series-prediction-de8aeb26f2ca) 
+</lstm-for-time-series-prediction-de8aeb26f2ca>  
 
 ## 管道
 
@@ -124,11 +120,7 @@ pipeline.fit(X_train, y_train)
 
 查看流失预测文章，了解管道的高级用法。我展示了如何分别处理分类特征和数字特征:
 
-[](/churn-prediction-770d6cb582a5) [## 流失预测
-
-### 了解如何为流失预测训练决策树模型。
-
-towardsdatascience.com](/churn-prediction-770d6cb582a5) 
+</churn-prediction-770d6cb582a5>  
 
 ## GPU 支持
 

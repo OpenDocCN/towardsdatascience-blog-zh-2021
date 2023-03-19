@@ -100,26 +100,6 @@
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
-
-### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
-
-towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [## 作为数据科学家要避免的 11 个关键错误！
-
-### 初学数据科学的爱好者会犯的十一个关键性错误是什么？
-
-towardsdatascience.com](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [## 当今时代的 8 项革命性人工智能技术！
-
-### 探索和分析即将或已经对世界产生巨大影响的 8 项人工智能技术！
-
-towardsdatascience.com](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) 
+</answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837>  </10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  </pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  </11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028>  </8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

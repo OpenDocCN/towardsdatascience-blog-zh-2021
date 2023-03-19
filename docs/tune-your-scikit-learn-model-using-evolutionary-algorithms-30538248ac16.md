@@ -127,11 +127,7 @@ plt.show()
 
 作为软件包的作者，欢迎任何建议、贡献或评论。在这里，您可以看到更多示例和使用的源代码:
 
-[](https://sklearn-genetic-opt.readthedocs.io/en/stable/) [## sk learn-genetic-opt-文档
-
-### Sklearn-genetic-opt 使用 deap 包中的进化算法来选择一组优化…
-
-sk learn-genetic-opt . readthedocs . io](https://sklearn-genetic-opt.readthedocs.io/en/stable/) 
+<https://sklearn-genetic-opt.readthedocs.io/en/stable/>  
 
 以下是撰写本文时的定义，但请务必查看最新的文档以获取更新。
 

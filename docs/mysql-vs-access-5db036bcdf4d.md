@@ -68,44 +68,8 @@ Access 还支持标准的 SQL 语法/脚本，因此您不必花时间学习一�
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/how-fast-are-sqlalchemy-relationships-5b6787dc9276) [## SQLAlchemy 关系有多快？
-
-### 确定手动配置和自动加载哪个更快…
-
-python .平原英语. io](https://python.plainenglish.io/how-fast-are-sqlalchemy-relationships-5b6787dc9276) [](/mysql-vs-cassandra-db-49bc518e1b8f) [## MySQL vs Cassandra DB
-
-### 另一个 RDBMS 和 NoSQL 摊牌…
-
-towardsdatascience.com](/mysql-vs-cassandra-db-49bc518e1b8f) [](https://medium.com/codex/libreoffice-on-docker-1a64245468c) [## 码头上的图书馆
-
-### 开源的 Office365
-
-medium.com](https://medium.com/codex/libreoffice-on-docker-1a64245468c) [](/sql-relationships-with-sqlalchemy-ee619e6f2e8f) [## SQL 与 SQLAlchemy 的关系
-
-### 手动配置如何简化查询
-
-towardsdatascience.com](/sql-relationships-with-sqlalchemy-ee619e6f2e8f) [](/mysql-vs-redis-def3287de41) [## MySQL vs Redis
-
-### DBMS 与内存中数据存储的比较
-
-towardsdatascience.com](/mysql-vs-redis-def3287de41) 
+<https://python.plainenglish.io/how-fast-are-sqlalchemy-relationships-5b6787dc9276>  </mysql-vs-cassandra-db-49bc518e1b8f>  <https://medium.com/codex/libreoffice-on-docker-1a64245468c>  </sql-relationships-with-sqlalchemy-ee619e6f2e8f>  </mysql-vs-redis-def3287de41>  
 
 参考资料:
 
-[](https://dba.stackexchange.com/questions/62851/mysql-vs-microsoft-access) [## MySQL 与 Microsoft Access
-
-### 数据库管理员 Stack Exchange 是一个问答网站，面向希望提高…
-
-dba.stackexchange.com](https://dba.stackexchange.com/questions/62851/mysql-vs-microsoft-access) [](https://db-engines.com/en/system/Microsoft+Access%3BMySQL) [## Microsoft Access 与 MySQL 的比较
-
-### Microsoft Access 和 MySQL 的详细并排视图
-
-db-engines.com](https://db-engines.com/en/system/Microsoft+Access%3BMySQL) [](https://www.toolbox.com/tech/devops/question/difference-between-microsoft-access-and-mysql-061011/) [## microsoft access 和 Mysql - Toolbox 的区别
-
-### MySQL 只是数据库。Access 也是一个数据库系统，但它也提供了查询生成、表单…
-
-www.toolbox.com](https://www.toolbox.com/tech/devops/question/difference-between-microsoft-access-and-mysql-061011/) [](https://www.tutorialspoint.com/ms_access/ms_access_overview.htm) [## MS Access -概述
-
-### Microsoft Access 是微软的一个数据库管理系统(DBMS ),它结合了关系型 Microsoft Jet…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/ms_access/ms_access_overview.htm)
+<https://dba.stackexchange.com/questions/62851/mysql-vs-microsoft-access>  <https://db-engines.com/en/system/Microsoft+Access%3BMySQL>  <https://www.toolbox.com/tech/devops/question/difference-between-microsoft-access-and-mysql-061011/>  <https://www.tutorialspoint.com/ms_access/ms_access_overview.htm> 

@@ -202,26 +202,14 @@ Kats 的异常值检测算法是这样工作的:
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/time_series/google_analytics/google-analytics-analysis.ipynb) [## 数据科学/Google-analytics-analysis . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/Google-analytics-analysis . ipynb，网址为…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/time_series/google_analytics/google-analytics-analysis.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/time_series/google_analytics/google-analytics-analysis.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [## 使用 dirty_cat 对脏类别进行相似性编码
+</similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552> [## 使用 dirty_cat 对脏类别进行相似性编码
 
-towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [## kats:Python 中分析时间序列数据的通用框架
-
-### 预测、检测变化点、异常，并获得时间序列中的关键统计数据
-
-towardsdatascience.com](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [## Pydash:缺少 Python 实用程序的厨房水槽
-
-### 以函数的方式使用 Python
-
-towardsdatascience.com](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
+towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) </kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057>  </pydash-a-bucket-of-missing-python-utilities-5d10365be4fc>  </how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c> [## 如何用 Excalidraw 勾画您的数据科学想法
 
 towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c)

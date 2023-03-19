@@ -160,8 +160,4 @@ Transformer 架构基于**自我关注**机制，该机制学习序列元素之�
 
 如果你喜欢这个故事，你也可以看看我的第一篇关于媒体的文章，在那里我解释了一个最有趣和最新的视觉架构，CoAtNet！
 
-[](https://medium.com/codex/coatnet-how-to-perfectly-combine-cnns-and-transformer-9632e187ecbf) [## CoAtNet:如何将 CNN 和变形金刚完美结合
-
-### 谷歌推出的全新架构的用户友好解释
-
-medium.com](https://medium.com/codex/coatnet-how-to-perfectly-combine-cnns-and-transformer-9632e187ecbf)
+<https://medium.com/codex/coatnet-how-to-perfectly-combine-cnns-and-transformer-9632e187ecbf> 

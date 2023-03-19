@@ -265,20 +265,4 @@ ngrok http 5002
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [## Streamlit 和 spaCy:创建一个应用程序来预测情绪和单词的相似性，最小域…
-
-### 只需要 10 行代码！
-
-towardsdatascience.com](/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) [](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [## 使用 TextBlob 增强您的 Python 字符串
-
-### 在一行代码中获得更多关于文本的见解！
-
-towardsdatascience.com](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [](/sentiment-analysis-of-linkedin-messages-3bb152307f84) [## 使用 Python 和情感分析探索和可视化您的 LinkedIn 网络
-
-### 希望优化您的 LinkedIn 个人资料？为什么不让数据为你服务呢？
-
-towardsdatascience.com](/sentiment-analysis-of-linkedin-messages-3bb152307f84) [](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e)
+</streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4>  </supercharge-your-python-string-with-textblob-2d9c08a8da05>  </sentiment-analysis-of-linkedin-messages-3bb152307f84>  </pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e> 

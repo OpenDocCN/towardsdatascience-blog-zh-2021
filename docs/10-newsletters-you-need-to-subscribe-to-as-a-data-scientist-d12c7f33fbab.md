@@ -14,7 +14,7 @@
 
 这就是为什么我最喜欢的东西之一是时事通讯。我不需要每天去查找信息；我只需要定期检查我的电子邮件，以获得我需要的关于这个领域的所有信息，也许还能在旅途中学到一些新东西。如果我想特别谈论数据科学，那么试图跟上该领域的各个方面可能有些不可能。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -34,11 +34,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 [Better Developers](https://sparklp.co/sara53f5cf) 简讯是我最喜欢的简讯之一，由最优秀的 Python 培训师之一[鲁文·m·勒纳](https://lerner.co.il/reuven-m-lerner/)撰写和维护。鲁文有着惊人的教学风格；他能用通俗易懂的术语解释复杂的概念。所以，如果你是 Python 的新手，或者想提高你的 Python 技能，看看这篇令人惊叹的每周时事通讯就知道了。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 # №4:讲故事的数据
 
@@ -52,11 +48,7 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 我们的第三份也是最后一份数据可视化简讯是 [DataVizToday](https://dataviztoday.com/) 。本期时事通讯由数据即设计师[阿利·托班](https://dataviztoday.com/about)主持。她是一个伟大的可视化者，旨在分享她在工作中发现的可视化技巧、诀窍、最新工具和方法。因此，如果你是一名数据科学家、分析师、记者或设计师，并希望提高你的可视化和创造力，这份简讯是为你准备的。
 
-[](/6-data-science-podcasts-to-learn-something-new-on-the-go-aa9f7628d951) [## 6 个数据科学播客，随时随地学习新知识
-
-### 充分利用你的时间。
-
-towardsdatascience.com](/6-data-science-podcasts-to-learn-something-new-on-the-go-aa9f7628d951) 
+</6-data-science-podcasts-to-learn-something-new-on-the-go-aa9f7628d951>  
 
 # 第七名:玛奇纳数据
 
@@ -70,11 +62,7 @@ O'Reilly 是科技领域所有专业的知名出版商之一。O'Reilly 提供 4
 
 谈到数据科学时事通讯，我不能不提到 [KDnuggets 时事通讯](https://www.kdnuggets.com/news/subscribe.html)。KDnuggets 时事通讯拥有超过 6 万名订阅者，它关注所有对任何数据科学家都很重要的事情。从研究新闻到讨论数据科学主题的最新会议、研讨会、活动和网络研讨会。不仅如此，它还包括职业建议，面试准备，有时还有职位空缺。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # №10:数据药剂
 

@@ -106,4 +106,4 @@ Clojure API 中的一些变量命名约定有特定的函数式编程技术术�
 
 感谢阅读！如果你喜欢这篇文章，你可以关注我在[媒体](https://medium.com/@edwardgunawan880)上的更多文章。我期待着与你通信。万事如意。
 
-【https://edward-huang.com】最初发表于[](https://edward-huang.com/ideas/life-lesson/2021/02/23/everyone-can-learn-programming-easily-if-they-know-english/)**。**
+【https://edward-huang.com】最初发表于<https://edward-huang.com/ideas/life-lesson/2021/02/23/everyone-can-learn-programming-easily-if-they-know-english/>**。**

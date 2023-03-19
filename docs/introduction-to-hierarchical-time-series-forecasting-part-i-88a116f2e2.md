@@ -103,19 +103,7 @@ Edvard Alexander lvaag 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180) [## 用 dtreeviz 实现漂亮的决策树可视化
-
-### 改进绘制决策树的旧方法，永不回头！
-
-towardsdatascience.com](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180) [](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [## 开始学习时间序列预测的最佳书籍
-
-### 更妙的是，它是免费的！
-
-towardsdatascience.com](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) [## 脸书的先知+深度学习= NeuralProphet
-
-### 用深度学习的力量改进可解释的先知模型
-
-towardsdatascience.com](/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86) 
+</beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180>  </the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb>  </facebooks-prophet-deep-learning-neuralprophet-76796aed1d86>  
 
 # 参考
 

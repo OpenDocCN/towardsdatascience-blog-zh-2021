@@ -74,11 +74,7 @@ redis-master LoadBalancer 10.233.50.103 172.16.100.223 6379:31808/TCP 187d
 redis-slave ClusterIP 10.233.23.109 <none> 6379/TCP 187d
 ```
 
-[](https://redislabs.com/redis-enterprise/redis-insight/) [## RedisInsight | Redis 实验室
-
-### RedisInsight 为 Redis 提供了一个直观有效的 GUI，允许您与数据库进行交互并管理…
-
-redislabs.com](https://redislabs.com/redis-enterprise/redis-insight/) 
+<https://redislabs.com/redis-enterprise/redis-insight/>  
 
 要使用 GUI 监控和管理 Redis，可以在 macOS、Linux 或 Windows 上安装 RedisInsight。安装后可以通过 [http://localhost:8001/](http://localhost:8001/) 访问 UI。连接到 Redis 实例后，您应该会看到以下页面:
 
@@ -90,11 +86,7 @@ RedisInsight 的 GUI 视图(图片由作者提供)
 
 # 将 Python 客户端连接到 Redis
 
- [## 欢迎阅读 redis-py 的文档！- redis-py 2.10.5 文档
-
-### 一个错误，指示错误数量的参数被发送到 AUTH 命令线程安全阻塞连接池…
-
-redis-py.readthedocs.io](https://redis-py.readthedocs.io/en/stable/) 
+  
 
 有一个很好的 Python 包叫做 redis-py。它提供了从 python 代码到 Redis 实例的接口。以下代码片段将我们的 Python 应用程序连接到 Redis:
 
@@ -159,11 +151,7 @@ def return_token():
 
 我们的令牌服务的所有构件都已经准备好了，下一步是将它们公开为一个 API。我用 FastAPI 来构建 API。顾名思义，就是**快！**就性能而言，还有**快！**就编码时间而言，和**一样快！**在学习时间方面。
 
-[](https://fastapi.tiangolo.com/) [## FastAPI
-
-### FastAPI 框架，高性能，简单易学，快速编码，准备生产文档…
-
-fastapi.tiangolo.com](https://fastapi.tiangolo.com/) 
+<https://fastapi.tiangolo.com/>  
 
 ```
 from fastapi import FastAPIapp = FastAPI()@app.get("/token")
@@ -281,11 +269,7 @@ spec:
 
 您可以根据需要设置任意数量的副本。点击此链接了解更多信息:
 
-[](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) [## 配置 Pod 以使用配置图
-
-### ConfigMaps 允许您将配置工件从映像内容中分离出来，以保持容器化的应用程序…
-
-kubernetes.io](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) 
+<https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/>  
 
 过一会儿，您会看到所有的 pod(在本例中是 3 个)都在运行。
 
@@ -353,8 +337,4 @@ FastAPI 已经生成了 OpenAPI 规范。(图片由作者提供)
 
 如果你想知道更多关于我们在 Kubernetes 上能做什么，请查看这篇文章。在那篇文章中，我展示了如何在本地 Kubernetes 集群上部署 Apache Airflow。
 
-[](/setting-up-data-pipelines-using-apache-airflow-on-kubernetes-4506baea3ce0) [## 在 Kubernetes 上使用 Apache Airflow 设置数据管道
-
-### 在 Kubernetes 上部署可扩展的生产就绪型气流
-
-towardsdatascience.com](/setting-up-data-pipelines-using-apache-airflow-on-kubernetes-4506baea3ce0)
+</setting-up-data-pipelines-using-apache-airflow-on-kubernetes-4506baea3ce0> 

@@ -28,11 +28,7 @@
 
 [https://towards data science . com/how-to-detect-model-drift-in-mlops-monitoring-7a 039 c 22 ea F9](/how-to-detect-model-drift-in-mlops-monitoring-7a039c22eaf9)
 
-[](https://medium.com/data-from-the-trenches/a-primer-on-data-drift-18789ef252a6) [## 数据漂移入门
-
-### 当机器学习模型不再相关时，可能是由于底层数据漂移。在这里，我们介绍和…
-
-medium.com](https://medium.com/data-from-the-trenches/a-primer-on-data-drift-18789ef252a6) 
+<https://medium.com/data-from-the-trenches/a-primer-on-data-drift-18789ef252a6>  
 
 **我们如何跟踪数据漂移？**
 

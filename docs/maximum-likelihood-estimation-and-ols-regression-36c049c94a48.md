@@ -78,14 +78,6 @@
 
 [2] Flowerdew，R；洛维特，用泊松回归分析计数数据，专业地理学家，1989，41，2
 
-[](/a-data-scientists-checklist-6e0a98456f7a) [## 数据科学家清单
-
-### “清单宣言”在数据科学中的应用
-
-towardsdatascience.com](/a-data-scientists-checklist-6e0a98456f7a) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</a-data-scientists-checklist-6e0a98456f7a>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)

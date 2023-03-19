@@ -46,7 +46,7 @@
 
 **那么如果知识是有价值的，那么那个应用的自动化应用不也是有价值的吗？事实上，这就是自动化作为一个整体，特别是软件的用武之地。我可以将我的知识编码成一系列可重复的步骤，这些步骤将产生预期的结果，甚至是结果。**
 
-***(关于这个编码过程的有趣事实是:软件开发人员，作为一个阶层的人，经历了巨大的*[](https://www.zdnet.com/article/developer-burnout-isnt-going-away-employers-need-to-act-now/)**。我也经常听到我的团队使用让水手脸红的语言。)****
+***(关于这个编码过程的有趣事实是:软件开发人员，作为一个阶层的人，经历了巨大的*<https://www.zdnet.com/article/developer-burnout-isnt-going-away-employers-need-to-act-now/>**。我也经常听到我的团队使用让水手脸红的语言。)****
 
 # ***回到未来——与 ML 一起***
 

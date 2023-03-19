@@ -46,16 +46,4 @@ CI/CD 管道是我在工作流程中经常使用的东西。您可以设计这�
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [## 作为数据科学家起步的三大挑战
-
-### 我作为一名年轻的数据科学家所面临的问题以及我是如何克服这些问题的
-
-towardsdatascience.com](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [## 为什么 2021 年你需要一位数据科学导师
-
-### 问导师的 5 件事对你的职业和学习有帮助
-
-towardsdatascience.com](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [](/4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa) [## 作为数据科学团队领导，我不知道的 4 件事
-
-### 当我从个人贡献者转变为团队领导时，我学到了什么
-
-towardsdatascience.com](/4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa)
+</top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09>  </why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7>  </4-things-i-didnt-know-about-being-a-team-lead-in-data-science-1f96293cb8aa> 

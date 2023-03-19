@@ -18,11 +18,7 @@ Kubernetes 协调了所有通过网络连接的虚拟机和应用程序的分布
 
 大多数`[kubectl](https://kubernetes.io/docs/tasks/tools/)`命令的总结如下:
 
-[](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) [## kubectl 备忘单
-
-### 这个页面包含一个常用 kubectl 命令和标志的列表。Kubectl 自动完成 BASH 源代码> ~/。bashrc #…
-
-kubernetes.io](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) 
+<https://kubernetes.io/docs/reference/kubectl/cheatsheet/>  
 
 # 安装 minikube
 
@@ -36,11 +32,7 @@ Minikube 是您在本地计算机上运行 Kubernetes 的方式。
 
 下面这篇博客文章将更详细地介绍如何设置和更改哪个`[minikube](https://kubernetes.io/docs/tasks/tools/)`集群`kubectl`正在指向哪个集群。
 
-[](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) [## Minikube 的配置文件是 Kubernetes 集群吗？
-
-### 我讨论了导致 Minikube 表现得像 Kubernetes 的稀疏记录的桥接概念。
-
-itnext.io](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) 
+<https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684>  
 
 在继续之前，您需要[安装](https://kubernetes.io/docs/tasks/tools/) `[minikube,](https://kubernetes.io/docs/tasks/tools/)`。
 
@@ -48,11 +40,7 @@ itnext.io](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e
 
 在第一篇博客文章中，我介绍了 Kubernetes 是分布式计算资源云的操作系统这一前提。
 
-[](/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380) [## 高效使用 Kubernetes 的前九个主要概念和代码示例
-
-### Kubernetes 的解释和使用不应该讨论内部架构组件。相反，我讨论…
-
-towardsdatascience.com](/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380) 
+</the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380>  
 
 我详细介绍了高效使用 Kubernetes 所需的前九个基本概念，同时避免了 Kubernetes 内部架构的复杂性。
 
@@ -95,11 +83,7 @@ Kubernetes 的一个重要概念是独立于计算硬件的类型。Kubernetes �
 
 下面引用的博客文章向您展示了如何为四种不同的云类型指定 Kubernetes 节点的计算资源:
 
-[](/how-to-assign-computing-resources-for-four-different-cloud-kubernetes-services-aks-eks-gke-and-b3f4deb722bc) [## 如何为四种不同的云 Kubernetes 服务分配计算资源:AKS、EKS、GKE 和…
-
-towardsdatascience.com](/how-to-assign-computing-resources-for-four-different-cloud-kubernetes-services-aks-eks-gke-and-b3f4deb722bc) 
-
-***注*** *:您可以用* `[*kubectl*](https://kubernetes.io/docs/tasks/tools/)` *指定虚拟机类型，或者让云厂商根据负载分配虚拟机类型。我建议您从云供应商自动分配开始，然后优化您的体验或当成本失控时。*
+</how-to-assign-computing-resources-for-four-different-cloud-kubernetes-services-aks-eks-gke-and-b3f4deb722bc> ` *指定虚拟机类型，或者让云厂商根据负载分配虚拟机类型。我建议您从云供应商自动分配开始，然后优化您的体验或当成本失控时。*
 
 # 11.什么是 Kubernetes 集群，它有什么作用？
 
@@ -217,31 +201,7 @@ kubectl delete deployment ubuntu-pod
 
 我和其他人充分报道了 Docker，并描述了我们与 Docker 的冒险经历:
 
-[](https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b) [## 我们面向云迁移的企业 Docker 解决方案
-
-### 这是一个关于我们第一次推出 Docker 的故事，它发生在我以前作为承包商工作过的一家公司。代码，作为…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b) [](https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) [## 我们将 Docker 企业解决方案的速度提高了一倍
-
-### 我们收到了大量关于 Docker 解决方案 0.0.2 版本的反馈。反馈有一个共同的主题:只有 R&D…
-
-dr-bruce-cottman.medium.com](https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) [](https://levelup.gitconnected.com/a-tutorial-on-the-behavior-of-linux-environment-variables-and-docker-containers-environment-29218a982220) [## 改变 Linux 环境变量和 Docker 容器环境的十七种方法…
-
-### Docker 容器从它们的主机继承环境变量，在启动时在外部设置，或者在…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/a-tutorial-on-the-behavior-of-linux-environment-variables-and-docker-containers-environment-29218a982220) [](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) [## Minikube 的配置文件是 Kubernetes 集群吗？
-
-### 我讨论了导致 Minikube 表现得像 Kubernetes 的稀疏记录的桥接概念。
-
-itnext.io](https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684) [](/fifteen-jupyter-notebook-extensions-to-a-docker-image-4dce942faadc) [## 一个 Docker 映像的十五个 Jupyter 笔记本扩展
-
-### 我们的 Jupyter Python 和 R 用户的 Docker 映像要求他们在每隔…之后设置他们的 Nbextensions 首选项
-
-towardsdatascience.com](/fifteen-jupyter-notebook-extensions-to-a-docker-image-4dce942faadc) [](https://betterprogramming.pub/what-goes-into-a-dockerfile-ff0ace591060) [## docker 文件包含哪些内容？
-
-### 从头开始构建 Dockerfile 文件，不需要任何经验
-
-better 编程. pub](https://betterprogramming.pub/what-goes-into-a-dockerfile-ff0ace591060) 
+<https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b>  <https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11>  <https://levelup.gitconnected.com/a-tutorial-on-the-behavior-of-linux-environment-variables-and-docker-containers-environment-29218a982220>  <https://itnext.io/is-minikubes-profile-a-kubernetes-cluster-c0f134c5e684>  </fifteen-jupyter-notebook-extensions-to-a-docker-image-4dce942faadc>  <https://betterprogramming.pub/what-goes-into-a-dockerfile-ff0ace591060>  
 
 我们将虚拟机映射到 Kubernetes 节点以实现计算资源独立性，并且我们需要将容器映像映射到 Kubernetes *pods* 中。
 
@@ -297,11 +257,7 @@ Redis 是一个流行的开源内存参数(密钥对)存储和缓存。如果你
 
 在 Kubernetes 中使用 Redis 的详细清单如下:
 
-[](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) [## Kubernetes 上 Redis 的生产清单
-
-### Redis 是一个流行的开源内存数据存储和缓存，已经成为构建可伸缩的…
-
-medium.com](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) 
+<https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325>  
 
 Redis 不是 Kubernetes 发行版的一部分，也不是 Kubernetes 托管云服务的一部分。然而，所有主要的云提供商都将 Redis 作为软件即服务(s as)提供。比如说。Redis 是由[亚马逊 elastic Cache](https://aws.amazon.com/elasticache/)、 [Azure Cache for Redis](https://azure.microsoft.com/en-us/services/cache/) 、 [GCP Memorystore](https://cloud.google.com/memorystore) 提供的 SaS。您可能需要一个 Redis 容器，用于不同于 Kubernetes SaaS 版本所提供的配置和控制。
 
@@ -405,11 +361,7 @@ kubectl exec -it  nginx-pod-796c9b5fdb-jjxgx -- sh
 
 1.  *前面的博客文章是第一部分；*
 
-*[](/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380) [## 高效使用 Kubernetes 的前九个主要概念和代码示例
-
-### Kubernetes 的解释和使用不应该讨论内部架构组件。相反，我讨论…
-
-towardsdatascience.com](/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380) 
+*</the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380>  
 
 2.这篇博客文章涵盖了 Kubernetes 集群、节点、pod、容器映像、端点和入口对象的七个概念。我使用了对象类型部署。不幸的是，我将在以后的博客中详细介绍部署。
 

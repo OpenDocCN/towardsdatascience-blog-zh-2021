@@ -51,11 +51,7 @@ plt.show()*
 
 *您可以访问下面的页面，了解更多关于不同的图像重采样技术。*
 
-*[](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm) [## 了解数字图像插值
-
-### 图像插值发生在所有数码照片的某个阶段-无论是在拜耳去马赛克还是在照片…
-
-www.cambridgeincolour.com](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm) 
+*<https://www.cambridgeincolour.com/tutorials/image-interpolation.htm>  
 
 这可以通过提供大小和重采样技术作为参数，使用 resize 方法来实现。
 我们可以将 800px X 800px 图像转换为 8px X 8px 图像，如下所示:
@@ -149,10 +145,6 @@ photo2pixelart 函数的输出(图片由作者提供)
 
 ## *你可能会对作者的其他文章感兴趣*
 
-*[](/generate-pencil-sketch-from-photo-in-python-7c56802d8acb) [## 用 Python 从照片生成铅笔草图
-
-### 使用 OpenCV 的图像处理教程，带代码
-
-towardsdatascience.com](/generate-pencil-sketch-from-photo-in-python-7c56802d8acb) ![](img/f936d973c247722388fa18782e5663ee.png)
+*</generate-pencil-sketch-from-photo-in-python-7c56802d8acb>  ![](img/f936d973c247722388fa18782e5663ee.png)
 
 封面图片(作者图片)*

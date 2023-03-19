@@ -30,11 +30,7 @@
 
 这是一个双刃剑的说法。伦理人工智能有从数据隐私到全民人工智能的各个方面。Tensor 帮助许多用户有机会尝试最新的人工智能进展，而他们并不担心自己的隐私。为什么？因为 AI 引擎在芯片上运行，没有数据被发送到云端进行进一步计算。另一方面，谷歌将人工智能软件和硬件绑定得越紧密，其他公司就越难竞争。我不想看到有一天其他公司甚至不能在执行人工智能推理上竞争，即在使用人工智能上竞争。我们几乎输给了大型科技公司。如果我们在人工智能推理上输给他们，那将是一场噩梦。这就是为什么我认为“张量帮助我们建立道德人工智能”是一把双刃剑。
 
-[](/an-open-letter-to-data-science-community-cc887d45a3d1) [## 致数据科学界的公开信
-
-### 人工智能伦理挑战:偏见和偏见，经济不平等和全球变暖
-
-towardsdatascience.com](/an-open-letter-to-data-science-community-cc887d45a3d1) 
+</an-open-letter-to-data-science-community-cc887d45a3d1>  
 
 # 感谢阅读！
 
@@ -46,8 +42,4 @@ towardsdatascience.com](/an-open-letter-to-data-science-community-cc887d45a3d1)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

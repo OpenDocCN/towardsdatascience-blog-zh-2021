@@ -74,16 +74,4 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 ## **相关文章**
 
-**[](/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71) [## 5 本免费书籍，让您的数据科学技能更上一层楼
-
-### 帮助您提高数据科学技能的书籍
-
-towardsdatascience.com](/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [## 机器学习工程师必须阅读这 5 本书
-
-### 打造机器学习工程师
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84)**
+**</5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35>  <https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84> **

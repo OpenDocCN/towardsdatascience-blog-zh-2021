@@ -231,11 +231,7 @@ limit 10;
 1.  **点击从 Kaggle [下载免费数据集](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities)**
 2.  **上传到 SQL 数据库。如果您还没有设置，您可以在下面找到我的指南，了解如何快速有效地设置:**
 
-**[](/4-steps-to-start-practicing-sql-at-home-cb771beeca20) [## 在家开始练习 SQL 的 4 个步骤
-
-### 下载 MySQL 自己做
-
-towardsdatascience.com](/4-steps-to-start-practicing-sql-at-home-cb771beeca20) 
+**</4-steps-to-start-practicing-sql-at-home-cb771beeca20>  
 
 3.试着自己回答上面的问题，确保你的结果与我的相符，有意义(注意:我在分析中去掉了所有-99 的温度值)
 
@@ -248,12 +244,4 @@ towardsdatascience.com](/4-steps-to-start-practicing-sql-at-home-cb771beeca20)
 
 你也可以在下面找到我的熊猫视窗功能指南:
 
-[](/ultimate-pandas-guide-window-functions-f527f64fd550) [## 熊猫终极指南——窗口功能
-
-### 窗口函数是一种有效的方法，可以更好地了解我们的…
-
-towardsdatascience.com](/ultimate-pandas-guide-window-functions-f527f64fd550) [](/ultimate-pandas-guide-time-series-window-functions-a5362b782f3e) [## 终极熊猫指南:时间序列窗口函数
-
-### 掌握时间序列分析的“移位”、“滚动”和“扩展”
-
-towardsdatascience.com](/ultimate-pandas-guide-time-series-window-functions-a5362b782f3e)**
+</ultimate-pandas-guide-window-functions-f527f64fd550>  </ultimate-pandas-guide-time-series-window-functions-a5362b782f3e> **

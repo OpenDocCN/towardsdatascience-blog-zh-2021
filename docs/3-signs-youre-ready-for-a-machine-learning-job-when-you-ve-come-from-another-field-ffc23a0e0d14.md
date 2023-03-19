@@ -62,14 +62,6 @@
 
 ## 相关文章
 
-[](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [## 如何成为一名机器学习工程师
-
-### 包含课程的全面路线图
-
-towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](/5-things-id-tell-myself-if-i-had-to-learn-machine-learning-all-over-again-3feeb31a9b55) [## 如果我必须重新学习机器学习，我会告诉自己的 5 件事
+</how-to-become-a-machine-learning-engineer-e420e134c0a3>  <https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  </5-things-id-tell-myself-if-i-had-to-learn-machine-learning-all-over-again-3feeb31a9b55> [## 如果我必须重新学习机器学习，我会告诉自己的 5 件事
 
 towardsdatascience.com](/5-things-id-tell-myself-if-i-had-to-learn-machine-learning-all-over-again-3feeb31a9b55)

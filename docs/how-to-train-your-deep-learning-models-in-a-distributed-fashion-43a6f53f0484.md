@@ -111,11 +111,7 @@ import osfrom azureml.core import ScriptRunConfigimport shutilfrom azureml.core 
 
 显示工作进程 0 连接到工作进程 3 的图像。
 
-[](https://github.com/sriksmachi/octopus) [## 八爪鱼
-
-### 使用 Azure ML、Horovod 和 TF - sriksmachi/octopus 的分布式机器学习样本
-
-github.com](https://github.com/sriksmachi/octopus) 
+<https://github.com/sriksmachi/octopus>  
 
 # 附加阅读
 

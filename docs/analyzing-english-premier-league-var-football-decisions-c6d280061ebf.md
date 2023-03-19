@@ -184,16 +184,4 @@ EPL 团队的决策比率(降序)|作者图片
 
 **说完了，该回更衣室了，下一场比赛再见！**
 
-**[](/the-fortune-500-bar-chart-race-9612dc9d0e63) [## 在条形图竞赛中可视化财富 500 强公司
-
-### 使用 Python 和 fluorescent 可视化世界最大公司的排名和收入趋势
-
-towardsdatascience.com](/the-fortune-500-bar-chart-race-9612dc9d0e63) [](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [## 新冠肺炎疫苗——公众情绪如何？
-
-### 使用 NLP (Stanza、NLTK Vader 和 TextBlob)对新冠肺炎疫苗推文进行逐步情感分析
-
-towardsdatascience.com](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) [## 两周内获得 Tableau 桌面认证的 3 个步骤
-
-### 获得 Tableau 专家认证，展示您的数据可视化技能和产品知识
-
-towardsdatascience.com](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de)**
+**</the-fortune-500-bar-chart-race-9612dc9d0e63>  </covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99>  </3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de> **

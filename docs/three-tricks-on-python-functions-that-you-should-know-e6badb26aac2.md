@@ -217,18 +217,6 @@ pythagora(3,4)
 
 # 相关文章
 
-[](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [## python 熊猫的基本统计数据
-
-### 入门指南
-
-medium.com](https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62) [](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) 
+<https://medium.com/analytics-vidhya/basic-statistics-with-python-pandas-ec7837438a62>  </how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [单击此处](https://alod83.medium.com/membership)。

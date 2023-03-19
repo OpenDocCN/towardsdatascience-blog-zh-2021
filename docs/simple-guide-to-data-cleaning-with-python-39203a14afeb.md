@@ -131,14 +131,6 @@ df["Sex"] = df["Sex"].map({
 
 **如果你喜欢读这篇文章，你可能也会喜欢这些:**
 
-[](/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31) [## 如何用熊猫用 Python 重写 SQL 查询
-
-### 在 Python 中再现相同的 SQL 查询结果
-
-towardsdatascience.com](/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31) [](/how-to-master-python-command-line-arguments-5d5ad4bcf985) [## 如何掌握 Python 命令行参数
-
-### 使用命令行参数创建自己的 Python 脚本的简单指南
-
-towardsdatascience.com](/how-to-master-python-command-line-arguments-5d5ad4bcf985) 
+</how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31>  </how-to-master-python-command-line-arguments-5d5ad4bcf985>  
 
 **你可以在 Medium 上找到我其他作品的链接，关注我** [**这里**](https://medium.com/@chingjunetao) **。感谢阅读！**

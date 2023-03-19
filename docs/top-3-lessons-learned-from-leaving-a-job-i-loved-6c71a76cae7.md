@@ -56,16 +56,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2) [## 公众演讲能在数据科学领域帮助你的三大理由
-
-### 理解你的听众，回答问题，并寻求反馈
-
-towardsdatascience.com](/top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2) [](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [## 远程工作很难让你成为一名出色的数据科学家
-
-### 不要因为你太安静而被忽视
-
-towardsdatascience.com](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [](/disappointment-on-the-job-hunt-how-to-handle-rejection-of-a-position-e0eabbb82386) [## 求职中的失望——如何应对职位被拒
-
-### 没有人在处理拒绝方面是完美的，有时这会很痛
-
-towardsdatascience.com](/disappointment-on-the-job-hunt-how-to-handle-rejection-of-a-position-e0eabbb82386)
+</top-3-reasons-public-speaking-can-help-you-in-data-science-18cdbf4bb2f2>  </remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0>  </disappointment-on-the-job-hunt-how-to-handle-rejection-of-a-position-e0eabbb82386> 

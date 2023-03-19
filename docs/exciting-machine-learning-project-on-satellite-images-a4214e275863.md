@@ -72,11 +72,7 @@ Wedapp 跑步视频
 
 Abhinav Sagar 发布了一个卫星图像模型，你可以通过分割技术检测卫星图像中的船只。
 
-[](/deep-learning-for-ship-detection-and-segmentation-71d223aca649) [## 用于船只检测和分割的深度学习
-
-### 卫星图像深度学习的端到端管道
-
-towardsdatascience.com](/deep-learning-for-ship-detection-and-segmentation-71d223aca649) 
+</deep-learning-for-ship-detection-and-segmentation-71d223aca649>  
 
 但是在这个项目中，我们不仅要检测船只，还要对船只进行分类。这是可能的，因为我们这里有一个带标签的数据集，因此我们将实现一个监督模型。
 
@@ -91,11 +87,7 @@ towardsdatascience.com](/deep-learning-for-ship-detection-and-segmentation-71d22
 
 您可以通过点击这里的直接跳转到 Colab 文件中的实现
 
-[](https://github.com/tejeshb/Satellite_Imagery_ML/blob/main/Satellite_imagery.ipynb) [## Satellite _ Imagery _ ML/Satellite _ Imagery . ipynb at main tejeshb/Satellite _ Imagery _ ML
-
-### 从卫星图像中检测和分类船只-Satellite _ Imagery _ ML/Satellite _ Imagery . ipynb at main…
-
-github.com](https://github.com/tejeshb/Satellite_Imagery_ML/blob/main/Satellite_imagery.ipynb) 
+<https://github.com/tejeshb/Satellite_Imagery_ML/blob/main/Satellite_imagery.ipynb>  
 
 我使用 VGG16 模型进行迁移学习，该模型已经在图像上进行了预训练。在导入必要的库之后，您可以跳到 ML 模型的实现，因为所提供的数据集中的数据已经被清理，并且所有图像都是大小为(128，128)的 numpy 格式
 

@@ -12,11 +12,7 @@
 
 在上一篇文章中，我们介绍了贝叶斯神经网络(BNN)。对于那些刚到 BNN 的人，确保你已经检查了下面的链接，以便熟悉标准神经网络(SNN)和 BNN 之间的区别。
 
-[](/why-you-should-use-bayesian-neural-network-aaf76732c150) [## 为什么你应该使用贝叶斯神经网络？
-
-### 贝叶斯神经网络解释了模型中的不确定性，并提供了权重和权重的分布
-
-towardsdatascience.com](/why-you-should-use-bayesian-neural-network-aaf76732c150) 
+</why-you-should-use-bayesian-neural-network-aaf76732c150>  
 
 今天我们就跳到核心，学习背后的数学公式。从这篇文章中，你会学到不同的 BNN 相关术语…
 

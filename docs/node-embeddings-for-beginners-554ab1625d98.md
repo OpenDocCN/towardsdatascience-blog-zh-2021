@@ -191,8 +191,4 @@ Deepwalk，Perozzi 等人，2014 年，图 1
 
 # 相关著作
 
-[](/graph-coloring-with-networkx-88c45f09b8f4) [## 网络图着色
-
-### 图着色问题的解决方案在概念上很简单，但在应用上却很强大。本教程展示了…
-
-towardsdatascience.com](/graph-coloring-with-networkx-88c45f09b8f4)
+</graph-coloring-with-networkx-88c45f09b8f4> 

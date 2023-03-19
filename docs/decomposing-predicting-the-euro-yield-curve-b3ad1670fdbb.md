@@ -20,11 +20,7 @@
 
 所描述的思想的 Python 实现可以从我各自的存储库中访问和派生。
 
-[](https://bernhard-pfann.github.io/) [## 我的项目组合
-
-### 金融专业人士利用数据科学|商业分析理学硕士|金融与会计理学硕士
-
-伯恩哈德-普法恩](https://bernhard-pfann.github.io/) 
+<https://bernhard-pfann.github.io/>  
 
 ***来自《走向数据科学》编辑的提示:*** *虽然我们允许独立作者根据我们的* [*规则和指导方针*](/questions-96667b06af5) *发表文章，但我们并不认可每个作者的贡献。你不应该在没有寻求专业建议的情况下依赖一个作者的作品。详见我们的* [*读者术语*](/readers-terms-b5d780a700a4) *。*
 
@@ -170,8 +166,4 @@ n 滞后自回归模型
 
 如果你想继续我的工作，请随意查看相应的 Github 库。
 
-[](https://bernhard-pfann.github.io/) [## 我的项目组合
-
-### 金融专业人士利用数据科学|商业分析理学硕士|金融与会计理学硕士
-
-伯恩哈德-普法恩](https://bernhard-pfann.github.io/)
+<https://bernhard-pfann.github.io/> 

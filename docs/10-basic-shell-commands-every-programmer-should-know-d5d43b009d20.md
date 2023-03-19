@@ -14,11 +14,7 @@
 
 使用 shell 命令，您将能够利用计算机的真正能力，在更短的时间内完成更多的任务。一旦您掌握了 shell 命令，您将能够编写一些命令来更新您的系统，远程配置您的 web 服务器或数据库，以及更多更多的功能。
 
-[](/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7) [## 伪代码 101:写好伪代码的介绍
-
-### 使其清晰、易于理解
-
-towardsdatascience.com](/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7) 
+</pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7>  
 
 所有这些功能都始于一些基本的命令，以执行简单而重要的任务。在本文中，我将介绍 10 个基本的 shell 命令，无论从事什么领域的程序员都必须熟悉这些命令。
 
@@ -177,11 +173,7 @@ $ clear
 
 使用 shell 将允许您使用计算机的全部功能并优化您的工作流程。在本文中，我介绍了每个程序员都应该熟悉的核心 10 个 shell 命令。当然，还有更多的命令，在你的职业生涯中，你会学到越来越多的命令。
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 掌握 shell 是您职业发展和进步的必经之路。好消息是，您实际上不需要记住这些命令；每天使用它们，你会自动做到。
 

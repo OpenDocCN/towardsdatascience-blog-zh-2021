@@ -20,11 +20,7 @@
 
 作者图片
 
- [## Tableau 公共
-
-### 新冠肺炎在东南亚的反应
-
-public.tableau.com](https://public.tableau.com/profile/hua.deng#!/vizhome/COVID-19ResponsesinSoutheastAsia/COVID-19ResponsesinSoutheastAsia) 
+  
 
 *注:以下分析主要基于 2020 年 9 月前的情况。*
 

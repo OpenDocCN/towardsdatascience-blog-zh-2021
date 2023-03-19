@@ -200,8 +200,4 @@ NDVI 是使用 GIS 工具对影像执行的逐像素数学计算。它是通过�
 
 [*ArcGis 文档*](https://doc.arcgis.com/en/)
 
-[](https://www.linkedin.com/in/rkavishwara/) [## ravindu kavishwara -机器学习研究员-自雇| LinkedIn
-
-### 我想象有一天我们生活在一个一切都自动化的社会。人工智能处理一切。我…
-
-www.linkedin.com](https://www.linkedin.com/in/rkavishwara/)
+<https://www.linkedin.com/in/rkavishwara/> 

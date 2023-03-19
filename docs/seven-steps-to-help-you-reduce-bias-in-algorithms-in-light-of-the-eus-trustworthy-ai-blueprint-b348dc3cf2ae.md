@@ -130,7 +130,7 @@ AA Ireland 的首席分析官 Colm Carey 解释说:“保险业一直都有预�
 *   关于模型操作化技术:关于[模型操作](https://techno-sapien.com/blog/category/ModelOps)的技术
 *   关于数据结构技术:关于[数据结构](https://techno-sapien.com/blog/dv-frontiers-2021)的技术
 *   欧盟人工智能法案的商业含义:Lori Witzel 谈[关于即将出台的欧盟人工智能法规](https://medium.com/@loriaustex/5-things-you-must-know-now-about-the-coming-eu-ai-regulation-d2f8b4b2a4a9)你现在必须知道的 5 件事
-*   [](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9447&rep=rep1&type=pdf)**由 R. B. Zajonc 所著，论述人类的情感和决策。**
+*   <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9447&rep=rep1&type=pdf>**由 R. B. Zajonc 所著，论述人类的情感和决策。**
 *   **[噪音](https://www.amazon.com/s?k=noise+daniel+kahneman&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPIc0T84-snah3il7tCwsFBK0bB41yswgdXF4E7TAPJaUdrduDlVkHxoCVBgQAvD_BwE&hvadid=481839730279&hvdev=c&hvlocphy=1023102&hvnetw=g&hvqmt=e&hvrand=6879196008862152164&hvtargid=kwd-1032016417865&hydadcr=27885_10744743&tag=googhydr-20&ref=pd_sl_1h6wzfup0o_e)，由[丹尼尔·卡内曼](mailto:kahneman@princeton.edu)主持，关于偏见和决策观察小组。**
 *   **[闭环持续学习案例研究:AA Ireland 的动态在线定价](https://www.tibco.com/sites/tibco/files/resources/TCS-closed-loop-continuous-learning%20-distr.pdf)，TIBCO Software**
 *   **注意: *TIBCO 已经* [提交了专利申请](https://patents.google.com/patent/WO2021178649A1/en?q=mark+palmer+tibco&oq=mark+palmer+tibco&sort=new) *，涵盖了我们在此描述的某些方面。***

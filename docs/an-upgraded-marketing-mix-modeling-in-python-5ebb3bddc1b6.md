@@ -14,11 +14,7 @@
 
 在我的上一篇文章中，我向您介绍了营销组合建模的世界。如果您尚未阅读，请在继续之前阅读。
 
-[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [## Python 市场营销组合建模简介
-
-### 哪些广告支出真正推动了你的销售？
-
-towardsdatascience.com](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) 
+</introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794>  
 
 在那里，我们创建了一个**线性** **回归**模型，该模型能够根据几个广告渠道(如电视、广播和网络横幅广告)的原始广告支出来预测销售额。对于作为机器学习实践者的我来说，这样的模型本身就已经很好了。更好的是，它还让商界人士感到高兴，因为该模型让我们能够计算投资回报率，让我们能够判断每个渠道的表现如何。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/introduction-to-marketing-mix-modeling-in-python-d0dd81
 
 我创建了一个小库，在这里我实现了本文其余部分的思想，甚至更多。通过`pip install mamimo`安装，并在此查看如何使用:
 
-[](/a-small-python-library-for-marketing-mix-modeling-mamimo-100f31666e18) [## 一个用于营销组合建模的小型 Python 库:MaMiMo
-
-### 以 scikit-learn 方式创建营销组合模型
-
-towardsdatascience.com](/a-small-python-library-for-marketing-mix-modeling-mamimo-100f31666e18) 
+</a-small-python-library-for-marketing-mix-modeling-mamimo-100f31666e18>  
 
 # 解决问题
 
@@ -44,7 +36,7 @@ towardsdatascience.com](/a-small-python-library-for-marketing-mix-modeling-mamim
 
 ## 广告股票
 
-我们要做的这个特色工程是一个至关重要的组件，叫做[](https://en.wikipedia.org/wiki/Advertising_adstock)***，*这是西蒙·布罗德本特发明的一个术语[1]。这是一个包含两个简单概念的奇特词汇:**
+我们要做的这个特色工程是一个至关重要的组件，叫做<https://en.wikipedia.org/wiki/Advertising_adstock>***，*这是西蒙·布罗德本特发明的一个术语[1]。这是一个包含两个简单概念的奇特词汇:**
 
 1.  **我们假设你花在广告上的钱越多，你的销售额就越高。然而，我们花得越多，增长就越弱。例如，将电视支出从 0 €增加到 100，000 €会大大增加我们的销售额，但将它从 100，000，000 €增加到 100，100，000 €就没有那么多了。这叫做**饱和效应**或**收益递减效应** *。***
 2.  **如果你在广告周花钱，人们通常不会立即购买你的产品，而是在几周之后。这是因为该产品可能很贵，人们希望仔细考虑它，或者将其与其他公司的类似产品进行比较。不管是什么原因，在第 *T + x* 周的销售部分是由你在第 *T、*周播放的广告引起的，所以它也应该得到一些积分。这被称为**遗留**或**滞后效应**。**
@@ -59,11 +51,7 @@ towardsdatascience.com](/a-small-python-library-for-marketing-mix-modeling-mamim
 
 **如果你以前从未这样做过，你可以看看我的另一篇关于这个话题的文章。这篇文章是关于回归变量而不是变压器的，但是方法并没有太大的不同。**
 
-**[](/build-your-own-custom-scikit-learn-regression-5d0d718f289) [## 构建您自己的定制 scikit-学习回归
-
-### 编写一个回归变量，并从 scikit-learn 生态系统的所有强大工具中受益，如管道、网格搜索…
-
-towardsdatascience.com](/build-your-own-custom-scikit-learn-regression-5d0d718f289) 
+**</build-your-own-custom-scikit-learn-regression-5d0d718f289>  
 
 所以，让我们从更简单的开始:饱和效应。
 

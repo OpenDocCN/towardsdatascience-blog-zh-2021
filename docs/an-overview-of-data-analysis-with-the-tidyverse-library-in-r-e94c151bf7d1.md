@@ -179,11 +179,7 @@ ggplot(data = flights) +
 
 我有一个关于 ggplot2 的详细教程，你可以在里面找到一系列可视化技术:
 
-[](/a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc) [## ggplot2 中的数据可视化集合
-
-### 对初学者来说也是很好的学习材料
-
-towardsdatascience.com](/a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc) 
+</a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc>  
 
 我们来看看 lubridate 包的一些功能:
 
@@ -514,20 +510,4 @@ flights_spread %>%
 
 ## 更多阅读
 
-[](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde) [## 在 ggplot2 中使用一些高级可视化的数据讲述项目
-
-### ggplot2 中一些实用的数据准备和有用的绘图技巧
-
-towardsdatascience.com](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde) [](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c) [## 使用 R 中的正则表达式匹配任何模式的初学者指南
-
-### 这比你想象的要容易
-
-towardsdatascience.com](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441) [](/five-advanced-plots-in-python-matplotlib-134bfdaeeb86) [## Python 中的五个高级绘图— Matplotlib
-
-### 带示例的交互式 3d 绘图
-
-towardsdatascience.com](/five-advanced-plots-in-python-matplotlib-134bfdaeeb86)
+</a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde>  </a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-e9b183b1441>  </five-advanced-plots-in-python-matplotlib-134bfdaeeb86> 

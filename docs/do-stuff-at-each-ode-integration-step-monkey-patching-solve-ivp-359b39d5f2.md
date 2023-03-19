@@ -12,7 +12,7 @@
 
 除非你在过去的几年里生活在岩石下，否则你肯定知道 Python 语言通常是科学计算任务的首选武器，因为它是免费的、可扩展的、易于掌握的，并且具有与最好的商业软件相当的性能。科学计算 Python 栈几乎总是由著名的包 **Numpy 和 Scipy** 、数值类型的高质量实现、许多不同的数学运算和常见的计算原语组成。
 
-在研究和工程中一个很常见的任务就是**整合**[](https://en.wikipedia.org/wiki/Ordinary_differential_equation)**的系统，特别是初值问题。在 Scipy 中，实现这一点的首选方式是通过函数`[solve_ivp](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html)`。你提供要积分的函数，你想要使用的积分算法/解算器的种类( [RK25，RK45](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) 等)。)，通常的集成参数，您就可以开始了。让我们试着整合一个著名的自治微分系统，[洛伦兹方程](https://en.wikipedia.org/wiki/Lorenz_system):**
+在研究和工程中一个很常见的任务就是**整合**<https://en.wikipedia.org/wiki/Ordinary_differential_equation>**的系统，特别是初值问题。在 Scipy 中，实现这一点的首选方式是通过函数`[solve_ivp](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html)`。你提供要积分的函数，你想要使用的积分算法/解算器的种类( [RK25，RK45](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) 等)。)，通常的集成参数，您就可以开始了。让我们试着整合一个著名的自治微分系统，[洛伦兹方程](https://en.wikipedia.org/wiki/Lorenz_system):**
 
 **洛伦兹系统的代码**
 

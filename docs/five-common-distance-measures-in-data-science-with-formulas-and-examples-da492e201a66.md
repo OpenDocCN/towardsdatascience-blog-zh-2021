@@ -162,20 +162,4 @@ cos(d1，d2) = 28 / (6.32*5.39) = 0.82
 
 ## 更多阅读
 
-[](/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e) [## Python 和 R 语言的数据科学和数据分析系列项目
-
-### 探索性数据分析、机器学习、自然语言处理和计算机视觉项目
-
-towardsdatascience.com](/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e) [](/a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc) [## ggplot2 中的数据可视化集合
-
-### 对初学者来说也是很好的学习材料
-
-towardsdatascience.com](/a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 大量不同种类的数据集
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81)
+</series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e>  </a-collection-of-data-visualizations-in-ggplot2-3648a6ba71bc>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a>  </an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81> 

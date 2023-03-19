@@ -58,16 +58,4 @@
 
 ## 相关文章
 
-[](/model-drift-in-machine-learning-8023e3d08217) [## 机器学习中的模型漂移
-
-### 理解和处理模型漂移
-
-towardsdatascience.com](/model-drift-in-machine-learning-8023e3d08217) [](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [## 机器学习模型部署
-
-### 被遗忘的阶段
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [](/building-reproducible-machine-learning-pipelines-c80407c4319f) [## 构建可复制的机器学习管道
-
-### 如何安全地部署机器学习模型
-
-towardsdatascience.com](/building-reproducible-machine-learning-pipelines-c80407c4319f)
+</model-drift-in-machine-learning-8023e3d08217>  <https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd>  </building-reproducible-machine-learning-pipelines-c80407c4319f> 

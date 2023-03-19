@@ -208,8 +208,4 @@ draw_star_points(ax, 15,15)**plt.show()
 
 至此，我已经使用 matplotlib 成功绘制了一个围棋棋盘。看起来不错，像一个真正的围棋棋盘。下一部分将是让用户把石头放在棋盘上，并有能力在白色和黑色的石头之间交替。敬请期待！
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

@@ -36,10 +36,6 @@ Python 是一个奇妙的生态系统。有这么多高质量的开源库可以�
 
 为了方便开始，我创建了一个可以在 Android、iOS、MacOS、Windows 和 Linux 上运行的[“Hello World”tensor flow Lite 应用](https://github.com/teticio/kivy-tensorflow-helloworld)。对您来说，根据自己的需要对其进行调整应该是相当简单的。现在，没有什么可以阻止您开发一个利用您设备的传感器和功能的深度学习应用程序！
 
-[](https://github.com/teticio/kivy-tensorflow-helloworld/tree/main) [## 泰提西奥/基维-滕索尔弗洛-helloworld
-
-### 安装 buildozer https://pypi.org/project/buildozer/皮普安装-部队 git+https://github.com/kivy/buildozer.git…
-
-github.com](https://github.com/teticio/kivy-tensorflow-helloworld/tree/main) 
+<https://github.com/teticio/kivy-tensorflow-helloworld/tree/main>  
 
 总之，我想说 Kivy 非常有前途，开发者们一直在忙于改进它。在我看来，它非常接近于能够生产出高质量的应用程序。

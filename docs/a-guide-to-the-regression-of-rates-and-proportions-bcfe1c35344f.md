@@ -140,11 +140,7 @@ X4 = 41.5 (41.2)。
 
 如果你想深入概率和贝叶斯分析的世界，看看这篇文章:
 
-[](/how-to-become-a-bayesian-fcaaf6302d68) [## 如何成为贝氏
-
-### 频率主义者和贝叶斯统计的根本区别
-
-towardsdatascience.com](/how-to-become-a-bayesian-fcaaf6302d68) 
+</how-to-become-a-bayesian-fcaaf6302d68>  
 
 # 资源
 

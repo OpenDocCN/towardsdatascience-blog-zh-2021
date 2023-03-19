@@ -72,16 +72,4 @@
 
 感谢您的阅读。如果你喜欢这篇文章，请考虑[订阅](https://jinhyuncheong.medium.com/subscribe)并支持像我这样的作者，通过我的[推荐链接](https://jinhyuncheong.medium.com/membership)加入 Medium，通过它我可以免费获得一点佣金。这里还有一些你可能会喜欢的文章:
 
-[](https://medium.com/age-of-awareness/heres-what-you-should-do-when-you-can-t-decide-according-to-science-484026c1eeca) [## 当你无法根据科学做出决定时，你应该这样做
-
-### 答案比你想象的要简单
-
-medium.com](https://medium.com/age-of-awareness/heres-what-you-should-do-when-you-can-t-decide-according-to-science-484026c1eeca) [](/how-to-run-linear-mixed-effects-models-in-python-jupyter-notebooks-4f8079c4b589) [## 如何在 Python Jupyter 笔记本中运行线性混合效果模型
-
-### 关于如何在 Python 和 Jupyter 笔记本中运行线性混合效应回归(LMER)模型的教程
-
-towardsdatascience.com](/how-to-run-linear-mixed-effects-models-in-python-jupyter-notebooks-4f8079c4b589) [](/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9) [## 量化时间序列数据之间同步性的四种方法
-
-### 用于计算同步指标的样本代码和数据，包括皮尔逊相关、时滞交叉相关…
-
-towardsdatascience.com](/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9)
+<https://medium.com/age-of-awareness/heres-what-you-should-do-when-you-can-t-decide-according-to-science-484026c1eeca>  </how-to-run-linear-mixed-effects-models-in-python-jupyter-notebooks-4f8079c4b589>  </four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9> 

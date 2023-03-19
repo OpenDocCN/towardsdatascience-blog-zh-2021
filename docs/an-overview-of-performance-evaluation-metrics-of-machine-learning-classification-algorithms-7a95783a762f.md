@@ -26,11 +26,7 @@
 
 我将使用这个关于关节炎的数据集。该数据集包含其他参数，我们将使用这些参数来预测一个人是否患有关节炎。请随意从以下链接下载数据集:
 
-[](https://github.com/rashida048/Machine-Learning-BU/blob/main/arthritis.csv) [## rashida 048/机器学习-BU
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Machine-Learning-BU 开发做贡献。
-
-github.com](https://github.com/rashida048/Machine-Learning-BU/blob/main/arthritis.csv) 
+<https://github.com/rashida048/Machine-Learning-BU/blob/main/arthritis.csv>  
 
 让我们把重点放在模型开发上。但在此之前，我们需要选择功能。
 
@@ -368,26 +364,6 @@ matthews_corrcoef (y_test, y_pred)
 
 ## 更多阅读
 
-[](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
+</four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb>  </stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd>  </exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260> [## 文本数据的探索性数据分析，包括可视化和情感分析
 
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [## 随机梯度下降:从头开始的解释和完整实现
-
-### 使用单个感知器
-
-towardsdatascience.com](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [## 文本数据的探索性数据分析，包括可视化和情感分析
-
-towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [## 用 R 中的例子剖析单向方差分析和协方差分析
-
-### 通过分析方差得出的均值差异
-
-pub.towardsai.net](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3)
+towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) </an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  <https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3> 

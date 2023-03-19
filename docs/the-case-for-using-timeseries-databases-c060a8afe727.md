@@ -62,11 +62,7 @@
 
 如果你想进行一次有趣的阅读，并想在你的系统上安装这两个数据库来自己找出答案，那么就去看看 Oleksander Bausk 今天在他的博客上发表的有趣的比较吧。
 
-[](https://bausk.dev/a-practical-comparison-of-timescaledb-and-influxdb/) [## TimescaleDB 和 InfluxDB 的实际比较
-
-### 大多数金融、股票市场和信号分析软件项目都广泛涉及时间序列领域。那里…
-
-包斯克开发公司](https://bausk.dev/a-practical-comparison-of-timescaledb-and-influxdb/) 
+<https://bausk.dev/a-practical-comparison-of-timescaledb-and-influxdb/>  
 
 话虽如此，InfluxDB 有一套很棒的特性。除了查询语言 InfluxQL 和 Flux，InfluxDB 还开发了一种干净、轻量级、基于文本的协议，用于向数据库写入点。值得称赞的是，这已经被其他时间序列数据库如 QuestDB 所采用。
 
@@ -80,11 +76,7 @@ QuestDB 是时间序列数据库列表中的一个新成员，来自最新一批
 
 QuestDB 还采用了 InfluxDB Line 协议进行接收，而不用担心随着数据结构的变化而改变模式。作为一个列数据库，QuestDB 无缝地处理新列的创建，因此支持无模式接收。我最近在另一篇文章中写了这一点。
 
-[](/schemaless-ingestion-in-questdb-using-influxdb-line-protocol-18850e69b453) [## 使用 InfluxDB 线路协议在 QuestDB 中进行无模式接收
-
-### 如何使用套接字将数据接收到 QuestDB 中
-
-towardsdatascience.com](/schemaless-ingestion-in-questdb-using-influxdb-line-protocol-18850e69b453) 
+</schemaless-ingestion-in-questdb-using-influxdb-line-protocol-18850e69b453>  
 
 虽然在早期，QuestDB 几乎完全支持 ANSI SQL，并对 SQL 方言进行了一些补充，但它创造了一系列完全独特的功能，使其成为一种可行的替代方案，可能比市场上其他一些主要数据库更好。
 

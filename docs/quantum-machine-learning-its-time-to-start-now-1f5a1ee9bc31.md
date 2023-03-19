@@ -70,19 +70,11 @@
 
 《量子计算圣经》是 Nielsen 和 Chaung 写的一本书。即使过了二十年，它仍然是关于这个主题的最好的书，尽管许多部分现在有点过时了。
 
-[](https://www.amazon.com/Quantum-Computation-Information-Cambridge-Sciences/dp/0521635039) [## 量子计算与量子信息:十周年纪念版
-
-### 购买量子计算和量子信息:Amazon.com 10 周年纪念版
-
-www.amazon.com。](https://www.amazon.com/Quantum-Computation-Information-Cambridge-Sciences/dp/0521635039) 
+<https://www.amazon.com/Quantum-Computation-Information-Cambridge-Sciences/dp/0521635039>  
 
 Loceff 书还涵盖了基本的量子计算概念和强大的算法。我还会推荐几门课程，比如 Edx 的 Umesh Vazirani 课程(你也可以在 YouTube 上找到视频)。
 
-[](https://www.edx.org/course/quantum-mechanics-and-quantum-computation) [## 量子力学和量子计算
-
-### 量子计算是一门非凡的学科，它建立在计算机所基于的伟大计算发现的基础上。
-
-www.edx.org。](https://www.edx.org/course/quantum-mechanics-and-quantum-computation) 
+<https://www.edx.org/course/quantum-mechanics-and-quantum-computation>  
 
 我还会推荐 YouTube 上 John Preskill 的视频课程内容。
 
@@ -138,8 +130,4 @@ QC 和 QML 都是蓬勃发展的领域，有很多炒作，希望，有时还有
 
 你可能也想看看下面这篇关于量子数据编码的文章。
 
-[](https://baijayanta.medium.com/all-about-data-encoding-for-quantum-machine-learning-2a7344b1dfef) [## 关于量子机器学习的数据编码
-
-### 用于量子机器学习的量子数据嵌入方法
-
-baijayanta.medium.com](https://baijayanta.medium.com/all-about-data-encoding-for-quantum-machine-learning-2a7344b1dfef)
+<https://baijayanta.medium.com/all-about-data-encoding-for-quantum-machine-learning-2a7344b1dfef> 

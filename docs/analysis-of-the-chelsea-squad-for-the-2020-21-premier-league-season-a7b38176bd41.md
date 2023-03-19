@@ -86,19 +86,11 @@ Jannik Skorna 在 Unsplash 上的照片
 
 感谢您的阅读。我已经从[fbref.com](https://fbref.com/en/)获取了我的数据，下面的链接指向这些数据
 
-[](https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats) [## 2020-2021 切尔西统计，英超| FBref.com
-
-### 7-5-5，26 分，英超第 9(英)，32 球，21 球对阵，11 GDiff，Gls:塔米·亚伯拉罕- 6，Ast:提莫…
-
-fbref.com](https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats) 
+<https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats>  
 
 如果你有兴趣了解我的分析方法，你可以看看我的 Github 资源库和这个项目的 Jupyter 笔记本。
 
-[](https://github.com/samuelvarkey/Chelsea_Analysis) [## samuelvarkey/Chelsea _ 分析
-
-### 除了 Python 的 Anaconda 发行版之外，这里应该没有运行代码所必需的库。代码应该…
-
-github.com](https://github.com/samuelvarkey/Chelsea_Analysis) 
+<https://github.com/samuelvarkey/Chelsea_Analysis>  
 
 如果你有兴趣了解更多，我建议你阅读来自 https://fbref.com/en/[的关于预期目标和助攻的文章。你可以在 LinkedIn 上联系我:](https://fbref.com/en/)
 

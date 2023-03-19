@@ -177,16 +177,8 @@ BBN 概率与“H9am”证据。图片由[作者](https://solclover.com/)提供�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 如果你想继续学习贝叶斯主题，你可以看看下面这篇关于朴素贝叶斯分类器的文章。
 
-[](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069) [## 朴素贝叶斯分类器——如何在 Python 中成功使用？
-
-### 算法背后的理论的详细解释，以及 6 个 Python 例子
-
-towardsdatascience.com](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069)
+</naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069> 

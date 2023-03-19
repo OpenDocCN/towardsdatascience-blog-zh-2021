@@ -14,11 +14,7 @@
 
 *最开始，*我们要了解一下玩文本文件的各种技巧。如果你不熟悉，我推荐你看我之前的文章。
 
-[](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [## 使用 Python 处理文本文件的技巧和诀窍
-
-### 使用文本文件并熟悉 Python 中令人惊叹的技术
-
-towardsdatascience.com](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) 
+</tips-and-tricks-to-work-with-text-files-in-python-89f14a755315>  
 
 然后，我们需要了解如何从 pdf 或其他格式的文本文件中提取文本信息。但是在本文中，我们将讨论如何使用`PyPDF2`库来浏览 pdf 文档。从文本文件中提取信息的另一个最重要的工具是正则表达式。使用正则表达式，我们可以很容易地获得我们想要的信息，如电话号码、地址、电子邮件等等。特别地，正则表达式是一些符号和字母的组合，用于从成千上万的文本数据中获取我们想要的信息。
 
@@ -494,19 +490,11 @@ re.findall(r'[\w]+-[\w]+',text)
 
 ***第一部分完整的 Jupyter 笔记本如下***
 
-**[](https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Working-with-PDF-Text.ipynb) [## ML _ articles/Working-with-PDF-text . ipynb
-
-### 在 GitHub 上创建一个帐户，为 Zubair063/ML_articles 的开发做出贡献。
-
-github.com](https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Working-with-PDF-Text.ipynb) 
+**<https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Working-with-PDF-Text.ipynb>  
 
 *找到下面给出的完整正则表达式源代码*
 
-[](https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Regular-Expressions.ipynb) [## ML _ articles/Regular-expressions . ipynb
-
-### 在 GitHub 上创建一个帐户，为 Zubair063/ML_articles 的开发做出贡献。
-
-github.com](https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Regular-Expressions.ipynb) 
+<https://github.com/Zubair063/ML_articles/blob/fe3aabe41a68f1b0a305e63dd38cb91b5445d9bd/PDF%20manupulation%20an%20regular%20expression/Regular-Expressions.ipynb>  
 
 # 祖贝尔·侯赛因
 

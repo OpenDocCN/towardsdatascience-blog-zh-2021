@@ -12,11 +12,7 @@
 
 以下是快速参考的链接:
 
-[](/exploring-bert-variants-albert-roberta-electra-642dfe51bc23) [## 探索 BERT 变体(第 1 部分):ALBERT，RoBERTa，ELECTRA
-
-### 对伯特家族的一次温和的深入探究…
-
-towardsdatascience.com](/exploring-bert-variants-albert-roberta-electra-642dfe51bc23) 
+</exploring-bert-variants-albert-roberta-electra-642dfe51bc23>  
 
 让我们从三种变体中的一种开始考虑:
 

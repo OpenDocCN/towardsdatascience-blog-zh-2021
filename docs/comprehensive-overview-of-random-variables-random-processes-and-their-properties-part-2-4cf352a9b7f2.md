@@ -10,11 +10,7 @@
 
 这是一篇由两部分组成的文章。在第 2 部分(这一部分)，我将回顾随机过程(随机过程)，它们的性质，以及它们对线性时不变(LTI)信道的响应。在第 1 部分中，我讨论了概率、随机变量及其性质。如果您尚未阅读第一部分，请先阅读以下内容:
 
-[](/comprehensive-overview-of-random-variables-random-processes-and-their-properties-part-1-5c4692a338c6) [## 随机变量、随机过程及其性质的综合概述(第 1 部分)
-
-### 这是一篇由两部分组成的文章。在第 1 部分(这一部分)，我会去随机变量，随机向量，和他们的…
-
-towardsdatascience.com](/comprehensive-overview-of-random-variables-random-processes-and-their-properties-part-1-5c4692a338c6) 
+</comprehensive-overview-of-random-variables-random-processes-and-their-properties-part-1-5c4692a338c6>  
 
 第一部分是理解这一部分的基础，因为随机过程是随机变量和随机向量的一般扩展。
 随机变量和随机过程在现实世界中扮演着重要的角色。它们广泛应用于机器学习、信号处理、数字通信、统计学等领域。

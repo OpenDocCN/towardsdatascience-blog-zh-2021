@@ -115,11 +115,7 @@ IceVision 库有两种训练模型的方法。有 Fast.ai 法和 PyTorch 闪电�
 
 如果你对我的文章感兴趣，你可以在 Medium 上关注我。对于那些还不是 Medium 成员的人，您可以使用下面的链接订阅 Medium:
 
-[](https://medium.com/@irfanalghani11/membership) [## 通过我的推荐链接加入 Medium-Irfan Alghani Khalid
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@irfanalghani11/membership) 
+<https://medium.com/@irfanalghani11/membership>  
 
 如果您有任何问题，可以通过 [**LinkedIn**](https://www.linkedin.com/in/alghaniirfan/) 联系我。
 

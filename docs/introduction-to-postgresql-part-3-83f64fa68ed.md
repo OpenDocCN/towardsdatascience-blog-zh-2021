@@ -247,48 +247,8 @@ DELETE FROM Recipe;
 
 查看我最近的文章:
 
-[](https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d) [## 托管您自己的 PyPi
-
-### 是的，有可能。
-
-python .平原英语. io](https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d) [](/open-source-reporting-tools-worth-a-look-a49a91d93f9a) [## 值得一看的开源报告工具
-
-### 探索微软 SSRS 的替代方案
-
-towardsdatascience.com](/open-source-reporting-tools-worth-a-look-a49a91d93f9a) [](https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d) [## FastAPI 中的中间件——它是什么？
-
-### 解释其中的奥秘…
-
-python .平原英语. io](https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d) [](/introduction-to-postgresql-part-2-c25c346925d) [## Postgresql 简介:第 2 部分
-
-### 让我们开始这个派对吧
-
-towardsdatascience.com](/introduction-to-postgresql-part-2-c25c346925d) [](/introduction-to-postgresql-part-1-6ca9f25b02e1) [## Postgresql 简介:第 1 部分
-
-### 让我们从头开始
-
-towardsdatascience.com](/introduction-to-postgresql-part-1-6ca9f25b02e1) 
+<https://python.plainenglish.io/hosting-your-own-pypi-a55f2a6eca4d>  </open-source-reporting-tools-worth-a-look-a49a91d93f9a>  <https://python.plainenglish.io/middleware-in-fastapi-what-is-it-fa028349489d>  </introduction-to-postgresql-part-2-c25c346925d>  </introduction-to-postgresql-part-1-6ca9f25b02e1>  
 
 参考资料:
 
-[](https://www.postgresqltutorial.com/postgresql-insert-multiple-rows/) [## PostgreSQL 插入多行
-
-### 摘要:在本教程中，您将学习如何使用一条 PostgreSQL INSERT 语句将多行插入到…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-insert-multiple-rows/) [](https://stackoverflow.com/questions/109325/postgresql-describe-table) [## PostgreSQL“描述表”
-
-### 有很多方法来描述 PostgreSQL 中的表，简单的答案是用法，如果你在 Postgres shell 中[…
-
-stackoverflow.com](https://stackoverflow.com/questions/109325/postgresql-describe-table) [](https://stackoverflow.com/questions/27152413/postgresql-update-substring-replacement) [## PostgreSQL 更新子字符串替换
-
-### 我在一个测试数据库中有几行的值前面有美元符号。我想更新…中的值
-
-stackoverflow.com](https://stackoverflow.com/questions/27152413/postgresql-update-substring-replacement)  [## PostgreSQL -如何将数据库转储到 SQL 脚本- pg_dump 实用程序
-
-### 位于 PostgreSQL 安装的 bin 目录中的 pg_dump 实用程序可用于导出数据库定义和数据…
-
-www.sqlines.com](http://www.sqlines.com/postgresql/how-to/pg_dump_database_file) [](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm) [## MySQL -删除查询
-
-### 如果您想从任何 MySQL 表中删除一条记录，那么您可以使用 SQL 命令 DELETE FROM。你可以用这个…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm)
+<https://www.postgresqltutorial.com/postgresql-insert-multiple-rows/>  <https://stackoverflow.com/questions/109325/postgresql-describe-table>  <https://stackoverflow.com/questions/27152413/postgresql-update-substring-replacement>    <https://www.tutorialspoint.com/mysql/mysql-delete-query.htm> 

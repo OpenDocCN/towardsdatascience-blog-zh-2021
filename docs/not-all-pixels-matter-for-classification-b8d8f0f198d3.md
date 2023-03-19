@@ -96,8 +96,4 @@ PS:如果你想了解更多，我在这篇文章的末尾添加了一个学术�
 
 > *想要阅读更多此类内容？*查看我其他关于[低秩结构和数据驱动建模](https://loiseau-jc.medium.com/list/lowrank-structure-and-datadriven-modeling-8f39635a90ea) *的文章或者干脆我的* [*机器学习基础知识*](https://loiseau-jc.medium.com/list/machine-learning-basics-0baf10d8f8b5) ！
 
-[](/how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9) [## 如果只看到几个像素，如何重建一幅图像？
-
-### 压缩传感快速介绍
-
-towardsdatascience.com](/how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9)
+</how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9> 

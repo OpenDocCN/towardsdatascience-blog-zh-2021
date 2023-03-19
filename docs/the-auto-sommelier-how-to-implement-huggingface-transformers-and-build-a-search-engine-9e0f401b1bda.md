@@ -22,11 +22,7 @@
 
 虽然该模型仍然有效，但自 2019 年以来，自然语言处理取得了巨大进展。使用像 HuggingFace 的 Transformers 这样的工具，将句子或段落转换成可用于语义相似性等 NLP 任务的向量从未如此简单。使用最新的技术和语言模型重构我的代码将会使它更有性能。如果你是 NLP 新手，可以看看我的初学者教程。
 
-[](/how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db) [## 如何对自然语言处理任务的数据帧中的文本进行矢量化——3 种简单的技术
-
-### 使用 Texthero、Gensim 和 Tensorflow 的简单代码示例
-
-towardsdatascience.com](/how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db) 
+</how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db>  
 
 在本教程中，我将解释如何使用[拥抱脸变形金刚库](https://huggingface.co/)、[非度量空间库](https://github.com/nmslib/nmslib)和 [Dash 库](http://pythondashboards.com)来构建一个新的和改进的自动侍酒师。完整的代码和 GitHub 链接可以在文章的底部找到。
 
@@ -75,11 +71,7 @@ df = pd.read_sql("select * from wine_data", conn)
 
 **他们刚刚发布了一个完整的课程，带你穿越拥抱脸生态系统。我强烈推荐它:**
 
-**[](https://huggingface.co/course/chapter1) [## 变形金刚模型——拥抱脸课程
-
-### 这门课将教你自然语言处理(NLP ),使用来自拥抱脸生态系统的库——🤗…
-
-huggingface.co](https://huggingface.co/course/chapter1) 
+**<https://huggingface.co/course/chapter1>  
 
 使用 pip 安装库
 
@@ -224,11 +216,7 @@ hero.scatterplot(df, col='tsnedistilbert'
 
 **为了允许用户与搜索功能进行交互，我们可以使用 Dash by Plotly 构建一个简单的用户界面。 [Dash 是一个基于 Flask、Plotly.js 和 React.js 编写的 Python 框架](https://dash.plot.ly/)，如果你是 Dash 新手，想要掌握基础知识，请查看我的所有教程:**
 
-**[](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) [## Python 中的仪表盘，适用于初学者和使用 Dash 的其他人
-
-### 使用 Python 中的 Dash 初学者教程构建一个基本的和高级的仪表板
-
-medium.com](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) ![](img/4de6a16d51d4b8a90bdc55098d57228a.png)
+**<https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644>  ![](img/4de6a16d51d4b8a90bdc55098d57228a.png)
 
 用户界面
 
@@ -338,11 +326,7 @@ app.run_server()
 
 **感谢阅读！以下是完整的代码:**
 
-**[](https://github.com/bendgame/MediumWineRecommend2) [## bend game/medium wine 推荐 2
-
-### 更新了 Wine 推荐使用中等弯曲游戏的拥抱脸变形金刚/中等 Wine 推荐 2
-
-github.com](https://github.com/bendgame/MediumWineRecommend2) 
+**<https://github.com/bendgame/MediumWineRecommend2>  
 
 # 谢谢大家！
 
@@ -353,8 +337,4 @@ github.com](https://github.com/bendgame/MediumWineRecommend2)
 
 [**—埃里克·克莱彭**](http://pythondashboards.com/)
 
-[](https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353) [## 埃里克文章的终极指南
-
-### 我的所有内容按主题组织…
-
-erickleppen.medium.com](https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353)**
+<https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353> **

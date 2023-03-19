@@ -297,11 +297,7 @@ pdl.datetime(1988, 1, 1).age
 
 在官方文档中可以找到更多有趣的东西。
 
- [## 证明文件
-
-### 安装 pendulum 非常简单:或者，如果您使用的是诗歌:Pendulum 是一个 Python 包，用于简化日期时间…
-
-钟摆](https://pendulum.eustace.io/docs/) 
+  
 
 # 摘要
 
@@ -311,10 +307,6 @@ pdl.datetime(1988, 1, 1).age
 
 在本文中，我介绍了第三方 Python 库 Pendulum。它是 Python 内置 datetime 模块的替代产品。通过使用这个库，datetime 模块可以解决的许多问题，例如查找相对日期，现在都可以很容易地解决。更重要的是，Pendulum 提供了整洁干净的 API 来提高我们代码的可读性，这些解决方案更加直观。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

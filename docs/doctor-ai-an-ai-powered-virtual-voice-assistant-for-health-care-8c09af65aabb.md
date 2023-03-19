@@ -32,11 +32,7 @@ Doctor.ai 可以在英语对话中为病人和医生服务。一方面，患者�
 
 在本文中，我将带您完成 Doctor.ai 的设置，并解释它的一些功能，以便您也可以拥有自己的 Doctor.ai 克隆。不过，在这个演示中，我确实去掉了一些高级功能，如用户验证。代码存放在我的 Github 存储库中:
 
-[](https://github.com/dgg32/doctorai_walkthrough) [## GitHub—dgg 32/doctor ai _ walk through
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/dgg32/doctorai_walkthrough) 
+<https://github.com/dgg32/doctorai_walkthrough>  
 
 # 1.eICU 数据
 
@@ -116,11 +112,7 @@ Lex 的测试控制台非常好，功能也非常强大。它既可以听用户�
 
 首先，将这个库分支到您的 Github 帐户，因为 Amplify 只能从您自己的帐户中检索代码。
 
-[](https://github.com/dgg32/doctorai-ui) [## GitHub — dgg32/doctorai-ui
-
-### 这是 Doctor.ai 的 React 前端应用程序，我们自豪地提交给新加坡医疗保健 ai 数据大会和博览会…
-
-github.com](https://github.com/dgg32/doctorai-ui) 
+<https://github.com/dgg32/doctorai-ui>  
 
 一旦完成，前往 AWS 放大页面，点击`New app` ➡️ `Host web app`。然后选择`Github`, Amplify 将获取你账户下的所有存储库。在您的帐户下选择`doctorai-ui`。点击`Next`进入`Configure build settings`页面，点击打开`Advanced settings`，添加五个密钥对环境变量:`REACT_APP_AWS_ACCESS_KEY`、`REACT_APP_AWS_SECRET`、`REACT_APP_AWS_USERID`、`REACT_APP_LEX_botId`和`REACT_APP_AWS_REGION`。它们是您的 AWS 访问密钥、AWS 秘密访问密钥、您的 AWS 用户 id、BotID(您可以从`sam deploy`输出中获得该值)和您的 AWS 区域。
 
@@ -224,8 +216,4 @@ The seventh article [*Can Doctor.ai understand German, Chinese and Japanese? GPT
 
 [第 14 篇](https://medium.com/p/8422c563b791)文章基于 Doctor.ai + GPT-3 + Kendra 构建了一个集合聊天机器人。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

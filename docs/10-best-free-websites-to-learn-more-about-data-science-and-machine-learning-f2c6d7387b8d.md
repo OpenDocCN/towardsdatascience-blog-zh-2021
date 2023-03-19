@@ -76,11 +76,7 @@ PyImageSearch(作者 Adrian Rosebrock)是帮助你开始计算机视觉项目的
 
 此外，如果您对使用 OpenCV 学习计算机视觉感兴趣，并且希望从零开始学习初学者指南，我强烈建议您查看我的 21 分钟文章，该文章涵盖了这个主题。您可以通过下面提供的链接来完成。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 # 6.走向数据科学
 
@@ -158,26 +154,6 @@ Quora 是另一个类似的网站，有专门的 Quora 空间，致力于学习�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [## 作为数据科学家要避免的 11 个关键错误！
-
-### 初学数据科学的爱好者会犯的十一个关键性错误是什么？
-
-towardsdatascience.com](/11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028) [](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [## 当今时代的 8 项革命性人工智能技术！
-
-### 探索和分析即将或已经对世界产生巨大影响的 8 项人工智能技术！
-
-towardsdatascience.com](/8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0) [](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) [## 从数据科学中赚取收入的 5 种最佳方式！
-
-### 探索作为数据科学爱好者或数据科学家的五种最佳创收方式！
-
-towardsdatascience.com](/5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6) 
+</pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  </11-crucial-mistakes-to-avoid-as-a-data-scientist-71c29aef028>  </8-revolutionary-artificial-intelligence-technologies-of-the-modern-era-f8f22a4127d0>  </mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  </5-best-ways-to-earn-income-from-data-science-a9c8fed1eee6>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

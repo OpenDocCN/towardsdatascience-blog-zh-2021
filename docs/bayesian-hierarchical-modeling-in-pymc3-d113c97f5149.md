@@ -61,15 +61,7 @@
 
 如果您从未听说过贝叶斯统计或 PyMC3，并想学习它，请查看我关于这个有趣主题的其他介绍性文章。
 
-[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [## 贝叶斯推理的简明介绍
-
-### 了解频率主义者和贝叶斯推理方法之间的区别
-
-towardsdatascience.com](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) [## 使用 PyMC3 在 Python 中进行贝叶斯推理
-
-### 重温硬币的例子，并使用 PyMC3 计算解决它。
-
-towardsdatascience.com](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) 
+</a-gentle-introduction-to-bayesian-inference-6a7552e313cb>  </conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5>  
 
 **走吧！**
 

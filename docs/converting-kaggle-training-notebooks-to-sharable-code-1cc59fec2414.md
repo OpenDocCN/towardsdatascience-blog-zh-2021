@@ -10,11 +10,7 @@
 
 在[之前的文章](/intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08)中，我们分享了如何筛选给定的数据集，并展示了如何将类似文件的数据集包装到 PyTorch 类数据集，这是数据处理的核心。此外，我们基于一个 [TorchVision](https://pytorch.org/vision/stable/index.html) 模型在 [PyTorchLightning](https://pytorch-lightning.readthedocs.io/en/stable/) 中编写了一个基本的图像多标签分类模型，并在 GPU 上无缝地训练它，而无需在 Jupyter 笔记本中编写额外的代码。
 
-[](/intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08) [## 直观的 Kaggle 任务探索和模型基线
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 2/5 部分)
-
-towardsdatascience.com](/intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08) 
+</intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08>  
 
 笔记本电脑非常适合快速原型开发或数据探索，但对于大规模开发来说不太实用。笔记本电脑的单元式结构使得寻找不同的参数配置来优化模型具有挑战性。笔记本结果不一定是可重复的，因为您可能会交换一些编辑单元格或不按顺序运行它们。笔记本不支持版本控制，这使得与同事或更广泛的开源社区的协作变得困难。
 
@@ -38,15 +34,7 @@ python 包是一种组织函数、类等的结构。，到 python 模块中，�
 
 作为你下一个项目的灵感，我创建了这个[stater/template repository](https://github.com/Borda/kaggle_sandbox)，它用一个演示包`challenge_xyz`建立了一个基本的项目结构。它包括测试、代码格式化和 Github 问题/公关模板的基本工作流程。您可以从该模板创建以下存储库；参见[分步文档](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template)。
 
-[](https://github.com/Borda/kaggle_sandbox) [## GitHub-Borda/ka ggle _ sandbox:ka ggle 尝试的起点:]
-
-### Kaggle 尝试的一个起点:】。在 GitHub 上创建一个帐户，为 Borda/kaggle_sandbox 开发做贡献。
-
-github.com](https://github.com/Borda/kaggle_sandbox) [](https://medium.com/geekculture/thought-on-why-code-formatting-is-important-even-more-for-open-source-476829b54eaf) [## 思考为什么代码格式化对开源更重要
-
-### 格式化程序不会打扰任何人；它们旨在帮助和促进任何合作的顺利进行…
-
-medium.com](https://medium.com/geekculture/thought-on-why-code-formatting-is-important-even-more-for-open-source-476829b54eaf) 
+<https://github.com/Borda/kaggle_sandbox>  <https://medium.com/geekculture/thought-on-why-code-formatting-is-important-even-more-for-open-source-476829b54eaf>  
 
 # 包装实体的小技巧
 
@@ -76,7 +64,7 @@ medium.com](https://medium.com/geekculture/thought-on-why-code-formatting-is-imp
 
 不幸的是，它会生成一个带有硬编码参数的脚本。为了解决这个限制，我们需要编写自己的`argparser`，并将所有 CLI 参数映射到模型/数据模块/训练器。幸运的是，Lightning 最近推出了自己的极简`LightningCLI`界面，为你处理争论投标。
 
-[](https://devblog.pytorchlightning.ai/auto-structuring-deep-learning-projects-with-the-lightning-cli-9f40f1ef8b36) [## 使用 Lightning CLI 自动构建深度学习项目
+<https://devblog.pytorchlightning.ai/auto-structuring-deep-learning-projects-with-the-lightning-cli-9f40f1ef8b36> [## 使用 Lightning CLI 自动构建深度学习项目
 
 devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/auto-structuring-deep-learning-projects-with-the-lightning-cli-9f40f1ef8b36) 
 
@@ -105,19 +93,11 @@ python kaggle_plantpatho/cli_train.py \
 
 在未来，我们将展示如何使用这个简单的脚本在 [Grid.ai](https://www.grid.ai/) 上并行运行跨多台机器的超参数搜索，并在线观察训练表现。
 
-[](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) [## 使用 Grid.ai 进行超参数优化，无需更改代码
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 4/5 部分)
-
-towardsdatascience.com](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) 
+</hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49>  
 
 **敬请关注，并跟随我了解更多！**
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

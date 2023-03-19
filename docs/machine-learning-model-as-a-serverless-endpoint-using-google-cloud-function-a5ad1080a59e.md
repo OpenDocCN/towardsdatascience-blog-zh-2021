@@ -26,7 +26,7 @@
 
 ## 家政
 
-*本文假设你已经有了一个 GCP 账户。如果你还没有，在这里注册*[](https://cloud.google.com/)**可以获得一些免费积分。**
+*本文假设你已经有了一个 GCP 账户。如果你还没有，在这里注册*<https://cloud.google.com/>**可以获得一些免费积分。**
 
 **如果你想从你的本地机器上与你的 GCP 账户进行交互，使用* [*这里*](https://cloud.google.com/sdk/docs/quickstart) *列出的步骤安装 Google Cloud SDK。**
 

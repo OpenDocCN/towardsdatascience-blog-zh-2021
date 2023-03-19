@@ -16,11 +16,7 @@
 
 这篇短文涵盖了数据仓库及其设计的基础知识，称为维度设计。本文中的大部分概念都是从克里斯托弗·阿达姆松的一本名为《星型模式完全参考》的优秀著作中借用的
 
-[](https://www.amazon.com/gp/product/B003Y8YWAE/ref=dbs_a_def_rwt_bibl_vppi_i0) [## 星型模式完整参考
-
-### 亚马逊网站:星型模式完整参考电子书:阿达姆松，克里斯托弗:Kindle 商店
-
-www.amazon.com](https://www.amazon.com/gp/product/B003Y8YWAE/ref=dbs_a_def_rwt_bibl_vppi_i0) 
+<https://www.amazon.com/gp/product/B003Y8YWAE/ref=dbs_a_def_rwt_bibl_vppi_i0>  
 
 # 信息系统的类型
 

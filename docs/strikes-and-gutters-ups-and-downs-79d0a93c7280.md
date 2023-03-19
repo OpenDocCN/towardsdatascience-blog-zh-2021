@@ -12,11 +12,7 @@
 
 我偶然发现了一个有趣的伦敦交通局(TFL)数据集，名为“**桥梁高度限制**”，如下:
 
-[](https://blog.tfl.gov.uk/2019/10/09/data-drop-ordnance-survey-data-bridge-height-restrictions/) [## 数据下降-桥高度限制
-
-### 超大型车辆，如重型货车(HGV)或起重机，经常撞击低矮的桥梁，即使有标志…
-
-blog.tfl.gov.uk](https://blog.tfl.gov.uk/2019/10/09/data-drop-ordnance-survey-data-bridge-height-restrictions/) 
+<https://blog.tfl.gov.uk/2019/10/09/data-drop-ordnance-survey-data-bridge-height-restrictions/>  
 
 根据该网站，整个伦敦平均每月有两起桥梁撞击事件。在这种背景下，大伦敦边界/M25 内有 877 个结构，包括矮桥、隧道和路障。粗略的数据分析表明**最常见的**类型的桥梁限制在 4.6 米和 5.1 米之间；
 
@@ -30,11 +26,7 @@ blog.tfl.gov.uk](https://blog.tfl.gov.uk/2019/10/09/data-drop-ordnance-survey-da
 
 在这个阶段，值得强调的是，如果没有 OSMNX，这篇博客中的分析是不可能的；这是我以前曾经用过的一个包，因为它在这个数据集的上下文中有很多可能性，所以我又回到了这个包中。阅读此处的文档:
 
- [## OSMnx 1.0.1 - OSMnx 1.0.1 文档
-
-### OSMnx 是一个 Python 包，允许您从 OpenStreetMap 下载空间数据，并对其进行建模、投影、可视化和…
-
-osmnx.readthedocs.io](https://osmnx.readthedocs.io/en/stable/) 
+  
 
 下面是清理数据集的几行代码(数据集包含大量重复信息):
 

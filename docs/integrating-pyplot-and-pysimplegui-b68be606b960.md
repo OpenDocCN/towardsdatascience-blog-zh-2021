@@ -10,7 +10,7 @@
 
 ## 这是给谁的？
 
-如果你是一名数据科学家或者有一些 python 中的数据可视化需求，你可能正在使用[](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)**PyPlot，如果你需要与你的绘图交互或者制作一个独立的程序，你将需要将 py plot 与 GUI 库集成。我之所以使用 [**PySimpleGUI**](https://pysimplegui.readthedocs.io/en/latest/) 是因为当我想快速地将东西放在一起并演示一个工作程序时，我会使用它。**
+如果你是一名数据科学家或者有一些 python 中的数据可视化需求，你可能正在使用<https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html>**PyPlot，如果你需要与你的绘图交互或者制作一个独立的程序，你将需要将 py plot 与 GUI 库集成。我之所以使用 [**PySimpleGUI**](https://pysimplegui.readthedocs.io/en/latest/) 是因为当我想快速地将东西放在一起并演示一个工作程序时，我会使用它。**
 
 ```
 ⚠️ **Caveat Emptor:** There are other patterns and ways to code the same functionality, this is what makes sense to me, if you want to learn more check these related posts: [**Organizing your python code**](https://k3no.medium.com/organizing-your-python-code-ca5445843368) and [**Alternatives to using globals Python**](https://betterprogramming.pub/alternatives-to-using-globals-in-python-a3b2a7d5411b). There are also other GUI Libraries you might want to check via the following introductory posts, in addition to [**PySimpleGUI**](https://levelup.gitconnected.com/uis-in-python-with-pysimplegui-e5cd8ea275e8) I currently like [**KIVY**](https://k3no.medium.com/kivy-menagerie-af6a53e74695) and [**PyQT/PySide**](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)**.**

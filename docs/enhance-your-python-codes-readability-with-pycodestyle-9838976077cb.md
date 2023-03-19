@@ -129,14 +129,6 @@ style = pycodestyle.StyleGuide(config_file='/path/to/tox.ini')
 *   *[PEP-8—Python 代码风格指南](https://www.python.org/dev/peps/pep-0008/)*
 *   *[pycodestyle 官方文档](https://pycodestyle.pycqa.org/en/latest/)*
 
-*[](/the-fortune-500-bar-chart-race-9612dc9d0e63) [## 在条形图竞赛中可视化财富 500 强公司
-
-### 使用 Python 和 fluorescent 可视化世界最大公司的排名和收入趋势
-
-towardsdatascience.com](/the-fortune-500-bar-chart-race-9612dc9d0e63) [](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) [## 英超 VAR 足球决策分析
-
-### 使用 Python 回顾英国足球中有争议的视频助理裁判的实现
-
-towardsdatascience.com](/analyzing-english-premier-league-var-football-decisions-c6d280061ebf) 
+*</the-fortune-500-bar-chart-race-9612dc9d0e63>  </analyzing-english-premier-league-var-football-decisions-c6d280061ebf>  
 
 请随意查看[远程 Python 职位](https://remotepython.io/)，这是一个关于远程 Python 相关机会的职位公告板。*

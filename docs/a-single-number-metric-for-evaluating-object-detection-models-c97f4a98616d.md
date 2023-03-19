@@ -104,11 +104,7 @@ p 是给定索引处的精度值，R 是给定索引处的召回值。指数γ1/
 
 一个 GitHub 知识库已经公开，可以很容易地计算出被罚和未被罚的综合分数。可以在以下位置找到它:
 
-[](https://github.com/plebbyd/integrated-F1) [## plebbyd/集成-F1
-
-### 该库用于轻松计算被罚和未被罚的 F1 积分。为了使用，克隆…
-
-github.com](https://github.com/plebbyd/integrated-F1) 
+<https://github.com/plebbyd/integrated-F1>  
 
 此外，对于任何给定的置信度和 F1 分数值的输入，该存储库中的函数返回惩罚与非惩罚的比率。
 

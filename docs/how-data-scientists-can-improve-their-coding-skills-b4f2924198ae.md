@@ -87,7 +87,7 @@
 
 我创建了上面的图表来区分三个区域:舒适区、学习区和危险区。舒适区指的是我们熟悉的领域，我们从舒适区拉知识不费吹灰之力。学习区指的是我们现在还不懂，但已经为快速学习打下基础的领域。最后，至于危险区，它是我们目前无法触及的地区。
 
-这里有一个玩具的例子。对于之前接触过统计学和机器学习的有志数据科学家来说，概率论和其他基本概念，如[](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e?sk=af5291865f239ad505e8a8a1a80cceb8)**、*[*Bootstrap*](/a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea?sk=92ce4c8398188ab9421797ac5e292bf7)*和* [*大数定律*](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e?sk=af5291865f239ad505e8a8a1a80cceb8) 应该在他们的舒适区。在生产中部署机器学习模型应该在研究区域中。高效计算和性能优化应该处于危险区域。*
+这里有一个玩具的例子。对于之前接触过统计学和机器学习的有志数据科学家来说，概率论和其他基本概念，如</crack-data-science-interviews-essential-statistics-concepts-d4491d85219e?sk=af5291865f239ad505e8a8a1a80cceb8>**、*[*Bootstrap*](/a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea?sk=92ce4c8398188ab9421797ac5e292bf7)*和* [*大数定律*](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e?sk=af5291865f239ad505e8a8a1a80cceb8) 应该在他们的舒适区。在生产中部署机器学习模型应该在研究区域中。高效计算和性能优化应该处于危险区域。*
 
 *解决最优化问题太过雄心勃勃。相比之下，如果有抱负的数据科学家专注于研究区域，即学习如何在生产中部署模型，他们将受益匪浅。*
 
@@ -115,11 +115,7 @@
 
 *如果你是新来的，这里有一个 DSA 的简单例子。*
 
-*[](/why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7) [## 为什么数据科学家应该学习动态编程
-
-### 数据科学家的基本算法
-
-towardsdatascience.com](/why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7) 
+*</why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7>  
 
 学习 DSA 的另一个好处是我们可以在采访中谈论时间和空间的复杂性，这很好地服务于我们的目的。
 
@@ -135,11 +131,7 @@ towardsdatascience.com](/why-data-scientists-should-learn-dynamic-programming-e5
 
 *这里有一个简单的例子。*
 
-*[](/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4) [## 2021 年数据科学家的 Python 字符串操作
-
-### 使用不同的重量训练你的 Python 编码肌肉
-
-towardsdatascience.com](/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4)* 
+*</python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4> * 
 
 ## *秘诀 6:成长心态*
 
@@ -151,11 +143,7 @@ towardsdatascience.com](/python-string-manipulation-for-data-scientists-in-2021-
 
 *Medium 最近推出了作家伙伴计划，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-*[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)* 
+*<https://leihua-ye.medium.com/membership> * 
 
 # *外卖食品*
 

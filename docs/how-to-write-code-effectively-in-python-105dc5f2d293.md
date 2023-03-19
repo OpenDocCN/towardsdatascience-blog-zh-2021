@@ -18,11 +18,7 @@
 
 如果您不太熟悉 Python 的一些核心概念，并且您仍然需要习惯它们，请查看下面提供的文章，该文章更详细地讨论了这个主题。它涵盖了您学习 Python 以掌握机器学习所需的大多数基本细节。
 
-[](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) [## 开始使用 Python 掌握机器学习的旅程
-
-### 了解精通机器学习的基本要求
-
-towardsdatascience.com](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) 
+</starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9>  
 
 # 为什么有效地编码？
 
@@ -139,11 +135,7 @@ print(even)
 
 有关 Python 中高级函数概念的完整指南和理解，以及完整的代码和示例，请参考下面提供的文章参考。它涵盖了在代码块中开始使用这些高级函数以优化它们并使它们更高效所需的大多数基本概念。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 ## 4.尝试和测试备选方案:
 
@@ -163,11 +155,7 @@ towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-a
 
 关于这一点的更广泛的解释，请参考下面的文章，在那里我已经彻底地解释了为什么作为一名数据科学家，每个程序员每天编码是重要的。
 
-[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) 
+</5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  
 
 # 结论:
 
@@ -183,36 +171,12 @@ Jo Szczepanska 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅电子邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  </8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

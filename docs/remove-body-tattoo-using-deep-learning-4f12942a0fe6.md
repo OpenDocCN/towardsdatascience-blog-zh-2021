@@ -106,8 +106,4 @@ p,img_hr,b = learn.predict(img_fast)Image(img_hr).show(figsize=(8,8))
 
 # 参考
 
-[](https://github.com/vijishmadhavan/SkinDeep) [## vijishmadhavan/SkinDeep
-
-### 联系人:vijishmadhavan@gmail.com 我是看了贾斯汀比伯的《任何人》音乐录影带后策划这个项目的，他有…
-
-github.com](https://github.com/vijishmadhavan/SkinDeep)
+<https://github.com/vijishmadhavan/SkinDeep> 

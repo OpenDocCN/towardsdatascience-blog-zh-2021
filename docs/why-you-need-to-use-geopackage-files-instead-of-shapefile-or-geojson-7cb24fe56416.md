@@ -12,15 +12,7 @@
 
 如果你想了解更多关于地理空间数据以及它如何改变数据分析领域的信息，请点击这里的[查看我的博客。](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics)
 
-[](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) [## 为什么地理空间数据是数据分析的发展方向？- Samashti |博客
-
-### 在过去的 10 年里，数据科学和分析已经成为各地的热门话题。数据分析帮助了…
-
-www.samashti.space](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) [](https://www.samashti.space/articles/download-rainfall-satellite-data-from-chrs-data-portal-using-python) [## 使用 Python - Samashti 从 CHRS 数据门户下载降雨卫星数据|博客
-
-### 教程-使用 Python 模块轻松查询和下载降雨卫星数据，快速分析降雨…
-
-www.samashti.space](https://www.samashti.space/articles/download-rainfall-satellite-data-from-chrs-data-portal-using-python) 
+<https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics>  <https://www.samashti.space/articles/download-rainfall-satellite-data-from-chrs-data-portal-using-python>  
 
 # Shapefiles 的问题
 
@@ -140,15 +132,7 @@ Geopackage 是一种非常轻便且高度兼容的矢量文件格式。您可以
 
 如果你喜欢这个博客，就订阅这个博客，并在以后的博客文章中得到通知。如有任何疑问或讨论，你可以在 [LinkedIn](https://www.linkedin.com/in/nikhilhubballi/) 、 [Twitter](https://twitter.com/samashti_) 上找到我。查看我之前的博客，了解如何通过 python 脚本使用 QGIS 空间算法。
 
-[](https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts) [## 如何通过 python 脚本使用 QGIS 空间算法？- Samashti |博客
-
-### 当您了解 GIS 和空间分析时，QGIS 是您最先接触到的工具之一。你几乎可以处理…
-
-www.samashti.space](https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts) [](https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big) [## 替代数据如何帮助公司进行大规模投资？- Samashti |博客
-
-### 就在十年前，如果一家公司想将一种新产品或服务推向市场，识别潜在的…
-
-www.samashti.space](https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big) 
+<https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts>  <https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big>  
 
 # 一些转换
 

@@ -207,8 +207,4 @@ callbacks=[lr_reduction],verbose=0, epochs=200)
 
 乔治·萨维德拉—项目开发
 
-[](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@profsarang/membership)
+<https://medium.com/@profsarang/membership> 

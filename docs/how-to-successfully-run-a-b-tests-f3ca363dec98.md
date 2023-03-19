@@ -147,7 +147,7 @@ Twitter 允许分析师使用三种不同类型的指标(增加分析师的灵�
 1.  [**【韦尔奇 t 检验】**](https://en.wikipedia.org/wiki/Welch%27s_t-test) —用于连续指标
 2.  [**曼-惠特尼 U 检验**](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test) —在有偏差的数据中表现良好
 3.  [**卡方检验**](https://en.wikipedia.org/wiki/Chi-squared_test) —用于比例指标
-4.  [](https://alexdeng.github.io/public/files/jsm2011-deng.pdf)****—用于小样本量(这是一种 bootstrap 方法)****
+4.  <https://alexdeng.github.io/public/files/jsm2011-deng.pdf>****—用于小样本量(这是一种 bootstrap 方法)****
 
 ****当在一个公司运行数千个测试时，有可能产生被称为类型 1 和类型 2 错误的统计错误。为了降低统计发现不真实的风险，降低错误发现率(FDR)非常重要。优步使用了 [Benjamin-Hochberg 程序。](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)****
 

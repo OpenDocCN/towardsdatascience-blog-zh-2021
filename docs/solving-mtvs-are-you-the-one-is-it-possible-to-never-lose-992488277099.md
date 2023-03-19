@@ -140,18 +140,6 @@
 
 ## 有关系的
 
-[](/how-i-learned-my-computer-to-play-spot-it-using-opencv-and-deep-learning-ad1f017a3ec3) [## 我是如何教我的电脑玩 Spot it 的！使用 OpenCV 和深度学习
-
-### 一些有趣的计算机视觉和 CNN 的小数据集。
-
-towardsdatascience.com](/how-i-learned-my-computer-to-play-spot-it-using-opencv-and-deep-learning-ad1f017a3ec3) [](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36) [## 深度强化学习代理扮演的 Snake
-
-### 犯了大错
-
-towardsdatascience.com](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36) [](/solving-nonograms-with-120-lines-of-code-a7c6e0f627e4) [## 用 120 行代码求解诺诺姆图
-
-### 拼图，组合和解决方案 gif。
-
-towardsdatascience.com](/solving-nonograms-with-120-lines-of-code-a7c6e0f627e4) 
+</how-i-learned-my-computer-to-play-spot-it-using-opencv-and-deep-learning-ad1f017a3ec3>  </snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36>  </solving-nonograms-with-120-lines-of-code-a7c6e0f627e4>  
 
 *别忘了* [*订阅*](https://hennie-de-harder.medium.com/subscribe) *如果你想在我发表新文章时收到电子邮件。* ❤

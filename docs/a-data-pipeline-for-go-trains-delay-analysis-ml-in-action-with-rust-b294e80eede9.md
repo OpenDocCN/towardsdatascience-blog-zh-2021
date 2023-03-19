@@ -8,15 +8,7 @@
 
 如果您刚刚看到这篇文章，请阅读第 1 部分和第 2 部分。
 
-[](/a-data-pipeline-for-go-trains-delay-analysis-part-1-21b2c2496aca) [## Go 列车延误分析的数据管道—第 1 部分
-
-### 周末建设和学习
-
-towardsdatascience.com](/a-data-pipeline-for-go-trains-delay-analysis-part-1-21b2c2496aca) [](https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315) [## Go 列车延误分析的数据管道——第二部分
-
-### BI 仪表板和弹性搜索，如 API Power by Rust
-
-medium.com](https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315) 
+</a-data-pipeline-for-go-trains-delay-analysis-part-1-21b2c2496aca>  <https://medium.com/geekculture/a-data-pipeline-for-go-trains-delay-analysis-part-2-e5b9ef0ea315>  
 
 这最后一集将基于 Rust 一贯收集的数据，重点介绍 ML 引擎(管道)。
 
@@ -110,11 +102,7 @@ Polars 是用 Rust 实现的一个速度惊人的数据帧库，使用[Apache Ar
 
 它有一些重要的基准。
 
-[](https://h2oai.github.io/db-benchmark/) [## 类似数据库的运营基准
-
-### 该页面旨在对开源数据科学中流行的各种类似数据库的工具进行基准测试。它经常与…发生冲突
-
-h2oai.github.io](https://h2oai.github.io/db-benchmark/) 
+<https://h2oai.github.io/db-benchmark/>  
 
 因此，我们将利用这个板条箱来构建数据框架，以准备 ML 模型培训和构建。
 
@@ -126,19 +114,11 @@ h2oai.github.io](https://h2oai.github.io/db-benchmark/)
 
 Rust 有一些完美和方便的 ML 板条箱/框架，其中大部分你可以在这里找到。
 
-[](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) [## GitHub-vaaaanquish/Awesome-Rust-machine learning:这个库是机器学习的列表…
-
-### 这个库是用 Rust 写的机器学习库列表。这是 GitHub 库的汇编…
-
-github.com](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) 
+<https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning>  
 
 我的选择是 SmartCore，这是一个全面的机器学习和数值计算库，Rust 是我们的用例。该库提供了线性代数、数值计算和优化工具，并实现了一种通用、强大但仍然有效的机器学习方法。
 
-[](https://smartcorelib.org/) [## 智能核心
-
-### SmartCore 是一个用于机器学习和数值计算的综合库。该库提供了一套工具…
-
-smartcorelib.org](https://smartcorelib.org/) 
+<https://smartcorelib.org/>  
 
 基于我们的 SFR，我们希望基于预先给定的数据集来预测延迟分钟。我们将重点关注的算法应该是线性回归，这是一种统计监督学习技术，通过与一个或多个独立特征形成线性关系来预测量化变量。
 
@@ -164,11 +144,7 @@ smartcorelib.org](https://smartcorelib.org/)
 
 对于部署，我们将利用 Github 操作来触发 ML 管道部署，这将源模型从 ML 管道 repo 复制到 API repo，这将根据您在 Github 操作工作流中定义的规则启动 API repo 构建。
 
-[](https://github.com/marketplace/actions/push-directory-to-another-repository) [## 将目录推送到另一个仓库- GitHub Marketplace
-
-### 什么时候使用这个 GitHub 动作？如果你有一个 GitHub 库，里面有你想要的指南，这很有帮助…
-
-github.com](https://github.com/marketplace/actions/push-directory-to-another-repository) 
+<https://github.com/marketplace/actions/push-directory-to-another-repository>  
 
 对于我所有的项目，我将从开发分支开始构建，它被认为是 UAT，然后主分支将是生产。
 
@@ -196,11 +172,7 @@ github.com](https://github.com/marketplace/actions/push-directory-to-another-rep
 
 我开始写作之旅已经快三年了。你们的支持是让我不断前进，写出更多精彩学习分享的最重要动力。
 
-[](https://jayhuang75.medium.com/membership) [## 用我的推荐链接加入媒体-黄伟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jayhuang75.medium.com](https://jayhuang75.medium.com/membership) 
+<https://jayhuang75.medium.com/membership>  
 
 另外，你可以用下面的链接给我买一杯咖啡，让我有动力在周末进行更多的锻炼和学习。
 

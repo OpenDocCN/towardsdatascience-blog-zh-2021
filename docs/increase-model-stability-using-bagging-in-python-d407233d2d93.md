@@ -126,6 +126,6 @@ model = BaggingRegressor(LinearRegression(),n_estimators = 10, max_features = 0.
 
 装袋是一种非常有用的技术，它从数学上增加了模型的稳定性。我认为，当您知道将来无法再次训练您的模型，并且希望构建一个随着时间推移而稳定的模型时，应该首选 boosting。当然，监控模型性能对于机器学习项目的成功至关重要，但随着时间的推移，正确使用 boosting 会使您的模型更加稳定和健壮，但代价是性能下降。有时，增加模型的稳定性可能比增加其准确性更可取，bagging 就是这样工作的。
 
-*Gianluca Malato 是一名数据科学家，在*[](http://www.yourdatateacher.com/)**上教授机器学习和数据科学。**
+*Gianluca Malato 是一名数据科学家，在*<http://www.yourdatateacher.com/>**上教授机器学习和数据科学。**
 
 **原载于 2021 年 10 月 18 日 https://www.yourdatateacher.com**的* [*。*](https://www.yourdatateacher.com/2021/10/18/increase-model-stability-using-bagging-in-python/)*

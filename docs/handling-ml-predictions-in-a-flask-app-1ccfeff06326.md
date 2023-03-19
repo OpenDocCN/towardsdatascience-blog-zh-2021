@@ -52,10 +52,6 @@
 
 要查看完整的示例，请查看 GitHub repo:
 
-[](https://github.com/a-poor/flask-celery-ml) [## a-穷人/烧瓶-芹菜-毫升
-
-### 这个报告展示了一种在 Flask 应用程序中处理长时间运行的过程(如 ML 模型预测)的技术…
-
-github.com](https://github.com/a-poor/flask-celery-ml) 
+<https://github.com/a-poor/flask-celery-ml>  
 
 感谢阅读！我很想听听你的反馈。让我知道你使用什么技术来添加 ML 到 Flask 应用程序中。请在下面留下你的评论，或者在 Twitter 或 LinkedIn 上联系我。

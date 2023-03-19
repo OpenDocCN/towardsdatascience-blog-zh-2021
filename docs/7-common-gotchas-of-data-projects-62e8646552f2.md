@@ -18,11 +18,7 @@
 
 > **注**:退房 [*永远记住数据先于科学*](/always-remember-data-comes-before-the-science-681389992082) 学会获取数据的技巧。
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) 
+</always-remember-data-comes-before-the-science-681389992082>  
 
 花大钱的地方是为监督学习任务标记数据。当必须手动完成时，情况就更糟了。例如，如果我们项目的目标是识别一个城市中的所有超市——理想的解决方案是从某个地方获取这些数据，但是对于这个场景，让我们假设我们不能。
 
@@ -90,28 +86,8 @@ MLOps 在过去几年越来越受欢迎，这是原因之一。一旦模型被�
 
 我最近开始了我自己的邮件列表。如果你喜欢这篇文章，**订阅**我的[邮件列表](https://mailchi.mp/ef1f7700a873/sign-up)与我联系，这样你就不会错过我写的关于人工智能、数据科学和自由职业的帖子。
 
-[](https://mailchi.mp/ef1f7700a873/sign-up) [## 签约雇用
-
-### 订阅 Pykes Notes 时事通讯，了解最新的有趣知识、最新的博客内容和…
-
-mailchi.mp](https://mailchi.mp/ef1f7700a873/sign-up) 
+<https://mailchi.mp/ef1f7700a873/sign-up>  
 
 ## 相关文章
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) [](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [## 不要让闯入数据科学变得比需要的更难
-
-### 我是如何在没有学位或工作经验的情况下找到第一份数据相关工作的
-
-towardsdatascience.com](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [## 作为一名自学成才的数据科学家，我最大的挑战是
-
-### 以及我是如何克服它们的
-
-towardsdatascience.com](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35)
+</always-remember-data-comes-before-the-science-681389992082>  </dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260>  </my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35> 

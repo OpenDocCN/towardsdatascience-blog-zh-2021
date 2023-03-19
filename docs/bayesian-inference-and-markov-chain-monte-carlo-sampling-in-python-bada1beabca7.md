@@ -167,11 +167,7 @@ MCMC 结果通常以两种方式绘制——后验分布和迹线图。后验概
 
 接下来，我建议利用 PyMC3 这样的包来进行贝叶斯推理，而不是从头开始编码。Will Koehrsen 的这篇文章提供了一个很棒的真实例子，值得一看:
 
-[](/markov-chain-monte-carlo-in-python-44f7e609be98) [## Python 中的马尔可夫链蒙特卡罗
-
-### 一个完整的现实世界实现
-
-towardsdatascience.com](/markov-chain-monte-carlo-in-python-44f7e609be98) 
+</markov-chain-monte-carlo-in-python-44f7e609be98>  
 
 如果你希望深入研究使贝叶斯推理和 MCMC 成为可能的数学和推理，我强烈推荐这篇文章— [贝叶斯推理问题，MCMC 和变分推理](/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)。
 

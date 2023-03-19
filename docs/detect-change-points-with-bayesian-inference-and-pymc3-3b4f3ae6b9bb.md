@@ -22,11 +22,7 @@
 
 贝叶斯推理是一种技术，其中贝叶斯定理用于指定一个人应该如何根据观察数据更新自己的信念。
 
-[](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [## 贝叶斯定理，用可视化清晰地解释
-
-### 如果您的 COVID 检测呈阳性，那么您实际上患有 COVID 的几率有多大？
-
-towardsdatascience.com](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) 
+</bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14>  
 
 例如，我们先前的信念可以是硬币是有偏差的，它遵循 Beta(1.36，2.36)分布。然而，在投掷硬币超过 100 次(观察真实数据)后，我们的信念转变为均值为 0.5 的正态分布。
 
@@ -252,33 +248,13 @@ pip install pymc3
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayesian_example/google%20analytics.ipynb) [## 数据科学/Google analytics . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/Google analytics . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayesian_example/google%20analytics.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayesian_example/google%20analytics.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [## kats:Python 中分析时间序列数据的通用框架
-
-### 预测、检测变化点、异常，并获得时间序列中的关键统计数据
-
-towardsdatascience.com](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) [## 如何检测时间序列中的季节性、异常值和变化点
-
-### 只需要 Kats 和几行代码
-
-towardsdatascience.com](/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) 
+</how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4>  </observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  </kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057>  </how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff>  
 
 # 参考
 

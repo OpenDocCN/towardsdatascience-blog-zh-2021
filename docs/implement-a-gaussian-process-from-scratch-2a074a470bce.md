@@ -330,11 +330,7 @@ G **高斯过程** (GP)是一种强大的监督机器学习方法，主要用于
 
 **肯定有更多关于如何从基础 GP 到更高级版本并实现迷人分析的内容。这篇文章涵盖了一些高级概念:**
 
-**[](/an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271) [## 代理建模介绍，第三部分:超越基础
-
-### 加速工程设计的机器学习方法
-
-towardsdatascience.com](/an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271) 
+**</an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271>  
 
 # 关于作者
 

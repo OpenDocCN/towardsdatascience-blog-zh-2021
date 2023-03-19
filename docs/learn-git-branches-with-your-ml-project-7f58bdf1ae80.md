@@ -231,16 +231,4 @@ $ git branch -d <branchName>
 
 如果你喜欢这篇文章，你可能会喜欢我在 medium 上写的其他一些文章。
 
-[](/working-with-json-data-in-python-45e25ff958ce) [## 在 python 中使用 JSON 数据
-
-### 写入 json 文件，从 json 文件读取用 python 解释并举例说明。
-
-towardsdatascience.com](/working-with-json-data-in-python-45e25ff958ce) [](/skip-gram-neural-network-for-graphs-83b8f308bf87) [## 图的跳格神经网络
-
-### 本文将深入探讨节点嵌入的更多细节。如果你缺乏直觉和对节点嵌入的理解…
-
-towardsdatascience.com](/skip-gram-neural-network-for-graphs-83b8f308bf87) [](/graph-coloring-with-networkx-88c45f09b8f4) [## 网络图着色
-
-### 图着色问题的解决方案在概念上很简单，但在应用上却很强大。本教程展示了…
-
-towardsdatascience.com](/graph-coloring-with-networkx-88c45f09b8f4)
+</working-with-json-data-in-python-45e25ff958ce>  </skip-gram-neural-network-for-graphs-83b8f308bf87>  </graph-coloring-with-networkx-88c45f09b8f4> 

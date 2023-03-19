@@ -46,11 +46,7 @@ Eduardo Olszewski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 此外，它还会提高你的注意力、意志力和减少拖延。可以看看这篇关于早工作的好文章。
 
-[](https://medium.com/personal-growth-lab/the-key-to-better-focus-and-higher-productivity-work-early-in-the-morning-4-reasons-why-c6ab13f47ef3) [## 更好的专注和更高的效率的关键是:早上早点工作(4 个原因)
-
-### 我从未真正认为自己是一个“早起的人”。事实上，我过去喜欢睡懒觉，轻松地开始我的一天…
-
-medium.com](https://medium.com/personal-growth-lab/the-key-to-better-focus-and-higher-productivity-work-early-in-the-morning-4-reasons-why-c6ab13f47ef3) 
+<https://medium.com/personal-growth-lab/the-key-to-better-focus-and-higher-productivity-work-early-in-the-morning-4-reasons-why-c6ab13f47ef3>  
 
 ## 3.一次专注于一项任务
 

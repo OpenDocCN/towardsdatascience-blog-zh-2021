@@ -186,12 +186,4 @@ F  21  19
 
 如果你喜欢这篇文章，你也可以发现下面这些有趣的:
 
-[](https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882) [## 数据科学中的 11 个酷名字
-
-### 你可能不知道它们是什么意思
-
-medium.com](https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882) [](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [## 在 Python 中对两个字典执行逻辑运算的最简单方法
-
-towardsdatascience.com](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [](/testing-birthday-paradox-in-faker-library-python-54907d724414) [## 在 Faker 库中测试生日悖论(Python)
-
-towardsdatascience.com](/testing-birthday-paradox-in-faker-library-python-54907d724414)
+<https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882>  </the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f> 

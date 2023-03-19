@@ -71,11 +71,7 @@ Arnaud Mesureur 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_med
 
 ****今天的帖子到此结束。我的读者可以通过下面的链接注册成为会员，以获得我写的每个故事的全部信息，我将收到你的一部分会员费。****
 
-****[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+****<https://rukshanpramoditha.medium.com/membership>  
 
 非常感谢你一直以来的支持！下一个故事再见。祝大家学习愉快！
 

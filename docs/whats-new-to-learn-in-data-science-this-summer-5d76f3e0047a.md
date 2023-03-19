@@ -121,11 +121,7 @@ Google Cloud AutoML 不是从零开始建立模型并使用数据训练它们，
 
 ## 我为初学者推荐的在线课程:
 
-[](https://www.coursera.org/learn/uva-darden-market-analytics) [## 营销分析
-
-www.coursera.org](https://www.coursera.org/learn/uva-darden-market-analytics) [](https://www.edx.org/course/marketing-analytics) [## 营销分析
-
-www.edx.org](https://www.edx.org/course/marketing-analytics) [](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028) [## 营销分析在线课程
+<https://www.coursera.org/learn/uva-darden-market-analytics>  <https://www.udacity.com/course/marketing-analytics-nanodegree--nd028> [## 营销分析在线课程
 
 www.udacity.com](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028) 
 

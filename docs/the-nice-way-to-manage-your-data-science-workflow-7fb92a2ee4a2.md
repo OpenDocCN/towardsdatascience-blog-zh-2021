@@ -165,11 +165,7 @@ python main.py
 
 如果你想参考全部代码，这里是我的 GitHub repo，包含我在文章中使用的所有资源。明星⭐️它和书签。
 
-[](https://github.com/yashprakash13/data-another-day) [## GitHub-yashprakash 13/Data-another-day:所有数据科学项目的主存储库…
-
-### 我在我的…上学习和撰写的所有数据科学项目、概念、工具和资源的主存储库
-
-github.com](https://github.com/yashprakash13/data-another-day) 
+<https://github.com/yashprakash13/data-another-day>  
 
 # 最后一件事
 

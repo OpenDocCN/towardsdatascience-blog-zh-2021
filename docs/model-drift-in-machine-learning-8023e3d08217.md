@@ -62,16 +62,4 @@
 
 ## 相关文章
 
-[](/how-to-frame-a-product-goal-as-a-machine-learning-problem-a3c55aeb75b2) [## 如何将产品目标框定为机器学习问题
-
-### 降低处理机器学习项目的风险
-
-towardsdatascience.com](/how-to-frame-a-product-goal-as-a-machine-learning-problem-a3c55aeb75b2) [](/3-mistakes-that-transformed-my-machine-learning-career-de76679e0084) [## 改变我机器学习生涯的 3 个错误
-
-### 接受错误的一部分包括分享错误
-
-towardsdatascience.com](/3-mistakes-that-transformed-my-machine-learning-career-de76679e0084) [](/5-beginner-friendly-machine-learning-projects-3475ad85167a) [## 5 个初学者友好的机器学习项目
-
-### 千里之行始于足下
-
-towardsdatascience.com](/5-beginner-friendly-machine-learning-projects-3475ad85167a)
+</how-to-frame-a-product-goal-as-a-machine-learning-problem-a3c55aeb75b2>  </3-mistakes-that-transformed-my-machine-learning-career-de76679e0084>  </5-beginner-friendly-machine-learning-projects-3475ad85167a> 

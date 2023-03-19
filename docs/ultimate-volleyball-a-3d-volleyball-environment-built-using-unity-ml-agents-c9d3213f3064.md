@@ -109,7 +109,7 @@
 
 **为了训练一个简单的代理人截击，我选择了一个简单的奖励+1，因为我把球打过了网。正如您将在下一节中看到的，这相对来说效果不错，不需要进一步的奖励调整。**
 
-**如果你计划训练一个有竞争力的代理人或者使用自我游戏，ML-Agents 文档[](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md#self-play)****建议保持简单的奖励(胜利者+1，失败者-1)，并允许更多的训练迭代来补偿。******
+**如果你计划训练一个有竞争力的代理人或者使用自我游戏，ML-Agents 文档<https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md#self-play>****建议保持简单的奖励(胜利者+1，失败者-1)，并允许更多的训练迭代来补偿。******
 
 # ******️‍🏋️‍♀️培训******
 

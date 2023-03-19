@@ -14,17 +14,13 @@ W 写代码可能是一件非常困难和具有挑战性的工作。当一些问
 
 也就是说，虽然编程可能很难，但最终用高级语言编程的概念非常简单。虽然事情经常会妨碍这种简单性，但是有一些基本的方法可以用来改进代码。本文将更多地针对编写函数的过程，以及一些让函数更好、让你的代码更好的有趣方法。然而，如果你想学习一些重构方法来改进已经写好的代码，我有一篇很棒的文章推荐给你:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 
 还有一件事，这篇文章实际上有一个笔记本，如果他们想看这篇文章中的例子，可以浏览一下。您可以在 Github 上找到该笔记本:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Better%20Function%20practices.ipynb) [## Emmetts-DS-NoteBooks/Better Function practices . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Better%20Function%20practices.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Better%20Function%20practices.ipynb>  
 
 # №1:输入/输出
 
@@ -50,7 +46,7 @@ def mean(x : list): mu = sum(x) / len(x) return(mu)
 
 另一种我可以肯定的编写函数的方法是抽取。提取是清理代码的重要组成部分。提取只是简单地创建更多的方法，以便在一个函数中处理多种事情，而不是让所述函数成为我们需要的不同值的寻宝游戏。相反，我们编写一个函数来获取这些值。函数应该简单并且有简短的指令。这使得代码更好，就像我过去说过的，更多的方法意味着更好的代码！如果你想读一整篇关于提取的文章，我有一篇我很喜欢写的文章，你可以在这里读:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -177,7 +173,7 @@ for i in range(1, 5):
 
 为了最大限度地利用你的函数和类，在用 Python 编程时，你绝对应该研究一下 decorators！装饰器非常容易使用，并且在各种事情上都非常有效，从提高代码速度到完全改变 Python 语言的范式。我提到过这可以通过一个简单的调用在一行中完成吗？哦，对了，如果你不熟悉 Python 中令人惊叹的装饰者世界，我也碰巧为你提供了一个我最喜欢的装饰者的庞大列表，我喜欢使用:
 
-[](/10-fabulous-python-decorators-ab674a732871) [## 10 个神话般的 Python 装饰者
+</10-fabulous-python-decorators-ab674a732871> [## 10 个神话般的 Python 装饰者
 
 towardsdatascience.com](/10-fabulous-python-decorators-ab674a732871) 
 
@@ -192,11 +188,7 @@ parameters = get_params(data)
 
 首先，我们在这里赋值的变量是命名参数，所以我认为大多数人可能会认为我们得到了参数。其次，即使变量有一个随机的名字，这个函数也叫做 get_params。如果人们不能阅读一个简单的断言，他们可能不会阅读你的代码！在每行代码之间使用注释看起来很难看，这是一种可怕的做法——也不符合 PEP。也就是说，如果你碰巧不知道什么时候注释你的代码或者不注释它——我为 Python 程序员写了一个简短的注释指南，你可以在这里阅读:
 
-[](/how-to-use-comments-effectively-in-python-2a793014307f) [## 如何在 Python 中有效地使用注释
-
-### 如果使用得当，注释是一个很有价值的工具——这就是你应该如何最有效地使用它们。
-
-towardsdatascience.com](/how-to-use-comments-effectively-in-python-2a793014307f) 
+</how-to-use-comments-effectively-in-python-2a793014307f>  
 
 # №11:使用 lambda！
 
@@ -214,11 +206,7 @@ mean([5, 10, 15])10
 
 当然，这个简单的例子仅仅展示了 lambda 是如何被用于单行函数的。当这些表达式与其他函数一起使用时，真正的力量就来了。实际上，我有一整篇关于 lambda 及其用法的文章，以及我喜欢它的原因，如果你感兴趣，可以在这里阅读:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 > 差不多一年前！哇哦。
 

@@ -14,7 +14,7 @@
 
 贝叶斯统计为您提供了更新您对新数据证据的信念的工具，这是一个在许多现实世界场景中常见的概念，例如用于跟踪流行病、预测经济趋势或预测气候变化。它们也是许多更著名的统计模型的支柱，如高斯过程。
 
-[](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) [## 用简单的英语介绍高斯过程编程
+</introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d> [## 用简单的英语介绍高斯过程编程
 
 towardsdatascience.com](/introduction-to-gaussian-process-programming-in-plain-english-8dd7a94cb18d) 
 
@@ -24,7 +24,7 @@ towardsdatascience.com](/introduction-to-gaussian-process-programming-in-plain-e
 
 1.  **的第一篇**帖子涵盖了贝叶斯统计的基本理论以及如何用 Python 实现一个简单的贝叶斯统计。
 
-[](/bayesian-statistical-programming-an-introduction-4ca3e2ddae76) [## 贝叶斯统计程序设计:导论
+</bayesian-statistical-programming-an-introduction-4ca3e2ddae76> [## 贝叶斯统计程序设计:导论
 
 towardsdatascience.com](/bayesian-statistical-programming-an-introduction-4ca3e2ddae76) 
 
@@ -32,7 +32,7 @@ towardsdatascience.com](/bayesian-statistical-programming-an-introduction-4ca3e2
 
 3.**第三**部分将涵盖一种特殊类型的贝叶斯算法，称为蒙特卡罗马尔可夫链(MCMC)。
 
-[](/introduction-to-markov-chain-programming-8ddbe0ac1c84) [## 马尔可夫链编程导论
+</introduction-to-markov-chain-programming-8ddbe0ac1c84> [## 马尔可夫链编程导论
 
 towardsdatascience.com](/introduction-to-markov-chain-programming-8ddbe0ac1c84) 
 

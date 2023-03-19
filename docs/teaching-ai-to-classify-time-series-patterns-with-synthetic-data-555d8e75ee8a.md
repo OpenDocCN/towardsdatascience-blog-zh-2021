@@ -43,19 +43,11 @@
 
 正如我在这篇文章中所写的—“*合成数据集是一个以编程方式生成的数据存储库。所以，它没有被任何现实生活中的调查或实验所收集。因此，它的主要目的是足够灵活和丰富，以帮助 ML 从业者用各种分类、回归和聚类算法进行引人入胜的实验*。
 
-[](/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae) [## 合成数据生成—新数据科学家的必备技能
-
-### 为自驱动数据科学项目和深潜生成合成数据的包和想法的简要概述…
-
-towardsdatascience.com](/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae) 
+</synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae>  
 
 …然后扩展了本文中的论点—“*合成时间序列也不例外—它帮助数据科学家试验各种算法方法，并为现实生活中的部署做准备，而这些部署方式仅使用真实数据集是不可能的。*”
 
-[](/create-synthetic-time-series-with-anomaly-signatures-in-python-c0b80a6c093c) [## 用 Python 创建具有异常特征的合成时间序列
-
-### 一种简单而直观的方法来创建带有定制异常的合成(人工)时间序列数据，适用于…
-
-towardsdatascience.com](/create-synthetic-time-series-with-anomaly-signatures-in-python-c0b80a6c093c) 
+</create-synthetic-time-series-with-anomaly-signatures-in-python-c0b80a6c093c>  
 
 基本上，我们想要**合成具有异常和其他模式**的时间序列数据，自动标记它们，并将它们馈送给`tslearn`算法，以便向我们的 AI 代理教授这些模式。
 
@@ -175,8 +167,4 @@ towardsdatascience.com](/create-synthetic-time-series-with-anomaly-signatures-in
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而无需您支付额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

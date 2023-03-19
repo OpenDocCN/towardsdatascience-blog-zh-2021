@@ -54,8 +54,4 @@ GAN 可以成为评估人员论证系统抵御网络攻击能力的工具。**�
 
 GAN 的许多衍生产品，如 CGAN(条件性 GAN)、WGAN (Wasserstein GAN)和 LSTM-GAN(长期短期记忆 GAN)，以及其他几种基于生成和判别模型的产品，都可以处理和解决安全问题。**像 GAN 这样的生成过程对于开发应用程序的工程师来说是一个有价值的工具，在这些应用程序中，数据增强有助于提高功能的质量、可用性和效率。**
 
-[](https://medium.com/subscribe/@bhbenam) [## 每当贝扎德·贝南出版时，就收到一封电子邮件。
-
-### 每当贝扎德·贝南出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@bhbenam)
+<https://medium.com/subscribe/@bhbenam> 

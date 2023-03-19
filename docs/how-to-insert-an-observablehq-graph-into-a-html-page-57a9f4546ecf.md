@@ -178,14 +178,6 @@ new Runtime().module(define, name => {
 
 # 相关文章
 
-[](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [## 如何改进带注释的 D3.js 图形
+</how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5> [## 如何改进带注释的 D3.js 图形
 
-towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [](/how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32) [## 如何为数据科学构建高影响力的图表
-
-### 提高数据可视化技能的一些技巧
-
-towardsdatascience.com](/how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32) [](/how-to-build-a-basic-line-in-d3-js-38f67055043f) [## 如何在 D3.js 中构建基本行
-
-### 在处理数据时，最重要的一个方面是数据的表示。因此，不同的工具和…
-
-towardsdatascience.com](/how-to-build-a-basic-line-in-d3-js-38f67055043f)
+towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) </how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32>  </how-to-build-a-basic-line-in-d3-js-38f67055043f> 

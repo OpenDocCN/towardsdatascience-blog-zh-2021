@@ -134,11 +134,7 @@ if message_text != '': result = classify_message(model, message_text) st.write(r
 
 我们可以使用 LIME(可解释的机器学习库)为模型生成的预测添加一些解释。关于如何使用这个库的深入教程，请看下面我写的关于可解释机器学习的文章。
 
-[](/how-to-make-your-machine-learning-models-more-explainable-f20f75928f37) [## 如何让你的机器学习模型更容易解释
-
-### 尤其是在向非技术人员演示时。
-
-towardsdatascience.com](/how-to-make-your-machine-learning-models-more-explainable-f20f75928f37) 
+</how-to-make-your-machine-learning-models-more-explainable-f20f75928f37>  
 
 要使用 LIME 并在 web 应用程序中嵌入 LIME 解释，请将以下导入语句添加到代码的顶部。
 

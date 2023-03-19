@@ -20,11 +20,7 @@
 
 Gartner 预测 2022 年公共云收入将增长 16%:
 
-[](https://www.gartner.com/en/newsroom/press-releases/2021-11-10-gartner-says-cloud-will-be-the-centerpiece-of-new-digital-experiences) [## Gartner 表示，云将成为新数字体验的核心
-
-### Gartner 分析师 Milind Govekar 在本周的#GartnerSYM EMEA 会议上表示，没有业务…
-
-www.gartner.com](https://www.gartner.com/en/newsroom/press-releases/2021-11-10-gartner-says-cloud-will-be-the-centerpiece-of-new-digital-experiences) 
+<https://www.gartner.com/en/newsroom/press-releases/2021-11-10-gartner-says-cloud-will-be-the-centerpiece-of-new-digital-experiences>  
 
 所以，如果你是一家数字公司的决策者，是时候认真对待云了。如果你是一名工程师，可以通过创建免费账户或参加 MOOC 课程来开始学习云计算。
 
@@ -54,11 +50,7 @@ www.gartner.com](https://www.gartner.com/en/newsroom/press-releases/2021-11-10-g
 
 像 Kubernetes 一样，码头工人也在集装箱化中发挥了举足轻重的作用。不幸的是，该公司在其鼎盛时期努力将 Docker 货币化。Docker 最近宣布了从 2022 年开始的新订阅模式:
 
-[](https://docs.docker.com/subscription/) [## Docker 订阅概述
-
-### 2021 年 8 月 31 日，我们宣布对产品订阅进行更新和扩展，以提高工作效率…
-
-docs.docker.com](https://docs.docker.com/subscription/) 
+<https://docs.docker.com/subscription/>  
 
 其定价模式实惠。考虑到它对现代云原生开发的贡献，我祝愿 Docker 的新订阅模式取得成功。
 
@@ -70,21 +62,13 @@ docs.docker.com](https://docs.docker.com/subscription/)
 
 公共云安全的一个缺点是，如果它受到损害，那么数百万公司将受到影响。2021 年，公共云存在一些引人注目的安全漏洞:
 
-[](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb) [## 微软 Azure 云漏洞是“你能想象的最糟糕的”
-
-### 微软 Azure Cosmos DB 数据库产品中的一个缺陷让 3300 多名 Azure 客户无法完成…
-
-www.theverge.com](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb) 
+<https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb>  
 
 2022 年，公有云和 Linux 在安全方面会更加努力。
 
 关于安全性的另一个问题是当前的开源开发模型。一个开发人员经常在业余时间开发一个重要的核心模块/库。不幸的是，如果这个模块/库被破坏，那么世界上几乎所有的公司都会受到影响。log4j 漏洞就是这样一个备受关注的问题，它将影响全球近一半的 IT 公司:
 
-[](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html) [## 为什么你们 IT 人这么惨？Log4j2itis
-
-### 除了节日祝酒辞，你是否听到服务器房间里传来尖叫声和呻吟声？您的 IT 人员是否悲痛欲绝…
-
-www.computerworld.com](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html) 
+<https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html>  
 
 大公司是时候重新思考当前的开源模式了，在这种模式下，开发者在没有任何经济利益和支持的情况下维护一个核心软件。
 
@@ -96,19 +80,11 @@ www.computerworld.com](https://www.computerworld.com/article/3645709/why-are-you
 
 人们现在开始认真对待区块链，2022 年区块链技术会有一笔巨大的支出:
 
-[](https://www.investopedia.com/news/blockchain-solutions-grow-75-through-2022-idc/) [## 到 2022 年，区块链解决方案将增长 75 %: IDC
-
-### 国际数据公司发布了其全球半年度区块链支出指南的新更新，其中它…
-
-www.investopedia.com](https://www.investopedia.com/news/blockchain-solutions-grow-75-through-2022-idc/) 
+<https://www.investopedia.com/news/blockchain-solutions-grow-75-through-2022-idc/>  
 
 区块链经常被诟病大量消耗能源。许多区块链公司现在正计划从高能耗的“工作证明”模式转向节能的“利益证明”模式。Etherium 是一种流行且广泛使用的区块链，将于 2022 年转向绿色“利益证明”模式:
 
-[](https://www.coindesk.com/layer2/2021/12/29/how-ethereum-will-be-transformed-in-2022/) [## 以太坊将如何在 2022 年转型
-
-### 随着 2021 年接近尾声，2022 年有望成为合并之年，我想更深入地探讨五个…
-
-www.coindesk.com](https://www.coindesk.com/layer2/2021/12/29/how-ethereum-will-be-transformed-in-2022/) 
+<https://www.coindesk.com/layer2/2021/12/29/how-ethereum-will-be-transformed-in-2022/>  
 
 # 7.机器学习:自动化和无代码人工智能将使机器学习民主化
 
@@ -118,11 +94,7 @@ www.coindesk.com](https://www.coindesk.com/layer2/2021/12/29/how-ethereum-will-b
 
 在 2022 年，我们将看到 AutoML 的更多采用和创新，因为 AutoML 有着广阔的市场前景:
 
-[](https://www.prnewswire.com/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030--says-ps-intelligence-301437697.html) [## P&S 情报称，到 2030 年，汽车市场收入将超过 148.308 亿美元
-
-### 纽约 2021 年 12 月 6 日电/美通社/--从 2020 年的 3.462 亿美元开始，自动化机器学习市场预计…
-
-www.prnewswire.com](https://www.prnewswire.com/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030--says-ps-intelligence-301437697.html) 
+<https://www.prnewswire.com/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030--says-ps-intelligence-301437697.html>  
 
 AutoML 是更大的**无代码人工智能**趋势的一个子集。2022 年，无代码人工智能也将迎来普及和采用的高潮。
 
@@ -163,11 +135,7 @@ TensorFlow 仍然是最受欢迎的 AI 库:
 
 你可以看看我的帖子，找到适合你用例的数据库:
 
-[](/top-10-databases-to-use-in-2021-d7e6a85402ba) [## 2021 年将使用的 10 大数据库
-
-### MySQL，Oracle，PostgreSQL，微软 SQL Server，MongoDB，Redis，Elasticsearch，Cassandra，MariaDB，IBM Db2
-
-towardsdatascience.com](/top-10-databases-to-use-in-2021-d7e6a85402ba) 
+</top-10-databases-to-use-in-2021-d7e6a85402ba>  
 
 这种方法的一个缺点是，我们经常需要一个应用程序有多个数据库。有一个新的趋势，每个数据库将提供不止一个模型，并服务于不止一个用例。 **PostgreSQL** (多模型) **Azure CosmosDB** (多模型多用途) **SingleStore** (OLAP 和 OLTP)就是这些数据库的前身。同样在 2022 年，我们将看到提供多模型和多用途的其他数据库。
 
@@ -212,11 +180,7 @@ towardsdatascience.com](/top-10-databases-to-use-in-2021-d7e6a85402ba)
 
 如果你想了解设计微服务架构的最佳实践，你可以阅读我的博客:
 
-[](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) 
+</microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41>  
 
 我们目前有两种前端应用程序开发的选择:整体式和微型前端。我们经常低估前端应用程序的复杂性，因为大多数架构师来自后端开发。但是前端独石和后端独石一样糟糕。因此，对于企业前端开发，微前端将是 2022 年的首选架构。好消息是所有流行的 JavaScript 前端框架都支持微前端。
 
@@ -273,11 +237,7 @@ Spring MVC/Spring Boot 是 Java 中最主流的服务器端框架。如前所述
 
 最后，Spring 已经声明了 **Spring Native** ，它将使用 GraalVM 进行云原生开发:
 
-[](https://spring.io/blog/2021/03/11/announcing-spring-native-beta) [## 宣布春季原生测试版！
-
-### 今天，经过一年半的工作，我很高兴地宣布，我们将推出 Spring Native 的测试版…
-
-spring.io](https://spring.io/blog/2021/03/11/announcing-spring-native-beta) 
+<https://spring.io/blog/2021/03/11/announcing-spring-native-beta>  
 
 它仍处于试验阶段，将与 Spring 6 一起发布(2022 年 10 月)。Spring Native 的一个优点是，您可以将您的 Spring MVC 项目转换为 Spring Native 项目，而无需任何/很少的代码重写。
 
@@ -313,16 +273,4 @@ Google 基于旧的 RPC(远程过程调用)技术创建了 gRPC 作为服务器�
 
 # 类似文章
 
-[](/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351) [## 每个开发人员都应该遵循的 20 个惊人的 GitHub 库
-
-### 一个 GitHub 库集合，用于提高您的开发技能和促进您的职业发展
-
-towardsdatascience.com](/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351) [](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [](/top-10-databases-to-use-in-2021-d7e6a85402ba) [## 2021 年将使用的 10 大数据库
-
-### MySQL，Oracle，PostgreSQL，微软 SQL Server，MongoDB，Redis，Elasticsearch，Cassandra，MariaDB，IBM Db2
-
-towardsdatascience.com](/top-10-databases-to-use-in-2021-d7e6a85402ba)
+</20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351>  </microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41>  </top-10-databases-to-use-in-2021-d7e6a85402ba> 

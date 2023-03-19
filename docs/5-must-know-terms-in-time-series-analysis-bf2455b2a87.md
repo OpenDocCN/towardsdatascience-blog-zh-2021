@@ -73,11 +73,7 @@ X 和 Y 的协方差
 
 如果你想了解更多，我试着更详细地解释协方差和相关性:
 
-[](https://medium.com/swlh/covariance-vs-correlation-explained-34d1b4142e28) [## 协方差与相关性—已解释
-
-### 举例详细说明
-
-medium.com](https://medium.com/swlh/covariance-vs-correlation-explained-34d1b4142e28) 
+<https://medium.com/swlh/covariance-vs-correlation-explained-34d1b4142e28>  
 
 回到我们关于自协方差的讨论，回想一下时间序列是一个随机过程的实现，它可以被定义为一系列随机变量(X₁、X₂、x₃……)。
 
@@ -183,10 +179,6 @@ ACF 图(图片由作者提供)
 
 你可以成为[媒介会员](https://sonery.medium.com/membership)来解锁我的作品的全部访问权限，以及媒介的其余部分。如果您使用以下链接，我将收取您的一部分会员费，无需您支付额外费用。
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

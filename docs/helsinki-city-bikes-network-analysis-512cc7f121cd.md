@@ -22,7 +22,7 @@
 
 赫尔辛基城市自行车网络 2020。图片由作者提供。
 
-运输网络通常表示永久性的物理轨道，如公路和铁路，或者定期服务。与集体交通(定期巴士和火车)不同，个人交通(步行、自行车共享)按需发生，在空间上更加灵活。由于这一点，共享移动系统拥有巨大的自我组织[](https://en.wikipedia.org/wiki/Self-organization#:~:text=Self%2Dorganization%2C%20also%20called%20(,control%20by%20any%20external%20agent.)**的潜力。需要强调的是，城市自行车网络的边缘不是预先确定的，**它们是由用户生成的。于是，网络的结构** [**从穿过城市的人流中浮现**](https://en.wikipedia.org/wiki/Emergence) **。**居民的重复出行逐渐形成了使用模式，并形成了自行车共享网络的结构。反过来，该信息可以用于网络发展的反馈回路中。自行车需求的上升或下降可以提供对某些地区更广泛的社会、经济和地理因素的洞察。下图显示了 2020 年赫尔辛基不同地区的自行车使用情况。**
+运输网络通常表示永久性的物理轨道，如公路和铁路，或者定期服务。与集体交通(定期巴士和火车)不同，个人交通(步行、自行车共享)按需发生，在空间上更加灵活。由于这一点，共享移动系统拥有巨大的自我组织<https://en.wikipedia.org/wiki/Self-organization#:~:text=Self%2Dorganization%2C%20also%20called%20(,control%20by%20any%20external%20agent.>**的潜力。需要强调的是，城市自行车网络的边缘不是预先确定的，**它们是由用户生成的。于是，网络的结构** [**从穿过城市的人流中浮现**](https://en.wikipedia.org/wiki/Emergence) **。**居民的重复出行逐渐形成了使用模式，并形成了自行车共享网络的结构。反过来，该信息可以用于网络发展的反馈回路中。自行车需求的上升或下降可以提供对某些地区更广泛的社会、经济和地理因素的洞察。下图显示了 2020 年赫尔辛基不同地区的自行车使用情况。**
 
 **![](img/6de67e862b531a84e4f00bb823525341.png)**
 
@@ -155,13 +155,9 @@
 
 **这篇文章背后的代码可以在这里找到:**
 
-**[](https://github.com/Geometrein/helsinki-city-bikes) [## GitHub-geomet rein/赫尔辛基-城市-自行车:赫尔辛基城市自行车系统分析。
+**<https://github.com/Geometrein/helsinki-city-bikes>  
 
-### 这个存储库包含了收集、格式化和分析赫尔辛基市公开可用数据所需的代码…
-
-github.com](https://github.com/Geometrein/helsinki-city-bikes) 
-
-*   [](https://www.kaggle.com/geometrein/helsinki-city-bike-network-analysis)
+*   <https://www.kaggle.com/geometrein/helsinki-city-bike-network-analysis>
 
 # **参考**
 

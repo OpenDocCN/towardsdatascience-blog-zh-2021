@@ -157,10 +157,6 @@ source $ZSH/oh-my-zsh.sh*
 
 *我的另外几篇文章你可能会觉得很值得一读:*
 
-*[](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) [## 将 Docker 与 VSCode 结合使用的好方法
+*</the-nice-way-to-use-docker-with-vscode-f475c49aab1b> [## 将 Docker 与 VSCode 结合使用的好方法
 
-towardsdatascience.com](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) [](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b) [## 你应该知道的 7 个很棒的 Jupyter 工具
-
-### 一些有用的技巧和窍门，我用在了几乎所有涉及 Jupyter 笔记本的数据科学项目中
-
-pub.towardsai.net](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b)*
+towardsdatascience.com](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) <https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b> *

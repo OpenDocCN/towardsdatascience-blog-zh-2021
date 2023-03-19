@@ -85,10 +85,6 @@ spl_mod <- smooth.spline(age, wage, cv= TRUE)
 
 ## 参考资料:
 
-[](https://stats.stackexchange.com/questions/41369/optimal-choice-of-smooth-spline-parameter) [## 光滑样条参数的最佳选择？
-
-### 感谢您为交叉验证提供答案！请务必回答问题。提供详细信息并分享…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/41369/optimal-choice-of-smooth-spline-parameter) 
+<https://stats.stackexchange.com/questions/41369/optimal-choice-of-smooth-spline-parameter>  
 
 詹姆斯、加雷斯等人*统计学习导论*。第 112 卷。纽约:施普林格，2013 年。

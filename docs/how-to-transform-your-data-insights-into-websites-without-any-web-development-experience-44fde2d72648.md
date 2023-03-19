@@ -212,11 +212,7 @@ subway.christopherkindl.com 快照-作者插图
 
 # GitHub 知识库
 
-[](https://github.com/christopherkindl/python-data-to-sql-database) [## Christopher kindl/python-数据到 SQL-数据库
-
-### 将数据从 Python 文件传输到 PostgreSQL 数据库-Christopher kindl/Python-data-to-SQL-database
-
-github.com](https://github.com/christopherkindl/python-data-to-sql-database) 
+<https://github.com/christopherkindl/python-data-to-sql-database>  
 
 *参考文献:*
 

@@ -18,11 +18,7 @@
 
 > 关于 MLP 混合器是否是“无 conv”的，曾经有过一些争议。从[权重和偏见](https://medium.com/u/6fb4b78f0265?source=post_page-----20dbc7587fe4--------------------------------)浏览此博客以了解更多信息，
 
-[](https://wandb.ai/wandb_fc/pytorch-image-models/reports/Is-MLP-Mixer-a-CNN-in-Disguise---Vmlldzo4NDE1MTU) [## MLP 混合器是一个伪装的 CNN 吗？
-
-### 最近，一种新的建筑——MLP 混合器:全 MLP 视觉建筑(Tolstikhin 等人，2021 年)——
-
-wandb.ai](https://wandb.ai/wandb_fc/pytorch-image-models/reports/Is-MLP-Mixer-a-CNN-in-Disguise---Vmlldzo4NDE1MTU) 
+<https://wandb.ai/wandb_fc/pytorch-image-models/reports/Is-MLP-Mixer-a-CNN-in-Disguise---Vmlldzo4NDE1MTU>  
 
 我们将更多地讨论 MLP 混合器的架构和相关的底层技术。最后，我们提供了一个使用 TensorFlow Keras 的 MLP 混合器的代码实现。
 
@@ -32,11 +28,7 @@ wandb.ai](https://wandb.ai/wandb_fc/pytorch-image-models/reports/Is-MLP-Mixer-a-
 
 我也使用 MLP 混合器进行文本分类，
 
-[](https://www.kaggle.com/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) [## 基于 MLP 混合器的推文分类
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用自然语言处理中的数据应对灾难…
-
-www.kaggle.com](https://www.kaggle.com/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) 
+<https://www.kaggle.com/shubham0204/tweet-classification-with-mlp-mixers-tf-keras>  
 
 ## 📃 ***内容***
 
@@ -58,19 +50,7 @@ www.kaggle.com](https://www.kaggle.com/shubham0204/tweet-classification-with-mlp
 
 [Transformers](https://arxiv.org/abs/1706.03762) 是为 NLP 问题而创造的，但在图像分类方面已经显示出相当大的成果。我将在这里为[视觉变形金刚](https://arxiv.org/abs/2010.11929) ( ViTs)留下一些资源，
 
-[](https://keras.io/examples/vision/image_classification_with_vision_transformer/) [## Keras 文档:使用视觉转换器进行图像分类
-
-### 作者:Khalid Salama 创建日期:2021/01/18 最近修改时间:2021/01/18 描述:实现愿景…
-
-keras.io](https://keras.io/examples/vision/image_classification_with_vision_transformer/) [](https://www.analyticsvidhya.com/blog/2021/03/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vision-transformers/) [## 一幅图像相当于 16x16 个字:用于大规模图像识别的变形金刚(视觉变形金刚)
-
-### 这篇文章作为数据科学博客的一部分发表。简介虽然变压器架构具有…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/03/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vision-transformers/) [](/are-you-ready-for-vision-transformer-vit-c9e11862c539) [## 你准备好接受视觉变形器(ViT)了吗？
-
-### 《一张图像抵得上 16x16 个字:大规模图像识别的变形金刚》可能会给计算机带来又一次突破…
-
-towardsdatascience.com](/are-you-ready-for-vision-transformer-vit-c9e11862c539) 
+<https://keras.io/examples/vision/image_classification_with_vision_transformer/>  <https://www.analyticsvidhya.com/blog/2021/03/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vision-transformers/>  </are-you-ready-for-vision-transformer-vit-c9e11862c539>  
 
 # 🤠多层感知器(MLP)和 GELU 激活函数
 
@@ -130,11 +110,7 @@ towardsdatascience.com](/are-you-ready-for-vision-transformer-vit-c9e11862c539)
 
 这里有一个很好的博客解释了各种激活功能(包括 GELU)，
 
-[](https://mlfromscratch.com/activation-functions-explained/#/) [## 激活功能解释-格卢，SELU，ELU，雷卢和更多
-
-### 在计算每一层的激活值时，我们使用一个激活函数…
-
-mlfromscratch.com](https://mlfromscratch.com/activation-functions-explained/#/) 
+<https://mlfromscratch.com/activation-functions-explained/#/>  
 
 # 🔧MLP 混频器架构组件
 
@@ -225,19 +201,7 @@ mlfromscratch.com](https://mlfromscratch.com/activation-functions-explained/#/)
 
 *TF-Keras 团队提供了一个`tf.keras.layers.LayerNormalization`层来执行这个操作。以下是一些了解图层规范化的资源，*
 
-*[](https://leimao.github.io/blog/Layer-Normalization/) [## 解释了层标准化
-
-### 最近我在机器翻译的 Transformer 模型中遇到了层规范化，我发现…
-
-雷猫. github.io](https://leimao.github.io/blog/Layer-Normalization/) [](/different-normalization-layers-in-deep-learning-1a7214ff71d6) [## 深度学习中的不同规范化层
-
-### 目前，深度学习已经彻底改变了许多子领域，如自然语言处理，计算机视觉…
-
-towardsdatascience.com](/different-normalization-layers-in-deep-learning-1a7214ff71d6) [](https://www.programmersought.com/article/62405248279/) [## 批规范化和层规范化的区别-程序员寻求
-
-### 网上有很多解释，包括下面这张图光靠图片是不够理解的…
-
-www.programmersought.com](https://www.programmersought.com/article/62405248279/) 
+*<https://leimao.github.io/blog/Layer-Normalization/>  </different-normalization-layers-in-deep-learning-1a7214ff71d6>  <https://www.programmersought.com/article/62405248279/>  
 
 现在，有了混频器层的完整知识，我们可以继续实现我们的 MLP 混频器模型进行分类。该模型将接受输入 RGB 图像并输出类别概率。
 

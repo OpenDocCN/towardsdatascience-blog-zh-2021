@@ -16,11 +16,7 @@
 
 在这个垃圾邮件分类器的第 1 部分中，我展示了如何使用 nltk 包对文本进行词干分析和词条分类，然后将其输入到分类器模型中进行训练，最后评估模型的性能。我已经展示了朴素贝叶斯、SVC 和随机森林作为电子邮件分类器的性能。
 
-[](/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508) [## 垃圾邮件检测的 ML 分类器性能比较-第 1 部分
-
-### 应用朴素贝叶斯、SVC 和随机森林进行邮件分类
-
-towardsdatascience.com](/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508) 
+</ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508>  
 
 在本文中，我将演示如何使用 Tensorflow 对电子邮件进行标记和有效分类。让我们开始吧。
 

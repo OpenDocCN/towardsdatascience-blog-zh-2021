@@ -20,11 +20,7 @@ Patryk Sobczak 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果您是数据科学领域的新手，并且希望更加精通以下领域，我建议您通过下面提供的链接查看我以前的一篇文章。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # 1.缺乏数据:
 
@@ -54,11 +50,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 如果你有兴趣更深入地了解让你的数据科学、机器学习和人工智能项目以正确的顺序和完美的步骤顺序进行的最终步骤，请通过下面提供的链接查看我以前关于这个主题的一篇文章。
 
-[](/10-step-ultimate-guide-for-machine-learning-and-data-science-projects-ed61ae9aa301) [## 机器学习和数据科学项目的 10 步终极指南！
-
-### 详细讨论构建您的机器学习和数据科学项目的最佳方法…
-
-towardsdatascience.com](/10-step-ultimate-guide-for-machine-learning-and-data-science-projects-ed61ae9aa301) 
+</10-step-ultimate-guide-for-machine-learning-and-data-science-projects-ed61ae9aa301>  
 
 # 3.中途失去动力:
 
@@ -74,7 +66,7 @@ towardsdatascience.com](/10-step-ultimate-guide-for-machine-learning-and-data-sc
 
 通常情况下，你应该能够轻松地找到你正在努力解决的问题的可靠答案。然而，如果您无法获得并找到所需的解决方案，下面的一篇文章可以帮助您获得数据科学和机器学习方面的最佳免费工具。
 
-[](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
+</7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e> [## 数据科学和机器学习的 7 个最佳免费工具
 
 towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) 
 
@@ -98,15 +90,11 @@ towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning
 
 为了更深入地了解图形处理单元及其对深度学习的精确要求，我强烈推荐查看我以前的一篇文章，关于你真的需要一个用于深度学习的 GPU 吗？
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 如果你是一个初学者，刚刚开始开发深度学习项目，并且不知道最适合你的 PC 构建的架构类型，我建议你查看我以前的一篇文章，该文章介绍了在每个预算范围内用于深度学习的最佳 PC 构建。
 
-[](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
+</best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8> [## 在各种预算范围内，最适合深度学习的电脑
 
 towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) 
 
@@ -152,36 +140,12 @@ towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅电子邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) 
+</how-to-write-code-effectively-in-python-105dc5f2d293>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

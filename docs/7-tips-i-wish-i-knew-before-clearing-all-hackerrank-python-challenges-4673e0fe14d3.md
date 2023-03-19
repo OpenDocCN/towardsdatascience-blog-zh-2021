@@ -133,8 +133,4 @@ ackerrank 提供多种语言和不同水平的认证。对于 Python，他们只
 
 我希望你觉得这篇文章读起来很有趣，并从中学习到一些东西。如果你想更多地了解我对数据科学的思考、实践和写作，可以考虑报名成为 Medium 会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://lymenlee.medium.com/membership) [## 通过我的推荐链接——李立伟加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lymenlee.medium.com](https://lymenlee.medium.com/membership)
+<https://lymenlee.medium.com/membership> 

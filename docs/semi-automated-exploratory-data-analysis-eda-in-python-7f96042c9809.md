@@ -87,15 +87,7 @@ import is_string_dtype, is_numeric_dtype
 
 处理缺失值是一个兔子洞，不是一两句话能盖住的。如果您想知道如何处理模型生命周期中的缺失值，并了解不同类型的缺失数据，下面的一些文章可能会有所帮助:
 
-[](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## 使用 Python scikit 的简单逻辑回归-学习
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [](https://medium.com/analytics-vidhya/how-to-address-common-data-quality-issues-2cb58a09b225) [## 如何在没有代码的情况下解决常见的数据质量问题
-
-### 使用 Tableau 解决不一致的值
-
-medium.com](https://medium.com/analytics-vidhya/how-to-address-common-data-quality-issues-2cb58a09b225) 
+</simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  <https://medium.com/analytics-vidhya/how-to-address-common-data-quality-issues-2cb58a09b225>  
 
 在本文中，我们将着重于确定缺失值的数量。`isnull().sum()`返回每列缺失值的数量。
 
@@ -119,11 +111,7 @@ medium.com](https://medium.com/analytics-vidhya/how-to-address-common-data-quali
 
 这是唯一需要一些人类判断的部分，因此不容易自动化。不要害怕这个术语。我认为特征工程是一种奇特的说法，即转换手头的数据，使其更有洞察力。有几种常见的技术，例如，将出生日期转换为年龄，将日期分解为年、月、日和宁滨数值。但是一般的规则是，这个过程应该根据手头的数据和要实现的目标来定制。如果你想了解更多这些技术，我发现这篇文章[“机器学习的特征工程的基本技术”](/feature-engineering-for-machine-learning-3a5e293a5114)在实践中带来了特征工程的整体观点。如果您想了解更多关于特征选择和特征工程技术的信息，您可能会发现这些信息很有帮助:
 
-[](/data-transformation-and-feature-engineering-e5181ef274b5) [## 数据转换和特征工程
-
-### 如何为您的数据选择合适的技术
-
-towardsdatascience.com](/data-transformation-and-feature-engineering-e5181ef274b5) [](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## Python 中的特征选择和 EDA
+</data-transformation-and-feature-engineering-e5181ef274b5>  </feature-selection-and-eda-in-python-c6c4eb1058a3> [## Python 中的特征选择和 EDA
 
 towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) 
 
@@ -183,11 +171,7 @@ df = df.drop(['Restaurant', 'City'], axis=1)
 
 如果您有兴趣了解哪种图表类型最适合哪种数据类型，请阅读我的文章[“如何选择最合适的图表”](https://www.visual-design.net/post/choose-the-right-chart)。
 
-[](/which-chart-to-choose-4b21929539eb) [## 如何选择最合适的图表
-
-### 折线图、条形图、饼图……它们讲述了不同的故事
-
-towardsdatascience.com](/which-chart-to-choose-4b21929539eb) 
+</which-chart-to-choose-4b21929539eb>  
 
 **分类变量→条形图**
 
@@ -316,18 +300,6 @@ boxplot 样本输出集(图片由作者提供，来自[网站](https://www.visua
 
 ## 更多相关文章
 
-[](https://link.medium.com/2MOB57Y1lfb) [## 通过 YouTube 提升 7 项数据科学技能
-
-### 我们都熟悉现代游戏设计，冠军或英雄总是配备有某些属性…
-
-link.medium.com](https://link.medium.com/2MOB57Y1lfb) [](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## 使用 Python scikit 的简单逻辑回归-学习
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [## 2021 年数据科学家关注的 15 大网站
-
-### 启发学习的网站和博客
-
-medium.com](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) 
+<https://link.medium.com/2MOB57Y1lfb>  </simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  <https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d>  
 
 *原载于 2021 年 2 月 28 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)*。*

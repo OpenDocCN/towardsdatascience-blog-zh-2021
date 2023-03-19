@@ -18,11 +18,7 @@
 
 请随意查看评论良好的源代码。这真的有助于理解整个算法。
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 链接分析算法的 Python 实现。为 chonyy/PageRank-HITS-SimRank 的发展作出贡献
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank) 
+<https://github.com/chonyy/PageRank-HITS-SimRank>  
 
 首先，我们要解释什么是权威和枢纽。HITS 使用中心和权限来定义网页之间的递归关系。
 
@@ -224,24 +220,12 @@ HITS 算法的主要缺点是它依赖于查询。从原始论文开始，链接
 
 因此，我想介绍另一个独立于查询的链接分析算法，PageRank 算法。请随意查看！
 
-[](https://chonyy.medium.com/pagerank-3c568a7d2332) [## PageRank:链接分析解释和 Python 实现
-
-### 启动谷歌的算法
-
-chonyy.medium.com](https://chonyy.medium.com/pagerank-3c568a7d2332) 
+<https://chonyy.medium.com/pagerank-3c568a7d2332>  
 
 另外，如果你对链接分析中的相似性度量感兴趣。
 
-[](https://chonyy.medium.com/simrank-similarity-analysis-1d8d5a18766a) [## SimRank:图形中的相似性分析
-
-### 节点的相似性度量
-
-chonyy.medium.com](https://chonyy.medium.com/simrank-similarity-analysis-1d8d5a18766a) 
+<https://chonyy.medium.com/simrank-similarity-analysis-1d8d5a18766a>  
 
 # 源代码
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 🎏著名链接分析算法的 Python 实现。HITS 算法 PageRank 算法 SimRank 算法得到一个…
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank)
+<https://github.com/chonyy/PageRank-HITS-SimRank> 

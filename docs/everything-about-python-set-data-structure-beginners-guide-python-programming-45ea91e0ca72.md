@@ -183,4 +183,4 @@ set()
 
 如果你有任何问题或者对编辑有任何建议，请在下面留下你的评论。
 
-*原载于 2021 年 12 月 6 日 https://pyshark.com*[](https://pyshark.com/everything-about-python-set-data-structure/)**。**
+*原载于 2021 年 12 月 6 日 https://pyshark.com*<https://pyshark.com/everything-about-python-set-data-structure/>**。**

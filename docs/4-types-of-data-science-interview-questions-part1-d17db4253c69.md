@@ -138,8 +138,4 @@ DS 面试可以是一连串的多轮面试。对于大多数公司来说，进�
 
 *在这组问题中，您看到了强烈的技术焦点，在下一篇文章中，您将注意到业务焦点，即案例研究和基于指标的问题。继续阅读-*
 
-*[](https://learnwithdivya.medium.com/4-types-of-data-science-interview-questions-part2-106f5bf7218d) [## 数据科学面试问题的 4 种类型—第 2 部分
-
-### 具有强烈商业焦点的真实问题
-
-learnwithdivya.medium.com](https://learnwithdivya.medium.com/4-types-of-data-science-interview-questions-part2-106f5bf7218d)*
+*<https://learnwithdivya.medium.com/4-types-of-data-science-interview-questions-part2-106f5bf7218d> *

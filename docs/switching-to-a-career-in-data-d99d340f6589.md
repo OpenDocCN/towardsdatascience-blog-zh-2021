@@ -30,11 +30,7 @@
 
 当我过渡到数据分析时，这种策略最适合我。我不会详述我的个人经历，因为我写了一篇不同的文章:
 
-[](/writing-on-medium-got-me-a-job-in-data-analytics-586564d29264) [## 在介质上写作让我得到了一份数据分析的工作
-
-### 这是我从工业工程过渡到数据分析和数据科学的故事
-
-towardsdatascience.com](/writing-on-medium-got-me-a-job-in-data-analytics-586564d29264) 
+</writing-on-medium-got-me-a-job-in-data-analytics-586564d29264>  
 
 你可以通过多种媒介为自己创建一个品牌——创建一个 youtube 频道，创建一个作品集网站，在你的 GitHub 个人资料中努力展示技术产品，等等。所有这些都可以向雇主展示你的技能和兴趣，如果你在数据领域没有太多的工作经验，这些都会特别有帮助。
 

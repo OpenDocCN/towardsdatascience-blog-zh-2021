@@ -62,11 +62,7 @@
 
 感谢阅读！如果您没有看到我在这个系列中的第一篇文章，您可以在这里找到它:
 
-[](/the-life-of-a-data-analyst-263050370272) [## 数据分析师的生活
-
-### 如图纸所示
-
-towardsdatascience.com](/the-life-of-a-data-analyst-263050370272) 
+</the-life-of-a-data-analyst-263050370272>  
 
 如果您不想错过本系列的下一篇文章，请注册我的电子邮件列表！
 

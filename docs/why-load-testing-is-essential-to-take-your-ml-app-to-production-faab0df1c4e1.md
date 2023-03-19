@@ -91,11 +91,7 @@
 
 # **整个代码和结论**
 
-**[](https://github.com/RamVegiraju/Locust-ML) [## RamVegiraju/Locust-ML
-
-### 为 ML 回归模型提供服务的 Flask 应用程序的蝗虫脚本-RamVegiraju/蝗虫-ML
-
-github.com](https://github.com/RamVegiraju/Locust-ML) 
+**<https://github.com/RamVegiraju/Locust-ML>  
 
 要访问该应用程序的完整代码，请查看上面的链接。Locust 是一种非常干净的方法，可以帮助您以高效而简单的方式对应用程序进行负载测试。关于负载/性能测试，还有许多其他的软件或方法，但是我只想强调负载测试在将你的应用提升到生产水平时的普遍重要性。从**节约成本**到**优化**您的**资源**，负载测试对于了解您的端点实际上如何应对您在实时场景中预期的流量至关重要。
 

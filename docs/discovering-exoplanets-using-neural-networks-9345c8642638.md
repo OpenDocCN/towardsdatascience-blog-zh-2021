@@ -110,4 +110,4 @@
 
 ***所有的数据和代码都可以在***[***github***](https://github.com/blendaguedes/find-exoplanets)***库中找到。***
 
-*原载于*[](https://github.com/blendaguedes/find-exoplanets/)**。**
+*原载于*<https://github.com/blendaguedes/find-exoplanets/>**。**

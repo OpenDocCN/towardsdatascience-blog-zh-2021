@@ -131,4 +131,4 @@ fuzzywuzzy 库中的简单比率方法计算两个字符串之间的标准 Leven
 
 如果你有任何问题或者对编辑有任何建议，请在下面留下你的评论。
 
-*原载于 2021 年 2 月 6 日 https://pyshark.com*[](https://pyshark.com/fuzzy-string-matching-using-python/)**。**
+*原载于 2021 年 2 月 6 日 https://pyshark.com*<https://pyshark.com/fuzzy-string-matching-using-python/>**。**

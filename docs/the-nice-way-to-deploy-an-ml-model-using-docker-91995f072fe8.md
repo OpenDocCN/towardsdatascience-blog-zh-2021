@@ -14,11 +14,7 @@
 
 > 如果您正在寻找一个包含为您的项目手动构建和运行 docker 映像的完整步骤的指南，您可以在本文中找到它:
 
-[](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1) [## 如何对您的数据科学项目进行分类——快速指南
-
-### 我是如何一直用这些简单易行的步骤做到的！
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1) 
+<https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1>  
 
 然而，在本教程中，我将介绍一个更简单的过程来简化 Docker 开发，这个过程完全可以在 VSCode 本身的帮助下完成。
 
@@ -131,11 +127,7 @@ python main.py
 
 ## [***成为一名中等会员，从不错过我每周发表的任何一篇数据科学文章。***](https://ipom.medium.com/membership/) ***在此加入👇***
 
-[](https://ipom.medium.com/membership/) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership/) 
+<https://ipom.medium.com/membership/>  
 
 # 和我联系吧！
 
@@ -145,12 +137,4 @@ ipom.medium.com](https://ipom.medium.com/membership/)
 
 我的另外几篇文章你可能会感兴趣:
 
-[](/heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358) [## 以下是如何在 Deepnote 上使用 Jupyter 笔记本的方法
-
-### 在本教程中，了解 Google Colab 的完美替代方案！
-
-towardsdatascience.com](/heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358) [](/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2) [## 管理数据科学工作流的好方法
-
-### 在初学者示例中学习使用 Prefect 构建 ETL 管道
-
-towardsdatascience.com](/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2)
+</heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358>  </the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2> 

@@ -29,7 +29,7 @@ Airflow 不仅出色地协调了数据拉取本身，而且与 Python 库(如 SM
 
 此外，使用 SMTP 的 Python 中的电子邮件自动化依赖于正确配置的发件人电子邮件地址。虽然可以使用许多不同的电子邮件提供商，但我发现 Gmail 让这变得非常容易。
 
-为了让发件人的电子邮件正确地使用 SMTP 和 Python，您需要按照这里的说明[](https://realpython.com/python-send-email/)**(在选项 1:设置 Gmail 开发帐户下)。这应该是一个很快的步骤，你需要将其中一个安全设置更改为“ [*允许不太安全的应用程序*到](https://myaccount.google.com/lesssecureapps)*”。***
+为了让发件人的电子邮件正确地使用 SMTP 和 Python，您需要按照这里的说明<https://realpython.com/python-send-email/>**(在选项 1:设置 Gmail 开发帐户下)。这应该是一个很快的步骤，你需要将其中一个安全设置更改为“ [*允许不太安全的应用程序*到](https://myaccount.google.com/lesssecureapps)*”。***
 
 ***当这两个先决条件都满足时，您将需要着手在本地机器上安装气流(如果您还没有这样做的话)。***
 

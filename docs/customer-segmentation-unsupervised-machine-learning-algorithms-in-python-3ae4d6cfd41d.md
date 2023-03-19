@@ -179,11 +179,7 @@ DBSCAN 中有 3 个主要的数据点:核心点、边界点以及 DBSCAN 擅长�
 
 有关代码及其实现的更多信息，请访问我们的 github 资源库:
 
-[](https://github.com/ZarahShibli/Customers-Segmentation.git) [## ZarahShibli/客户细分
-
-### 客户细分是根据共同特征将客户分组的过程，因此公司可以…
-
-github.com](https://github.com/ZarahShibli/Customers-Segmentation.git) 
+<https://github.com/ZarahShibli/Customers-Segmentation.git>  
 
 或者你可以查看我们的仪表盘，查看我们发现的全部信息:[https://customer-segmentation-tuwaiq-2.herokuapp.com/](https://customer-segmentation-tuwaiq-2.herokuapp.com/)
 
@@ -205,11 +201,7 @@ github.com](https://github.com/ZarahShibli/Customers-Segmentation.git)
 
 [https://towards data science . com/DBS can-clustering-explained-97556 a2 ad 556](/dbscan-clustering-explained-97556a2ad556)
 
-[](https://stats.stackexchange.com/questions/88872/a-routine-to-choose-eps-and-minpts-for-dbscan) [## 为 DBSCAN 选择 eps 和 minPts 的程序
-
-### 感谢您为交叉验证提供答案！请务必回答问题。提供详细信息并分享…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/88872/a-routine-to-choose-eps-and-minpts-for-dbscan) 
+<https://stats.stackexchange.com/questions/88872/a-routine-to-choose-eps-and-minpts-for-dbscan>  
 
 [https://towards data science . com/how-DBS can-works-and-why-should-I-use-it-443 B4 a 191 c 80](/how-dbscan-works-and-why-should-i-use-it-443b4a191c80)
 

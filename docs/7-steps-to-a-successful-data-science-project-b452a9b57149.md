@@ -85,7 +85,7 @@ D 数据科学项目对于任何进入该领域的人以及建立个人投资组
 
 ***EDA 有四种主要类型:***
 
-*   *****单变量非图形:**对总体进行观察，了解单个变量的样本分布。*(例如*[](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/statistical+language+-+measures+of+spread#:~:text=Measures%20of%20spread%20describe%20how,range%2C%20variance%20and%20standard%20deviation.)**[](https://www.scribbr.com/statistics/central-tendency/#:~:text=of%20central%20tendency%3F-,Measures%20of%20central%20tendency%20help%20you%20find%20the%20middle%2C%20or,in%20an%20ordered%20data%20set.)**【离群点检测】)*******
+*   *****单变量非图形:**对总体进行观察，了解单个变量的样本分布。*(例如*<https://www.abs.gov.au/websitedbs/D3310114.nsf/home/statistical+language+-+measures+of+spread#:~:text=Measures%20of%20spread%20describe%20how,range%2C%20variance%20and%20standard%20deviation.>**<https://www.scribbr.com/statistics/central-tendency/#:~:text=of%20central%20tendency%3F-,Measures%20of%20central%20tendency%20help%20you%20find%20the%20middle%2C%20or,in%20an%20ordered%20data%20set.>**【离群点检测】)*******
 *   ******单变量图形:**单个变量的图形分析。*(例如直方图、箱线图、茎和叶)*****
 *   ******多元非图形:**显示两个或多个变量之间关系的技术。*(如协方差、相关性)*****
 *   ******多变量图形:**以图形方式显示两个或多个变量之间的关系。*(例如条形图、散点图)*****

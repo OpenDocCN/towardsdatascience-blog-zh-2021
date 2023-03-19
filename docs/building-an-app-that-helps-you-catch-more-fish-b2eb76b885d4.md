@@ -77,11 +77,7 @@ CT DEEP [鳟鱼放养报告](https://portal.ct.gov/-/media/DEEP/fishing/weekly_r
 
 如果你更喜欢在本地运行程序，有很多很棒的教程教你如何使用像任务调度器这样的工具。
 
-[](/automate-your-python-scripts-with-task-scheduler-661d0a40b279) [## 使用任务调度器自动化您的 Python 脚本
-
-### Windows 任务计划程序抓取替代数据
-
-towardsdatascience.com](/automate-your-python-scripts-with-task-scheduler-661d0a40b279) 
+</automate-your-python-scripts-with-task-scheduler-661d0a40b279>  
 
 我希望你觉得这个教程是有用的，令人愉快的。如果您有任何问题或反馈，请联系我们。如果您对 Heroku 上更深入的部署指南感兴趣，请随时在下面发表评论！
 

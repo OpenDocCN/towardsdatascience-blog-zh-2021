@@ -134,8 +134,4 @@ PCA 分析的结果。左:奇异值分布。中间和右边:两种主要 PCA 模
 
 > *想看更多这方面的内容？查看我关于[低秩结构和数据驱动建模](https://loiseau-jc.medium.com/list/lowrank-structure-and-datadriven-modeling-8f39635a90ea)的其他文章，或者只是我的[机器学习基础知识](https://loiseau-jc.medium.com/list/machine-learning-basics-0baf10d8f8b5)！*
 
-*[](/pixels-are-not-created-equal-b3ae4b36ffbc) [## 像素并非生而平等
-
-### 利用低秩结构找到图像中最重要的像素。
-
-towardsdatascience.com](/pixels-are-not-created-equal-b3ae4b36ffbc)*
+*</pixels-are-not-created-equal-b3ae4b36ffbc> *

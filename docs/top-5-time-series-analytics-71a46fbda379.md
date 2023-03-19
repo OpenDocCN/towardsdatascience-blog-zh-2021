@@ -184,19 +184,11 @@ FFT 信号(图片由作者提供)
 
 请**订阅**每当我发布一个新的故事时，请随时关注。
 
-[](https://pranay-dave9.medium.com/subscribe) [## 每当 Pranay Dave 发表文章时，您都会收到电子邮件。
-
-### 每当 Pranay Dave 发表文章时，您都会收到电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-pranay-dave9.medium.com](https://pranay-dave9.medium.com/subscribe) 
+<https://pranay-dave9.medium.com/subscribe>  
 
 你也可以通过我的推荐链接加入 Medium。
 
-[](https://pranay-dave9.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pranay Dave
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pranay-dave9.medium.com](https://pranay-dave9.medium.com/membership) 
+<https://pranay-dave9.medium.com/membership>  
 
 **Youtube 频道**
 这里是我的 Youtube 频道

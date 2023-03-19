@@ -106,11 +106,7 @@ GROUP BY [FOS].[DateKey], [FOS].[StoreKey], [FOS].[PromotionKey], [FOS].[Currenc
 
 当你有大量数据集时，你可以阅读我上一篇关于这个主题的文章:
 
-[](/change-your-approach-with-large-datasets-in-power-bi-ca488a5b1066) [## 改变您在 Power BI 中处理大型数据集的方法
-
-### 在 Power BI Desktop 中，很难加载具有数亿行的大型数据集。让我们采取不同的…
-
-towardsdatascience.com](/change-your-approach-with-large-datasets-in-power-bi-ca488a5b1066) 
+</change-your-approach-with-large-datasets-in-power-bi-ca488a5b1066>  
 
 另一方面，如果您只有少量的数据，您可能希望只有一个事实表，并且您希望动态地更改度量中的粒度。
 
@@ -147,11 +143,7 @@ AVERAGEX(SalesPerOrder
 
 你可能在我的上一篇文章中读到过，有多种方法可以计算平均值:
 
-[](/to-weigh-or-not-to-weigh-this-is-the-average-question-ece33fad9180) [## 称重还是不称重——这是一个普通的问题
-
-### 平均值是一个简单的计算。但有时，还有更多需要探索。让我们来看看这个被低估的话题
-
-towardsdatascience.com](/to-weigh-or-not-to-weigh-this-is-the-average-question-ece33fad9180) 
+</to-weigh-or-not-to-weigh-this-is-the-average-question-ece33fad9180>  
 
 在这种情况下，结果是否正确取决于数据的粒度。
 

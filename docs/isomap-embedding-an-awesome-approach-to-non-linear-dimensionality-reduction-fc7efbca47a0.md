@@ -130,20 +130,8 @@ Isomap 是降维的最佳工具之一，使我们能够保留数据点之间的�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 你可能喜欢的其他故事:
 
-[](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e) [## t-SNE 机器学习算法 Python 中降维的利器
-
-### 如何使用 t 分布随机邻居嵌入(t-SNE)来可视化高维数据？
-
-towardsdatascience.com](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e) [](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568) [## UMAP 降维——一种非常健壮的机器学习算法
-
-### 一致流形近似和投影(UMAP)如何工作，以及如何在 Python 中使用它
-
-towardsdatascience.com](/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568)
+</t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e>  </umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568> 

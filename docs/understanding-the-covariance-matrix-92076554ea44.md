@@ -16,11 +16,7 @@ L 线性代数是机器学习的基础之一，被认为是*‘数据的数学�
 
 协方差和相关性的概念使线性代数的某些方面变得生动。像 PCA 这样的算法在很大程度上依赖于协方差矩阵的计算，协方差矩阵在获取主成分中起着至关重要的作用。
 
-[](/implementing-pca-from-scratch-fb434f1acbaa) [## 从头开始实施 PCA
-
-### 仅用 Python 和 NumPy 来提高您的线性代数技能
-
-towardsdatascience.com](/implementing-pca-from-scratch-fb434f1acbaa) 
+</implementing-pca-from-scratch-fb434f1acbaa>  
 
 在接下来的部分，我们将学习协方差矩阵，如何计算和解释它。但首先，我们需要了解相关的概念，基础知识，让我们有更深入的了解。
 
@@ -148,11 +144,7 @@ towardsdatascience.com](/implementing-pca-from-scratch-fb434f1acbaa)
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership) [## 通过我的推荐链接加入 Medium-Marvin Lanhenke
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@marvinlanhenke/membership) 
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

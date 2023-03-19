@@ -6,11 +6,7 @@
 
 我想在我的 F#中添加一个对遗留 ActiveX 控件的引用。NET Framework)项目。问题是，当它添加引用时，它是以一种非常基本且无益的方式添加的。我在 StackOverflow 上发帖，看看是否有人有解决方案，但建议的东西都不起作用:
 
-[](https://stackoverflow.com/questions/67933379/how-to-access-com-variant-properties-with-f) [## 如何用 F#访问 COM 变量属性
-
-### 我可以通过 ActiveX 控件访问一个遗留系统。我可以用这个控件的 ProgID 创建它的一个实例…
-
-stackoverflow.com](https://stackoverflow.com/questions/67933379/how-to-access-com-variant-properties-with-f) 
+<https://stackoverflow.com/questions/67933379/how-to-access-com-variant-properties-with-f>  
 
 最后，我自己解决了这个问题，这篇文章是关于我是如何解决的。花了不少功夫，但是键用的是 Visual Studio 2017(完全支持 F#。NET Framework)并利用 C#作为临时过渡。我写这篇文章是为了防止其他人发现自己处于同样的情况，并想知道如何解决它。对我来说也是个参考:)
 
@@ -90,8 +86,4 @@ xcopy /Y /F $(ProjectDir)obj\*.dll $(TargetDir)
 
 您可以从我的 GitHub 下载我在这里创建的示例应用程序:
 
-[](https://github.com/ianormy/AXLegacy) [## 使用 ActiveX 控件的 GitHub - ianormy/AXLegacy: F#控制台应用程序
-
-### 使用 ActiveX 控件的 F#控制台应用。通过在 GitHub 上创建帐户，为 ianormy/AXLegacy 开发做出贡献。
-
-github.com](https://github.com/ianormy/AXLegacy)
+<https://github.com/ianormy/AXLegacy> 

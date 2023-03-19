@@ -84,11 +84,7 @@ models, predictions = reg.fit(X_train, X_test, y_train, y_test)**
 
 阅读下面提到的文章中的[可以知道 8 个类似于 LazyPredict 的 AutoML 库。](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636)
 
-[](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636) [## 8 个自动化机器学习管道的 AutoML 库
-
-### 各种 AutoML 框架概述
-
-medium.com](https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636) 
+<https://medium.com/swlh/8-automl-libraries-to-automate-machine-learning-pipeline-3da0af08f636>  
 
 # 参考资料:
 

@@ -12,11 +12,7 @@
 
 我们将学习如何向顾客推荐销售商品，查看顾客的个人购买记录。在我之前的文章中，我详细解释了推荐引擎的许多概念:
 
-[](/recommender-systems-item-customer-collaborative-filtering-ff0c8f41ae8a) [## 推荐系统:商品-顾客协同过滤
-
-### 用 Python 代码逐步解释稀疏性、相似性和显式二进制协同过滤
-
-towardsdatascience.com](/recommender-systems-item-customer-collaborative-filtering-ff0c8f41ae8a) 
+</recommender-systems-item-customer-collaborative-filtering-ff0c8f41ae8a>  
 
 本帖重点推荐使用 Scikit-Learn 和 Tensorflow 推荐器。
 
@@ -154,11 +150,7 @@ model = SalesItemRecModel(CustomerModel, SalesItemModel, task)model.compile(opti
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+<https://jesko-rehberg.medium.com/membership>  
 
 最初发表在我的网站 [DAR-Analytics](https://www.dar-analytics.de/AboutUs.html) 上，这里也有 Jupyter 笔记本和数据文件。
 

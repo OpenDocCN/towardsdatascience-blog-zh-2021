@@ -126,7 +126,7 @@ Azure Cosmos DB 为 MongoDB 实现了 [wire 协议，它允许与原生 MongoDB 
 
 借助 [Azure 数据库迁移服务](https://docs.microsoft.com/azure/dms/tutorial-mongodb-cosmos-db-online?toc=/azure/cosmos-db/toc.json&bc=/azure/cosmos-db/breadcrumb/toc.json&WT.mc_id=data-12713-abhishgu)，您可以执行*在线*(最小停机时间)迁移，并根据您的需求灵活扩展为您的 Cosmos 数据库提供的吞吐量和存储，并且只需为您需要的吞吐量和存储付费。这导致了显著的成本节约。
 
-> *参考*[](https://docs.microsoft.com/azure/cosmos-db/mongodb-pre-migration?WT.mc_id=data-12713-abhishgu)**和* [*迁移后*](https://docs.microsoft.com/azure/cosmos-db/mongodb-post-migration?WT.mc_id=data-12713-abhishgu) *指南。**
+> *参考*<https://docs.microsoft.com/azure/cosmos-db/mongodb-pre-migration?WT.mc_id=data-12713-abhishgu>**和* [*迁移后*](https://docs.microsoft.com/azure/cosmos-db/mongodb-post-migration?WT.mc_id=data-12713-abhishgu) *指南。**
 
 *一旦迁移了数据，您就可以继续使用现有的应用程序。下面是一个使用 [MongoDB 的例子。网络驱动](https://docs.mongodb.com/ecosystem/drivers/csharp/):*
 

@@ -103,11 +103,7 @@ pph.HP_Tune_Classification()**
 
 > 阅读下面的文章，了解 4 个可以在一行代码中执行 EDA 的库。
 
-[](/4-libraries-that-can-perform-eda-in-one-line-of-python-code-b13938a06ae) [## 4 个可以在一行 python 代码中执行 EDA 的库
-
-### 使用 Pandas Profiling、Sweetviz、Autoviz 和 D-Tale 进行探索性数据分析
-
-towardsdatascience.com](/4-libraries-that-can-perform-eda-in-one-line-of-python-code-b13938a06ae) 
+</4-libraries-that-can-perform-eda-in-one-line-of-python-code-b13938a06ae>  
 
 # 参考资料:
 

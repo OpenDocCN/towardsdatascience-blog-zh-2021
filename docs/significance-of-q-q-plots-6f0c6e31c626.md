@@ -78,8 +78,4 @@ Q-Q 图也可用于测试 2 个不同数据集之间的分布。例如，如果�
 
 总的来说，Q-Q 图可以帮助你比较手头变量的样本分布和其他可能的分布。
 
- [## sundaresh 正在创作与数据科学相关的文章，并且热爱教学
-
-### 嘿👋我刚刚在这里创建了一个页面。你现在可以给我买杯咖啡了！
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/sundaresh)
+ 

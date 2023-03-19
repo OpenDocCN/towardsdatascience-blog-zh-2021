@@ -12,11 +12,7 @@ T 这篇文章将介绍如何开发一个交互式应用程序，利用 Adam Gei
 
 如果只是想通过 Docker 运行 GUI，我写了这篇文章，你可以参考:
 
-[](/empowering-docker-using-tkinter-gui-bf076d9e4974) [## 使用 Tkinter GUI 增强 Docker 的能力
-
-### 通过 Docker 的 GUI 对于许多应用程序来说是至关重要的。
-
-towardsdatascience.com](/empowering-docker-using-tkinter-gui-bf076d9e4974) 
+</empowering-docker-using-tkinter-gui-bf076d9e4974>  
 
 如果您想立即运行应用程序，可以下载我的 [Github 资源库](https://github.com/KasperSHenriksen/face_recognition_gui)，并遵循本文末尾的“运行应用程序”一节。
 
@@ -87,11 +83,7 @@ towardsdatascience.com](/empowering-docker-using-tkinter-gui-bf076d9e4974)
 
 *与大多数计算机视觉应用相反，在大多数计算机视觉应用中，你可以通过提供数百个类别的示例来训练模型对所需的类别进行分类，而在人脸识别中，你可以使用深度度量学习。通过深度度量学习，你可以训练一个模型来描述所需的对象，而不是预测它是哪个类。在我们的例子中，我们用它来提供一个特征向量，一个 128 维的编码，用实数描述每张脸。教导模型来描述面部而不是预测特定的人是一个优点，因为如果想要识别一个新人，就不必重新训练模型。相反，我们应该简单地保存这个新的人的编码，这个编码对于这个模型来说是可以达到的。我们将在本文后面获得这些编码。有了人脸识别框架，我们不必从头开始训练模型，而是使用通过人脸识别提供的已经训练好的模型。如果希望进一步探索人脸识别领域,《人脸识别框架》的作者 Adam Geitgey 详细阐述了这个主题:*
 
-*[](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) [## 机器学习很好玩！第 4 部分:具有深度学习的现代人脸识别
-
-### 更新:本文是系列文章的一部分。查看完整系列:第 1 部分、第 2 部分、第 3 部分、第 4 部分、第 5 部分、第 6 部分…
-
-medium.com](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) 
+*<https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78>  
 
 ## 数据集和编码器
 

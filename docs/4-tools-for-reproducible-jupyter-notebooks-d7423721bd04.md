@@ -157,15 +157,7 @@ nbval 测试失败的例子。图片作者。
 
 本文介绍了四种工具，它们有助于使笔记本中的代码更好，更具可重用性。关于可再生数据科学代码的更多技巧，请参见我之前的文章。
 
-[](/5-tools-for-reproducible-data-science-c099c6b881e5) [## 可再现数据科学的 5 个工具
-
-### 使用这些工具开发协作、可信和高效的数据科学项目
-
-towardsdatascience.com](/5-tools-for-reproducible-data-science-c099c6b881e5) [](/a-recipe-for-organising-data-science-projects-50a1cc539c69) [## 组织数据科学项目的秘诀
-
-### 了解如何创建结构化和可重复的数据科学项目
-
-towardsdatascience.com](/a-recipe-for-organising-data-science-projects-50a1cc539c69) 
+</5-tools-for-reproducible-data-science-c099c6b881e5>  </a-recipe-for-organising-data-science-projects-50a1cc539c69>  
 
 感谢阅读！
 

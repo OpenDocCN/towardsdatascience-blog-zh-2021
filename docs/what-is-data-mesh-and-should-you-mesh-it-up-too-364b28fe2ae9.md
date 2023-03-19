@@ -94,4 +94,4 @@ Daniel 建议不要忘记集中式团队，因为他们在分布式架构中仍�
 
 一般来说，跨分布式管道的数据可观察性可能有点挑战。但这是一个已经存在于大多数组织中的挑战，这些组织有某种形式的交接，甚至没有正式化。丹尼尔说，数据网格并没有消除这一挑战，但它以更好的方式解决了这一问题。
 
-*原载于 2021 年 1 月 25 日 Hyperight.com*[](https://hyperight.com/what-is-data-mesh-and-should-you-mesh-it-up-too/)**。**
+*原载于 2021 年 1 月 25 日 Hyperight.com*<https://hyperight.com/what-is-data-mesh-and-should-you-mesh-it-up-too/>**。**

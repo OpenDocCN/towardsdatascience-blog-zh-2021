@@ -52,16 +52,4 @@
 
 ## 你可能也会喜欢…
 
-[](/why-youll-quit-your-data-science-job-6079d407bbeb) [## 为什么你会辞去数据科学的工作
-
-### 你应该做些什么来防止这种情况发生
-
-towardsdatascience.com](/why-youll-quit-your-data-science-job-6079d407bbeb) [](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [## 如何应对糟糕的经理
-
-### 当放弃不是一个选项时——还不是
-
-medium.com](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [](/how-to-translate-machine-learning-results-into-business-impact-d0b323112e87) [## 如何将机器学习成果转化为商业影响
-
-### 向高管解释模型结果
-
-towardsdatascience.com](/how-to-translate-machine-learning-results-into-business-impact-d0b323112e87)
+</why-youll-quit-your-data-science-job-6079d407bbeb>  <https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47>  </how-to-translate-machine-learning-results-into-business-impact-d0b323112e87> 

@@ -45,7 +45,7 @@
 
 ## 代码、格式、约定
 
-支持本文的所有数据和代码都可以在 github [[](https://github.com/dkfurrow/eia-retail-analysis) 1]上找到。如果你发现一个错误，或者有一个扩展，我会很乐意接受[拉请求。](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)所有代码都是 python(我用的是 3.83 版本，特别是 [winpython 发行版](https://winpython.github.io/))。python 文件是普通的*。py 格式(即它们不是 jupyter 笔记本)。我已经将代码分成了与 Spyder IDE 一致的“代码单元”。为了复制任何引用的分析，只需执行该块中的所有代码。最后，我在本文中有相当多的表格，我将它们作为 github 上的 [gists](https://gist.github.com/dkfurrow) 嵌入——点击嵌入的对象查看完整视图。
+支持本文的所有数据和代码都可以在 github [<https://github.com/dkfurrow/eia-retail-analysis> 1]上找到。如果你发现一个错误，或者有一个扩展，我会很乐意接受[拉请求。](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)所有代码都是 python(我用的是 3.83 版本，特别是 [winpython 发行版](https://winpython.github.io/))。python 文件是普通的*。py 格式(即它们不是 jupyter 笔记本)。我已经将代码分成了与 Spyder IDE 一致的“代码单元”。为了复制任何引用的分析，只需执行该块中的所有代码。最后，我在本文中有相当多的表格，我将它们作为 github 上的 [gists](https://gist.github.com/dkfurrow) 嵌入——点击嵌入的对象查看完整视图。
 
 ## 数据
 

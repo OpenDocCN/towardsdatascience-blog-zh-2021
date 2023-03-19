@@ -19,7 +19,7 @@
 
 *查看前面的文章* [*这里的*](https://russoalessio.medium.com/list/rl-exams-3bcc5a4ba5cb) *。*
 
-**在这里，我将涵盖我在上一篇文章中遗漏的几个问题(你可以在这里找到**[](/an-example-of-reinforcement-learning-exam-rationale-behind-the-questions-part-1-682d1358b571)****)。****
+**在这里，我将涵盖我在上一篇文章中遗漏的几个问题(你可以在这里找到**</an-example-of-reinforcement-learning-exam-rationale-behind-the-questions-part-1-682d1358b571>****)。****
 
 **下面的问题是整个练习中最难的**、**，但是正如我们所看到的，它们可以用几行来回答。**
 

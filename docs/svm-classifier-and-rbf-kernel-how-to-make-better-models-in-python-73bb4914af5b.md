@@ -29,11 +29,7 @@
 
 同样，通过使用支持向量回归算法(SVR ),支持向量机也可以用于**回归**。
 
-[](/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60) [## 支持向量回归(SVR) —最灵活且稳健的预测算法之一
-
-### 用 Python 实现示例直观地解释 SVR
-
-towardsdatascience.com](/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60) 
+</support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60>  
 
 你可以在下面的**交互**图中找到这些算法的确切位置。确保点击👇对不同的类别进行**放大并揭示更多。**
 
@@ -227,8 +223,4 @@ T5【索尔多比拉斯】
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership)
+<https://solclover.com/membership> 

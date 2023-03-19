@@ -52,11 +52,7 @@
 
 *如果你想了解更多关于集成学习的知识，可以看看这篇文章:*
 
-[](/ensemble-learning-bagging-and-boosting-explained-in-3-minutes-2e6d2240ae21) [## 在 3 分钟内解释集成学习、打包和增强
-
-### 直观的解释和揭开基本概念的神秘面纱
-
-towardsdatascience.com](/ensemble-learning-bagging-and-boosting-explained-in-3-minutes-2e6d2240ae21) 
+</ensemble-learning-bagging-and-boosting-explained-in-3-minutes-2e6d2240ae21>  
 
 ## 它们什么时候有用？
 
@@ -198,19 +194,11 @@ towardsdatascience.com](/ensemble-learning-bagging-and-boosting-explained-in-3-m
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 **还有一个:**
 
-[](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) [## 2022 年你应该知道的 10 个最实用的数据科学技能
-
-### 实际上能让你就业的技能
-
-towardsdatascience.com](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) 
+</10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a>  
 
 # 特伦斯·申
 

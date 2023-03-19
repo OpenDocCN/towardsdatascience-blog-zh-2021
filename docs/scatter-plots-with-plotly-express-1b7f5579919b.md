@@ -154,19 +154,11 @@ Plotly Express 是构建和定制包含趋势线和分面的图表的绝佳选�
 
 分歧棒线，为什么&如何，用分歧讲故事
 
-[](/diverging-bars-why-how-3e3ecc066dce) [## 背离棒线，为什么&如何
-
-### 用分歧讲故事
-
-towardsdatascience.com](/diverging-bars-why-how-3e3ecc066dce) 
+</diverging-bars-why-how-3e3ecc066dce>  
 
 斜率图表，为什么和如何，用斜率讲故事
 
-[](/slope-charts-why-how-11c2a0bc28be) [## 斜率图表，为什么和如何
-
-### 用斜坡讲故事
-
-towardsdatascience.com](/slope-charts-why-how-11c2a0bc28be) 
+</slope-charts-why-how-11c2a0bc28be>  
 
 *参考文献*
 

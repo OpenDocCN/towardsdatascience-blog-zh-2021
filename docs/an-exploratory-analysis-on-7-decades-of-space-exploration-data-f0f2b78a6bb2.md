@@ -184,8 +184,4 @@ Svetlana Svitskaya 是第二位进入太空的女性，也是第一位进行太�
 
 🚀我已经创建了一个活页夹，所以你可以用这个笔记本进行实验[请点击这里查看这个笔记本！](https://mybinder.org/v2/gh/john-adeojo/astronaut_2/8dd9a8e65ba76dd4b20929dc360cf5f2f57e18c8?filepath=Astronauts%20JA%20v6%20(5).ipynb)
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

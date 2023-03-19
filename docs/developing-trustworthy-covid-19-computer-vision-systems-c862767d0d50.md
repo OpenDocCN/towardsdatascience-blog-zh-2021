@@ -33,11 +33,7 @@
 
 这意味着，如果你是面部识别系统的购买者或用户，标题准确性可能会产生误导——可能自称“99.9%准确性”的系统实际上是“在测试条件下测试样本的 99.9%准确性*”的简写。这种真实和测试条件之间的巨大差距被斯坦福大学人工智能中心称为“ [**域转移**](https://hai.stanford.edu/sites/default/files/2020-11/HAI_FRT_WhitePaper_PolicyBrief_Nov20.pdf) ”,目前正在努力传播对这些风险的认识，并围绕这项新兴技术的运作方式设置护栏。*
 
-[](https://www.media.mit.edu/projects/gender-shades/overview/) [## 项目概述‹性别阴影——麻省理工学院媒体实验室
-
-### 性别阴影项目对人工智能包容性产品测试的交叉方法进行了试点。性别阴影是一种…
-
-www.media.mit.edu](https://www.media.mit.edu/projects/gender-shades/overview/) 
+<https://www.media.mit.edu/projects/gender-shades/overview/>  
 
 ## 责任人工智能的崛起
 

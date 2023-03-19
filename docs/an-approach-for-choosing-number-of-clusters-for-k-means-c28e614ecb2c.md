@@ -20,11 +20,7 @@
 
 这是一个众所周知的方法，也提供了非常酷的可视化。它允许我们解释和验证集群内的一致性。完整的 Python 实现和解释可以在 scikit-learn 页面中找到:
 
-[](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html) [## 在 KMeans clustering - scikit-learn 上使用剪影分析选择聚类数…
-
-### 剪影分析可用于研究所得聚类之间的分离距离。剪影情节…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html) 
+<https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html>  
 
 这个 scikit-learn Python 代码产生了下面的可视化效果，帮助我们理解所选择的集群数量是否是一个好的选择。
 
@@ -43,11 +39,7 @@ scikit-learn.org](https://scikit-learn.org/stable/auto_examples/cluster/plot_kme
 
 这里有一篇很好的文章总结了这种方法:
 
-[](/k-means-clustering-from-a-to-z-f6242a314e9a) [## k-均值聚类:从 A 到 Z
-
-### 关于 K-均值聚类你需要知道的一切
-
-towardsdatascience.com](/k-means-clustering-from-a-to-z-f6242a314e9a) 
+</k-means-clustering-from-a-to-z-f6242a314e9a>  
 
 # 建议的接近比例惯性
 
@@ -97,8 +89,4 @@ Alpha 是手动调整的，因为在我看来，集群数量的损失是一个�
 
 很好的指南，详细介绍了 k-means 算法以及在 Python 中的使用
 
-[](https://realpython.com/k-means-clustering-python/) [## Python 中的 K-Means 聚类:实用指南-真正的 Python
-
-### 在本教程中，您将了解到:聚类是一组用于将数据划分成组或簇的技术…
-
-realpython.com](https://realpython.com/k-means-clustering-python/)
+<https://realpython.com/k-means-clustering-python/> 

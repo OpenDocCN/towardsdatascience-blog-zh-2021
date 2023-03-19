@@ -100,11 +100,7 @@ Flux 语法肯定需要一些努力来适应，特别是如果您正在寻找简
 
 **要深入比较这两个数据库，请查看:**
 
-**[](https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/) [## TimescaleDB 与 InfluxDB:专为时序数据构建
-
-### 深入研究两个领先的时间序列数据库在数据模型、查询语言…
-
-blog.timescale.com](https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/) 
+**<https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/>  
 
 总的来说，TimescaleDB 非常适合那些寻求大幅提升性能而不需要进行大量重构来迁移现有 SQL 数据库的团队。尽管 TimescaleDB 仍然相对较新(2017 年首次发布)，但基于 PostgreSQL 构建的决定使其采用数量达到了前 5 名。有趣的是，我以前的物联网初创公司也使用 TimescaleDB 作为中间数据存储，来快速提取跨越几个月的聚合指标，并将旧数据移动到长期存储中。由于我们已经在 Kubernetes 集群上运行 PostgreSQL，安装 TimescaleDB 和迁移我们的工作负载是一项简单的任务。
 

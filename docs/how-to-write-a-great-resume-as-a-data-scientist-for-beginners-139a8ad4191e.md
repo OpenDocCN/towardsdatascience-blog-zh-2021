@@ -14,11 +14,7 @@
 
 如果你想从事数据科学家的职业，你可能会有一些疑虑。我写了一篇文章来尽可能地揭示数据科学行业。这可能会帮助你找到重要问题的答案。你可以在下面找到。
 
-[](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) [## 给那些想成为数据科学家的人的一封信
-
-### 我试图通过自己的故事来阐明这个行业。
-
-towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd) 
+</a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd>  
 
 ## —编码
 
@@ -28,11 +24,7 @@ towardsdatascience.com](/a-letter-to-those-seeking-to-become-a-data-scientist-f2
 
 展示这一点的最佳方式是在 Github 或 Bitbucket 上放置一个链接，指向过去的 ML 项目。你必须在你的项目中实现软件开发的最佳实践；否则，三思而行。例如，你的项目必须有一个简洁、易读、有用的文档。另外，代码必须基于特定的风格指南编写，比如 Python 中的 PEP8。最后，但同样重要的是，代码必须有一系列测试，这些测试可以在开发的每个步骤中轻松运行。拥有一系列的测试表明你可能意识到了测试驱动开发的基础，并且意识到了测试在开发过程中的重要性。作为一个例子，你可以在下面的 Github 上找到一个我开发并托管的简单 Python 包 [sent2vec](https://github.com/pdrm83/sent2vec) 。你应该试着或多或少地构建一些类似的东西。
 
-[](https://github.com/pdrm83/sent2vec) [## pdrm83/sent2vec
-
-### 在过去，我们主要使用，例如，一个热点，术语频率，或 TF-IDF(标准化术语…
-
-github.com](https://github.com/pdrm83/sent2vec) 
+<https://github.com/pdrm83/sent2vec>  
 
 ## —机器学习
 
@@ -40,11 +32,7 @@ github.com](https://github.com/pdrm83/sent2vec)
 
 简而言之，你必须让你的潜在雇主知道你意识到了从培训到服务的 ML 管道的重要性。例如，您可以从以下陈述中获得一些提示，并根据您过去的经验定制它们，以描述您的技能:[a] *“使用 Spacy、CircleCI、DockerHub、Terraform 和 AWS 构建、部署和管理一个 NLP 解决方案来分析法律文档”*，或者[b] *“开发了一个完整的 ML 管道，包括特征提取、模型构建、模型评估和模型选择”。*你可以在下面的文章中阅读更多关于构建 ML 产品的常见错误。
 
-[](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) [## 构建一个 ML 产品——要避免的 4 个错误
-
-### 这是我多年来学到的一个全面的教训。
-
-towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) 
+</build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24>  
 
 ## —数据
 
@@ -81,8 +69,4 @@ towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

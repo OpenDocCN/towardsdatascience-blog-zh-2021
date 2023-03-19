@@ -36,15 +36,7 @@ summary, sha = head.summary, head.hexsha
 
 有关训练深度学习模型的更多提示，请考虑阅读:
 
-[](/taking-keras-and-tensorflow-to-the-next-level-c73466e829d3) [## 让 Keras 和 TensorFlow 更上一层楼
-
-### 充分利用 Keras 和 TensorFlow 的 11 个技巧和诀窍
-
-towardsdatascience.com](/taking-keras-and-tensorflow-to-the-next-level-c73466e829d3) [](/memory-efficient-data-science-types-53423d48ba1d) [## 高效内存数据科学:类型
-
-### 通过在正确的时间使用正确的浮点和整数，节省高达 90%的内存。
-
-towardsdatascience.com](/memory-efficient-data-science-types-53423d48ba1d) 
+</taking-keras-and-tensorflow-to-the-next-level-c73466e829d3>  </memory-efficient-data-science-types-53423d48ba1d>  
 
 如果您对本文有任何问题，请随时发表评论或与我联系。如果你刚接触媒体，我强烈推荐[订阅](https://ygorserpa.medium.com/membership)。对于数据和 IT 专业人士来说，中型文章是 [StackOverflow](https://stackoverflow.com/) 的完美搭档，对于新手来说更是如此。注册时请考虑使用[我的会员链接。](https://ygorserpa.medium.com/membership)
 

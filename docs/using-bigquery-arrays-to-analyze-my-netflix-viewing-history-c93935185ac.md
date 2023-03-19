@@ -8,11 +8,7 @@
 
 当我听说你可以从网飞那里获得你所有的个人资料时，我很兴奋地想看看我能找到什么。最后，我不仅对自己有了更多的了解——比如我最常看《老友记》的哪一季(第六季)——而且这也是一个检验 BigQuery 分析能力的绝佳机会。本文介绍了我如何在 BigQuery 中完成最复杂的转换，但是您可以在这里找到完整的项目:
 
-[](https://count.co/n/0erWed0YsMF) [## 我的网飞项目
-
-### 最近我得知网飞将向你提供他们掌握的所有关于你的信息。好奇心得到了最好的…
-
-count.co](https://count.co/n/0erWed0YsMF) 
+<https://count.co/n/0erWed0YsMF>  
 
 # 为什么是 BigQuery？
 
@@ -117,11 +113,7 @@ count.co](https://count.co/n/0erWed0YsMF)
 
 您可以在此查看整个项目，从清洁、探索到互动报告:
 
-[](https://count.co/n/0erWed0YsMF) [## 我的网飞项目
-
-### 最近我得知网飞将向你提供他们掌握的所有关于你的信息。好奇心得到了最好的…
-
-count.co](https://count.co/n/0erWed0YsMF) 
+<https://count.co/n/0erWed0YsMF>  
 
 # 结论
 

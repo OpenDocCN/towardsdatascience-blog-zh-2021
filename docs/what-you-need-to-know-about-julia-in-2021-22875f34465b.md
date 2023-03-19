@@ -16,11 +16,7 @@ Patrick Amoy 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 大约三年前，我写了一篇文章，详细介绍了我认为程序员在使用 Julia 进行机器学习之前应该知道的一些最重要的事情。如果你想读这篇文章，你可以在这里:
 
-[](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) [## 使用 Julia 进行机器学习之前需要知道的事情
-
-### Julia 是一种高级动态编程语言，它本身有一些有趣的特点和特性，这使得…
-
-towardsdatascience.com](/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2) 
+</things-to-know-before-using-julia-for-machine-learning-487744c0b9b2>  
 
 今天，我想为 2021 年的一般数据科学实践更新这一概念。自从那篇文章发表以来，发生了很多变化，主要是朱莉娅在过去两年中人气飙升。今年，在开始学习这门语言之前，肯定有一些新的东西需要学习和了解。今天，我试图回答关于 Julia 的现代问题，提供你需要知道的关于 Julia 目前状态的一切，以及我对未来语言的主观期望。
 
@@ -48,19 +44,11 @@ towardsdatascience.com](/things-to-know-before-using-julia-for-machine-learning-
 
 但是多重分派范例实际上意味着什么呢？这意味着代码不会与面向对象的语言(如 Python)或函数式语言(如 R)完全一致。虽然我会说在这两者之间，Julia 可能在范式方面与 R 最相似，但多重分派可以让您跨越到看起来与 Python 相同的代码中。在 Julia 的构造函数和方法上使用了多重分派，改变了它们的工作方式，并允许您按照自己的意愿构建数据结构和方法。这是一个很好的例子，因为它使 Julia 成为一种非常通用的语言，可以组成你想用的任何风格。如果你想了解我为什么如此喜欢多重分派，你可以在这里阅读我写的一篇完整的文章:
 
-[](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) [## 为什么多重分派是我最喜欢的编程方式
-
-### 多种调度的优势概述，以及我为什么这么喜欢它。
-
-towardsdatascience.com](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) 
+</why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878>  
 
 我还想链接另一篇来自不同作者的很酷的文章，该文章将抽象和多重分派结合在一起，形成一个有效地创建方法继承的强大组合:
 
-[](/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a) [## 多重分派:一个强大的编程范例
-
-### 通过朱莉娅的镜头讲述
-
-towardsdatascience.com](/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a) 
+</multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a>  
 
 # 生态系统
 

@@ -10,7 +10,7 @@
 
 在捷克共和国，只有一小部分精神治疗护理(T3)由健康保险公司(T6)承保(T5)。因此，当最大的此类公司之一 VZP 向其客户提供 7 000 CZK(约合 280 欧元)的心理治疗津贴时，这是一个受欢迎的举措。
 
-然而，给自己找一个心理治疗师的方法并不是最方便的，因为你必须滚动浏览一个. pdf [文件](https://media.vzpstatic.cz/media/Default/dokumenty/seznam-terapeutu.pdf?ver=0303)。幸运的是，[捷克心理治疗协会](https://www.linkedin.com/in/dominika-%C4%8Dechov%C3%A1-m-a-b6b95724/)[](https://czap.cz/eng)*的董事会成员 Dominika echová，通过谈判从 VZP 获得了更多信息，比如哪些心理治疗师可以接受新客户。*
+然而，给自己找一个心理治疗师的方法并不是最方便的，因为你必须滚动浏览一个. pdf [文件](https://media.vzpstatic.cz/media/Default/dokumenty/seznam-terapeutu.pdf?ver=0303)。幸运的是，[捷克心理治疗协会](https://www.linkedin.com/in/dominika-%C4%8Dechov%C3%A1-m-a-b6b95724/)<https://czap.cz/eng>*的董事会成员 Dominika echová，通过谈判从 VZP 获得了更多信息，比如哪些心理治疗师可以接受新客户。*
 
 *我的任务是将这些信息整合成一种更加用户友好的方式，让你自己找到一个治疗师，从而使服务更加容易获得。重点是交付的速度和部署的简易性，所以我决定用[**flex dashboard**](https://rmarkdown.rstudio.com/flexdashboard/)来完成 **R** ，这个包允许创建**交互式**和**无服务器**仪表盘。*
 
@@ -24,7 +24,7 @@
 
 *在这篇文章中，我想回顾一下我是如何创造理想结果的。*
 
-*你可以在这里找到最终的**仪表盘**[](https://www.data-must-flow.com/posts/psychotherapy_vzp/)**和带有交互元素的**原创文章**[**这里**](https://www.data-must-flow.com/posts/python_r_therapy/) 。***
+*你可以在这里找到最终的**仪表盘**<https://www.data-must-flow.com/posts/psychotherapy_vzp/>**和带有交互元素的**原创文章**[**这里**](https://www.data-must-flow.com/posts/python_r_therapy/) 。***
 
 # ***r 包***
 

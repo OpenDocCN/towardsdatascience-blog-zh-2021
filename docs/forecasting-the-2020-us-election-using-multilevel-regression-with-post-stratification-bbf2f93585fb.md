@@ -332,10 +332,6 @@ Jupyter 笔记本可以在 [Github](https://github.com/susanli2016/Machine-Learn
 
 [https://scholar . Princeton . edu/sites/default/files/jkstellec/files/MRP _ primer . pdf](https://scholar.princeton.edu/sites/default/files/jkastellec/files/mrp_primer.pdf)
 
- [## MRPyMC3 -多水平回归和 PyMC3 后分层
-
-### 几周前，YouGov 正确地预测了 2017 年英国大选的结果是一个无多数议会
-
-austinrochford.com](https://austinrochford.com/posts/2017-07-09-mrpymc3.html) 
+  
 
 [https://www . tellingstorieswithdata . com/MRP . html # ref-Wang 2015 预测](https://www.tellingstorieswithdata.com/mrp.html#ref-wang2015forecasting)

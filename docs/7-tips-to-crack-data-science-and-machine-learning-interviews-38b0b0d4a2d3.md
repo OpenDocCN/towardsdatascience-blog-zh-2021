@@ -21,11 +21,7 @@
 
 下面提供的文章是一个逐步详细的说明，将指导新的数据科学爱好者和爱好者在 12 个月内掌握成为数据科学专家所需的技能。在这段时间内，可以涵盖大多数主题和基本技能。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 在这篇文章中，我们的主要目标将集中在技术和实践两个方面，这两个方面对于个人成功通过数据科学或机器学习面试是必不可少的。我们将详细分析这七个技巧，以理解面试的最佳方法。虽然软技能，如有效的沟通，适当的着装和其他因素也是必不可少的，但这些都是更一般的术语，不会在本文中讨论。
 
@@ -43,11 +39,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 当开发一个代码块来解决一个特定的问题时，确保你解决这些问题的方法与这个特定的问题最相关和最合适是很重要的。在第一轮面试过程中，通常会有一轮编码面试。这篇文章是在这些采访中被问到的一个特殊问题的例子。看看下面的帖子，学习一些常见类型的模式编程的解决方案。
 
-[](/solutions-to-interview-questions-on-pattern-programming-cb1cff41844) [## 模式编程面试问题解答！
-
-### 用 python 解决公司面试中问的各种模式编程问题。
-
-towardsdatascience.com](/solutions-to-interview-questions-on-pattern-programming-cb1cff41844) 
+</solutions-to-interview-questions-on-pattern-programming-cb1cff41844>  
 
 最后，我们将触及机器学习，这是大多数面试的一个重要方面。在机器学习中，尝试接触并涵盖机器学习算法的基本主题，如决策树、随机森林、K 近邻(KNN)、线性和逻辑回归、聚类算法和其他签名算法。确保接触到解决复杂的机器学习任务所需的最有用的 python 库。这些库包括 pandas、matplotlib、scikit-learn、TensorFlow 和其他重要的库。尝试专注于对实现机器学习任务和目标的直观理解和方法，以获得更高的成功率。
 
@@ -66,11 +58,7 @@ Jordan Donaldson | @jordi.d 在 [Unsplash](https://unsplash.com?utm_source=mediu
 
 你在数据科学领域执行的每一项任务都需要一定程度的自信。失败是数据科学最重要的方面之一。在处理大量问题时，你会遇到许多情况，你会感到茫然，不知道完成特定任务必须采取什么方法。同样，当你在面试中被问到一个问题时，即使你知道答案，你也可能会昏过去。在这种情况下，保持冷静和自信是很重要的。这将最终有助于破解这些复杂的采访。请点击下面的链接，查看我以前的一篇关于成功的数据科学家的五个最重要的品质的文章。
 
-[](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) [## 成功数据科学家的 5 大品质！
-
-### 找出将成功的数据科学家与其他人区分开来的独特特质
-
-towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) 
+</top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca>  
 
 虽然自信很重要，但过度自信可能是个大问题。当你在面试准备前选择不回忆和重温数据科学的重要话题，并且你认为你什么都知道时，关键问题就出现了。或者你只是快速浏览一下所有的主题，没有太多的重点。这个因素可能对你的整个选择过程极为不利。因此，在面试过程中保持自信是很重要的，但也要确保你已经做好了充分的准备，并且你有合适的工具来征服面试过程，以达到最佳效果。
 
@@ -86,11 +74,7 @@ Bram Naus 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refer
 
 我强烈推荐查看下面提供的文章链接。该列表涵盖了 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目。对于大多数初学者和数据科学爱好者来说，本指南应该是有用的，可以让他们更深入地了解他们可以从事的各种项目，并添加到他们的简历中。我将文章分成了许多部分，涵盖了面向所有级别用户的简单、中级和高级项目。请随意查看，为你的简历和作品集添加更多令人惊叹的项目。
 
-[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+</15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  
 
 确保你在你选择加入简历的项目中进行了广泛的工作和研究。你应该对你在简历中展示的特定项目有最终和绝对的了解。不要仅仅为了给你的投资组合增加更多的元素而增加它们。你将会被详细询问这些话题，如果不能回答相关的问题，将会对你的选择过程不利。因此，明智一点，在你把这些项目加入简历之前，全心全意地去做。
 
@@ -110,11 +94,7 @@ towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-an
 
 对于每个有志之士来说，弄清楚他们是否真正对数据科学感兴趣是非常重要的。数据科学是需要个人对该主题充满热情和极大兴趣才能获得更好结果和生产力的领域之一。下面这篇文章列出了从事数据科学的十个错误理由。如果你仍然不确定自己是否能成为未来的数据科学家，我建议你看看下面的帖子。
 
-[](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
-
-### 分析追求数据科学成为数据科学家的 10 个错误原因
-
-towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+</10-wrong-reasons-to-become-a-data-scientist-319531bb874e>  
 
 # 5.关注细节
 
@@ -126,11 +106,7 @@ towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874
 
 要了解每个数据科学追求者和爱好者最好关注哪些主题，以尽快涵盖所有基本概念，请查看下面提供的文章，该文章详细介绍了这一主题。它涵盖了每个人都必须学习的一些概念的详细方法，以尽快掌握数据科学。
 
-[](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) 
+</best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  
 
 # 6.强烈诚实的态度
 
@@ -181,26 +157,6 @@ towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [## 在数据科学领域取得更大成功的 15 个技巧！
-
-### 作为数据科学家，每个数据科学爱好者都必须努力提高的 15 个因素
-
-towardsdatascience.com](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [](/machine-learning-101-master-ml-66b20003404e) [## 机器学习 101:ML 大师
-
-### 学习初学者掌握该领域所需的机器学习的所有必要和核心概念
-
-towardsdatascience.com](/machine-learning-101-master-ml-66b20003404e) [](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [## 可能会让你惊讶的 5 个独特的人工智能用例
-
-### 找出人工智能在现实世界中令人着迷的五个独特应用
-
-towardsdatascience.com](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) 
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  </15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae>  </machine-learning-101-master-ml-66b20003404e>  </5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf>  </10-best-free-websites-to-learn-programming-939ec029009b>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

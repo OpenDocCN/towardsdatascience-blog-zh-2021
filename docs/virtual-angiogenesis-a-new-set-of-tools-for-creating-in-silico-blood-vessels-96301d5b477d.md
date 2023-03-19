@@ -64,4 +64,4 @@
 
 *此外，进行了进一步的扩展，以将自动血管形成过程与可用数据相结合，例如从医学图像或心血管系统的详细模型中获得的数据。这些特征使我们能够在患者特定的几何结构中使用 DCCO，为探索小尺度血管的作用及其在不同临床场景中的生理特征提供了新的研究机会。*
 
-*本文由 DProf 的 Maso Talou 博士、Safaei 博士撰写。亨特、布兰科和 https://www.nature.com/articles/s41598-021-85434-9 最初发表于[](https://www.nature.com/articles/s41598-021-85434-9)**。***
+*本文由 DProf 的 Maso Talou 博士、Safaei 博士撰写。亨特、布兰科和 https://www.nature.com/articles/s41598-021-85434-9 最初发表于<https://www.nature.com/articles/s41598-021-85434-9>**。***

@@ -44,11 +44,7 @@
 
 如果您想使用上面显示的代码，这里有 Colab 笔记本的链接:
 
-[](https://github.com/napoles-uach/MediumPost/blob/main/CosineSimilarity.ipynb) [## 那不勒斯-乌赫/梅迪姆波斯
-
-### 中型笔记本。在 GitHub 上创建一个帐户，为 napoles-uach/MediumPost 开发做出贡献。
-
-github.com](https://github.com/napoles-uach/MediumPost/blob/main/CosineSimilarity.ipynb) 
+<https://github.com/napoles-uach/MediumPost/blob/main/CosineSimilarity.ipynb>  
 
 感谢阅读！！
 
@@ -64,16 +60,4 @@ github.com](https://github.com/napoles-uach/MediumPost/blob/main/CosineSimilarit
 
 查看我最近写的其他帖子:
 
-[](/making-network-graphs-interactive-with-python-and-pyvis-b754c22c270) [## 用 Python 和 Pyvis 制作交互式网络图。
-
-### 制作精美图表的简单方法。
-
-towardsdatascience.com](/making-network-graphs-interactive-with-python-and-pyvis-b754c22c270) [](/identifying-protein-ligand-interactions-with-colab-2cfd26ed469a) [## 用 Colab 鉴定蛋白质-配体相互作用
-
-### 设置自动停靠 Vina
-
-towardsdatascience.com](/identifying-protein-ligand-interactions-with-colab-2cfd26ed469a) [](/graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b) [## 用于状态新冠肺炎关联分类的图卷积网
-
-### 如何将地图映射到图卷积网络？
-
-towardsdatascience.com](/graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b)
+</making-network-graphs-interactive-with-python-and-pyvis-b754c22c270>  </identifying-protein-ligand-interactions-with-colab-2cfd26ed469a>  </graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b> 

@@ -105,12 +105,4 @@ columns  = list(data)# iterate through inaugural speech vectors to plot and save
 
 建议进一步阅读:
 
-[](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) [## TF-IDF:总统就职演说的可视化解释器和 Python 实现
-
-### 曾经被要求向非技术观众解释 TF-IDF 吗？这是 TF-IDF(术语频率-反…
-
-towardsdatascience.com](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) [](https://anupamagarla.medium.com/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f) [## 如何用 Python 制作不烂的词云
-
-### 用 python 制作漂亮有意义的单词云的简要教程。
-
-anupamagarla.medium.com](https://anupamagarla.medium.com/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f)
+</tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550>  <https://anupamagarla.medium.com/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f> 

@@ -124,4 +124,4 @@ Raz，g .，Winetraub，y .，Jacob，y .，Kinreich，s .，Maron-Katz，a .，
 
 萨卡。(2018 年 11 月 17 日)。在深度学习中用真实世界的应用转移学习的综合实践指南。2020 年 4 月 23 日检索，来自[https://towards data science . com/a-comprehensive-hands-on-guide-transfer-learning-with-real-world-applications-in-deep-learning-212 BF3 B2 f27a](/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
-【http://github.com】最初发表于[](https://gist.github.com/edbb98aa426d2c74574ae97f6ac706b4)**。**
+【http://github.com】最初发表于<https://gist.github.com/edbb98aa426d2c74574ae97f6ac706b4>**。**

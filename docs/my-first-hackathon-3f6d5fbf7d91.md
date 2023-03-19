@@ -56,14 +56,6 @@
 
 总的来说，这是一次很棒的经历。未来我会关注更多的黑客马拉松吗？是的，肯定的！我玩得很开心，和了不起的人一起工作，学到了很多东西。虽然我们的解决方案最终没有完全按照我们想要的方式工作，我们也没有赢得任何主要奖项，但我肯定可以带走很多东西，并希望将我的学习应用到下一个项目和我的博士学位中！现在，该睡觉了！
 
-[](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
+</introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

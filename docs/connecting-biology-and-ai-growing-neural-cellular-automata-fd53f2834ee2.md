@@ -63,11 +63,7 @@
 
 如果你感兴趣，这里有一个规则的编号系统。这在以下链接的章节*编号系统*中有很好的解释。
 
- [## 基本细胞自动机-维基百科
-
-### 在数学和可计算性理论中，初等元胞自动机是一维元胞自动机，其中…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) 
+  
 
 ## 2.与生物学的联系
 
@@ -85,19 +81,11 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
 
 如果你想看他们的结果，我鼓励你去这个网页，玩动画。
 
-[](https://distill.pub/2020/growing-ca/) [## 生长神经细胞自动机
-
-### 形态发生的可区分模型点击或轻敲图像擦除图案的一部分，并看到它再生…
-
-蒸馏. pub](https://distill.pub/2020/growing-ca/) 
+<https://distill.pub/2020/growing-ca/>  
 
 在这篇文章中，我不打算解释这个模型的架构，因为其他优秀的文章已经描述过了。特别是，除了原文，我强烈推荐阅读以下文章，并尝试他的[代码](https://github.com/riveSunder/dca)。
 
-[](https://medium.com/the-scinder/playing-pokemon-grow-with-differentiable-cellular-automata-a233eb345439) [## 用可微分细胞自动机玩口袋妖怪成长
-
-### 回顾 20 世纪 80 年代，你会发现，伴随着连接主义的蓬勃发展，为…奠定了基础
-
-medium.com](https://medium.com/the-scinder/playing-pokemon-grow-with-differentiable-cellular-automata-a233eb345439) 
+<https://medium.com/the-scinder/playing-pokemon-grow-with-differentiable-cellular-automata-a233eb345439>  
 
 我做了一些修改就实现了它，下面是我的输出。
 

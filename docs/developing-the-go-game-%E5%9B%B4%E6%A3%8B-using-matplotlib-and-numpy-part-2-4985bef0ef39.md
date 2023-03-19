@@ -10,11 +10,7 @@
 
 在我之前的文章中，我讨论了如何使用 matplotlib 绘制围棋棋盘:
 
-[](/developing-the-go-game-围棋-using-matplotlib-and-numpy-part-1-3f94127d73e6) [## Developing the Go Game (围棋) using matplotlib and NumPy — Part 1
-
-### 用 matplotlib 绘制围棋棋盘
-
-towardsdatascience.com](/developing-the-go-game-围棋-using-matplotlib-and-numpy-part-1-3f94127d73e6) 
+</developing-the-go-game-围棋-using-matplotlib-and-numpy-part-1-3f94127d73e6>  
 
 现在你已经能够画出围棋棋盘了，是时候做下一步了，在棋盘上放置石头——这是这个项目最有趣的方面之一。也就是说，您将允许用户在棋盘上放置石头，并以编程方式实现 Go 规则。您的计划将:
 
@@ -878,8 +874,4 @@ stones = np.full((19,19), None)# stones_values stores the value (color) of each 
 stones_values = np.full((19,19),0)fig.canvas.mpl_connect('button_press_event', on_click)plt.show()
 ```
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

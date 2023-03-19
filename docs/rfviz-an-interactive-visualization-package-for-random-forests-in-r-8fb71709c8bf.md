@@ -12,11 +12,7 @@
 
 Breiman 博士和 Cutler 博士最初用 Java 创建了允许你可视化和解释随机森林的图。你可以在这里看看原著的剧情和风格:
 
-[](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_graphics.htm) [## 随机森林.分类手册
-
-### RAFT(随机森林工具)是一个新的基于 java 的可视化工具，由 Adele Cutler 和 Leo Breiman 为…
-
-www.stat.berkeley.edu](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_graphics.htm) 
+<https://www.stat.berkeley.edu/~breiman/RandomForests/cc_graphics.htm>  
 
 我有幸从 2017 年开始去了犹他州立大学，卡特勒博士是那里统计系的教授。我想做机器学习方面的研究生工作，并请她做我的研究生导师。她同意了，并向我展示了潜在的项目。在这个时候，我不知道她帮助创建了随机森林算法。事实上，直到我的项目进行到一半的时候，我才从另一个教员那里得知。当我走近她，问她为什么不告诉我时，她回答说，“哦，我真的不喜欢自吹自擂。”我希望这能告诉你她是多么脚踏实地，是一个怎样的人。
 

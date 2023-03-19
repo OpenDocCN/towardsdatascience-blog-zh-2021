@@ -20,11 +20,7 @@
 
 为了更好地理解本文中介绍的所有过程，作为个人建议，您应该在查看资源库中可用资源的同时阅读本文，并尝试使用相同或不同的 PyTorch 模型再现它，因为“熟能生巧”。
 
-[](https://github.com/alvarobartt/serving-pytorch-models) [## alvarobartt/serving-py torch-型号
-
-### TorchServe 是 PyTorch 开发的 ML 模型服务框架。沿着这个知识库，程序以训练…
-
-github.com](https://github.com/alvarobartt/serving-pytorch-models) 
+<https://github.com/alvarobartt/serving-pytorch-models>  
 
 **警告** : TorchServe 是实验性的，可能会有变化。
 
@@ -243,10 +239,6 @@ pip install -r requirements.txt
 
 ***你可以通过[https://twitter.com/alvarobartt](https://twitter.com/alvarobartt)的 **Twitter** 或者[https://github.com/alvarobartt.](https://github.com/alvarobartt.)的 **GitHub** 联系我，或者直接去[https://allmylinks.com/alvarobartt](https://allmylinks.com/alvarobartt)你可以找到我所有的链接。***
 
-***[](https://github.com/alvarobartt) [## alvarobartt -概述
-
-### 🧙‍♂️ ML 工程师@前沿
-
-github.com](https://github.com/alvarobartt) 
+***<https://github.com/alvarobartt>  
 
 🌟我非常感谢所有的关注者和善意的评论！🌟***

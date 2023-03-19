@@ -577,8 +577,4 @@ plt.show()
 
 # 11.Colab 代码
 
-[](https://colab.research.google.com/drive/1C4GlUeLKhiC-1aX0D63M88_Rw-K7nCTc?usp=sharing) [## 谷歌联合实验室
-
-### 构建机器学习模型
-
-colab.research.google.com](https://colab.research.google.com/drive/1C4GlUeLKhiC-1aX0D63M88_Rw-K7nCTc?usp=sharing)
+<https://colab.research.google.com/drive/1C4GlUeLKhiC-1aX0D63M88_Rw-K7nCTc?usp=sharing> 

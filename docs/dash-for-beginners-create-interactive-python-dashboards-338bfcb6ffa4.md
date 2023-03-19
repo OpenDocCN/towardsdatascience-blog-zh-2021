@@ -84,12 +84,4 @@ Dash 应用程序由两个构件组成:
 
 ## 使用 Plotly Dash 创建的仪表板示例！
 
-[](https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-1-b9cc94039b5e) [## 使用 Plotly Dash 的 Python Dashboard:示例 1
-
-### 使用 Plotly Dash 创建新冠肺炎仪表板
-
-anmol3015.medium.com](https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-1-b9cc94039b5e) [](https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-2-f4fc0cc8a24c) [## 使用 Plotly dash 的 Python Dashboard:示例 2
-
-### 使用 Plotly Dash 构建零售销售仪表板
-
-anmol3015.medium.com](https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-2-f4fc0cc8a24c)
+<https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-1-b9cc94039b5e>  <https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-2-f4fc0cc8a24c> 

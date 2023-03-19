@@ -10,21 +10,13 @@
 
 在之前的一篇文章中，我解释了 PyTorch 和 XGBoost 如何结合起来执行迁移学习。
 
-[](/transfer-learning-with-xgboost-and-pytorch-hack-alexnet-for-mnist-dataset-51c823ed11cd) [## 使用 XGBoost 和 PyTorch 进行迁移学习:破解 Alexnet for MNIST 数据集
-
-### PyTorch 和 XGBoost 可以结合起来进行迁移学习。在本文中，我们展示了 Alexnet 知识可以如何…
-
-towardsdatascience.com](/transfer-learning-with-xgboost-and-pytorch-hack-alexnet-for-mnist-dataset-51c823ed11cd) 
+</transfer-learning-with-xgboost-and-pytorch-hack-alexnet-for-mnist-dataset-51c823ed11cd>  
 
 这是一种非常非常规的转移学习的方式，混合了深度神经网络和梯度引导树。为了说明这种方法，我解释了如何将 AlexNet 从 ILSVRC 数据集中获取的图像分类知识转移到 XGBoost 的另一个用例:识别手写数字。
 
 在写完这篇文章的几天后，我意识到 PyTorch 并没有真正在网上涵盖更常见的用例，即只涉及神经网络的迁移学习。然而， [Dipanjan (DJ) Sarkar](https://medium.com/u/6278d12b0682?source=post_page-----8344e5c82f59--------------------------------) 的一篇优秀文章详细介绍了深度学习，有一些代码但使用了 Keras。
 
-[](/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a) [## 在深度学习中通过真实世界的应用转移学习的综合实践指南
-
-### 用知识转移的力量进行深度学习！
-
-towardsdatascience.com](/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a) 
+</a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a>  
 
 我强烈推荐阅读这篇文章。
 

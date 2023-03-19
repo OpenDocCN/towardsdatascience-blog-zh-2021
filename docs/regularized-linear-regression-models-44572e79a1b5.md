@@ -16,7 +16,7 @@
 
 接下来，在这一部分中，将讨论 OLS 的缺点、潜在的补救措施以及 ***岭回归*** 模型。
 
-与上一部分类似，这里建议的所有实现都在一个葡萄酒质量预测数据集上进行了验证，这个数据集和其他相关文件可以在项目的存储库中找到，这里是[](http://github.com/wyattowalsh/regularized-linear-regression-deep-dive)****。****
+与上一部分类似，这里建议的所有实现都在一个葡萄酒质量预测数据集上进行了验证，这个数据集和其他相关文件可以在项目的存储库中找到，这里是<http://github.com/wyattowalsh/regularized-linear-regression-deep-dive>****。****
 
 ## **OLS 的缺点**
 

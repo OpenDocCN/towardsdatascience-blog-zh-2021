@@ -16,11 +16,7 @@
 
 不完全是。努力是一回事，但真正有效地学习是另一回事。更糟糕的是，你可能会自欺欺人地认为自己有能力。参加 Coursera MOOC— *学习如何学习:强大的智力工具，帮助你掌握困难的科目。*
 
-[](https://www.coursera.org/learn/learning-how-to-learn) [## 学习如何学习:帮助你掌握困难科目的强大心智工具
-
-### 3，024，499 已注册本课程让您轻松获得专家在以下领域使用的宝贵学习技巧…
-
-www.coursera.org](https://www.coursera.org/learn/learning-how-to-learn) 
+<https://www.coursera.org/learn/learning-how-to-learn>  
 
 作为一名实践数据科学家，在学习数据科学上的时间投资是宝贵的，但我参加这门课程绝对是战略性的，因为我相信它可以促进我未来的学习努力。为了获得更详细的报道，我会推荐任何数据科学家、软件工程师，或者实际上，任何其他专业领域的人参加这个 MOOC。除此之外，这篇文章是我从 MOOC 中获得的重要要点的高潮和精华，并经过了进一步的微调和彻底的研究——从在线/研究文章到书籍，如:
 
@@ -48,11 +44,7 @@ www.coursera.org](https://www.coursera.org/learn/learning-how-to-learn)
 
 此外，研究人员发现这种向长期记忆的转移也发生在我们睡觉的时候，如下图所示:
 
-[](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored) [## 记忆储存在大脑的什么地方？
-
-### 记忆不仅仅储存在大脑的一部分。不同的类型储存在不同的、相互连接的大脑中…
-
-qbi.uq.edu.au](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored) 
+<https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored>  
 
 # 2.为大脑学习做准备——睡眠、锻炼、环境、饮食
 
@@ -77,41 +69,17 @@ qbi.uq.edu.au](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stor
 
 然而，我想提出一项被低估了，但对我自己大有裨益的运动——长距离步行**。让我解释一下。长距离散步(30 分钟或更长)不仅被普遍认为是一种健康的运动，它还对心理健康带来巨大的好处，如缓解情绪和增强动力。在大自然附近散步甚至更好——一举两得——因为你可以享受享受一个新的物理环境的额外好处。此外，当美妙的创意突然出现在脑海中时，散步会进入分散的思维模式(很快就会解释)。我不记得有多少次在我的徒步旅行中，我在工作中的机器学习问题的解决方案已经被孵化出来。我一点也不惊讶，研究发现散步是创造力的助推器:**
 
-[](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/) [## 斯坦福大学研究发现散步能提高创造力
-
-### 苹果已故联合创始人史蒂夫·乔布斯以他的步行会议而闻名。脸书的马克·扎克伯格也被…
-
-news.stanford.edu](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/) [](https://medium.com/personal-growth/why-intelligent-minds-take-their-brains-for-long-walks-19beaab05c18) [## 为什么聪明的人会带着他们的大脑长途跋涉
-
-### 当你走路时，你的大脑突触以不同的方式激活
-
-medium.com](https://medium.com/personal-growth/why-intelligent-minds-take-their-brains-for-long-walks-19beaab05c18) 
+<https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/>  <https://medium.com/personal-growth/why-intelligent-minds-take-their-brains-for-long-walks-19beaab05c18>  
 
 另一种锻炼形式是通过电子游戏进行精神锻炼。与直觉相反，虽然许多人认为视频游戏会上瘾，可能会阻碍学习，但研究表明,**定期但有纪律的游戏**可以扩展大脑的认知能力和记忆。特别要叫出一款著名的类似象棋的即时战略(RTS)游戏——星际争霸 2。这款游戏对认知能力的要求很高，每分钟执行的动作也很高，这使得它非常适合进行一系列脑力锻炼，研究表明，这种锻炼可以提高认知敏捷度和流畅智力。
 
-[](https://www.medicalnewstoday.com/articles/319614#Weather-prediction-task) [## 玩电子游戏可能“增强学习”
-
-### 在一项学习测试中，玩电子游戏的人比不玩的人表现更好，他们的大脑似乎…
-
-www.medicalnewstoday.com](https://www.medicalnewstoday.com/articles/319614#Weather-prediction-task) [](https://www.wired.co.uk/article/starcraft-cognitive-abilities) [## 研究:玩星际争霸可以增加你的认知能力
-
-### 参与者被分成三组:一组玩一个版本的星际争霸，其中他们只有一个基地…
-
-www.wired.co.uk](https://www.wired.co.uk/article/starcraft-cognitive-abilities) 
+<https://www.medicalnewstoday.com/articles/319614#Weather-prediction-task>  <https://www.wired.co.uk/article/starcraft-cognitive-abilities>  
 
 最后，通过保持大脑处于最佳工作状态，培养合理的饮食对滋养大脑有效学习也大有帮助。相比之下，经常吃油腻和垃圾食品会阻碍大脑的表现，尤其是当它含有高糖分时。研究表明，过量摄入糖分会导致记忆力受损。此外，最近的研究还发现**肠道和大脑通过数百万条神经**相连，这表明消化系统的健康与大脑的健康密切相关。因此，随着时间的推移，油腻和致癌的饮食也可能降低大脑健康。因此，健脑饮食的关键是避免垃圾食品，多吃一些**增强记忆和提高注意力的超级食物**，这些食物含有各种有益的营养成分，见以下链接:
 
 ***额外提示*** *:吃清淡的食物(减少脂肪和糖分)和间隔摄入热量，比如吃健康的零食(我会推荐超级食物，比如黑巧克力和坚果)，可以维持我们一整天的情绪和注意力水平。*
 
-[](https://www.healthline.com/nutrition/11-brain-foods) [## 11 种增强大脑和记忆力的最佳食物
-
-### 你的大脑很重要。作为你身体的控制中心，它负责保持你的心脏跳动和…
-
-www.healthline.com](https://www.healthline.com/nutrition/11-brain-foods) [](https://www.inc.com/drew-hendricks/10-superfoods-that-increase-productivity.html) [## 提高生产力的 10 种超级食物
-
-### 你可能听说过世界上最成功的人是如何寻找生产力助推器的…
-
-www.inc.com](https://www.inc.com/drew-hendricks/10-superfoods-that-increase-productivity.html) 
+<https://www.healthline.com/nutrition/11-brain-foods>  <https://www.inc.com/drew-hendricks/10-superfoods-that-increase-productivity.html>  
 
 # 3.思维模式——分散和集中
 
@@ -225,11 +193,7 @@ www.inc.com](https://www.inc.com/drew-hendricks/10-superfoods-that-increase-prod
 
 *****P.S.*** *冥想会不舒服，有一些练习者在练习后出现负面精神状态的报道。因此，我一般只推荐短时间的冥想练习(严格来说是 5-10 分钟)，从个人经验来看，这是非常有益且无害的。***
 
-**[](https://influencedigest.com/productivity/how-to-make-willpower-a-habit/) [## 如何让意志力成为一种习惯
-
-### 几个世纪以来，人类已经习惯于做一些事情。我们是习惯的动物。人类对…的调节
-
-influencedigest.com](https://influencedigest.com/productivity/how-to-make-willpower-a-habit/) 
+**<https://influencedigest.com/productivity/how-to-make-willpower-a-habit/>  
 
 # 6.超级充电学习——教授你所知道的
 
@@ -237,15 +201,7 @@ influencedigest.com](https://influencedigest.com/productivity/how-to-make-willpo
 
 许多人认为学习是一个内部的、孤立的过程，在这个过程中，你会退回到自己安静的、私人的空间去培养知识。很多时候，这是真的，因为你需要一个尽可能少分心的隐蔽环境来吸收信息。尽管如此，学习还有另一个互动的维度——那就是边学边教！除了在学习中进行回忆，教学的想法使你集中注意力，并迫使你尽可能系统地解释概念，从而**加强我们对**、**的清晰理解，这是另一种形式的有意练习**。支持把教学作为一种学习形式的一个著名范例叫做费曼技巧:
 
-[](/how-to-use-the-feynman-technique-to-become-an-expert-in-the-most-complicated-concepts-in-data-cecf33d7d518) [## 如何使用费曼技术成为数据中最复杂概念的专家…
-
-### 来自“伟大的解释者”的教导将帮助你掌握数据科学
-
-towardsdatascience.com](/how-to-use-the-feynman-technique-to-become-an-expert-in-the-most-complicated-concepts-in-data-cecf33d7d518) [](https://blog.doist.com/feynman-technique/) [## 费曼技巧:如何快速学习任何东西
-
-### 理查德·费曼是一位获得诺贝尔奖的物理学家，他在量子力学等领域做出了重大贡献
-
-blog.doist.com](https://blog.doist.com/feynman-technique/) 
+</how-to-use-the-feynman-technique-to-become-an-expert-in-the-most-complicated-concepts-in-data-cecf33d7d518>  <https://blog.doist.com/feynman-technique/>  
 
 其中，掌握一门学科有 4 个步骤，核心是把这门学科教给别人:
 
@@ -316,8 +272,4 @@ blog.doist.com](https://blog.doist.com/feynman-technique/)
 > 
 > ***支持我！*** —如果你没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。*
 
-[](https://tanpengshi.medium.com/membership) [## 加入我的介绍链接媒体-谭师鹏阿尔文
-
-### 阅读谭·师鹏·阿尔文(以及媒体上成千上万其他作家)的每一个故事。您的会员费直接…
-
-tanpengshi.medium.com](https://tanpengshi.medium.com/membership)**
+<https://tanpengshi.medium.com/membership> **

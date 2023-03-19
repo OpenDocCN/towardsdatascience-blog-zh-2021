@@ -98,12 +98,4 @@ vlookup 的另一个缺点是它只能返回一个值，因此如果键列包含
 
 如果你喜欢这个故事，也可以看看以下内容:
 
-[](/python-tips-for-someone-transiting-from-excel-ce16c5f9cbac) [## 从 Excel 过渡到 Python 的技巧
-
-### Excel 是最常用的数据分析应用程序之一。然而，由于其明显的局限性(即…
-
-towardsdatascience.com](/python-tips-for-someone-transiting-from-excel-ce16c5f9cbac) [](/how-to-encrypt-pdf-and-send-as-an-email-attachment-using-python-4ce7fd462a99) [## 如何使用 Python 加密 PDF 并作为电子邮件附件发送
-
-### …并可能为贵公司节省一些人力资源工具的费用
-
-towardsdatascience.com](/how-to-encrypt-pdf-and-send-as-an-email-attachment-using-python-4ce7fd462a99)
+</python-tips-for-someone-transiting-from-excel-ce16c5f9cbac>  </how-to-encrypt-pdf-and-send-as-an-email-attachment-using-python-4ce7fd462a99> 

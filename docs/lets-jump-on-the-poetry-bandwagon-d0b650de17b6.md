@@ -10,11 +10,7 @@
 
 [诗歌](https://python-poetry.org/)可能会彻底改变当前 Python 项目的创建和共享方式。它使用起来很直观，解决了 Python 开发人员抱怨多年的一些关键痛点。在学习打包 Python 项目时，我偶然发现了诗歌。对于那些不熟悉打包的人来说，它本质上包含了轻松共享代码所需的步骤。不幸的是，众所周知 Python 的打包生态系统错综复杂，对新来者不友好([这里是 Python 打包的伟大历史](https://www.youtube.com/watch?v=AQsZsgJ30AE))。诗歌将自己推销为更好的选择——一站式商店，可以使整个过程更加顺畅。我同意它在这方面有所作为。但是，即使您没有完成整个打包工作流，诗歌也可以在您的数据科学项目中让您受益匪浅。请继续阅读它的一些最佳特性。
 
- [## 诗意
-
-### Python 依赖管理和打包变得简单。
-
-python-poetry.org](https://python-poetry.org/) ![](img/2e60b7daca752343bc7079c8ebc068f2.png)
+  ![](img/2e60b7daca752343bc7079c8ebc068f2.png)
 
 在过去的一年里，诗歌变得更受欢迎了。版本 1 于 2019 年 12 月发布。来源:使用 [pypinfo](https://github.com/ofek/pypinfo) 查询 PyPI 下载，参见[本文](https://packaging.python.org/guides/analyzing-pypi-package-downloads/)。作者创建的图表。
 

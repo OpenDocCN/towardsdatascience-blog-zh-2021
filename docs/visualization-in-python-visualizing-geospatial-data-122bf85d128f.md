@@ -242,8 +242,4 @@ for lat, lng, name in \
 
 我希望这篇文章能为您更详细地探索 leav 库提供素材。我几乎没有触及到叶子能做什么的皮毛。如果您在现实世界的项目中使用了 real，请务必通过评论窗口与我们的读者分享。玩得开心！
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

@@ -214,11 +214,7 @@ Ben 提出了一个非常有趣的问题:**有多少神经架构仅仅因为不�
 
 如果你想进一步探索最近的神经科学研究如何为实现更具弹性、一致性和灵活性的人工智能指明方向，比如杰夫·霍金斯和他的团队**所做的研究**，你可以看看下面我写的另一篇关于这个主题的文章
 
-[](/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb) [## 走向深度学习的终点和 AGI 的起点
-
-### 如何最近的研究指出了战胜对立的例子，并实现更有弹性，一致…
-
-towardsdatascience.com](/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb) 
+</towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb>  
 
 **百万灵魂的声音诗**
 

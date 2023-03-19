@@ -149,10 +149,6 @@ List 包含一系列有序的值，这些值在内存中相邻放置。列表由
 
 *您可能还会发现下面的文章很有用*
 
-*[](/how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82) [## 如何准备行为/软技能面试？
-
-### 用备忘单准备数据科学行为面试的有组织指南。
-
-towardsdatascience.com](/how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82)* 
+*</how-to-prepare-for-a-behavioral-soft-skills-interview-cheat-sheet-9347aaeaef82> * 
 
 ***如果这篇文章对你有帮助，或者你想了解更多关于机器学习和数据科学的知识，请关注我**[**Aqeel an war**](https://medium.com/u/a7cc4f201fb5?source=post_page-----72ceb644290--------------------------------)**，或者联系我**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***。****

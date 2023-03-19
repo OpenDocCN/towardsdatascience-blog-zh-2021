@@ -119,32 +119,4 @@ model_p.summary()
 
 这里有一些我认为有助于理解理论和想法的参考资料。
 
-[](https://stats.stackexchange.com/questions/46418/why-is-the-square-root-transformation-recommended-for-count-data) [## 为什么建议对计数数据使用平方根变换？
-
-### 对于泊松，平方根近似是方差稳定的。关于…有许多不同的说法
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/46418/why-is-the-square-root-transformation-recommended-for-count-data) [](https://scikit-learn.org/stable/auto_examples/linear_model/plot_poisson_regression_non_normal_loss.html) [## 泊松回归和非正态损失-sci kit-学习 0.23.2 文档
-
-### 这个例子说明了对数线性泊松回归在法国汽车第三方责任索赔中的应用…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/linear_model/plot_poisson_regression_non_normal_loss.html) [](https://blog.tensorflow.org/2019/03/regression-with-probabilistic-layers-in.html) [## 张量流概率中的概率层回归
-
-### 2019 年 3 月 12 日-由 Pavel Sountsov，Chris Suter，Jacob Burnim，Joshua V. Dillon 和 TensorFlow Probability 发布…
-
-blog.tensorflow.org](https://blog.tensorflow.org/2019/03/regression-with-probabilistic-layers-in.html) [](https://matthewmcateer.me/blog/a-quick-intro-to-bayesian-neural-networks/) [## 贝叶斯神经网络快速介绍- matthewmcateer.me
-
-### 这篇文章探索了我和谷歌 Tensorflow 团队最近的一些工作。最近的
-
-matthewmcateer.me](https://matthewmcateer.me/blog/a-quick-intro-to-bayesian-neural-networks/) [](https://stats.stackexchange.com/questions/492726/what-is-use-of-tweedie-or-poisson-loss-objective-function-in-xgboost-and-deep-le) [## Tweedie 或泊松损失/目标函数在 XGboost 和深度学习模型中有什么用
-
-### 我曾经为一家大型意外保险公司专业开发这些模型，并且可能参与了…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/492726/what-is-use-of-tweedie-or-poisson-loss-objective-function-in-xgboost-and-deep-le)  [## 回归- pycaret 2.2.0 文档
-
-### 此函数分析已定型模型在维持集上的性能。这可能需要在以下方面重新训练模型…
-
-pycaret.readthedocs.io](https://pycaret.readthedocs.io/en/latest/api/regression.html)  [## 泊松损失函数| Peltarion 平台|人工智能建模
-
-### 对计数数据建模时，泊松损失函数用于回归。数据的使用遵循泊松…
-
-peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/poisson)
+<https://stats.stackexchange.com/questions/46418/why-is-the-square-root-transformation-recommended-for-count-data>  <https://scikit-learn.org/stable/auto_examples/linear_model/plot_poisson_regression_non_normal_loss.html>  <https://blog.tensorflow.org/2019/03/regression-with-probabilistic-layers-in.html>  <https://matthewmcateer.me/blog/a-quick-intro-to-bayesian-neural-networks/>  <https://stats.stackexchange.com/questions/492726/what-is-use-of-tweedie-or-poisson-loss-objective-function-in-xgboost-and-deep-le>     

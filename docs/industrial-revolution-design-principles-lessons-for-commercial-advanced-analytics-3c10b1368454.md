@@ -107,11 +107,7 @@
 
 公司可以使用机器人流程自动化(RPA)等工具开始他们的自动化之旅，这些工具用于标准化的流程，也称为“低级人工智能”，以不费吹灰之力产生“速赢”。我在“智能自动化”中写了一篇文章，其中深入讨论了 RPA 和数据科学之间的关系:
 
-[](/intelligent-automation-a-symbiotic-relationship-between-rpa-and-data-science-632af34555e3) [## 智能自动化 RPA 和数据科学之间的共生关系
-
-### 组织应该如何建立他们的自动化和分析任务团队，同时避免“孤岛化”陷阱？
-
-towardsdatascience.com](/intelligent-automation-a-symbiotic-relationship-between-rpa-and-data-science-632af34555e3) 
+</intelligent-automation-a-symbiotic-relationship-between-rpa-and-data-science-632af34555e3>  
 
 与此同时，高级分析团队在实现*标准化*和*模块化*后，可以通过使用机器学习工作流工具部署模型并将其推送到云服务平台，开始**自动化**他们的产品(这里我使用了词语“*”而不是“*”)，因为后者需要最后一个支柱:“*”)***
 

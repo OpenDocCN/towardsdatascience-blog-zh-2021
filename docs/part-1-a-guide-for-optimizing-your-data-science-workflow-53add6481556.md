@@ -48,11 +48,7 @@ VS 代码将用于设置工作流。尽管本文是针对 VS 代码的，但是�
 
 如果你想跟着做，确保你已经安装了 VS 代码。我将使用`pyenv`和`poetry`来设置项目。如果您需要参考资料，请查看我关于如何设置 python 环境的文章，
 
-[](/best-practices-for-setting-up-a-python-environment-d4af439846a) [## 设置 Python 环境的最佳实践
-
-### pyenv-> Pipx-> poem，python 工具链的三大支柱
-
-towardsdatascience.com](/best-practices-for-setting-up-a-python-environment-d4af439846a) 
+</best-practices-for-setting-up-a-python-environment-d4af439846a>  
 
 ```
 >mkdir dream_ds_project
@@ -530,19 +526,11 @@ csv 文件的智能感知自动完成路径。作者图片
 
 如果您想在工作流程中有效地使用 GitHub copilot，请查看我的文章，
 
-[](/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47) [## GitHub copilot 能为数据科学家做些什么？
-
-### 没有废话指南使用副驾驶今天
-
-towardsdatascience.com](/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47) 
+</tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47>  
 
 如果你喜欢本文中 GIF 格式的代码，可以看看我写的关于如何自己设置它的文章，
 
-[](https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa) [## 让你的 Python 代码看起来很漂亮
-
-### 为什么 JavaScript 开发者应该享受所有的乐趣？
-
-python .平原英语. io](https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa) 
+<https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa>  
 
 # 第二部分
 

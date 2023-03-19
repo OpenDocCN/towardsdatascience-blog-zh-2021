@@ -26,19 +26,11 @@
 
 使用成对相关进行要素选择就是这么回事-识别高度相关的要素组并仅保留其中一个要素，以便您的模型可以使用尽可能少的要素获得尽可能大的预测能力。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 绘制完美的相关矩阵
 
@@ -114,20 +106,4 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 如果你不知道接下来要读什么，这里我为你挑选了一些:
 
-[](/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f) [## 如何使用方差阈值进行鲁棒特征选择
-
-### 即使删除 50 个功能，也能获得相同的性能
-
-towardsdatascience.com](/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f) [](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) [## HalvingGridSearch 将超参数调谐速度提高了 11 倍
-
-### 连续减半彻底粉碎了 GridSearch 和 RandomSearch
-
-towardsdatascience.com](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) [](/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390) [## XGBoost 分类问题入门指南
-
-### 利用最热门的 ML 库实现一流的分类性能
-
-towardsdatascience.com](/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390) [](https://towardsdev.com/intro-to-object-oriented-programming-for-data-scientists-9308e6b726a2) [## 面向数据科学家的面向对象编程介绍
-
-### 自己用 OOP 基础实现一个简单的线性回归
-
-towardsdev.com](https://towardsdev.com/intro-to-object-oriented-programming-for-data-scientists-9308e6b726a2)
+</how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f>  </11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155>  </beginners-guide-to-xgboost-for-classification-problems-50f75aac5390>  <https://towardsdev.com/intro-to-object-oriented-programming-for-data-scientists-9308e6b726a2> 

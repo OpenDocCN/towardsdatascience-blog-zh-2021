@@ -115,35 +115,11 @@ setwd("C:/Users/amalasi/Documents/R/Blog post/Blog17-Excel1")
 
 对我写的更多自动化相关的博客感兴趣，请查看这个博客:
 
-[](/create-your-resume-with-pagedown-package-in-r-123ca6310d52) [## 用 R 中的 pagedown 包创建你的简历
-
-### 使用 pagedown 包在 1 小时内制作令人印象深刻的简历
-
-towardsdatascience.com](/create-your-resume-with-pagedown-package-in-r-123ca6310d52) 
+</create-your-resume-with-pagedown-package-in-r-123ca6310d52>  
 
 关于 R 和用 R 绘图的其他博客:
 
-[](/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a) [## Tidyverse 三家不太知名的管道运营商
-
-### Tee、exposition 和赋值管道操作符，用于干净的代码编写。
-
-towardsdatascience.com](/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a) [](/all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9) [## 构建您的第一个闪亮应用程序所需要知道的一切
-
-### 涵盖了从数据准备到连接用户界面和服务器再到在线发布应用程序的基本概念。
-
-towardsdatascience.com](/all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9) [](/7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73) [## R 中高效工作流值得知道的 7 个捷径
-
-### RStudio 中常规编码的便捷键盘快捷键
-
-towardsdatascience.com](/7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [## 使用 ggplot2 实现主数据可视化:饼图、蜘蛛图和条形图
-
-### 关于在 r 中创建饼图、蜘蛛图和圆形条形图的指南。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) 
+</3-lesser-known-pipe-operators-in-tidyverse-111d3411803a>  </all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9>  </7-shortcuts-worth-knowing-for-efficient-workflow-in-r-cc52c351cb73>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827>  
 
 ## 数据源
 

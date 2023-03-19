@@ -97,28 +97,8 @@ Splunk 给出了数据平台的全面定义:
 
 喜欢这篇文章吗？您可能还喜欢以下内容，在数字孪生环境中利用数据平台:
 
-[](/need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0) [## 需要帮助做决定吗？问问你的数字双胞胎吧！
-
-### 将实时数据与模拟、机器学习和人类推理相结合，以提升决策水平。
-
-towardsdatascience.com](/need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0) 
+</need-help-making-decisions-ask-your-digital-twin-6e4cf328cb0>  
 
 # 来源
 
-[](https://www.bcg.com/capabilities/digital-technology-data/digital-platform) [## 数据和数字平台
-
-### 了解更多有关 BCG 的数据和数字平台(DDP)方法如何使用一种方法加速数字化转型的信息…
-
-www.bcg.com](https://www.bcg.com/capabilities/digital-technology-data/digital-platform) [](https://www.mongodb.com/what-is-a-data-platform#:~:text=A%20data%20platform%20is%20an,layer%20for%20users%20and%20applications) [## 什么是数据平台？
-
-### 构建现代数据平台需要采用现代数据架构(MDA ),它规定了数据将如何…
-
-www.mongodb.com](https://www.mongodb.com/what-is-a-data-platform#:~:text=A%20data%20platform%20is%20an,layer%20for%20users%20and%20applications) [](https://www.splunk.com/en_us/data-insider/what-is-a-data-platform.html) [## 什么是数据平台？初学者指南| Splunk
-
-### Splunk 在 2021 年 Gartner SIEM 魔力象限中被评为领导者阅读报告，了解 Splunk 连续 8 年成为领导者的原因…
-
-www.splunk.com](https://www.splunk.com/en_us/data-insider/what-is-a-data-platform.html) [](https://builtin.com/big-data/big-data-platform) [## 您需要了解的 31 个大数据平台
-
-### 不清楚什么时候普通的旧“数据”变成了“大数据”，但后一个术语可能起源于 20 世纪 90 年代的硅谷…
-
-builtin.com](https://builtin.com/big-data/big-data-platform)
+<https://www.bcg.com/capabilities/digital-technology-data/digital-platform>  <https://www.mongodb.com/what-is-a-data-platform#:~:text=A%20data%20platform%20is%20an,layer%20for%20users%20and%20applications>  <https://www.splunk.com/en_us/data-insider/what-is-a-data-platform.html>  <https://builtin.com/big-data/big-data-platform> 

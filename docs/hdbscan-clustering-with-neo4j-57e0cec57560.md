@@ -14,21 +14,13 @@
 
 与像 [k-means](https://medium.com/neo4j/k-means-clustering-with-neo4j-b0ec54bf0103) 这样的聚类算法不同，使用 HDBSCAN，您不必预先决定您期望在数据中找到多少个聚类。在我看到 Maarten Grootendorst 在[从文本中提取主题的教程](/topic-modeling-with-bert-779f7db187e6)中使用 HDBSCAN 后，我想了解更多。
 
-[](/topic-modeling-with-bert-779f7db187e6) [## 用 BERT 进行主题建模
-
-### 利用 BERT 和 TF-IDF 创建易于解释的主题。
-
-towardsdatascience.com](/topic-modeling-with-bert-779f7db187e6) 
+</topic-modeling-with-bert-779f7db187e6>  
 
 麦金尼斯对 HDBSCAN 内部工作方式的描述会引起 Neo4j 用户的共鸣。他谈到了项目之间的关系图，以及作为过程的一部分，该算法如何找到最小生成树。
 
 他的“graph ization”描述让我怀疑我是否可以用 Neo4j 实现 HDBSCAN。当我在工作中使用 HDBSCAN 时，我使用 Python 包[而不是在 Neo4j 中实现算法。我认为没有理由重新发明轮子，特别是当我可以轻松地将工件从 hdbscan 包](https://pypi.org/project/hdbscan/)[输出到 networkx](https://hdbscan.readthedocs.io/en/latest/api.html?highlight=networkx#hdbscan.plots.CondensedTree.to_networkx) ，然后[将 graphml 导入到 Neo4j](https://neo4j.com/labs/apoc/4.1/import/graphml/) 时。
 
-[](https://pypi.org/project/hdbscan/) [## hdbscan
-
-### HDBSCAN -带噪声的应用程序的基于层次密度的空间聚类。对变化的…执行 DBSCAN
-
-pypi.org](https://pypi.org/project/hdbscan/) 
+<https://pypi.org/project/hdbscan/>  
 
 > 然而，试着向别人解释一个概念是加深你自己理解的好方法。向计算机“解释”一个概念可能比向人解释更难，而且可能会提供一些有趣的见解。
 

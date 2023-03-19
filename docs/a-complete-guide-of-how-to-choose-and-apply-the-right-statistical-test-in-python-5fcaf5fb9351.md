@@ -128,4 +128,4 @@ pearson_coef, p_value = stats.pearsonr(df["Weight"], df["Height"]) print("Pearso
 
 这是对统计测试和假设检验的介绍。根据变量类型和一些常见问题，我们对何时应该应用 Z 检验、T 检验、卡方检验、方差分析和相关性检验有了基本的了解。你可以把这篇文章作为统计测试的备忘单，但是我鼓励你阅读更多关于它们的内容，因为正如我之前所说的，统计学是数据科学中最重要的部分。
 
-【https://predictivehacks.com】最初发表于[](https://predictivehacks.com/how-to-choose-and-apply-the-right-statistical-test-in-python/)**。**
+【https://predictivehacks.com】最初发表于<https://predictivehacks.com/how-to-choose-and-apply-the-right-statistical-test-in-python/>**。**

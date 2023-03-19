@@ -352,7 +352,7 @@
 
 *图片来自[维基共享](https://commons.wikimedia.org/wiki/File:EulerPhi100.PNG)*
 
-**to entint 函数给出了给定整数 n 之前的正整数的数目，这些正整数是*[](https://en.wikipedia.org/wiki/Coprime_integers)**到 n 的互质数*【峰值】对应的质数为***【φ(n)= n-1****。*因此，直线遵循一条 *y = x -1* 线的形状。**
+**to entint 函数给出了给定整数 n 之前的正整数的数目，这些正整数是*<https://en.wikipedia.org/wiki/Coprime_integers>**到 n 的互质数*【峰值】对应的质数为***【φ(n)= n-1****。*因此，直线遵循一条 *y = x -1* 线的形状。**
 
 **也许这和我们的洗牌问题有关。**
 

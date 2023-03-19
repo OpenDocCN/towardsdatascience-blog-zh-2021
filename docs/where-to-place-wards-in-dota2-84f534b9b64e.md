@@ -26,11 +26,7 @@ DOTA2 是一款 MOBA 游戏，有许多有趣且有时隐藏的机制。这是�
 
 完整的代码可以在这里找到:
 
-[](https://github.com/NadimKawwa/DOTAWardFinder) [## GitHub-NadimKawwa/DOTAWardFinder:在 DOTA 中查找 ward 集群
-
-### 在 DOTA 中查找 ward 集群。在 GitHub 上创建一个帐户，为 NadimKawwa/DOTAWardFinder 的开发做出贡献。
-
-github.com](https://github.com/NadimKawwa/DOTAWardFinder) 
+<https://github.com/NadimKawwa/DOTAWardFinder>  
 
 # 定义愿景
 
@@ -65,11 +61,7 @@ OpenDota 项目允许玩家查看比赛概要和有用的情节，如下图取�
 
 OpenDota 的任何人都可以免费查询这些数据:
 
-[](https://www.opendota.com/explorer) [## 数据浏览器-专业 Dota 2 统计-开放 Dota - Dota 2 统计
-
-### 开源 Dota 2 比赛数据和玩家统计
-
-www.opendota.com](https://www.opendota.com/explorer) 
+<https://www.opendota.com/explorer>  
 
 ## 用于解析数据的 SQL
 
@@ -238,20 +230,4 @@ DOTA 是一个分秒必争的游戏，每一刻都是创造新事物的机会。
 
 # 参考
 
-[](https://github.com/odota) [## OpenDota 项目
-
-### 社区维护的开源 Dota 2 数据平台开源 Dota 2 数据平台 JavaScript 1.3k 302 React web…
-
-github.com](https://github.com/odota) [](http://varianceexplained.org/r/kmeans-free-lunch/) [## K-means 聚类不是免费的午餐
-
-### 我最近在交叉验证上遇到了这个问题，我认为它提供了一个使用 R 和…
-
-varianceexplained.org](http://varianceexplained.org/r/kmeans-free-lunch/) [](https://en.wikipedia.org/wiki/DBSCAN#Disadvantages) [## DBSCAN -维基百科
-
-### 基于密度的含噪声应用空间聚类(DBSCAN)是由 Martin…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/DBSCAN#Disadvantages) [](https://github.com/odota/core/issues/1473) [## 英雄死亡坐标问题# 1473 odata/core
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/odota/core/issues/1473)
+<https://github.com/odota>  <http://varianceexplained.org/r/kmeans-free-lunch/>  <https://en.wikipedia.org/wiki/DBSCAN#Disadvantages>  <https://github.com/odota/core/issues/1473> 

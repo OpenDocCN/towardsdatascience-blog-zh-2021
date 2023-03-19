@@ -209,11 +209,7 @@ do_bayes_theorem(
 
 感谢阅读！如果您对如何更严格地将贝叶斯思维应用于统计数据分析感兴趣，请查看我关于该主题的介绍性文章:
 
-[](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) 
-
-另外，可以随意看看我在 DataCamp 上教的 Python 课程中的 [**贝叶斯数据分析。它从最基本的概率开始，通过贝叶斯 A/B 测试和决策分析逐步发展到更高级的主题，如用马尔可夫链蒙特卡罗模拟方法拟合和评估贝叶斯回归模型。**](https://www.datacamp.com/courses/bayesian-data-analysis-in-python)
+</the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> 
 
 如果你喜欢这篇文章，为什么不 [**订阅邮件更新**](https://michaloleszak.medium.com/subscribe) 我的新文章呢？并且通过 [**成为媒介会员**](https://michaloleszak.medium.com/membership) ，可以支持我的写作，获得其他作者和我自己的所有故事的无限访问权限。
 
@@ -221,16 +217,4 @@ towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/statistics-is-dead-long-live-statistics-df6c71262187) [## 统计死了，统计万岁！
-
-### 认识一下重采样，这是一种通用的现代统计方法
-
-towardsdatascience.com](/statistics-is-dead-long-live-statistics-df6c71262187) [](/generative-adversarial-networks-101-c4b135a440d5) [## 生成性对抗网络 101
-
-### 如何构建一个简单的 GAN
-
-towardsdatascience.com](/generative-adversarial-networks-101-c4b135a440d5)
+</6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </statistics-is-dead-long-live-statistics-df6c71262187>  </generative-adversarial-networks-101-c4b135a440d5> 

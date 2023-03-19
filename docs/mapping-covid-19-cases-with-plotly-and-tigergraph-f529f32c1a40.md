@@ -419,30 +419,14 @@ app.run_server(mode='external')
 
 请在此处记下:
 
-[](https://colab.research.google.com/drive/1zKsgHHOi6RI4dCAjMKfxS0EO0CUAB6ST?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1zKsgHHOi6RI4dCAjMKfxS0EO0CUAB6ST?usp=sharing) 
+<https://colab.research.google.com/drive/1zKsgHHOi6RI4dCAjMKfxS0EO0CUAB6ST?usp=sharing>  
 
 如果您在此过程中遇到任何错误，请在 TigerGraph Discord 或社区论坛中发布。
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 592 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) [](https://community.tigergraph.com/) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com/) 
+<https://discord.gg/gRHWBZNpxW>  <https://community.tigergraph.com/>  
 
 最后，在接下来的日子里期待更多 Plotly + TigerGraph 内容！如果您想创建自己的 Plotly 和 TigerGraph 演示，请将它们放在一起并通过 TigerGraph 社区贡献计划提交，以获得您的条纹。
 
-[](https://www.tigergraph.com/community-contribution/) [## 图表分析用例|图表数据库解决方案
-
-### 使用 TigerGraph 的图形数据库解决方案连接、分析和学习数据。探索图表分析使用…
-
-www.tigergraph.com](https://www.tigergraph.com/community-contribution/) 
+<https://www.tigergraph.com/community-contribution/>  
 
 非常感谢你阅读这篇博客，下次再见！

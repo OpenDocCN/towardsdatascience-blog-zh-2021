@@ -20,29 +20,17 @@ DataFrames.jl 无疑是处理数据的一个很好的包，但是由于这些经
 
 然而，DataFrames.jl 对于这门语言的新手来说可能也不是一个容易上手的包。DataFrames.jl 是非常根深蒂固的，并集成到 Julian 生态系统和方法论中，通常遵循当今 Julia 包的许多典型语法和方法论。虽然像条件屏蔽和序列类型这样的好东西可能会丢失，但 DataFrames 通过使用在整个 Julia 中扩展的相同的内置方法来弥补它。如果你想了解更多关于如何使用 DataFrames.jl 的知识，我有一整篇文章，你可以在这里找到:
 
-[](/how-to-manipulate-data-with-dataframes-jl-179d236f8601) [## 如何用 DataFrames.jl 操作数据
-
-### 关于如何在 Julia with DataFrames.jl 中处理数据的快速教程
-
-towardsdatascience.com](/how-to-manipulate-data-with-dataframes-jl-179d236f8601) 
+</how-to-manipulate-data-with-dataframes-jl-179d236f8601>  
 
 然而，我对这种方法的问题是，我认为它通常需要生态系统的开发，而不是单个软件包的开发。要明确的是，这并不奇怪或什么；这是一种常见的做法。然而，正因为如此，我们现在缺少了许多在 Julia 生态系统中有待进一步开发的特性。换句话说，在很多情况下，包都在等待实现新特性，直到其他包分支完成！
 
 如果你想查看 OddFrames 库并了解更多，你可以在这里查看:
 
-[](https://github.com/ChifiSource/OddFrames.jl) [## ChifiSource/OddFrames.jl
-
-### OddFrames.jl 是一个针对那些想要处理带标签的一维数据，而不是…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl) 
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 如果你想看一个有输出和索引的酷笔记本，你可以看看这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/OddFrames%20Output.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/OddFrames%20Output.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/OddFrames%20Output.ipynb>  
 
 # 奇数帧类型
 
@@ -151,11 +139,7 @@ d[d[:A] .> 2]
 
 我谈了很多为什么我喜欢这个，因为不久前我在一个熊猫倒计时中做了一个熊猫专题。你可以在这里查看:
 
-[](/20-great-pandas-tricks-for-data-science-3a6daed71da0) [## 数据科学的 20 个大熊猫技巧
-
-### 你应该每天使用的 20 个大熊猫技巧。
-
-towardsdatascience.com](/20-great-pandas-tricks-for-data-science-3a6daed71da0) 
+</20-great-pandas-tricks-for-data-science-3a6daed71da0>  
 
 # 结论
 

@@ -40,11 +40,7 @@
 
 下面的文章对 RL 做了更详细的解释:
 
-[](https://www.guru99.com/reinforcement-learning-tutorial.html) [## 强化学习:什么是，算法，应用，例子
-
-### 强化学习被定义为一种机器学习方法，它关注的是软件代理应该如何采取…
-
-www.guru99.com](https://www.guru99.com/reinforcement-learning-tutorial.html) 
+<https://www.guru99.com/reinforcement-learning-tutorial.html>  
 
 # 方法
 
@@ -70,11 +66,7 @@ www.guru99.com](https://www.guru99.com/reinforcement-learning-tutorial.html)
 
 注意:这个硬件使用微伺服系统，而不是我们使用的伺服系统。确保获得与这些设备上的电流相匹配的电池。我们推荐 4 节可充电 AA 电池用于 4 个微型伺服系统。
 
-[](https://www.amazon.co.uk/ELEGOO-Penguin-Assembling-Tutorial-Hobbyists/dp/B07GN1JN6N/ref=pd_ybh_a_42?_encoding=UTF8&psc=1&refRID=QK93FABP5N8Z3BZM8K8R) [## ELEGOO Penguin Bot 双足机器人套件，用于 Arduino 项目，带组装教程，STEM 套件，用于…
-
-### ELEGOO 企鹅机器人双足机器人套件，用于 Arduino 项目，带组装教程，STEM 套件，用于业余爱好者，STEM 玩具…
-
-www.amazon.co.uk](https://www.amazon.co.uk/ELEGOO-Penguin-Assembling-Tutorial-Hobbyists/dp/B07GN1JN6N/ref=pd_ybh_a_42?_encoding=UTF8&psc=1&refRID=QK93FABP5N8Z3BZM8K8R) 
+<https://www.amazon.co.uk/ELEGOO-Penguin-Assembling-Tutorial-Hobbyists/dp/B07GN1JN6N/ref=pd_ybh_a_42?_encoding=UTF8&psc=1&refRID=QK93FABP5N8Z3BZM8K8R>  
 
 值得投资一个 Raspberry Pi 原型帽，您可以在其上焊接传感器并安排您的引脚排列。或者，你可以使用内置陀螺仪的[传感帽](https://shop.pimoroni.com/products/raspberry-pi-sense-hat)，但你仍然需要连接距离传感器和电池。
 
@@ -425,16 +417,8 @@ print(fitnesses)
 
 可以找到更多的实验和代码:
 
-[](https://github.com/shepai/Biped) [## shepai/Biped
-
-### 双足机器人项目。在 GitHub 上创建一个帐户，为 shepai/Biped 开发做贡献。
-
-github.com](https://github.com/shepai/Biped) 
+<https://github.com/shepai/Biped>  
 
 更多类似的项目可以在我们的网站上找到:
 
-[](https://shepai.github.io/) [## 艾
-
-### 关于如何使用 Raspberry Pi 或 Python 构建自己的 SHEP 人工智能的指南。在您自己的机器人中实现它…
-
-shepai.github.io](https://shepai.github.io/)
+<https://shepai.github.io/> 

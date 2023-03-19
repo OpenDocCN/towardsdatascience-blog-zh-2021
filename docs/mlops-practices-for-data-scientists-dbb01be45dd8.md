@@ -261,15 +261,7 @@ ML 系统的主要组成部分—作者图片
 
 # 参考
 
- [## TensorFlow 数据验证| TFX
-
-### 注意:你可以在 Jupyter 风格的笔记本上运行这个例子，不需要设置！只需点击“在谷歌中运行…
-
-www.tensorflow.org](https://www.tensorflow.org/tfx/tutorials/data_validation/tfdv_basic)  [## 张量流模型分析| TFX
-
-### TensorFlow 模型分析(TFMA)是一个跨不同数据切片执行模型评估的库。TFMA…
-
-www.tensorflow.org](https://www.tensorflow.org/tfx/tutorials/model_analysis/tfma_basic) 
+    
 
 Eric Breck，Neoklis Polyzotis，Sudip Roy，Steven Euijong Whang，Martin Zinkevich，[机器学习的数据验证](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) (2019)，SysML 大会【https://systemsandml.org 
 

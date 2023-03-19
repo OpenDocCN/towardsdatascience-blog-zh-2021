@@ -12,11 +12,7 @@
 
 下一步是将模型投入生产，这通常是大多数机器学习课程都忽略的主题。
 
-[](/the-machine-learning-workflow-1d168cf93dea) [## 机器学习工作流程
-
-towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea) 
-
-> 声明:这篇文章是用机器学习模型的[部署](https://www.udemy.com/course/deployment-of-machine-learning-models/)课程(Udemy)的笔记写的
+</the-machine-learning-workflow-1d168cf93dea> 课程(Udemy)的笔记写的
 
 ## 服务于 ML 模型的格式
 
@@ -127,22 +123,10 @@ y_preds = clf.predict(X_test)
 
 已经是会员了？[订阅](https://kurtispykes.medium.com/subscribe)在我发布时得到通知。
 
-[](https://kurtispykes.medium.com/subscribe) [## 每当 Kurtis Pykes 发表文章时都收到一封电子邮件。
-
-### 每当 Kurtis Pykes 发表文章时都收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-kurtispykes.medium.com](https://kurtispykes.medium.com/subscribe) 
+<https://kurtispykes.medium.com/subscribe>  
 
 ## 相关文章
 
-[](https://medium.datadriveninvestor.com/machine-learning-in-the-cloud-66bd25bc1a2b) [## 云中的机器学习
-
-### 生产机器学习模型
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-in-the-cloud-66bd25bc1a2b) [](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [## 机器学习工程师必须阅读这 5 本书
-
-### 打造机器学习工程师
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [](/essential-skills-for-machine-learning-engineers-720938c6e12b) [## 机器学习工程师的基本技能
+<https://medium.datadriveninvestor.com/machine-learning-in-the-cloud-66bd25bc1a2b>  <https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84>  </essential-skills-for-machine-learning-engineers-720938c6e12b> [## 机器学习工程师的基本技能
 
 towardsdatascience.com](/essential-skills-for-machine-learning-engineers-720938c6e12b)

@@ -295,16 +295,4 @@ python3 manage.py runserver
 
 # 相关文章
 
-[](/building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23) [## 在 Django 中构建数据输入的快速 Web 界面
-
-### 关于如何安装 Django 并利用它快速构建数据输入的 Web 界面的教程
-
-towardsdatascience.com](/building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23) [](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47) [## 如何在 SQL 中操作熊猫数据帧
-
-### 这是一个现成的代码，包含一些使用 SQL 查询操作 Python Pandas 数据框架的技巧。
-
-towardsdatascience.com](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47) [](/how-to-scrape-html-tables-with-python-pandas-98d18d2129cb) [## 如何用 Python 熊猫刮 HTML 表格
-
-### 一个现成的代码，它利用了 Python 熊猫库的 read_html()函数
-
-towardsdatascience.com](/how-to-scrape-html-tables-with-python-pandas-98d18d2129cb)
+</building-a-fast-web-interface-in-django-for-data-entry-62f24947ef23>  </how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47>  </how-to-scrape-html-tables-with-python-pandas-98d18d2129cb> 

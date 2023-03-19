@@ -14,11 +14,7 @@ JupyterLab 是为了解决 Jupyter 笔记本的一些缺点而开发的。除了
 
 然而，当我搜索可以融入我的日常编码程序的伟大扩展的列表时，大多数文章都是过时的，或者以死亡或休眠的项目为特色(例如，超过六个月不活动的项目)。此外，几乎每个列表的顶部都有 [*目录*](https://github.com/jupyterlab/jupyterlab-toc) 扩展，这个扩展现在是核心 JupyterLab 3.0 版本的一部分。
 
-[](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) [## 期待已久的 JupyterLab 3.0 终于来了
-
-### Jupyter 项目发布了 Jupyter lab 3.0 版本，作为送给数据科学家的圣诞礼物。
-
-towardsdatascience.com](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) 
+</the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860>  
 
 因此，我决定编制自己的清单。在这个 2021 JupyterLab 扩展版本中，我只考虑活跃的、高质量的项目。为此，对于每个项目，我将记录 GitHub 星的数量，自上次提交以来的日期，以及其他细节，如 PyPi 下载和贡献者计数。我将使用以下图标使一切更简洁:
 
@@ -41,15 +37,7 @@ towardsdatascience.com](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b
 [**调试器**](https://github.com/jupyterlab/debugger) (⭐ 476📅三个月前👷 11 📥63K/月):
 一个 JupyterLab 调试器 UI 扩展。如果你想了解更多关于这个项目的信息，请查看下面的文章:
 
-[](/jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e) [## Jupyter 可视化调试器正在成为主流
-
-### 也许 JupyterLab 最受欢迎的特性现在已经可以在 ipykernel 上获得了
-
-towardsdatascience.com](/jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e) [](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) [## Jupyter:准备抛弃 IPython 内核
-
-### 通过 xeus-python，JupyterLab 离成为成熟的 IDE 更近了一步。
-
-towardsdatascience.com](/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef) 
+</jupyter-visual-debugger-is-becoming-mainstream-92fe0c336e9e>  </jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef>  
 
 [**jupyterlab-LSP**](https://github.com/krassowski/jupyterlab-lsp)**(⭐803📅23 小时前👷 21 📥20K/月):
 JupyterLab 的编码辅助(代码导航+悬停建议+ linters +自动补全+重命名)使用语言服务器协议。**
@@ -58,7 +46,7 @@ JupyterLab 的编码辅助(代码导航+悬停建议+ linters +自动补全+重�
 
 ****[**jupyterlab _ code _ formatter**](https://github.com/ryantam626/jupyterlab_code_formatter)**(⭐413📅9 天前👷 25 📥12K/月):JupyterLab 的通用代码格式化程序。******
 
-******[](https://github.com/jpmorganchase/jupyterlab_templates)****(⭐223📅上个月👷 9 📥4.5K/月):支持 jupyterlab 中的 jupyter 笔记本模板。**********
+******<https://github.com/jpmorganchase/jupyterlab_templates>****(⭐223📅上个月👷 9 📥4.5K/月):支持 jupyterlab 中的 jupyter 笔记本模板。**********
 
 ******[**【jupyterlab _ tensor board**](https://github.com/chaoleili/jupyterlab_tensorboard)**(⭐245📅29 天前👷 6 📥5.7K/月):
 jupyterlab 的 Tensorboard 扩展。********
@@ -73,11 +61,7 @@ jupyterlab 的 Tensorboard 扩展。********
 
 ****另外，我想特别提一下 [idom](https://github.com/idom-team/idom) 这个项目，我认为它是 Jupyter widgets 的下一个级别。它不完全是 JupyterLab 的扩展，但它是一个很好的工具。请在下面的文章中阅读更多信息:****
 
-****[](/the-new-age-of-jupyter-widgets-cc622bee2c4b) [## Jupyter 小工具的新时代
-
-### 如果您可以使用 NPM 的好东西用 Python 来构建 Jupyter 小部件会怎么样？
-
-towardsdatascience.com](/the-new-age-of-jupyter-widgets-cc622bee2c4b) 
+****</the-new-age-of-jupyter-widgets-cc622bee2c4b>  
 
 # **渲染器:**
 
@@ -85,7 +69,7 @@ towardsdatascience.com](/the-new-age-of-jupyter-widgets-cc622bee2c4b)
 
 [**jupyterlab-latex**](https://github.com/jupyterlab/jupyterlab-latex)**(⭐350📅两个月前👷 15 📥3.5K/月):JupyterLab 扩展，用于 LaTeX 文档的实时编辑。**
 
-**[](https://github.com/QuantStack/jupyterlab-drawio)****(⭐450📅7 天前👷 15 📥6K/月):将 FOSS drawio / mxgraph 包独立嵌入到 jupyterlab 中。******
+**<https://github.com/QuantStack/jupyterlab-drawio>****(⭐450📅7 天前👷 15 📥6K/月):将 FOSS drawio / mxgraph 包独立嵌入到 jupyterlab 中。******
 
 ******[**【jupyterlab】-电子表格**](https://github.com/quigleyj97/jupyterlab-spreadsheet) (⭐ 95📅两个月前👷四📥3.9K/月):JupyterLab 插件，用于查看电子表格，如 Excel `.xls` / `.xlsx`工作簿和 OpenOffice `.ods`文件。******
 

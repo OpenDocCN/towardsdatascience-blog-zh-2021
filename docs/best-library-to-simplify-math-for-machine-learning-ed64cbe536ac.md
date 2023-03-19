@@ -110,11 +110,7 @@ class Derivative_Calculator:
 
 我已经利用导数计算器类编写了一系列带有*args 注释的函数，因为我们不知道将通过该函数传递的元素数量。这个概念对于构建差分计算器很有用。我只利用了这些微分法则中的一些。我鼓励用户多尝试这些。下面的文章是理解 Python 中的高级函数的指南，并附有代码和示例。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 在下一个代码块中，我们将允许用户选择一个他们想要执行特定操作的选项。这些选项的选择范围包括不同类型的区分规则。你可以自由地试验并构建一个你喜欢的差分计算器。
 
@@ -175,26 +171,6 @@ differentiatie.power_rule(Derivative)
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) [](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
-
-### 探索每个成功的数据科学家必须具备的五项重要软技能！
-
-towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [## 你应该知道的 5 个 NLP 主题和项目！
-
-### 应该添加到简历中的五个高级自然语言处理主题和项目想法
-
-towardsdatascience.com](/5-nlp-topics-and-projects-you-should-know-about-65bc675337a0) [](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
-
-### 揭示人工智能，神经网络和深度学习的进步导致快速…
-
-towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [## 破解数据科学和机器学习面试的 7 个技巧！
-
-### 帮助你在数据科学和机器学习面试中表现更好的 7 个详细技巧
-
-towardsdatascience.com](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) 
+</6-best-programming-practices-f2605c5b469c>  </5-essential-skills-to-develop-as-a-data-scientist-16442f094c09>  </5-nlp-topics-and-projects-you-should-know-about-65bc675337a0>  </ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50>  </7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

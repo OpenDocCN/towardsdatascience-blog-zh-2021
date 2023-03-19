@@ -38,11 +38,7 @@
 
 高度是从鱼的腹部到最厚处的脊骨。宽度是周长的度量。重量以克为单位，长度以厘米为单位。如果你感兴趣，这里有一个数据集的链接！
 
-[](https://www.kaggle.com/aungpyaeap/fish-market) [## 鱼市
-
-### 鱼市常见鱼种数据库
-
-www.kaggle.com](https://www.kaggle.com/aungpyaeap/fish-market) 
+<https://www.kaggle.com/aungpyaeap/fish-market>  
 
 让我们看看前 5 名学生模型(按 MSE 排名)及其方法论。
 

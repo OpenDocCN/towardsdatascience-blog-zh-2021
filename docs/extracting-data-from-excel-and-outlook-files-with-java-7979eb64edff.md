@@ -70,8 +70,4 @@ java -jar <name of jar file>
 
 链接在:[孵化器-geek-cc/data-extraction-with-Java:一个用 Java Swing 和其他 jar 库构建的 Java 应用程序，用于从 Outlook 和 Excel 文件中提取数据。(github.com)](https://github.com/incubated-geek-cc/data-extraction-with-Java)
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

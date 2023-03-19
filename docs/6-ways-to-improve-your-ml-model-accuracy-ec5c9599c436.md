@@ -16,11 +16,7 @@
 
 从商业角度来看，绩效等于金钱；如果一个模型的精度低，它将导致更多的错误，这可能是非常昂贵的。我说的不仅仅是财务方面；想象一个用于诊断癌症或任何其他晚期疾病的模型；错误的诊断不仅会花费医院的钱，还会给病人及其家人带来不必要的精神创伤。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 那么，我们能避免所有这些并提高我们机器学习模型的准确性吗？数据科学家可以使用不同的方法来提高模型的准确性；在这篇文章中，我们将经历 6 种这样的方式。让我们直接进入…
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 也许你只是问了错误的问题或试图听到错误的故事。从一个新的角度来看问题，可以为您的模型添加有价值的信息，并帮助您发现故事变量之间的隐藏关系。问不同的问题可能会得到更好的结果，最终会更准确。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 # 方法 3:给你的数据添加一些上下文。
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-d
 
 使用这种方法，我们可以增强算法的训练过程，但使用不同的块并对结果进行平均来训练它。交叉验证用于优化模型的性能。这种方法非常流行，因为它非常简单且易于实现。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # 方法 6:尝试不同的算法。
 
@@ -78,11 +66,7 @@ towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54)
 
 准确率低的机器学习模型，造成的不仅仅是财务损失。如果该模型用于敏感领域，如任何医疗应用，该模型中的错误可能会给与该模型结果相关的人带来创伤和情感损失。
 
-[](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) [## 每个数据科学家都应该写博客的 5 个理由
-
-### 解释某事让你对它有更深的理解。
-
-towardsdatascience.com](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) 
+</5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3>  
 
 幸运的是，有各种简单而有效的方法可以提高模型的准确性，并为他们节省大量时间、金钱和精力，如果模型的准确性较低，这些时间、金钱和精力可能会浪费在减少错误上。
 

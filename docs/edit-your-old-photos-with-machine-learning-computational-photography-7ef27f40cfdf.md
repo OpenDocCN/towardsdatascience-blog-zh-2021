@@ -163,12 +163,4 @@ dest2 和 dest3 比较
 
 ## 有趣的 OpenCV 项目:
 
-[](/building-a-face-recognizer-in-python-7fd6630c6340) [## 用 Python 构建人脸识别器
-
-### 使用 OpenCv 库进行实时人脸识别的分步指南
-
-towardsdatascience.com](/building-a-face-recognizer-in-python-7fd6630c6340) [](/building-a-color-recognizer-in-python-4783dfc72456) [## 用 Python 构建颜色识别器
-
-### 使用 OpenCV 的简单实用的机器学习应用程序
-
-towardsdatascience.com](/building-a-color-recognizer-in-python-4783dfc72456)
+</building-a-face-recognizer-in-python-7fd6630c6340>  </building-a-color-recognizer-in-python-4783dfc72456> 

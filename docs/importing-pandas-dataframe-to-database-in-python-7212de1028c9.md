@@ -345,4 +345,4 @@ conn.commit()
 
 这个解决方案是可伸缩的，因为它可以处理数百万甚至数十亿行。并且代码是用良好的软件开发基础编写的。
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/importing-pandas-dataframe-to-database-in-python/?utm_source=medium&utm_medium=click&utm_campaign=blog)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/importing-pandas-dataframe-to-database-in-python/?utm_source=medium&utm_medium=click&utm_campaign=blog>**。**

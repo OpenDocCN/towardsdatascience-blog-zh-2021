@@ -37,7 +37,7 @@ fried-chicken:sushi:pizza:Indian as 44:37:16:3
 
 # 该方法
 
-我将使用上面的晚餐是什么的例子来说明从个人的排序选择中确定一组选项的集体相对偏好的方法。将一个人在两种美食之间的排序选择表示为*有向图*[](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))**，其中每种美食都是一个节点(顶点)，一条边(链接/箭头)从不太喜欢的美食指向更喜欢的美食*。*
+我将使用上面的晚餐是什么的例子来说明从个人的排序选择中确定一组选项的集体相对偏好的方法。将一个人在两种美食之间的排序选择表示为*有向图*<https://en.wikipedia.org/wiki/Graph_(discrete_mathematics>)**，其中每种美食都是一个节点(顶点)，一条边(链接/箭头)从不太喜欢的美食指向更喜欢的美食*。*
 
 *![](img/b2e33a55dc99ad0dc628f591f47741b4.png)*
 

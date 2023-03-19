@@ -51,11 +51,7 @@
 
 有关布局和定制的更多详细信息，请阅读文档。
 
-[](https://docs.datapane.com/reports/layout-and-customization) [## 布局和定制
-
-### 虽然您可能在一系列连续步骤中分析数据，但这可能不是呈现结果的最佳方式…
-
-docs.datapane.com](https://docs.datapane.com/reports/layout-and-customization) 
+<https://docs.datapane.com/reports/layout-and-customization>  
 
 **3。为 GitHub 动作编写一个. yml 文件**
 
@@ -65,11 +61,7 @@ docs.datapane.com](https://docs.datapane.com/reports/layout-and-customization)
 
 有关构建 GitHub 动作的更多详细信息，请阅读文档。
 
-[](https://github.com/marketplace/actions/datapane-build) [## 数据面板构建- GitHub 市场
-
-### 构建数据面板报告的 Github 动作。脚本(必需)要执行的 Python 脚本/笔记本，相对于报告…
-
-github.com](https://github.com/marketplace/actions/datapane-build) 
+<https://github.com/marketplace/actions/datapane-build>  
 
 **4。在线分享报告或将其嵌入博客**
 

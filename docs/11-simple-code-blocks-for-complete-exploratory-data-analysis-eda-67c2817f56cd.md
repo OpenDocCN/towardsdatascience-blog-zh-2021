@@ -14,11 +14,7 @@ Joshua Earle 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 注意:如果你的项目涉及到预测一个二进制或多类特性，你可以遵循[这篇文章。](/13-key-code-blocks-for-eda-classification-task-94890622be57)
 
-[](/13-key-code-blocks-for-eda-classification-task-94890622be57) [## EDA 分类任务的 13 个关键代码块
-
-### 使用这个机器学习分类任务的快速指南探索任何数据集
-
-towardsdatascience.com](/13-key-code-blocks-for-eda-classification-task-94890622be57) 
+</13-key-code-blocks-for-eda-classification-task-94890622be57>  
 
 第一步是导入所需的库。我们将需要[熊猫](https://en.wikipedia.org/wiki/Pandas_(software))， [Numpy](/4-fundamental-numpy-properties-every-data-scientist-must-master-c906236eb44b) ， [matplotlib](https://en.wikipedia.org/wiki/Matplotlib) 和 [seaborn](https://seaborn.pydata.org/) 。为了确保显示所有的列，使用`pd.set_option(’display.max_columns’, 100)`。默认情况下，pandas 显示 20 列，隐藏其余的列。
 
@@ -285,8 +281,4 @@ plt.show()
 
 还可以查看用于 EDA 分类任务的 [13 个关键代码块，用于处理二元或多类预测问题。](/13-key-code-blocks-for-eda-classification-task-94890622be57)
 
-[](/13-key-code-blocks-for-eda-classification-task-94890622be57) [## EDA 分类任务的 13 个关键代码块
-
-### 使用这个机器学习分类任务的快速指南探索任何数据集
-
-towardsdatascience.com](/13-key-code-blocks-for-eda-classification-task-94890622be57)
+</13-key-code-blocks-for-eda-classification-task-94890622be57> 

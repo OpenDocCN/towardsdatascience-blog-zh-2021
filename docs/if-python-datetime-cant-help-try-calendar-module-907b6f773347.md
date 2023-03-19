@@ -193,10 +193,6 @@ cal.prmonth(2021, 4, w=3, l=2)
 
 当我们处理一些特定的日历问题时，例如闰年，日历模块非常方便。通过使用这样的内置模块，Python 中的开发会更快！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和数以千计的其他作者！(点击上面的链接)

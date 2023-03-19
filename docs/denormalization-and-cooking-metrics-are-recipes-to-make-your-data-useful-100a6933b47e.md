@@ -44,7 +44,7 @@
 
 ![](img/cc00a39d4a23a59b86a44108ec5a7f10.png)
 
-*反规范化是组合配料(烹饪)的过程，而连接、聚合和过滤是实现所需最终产品所需的配方……就像这道精美的餐厅菜肴。照片由* [*周杰伦*](https://unsplash.com/@jaywennington?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*[](https://unsplash.com/s/photos/plating-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+*反规范化是组合配料(烹饪)的过程，而连接、聚合和过滤是实现所需最终产品所需的配方……就像这道精美的餐厅菜肴。照片由* [*周杰伦*](https://unsplash.com/@jaywennington?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*<https://unsplash.com/s/photos/plating-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>*
 
 **在我们能够在实践层面上完全理解反规格化之前，我们需要深入一些关于规格化的细节。规范化数据被定义为在确保数据完整性的同时限制数据冗余的数据模型。举几个例子:**
 

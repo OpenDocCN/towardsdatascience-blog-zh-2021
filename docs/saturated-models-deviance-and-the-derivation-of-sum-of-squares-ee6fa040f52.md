@@ -130,10 +130,10 @@ ax3.axes.yaxis.set_visible(False)
 # 和我联系！
 
 *   要在媒体上阅读无限的故事，请务必在这里注册！ 💜
-*   [](/subscribe/@egorhowell)😀
+*   </subscribe/@egorhowell>😀
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

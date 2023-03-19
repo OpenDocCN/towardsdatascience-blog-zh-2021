@@ -135,8 +135,4 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medi
 
 Jupyter 笔记本的完整源代码可以在这里找到
 
- [## grahamharrison68/Public-Github
-
-### GH 公共项目库。通过在…上创建帐户，为 grahamharrison68/Public-Github 开发做出贡献
-
-github.com](https://github.com/grahamharrison68/Public-Github/blob/master/Hypothesis%20Testing/Confidence%20Interval%20Calculator.ipynb)
+ 

@@ -102,19 +102,11 @@
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) [## 2022 年你应该知道的 10 个最实用的数据科学技能
-
-### 实际上能让你就业的技能
-
-towardsdatascience.com](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) 
+</10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a>  
 
 **还有一个:**
 
-[](/my-top-10-most-fascinating-data-visualizations-from-2020-22a91b23e981) [## 2020 年创造的十大最佳数据可视化
-
-### #3.冠状病毒死亡与其他流行病条形图竞赛
-
-towardsdatascience.com](/my-top-10-most-fascinating-data-visualizations-from-2020-22a91b23e981) 
+</my-top-10-most-fascinating-data-visualizations-from-2020-22a91b23e981>  
 
 # 特伦斯·申
 

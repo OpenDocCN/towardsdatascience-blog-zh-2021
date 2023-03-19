@@ -4,7 +4,7 @@
 
 ## *我们提高了蛮力树搜索的速度，使其在强化学习中更实用*
 
-*本文是让计算机使用强化学习玩井字游戏系列的一部分。你可以在这里找到*[](https://towardsdatascience.com/tagged/rl-series-paul)**的所有文章。我们的目标是提供一个完整的实现，您可以真正从中挑选并学习强化学习。按顺序阅读文章可能是最好的。文章包括所有代码* [*都可以在 Github*](https://github.com/PaulHiemstra/memoise_paper/blob/master/memoise_paper.ipynb) *上找到。**
+*本文是让计算机使用强化学习玩井字游戏系列的一部分。你可以在这里找到*<https://towardsdatascience.com/tagged/rl-series-paul>**的所有文章。我们的目标是提供一个完整的实现，您可以真正从中挑选并学习强化学习。按顺序阅读文章可能是最好的。文章包括所有代码* [*都可以在 Github*](https://github.com/PaulHiemstra/memoise_paper/blob/master/memoise_paper.ipynb) *上找到。**
 
 *在本系列的第 1 部分中，我们实现了一个树搜索极大极小算法，作为我们的强化学习(RL)代理的对手。结论是，虽然它有效，但算法太慢，不能用于训练我们的 RL 代理。第 2 部分的目标是显著加快极大极小算法的速度。*
 

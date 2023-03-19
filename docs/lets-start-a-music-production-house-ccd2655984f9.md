@@ -125,28 +125,8 @@ LinkedIn [amitnikhade](https://www.linkedin.com/in/theamitnikhade/)
 
 **Github**
 
-[](https://github.com/AmitNikhade) [## AmitNikhade -概述
-
-### 🂮 |人工智能和机器人爱好者|机器学习、深度学习、NLP、物联网、机器人| LinkedIn…
-
-github.com](https://github.com/AmitNikhade) 
+<https://github.com/AmitNikhade>  
 
 ## 参考
 
-[](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) [## WaveNet:原始音频的生成模型
-
-### 这篇文章介绍了 WaveNet，一个原始音频波形的深度生成模型。我们证明了波网能够产生…
-
-deepmind.com](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) [](https://en.wikipedia.org/wiki/WaveNet) [## WaveNet -维基百科
-
-### WaveNet 是一个用于生成原始音频的深度神经网络。它是由总部位于伦敦的人工…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/WaveNet) [](https://arxiv.org/abs/1609.03499) [## WaveNet:原始音频的生成模型
-
-### 本文介绍了 WaveNet，一种用于生成原始音频波形的深度神经网络。该模型完全…
-
-arxiv.org](https://arxiv.org/abs/1609.03499)  [## 论文与代码扩展因果卷积解释
-
-### 扩展因果卷积是一种因果卷积，其中滤波器应用于比其长度大的区域…
-
-paperswithcode.com](https://paperswithcode.com/method/dilated-causal-convolution)
+<https://deepmind.com/blog/wavenet-generative-model-raw-audio/>  <https://en.wikipedia.org/wiki/WaveNet>  <https://arxiv.org/abs/1609.03499>   

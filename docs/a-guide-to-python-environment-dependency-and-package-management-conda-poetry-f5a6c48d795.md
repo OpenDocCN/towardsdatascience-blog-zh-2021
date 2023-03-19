@@ -189,22 +189,6 @@ poetry show --tree
 
 # *有用的链接*
 
- *[## 简介|文档|诗歌——Python 依赖管理和打包变得简单。
-
-### 诗歌是 Python 中进行依赖管理和打包的工具。它允许您将库声明为您的项目…
-
-python-poetry.org](https://python-poetry.org/docs/)* *[](https://github.com/carlosperate/awesome-pyproject) [## carlosperate/awesome-pyproject
-
-### pyproject.toml 是 PEP 518 中定义的一个新的配置文件。它是为存储构建系统需求而设计的，但是它…
-
-github.com](https://github.com/carlosperate/awesome-pyproject) [](/a-guide-to-conda-environments-bc6180fc533) [## 康达环境权威指南
-
-### 如何使用 conda for Python & R 管理环境
-
-towardsdatascience.com](/a-guide-to-conda-environments-bc6180fc533) [](https://ahmed-nafies.medium.com/pip-pipenv-poetry-or-conda-7d2398adbac9) [## Pip，Pipenv，诗歌或康达
-
-### 2020 年用哪个 python 包管理器？pip 的替代方案。
-
-ahmed-nafies.medium.com](https://ahmed-nafies.medium.com/pip-pipenv-poetry-or-conda-7d2398adbac9) 
+ ** *<https://github.com/carlosperate/awesome-pyproject>  </a-guide-to-conda-environments-bc6180fc533>  <https://ahmed-nafies.medium.com/pip-pipenv-poetry-or-conda-7d2398adbac9>  
 
 *原载于*[*https://www.ealizadeh.com*](https://www.ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry/)*。**

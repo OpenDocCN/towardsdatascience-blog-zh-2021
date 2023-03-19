@@ -56,23 +56,7 @@
 
 **以下是一些帮助您入门的资源:**
 
-[](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [## 我计划在 2021 年完成的 7 个数据科学项目
-
-### 我计划如何在年底前利用这些项目来提高我的数据科学技能。
-
-towardsdatascience.com](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [](/object-oriented-programming-for-data-scientists-8d4d976b6af8) [## 面向数据科学家的面向对象编程
-
-### 切换如何使您的代码可以投入生产，如何降低代码复杂性，以及如何提高团队效率。
-
-towardsdatascience.com](/object-oriented-programming-for-data-scientists-8d4d976b6af8) [](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [## 数据科学家的软件工程最佳实践
-
-### 如何弥合数据科学和软件工程之间差距的速成课程。
-
-towardsdatascience.com](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [](https://www.datasciencecentral.com/profiles/blogs/four-interesting-math-problems) [## 四个有趣的数学问题
-
-### 在这篇文章的水平是为大学生熟悉微积分，这种材料也将感兴趣…
-
-www.datasciencecentral.com](https://www.datasciencecentral.com/profiles/blogs/four-interesting-math-problems) 
+</the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f>  </object-oriented-programming-for-data-scientists-8d4d976b6af8>  </software-engineering-best-practices-for-data-scientists-4c199ede6e03>  <https://www.datasciencecentral.com/profiles/blogs/four-interesting-math-problems>  
 
 # 3.他们没有方向。
 
@@ -88,15 +72,7 @@ www.datasciencecentral.com](https://www.datasciencecentral.com/profiles/blogs/fo
 
 **这里有一些资源可以帮助你开始:**
 
-[](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/) [## 数据分析师 vs 数据工程师 vs 数据科学家| Edureka
-
-### 数据分析师 vs 数据工程师 vs 数据科学家数据对于任何决策都至关重要。今天的…
-
-www.edureka.co](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/) [](https://medium.com/@writuparnabanerjee/the-difference-in-the-career-options-in-data-science-data-scientist-vs-data-engineer-vs-data-33209d0ac880) [## 数据科学职业选择的差异:数据科学家 vs 数据工程师 vs 数据…
-
-### 我们许多人都想知道数据科学家、数据分析师、ML 工程师和数据工程师之间的区别是什么？什么…
-
-medium.com](https://medium.com/@writuparnabanerjee/the-difference-in-the-career-options-in-data-science-data-scientist-vs-data-engineer-vs-data-33209d0ac880) 
+<https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/>  <https://medium.com/@writuparnabanerjee/the-difference-in-the-career-options-in-data-science-data-scientist-vs-data-engineer-vs-data-33209d0ac880>  
 
 # 4.他们试图重新思考轮子。
 
@@ -110,19 +86,7 @@ medium.com](https://medium.com/@writuparnabanerjee/the-difference-in-the-career-
 
 **以下是一些帮助您入门的资源:**
 
-[](/9-steps-for-solving-data-science-problems-dc3c238cb58c) [## 解决数据科学问题的 9 个步骤
-
-### 这里列出了你今天必须采取的步骤，以解决你组织中的任何机器学习问题。
-
-towardsdatascience.com](/9-steps-for-solving-data-science-problems-dc3c238cb58c) [](/the-six-types-of-data-analysis-75517ba7ea61) [## 数据分析的六种类型
-
-### 数据科学就是问问题，但是你能问什么问题呢？
-
-towardsdatascience.com](/the-six-types-of-data-analysis-75517ba7ea61) [](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) [## 数据科学家需要掌握的 10 项统计技术
-
-### 不管你在数据科学性感问题上的立场如何，都不可能忽视持续的…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 
+</9-steps-for-solving-data-science-problems-dc3c238cb58c>  </the-six-types-of-data-analysis-75517ba7ea61>  <https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html>  
 
 # 5.他们没有先学会游泳就跳进深水区。
 
@@ -136,11 +100,7 @@ www.kdnuggets.com](https://www.kdnuggets.com/2017/11/10-statistical-techniques-d
 
 **以下是一些帮助您入门的资源:**
 
-[](/ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4) [## 超学习是艰难掌握数据科学技能的极端方法
-
-### 这种硬核学习风格非常适合数据科学的艰巨性。
-
-towardsdatascience.com](/ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4) 
+</ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4>  
 
 # 6.他们没有养成学习的习惯。
 
@@ -156,27 +116,7 @@ towardsdatascience.com](/ultralearning-is-the-extreme-approach-to-mastering-data
 
 **这里有一些资源可以帮助你开始:**
 
-[](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7) [## 微学习如何帮助您在每天不到 10 分钟的时间内提高数据科学技能
-
-### 这种电子学习趋势可用于高效满足您的数据科学目标。
-
-towardsdatascience.com](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7) [](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43) [## 费曼技巧会让你记住你读过的东西
-
-### 如何把这个简单的原理用在你身上。
-
-medium.com](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43) [](https://medium.com/the-ascent/7-powerful-habits-that-help-you-become-a-learner-for-life-7f8139903f3c) [## 帮助你成为终身学习者的 7 个强大习惯
-
-### 因为终身学习是你能培养的最有价值的技能。
-
-medium.com](https://medium.com/the-ascent/7-powerful-habits-that-help-you-become-a-learner-for-life-7f8139903f3c) [](https://medium.com/mind-cafe/a-quick-mental-trick-to-optimize-your-learning-f525ba12a260) [## 优化学习的快速心法
-
-### 你所要做的就是添加第二个循环。
-
-medium.com](https://medium.com/mind-cafe/a-quick-mental-trick-to-optimize-your-learning-f525ba12a260) [](/7-proven-ways-to-develop-a-coding-habit-3727914c3489) [## 培养编码习惯的 7 种行之有效的方法
-
-### 让 2021 年成为你建立一个易于维护并产生效果的编码习惯的一年。
-
-towardsdatascience.com](/7-proven-ways-to-develop-a-coding-habit-3727914c3489) 
+</how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7>  <https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43>  <https://medium.com/the-ascent/7-powerful-habits-that-help-you-become-a-learner-for-life-7f8139903f3c>  <https://medium.com/mind-cafe/a-quick-mental-trick-to-optimize-your-learning-f525ba12a260>  </7-proven-ways-to-develop-a-coding-habit-3727914c3489>  
 
 # 关键要点。
 

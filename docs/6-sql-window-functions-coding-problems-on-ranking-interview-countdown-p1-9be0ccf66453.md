@@ -28,11 +28,7 @@
 
 > ***现在是时候写一些代码了！你准备好了吗？***
 
-***[](/7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867) [## 下一次编码面试前要掌握的 7 个基本 SQL 概念
-
-### 通过从真实面试中解决问题来练习，最终得到你应得的工作。
-
-towardsdatascience.com](/7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867) 
+***</7-fundamental-sql-concepts-you-will-be-challenged-with-in-faang-interviews-d26097a8d867>  
 
 ## 问题#1— RANK()函数|难度:难
 
@@ -171,22 +167,10 @@ towardsdatascience.com](/7-fundamental-sql-concepts-you-will-be-challenged-with-
 
 # ****结论****
 
-****在这篇关于 SQL 编码面试的第一篇文章中，我与你分享了 6 个来自真实面试的关于排名的窗口函数问题。上面分享的问题是[**StataScratch**](https://platform.stratascratch.com/coding?via=antonello)**的财产，他们好心地授权我使用他们的一些材料来写这篇教程。如果你喜欢这篇文章的风格，我会建议你去看看他们的网站**[](https://platform.stratascratch.com/coding?via=antonello)**，在那里你会发现数百个类似的挑战。**********
+****在这篇关于 SQL 编码面试的第一篇文章中，我与你分享了 6 个来自真实面试的关于排名的窗口函数问题。上面分享的问题是[**StataScratch**](https://platform.stratascratch.com/coding?via=antonello)**的财产，他们好心地授权我使用他们的一些材料来写这篇教程。如果你喜欢这篇文章的风格，我会建议你去看看他们的网站**<https://platform.stratascratch.com/coding?via=antonello>**，在那里你会发现数百个类似的挑战。**********
 
 **********给我的读者的一个提示** : *这篇文章包括附属链接，如果你购买的话，我可以给你一点佣金，不需要额外的费用。*********
 
 # ******你可能也喜欢******
 
-******[](/8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7) [## Python 中复制的 8 个流行的 SQL 窗口函数
-
-### 关于如何利用业务分析中的 Pandas 高效复制最常用的 SQL 窗口的教程…
-
-towardsdatascience.com](/8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7) [](/15-git-commands-you-should-learn-before-your-very-first-project-f8eebb8dc6e9) [## 在你开始第一个项目之前，要掌握 15 个 Git 命令
-
-### 您需要掌握的最后一个 Git 教程是命令行版本控制。
-
-towardsdatascience.com](/15-git-commands-you-should-learn-before-your-very-first-project-f8eebb8dc6e9) [](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [## Python 编码面试前要解决的 10 个算法
-
-### 在这篇文章中，我介绍并分享了 FAANG 中经常出现的一些基本算法的解决方案
-
-towardsdatascience.com](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27)******
+******</8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7>  </15-git-commands-you-should-learn-before-your-very-first-project-f8eebb8dc6e9>  </10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27> ******

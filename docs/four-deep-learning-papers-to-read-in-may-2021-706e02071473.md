@@ -52,8 +52,4 @@ ML-Collage [16/52]:数字改编自 Sandler 等人(2021) |📝[论文](https://ar
 
 这是这个月的🤗让我知道你最喜欢的论文是什么。如果你想获得一些每周 ML 拼贴输入，查看 Twitter 上的标签[# ML collage](https://twitter.com/hashtag/mlcollage)。您也可以查看去年四月版摘要中的拼贴画📖博客帖子:
 
-[](/four-deep-learning-papers-to-read-in-april-2021-77f6b0e42b9b) [## 2021 年 4 月要读的四篇深度学习论文
-
-### 从元梯度到时钟值，神经网络的全局工作空间理论和训练的边缘…
-
-towardsdatascience.com](/four-deep-learning-papers-to-read-in-april-2021-77f6b0e42b9b)
+</four-deep-learning-papers-to-read-in-april-2021-77f6b0e42b9b> 

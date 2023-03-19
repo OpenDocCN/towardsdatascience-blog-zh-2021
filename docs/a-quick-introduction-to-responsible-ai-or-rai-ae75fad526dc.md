@@ -108,23 +108,7 @@ rAI 开发的标准旨在使组织能够理解并执行四个既定的管理原�
 
 # **在哪里可以了解更多关于媒体上负责任的人工智能的信息**
 
-**[](https://medium.com/@ronbodkin/responsible-ai-f33ab5e6672c) [## 负责任的 AI
-
-### 随着数字数据深度学习的快速发展，人工智能(AI)取得了重大进展
-
-medium.com](https://medium.com/@ronbodkin/responsible-ai-f33ab5e6672c) [](https://medium.com/swlh/responsible-ai-how-we-do-we-build-systems-that-dont-discriminate-2592c896fb89) [## 负责任的人工智能:我们如何建立没有歧视的系统？
-
-### BIMA 早餐会要点，2020 年 2 月 27 日
-
-medium.com](https://medium.com/swlh/responsible-ai-how-we-do-we-build-systems-that-dont-discriminate-2592c896fb89) [](https://medium.com/@ODSC/responsible-ai-2020-expectations-for-the-year-ahead-d15eb8598b6f) [## 负责任的人工智能 2020:对未来一年的期望
-
-### 在 2020 年，随着信息技术的发展，实现负责任的人工智能技术应用是该领域最重要的挑战之一
-
-medium.com](https://medium.com/@ODSC/responsible-ai-2020-expectations-for-the-year-ahead-d15eb8598b6f) [](https://medium.com/ai-ml-at-symantec/responsible-ai-ml-privacy-bias-and-more-in-the-age-of-the-algorithm-36cb5ef68d9a) [## 负责任的人工智能/人工智能:算法时代的隐私、偏见和更多
-
-### 人工智能是一项强大的技术——任何创造或重新分配权力的事情都需要伦理关注。-香农医生…
-
-medium.com](https://medium.com/ai-ml-at-symantec/responsible-ai-ml-privacy-bias-and-more-in-the-age-of-the-algorithm-36cb5ef68d9a) 
+**<https://medium.com/@ronbodkin/responsible-ai-f33ab5e6672c>  <https://medium.com/swlh/responsible-ai-how-we-do-we-build-systems-that-dont-discriminate-2592c896fb89>  <https://medium.com/@ODSC/responsible-ai-2020-expectations-for-the-year-ahead-d15eb8598b6f>  <https://medium.com/ai-ml-at-symantec/responsible-ai-ml-privacy-bias-and-more-in-the-age-of-the-algorithm-36cb5ef68d9a>  
 
 # 参考
 
@@ -137,8 +121,4 @@ medium.com](https://medium.com/ai-ml-at-symantec/responsible-ai-ml-privacy-bias-
 
 *为了获得无限的故事，你也可以考虑* [*注册*](https://jairribeiro.medium.com/membership) *成为中等会员，只需 5 美元。此外，如果您使用我的链接注册* *，我会收到一小笔佣金(无需额外费用)。*
 
-[](https://jairribeiro.medium.com/membership) [## 通过我的推荐链接加入媒体- Jair Ribeiro
-
-### 阅读我分享的每一个故事(以及媒体上成千上万的其他作者)。你的会员费直接支持其他…
-
-jairribeiro.medium.com](https://jairribeiro.medium.com/membership)**
+<https://jairribeiro.medium.com/membership> **

@@ -18,7 +18,7 @@
 
 以下是我们讨论的一些主要主题:
 
-*   [](https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/)****多模态学习。**如果说 2020 年是大型语言模型和元学习的一年，那么 2021 年是将视觉和文本结合在一起的大型多模态模型的一年。OpenAI 的 CLIP 和 DALL-E 模型显示了语言建模和视觉的结合是多么的强大。尤其是 DALL-E，它已经证明自己能够根据用户指定的文本提示生成令人印象深刻的图像。据推测，这一领域还会有更多的发展，包括与机器人技术的集成，以及继续推动人工智能进入物理世界。**
+*   <https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/>****多模态学习。**如果说 2020 年是大型语言模型和元学习的一年，那么 2021 年是将视觉和文本结合在一起的大型多模态模型的一年。OpenAI 的 CLIP 和 DALL-E 模型显示了语言建模和视觉的结合是多么的强大。尤其是 DALL-E，它已经证明自己能够根据用户指定的文本提示生成令人印象深刻的图像。据推测，这一领域还会有更多的发展，包括与机器人技术的集成，以及继续推动人工智能进入物理世界。**
 *   **[**偏于 AI 型号**](https://www.wsj.com/articles/facial-recognition-tools-in-spotlight-in-new-jersey-false-arrest-case-11609269719) **。鉴于人工智能算法中存在偏见的既定问题，关于人工智能何时以及如何应用的新问题正在被提出。最近，一名黑人男子因被计算机视觉系统误认为是商店扒手而在监狱呆了 10 天后起诉了新泽西州警察局。像这样的事件激发了国家和国际监管机构对解决人工智能系统带来的挑战的新兴趣。它们还迫使我们客观地思考什么是公平和偏见:只有当我们严格定义这些术语时，它们才能在技术上易于处理。****
 *   **[**生成性时代的所有权权利 AI**](https://www.billboard.com/articles/columns/rock/9551482/ai-software-generates-new-nirvana-song-27-years-after-kurt-cobain-death) **。最近，人工智能模型被用来生成一系列虚假的——但看似怪异的——涅槃乐队的歌曲，尽管他们的主唱柯特·科本在 1994 年去世了。这就引出了一个有趣的问题:谁拥有这首音乐的版权？而谁*应该*？随着人工智能系统让我们以新的方式思考创造力本身，它们也迫使我们质疑几个世纪以来我们对信用分配和版权的假设。越来越明显的是，对许多人来说，不理解人工智能不再是可选的——包括律师、法官和政治家——他们曾经可以将他们的思维外包给这类问题的专家。****
 

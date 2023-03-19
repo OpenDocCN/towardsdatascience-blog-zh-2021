@@ -316,10 +316,6 @@ print(response)
 
 Github 回购
 
-[](https://github.com/rahulbanerjee26/python_apis) [## rahulbanerjee 26/python _ API
-
-### 在 GitHub 上创建一个帐户，为 rahulbanerjee26/python_apis 开发做贡献。
-
-github.com](https://github.com/rahulbanerjee26/python_apis) 
+<https://github.com/rahulbanerjee26/python_apis>  
 
 *原载于 2021 年 5 月 24 日 https://www.realpythonproject.com**的* [*。*](https://www.realpythonproject.com/how-to-authenticate-using-keys-basicauth-oauth-in-python/)

@@ -10,11 +10,7 @@
 
 我最近有一篇关于不同 TensorFlow 库的文章，其中一个是 TensorFlow 的模型优化工具包。
 
-[](/unexplored-tensorflow-libraries-for-computer-vision-db515b1868e5) [## 用于计算机视觉的未开发的张量流库
-
-### 探索诸如 TensorFlow 模型优化器、图形、联合学习、隐私等工具包，以提高您的…
-
-towardsdatascience.com](/unexplored-tensorflow-libraries-for-computer-vision-db515b1868e5) 
+</unexplored-tensorflow-libraries-for-computer-vision-db515b1868e5>  
 
 模型优化工具包提供了修剪、量化和权重聚类技术，以减少模型的大小和延迟。量化可以在训练期间和之后执行，并将模型转换为使用 8 位整数而不是 32 位浮点整数。然而，量化是一个有损耗的过程。TfLite 模型也是量化的，因此它们不如原始模型精确。为了解决这个问题，可以使用量化感知训练。它在训练时将权重转换为 int-8，然后再转换回 32 位浮点，因此它就像模型的噪声一样，迫使它们相应地学习。
 

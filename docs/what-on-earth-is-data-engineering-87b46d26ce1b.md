@@ -14,7 +14,7 @@ D 数据科学是一门宽泛的学科，包含了整个世界及其内部更小
 
 数据工程师是为科学家和其他开发人员管理数据、数据管道和数据库的人。当然，这也是数据科学家做的事情，所以数据工程师和数据科学家之间的一个关键区别是，数据工程师通常不参与机器学习。虽然数据工程师有时可能会从事机器学习，但这并不在工作描述中。如果您想了解更多关于数据科学学科中不同领域的信息，我写了一整篇文章，讨论人们在数据科学领域可以采取的不同途径，您可以在这里查看:
 
-[](/learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2) [## 数据科学的学习途径—你应该学什么？
+</learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2> [## 数据科学的学习途径—你应该学什么？
 
 towardsdatascience.com](/learning-pathways-for-data-science-what-should-you-learn-a0a580a705a2) 
 
@@ -38,7 +38,7 @@ towardsdatascience.com](/learning-pathways-for-data-science-what-should-you-lear
 
 说到学科学习，数据科学可能是一个复杂的学习主题。这是因为有如此多的领域属于数据科学的范畴，这使得它成为一个非常难以接近的领域。考虑到这一点，数据科学的各个领域通过将学习分解成独立的部分，使得学习变得容易得多。在很多方面，这让我想起了我关于命名和提取的文章，这是我用于编程的一种技术。如果你读完之后不忙，并且对软件开发感兴趣，我认为这种技术肯定是值得学习的，尤其是对于一个有抱负的数据科学家来说。你可以在这里找到这篇文章:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 

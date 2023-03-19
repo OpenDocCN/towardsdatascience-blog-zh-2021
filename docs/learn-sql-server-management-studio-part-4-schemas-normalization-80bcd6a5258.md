@@ -14,27 +14,15 @@
 
 如果您错过了关于如何设置我们的环境和本地服务器的第 1 集，请阅读本文:
 
-[](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) [## 了解 SQL Server Management Studio —第 1 部分分步安装
-
-### 这是一个免费且强大的工具，可以利用数据、提高技能并在面试中脱颖而出
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) 
+</getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0>  
 
 在第 2 集，我们重点介绍了使用设计工具或通过编写查询来创建数据库和表，以及命名约定对本文的重要性:
 
-[](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) [## 了解 SQL Server Management Studio —第 2 部分数据库、表和命名约定
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) 
+</getting-started-with-sql-server-management-studio-5cd24bb1a87c>  
 
 在第 3 集，我们讨论了 CRUD 操作，它给你极大的权力来决定记录的可信度，以及主键和外键的主题。
 
-[](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) [## 了解 SQL Server Management Studio —第 3 部分 CRUD 操作、主键和外键
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) 
+</learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70>  
 
 别忘了回来😉。
 
@@ -218,11 +206,7 @@ BCNF 是 defined⁴作为:
 
 ****通过第 5 集学习如何使用 SQL 作业代理编写 SQL 存储过程和调度作业。****
 
-****[](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) [## 了解 SQL Server Management Studio —第 5 部分存储过程和调度
-
-### 让你在派对上开心的技能！循序渐进。
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) 
+****</learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314>  
 
 ## 或者选择你喜欢的另一集
 

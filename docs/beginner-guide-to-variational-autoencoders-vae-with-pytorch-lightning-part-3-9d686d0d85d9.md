@@ -31,11 +31,7 @@
 
 继承是面向对象编程(OOP)语言中一个非常强大的概念。它允许用户定义对象，然后构建新对象，同时保留原始对象的一些功能。继承是一个非常广泛的话题，有些事情，比如多重继承，我就不详细介绍了。有关 Python 和继承中 OOP 编程的更多信息，请查看本文。
 
-[](https://realpython.com/inheritance-composition-python/) [## 继承和组合:Python OOP 指南-真正的 Python
-
-### 继承和组合是面向对象编程中的两个主要概念，它们模拟了…
-
-realpython.com](https://realpython.com/inheritance-composition-python/) 
+<https://realpython.com/inheritance-composition-python/>  
 
 实际上，继承是如此普遍，以至于我们已经在[第 1 部分](/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b)中使用了继承。甚至在不知道的情况下，继承在 PyTorch 中被广泛使用，其中每个神经网络都从基类`nn.Module`继承。
 
@@ -125,11 +121,7 @@ pytest 的另一个很酷的特性是它会自动搜索包中的测试函数。�
 
 不错！测试通过，代码按预期运行。
 
-[](https://docs.pytest.org/en/6.2.x/) [## 帮助你编写更好的程序
-
-### pytest 和数以千计的其他软件包的维护者正在与 Tidelift 合作，以提供商业支持和…
-
-docs.pytest.org](https://docs.pytest.org/en/6.2.x/) 
+<https://docs.pytest.org/en/6.2.x/>  
 
 **构建卷积编码器**
 

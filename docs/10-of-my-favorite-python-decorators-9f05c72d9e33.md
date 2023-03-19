@@ -16,27 +16,19 @@
 
 在上一篇文章中，我深入研究了 Python 中的多重调度。多重分派模块使用一个简单的装饰器将 Python 语言变成多重分派。如果你想了解更多，文章在这里:
 
-[](/flawless-parametric-polymorphism-in-python-with-multipledispatch-f26b75d69c5f) [## 用 multipledispatch 实现 Python 中完美的参数多态性
-
-### 使用 Python 的多重调度模块使我的生活多样化
-
-towardsdatascience.com](/flawless-parametric-polymorphism-in-python-with-multipledispatch-f26b75d69c5f) 
+</flawless-parametric-polymorphism-in-python-with-multipledispatch-f26b75d69c5f>  
 
 > 顺便说一下，我喜欢多态性。
 
 但是写了那篇文章，并对那个包进行了一些探索，确实让我的大脑再次开始关注装饰者——我想这是有充分理由的……装饰者很棒！它们在许多不同的场景中都非常有用，而且非常容易使用。我写的另一篇很棒的文章反映了这篇文章——可以被认为是某种类型的先驱，在这篇文章中，我详细介绍了我喜欢使用的 10 个很棒的 Python 装饰器，如果你也想看的话，这里有一个链接:
 
-[](/10-fabulous-python-decorators-ab674a732871) [## 10 个神话般的 Python 装饰者
+</10-fabulous-python-decorators-ab674a732871> [## 10 个神话般的 Python 装饰者
 
 towardsdatascience.com](/10-fabulous-python-decorators-ab674a732871) 
 
 鉴于 Python decorators 令人敬畏的本质，以及它们的能力，我认为用一些新的难以置信的 decorator 来编写一个新的故事，以便在您的 Python 代码中使用，是非常合适的。其中很多都改变了 Python 的范式，并且真的可以让您的 Python 代码更上一层楼！这份名单上的装饰家不包括在最后一份里，所以如果你想加倍努力，你可以看看这两份名单，看看你的军火库里有没有一些非常理想的装饰家。此外，Github 上有一个笔记本，上面有我在本文中使用的所有代码和装饰器，链接如下:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/10%20Python%20Decorators.ipynb) [## Emmetts-DS-NoteBooks/10 Python decorators . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/10%20Python%20Decorators.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/10%20Python%20Decorators.ipynb>  
 
 # №1:多重分派:分派
 

@@ -4,7 +4,7 @@
 
 ## 使用您的流数据和 Spotify 的 API 创建一个动态仪表板
 
-我不需要做这个项目来发现我仍然沉迷于 Lorde 的'[](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW)****'**'排骨，但尽管如此，工作还是很有趣。参见下文，了解如何使用您自己的 Spotify 数据轻松复制它！**
+我不需要做这个项目来发现我仍然沉迷于 Lorde 的'<https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW>****'**'排骨，但尽管如此，工作还是很有趣。参见下文，了解如何使用您自己的 Spotify 数据轻松复制它！**
 
 **[**Tableau 公共仪表盘**](https://public.tableau.com/app/profile/anne.bode/viz/SpotifyPREMIUMDashboard/PremiumDashboard)
 [**Jupyter 笔记本**](https://jovian.ai/abode118/spotify-data-prep)**
@@ -76,6 +76,6 @@
 
 # ***最后***
 
-***通过分析您的 Spotify 流媒体和图书馆数据，您可以收集到大量有趣的见解，尤其是结合通过 Spotify API 获得的其他数据字段(即流派)时。我知道今年我真的很喜欢朱利安·贝克，我对洛德的爱没有时间限制。8 月份，我听了太多阿德里安娜·伦克的'[](https://open.spotify.com/track/1abuE8PRWIA2GAH1DqzfNl)****'**(# sadgirlvibes)，但 12 月份，我最喜欢的歌当然是玛丽亚·凯莉的' [**我想要的圣诞礼物就是你**](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) '。现在我知道如何连接到 Spotify 的 API，在未来的项目中，我想检查我听的歌曲/艺术家的音乐质量(不仅仅是流派)。我特别感兴趣的一个领域是“可跳舞性”，因为每当我被指派为家庭公路旅行的 DJ 时，我母亲的唯一标准就是“我能跟着跳舞的东西。”不管那是什么意思。*****
+***通过分析您的 Spotify 流媒体和图书馆数据，您可以收集到大量有趣的见解，尤其是结合通过 Spotify API 获得的其他数据字段(即流派)时。我知道今年我真的很喜欢朱利安·贝克，我对洛德的爱没有时间限制。8 月份，我听了太多阿德里安娜·伦克的'<https://open.spotify.com/track/1abuE8PRWIA2GAH1DqzfNl>****'**(# sadgirlvibes)，但 12 月份，我最喜欢的歌当然是玛丽亚·凯莉的' [**我想要的圣诞礼物就是你**](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) '。现在我知道如何连接到 Spotify 的 API，在未来的项目中，我想检查我听的歌曲/艺术家的音乐质量(不仅仅是流派)。我特别感兴趣的一个领域是“可跳舞性”，因为每当我被指派为家庭公路旅行的 DJ 时，我母亲的唯一标准就是“我能跟着跳舞的东西。”不管那是什么意思。*****
 
 *****祝你好运分析你自己的收听历史，继续收听 2013 年以来你最喜欢的歌曲！*****

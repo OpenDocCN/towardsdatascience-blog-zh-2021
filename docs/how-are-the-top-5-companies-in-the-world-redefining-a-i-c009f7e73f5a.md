@@ -208,4 +208,4 @@ CVS Health 建立了一个大规模定制环境，不仅可以根据过去的购
 
 # 点击下面的链接订阅人工智能新闻！
 
-> [](https://medium.com/tech-cult-heartbeat/newsletters/ai-news)
+> <https://medium.com/tech-cult-heartbeat/newsletters/ai-news>

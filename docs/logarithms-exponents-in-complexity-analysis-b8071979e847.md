@@ -173,12 +173,4 @@ b =底数| y =指数| n =幂(b 乘以 y 的幂得到的结果)
 
 # 参考资料:
 
-[](https://stackoverflow.com/questions/42568658/why-are-logarithms-in-computer-science-presumed-to-be-base-2-logarithms) [## 为什么计算机科学中的对数被假定为以 2 为底的对数？
-
-### 在计算机科学中，对数产生的最常见的方式之一是通过重复地将一些数组分成两半…
-
-stackoverflow.com](https://stackoverflow.com/questions/42568658/why-are-logarithms-in-computer-science-presumed-to-be-base-2-logarithms) [](https://www.sciencenewsforstudents.org/article/explainer-what-are-logarithms-exponents) [## 解释者:什么是对数和指数？
-
-### 酸性:对含酸物质的形容词。这些材料通常能够侵蚀一些矿物质…
-
-www.sciencenewsforstudents.org](https://www.sciencenewsforstudents.org/article/explainer-what-are-logarithms-exponents)
+<https://stackoverflow.com/questions/42568658/why-are-logarithms-in-computer-science-presumed-to-be-base-2-logarithms>  <https://www.sciencenewsforstudents.org/article/explainer-what-are-logarithms-exponents> 

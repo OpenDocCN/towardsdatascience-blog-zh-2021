@@ -151,11 +151,7 @@ T2:声学在研究环境方面非常有用。它已经被用于跟踪潜艇和�
 
 ***这里是这个项目的 GitHub 库。***
 
-*[](https://github.com/AdityaDutt/Bird-Song-Classification) [## AdityaDutt/鸟鸣-分类
-
-### 我们想根据不同鸟类的声音样本对它们进行分类。我们提取了音频的频谱图…
-
-github.com](https://github.com/AdityaDutt/Bird-Song-Classification) 
+*<https://github.com/AdityaDutt/Bird-Song-Classification>  
 
 # 未来的实验想法
 
@@ -169,44 +165,4 @@ github.com](https://github.com/AdityaDutt/Bird-Song-Classification)
 
 # 参考
 
-[](https://arxiv.org/abs/1609.03499) [## WaveNet:原始音频的生成模型
-
-### 本文介绍了 WaveNet，一种用于生成原始音频波形的深度神经网络。该模型完全…
-
-arxiv.org](https://arxiv.org/abs/1609.03499) [](https://arxiv.org/abs/1511.07122v3) [## 基于扩张卷积的多尺度上下文聚合
-
-### 语义分割的最新模型是基于卷积网络的改编，卷积网络具有…
-
-arxiv.org](https://arxiv.org/abs/1511.07122v3) [](/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5) [## 综述:扩展网络—扩展卷积(语义分割)
-
-### 又名“atrous 卷积”、“algorithme à trous”和“hole algorithm”
-
-towardsdatascience.com](/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5) [](https://www.kaggle.com/rtatman/british-birdsong-dataset) [## 英国鸟鸣数据集
-
-### 88 个物种的 264 个记录
-
-www.kaggle.com](https://www.kaggle.com/rtatman/british-birdsong-dataset)  [## 论文用代码暹罗网讲解
-
-### 一个连体网络由两个网络组成，它们接受不同的输入，但在节点处通过能量函数连接在一起
-
-paperswithcode.com](https://paperswithcode.com/method/siamese-network) [](https://github.com/AgaMiko/bird-recognition-review) [## AgaMiko/bird-识别-回顾
-
-### 一个有用的资源列表，在鸟的声音识别-鸟的歌声和叫声中，你可以随时向⭐️…提出请求
-
-github.com](https://github.com/AgaMiko/bird-recognition-review) [](https://arxiv.org/abs/1502.03167) [## 批量标准化:通过减少内部协变量转移加速深度网络训练
-
-### 训练深度神经网络是复杂的，因为每层输入的分布在训练过程中会发生变化
-
-arxiv.org](https://arxiv.org/abs/1502.03167) [](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) [## 如何用批量归一化加速深度神经网络的学习-机器学习…
-
-### 批量标准化是一种技术，旨在自动标准化深度学习层的输入…
-
-machinelearningmastery.com](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) [](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/) [## 深度神经网络批量规范化的简明介绍——机器学习掌握
-
-### 训练具有数十层的深度神经网络具有挑战性，因为它们可能对初始随机权重敏感…
-
-machinelearningmastery.com](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/) [](https://www.xeno-canto.org/) [## 异种唱法
-
-### 一篇关于 R 包莺的论文刚刚出现。Marcelo Arayas 和 Grace Smith 解释了该软件包如何用于…
-
-www.xeno-canto.org](https://www.xeno-canto.org/)*
+<https://arxiv.org/abs/1609.03499>  <https://arxiv.org/abs/1511.07122v3>  </review-dilated-convolution-semantic-segmentation-9d5a5bd768f5>  <https://www.kaggle.com/rtatman/british-birdsong-dataset>    <https://github.com/AgaMiko/bird-recognition-review>  <https://arxiv.org/abs/1502.03167>  <https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/>  <https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/>  <https://www.xeno-canto.org/> *

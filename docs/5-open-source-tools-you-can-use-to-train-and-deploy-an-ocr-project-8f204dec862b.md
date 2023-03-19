@@ -23,11 +23,7 @@ OCR 可以使用传统的计算机视觉技术或更先进的深度学习技术�
 
 # EasyOCR
 
-[](https://github.com/JaidedAI/EasyOCR) [## GitHub - JaidedAI/EasyOCR:支持 80 多种语言和所有流行文字的现成 OCR
-
-### 支持 80 多种语言和所有流行的书写文字，包括拉丁语、汉语、阿拉伯语…
-
-github.com](https://github.com/JaidedAI/EasyOCR) 
+<https://github.com/JaidedAI/EasyOCR>  
 
 EasyOCR 是一款开源的、随时可用的 OCR，支持近 [80 种语言](https://www.jaided.ai/easyocr/)。您可以选择用您自己的数据训练模型(您可以遵循他们的[示例数据集](https://www.jaided.ai/easyocr/modelhub/)来格式化您自己的数据集)或使用[现有模型](https://www.jaided.ai/easyocr/modelhub/)来为您自己的应用服务。
 
@@ -57,11 +53,7 @@ result = reader.readtext(img_path)
 
 图片来自[来源](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.3/doc/imgs_results/ch_ppocr_mobile_v2.0/test_add_91.jpg)。下[阿帕奇牌照 2.0](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.3/LICENSE) 。
 
-[](https://github.com/PaddlePaddle/PaddleOCR) [## GitHub - PaddlePaddle/PaddleOCR:基于 PaddlePaddle 的超棒多语言 OCR 工具包(实用…
-
-### 基于 PaddlePaddle 的超棒多语言 OCR 工具包(实用超轻量 OCR 系统，支持 80 多种语言…
-
-github.com](https://github.com/PaddlePaddle/PaddleOCR) 
+<https://github.com/PaddlePaddle/PaddleOCR>  
 
 PaddleOCR 是中国百度团队开发的开源产品。我使用这个软件工具已经有一段时间了，我真的很惊讶这个团队做了多少工作来使这个免费的产品像市场上任何商业 OCR 软件一样强大。框架中使用的模型使用最先进的(SOTA)技术(如 CML 知识提炼和复制粘贴数据扩展策略)和大量打印和手写图像进行训练。这使得它成为最强大的开源 OCR 软件之一。下面是一些你可以用开源代码做的事情:
 
@@ -90,15 +82,7 @@ result = ocr.ocr(img_path, cls=True)
 
 图片来自[来源](https://camo.githubusercontent.com/dd6287135427538254c94fe33edadcc1e810f30723c6edb93e733b8ae1c2cc7e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46414464545845566741417354574c3f666f726d61743d6a7067266e616d653d343039367834303936)。根据麻省理工学院的许可。
 
-[](https://huggingface.co/transformers/model_doc/trocr.html) [## TrOCR
-
-### PyTorch 和 TensorFlow 2.0 的最先进的自然语言处理。变形金刚提供了成千上万的…
-
-huggingface.co](https://huggingface.co/transformers/model_doc/trocr.html) [](https://github.com/microsoft/unilm/tree/6f60612e7cc86a2a1ae85c47231507a587ab4e01/trocr) [## unilm/trocr at 6f 60612 e 7c 86 a2 a1 AE 85c 47231507 a 587 ab 4 e 01 Microsoft/unilm
-
-### TrOCR 是一种端到端的文本识别方法，具有预先训练的图像转换器和文本转换器模型，这些模型…
-
-github.com](https://github.com/microsoft/unilm/tree/6f60612e7cc86a2a1ae85c47231507a587ab4e01/trocr) 
+<https://huggingface.co/transformers/model_doc/trocr.html>  <https://github.com/microsoft/unilm/tree/6f60612e7cc86a2a1ae85c47231507a587ab4e01/trocr>  
 
 TrOCR 最初是由、吕腾超、等人在 [TrOCR:基于变压器的光学字符识别中提出的。它是基于图像转换器编码器和自回归文本解码器(类似于 GPT-2)开发的。代码已经包含在著名的 Huggingface 库中，因此我们可以直接从库中使用训练好的模型。](https://arxiv.org/abs/2109.10282)
 
@@ -122,11 +106,7 @@ generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
 
 # MMOCR
 
-[](https://github.com/open-mmlab/mmocr) [## GitHub-open-mmlab/mmocr:OpenMMLab 文本检测、识别和理解工具箱
-
-### English | 简体中文 MMOCR is an open-source toolbox based on PyTorch and mmdetection for text detection, text recognition…
-
-github.com](https://github.com/open-mmlab/mmocr) ![](img/161c8d2d36c69ed15f35123cd24f74c9.png)
+<https://github.com/open-mmlab/mmocr>  ![](img/161c8d2d36c69ed15f35123cd24f74c9.png)
 
 图片来自[来源](https://github.com/open-mmlab/mmocr/blob/main/resources/illustration.jpg)。下[阿帕奇牌照 2.0](https://github.com/open-mmlab/mmocr/blob/main/LICENSE) 。
 
@@ -138,15 +118,7 @@ MMOCR 是另一个开源 OCR 工具，它是在著名的 [OpenMMLab](https://ope
 
 # 宇宙魔方光学字符识别
 
-[](https://github.com/tesseract-ocr/tesseract) [## GitHub-tessera CT-ocr/tessera CT:tessera CT 开源 OCR 引擎(主存储库)
-
-### 这个包包含一个 OCR 引擎- libtesseract 和一个命令行程序- tesseract。宇宙魔方 4 增加了一个新的…
-
-github.com](https://github.com/tesseract-ocr/tesseract) [](https://pypi.org/project/pytesseract/) [## 宇宙魔方
-
-### Python-tesseract 是 Python 的光学字符识别(OCR)工具。也就是说，它会识别并“读取”…
-
-pypi.org](https://pypi.org/project/pytesseract/) 
+<https://github.com/tesseract-ocr/tesseract>  <https://pypi.org/project/pytesseract/>  
 
 对于之前做过 OCR 项目的人来说，你应该对这个库非常熟悉。这里有一点关于宇宙魔方光学符的历史:
 
@@ -176,11 +148,7 @@ python-pytesserac 是 tesserac-OCR 引擎的包装器。使用它非常简单。
 
 如果您没有读过我的 Label Studio 文章，请在这里阅读:
 
-[](/a-free-and-powerful-labelling-tool-every-data-scientist-should-know-ce66473c7557) [## 每个数据科学家都应该知道的免费且强大的标签工具
-
-### 我用过的最好的标签工具之一。
-
-towardsdatascience.com](/a-free-and-powerful-labelling-tool-every-data-scientist-should-know-ce66473c7557) 
+</a-free-and-powerful-labelling-tool-every-data-scientist-should-know-ce66473c7557>  
 
 请关注我并喜欢我的帖子，以获得该系列的最新更新。
 
@@ -192,8 +160,4 @@ Woen Yon 与一些聪明人合作，为当地和国际初创企业主提供网�
 
 他喜欢交朋友！在 [LinkedIn](https://www.linkedin.com/in/woenyon/) 和 [Medium](https://laiwoenyon.medium.com/) 上随时与他联系
 
-[](https://laiwoenyon.medium.com/) [## 赖文渊-媒体
-
-### 阅读赖文渊在媒体上的文章。数据科学家，TDS 特约撰稿人。我喜欢结交来自世界各地的朋友…
-
-laiwoenyon.medium.com](https://laiwoenyon.medium.com/)
+<https://laiwoenyon.medium.com/> 

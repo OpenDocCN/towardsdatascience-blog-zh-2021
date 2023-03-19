@@ -46,16 +46,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981) [## 随着大数据的出现，了解正确背景变得越来越重要
-
-### 在开发算法之前，理解 3 个关键问题中的业务目标
-
-towardsdatascience.com](/with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981) [](/a-four-step-process-to-handle-continual-learning-in-the-workplace-3ae3a539bd43) [## 处理工作场所持续学习的四步流程
-
-### 加入一个关于处理压力的 Twitter 空间的 3 个关键经验
-
-towardsdatascience.com](/a-four-step-process-to-handle-continual-learning-in-the-workplace-3ae3a539bd43) [](/top-5-ways-to-keep-your-skills-and-knowledge-relevant-2a5e5f6580f) [## 保持技能和知识相关性的五大方法
-
-### 在办公室内外保持学习的不同方法
-
-towardsdatascience.com](/top-5-ways-to-keep-your-skills-and-knowledge-relevant-2a5e5f6580f)
+</with-big-data-comes-the-importance-of-knowing-the-right-context-af5b3ec6f981>  </a-four-step-process-to-handle-continual-learning-in-the-workplace-3ae3a539bd43>  </top-5-ways-to-keep-your-skills-and-knowledge-relevant-2a5e5f6580f> 

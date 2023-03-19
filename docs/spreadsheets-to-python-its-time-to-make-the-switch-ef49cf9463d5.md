@@ -154,7 +154,7 @@
 
 在这个博客系列中，我将进一步探索 Python 的功能，并希望能启发您迈出使用 Python 的第一步。
 
-*这篇文章的文本、代码和图像是使用* [*灯丝*](http://www.filament.so) *创建的，这是一个用于数据、分析和报告的一体化工作空间。如需了解更多信息，请访问我们的网站*[](http://www.filament.so)**。Filament 目前正在运行一个封闭的测试程序；前 100 人到* [*报名*](https://get.filament.so/invite/) *使用推荐代码 TDSFILAMENT 可以跳过等候名单，提前报名。**
+*这篇文章的文本、代码和图像是使用* [*灯丝*](http://www.filament.so) *创建的，这是一个用于数据、分析和报告的一体化工作空间。如需了解更多信息，请访问我们的网站*<http://www.filament.so>**。Filament 目前正在运行一个封闭的测试程序；前 100 人到* [*报名*](https://get.filament.so/invite/) *使用推荐代码 TDSFILAMENT 可以跳过等候名单，提前报名。**
 
 ## *参考*
 

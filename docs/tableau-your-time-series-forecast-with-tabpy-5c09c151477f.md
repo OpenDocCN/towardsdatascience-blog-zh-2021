@@ -66,11 +66,7 @@ Tableau 具有内置的分析扩展，允许与其他平台集成。
 
 请确保安装 TabPy，并在您的终端中启动，如以下资源所示:
 
- [## TabPy 安装说明
-
-### 动态执行 Python 代码并在 Tableau 可视化中显示结果:在 GitHub tableau/TabPy 上查看项目…
-
-tableau.github.io](https://tableau.github.io/TabPy/docs/server-install.html) 
+  
 
 您可以在上述弹出窗口的 Tableau 中测试连接。
 

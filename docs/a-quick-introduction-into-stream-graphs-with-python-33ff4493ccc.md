@@ -22,25 +22,13 @@
 
 *更多关于流图的阅读，请查看以下链接:*
 
-[](https://www.data-to-viz.com/graph/streamgraph.html#:~:text=A%20Stream%20graph%20is%20a%20type%20of%20stacked%20area%20chart.&text=Contrary%20to%20a%20stacked%20area,a%20flowing%20and%20organic%20shape) [## 流图
-
-### 流图是一种堆叠面积图。它显示一个数值(Y 轴)跟随另一个数值的演变…
-
-www.data-to-viz.com](https://www.data-to-viz.com/graph/streamgraph.html#:~:text=A%20Stream%20graph%20is%20a%20type%20of%20stacked%20area%20chart.&text=Contrary%20to%20a%20stacked%20area,a%20flowing%20and%20organic%20shape) [](https://en.wikipedia.org/wiki/Streamgraph) [## 流图-维基百科
-
-### 流图，或流图，是一种堆叠面积图，它是围绕一个中心轴，导致…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Streamgraph) 
+<https://www.data-to-viz.com/graph/streamgraph.html#:~:text=A%20Stream%20graph%20is%20a%20type%20of%20stacked%20area%20chart.&text=Contrary%20to%20a%20stacked%20area,a%20flowing%20and%20organic%20shape>  <https://en.wikipedia.org/wiki/Streamgraph>  
 
 # 用 Python 制作流图
 
 对于这个例子，我们将使用 Altair，它是 python 中的一个图形库。Altair 是一个声明式统计可视化库，基于 Vega 和 Vega-Lite。源代码可以在 [GitHub](http://github.com/altair-viz/altair) 上获得。
 
-[](https://altair-viz.github.io/) [## Altair:Python-Altair 4 . 1 . 0 文档中的声明性可视化
-
-### 有了 Altair，你可以花更多的时间去理解你的数据及其意义。Altair 的 API 简单、友好并且…
-
-牛郎星-即 github.io](https://altair-viz.github.io/) 
+<https://altair-viz.github.io/>  
 
 为了开始创建我们的流图，我们需要首先安装 *Altair* 和 *vega_datasets* 。
 
@@ -80,34 +68,10 @@ alt.Chart(source).mark_area().encode(
 
 就是这样！现在前进，创建您自己的流图数据可视化。更多关于流图的资源和教程，请点击下面的链接。
 
- [## d3.js 中的基本流图
-
-### 这篇文章描述了如何用 d3.js 构建一个非常基本的 streamgraph
-
-www.d3-graph-gallery.com](https://www.d3-graph-gallery.com/graph/streamgraph_basic.html) [](https://www.r-graph-gallery.com/154-basic-interactive-streamgraph-2.html) [## 最基本的流图
-
-### 这篇文章描述了如何使用 R 和 streamgraph 包构建一个基本的 streamgraph。它提供了可重复的…
-
-www.r-graph-gallery.com](https://www.r-graph-gallery.com/154-basic-interactive-streamgraph-2.html) [](http://bl.ocks.org/mbostock/582915) [## 流图
-
-### 这个例子不再保持了。你仍然可以访问下面的代码，但它可能使用旧版本的 D3，有…
-
-bl.ocks.org](http://bl.ocks.org/mbostock/582915) 
+  <https://www.r-graph-gallery.com/154-basic-interactive-streamgraph-2.html>  <http://bl.ocks.org/mbostock/582915>  
 
 # 有关系的
 
-[](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f) [](https://medium.com/geekculture/visualizing-human-motion-capture-data-with-d3-js-2acca2a49cff) [## 用 D3 可视化人体运动捕捉数据。射流研究…
-
-### 使用 MVIZ 存储库
-
-medium.com](https://medium.com/geekculture/visualizing-human-motion-capture-data-with-d3-js-2acca2a49cff) [](https://medium.com/new-health/visualizing-brain-waves-with-python-24847de94266) [## 用 Python 可视化脑电波
-
-### 使用 MNE 库
-
-medium.com](https://medium.com/new-health/visualizing-brain-waves-with-python-24847de94266) 
+</making-it-rain-with-raincloud-plots-496c39a2756f>  <https://medium.com/geekculture/visualizing-human-motion-capture-data-with-d3-js-2acca2a49cff>  <https://medium.com/new-health/visualizing-brain-waves-with-python-24847de94266>  
 
 # 感谢您的阅读！！

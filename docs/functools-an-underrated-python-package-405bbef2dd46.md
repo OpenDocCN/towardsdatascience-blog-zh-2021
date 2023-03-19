@@ -12,15 +12,7 @@
 
 上个月，我写了一篇关于 Python 标准库中一些模块的文章，我发现这些模块在我的编程和数据科学生涯中非常有用。这篇文章获得了高质量的反馈，因此我决定再写一篇文章，讨论相同的主题，使用大家都应该熟悉的更多标准库工具。事实证明，Python 编程语言的基础实际上是相当包容的，包括了许多应对各种编程挑战的优秀工具。如果你想读这些文章中的任何一篇，你可以在这里查阅:
 
-[](/10-surprisingly-useful-base-python-functions-822d86972a23) [## 10 个非常有用的基本 Python 函数
-
-### 用这个令人兴奋的列表来复习你的标准模块库吧！
-
-towardsdatascience.com](/10-surprisingly-useful-base-python-functions-822d86972a23) [](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) [## 15 个非常有用的 Python 基础模块
-
-### 忘记依赖性，使用标准库！
-
-towardsdatascience.com](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) 
+</10-surprisingly-useful-base-python-functions-822d86972a23>  </15-more-surprisingly-useful-python-base-modules-6ff1ee89b018>  
 
 当浏览这些工具时，似乎有些工具应该有一整篇文章专门介绍它们，而不仅仅是对它所提供的大多数其他模块的概述。我认为最能体现我这种想法的工具是 functools 模块。这是一个非常强大的模块，通过使用简单和经典的方法，可以用来改进 Python 中的几乎任何功能，例如利用处理器速度上的堆栈。虽然在某些情况下，我可以看到这是一个很大的负面影响，但当然也有例外。
 
@@ -57,11 +49,7 @@ def factorial(n):
 
 也就是说，如果你打算像这样使用递归，开始熟悉 functools 可能是个好主意。这个标准的库工具可以大大加快 Python 通常很难解决的问题的解决速度。在某种程度上，它真的把我带回了 Numba Python 编译器，在那里一个简单的调用就能让你的代码变得更快。如果你想看我不久前写的一篇文章，你可以在这里看看:
 
-[](/numba-jit-compilation-but-for-python-373fc2f848d6) [## Numba: JIT 编译，但是用于 Python
-
-### 快速浏览一下 2020 年让 Python 变得更好的神奇工具。
-
-towardsdatascience.com](/numba-jit-compilation-but-for-python-373fc2f848d6) 
+</numba-jit-compilation-but-for-python-373fc2f848d6>  
 
 # 关键功能
 

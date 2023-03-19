@@ -40,11 +40,7 @@ Rocket 提取的特征用于训练线性分类器。
 
 有关 Rocket 的更多背景信息，请参阅我之前的文章:
 
-[](https://link.medium.com/qYcaC7lL69) [## ROCKET:快速准确的时间序列分类
-
-### “时间序列分类的任务可以被认为是学习或检测信号或模式…
-
-link.medium.com](https://link.medium.com/qYcaC7lL69) 
+<https://link.medium.com/qYcaC7lL69>  
 
 # MiniRocket 和 Rocket 有什么不同？
 
@@ -130,11 +126,7 @@ MiniRocket 通过 4 个关键的优化显著加快了转换速度，这些优化
 
 像 Rocket 一样，MiniRocket 转换是在`[sktime](https://www.sktime.org/en/latest/examples/rocket.html)` python 包中实现的。
 
-[](https://link.medium.com/TyOyddIK19) [## Sktime:用于时间序列机器学习的统一 Python 库
-
-### 用于时间序列预测、分类和回归的“sklearn”
-
-link.medium.com](https://link.medium.com/TyOyddIK19) 
+<https://link.medium.com/TyOyddIK19>  
 
 以下代码示例改编自`sktime` [小型火箭演示](https://github.com/alan-turing-institute/sktime/blob/master/examples/minirocket.ipynb)。
 
@@ -191,23 +183,7 @@ classifier.score(X_test_transform, y_test)
 
 *感谢您的阅读！你可能也会喜欢下面的相关文章。如果你还不是灵媒会员，今天就加入灵媒吧！*
 
-*[](/a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97) [## 时间序列分类算法综述
-
-### 专门为时间序列分类设计的专用算法
-
-towardsdatascience.com](/a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97) [](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) [## Sktime:用于时间序列机器学习的统一 Python 库
-
-### 用于时间序列预测、分类和回归的“sklearn”
-
-towardsdatascience.com](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) [](/how-to-apply-hierarchical-clustering-to-time-series-a5fe2a7d8447) [## 如何对时间序列应用层次聚类
-
-### 如何在 python 中对时间序列进行聚类—比 k-means 更快！
-
-towardsdatascience.com](/how-to-apply-hierarchical-clustering-to-time-series-a5fe2a7d8447) [](/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3) [## 如何对时间序列数据应用 K 均值聚类
-
-### 使算法适应时间序列的理论和代码
-
-towardsdatascience.com](/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3) 
+*</a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97>  </sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55>  </how-to-apply-hierarchical-clustering-to-time-series-a5fe2a7d8447>  </how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3>  
 
 # 参考
 

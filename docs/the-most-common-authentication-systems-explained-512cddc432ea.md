@@ -48,11 +48,7 @@
 
 敬请关注，欢迎在 Linkedin 上留下评论和我联系。
 
-[](https://www.linkedin.com/in/fangyiyu/) [## 于-导师-深度学习。人工智能| LinkedIn
-
-### 我喜欢摆弄数据，寻找见解，并将最先进的技术应用于数据。我喜欢做…
-
-www.linkedin.com](https://www.linkedin.com/in/fangyiyu/) 
+<https://www.linkedin.com/in/fangyiyu/>  
 
 # 参考资料:
 

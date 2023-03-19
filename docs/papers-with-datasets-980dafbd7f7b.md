@@ -18,11 +18,7 @@
 
 根据 Robert Stojnic 的说法，他写了一个关于这个公告的快速帖子，你可以在这里查看，
 
-[](https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104) [## arXiv 上的数据集
-
-### 我们很高兴地宣布与 arXiv 合作，支持 arXiv 上数据集的链接！
-
-medium.com](https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104) 
+<https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104>  
 
 目标是:
 

@@ -327,14 +327,6 @@ anomaly_score = outliers_detection(model, 'COPOD')
 
 # 相关文章
 
-[](/model-evaluation-in-scikit-learn-abce32ee4a99) [## Scikit-learn 中的模型评估
+</model-evaluation-in-scikit-learn-abce32ee4a99>  </how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669> [## 如何在 Python 中处理不平衡的多类数据集
 
-### 关于如何使用 scikit-learn 计算最常见的回归和分类指标的教程。
-
-towardsdatascience.com](/model-evaluation-in-scikit-learn-abce32ee4a99) [](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [## 如何在 Python 中处理不平衡的多类数据集
-
-towardsdatascience.com](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829)
+towardsdatascience.com](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) </automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829> 

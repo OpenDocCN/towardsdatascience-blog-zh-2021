@@ -45,12 +45,4 @@
 
 ## 你可能也会喜欢…
 
-[](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [## 我作为产品数据分析师的经历
-
-### 支持产品如何让我成为更好的数据分析师
-
-towardsdatascience.com](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [](/what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e) [## 成为营销数据分析师之前你应该知道什么
-
-### 从我的营销分析经验来看利弊
-
-towardsdatascience.com](/what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e)
+</my-experience-as-a-product-data-analyst-3d01748bc6ea>  </what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e> 

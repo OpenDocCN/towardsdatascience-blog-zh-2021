@@ -145,12 +145,4 @@ t 检验是比较两个样本平均值的统计检验。它用于假设检验。
 
 也可以看看我的其他博客:
 
-[](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1) [## 为您的下一个数据科学项目提供 15 种免费开源数据资源
-
-### 为初学者和专业人士按不同类别组织的免费数据集的合并列表
-
-towardsdatascience.com](/15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1) [](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063) [## 8 ML/AI 项目，让您的投资组合脱颖而出
-
-### 有趣的项目想法与源代码和参考文章，也附上一些研究论文。
-
-towardsdatascience.com](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063)
+</15-free-open-source-data-resources-for-your-next-data-science-project-6480edee9bc1>  </8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063> 

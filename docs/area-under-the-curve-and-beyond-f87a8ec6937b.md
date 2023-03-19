@@ -18,11 +18,7 @@
 *   [**发表**医学中这些概念的例子。](https://www.nature.com/articles/s43856-021-00024-0#Fig3)
 *   **以下示例的代码**和有用的 AUC、NRI、IDI 函数可以在 [**github**](https://github.com/LambertLeong/AUC_NRI_IDI_python_functions) 中找到。
 
-[](https://www.nature.com/articles/s43856-021-00024-0#Fig3) [## 用于成分生物标记物的双能三室乳腺成像，以改善对乳腺癌的检测
-
-### 虽然乳房成像如全视野数字乳房 x 线照相术和数字乳房断层合成术有助于减少…
-
-www.nature.com](https://www.nature.com/articles/s43856-021-00024-0#Fig3) 
+<https://www.nature.com/articles/s43856-021-00024-0#Fig3>  
 
 # 曲线下面积
 

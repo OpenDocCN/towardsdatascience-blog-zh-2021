@@ -50,7 +50,7 @@
 
 第一原则思维可以方便地解决大多数数据科学问题。它有助于更好地理解问题，并提出可能的最佳解决方案。要了解如何将基本原则思维应用于数据科学问题，请阅读下面的文章
 
-[](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) [## 如何用第一性原理思维解决数据科学问题？
+</how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21> [## 如何用第一性原理思维解决数据科学问题？
 
 towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) 
 

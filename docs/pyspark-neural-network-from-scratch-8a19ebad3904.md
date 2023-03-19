@@ -18,11 +18,7 @@
 
 本教程中提供的所有代码都可以在这个 [GitHub](https://github.com/MarvinMartin24/PySpark-Neural-Network) 资源库中获得。
 
-[](https://github.com/MarvinMartin24/PySpark-Neural-Network) [## GitHub-marvinmartin 24/py spark-Neural-Network:py spark 实现浅层神经网络…
-
-### Pyspark 实现浅层神经网络从零开始使用 MNIST 这个项目的目标是使用火花…
-
-github.com](https://github.com/MarvinMartin24/PySpark-Neural-Network) 
+<https://github.com/MarvinMartin24/PySpark-Neural-Network>  
 
 为了以防万一，这里有一些资源可以设置您的机器来运行代码:
 
@@ -32,11 +28,7 @@ github.com](https://github.com/MarvinMartin24/PySpark-Neural-Network)
 
 此外，在整篇文章中，我将根据我以前的一篇文章来解释三层神经网络背后的数学原理。我将提供的大多数数学公式都是在这里摘录和讨论的:
 
-[](https://medium.com/swlh/mathematics-behind-basic-feed-forward-neural-network-3-layers-python-from-scratch-df88085c8049) [## 基本前馈神经网络(3 层)+ Python 从头开始背后的数学
-
-### 让我们看看基本 FFNN 背后的数学原理。该架构固定为 3 层网络(输入层+隐藏层…
-
-medium.com](https://medium.com/swlh/mathematics-behind-basic-feed-forward-neural-network-3-layers-python-from-scratch-df88085c8049) 
+<https://medium.com/swlh/mathematics-behind-basic-feed-forward-neural-network-3-layers-python-from-scratch-df88085c8049>  
 
 # 为什么是火花？(而不是 Tensorflow 或 Pytorch)
 

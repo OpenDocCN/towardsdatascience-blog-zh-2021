@@ -180,8 +180,4 @@ FDR = E[假阳性的数量/拒绝的数量]
 *   **连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！**
 *   *前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！*
 
-*[](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) [## 我是如何获得 4 份数据科学工作邀请，并在被解雇后两个月内收入翻倍的
-
-### 获得 100%现场报价率的秘诀
-
-towardsdatascience.com](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938)*
+*</how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938> *

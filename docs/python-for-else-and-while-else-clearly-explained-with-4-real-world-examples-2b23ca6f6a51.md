@@ -161,12 +161,4 @@ Python 中按作者排序的图像-For-Else 和 While-Else
 
 # **参考**
 
-**[](https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops) [## 为什么 python 在 for 和 while 循环后要用‘else’？
-
-### 我知道这是一个老话题，但我现在正在研究同一个问题，我不确定是否有人抓住了…
-
-stackoverflow.com](https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops) [](https://www.udemy.com/course/python-3-deep-dive-part-1/) [## Python 3:深潜(第 1 部分-功能)
-
-### 你好！这是一系列课程的第一部分，旨在深入研究…的内部机制和更复杂的方面
-
-www.udemy.com](https://www.udemy.com/course/python-3-deep-dive-part-1/)**
+**<https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops>  <https://www.udemy.com/course/python-3-deep-dive-part-1/> **

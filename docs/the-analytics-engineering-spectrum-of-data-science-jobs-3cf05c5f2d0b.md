@@ -166,12 +166,4 @@
 
 查看这些相关的帖子，深入了解这里涉及的一些主题。
 
-[](/business-and-personal-skills-to-supercharge-your-impact-22fbd43e32e9) [## 提升你影响力的商业和个人技能
-
-### 机器学习中人类的一面
-
-towardsdatascience.com](/business-and-personal-skills-to-supercharge-your-impact-22fbd43e32e9) [](/a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa) [## Python 中 SQL 与 NoSQL 数据库的实践演示
-
-### 用 SQLAlchemy 和 PyMongo 打动你的朋友
-
-towardsdatascience.com](/a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa)
+</business-and-personal-skills-to-supercharge-your-impact-22fbd43e32e9>  </a-hands-on-demo-of-sql-vs-nosql-databases-in-python-eeb955bba4aa> 

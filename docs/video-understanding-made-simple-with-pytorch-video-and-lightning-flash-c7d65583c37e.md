@@ -12,11 +12,7 @@
 
 在其最新发布的版本中，[**Lightning Flash**](https://github.com/PyTorchLightning/lightning-flash)**使用[脸书 AI Research](https://ai.facebook.com/) 的新 [PyTorchVideo](https://pytorchvideo.org/) 由 Lightning 提供动力的库，为视频理解提供支持。**
 
-**[](https://github.com/PyTorchLightning/lightning-flash) [## 手电筒光/闪电
-
-### 阅读我们的发布博客 Pip/conda Pip install lightning-flash-U 其他安装 Pip from source pip 安装…
-
-github.com](https://github.com/PyTorchLightning/lightning-flash) 
+**<https://github.com/PyTorchLightning/lightning-flash>  
 
 Flash 是一个用于快速原型制作、基线和微调可扩展深度学习任务的库。使用 Flash 进行视频理解使您能够根据自己的数据训练、微调和推断 PyTorch 视频模型，而不会被所有细节淹没。
 
@@ -44,7 +40,7 @@ Flash 是一个用于快速原型制作、基线和微调可扩展深度学习�
 
 Flash 使训练自定义模型变得容易，要了解更多信息，请查看 Lightning 开发人员教程，了解如何通过 5 个简单步骤轻松微调视频理解模型。
 
-[](https://devblog.pytorchlightning.ai/5-steps-to-training-your-first-video-classifier-in-a-flash-dd11d472fded) [## 快速训练第一个视频分类器的 5 个步骤
+<https://devblog.pytorchlightning.ai/5-steps-to-training-your-first-video-classifier-in-a-flash-dd11d472fded> [## 快速训练第一个视频分类器的 5 个步骤
 
 devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/5-steps-to-training-your-first-video-classifier-in-a-flash-dd11d472fded) 
 

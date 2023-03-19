@@ -12,11 +12,7 @@
 
 在前一篇文章中，我们已经介绍了 HITS 算法并指出它的主要缺点。在本文中，我们将展示一种叫做 PageRank 算法的高级方法。我们将简要解释 PageRank 算法，并演练整个 Python 实现。
 
-[](https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf) [## HITS 算法:链接分析解释和 Python 实现
-
-### 搜索引擎中的枢纽和权威
-
-chonyy.medium.com](https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf) 
+<https://chonyy.medium.com/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf>  
 
 PageRank 最好的部分是它的**查询独立**。我们不需要根集来启动算法。
 
@@ -33,11 +29,7 @@ PageRank 和 HITS 最大的区别
 
 请随意查看评论良好的源代码。这真的有助于理解整个算法。
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 链接分析算法的 Python 实现。为 chonyy/PageRank-HITS-SimRank 的发展作出贡献
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank) 
+<https://github.com/chonyy/PageRank-HITS-SimRank>  
 
 算法步骤如下所列
 
@@ -204,8 +196,4 @@ github.com](https://github.com/chonyy/PageRank-HITS-SimRank)
 
 # 源代码
 
-[](https://github.com/chonyy/PageRank-HITS-SimRank) [## chonyy/PageRank-HITS-SimRank
-
-### 🎏著名链接分析算法的 Python 实现。HITS 算法 PageRank 算法 SimRank 算法得到一个…
-
-github.com](https://github.com/chonyy/PageRank-HITS-SimRank)
+<https://github.com/chonyy/PageRank-HITS-SimRank> 

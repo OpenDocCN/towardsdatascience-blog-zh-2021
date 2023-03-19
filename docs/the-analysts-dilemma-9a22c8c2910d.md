@@ -60,12 +60,4 @@
 
 那么你可能也会喜欢我的一篇关于(产品)分析的(不太哲学的)文章:
 
-[](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5) [## 挑战作为分析师的利益相关者
-
-### 为什么分析师不应该盲目地处理摆在他们桌面上的每一个数据请求，以及如何做得更好。
-
-towardsdatascience.com](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5) [](https://productcoalition.com/tackling-the-product-growth-question-5115113fb039) [## 解决产品增长问题
-
-### 利用数据来决定 Spotify 电台下一步要做什么
-
-productcoalition.com](https://productcoalition.com/tackling-the-product-growth-question-5115113fb039)
+</challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5>  <https://productcoalition.com/tackling-the-product-growth-question-5115113fb039> 

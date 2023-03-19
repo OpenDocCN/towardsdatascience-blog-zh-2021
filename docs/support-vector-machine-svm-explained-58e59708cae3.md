@@ -78,16 +78,4 @@ SVM 是一种监督学习算法，它通过使用超平面将数据分成不同�
 
 您可能会对我写的其他文章感兴趣:
 
-[](/random-forest-explained-6b4849d56a2f) [## 兰登森林解释道
-
-### 决策树和随机森林的理解与实现
-
-towardsdatascience.com](/random-forest-explained-6b4849d56a2f) [](/k-nearest-neighbours-explained-7c49853633b6) [## k 最近的邻居解释说
-
-### 在这篇文章中，我将给出一个概述，实现，缺点和相关的 K 最近…
-
-towardsdatascience.com](/k-nearest-neighbours-explained-7c49853633b6) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9)
+</random-forest-explained-6b4849d56a2f>  </k-nearest-neighbours-explained-7c49853633b6>  </markov-chain-explained-210581d7a4a9> 

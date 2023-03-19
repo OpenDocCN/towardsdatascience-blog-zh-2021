@@ -457,24 +457,12 @@ print( f'Final result:\n {function_with_interval_param(3, interval=pd.Interval(-
 
 **CacheIntervals* 存储库位于 GitHub 上，地址如下:*
 
-*[](https://github.com/cyrilgodart/CacheIntervals) [## cyrilgodart/CacheIntervals
-
-### 带区间参数的内存化 CacheIntervals 允许对带区间参数的函数进行惰性求值…
-
-github.com](https://github.com/cyrilgodart/CacheIntervals) 
+*<https://github.com/cyrilgodart/CacheIntervals>  
 
 亚历山大·德坎的*部分*可以在这里找到:
 
-[](https://github.com/AlexandreDecan/portion) [## 亚历山大扫描/部分
-
-### 部分库(以前作为 python-intervals 发布)提供了数据结构和区间操作…
-
-github.com](https://github.com/AlexandreDecan/portion) 
+<https://github.com/AlexandreDecan/portion>  
 
 窃贼来了:
 
-[](https://github.com/uqfoundation/klepto) [## uqfoundation/klepto
-
-### 内存、磁盘或数据库持久缓存扩展了 python 的 lru_cache，以利用不同的键映射和…
-
-github.com](https://github.com/uqfoundation/klepto)*
+<https://github.com/uqfoundation/klepto> *

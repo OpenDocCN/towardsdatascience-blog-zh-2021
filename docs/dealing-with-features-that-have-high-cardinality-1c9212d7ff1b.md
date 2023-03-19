@@ -61,20 +61,4 @@
 
 **如果你喜欢这篇文章，这里有更多！**
 
-**[](/scatter-plots-on-maps-using-plotly-79f16aee17d0) [## 使用 Plotly 在地图上散布图
-
-### 了解如何用很少的代码创建交互式散点图来表示数据中的多个要素
-
-towardsdatascience.com](/scatter-plots-on-maps-using-plotly-79f16aee17d0) [](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/effortless-exploratory-data-analysis-eda-201c99324857) [## 轻松的探索性数据分析(EDA)
-
-towardsdatascience.com](/effortless-exploratory-data-analysis-eda-201c99324857) 
-
-查看我的 [**GitHub**](https://github.com/rajlm10) 其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！**
+**</scatter-plots-on-maps-using-plotly-79f16aee17d0>  </regex-essential-for-nlp-ee0336ef988d>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </effortless-exploratory-data-analysis-eda-201c99324857>  其他一些项目。可以联系我 [***这里***](https://rajsangani.me/) ***。*** 感谢您的配合！**

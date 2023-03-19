@@ -26,11 +26,7 @@ Sean Kross 和 Philip Guo 为 R 用户开发了一个类似的工具，叫做 Ti
 
 让我们使用来自 *Kaggle 数据集【2】的心力衰竭预测数据集。*你可以在下面找到数据。数据在[开放数据库(ODbl)许可](https://opendatacommons.org/licenses/odbl/1-0/)下可用，允许*用户自由共享、修改和使用该数据库，同时为其他人保持同样的自由。*【3】
 
-[](https://www.kaggle.com/fedesoriano/heart-failure-prediction) [## 心力衰竭预测数据集
-
-### 预测心脏病事件的 11 个临床特征。
-
-www.kaggle.com](https://www.kaggle.com/fedesoriano/heart-failure-prediction) 
+<https://www.kaggle.com/fedesoriano/heart-failure-prediction>  
 
 由于熊猫导师只对小数据起作用，我就取前 50 行红心数据)。
 
@@ -93,11 +89,7 @@ Pandas Tutor 还为您提供了一个可共享的 URL，其中甚至包括转换
 
 👉*如果你喜欢阅读这样的故事(以及媒体上的其他故事)，并且也想支持我成为一名作家，可以考虑注册*[*【https://medium.ealizadeh.com/membership】*](https://medium.ealizadeh.com/membership)*来获得所有故事的全部信息(免责声明:如果你使用我的链接注册，我将免费为你赚取一小笔佣金。)*
 
-[](https://medium.ealizadeh.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.ealizadeh.com](https://medium.ealizadeh.com/membership) 
+<https://medium.ealizadeh.com/membership>  
 
 # 参考
 

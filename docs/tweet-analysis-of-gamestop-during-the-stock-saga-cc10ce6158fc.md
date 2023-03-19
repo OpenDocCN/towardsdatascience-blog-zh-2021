@@ -74,11 +74,7 @@ Gamestop 股票(纽约证券交易所:GME)1 月 25 日至 29 日的开盘价
 
 有兴趣的话，下面详细介绍一下带代码的 Google Colab 笔记本。
 
-[](https://colab.research.google.com/drive/14N2_HWgoqiVb2E5tAV96RT8SAkC1WeJZ?usp=sharing) [## TweetGamestopAnalysis
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/14N2_HWgoqiVb2E5tAV96RT8SAkC1WeJZ?usp=sharing) 
+<https://colab.research.google.com/drive/14N2_HWgoqiVb2E5tAV96RT8SAkC1WeJZ?usp=sharing>  
 
 引导我的内心:我探索得越多，我就越意识到我的理解和假设是多么的贫乏。但这使得更深入地探究社会网络之间的相互依存关系变得更加有趣。
 

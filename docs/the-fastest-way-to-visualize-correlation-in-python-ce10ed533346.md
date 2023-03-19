@@ -112,7 +112,7 @@ df.corr('spearman').style.background_gradient(cmap="Blues")
 
 将**style . background _ gradient**应用于关联结果只是冰山一角。这个概念对我已经描述过的很多事情都很有用:
 
-[](/how-to-color-a-pandas-dataframe-41ee45db04f6) [## 如何给熊猫数据框上色？
+</how-to-color-a-pandas-dataframe-41ee45db04f6> [## 如何给熊猫数据框上色？
 
 towardsdatascience.com](/how-to-color-a-pandas-dataframe-41ee45db04f6) 
 

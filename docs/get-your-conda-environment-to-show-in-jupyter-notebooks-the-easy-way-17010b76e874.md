@@ -134,8 +134,4 @@ print (os.environ['CONDA_DEFAULT_ENV'])
 
 我觉得这个栈溢出答案的评分不够高(去投上一票吧，以示对 [lumbric](https://stackoverflow.com/users/859591/lumbric) 贴上回答自己问题的答案的一点爱)。这是我对这个主题最初理解的基础。
 
-[](https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment) [## 如何在康达环境下使用 Jupyter 笔记本？
-
-### 免责声明:仅在 Ubuntu 和 Windows 中测试(见本回答的评论)，如果有变化请评论…
-
-stackoverflow.com](https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment)
+<https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment> 

@@ -38,11 +38,7 @@
 
 如果你不注意这些问题并解决它们，你的索引将永远不会被使用，即使你的查询被设计来使用它们。所有这些都给优化器和数据库服务器带来了压力，让它们不断更新索引。
 
-[](https://www.mongodb.com/developer/article/schema-design-anti-pattern-unnecessary-indexes/) [## MongoDB 模式设计反模式:不必要的索引
-
-### 到目前为止，在 MongoDB 模式设计反模式系列中，我们已经讨论了如何避免大规模数组以及大规模…
-
-www.mongodb.com](https://www.mongodb.com/developer/article/schema-design-anti-pattern-unnecessary-indexes/) 
+<https://www.mongodb.com/developer/article/schema-design-anti-pattern-unnecessary-indexes/>  
 
 ## 陈旧索引
 
@@ -62,11 +58,7 @@ www.mongodb.com](https://www.mongodb.com/developer/article/schema-design-anti-pa
 
 拥有数十亿行和许多列的表上的巨大索引确实很难管理。它们也可能非常慢。这就是您可以使用分区这一美丽概念的地方——本质上是将表分成许多部分，并使用一种称为分区修剪的现象来查询您绝对、最肯定需要的分区。一旦删除了不需要的分区，表中就只剩下小块的索引，即更小的索引、更少的管理开销、更快的索引查找。在我不久前写的这篇文章中可以读到更多的相关内容。
 
-[](/indexing-very-large-tables-569811421ee0) [## 索引非常大的表
-
-### 关于索引大型表的最佳实践以及如何使用分区来减轻负载的简短指南…
-
-towardsdatascience.com](/indexing-very-large-tables-569811421ee0) 
+</indexing-very-large-tables-569811421ee0>  
 
 # 结论
 
@@ -74,8 +66,4 @@ towardsdatascience.com](/indexing-very-large-tables-569811421ee0)
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](https://towardsdatascience.com/linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。干杯！
 
-[](https://kovidrathee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Kovid Rathee
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kovidrathee.medium.com](https://kovidrathee.medium.com/membership)
+<https://kovidrathee.medium.com/membership> 

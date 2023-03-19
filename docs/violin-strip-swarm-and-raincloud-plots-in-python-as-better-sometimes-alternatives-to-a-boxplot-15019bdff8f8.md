@@ -240,16 +240,4 @@ add_cosmetics(xlabel='Color', ylabel='Price, USD')
 
 **你会发现这些文章也很有趣:**
 
-[](/how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813) [## 如何从箱线图中获取精确值(Python)
-
-### 从 matplotlib 盒图中提取数据集描述性统计数据的有效方法
-
-towardsdatascience.com](/how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813) [](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [## 用 Python 创建瀑布图
-
-### 做这件事最简单的方法
-
-medium.com](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8) [## 如何在 Matplotlib 中用模式填充绘图
-
-### 向条形图、直方图、箱线图和饼图添加图案的方法
-
-towardsdatascience.com](/how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8)
+</how-to-fetch-the-exact-values-from-a-boxplot-python-8b8a648fc813>  <https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45>  </how-to-fill-plots-with-patterns-in-matplotlib-58ad41ea8cf8> 

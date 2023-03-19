@@ -18,11 +18,7 @@
 
 一篇令人难以置信的来自斯坦福大学的 6 页论文可以在本文最后的附录中找到。在你的程序中集成三角形计数的一个简单方法在这里解释:
 
-[](/identify-well-connected-users-in-a-social-network-19ea8dd50b16) [## 在无向图中识别良好连接的用户
-
-### 这主要是关于使用无向图和 Scipy 的稀疏矩阵实现(首席运营官)来存储数据和…
-
-towardsdatascience.com](/identify-well-connected-users-in-a-social-network-19ea8dd50b16) 
+</identify-well-connected-users-in-a-social-network-19ea8dd50b16>  
 
 ## 起点
 
@@ -105,19 +101,11 @@ towardsdatascience.com](/identify-well-connected-users-in-a-social-network-19ea8
 
 如果 PageRank 是你正在寻找的，我推荐阅读这篇文章，它不是太难理解，而且抓住了要点:
 
-[](/pagerank-algorithm-fully-explained-dc794184b4af) [## PageRank 算法，充分说明
-
-### 今天的帖子是关于谷歌算法，通常定义为 PageRank 算法。
-
-towardsdatascience.com](/pagerank-algorithm-fully-explained-dc794184b4af) 
+</pagerank-algorithm-fully-explained-dc794184b4af>  
 
 如果你不仅对用户之间的联系感兴趣，而且对 T2 发了什么样的推文、推文的情感或者用户写的内容感兴趣，你可能会想看看 T4 的自然语言处理和/或相似性度量。我曾经创建了一个迭代方法来评估文本中某些单词的**重要性，这可能对你的项目有用:**
 
-[](/find-text-similarities-with-your-own-machine-learning-algorithm-7ceda78f9710) [## 用你自己的机器学习算法找到文本相似之处
-
-### 只需几行代码和一点点线性代数，我们就可以创建一个强大的 ML 算法来聚类…
-
-towardsdatascience.com](/find-text-similarities-with-your-own-machine-learning-algorithm-7ceda78f9710) 
+</find-text-similarities-with-your-own-machine-learning-algorithm-7ceda78f9710>  
 
 {下次再见，注意安全}
 

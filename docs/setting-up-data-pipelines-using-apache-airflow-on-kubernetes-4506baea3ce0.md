@@ -22,11 +22,7 @@ Apache Airflow 是一个用于调度和监控数据管道的开源工作流编�
 
 你可以在下面的 GitHub 库查看 Bitnami 图表的细节。
 
-[](https://github.com/bitnami/charts/tree/master/bitnami/airflow) [## 比特纳米/图表
-
-### Apache Airflow 是一个以编程方式创作、调度和监控工作流的平台。$ helm 安装我的版本…
-
-github.com](https://github.com/bitnami/charts/tree/master/bitnami/airflow) 
+<https://github.com/bitnami/charts/tree/master/bitnami/airflow>  
 
 # 加载气流 DAG 文件
 
@@ -171,28 +167,12 @@ helm upgrade –n airflow my-release bitnami/airflow -f values.yaml
 
 如果你想了解更多关于气流的用例，可以看看我之前的文章。在那篇文章中，我展示了如何使用 Airflow 构建一个用于移动网络性能监控的自动报告系统。
 
-[](/designing-data-pipeline-system-for-telco-performance-measurement-3fa807dbd009) [## 使用 Apache 气流设计电信性能测量的数据管道系统
-
-### 为绩效监控建立自动报告系统
-
-towardsdatascience.com](/designing-data-pipeline-system-for-telco-performance-measurement-3fa807dbd009) 
+</designing-data-pipeline-system-for-telco-performance-measurement-3fa807dbd009>  
 
 如果您想了解如何使用 Kubespray 构建本地 Kubernetes，请访问本文:
 
-[](/deploy-a-production-ready-on-premise-kubernetes-cluster-36a5d62a2109) [## 部署生产就绪的本地 Kubernetes 集群
-
-### 你需要考虑的几件事
-
-towardsdatascience.com](/deploy-a-production-ready-on-premise-kubernetes-cluster-36a5d62a2109) 
+</deploy-a-production-ready-on-premise-kubernetes-cluster-36a5d62a2109>  
 
 如果您想了解更多关于 Apache Airflow 的知识，Udemy 上有一个很好的课程，可以教授 Airflow 的基础知识，还可以动手构建数据管道。如有兴趣，请参考以下附属链接:
 
-[](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F) [## Apache 气流的完整实践介绍
-
-### 大家好，我叫马克·兰伯特，今年 27 岁，很高兴能引起你们的好奇心！我目前在工作…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F) [](https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka) [## 使用 Shell、Airflow 和 Kafka 的 ETL 和数据管道
-
-### 学完本课程后，你将能够描述两种不同的方法将原始数据转换成…
-
-click.linksynergy.com](https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka)
+<https://click.linksynergy.com/deeplink?id=0wsuN4lypZM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-hands-on-course-to-master-apache-airflow%2F>  <https://click.linksynergy.com/link?id=0wsuN4lypZM&offerid=916798.19111388448&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fetl-and-data-pipelines-shell-airflow-kafka> 

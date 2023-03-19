@@ -122,11 +122,7 @@
 
 基本上，我们应该着眼于 L+R 上的需求分布，而不仅仅是 L+R 上的点预测。
 
-[](/probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81) [## 概率预测和库存优化
-
-### 预测只能帮助你做出正确的供应链决策。
-
-towardsdatascience.com](/probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81) 
+</probabilistic-forecasting-and-inventory-optimization-70edbb8f4a81>  
 
 请注意，M1 到 M4 的需求分布通常不同于 M1、M2、M3 和 M4 的需求分布之和。但那是后话了。
 
@@ -142,11 +138,7 @@ towardsdatascience.com](/probabilistic-forecasting-and-inventory-optimization-70
 
 销售损失在 B2C/快速消费品中很常见，这使得需求规划者很难[估计*真实*需求](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28)。
 
-[](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) [## 捕捉供应链中不受约束的需求
-
-### 下面这篇文章是我在 LinkedIn 上的一篇帖子的摘要。如果你对这样的辩论感兴趣，那就来连线吧！我…
-
-towardsdatascience.com](/capturing-unconstrained-demand-in-supply-chains-78b46bae1b28) 
+</capturing-unconstrained-demand-in-supply-chains-78b46bae1b28>  
 
 *   **延期交货**:在库存短缺的情况下，你的客户会保留他们的订单，等待再次有货。在这种情况下，如果您错过了风险范围内的任何库存，对订单需求没有影响:总需求不会受到影响。然后，您可以关注从 M1 到 M4 的累计预测，而不是每个月的单独预测。
 

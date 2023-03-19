@@ -260,7 +260,7 @@ $ pwd
 
 ***util-linux*** 库是由 linux 内核组织发布的标准包，用作 Linux 操作系统的一部分。
 
-*阅读更多:【https://www.kernel.org/pub/linux/utils/util-linux】[](https://www.kernel.org/pub/linux/utils/util-linux)*
+*阅读更多:【https://www.kernel.org/pub/linux/utils/util-linux】<https://www.kernel.org/pub/linux/utils/util-linux>*
 
 ## *圆柱*
 
@@ -328,7 +328,7 @@ cowsay is /usr/bin/cowsay*
 
 *GNU 核心工具是 GNU 操作系统的基本文件、外壳和文本操作工具。这些是每个操作系统中都应该存在的核心实用程序。*
 
-**阅读更多:*[](https://www.gnu.org/software/coreutils)**。***
+**阅读更多:*<https://www.gnu.org/software/coreutils>**。***
 
 ## **chmod**
 

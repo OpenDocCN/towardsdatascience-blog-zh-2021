@@ -209,19 +209,7 @@ ax.legend(bbox_to_anchor=(1.0, 1.0));
 
 您可能也会对以下文章之一感兴趣:
 
-[](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [## 开始学习时间序列预测的最佳书籍
-
-### 更妙的是，它是免费的！
-
-towardsdatascience.com](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb) [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [## 5 个提高我工作效率的免费工具
-
-### 这不是一个好的 IDE，尽管它很有帮助！
-
-towardsdatascience.com](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [](/choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac) [## 选择正确的误差度量:MAPE 与斯马普
-
-### 两种流行的误差度量标准的利弊
-
-towardsdatascience.com](/choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac) 
+</the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb>  </5-free-tools-that-increase-my-productivity-c0fafbbbdd42>  </choosing-the-correct-error-metric-mape-vs-smape-5328dec53fac>  
 
 # 参考
 

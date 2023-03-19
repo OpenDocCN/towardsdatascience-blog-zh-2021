@@ -45,11 +45,7 @@ print(image1.mode)
 
 如果你有兴趣从零开始学习计算机视觉的大部分基本方面，以及解决一些复杂任务的所有相应代码，我建议大家看看下面提供的文章。它涵盖了初学者入门计算机视觉并最终掌握它所需的大部分要素。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 # 2.基于图像的考勤系统
 
@@ -75,11 +71,7 @@ towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of
 
 解决这个问题的最好方法之一是利用迁移学习模型，如 VGG-16、face-net、RESNET-50 和其他类似的架构，看看什么方法可以帮助你达到最佳效果。作为起点，我强烈推荐查看我以前的一篇关于智能人脸锁定系统的文章，其中我们构建了一些高级人脸识别系统。对于没有遮罩的面和有遮罩的面，可以使用类似的方法来解决此类任务。
 
-[](/smart-face-lock-system-6c5a77aa5d30) [## 智能面部锁定系统
-
-### 建立高精度人脸识别模型
-
-towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30) 
+</smart-face-lock-system-6c5a77aa5d30>  
 
 # 4.车牌识别
 
@@ -93,11 +85,7 @@ towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30)
 
 如果你想用一种更独特的方法来解决问题，建议你看看我以前的一篇关于光学字符识别(OCR)的文章。使用 OCR 技术，您可以相对轻松地解释图像中的大部分数据。OCR 引擎会尝试分析图像中的字符，并找到合适的解决方案。要详细了解这个主题，请查看下面提供的链接。您还可以尝试其他独特的方法，看看哪种技术产生的效果最好。
 
-[](/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab) [## 使用 Python 开始光学字符识别
-
-### 对光学字符识别从无到有的直观理解和简要介绍
-
-towardsdatascience.com](/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab) 
+</getting-started-with-optical-character-recognition-using-python-e4a9851ddfab>  
 
 # 5.医学图像分割
 
@@ -127,15 +115,7 @@ Robina Weermeijer 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 下面提供的链接是两个最好的指南，您可以在其中从头开始执行人类情感和手势识别活动。我几乎涵盖了完美计算这些任务所需的每个方面，包括数据集的预处理、数据的可视化以及从头开始构建架构。请随意参考它们，以获得关于执行这些任务的最佳信息。
 
-[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
-
-### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
-
-### 深入探究人类情感和手势识别
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+</human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb>  </human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023>  
 
 # 结论:
 
@@ -155,22 +135,6 @@ towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
-
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
-
-towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) [](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) [## 成为数据科学家的 5 项必备技能！
-
-### 探索每个成功的数据科学家必须具备的五项重要软技能！
-
-towardsdatascience.com](/5-essential-skills-to-develop-as-a-data-scientist-16442f094c09) 
+</best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8>  </best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  </6-best-programming-practices-f2605c5b469c>  </5-essential-skills-to-develop-as-a-data-scientist-16442f094c09>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

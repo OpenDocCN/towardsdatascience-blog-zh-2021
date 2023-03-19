@@ -6,15 +6,7 @@
 
 你认为我用完了关于数据分析/数据科学的插图了吗？不可能。下面是我的“数据分析师的生活”系列的第 3 部分。如果你错过了，以下是第 1 部分& 2:
 
-[](/the-life-of-a-data-analyst-263050370272) [## 数据分析师的生活
-
-### 如图纸所示
-
-towardsdatascience.com](/the-life-of-a-data-analyst-263050370272) [](/the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f) [## 数据分析师的生活—第二部分
-
-### 如(更多)图纸所示
-
-towardsdatascience.com](/the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f) 
+</the-life-of-a-data-analyst-263050370272>  </the-life-of-a-data-analyst-part-2-2c5a8e9ecc1f>  
 
 ## 我如何学习数据分析/数据科学
 

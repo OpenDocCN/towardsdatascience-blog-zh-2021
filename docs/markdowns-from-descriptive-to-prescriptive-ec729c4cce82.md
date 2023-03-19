@@ -254,15 +254,7 @@
 
 PS 更多[商业科学](https://medium.com/tag/business-science)来自我的写作:
 
-[](/94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a) [## 94%完美:2000 亿美元库存问题的惊人解决方案
-
-### 机器学习和人类经理一起修复供应链
-
-towardsdatascience.com](/94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a) [](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) [## 时尚被打破了。科学正在修复它
-
-### 转变 5 个核心时尚流程
-
-towardsdatascience.com](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) 
+</94-perfect-the-surprising-solution-to-the-200-billion-inventory-problem-b6ba0bc1417a>  </fashion-is-broken-science-is-fixing-it-b771b1ab5b59>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

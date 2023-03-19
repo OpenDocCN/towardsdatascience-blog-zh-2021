@@ -14,19 +14,11 @@ Seaborn 是一个基于 Matplotlib 的 python 数据可视化库。seaborn 有�
 
 一点背景知识。如果您不熟悉 python 中的数据可视化，或者需要复习 Matplotlib，请看看这篇文章:
 
-[](/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d) [## Python Matplotlib 的日常备忘单
-
-### 完整的可视化课程
-
-towardsdatascience.com](/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d) 
+</your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d>  
 
 您也可以在 Pandas 中执行数据可视化。当你在 pandas 中调用 plot()函数时，它在后台使用 Matplotlib。
 
-[](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) [## 熊猫数据可视化的终极备忘单
-
-### 熊猫的所有基本视觉类型和一些非常高级的视觉…
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) 
+</an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937>  
 
 复习部分完成了。让我们现在潜入海底。
 
@@ -503,11 +495,7 @@ plt.ylabel("Total Bill")
 
 如果您需要关于如何从箱线图中提取我之前提到的所有信息的提示，请阅读这篇文章:
 
-[](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) [## 使用直方图和箱线图理解数据，并举例说明
-
-### 了解如何从直方图和箱线图中提取最多的信息。
-
-towardsdatascience.com](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) 
+</understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6>  
 
 ## 紫罗兰花
 
@@ -634,11 +622,7 @@ plt.show()
 
 我将在接下来的图中使用以下数据集:
 
-[](https://github.com/rashida048/Datasets/blob/master/stock_data.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/stock_data.csv) 
+<https://github.com/rashida048/Datasets/blob/master/stock_data.csv>  
 
 让我们导入数据集:
 
@@ -709,11 +693,7 @@ sns.clustermap(all_month_year_df, linewidths=.5, cmap = "coolwarm", col_cluster=
 
 请随意查看这篇文章，以找到各种时间序列数据可视化选项:
 
-[](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) [## Python 时序数据可视化完全指南
-
-### 这应该给你足够的资源来制作时间序列数据的视觉效果
-
-towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) 
+</a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01>  
 
 ## 结论
 
@@ -723,32 +703,4 @@ towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-p
 
 ## 更多阅读:
 
-[](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [## Matplotlib 和 Seaborn 中的高级数据可视化集合
-
-### 让你的故事更有趣
-
-towardsdatascience.com](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [## Matplotlib 和 Seaborn 中的高级可视化集合，带有示例
-
-### 丰富可视化技术和技能
-
-towardsdatascience.com](/a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323) [](https://medium.com/illumination/a-practical-pathway-to-get-your-first-2000-followers-on-medium-42df26ce6571) [## 如何在媒体上获得第一批 2000 名追随者
-
-### 根据我自己在这个平台上的经历
-
-medium.com](https://medium.com/illumination/a-practical-pathway-to-get-your-first-2000-followers-on-medium-42df26ce6571) [](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [## 免费的 Python 全长机器学习课程
-
-### 吴恩达用 Python 写的机器学习教程
-
-towardsdatascience.com](/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f) [](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3) [](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [](/a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4) [## 一个完整的图像分类项目，使用 Python 从头开始进行逻辑回归
-
-### 带有项目的逻辑回归算法的详细布局
-
-towardsdatascience.com](/a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4)
+</a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14>  </a-collection-of-advanced-visualization-in-matplotlib-and-seaborn-with-examples-2150e6c3f323>  <https://medium.com/illumination/a-practical-pathway-to-get-your-first-2000-followers-on-medium-42df26ce6571>  </a-full-length-machine-learning-course-in-python-for-free-f2732954f35f>  </an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3>  </a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593>  </a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4> 

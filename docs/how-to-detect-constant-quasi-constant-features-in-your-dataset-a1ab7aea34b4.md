@@ -100,8 +100,4 @@ df.drop(columns = constant_features_list, inplace=True)
 
 笔记本可在以下位置获得，并附有完整的功能代码:
 
-[](https://www.kaggle.com/nextbigwhat/detect-constant-and-quasi-constant-features) [## 检测常数和准常数特征
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自实践数据集的数据进行二进制…
-
-www.kaggle.com](https://www.kaggle.com/nextbigwhat/detect-constant-and-quasi-constant-features)
+<https://www.kaggle.com/nextbigwhat/detect-constant-and-quasi-constant-features> 

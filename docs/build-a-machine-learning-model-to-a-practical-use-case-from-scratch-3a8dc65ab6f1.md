@@ -42,11 +42,7 @@
 
 那么我们需要一个数据集来解决这个问题。 [Kaggle](https://www.kaggle.com/) 网站为任何人提供了大量的数据资源，我们可以很容易地从那里找到一个数据集。最重要的是，在 Kaggle 上，你可以在各种问题情境中向他人学习。我将使用 [Kaggle —天气历史数据集](https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv)来分析这个问题。
 
-[](https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv) [## 塞格德 2006-2016 年的天气
-
-### 每小时/每天汇总温度、压力、风速等信息
-
-www.kaggle.com](https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv) 
+<https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv>  
 
 > 注意:所有的编码都是在 Google Colab python 笔记本中完成的，您可以在参考资料部分找到它。
 
@@ -432,11 +428,7 @@ plt.show()*
 
 ***如果你有兴趣详细了解 PCA，我推荐 Matt Brems 写的一篇非常好的文章，发表在[towardsdatascience.com](https://towardsdatascience.com/)***
 
-***[](/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) [## 主成分分析的一站式商店
-
-### 在我用于研究生统计理论课的教科书的开始，作者(乔治·卡塞拉和罗杰…
-
-towardsdatascience.com](/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) 
+***</a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c>  
 
 我们将在以后的文章中更深入地研究这种技术。因此，让我们将主成分分析应用于我们的数据集。
 
@@ -572,19 +564,11 @@ print(lm2.coef_)
 
 *   完整的合作实验室笔记本。(带有预加载的数据集)
 
-[](https://colab.research.google.com/drive/10sHxKg512G4v9d79Z3EI3ixZ_E1gs5Iq?usp=sharing) [## 谷歌联合实验室
-
-### 从 scratch 建立机器学习模型到实际使用案例
-
-colab.research.google.com](https://colab.research.google.com/drive/10sHxKg512G4v9d79Z3EI3ixZ_E1gs5Iq?usp=sharing) 
+<https://colab.research.google.com/drive/10sHxKg512G4v9d79Z3EI3ixZ_E1gs5Iq?usp=sharing>  
 
 *   Kaggle 天气历史数据集
 
-[](https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv) [## 塞格德 2006-2016 年的天气
-
-### 每小时/每天汇总温度、压力、风速等信息
-
-www.kaggle.com](https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv) 
+<https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv>  
 
 # 结论
 

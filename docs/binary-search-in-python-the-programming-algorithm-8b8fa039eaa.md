@@ -241,27 +241,11 @@ helper 函数( ***从第 8 行到第 16 行*** )查找元素最左边的位置�
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
-[](/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987) [## 破解数据科学访谈:数据科学家的五项 SQL 技能
-
-### Leetcode 助你获得高薪数据职位
-
-towardsdatascience.com](/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987) [](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [## 2021 年 6 个 Python 数据科学面试问题
-
-### 数据科学家/工程师的数据操作和字符串提取
-
-towardsdatascience.com](/6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13) [](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+</crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987>  </6-python-questions-you-should-practice-before-coding-interviews-f958af55ad13>  </5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 # 喜欢读这本书吗？
 

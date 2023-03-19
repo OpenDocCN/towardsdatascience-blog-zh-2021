@@ -250,19 +250,7 @@ setTimeout(() => predictionFunction(), 500);
 
 # 我的 TF.js + React.js 文章:
 
-[](/custom-object-detection-using-react-with-tensorflow-js-7f79adee9cd4) [## 使用 React 和 Tensorflow.js 进行自定义对象检测
-
-### 让我们用 Azure 自定义视觉在 30 分钟内制作一个实时自定义对象检测器
-
-towardsdatascience.com](/custom-object-detection-using-react-with-tensorflow-js-7f79adee9cd4) [](/how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256) [## 如何在 react.js 中使用 tensorflow.js 情感分析
-
-### 2018 年 3 月，谷歌发布了 tensor flow . js 1.0 版本，该版本使开发者能够使用机器学习(ML)模型…
-
-towardsdatascience.com](/how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256) [](/loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59) [## 使用 react.js 将模型加载到 tensorflow.js
-
-### 立即在 react.js 中使用您的 python Tensorflow 模型
-
-towardsdatascience.com](/loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59) 
+</custom-object-detection-using-react-with-tensorflow-js-7f79adee9cd4>  </how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256>  </loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59>  
 
 # 参考资料:
 

@@ -12,11 +12,7 @@
 
 由于这种加快项目工作流程的愿望，有如此多的数据科学工具可供选择，无论哪种都适合手头的任务。相信我，当我这么说的时候，有上百种工具可供你选择来完成你的项目；在项目结束时，你会发现你使用了多个这样的工具来完成一个项目。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 由于任何数据科学项目都由不同的步骤组成，从收集数据到清理、分析和可视化数据，每个步骤都有专门设计和开发的工具。自动从网络上收集数据的工具，或者可视化数据并帮助您讲述隐藏在其中的故事的工具，或者帮助您清理数据并在分析中使用最相关部分的工具。
 
@@ -34,11 +30,7 @@ Watson Studio 提供了许多关于各种概念和 API 的教程。这些教程�
 
 使用 Amazon RedShift 作为您的数据之家有很多好处；您可以加密您的数据以保持其安全性，这些好处包括。您可以轻松增加数据集中的结点数量，并且该工具没有前期成本。即使你使用付费计划，这些工具也提供按需定价，以消除长期承诺。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №3:谷歌大查询
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 微软 Azure 提供的所有工具都采用按需付费模式定价，只允许你按需付费。不仅如此，你还可以使用 Azure 成本管理工具来优化你为微软 Azure 服务支付的费用。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 # №5:雪花
 
@@ -70,11 +58,7 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 Alteryx 拥有 60 多个内置工具，可以满足从回归到聚类和分类的所有数据分析需求。您还可以使用 Python 或 r 在 Alteryx 中构建自己的工具。Alteryx 还允许您通过以 Qlik、Microsoft Power BI 和 Tableau 等常用格式创建报告来可视化数据。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №7:qlink
 
@@ -88,10 +72,6 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 问题的主要部分——应用模型、培训、测试和优化它们——需要您的全部注意力，而且这可能是需要最长时间才能完成的部分。这就是为什么开发了许多工具来帮助数据科学家有效地完成他们的项目，而不在日常任务上浪费任何时间或脑力。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 在本文中，我们讨论了数百种工具中的 7 种，这些工具是数据科学家用来加快工作流程并帮助他们高效、轻松地构建项目的最常用工具。我希望你能在你的下一个项目中利用这些工具，我希望它们能帮助你更快地达到你的目标。

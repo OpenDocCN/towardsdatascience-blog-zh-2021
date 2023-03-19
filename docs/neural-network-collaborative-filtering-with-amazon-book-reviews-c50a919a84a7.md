@@ -104,4 +104,4 @@ Flair 是一个强大的自然语言处理工具包，它使用预先训练的�
 
 ## 引用:
 
-[1]简墨倪，，朱利安·麦考利，[](https://cseweb.ucsd.edu//~jmcauley/pdfs/emnlp19a.pdf)**【2019】*【自然语言处理中的经验方法】***
+[1]简墨倪，，朱利安·麦考利，<https://cseweb.ucsd.edu//~jmcauley/pdfs/emnlp19a.pdf>**【2019】*【自然语言处理中的经验方法】***

@@ -177,12 +177,4 @@ class Manager(Employee): def __init__(self, name, salary=0, department):
 
 就这样，我们找到了我们的向导。我希望你觉得这篇文章很有见地！如果你有，那么你可能会发现这些也很有趣。一如既往，我很乐意听到您的任何意见或问题。快乐学习！
 
-[](/working-with-datetime-in-python-e032b8d2f512) [## 在 Python 中使用日期时间
-
-### 立刻成为日期和时间的主人
-
-towardsdatascience.com](/working-with-datetime-in-python-e032b8d2f512) [](/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f) [## 信用风险评估的机器学习方法
-
-### 预测贷款违约及其概率
-
-towardsdatascience.com](/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f)
+</working-with-datetime-in-python-e032b8d2f512>  </a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f> 

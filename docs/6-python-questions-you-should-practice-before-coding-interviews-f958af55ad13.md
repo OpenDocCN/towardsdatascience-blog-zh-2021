@@ -12,11 +12,7 @@ Gabriel Sollmann 在 [Unsplash](https://unsplash.com/s/photos/library?utm_source
 
 如前一篇帖子所述([链接](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0))，数据科学/工程面试有四个编码组成:**数据结构&算法、机器学习算法、数学与统计、数据操作**(查看此[精彩文章](/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc)作者[艾玛丁](https://medium.com/u/1b25d5393c4f?source=post_page-----afd6a0a6d1aa--------------------------------) @Airbnb)。之前的帖子是关于数学和统计的。万一你没有机会，这里是入口:
 
-[](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+</5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 在这篇文章中，我将重点关注**数据操作**，并回顾我对主要科技公司，尤其是 FAANG 提出的 6 个真实问题的思考。
 
@@ -244,27 +240,11 @@ fizzbuzz
 
 *Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
-[](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [## 2021 年数据科学家面临的 4 个棘手的 SQL 问题
-
-### 可能会让你犯错的简单查询
-
-towardsdatascience.com](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的四项 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) [## 破解数据科学访谈:基本的机器学习概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 1 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa) 
+</4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77>  </essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa>  
 
 # 喜欢读这本书吗？
 

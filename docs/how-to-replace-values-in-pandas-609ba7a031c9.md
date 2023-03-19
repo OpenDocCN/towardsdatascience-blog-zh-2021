@@ -116,8 +116,4 @@ np.select()实现了 3 个条件。图片由作者提供。
 
 如果这些内容对你有用，请关注我的博客。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

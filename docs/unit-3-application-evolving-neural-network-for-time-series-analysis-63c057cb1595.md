@@ -10,15 +10,7 @@
 
 为了更好地理解本材料，你需要知道的概念和材料是神经网络如何工作的基础，进化计算的全面概述，以及遗传算法如何工作。如果这是您第一次看到这个系列，请阅读我以前写的这两篇文章，以便您能够最好地理解我是如何开发我将很快详述的算法的:
 
-[](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-towardsdatascience.com](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-2-introduction-to-evolutionary-computation-85764137c05a>  </unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 # 目录
 
@@ -43,11 +35,7 @@ towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
 
 你可以在 Kaggle 网站上找到这些数据:
 
-[](https://www.kaggle.com/robervalt/sunspots) [## 雀斑
-
-### 月平均太阳黑子总数-1749 年至 2018 年 7 月
-
-www.kaggle.com](https://www.kaggle.com/robervalt/sunspots) 
+<https://www.kaggle.com/robervalt/sunspots>  
 
 # **神经网络综述**
 
@@ -159,11 +147,7 @@ www.kaggle.com](https://www.kaggle.com/robervalt/sunspots)
 
 **这篇文章中有很多代码，这里有一个到我的 GitHub 的链接，整个脚本是完整的，实际上和我在这里使用的一样。运行它，看看奇迹发生吧！**
 
-**[](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/time_series_problem.py) [## 学生/进化计算课程
-
-### 通过在 GitHub 上创建一个帐户，为 ou student/evolutionary computationcourse 开发做出贡献。
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/time_series_problem.py) 
+**<https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit3/time_series_problem.py>  
 
 对于任何想要更深入了解代码的人，我将在这里制作一个视频实现视频，并放在这里。(也就是说，如果你看到这条消息，但网址没有发布，请等待一周左右)
 

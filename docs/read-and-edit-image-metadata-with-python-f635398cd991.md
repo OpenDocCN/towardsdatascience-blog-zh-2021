@@ -75,11 +75,7 @@ get()方法的输出|作者的图像
 
 比如我们可以添加公认的**版权**属性。在给**版权**属性赋值( *Kenneth Leung 2021* )后，`get()`方法会给我们这个新值，而不是 *None。*
 
-[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 以一杯咖啡的价格访问我所有的内容(和所有的媒体文章)!
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership) 
+<https://kennethleungty.medium.com/membership>  
 
 ## ㈡更新元数据
 
@@ -113,16 +109,4 @@ kennethleungty.medium.com](https://kennethleungty.medium.com/membership)
 
 欢迎您加入**我的数据科学学习之旅！**点击这个[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的数据科学内容。同时，享受阅读和修改图像元数据的乐趣！
 
-[](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) [## 用于计算机视觉中图像增强的顶级 Python 库
-
-### 为您的下一个计算机视觉项目提供最好的增强库(以及示例代码)
-
-towardsdatascience.com](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) [](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [## 使用 OpenCV 和 TesseractOCR 进行俄罗斯车牌检测
-
-### 利用计算机视觉检测、识别和提取汽车牌照号码
-
-towardsdatascience.com](/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c) [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [## MLOps 专业化认证的关键学习点—课程 2
-
-### 面向生产的机器学习工程(MLOps)课程的见解摘要(含课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)
+</top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e>  </russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c>  </key-learning-points-from-mlops-specialization-course-2-13af51e22d90> 

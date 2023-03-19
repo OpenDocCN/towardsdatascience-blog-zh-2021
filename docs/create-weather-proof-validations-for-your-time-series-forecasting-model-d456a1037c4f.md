@@ -38,11 +38,7 @@
 
 从下一节开始，我们开始动手(我们编码！！)而且为了简单起见，我在这个故事里只加伪代码。但是，为了能够遍历整个代码，我链接了下面的代码库。这只是一个 Python 笔记本，我建议您跟随这个故事。
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/05.%20Build%20Concrete%20Time%20Series%20Forecasts) [## rjrahul 24/时间序列预测
-
-### Python 系列教程，旨在学习人工智能概念。
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/05.%20Build%20Concrete%20Time%20Series%20Forecasts) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/05.%20Build%20Concrete%20Time%20Series%20Forecasts>  
 
 # 1.对时间序列进行重采样
 
@@ -261,19 +257,7 @@ causal_val
 
 ## 通读几个比较有趣的机器学习教程
 
-[](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [## 使用 Azure Data Factory 实现端到端的机器学习工作流
-
-### 使用微软的 Azure 数据工厂(ADF)在一个屏幕上构建完整的 MLOps 生命周期
-
-towardsdatascience.com](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [](/a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7) [## 最优化遗传“学习”算法指南
-
-### 利用强化学习和遗传算法重建图像
-
-towardsdatascience.com](/a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7) [](/clean-architecture-of-analyzing-data-7e689da7dd4a) [## 分析数据的清晰架构
-
-### 数据分析是一个复杂的过程吗？让我们一步一步来理解它
-
-towardsdatascience.com](/clean-architecture-of-analyzing-data-7e689da7dd4a) 
+</implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94>  </a-guide-to-genetic-learning-algorithms-for-optimization-e1067cdc77e7>  </clean-architecture-of-analyzing-data-7e689da7dd4a>  
 
 ## 关于我
 

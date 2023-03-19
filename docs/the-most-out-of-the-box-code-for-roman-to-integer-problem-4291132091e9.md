@@ -74,8 +74,4 @@
 
 *学习机是一系列关于我所学的东西的故事，我认为很有趣，可以分享。有时也是关于机器学习的基础。* [*定期更新*](https://chandraseta.medium.com/subscribe) *新故事，并* [*成为*](https://chandraseta.medium.com/membership) *中级会员，阅读无限故事。*
 
-[](https://chandraseta.medium.com/membership) [## 成为媒体成员—里奥纳尔迪·钱德拉塞塔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事
-
-chandraseta.medium.com](https://chandraseta.medium.com/membership)
+<https://chandraseta.medium.com/membership> 

@@ -8,11 +8,7 @@
 
 作者 Gif
 
-[](https://github.com/JEDS-AI/profile-picture-checker) [## JEDS 人工智能/个人资料图片检查器
-
-### 这个项目展示了如何使用谷歌人脸识别 API 自动检查个人资料图片上传。你…
-
-github.com](https://github.com/JEDS-AI/profile-picture-checker) 
+<https://github.com/JEDS-AI/profile-picture-checker>  
 
 # 介绍
 

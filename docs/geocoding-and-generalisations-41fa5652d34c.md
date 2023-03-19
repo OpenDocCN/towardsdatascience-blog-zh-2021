@@ -82,11 +82,7 @@ PLpgSQL 中的编码函数。(图片由作者提供)
 
 芝诺多有社区，代表上传到芝诺多的文件的从属关系。所有 qdgc 文件都上传到 QDGC 社区:
 
-[](https://zenodo.org/communities/qdgc/) [## 四分之一度网格单元
-
-### 这个社区收集空间数据文件(数据集)，代码和论文相关的季度…
-
-zenodo.org](https://zenodo.org/communities/qdgc/) 
+<https://zenodo.org/communities/qdgc/>  
 
 用芝诺多存储的所有文件都配有一个独特的数字对象标识符( [doi](https://no.wikipedia.org/wiki/Digital_object_identifier) )。如果你最终在你的研究中使用数据集，或者出于其他好的原因，你需要一个参考。因此，坦桑尼亚的四分之一格网像元数据集版本 1.0.0 可引用如下:
 

@@ -279,19 +279,7 @@ n 值均值估计器的预测值呈正态分布，均值等于总体均值μ，�
 
 # 相关阅读
 
-[](/understanding-estimation-bias-and-the-bias-variance-tradeoff-79ba42ab79c) [## 理解估计偏差和偏差-方差权衡
-
-### 另外，如何根据偏差、方差和均方差来比较估计量
-
-towardsdatascience.com](/understanding-estimation-bias-and-the-bias-variance-tradeoff-79ba42ab79c) [](/the-consistent-estimator-913fab06f4f3) [## 一致估计量
-
-### 回归建模器指南
-
-towardsdatascience.com](/the-consistent-estimator-913fab06f4f3) [](/an-intuitive-look-at-fisher-information-2720c40867d8) [## 对费希尔信息的直观观察
-
-### 它的含义，以及为什么它是这样计算的
-
-towardsdatascience.com](/an-intuitive-look-at-fisher-information-2720c40867d8) 
+</understanding-estimation-bias-and-the-bias-variance-tradeoff-79ba42ab79c>  </the-consistent-estimator-913fab06f4f3>  </an-intuitive-look-at-fisher-information-2720c40867d8>  
 
 # 引用和版权
 

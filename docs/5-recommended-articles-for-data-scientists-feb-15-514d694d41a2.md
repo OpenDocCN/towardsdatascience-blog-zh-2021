@@ -24,11 +24,7 @@
 
 这篇文章是一个很好的例子，描述了如何使用数据来做出更精确、更合理和更科学的决策。
 
-[](/the-perks-of-data-science-how-i-found-my-new-home-in-dublin-5ff84fc97ec4) [## 数据科学的好处:我如何在都柏林找到我的新家
-
-### 一名数据科学家寻求在高需求/低报价市场中找到一处房产
-
-towardsdatascience.com](/the-perks-of-data-science-how-i-found-my-new-home-in-dublin-5ff84fc97ec4) 
+</the-perks-of-data-science-how-i-found-my-new-home-in-dublin-5ff84fc97ec4>  
 
 # 中国的教育科技独角兽证明了远程学习是可行的
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/the-perks-of-data-science-how-i-found-my-new-home-in-du
 
 这篇文章强调了教育中的人工智能不会取代传统教师的观点；相反，人工智能将作为一个支持实体，实施成本节约战略，使教育更容易获得。
 
-[](https://kaifulee.medium.com/chinas-ed-tech-unicorns-prove-that-remote-learning-can-work-b62723c0b311) [## 中国的教育科技独角兽证明了远程学习是可行的
-
-### 超负荷工作的教师可能很快就会得到急需的智能助手。
-
-kaifulee.medium.com](https://kaifulee.medium.com/chinas-ed-tech-unicorns-prove-that-remote-learning-can-work-b62723c0b311) 
+<https://kaifulee.medium.com/chinas-ed-tech-unicorns-prove-that-remote-learning-can-work-b62723c0b311>  
 
 # Hardiv Harshakumar 拍摄的自动驾驶汽车的幕后故事
 
@@ -54,11 +46,7 @@ Hardiv 分解了为自动驾驶汽车提供自主能力的五个组成部分。�
 
 探讨的主题包括计算机视觉、路径规划算法、自动化水平等。
 
-[](https://medium.com/tech-student-uk/behind-the-scenes-of-autonomous-vehicles-41b625b549f8) [## 自动驾驶汽车的幕后
-
-### 无人驾驶汽车无疑是未来令人兴奋的前景。想象一下，当你……
-
-medium.com](https://medium.com/tech-student-uk/behind-the-scenes-of-autonomous-vehicles-41b625b549f8) 
+<https://medium.com/tech-student-uk/behind-the-scenes-of-autonomous-vehicles-41b625b549f8>  
 
 # **Adobe Photoshop 实现了 5 个新的人工智能工具，并通过**[**pytoslabs**](https://medium.com/u/6da3ddbb7e05?source=post_page-----514d694d41a2--------------------------------)击败了竞争对手
 
@@ -70,11 +58,7 @@ medium.com](https://medium.com/tech-student-uk/behind-the-scenes-of-autonomous-v
 
 还参考了所展示的功能所基于的研究成果。
 
-[](https://pythoslabs.medium.com/adobe-photoshop-implemented-5-new-ai-tools-and-it-is-killing-the-competition-ec722af7ec6) [## Adobe Photoshop 实现了 5 个新的人工智能工具，并且正在杀死竞争对手
-
-### Photoshop 2021 中的新人工智能功能受到人工智能最新研究的启发
-
-pythoslabs.medium.com](https://pythoslabs.medium.com/adobe-photoshop-implemented-5-new-ai-tools-and-it-is-killing-the-competition-ec722af7ec6) 
+<https://pythoslabs.medium.com/adobe-photoshop-implemented-5-new-ai-tools-and-it-is-killing-the-competition-ec722af7ec6>  
 
 # 机器学习工程师:让你的梦想成真
 
@@ -88,11 +72,7 @@ Pratamamia 的文章解决了机器学习中两个突出角色之间的模糊性
 
 在考虑是做数据科学家还是 ML 工程师？那么本文将清楚地呈现这两种角色之间的区别。
 
-[](https://medium.com/life-at-telkomsel/machine-learning-engineer-making-your-dreams-come-true-108bfae76f1c) [## 机器学习工程师:让你的梦想成真
-
-### 人工智能模型开发已经由数据科学家完成。然而，使其成为生产系统并不那么简单。
-
-medium.com](https://medium.com/life-at-telkomsel/machine-learning-engineer-making-your-dreams-come-true-108bfae76f1c) 
+<https://medium.com/life-at-telkomsel/machine-learning-engineer-making-your-dreams-come-true-108bfae76f1c>  
 
 # 要联系我或找到更多类似本文的内容，请执行以下操作:
 

@@ -192,22 +192,6 @@ jt -t onedork -T -N
 
 **下面你可以找到几个你可以开始在 Jupyter 笔记本上工作的项目。**
 
-**[](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [## Scikit-Learn 简单指南—用 Python 构建机器学习模型
-
-### Python 中的第一个 ML 模型。
-
-towardsdatascience.com](/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a) [](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) [## 使用 Python 自动生成 Excel 报表的简单指南
-
-### 使用 openpyxl 通过 Python 自动生成 Excel 报表。
-
-towardsdatascience.com](/a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7) [](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [## 我曾经每年花 180 美元购买一个有利可图的赌博工具。今年我用 Python 做了一个
-
-### 完整的代码创建一个足球博彩工具与熊猫和硒。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f) [](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) [## 从 Excel 迁移到 Python 的完整而简单的指南
-
-### 用熊猫和 Numpy 永远抛弃 Excel。
-
-towardsdatascience.com](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) 
+**</a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a>  </a-simple-guide-to-automate-your-excel-reporting-with-python-9d35f143ef7>  <https://medium.datadriveninvestor.com/i-used-to-pay-180-yr-for-a-profitable-betting-tool-this-year-i-built-one-in-python-dda1a9b9581f>  </a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)**

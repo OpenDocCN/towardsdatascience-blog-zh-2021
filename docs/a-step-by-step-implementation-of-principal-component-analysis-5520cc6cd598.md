@@ -140,11 +140,7 @@
 
 完整的代码库可从以下网址获得:
 
-[](https://github.com/AdityaDutt/PCATutorial/blob/main/PCA_tutorial.ipynb) [## pcatuarial/PCA _ tutorial . ipynb 位于主 AdityaDutt/pcatuarial
-
-### 实现 PCA 的一步一步的教程。通过在…上创建帐户，为 adityadut/pcatuality 的发展做出贡献
-
-github.com](https://github.com/AdityaDutt/PCATutorial/blob/main/PCA_tutorial.ipynb) 
+<https://github.com/AdityaDutt/PCATutorial/blob/main/PCA_tutorial.ipynb>  
 
 在本教程中，我们没有降低维度。但是我们可以取前 N 个特征向量并计算其与原始数据的点积来获得 PCA 特征。其他都一样。
 

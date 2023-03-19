@@ -120,4 +120,4 @@ random_search = RandomizedSearchCV(RandomForestRegressor(random_state=0),
 
 如果你对超参数调优感兴趣，加入我关于 Python 中[监督机器学习的在线课程。](https://yourdatateacher.teachable.com/p/supervised-machine-learning-with-python)
 
-*原载于 2021 年 5 月 19 日*[](https://www.yourdatateacher.com/2021/05/19/hyperparameter-tuning-grid-search-and-random-search/)**。**
+*原载于 2021 年 5 月 19 日*<https://www.yourdatateacher.com/2021/05/19/hyperparameter-tuning-grid-search-and-random-search/>**。**

@@ -16,11 +16,7 @@
 
 *如果你对代码比对解释更感兴趣，你也可以直接查看 Github* *上这篇文章的 Jupyter 笔记本。*
 
-[](https://github.com/akcarsten/Non_Negative_Matrix_Factorization) [## GitHub-akcarsten/非负矩阵分解
-
-### 这是 Python Jupyter 笔记本中的一篇关于从零开始实现非负…
-
-github.com](https://github.com/akcarsten/Non_Negative_Matrix_Factorization) 
+<https://github.com/akcarsten/Non_Negative_Matrix_Factorization>  
 
 # 正式确定我们的目标
 

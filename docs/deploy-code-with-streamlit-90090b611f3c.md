@@ -51,11 +51,7 @@
 
 **插入于 2020 年 1 月 13 日** — *尽管这种压缩方法作为一种生产手段适用于大量数据，但作为下一步，您当然应该采取额外的步骤来尽可能减小每个文件的大小。在下面链接的后续文章中会有更多关于优化的内容。*
 
-[](/optimize-streamlit-deployment-1b9bb0e415b) [## 优化简化 it 部署
-
-### 使用 Streamlit 从 Python 部署数据应用程序时要避免的陷阱。
-
-towardsdatascience.com](/optimize-streamlit-deployment-1b9bb0e415b) 
+</optimize-streamlit-deployment-1b9bb0e415b>  
 
 ## 大型数据帧的解决方案
 

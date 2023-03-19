@@ -243,11 +243,7 @@ print('Mean Accuracy: %.3f (%.3f)' % (mean(scores), std(scores)))*
 
 *这个笔记本的完整版本可以在这个 Github repo 中找到:*
 
-*[](https://github.com/irenechang1510/indian-cuisine-EDA) [## GitHub-Irene Chang 1510/Indian-cuisine-EDA:进行 EDA，建立模型预测是否…
-
-### 一个来自 Kaggle 的项目，探索印度菜肴中不同因素之间的关系，我对此的第一次分析…
-
-github.com](https://github.com/irenechang1510/indian-cuisine-EDA) 
+*<https://github.com/irenechang1510/indian-cuisine-EDA>  
 
 请随时通过我的 LinkedIn 联系我，如果您有任何问题，我很乐意与您联系！
 

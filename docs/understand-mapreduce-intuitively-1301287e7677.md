@@ -40,8 +40,4 @@ Map 过程获取相关的数据集，并使用过滤或排序将其转换为另�
 
 在数据科学中，特征提取是关键。当处理数 Pb 的数据时，以有效的方式找到必要的特征不仅会使您作为数据科学家的工作变得容易得多，而且还会让您找到以前从未梦想过的洞察力。
 
-[](https://learningfrommachines.substack.com/welcome) [## 向机器学习
-
-### 了解向我们学习的算法。
-
-learningfrommachines.substack.com](https://learningfrommachines.substack.com/welcome)
+<https://learningfrommachines.substack.com/welcome> 

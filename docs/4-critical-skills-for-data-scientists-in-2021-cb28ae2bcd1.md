@@ -86,15 +86,7 @@
 
 *PS 我定期写[商业科学](https://medium.com/tag/business-science)。推荐后续阅读:*
 
-*[](/5-ways-business-science-will-transform-the-supply-chain-in-2021-626b8f17efda) [## 商业科学将在 2021 年改变供应链的 5 种方式
-
-### 后 Covid 时代零售业的数据科学趋势
-
-towardsdatascience.com](/5-ways-business-science-will-transform-the-supply-chain-in-2021-626b8f17efda) [](/how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9) [## 如何通过一个简单的步骤增加您数据的价值
-
-### 为什么数据审计很重要，以及如何做得更好
-
-towardsdatascience.com](/how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9) 
+*</5-ways-business-science-will-transform-the-supply-chain-in-2021-626b8f17efda>  </how-to-increase-your-data-value-in-2-simple-steps-dad4944054b9>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

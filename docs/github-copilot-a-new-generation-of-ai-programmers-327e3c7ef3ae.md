@@ -82,12 +82,4 @@ GitHub Copilot 注定要改变全世界很多程序员的日常。尽管我强�
 
 ## 推荐阅读
 
-[](/understanding-gpt-3-in-5-minutes-7fe35c3a1e52) [## 五分钟了解 GPT-3
-
-### 有数百篇关于 GPT 3 号的文章。这里有一个 5 分钟的关于它的所有信息的汇编。
-
-towardsdatascience.com](/understanding-gpt-3-in-5-minutes-7fe35c3a1e52) [](/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11) [## 无法进入 GPT 3 号？这是 GPT J——它的开源兄弟
-
-### 类似于 GPT-3，每个人都可以使用它。
-
-towardsdatascience.com](/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11)
+</understanding-gpt-3-in-5-minutes-7fe35c3a1e52>  </cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11> 

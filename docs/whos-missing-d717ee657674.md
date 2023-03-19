@@ -144,11 +144,7 @@ knitr::kable(py$table, caption = "Missing Values") %>%
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/is-that-red-wine-good-enough-49326a4c08e4) [## 那种红酒够好吗？
-
-### 一个介绍性的教程，介绍预测建模的基本工作流程，并演示如何记录…
-
-towardsdatascience.com](/is-that-red-wine-good-enough-49326a4c08e4) 
+</is-that-red-wine-good-enough-49326a4c08e4>  
 
 # 阿拉法特·侯赛因
 

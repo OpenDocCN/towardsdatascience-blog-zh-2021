@@ -14,7 +14,7 @@
 
 哲学家路德维希·维特斯坦根谈到语言时说:“我的语言的极限意味着我的世界的极限。”人工智能(AI)是由人工(编程)语言创建的，因此，在其核心，机器学习可以简化为二进制代码。相反，自然语言可以被定义为通过人类的有机使用而进化，它具有不可磨灭的人类品质。研究语言可以让我们一窥人工语言在模仿自然语言世界方面的局限性。
 
-最近，我分享了一篇[思想文章](https://medium.com/swlh/what-is-natural-about-nlp-af31eb9cf354)，讨论与人工智能和自然语言处理(NLP)相关的语言学理论。具体来说，我试图阐明我对[语言相对论](https://en.wikipedia.org/wiki/Linguistic_relativity)和[语言普遍性](https://en.wikipedia.org/wiki/Linguistic_universal)及其与人工智能语言模型的持续发展的联系的想法。如果你对语言学理论或人工智能语言模型都不熟悉，我建议你阅读我之前的文章。此外，我重温了最初在第一篇中介绍的几个灵感来源，如尼尔·斯蒂芬森的[](https://en.wikipedia.org/wiki/Snow_Crash)*、塞缪尔·r·德莱尼的 [*巴别-17*](https://en.wikipedia.org/wiki/Babel-17) 和诺姆·乔姆斯基的[普遍语法](https://en.wikipedia.org/wiki/Universal_grammar)。*
+最近，我分享了一篇[思想文章](https://medium.com/swlh/what-is-natural-about-nlp-af31eb9cf354)，讨论与人工智能和自然语言处理(NLP)相关的语言学理论。具体来说，我试图阐明我对[语言相对论](https://en.wikipedia.org/wiki/Linguistic_relativity)和[语言普遍性](https://en.wikipedia.org/wiki/Linguistic_universal)及其与人工智能语言模型的持续发展的联系的想法。如果你对语言学理论或人工智能语言模型都不熟悉，我建议你阅读我之前的文章。此外，我重温了最初在第一篇中介绍的几个灵感来源，如尼尔·斯蒂芬森的<https://en.wikipedia.org/wiki/Snow_Crash>*、塞缪尔·r·德莱尼的 [*巴别-17*](https://en.wikipedia.org/wiki/Babel-17) 和诺姆·乔姆斯基的[普遍语法](https://en.wikipedia.org/wiki/Universal_grammar)。*
 
 *本文关注的是试图用人工语言(机器语言)来理解自然语言所产生的影响和随之而来的风险。首先，我描述了种族主义和宗教的纠缠，这说明了语言相对性和普遍性的历史影响。接下来，我依靠科幻小说来探索人工语言，及其在技术发展中的作用，以突出语言相对论的影响。我有必要介绍计算语言学的计算机科学领域，并讨论语言学理论对人工智能研究的一般影响。对于风险，我回到语言相对论来分析数据中的偏差，然后回到语言普遍性来分析错误信息。怀着乐观的态度，我以一些关于人工智能模型未来可能性的想法结束了我的讲话，这些想法可能会缩短(如果不是弥合)人工语言和自然语言之间的差距。*
 

@@ -78,11 +78,7 @@ IV. Conclusion**
 
 > *最高效的*(包装生产率)*解决方案是什么？*
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。使用排队论的最优解
 
@@ -155,11 +151,7 @@ tp: effective process time
 
 方程式—(图片由作者提供)
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 三。用 Python 构建仿真模型
 
@@ -225,19 +217,7 @@ CVb: coefficient of variation of tp
 
 如果你对**仓储流程改进**方法感兴趣，可以从下面的文章中获得更多启发。
 
-[](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/) [## 使用 Python 优化仓库增值服务
-
-### 物流持续改进使用线性规划来增加您的最终装配的生产能力…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/) [](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [## 使用 Python 的订单批处理提高仓库生产率
-
-### 物流持续改进设计一个模拟模型来估计几个单拣货员路线的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/) [## 用 Python 实现过程改进的中心极限定理
-
-### 物流持续改进假设退货管理的工作量呈正态分布…
-
-www.samirsaci.com](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/) 
+<https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/>  <https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/>  <https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/>  
 
 # 关于我
 
@@ -245,11 +225,7 @@ www.samirsaci.com](https://www.samirsaci.com/central-limit-theorem-for-process-i
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

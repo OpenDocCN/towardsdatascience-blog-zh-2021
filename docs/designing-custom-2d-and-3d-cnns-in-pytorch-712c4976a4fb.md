@@ -438,4 +438,4 @@ PyTorch 让你可以自由定义任何你喜欢的 CNN 模型。在本教程中�
 
 快乐造型！
 
-*原载于 2021 年 2 月 6 日 http://glassboxmedicine.com*[](https://glassboxmedicine.com/2021/02/06/designing-custom-2d-and-3d-cnns-in-pytorch-tutorial-with-code/)**。**
+*原载于 2021 年 2 月 6 日 http://glassboxmedicine.com*<https://glassboxmedicine.com/2021/02/06/designing-custom-2d-and-3d-cnns-in-pytorch-tutorial-with-code/>**。**

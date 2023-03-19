@@ -10,7 +10,7 @@
 
 “文本分类”是一种机器学习技术，用于分析文本，然后根据模式或结构对其进行组织或分类。文本分类在人工智能领域有很多 [*应用*](/text-classification-applications-and-use-cases-beab4bfe2e62) 比如新闻文章分析、仇恨言论识别、性别分类等。在这篇文章中，我使用“文本分类”和使用 Python 的自然语言处理(NLP)来分析印度教经文并对它们进行分类。在我们更深入地研究 Python 的技术方面之前，让我们快速地看看我们将处理哪些数据。
 
-“[Sahasranama](https://en.wikipedia.org/wiki/Sahasranama)”——字面上有 1000 个名字(其中“ *sahasra* ”的意思是 1000，而“ *nama* ”的意思是名字)——是一首赞美印度教神的圣歌。[](https://en.wikipedia.org/wiki/Lalita_Sahasranama)*【颂难近母女神】和 [*毗湿奴*](https://en.wikipedia.org/wiki/Vishnu_Sahasran%C4%81ma) 【颂摩诃毗湿奴】就是这样两个颂难近母女神和摩诃毗湿奴的诗句，各有 1000 个不同的名字。我从以下链接中获得了用于我们分析的数据:'[*Lalitha Sahasranama*](https://vignanam.org/english/sree-lalita-sahasra-namavali.html)'和'[*Vishnu Sahasranama*](https://stotranidhi.com/en/sri-vishnu-sahasra-namavali-in-english/)'，并对其进行了清理，删除了“om”和“namah”，并将数据保存为 [*文本文件*](https://github.com/dpakapd/sahasranama_analysis) 。*
+“[Sahasranama](https://en.wikipedia.org/wiki/Sahasranama)”——字面上有 1000 个名字(其中“ *sahasra* ”的意思是 1000，而“ *nama* ”的意思是名字)——是一首赞美印度教神的圣歌。<https://en.wikipedia.org/wiki/Lalita_Sahasranama>*【颂难近母女神】和 [*毗湿奴*](https://en.wikipedia.org/wiki/Vishnu_Sahasran%C4%81ma) 【颂摩诃毗湿奴】就是这样两个颂难近母女神和摩诃毗湿奴的诗句，各有 1000 个不同的名字。我从以下链接中获得了用于我们分析的数据:'[*Lalitha Sahasranama*](https://vignanam.org/english/sree-lalita-sahasra-namavali.html)'和'[*Vishnu Sahasranama*](https://stotranidhi.com/en/sri-vishnu-sahasra-namavali-in-english/)'，并对其进行了清理，删除了“om”和“namah”，并将数据保存为 [*文本文件*](https://github.com/dpakapd/sahasranama_analysis) 。*
 
 ## *导入库:*
 

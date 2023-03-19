@@ -68,11 +68,7 @@
 
 ******注:**寻找一组超参数的最佳值在技术上称为**超参数调整**或**超参数优化**。如果你不知道这个程序，你可以通过阅读我写的下面两个帖子来了解:****
 
-****[](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0) [## 用简单的英语解释 k 倍交叉验证
-
-### 用于评估模型的性能和超参数调整
-
-towardsdatascience.com](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0) [](/4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c) [## 4 种可以减轻决策树过度拟合的有用技术
+****</k-fold-cross-validation-explained-in-plain-english-659e33c0bc0>  </4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c> [## 4 种可以减轻决策树过度拟合的有用技术
 
 towardsdatascience.com](/4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c) 
 

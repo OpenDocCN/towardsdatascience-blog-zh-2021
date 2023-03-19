@@ -18,11 +18,7 @@
 
 如果你觉得这篇文章有用，可以通过下面的链接订阅。这将有助于我为你创造高质量的内容。
 
-[](https://pedram-ataee.medium.com/membership) [## 阅读 Pedram Ataee 博士(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership) 
+<https://pedram-ataee.medium.com/membership>  
 
 这篇文章的结构如下:
 
@@ -118,11 +114,7 @@ class Query:
                                       var=self.var)
 ```
 
-[](/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) [## 如何为专业人士撰写一份出色的数据科学家简历
-
-### 通过描述高级数据科学家必备的三项技能
-
-towardsdatascience.com](/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) 
+</how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e>  
 
 # —遗言
 
@@ -146,8 +138,4 @@ SQL 编程面试可以现场，也可以离线。如果它是脱机的，将根�
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我的* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

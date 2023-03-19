@@ -103,8 +103,4 @@ Colonial 管道的绝对长度以及中间中心性指标都将 Colonial 管道�
 
 *有兴趣的话，下面详细介绍一下带代码的 Google Colab 笔记本。*
 
-[](https://colab.research.google.com/drive/1FaK2wiUV_3MqJViGS1m-xQYPUXGG5EaT?usp=sharing) [## 可视化美国管道网络
-
-colab.research.google.com](https://colab.research.google.com/drive/1FaK2wiUV_3MqJViGS1m-xQYPUXGG5EaT?usp=sharing) 
-
-[*关注我*](https://medium.com/@skanda.vivek) *如果你喜欢这篇文章——我经常写复杂系统、物理学、数据科学和社会的界面*
+<https://colab.research.google.com/drive/1FaK2wiUV_3MqJViGS1m-xQYPUXGG5EaT?usp=sharing>  *如果你喜欢这篇文章——我经常写复杂系统、物理学、数据科学和社会的界面*

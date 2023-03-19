@@ -38,11 +38,7 @@ Anaconda 是一个用 Python 管理包和环境的程序。它广泛用于数据
 
 您可以使用更多的函数和属性从 HTML 文档中提取信息(在文档中有详细的解释)。
 
-[](https://beautiful-soup-4.readthedocs.io/en/latest/) [## 美丽的汤文档-美丽的汤 4.4.0 文档
-
-### 美汤 4 是通过 PyPi 发布的，如果不能用系统打包器安装，可以安装…
-
-美丽的汤 4.readthedocs.io](https://beautiful-soup-4.readthedocs.io/en/latest/) 
+<https://beautiful-soup-4.readthedocs.io/en/latest/>  
 
 需要指出的是，为了从代码中提取特定的信息，您总是可以使用浏览器的开发工具**来交互式地浏览 HTML 代码并找到信息所在的位置，然后您可以编写最佳的漂亮的 Soup 查询来检索这个特定的信息。**
 
@@ -102,11 +98,7 @@ Python 中的**类是创建对象**的蓝图，由方法和属性组成。要定
 
 除了 ASCII 和 Unicode，Python 还支持多种编码。Python 中可用编码的完整列表可以在`codecs`模块的 Python 标准文档中查阅。
 
- [## 编解码器-编解码器注册表和基类- Python 3.9.7 文档
-
-### 源代码:Lib/codecs.py 这个模块定义了标准 Python 编解码器(编码器和解码器)的基类，并且…
-
-docs.python.org](https://docs.python.org/3/library/codecs.html#standard-encodings) 
+  
 
 在处理文本数据时，编码是必须考虑的因素。重要的是要记住，Python 用于需要编码的操作(比如读取文件)的默认编码是 UTF-8。**处理文件时，由于编码不一致而导致字符显示不正确或异常是一个常见问题。**因此，在读取文件时，您需要通过在`open`函数中包含参数`encoding`来指定所使用的编码(当它与默认编码不匹配时)。
 
@@ -182,19 +174,11 @@ iterable 的所有元素都应该是字符串类型的。如果没有，将引�
 
 您可能知道，我们还可以使用`+`操作符连接字符串；但是，这不是连接大量字符串的有效方式。主要是因为`+`操作符需要在每次使用时创建一个新的对象，导致性能下降。如果您想更多地了解为什么`join`方法优于`+`操作符，请阅读下面的文章💚
 
-[](/do-not-use-to-join-strings-in-python-f89908307273) [## 不要在 Python 中使用“+”来连接字符串
-
-### 使用“+”和 join()方法在 Python 中连接字符串的方法比较。
-
-towardsdatascience.com](/do-not-use-to-join-strings-in-python-f89908307273) 
+</do-not-use-to-join-strings-in-python-f89908307273>  
 
 字符串对象有更多的方法。要了解有关字符串方法的更多信息，可以参考官方 Python 文档，网址为:
 
- [## 内置类型- Python 3.9.6 文档
-
-### 以下部分描述了解释器内置的标准类型。主要的内置类型…
-
-docs.python.org](https://docs.python.org/3/library/stdtypes.html#str.join) 
+  
 
 这个简短的介绍展示了使用 Python 编程时可能会遇到的一些主要功能和问题。它的可读性、一致性和丰富的库使 Python 成为世界上最重要的编程语言之一，是任何数据科学家都应该拥有的基本资产。
 

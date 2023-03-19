@@ -62,11 +62,7 @@
 
 你的论文可以非常乏味，也可以非常有趣。我和我的朋友们见过这两个极端。对我来说，这是相当愉快的，我建议你看看这里:
 
-[](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c) [## 无监督病理学整片图像切片分割
-
-### 一个解决繁琐的数字病理标记问题的 UCL 项目
-
-towardsdatascience.com](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c) 
+</unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c>  
 
 此外，最后一年的主要挑战之一是找到一份研究生工作。如果你在倒数第二年后有一个暑期实习，这可能对你来说不是问题。然而，如果你没有，我强烈建议你从九月开始申请研究生工作。
 

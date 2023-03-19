@@ -135,15 +135,11 @@
 
 这里还有一份我写的完整指南—
 
-[](/how-to-learn-data-science-and-probability-in-2021-ee7b5d5e0a49) [## 2021 年如何学习数据科学与概率
-
-### 学习概率的最佳资源
-
-towardsdatascience.com](/how-to-learn-data-science-and-probability-in-2021-ee7b5d5e0a49) 
+</how-to-learn-data-science-and-probability-in-2021-ee7b5d5e0a49>  
 
 此外，如果您有任何问题，或者只是想一起学习数据科学，请随时与我联系。
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang -数据分析师
+<https://www.linkedin.com/in/travistang/> [## Travis Tang -数据分析师
 
 www.linkedin.com](https://www.linkedin.com/in/travistang/) 
 

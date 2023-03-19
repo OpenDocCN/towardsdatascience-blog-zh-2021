@@ -10,11 +10,7 @@
 
 > 如果你不熟悉 K 均值聚类，我推荐你通读下面这篇文章。本文主要关注数据并行和集群，即 K 表示在大数据上进行集群。
 
-[](/unsupervised-learning-techniques-using-python-k-means-and-silhouette-score-for-clustering-d6dd1f30b660) [## 使用 Python-K Means ++和剪影分数进行聚类的无监督学习技术
-
-### K 入门指南意味着使用 Python 进行集群
-
-towardsdatascience.com](/unsupervised-learning-techniques-using-python-k-means-and-silhouette-score-for-clustering-d6dd1f30b660) 
+</unsupervised-learning-techniques-using-python-k-means-and-silhouette-score-for-clustering-d6dd1f30b660>  
 
 # 关于聚类
 

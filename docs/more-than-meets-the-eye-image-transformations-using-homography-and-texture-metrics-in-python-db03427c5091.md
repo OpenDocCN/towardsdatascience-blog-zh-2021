@@ -84,8 +84,4 @@ fig.colorbar(img1, ax=ax1)fig.tight_layout()plt.show()
 
 对我的工作感兴趣？你可以在我的个人资料中看到更多的故事
 
-[](https://nico-aguila.medium.com/) [## 尼科·阿吉拉-中等
-
-### 阅读尼科·阿吉拉在媒介上的作品。分享数据世界，一次一个故事。每天，尼科·阿吉拉和…
-
-nico-aguila.medium.com](https://nico-aguila.medium.com/)
+<https://nico-aguila.medium.com/> 

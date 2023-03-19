@@ -191,15 +191,7 @@ daily_requirements = {('2020/07/13','A'): 600, ('2020/07/13','B'): 0, … ,('202
 
 # 资源
 
-[](/optimization-of-a-weekly-production-plan-with-python-and-gurobi-part-1-d1257ad29a9) [## 用 Python 和 Gurobi 优化周生产计划—第 1 部分
-
-### 了解如何使用 Python 和数学求解器 Gurobi 解决优化问题。
-
-towardsdatascience.com](/optimization-of-a-weekly-production-plan-with-python-and-gurobi-part-1-d1257ad29a9) [](/optimization-of-a-weekly-production-plan-with-python-and-gurobi-part2-6ebcefe85e52) [## 用 Python 和 Gurobi 优化周生产计划—第二部分
-
-### 了解如何使用 Python 和数学求解器 Gurobi 解决优化问题。
-
-towardsdatascience.com](/optimization-of-a-weekly-production-plan-with-python-and-gurobi-part2-6ebcefe85e52) 
+</optimization-of-a-weekly-production-plan-with-python-and-gurobi-part-1-d1257ad29a9>  </optimization-of-a-weekly-production-plan-with-python-and-gurobi-part2-6ebcefe85e52>  
 
 这个项目在我的 GitHub 上的仓库:[https://GitHub . com/soula bat/Production-plan-optimization/tree/master/Planning _ optimization _ part 1](https://github.com/soulabat/Production-plan-optimization/tree/master/Planning_optimization_part1)
 

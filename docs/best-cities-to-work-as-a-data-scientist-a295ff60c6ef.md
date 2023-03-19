@@ -28,11 +28,7 @@
 
 伦敦是人工智能(AI)和金融科技产业(FinTech)之间联系的世界中心。英国政府与世界各地 50 多家专门从事人工智能的科技公司达成了一笔 10 亿英镑(约合 135 万美元)的交易**。这座城市也是 T4 艾伦图灵研究所的所在地。伦敦经常举办国际峰会，如深度学习峰会、人工智能峰会、ODSC 的欧洲会议和 Strata Data 会议。建立关系网的机会并不缺乏。**
 
-**[](https://london.intelligenthealth.ai/) [## 智能健康人工智能| 2021 年 5 月|英国伦敦&在线
-
-### 现在就预订加入 2021 年 9 月 8 日和 9 日在瑞士巴塞尔举行的 Gain CPD 认证积分活动
-
-london.intelligenthealth.ai](https://london.intelligenthealth.ai/) 
+**<https://london.intelligenthealth.ai/>  
 
 生活成本很高，主要是因为房租，房租可以占到一个人月收入的 60%。然而，一名数据科学家的平均工资为 61543 英镑，比全国数据科学家的平均工资高出 10%。此外，伦敦距离剑桥大学所在地剑桥只有 50 分钟的路程，被认为是欧洲领先的生物医学研究中心之一。
 
@@ -70,19 +66,7 @@ london.intelligenthealth.ai](https://london.intelligenthealth.ai/)
 
 ****感谢阅读。下面是一些你会喜欢的文章:****
 
-**[](/best-universities-to-study-data-science-65f9a12a0342) [## 研究数据科学的最佳大学
-
-### 并非所有的数据科学学位都是一样的，所以请找出适合你的课程。
-
-towardsdatascience.com](/best-universities-to-study-data-science-65f9a12a0342) [](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [](https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b) [## 你应该关注的 10 大人工智能影响者。
-
-### 随时关注人工智能领域的最新进展。
-
-medium.com](https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b) 
+**</best-universities-to-study-data-science-65f9a12a0342>  </switching-career-to-data-science-in-your-30s-6122e51a18a3>  <https://medium.com/codex/top-10-artificial-intelligence-influencers-you-should-follow-ca91e94c797b>  
 
 **参考文献:**
 

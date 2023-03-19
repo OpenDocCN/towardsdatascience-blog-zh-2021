@@ -28,11 +28,7 @@ Neo4j GDS 库版本 1.5 的发布和内置的机器学习模型，现在为需�
 
 由于 Neo4j Python 驱动程序，任何 GNN 包都可以在 Neo4j 图上执行图形机器学习任务。事实上，在过去的几年中，已经开发了一整套的库和工具，根据最近的统计，关于图形神经网络的开源项目已经达到了将近 100 个！
 
-[](https://awesomeopensource.com/projects/graph-neural-networks) [## 排名前 97 的图形神经网络开源项目
-
-### 浏览最流行的 97 图形神经网络开源项目
-
-awesomeopensource.com](https://awesomeopensource.com/projects/graph-neural-networks) 
+<https://awesomeopensource.com/projects/graph-neural-networks>  
 
 ## 深度图形库
 
@@ -50,11 +46,7 @@ awesomeopensource.com](https://awesomeopensource.com/projects/graph-neural-netwo
 
 我们将简要描述单个“图形注意力层”的关键步骤和组成部分，并向感兴趣的读者推荐该论文以获得更详细的数学解释。
 
- [## 图形注意网络
-
-### 我们提出图注意网络(GATs)，新的神经网络结构，对图结构的数据操作…
-
-arxiv.org](https://arxiv.org/abs/1710.10903) 
+  
 
 模型的叙述可以总结为 5 个步骤:
 

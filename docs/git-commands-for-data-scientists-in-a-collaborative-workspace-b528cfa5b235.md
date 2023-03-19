@@ -138,26 +138,14 @@ git merge <your branch name>*
 
 *非常感谢您的阅读，如果您发现这篇文章对您有帮助，请关注我的媒体**❤***
 
-***[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership) 
+***<https://geek-cc.medium.com/membership>  
 
 如果上面的 Git 命令不太适用，那么这里有一些其他的文章可供参考😀：
 
 作者:Soner Yildirim
 
-[](/8-must-have-git-commands-for-data-scientists-ee6564e4631d) [## 数据科学家必备的 8 个 Git 命令
-
-### 这就是你对项目的贡献
-
-towardsdatascience.com](/8-must-have-git-commands-for-data-scientists-ee6564e4631d) 
+</8-must-have-git-commands-for-data-scientists-ee6564e4631d>  
 
 作者瓦什塔·谢尔博士:
 
-[](/git-commands-data-scientists-use-on-a-day-to-day-basis-40d588cd63f7) [## Git 命令科学家日常使用的数据
-
-### 适用于查看本地 PR 副本、带回混乱的文件或删除 PR 中的文件等情况。
-
-towardsdatascience.com](/git-commands-data-scientists-use-on-a-day-to-day-basis-40d588cd63f7)***
+</git-commands-data-scientists-use-on-a-day-to-day-basis-40d588cd63f7> ***

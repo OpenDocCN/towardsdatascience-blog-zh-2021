@@ -91,14 +91,6 @@
 
 *如果你喜欢，你可能会喜欢我的一些关于深度学习研究有趣的最新发展的文章:*
 
-*[](/5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406) [## 2021 年值得关注的 5 项激动人心的深度学习进展
-
-### 正在进行的研究的暗流
-
-towardsdatascience.com](/5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406) [](/turning-non-image-data-into-images-for-classification-is-surprisingly-effective-70ce82cfee27) [## 将非图像数据转换成图像进行分类的效果惊人
-
-### 跨越深度学习的边界和障碍
-
-towardsdatascience.com](/turning-non-image-data-into-images-for-classification-is-surprisingly-effective-70ce82cfee27) 
+*</5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406>  </turning-non-image-data-into-images-for-classification-is-surprisingly-effective-70ce82cfee27>  
 
 除非另有说明，否则图片由作者创作。*

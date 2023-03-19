@@ -20,11 +20,7 @@
 
 我们将使用亚马逊点评数据集，网址为:
 
- [## 亚马逊评论数据
-
-### Julian McAuley，UCSD 在我们实验室的数据集网页上查看用于推荐系统研究的各种其他数据集…
-
-jmcauley.ucsd.edu](http://jmcauley.ucsd.edu/data/amazon/) 
+  
 
 让我们专注于一个产品类别
 
@@ -52,11 +48,7 @@ jmcauley.ucsd.edu](http://jmcauley.ucsd.edu/data/amazon/)
 
 如果尚未安装，请使用以下链接进行安装。
 
-[](https://www.sqlshack.com/hands-full-text-search-sql-server/) [## SQL Server 全文搜索实践
-
-### 2017 年 8 月 25 日在大多数情况下，我们将使用聚集和非聚集索引来帮助查询进行得更快，但是这些…
-
-www.sqlshack.com](https://www.sqlshack.com/hands-full-text-search-sql-server/) 
+<https://www.sqlshack.com/hands-full-text-search-sql-server/>  
 
 检查它是否已启用。
 

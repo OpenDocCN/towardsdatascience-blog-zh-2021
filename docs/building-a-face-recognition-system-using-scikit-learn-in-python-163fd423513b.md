@@ -78,7 +78,7 @@ pip install onnxruntime==1.8.1
 
 ![](img/83e19e3bb4516f82551bdc4bec024c93.png)
 
-*注意:自从上周最新发布的* `*insightface*` *0.4.1 以来，安装并不像我希望的那样简单(至少对我来说是这样)。因此，我将在本教程中使用 0.2.1。以后我会相应更新 Github 上的代码。如果你卡住了，请看这里的说明*[](https://github.com/deepinsight/insightface/issues/891#issue-489506780)**。**
+*注意:自从上周最新发布的* `*insightface*` *0.4.1 以来，安装并不像我希望的那样简单(至少对我来说是这样)。因此，我将在本教程中使用 0.2.1。以后我会相应更新 Github 上的代码。如果你卡住了，请看这里的说明*<https://github.com/deepinsight/insightface/issues/891#issue-489506780>**。**
 
 # *资料组*
 

@@ -134,14 +134,6 @@ plt.show()
 
 ## 这里有一些你可能感兴趣的其他故事。
 
-[](/how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995) [## 如何使用值从 Python 字典中提取键
-
-### 从 python 字典给定值中提取键的四种方法
-
-towardsdatascience.com](/how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995) [](/covid-19-bar-race-chart-using-flourish-89136de75db3) [## 新冠肺炎酒吧比赛图表使用繁荣
-
-### 竞赛条形图是一个非常简单的工具，可以用来比较随时间变化的数量。简单来说，就是一个条形图…
-
-towardsdatascience.com](/covid-19-bar-race-chart-using-flourish-89136de75db3) ![](img/28471c618949e2b0d56464e65cbe6865.png)
+</how-to-extract-key-from-python-dictionary-using-value-2b2f8dd2a995>  </covid-19-bar-race-chart-using-flourish-89136de75db3>  ![](img/28471c618949e2b0d56464e65cbe6865.png)
 
 迈克尔·泽兹奇在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

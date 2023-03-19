@@ -113,17 +113,13 @@ Google 的团队已经对构建基于 ML 的系统所带来的技术挑战进行
 
 我有一个完整的任务列表，你可以在训练 ML 模型时阅读:
 
-[](/task-cheatsheet-for-almost-every-machine-learning-project-d0946861c6d0) [## 几乎每个机器学习项目的任务清单
-
-### 构建端到端 ML 项目的任务清单
-
-towardsdatascience.com](/task-cheatsheet-for-almost-every-machine-learning-project-d0946861c6d0) 
+</task-cheatsheet-for-almost-every-machine-learning-project-d0946861c6d0>  
 
 现在，您将使用不同类型的数据和参数运行大量实验。数据科学家在训练模型时面临的另一个挑战是**再现性**。这可以通过版本化您的模型和数据来解决。
 
 您可以向 ML 系统的所有组件(主要是数据和模型)添加版本控制以及参数。
 
-随着开源工具如[](https://dvc.org/)****和**[**CML**](https://cml.dev/)**的发展，这现在很容易实现。********
+随着开源工具如<https://dvc.org/>****和**[**CML**](https://cml.dev/)**的发展，这现在很容易实现。********
 
 ****其他任务包括:****
 
@@ -185,15 +181,7 @@ towardsdatascience.com](/task-cheatsheet-for-almost-every-machine-learning-proje
 *   ******【书】:** [奥莱利传媒 MLOps 简介](https://learning.oreilly.com/library/view/introducing-mlops/9781492083283/)。****
 *   ****您可以瞄准如下认证计划:****
 
-****[](https://cloud.google.com/certification/machine-learning-engineer) [## 专业 ML 工程师认证|认证|谷歌云
-
-### 专业的机器学习工程师设计、构建和生产 ML 模型来解决业务挑战…
-
-cloud.google.com](https://cloud.google.com/certification/machine-learning-engineer) [](https://aws.amazon.com/certification/certified-machine-learning-specialty/?ch=sec&sec=rmg&d=1) [## AWS 认证机器学习-专业
-
-### AWS 认证的机器学习-专业认证是为个人谁执行开发或…
-
-aws.amazon.com](https://aws.amazon.com/certification/certified-machine-learning-specialty/?ch=sec&sec=rmg&d=1) 
+****<https://cloud.google.com/certification/machine-learning-engineer>  <https://aws.amazon.com/certification/certified-machine-learning-specialty/?ch=sec&sec=rmg&d=1>  
 
 你也可以观看这个博客的视频版本:
 

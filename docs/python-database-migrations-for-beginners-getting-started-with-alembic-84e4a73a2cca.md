@@ -36,11 +36,7 @@
 
 *不熟悉使用终端？查看* ***下面的文章***
 
-[](/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8) [## 面向绝对初学者的终端/控制台/命令行
-
-### 命令行使用简介
-
-towardsdatascience.com](/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8) 
+</terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8>  
 
 ```
 pip install alembic
@@ -51,11 +47,7 @@ alembic init alembic
 
 ***保护您的凭证安全:建议从环境变量中加载连接字符串。*** *如果您将此项目上传到公共存储库，任何人都可以看到您的凭据。使用环境变量，您可以通过将所有机密信息(如密码和连接字符串)放在一个文件中来保护您的凭证安全，我们可以* `*.gitignore*` *。在下面的文章中看看这是如何工作的:*
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) [## 通过使用环境变量和 env 文件来保证代码的安全
-
-### 安全地加载一个文件，其中包含我们的应用程序所需的所有机密数据，如密码、令牌等
-
-towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) 
+</keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286>  
 
 让我们通过在终端中运行`alembic current`来测试我们与的连接。这显示了我们的数据库目前的状态。如果您看到类似下面的文字，说明您已经成功连接到数据库。
 

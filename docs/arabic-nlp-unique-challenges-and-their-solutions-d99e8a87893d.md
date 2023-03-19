@@ -41,11 +41,7 @@ pip install camel-tools
 
 注意，NLTK 还包含一个阿拉伯停用词库，但是这个集合忽略了许多常见的拼写不一致。
 
-[](https://github.com/mohataher/arabic-stop-words) [## moha Taher/阿拉伯语-停用词
-
-### Github 上最大的阿拉伯停用词列表。أكبرقائمةلمستبعداتالفهرسةالعربيةعلىجيتهاب永久链接加载失败…
-
-github.com](https://github.com/mohataher/arabic-stop-words) 
+<https://github.com/mohataher/arabic-stop-words>  
 
 好了，现在让我们开始吧！
 
@@ -112,11 +108,7 @@ github.com](https://github.com/mohataher/arabic-stop-words)
 
 camel-tools 包提供了更多的预处理特性(比如音译、unicode 标准化等)。)可能对你的项目有用。查看完整的文档以获取更多信息。
 
- [## CAMeL 工具文档- camel_tools 1.1.0 文档
-
-### 编辑描述
-
-骆驼工具. readthedocs.io](https://camel-tools.readthedocs.io/en/latest/) 
+  
 
 此外，我只想指出，我做了大量的研究，试图找到为 NLP 预处理阿拉伯文本的最佳工具。虽然有许多其他好的选择(如 Farasa、MADAMIRA 和 Stanford CoreNLP ),但我发现 camel-tools 是最通用、最全面、最易于使用的。除了用于处理上述挑战的核心预处理功能，它还具有一些很酷的额外功能:它可以进行情感分析，并且——这确实是最酷的功能之一——它可以识别文本所用的方言(最多 25 种方言)。我肯定会使用方言标识符将“方言”作为一个特性添加到我的 NLP 管道中。
 
@@ -124,8 +116,4 @@ camel-tools 包提供了更多的预处理特性(比如音译、unicode 标准�
 
 请考虑成为支持写作社区的媒体成员:
 
-[](https://richardpelgrim.medium.com/membership) [## 使用此推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-richardpelgrim.medium.com](https://richardpelgrim.medium.com/membership)
+<https://richardpelgrim.medium.com/membership> 

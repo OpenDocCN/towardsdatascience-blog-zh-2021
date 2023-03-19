@@ -24,11 +24,7 @@
 
 ## 终于！
 
-[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) 
+<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  
 
 2019 年已经过去了 4 个月，我终于准备好从邮件室进入数据世界。我知道我即将踏上人生中最具挑战性的旅程之一，但我的一位同事在我加入邮件室的最初几个月里说的一句话一直在我脑海中回响——
 
@@ -110,11 +106,7 @@ medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in
 
 一旦我们拥有了这种超级力量，这个世界就是我们的了。只要有我们希望用数据解决的问题，或者我们希望用数据回答的问题，我们就有一个项目。此外，由于有了互联网，数据几乎可以在任何地方找到，并且可以通过各种不同的方式访问。
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) 
+</always-remember-data-comes-before-the-science-681389992082>  
 
 解决问题和解决问题的决心完全取决于我们，我们可以决定在项目中投入多少努力。由我们来决定我们是否要在我们的项目中加入一篇评论——这是我推荐的——以及我们是否要公开分享它，以便其他人可以评论我们所做的事情。
 
@@ -160,16 +152,4 @@ towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992
 
 ## 相关文章
 
-[](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b) [## 为什么我停止申请数据科学的工作
-
-### 以及为什么你应该考虑效仿
-
-towardsdatascience.com](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b) [](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [## 作为一名自学成才的数据科学家，我最大的挑战是
-
-### 以及我是如何克服它们的
-
-towardsdatascience.com](/my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35)
+</why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b>  </my-biggest-challenges-being-a-self-taught-data-scientist-e389f365f70c>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35> 

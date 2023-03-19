@@ -160,35 +160,11 @@
 
 ## 作者相关文章
 
-[](/eigenvalues-and-eigenvectors-378e851bf372) [## 主成分分析中的特征值和特征向量
-
-### 关于我们的数据，他们告诉了我们什么？
-
-towardsdatascience.com](/eigenvalues-and-eigenvectors-378e851bf372) [](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) [](/matrix-calculus-for-data-scientists-6f0990b9c222) [## 数据科学家的矩阵演算
-
-### 吃红色药丸，学习矩阵微积分！
-
-towardsdatascience.com](/matrix-calculus-for-data-scientists-6f0990b9c222) 
+</eigenvalues-and-eigenvectors-378e851bf372>  </backpropagation-in-neural-networks-6561e1268da8>  </matrix-calculus-for-data-scientists-6f0990b9c222>  
 
 ## 作者撰写的其他文章
 
-[](/how-you-can-use-gpt-j-9c4299dd8526) [## 如何使用 GPT J
-
-### GPT J 解释了 3 种简单的方法，你可以如何访问它
-
-towardsdatascience.com](/how-you-can-use-gpt-j-9c4299dd8526) [](/einstein-index-notation-d62d48795378) [## 爱因斯坦指数符号
-
-### 爱因斯坦求和、指数符号和数值
-
-towardsdatascience.com](/einstein-index-notation-d62d48795378) [](/deep-q-learning-is-no-rocket-science-e34912f1864) [## 深度 Q 学习不是火箭科学
-
-### 用 pytorch 解释和编码的深度 Q 和双 Q 学习
-
-towardsdatascience.com](/deep-q-learning-is-no-rocket-science-e34912f1864) 
+</how-you-can-use-gpt-j-9c4299dd8526>  </einstein-index-notation-d62d48795378>  </deep-q-learning-is-no-rocket-science-e34912f1864>  
 
 ## 资源
 

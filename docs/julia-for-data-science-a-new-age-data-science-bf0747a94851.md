@@ -173,4 +173,4 @@ gd[(target=0,)] | gd[Dict(:target => 0)] | gd[(0,)]
 
 *相关*
 
-*原载于 2021 年 7 月 30 日 https://www.analyticsvidhya.com*[](https://www.analyticsvidhya.com/blog/2021/07/julia-a-new-age-of-data-science)**。**
+*原载于 2021 年 7 月 30 日 https://www.analyticsvidhya.com*<https://www.analyticsvidhya.com/blog/2021/07/julia-a-new-age-of-data-science>**。**

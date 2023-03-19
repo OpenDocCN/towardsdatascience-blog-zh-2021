@@ -22,11 +22,7 @@ IPython 笔记本在 Python 的奇妙世界和超文本标记的世界之间建�
 
 有趣的是，我最初在 Julia 语言中编写了这个算法，以便使用 data frames . JL。data frames . JL 有一个众所周知的可怕的显示输出，这是由它背后的大量软件包提供的，以便提供该功能。我决定用一个扩展来改变我自己安装的 DataFrames.jl，这个扩展可以用更具表现力的 HTML 输出来显示数据帧。如果你想看看我在字典上的实现，你可以看看 OddFrames.jl，这是一个在 Julia 中处理数据的包:
 
-[](/introducing-oddframes-jl-data-in-one-dimension-296e1389c27a) [## OddFrames.jl 简介:一维数据
-
-### 我厌倦了 DataFrames 的工作方式，所以我自己做了一个。
-
-towardsdatascience.com](/introducing-oddframes-jl-data-in-one-dimension-296e1389c27a) 
+</introducing-oddframes-jl-data-in-one-dimension-296e1389c27a>  
 
 现在，我们将编写一个新的算法，将 Python 中的一些字典数据解析成 HTML5 表。
 

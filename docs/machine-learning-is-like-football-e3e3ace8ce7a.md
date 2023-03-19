@@ -56,19 +56,7 @@
 
 **感谢阅读。这里有一些你可能会喜欢的文章:**
 
-[](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) [## 将改变商业战略的数据科学趋势
-
-### 从个人技能到业务发展，数据专业人士在未来几年有很多机会。
-
-towardsdatascience.com](/trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7) [](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [## 提高生产力:使用 Python 和 Pandas 进行数据清理
-
-### 数据清理可能很耗时，但了解不同类型的丢失值，以及如何处理…
-
-towardsdatascience.com](/increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012) [](/what-pokémons-can-teach-you-about-machine-learning-d72586c4b202) [## 关于机器学习，神奇宝贝能教会你什么
-
-### 当学习数据科学中的复杂主题时，简单的数据集消除了不必要的困难。
-
-towardsdatascience.com](/what-pokémons-can-teach-you-about-machine-learning-d72586c4b202) 
+</trends-in-data-science-that-will-change-business-strategies-1fa3f5ee96b7>  </increase-productivity-data-cleaning-using-python-and-pandas-5e369f898012>  </what-pokémons-can-teach-you-about-machine-learning-d72586c4b202>  
 
 **参考文献:**
 

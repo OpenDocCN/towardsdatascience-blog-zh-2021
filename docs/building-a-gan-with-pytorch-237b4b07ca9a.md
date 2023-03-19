@@ -100,10 +100,6 @@ GANs 还被扩展到清理对立的图像，并将它们转换成不会欺骗分
 
 所以你有它！希望这篇文章提供了如何自己构建 GAN 的概述。完整的实现可以在下面的 Github 资源库中找到:
 
-[](https://github.com/ttchengab/MnistGAN) [## ttchengab/MnistGAN
-
-### 使用 PyTorch 实现 GAN 并在 MNIST 数据集上进行测试。没有执行保存/加载的保存检查点…
-
-github.com](https://github.com/ttchengab/MnistGAN) 
+<https://github.com/ttchengab/MnistGAN>  
 
 *感谢您坚持到现在*🙏！*我会在计算机视觉/深度学习的不同领域发布更多内容。一定要看看我关于计算机视觉方法的其他文章！*

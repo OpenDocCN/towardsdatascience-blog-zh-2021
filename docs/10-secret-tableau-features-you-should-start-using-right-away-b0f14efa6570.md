@@ -124,8 +124,4 @@
 
 如果你喜欢这个内容，一定要看看我的 **YouTube 频道**下面的了解更多！
 
-[](https://www.youtube.com/@loresowhat) [## 那又怎样
-
-### 再见👋我是 Lore，是一名住在伦敦的意大利人，是一名数据分析师@FAANG。我从人们那里获得了巨大的价值…
-
-www.youtube.com](https://www.youtube.com/@loresowhat)
+<https://www.youtube.com/@loresowhat> 

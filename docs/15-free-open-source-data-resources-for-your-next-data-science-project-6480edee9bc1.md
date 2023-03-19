@@ -140,12 +140,4 @@
 
 ****也可以看看我的其他博客:****
 
-****[](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063) [## 8 ML/AI 项目，让您的投资组合脱颖而出
-
-### 有趣的项目想法与源代码和参考文章，也附上一些研究论文。
-
-towardsdatascience.com](/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063) [](/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755) [## 用 10 个简单的步骤搜集 1000 篇新闻文章
-
-### 如果你遵循这 10 个简单的步骤，使用 python 进行网络抓取是非常简单的。
-
-towardsdatascience.com](/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755)****
+****</8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063>  </scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755> ****

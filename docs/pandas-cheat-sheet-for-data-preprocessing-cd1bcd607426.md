@@ -350,30 +350,14 @@ df_X.to_excel('boston_correct.xlsx', index=False)
 
 # 编码
 
-[](https://github.com/rkiuchir/blog_TDS/tree/main/01_Pandas_Cheat_Sheet) [## 主页面上的 blog_TDS/01_Pandas_Cheat_Sheet
-
-### 我们使用的数据最初来自这里:https://sci kit-learn . org/stable/datasets/toy _ dataset . html # Boston-dataset ' '……
-
-github.com](https://github.com/rkiuchir/blog_TDS/tree/main/01_Pandas_Cheat_Sheet) 
+<https://github.com/rkiuchir/blog_TDS/tree/main/01_Pandas_Cheat_Sheet>  
 
 # 链接
 
 ## 其他文章
 
-[](/create-interactive-globe-earthquake-plot-in-python-b0b52b646f27) [## 用 Python 创建“交互式地球仪+地震图”
-
-### 如何在 Python 中创建一个很酷的交互图形:Plotly 绘制的地球仪？
-
-towardsdatascience.com](/create-interactive-globe-earthquake-plot-in-python-b0b52b646f27) [](https://rkiuchir.medium.com/20-background-image-in-python-basemap-using-arcgis-api-78c0d12b93be) [## 20 使用 ArcGIS API 的 Python 底图中的背景图像
-
-### 以下是可使用 ArcGIS API 和 Matplotlib 底图绘制的 20 种不同类型地图的摘要。
-
-rkiuchir.medium.com](https://rkiuchir.medium.com/20-background-image-in-python-basemap-using-arcgis-api-78c0d12b93be) 
+</create-interactive-globe-earthquake-plot-in-python-b0b52b646f27>  <https://rkiuchir.medium.com/20-background-image-in-python-basemap-using-arcgis-api-78c0d12b93be>  
 
 ## 个人网站
 
-[](https://rkiuchir.github.io/) [## R.木内地震学
-
-### 编辑描述
-
-rkiuchir.github.io](https://rkiuchir.github.io/)
+<https://rkiuchir.github.io/> 

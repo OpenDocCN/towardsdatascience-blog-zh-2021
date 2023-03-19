@@ -46,30 +46,14 @@
 
 我希望你能看到我用这个工具的最终目标。我找人提交一些问题和公关的。让我们像开源社区那样做，把它变成一个有用的工具，我知道这是可能的！
 
-[](https://github.com/schlerp/flowpy) [## schlerp/flowpy
-
-### 一个 python 应用程序，用于在您舒适的 web 浏览器中操作 pandas 数据框。数据流是…
-
-github.com](https://github.com/schlerp/flowpy) 
+<https://github.com/schlerp/flowpy>  
 
 不久将会有一篇文章解释这方面的先驱应用程序，该文章着重于使用从一个非常相似的界面设计的 SQL 来执行 ELT！它被称为 PELT Studio，可以在下面的存储库中找到。
 
-[](https://github.com/schlerp/pelt-studio) [## 施勒普/佩尔特工作室
-
-### Python Extract，Load，T ransform Studio 是一个用于执行 ELT(和 ETL)任务的应用程序。引擎盖下…
-
-github.com](https://github.com/schlerp/pelt-studio) 
+<https://github.com/schlerp/pelt-studio>  
 
 我需要特别提到一个类似的新兴产品，叫做数据块。在开始开发这个应用程序之后，在寻找用 react 处理 DAG 的优秀方法时，我遇到了 reactflow。Reactflow 是前端所基于的库，非常棒。在研究它的文档时，我找到了它所设计的产品的参考资料，这是一个非常相似的概念，但更成熟，并且基于 Javascript。我更喜欢 python 操作数据的生态系统，我相信我并不孤单，所以我仍然看到了 FlowPy 的空间。然而，如果您更喜欢 Javascript，请查看数据块！在我写这篇文章的时候，我仍然在等待进入 alpha，但是非常兴奋！
 
-[](https://reactflow.dev/) [## react Flow——一个用于构建基于节点的应用程序的开源库。
-
-### 反应流发布在 npm 上。您可以通过以下方式安装它:流由节点和边组成(或仅由节点组成)。我们一起…
-
-反应流.开发](https://reactflow.dev/) [](https://datablocks.pro/) [## 数据块
-
-### 我们开始将数据块作为一个小项目，目前正在寻找未来开发该工具的选项…
-
-数据块. pro](https://datablocks.pro/) 
+<https://reactflow.dev/>  <https://datablocks.pro/>  
 
 感谢您的阅读，请不要忘记查看我的其他文章，并在 medium 上关注我！

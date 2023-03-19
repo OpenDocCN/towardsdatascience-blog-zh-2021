@@ -30,23 +30,7 @@
 
 如果您有兴趣了解更多关于羽衣甘蓝和 Kubeflow 的信息，请阅读以下文章:
 
-[](/jupyter-is-ready-for-production-as-is-b36f1d1ca8f8) [## Jupyter 准备生产；原样
-
-### 无需编写一行代码，即可将您的笔记本草稿转化为生产就绪的 Kubeflow 管道。
-
-towardsdatascience.com](/jupyter-is-ready-for-production-as-is-b36f1d1ca8f8) [](/hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6) [## 超参数调优不应该是 ML 代码的一部分
-
-### 让凯尔和卡提卜卸下重担。
-
-towardsdatascience.com](/hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6) [](/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f) [## 在 Kubernetes 上提供 ML 模型的最简单方法
-
-### 从 Jupyter 笔记本到生产就绪的机器学习 API，只需一行代码
-
-towardsdatascience.com](/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f) [](/autosklearn-at-scale-with-kubeflow-and-kale-bfd51f57a54f) [## 使用 Kubeflow 和羽衣甘蓝进行大规模 AutoSklearn
-
-### 如何使用 Kale 和 AutoSklearn 在 Kubeflow 上运行 AutoML 实验
-
-towardsdatascience.com](/autosklearn-at-scale-with-kubeflow-and-kale-bfd51f57a54f) 
+</jupyter-is-ready-for-production-as-is-b36f1d1ca8f8>  </hyperparameter-tuning-should-not-be-part-of-your-ml-code-44c49e80adb6>  </the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f>  </autosklearn-at-scale-with-kubeflow-and-kale-bfd51f57a54f>  
 
 既然我们已经看到了羽衣甘蓝是什么，以及它如何将我们的 ML 实验提高到一个新的水平，让我们假设我们愿意积极参与它的开发。怎么才能开始呢？
 
@@ -122,25 +106,13 @@ RUN pip3 --disable-pip-version-check --no-cache-dir install -r /tmp/pip-tmp/requ
 
 如果您想更进一步，您可以更改您的`devcontainer.json`来安装您想要的 VS 代码扩展，并更改容器内的 VS 代码设置。例如，我倾向于使用`Pylance`作为我的 Python 语言服务器。如果你想了解更多关于`Pylance`的信息，请阅读下面的故事:
 
-[](/pylance-the-best-python-extension-for-vs-code-ae299f35548c) [## pylance:VS 代码的最佳 Python 扩展
-
-### Microsoft Python 语言服务器的未来以及为什么应该使用它。
-
-towardsdatascience.com](/pylance-the-best-python-extension-for-vs-code-ae299f35548c) 
+</pylance-the-best-python-extension-for-vs-code-ae299f35548c>  
 
 我的 Kale 的`devcontainer.json`配置文件如下所示:
 
 如果你想了解更多关于 VS 代码`[remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)`扩展的信息，请阅读下面的故事:
 
-[](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) [## 你唯一需要的 VS 代码扩展
-
-### 如果您必须安装一个 Visual Code Studio 扩展，这就是它！
-
-towardsdatascience.com](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) [](/5-visual-studio-code-extensions-for-data-scientists-937487b987c0) [## 面向数据科学家的 5 个 Visual Studio 代码扩展
-
-### 借助这些强大的附加组件，提高 VS 代码的生产率
-
-towardsdatascience.com](/5-visual-studio-code-extensions-for-data-scientists-937487b987c0) 
+</the-only-vs-code-extension-you-will-ever-need-e095a6d09f24>  </5-visual-studio-code-extensions-for-data-scientists-937487b987c0>  
 
 # 运行您的第一个测试
 

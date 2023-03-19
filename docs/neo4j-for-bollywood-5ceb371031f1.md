@@ -12,11 +12,7 @@
 
 组合词**宝莱坞**由 **Bo** mbay 和 Ho **llywood** 创造。顾名思义，这是总部设在孟买的印地语/乌尔都语电影业。这些电影涵盖了广泛的主题，其中一些甚至触及了敏感的政治和宗教话题。许多电影都包含了欢快的舞蹈场景，让气氛变得轻松起来。宝莱坞电影在全世界都很受欢迎。例如，电影《Dangal》在中国获得了巨大成功，其 3.3 亿美元的全球票房中有三分之二来自中国。好莱坞已经被大量报道，但宝莱坞很少得到应有的关注。因此，更多地了解这个电影行业将是一件好事。Premkumar 的表格数据很小，但包含了 2005 年至 2017 年间的 1698 部宝莱坞电影。所以我认为它是这个介绍性项目的一个极好的数据源。这个项目的代码存放在我的 Github 仓库中:
 
-[](https://github.com/dgg32/bollywood) [## GitHub-dgg 32/宝莱坞
-
-### 通过在 GitHub 上创建帐户，为 dgg 32/宝莱坞的发展做出贡献。
-
-github.com](https://github.com/dgg32/bollywood) 
+<https://github.com/dgg32/bollywood>  
 
 数据集来自[https://boxofficeindia.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwie1Jq5y4fzAhXEg-AKHZYKC7MQFnoECAMQAQ&url=https%3A%2F%2Fboxofficeindia.com%2F&usg=AOvVaw33S6bzbkk-A0LfEboTANRv)。与 IMDB.com 相比，boxofficeindia.com 的数据非常不完整。此外，请注意，该表仅列出了主要演员。所以它低估了演员和电影之间的联系。另外，这个项目只包括演员、导演，以及他们的电影。原始数据中还有一个小问题:预算和收入列放错了位置。
 
@@ -124,8 +120,4 @@ COLLECT 函数将名字转换成一个列表。然后我们做一个普通的匹
 
 这里有一个挑衅性的想法:我们是否只能使用 Neo4j 这样的图形数据库来满足我们所有的需求？
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

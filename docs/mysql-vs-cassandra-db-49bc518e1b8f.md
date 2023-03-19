@@ -78,44 +78,8 @@ MySQL 也只是部分开源。使用付费版本时，涉及到专有代码和�
 
 看看我最近的一些文章:
 
-[](https://medium.com/codex/libreoffice-on-docker-1a64245468c) [## 码头上的图书馆
-
-### 开源的 Office365
-
-medium.com](https://medium.com/codex/libreoffice-on-docker-1a64245468c) [](/sql-relationships-with-sqlalchemy-ee619e6f2e8f) [## SQL 与 SQLAlchemy 的关系
-
-### 手动配置如何简化查询
-
-towardsdatascience.com](/sql-relationships-with-sqlalchemy-ee619e6f2e8f) [](/mysql-vs-redis-def3287de41) [## MySQL vs Redis
-
-### DBMS 与内存中数据存储的比较
-
-towardsdatascience.com](/mysql-vs-redis-def3287de41) [](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [## 使用 Python 搜索 PDF 中的文本
-
-### 没有人喜欢使用 pdf，但是我们必须…
-
-python .平原英语. io](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [](/daas-data-as-a-service-78494933253f) [## DaaS —数据即服务
-
-### 它是什么，为什么它是下一件大事？
-
-towardsdatascience.com](/daas-data-as-a-service-78494933253f) 
+<https://medium.com/codex/libreoffice-on-docker-1a64245468c>  </sql-relationships-with-sqlalchemy-ee619e6f2e8f>  </mysql-vs-redis-def3287de41>  <https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055>  </daas-data-as-a-service-78494933253f>  
 
 参考资料:
 
-[](https://cassandra.apache.org/_/cassandra-basics.html) [## Apache Cassandra | Apache Cassandra 文档
-
-### Cassandra 是一个 NoSQL 分布式数据库。按照设计，NoSQL 数据库是轻量级的、开放源码的、非关系型的，并且…
-
-cassandra.apache.org](https://cassandra.apache.org/_/cassandra-basics.html) [](https://www.educba.com/cassandra-vs-mysql/) [## Cassandra 与 MySQL |大有价值的详细对比
-
-### 在这种数据中，Cassandra vs MySQL 就是一切，随着今天数据量的激增，选择正确的数据库…
-
-www.educba.com](https://www.educba.com/cassandra-vs-mysql/) [](https://www.geeksforgeeks.org/difference-between-cassandra-and-mysql/) [## Cassandra 和 MySQL 的区别
-
-### 1.Cassandra : Cassandra 是一个免费的开源、分布式、宽列存储、NoSQL 数据库管理系统…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/difference-between-cassandra-and-mysql/) [](https://cloudinfrastructureservices.co.uk/cassandra-vs-mongodb-vs-redis-vs-mysql-vs-postgresql-pros-and-cons/) [## Cassandra vs . MongoDB vs . Redis vs . MySQL vs . PostgreSQL
-
-### 无论何时你在开发一个软件应用程序，保存你的数据是你面临的第一个挑战…
-
-cloudinfrastructureservices.co.uk](https://cloudinfrastructureservices.co.uk/cassandra-vs-mongodb-vs-redis-vs-mysql-vs-postgresql-pros-and-cons/)
+<https://cassandra.apache.org/_/cassandra-basics.html>  <https://www.educba.com/cassandra-vs-mysql/>  <https://www.geeksforgeeks.org/difference-between-cassandra-and-mysql/>  <https://cloudinfrastructureservices.co.uk/cassandra-vs-mongodb-vs-redis-vs-mysql-vs-postgresql-pros-and-cons/> 

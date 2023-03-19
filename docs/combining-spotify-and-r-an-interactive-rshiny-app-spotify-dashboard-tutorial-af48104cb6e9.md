@@ -130,24 +130,4 @@ TabPanel 4 有 5 个对象:top _ artist _ invision _ data、energy_vs_positivity
 
 来源:
 
-[](https://github.com/kingazaan/spotifyr-r-shiny) [## GitHub-kingazaan/spotifyr-r-shiny
-
-### 现在你应该可以走了！点击其中一个标签，了解更多关于你的音乐链接到网站(目前关闭)…
-
-github.com](https://github.com/kingazaan/spotifyr-r-shiny) [](https://github.com/charlie86/spotifyr) [## Spotify Web API 的 GitHub - charlie86/spotifyr: R 包装器
-
-### spotifyr 是一个 R 包装器，用于从 Spotify 的 Web API 中批量提取音轨音频功能和其他信息。由…
-
-github.com](https://github.com/charlie86/spotifyr) [](/step-by-step-to-visualize-music-genres-with-spotify-api-ce6c273fb827) [## 使用 Spotify API 逐步可视化音乐流派
-
-### 你听什么就是什么。我们能否用数据来辨别，或看出音乐流派的差异？
-
-towardsdatascience.com](/step-by-step-to-visualize-music-genres-with-spotify-api-ce6c273fb827) [](https://vladyslavkushnir.medium.com/exploring-spotify-api-in-r-284f1ef32f46) [## 探索 R 中的 Spotify API
-
-### Spotify API 在 R 中的威力——基于 Lorde 音乐的分析
-
-vladyslavkushnir.medium.com](https://vladyslavkushnir.medium.com/exploring-spotify-api-in-r-284f1ef32f46) [](https://medium.com/@joypham7/spotify-personal-data-analysis-858c8fbe6983) [## Spotify 个人数据分析
-
-### 带 R
-
-medium.com](https://medium.com/@joypham7/spotify-personal-data-analysis-858c8fbe6983)
+<https://github.com/kingazaan/spotifyr-r-shiny>  <https://github.com/charlie86/spotifyr>  </step-by-step-to-visualize-music-genres-with-spotify-api-ce6c273fb827>  <https://vladyslavkushnir.medium.com/exploring-spotify-api-in-r-284f1ef32f46>  <https://medium.com/@joypham7/spotify-personal-data-analysis-858c8fbe6983> 

@@ -92,11 +92,7 @@ MLMD 需要一个存储后端来记录它收集的信息。存储后端是可插
 
 但是，如果你把它安装在本地，你将看不到它的全部潜力。相反，最好在完整的云原生环境中使用。因此，我建议在一个 MiniKF 实例中工作，在那里一切都是预先配置好的。要开始，请参阅下面的故事:
 
-[](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [## 有了 MiniKF，Kubeflow 比以往任何时候都更容易访问
-
-### 10 分钟入门 Kubernetes 最好的机器学习平台。
-
-towardsdatascience.com](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) 
+</kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b>  
 
 # 关于作者
 

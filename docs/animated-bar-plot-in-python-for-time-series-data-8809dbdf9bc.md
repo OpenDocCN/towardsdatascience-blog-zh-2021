@@ -56,11 +56,7 @@ df, filename=None, orientation='h', sort='desc', n_bars=None, fixed_order=False,
 
 要了解如何使用 PivotTable.js 创建交互式数据透视表，请阅读下面的文章:
 
-[](/interactive-pivot-tables-in-jupyter-notebook-fc74bad8aa67) [## Jupyter 笔记本中的交互式数据透视表
-
-### 使用 PivotTable.js 创建交互式数据透视表
-
-towardsdatascience.com](/interactive-pivot-tables-in-jupyter-notebook-fc74bad8aa67) 
+</interactive-pivot-tables-in-jupyter-notebook-fc74bad8aa67>  
 
 # 结论:
 

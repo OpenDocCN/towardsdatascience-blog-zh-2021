@@ -102,10 +102,6 @@ VAE 的核心概念之一是其损失函数的设计。简而言之，我们试�
 
 所以你有它！希望这篇文章给你一个基本的概述和指导，告诉你如何从头开始构建你的第一个 VAE。完整的实现可以在下面的 Github 资源库中找到:
 
-[](https://github.com/ttchengab/VAE.git) [## ttchengab/VAE
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/ttchengab/VAE.git) 
+<https://github.com/ttchengab/VAE.git>  
 
 *感谢您坚持到现在*🙏！*我会在计算机视觉/深度学习的不同领域发布更多内容。一定要看看我的另一篇关于一次性学习的文章！*

@@ -306,15 +306,7 @@ app.run_server(mode='external')
 
 如果您有任何问题，请在 Discord 或社区论坛中提问。
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 595 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) [](https://community.tigergraph.com/) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com/) 
+<https://discord.gg/gRHWBZNpxW>  <https://community.tigergraph.com/>  
 
 最后，这是对原始细胞景观论文的引用:
 
@@ -324,19 +316,11 @@ Shannon P, Markiel A, Ozier O, Baliga NS, Wang JT, Ramage D, Amin N, Schwikowski
 
 您可以在这个 Colab 笔记本中跟随:
 
-[](https://colab.research.google.com/drive/1zXSVNFe1f26UdFIXZisfRZ4TWH9sbdX9?usp=sharing) [## 谷歌联合实验室—TG+细胞图
-
-### TigerGraph 和细胞图整合
-
-colab.research.google.com](https://colab.research.google.com/drive/1zXSVNFe1f26UdFIXZisfRZ4TWH9sbdX9?usp=sharing) 
+<https://colab.research.google.com/drive/1zXSVNFe1f26UdFIXZisfRZ4TWH9sbdX9?usp=sharing>  
 
 接下来，使用您自己的数据创建您自己的 TigerGraph-Cytoscape 集成！一旦你这样做了，一定要分享它，让你的条纹在社区贡献计划！
 
-[](https://www.tigergraph.com/community-contribution/) [## 图表分析用例|图表数据库解决方案
-
-### 使用 TigerGraph 的图形数据库解决方案连接、分析和学习数据。探索图表分析使用…
-
-www.tigergraph.com](https://www.tigergraph.com/community-contribution/) 
+<https://www.tigergraph.com/community-contribution/>  
 
 非常感谢你阅读这个博客，我迫不及待地想看到你创造的很酷的项目！
 

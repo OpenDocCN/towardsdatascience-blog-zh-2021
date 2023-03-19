@@ -79,7 +79,7 @@ delta lake 在这个场景中提供的解决方案是通过引入**原子性。*
 
 这还带来了对 delta lake 数据使用标准(删除、更新、合并)命令的功能，这有助于使您的数据符合 CCPA/GDPR 法案。
 
-有一些特殊的场景，其中两个操作会导致增量表中的冲突，这里的[](https://docs.delta.io/latest/concurrency-control.html#avoid-conflicts-using-partitioning-and-disjoint-command-conditions)*捕获这些冲突以供进一步参考。简而言之，通过对 filter 命令中使用的列进行分区，可以避免这些冲突。*
+有一些特殊的场景，其中两个操作会导致增量表中的冲突，这里的<https://docs.delta.io/latest/concurrency-control.html#avoid-conflicts-using-partitioning-and-disjoint-command-conditions>*捕获这些冲突以供进一步参考。简而言之，通过对 filter 命令中使用的列进行分区，可以避免这些冲突。*
 
 *![](img/b3a2f8199741b03761df45e63c671efb.png)*
 

@@ -146,11 +146,7 @@ beta = 1 - 10**r
 
 And that is it for helping you choose the Model Design Hyperparameters🖌️, I would personally suggest you also take a look at getting some more idea about tuning the regularization λ and has a sizable impact on the model weights if you are interested in that you can take a look at this blog I wrote some time back addressing this in detail:
 
-[](/solving-overfitting-in-neural-nets-with-regularization-301c31a7735f) [## Solving Overfitting in Neural Nets With Regularization
-
-### Learn about how you could implement regularization to solve overfitting in your DNNs and also understand the intuitions…
-
-towardsdatascience.com](/solving-overfitting-in-neural-nets-with-regularization-301c31a7735f) 
+</solving-overfitting-in-neural-nets-with-regularization-301c31a7735f>  
 
 Yeah! By including all of these concepts I hope you can start better tuning your hyperparameters and building better models and start perfecting the “Art of Hyperparameter tuning”🚀. I hope you liked this article.
 

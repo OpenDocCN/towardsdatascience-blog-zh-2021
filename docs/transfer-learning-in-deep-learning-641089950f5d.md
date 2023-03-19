@@ -92,15 +92,7 @@
 
 在大多数情况下，您可以用简单的模型解决组织问题。如果你有兴趣了解它们，可以看看这些文章。
 
-[](/the-1-mistake-companies-make-when-creating-their-data-science-foundation-ff775d9e20b1) [## 公司在创建数据科学基础时犯的头号错误
-
-### 85%的数据科学项目失败的原因很简单。
-
-towardsdatascience.com](/the-1-mistake-companies-make-when-creating-their-data-science-foundation-ff775d9e20b1) [](/is-deep-learning-right-for-you-b59a2219c457) [## 如何评价深度学习是否适合自己？
-
-### 可能不会！在浪费时间之前，这里是你需要知道的
-
-towardsdatascience.com](/is-deep-learning-right-for-you-b59a2219c457) 
+</the-1-mistake-companies-make-when-creating-their-data-science-foundation-ff775d9e20b1>  </is-deep-learning-right-for-you-b59a2219c457>  
 
 > 朋友，谢谢你的阅读。看来你和我有许多共同的兴趣。 ***跟我打招呼*** *上* [*领英*](https://www.linkedin.com/in/thuwarakesh/)*[*推特*](https://twitter.com/Thuwarakesh)*[*中*](https://thuwarakesh.medium.com/subscribe) *。我会为你打破僵局。***
 

@@ -26,11 +26,7 @@ Keras Visualizer 是一个开源 python 库，在可视化模型如何逐层连�
 
 为了理解这篇文章，你应该对如何创建一个神经网络有一个基本的了解。
 
-[](/neural-network-using-native-python-1d16117486d6) [## 使用原生 Python 的神经网络
-
-### 用 numpy 实现线性回归神经网络。
-
-towardsdatascience.com](/neural-network-using-native-python-1d16117486d6) 
+</neural-network-using-native-python-1d16117486d6>  
 
 现在让我们使用 Keras 及其函数创建一个基本的人工神经网络。在这个神经网络中，我将输入形状作为(784，)并相应地设计它，您可以创建自己的网络，因为在这里我们不是学习如何创建 NN，我们只是将我们创建的最终模型可视化。
 

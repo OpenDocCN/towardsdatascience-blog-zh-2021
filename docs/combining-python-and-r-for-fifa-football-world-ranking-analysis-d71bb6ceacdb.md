@@ -130,11 +130,7 @@ Python 和 R 之间的“语言战争”是数据科学中长期争论的话题�
 
 *****总之，争论 Python 和 R 哪个更好是徒劳的。**理想的工具取决于用例、你打算回答的问题以及你的团队和行业的文化。*******
 
-*****[](https://www.linkedin.com/in/nien-xiang-tou-phd-a15594184/) [## 倪祥头博士-老年教育与研究所研究员
-
-### 我是新加坡老年教育和研究所(GERI)的研究员。我目前正在锻炼…](https://www.linkedin.com/in/nien-xiang-tou-phd-a15594184/) [](https://www.linkedin.com/in/kennethleungty/) [## Kenneth Leung -数据科学家| AXA
-
-### 我是一名拥有商业分析硕士学位的数据科学家，也是一名双重执业药师(新加坡和英国)](https://www.linkedin.com/in/kennethleungty/) 
+*****<https://www.linkedin.com/in/nien-xiang-tou-phd-a15594184/>  
 
 ## 在你走之前
 

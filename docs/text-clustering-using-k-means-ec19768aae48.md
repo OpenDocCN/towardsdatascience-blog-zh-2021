@@ -156,12 +156,4 @@ Pierre Bamin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 也可以看看我的其他博客:
 
-[](/cleaning-preprocessing-text-data-by-building-nlp-pipeline-853148add68a) [## 通过构建 NLP 管道清理和预处理文本数据
-
-### 用 python 处理文本数据的完整演练
-
-towardsdatascience.com](/cleaning-preprocessing-text-data-by-building-nlp-pipeline-853148add68a) [](/topic-modelling-f51e5ebfb40a) [## 主题建模
-
-### 使用 pyLDAvis 执行主题建模的完整指南
-
-towardsdatascience.com](/topic-modelling-f51e5ebfb40a)
+</cleaning-preprocessing-text-data-by-building-nlp-pipeline-853148add68a>  </topic-modelling-f51e5ebfb40a> 

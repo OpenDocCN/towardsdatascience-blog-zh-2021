@@ -12,11 +12,7 @@
 
 **有了 Julia，模块扩展的可能性实际上是无限的。这种无限的潜力是由于朱莉娅神奇的多重调度带来的。多重分派允许我们扩展旧的方法，以便处理我们可能想要传递的新类型。如果你想进一步了解多重分派，以及为什么我认为这是一个编程计算机的好方法，我写了一篇文章详细介绍了它，并提供了一些非常好的例子，你可以在这里查看:**
 
-**[](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) [## 为什么多重分派是我最喜欢的编程方式
-
-### 多种调度的优势概述，以及我为什么这么喜欢它。
-
-towardsdatascience.com](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) 
+**</why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878>  
 
 多重分派对 Julia 模块来说也意味着大多数模块都是直接重要的，并且变得更加有用。使用多重分派，我们可以将任何方法应用于语言内部的任何类型。这包括来自完全不同模块的类型。我有一个非常酷的想法，将它应用到车床软件包中。对于那些不熟悉车床的人来说，车床是 Julia 的一个包容性预测学习模块。这个包包含了面向对象的语法，这使得它的用法非常类似于 Pythonic 的反义词 SkLearn。如果说 Flux 是 Julia 的张量流，那么车床就是 Julia 的 SkLearn。
 
@@ -96,11 +92,7 @@ StandardScaler <: LatheObject
 
 **如果你想了解更多关于子类型的知识，我写了一整篇文章来介绍它们以及它们的用法，你可以在这里找到更多的细节:**
 
-**[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+**</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 让我们在模型类型上尝试同样的事情。
 

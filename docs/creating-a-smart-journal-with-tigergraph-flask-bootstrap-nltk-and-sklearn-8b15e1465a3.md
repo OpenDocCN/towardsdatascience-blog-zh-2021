@@ -236,8 +236,4 @@ if request.method == 'POST': inp = request.form['inp'] # Code from Steps I, II, 
 
 恭喜你。你完成了我的这个项目。接下来，你可以开始着手自己的项目了！要获得帮助，您可以加入 TigerGraph Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 526 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

@@ -34,11 +34,7 @@ pip install PyPDF2
 
 现在，如果你第一次使用 Python(或者 pip ),你很可能会得到一个错误，比如“PIP 不被识别为内部或外部命令……”。这基本上意味着你没有为 pip 设置路径。下面我会给出一篇文章的链接，详细解释如何解决这个问题。
 
-[](https://medium.com/swlh/solved-windows-pip-command-not-found-or-pip-is-not-recognized-as-an-internal-or-external-command-dd34f8b2938f) [## [已解决]Windows:找不到 Pip 命令，或者 Pip 未被识别为内部或外部命令
-
-### 注意:如果教程对你没有帮助，请随意评论，并说明原因。此外，我确实在周末检查我的电子邮件…
-
-medium.com](https://medium.com/swlh/solved-windows-pip-command-not-found-or-pip-is-not-recognized-as-an-internal-or-external-command-dd34f8b2938f) 
+<https://medium.com/swlh/solved-windows-pip-command-not-found-or-pip-is-not-recognized-as-an-internal-or-external-command-dd34f8b2938f>  
 
 虽然我们需要一些其他的库，但是让我们先看看如何使用 pdf。
 
@@ -60,11 +56,7 @@ book = open(**"yourPdfName.pdf"**,**"rb"**)
 
 现在可能会有一个问题，什么是“rb”写到最后。“rb”基本上是文件处理中使用的一种存取方式。要了解 Python 中其他访问模式或文件处理的更多信息，请参考 Python 文件处理。
 
-[](https://stackabuse.com/file-handling-in-python/) [## Python 中的文件处理
-
-### 引言 Python 是最好的入门编程语言之一，这是一个不成文的共识…
-
-stackabuse.com](https://stackabuse.com/file-handling-in-python/) 
+<https://stackabuse.com/file-handling-in-python/>  
 
 到目前为止，我们只是打开了我们的 PDF 文件。现在我们需要指定一个读者，他可以阅读我们的 pdf 并从 pdf 文件中逐页提取文本。为此，我们将使用下面几行代码。
 
@@ -80,15 +72,7 @@ reader = PyPDF2.PdfFileReader(book)
 
 现在我们得到了我们的文本，我们唯一剩下的事情就是把它转换成语音并听它。为此，我们将使用 Azure 认知服务。要了解更多关于认知服务的信息，您可以访问下面的链接。
 
-[](https://azure.microsoft.com/en-in/services/cognitive-services/#overview) [## 认知服务-面向人工智能开发者的 APIs 微软 Azure
-
-### 我们正在将必应搜索 API 从认知服务平台转移到 Microsoft.com 旗下的新领域。现有的…
-
-azure.microsoft.com](https://azure.microsoft.com/en-in/services/cognitive-services/#overview) [](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services) [## 什么是 Azure 认知服务？- Azure 认知服务
-
-### 认知服务让每个开发人员都可以使用人工智能，而不需要机器学习和数据科学…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services) 
+<https://azure.microsoft.com/en-in/services/cognitive-services/#overview>  <https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services>  
 
 ## 文本到音频:
 
@@ -98,27 +82,15 @@ docs.microsoft.com](https://docs.microsoft.com/en-us/azure/cognitive-services/wh
 
 *   *为学生使用 Azure。但是这需要你使用你的大学电子邮件 id (an *)登录。edu* 邮箱)。如果你的学校没有提供这样的课程，那么你有下面两个选择。*
 
-[](https://azure.microsoft.com/en-in/free/students/) [## 面向学生的 Azure-免费帐户点数| Microsoft Azure
-
-### 开始构建应用程序使用您喜爱的语言进行开发，并在 Visual Studio 中创建自定义应用程序。让您的应用程序…
-
-azure.microsoft.com](https://azure.microsoft.com/en-in/free/students/) 
+<https://azure.microsoft.com/en-in/free/students/>  
 
 *   *使用 GitHub 学生开发者包。*这个包还有大量其他高级设施。这给了你 100 美元的 Azure 信用。
 
-[](https://education.github.com/pack) [## GitHub 学生开发者包
-
-### GitHub 学生开发者包是你学习如何编码所需要的。去拿你的包。
-
-education.github.com](https://education.github.com/pack) 
+<https://education.github.com/pack>  
 
 *   *成为微软学生学习大使。*该计划每月为您提供 150 美元的 Azure 信用点数和许多其他好处，包括 MTC 代金券和免费域名。我个人非常热爱这个社区。
 
-[](https://studentambassadors.microsoft.com/) [## 微软学习学生大使
-
-### 成为学生大使。找到你的社区比以往任何时候都重要，因为课程和社会活动需要…
-
-studentambassadors.microsoft.com](https://studentambassadors.microsoft.com/) 
+<https://studentambassadors.microsoft.com/>  
 
 在我们获得 Azure 账户后，是时候创建一些 Azure 资源了。但是为什么呢？为此，我们需要了解 Azure 认知服务的定义。
 

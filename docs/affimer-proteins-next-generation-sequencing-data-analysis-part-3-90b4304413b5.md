@@ -349,7 +349,7 @@ grid.arrange(plot1, plot2, plot3, nrow=3)
 
 [图像参考](https://avacta.com/wp-content/uploads/2021/06/Brochure-Type-00901-SC2-Product-Specification-Sheet-v2-ID-33989.pdf)
 
-亲和蛋白的这种快速发展的能力，加上它们的抗体击败特性，使它们成为大量诊断应用的理想工具。然而，还在继续开发它们的特性用于治疗应用。例如，一种被称为“检查点抑制剂”的抗癌药目前正在开发[](https://www.genengnews.com/insights/antibody-mimetics/)*，以及最近《自然》杂志上发表的一篇关于“可药用口袋[](https://www.nature.com/articles/s41467-021-24316-0)*”的文章，众所周知，这种药物很难识别。**
+亲和蛋白的这种快速发展的能力，加上它们的抗体击败特性，使它们成为大量诊断应用的理想工具。然而，还在继续开发它们的特性用于治疗应用。例如，一种被称为“检查点抑制剂”的抗癌药目前正在开发<https://www.genengnews.com/insights/antibody-mimetics/>*，以及最近《自然》杂志上发表的一篇关于“可药用口袋<https://www.nature.com/articles/s41467-021-24316-0>*”的文章，众所周知，这种药物很难识别。**
 
 **无论给定的 Affimer 活页夹的最终应用是什么，总的过程如上所述，提出了一个有趣和独特的数据分析挑战。**
 

@@ -188,11 +188,7 @@ Targets 上有一些其他的(虽然不是很多)资源，但是 Drake 上有更
 
 最后，有关不同语言和工作方面的管道工具包的详细列表，请参考:
 
-[](https://github.com/pditommaso/awesome-pipeline) [## GitHub-pditommaso/awesome-pipeline:一个精心策划的 awesome 管道工具包列表，灵感来自…
-
-### 一个精心策划的令人敬畏的管道工具包列表，灵感来自令人敬畏的系统管理员 DVC-ML 数据版本控制系统…
-
-github.com](https://github.com/pditommaso/awesome-pipeline) 
+<https://github.com/pditommaso/awesome-pipeline>  
 
 # 结束语
 

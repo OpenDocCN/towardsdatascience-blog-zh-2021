@@ -172,12 +172,8 @@ Python 是我最喜欢的编程语言，但是你知道吗？我不想被这种�
 
 学习多种编程语言不需要上强化班。而是在这里那里尝试新的东西，分析什么方便你认真学习，以便在职业生涯中进一步发展。
 
-[](https://frankandrade.ck.page/bd063ff2d3)
+<https://frankandrade.ck.page/bd063ff2d3>
 
 **如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。**
 
-**[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)**
+**<https://frank-andrade.medium.com/membership> **

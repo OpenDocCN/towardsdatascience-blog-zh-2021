@@ -222,11 +222,7 @@ MyData *ptr = new(&data) MyData(2);
 
 他们不使用 **new** 和 **delete** 操作符的原因是他们想分别分配内存和创建对象。例如，std::vector 通过将当前大小增加一倍来动态增加内存以优化速度，更多详细信息请参见我的另一篇文章。
 
-[](/c-basics-array-data-structure-c25b8ad4d32c) [## C++基础:数组数据结构
-
-### C++提供了不同类型的数组，了解它们的内部工作方式将有助于我们选择正确的类型…
-
-towardsdatascience.com](/c-basics-array-data-structure-c25b8ad4d32c) 
+</c-basics-array-data-structure-c25b8ad4d32c>  
 
 我们可以认为 std::allocator 会调用 malloc()，尽管它可能会做一些其他的事情，比如为优化预分配内存。
 
@@ -262,8 +258,4 @@ towardsdatascience.com](/c-basics-array-data-structure-c25b8ad4d32c)
 
 C++中不同级别的内存管理(图片由作者提供)
 
-[](https://debby-nirwan.medium.com/subscribe) [## 每当王思然·尼旺发表文章时，就收到一封电子邮件。
-
-### 每当王思然·尼旺发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-debby-nirwan.medium.com](https://debby-nirwan.medium.com/subscribe)
+<https://debby-nirwan.medium.com/subscribe> 

@@ -14,11 +14,7 @@
 
 但是，如果你年纪大了，已经尝到了工作生活的滋味，并考虑换一份职业，回到学校可能不是你的理想选择——甚至不是一个选择。因此，你通常有两种选择，要么带着一些钱(通常是很多钱)去训练营待几个月，要么系好安全带，打开笔记本电脑，在网上搜索信息。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 这两个选项都是有效的，并且通常可以在不考虑您的物理位置的情况下完成。但是，一个比另一个需要更多的钱，这并不总是可行的。那么，你该走哪条路呢？有没有一种方法最终能保证一份工作？哪个更容易？本文将为您解答这些问题。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 4.  参加训练营将有助于你开始建立项目组合，积累实践经验。
 5.  如果你想有朋友与你分享学习之旅，这是一个很好的选择。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 ## 训练营囚犯
 
@@ -62,11 +54,7 @@ towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54)
 4.  自学数据科学将教会你如何独立，知道如何在正确的地方寻找信息。
 5.  你将学会如何解决你面临的任何问题。因为你是自己做的，你会发展出一种高效处理和解决问题的技术。
 
-[](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) [## 您现在可以开始学习的 5 门在线数据科学课程
-
-### 在家舒适地学习数据科学的所有基础知识。
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2b5403) 
+</5-online-data-science-courses-you-can-start-now-748e4a2b5403>  
 
 ## 自学的缺点
 
@@ -80,10 +68,6 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-start-now-748e4a2
 
 但是，进入这个领域并不总是简单的。进入数据科学有很多方法。例如，你可以去重点学习数据科学的学校，你可以参加许多在线或面对面的训练营，或者你可以浏览网页，自学。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 所有这些选项都是有效的，你的选择将取决于你作为一个人，你的物理位置，你的目标，以及你想如何实现它。这篇文章向你展示了两个最重要的选择:参加训练营或者按照自己的进度自学。我想告诉你的是，这些选择没有一个能百分百保证找到工作。但是，如果你努力工作，建立一个好的投资组合，你会得到你想要的工作，不管你走的是哪条路。

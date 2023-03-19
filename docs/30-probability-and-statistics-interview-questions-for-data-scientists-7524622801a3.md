@@ -571,4 +571,4 @@ B=在第二次骰子中得到 4
 
 **这是所有 30 个来自不同公司的概率统计面试问题。我们希望这些问题可以帮助您提高技能，在数据科学面试中胜出。请记住，解决统计和概率面试问题的能力不会来自一次静坐，而是来自你通过持续学习养成的习惯。**
 
-***原载于*[](https://www.stratascratch.com/blog/30-probability-and-statistics-interview-questions-for-data-scientists/?utm_source=blog&utm_medium=click&utm_campaign=medium)**。****
+***原载于*<https://www.stratascratch.com/blog/30-probability-and-statistics-interview-questions-for-data-scientists/?utm_source=blog&utm_medium=click&utm_campaign=medium>**。****

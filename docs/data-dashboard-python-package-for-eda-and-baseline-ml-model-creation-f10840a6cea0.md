@@ -113,11 +113,7 @@ data_dashboard 包的创建不仅是为了自动化数据科学家在第一次�
 
 ## 开源代码库
 
-[](https://github.com/maciek3000/data_dashboard) [## maciek3000/data_dashboard
-
-### 创建一个简单的静态 HTML 仪表板提供的 X，y 数据，以帮助用户看到他们的数据，协助…
-
-github.com](https://github.com/maciek3000/data_dashboard) 
+<https://github.com/maciek3000/data_dashboard>  
 
 ## 放弃
 

@@ -93,7 +93,7 @@ df.count(**level='Survived'**)
 
 如果您想了解更多关于 MultiIndex 的信息，请访问:
 
-[](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) [## 在熊猫的多索引数据框架中访问数据
+</accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d> [## 在熊猫的多索引数据框架中访问数据
 
 towardsdatascience.com](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) 
 
@@ -150,11 +150,7 @@ Name: Single, dtype: int64
 
 如果您想了解更多关于`groupby()`的信息，请查看:
 
-[](/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) [## 所有熊猫 groupby()你应该知道分组数据和执行操作
-
-### 熊猫帮助你开始数据分析的提示和技巧
-
-towardsdatascience.com](/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) 
+</all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5>  
 
 # 5.将计数组合回原始数据帧
 
@@ -209,15 +205,7 @@ Name: Single, dtype: int64
 
 如果您想了解有关 merge()和 transform()的更多信息，请查看:
 
-[](/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) [## 所有的熊猫合并()你应该知道合并数据集
-
-### 你应该知道的一些最有用的熊猫把戏
-
-towardsdatascience.com](/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) [](/when-to-use-pandas-transform-function-df8861aa0dcf) [## 何时使用 Pandas transform()函数
-
-### 一些最有用的熊猫把戏
-
-towardsdatascience.com](/when-to-use-pandas-transform-function-df8861aa0dcf) 
+</all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184>  </when-to-use-pandas-transform-function-df8861aa0dcf>  
 
 # 结论
 

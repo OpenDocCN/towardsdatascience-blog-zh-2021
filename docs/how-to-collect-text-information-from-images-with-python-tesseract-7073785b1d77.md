@@ -332,8 +332,4 @@ from scipy.spatial import distance_matrixdist = distance_matrix(
 *   我放弃了调整贴图的对比度和亮度的想法，结果似乎不可靠，但也许值得花时间来研究这如何改变 pytesseract 的结果。
 *   房间到侧面的匹配有点简单。这里可以有额外的检查，例如，我们可以检查某些元素是否大致在彼此之下，这将表明更密切的关系。
 
-[](https://matepocs.medium.com/membership) [## 加入我的推荐链接-伴侣概念
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-matepocs.medium.com](https://matepocs.medium.com/membership)
+<https://matepocs.medium.com/membership> 

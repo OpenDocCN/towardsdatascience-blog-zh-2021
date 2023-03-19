@@ -144,16 +144,4 @@ Scikit-learn 为聚类评估提供了以下固有方法:
 
 # 相关文章
 
-[](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f) [## Scikit-learn 库概述—第 1 集预处理
-
-### 著名的用于机器学习的 Python 库的剧集中的描述。第一集讲的是…
-
-towardsdatascience.com](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f) [](/how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c) [## 如何提高(监督)机器学习算法的性能
-
-### 如今，每个数据科学家都能够编写代码来训练机器学习算法:加载一个代码就足够了
-
-towardsdatascience.com](/how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c) [](/how-to-balance-a-dataset-in-python-36dff9d12704) [## 如何在 Python 中平衡数据集
-
-### 本教程属于如何提高机器学习算法的性能系列。在本教程中，我…
-
-towardsdatascience.com](/how-to-balance-a-dataset-in-python-36dff9d12704)
+</an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f>  </how-to-improve-the-performance-of-a-supervised-machine-learning-algorithm-c9f9f2705a5c>  </how-to-balance-a-dataset-in-python-36dff9d12704> 

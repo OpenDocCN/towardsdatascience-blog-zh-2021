@@ -10,7 +10,7 @@
 
 你可能以前见过类似矩阵的终端屏幕。也许是电影里的某个家伙，穿着黑色连帽衫，坐在灯光昏暗的房间里，咕哝着“我在”黑五角大楼之类的话。
 
-可悲的是，现实并没有那么酷。另一方面，使用终端的能力是我们工具箱中的一个无价工具。无论你是做开发还是做数据科学家；很多 [**软件**](https://mikehuls.medium.com/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424) 我们 [**日常使用**](https://mikehuls.medium.com/version-control-your-database-part-1-creating-migrations-and-seeding-992d86c90170)[](https://mikehuls.medium.com/create-a-fully-fledged-professional-api-with-flask-in-python-part-1-1c94f732e584)**依赖于终端。一些常见的例子包括:**
+可悲的是，现实并没有那么酷。另一方面，使用终端的能力是我们工具箱中的一个无价工具。无论你是做开发还是做数据科学家；很多 [**软件**](https://mikehuls.medium.com/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424) 我们 [**日常使用**](https://mikehuls.medium.com/version-control-your-database-part-1-creating-migrations-and-seeding-992d86c90170)<https://mikehuls.medium.com/create-a-fully-fledged-professional-api-with-flask-in-python-part-1-1c94f732e584>**依赖于终端。一些常见的例子包括:**
 
 *   **使用 pip 安装 Python 包或创建虚拟环境**
 *   **用 Docker 构建图像和运行容器**
@@ -22,7 +22,7 @@
 
 # **开始之前**
 
-**如果您对本文中的任何术语不熟悉，请查阅本文[](https://mikehuls.medium.com/a-complete-beginners-overview-of-all-things-it-cbcbd27a350)****以获得编程中大多数事情的概述。另外:在这篇文章中，我使用了终端这个词。也可以使用*控制台*或*命令行*；它们是同义词。最后，我将使用与 Windows 相关的例子，但原理在 MacOS 或 Linux 中是相同的。******
+**如果您对本文中的任何术语不熟悉，请查阅本文<https://mikehuls.medium.com/a-complete-beginners-overview-of-all-things-it-cbcbd27a350>****以获得编程中大多数事情的概述。另外:在这篇文章中，我使用了终端这个词。也可以使用*控制台*或*命令行*；它们是同义词。最后，我将使用与 Windows 相关的例子，但原理在 MacOS 或 Linux 中是相同的。******
 
 # ******什么是终端？******
 
@@ -119,8 +119,4 @@
 
 ****页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！****
 
-****[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)****
+****<https://mikehuls.medium.com/membership> ****

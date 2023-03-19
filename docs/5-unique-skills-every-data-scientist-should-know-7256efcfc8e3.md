@@ -110,11 +110,7 @@ Andrew Petrov 在[Unsplash](https://unsplash.com/s/photos/promise?utm_source=uns
 
 当我们在学术环境中学习数据科学时，有时 Git 和/或 GitHub 实践会被遗忘。有许多常见的命令需要熟悉，这样您就可以快速更新您的模型代码，还有一些更独特的命令将在下面介绍。下面的链接是一个很好的例子，里面有很多不同类型的 git 命令，比如撤销更改、重写 git 历史、Git 分支和远程存储库等等[7]:
 
-[](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) [## Git 备忘单| Atlassian Git 教程
-
-### 使用这个方便的 git 备忘单指南来增强您的工作流程。当你不能…
-
-www.atlassian.com](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) 
+<https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet>  
 
 > 以下是一些独特的 Git 命令:
 

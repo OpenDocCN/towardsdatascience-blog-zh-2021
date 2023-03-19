@@ -116,14 +116,10 @@ BlenderBot 在 Reddit 对话上进行了预训练，类似于 DialoGPT。然而�
 
 **你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的会员。**
 
-**[](https://medium.com/@julia.nikulski/membership) [## 通过我的推荐链接加入 Medium-Julia Nikulski
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@julia.nikulski/membership)** 
+**<https://medium.com/@julia.nikulski/membership> ** 
 
 **你是第一次接触基于 Transformer 的 NLP 模型吗，或者你想复习一下如何使用这些模型？查看我的**基于变压器的 NLP 模型初学者指南**:**
 
-**[](/how-to-use-transformer-based-nlp-models-a42adbc292e5) [## 如何使用基于变压器的 NLP 模型
+**</how-to-use-transformer-based-nlp-models-a42adbc292e5> [## 如何使用基于变压器的 NLP 模型
 
 towardsdatascience.com](/how-to-use-transformer-based-nlp-models-a42adbc292e5)**

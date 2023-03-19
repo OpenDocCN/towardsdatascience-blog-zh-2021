@@ -112,7 +112,7 @@ my_dict = {'first_name': 'Michaela',
 
 *这里有一些用 Pythonic 方式编写代码的奇妙的字符串方法。*
 
-*[](/five-must-know-string-methods-in-python-e97925d12eec) [## Python 中五个必须知道的字符串方法
+*</five-must-know-string-methods-in-python-e97925d12eec> [## Python 中五个必须知道的字符串方法
 
 towardsdatascience.com](/five-must-know-string-methods-in-python-e97925d12eec)* 
 

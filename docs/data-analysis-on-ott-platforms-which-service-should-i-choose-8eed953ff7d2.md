@@ -163,27 +163,15 @@ Reddy 等人对基于内容过滤的推荐系统的研究表明，电影元数�
 
 ## **网飞**
 
-**[](https://github.com/yungjurick/analysis-on-ott-platforms) [## yungjurick/ott 平台上的分析
-
-### OTT 平台上的数据分析:我应该选择哪种服务？-yungjurick/ott 平台上的分析
-
-github.com](https://github.com/yungjurick/analysis-on-ott-platforms) 
+**<https://github.com/yungjurick/analysis-on-ott-platforms>  
 
 ## 亚马逊金牌会员
 
-[](https://github.com/chrissykrissy/OTT-Platform-Big-Data-Research) [## chrissykrissy/OTT-平台-大数据-研究
-
-### 主题:SmartStream:我应该选择哪个服务？我们调查了不同的 OTT 平台数据集，以便为用户提供…
-
-github.com](https://github.com/chrissykrissy/OTT-Platform-Big-Data-Research) 
+<https://github.com/chrissykrissy/OTT-Platform-Big-Data-Research>  
 
 ## 流媒体平台 Disney+
 
-[](https://github.com/hawill10/DisneyPlusETL) [## 哈维 10/迪士尼乐园
-
-### 该代码清除了从 Kaggle、维基百科和 IMDb 收集的迪士尼+内容数据。使用 Hadoop MapReduce，不需要的列…
-
-github.com](https://github.com/hawill10/DisneyPlusETL) 
+<https://github.com/hawill10/DisneyPlusETL>  
 
 # **参考文献**
 

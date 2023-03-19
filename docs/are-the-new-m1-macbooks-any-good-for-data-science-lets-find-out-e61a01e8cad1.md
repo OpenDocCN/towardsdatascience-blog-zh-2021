@@ -153,11 +153,7 @@ TensorFlow 的深度学习基准测试将于下周推出，敬请关注。
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 ## 加入我的私人邮件列表，获取更多有用的见解。
 
@@ -169,4 +165,4 @@ medium.com](https://medium.com/@radecicdario/membership)
 *   [SHAP:如何用 Python 解读机器学习模型](/shap-how-to-interpret-machine-learning-models-with-python-2323f5af4be9)
 *   [机器学习的三大分类指标——一劳永逸地消除准确性](/top-3-classification-machine-learning-metrics-ditch-accuracy-once-and-for-all-923beab025a4)
 
-*原载于 2021 年 1 月 23 日 https://betterdatascience.com*[](https://betterdatascience.com/are-the-new-m1-macbooks-any-good-for-data-science-lets-find-out/)**。**
+*原载于 2021 年 1 月 23 日 https://betterdatascience.com*<https://betterdatascience.com/are-the-new-m1-macbooks-any-good-for-data-science-lets-find-out/>**。**

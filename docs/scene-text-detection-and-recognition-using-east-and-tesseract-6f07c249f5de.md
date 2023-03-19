@@ -318,11 +318,7 @@ hi 是合并的特征地图
 
 所有的密码都在这里-
 
-[](https://jovian.ai/paritosh/data-preparation-and-model-implt) [## pari tosh/数据准备和模型实现- Jovian
-
-### 与 paritosh 合作编写数据准备和模型实施笔记本。
-
-jovian.ai](https://jovian.ai/paritosh/data-preparation-and-model-implt) 
+<https://jovian.ai/paritosh/data-preparation-and-model-implt>  
 
 这里显示了从生成器函数输出的带有分数图、几何图和训练掩码的原始图像
 
@@ -532,72 +528,32 @@ Worst = if loss > np.percentile(final_train.loss, 75)--Threshold-2
 
 **我的 LinkedIn 个人资料**
 
- [## Paritosh Mahto -学生应用人工智能课程| LinkedIn
-
-### 查看 Paritosh Mahto 在世界上最大的职业社区 LinkedIn 上的个人资料。Paritosh 有一个工作列在…
-
-www.linkedin.com](https://www.linkedin.com/in/paritosh07/) 
+  
 
 **我的 Github 个人资料**
 
-[](https://github.com/paritoshMahto07) [## paritoshMahto07 -概述
-
-### paritoshMahto07 有两个可用的存储库。在 GitHub 上关注他们的代码。
-
-github.com](https://github.com/paritoshMahto07) 
+<https://github.com/paritoshMahto07>  
 
 ## 11.参考
 
 一.研究论文
 
- [## 场景文本检测和识别:深度学习时代
-
-### 随着深度学习的兴起和发展，计算机视觉发生了巨大的变革和重塑。作为一个…
-
-arxiv.org](https://arxiv.org/abs/1811.04256)  [## EAST:一种高效准确的场景文本检测器
-
-### 以前的场景文本检测方法已经在各种基准测试中取得了令人满意的性能…
-
-arxiv.org](https://arxiv.org/abs/1704.03155) 
+    
 
 二。博客
 
-[](https://www.programmersought.com/article/56252830437/) [## 一个高效准确的场景文本检测器-程序员寻求
-
-### 本文提出了一种快速准确的场景文本检测算法，只有两步。完整的卷积…
-
-www.programmersought.com](https://www.programmersought.com/article/56252830437/) [](https://theailearner.com/2019/10/19/efficient-and-accurate-scene-text-detector-east/) [## 高效准确的场景文本检测器(东)
-
-### 在文本检测领域引入深度学习之前，大多数文本分割都很难…
-
-theailearner.com](https://theailearner.com/2019/10/19/efficient-and-accurate-scene-text-detector-east/) 
+<https://www.programmersought.com/article/56252830437/>  <https://theailearner.com/2019/10/19/efficient-and-accurate-scene-text-detector-east/>  
 
 三。Github 代码源代码
 
-[](https://github.com/kurapan/EAST) [## 库拉潘/东部
-
-### 这是基于 argman 的 Tensorflow 实现的 EAST 的 Keras 实现。原论文作者周…
-
-github.com](https://github.com/kurapan/EAST) [](https://github.com/solaris33/EAST-tf2) [## Solaris 33/东部-tf2
-
-### 这是 EAST 的 TensorFlow2 & Keras 实现:一个基于 Keras 的高效准确的场景文本检测器…
-
-github.com](https://github.com/solaris33/EAST-tf2) 
+<https://github.com/kurapan/EAST>  <https://github.com/solaris33/EAST-tf2>  
 
 四。模型量化
 
-[](https://www.tensorflow.org/lite/performance/post_training_quantization) [## 训练后量化| TensorFlow Lite
-
-### 训练后量化是一种转换技术，可以减少模型大小，同时还可以改善 CPU 和硬件…
-
-www.tensorflow.org](https://www.tensorflow.org/lite/performance/post_training_quantization) 
+<https://www.tensorflow.org/lite/performance/post_training_quantization>  
 
 动词 （verb 的缩写）师徒制
 
-[](https://www.appliedaicourse.com/) [## 应用课程
-
-### 我们知道转行是多么具有挑战性。我们的应用人工智能/机器学习课程被设计为整体学习…
-
-www.appliedaicourse.com](https://www.appliedaicourse.com/) 
+<https://www.appliedaicourse.com/>  
 
 *感谢阅读，祝你有美好的一天！*🙂

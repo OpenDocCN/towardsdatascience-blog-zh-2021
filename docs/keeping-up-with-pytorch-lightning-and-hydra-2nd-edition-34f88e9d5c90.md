@@ -4,7 +4,7 @@
 
 ## 我如何使用 PyTorch lightning 1.1 和 Hydra 1.0 的新特性将我的训练脚本缩减了 50%
 
-*第二版短评:回到 2020 年 8 月，我写了一篇关于我如何使用 PyTorch Lightning 0.9.0 和 Hydra 1 . 0 . 0 的第四个发布候选版本将我的训练脚本缩减了 50%的故事。半年后的 2021 年 2 月，我们现在有了*[*py torch Lightning 1.1*](https://medium.com/pytorch/pytorch-lightning-1-1-model-parallelism-training-and-more-logging-options-7d1e47db7b0b)*和* [*九头蛇 1.0*](https://hydra.cc/blog/2020/09/03/Hydra_1.0) *。在 Hydra 1.0 中没有引入重大的变化，但是 PyTorch Lightning 1.0 包含了一些重大的变化，比如不再使用结果抽象。所以我决定写第二版我的原始帖子来“跟上”PyTorch 闪电和九头蛇。如果你愿意，你仍然可以阅读第一版*[](/keeping-up-with-pytorch-lightning-and-hydra-31e8ed70b2cc)**，但第二版应该涵盖截至 2021 年 2 月的最新变化。尽情享受吧！**
+*第二版短评:回到 2020 年 8 月，我写了一篇关于我如何使用 PyTorch Lightning 0.9.0 和 Hydra 1 . 0 . 0 的第四个发布候选版本将我的训练脚本缩减了 50%的故事。半年后的 2021 年 2 月，我们现在有了*[*py torch Lightning 1.1*](https://medium.com/pytorch/pytorch-lightning-1-1-model-parallelism-training-and-more-logging-options-7d1e47db7b0b)*和* [*九头蛇 1.0*](https://hydra.cc/blog/2020/09/03/Hydra_1.0) *。在 Hydra 1.0 中没有引入重大的变化，但是 PyTorch Lightning 1.0 包含了一些重大的变化，比如不再使用结果抽象。所以我决定写第二版我的原始帖子来“跟上”PyTorch 闪电和九头蛇。如果你愿意，你仍然可以阅读第一版*</keeping-up-with-pytorch-lightning-and-hydra-31e8ed70b2cc>**，但第二版应该涵盖截至 2021 年 2 月的最新变化。尽情享受吧！**
 
 *![](img/b292d2c2ccbfe2ddb7bbd50ff5db1548.png)*
 

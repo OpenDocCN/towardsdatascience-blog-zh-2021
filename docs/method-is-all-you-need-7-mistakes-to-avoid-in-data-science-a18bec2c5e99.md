@@ -115,19 +115,7 @@
 
 *如果你喜欢这篇文章，你可能会感兴趣:*
 
-[](/stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94) [## 停止复制粘贴笔记本，拥抱 Jupyter 模板！
-
-### jupytemplate 简介:Jupyter 的可配置模板
-
-towardsdatascience.com](/stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94) [](/lessons-from-a-real-machine-learning-project-part-1-from-jupyter-to-luigi-bdfd0b050ca5) [## 真实机器学习项目的经验，第 1 部分:从 Jupyter 到 Luigi
-
-### 一个关于我们如何意识到如何在机器学习项目中使用和不使用 Jupyter 笔记本的简短故事
-
-towardsdatascience.com](/lessons-from-a-real-machine-learning-project-part-1-from-jupyter-to-luigi-bdfd0b050ca5) [](/lessons-from-a-real-machine-learning-project-part-2-the-traps-of-data-exploration-e0061ace84aa) [## 真实机器学习项目的经验，第 2 部分:数据探索的陷阱
-
-### 如何落入数据探索的陷阱并逃脱
-
-towardsdatascience.com](/lessons-from-a-real-machine-learning-project-part-2-the-traps-of-data-exploration-e0061ace84aa) 
+</stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94>  </lessons-from-a-real-machine-learning-project-part-1-from-jupyter-to-luigi-bdfd0b050ca5>  </lessons-from-a-real-machine-learning-project-part-2-the-traps-of-data-exploration-e0061ace84aa>  
 
 # **参考文献**
 

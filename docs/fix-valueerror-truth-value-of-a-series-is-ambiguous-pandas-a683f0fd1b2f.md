@@ -139,16 +139,4 @@ import numpy as np**df = df[np.logical_and(df['colB'] > 200, df['colD'] <= 50)]*
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [## Python 中静态方法和类方法有什么区别？
-
-### 关于 classmethod 和 staticmethod，您只需要知道
-
-towardsdatascience.com](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [## 使用预提交挂钩自动化 Python 工作流
-
-### 什么是预提交钩子，它们如何给你的 Python 项目带来好处
-
-towardsdatascience.com](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351>  </automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb> 

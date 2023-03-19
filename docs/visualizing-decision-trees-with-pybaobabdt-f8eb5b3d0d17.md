@@ -122,11 +122,7 @@ pip install pybaobabdt
 
 我在安装`pygraphviz`的时候经历了几次打嗝。如果您面临同样的问题，请参考随附的代码笔记本。
 
-[](https://github.com/parulnith/Data-Science-Articles/tree/main/Visualizing%20decision%20trees%20with%20Pybaobabdt) [## 数据-科学-文章/以 Pybaobabdt 为主的可视化决策树
-
-### 我关于数据科学和机器学习的博客集。-数据-科学-文章/可视化决策树与…
-
-github.com](https://github.com/parulnith/Data-Science-Articles/tree/main/Visualizing%20decision%20trees%20with%20Pybaobabdt) 
+<https://github.com/parulnith/Data-Science-Articles/tree/main/Visualizing%20decision%20trees%20with%20Pybaobabdt>  
 
 ## Pybaobabdt 在行动
 

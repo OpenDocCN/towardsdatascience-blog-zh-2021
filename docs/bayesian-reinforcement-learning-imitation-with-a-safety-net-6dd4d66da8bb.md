@@ -38,11 +38,7 @@
 
 要快速回顾强化学习的基础，请查看由 [SmartLab AI](https://medium.com/u/92f1b31b478b?source=post_page-----6dd4d66da8bb--------------------------------) 和 [Robert Moni](https://medium.com/u/d2551b71b60f?source=post_page-----6dd4d66da8bb--------------------------------) 撰写的[这篇](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc)文章:
 
-[](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc) [## 强化学习算法——直观概述
-
-### 作者:罗伯特·莫尼
-
-medium.com](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc) 
+<https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc>  
 
 典型的强化学习环境给了我们一个显式的奖励函数，将状态-动作对映射到实数。在给定的状态下，更高的奖励意味着更有利的行动，反之亦然。RL 目标是最大化给定剧集的累积奖励:
 
@@ -171,12 +167,4 @@ CVaR 代表 1-alpha 下分位数内的预期表现。我们可以这样想 CVaR�
 
 *从经典到最新，这里是讨论多代理和单代理强化学习的相关文章:*
 
-[](/how-deepminds-unreal-agent-performed-9-times-better-than-experts-on-atari-9c6ee538404e) [## DeepMind 的虚幻算法解释
-
-### 最佳深度强化学习
-
-towardsdatascience.com](/how-deepminds-unreal-agent-performed-9-times-better-than-experts-on-atari-9c6ee538404e) [](/counterfactual-policy-gradients-explained-40ac91cef6ae) [## 解释了反事实政策梯度
-
-### 多智能体强化学习中的学分分配问题
-
-towardsdatascience.com](/counterfactual-policy-gradients-explained-40ac91cef6ae)
+</how-deepminds-unreal-agent-performed-9-times-better-than-experts-on-atari-9c6ee538404e>  </counterfactual-policy-gradients-explained-40ac91cef6ae> 

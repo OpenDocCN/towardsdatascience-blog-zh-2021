@@ -96,7 +96,7 @@ AMI 图像
 
 通过 SSH 连接
 
-单击 ssh 客户端的[](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#)****选项卡，查看该实例的 SSH 登录详细信息。****
+单击 ssh 客户端的<https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#>****选项卡，查看该实例的 SSH 登录详细信息。****
 
 ****![](img/b9a95db478bad2d3784da21a4f47682d.png)****
 

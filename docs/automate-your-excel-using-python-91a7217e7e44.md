@@ -196,15 +196,7 @@ ws.move_range("B2:D9", rows=0, cols=2 )
 
 以下是我的一些最佳选择:
 
-[](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) [## 每个程序员的 15 个终极日常技巧
-
-### 打印“hello world”不需要导入 TensorFlow
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) [](https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085) [## 一个错误如何浪费了我 3 年的数据科学之旅
-
-### 自定进度的课程只是安眠药；行业专家是正确的选择
-
-better 编程. pub](https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085) 
+<https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae>  <https://betterprogramming.pub/how-a-single-mistake-wasted-3-years-of-my-data-science-journey-b7ca1e962085>  
 
 > *走之前……*
 

@@ -175,11 +175,7 @@ from itertools import zip_longestfor key, value in zip_longest(keys, values):
 
 值得一提的是，Python 3.10 中发布了一些新特性(参见 PEP-618)
 
-[](https://www.python.org/dev/peps/pep-0618/) [## PEP 618 -为 zip 添加可选的长度检查
-
-### 这个 PEP 建议在内置 zip 中添加一个可选的严格布尔关键字参数。启用时，值错误…
-
-www.python.org](https://www.python.org/dev/peps/pep-0618/) 
+<https://www.python.org/dev/peps/pep-0618/>  
 
 在 PEP-618 中提出并接受了一个名为`strict`的新的`zip`标志，它将强制检查`zip`中可重复项的长度。如果长度不同，会升起一个`ValueError`。
 
@@ -189,11 +185,7 @@ list(zip(range(3), ['fee', 'fi', 'fo', 'fum'], strict=True))Traceback (most rece
 ValueError: zip() argument 2 is longer than argument 1
 ```
 
- [## 内置函数- Python 3.9.1 文档
-
-### Python 解释器内置了许多始终可用的函数和类型。它们被列出…
-
-docs.python.org](https://docs.python.org/3.10/library/functions.html#zip) 
+  
 
 # 摘要
 
@@ -203,10 +195,6 @@ docs.python.org](https://docs.python.org/3.10/library/functions.html#zip)
 
 在本文中，我介绍了“zip ”,它是 Python 中最具 Python 风格和最有用的工具之一。它的基本用法非常有用，我们可以看到它在许多 Python 项目中被广泛使用。此外，拆包技术也经常和`zip`一起使用。最后，我展示了 Python zip 的一个约束，可以称之为“桶效应”，但它可以在 Python 内置库中解决。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

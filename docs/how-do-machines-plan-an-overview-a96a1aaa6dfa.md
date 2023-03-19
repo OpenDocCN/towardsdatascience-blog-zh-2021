@@ -40,11 +40,7 @@
 
 鉴于本文篇幅有限，我将转到更一般的规划公式，即马尔可夫决策过程。然而，图搜索算法对于解决复杂的现实世界问题非常重要，例如机器人和最短路径搜索。如果你想了解更多关于 Dijkstra 的算法和 A*的知识，我推荐这篇有着惊人交互图形的文章。
 
-[](https://www.redblobgames.com/pathfinding/a-star/introduction.html) [## 红色斑点游戏:A*简介
-
-### 创建于 2014 年 5 月 26 日，更新于 2014 年 8 月，2016 年 2 月，2016 年 6 月，2020 年 6 月在游戏中，我们经常想从一个…
-
-www.redblobgames.com](https://www.redblobgames.com/pathfinding/a-star/introduction.html) 
+<https://www.redblobgames.com/pathfinding/a-star/introduction.html>  
 
 # 如何描述一个更一般的规划问题
 
@@ -142,11 +138,7 @@ www.redblobgames.com](https://www.redblobgames.com/pathfinding/a-star/introducti
 
 ## 相关文章
 
-[](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) [## 机器人如何制作地图 SLAM(同步定位和绘图)简介
-
-### 对于非机器人专家来说，里程计、定位、地图绘制、特征匹配和闭环是一幅大图
-
-medium.com](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) 
+<https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe>  
 
 ## 参考
 

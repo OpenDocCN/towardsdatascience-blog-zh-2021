@@ -16,21 +16,13 @@
 
 为了不再浪费时间，我将从脚本本身开始。它分为几个步骤，但如果你愿意，你可以直接跳到下面 GitHub 链接中给出的脚本代码。
 
-[](https://github.com/RahhulDd/FbxToNpyConverter/blob/main/fbx2npy.py) [## RahhulDd/FbxToNpyConverter
-
-### 要处理和转换的脚本。fbx 文件格式为。npy 文件格式仅用于人体运动分析…
-
-github.com](https://github.com/RahhulDd/FbxToNpyConverter/blob/main/fbx2npy.py) 
+<https://github.com/RahhulDd/FbxToNpyConverter/blob/main/fbx2npy.py>  
 
 # 数据采集
 
 在进入下一步之前，我建议您下载一个示例 Mixamo。fbx)文件从下面提供的链接。将此文件放入“常规”文件夹。
 
- [## 米夏莫
-
-### 编辑描述
-
-www.mixamo.com](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack&limit=96) 
+  
 
 我还在文件夹中提供了一个样本文件来测试给定的脚本。
 

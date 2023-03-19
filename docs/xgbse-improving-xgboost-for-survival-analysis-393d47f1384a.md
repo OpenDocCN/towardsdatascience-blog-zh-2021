@@ -76,7 +76,7 @@ Vanilla XGBoost 输出对超参数过度敏感的预测，这阻止了它在对�
 
 虽然需要扩展以获得更好的统计属性，但 XGBoost 无疑是一个强大的工具。C-index 结果表明，该模型具有很好的区分性能，可以与最先进的技术相媲美。我们只需要调整我们如何使用它。
 
-除了用于预测任务之外，梯度提升树(gbt)还可以用作输入数据的*特征转换器。集合中的树在区分目标的特征上执行分裂，在它们的结构中编码相关信息。特别地，集合中每棵树的终端节点(叶子)定义了一个非常漂亮的输入数据的[](http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html)****【嵌入】*** 。**
+除了用于预测任务之外，梯度提升树(gbt)还可以用作输入数据的*特征转换器。集合中的树在区分目标的特征上执行分裂，在它们的结构中编码相关信息。特别地，集合中每棵树的终端节点(叶子)定义了一个非常漂亮的输入数据的<http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html>****【嵌入】*** 。**
 
 **![](img/42612746f80eda3b7365ae7216858816.png)**
 

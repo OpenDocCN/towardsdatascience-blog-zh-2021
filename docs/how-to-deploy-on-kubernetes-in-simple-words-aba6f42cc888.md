@@ -14,11 +14,7 @@
 
 > 在本文中，我想分享关于如何使用 Kubernetes 部署容器化 web 应用程序的分步指南(创建、连接、部署和公开)。
 
-[](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) [## 人工智能:非正统的教训:如何获得洞察力和建立创新的解决方案
-
-### 亚马逊网站:人工智能:非正统课程:如何获得洞察力和建立创新的解决方案电子书…
-
-www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) 
+<https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0>  
 
 # 第 0 步—为什么选择 Kubernetes？->可扩展性🔑
 
@@ -34,11 +30,7 @@ www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_h
 
 您必须使用您所使用的云基础设施的控制面板来创建 Kubernetes 集群。我最近和 [OVH 云](https://www.ovhcloud.com/en-ca/)和谷歌云合作过。在这两个集群上创建 Kubernetes 集群的过程很简单，但是有所不同。你应该找到他们自己的指南，在那里他们描述得很透彻。例如，您可以在下面的链接中找到创建集群的 OVH 指南。
 
-[](https://docs.ovh.com/ca/en/kubernetes/creating-a-cluster/) [## 创建集群
-
-### OVHcloud Managed Kubernetes 服务为您提供 Kubernetes 集群，无需安装或操作…
-
-docs.ovh.com](https://docs.ovh.com/ca/en/kubernetes/creating-a-cluster/) 
+<https://docs.ovh.com/ca/en/kubernetes/creating-a-cluster/>  
 
 OVH 是一家法国云计算公司，提供 VPS、专用服务器和其他网络服务。他们是世界上最大的云提供商之一，但不如 GCP 或 AWS 有名。我也不知道他们直到几个月前，但我强烈推荐他们，因为 OVH 的界面是用户友好的，其成本更合理的竞争对手，如 AWS 或 GCP。如果你没有充分的理由使用 AWS 或 GCP，我强烈推荐 OVH 云。
 
@@ -165,8 +157,4 @@ kubectl expose deployment MY-DEPLOYMENT --type=LoadBalancer --name=MY-SERVICE
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我的* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

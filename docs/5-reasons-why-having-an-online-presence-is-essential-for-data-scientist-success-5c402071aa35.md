@@ -14,11 +14,7 @@ Bram Naus 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refer
 
 但是，进入科技行业，尤其是数据科学或编程，并不总是容易的。由于这些领域看起来很有吸引力，数据科学家和程序员的供应在过去十年中迅速增加，同时对可靠和合格的申请人的需求也在增加。由于这种增长，在这些领域找到一份好工作的能力本身就成了一种挑战。
 
-[](/5-communities-to-help-you-find-a-data-science-mentor-22a380a5f853) [## 帮助您找到数据科学导师的 5 个社区
-
-### 获得成功所需的指导和支持
-
-towardsdatascience.com](/5-communities-to-help-you-find-a-data-science-mentor-22a380a5f853) 
+</5-communities-to-help-you-find-a-data-science-mentor-22a380a5f853>  
 
 今天，要想找到一份数据科学或程序员的工作，你需要经历许多几年前不存在的困难和障碍。然而，你可以做的帮助自己建立成功的职业生涯和获得梦想中的工作的关键事情之一是建立一个在线的存在。在线展示只是建立你的品牌并将其公之于众的一种方式。
 
@@ -32,7 +28,7 @@ towardsdatascience.com](/5-communities-to-help-you-find-a-data-science-mentor-22
 
 我从建立和维护在线形象中受益的一件事是，它让我有能力成为社区中积极的一员。它让我结识了来自世界各地的其他程序员和数据科学家，他们分享了我的学习历程，从中学到的东西比我从任何一本书中学到的都多。这也让我能够回馈社区，支持他人的旅程。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -48,11 +44,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 最后，这也与找工作有关，成为社区的一部分可以建立一个观众群。有时我们开始写博客或制作视频来记录我们的学习旅程，而没有想到我们的风格可能会帮助其他人更好地理解这个领域并在他们自己的职业生涯中取得成功。拥有一个听众也能让你承担责任，并激励你永远不要放弃自己。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 # 外卖食品
 
@@ -62,10 +54,6 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 她建议我开始在网上展示我的故事。我把她的建议记在心里，并开始在不同的方向出现。今天，这种存在帮助我在大型会议上举办网络研讨会，担任多个自由职业者的角色，与了不起的人联系，并在一家以前拒绝我的公司工作。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 拥有一个在线的存在是必不可少的，因为我们在这篇文章和其他文章中已经讨论过了，建立一个在线的存在需要耐心、远见和毅力。我的下一篇文章将带你了解如何建立一个稳固的在线形象，这将帮助你创造你梦想中的职业。

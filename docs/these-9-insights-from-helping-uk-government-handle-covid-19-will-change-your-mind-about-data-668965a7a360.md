@@ -179,8 +179,4 @@
 
 > *我们淹没在信息中，同时渴望智慧。从今以后，世界将由合成器来管理，人们能够在正确的时间把正确的信息放在一起，进行批判性的思考，并明智地做出重要的选择(E.O .威尔逊)*
 
-*[](https://ahmarshah.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ahmar Shah 博士(牛津)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)*
+*<https://ahmarshah.medium.com/membership> *

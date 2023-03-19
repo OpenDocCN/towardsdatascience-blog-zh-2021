@@ -48,19 +48,7 @@
 
 请务必查看我以前发表的一些关于性能分析的文章，了解这个重要主题的更多细节。
 
-[](/tensorflow-performance-analysis-314b56dceb59) [## 张量流性能分析
-
-### 如何从您的培训资源中获得最大价值
-
-towardsdatascience.com](/tensorflow-performance-analysis-314b56dceb59) [](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) [## 使用 TensorFlow 数据服务、NVIDIA DALI 和其他解决方案克服数据预处理瓶颈
-
-### 最大限度地提高培训资源利用率，加速学习，节省资金
-
-towardsdatascience.com](/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851) [](https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/) [## 使用 Amazon SageMaker 识别培训瓶颈和系统资源利用不足…
-
-### 在 AWS re:Invent 2020 上，AWS 发布了 Amazon SageMaker 调试器的评测功能。在本帖中，我们展开…
-
-aws.amazon.com](https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/) 
+</tensorflow-performance-analysis-314b56dceb59>  </overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851>  <https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/>  
 
 # 第 2 章—分布式培训框架
 
@@ -73,21 +61,13 @@ aws.amazon.com](https://aws.amazon.com/blogs/machine-learning/identifying-traini
 
 很难指出两种选择中的任何一种比另一种更好。在许多情况下，框架的性能依赖于模型架构、模型超参数和分布式训练实现的其他细节。我强烈建议你熟悉这两者。首先，有选择总是好的。更重要的是，您可能会发现您的一些模型在一个框架中比在另一个框架中伸缩得更好。此外，您可能会遇到其中一个选项不可用的情况。例如，直到 TensorFlow 版本，内置的分布式训练代码中存在一个错误，该错误禁止用户在 *renorm* 标志设置为 *False* 的情况下使用[批处理规范化层](https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization?version=nightly)。另一方面，如果您选择在 TPU 核心上运行您的培训，您别无选择，只能使用内置的 TensorFlow [TPU 分发策略](https://www.tensorflow.org/api_docs/python/tf/distribute/TPUStrategy?version=nightly)。最后，您可能会发现一些理想的特性只在其中一个框架上实现。例如，在最近的一篇[帖子](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700)中，我对 [Elastic Horovod](https://horovod.readthedocs.io/en/stable/elastic_include.html) 进行了扩展，这是 Horovod 的一个引人注目的功能，即使在一些工人被打断的情况下，也能实现连续培训。
 
-[](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700) [## 使用 Elastic Horovod 和 Amazon EC2 Spot 实例进行经济高效的分布式培训
-
-### 根据员工系统的可用性动态调整您的培训课程
-
-towardsdatascience.com](/cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700) 
+</cost-efficient-distributed-training-with-elastic-horovod-and-amazon-ec2-spot-instances-599ea35c0700>  
 
 另外一个值得一提的框架是亚马逊 SageMaker 的分布式数据并行库。正如我们上面提到的，并将在下一节详细讨论的，分布式训练的主要挑战之一是如何减少梯度共享的开销。SageMaker 库引入了一种新的算法，该算法利用特定的亚马逊云基础设施内部来优化梯度数据通信。更多细节请看[最近发布的这个功能的](https://aws.amazon.com/blogs/aws/managed-data-parallelism-in-amazon-sagemaker-simplifies-training-on-large-datasets/)。
 
 2022 年 8 月 30 日更新——查看[这篇](https://neptune.ai/blog/distributed-training-frameworks-and-tools)博客文章，了解关于额外分布式培训框架的精彩调查。
 
-[](https://neptune.ai/blog/distributed-training-frameworks-and-tools) [## 分布式培训:框架和工具- neptune.ai
-
-### 深度学习的最新发展已经带来了一些令人着迷的最新成果，特别是在以下领域……
-
-海王星. ai](https://neptune.ai/blog/distributed-training-frameworks-and-tools) 
+<https://neptune.ai/blog/distributed-training-frameworks-and-tools>  
 
 # 第 3 章—梯度共享策略
 
@@ -103,11 +83,7 @@ towardsdatascience.com](/cost-efficient-distributed-training-with-elastic-horovo
 
 在基于**对等**的解决方案中，每个工作者交流其结果梯度，并从其他工作者收集梯度更新。有多种 *AllReduce* 算法用于收集和累积梯度。一个简单的 AllReduce 算法的例子是，每个工人把它的梯度发送给其他工人。这导致总数据有效载荷为 *k*(k-1)*G* ，其中 *k* 是工人的数量，而 *G* 是所有梯度的大小。然而，还有许多更好的算法。最常见的是*环-所有减少*，其中多个消息在单向环中的工人之间传递。使用这种技术，总的数据有效载荷可以减少到分布在 *2*(k-1)* 通信跳*上的 *2*(k-1)*G* 。*看看这个帖子，详细描述了 *Ring-AllReduce* 的工作原理:
 
-[](/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da) [## 面向分布式深度学习的环形全递归视觉直觉
-
-### 最近，我发现自己正在处理一个非常大的数据集，这是一个需要并行学习才能实现的数据集…
-
-towardsdatascience.com](/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da) 
+</visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da>  
 
 通常， *AllReduce* 算法将被设计为最大化底层硬件的利用率。例如，参见 TensorFlow 的[HierarchicalCopyAllReduce](https://www.tensorflow.org/api_docs/python/tf/distribute/HierarchicalCopyAllReduce)。
 
@@ -173,11 +149,7 @@ towardsdatascience.com](/visual-intuition-on-ring-allreduce-for-distributed-deep
 
 在最近的一篇文章中，我谈到了一些额外的提高培训效率的发展习惯。这样的习惯在分布式训练环境中变得更加重要。
 
-[](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) [## 提高云 ML 生产力的 6 个开发习惯
-
-### 回归基础:重新思考云计算时代的开发最佳实践
-
-towardsdatascience.com](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) 
+</6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289>  
 
 # 摘要
 

@@ -60,11 +60,7 @@ Bogobogosort 将使用 bogosort 对列表中的前两个元素进行排序，并
 
 请看下面 StackOverflow 答案启发的排序算法。直接忽略讨论的标题，不相关。
 
-[](https://stackoverflow.com/a/6947808) [## 还有比 Bogosort(又名猴子排序)更糟糕的排序算法吗？
-
-### 问关闭。这个问题需要更加专注。它目前不接受回答。想改善这一点…
-
-stackoverflow.com](https://stackoverflow.com/a/6947808) 
+<https://stackoverflow.com/a/6947808>  
 
 > "最终，阿尔法粒子翻转内存芯片中的位应该会导致成功的排序."
 
@@ -80,11 +76,7 @@ stackoverflow.com](https://stackoverflow.com/a/6947808)
 
 啊，一种运行在 O(n)中的高级排序算法，灵感来自非营利社交媒体乳齿象的这条“推特”。
 
-[](https://mastodon.social/@mathew/100958177234287431) [## 马修·✅
-
-### 我想出了一个单程 O(n)排序算法，我称之为斯大林排序。您向下迭代元素列表，检查是否…
-
-乳齿象.社会](https://mastodon.social/@mathew/100958177234287431) 
+<https://mastodon.social/@mathew/100958177234287431>  
 
 > “……任何无序的元素都将被删除……”
 
@@ -147,8 +139,4 @@ stackoverflow.com](https://stackoverflow.com/a/6947808)
 
 *代码？是一系列与数据科学和编程相关的幽默。它们可能对你的日常工作没什么用，但它们可能会让你微笑。* [*定期更新*](https://chandraseta.medium.com/subscribe) *新故事和* [*成为中等会员*](https://chandraseta.medium.com/membership) *阅读无限故事。*
 
-[](https://chandraseta.medium.com/membership) [## 成为媒体成员—里奥纳尔迪·钱德拉塞塔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事
-
-chandraseta.medium.com](https://chandraseta.medium.com/membership)
+<https://chandraseta.medium.com/membership> 

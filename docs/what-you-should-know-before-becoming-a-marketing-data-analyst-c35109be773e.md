@@ -47,16 +47,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb) [## 营销人员应该了解哪些订阅模式
-
-### 数据分析师洞察提高转化率和降低流失率
-
-bettermarketing.pub](https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb) [](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [## 如何成为数据分析师和数据科学家
-
-### 当你可以尝试两个角色时，为什么只选择一个
-
-towardsdatascience.com](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [](/my-experience-as-a-product-data-analyst-3d01748bc6ea) [## 我作为产品数据分析师的经历
-
-### 支持产品如何让我成为更好的数据分析师
-
-towardsdatascience.com](/my-experience-as-a-product-data-analyst-3d01748bc6ea)
+<https://bettermarketing.pub/what-marketers-should-know-about-subscription-models-7643bbede5eb>  </how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e>  </my-experience-as-a-product-data-analyst-3d01748bc6ea> 

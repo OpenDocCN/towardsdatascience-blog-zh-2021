@@ -165,18 +165,10 @@ df.sort_values(ascending=True, by=['Number'], inplace=True)
 
 就是这样！这是我们在工作中可能遇到的 5 个常见任务，可以用 Python 简化。如果你是一个 Excel 用户，想使用 Python/Pandas，请查看下面的指南。
 
-[](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) [## 从 Excel 迁移到 Python 的完整而简单的指南
-
-### 用熊猫和 Numpy 永远抛弃 Excel。
-
-towardsdatascience.com](/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039) 
+</a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039>  
 
 [**与 3k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 阅读弗兰克·安德拉德(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+<https://frank-andrade.medium.com/membership> 

@@ -125,8 +125,4 @@ photo by[**cotton bro**](https://www.pexels.com/@cottonbro?utm_content=attributi
 
 *像这样？原来是贴在我的* [*简讯* ***民主化自动化***](https://democraticrobots.substack.com/) *上的。订阅❤.*
 
-[](https://robotic.substack.com/) [## 自动化大众化
-
-### 一个关于机器人和人工智能的博客，让它们对每个人都有益，以及即将到来的自动化浪潮…
-
-robotic.substack.com](https://robotic.substack.com/)
+<https://robotic.substack.com/> 

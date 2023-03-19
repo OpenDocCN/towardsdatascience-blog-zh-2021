@@ -15,11 +15,7 @@
 
 这两篇文章在某些参数上比较了 datatable 和 pandas 库的性能。此外，他们还解释了如何使用 datatable 进行数据争论和管理，以及与同一领域的其他库相比，他们的性能如何。
 
-[](https://h2oai.github.io/db-benchmark/) [## 类似数据库的运营基准
-
-### 该页面旨在对开源数据科学中流行的各种类似数据库的工具进行基准测试。它经常与…发生冲突
-
-h2oai.github.io](https://h2oai.github.io/db-benchmark/) 
+<https://h2oai.github.io/db-benchmark/>  
 
 然而，本文主要关注那些对在 Kaggle 平台上使用 datatable 感兴趣的人。最近，Kaggle 上的许多比赛都有数据集，这些数据集是不可能单独通过熊猫读取的。我们将看到如何使用 datatable 高效地读取这些大型数据集，然后无缝地将它们转换成其他格式。
 

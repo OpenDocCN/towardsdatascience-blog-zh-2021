@@ -28,7 +28,7 @@ Dlib 是一个应用机器学习和计算机视觉解决方案的库。这个库
 
 安装它需要几个步骤。以下是步骤:
 
-*   首先，安装 CMake。你可以在这里下载软件[](https://cmake.org/download/)**。如果您使用的是 Windows，请先找到 CMake 文件路径。然后，在环境变量中将路径设置为可执行路径。**
+*   首先，安装 CMake。你可以在这里下载软件<https://cmake.org/download/>**。如果您使用的是 Windows，请先找到 CMake 文件路径。然后，在环境变量中将路径设置为可执行路径。**
 *   **然后，安装带有 C++依赖项的 Visual Studio。你可以在这里 下载软件 [**。对于依赖关系，您可以查看下面的截图:**](https://visualstudio.microsoft.com/downloads/)**
 
 **![](img/c03dacabb30814d687acc380dd07f302.png)**

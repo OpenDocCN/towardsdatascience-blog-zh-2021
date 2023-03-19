@@ -10,7 +10,7 @@
 
 昨天(星期一)，我在一家户外黎巴嫩餐馆度过了一个晚上。食物是如此丰盛，但作为一名数据专业人员，我不禁被在入口处发生的事情所困扰…
 
-[](/7-common-gotchas-of-data-projects-62e8646552f2) [## 数据项目的 7 个常见问题
+</7-common-gotchas-of-data-projects-62e8646552f2> [## 数据项目的 7 个常见问题
 
 towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2) 
 
@@ -64,11 +64,7 @@ towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2)
 
 也就是说，我们可以简单地使用所有可用的信息——包括不太有价值的特性。这将增加数据的维度，但通过利用良好的正则化技术，我们的模型将能够确定哪些要素有价值，哪些没有价值。
 
-[](https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization) [## 与 L1 或 L2 正则化的战斗过度拟合-哪一个更好？- neptune.ai
-
-### 机器学习模型的不良性能要么来自过度拟合，要么来自欠拟合，我们将仔细观察…
-
-海王星. ai](https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization) 
+<https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization>  
 
 ## 资金偏好
 
@@ -140,16 +136,4 @@ towardsdatascience.com](/7-common-gotchas-of-data-projects-62e8646552f2)
 
 ## 相关文章
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) [](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7) [## 提示和技巧:为 NLP 任务增加数据
-
-### 扩大 NLP 数据集的方法
-
-towardsdatascience.com](/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7) [](/4-data-related-books-ill-be-reading-in-april-efd06b367e35) [## 我将在四月份阅读的 4 本与数据相关的书
-
-### 一定要看看这些书
-
-towardsdatascience.com](/4-data-related-books-ill-be-reading-in-april-efd06b367e35)
+</always-remember-data-comes-before-the-science-681389992082>  </tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7>  </4-data-related-books-ill-be-reading-in-april-efd06b367e35> 

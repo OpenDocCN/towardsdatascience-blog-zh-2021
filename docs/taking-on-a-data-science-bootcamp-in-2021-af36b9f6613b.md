@@ -62,18 +62,6 @@
 
 最后，我想分享一些有类似训练营经历的人的文章:
 
-[](https://medium.com/@jeremiahng23/general-assembly-dsi-data-science-immersive-sg-experience-and-advice-660fdd25cafa) [## 大会 DSI(数据科学沉浸式)SG 经验和建议
-
-### 声明:下面的帖子是我个人对我的经历的分享和看法。内容和事实是…
-
-medium.com](https://medium.com/@jeremiahng23/general-assembly-dsi-data-science-immersive-sg-experience-and-advice-660fdd25cafa) [](/how-to-make-the-most-of-your-first-data-science-bootcamp-8c12653a7a48) [## 如何充分利用您的第一次数据科学训练营
-
-### 这一切都归结于准备、时间管理和对唯一重要目标的不懈关注——成为一份工作…
-
-towardsdatascience.com](/how-to-make-the-most-of-your-first-data-science-bootcamp-8c12653a7a48) [](/things-i-wish-i-knew-before-joining-metis-singapore-data-science-bootcamp-8768b9e9fda2) [## 我希望在加入 Metis 新加坡数据科学训练营之前就知道的事情
-
-### 这是我作为一个没有编码或统计的人在新加坡 Metis 数据科学训练营的亲身经历…
-
-towardsdatascience.com](/things-i-wish-i-knew-before-joining-metis-singapore-data-science-bootcamp-8768b9e9fda2) 
+<https://medium.com/@jeremiahng23/general-assembly-dsi-data-science-immersive-sg-experience-and-advice-660fdd25cafa>  </how-to-make-the-most-of-your-first-data-science-bootcamp-8c12653a7a48>  </things-i-wish-i-knew-before-joining-metis-singapore-data-science-bootcamp-8768b9e9fda2>  
 
 我希望你喜欢这篇文章！如果您有任何反馈或想法，请随时通过 [LinkedIn](https://www.linkedin.com/in/benjamindornel/) 或 [Twitter](https://twitter.com/benjamindornel) 与我联系。

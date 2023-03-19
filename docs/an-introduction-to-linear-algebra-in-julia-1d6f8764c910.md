@@ -102,11 +102,7 @@ zeros((5, 10))
 
 单位矩阵和零可能是两种最常见的生成器，但是您可以随意查看完整的文档来了解其他各种生成器:
 
- [## 多维数组
-
-### 与大多数技术计算语言一样，Julia 提供了一流的数组实现。大多数技术计算…
-
-docs.julialang.org](https://docs.julialang.org/en/v1/manual/arrays/#Construction-and-Initialization) 
+  
 
 # 操作
 
@@ -156,11 +152,7 @@ cumsum(multi_D, dims = 5)
 
 当然，还有很多这方面的功能可以从 Julia 的基础上使用。此外，LinearAlgebra.jl 包中还有更多可以使用的内容。但是，浏览它们可能需要相当长的时间，所以我将提供文档链接:
 
- [## 数组
-
-### Array { T }(unde，dims) Array{T，N }(unde，dims)构造一个包含 T 类型元素的未初始化的 N 维。
-
-docs.julialang.org](https://docs.julialang.org/en/v1/base/arrays/#Array-functions) 
+  
 
 [https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/)
 

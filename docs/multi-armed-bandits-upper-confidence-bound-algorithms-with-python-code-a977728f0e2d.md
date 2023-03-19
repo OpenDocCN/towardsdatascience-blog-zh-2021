@@ -18,15 +18,7 @@
 
 在我们的故事中，我们使用餐馆而不是强盗，我们的回报是食物的满足感！:)
 
-[](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab) [## 多臂强盗:用 Python 代码实现的乐观初始值算法
-
-### 一切都很好，除非被证明不是这样。了解乐观初始值算法。提供 Python 代码…
-
-medium.com](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab) 
+<https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  <https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab>  
 
 你和你的朋友已经有一段时间没有使用 bandit 算法来优化你的电影之夜了。到目前为止，你一直在使用 [Epsilon-Greedy](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) (与𝛆=1/#actions 一起)来帮助寻找最好的餐馆，而你的朋友一直固执地使用[乐观初始值](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab)算法来挑选电影导演(即使你的模拟已经表明它可能不适合你的用例)。
 
@@ -274,30 +266,10 @@ normal_bandits = [Bandit(m=m, sigma=1) for m in means]
 
 [1] Auer，p .，Cesa-Bianchi，n .和 Fischer，p .，多臂 Bandit 问题的有限时间分析。*机器学习* **47、**235–256(2002)。[https://doi.org/10.1023/A:1013689704352](https://doi.org/10.1023/A:1013689704352)
 
-[](https://eminik355.medium.com/subscribe) [## 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。
-
-### 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-eminik355.medium.com](https://eminik355.medium.com/subscribe) 
+<https://eminik355.medium.com/subscribe>  
 
 [**成为 Medium**](https://eminik355.medium.com/membership)**会员，获得全部故事权限。你的会员费直接支持你读的作家。**
 
 **更多来自同一作者。**
 
-[](/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df) [## 多武装匪徒:汤普森采样算法
-
-### 了解带 Python 代码的 Thompson 采样(贝叶斯)bandit 算法。
-
-towardsdatascience.com](/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df) [](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [## 使用蒙特卡罗模拟计算𝛑
-
-### 用 Python 代码介绍蒙特卡罗模拟。
-
-medium.com](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab) [## 多臂强盗:用 Python 代码实现的乐观初始值算法
-
-### 一切都很好，除非被证明不是这样。了解乐观初始值算法。提供 Python 代码…
-
-medium.com](https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab)
+</multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df>  <https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5>  <https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  <https://medium.com/swlh/multi-armed-bandits-optimistic-initial-values-algorithm-with-python-code-3970e611b5ab> 

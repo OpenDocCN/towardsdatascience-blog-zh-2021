@@ -251,16 +251,4 @@ enriched_m <- rbind(m, Total=colSums(m))
 
 # 相关文章
 
-[](/r-for-beginners-part-1-data-structures-2b49685ea2ed) [## 初学者 r—第 1 部分:数据结构
-
-### 一篇以非常简单的方式学习 R 语言的交互式文章。
-
-towardsdatascience.com](/r-for-beginners-part-1-data-structures-2b49685ea2ed) [](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) [## 描述性分析的简明介绍
-
-### 关于集中趋势、频率和分散指数的一些基本概念。
-
-medium.com](https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d)
+</r-for-beginners-part-1-data-structures-2b49685ea2ed>  <https://medium.com/analytics-vidhya/a-gentle-introduction-to-descriptive-analytics-8b4e8e1ad238>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d> 

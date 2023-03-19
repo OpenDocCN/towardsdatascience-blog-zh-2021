@@ -134,11 +134,7 @@ Scikit-Learn 附带了`GridSearchCV`类，它让超参数调优变得非常有�
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 ## [加入我的私人邮件列表，获取更多有用的见解。](https://mailchi.mp/46a3d2989d9b/bdssubscribe)
 
@@ -150,4 +146,4 @@ medium.com](https://medium.com/@radecicdario/membership)
 *   [ROC 和 AUC——如何评估机器学习模型](/roc-and-auc-how-to-evaluate-machine-learning-models-in-no-time-fb2304c83a7f)
 *   [精确召回曲线:如何轻松评估机器学习模型](/precision-recall-curves-how-to-easily-evaluate-machine-learning-models-in-no-time-435b3dd8939b)
 
-*原载于 2021 年 1 月 21 日 https://betterdatascience.com*[](https://betterdatascience.com/3-ways-to-tune-hyperparameters/)**。**
+*原载于 2021 年 1 月 21 日 https://betterdatascience.com*<https://betterdatascience.com/3-ways-to-tune-hyperparameters/>**。**

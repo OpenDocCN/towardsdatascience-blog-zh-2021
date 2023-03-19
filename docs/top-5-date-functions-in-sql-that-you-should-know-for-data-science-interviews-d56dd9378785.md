@@ -214,19 +214,11 @@ WHERE EXTRACT(MONTH FROM date_shipped) = EXTRACT(MONTH FROM CURRENT_DATE())
 
 **不确定接下来该读什么？我为你挑选了另一篇文章:**
 
-[](/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437) [## 数据科学面试中你应该知道的五大 SQL 窗口函数
-
-### 关注数据科学家的重要概念。
-
-towardsdatascience.com](/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437) 
+</top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437>  
 
 **又一个！**
 
-[](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+</10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 # 特伦斯·申
 

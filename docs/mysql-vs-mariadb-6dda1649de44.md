@@ -62,48 +62,8 @@ MariaDB 和 MySQL 都将多主集群与提供连续可用性的数据库代理�
 
 看看我最近的一些文章:
 
-[](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) [## 将近五年后，我离职了
-
-### 回想我在那里的时光，以及为什么我要寻找一个新的机会
-
-miketechgame.medium.com](https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4) [](/three-popular-machine-learning-methods-7cb2dcb40bd0) [## 三种流行的机器学习方法
-
-### 了解基本的机器学习类型
-
-towardsdatascience.com](/three-popular-machine-learning-methods-7cb2dcb40bd0) [](https://python.plainenglish.io/what-is-typer-9a9220d80306) [## Typer 简介:用于创建 CLI 的 Python 库
-
-### 探索“CLIs 的 FastAPI”
-
-python .平原英语. io](https://python.plainenglish.io/what-is-typer-9a9220d80306) [](/tensorflow-vs-keras-d51f2d68fdfc) [## 张量流与 Keras:比较
-
-### 查看两个机器学习库的具体细节
-
-towardsdatascience.com](/tensorflow-vs-keras-d51f2d68fdfc) [](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) [## 用 Python 发送错误电子邮件和文本消息
-
-### 杜绝错误的电子邮件龙卷风
-
-python .平原英语. io](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) 
+<https://miketechgame.medium.com/after-nearly-five-years-i-left-my-job-a2e76f0dc0b4>  </three-popular-machine-learning-methods-7cb2dcb40bd0>  <https://python.plainenglish.io/what-is-typer-9a9220d80306>  </tensorflow-vs-keras-d51f2d68fdfc>  <https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae>  
 
 参考资料:
 
- [## 关于 MariaDB 软件
-
-### MariaDB 是一个开源、多线程、关系数据库管理系统，在 GNU 公共许可证下发布…
-
-mariadb.com](https://mariadb.com/kb/en/about-mariadb-software/) [](https://mariadb.com/database-topics/mariadb-vs-mysql/) [## MariaDB 与 MySQL -开源关系数据库| MariaDB
-
-### MariaDB 和 MySQL 是世界上部署最广泛的两种开源关系数据库，虽然它们…
-
-mariadb.com](https://mariadb.com/database-topics/mariadb-vs-mysql/) [](https://www.guru99.com/mariadb-vs-mysql.html) [## Maria db vs MySQL:Maria db 和 MySQL 有什么区别
-
-### MariaDB 是 MySQL 数据库管理系统的一个分支。RDBMS 提供数据处理能力，适用于小型…
-
-www.guru99.com](https://www.guru99.com/mariadb-vs-mysql.html) [](https://hackr.io/blog/mariadb-vs-mysql) [## MariaDB vs MySQL: [2021]你需要知道的一切
-
-### MySQL 是世界上使用最广泛的数据库之一。它是免费的，也是开源的。开发于…
-
-hackr.io](https://hackr.io/blog/mariadb-vs-mysql) [](https://blog.panoply.io/a-comparative-vmariadb-vs-mysql) [## MariaDB 与 MySQL:性能、许可和支持
-
-### 应该用 MySQL 还是 MariaDB？这可能是你现在心中的疑问。所以在这篇文章中，你会学到…
-
-blog.panoply.io](https://blog.panoply.io/a-comparative-vmariadb-vs-mysql)
+  <https://mariadb.com/database-topics/mariadb-vs-mysql/>  <https://www.guru99.com/mariadb-vs-mysql.html>  <https://hackr.io/blog/mariadb-vs-mysql>  <https://blog.panoply.io/a-comparative-vmariadb-vs-mysql> 

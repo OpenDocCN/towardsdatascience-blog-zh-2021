@@ -28,21 +28,13 @@ CLIP 是一个在大量(4 亿)图像和文本对上训练的神经网络。模�
 
 一个简化的实现在
 
-[](/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) [## OpenAI 剪辑模型的简单实现:教程
-
-### PyTorch 中剪辑模型的简单实现教程。
-
-towardsdatascience.com](/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) 
+</simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2>  
 
 在 GauGAN 中，图像的内容也可以用一句话来描述，但是除此之外，图像的附加属性，例如图像的风格可以由另一个图像来定义，或者可以使用绘图和分割来影响图像。
 
 有关 GauGAN 2 的更多信息，请访问:
 
-[](/have-you-ever-heard-of-nvidias-ai-gaugan2-e08a12c8c6b9) [## 你听说过英伟达的 AI GauGAN2 吗？
-
-### 将图画和文字转换成照片/照片级图像的人工智能
-
-towardsdatascience.com](/have-you-ever-heard-of-nvidias-ai-gaugan2-e08a12c8c6b9) ![](img/85bed1283668413715e2a46325bd8a38.png)
+</have-you-ever-heard-of-nvidias-ai-gaugan2-e08a12c8c6b9>  ![](img/85bed1283668413715e2a46325bd8a38.png)
 
 截图来自 GauGAN2 /图片作者
 

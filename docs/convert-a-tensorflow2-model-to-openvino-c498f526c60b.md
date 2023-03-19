@@ -14,11 +14,7 @@
 
 英特尔推出了 openVINO，帮助将模型(主要与计算机视觉相关)部署到任何英特尔设备，无论它们是 CPU、GPU、FPGAs 还是带有无数芯片的神经计算棒。
 
-[](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) [## 英特尔发布 OpenVINO 工具包
-
-### 在跨英特尔硬件的应用中模拟人类视觉，并扩展工作负载和最大化性能。
-
-software.intel.com](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) 
+<https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html>  
 
 这项技术的一个常见用途是使用 openVINO 进行**快速**推理(即从网络摄像头预测视频中的实时对象)。一些模型需要一个强大的硬件来训练，但是一个更小更便宜的硬件来执行推理就足够了。例如，你可以使用一个**复杂的**预训练模型，然后在 [**轻型**硬件上运行它，就像一个 RaspberryPi](/a-live-ai-web-server-with-intel-ncs-and-a-raspberrypi-9831dce859e6) 。
 
@@ -70,11 +66,7 @@ python3 openvino/model-optimizer/mo_tf.py --saved_model_dir model/ --input_shape
 
 以下笔记本中提供了此转换步骤的示例:
 
-[](https://colab.research.google.com/drive/1wiFilpyXv947kLOqFJh_oqEp2224y8IL?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1wiFilpyXv947kLOqFJh_oqEp2224y8IL?usp=sharing) 
+<https://colab.research.google.com/drive/1wiFilpyXv947kLOqFJh_oqEp2224y8IL?usp=sharing>  
 
 # 执行模型
 

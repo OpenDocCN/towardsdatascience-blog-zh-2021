@@ -89,12 +89,4 @@ Gwern 认为，提示可以更好地理解为一种新的编程范式:
 
 **推荐阅读**
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
-
-towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) [](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [## GPT 4 号将从 GPT 3 号改进的 4 件事
-
-towardsdatascience.com](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) [## 人工智能和机器人技术将不可避免地融合
-
-### AGI 将有一个身体，并将生活在这个世界上。
-
-towardsdatascience.com](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02)
+</gpt-3-a-complete-overview-190232eb25fd>  </artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02> 

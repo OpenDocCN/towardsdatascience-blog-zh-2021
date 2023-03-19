@@ -16,11 +16,7 @@
 
 这不仅适用于一般领域，也适用于它的所有分支。也许该领域最著名的分支是机器学习。现在，机器学习在我们的生活中无处不在，在我们的电脑、手机甚至厨房电器中。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 但就像数据科学一样，机器学习这个术语是许多算法和技术的保护伞，所以你如何向你未来的雇主表明，当你说“我是机器学习专家”时，你实际上是认真的？
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 这个短期计划中的每个课程都有一个您需要完成它们的固定天数，并且整个计划课程需要在注册该计划的 36 个月内完成。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # №2:斯坦福大学机器学习证书
 
@@ -56,11 +48,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 本课程还将教您如何使用 Jupyter 笔记本电脑和 IBM Watson 来构建和开发您自己的项目，以便在完成课程后添加到您的投资组合中。
 
-[](/5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f) [## 每个数据科学家都应该知道的 5 种机器学习偏差
-
-### 要修正你的偏见，你需要知道它为什么会发生。
-
-towardsdatascience.com](/5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f) 
+</5-types-of-machine-learning-bias-every-data-science-should-know-efab28041d3f>  
 
 # №4:哈佛的机器学习证书
 
@@ -78,11 +66,7 @@ towardsdatascience.com](/5-types-of-machine-learning-bias-every-data-science-sho
 
 虽然这个证书没有附带一门你必须参加的课程来获得证书，但谷歌仍然提供了[材料](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)，你可以用它来准备考试，以及谷歌专家提供的网络研讨会来帮助你通过考试，并充分利用提供的材料。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # №6: AWS 认证机器学习
 
@@ -98,11 +82,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 那么，你如何向雇主证明你的能力呢？虽然在你的投资组合中有多样化的、强有力的项目能充分说明你的能力，但拥有一个顶级大学或工业公司的证书可能是你投资组合中引导你获得工作的一个方面。
 
-[](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) [## 数据科学行话 101:作为数据科学家你需要知道的 10 个术语
-
-### 理解基础数据科学术语的指南
-
-towardsdatascience.com](/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf) 
+</data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf>  
 
 在本文中，我向您展示了 6 种证书，它们旨在测试一个人处理和找到最复杂的机器学习问题的解决方案的能力。它们证明你知道如何使用不同的算法来解决不同的问题，并为任何给定的问题确定最合适的算法。
 

@@ -43,19 +43,11 @@
 
 我之前在这篇文章中写过关于每日活跃用户的内容:
 
-[](/retention-and-daily-active-users-explained-79c5dab1bf84) [## 留存和日活跃用户解释。
-
-### 针对 Firebase 用户、机器学习爱好者和营销人员的完整 Data Studio 指南和 BigQuery 教程。所有…
-
-towardsdatascience.com](/retention-and-daily-active-users-explained-79c5dab1bf84) 
+</retention-and-daily-active-users-explained-79c5dab1bf84>  
 
 这就是 **Firebase** 记录用户的方式。默认情况下，您将拥有 user_pseudo_id，可以像这样启用 user_id:
 
-[](https://firebase.google.com/docs/analytics/userid) [## 设置用户 ID | Firebase
-
-### Google Analytics 有一个 setUserID 调用，它允许你为使用你的应用的个人存储一个用户 ID。这通电话…
-
-firebase.google.com](https://firebase.google.com/docs/analytics/userid) 
+<https://firebase.google.com/docs/analytics/userid>  
 
 活跃用户通常被报道为**月活跃用户(MAU)** ，**周活跃用户(WAU)** ，以及**日活跃用户(DAU)** 。让我们用一个可视化的例子来进一步说明活跃用户:
 
@@ -232,18 +224,6 @@ group by 1
 
 ## *推荐阅读:*
 
-*[](https://medium.com/build-the-right-thing/key-app-metrics-with-bigquery-part-1-dau-mau-9eac7cbdbe04) [## BigQuery 的关键应用指标第 1 部分:DAU/MAU
-
-### 这篇文章是一系列文章的第一部分，灵感来自于 a16z 播客剧集指标和保持与参与的心态。
-
-medium.com](https://medium.com/build-the-right-thing/key-app-metrics-with-bigquery-part-1-dau-mau-9eac7cbdbe04) [](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators) [## 标准 SQL | BigQuery 中的表达式、函数和运算符
-
-### 无论您的企业是刚刚踏上数字化转型之旅，还是已经走上数字化转型之路，谷歌云的解决方案…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators) [](https://support.google.com/datastudio/answer/6283323?hl=en) [## 欢迎来到数据工作室！
-
-### 通过高度可配置的图表和表格可视化您的数据。轻松连接到各种数据源。分享…
-
-support.google.com](https://support.google.com/datastudio/answer/6283323?hl=en) 
+*<https://medium.com/build-the-right-thing/key-app-metrics-with-bigquery-part-1-dau-mau-9eac7cbdbe04>  <https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators>  <https://support.google.com/datastudio/answer/6283323?hl=en>  
 
 [https://help . amplitude . com/HC/en-us/articles/115003135607-Tracking-Unique-Users](https://help.amplitude.com/hc/en-us/articles/115003135607-Tracking-Unique-Users)*

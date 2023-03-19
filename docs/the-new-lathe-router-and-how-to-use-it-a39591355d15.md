@@ -181,16 +181,4 @@ plt.show()
 
 在我看来，这种类型肯定会派上用场的！我认为自动化管理数据和预测建模的整个过程的概念非常棒！我想添加的一个非常重要的特性是能够只传递一条必要的数据，并且仍然将它路由到适当的车床对象。然而，由于路由器概念的抽象，我真的认为这几乎是不可能的。然而，如果可能的话，我可以保证我会在即将发布的车床姜饼之前实现它。如果你想了解我在本文中使用的三个软件包(车床、Hone、DataFrames)中的任何一个，我也会在下面留下它们的 Github 链接。非常感谢您阅读我的文章，我希望您和我一样对此感兴趣！
 
-[](https://github.com/ChifiSource/Lathe.jl) [## ChifiSource/Lathe.jl
-
-### Lathe 为 Julia 语言带来了完全不同的方法论。创建类型是为了遵守…
-
-github.com](https://github.com/ChifiSource/Lathe.jl) [](https://github.com/JuliaData/DataFrames.jl) [## JuliaData/DataFrames.jl
-
-### 在 Julia 中处理表格数据的工具。安装:在朱莉娅 REPL，使用 PkgPkg.add("DataFrames")…
-
-github.com](https://github.com/JuliaData/DataFrames.jl) [](https://github.com/ChifiSource/Hone.jl) [## ChifiSource/Hone.jl
-
-### Julia - ChifiSource/Hone.jl 的面向对象图形模块库
-
-github.com](https://github.com/ChifiSource/Hone.jl)
+<https://github.com/ChifiSource/Lathe.jl>  <https://github.com/JuliaData/DataFrames.jl>  <https://github.com/ChifiSource/Hone.jl> 

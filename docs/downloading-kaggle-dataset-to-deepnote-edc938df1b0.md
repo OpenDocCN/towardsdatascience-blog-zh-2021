@@ -45,7 +45,7 @@ Gif 来自 Giphy.com
 
 如果你还没有一个 Deepnote 帐户，你可以在这里注册。
 
-*   您已经将 bash 脚本存储库链接到您的 Deepnote 项目环境。**这里是**[](https://docs.deepnote.com/integrations/github)****文档，用于将存储库链接到您的项目。**一旦它被链接，您会注意到存储库文件夹如下所示。**
+*   您已经将 bash 脚本存储库链接到您的 Deepnote 项目环境。**这里是**<https://docs.deepnote.com/integrations/github>****文档，用于将存储库链接到您的项目。**一旦它被链接，您会注意到存储库文件夹如下所示。**
 
 **![](img/c5bed53004654dc7a9dd7954a8fe2b17.png)**
 

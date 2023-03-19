@@ -100,16 +100,4 @@ CTR 与观测 CTR 的参考分布。由作者生成。
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一篇简短的介绍为什么我们可以拒绝假说，但不能接受它们的入门书，有例子和图像。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d) [](/data-measurement-levels-dfa9a4564176) [## 数据测量级别
-
-### 统计学家对变量类型、它们的意义以及对机器学习的影响的观点。
-
-towardsdatascience.com](/data-measurement-levels-dfa9a4564176) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571)
+</the-hypothesis-testers-guide-75f7db2e4d0d>  </data-measurement-levels-dfa9a4564176>  </monte-carlo-dropout-7fd52f8b6571> 

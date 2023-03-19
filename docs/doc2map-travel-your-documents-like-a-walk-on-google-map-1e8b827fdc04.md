@@ -26,7 +26,7 @@
 –[精度 VS 信息困境](#a998)
 –
 
-> *这是一个关于 Doc2Map 的创建和工作的故事——如果你只是想使用 Doc2Map* 的话，这里有一个快速教程[](https://medium.com/@louisgeisler3/doc2map-the-best-topic-visualization-library-tutorial-82b603d1d357)
+> *这是一个关于 Doc2Map 的创建和工作的故事——如果你只是想使用 Doc2Map* 的话，这里有一个快速教程<https://medium.com/@louisgeisler3/doc2map-the-best-topic-visualization-library-tutorial-82b603d1d357>
 
 # *第一份工作的旅程*
 

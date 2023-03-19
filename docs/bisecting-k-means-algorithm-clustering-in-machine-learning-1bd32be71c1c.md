@@ -24,7 +24,7 @@ B isecting K-means 聚类技术是对常规 K-means 算法的一点修改，其�
 
 ## 对 K-Means 的改进
 
-与常规 K-Means 不同，在常规 K-Means 中，我们在每一步计算每个数据点和质心之间的距离，直到满足收敛标准，在这里，我们只做一次*(第一步)*，之后，我们只使用特定聚类中的**数据点来计算距离**和进一步细分，使其比常规 K-Means 更有效。它还可以**识别任何形状和大小的簇**，不像 **K-Means 假设的是球形簇。** *我还发现了一篇有趣的研究文章，比较了 K-Means 和二分法 K-Means 在分析网络日志数据时的性能——在这里阅读*[](https://ijeter.everscience.org/Manuscripts/Volume-4/Issue-8/Vol-4-issue-8-M-23.pdf)**。**
+与常规 K-Means 不同，在常规 K-Means 中，我们在每一步计算每个数据点和质心之间的距离，直到满足收敛标准，在这里，我们只做一次*(第一步)*，之后，我们只使用特定聚类中的**数据点来计算距离**和进一步细分，使其比常规 K-Means 更有效。它还可以**识别任何形状和大小的簇**，不像 **K-Means 假设的是球形簇。** *我还发现了一篇有趣的研究文章，比较了 K-Means 和二分法 K-Means 在分析网络日志数据时的性能——在这里阅读*<https://ijeter.everscience.org/Manuscripts/Volume-4/Issue-8/Vol-4-issue-8-M-23.pdf>**。**
 
 ## *限制*
 

@@ -12,11 +12,7 @@
 
 在我之前的文章中，我已经尝试解释过如何在 Google Colab 中运行 R。简而言之，有两种方式，第一种是使用`rpy2`在同一个运行时同时使用 R 和 Python，第二种是原生运行 R。
 
-[](/how-to-use-r-in-google-colab-b6e02d736497) [## 如何在 Google Colab 中使用 R
-
-### 并使用来自您的驱动器和 BigQuery 的数据
-
-towardsdatascience.com](/how-to-use-r-in-google-colab-b6e02d736497) 
+</how-to-use-r-in-google-colab-b6e02d736497>  
 
 但是，运行 R notebook 时有几个限制。
 

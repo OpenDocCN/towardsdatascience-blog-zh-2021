@@ -110,11 +110,7 @@ df1.head()
 
 你可以在下面提到的文章中读到更多关于组块的内容:
 
-[](/loading-large-datasets-in-pandas-11bdddd36f7b) [## 在 Pandas 中加载大型数据集
-
-### 有效地使用分块和 SQL 来读取 pandas 中的大型数据集。🐼
-
-towardsdatascience.com](/loading-large-datasets-in-pandas-11bdddd36f7b) 
+</loading-large-datasets-in-pandas-11bdddd36f7b>  
 
 ## 5.压缩
 

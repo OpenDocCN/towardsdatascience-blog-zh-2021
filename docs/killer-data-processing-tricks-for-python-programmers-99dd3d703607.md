@@ -53,11 +53,7 @@ newdata = list(map(lambda x : x + 5, data))
 
 如果你想了解更多关于 lambda 和它在 Python 中的作用，我不久前写了一篇文章，你可以看看:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 # 熊猫面具
 
@@ -92,11 +88,7 @@ a_above_ten.head()
 
 如果您想了解更多关于条件掩码的内容，以及我喜欢在 Pandas 模块中使用的其他一些很酷的技巧，这篇文章可能会让您感兴趣:
 
-[](/20-great-pandas-tricks-for-data-science-3a6daed71da0) [## 数据科学的 20 个大熊猫技巧
-
-### 你应该每天使用的 20 个大熊猫技巧。
-
-towardsdatascience.com](/20-great-pandas-tricks-for-data-science-3a6daed71da0) 
+</20-great-pandas-tricks-for-data-science-3a6daed71da0>  
 
 # 熊猫分组依据
 

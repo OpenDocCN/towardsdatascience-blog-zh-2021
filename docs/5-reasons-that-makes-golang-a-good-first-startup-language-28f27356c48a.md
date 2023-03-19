@@ -120,10 +120,6 @@ Stackoverflow 进行了一项年度调查，向开发人员提出了一系列问
 
 如果你有兴趣了解更多关于围棋的知识，请务必访问令人惊叹的在线巡回赛。我也写了很多关于围棋的东西，一定要跟着看。
 
-[](https://itnext.io/interfaces-in-go-5c6e38b81b41) [## Go 界面
+<https://itnext.io/interfaces-in-go-5c6e38b81b41> [## Go 界面
 
-### 让我们剖析接口，成为交易高手](https://itnext.io/interfaces-in-go-5c6e38b81b41) [](https://percybolmer.medium.com/membership) [## 阅读珀西·博尔默(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-percybolmer.medium.com](https://percybolmer.medium.com/membership)
+### 让我们剖析接口，成为交易高手](https://itnext.io/interfaces-in-go-5c6e38b81b41) <https://percybolmer.medium.com/membership> 

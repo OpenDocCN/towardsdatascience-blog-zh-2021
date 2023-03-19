@@ -8,11 +8,7 @@
 
 图片由[张秀坤·施罗德](https://unsplash.com/@wirhabenzeit)在 [Unsplash](https://unsplash.com/photos/FIKD9t5_5zQ) 上拍摄
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 数据通常很容易被形象化并解释为图表。除了揭示数据点之间的潜在关系，图表还有助于在复杂的模式中找到隐藏的答案。因此，图形应用无处不在也就不足为奇了，从社交媒体分析[1–5]到神经科学[6，7]，页面排名[8–10]，最短路径理论[11–14]和化学[15–19]。
 

@@ -449,12 +449,4 @@ ylist = [
 
 同时，这是我在 Medium 上完成并发表的一些其他项目。
 
-[](/a-simple-python-guide-to-find-carbon-intensity-of-commodities-6f973170f64e) [## 寻找商品碳强度的简单 Python 指南
-
-### 使用 ResourceTradeEarth 和 ClimateTrace 数据计算碳强度
-
-towardsdatascience.com](/a-simple-python-guide-to-find-carbon-intensity-of-commodities-6f973170f64e) [](https://medium.com/alpha-beta-blog/key-findings-from-world-banks-global-findex-data-fee8d7505355) [## 世界银行全球 Findex 数据的主要发现
-
-### 世界银行 Findex 数据生成的可视化
-
-medium.com](https://medium.com/alpha-beta-blog/key-findings-from-world-banks-global-findex-data-fee8d7505355)
+</a-simple-python-guide-to-find-carbon-intensity-of-commodities-6f973170f64e>  <https://medium.com/alpha-beta-blog/key-findings-from-world-banks-global-findex-data-fee8d7505355> 

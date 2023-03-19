@@ -19,11 +19,7 @@
 
 我们要处理的数据集来自于[AIcrowd Learning to smear Challenge](https://www.aicrowd.com/challenges/learning-to-smell)，它由一个列和另一个列组成，其中一个列是识别特定分子的微笑字符串，另一个列是这些分子的气味名称。
 
-[](https://www.aicrowd.com/challenges/learning-to-smell) [## AIcrowd |学习嗅觉|挑战
-
-### 💡试试这个有趣的新方法📹错过市政厅了吗？观看这里开始与一些惊人的解释…
-
-www.aicrowd.com](https://www.aicrowd.com/challenges/learning-to-smell) 
+<https://www.aicrowd.com/challenges/learning-to-smell>  
 
 例如，下表中的第二个分子，碳酸二甲酯-13C3，其微笑是 COC(=O)OC，其气味被定义为“清新、飘渺、果味”，这当然与人们对这种物质的了解相对应[1]。对于所有这些 4316 个分子，有 100 多种不同的气味形成无序的组合。
 
@@ -69,50 +65,22 @@ c)现在我们有了带有特征的图表，是时候定义标签了。正如我
 
 如果你想试代码，打开这个 [Colab 笔记本](https://github.com/napoles-uach/DGL_Smell/blob/main/dgl_smell_fruity.ipynb)。如果你有任何问题，我将非常乐意回答。最后，考虑订阅邮件列表:
 
-[](https://jnapoles.medium.com/subscribe) [## 每当 joséMANUEL náPOLES du arte 发表文章时都会收到电子邮件。
-
-### 编辑描述
-
-jnapoles.medium.com](https://jnapoles.medium.com/subscribe) 
+<https://jnapoles.medium.com/subscribe>  
 
 并查看我以前的帖子:
 
-[](/start-with-graph-convolutional-neural-networks-using-dgl-cf9becc570e1) [## 从使用 DGL 的图形卷积神经网络开始
-
-### 轻松的介绍
-
-towardsdatascience.com](/start-with-graph-convolutional-neural-networks-using-dgl-cf9becc570e1) [](/making-network-graphs-interactive-with-python-and-pyvis-b754c22c270) [## 用 Python 和 Pyvis 制作交互式网络图。
-
-### 制作精美图表的简单方法。
-
-towardsdatascience.com](/making-network-graphs-interactive-with-python-and-pyvis-b754c22c270) [](/graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b) [## 用于状态新冠肺炎关联分类的图卷积网
-
-### 如何将地图映射到图卷积网络？
-
-towardsdatascience.com](/graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b) 
+</start-with-graph-convolutional-neural-networks-using-dgl-cf9becc570e1>  </making-network-graphs-interactive-with-python-and-pyvis-b754c22c270>  </graph-convolutional-nets-for-classifying-covid-19-incidence-on-states-3a8c20ebac2b>  
 
 参考资料:
 
 1)
 
-[](https://doi.org/10.1039/C7GC01764B) [## 碳酸二甲酯及其衍生物的反应
-
-### 世界范围内对可持续发展和生物相容性化学的强烈要求已经导致工业界和学术界开发…
-
-doi.org](https://doi.org/10.1039/C7GC01764B) 
+<https://doi.org/10.1039/C7GC01764B>  
 
 2)
 
-[](https://github.com/snap-stanford/ogb) [## GitHub - snap-stanford/ogb:图形机器的基准数据集、数据加载器和评估器…
-
-### 开放图形基准(OGB)是一个图形机器的基准数据集，数据加载器和评估器的集合…
-
-github.com](https://github.com/snap-stanford/ogb) 
+<https://github.com/snap-stanford/ogb>  
 
 3)
 
- [## 创建自己的数据集- DGL 0.6.1 文档
-
-### 编辑描述
-
-docs.dgl.ai](https://docs.dgl.ai/en/0.6.x/new-tutorial/6_load_data.html)
+ 

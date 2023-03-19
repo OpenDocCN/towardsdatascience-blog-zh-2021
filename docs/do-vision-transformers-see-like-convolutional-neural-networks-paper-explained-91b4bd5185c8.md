@@ -275,26 +275,10 @@ ResNet 架构来自[何等，2016](https://openaccess.thecvf.com/content_cvpr_20
 
 # **🌟我每周发布时事通讯！请订阅！🌟**
 
-**[](https://www.getrevue.co/profile/akiratosei) [## 阿基拉的机器学习新闻- Revue
-
-### 由 Akira 的机器学习新闻-由 Akihiro FUJII:制造工程师/机器学习工程师/硕士…
-
-www.getrevue.co](https://www.getrevue.co/profile/akiratosei) 
+**<https://www.getrevue.co/profile/akiratosei>  
 
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 
 # 其他博客
 
-[](/machine-learning-2020-summary-84-interesting-papers-articles-45bd45c0d35b) [## 机器学习 2020 摘要:84 篇有趣的论文/文章
-
-### 在这篇文章中，我总共展示了 2020 年发表的 84 篇我觉得特别有趣的论文和文章…
-
-towardsdatascience.com](/machine-learning-2020-summary-84-interesting-papers-articles-45bd45c0d35b) [](/recent-developments-and-views-on-computer-vision-x-transformer-ed32a2c72654) [## 计算机视觉 x 变形金刚的最新发展和看法
-
-### 《变形金刚》和 CNN 的区别，为什么《变形金刚》很重要，它的弱点是什么。
-
-towardsdatascience.com](/recent-developments-and-views-on-computer-vision-x-transformer-ed32a2c72654) [](https://medium.com/analytics-vidhya/reach-and-limits-of-the-supermassive-model-gpt-3-5012a6ddff00) [## 超大质量模型 GPT-3 的到达和极限
-
-### 在这篇博文中，我将从技术上解释 GPT 3 号，GPT 3 号取得了什么，GPT 3 号没有取得什么…
-
-medium.com](https://medium.com/analytics-vidhya/reach-and-limits-of-the-supermassive-model-gpt-3-5012a6ddff00)**
+</machine-learning-2020-summary-84-interesting-papers-articles-45bd45c0d35b>  </recent-developments-and-views-on-computer-vision-x-transformer-ed32a2c72654>  <https://medium.com/analytics-vidhya/reach-and-limits-of-the-supermassive-model-gpt-3-5012a6ddff00> **

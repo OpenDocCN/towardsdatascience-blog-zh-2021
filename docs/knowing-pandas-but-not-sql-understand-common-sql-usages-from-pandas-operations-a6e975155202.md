@@ -191,11 +191,7 @@ df.groupby('origin').agg(
 
 上面的操作使用了命名聚合，它不仅指定了列，还指定了要应用的函数。当然，正如开始时提到的，还有其他方法来创建集合。您可以在我的上一篇文章中找到更多关于 GroupBy 对象的操作。
 
-[](/8-things-to-know-to-get-started-with-with-pandas-groupby-3086dc91acb4) [## 熊猫小组入门的 8 件事
-
-### Groupby 功能如此强大，对于新手来说可能听起来有些望而生畏，但你不必了解它的所有特性。
-
-towardsdatascience.com](/8-things-to-know-to-get-started-with-with-pandas-groupby-3086dc91acb4) 
+</8-things-to-know-to-get-started-with-with-pandas-groupby-3086dc91acb4>  
 
 当您在 SQL 中需要聚合时，它的语法对我来说看起来稍微干净一点。
 
@@ -238,11 +234,7 @@ df.merge(another_df, left_on="colx", right_on="coly")# SQL
 
 默认情况下，连接是`inner`类型的。SQL 中也有其他类型的连接。这里有一个有用的参考，你可以开始。
 
-[](https://www.w3schools.com/sql/sql_join.asp) [## SQL 连接
-
-### JOIN 子句用于根据两个或多个表之间的相关列来组合它们中的行。让我们看一个…
-
-www.w3schools.com](https://www.w3schools.com/sql/sql_join.asp) 
+<https://www.w3schools.com/sql/sql_join.asp>  
 
 ## 11.更新记录
 

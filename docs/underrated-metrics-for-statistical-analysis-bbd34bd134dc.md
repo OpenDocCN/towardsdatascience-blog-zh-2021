@@ -24,11 +24,7 @@ S 统计分析已经成为全球企业决策和分析处理的重要工具。近
 
 虽然符号测试在性能方面有其不足之处，但它肯定是你的武器库中的一个伟大的测试。每当数据计数较小时，这甚至更加有效，因为有时在没有固定数量的样本的情况下，很难从其他测试中获得可靠的读数。如果你想了解更多关于符号测试本身的知识，我很久以前写过一篇关于它的文章，详细阐述了如何使用这个测试:
 
-[](/the-lesser-known-awesome-signs-test-3caa1d173b6) [## 鲜为人知的，令人敬畏的迹象测试
-
-### 以及如何去做
-
-towardsdatascience.com](/the-lesser-known-awesome-signs-test-3caa1d173b6) 
+</the-lesser-known-awesome-signs-test-3caa1d173b6>  
 
 # 普通 PDF/CDF
 

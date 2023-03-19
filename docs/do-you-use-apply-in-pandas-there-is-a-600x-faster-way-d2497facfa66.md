@@ -67,11 +67,7 @@ df['new'] = df.**swifter**.apply(lambda x : func(x['a'],x['b'],x['c'],x['d'],x['
 
 使用 Pandas 和 Numpy 的最快方法是**向量化**你的函数。另一方面，使用 for 循环、list comprehension 或 apply()沿着数组或序列逐个元素地运行函数是一种不好的做法。
 
-[](/list-comprehensions-vs-for-loops-it-is-not-what-you-think-34071d4d8207) [## 列表理解 vs. For 循环:这不是你想的那样
-
-### 许多关于堆栈溢出的文章、帖子或问题都强调列表理解比循环更快…
-
-towardsdatascience.com](/list-comprehensions-vs-for-loops-it-is-not-what-you-think-34071d4d8207) 
+</list-comprehensions-vs-for-loops-it-is-not-what-you-think-34071d4d8207>  
 
 让我们为前面的函数创建一个向量实现。如你所见，我用两个面具来识别相关案例。loc 来更新这些值。此外，默认情况是在不使用任何掩码的情况下分配的。
 
@@ -114,11 +110,7 @@ for col in ('a','b','c','d'):
 
 > 通过利用数据类型减少数据帧的大小
 
-[](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) [## 用 Python 读 Excel 文件吗？有一个快 1000 倍的方法。
-
-### 在本文中，我将向您展示用 Python 加载数据的五种方法。实现了 3 个数量级的加速。
-
-towardsdatascience.com](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) 
+</read-excel-files-with-python-1000x-faster-407d07ad0ed8>  
 
 # NumPy 矢量化
 

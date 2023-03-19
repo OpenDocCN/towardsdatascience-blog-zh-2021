@@ -212,16 +212,4 @@
 
 你喜欢我的故事吗？在这里你可以找到更多。
 
-[](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa) [## 顶级技术趋势及其对数据科学、机器学习和人工智能的影响
-
-### 你和你的职业生涯的行动计划
-
-towardsdatascience.com](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa) [](/5-exciting-industries-for-a-data-scientist-job-outside-of-the-tech-sector-2e5d2c456d16) [## 科技领域之外数据科学家工作的 5 个令人兴奋的行业
-
-### 实时、物联网、计算机视觉、遗传学和大容量数据示例
-
-towardsdatascience.com](/5-exciting-industries-for-a-data-scientist-job-outside-of-the-tech-sector-2e5d2c456d16) [](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [## edX 2021 上数据科学 MicroMasters 计划的终极指南
-
-### 你应该选择 6 个程序中的哪一个？
-
-towardsdatascience.com](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387)
+</the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa>  </5-exciting-industries-for-a-data-scientist-job-outside-of-the-tech-sector-2e5d2c456d16>  </the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387> 

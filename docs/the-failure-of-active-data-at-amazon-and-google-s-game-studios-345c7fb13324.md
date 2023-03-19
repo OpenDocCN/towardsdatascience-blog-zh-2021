@@ -74,7 +74,7 @@ Frazzini 说，“任何事情都可以被测量”是科技行业中一句非�
 
 亚马逊一直在努力适应其高度数据驱动的文化来制作视频游戏——他们还没有完成。在写这篇文章的时候，一封来自[亚马逊新 CEO 的信加强了他们对游戏工作的承诺。](https://www.bloomberg.com/news/articles/2021-02-03/andy-jassy-next-amazon-ceo-says-he-s-committed-to-making-video-games)希望亚马逊游戏工作室的领导层能够从他们的错误中吸取教训，让他们有才华的创作者“找到乐趣”，而不是追逐潮流。
 
-【https://camwarrenm.medium.com/】如果你喜欢这篇文章，请阅读更多，并在媒体上给我一个关注:[](https://camwarrenm.medium.com/)
+【https://camwarrenm.medium.com/】如果你喜欢这篇文章，请阅读更多，并在媒体上给我一个关注:<https://camwarrenm.medium.com/>
 
 **你也可以在推特上获得更多我的想法:*[*@ camwarrenm*](https://twitter.com/camwarrenm)*
 

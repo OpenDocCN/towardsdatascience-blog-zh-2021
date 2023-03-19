@@ -34,11 +34,7 @@
 
 在本教程中，我将分享三种创建托管表和非托管表的方法，并解释使用其中一种有意义的情况。
 
-[](/3-ways-to-aggregate-data-in-pyspark-72209197c90) [## PySpark 中聚合数据的 3 种方法
-
-### PySpark 用编码示例解释基本聚合。
-
-towardsdatascience.com](/3-ways-to-aggregate-data-in-pyspark-72209197c90) 
+</3-ways-to-aggregate-data-in-pyspark-72209197c90>  
 
 # 初始数据集操作
 
@@ -67,11 +63,7 @@ towardsdatascience.com](/3-ways-to-aggregate-data-in-pyspark-72209197c90)
 
 如上所述，当您创建一个由*管理的*表时，Spark 将管理表数据和元数据(*关于表本身的信息* f)。具体来说，数据被写入默认的配置单元仓库，即在`/user/hive/warehouse`位置设置的仓库。您可以改变这种行为，在生成`SparkSession`时使用`spark.sql.warehouse.dir`配置。
 
-[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [## 3 门数据工程课程，在 2022 年推进您的职业发展
-
-### 加入数据行业，改变角色或通过注册数据工程简单地学习前沿技术…
-
-towardsdatascience.com](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) 
+</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 ## 方法 1
 

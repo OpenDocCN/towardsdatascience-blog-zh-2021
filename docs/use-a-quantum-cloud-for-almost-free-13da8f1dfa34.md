@@ -152,15 +152,7 @@ Braket 还提供了一个多达 34 个量子位模拟器。模拟器只是一台
 
 关于其他量子云解决方案(Azure 和 IBM)的简要介绍，请查看
 
-[](https://medium.com/technology-hits/azure-quantum-computing-b7b9e009de7a) [## Azure 量子计算
-
-### 未来的数据工程，不只是炒作
-
-medium.com](https://medium.com/technology-hits/azure-quantum-computing-b7b9e009de7a) [](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424) [## 量子机器学习是下一件事吗？
-
-### 当前最先进的工具将量子物理学和人工智能结合在一起
-
-medium.com](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424) 
+<https://medium.com/technology-hits/azure-quantum-computing-b7b9e009de7a>  <https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424>  
 
 # 结论
 

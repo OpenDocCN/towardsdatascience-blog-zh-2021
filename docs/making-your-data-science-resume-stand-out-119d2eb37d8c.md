@@ -101,14 +101,6 @@
 
 ****相关文章****
 
-**[](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
+**</why-your-data-science-portfolio-project-sucks-208ee830ad1b> [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
 
-towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [## 如何在简历中加入数据科学的第一点经验
-
-### 为有抱负的数据科学家解决先有鸡还是先有蛋的问题
-
-towardsdatascience.com](/how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace) [](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c) [## 计算数据科学项目的商业价值
-
-### 性能度量不能告诉你你想知道的:一个项目实际上有多大价值
-
-towardsdatascience.com](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c)**
+towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) </how-to-get-that-first-bit-of-data-science-experience-on-your-resume-80f69fc05ace>  </calculating-the-business-value-of-a-data-science-project-3b282de9be3c> **

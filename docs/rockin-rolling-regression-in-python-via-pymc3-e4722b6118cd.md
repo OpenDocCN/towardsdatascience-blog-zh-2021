@@ -141,11 +141,7 @@ for i in range(len(data) - w):
 
 ***首先，让我们回顾一下简单的贝叶斯线性回归是什么样子的。您可以在此了解更多信息:***
 
-***[](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) [## 通过 PyMC3 在 Python 中实现贝叶斯线性回归
-
-### 了解如何推断模型参数并对新数据进行预测，包括不确定性估计！
-
-towardsdatascience.com](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) 
+***</bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211>  
 
 ## 第一次尝试
 

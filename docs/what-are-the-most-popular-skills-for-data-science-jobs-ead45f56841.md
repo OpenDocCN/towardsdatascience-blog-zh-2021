@@ -12,11 +12,7 @@
 
 首先，您需要在 TigerGraph Cloud 上创建一个解决方案。关注本博客了解更多详情:
 
-[](https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/) [## TigerGraph 3.0 入门- TigerGraph
-
-### 使用 TigerGraph 的 GraphStudio 创建您的第一个图形数据库所需要知道的一切什么是 GraphStudio…
-
-www.tigergraph.com](https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/) 
+<https://www.tigergraph.com/blog/getting-started-with-tigergraph-3-0/>  
 
 简而言之，您需要:
 
@@ -102,19 +98,11 @@ conn.graphname = "JobGraph"conn.apiToken = conn.getToken(conn.createSecret())
 
 我们将从位于[这里](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer)的 Kaggle 的 Indeed dataset 中获取数据。该数据包含数据科学家、数据分析师和数据工程师的工作信息。
 
-[](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) [## 实际上是数据集——数据科学家/分析师/工程师)
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-www.kaggle.com](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) 
+<https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer>  
 
 首先，在 kaggle.com 上创建一个帐户。
 
- [## Kaggle:你的机器学习和数据科学社区
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-kaggle.com](https://kaggle.com) 
+  
 
 接下来，在主页中单击您的个人资料图片。在打开的边栏中，按下“帐户”
 
@@ -289,8 +277,4 @@ conn.gsql('''USE GRAPH JobGraphDROP QUERY topSkillsCREATE QUERY topSkills () FOR
 
 如果您有任何问题，请随时加入 TigerGraph Discord 或在 TigerGraph 社区论坛中提问。
 
-[](https://community.tigergraph.com/) [## 老虎图
-
-### 一个学习、提问、展示酷项目以及与其他 TigerGraph 开发人员交流的地方！
-
-community.tigergraph.com](https://community.tigergraph.com/)
+<https://community.tigergraph.com/> 

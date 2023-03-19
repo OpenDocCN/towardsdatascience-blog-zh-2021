@@ -288,11 +288,7 @@ library(‘sandwich’) fit2 <- lm(re78 ~ treat + age + educ + race + married + 
 
 **Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。**
 
-*[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)* 
+*<https://leihua-ye.medium.com/membership> * 
 
 # *参考*
 
@@ -310,15 +306,7 @@ leihua-ye.medium.com](https://leihua-ye.medium.com/membership)*
 
 # *相关阅读*
 
-*[](/propensity-score-stratification-in-observational-data-a-tutorial-ef21321eb586) [## 观察数据中的倾向评分分层:指南
-
-### 倾向评分匹配的更好替代方案
-
-towardsdatascience.com](/propensity-score-stratification-in-observational-data-a-tutorial-ef21321eb586) [](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) 
+*</propensity-score-stratification-in-observational-data-a-tutorial-ef21321eb586>  </online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  
 
 # 喜欢读这本书吗？
 

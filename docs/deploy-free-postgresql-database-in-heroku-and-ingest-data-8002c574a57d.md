@@ -161,18 +161,6 @@
 
 # *有用的链接*
 
-*[](https://devcenter.heroku.com/articles/authentication) [## Heroku CLI 认证
-
-### 对 Heroku 的身份验证使用以下机制之一，具体取决于具体情况:基于 Web 的身份验证…
-
-devcenter.heroku.com](https://devcenter.heroku.com/articles/authentication)  [## 熊猫。DataFrame.to_sql - pandas 1.2.5 文档
-
-### 将存储在数据帧中的记录写入 SQL 数据库。支持 SQLAlchemy [1]支持的数据库。桌子可以…
-
-pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html)  [## SQLAlchemy 1.4 文档
-
-### SQLAlchemy 为最常见的数据库数据类型提供了抽象，并提供了一种机制来指定您自己的自定义…
-
-docs.sqlalchemy.org](https://docs.sqlalchemy.org/en/14/core/type_basics.html)* 
+*<https://devcenter.heroku.com/articles/authentication>     * 
 
 **原载于*[*https://ealizadeh.com*](https://ealizadeh.com/blog/deploy-postgresql-db-heroku)*。**

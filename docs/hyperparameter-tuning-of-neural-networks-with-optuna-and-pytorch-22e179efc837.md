@@ -37,11 +37,7 @@ Optuna 是一个 python 库，它使我们能够自动调整我们的机器学�
 
 如果你想跟进，你可以下载我们将在这篇关于 Kaggle 的文章中使用的数据集。这个数据集是根据开放数据库许可证(ODbL)许可的，这意味着只要我们引用官方数据源，我们就可以将数据用于我们的目的。
 
-[](https://www.kaggle.com/fedesoriano/heart-failure-prediction) [## 心力衰竭预测数据集
-
-### 预测心脏病事件的 11 个临床特征。
-
-www.kaggle.com](https://www.kaggle.com/fedesoriano/heart-failure-prediction) 
+<https://www.kaggle.com/fedesoriano/heart-failure-prediction>  
 
 我们的机器学习模型的目标是在考虑每个患者的年龄、性别、胆固醇水平等的情况下，预测患者是否患有心脏病。
 

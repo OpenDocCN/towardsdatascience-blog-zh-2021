@@ -54,7 +54,7 @@ Do n_iter times:
 
 你可以在我关于 k-means 的文章中找到关于劳埃德算法的更详细的解释:
 
-[](/a-deep-dive-into-k-means-f9a1ef2490f8) [## 对 k-means 的深入探究
+</a-deep-dive-into-k-means-f9a1ef2490f8> [## 对 k-means 的深入探究
 
 towardsdatascience.com](/a-deep-dive-into-k-means-f9a1ef2490f8) 
 
@@ -90,10 +90,6 @@ k-中间值与真实值和 k-均值的比较。两种聚类算法都倾向于找
 最后，当然您可以将 k-medians 与改进的
 初始化结合在一起，比如 kmeans++，使其更加健壮。你可以在我的文章中找到关于如何做的细节:
 
-[](/try-this-simple-trick-to-improve-your-clustering-b2d5d502039b) [## 尝试这个简单的技巧来改善你的聚类
-
-### 开始初始化的 k-means++算法
-
-towardsdatascience.com](/try-this-simple-trick-to-improve-your-clustering-b2d5d502039b) 
+</try-this-simple-trick-to-improve-your-clustering-b2d5d502039b>  
 
 下次见，届时我们将讨论 k-means 的最高级变体，围绕 medoids 进行划分，结束这个迷你系列。

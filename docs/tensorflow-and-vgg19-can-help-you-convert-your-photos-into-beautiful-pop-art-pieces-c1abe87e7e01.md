@@ -128,14 +128,6 @@ VGG 是一个深度为 19 层的卷积神经网络。它是由牛津大学的 K.
 
 如果你喜欢这篇文章，看看我的其他文章:
 
-[](/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b) [## 利用生成性对抗网络在 10 分钟内生成图像
+</image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b>  </image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d> [## 使用 MNIST 数据集在 10 分钟内完成图像分类
 
-### 使用无监督深度学习生成手写数字与深度卷积甘斯使用张量流和…
-
-towardsdatascience.com](/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b) [](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) [## 使用 MNIST 数据集在 10 分钟内完成图像分类
-
-towardsdatascience.com](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) [](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) [## 伯特和拥抱脸 10 分钟情感分析
-
-### 学习预训练的自然语言处理模型的基础，伯特，并建立一个使用 IMDB 电影评论的情感分类器…
-
-towardsdatascience.com](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671)
+towardsdatascience.com](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) </sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671> 

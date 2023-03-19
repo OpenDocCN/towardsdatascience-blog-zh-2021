@@ -188,11 +188,7 @@ df = pd.DataFrame({'date': ['3/10/2000', np.nan, '3/12/2000'],
 
 了解有关使用缺失值的更多信息
 
-[](/working-with-missing-values-in-pandas-5da45d16e74) [## 处理熊猫中缺失的值
-
-### 关于 Pandas 中缺失值以及如何使用内置方法处理它们的教程
-
-towardsdatascience.com](/working-with-missing-values-in-pandas-5da45d16e74) 
+</working-with-missing-values-in-pandas-5da45d16e74>  
 
 # 7.从多个列组合日期时间
 
@@ -252,11 +248,7 @@ df = pd.read_csv(
 
 要了解更多关于用 Pandas `read_csv()`解析日期列的信息:
 
-[](/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e) [## 您应该知道的用 Pandas read_csv()解析日期列的 4 个技巧
-
-### 一些最有用的熊猫把戏
-
-towardsdatascience.com](/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e) 
+</4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e>  
 
 # 10.`astype('datetime64')`和`to_datetime()`的区别
 

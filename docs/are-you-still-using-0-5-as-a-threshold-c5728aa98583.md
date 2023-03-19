@@ -139,4 +139,4 @@ threshold[np.argmax(accuracy)]
 
 在本文中，我们看到了两种优化二元分类问题阈值的可能方法。还有其他方法可以使用，但这是两种常见的方法，可以很容易地推广以适应项目的所有需求。永远不要忘记只优化训练数据集，而不要优化测试数据集。优化阈值相当于优化管道的超参数，因此我们只在训练数据集上进行优化。
 
-*原载于 2021 年 6 月 14 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/06/14/are-you-still-using-0-5-as-a-threshold/)**。**
+*原载于 2021 年 6 月 14 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/06/14/are-you-still-using-0-5-as-a-threshold/>**。**

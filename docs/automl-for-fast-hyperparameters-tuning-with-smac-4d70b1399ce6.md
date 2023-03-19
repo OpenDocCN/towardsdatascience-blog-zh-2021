@@ -82,7 +82,7 @@ HPO 的数学公式。作者的公式。
 
 参见这篇非常好的开创性的[论文](https://ml.informatik.uni-freiburg.de/papers/11-LION5-SMAC.pdf)了解更多关于这个主题的细节。我还写了一篇关于如何使用模型创建自己的 HPO 引擎的完整文章:
 
-[](/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba) [## 用 XGBoost 调优 XGBoost:编写自己的 Hyper Parameters 优化引擎
+</tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba> [## 用 XGBoost 调优 XGBoost:编写自己的 Hyper Parameters 优化引擎
 
 towardsdatascience.com](/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba) 
 

@@ -112,11 +112,7 @@ class NotAbstractBasicPokemon:
 
 在这篇文章中，我们看了 Python 的抽象类，以及它们如何给我们一种方法来描述我们期望子类如何被实现，以及当关键部分没有被定义时如何警告用户(即其他程序员或我们未来的自己)。
 
-[](https://eminik355.medium.com/subscribe) [## 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。
-
-### 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-eminik355.medium.com](https://eminik355.medium.com/subscribe) 
+<https://eminik355.medium.com/subscribe>  
 
 *   [通过 Medium](https://eminik355.medium.com/) 关注我的更新。
 *   [通过我的推荐链接加入 Medium](https://eminik355.medium.com/membership) 以无限制访问帖子。你的会员费直接支持我和你看的作家。
@@ -129,20 +125,4 @@ eminik355.medium.com](https://eminik355.medium.com/subscribe)
 
 **更多来自同一作者。**
 
-[](/how-not-to-use-python-lists-d06cbe8e593) [## 如何不使用 Python 列表
-
-### 理解 Python 中的可变对象。
-
-towardsdatascience.com](/how-not-to-use-python-lists-d06cbe8e593) [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [## 使用蒙特卡罗模拟计算𝛑
-
-### 用 Python 代码介绍蒙特卡罗模拟。
-
-medium.com](https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5) [](/going-bayesian-testing-rate-metrics-82e872b79175) [## 走向贝叶斯:测试速率度量
-
-### 如何在没有 p 值和置信区间的情况下运行速率度量的 A/B 测试？
-
-towardsdatascience.com](/going-bayesian-testing-rate-metrics-82e872b79175)
+</how-not-to-use-python-lists-d06cbe8e593>  <https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  <https://medium.com/analytics-vidhya/calculating-using-monte-carlo-simulations-337cff638ac5>  </going-bayesian-testing-rate-metrics-82e872b79175> 

@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将开始并完成本课程的第四单元，基因编程。在前一篇文章中，我们完成了单元 3，遗传算法，通过应用一种算法来进化用于时间序列分析的神经网络的权重。我强烈建议先阅读这篇文章，因为我们将尝试使用基因编程来解决同样的问题:
 
-[](/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595) [## 单元 3 应用)用于时间序列分析的进化神经网络
-
-### 第三单元的高潮是应用我们的概念来发展一个预测时间序列问题的神经网络
-
-towardsdatascience.com](/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595) 
+</unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595>  
 
 在本帖中，我们将简要介绍遗传编程，以及它在染色体表示方面与标准遗传算法有何不同。
 
@@ -90,19 +86,11 @@ towardsdatascience.com](/unit-3-application-evolving-neural-network-for-time-ser
 
 因为遗传编程算法的表现型是基于树的，这非常适合在许多分类或游戏人工智能问题中进化行为或决策树。但是，它也可以用于执行回归。在我们的应用程序中，我们将评估前一篇文章中给出的相同的时间序列问题。为了节省空间，我不再重复问题陈述和动态，请阅读我以前的帖子:
 
-[](/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595) [## 单元 3 应用)用于时间序列分析的进化神经网络
-
-### 第三单元的高潮是应用我们的概念来发展一个预测时间序列问题的神经网络
-
-towardsdatascience.com](/unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595) 
+</unit-3-application-evolving-neural-network-for-time-series-analysis-63c057cb1595>  
 
 我们的问题设置将与之前相同，循环所有可能的窗口大小，并从验证数据中选择每个窗口大小的最佳模型，作为在测试集数据上评估的最终模型。现在，从头开始编写一个遗传编程模型需要很多课外预备知识，例如自动机理论，我不会从头开始执行算法。相反，我将使用 **gplearn，**一个免费的 python 库，专门为分类和回归的遗传编程算法而设计。
 
-[](https://github.com/trevorstephens/gplearn) [## trevorstephens/gplearn
-
-### gplearn 用 Python 实现了遗传编程，并带有一个受 scikit-learn 启发的兼容 API。而遗传…
-
-github.com](https://github.com/trevorstephens/gplearn) 
+<https://github.com/trevorstephens/gplearn>  
 
 下面是我们如何导入和运行算法，我们也可以使用许多其他超参数，但为了简单起见，我将其限制为以下几种:
 
@@ -130,11 +118,7 @@ github.com](https://github.com/trevorstephens/gplearn)
 
 与其他帖子相比，此帖子中使用的代码相对较短；不过，这里是我的 GitHub 页面，上面有最终回归树的完整脚本和图片:
 
-[](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit4/genetic_programming.py) [## 学生/进化计算课程
-
-### 通过在 GitHub 上创建一个帐户，为 ou student/evolutionary computationcourse 开发做出贡献。
-
-github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit4/genetic_programming.py) 
+<https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main/Unit4/genetic_programming.py>  
 
 # 结论
 
@@ -144,8 +128,4 @@ github.com](https://github.com/OUStudent/EvolutionaryComputationCourse/blob/main
 
 对于应用程序，除了使用 **gplearn** python 库来发展数据集的基本方程之外，我们涵盖了与上一篇文章完全相同的时间序列问题。结果表明，该算法对时间序列数据集的预测是成功的；然而，在将结果与前一篇文章中的两种方法进行比较后，它并不优于它们。敬请关注下一篇文章，我们将从第五单元进化编程开始。
 
-[](/unit-5-evolutionary-programming-cced3a00166a) [## 第 5 单元)进化规划
-
-### 涵盖进化编程的主要概念:变异和选择操作符
-
-towardsdatascience.com](/unit-5-evolutionary-programming-cced3a00166a)
+</unit-5-evolutionary-programming-cced3a00166a> 

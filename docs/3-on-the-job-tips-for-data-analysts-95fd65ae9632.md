@@ -94,11 +94,7 @@ BI 工具示例。斯蒂芬·菲利普斯-Hostreviews.co.uk 在 [Unsplash](https
 
 *要了解更多细节，请阅读罗杰·d·彭和伊丽莎白·松井的免费书籍《数据科学的艺术》。我推荐这是一本相对快速的读物。*
 
- *[## 数据科学的艺术
-
-### 这本书涵盖了构建数据科学工具的软件开发。随着数据科学领域的发展，它已经…
-
-bookdown.org](https://bookdown.org/rdpeng/artofdatascience/)* 
+ ** 
 
 # ***2。了解问题的意图——不要变成一只提问的猴子。***
 
@@ -123,11 +119,7 @@ bookdown.org](https://bookdown.org/rdpeng/artofdatascience/)*
 
 *这让我们更清楚地了解到*需要什么样的*数据集来回答*需要什么样的*问题。我在这里详细介绍了我们如何理解数据请求的意图:*
 
-*[](/data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf) [## 成为优秀数据分析师的 4 个步骤
-
-### TLDR；不要做一只查询猴。
-
-towardsdatascience.com](/data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf)* 
+*</data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf> * 
 
 # ***讲述数据故事***
 
@@ -160,28 +152,12 @@ towardsdatascience.com](/data-science-reflections-lessons-from-5-months-as-an-an
 
 *如果你喜欢这个，你可能也会喜欢:*
 
-*[](/how-to-be-a-data-analyst-data-viz-with-google-data-studio-5cda4ad475f2) [## 如何成为一名数据分析师——谷歌数据工作室的数据 Viz
-
-### 数据分析师关于客户流失的演示报告
-
-towardsdatascience.com](/how-to-be-a-data-analyst-data-viz-with-google-data-studio-5cda4ad475f2) [](/google-data-analytics-professional-certificate-a-review-a426b12a35) [## 谷歌数据分析专业证书:综述
-
-### 对于有抱负的非传统背景的数据分析师来说，这是一个有价值的证书
-
-towardsdatascience.com](/google-data-analytics-professional-certificate-a-review-a426b12a35) 
+*</how-to-be-a-data-analyst-data-viz-with-google-data-studio-5cda4ad475f2>  </google-data-analytics-professional-certificate-a-review-a426b12a35>  
 
 如果你需要学习数据科学的课程列表，这里是我的建议。
 
-[](/how-to-teach-yourself-data-science-in-2020-f674ec036965) [## 2020 年如何自学数据科学
-
-### 第 1 部分— SQL、Python、R 和数据可视化
-
-towardsdatascience.com](/how-to-teach-yourself-data-science-in-2020-f674ec036965) 
+</how-to-teach-yourself-data-science-in-2020-f674ec036965>  
 
 我经常在 Medium 和 LinkedIn 上发布内容，所以请随时在 Medium 和 LinkedIn 上关注我。
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang -数据科学家- Gojek | LinkedIn
-
-### 💡关注我，获取频繁的数据科学内容+更新！我发布了针对初学者和中间用户的数据科学技巧…
-
-www.linkedin.com](https://www.linkedin.com/in/travistang/)*
+<https://www.linkedin.com/in/travistang/> *

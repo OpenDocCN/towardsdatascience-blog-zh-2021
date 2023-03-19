@@ -465,8 +465,4 @@ df_results.sort_values(by='file_size')
 
 本文讨论了一些可以用来保存数据帧的文件格式。这绝不是一个详尽的测试，但它让您对每种文件格式的性能有一个总体的感觉。值得注意的是，我在本文中获得的结果是特定于我的数据集的。不同的数据集可能会有不同的结果，这取决于您拥有的数据类型。如果数据集有很多对象(文本)列，压缩会非常有效。重要的是，使用本文中描述的各种方法测试数据集，并得出自己的结论。特别是，比较最常执行的操作的统计数据，并决定哪种方法更适合您的数据。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+<https://weimenglee.medium.com/membership> 

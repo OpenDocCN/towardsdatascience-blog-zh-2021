@@ -70,11 +70,7 @@
 
 # 推荐阅读
 
-[](https://betterprogramming.pub/sudoku-solver-a-brute-force-approach-using-python-ee180b071346) [## 数独解算器:使用 Python 的蛮力方法
-
-### 用递归方法解决数独难题的完整指南
-
-better 编程. pub](https://betterprogramming.pub/sudoku-solver-a-brute-force-approach-using-python-ee180b071346) 
+<https://betterprogramming.pub/sudoku-solver-a-brute-force-approach-using-python-ee180b071346>  
 
 # 参考
 

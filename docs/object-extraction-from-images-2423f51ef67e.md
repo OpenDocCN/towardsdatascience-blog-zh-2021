@@ -78,10 +78,6 @@
 
 从图像中检测和提取目标是为机器学习创建新数据集或改进现有数据集的重要技术。在这个故事中，我分享了一个非常方便和强大的方法，使用 Skimage 包从图像中检测和提取对象。如果你想看完整的笔记本，请随意查看我的 GitHub 库:
 
-[](https://github.com/KuanWeiBeCool/Object-Extraction-From-Images) [## 从图像中提取目标
-
-### 在 GitHub 上创建一个帐户，为 KuanWeiBeCool/Object-Extraction-From-Images 开发做贡献。
-
-github.com](https://github.com/KuanWeiBeCool/Object-Extraction-From-Images) 
+<https://github.com/KuanWeiBeCool/Object-Extraction-From-Images>  
 
 感谢阅读！

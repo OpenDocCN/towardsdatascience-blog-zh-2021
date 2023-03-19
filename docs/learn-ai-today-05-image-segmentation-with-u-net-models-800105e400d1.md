@@ -12,11 +12,7 @@
 
 这是 [**学艾今日**](http://learn-ai-today.com/) 系列的第 5 个故事！如果你还没有，一定要检查以前的故事。
 
-[](/learn-ai-today-04-time-series-multi-step-forecasting-6eb48bbcc724) [## 今日学习人工智能 04:时间序列多步预测
-
-### 创建并训练一个 1D 卷积神经网络来预测混沌时间序列的多个未来时间步…
-
-towardsdatascience.com](/learn-ai-today-04-time-series-multi-step-forecasting-6eb48bbcc724) 
+</learn-ai-today-04-time-series-multi-step-forecasting-6eb48bbcc724>  
 
 # 你将从这个故事中学到什么:
 
@@ -123,14 +119,6 @@ Fastai 使这项任务变得非常简单。下面的代码是你在 CamVid 数�
 
 你可以在下面的故事中了解更多关于我的深度学习之旅！
 
-[](/my-3-year-journey-from-zero-python-to-deep-learning-competition-master-6605c188eec7) [## 我的 3 年历程:从零 Python 到深度学习竞赛高手
-
-### 自从 2017 年开始学习 Python 以来，我一直遵循的道路是成为一名独自参加 Kaggle 比赛的大师…
-
-towardsdatascience.com](/my-3-year-journey-from-zero-python-to-deep-learning-competition-master-6605c188eec7) [](/my-2-year-journey-on-kaggle-how-i-became-a-competition-master-ef0f0955c35d) [## 我在 Kaggle 上的两年旅程:我如何成为竞赛大师
-
-### 描述我的旅程和策略，我遵循成为一个竞赛大师与个人金牌
-
-towardsdatascience.com](/my-2-year-journey-on-kaggle-how-i-became-a-competition-master-ef0f0955c35d) 
+</my-3-year-journey-from-zero-python-to-deep-learning-competition-master-6605c188eec7>  </my-2-year-journey-on-kaggle-how-i-became-a-competition-master-ef0f0955c35d>  
 
 *感谢阅读！祝您愉快！*

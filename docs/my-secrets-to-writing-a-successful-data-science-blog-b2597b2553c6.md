@@ -80,17 +80,13 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/how-i-used-data-science-to-double-my-income-in-one-year-c8ba8c28ce8f) [## 我如何利用数据科学在一年内将收入翻倍
+</how-i-used-data-science-to-double-my-income-in-one-year-c8ba8c28ce8f> [## 我如何利用数据科学在一年内将收入翻倍
 
 towardsdatascience.com](/how-i-used-data-science-to-double-my-income-in-one-year-c8ba8c28ce8f) 
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

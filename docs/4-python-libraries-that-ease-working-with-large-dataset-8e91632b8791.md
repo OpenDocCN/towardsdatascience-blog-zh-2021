@@ -40,11 +40,7 @@ Dask 提供了类似于 Pandas 和 Numpy 的 API，这使得开发者在库之�
 
 > 阅读我以前关于 dask 的文章，深入了解 Dask 数据框架
 
-[](/how-dask-accelerates-pandas-ecosystem-9c175062f409) [## Dask 如何加速熊猫生态系统？
-
-### 深入了解 Dask 数据框架，以及它是如何工作的
-
-towardsdatascience.com](/how-dask-accelerates-pandas-ecosystem-9c175062f409) 
+</how-dask-accelerates-pandas-ecosystem-9c175062f409>  
 
 # 3) Vaex:
 
@@ -52,11 +48,7 @@ Vaex 是一个 Python 库，它使用一个**表达式系统**和**内存映射*
 
 > 请阅读我以前关于 Vaex 的文章，了解如何使用 Vaex 来加速文本处理工作流。
 
-[](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [## 使用 Vaex 处理具有 2 亿行的数据集
-
-### 使用 vaex 数据框对大型数据集执行操作
-
-towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) 
+</process-dataset-with-200-million-rows-using-vaex-ad4839710d3b>  
 
 # 4)摩丁:
 
@@ -64,11 +56,7 @@ towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839
 
 > 阅读我以前关于 Modin 的文章，更多地了解 Modin 如何扩展您的数据探索和可视化
 
-[](/speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb) [## 通过改变一行代码来加速你的熊猫工作流程
-
-### 使用 Modin 扩展您的数据探索和可视化
-
-towardsdatascience.com](/speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb) 
+</speed-up-your-pandas-workflow-by-changing-a-single-line-of-code-11dfd85efcfb>  
 
 # 结论:
 

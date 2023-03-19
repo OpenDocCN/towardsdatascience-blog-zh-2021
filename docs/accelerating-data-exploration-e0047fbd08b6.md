@@ -32,11 +32,7 @@ Data Describe 是一个开源的 python 库，可用于通过创建不同的可�
 
 在这一步中，我们将导入所需的库和函数来创建机器学习模型和仪表板。我们将在本文中使用 IRIS 数据集，因此我们将从 sklearn 导入它。数据集的链接如下所示:
 
-[](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-plants-dataset) [## 7.1.玩具数据集
-
-### scikit-learn 附带了一些小型标准数据集，不需要从外部下载任何文件…
-
-scikit-learn.org](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-plants-dataset) 
+<https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-plants-dataset>  
 
 ```
 import pandas as pd

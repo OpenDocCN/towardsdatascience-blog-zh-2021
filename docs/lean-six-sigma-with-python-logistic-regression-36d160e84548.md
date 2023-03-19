@@ -112,15 +112,7 @@ Menu Stat > Binary Fitted Line Plot
 
 如果您对使用 Python 的精益六适马方法的其他应用感兴趣，可以看看下面的文章:
 
-[](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) [## 使用 Python - Chi-Squared 测试的精益六适马
-
-### 物流持续改进执行卡方检验，解释影响您的…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) [](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) [## 使用 Python - Kruskal Wallis 测试精益六适马
-
-### 物流持续改进如何用 Python 替换 Minitab 来执行 Kruskal Wallis 测试评估…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) 
+<https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/>  <https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/>  
 
 # 三。结论
 
@@ -151,11 +143,7 @@ www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

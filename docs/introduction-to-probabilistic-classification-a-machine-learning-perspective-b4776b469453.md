@@ -161,16 +161,4 @@ ML 模型使用 Platt 标度和保序回归进行校准，这两种方法在 Skl
 
 如果你热衷于阅读更多，请看下面我的文章:
 
-[](/multi-armed-bandits-applied-to-order-allocation-among-execution-algorithms-fff21dedc927) [## 多臂土匪应用于执行算法间的顺序分配
-
-### 在开发和探索之间找到正确的平衡
-
-towardsdatascience.com](/multi-armed-bandits-applied-to-order-allocation-among-execution-algorithms-fff21dedc927) [](https://medium.com/@larsterbraak/cost-decomposition-for-a-vwap-execution-algorithm-buy-side-perspective-1126f9eebf40) [## VWAP 执行算法的成本分解:买方观点。
-
-### VWAP 执行算法的线性成本分解允许更快和更精细的算法交易…
-
-medium.com](https://medium.com/@larsterbraak/cost-decomposition-for-a-vwap-execution-algorithm-buy-side-perspective-1126f9eebf40) [](https://medium.com/@larsterbraak/beyond-traditional-return-modelling-embracing-thick-tails-67f457dfbf6b) [## 超越传统回报模型:拥抱厚尾。
-
-### 前症状统计推断指南。
-
-medium.com](https://medium.com/@larsterbraak/beyond-traditional-return-modelling-embracing-thick-tails-67f457dfbf6b)
+</multi-armed-bandits-applied-to-order-allocation-among-execution-algorithms-fff21dedc927>  <https://medium.com/@larsterbraak/cost-decomposition-for-a-vwap-execution-algorithm-buy-side-perspective-1126f9eebf40>  <https://medium.com/@larsterbraak/beyond-traditional-return-modelling-embracing-thick-tails-67f457dfbf6b> 

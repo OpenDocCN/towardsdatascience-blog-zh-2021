@@ -14,11 +14,7 @@
 
 影响电力消耗的因素有几个，我在以前的文章中已经提供了详细的分析。也就是说，这里提供了理解当前文章所需的所有信息。
 
-[](https://medium.com/analytics-vidhya/from-lockdown-to-daylight-savings-hidden-insights-from-electricity-demand-data-in-toronto-eff585aada66) [## 从封锁到夏令时:多伦多电力需求数据中隐藏的观点
-
-### 多伦多电力需求的详细分析
-
-medium.com](https://medium.com/analytics-vidhya/from-lockdown-to-daylight-savings-hidden-insights-from-electricity-demand-data-in-toronto-eff585aada66) 
+<https://medium.com/analytics-vidhya/from-lockdown-to-daylight-savings-hidden-insights-from-electricity-demand-data-in-toronto-eff585aada66>  
 
 ## **数据来源**
 

@@ -22,11 +22,7 @@
 
 还有一件事，如果你想在 Github 上查看，你可以在这里:
 
-[](https://github.com/ChifiSource/Jockey.jl) [## GitHub-chifi source/Jockey . JL:Jockey IDE/笔记本服务器
-
-### 骑师 IDE/笔记本服务器。在 GitHub 上创建一个帐户，为 ChifiSource/Jockey.jl 的开发做出贡献。
-
-github.com](https://github.com/ChifiSource/Jockey.jl) 
+<https://github.com/ChifiSource/Jockey.jl>  
 
 # 设置类型
 

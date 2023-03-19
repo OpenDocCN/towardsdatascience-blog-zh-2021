@@ -212,10 +212,6 @@ iPad found at  [16, 17]
 
 如果你想阅读一些关于 NLP 的相关文章，这里有一篇
 
-[](https://pythoslabs.medium.com/10-use-cases-in-everyday-business-operations-using-nlp-af49b9650d8f)**使用 NLP 的日常业务运营中的 10 个用例**
+<https://pythoslabs.medium.com/10-use-cases-in-everyday-business-operations-using-nlp-af49b9650d8f>**使用 NLP 的日常业务运营中的 10 个用例**
 
-**[](https://pythoslabs.medium.com/10-use-cases-in-everyday-business-operations-using-nlp-af49b9650d8f) [## 使用 NLP 的日常业务运营中的 10 个用例
-
-### 以及 spaCy v3.0 版如何帮助您开始使用这些用例
-
-pythoslabs.medium.com](https://pythoslabs.medium.com/10-use-cases-in-everyday-business-operations-using-nlp-af49b9650d8f)**
+**<https://pythoslabs.medium.com/10-use-cases-in-everyday-business-operations-using-nlp-af49b9650d8f> **

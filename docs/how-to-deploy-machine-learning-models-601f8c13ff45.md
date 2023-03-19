@@ -181,18 +181,10 @@ Streamlit，作者照片
 
 如果你想了解更多关于**应用数据科学**的信息，这里是**我的新 YouTube 频道**——[AI 学院与朋友](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)
 
-[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ) [## 和朋友一起的 AI 学院
-
-### 与朋友、家人和全世界分享您的视频
-
-www.youtube.com](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ) 
+<https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ>  
 
 > 我希望你喜欢它，现在可以开始自己创建漂亮的应用程序。
 > 
 > 如果你喜欢我的文章，想看即将到来的故事，请在 [medium](https://medium.com/@gkeretchashvili) 上关注我。
 
-[](https://medium.com/@gkeretchashvili) [## gurami keretcashvili-培养基
-
-### 一个数据科学家不是懂 python，Sklearn，TensorFlow 等的人。但是谁知道如何玩…
-
-medium.com](https://medium.com/@gkeretchashvili)
+<https://medium.com/@gkeretchashvili> 

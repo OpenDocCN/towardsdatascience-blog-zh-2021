@@ -149,11 +149,7 @@ for trial in range(trials):
 
 您可能也会对本文感兴趣:
 
-[](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) [## 用 Python 读 Excel 文件吗？有一个快 1000 倍的方法。
-
-### 在本文中，我将向您展示用 Python 加载数据的五种方法。实现了 3 个数量级的加速。
-
-towardsdatascience.com](/read-excel-files-with-python-1000x-faster-407d07ad0ed8) 
+</read-excel-files-with-python-1000x-faster-407d07ad0ed8>  
 
 # 关于作者
 

@@ -135,27 +135,7 @@ conversational_pipeline([conv1, conv2])
 
 希望你喜欢这篇文章！如果你喜欢我的作品，请订阅电子邮件列表，这样你就可以在我创作新内容时收到更新！如果感兴趣，也可以随意浏览我的其他帖子:
 
-[](/text-generation-with-pretrained-gpt2-using-pytorch-563c7c90700) [## 使用 Pytorch 通过预训练的 GPT2 生成文本
-
-### 使用 Huggingface 框架快速轻松地生成任何语言的文本
-
-towardsdatascience.com](/text-generation-with-pretrained-gpt2-using-pytorch-563c7c90700) [](/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012) [## 使用 Pytorch 回答关于预调变压器的问题
-
-### 学会在几分钟内建立一个任何语言的问答系统！
-
-towardsdatascience.com](/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012) [](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [## 使用 Pytorch 的变压器机器翻译
-
-### 只需简单的几个步骤就可以将任何语言翻译成另一种语言！
-
-towardsdatascience.com](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [](/abstractive-summarization-using-pytorch-f5063e67510) [## 使用 Pytorch 的抽象摘要
-
-### 总结任何文本使用变压器在几个简单的步骤！
-
-towardsdatascience.com](/abstractive-summarization-using-pytorch-f5063e67510) [](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) 
+</text-generation-with-pretrained-gpt2-using-pytorch-563c7c90700>  </question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012>  </machine-translation-with-transformers-using-pytorch-f121fe0ad97b>  </abstractive-summarization-using-pytorch-f5063e67510>  </semantic-similarity-using-transformers-8f3cb5bf66d6>  
 
 # 参考
 

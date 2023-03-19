@@ -401,24 +401,12 @@ print(movies.query(projection,expAttr,Keycondition))
 
 Github 回购
 
-[](https://github.com/rahulbanerjee26/DynamoDB_Boto3) [## rahulbanerjee26/DynamoDB_Boto3
-
-### 在 GitHub 上创建一个帐户，为 rahulbanerjee26/DynamoDB_Boto3 的开发做出贡献。
-
-github.com](https://github.com/rahulbanerjee26/DynamoDB_Boto3) 
+<https://github.com/rahulbanerjee26/DynamoDB_Boto3>  
 
 我最近用 WordPress 创建了一个博客，如果你能看看的话，我会很高兴的😃
 
- [## Python 项目教程-使用这些 Python 项目教程改进您的简历/作品集。
-
-### 使用 Streamlit 共享部署您的机器学习 Web 应用程序在我以前的文章中，我谈到过构建一个…
-
-realpythonproject.com](https://realpythonproject.com/) 
+  
 
 在 LinkedIn 上与我联系
 
-[](https://www.linkedin.com/in/rahulbanerjee2699/) [## Rahul baner JEE——产品工程实习生——EY | LinkedIn
-
-### 查看 Rahul Banerjee 在世界上最大的职业社区 LinkedIn 上的个人资料。拉胡尔有 4 个工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/rahulbanerjee2699/)
+<https://www.linkedin.com/in/rahulbanerjee2699/> 

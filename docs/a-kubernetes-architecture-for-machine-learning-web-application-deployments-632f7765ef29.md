@@ -23,11 +23,7 @@ Kubernetes 是否为机器学习增加了价值？机器学习需要大量的资
 
 如果您对本文感兴趣，您可能还会对以下内容感兴趣:
 
-[](/how-to-scale-the-training-of-several-models-64180480ca3d) [## 几款车型的训练如何规模化？
-
-### 这用 python 和 celery 描述了一个简单的架构来训练多个模型，而不增加总的…
-
-towardsdatascience.com](/how-to-scale-the-training-of-several-models-64180480ca3d) 
+</how-to-scale-the-training-of-several-models-64180480ca3d>  
 
 # 机器学习网络应用的定义
 

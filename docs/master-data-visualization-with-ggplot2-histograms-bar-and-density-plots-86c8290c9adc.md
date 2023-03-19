@@ -109,23 +109,7 @@
 
 *如果您错过了本系列的第一篇文章，或者对更多关于数据可视化的文章感兴趣，请查看以下内容:*
 
-*[](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [## 使用 ggplot2 的主数据可视化:散点图和箱线图
-
-### 使用散点图和箱线图的数据可视化指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) [## 为数据可视化创建自己的调色板——第 1 部分
-
-### 为数据可视化创建个人调色板的全面颜色指南。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845) [](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) [## 为数据可视化创建自己的调色板——第 2 部分
-
-### 平衡色调、色调和饱和度，以生成完美的颜色渐变。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) 
+*</master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </creating-your-own-color-palette-for-data-visualization-part-1-84df48954845>  </creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19>  
 
 完整代码的链接是[这里是](https://github.com/amalasi2418/Blog-post/tree/master/ggplot2%20tutorial%202)。
 

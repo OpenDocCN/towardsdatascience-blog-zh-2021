@@ -6,7 +6,7 @@
 
 ![](img/5cd3c958c3acc14802dfcbad0c06226a.png)
 
-艾通过作者创造艺术。更多例子上[](https://www.instagram.com/art_and_ai/)**；受香波特* [*的启发，https://unsplash.com/photos/bHlZX1D4I8g*](https://unsplash.com/photos/bHlZX1D4I8g)*
+艾通过作者创造艺术。更多例子上<https://www.instagram.com/art_and_ai/>**；受香波特* [*的启发，https://unsplash.com/photos/bHlZX1D4I8g*](https://unsplash.com/photos/bHlZX1D4I8g)*
 
 # *目录*
 

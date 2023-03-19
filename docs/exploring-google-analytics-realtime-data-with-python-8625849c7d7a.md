@@ -108,16 +108,4 @@ API 本身非常简单。可定制性很强的部分是`metrics`和`dimensions`�
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/62?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_62)
 
-[](/secure-password-handling-in-python-6b9f5747eca5) [## Python 中的安全密码处理
-
-### 借助这些简单的技巧和提示，在 Python 中保护您的密码和凭证
-
-towardsdatascience.com](/secure-password-handling-in-python-6b9f5747eca5) [](/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) [## Python 中压缩和归档文件的所有方法
-
-### 用 Python 压缩、解压缩和管理你可能需要的所有格式的档案和文件
-
-towardsdatascience.com](/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) [](/the-unknown-features-of-pythons-operator-module-1ad9075d9536) [## Python 的运算符模块的未知特性
-
-### 借助 Python 鲜为人知的操作符模块，使您的代码更快、更简洁、可读性更强、功能更强大
-
-towardsdatascience.com](/the-unknown-features-of-pythons-operator-module-1ad9075d9536)
+</secure-password-handling-in-python-6b9f5747eca5>  </all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b>  </the-unknown-features-of-pythons-operator-module-1ad9075d9536> 

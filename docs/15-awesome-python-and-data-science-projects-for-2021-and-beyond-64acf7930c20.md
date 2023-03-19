@@ -30,11 +30,7 @@
 
 以下项目对于理解 Python 和与该主题相关的基本概念的初级入门来说极其简单。尽管它很简单，但它对提高你的整体生产力非常有用。提供的链接将引导您从头开始构建这个项目的整个过程。
 
-[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) 
+</python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  
 
 第一个项目相当简单，完成这个项目的估计时间应该在 30 分钟到 2 小时之间，这取决于程序员的兴趣和技能。但是，从后面提到的项目难度范围会逐渐增加。
 
@@ -48,11 +44,7 @@ python 和机器学习的一个重要方面是理解这些概念背后的数学�
 
 要完成这项任务，主要要求是了解矩阵的工作原理。完整的解释和指导可以从我下面的文章中获得。但是，如果您只是对这个编码问题的基本要点感兴趣，并想尝试自己解决这个问题，那么使用下面的参考段落来帮助您开始。
 
-[](/python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726) [## Python 从头编码:没有任何机器学习库的矩阵乘法！
-
-### 从零开始了解如何在没有任何机器学习库的情况下实现矩阵乘法！
-
-towardsdatascience.com](/python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726) 
+</python-coding-from-scratch-matrix-multiplication-without-any-machine-learning-libraries-463624fe8726>  
 
 我解决这个问题的方法是从用户那里获取所有的输入。这些是第一和第二矩阵的行数和列数。同样，根据每个矩阵的行数和列数，我们将相应地分别填充备选位置。
 
@@ -131,11 +123,7 @@ scikit-learn 模块是机器学习和预测数据分析的最佳工具之一。�
 
 对于自然语言处理和情感分析概念的详细理解，我的建议是这里的链接。如果你愿意，你可以旁听课程。我还建议查看下面的文章，了解关于这个主题的更多信息。
 
-[](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) [## 4 个基本正则表达式操作符使自然语言处理变得更简单！
-
-### 了解四种基本的常规操作，以清理几乎任何类型的可用数据。
-
-towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) 
+</natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1>  
 
 # 中间的
 
@@ -191,11 +179,7 @@ OpenCV 模块是迄今为止执行复杂机器学习、深度学习和计算机�
 
 下面提到的文章链接是从零开始掌握计算机视觉基础的简明指南。我已经涵盖了初学者入门的所有基本方面，并对 OpenCV 模块以及如何操作各种图像有了全面详细的理解。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 ## 8.GTTS 和 OCR:
 
@@ -207,15 +191,7 @@ towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of
 
 下面是两篇文章的列表，对于您熟悉用于语音翻译的 Google 文本到语音模块和用于光学字符识别的 pytesseract 模块非常有用。请参考下面的文章，获得全面的入门指南，并一起使用它们执行项目。
 
-[](/how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544) [## 如何使用 Python 开始使用 Google 文本到语音转换
-
-### 从零开始的文本到语音转换简介
-
-towardsdatascience.com](/how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544) [](/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab) [## 使用 Python 开始光学字符识别
-
-### 对光学字符识别从无到有的直观理解和简要介绍
-
-towardsdatascience.com](/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab) 
+</how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544>  </getting-started-with-optical-character-recognition-using-python-e4a9851ddfab>  
 
 ## 9.面部识别:
 
@@ -229,11 +205,7 @@ haar 级联分类器可以用于面部检测的目的，并且准确地检测帧
 
 下面是我使用 VGG-16 迁移学习的方法建立的人脸识别模型的例子，用于在通过 haar 级联分类器执行人脸检测之后进行人脸识别。请查看它，了解关于如何构建自己的人脸识别模型的更详细的解释。
 
-[](/smart-face-lock-system-6c5a77aa5d30) [## 智能面部锁定系统
-
-### 建立高精度人脸识别模型
-
-towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30) 
+</smart-face-lock-system-6c5a77aa5d30>  
 
 上面的链接是一个高精度人脸识别系统的示例，该系统使用深度学习和迁移学习方法来授予授权用户访问权限，并拒绝未经授权的人员的权限。使用图像数据增加和转移学习模型的方法，授权用户面部的面部识别模型以高准确度水平进行预测。
 
@@ -247,11 +219,7 @@ towardsdatascience.com](/smart-face-lock-system-6c5a77aa5d30)
 
 对特定用户发短信或打字的下一个单词的预测可能非常棒。通过了解用户的短信模式，可以节省大量时间。这也可以用来创建一个更大的虚拟助手项目来完成某些句子。总的来说，预测搜索系统和下一个单词预测是一个非常有趣的概念。你可以看看我下面的文章，它涵盖了预测接下来单词的深度学习方法论。
 
-[](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [## 基于自然语言处理和深度学习的下一个单词预测
-
-### 使用 LSTM 设计单词预测系统
-
-towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) 
+</next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf>  
 
 上面提到的资源使用基于 LSTM 的深度学习模型，该模型采用输入单词或句子，并预测下一个合适的单词。该深度学习模型使用具有自然语言处理的长短期记忆的概念，用于语料库和文本数据的预处理。使用自定义顺序模型来预测适当的下一个单词。它在社交媒体中有广泛的应用，用于下一个单词的预测。
 
@@ -267,15 +235,7 @@ towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0
 
 一种方法更适合像 raspberry pi 这样的嵌入式系统，另一种方法用于 PC 相关的实时网络摄像头对象检测。下面这两个资源是开始使用对象检测/对象跟踪的一些最佳方法，它们也有详细解释它们的 YouTube 视频。请务必查看这些资源，以便更好地理解对象检测。
 
-[](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) [## edjee electronics/tensor flow-Lite-Android-and-Raspberry-Pi 上的对象检测
-
-### 本指南展示了如何训练 TensorFlow Lite 对象检测模型，并在 Android、Raspberry Pi 和
-
-github.com](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) [](https://github.com/theAIGuysCode/Object-Detection-API) [## 代码/对象检测 API
-
-### Yolov3 是一种使用深度卷积神经网络来执行对象检测的算法。此存储库…
-
-github.com](https://github.com/theAIGuysCode/Object-Detection-API) 
+<https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi>  <https://github.com/theAIGuysCode/Object-Detection-API>  
 
 ## 12.高级创新聊天机器人:
 
@@ -285,11 +245,7 @@ github.com](https://github.com/theAIGuysCode/Object-Detection-API)
 
 具有神经网络和自然语言处理(NLP)的深度学习算法是当今使用的最流行的聊天机器人方法。还有很多其他的机器学习算法可以使用。在深度学习中，使用更普遍的 LSTMs，并且优先考虑顺序到顺序的模型。下面是一个由我从头开始构建的创新聊天机器人的例子。
 
-[](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
-
-### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
-
-towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) 
+</innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc>  
 
 > 上面提到的资源是一个具有一维卷积层的创新聊天机器人。
 
@@ -319,15 +275,7 @@ Seq2seq 把一个序列变成另一个序列。它通过使用递归神经网络
 
 下面的链接是我通过使用计算机视觉、数据增强和库(如 TensorFlow 和 Keras)的方法来建立深度学习模型而完成的一个深度学习项目的参考。我强烈建议观众查看下面的两部分系列，了解如何计算以下高级计算机视觉任务的完整分解、分析和理解。此外，请务必参考上一节中提供的 Google 文本到语音链接，以了解文本到语音的有声文本转换是如何工作的。
 
-[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
-
-### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
-
-### 深入探究人类情感和手势识别
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+</human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb>  </human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023>  
 
 上面提供的链接代表了一种识别人类情绪和手势的计算机视觉和深度学习模型。该模型还提供声音响应，并相应地对相应的情绪或手势进行分类。使用深度学习技术和定制的顺序模型来实现对人类情绪的高准确性，并基于 VGG-16 架构进行手势识别的转移学习。
 
@@ -361,26 +309,6 @@ GANs 是一个不可否认的未来趋势，它将永远革新人工智能。GAN
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [## 学数据科学需要付费吗？
-
-### 钱是学习数据科学的必备条件吗？分析最好的免费资源和有用的链接，以获得…
-
-towardsdatascience.com](/do-you-need-to-pay-to-learn-data-science-e71f75493e5a) [](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [](/7-tips-to-increase-your-productivity-in-python-bc1835622aa5) [## 提高 Python 生产率的 7 个技巧
-
-### 7 个技巧将帮助您改善编程效果，并提高 Python 的工作效率。
-
-towardsdatascience.com](/7-tips-to-increase-your-productivity-in-python-bc1835622aa5) [](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) [## 理解 Python 中的二分搜索法算法
-
-### 详细了解二分搜索法算法的工作原理及其在 python 中的实现。
-
-towardsdatascience.com](/understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7) 
+</do-you-need-to-pay-to-learn-data-science-e71f75493e5a>  </12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  </everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  </7-tips-to-increase-your-productivity-in-python-bc1835622aa5>  </understanding-the-binary-search-algorithm-in-python-5f41b5e6dbb7>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

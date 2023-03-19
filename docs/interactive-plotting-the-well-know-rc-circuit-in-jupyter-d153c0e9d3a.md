@@ -28,11 +28,7 @@ Ipywidgets 允许您通过像滑块和按钮这样的小部件来交互式地控
 
 此外，这篇文章是在 ipywidgets 上的一篇文章之后发表的，在这篇文章中，我展示了如何使用 3D 矢量来可视化噪声分解， ***检查嵌入的 gif 以获得剧透*** :
 
-[](/use-ipywidgets-and-matplotlib-to-visualize-noise-decomposition-in-3d-this-is-pythagorean-371ac9769aea) [## 使用 ipywidgets 和 matplotlib 在 3D 中可视化噪声分解:这是毕达哥拉斯
-
-### 从 ipywidgets 开始的快速简单的代码。
-
-towardsdatascience.com](/use-ipywidgets-and-matplotlib-to-visualize-noise-decomposition-in-3d-this-is-pythagorean-371ac9769aea) 
+</use-ipywidgets-and-matplotlib-to-visualize-noise-decomposition-in-3d-this-is-pythagorean-371ac9769aea>  
 
 # RC 电路:建立方程及其解
 

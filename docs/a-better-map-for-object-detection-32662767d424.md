@@ -201,19 +201,7 @@ EfficientDet-D0 与 EfficientDet-D7 的潮汐图(来源:作者提供的图片)
 
 > 我们希望这篇博文对你有用，请看看我们团队在 Forsight 上写的其他一些博客，如果你有任何问题，请随时通过 **info@forsight.ai** 联系我们！
 
-[](/new-tf2-object-detection-api-5c6ea8362a8c) [## 新 TF2 对象检测 API
-
-### 欢迎新动物进入动物园——模型评估
-
-towardsdatascience.com](/new-tf2-object-detection-api-5c6ea8362a8c) [](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87) [## 建筑壮举。TF2 对象检测 API
-
-### 你受到保护了吗？
-
-medium.com](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87) [](/understand-your-algorithm-with-grad-cam-d3b62fce353) [## 使用 Grad-CAM 了解您的算法
-
-### 当 AI 是一个黑匣子时，我们为什么要足够信任它来驾驶汽车，检测疾病，识别嫌疑人？
-
-towardsdatascience.com](/understand-your-algorithm-with-grad-cam-d3b62fce353) 
+</new-tf2-object-detection-api-5c6ea8362a8c>  <https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87>  </understand-your-algorithm-with-grad-cam-d3b62fce353>  
 
 # 参考
 

@@ -85,7 +85,7 @@ XGBoost(代表极端梯度增强)最初是由陈天琦在 2014 年开发的，�
 
 ## 3.2.基于直方图的梯度增强
 
-用宁滨(离散化)对数据进行分组，这是一种数据预处理方法，这里[](/an-overview-of-data-preprocessing-features-enrichment-automatic-feature-selection-60b0c12d75ad)****已经解释过了。**例如，当给定‘年龄’列时，将这些数据分为 30–40、40–50、50–60 三组，然后将其转换为数值数据，这是一种非常有效的方法。当这种宁滨方法适用于决策树时，通过减少特征的数量，它加快了算法的速度。这种方法也可以通过用直方图对树进行分组而在每个树的构造中用作集成。scikit 学习库提供的方法:**
+用宁滨(离散化)对数据进行分组，这是一种数据预处理方法，这里</an-overview-of-data-preprocessing-features-enrichment-automatic-feature-selection-60b0c12d75ad>****已经解释过了。**例如，当给定‘年龄’列时，将这些数据分为 30–40、40–50、50–60 三组，然后将其转换为数值数据，这是一种非常有效的方法。当这种宁滨方法适用于决策树时，通过减少特征的数量，它加快了算法的速度。这种方法也可以通过用直方图对树进行分组而在每个树的构造中用作集成。scikit 学习库提供的方法:**
 
 ## **3.3.光增强**
 
@@ -130,8 +130,4 @@ XGBoost(代表极端梯度增强)最初是由陈天琦在 2014 年开发的，�
 
 ## **回到指引点击[这里](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)。**
 
-**[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 本文旨在准备一个机器学习数据库，以便在一个视图中显示所有的机器学习标题。这个…
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)**
+**<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> **

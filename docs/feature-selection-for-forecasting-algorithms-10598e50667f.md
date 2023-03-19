@@ -227,4 +227,4 @@ backtest_regressor_results %>%
 *   预测中的特征选择是选择性能和计算成本之间的折衷。
 *   在预测中选择直接衡量预测性能的功能的一种方法是，在没有回归变量的情况下对预测进行回溯测试，然后拟合线性回归模型，以了解给定预测和回归变量的实际情况。如果 p 值较低，选择回归变量。
 
-*原载于 2021 年 8 月 23 日 https://jackbakerds.com*[](https://jackbakerds.com/posts/forecasting-feature-selection/)**。**
+*原载于 2021 年 8 月 23 日 https://jackbakerds.com*<https://jackbakerds.com/posts/forecasting-feature-selection/>**。**

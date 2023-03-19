@@ -154,10 +154,6 @@ endpoint.delete()
 
 干得好！本课还有最后一节是关于批量预测的！与此同时，如果您有任何问题，请直接联系 TigerGraph Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 578 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 感谢您阅读这篇博客，希望您继续探索 TigerGraph！

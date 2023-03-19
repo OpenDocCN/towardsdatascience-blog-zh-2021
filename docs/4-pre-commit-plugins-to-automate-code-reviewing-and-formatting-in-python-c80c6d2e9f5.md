@@ -213,31 +213,15 @@ $ git commit -m 'add pre-commit examples' --no-verify
 
 **随意发挥，并在这里叉这篇文章的源代码:**
 
-**[](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples) [## 数据科学/生产工具/预提交-master khuyentran 1401/数据科学示例
-
-### 有用的数据科学主题以及代码和文章的集合…
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples)** 
+**<https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples> ** 
 
 **我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。**
 
 **星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:**
 
-**[](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [## Datapane 简介:构建交互式报表的 Python 库
+**</introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 创建精美报告并与您的团队分享分析结果的简单框架
-
-towardsdatascience.com](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [## Pydash:缺少 Python 实用程序的厨房水槽
-
-### 以函数的方式使用 Python
-
-towardsdatascience.com](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [## 模式介绍:验证数据的 Python 库
-
-### 验证您的数据变得更加复杂！
-
-towardsdatascience.com](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) 
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </pydash-a-bucket-of-missing-python-utilities-5d10365be4fc>  </introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  
 
 # 参考
 

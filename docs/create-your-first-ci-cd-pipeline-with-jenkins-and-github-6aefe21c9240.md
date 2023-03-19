@@ -33,11 +33,7 @@
 
 如果你想学习 docker，我创建了一个 GitHub 库来解释 docker 的基础和中间概念。解释用简单的英语组织在降价文件中，每节课后都会提到一些资源。
 
-[](https://github.com/pratik-choudhari/docker-guide) [## GitHub-pratik-choudhari/docker-guide:以最简单的方式学习 docker🐳
-
-### 在这个资源库中，我记录了我所知道的关于 docker 的每一件事。的…
-
-github.com](https://github.com/pratik-choudhari/docker-guide) 
+<https://github.com/pratik-choudhari/docker-guide>  
 
 最后，我们需要在 GitHub 这样的 VCS 上建立一个项目存储库。
 

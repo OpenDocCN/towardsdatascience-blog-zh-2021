@@ -72,7 +72,7 @@ print(fps)#result
 
 作者图片
 
-这几行是我写的一首诗，叫做《大树下的[](https://sonsuzdesign.blog/2019/12/14/under-the-giant-tree/)*》。*
+这几行是我写的一首诗，叫做《大树下的<https://sonsuzdesign.blog/2019/12/14/under-the-giant-tree/>*》。*
 
 *确保每个句子都在新的一行。在阅读文本文档时，我们会将每一行转换成一个列表项。*
 
@@ -146,12 +146,4 @@ poem_lines = list(poem)print(poem_lines)*
 
 ## *更多计算机视觉和机器学习相关的项目*
 
-*[](/building-a-face-recognizer-in-python-7fd6630c6340) [## 用 Python 构建人脸识别器
-
-### 使用 OpenCv 库进行实时人脸识别的分步指南
-
-towardsdatascience.com](/building-a-face-recognizer-in-python-7fd6630c6340) [](/extracting-speech-from-video-using-python-f0ec7e312d38) [## 使用 Python 从视频中提取语音
-
-### 使用 Google 语音识别 API 的简单实用项目
-
-towardsdatascience.com](/extracting-speech-from-video-using-python-f0ec7e312d38)*
+*</building-a-face-recognizer-in-python-7fd6630c6340>  </extracting-speech-from-video-using-python-f0ec7e312d38> *

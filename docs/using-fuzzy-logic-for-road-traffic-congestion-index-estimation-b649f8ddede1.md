@@ -25,11 +25,7 @@
 
 STMs 的概念最近才出现[ [2](https://www.researchgate.net/publication/344138884_Traffic_State_Estimation_and_Classification_on_Citywide_Scale_Using_Speed_Transition_Matrices) ]，它基于马尔可夫链理论，表示被观察系统的两个或多个状态之间的转移概率。STM 表示矩阵，该矩阵示出了在某个时间间隔内在两个连续路段之间过渡时改变车辆速度的概率。关于 STMs 的详细信息可以在以下文章中找到:
 
-[](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) [## 速度转移矩阵:一种新的道路交通数据建模技术
-
-### 对道路交通数据建模的方法有很多种。研究人员大多使用某种时间序列…
-
-medium.com](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) 
+<https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1>  
 
 # 质心
 
@@ -45,11 +41,7 @@ medium.com](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-ro
 
 > 关于用 Python 实现模糊推理系统的有趣教程可以在[ [4](/fuzzy-inference-system-implementation-in-python-8af88d1f0a6e) 中找到。
 
-[](/fuzzy-inference-system-implementation-in-python-8af88d1f0a6e) [## 模糊推理系统的 Python 实现
-
-### “一个故事在远处听起来总是很清楚，但你越靠近事件现场，它就越模糊……
-
-towardsdatascience.com](/fuzzy-inference-system-implementation-in-python-8af88d1f0a6e) 
+</fuzzy-inference-system-implementation-in-python-8af88d1f0a6e>  
 
 在这里，模糊推理系统(FIS)派上了用场！FIS 可以用语言术语表示变量，用隶属函数表示具有特定术语的隶属度。让我们使用下面的图像来显示上述温度示例:
 

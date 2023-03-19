@@ -22,15 +22,7 @@
 
 在之前的两篇帖子中，我介绍了数据科学访谈中问到的几个基本 SQL 技能，这对初学者读者来说是一个很好的开始:
 
-[](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的重要 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [## 2021 年数据科学家面临的 4 个棘手的 SQL 问题
-
-### 可能会让你犯错的简单查询
-
-towardsdatascience.com](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) 
+</essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77>  
 
 在今天的帖子中，我对 FAANG 公司提出的 5 个真实的面试问题进行了现场编码和思考。这些问题都是 LeetCode 上的中级题，第一次试用解决不了的请放心。
 
@@ -442,23 +434,11 @@ AND SUM(CASE WHEN product_name = ‘G4’ THEN 1 ELSE 0 END) = 0**
 
 ***Medium 最近进化出了自己的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。***
 
-**[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)** 
+**<https://leihua-ye.medium.com/membership> ** 
 
 # **我的数据科学面试序列**
 
-**[](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) 
+**</online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  </5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  
 
 # 喜欢读这本书吗？
 

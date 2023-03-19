@@ -64,11 +64,7 @@ Autoencoder 是一种无监督的神经网络，它尝试将输出层重建为�
 
 跟随我的另一篇文章，逐步实现作为特征提取器的 autoencoder:
 
-[](/improve-your-model-performance-with-auto-encoders-d4ee543b4154) [## 使用自动编码器提高模型性能
-
-### 使用自动编码器作为特征提取器
-
-towardsdatascience.com](/improve-your-model-performance-with-auto-encoders-d4ee543b4154) 
+</improve-your-model-performance-with-auto-encoders-d4ee543b4154>  
 
 # 3)图像去噪:
 
@@ -126,10 +122,6 @@ towardsdatascience.com](/improve-your-model-performance-with-auto-encoders-d4ee5
 
 喜欢这篇文章吗？成为 [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

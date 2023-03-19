@@ -120,15 +120,7 @@
 
 PS 更多[商业科学](https://medium.com/tag/business-science)来自我的写作:
 
-[](/markdowns-from-descriptive-to-prescriptive-ec729c4cce82) [## 降价:从描述性到规定性
-
-### 3 种分析方法来回收价值和防止浪费
-
-towardsdatascience.com](/markdowns-from-descriptive-to-prescriptive-ec729c4cce82) [](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) [## 时尚被打破了。科学正在修复它
-
-### 转变 5 个核心时尚流程
-
-towardsdatascience.com](/fashion-is-broken-science-is-fixing-it-b771b1ab5b59) 
+</markdowns-from-descriptive-to-prescriptive-ec729c4cce82>  </fashion-is-broken-science-is-fixing-it-b771b1ab5b59>  
 
 ```
 Monthly Business Science in your inbox, new software, and University-level learning:[**Free access**](https://evouser.com/register)Questions? Please reach out on [Linkedin](https://www.linkedin.com/in/fabrizio-fantini/)

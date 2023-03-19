@@ -166,24 +166,12 @@ sigmoid 乘积稍后与第二层矩阵相乘，并通过 softmax 函数得到大
 
 如果你是深度学习的新手，请查看我之前的博客，深度学习的初学者指南:
 
-[](/classifying-cats-vs-dogs-a-beginners-guide-to-deep-learning-4469ffed086c) [## 给猫和狗分类。深度学习初学者指南
-
-### 利用 fast.ai 的视觉库和渐变社区笔记本
-
-towardsdatascience.com](/classifying-cats-vs-dogs-a-beginners-guide-to-deep-learning-4469ffed086c) 
+</classifying-cats-vs-dogs-a-beginners-guide-to-deep-learning-4469ffed086c>  
 
 此外，请查看由[普拉桑娜·德瓦迪加](https://medium.com/u/eabfa50e7559?source=post_page-----b08e401c4dab--------------------------------)撰写的关于 AGI 的一些精彩内容:
 
- [## 我对(xyz)的看法
-
-### "一系列的博客文章，在这些文章中我表达了我对不同主题的想法."岗位 1: AGI
-
-devadigaprasanna28.medium.com](https://devadigaprasanna28.medium.com/my-thoughts-on-xyz-61dc4ad833e) 
+  
 
 GitHub 资源库:
 
-[](https://github.com/karynaur/mnist-from-numpy) [## karynaur/mnist-from-numpy
-
-### 尝试从 python numpy-karynaur/mnist-from-numpy 创建 MNIST 数字分类器
-
-github.com](https://github.com/karynaur/mnist-from-numpy)
+<https://github.com/karynaur/mnist-from-numpy> 

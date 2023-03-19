@@ -50,40 +50,8 @@ Solen Feyissa 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [## 美汤网刮
-
-### 用于解析 HTML 的 Python 库
-
-python .平原英语. io](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [## 这周我学到了一些东西——para miko 的远程文件管理
-
-### 另一个 Python 包来拯救…
-
-python .平原英语. io](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [](/all-about-big-data-ae01afacc081) [## 关于大数据的一切
-
-### 深入探讨什么是大数据以及如何存储大数据
-
-towardsdatascience.com](/all-about-big-data-ae01afacc081) [](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [## 我不擅长编码
-
-### 使用 Pylint 审查我的代码…
-
-python .平原英语. io](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) [## Python 中的数组、列表和字典
-
-### 比较 Python 中不同的数据存储类型
-
-python .平原英语. io](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) 
+<https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32>  <https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4>  </all-about-big-data-ae01afacc081>  <https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06>  <https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e>  
 
 参考资料:
 
-[](https://www.sas.com/en_us/insights/analytics/deep-learning.html) [## 什么是深度学习？
-
-### 深度学习可以应用的另一种方式是简单地在现有的分析中更加有效和简化…
-
-www.sas.com](https://www.sas.com/en_us/insights/analytics/deep-learning.html) [](https://www.sas.com/en_us/insights/analytics/neural-networks.html) [## 神经网络-它们是什么，为什么重要？
-
-### 了解神经网络在海量原始数据中进行聚类、分类和查找模式的能力。查找…
-
-www.sas.com](https://www.sas.com/en_us/insights/analytics/neural-networks.html) [](https://searchenterpriseai.techtarget.com/definition/deep-learning-deep-neural-network) [## 什么是深度学习，它是如何工作的？
-
-### 深度学习是一种机器学习和人工智能(AI)的类型，它模仿人类获得某些知识的方式
-
-searchenterpriseai.techtarget.com](https://searchenterpriseai.techtarget.com/definition/deep-learning-deep-neural-network)
+<https://www.sas.com/en_us/insights/analytics/deep-learning.html>  <https://www.sas.com/en_us/insights/analytics/neural-networks.html>  <https://searchenterpriseai.techtarget.com/definition/deep-learning-deep-neural-network> 

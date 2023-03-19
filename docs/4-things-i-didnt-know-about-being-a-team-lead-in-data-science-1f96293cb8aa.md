@@ -60,16 +60,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [## 作为数据科学家起步的三大挑战
-
-### 我作为一名年轻的数据科学家所面临的问题以及我是如何克服这些问题的
-
-towardsdatascience.com](/top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09) [](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [## 为什么 2021 年你需要一位数据科学导师
-
-### 问导师的 5 件事对你的职业和学习有帮助
-
-towardsdatascience.com](/why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7) [](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6) [## 数百份工作申请后的五大经验教训
-
-### 看看在我找工作的过程中，哪些变化对我有帮助
-
-towardsdatascience.com](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6)
+</top-3-challenges-with-starting-out-as-a-data-scientist-705757a6fc09>  </why-you-need-a-data-science-mentor-in-2021-f2ca7372c7a7>  </top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6> 

@@ -77,11 +77,7 @@ Streamlit 应用程序设置(作者截图)
 
 # 整个代码和结论
 
-[](https://github.com/RamVegiraju/MoodDetectionApp) [## RamVegiraju/MoodDetectionApp
-
-### AWS 识别的情绪检测。通过在…上创建帐户，为 RamVegiraju/MoodDetectionApp 开发做出贡献
-
-github.com](https://github.com/RamVegiraju/MoodDetectionApp) 
+<https://github.com/RamVegiraju/MoodDetectionApp>  
 
 要访问该项目的完整代码，请单击上方的链接**。Auto-AI 正在快速扩张，AWS、Azure 和 GCP 等云提供商也在增长，并提供各种尖端服务，如 Rekognition，使您能够以简单的方式使用 ML 来支持应用程序。对于数据科学家和那些没有 ML 背景的人来说，Rekognition 对于快速启动和运行计算机视觉应用程序非常有用。在这些[博客](https://aws.amazon.com/blogs/machine-learning/tag/amazon-rekognition/)中查看一些更酷的 AWS 重新识别用例。**
 

@@ -10,11 +10,7 @@
 
 > 查看此处开发的动作:
 
-[](https://github.com/kaustubhgupta/readme-projects-display) [## kaustubhgupta/readme-项目-显示
-
-### GitHub 的个人资料自述文件是向潜在的招聘人员/开发人员展示您的技能和项目的一个很好的工具。这个…
-
-github.com](https://github.com/kaustubhgupta/readme-projects-display) 
+<https://github.com/kaustubhgupta/readme-projects-display>  
 
 # 为什么是 Python？
 
@@ -103,20 +99,4 @@ GitHub 制作了一个流程，用于制作一个动作供其他用户使用。�
 
 查看我的其他以 Python 为中心的文章:
 
-[](/rebuilding-my-7-python-projects-8c629079c8e6) [## 重建我的 7 个 Python 项目
-
-### 这就是我如何重建我的 Python 项目:数据科学、Web 开发和 Android 应用程序
-
-towardsdatascience.com](/rebuilding-my-7-python-projects-8c629079c8e6) [](/3-ways-to-convert-python-app-into-apk-77f4c9cd55af) [## 将 Python 应用程序转换为 APK 的 3 种方法
-
-### 结束构建 Python 系列的 Android 应用程序！
-
-towardsdatascience.com](/3-ways-to-convert-python-app-into-apk-77f4c9cd55af) [](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [## 在网站上运行 Python 代码:探索 Brython
-
-### Python 中的 JavaScript 等效脚本
-
-towardsdatascience.com](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [](/building-android-apps-with-python-part-1-603820bebde8) [## 用 Python 构建 Android 应用程序:第 1 部分
-
-### 使用 Python 构建 Android 应用程序的分步指南
-
-towardsdatascience.com](/building-android-apps-with-python-part-1-603820bebde8)
+</rebuilding-my-7-python-projects-8c629079c8e6>  </3-ways-to-convert-python-app-into-apk-77f4c9cd55af>  </run-python-code-on-websites-exploring-brython-83c43fb7ac5f>  </building-android-apps-with-python-part-1-603820bebde8> 

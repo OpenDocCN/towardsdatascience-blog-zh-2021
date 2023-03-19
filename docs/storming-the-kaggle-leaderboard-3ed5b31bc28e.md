@@ -10,11 +10,7 @@
 
 当我研究深度学习时，我喜欢通过参加 Kaggle 比赛来实践理论。之前，我用 TensorFlow 创建了一个卷积神经网络，以加入 Kaggle 上的猫与狗比赛。这个卷积神经网络让我在 Kaggle 公共排行榜上排名 833。
 
-[](/recognizing-cats-and-dogs-with-tensorflow-105eb56da35f) [## 用张量流识别猫狗
-
-### 使用 TensorFlow 创建一个神经网络来识别猫和狗
-
-towardsdatascience.com](/recognizing-cats-and-dogs-with-tensorflow-105eb56da35f) 
+</recognizing-cats-and-dogs-with-tensorflow-105eb56da35f>  
 
 CNN 的准确率在 90%左右。我想努力提高我的模型的准确性，并在 Kaggle 排行榜上上升。我将使用迁移学习来增强我的模型。迁移学习是一种技术，在这种技术中，您可以重用其他人训练的模型作为您的模型的起点。TensorFlow Keras 包含几个内置的预训练模型[，您可以使用](https://keras.io/api/applications/)。
 

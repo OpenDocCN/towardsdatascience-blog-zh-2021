@@ -29,11 +29,7 @@
 
 最近，我们看到了推文如何推动加密货币的价格。在 Elon Musk 的一系列推文引发推文风暴后，dogecoin 的价格大幅飙升。Twitter 无疑被视为突发新闻的良好来源。如果一个人能够尽早抓住趋势，那么这肯定可以货币化*。(*请注意，这仍有风险)
 
-[](https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329) [## 比特币推文——1600 万条推文
-
-### 推文到情绪分析
-
-www.kaggle.com](https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329) 
+<https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329>  
 
 这是一个 kaggle 数据集，从 2016 年到 2019 年，它有 1600 万条与比特币相关的推文。这个数据集可以与比特币价格结合起来，以检查两者之间的模式和任何关系。
 
@@ -52,11 +48,7 @@ Twitter 数据不是一个干净的数据源，它通常需要处理，因为它
 
 亚马逊评论数据集有大约 30 种不同产品类别的客户评论。可以通过下面的链接下载和分析，
 
- [## 亚马逊评论数据
-
-### 该数据集是 2014 年发布的亚马逊评论数据集的更新版本。如前所述…
-
-nijianmo.github.io](https://nijianmo.github.io/amazon/index.html) 
+  
 
 这一最新的亚马逊评论数据集于 2018 年发布，包含 1996 年至 2018 年发布的 2.331 亿条客户评论。它包括详细信息，如评论者 id、产品 id、评论文本、评论者姓名、评论的有用性、产品评级和时间戳。
 
@@ -81,11 +73,7 @@ nijianmo.github.io](https://nijianmo.github.io/amazon/index.html)
 *   通过社区编辑打开的低质量帖子
 *   未经任何编辑就关闭的低质量帖子
 
-[](https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate) [## 60k 堆栈溢出问题和质量评级
-
-### 2016-2020 年的问题根据质量分为三类
-
-www.kaggle.com](https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate) 
+<https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate>  
 
 文本分类是一种常见的 NLP 用例，在组织中广泛实施。举个例子，
 
@@ -109,11 +97,7 @@ www.kaggle.com](https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-
 
 下面的 kaggle 数据集是一个高质量的数据集，用于构建识别讽刺的模型。到数据集的链接是，
 
-[](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) [## 用于讽刺检测的新闻标题数据集
-
-### 用于讽刺检测任务的高质量数据集
-
-www.kaggle.com](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) 
+<https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection>  
 
 大多数情况下，我们试图在 Twitter 数据上识别讽刺，但很难获得高质量的数据集，讽刺性的推文大多是对推文的回复，因此没有上下文或原始推文，很难识别讽刺。
 
@@ -129,11 +113,7 @@ www.kaggle.com](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm
 
 同样，组织需要检查假新闻，因为这可能会损害他们的声誉。下面的 kaggle 数据集有大约 20，000 条真实和虚假的新闻，这可以用来建立一个预测假新闻的算法。
 
-[](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv) [## 真假新闻数据集
-
-### 新闻分类
-
-www.kaggle.com](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv) 
+<https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv>  
 
 # 结束语
 

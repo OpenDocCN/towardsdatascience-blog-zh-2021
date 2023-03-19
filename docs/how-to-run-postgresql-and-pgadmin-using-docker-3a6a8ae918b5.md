@@ -56,11 +56,7 @@ services:
 
 在我以前的 Docker 帖子中，我已经谈到了**重启、环境**和**端口**标签的使用。看看下面的帖子，你可以学习这些标签。
 
-[](/how-to-run-postgresql-using-docker-15bf87b452d4) [## 如何使用 Docker 运行 PostgreSQL
-
-### 轻松运行 PostgreSQL
-
-towardsdatascience.com](/how-to-run-postgresql-using-docker-15bf87b452d4) 
+</how-to-run-postgresql-using-docker-15bf87b452d4>  
 
 现在从 **docker-compose.yml** 文件所在的目录运行下面的命令。
 
@@ -123,11 +119,7 @@ docker inspect fcc97e066cc8 | grep IPAddress
 
 对于第二种方法，您可以将一个 **pgAdmin** docker 容器连接到一个正在运行的 **PostgreSQL** 容器。当您的 **docker-compose.yml** 文件中没有 **pgAdmin** 服务时，这很有帮助。看看下面的帖子，在那里你可以学到这个方法。
 
-[](/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7) [## 如何使用 Docker 运行 MySQL 和 phpMyAdmin
-
-### Docker 简化了 MySQL 管理
-
-towardsdatascience.com](/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7) 
+</how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7>  
 
 ## 额外的
 
@@ -139,12 +131,4 @@ towardsdatascience.com](/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107ea
 
 # 相关职位
 
-[](/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66) [## 如何使用 Docker 通过 pgadmin4 连接到 Heroku Postgres 数据库
-
-### 了解世界上最先进的开源关系数据库。
-
-towardsdatascience.com](/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66) [](/how-to-run-mysql-using-docker-ed4cebcd90e4) [## 如何使用 Docker 运行 MySQL
-
-### 轻松运行 MySQL
-
-towardsdatascience.com](/how-to-run-mysql-using-docker-ed4cebcd90e4)
+</how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66>  </how-to-run-mysql-using-docker-ed4cebcd90e4> 

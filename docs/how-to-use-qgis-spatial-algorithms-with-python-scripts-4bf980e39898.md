@@ -10,15 +10,7 @@ QGIS 是您学习 GIS 和空间分析时最先接触到的工具之一。使用�
 
 如果你想了解更多关于位置(地理空间)数据如何变得越来越重要，以及它是数据分析的前进方向，请查看我关于这个主题的文章。
 
-[](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) [## 为什么地理空间数据是数据分析的发展方向？- Samashti |博客
-
-### 在过去的 10 年里，数据科学和分析已经成为各地的热门话题。数据分析帮助了…
-
-www.samashti.space](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) [](https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson) [## 为什么需要使用 Geopackage 文件而不是 shapefile 或 GeoJSON？- Samashti |博客
-
-### 如果您一直在使用矢量数据并进行空间分析，您应该知道 shapefile 和 geojson。这是其中的两个…
-
-www.samashti.space](https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson) 
+<https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics>  <https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson>  
 
 作为其 python API 的一部分，QGIS 在其软件上提供了一个 python 控制台。您可以使用它来访问几乎所有内容，从 QGIS 菜单和图层到在数据图层上运行一些算法。控制台很好地处理了一些小规模的功能执行。但是，如果目标是处理复杂的工作流和更大的数据集，这个控制台就失去了光泽。它具有基本的功能，但缺乏复杂工作流程所需的复杂性。
 
@@ -211,12 +203,4 @@ processing.run("native:centroids", parameters)# this would print out the output,
 
 如果你喜欢这篇文章，请订阅我的[博客](https://samashti.space)，并获得关于未来博客文章的通知。如有任何疑问或讨论，您可以在 [LinkedIn](https://www.linkedin.com/in/nikhilhubballi/) 和 [Twitter](https://twitter.com/samashti_) 上找到我。看看我以前的博客，关于如何免费对地址进行地理编码。
 
-[](https://www.samashti.space/articles/how-to-geocode-addresses-for-free) [## 如何免费对地址进行地理编码？- Samashti |博客
-
-### 近年来，位置数据的使用一直在增加。我们做的每件事都有地理标签。可能是……
-
-www.samashti.space](https://www.samashti.space/articles/how-to-geocode-addresses-for-free) [](https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big) [## 替代数据如何帮助公司进行大规模投资？- Samashti |博客
-
-### 就在十年前，如果一家公司想将一种新产品或服务推向市场，识别潜在的…
-
-www.samashti.space](https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big)
+<https://www.samashti.space/articles/how-to-geocode-addresses-for-free>  <https://www.samashti.space/articles/how-alternative-data-helping-companies-invest-big> 

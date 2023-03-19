@@ -57,19 +57,11 @@ Docker 支持笔记本电脑、台式机、服务器、云和混合云上的应�
 
 我建议您从我们旅程的起点开始:
 
-[](https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b) [## 我们面向云迁移的企业 Docker 解决方案
-
-### 这是一个关于我们第一次推出 Docker 的故事，它发生在我以前作为承包商工作过的一家公司。代码，作为…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b) 
+<https://levelup.gitconnected.com/our-enterprise-docker-solution-for-migration-to-the-cloud-d7bb9d1a796b>  
 
 我假设你已经安装了 Docker。如果没有，现在就可以，请转到此处:
 
-[](https://docs.docker.com/engine/install/) [## 安装 Docker 引擎
-
-### Docker Engine 可在多种 Linux 平台、macOS 和 Windows 10 上通过 Docker Desktop 获得，并作为…
-
-docs.docker.com](https://docs.docker.com/engine/install/) 
+<https://docs.docker.com/engine/install/>  
 
 ## Docker 是如何工作的？
 
@@ -115,11 +107,7 @@ Docker Hub 上有超过 800 万张图片。很有可能，你会在 Docker Hub �
 
 您应该检查您想要的容器是否在:
 
- [## 码头枢纽
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/search?q=&type=image) 
+  
 
 我根据类别、操作系统和机器架构进行过滤搜索。此外，我在搜索框中输入一个或多个术语来改进我的搜索。
 

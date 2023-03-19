@@ -86,11 +86,7 @@
 
 PS 更多[商业科学](https://medium.com/tag/business-science)来自我的写作:
 
-[](/data-science-cant-innovate-without-transparency-9e31f49fb95) [## 没有透明度，数据科学就无法创新
-
-### 错误信息和谎言正在扼杀人工智能的创新:以下是我们如何拯救它
-
-towardsdatascience.com](/data-science-cant-innovate-without-transparency-9e31f49fb95) [](/how-not-to-fail-at-your-data-science-project-7e8c84305aa8) [## 如何(不)在数据科学项目中失败
+</data-science-cant-innovate-without-transparency-9e31f49fb95>  </how-not-to-fail-at-your-data-science-project-7e8c84305aa8> [## 如何(不)在数据科学项目中失败
 
 towardsdatascience.com](/how-not-to-fail-at-your-data-science-project-7e8c84305aa8) 
 

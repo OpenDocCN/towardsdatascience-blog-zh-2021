@@ -22,11 +22,7 @@
 
 如果你想知道这三种标记化技术之间的区别，那么你可以阅读[这篇](/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17)文章，这是一篇关于 TDS 的实践教程。😍
 
-[](/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17) [## 词、子词和基于字符的标记化:了解区别
-
-### 从事 NLP 项目的任何人都应该知道的区别
-
-towardsdatascience.com](/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17) 
+</word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17>  
 
 让我们从工件算法开始。🏃‍♀️
 
@@ -36,11 +32,7 @@ WordPiece 是一种基于子词的标记化算法。在论文“[日韩语音搜
 
 如果你正在寻找一个好的来源，这里有一篇关于字节对编码(BPE)算法的文章。😇你可以阅读这篇文章，它将向你解释 BPE 算法的一步一步的过程。
 
-[](/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0) [## 字节对编码:基于子字的标记化算法
-
-### 了解最新的 NLP 模型使用的基于子词的符号化算法——字节对编码(BPE)
-
-towardsdatascience.com](/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0) 
+</byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0>  
 
 BPE 获取一对令牌(字节)，查看每对令牌的频率，并合并具有最高组合频率的令牌对。该过程是贪婪的，因为它在每一步寻找最高的组合频率。
 

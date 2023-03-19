@@ -68,16 +68,4 @@ df = pd.DataFrame(text,columns=['text'])
 
 # 相关文章
 
-[](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) [## 如何在 Python 中操作后恢复文本文档的原始布局
-
-### 少于 10 行的代码，用于在操作后保留文本文档的布局，例如文本…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) [](/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e) [## 如何通过 Python 空间从文本中提取结构化信息
-
-### 关于如何从文本构建结构化数据集的现成教程。
-
-towardsdatascience.com](/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e) [](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca) [## 从 Google 电子表格自动更新 Django 模型
-
-### 关于如何直接从 Google 电子表格创建和更新 Django 模型的现成 Python 教程
-
-towardsdatascience.com](/automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca)
+<https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95>  </how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e>  </automatic-update-of-django-models-from-a-google-spreadsheet-7c6d4f30e3ca> 

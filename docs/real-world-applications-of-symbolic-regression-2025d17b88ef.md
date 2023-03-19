@@ -31,11 +31,7 @@
 
 我不会深入讨论符号回归的细节，因为在这里的 [TDS 编辑](https://medium.com/u/7e12c71dfa81?source=post_page-----2025d17b88ef--------------------------------)(例如[这一篇](/symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95)作者[拉菲尔·鲁杰罗](https://medium.com/u/4101e7425d00?source=post_page-----2025d17b88ef--------------------------------))和维基百科([这里](https://en.wikipedia.org/wiki/Symbolic_regression))以及其他资源中都有精彩的文章。相反，**我在这里关注符号回归**的科学应用的实际、现代例子，正如 Rafael 文章的标题所说，它有点像一种“被遗忘”的方法，可能被常规的机器学习方法所掩盖:
 
-[](/symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95) [## 符号回归:被遗忘的机器学习方法
-
-### 将数据转换成公式可以产生简单而强大的模型
-
-towardsdatascience.com](/symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95) 
+</symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95>  
 
 我首先回顾两篇重要的近期文章，它们已经展示了应用，但主要集中在从数据中发现方程的最现代方法背后的理论。在接下来的部分，我将介绍一些非常有趣的应用，其中一个实际上来自我自己的研究。
 
@@ -61,19 +57,11 @@ towardsdatascience.com](/symbolic-regression-the-forgotten-machine-learning-meth
 
 以下是在*科学进展*的原文:
 
-[](https://www.science.org/doi/10.1126/sciadv.aay2631) [## 美国科学促进会
-
-### 2021 美国科学促进协会。保留所有权利。AAAS 是 HINARI，AGORA 的合作伙伴…
-
-www.science.org](https://www.science.org/doi/10.1126/sciadv.aay2631) 
+<https://www.science.org/doi/10.1126/sciadv.aay2631>  
 
 通过阅读丹尼尔·夏皮罗博士撰写的这篇 TDS 文章，你可以对这个项目更加了解:
 
-[](/ai-feynman-2-0-learning-regression-equations-from-data-3232151bd929) [## AI Feynman 2.0:从数据中学习回归方程
-
-### 让我们在一个全新的图书馆上踢轮胎
-
-towardsdatascience.com](/ai-feynman-2-0-learning-regression-equations-from-data-3232151bd929) 
+</ai-feynman-2-0-learning-regression-equations-from-data-3232151bd929>  
 
 ## 第二篇文章:Reinbold 等人 2021
 
@@ -83,11 +71,7 @@ towardsdatascience.com](/ai-feynman-2-0-learning-regression-equations-from-data-
 
 这是发表在*自然通讯*上的原始论文:
 
-[](https://www.nature.com/articles/s41467-021-23479-0) [## 通过物理方式从嘈杂、不完整、高维的实验数据中进行稳健学习…
-
-### 机器学习为第一原理分析提供了一种有趣的替代方法，可以从…
-
-www.nature.com](https://www.nature.com/articles/s41467-021-23479-0) 
+<https://www.nature.com/articles/s41467-021-23479-0>  
 
 # 现在它们在这里:符号回归在化学和生物科学中的现代实际应用
 
@@ -105,19 +89,11 @@ PubMed 主办的标题和/或摘要中提到“符号回归”的文章数量。
 
 [**本**](https://www.nature.com/articles/s41467-020-17263-9) **2020 年*Nature communication s****中的论文对各种钙钛矿的析氧活性数据进行了符号回归，以了解哪些变量是活性的最佳预测因子，通过哪些方程。通过这项工作，作者可以确定一个简单的描述符，即该研究领域中常用的表征钙钛矿组成的两个因子的比率，以及根据该描述符模拟活性的方程。这一符号模型导致了一系列具有改进活性的新型氧化物钙钛矿催化剂的发现，作者合成并表征了这些催化剂以证实它们的高活性。符号回归是用 [gplearn](https://gplearn.readthedocs.io/en/stable/) 实现的，这是一个 Python 库，用这个功能扩展了 scikit-learn。论文在这里:*
 
-*[](https://www.nature.com/articles/s41467-020-17263-9) [## 从符号回归得到的简单描述符加速了新钙钛矿的发现…
-
-### 符号回归在指导材料设计方面大有可为，但它在材料科学中的应用仍处于起步阶段
-
-www.nature.com](https://www.nature.com/articles/s41467-020-17263-9) 
+*<https://www.nature.com/articles/s41467-020-17263-9>  
 
 这是在 python 中用于符号回归(和其他非常有趣的方法)的 gplearn 库:
 
-[](https://gplearn.readthedocs.io/en/stable/) [## 欢迎阅读 gplearn 的文档！- gplearn 0.4.1 文档
-
-### 一个、一般、法则、引导、前进、全体、有机的存在，即，\]\[乘、变…
-
-gplearn.readthedocs.io](https://gplearn.readthedocs.io/en/stable/) 
+<https://gplearn.readthedocs.io/en/stable/>  
 
 **[**下一篇论文**](https://pubmed.ncbi.nlm.nih.gov/34005960/) **， *Phys Rev E* 2021** ，处于符号回归的方法开发和从失真视频中发现物理规律的实际应用的接口。本文提出了一种对原始视频中未标记对象的运动方程进行无监督学习的方法。想象一个相对静止的场景，一个物体在上面运动，你想要得到这个物体的运动方程，甚至不需要标记或者有目的地跟踪它。我选择这篇文章在这里展示，因为它很好地集成了图像分析、预处理、低维投影和符号回归本身。**
 
@@ -125,29 +101,17 @@ gplearn.readthedocs.io](https://gplearn.readthedocs.io/en/stable/)
 
 **这篇论文提出了一种非常新颖的分析视频的方法，在这里:**
 
-**[](https://pubmed.ncbi.nlm.nih.gov/34005960/) [## 符号回归:从扭曲的视频中发现物理规律
-
-### 我们提出了一种方法，用于无监督学习运动方程的对象在原始和可选的扭曲…
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/34005960/) 
+**<https://pubmed.ncbi.nlm.nih.gov/34005960/>  
 
 或者这是 arXiv 的预印本:
 
-[](https://arxiv.org/abs/2005.11212) [## 符号压迫:从扭曲的视频中发现物理规律
-
-### 我们提出了一种方法，用于无监督学习运动方程的对象在原始和可选的扭曲…
-
-arxiv.org](https://arxiv.org/abs/2005.11212) 
+<https://arxiv.org/abs/2005.11212>  
 
 **[**下一篇论文**](https://pubmed.ncbi.nlm.nih.gov/31617228/)***生物鉴定* 2019 年，**提出了生态动力学的建模，即共享一个栖息地的各种物种的种群如何随着时间的推移相互之间以及与非生物因素之间的关系而进化。这项工作将符号回归与一组合理的生态功能反应结合起来，根据生物丰度的时间相关数据对生态系统动态进行逆向工程。给定输入数据，该过程返回描述它的候选微分方程组，然后分析它们在生态学概念方面的意义。正如作者所讨论的，我们可以确定使用符号回归的两个主要优点。首先，所得的微分方程可以潜在地被解释以理解生态系统的潜在生态机制，例如物种之间的生态相互作用的类型，例如成对的捕食者和被捕食者物种之间的生态相互作用。作者强调的第二个要点是，即使在数据有限或信息不充分的情况下，该方法似乎也表现良好，这可能是因为它们提供了方程本身的候选起始部分，从而将搜索限制在只有低质量或稀疏数据才能拟合的有意义的方程。**
 
 **这篇论文，采用了这种有趣的方法，在这里:**
 
-**[](https://pubmed.ncbi.nlm.nih.gov/31617228/) [## 通过符号回归揭示复杂的生态动力学
-
-### 了解复杂生态系统的动态是维护和控制它们的必要步骤。然而…
-
-pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/31617228/) 
+**<https://pubmed.ncbi.nlm.nih.gov/31617228/>  
 
 **另一篇** [**论文，由我在** *分子生物技术*](https://link.springer.com/article/10.1007/s12033-021-00349-0) 2021 年发表，使用符号回归对突变对蛋白质热稳定性的影响进行建模，同时了解不同因素如何调节对稳定性的影响。正如论文所示，这个问题建模起来非常复杂，部分原因是可用数据量有限。但是一个特定的突变，从氨基酸缬氨酸到氨基酸丙氨酸，在数据集中有 47 个记录条目。使用野生型(缬氨酸)氨基酸在其结构背景下的三个因子，即其相对溶剂可及性、二级结构和从原子 B 因子量化的柔韧性，对该数据进行符号回归，得到该方程:
 
@@ -163,19 +127,11 @@ pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/31617228/)
 
 这篇以简单符号回归应用为特色的论文如下:
 
-[](https://link.springer.com/article/10.1007/s12033-021-00349-0) [## 回顾预测突变时蛋白质解链温度变化的挑战
-
-### 预测突变对蛋白质稳定性的影响是基础和应用生物学中的一个关键问题，但…
-
-link.springer.com](https://link.springer.com/article/10.1007/s12033-021-00349-0) 
+<https://link.springer.com/article/10.1007/s12033-021-00349-0>  
 
 这项工作中的符号回归是用 TuringBot 进行的，这是一个易于使用的程序:
 
-[](https://turingbotsoftware.com/) [## 符号回归软件——turing bot
-
-### 假设您想从一组输入变量中预测一个数值。在 2021 年，大多数人会在一个…
-
-turingbotsoftware.com](https://turingbotsoftware.com/) 
+<https://turingbotsoftware.com/>  
 
 **一些额外的有趣作品**
 

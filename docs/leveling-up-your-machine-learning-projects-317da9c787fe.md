@@ -16,11 +16,7 @@
 
 遵循下面的代码！
 
-[](https://github.com/reoneo97/pytorch-project-template) [## GitHub-reoneo 97/py torch-project-template:py torch 深度学习的生产就绪模板…
-
-### PyTorch 深度学习项目的生产就绪模板-GitHub-reoneo 97/py torch-project-template…
-
-github.com](https://github.com/reoneo97/pytorch-project-template) 
+<https://github.com/reoneo97/pytorch-project-template>  
 
 ## **我们的兵工厂**
 
@@ -132,7 +128,7 @@ PyTorch lightning 是一个在 vanilla PyTorch 基础上有用的包，它允许
 
 如果你想要更深入的介绍，可以看看我在这方面的博文
 
-[](/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79) [## 使用 PyTorch Lightning 的可变自动编码器(VAE)初学者指南(第 2 部分)
+</beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79> [## 使用 PyTorch Lightning 的可变自动编码器(VAE)初学者指南(第 2 部分)
 
 towardsdatascience.com](/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79) 
 
@@ -164,11 +160,7 @@ PyTorch 闪电代码
 
 写好代码的最好方法是阅读好代码。为此，我建议阅读 scikit-learn 的源代码。Scikit-Learn 提供了大量不同的模型、功能变压器和实用功能，但一切都被整齐地打包在一起，易于使用。
 
-[](https://github.com/scikit-learn/scikit-learn) [## GitHub-sci kit-learn/sci kit-learn:sci kit-learn:Python 中的机器学习
-
-### scikit-learn 是一个基于 SciPy 构建的用于机器学习的 Python 模块，在 3-Clause BSD…
-
-github.com](https://github.com/scikit-learn/scikit-learn) 
+<https://github.com/scikit-learn/scikit-learn>  
 
 **2。部署机器学习模型课程**
 

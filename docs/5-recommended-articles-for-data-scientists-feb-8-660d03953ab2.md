@@ -28,11 +28,7 @@
 
 仔细阅读这篇文章，并在评论区分享你的想法和观点。答案没有对错之分。
 
-[](/in-data-science-its-specialize-or-die-7ede67a58676) [## 在数据科学中，要么专门化，要么死亡
-
-### 数据科学通才是指在该领域了解不多的人。
-
-towardsdatascience.com](/in-data-science-its-specialize-or-die-7ede67a58676) 
+</in-data-science-its-specialize-or-die-7ede67a58676>  
 
 # 人工智能如何从遗传学中学习
 
@@ -42,11 +38,7 @@ Adam Dhalla 的文章介绍了与遗传搜索算法相关的概念、思想和�
 
 从这篇文章中可以获得丰富的知识。Adam 将生物学、算法和代码结合到一篇详细的文章中，简单易懂地介绍了一个有点复杂的主题。
 
-[](https://adamdhalla.medium.com/how-ai-can-learn-from-genetics-b24f31adf494) [## 人工智能如何从遗传学中学习
-
-### 用遗传搜索算法，模拟我们的基因的人工智能算法来编码 8 皇后难题的解决方案…
-
-adamdhalla.medium.com](https://adamdhalla.medium.com/how-ai-can-learn-from-genetics-b24f31adf494) 
+<https://adamdhalla.medium.com/how-ai-can-learn-from-genetics-b24f31adf494>  
 
 # 我是如何通过识别尼舒·贾恩的一个愚蠢模式而意外入侵一个政府应用程序的
 
@@ -56,11 +48,7 @@ Nishu 的文章详细介绍了检测到该模式的方法，以及利用的安�
 
 这篇文章非常值得一读，因为它传达了应用程序安全性中模式检测和匹配的应用。Nishu 甚至包括了他编写的代码，用来攻击文章中提到的政府创建的应用程序。
 
-[](https://medium.com/towards-artificial-intelligence/how-i-accidentally-hacked-a-government-app-by-recognizing-a-silly-pattern-4bb5cd293022) [## 我是如何通过识别一个愚蠢的模式意外地入侵了一个政府应用程序
-
-### 有些东西就是要被黑的…
-
-medium.com](https://medium.com/towards-artificial-intelligence/how-i-accidentally-hacked-a-government-app-by-recognizing-a-silly-pattern-4bb5cd293022) 
+<https://medium.com/towards-artificial-intelligence/how-i-accidentally-hacked-a-government-app-by-recognizing-a-silly-pattern-4bb5cd293022>  
 
 # 三个数据科学家原型[雅各布·摩尔](https://medium.com/u/58a07ece941f?source=post_page-----660d03953ab2--------------------------------)
 
@@ -70,11 +58,7 @@ Jacob 撰写的这篇观点鲜明的文章提出了数据科学家可以分为�
 
 阅读这篇文章，找到你属于哪种数据科学原型，谁知道呢，你可能会感到惊讶。
 
-[](/the-three-data-scientist-archetypes-148b304be539) [## 三个数据科学家原型
-
-### 你在哪里？？
-
-towardsdatascience.com](/the-three-data-scientist-archetypes-148b304be539) 
+</the-three-data-scientist-archetypes-148b304be539>  
 
 # 成功数据科学项目的 7 个步骤 [Amit Bharadwa](https://medium.com/u/ac5c08c6e0d8?source=post_page-----660d03953ab2--------------------------------)
 
@@ -82,11 +66,7 @@ Amit 介绍了数据科学项目中涉及的标准步骤和流程，以及决定
 
 Amit 的文章包括每个步骤的描述、提示和数据科学家在开展项目时会听到的常用技术术语的简要定义。
 
-[](/7-steps-to-a-successful-data-science-project-b452a9b57149) [## 成功数据科学项目的 7 个步骤
-
-### 从头开始完成数据科学项目的初学者指南
-
-towardsdatascience.com](/7-steps-to-a-successful-data-science-project-b452a9b57149) 
+</7-steps-to-a-successful-data-science-project-b452a9b57149>  
 
 ## 希望你已经在上面的每篇文章中找到了有用的信息(*或者至少是娱乐*)。
 

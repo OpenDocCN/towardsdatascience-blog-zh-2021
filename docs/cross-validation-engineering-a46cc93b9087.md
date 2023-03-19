@@ -46,8 +46,4 @@
 
 你可以在 LinkedIn 上联系我
 
-[](https://www.linkedin.com/in/charanraj-shetty-a74831b2/) [## Charanraj Shetty -技术作家-走向人工智能| LinkedIn
-
-### Pilani BITS 软件系统(数据科学)在职硕士综合学习计划。正在寻找…
-
-www.linkedin.com](https://www.linkedin.com/in/charanraj-shetty-a74831b2/)
+<https://www.linkedin.com/in/charanraj-shetty-a74831b2/> 

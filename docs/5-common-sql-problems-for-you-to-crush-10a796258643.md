@@ -198,11 +198,7 @@ and datediff(w2.recordDate, w1.recordDate) = 1;
 
 ## [我还建议成为一名中等会员，不要错过我每周发表的任何一篇数据科学文章。](https://ipom.medium.com/membership/)在此加入👇
 
-[](https://ipom.medium.com/membership/) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership/) 
+<https://ipom.medium.com/membership/>  
 
 # 接通电话！
 
@@ -210,12 +206,4 @@ ipom.medium.com](https://ipom.medium.com/membership/)
 
 我的另外几篇文章你可能会感兴趣:
 
-[](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [## 使用 Docker 部署 ML 模型的好方法
-
-### 使用 FastAPI 部署 ML 模型并在 VSCode 中轻松封装它的快速指南。
-
-towardsdatascience.com](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [](https://medium.datadriveninvestor.com/5-interesting-data-science-projects-to-level-up-your-portfolio-f4d88c181061) [## 5 个有趣的数据科学项目来提升您的投资组合
-
-### 执行以实际应用为重点的项目来强化你的形象
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/5-interesting-data-science-projects-to-level-up-your-portfolio-f4d88c181061)
+</the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8>  <https://medium.datadriveninvestor.com/5-interesting-data-science-projects-to-level-up-your-portfolio-f4d88c181061> 

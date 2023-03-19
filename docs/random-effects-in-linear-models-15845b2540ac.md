@@ -292,15 +292,7 @@ crossed_mod = lmer(grades ~ income + (1|season) + (1|mountain_id), data = birds_
 
 ## 参考
 
- [## 是固定效应还是随机效应？
-
-### 在教一个研究生统计学课程的时候，我最终成为了一名统计顾问。我最常被问到的一个问题是…
-
-dynamicecology.wordpress.com](https://dynamicecology.wordpress.com/2015/11/04/is-it-a-fixed-or-random-effect/) [](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode) [## 固定效果、随机效果、混合效果模型有什么区别？
-
-### 有一些关于这方面的好书，如盖尔曼和希尔。接下来的内容基本上是他们的总结…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode) 
+  <https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode>  
 
 *farage，Julian J .用 R 扩展线性模型:广义线性、混合效应和非参数回归模型。CRC 出版社，2016*
 

@@ -16,19 +16,11 @@ R 中的 jorvlan raincloudplots 包展示了一种创建分组和重复测量数
 
 在此阅读有关 jorvlan/raincloudplots 知识库的更多信息:
 
-[](https://github.com/jorvlan/raincloudplots) [## GitHub - jorvlan/raincloudplots:创建 raincloudplots 的简单方法
-
-### 如果你的研究使用了这个包，请引用它，谢谢。论文-艾伦，硕士，波吉亚利，博士，惠特克，K…
-
-github.com](https://github.com/jorvlan/raincloudplots) 
+<https://github.com/jorvlan/raincloudplots>  
 
 关于雨云地块的进一步阅读，请查看原始出版物:
 
-[](https://wellcomeopenresearch.org/articles/4-63) [## 威康开放研究文章:雨云图:稳健数据的多平台工具…
-
-### Allen M，Poggiali D，Whitaker K 等。雨云图:一种用于稳健数据可视化的多平台工具[第 2 版…
-
-wellcomeopenresearch.org](https://wellcomeopenresearch.org/articles/4-63) 
+<https://wellcomeopenresearch.org/articles/4-63>  
 
 ## 装置
 
@@ -96,12 +88,4 @@ raincloud_2x2 <- raincloud_2x2_repmes(
 
 作者的相关文章—
 
-[](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f) [](/a-quick-introduction-into-stream-graphs-with-python-33ff4493ccc) [## Python 流图快速入门
-
-### 使用 altair 可视化库
-
-towardsdatascience.com](/a-quick-introduction-into-stream-graphs-with-python-33ff4493ccc)
+</making-it-rain-with-raincloud-plots-496c39a2756f>  </a-quick-introduction-into-stream-graphs-with-python-33ff4493ccc> 

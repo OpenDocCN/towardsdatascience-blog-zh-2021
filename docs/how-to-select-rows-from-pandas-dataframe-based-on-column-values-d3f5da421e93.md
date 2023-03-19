@@ -149,6 +149,6 @@ import numpy as npdf = pd.DataFrame(
 
 在大部分章节中，我们基本上使用了标签索引，这是通过`loc`实现的。请注意，pandas 有一个名为`iloc`的附加属性，通常用于执行位置索引。理解这两者之间的区别是很重要的，我建议你阅读下面的文章，它详细解释了每一个的作用。
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
+</loc-vs-iloc-in-pandas-92fc125ed8eb> [## 熊猫中的 loc 与 iloc
 
 towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb)

@@ -35,15 +35,7 @@
 
 ## 资源
 
-[](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) [## 为期 15 周的完整课程，旨在掌握数据科学的 SQL
-
-### 在 15 周内学习最重要的数据科学技能
-
-towardsdatascience.com](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) [](https://mode.com/sql-tutorial/) [## 模式 SQL 教程| -模式
-
-### 学会用 SQL 用数据回答问题。不需要编码经验。
-
-mode.com](https://mode.com/sql-tutorial/) 
+</a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4>  <https://mode.com/sql-tutorial/>  
 
 # 2.数据争论/功能工程
 
@@ -57,15 +49,7 @@ mode.com](https://mode.com/sql-tutorial/)
 
 ## 资源
 
-[](/feature-engineering-for-machine-learning-3a5e293a5114) [## 面向机器学习的特征工程基本技术
-
-### 用熊猫例子进行综合数据预处理所需的所有方法。
-
-towardsdatascience.com](/feature-engineering-for-machine-learning-3a5e293a5114) [](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) [## 发现特征工程，如何工程化特征以及如何擅长它-机器学习…
-
-### 特征工程是一个非正式的话题，但绝对是众所周知的，并同意是成功的关键应用…
-
-machinelearningmastery.com](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) 
+</feature-engineering-for-machine-learning-3a5e293a5114>  <https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/>  
 
 # 3.版本控制
 
@@ -102,15 +86,7 @@ machinelearningmastery.com](https://machinelearningmastery.com/discover-feature-
 
 ## 资源
 
-[](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) [## 2021 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) [](/how-to-prepare-your-data-for-your-machine-learning-model-b4c9fd4e7ea) [## 如何为机器学习模型准备数据
-
-### 数据准备分步指南
-
-towardsdatascience.com](/how-to-prepare-your-data-for-your-machine-learning-model-b4c9fd4e7ea) 
+</all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7>  </how-to-prepare-your-data-for-your-machine-learning-model-b4c9fd4e7ea>  
 
 # 6.解释性模型
 
@@ -122,11 +98,7 @@ towardsdatascience.com](/how-to-prepare-your-data-for-your-machine-learning-mode
 
 ## 资源
 
-[](https://www.jmp.com/en_ca/statistics-knowledge-portal/what-is-multiple-regression/interpreting-results-in-explanatory-modeling.html) [## 在解释性建模中解释结果
-
-### 正如我们在简单线性回归课程中所讨论的，我们可以出于不同的原因使用回归。两个共同的目标…
-
-www.jmp.com](https://www.jmp.com/en_ca/statistics-knowledge-portal/what-is-multiple-regression/interpreting-results-in-explanatory-modeling.html) 
+<https://www.jmp.com/en_ca/statistics-knowledge-portal/what-is-multiple-regression/interpreting-results-in-explanatory-modeling.html>  
 
 # 7.A/B 测试(实验)
 
@@ -138,11 +110,7 @@ A/B 测试可以说是企业界最实用、最广泛使用的统计概念。为�
 
 ## 资源
 
-[](/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499) [## A/B 测试——统计测试完全指南
-
-### 通过统计测试优化网络营销策略
-
-towardsdatascience.com](/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499) 
+</a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499>  
 
 # 8.使聚集
 
@@ -154,13 +122,9 @@ towardsdatascience.com](/a-b-testing-a-complete-guide-to-statistical-testing-e3f
 
 ## 资源
 
-[](/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) [## 数据科学家需要知道的 5 种聚类算法
+</the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68> [## 数据科学家需要知道的 5 种聚类算法
 
-towardsdatascience.com](/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) [](https://machinelearningmastery.com/clustering-algorithms-with-python/) [## 掌握 Python -机器学习的 10 种聚类算法
-
-### 聚类或聚类分析是一个无监督的学习问题。它经常作为数据分析技术用于…
-
-machinelearningmastery.com](https://machinelearningmastery.com/clustering-algorithms-with-python/) 
+towardsdatascience.com](/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) <https://machinelearningmastery.com/clustering-algorithms-with-python/>  
 
 # 9.建议
 
@@ -185,11 +149,7 @@ NLP 有很多用例…
 
 ## 资源
 
-[](https://www.projectpro.io/article/10-nlp-techniques-every-data-scientist-should-know/415) [## 每个数据科学家都应该知道的 10 项 NLP 技术
-
-### 自然语言处理是人工智能的一个子领域，旨在使机器理解自然语言
-
-www.projectpro.io](https://www.projectpro.io/article/10-nlp-techniques-every-data-scientist-should-know/415) 
+<https://www.projectpro.io/article/10-nlp-techniques-every-data-scientist-should-know/415>  
 
 # 感谢阅读！
 
@@ -201,17 +161,13 @@ www.projectpro.io](https://www.projectpro.io/article/10-nlp-techniques-every-dat
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 
 **又一个！**
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) [## 超过 100 个数据科学家面试问题和答案！
-
-### 来自亚马逊、谷歌、脸书、微软等公司的面试问题！
-
-towardsdatascience.com](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) 
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 ## 特伦斯·申
 

@@ -303,8 +303,4 @@ imshow(diff)
 
 对我的工作感兴趣？你可以在我的个人资料中看到更多的故事
 
-[](https://nico-aguila.medium.com/) [## 尼科·阿吉拉-中等
-
-### 在我之前的文章中，我们学习了如何基于斑点检测和连接来识别感兴趣的物体…
-
-nico-aguila.medium.com](https://nico-aguila.medium.com/)
+<https://nico-aguila.medium.com/> 

@@ -76,11 +76,7 @@ Index(['25-11-20', '05-01-20', '11-01-20', '11-01-20', '11-01-20', '05-11-20'], 
 
 现在，我将导入数据集，我们将使用该数据集来演示许多函数。我们的脸书股票数据。请随意在此下载数据集并跟随:
 
-[](https://github.com/rashida048/Datasets/blob/master/FB_data.csv) [## master rashida048/Datasets 上的 Datasets/FB_data.csv
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/FB_data.csv) 
+<https://github.com/rashida048/Datasets/blob/master/FB_data.csv>  
 
 你学习的唯一方法是通过实践。
 
@@ -372,11 +368,7 @@ DatetimeIndex(['2020-11-02', '2020-11-03', '2020-11-04', '2020-11-05', '2020-11-
 
 还有几个类似的选项和频率。请查看这篇文章，我只详细解释了 date_range 函数:
 
-[](/pandas-date-range-function-details-fc1bd91b80a0) [## 熊猫日期范围函数详细信息
-
-### 考虑不同条件生成一系列日期
-
-towardsdatascience.com](/pandas-date-range-function-details-fc1bd91b80a0) 
+</pandas-date-range-function-details-fc1bd91b80a0>  
 
 因此，我们可以生成一系列日期，并将它们添加到我们的数据集中！
 
@@ -533,11 +525,7 @@ fig, axes = plt.subplots(3, 1,figsize=(11, 10), sharex=True)for name, ax in zip(
 
 工作日对这些数据有影响，对吗？周三的“高”、“低”和“量”都在上涨。周一情况正好相反。箱线图在一个包中给出了很多信息。如果您需要复习如何从箱线图中提取所有数据，这里有一篇详细的文章:
 
-[](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) [## 使用直方图和箱线图理解数据，并举例说明
-
-### 了解如何从直方图和箱线图中提取最多的信息。
-
-towardsdatascience.com](/understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6) 
+</understanding-the-data-using-histogram-and-boxplot-with-example-425a52b5b8a6>  
 
 # 周期和周期指数
 
@@ -832,16 +820,4 @@ PeriodIndex(['2016Q4', '2017Q1', '2017Q2', '2017Q3', '2017Q4', '2018Q1', '2018Q2
 
 更多阅读:
 
-[](/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e) [## Python 和 R 语言的数据科学和数据分析系列项目
-
-### 探索性数据分析、机器学习、自然语言处理和计算机视觉项目
-
-towardsdatascience.com](/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb) [## Python 中高效机器学习的四种流行特征选择方法
-
-### 使用真实数据集执行特征选择方法，并在每个方法后检索所选特征
-
-towardsdatascience.com](/four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb)
+</series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </four-popular-feature-selection-methods-for-efficient-machine-learning-in-python-fdd34762efdb> 

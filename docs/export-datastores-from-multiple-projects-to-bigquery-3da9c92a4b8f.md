@@ -10,11 +10,7 @@ Nieuwpoort(作者)
 
 这是对我之前的[故事](/export-datastore-to-bigquery-using-google-dataflow-1801c25ae482)的一个简短扩展，在那里我描述了如何将数据从 Datastore 增量导出到 BigQuery。在这里，我将讨论如何将前面的解决方案扩展到在多个项目中拥有数据存储的情况。目标保持不变，我们希望在 BigQuery 中获得数据。
 
-[](/export-datastore-to-bigquery-using-google-dataflow-1801c25ae482) [## 使用 Google 数据流将数据存储导出到 BigQuery
-
-### 如何使用 Google Dataflow 将数据存储导出到 BigQuery，并对实体进行额外过滤。
-
-towardsdatascience.com](/export-datastore-to-bigquery-using-google-dataflow-1801c25ae482) 
+</export-datastore-to-bigquery-using-google-dataflow-1801c25ae482>  
 
 总的来说，这个问题可以用下图来表示
 

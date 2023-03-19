@@ -12,11 +12,7 @@
 
 在理解人类语言的过程中，一个主要的角色是由标记化者扮演的。标记化算法可以是基于单词、子单词或字符的。每种类型的分词器帮助机器以不同的方式处理文本。两者各有优势。如果您想了解 NLP 中使用的不同类型的记号赋予器，那么您可以阅读这篇文章。这篇文章是关于 TDS 的实践教程，可以让你很好地理解这个主题。😇
 
-[](/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17) [## 词、子词和基于字符的标记化:了解区别
-
-### 从事 NLP 项目的任何人都应该知道的区别
-
-towardsdatascience.com](/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17) 
+</word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17>  
 
 这些分词器中最流行的是基于子词的分词器。大多数最新的 NLP 模型都使用这个标记器。因此，让我们首先了解什么是基于子词的记号赋予器，然后理解最新的 NLP 模型使用的字节对编码(BPE)算法。🙃
 

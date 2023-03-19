@@ -109,32 +109,4 @@
 
 您可能会对我写的其他文章感兴趣:
 
-[](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
-
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca) [](/k-nearest-neighbours-explained-7c49853633b6) [## k 最近的邻居解释说
-
-### 在这篇文章中，我将给出一个概述，实现，缺点和相关的 K 最近…
-
-towardsdatascience.com](/k-nearest-neighbours-explained-7c49853633b6)
+</recommendation-systems-explained-a42fc60591ed>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </monte-carlo-method-explained-8635edf2cf58>  </markov-chain-explained-210581d7a4a9>  </random-walks-with-restart-explained-77c3fe216bca>  </k-nearest-neighbours-explained-7c49853633b6> 

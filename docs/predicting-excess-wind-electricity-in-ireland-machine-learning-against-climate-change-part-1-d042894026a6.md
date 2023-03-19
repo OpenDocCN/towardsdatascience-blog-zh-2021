@@ -357,8 +357,4 @@ SEAI 每月发电量数据也与爱尔兰共和国 15 分钟数据进行了交�
 
 # GitHub 链接到笔记本
 
-[](https://github.com/CA683-Group99/Wind-Energy-Prediction) [## ca 683-组 99/风能-预测
-
-### 探索天气、风力发电和电力需求的历史数据之间的关系。基础…
-
-github.com](https://github.com/CA683-Group99/Wind-Energy-Prediction)
+<https://github.com/CA683-Group99/Wind-Energy-Prediction> 

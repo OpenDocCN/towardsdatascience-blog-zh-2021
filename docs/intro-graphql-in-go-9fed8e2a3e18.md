@@ -44,11 +44,7 @@ GraphQL —使用多个数据源，但只有一个响应和一个请求
 
 我发现使用 GraphQL 的一个最好的原因是能够组合数据源。我是`RepositoryPattern`的忠实用户，你可以在我的领域驱动设计文章中找到讨论。
 
-[](https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/) [## 如何在 Golang 中实现领域驱动设计(DDD)
-
-### 近年来，微服务已经成为一种非常流行的构建软件的方法。微服务用于构建…
-
-编程 percy.tech](https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/) 
+<https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/>  
 
 简而言之，每个数据源都有一个存储库。对于我们正在构建的代理，我们将有存储地鼠的`GopherRepository`和存储工作的`JobRepository`。GraphQL 可以轻松地将这两种结构组合成一个输出，而无需耦合后端的数据源。在我们将要构建的服务器中，它看起来像是`Gopher`结构有`Jobs`与之相关，但它实际上将是两个不同的存储解决方案。
 

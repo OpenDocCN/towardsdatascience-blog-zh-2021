@@ -8,17 +8,13 @@
 
 > **更新**:发现我关于渐变提升的新书[实用渐变提升](https://amzn.to/3GCBtNF)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://amzn.to/3GCBtNF) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://amzn.to/3GCBtNF> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://amzn.to/3GCBtNF) 
 
 **更新**:发现我在这个问题上的后续，用线性树很好地解决了这个问题:
 
-[](/xgboost-for-timeseries-lightgbm-is-a-bigger-boat-197864013e88) [## XGBoost for time series: lightGBM 是更大的船！
-
-### XGBoost 无法进行外推。这是时间序列建模的一个硬限制。LightGBM 提供了…
-
-towardsdatascience.com](/xgboost-for-timeseries-lightgbm-is-a-bigger-boat-197864013e88) 
+</xgboost-for-timeseries-lightgbm-is-a-bigger-boat-197864013e88>  
 
 XGBoost 是一个非常强大和通用的模型。它的应用范围很广，已经成功地应用于许多最大似然分类和回归问题。这里用代码[解释了基本的数学原理](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9)。
 

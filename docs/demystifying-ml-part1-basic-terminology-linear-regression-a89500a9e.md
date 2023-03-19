@@ -50,20 +50,4 @@
 
 参考资料:
 
-[](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) [## 线性回归- ML 词汇表文档
-
-### 线性回归是一种有监督的机器学习算法，其中预测输出是连续的，并具有一个…
-
-ml-cheatsheet.readthedocs.io](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) [](https://medium.com/analytics-vidhya/the-pitfalls-of-linear-regression-and-how-to-avoid-them-b93626e1a020) [## 线性回归的陷阱以及如何避免它们
-
-### 当线性回归假设不成立时该怎么办
-
-medium.com](https://medium.com/analytics-vidhya/the-pitfalls-of-linear-regression-and-how-to-avoid-them-b93626e1a020) [](/linear-regression-from-scratch-with-numpy-5485abc9f2e4) [## 使用 NumPy 从头开始线性回归
-
-### 欢迎使用 NumPy 从头开始线性回归的第一篇文章！我试着解释一下背后的直觉…
-
-towardsdatascience.com](/linear-regression-from-scratch-with-numpy-5485abc9f2e4) [](https://github.com/leventbass/linear_regression/blob/master/Linear_Regression.ipynb) [## levent bass/线性回归
-
-### 从头开始使用 numpy 实现线性回归- leventbass/linear_regression
-
-github.com](https://github.com/leventbass/linear_regression/blob/master/Linear_Regression.ipynb)
+<https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html>  <https://medium.com/analytics-vidhya/the-pitfalls-of-linear-regression-and-how-to-avoid-them-b93626e1a020>  </linear-regression-from-scratch-with-numpy-5485abc9f2e4>  <https://github.com/leventbass/linear_regression/blob/master/Linear_Regression.ipynb> 

@@ -62,15 +62,7 @@
 
 # *参考*
 
-*[](https://en.wikipedia.org/wiki/Monty_Hall_problem) [## 蒙蒂霍尔问题-维基百科
-
-### 蒙蒂霍尔问题是一个脑筋急转弯，以概率谜题的形式，大致基于美国电视…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Monty_Hall_problem) [](https://www.statisticshowto.com/probability-and-statistics/monty-hall-problem/) [## 蒙蒂霍尔问题:简单解释解决方案
-
-### 内容(点击跳转到该部分):什么是蒙蒂霍尔问题？一种更直观的方式来看待蒙蒂…
-
-www.statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/monty-hall-problem/) 
+*<https://en.wikipedia.org/wiki/Monty_Hall_problem>  <https://www.statisticshowto.com/probability-and-statistics/monty-hall-problem/>  
 
 “数字迷”解说视频—[https://www.youtube.com/watch?v=4Lb-6rxZxx0](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
 

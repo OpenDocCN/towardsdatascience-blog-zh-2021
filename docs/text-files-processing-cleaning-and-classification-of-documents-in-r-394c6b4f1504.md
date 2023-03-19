@@ -467,11 +467,7 @@ F1 分数是衡量模型效率的重要标准。F1 值越接近 1，模型越好
 
 如果精度、召回和 F1 分数对你来说是新的，这里有一个详细的讨论:
 
-[](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) [## 完全理解精确度、召回率和 F 分数的概念
-
-### 机器学习中如何处理倾斜数据集
-
-towardsdatascience.com](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) 
+</a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6>  
 
 ## 结论
 
@@ -481,28 +477,4 @@ towardsdatascience.com](/a-complete-understanding-of-precision-recall-and-f-scor
 
 ## 更多阅读:
 
-[](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [## 用 R 中的例子剖析单向方差分析和协方差分析
-
-### 通过分析方差得出的均值差异
-
-pub.towardsai.net](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [](/detail-explanation-of-simple-linear-regression-assessment-and-inference-with-anova-bb12ff4604d3) [## 简单线性回归的详细解释，评估，和用 ANOVA 的推断
-
-### 一步一步的讨论和例子，手动实现和 R
-
-towardsdatascience.com](/detail-explanation-of-simple-linear-regression-assessment-and-inference-with-anova-bb12ff4604d3) [](https://medium.com/codex/complete-details-of-simple-logistic-regression-model-and-inference-in-r-eedb1c84b65f) [## R 中简单逻辑回归模型和推论的完整细节
-
-### 举例演示
-
-medium.com](https://medium.com/codex/complete-details-of-simple-logistic-regression-model-and-inference-in-r-eedb1c84b65f) [](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) [## 数据科学家置信区间、t 检验和 z 检验完全指南
-
-### 大量的实践练习
-
-pub.towardsai.net](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) [](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01) [## Python 时序数据可视化完全指南
-
-### 这应该给你足够的资源来制作时间序列数据的视觉效果
-
-towardsdatascience.com](/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01)
+<https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3>  </detail-explanation-of-simple-linear-regression-assessment-and-inference-with-anova-bb12ff4604d3>  <https://medium.com/codex/complete-details-of-simple-logistic-regression-model-and-inference-in-r-eedb1c84b65f>  <https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec>  </a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01> 

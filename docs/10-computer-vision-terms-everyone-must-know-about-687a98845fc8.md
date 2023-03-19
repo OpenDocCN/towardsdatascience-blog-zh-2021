@@ -14,11 +14,7 @@
 
 虽然本文的目标是关注计算机视觉的一些重要术语，但我之前已经非常详细地介绍了 OpenCV 主题和计算机视觉的基础知识。如果您是该领域的新手，建议您首先阅读下面提供的文章，以更深入地了解该主题，并确保您可以获得阅读本文内容的最佳效果。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 在本文中，我们的目标是涵盖许多计算机视觉应用所需的十个最基本的术语。有了这些方面的正确信息和知识，你就可以用机器学习或深度学习算法的混合来构建任何类型的计算机视觉项目。让我们开始探索这十个概念，并逐一了解它们。
 
@@ -135,11 +131,7 @@ cv2.imshow('Canny Edge Detection', edges)
 
 为了理解大量与计算机视觉和深度学习相关的概念，我个人认为，开发者应该在学习阶段尝试构建至少一个单一的游戏。查看我以前的一篇文章，这篇文章讨论了用 Python 构建游戏的必要性，以及你应该考虑自己这么做的五个理由，请点击下面的链接。
 
-[](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) 
+</5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  
 
 # 9.细分:
 
@@ -177,26 +169,6 @@ towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [## 每个数据科学家都必须知道的 15 个数字功能
-
-### 讨论开发人员必须学习的十五个最基本的数字函数
-
-towardsdatascience.com](/15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) 
+</5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  </15-numpy-functionalities-that-every-data-scientist-must-know-f6d69072df68>  </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

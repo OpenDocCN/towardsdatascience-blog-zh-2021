@@ -20,11 +20,7 @@
 
 为了更好地理解这篇文章中介绍的所有过程，作为个人建议，您应该在检查资源库中可用资源的同时阅读这篇文章，并尝试使用相同或不同的 TensorFlow 模型再现它，因为“熟能生巧”。
 
-[](https://github.com/alvarobartt/serving-tensorflow-models) [## alvarobartt/服务张量流模型
-
-### TensorFlow 服务是一个灵活、高性能的机器学习模型服务系统，专为生产…
-
-github.com](https://github.com/alvarobartt/serving-tensorflow-models) 
+<https://github.com/alvarobartt/serving-tensorflow-models>  
 
 # 🔨要求
 
@@ -208,8 +204,4 @@ ML 模型的一致性和部署的便利性使得 TF-Serving 成为在生产环�
 
 **🌟另外，你可以在 GitHub 上关注我，支持我，让我继续开发开源内容！🌟**
 
-**[](https://github.com/alvarobartt) [## alvarobartt -概述
-
-### 机器学习工程师、开源开发者和 baller。专注于深度学习和 MLOps。
-
-github.com](https://github.com/alvarobartt)**
+**<https://github.com/alvarobartt> **

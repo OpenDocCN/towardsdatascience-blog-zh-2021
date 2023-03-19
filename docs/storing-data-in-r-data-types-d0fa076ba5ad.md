@@ -132,15 +132,7 @@ nchar(text)
 
 还有一个包`[stringr](https://stringr.tidyverse.org/)`，它允许文本操作技术，比如替换、获取字符可变长度，甚至用正则表达式(或 regex)查找文本。正则表达式非常灵活，对于掌握文本操作非常重要。
 
-[](/a-gentle-introduction-to-regular-expressions-with-r-df5e897ca432) [## R 正则表达式的简明介绍
-
-### 正则表达式是数据科学家对付非结构化文本最强大的武器。他们曾经是野餐…
-
-towardsdatascience.com](/a-gentle-introduction-to-regular-expressions-with-r-df5e897ca432) [](/anchors-away-more-regex-concepts-in-r-f00fe7f07d52) [## 起锚！R 中更多的正则表达式概念
-
-### 更先进的正则表达式工具，为您的 R 文本争论武器库
-
-towardsdatascience.com](/anchors-away-more-regex-concepts-in-r-f00fe7f07d52) 
+</a-gentle-introduction-to-regular-expressions-with-r-df5e897ca432>  </anchors-away-more-regex-concepts-in-r-f00fe7f07d52>  
 
 ## 日期和时间
 
@@ -176,12 +168,4 @@ floor_date(sample_date, unit = "month")
 
 通过对 R 中一些最常见的数据类型的简要概述，您可以了解如何存储变量以及不同类型的一些优点。为了继续学习 R 中的数据类型知识，您需要了解一下数据结构。这些是 R 中的变量集合，它们用于存储数据和更高级的分析。
 
-[](https://realdrewdata.medium.com/membership) [## 通过我的推荐链接加入 Medium-Drew Seewald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/membership) [](https://realdrewdata.medium.com/storing-data-r-data-structures-717245c6bab8) [## 存储数据:R 数据结构
-
-### 存放数据科学剩余产品的容器
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/storing-data-r-data-structures-717245c6bab8)
+<https://realdrewdata.medium.com/membership>  <https://realdrewdata.medium.com/storing-data-r-data-structures-717245c6bab8> 

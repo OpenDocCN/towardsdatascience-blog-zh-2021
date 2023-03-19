@@ -243,8 +243,4 @@
 
 # **神经网络系列之旅**
 
-**[](/a-journey-through-neural-networks-part-1-artificial-neural-network-and-perceptron-e970614b9cc7) [## 神经网络之旅(一)——人工神经网络和感知器
-
-### 最著名的机器学习术语，以及 Perceptron python 类示例
-
-towardsdatascience.co](/a-journey-through-neural-networks-part-1-artificial-neural-network-and-perceptron-e970614b9cc7)**
+**</a-journey-through-neural-networks-part-1-artificial-neural-network-and-perceptron-e970614b9cc7> **

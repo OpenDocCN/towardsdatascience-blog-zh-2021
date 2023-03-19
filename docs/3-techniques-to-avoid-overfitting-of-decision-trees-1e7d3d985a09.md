@@ -84,11 +84,7 @@ Scikit-learn 包附带了使用函数`**cost_complexity_pruning_path()**`计算�
 
 > 阅读下面提到的文章中的[，深入了解随机森林和其他合奏技术。](/improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7)
 
-[](/improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7) [## 使用 Bagging 提高机器学习模型的性能
-
-### 了解 Bootstrap Aggregation (Bagging)集成学习的工作原理，并实现随机森林 Bagging 模型…
-
-towardsdatascience.com](/improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7) 
+</improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7>  
 
 可以使用 Scikit-Learn 库实现随机森林。您可以进一步调整随机森林算法的超参数，以提高模型的性能。`**n_estimator**`可以调整参数以减少模型的过拟合。
 
@@ -102,10 +98,6 @@ towardsdatascience.com](/improving-the-performance-of-machine-learning-model-usi
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

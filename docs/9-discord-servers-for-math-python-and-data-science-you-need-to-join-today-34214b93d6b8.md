@@ -14,11 +14,7 @@
 
 除了在学术领域更受欢迎的 Slack 之外，还有一种沟通渠道一直受到各种各样的游戏玩家和程序员的欢迎。这个沟通渠道是不和谐的。
 
-[](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) [## 你需要加入的 6 个数据科学空闲工作区
-
-### 从社区获得支持和灵感
-
-towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c00952105d) 
+</6-data-science-slack-workshops-you-need-to-join-b0c00952105d>  
 
 与我之前的文章不同，在这篇文章中，我将与您分享 9 个关于数据科学不同方面的 Discord 服务器，从基础数学到 Python 编程，再到机器学习和人工智能等更核心的数据科学概念。
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/6-data-science-slack-workshops-you-need-to-join-b0c0095
 
 然而，当我们谈论数据科学时，Python 和 r 这两种编程语言总是脱颖而出。但是，您可以使用任何语言学习编程的基础知识，并将这些知识应用于任何语言。 [Code::Together](https://discord.me/code) 是一个与编程相关的 Discord 服务器。从学习不同的语言到熟悉数据库和版本控制，以及寻找软件开发工作。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №3:微软-python
 
@@ -60,11 +52,7 @@ Python Discord 服务器是这个列表中最大的服务器之一，拥有超�
 
 DVC 工具是一个版本控制工具，可以保持你所有的项目文件与 Git 同步，并支持各种存储应用。该工具有自己的 [Discord 服务器](https://discord.com/invite/dvwXA2N)，讨论该工具的使用和数据科学的版本控制主题。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 # №6:r/数据非常有用
 
@@ -72,11 +60,7 @@ towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e
 
 [r/DataIsBeautiful](https://discord.com/invite/NRnrWE7) 是一个 subreddit Discord 服务器，讨论如何利用可视化来有效地交流数据。这个[子编辑](https://www.reddit.com/r/dataisbeautiful/)是拥有超过 1700 万会员的热门话题之一。所以，如果你想讨论可视化，没有比这更好的地方了。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # №7:人工智能
 
@@ -90,11 +74,7 @@ towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizat
 
 这个 Discord 服务器提供了许多活动，包括每周 Kaggle 协作和挑战，讨论最近的数据科学相关论文，并为专业人士和研究人员提供了讨论特定主题的私人房间。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # №9:数据科学
 

@@ -98,14 +98,6 @@
 
 ## 相关文章
 
-[](/5-ai-failures-you-probably-should-know-about-417ddebbc323) [## 你可能应该知道的 5 个人工智能故障
+</5-ai-failures-you-probably-should-know-about-417ddebbc323>  </5-laws-for-self-taught-data-professionals-4bf351ac5c24> [## 自学成才的数据专业人员的 5 条法则
 
-### 如果你从未失败过，那你就没有活过
-
-towardsdatascience.com](/5-ai-failures-you-probably-should-know-about-417ddebbc323) [](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [## 自学成才的数据专业人员的 5 条法则
-
-towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) [](/dont-waste-time-building-your-data-science-network-2c336690dee4) [## 不要浪费时间构建您的数据科学网络
-
-### 专注于重要的事情
-
-towardsdatascience.com](/dont-waste-time-building-your-data-science-network-2c336690dee4)
+towardsdatascience.com](/5-laws-for-self-taught-data-professionals-4bf351ac5c24) </dont-waste-time-building-your-data-science-network-2c336690dee4> 

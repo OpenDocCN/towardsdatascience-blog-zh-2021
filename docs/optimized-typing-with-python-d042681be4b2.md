@@ -147,10 +147,6 @@ if len(sys.argv)>1:
 
 如果你想知道更多关于触摸打字和如何改进的信息，你可以在这里查看我的帖子:
 
-[](https://medium.com/digital-diplomacy/type-fast-work-fast-b80eacd10e26) [## 打字快，工作快
-
-### 程序员优化生产力的方法
-
-medium.com](https://medium.com/digital-diplomacy/type-fast-work-fast-b80eacd10e26) 
+<https://medium.com/digital-diplomacy/type-fast-work-fast-b80eacd10e26>  
 
 如果你喜欢这篇文章，请在 [Twitter](https://twitter.com/LucasEnkrateia) 、 [LinkedIn](https://www.linkedin.com/in/lucas-soares-969044167/) 上联系我，并在 [Medium](https://lucas-soares.medium.com) 上关注我。谢谢，下次再见！:)

@@ -127,8 +127,4 @@ MLJAR AutoML 以三种模式工作:解释、竞争、执行。(图片由作者�
 
 你可以在 GitHub 找到 MLJAR AutoML:[https://github.com/mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
 
-[](https://github.com/mljar/mljar-supervised) [## ml jar/ml jar-受监督
-
-### 文档:https://supervised.mljar.com/源代码:https://github.com/mljar/mljar-supervised…
-
-github.com](https://github.com/mljar/mljar-supervised)
+<https://github.com/mljar/mljar-supervised> 

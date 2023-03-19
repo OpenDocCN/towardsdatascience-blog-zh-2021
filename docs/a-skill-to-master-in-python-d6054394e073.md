@@ -59,11 +59,7 @@ num_list[12]
 
 既然我们已经回顾了如何使用正索引和负索引来索引一个序列，让我们来看看切片。
 
-[](/two-cool-functions-to-know-in-python-7c36da49f884) [## Python 中需要了解的两个很酷的函数
-
-### 了解如何使用 Python 中的 tqdm 制作表格和显示进度条
-
-towardsdatascience.com](/two-cool-functions-to-know-in-python-7c36da49f884) 
+</two-cool-functions-to-know-in-python-7c36da49f884>  
 
 # 分割序列
 
@@ -159,11 +155,7 @@ num_list = [0,5,10,15,20,25,30,35,40]num_list[2:8]or num_list[2:-1]ornum_list[-7
 num_list = [0,5,10,15,20,25,30,35,40]num_list[:]or num_list[::]#[0,5,10,15,20,25,30,35,40]
 ```
 
-[](/become-a-more-efficient-python-programmer-3850c94b95a4) [## 成为更高效的 Python 程序员
-
-### 了解用 Python 创建列表和完成其他任务的最佳方式
-
-towardsdatascience.com](/become-a-more-efficient-python-programmer-3850c94b95a4) 
+</become-a-more-efficient-python-programmer-3850c94b95a4>  
 
 ## 步幅值
 
@@ -314,11 +306,7 @@ num_list
 
 > 相等运算符(==)检查值是否相等。identity 运算符(is)检查这两个变量是否指向内存中的同一个对象。
 
-[](https://levelup.gitconnected.com/the-ultimate-guide-to-sorting-in-python-d07349fb96d5) [## Python 排序的终极指南
-
-### 如何在 python 中对列表、元组、字符串和字典进行排序
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/the-ultimate-guide-to-sorting-in-python-d07349fb96d5) 
+<https://levelup.gitconnected.com/the-ultimate-guide-to-sorting-in-python-d07349fb96d5>  
 
 ## 切片函数
 
@@ -346,11 +334,7 @@ evens = slice(None,None,2)num_list[evens]
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 ## 结论
 

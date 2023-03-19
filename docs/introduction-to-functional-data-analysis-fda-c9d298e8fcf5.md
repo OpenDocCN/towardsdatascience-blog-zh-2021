@@ -78,11 +78,7 @@
 
 此外，函数时间序列的分析与单变量或多变量时间序列的传统分析非常相似:
 
-[](/functional-time-series-83b717cca12) [## 功能时间序列
-
-### 当我们更频繁地测量数据时，我们如何才能最好地分析它？功能数据分析(FDA)可以简化…
-
-towardsdatascience.com](/functional-time-series-83b717cca12) 
+</functional-time-series-83b717cca12>  
 
 其他概念也可用于功能数据，但它们的适应稍微复杂一些。比如，不清楚如何定义和解释随机函数的期望值:对于一个函数 *Y(x)* ， *E[Y](x)* 是什么意思？好消息是，在最重要的连续或平方可积函数的情况下，期望值可以逐点解释: *E[Y](x) = E[Y(x)]* ，即 *Y(x)* 的平均值等于 *Y* 在 *x* 处计算的平均值，详见 [Bücher et al. (2019)](https://link.springer.com/article/10.1007%2Fs10463-019-00721-7) 。
 
@@ -94,28 +90,12 @@ towardsdatascience.com](/functional-time-series-83b717cca12)
 
 *如果你对时间序列感兴趣，这个可能适合你:*
 
-[](/time-series-analysis-part-i-3be41995d9ad) [## 时间序列分析—第一部分
-
-### 从独立同分布到相依非平稳数据
-
-towardsdatascience.com](/time-series-analysis-part-i-3be41995d9ad) [](/time-series-analysis-part-ii-ii-bece7ecc9647) [## 时间序列分析—第二部分
-
-### 可能非平稳、相关时间序列的独立性和平稳性检验。
-
-towardsdatascience.com](/time-series-analysis-part-ii-ii-bece7ecc9647) 
+</time-series-analysis-part-i-3be41995d9ad>  </time-series-analysis-part-ii-ii-bece7ecc9647>  
 
 *如果你一直想了解核密度估计或核回归:*
 
-[](/kernel-density-estimation-and-non-parametric-regression-ecebebc75277) [## 核密度估计和非参数回归
-
-### 核回归和 KDE 是什么意思？通过示例和 Python 获得对概念的直观理解…
-
-towardsdatascience.com](/kernel-density-estimation-and-non-parametric-regression-ecebebc75277) 
+</kernel-density-estimation-and-non-parametric-regression-ecebebc75277>  
 
 *如果您想查看时间序列分析在生产中监控 ML 模型的应用，请点击此处:*
 
-[](/monitoring-ml-models-in-production-768b6a74ee51) [## 监控生产中的 ML 模型
-
-### 适时检测生产中模型的质量偏差——不要太早也不要太晚
-
-towardsdatascience.com](/monitoring-ml-models-in-production-768b6a74ee51)
+</monitoring-ml-models-in-production-768b6a74ee51> 

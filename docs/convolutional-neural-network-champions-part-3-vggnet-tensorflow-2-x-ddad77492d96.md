@@ -12,19 +12,11 @@
 
 **第一部分:**tensor flow 中的 Lenet-5 和 MNIST 分类:
 
-[](/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6) [## 卷积神经网络冠军第 1 部分:LeNet-5
-
-### 关于最流行的卷积神经网络(CNN)架构和可再现 Python 的多部分系列…
-
-towardsdatascience.com](/convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6) 
+</convolutional-neural-network-champions-part-1-lenet-5-7a8d6eb98df6>  
 
 **第二部分:**ImageNet 和 Tensorflow 上的 AlexNet 分类:
 
-[](/convolutional-neural-network-champions-part-2-alexnet-tensorflow-2-x-de7e0076f3ff) [## 卷积神经网络冠军第 2 部分:AlexNet (TensorFlow 2.x)
-
-### 关于最流行的卷积神经网络(CNN)架构的多部分系列的第 2 部分…
-
-towardsdatascience.com](/convolutional-neural-network-champions-part-2-alexnet-tensorflow-2-x-de7e0076f3ff) 
+</convolutional-neural-network-champions-part-2-alexnet-tensorflow-2-x-de7e0076f3ff>  
 
 > *本研究的 Python 笔记本位于我的 Github 页面:* [***链接***](https://github.com/anejad/Convolutional-Neural-Network-Champions/blob/master/VGGnet/VGG.ipynb)
 
@@ -96,11 +88,7 @@ VGG 在 ImagNet 数据集上展示了良好的精度性能，但是，所有上�
 
 **你可以在以下网址看到我的其他作品:**
 
-**[](http://amirnejad.medium.com/) [## 阿米尔·内贾德-中等
-
-### Python 在金融数据集中的多部分时间序列分析时间序列是一系列数据…
-
-amirnejad.medium.com](http://amirnejad.medium.com/)** 
+**<http://amirnejad.medium.com/> ** 
 
 # **参考**
 

@@ -81,16 +81,4 @@ b)对于像 SVM 这样的算法，其权重只不过是依赖于数据集中样�
 
 参考资料:
 
-[](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) [## 联合学习:没有集中训练数据的协作机器学习
-
-### 标准的机器学习方法需要将训练数据集中在一台机器或数据中心。还有…
-
-ai.googleblog.com](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) [](https://arxiv.org/abs/1610.05492) [## 联合学习:提高沟通效率的策略
-
-### 联合学习是一种机器学习设置，其目标是训练高质量的集中式模型，同时…
-
-arxiv.org](https://arxiv.org/abs/1610.05492) [](https://www.tensorflow.org/federated) [## 张量流联邦
-
-### TensorFlow Federated:分散数据上的机器学习 TensorFlow Federated (TFF)是一个开源框架，用于…
-
-www.tensorflow.org](https://www.tensorflow.org/federated)
+<https://ai.googleblog.com/2017/04/federated-learning-collaborative.html>  <https://arxiv.org/abs/1610.05492>  <https://www.tensorflow.org/federated> 

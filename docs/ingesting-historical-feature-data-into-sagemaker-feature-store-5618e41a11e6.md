@@ -84,4 +84,4 @@ SMFS 离线存储通过 Athena 查询进行访问，因此检查数据获取是�
 
 这种方法允许用户节省摄取 API 的费用，这对于大量的历史数据来说是相当大的。
 
-*【2021 年 4 月 29 日编辑:讨论更高级场景的后续博文可在此处找到*[](/q-a-for-ingesting-historical-data-into-sagemaker-feature-store-239e918ec594)**】**
+*【2021 年 4 月 29 日编辑:讨论更高级场景的后续博文可在此处找到*</q-a-for-ingesting-historical-data-into-sagemaker-feature-store-239e918ec594>**】**

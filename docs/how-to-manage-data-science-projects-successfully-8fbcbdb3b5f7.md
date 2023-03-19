@@ -87,12 +87,4 @@
 
 ## 资料来源和进一步阅读
 
-[](/how-to-set-up-an-flexible-and-scalable-data-analytics-platform-quickn-easy-5fb3a4c83745) [## 如何建立灵活、可扩展的数据分析平台
-
-### 借助 ELT plus 等易于实施且可扩展的云服务，您可以建立数据仓库、湖泊和…
-
-towardsdatascience.com](/how-to-set-up-an-flexible-and-scalable-data-analytics-platform-quickn-easy-5fb3a4c83745)  [## 什么是数据科学？？5 P 的！！数据科学和机器学习
-
-### 什么是数据科学？？5 P 的！！。
-
-www.kaggle.com](https://www.kaggle.com/getting-started/164960)
+</how-to-set-up-an-flexible-and-scalable-data-analytics-platform-quickn-easy-5fb3a4c83745>   

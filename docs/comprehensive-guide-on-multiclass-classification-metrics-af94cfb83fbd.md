@@ -14,19 +14,11 @@
 
 因此，这篇文章将是关于 7 个最常用的 MC 指标:精确度、召回率、F1 值、ROC AUC 值、Cohen Kappa 值、Matthew 相关系数和对数损失。您将了解它们是如何计算的，它们在 Sklearn 中的细微差别，以及如何在您自己的工作流程中使用它们。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 解释 N 乘 N 混淆矩阵
 

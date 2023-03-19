@@ -97,11 +97,7 @@
 
 再者，不要让自己被一个角色定义所限制。我是一名数据分析师，从事数据工程师的工作。同时，我也是一名数据工程师，从事产品负责人的工作。就这样吧。我们是来解决问题的。
 
-[](/how-being-a-generalist-can-benefit-your-data-science-career-cd23758a0780) [## 成为多面手如何有利于您的数据科学职业
-
-### 尤其是如果你是从数据科学领域起步的话…
-
-towardsdatascience.com](/how-being-a-generalist-can-benefit-your-data-science-career-cd23758a0780) 
+</how-being-a-generalist-can-benefit-your-data-science-career-cd23758a0780>  
 
 ## 关注能力而不是角色
 

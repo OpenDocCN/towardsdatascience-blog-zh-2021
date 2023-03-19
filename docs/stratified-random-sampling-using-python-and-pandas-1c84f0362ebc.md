@@ -120,11 +120,7 @@ Name: Stratify, dtype: float64
 
 完整的源代码可以在 GitHub 上找到:
 
-[](https://github.com/grahamharrison68/Public-Github/blob/master/Resampling/Stratified%20Sampling.ipynb) [## grahamharrison68/Public-Github
-
-### GH 公共项目库。通过在…上创建帐户，为 grahamharrison68/Public-Github 开发做出贡献
-
-github.com](https://github.com/grahamharrison68/Public-Github/blob/master/Resampling/Stratified%20Sampling.ipynb) 
+<https://github.com/grahamharrison68/Public-Github/blob/master/Resampling/Stratified%20Sampling.ipynb>  
 
 # 感谢您的阅读！
 

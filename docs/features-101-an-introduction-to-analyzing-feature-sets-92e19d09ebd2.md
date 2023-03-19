@@ -14,11 +14,7 @@
 
 分析特征，尤其是第一次，可能是一项相当艰巨的任务。不要担心，因为最终这将成为容易的部分——它类似于一个新木匠。他可能会用他的黄铜锤敲几个钉子，毁掉他的第一把锤子，但他会有另一次机会，下次会用正确的锤子。我的观点是，即使这可能是压倒性的，我鼓励任何有抱负的读者坚持下去，因为它会变得更容易！事不宜迟，让我们深入了解一些特性。此外，您可以在这个笔记本中查看本文的代码:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Analyzing%20Features.ipynb) [## Emmetts-DS-NoteBooks/Analyzing features . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Analyzing%20Features.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Analyzing%20Features.ipynb>  
 
 # 特征类型
 

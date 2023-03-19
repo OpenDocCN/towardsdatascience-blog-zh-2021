@@ -120,35 +120,7 @@ CRISP-DM 阶段的每个部分都适用于创建您的第一个数据科学项�
 
 这里有更多来自我的业务和突破到数据科学系列的文章来帮助你！
 
-[](/4-way-to-build-your-business-knowledge-for-data-science-job-4c3c04ea3d8a) [## 为数据科学工作积累业务知识的 4 种方法
-
-### 商业是这份工作最重要的方面
-
-towardsdatascience.com](/4-way-to-build-your-business-knowledge-for-data-science-job-4c3c04ea3d8a) [](/how-my-non-it-education-shape-me-as-a-data-scientist-49193f5c412e) [## 我的非 IT 教育如何将我塑造成一名数据科学家
-
-### 这不是成为数据科学家的唯一途径。
-
-towardsdatascience.com](/how-my-non-it-education-shape-me-as-a-data-scientist-49193f5c412e) [](/what-you-should-have-on-your-data-scientist-resume-especially-in-the-pandemic-time-2bf15fbf8051) [## 你应该在数据科学家简历上写些什么(尤其是在疫情时代)
-
-### 在申请数据科学家职位之前，先了解自己的简历
-
-towardsdatascience.com](/what-you-should-have-on-your-data-scientist-resume-especially-in-the-pandemic-time-2bf15fbf8051) [](/daily-life-as-a-data-scientist-work-from-home-edition-84a895e71879) [## 数据科学家的日常生活:在家工作版
-
-### 作为一名数据科学家，我们在家做什么(主要是我)
-
-towardsdatascience.com](/daily-life-as-a-data-scientist-work-from-home-edition-84a895e71879) [](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) [## 学习业务，成为伟大的数据科学家
-
-### 每个数据科学家的核心。(抱歉，不是编码的问题)
-
-towardsdatascience.com](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) [](/data-scientist-job-is-it-worth-the-sacrifices-made-efdf34139aa6) [## 数据科学家的工作—值得做出牺牲吗？
-
-### 长话短说——的确如此(至少对我来说)
-
-towardsdatascience.com](/data-scientist-job-is-it-worth-the-sacrifices-made-efdf34139aa6) [](/breaking-into-data-science-the-recap-5b451c82048d) [## 闯入数据科学:概述
-
-### 概述许多故事和技巧，以进入数据科学领域
-
-towardsdatascience.com](/breaking-into-data-science-the-recap-5b451c82048d) 
+</4-way-to-build-your-business-knowledge-for-data-science-job-4c3c04ea3d8a>  </how-my-non-it-education-shape-me-as-a-data-scientist-49193f5c412e>  </what-you-should-have-on-your-data-scientist-resume-especially-in-the-pandemic-time-2bf15fbf8051>  </daily-life-as-a-data-scientist-work-from-home-edition-84a895e71879>  </learn-the-business-to-become-a-great-data-scientist-635fa6029fb6>  </data-scientist-job-is-it-worth-the-sacrifices-made-efdf34139aa6>  </breaking-into-data-science-the-recap-5b451c82048d>  
 
 希望有帮助！
 

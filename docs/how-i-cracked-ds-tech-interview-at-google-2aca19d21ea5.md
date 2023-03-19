@@ -26,11 +26,7 @@
 > 
 > 这里有一个博客，概括了我在谷歌的面试经历。
 
-[](/ace-your-data-analytics-interviews-ef114606c5d7) [## 赢得数据分析面试
-
-### 我在谷歌、Visa 等公司担任数据分析师/科学家的面试经历
-
-towardsdatascience.com](/ace-your-data-analytics-interviews-ef114606c5d7) 
+</ace-your-data-analytics-interviews-ef114606c5d7>  
 
 > 就这样，让我们开始吧
 
@@ -223,19 +219,7 @@ towardsdatascience.com](/ace-your-data-analytics-interviews-ef114606c5d7)
 
 # 我职业经历中其他有用的博客
 
-[](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) [## 如何构建您的终极数据科学投资组合
-
-### 伟大的数据科学家创造重要的产品
-
-towardsdatascience.com](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) [](/the-hidden-gems-of-writing-analytics-6db78fad5a51) [## 写作分析的隐藏宝石
-
-### 这是我在谷歌工作、吸引被动收入、激励数据初级人员以及更多事情的黄金入场券
-
-towardsdatascience.com](/the-hidden-gems-of-writing-analytics-6db78fad5a51) [](/5-biggest-tips-to-juggle-work-and-study-as-data-scientists-7cad143f10a) [## 作为数据科学家兼顾工作和学习的 5 个最大技巧
-
-### 我个人平衡学习、工作和生活的经验
-
-towardsdatascience.com](/5-biggest-tips-to-juggle-work-and-study-as-data-scientists-7cad143f10a) 
+</how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72>  </the-hidden-gems-of-writing-analytics-6db78fad5a51>  </5-biggest-tips-to-juggle-work-and-study-as-data-scientists-7cad143f10a>  
 
 # 关于作者
 

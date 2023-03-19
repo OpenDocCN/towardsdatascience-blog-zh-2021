@@ -12,11 +12,7 @@
 
 多年来，潜在狄利克雷分配(LDA)一直是主题建模最常用的算法。该算法于 2003 年首次推出，将主题视为不同单词出现的概率分布。如果你想看看 LDA 的实际应用，你应该看看我下面的文章，我在假新闻分类数据集上执行了 LDA。
 
-[](/fake-news-classification-with-recurrent-convolutional-neural-networks-4a081ff69f1a) [## 基于递归卷积神经网络的假新闻分类
-
-### 介绍
-
-towardsdatascience.com](/fake-news-classification-with-recurrent-convolutional-neural-networks-4a081ff69f1a) 
+</fake-news-classification-with-recurrent-convolutional-neural-networks-4a081ff69f1a>  
 
 然而，随着 transformer 模型和嵌入算法(如 Doc2Vec)的引入，我们可以创建更复杂的主题模型来捕捉单词中的语义相似性。事实上，一种叫做 [Top2Vec](https://arxiv.org/pdf/2008.09470.pdf) 的算法使得使用嵌入向量和聚类建立主题模型成为可能。在本文中，我将展示如何使用 Top2Vec 通过嵌入向量和聚类技术来执行无监督的主题建模。
 
@@ -41,11 +37,7 @@ Top2Vec 是一种算法，它检测文本中存在的主题，并生成联合嵌
 
 生成嵌入向量的算法有很多。Word2Vec 和 Doc2Vec 非常流行，但近年来，NLP 开发人员和研究人员已经开始使用转换器来生成嵌入向量。如果你有兴趣了解更多关于变形金刚的知识，可以看看我下面的文章。
 
-[](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) [## 什么是变压器，你如何使用它们？
-
-### 介绍在过去的几年中彻底改变了自然语言处理的模型。
-
-towardsdatascience.com](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) 
+</what-are-transformers-and-how-can-you-use-them-f7ccd546071a>  
 
 为每个文档创建嵌入向量允许我们将每个文档视为多维空间中的一个点。Top2Vec 还创建了联合嵌入的单词向量，这使得我们可以在以后确定主题关键词。
 

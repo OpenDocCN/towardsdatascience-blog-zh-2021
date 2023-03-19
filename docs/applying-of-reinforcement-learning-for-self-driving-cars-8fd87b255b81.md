@@ -44,10 +44,6 @@ Denys Nevozhai 在 [Unsplash](https://unsplash.com/s/photos/mobility?utm_source=
 
 驾驶汽车是一项复杂的任务，需要最低水平的智能来确保安全驾驶，因为我们已经有了关于如何获得驾照的规定。许多参数，如车辆动力学参数如速度、加速度、位置、倾斜度等。以及环境参数影响驾驶策略。**一个** [**操作设计域(奇数)**](https://medium.com/rewrite-tech/how-to-model-the-behavior-of-a-self-driving-car-5506a3d7afdd) **应该指定影响强化学习方法的参数。**多种驾驶动作只是设计领域中的一个方面，我们需要基于 ODD 考虑所有参数来训练 RL。
 
-[](https://medium.com/subscribe/@bhbenam) [## 每当贝扎德·贝南出版时，就收到一封电子邮件。
-
-### 每当贝扎德·贝南出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@bhbenam) 
+<https://medium.com/subscribe/@bhbenam>  
 
 我的推荐页面:[https://medium.com/@bhbenam/membership](https://medium.com/@bhbenam/membership)

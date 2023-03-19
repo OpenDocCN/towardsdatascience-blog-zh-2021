@@ -51,11 +51,7 @@
 
 套用一句话:尽管在解释上存在一些差异，但所有人都强调数据的重要性、现实程度以及对决策的应用。特别是考虑到**物联网技术**的兴起和**数据平台**的出现，我们现在拥有足够丰富和粒度的数据，可以从抽象的模拟模型向具有代表性的数字双胞胎发展。
 
-[](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124) [## 数据平台—将数据从您的传统系统中解放出来
-
-### 数据分析的潜力经常被分散在公司各处的古老而多样的遗留系统所阻碍…
-
-towardsdatascience.com](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124) 
+</data-platforms-liberate-data-from-your-legacy-systems-669b643e3124>  
 
 # 数字双胞胎
 

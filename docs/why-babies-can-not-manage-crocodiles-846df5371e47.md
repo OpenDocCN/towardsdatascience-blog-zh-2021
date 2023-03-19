@@ -83,8 +83,4 @@
 
 要了解更多关于等式证明和如何解决它们的知识，请查看定理证明指南页面:
 
-[](https://reference.wolfram.com/language/guide/TheoremProving.html) [## 定理证明-Wolfram 语言文档
-
-### Wolfram 语言以多种形式和多个领域执行定理证明。有时定理证明是一种…
-
-reference.wolfram.com](https://reference.wolfram.com/language/guide/TheoremProving.html)
+<https://reference.wolfram.com/language/guide/TheoremProving.html> 

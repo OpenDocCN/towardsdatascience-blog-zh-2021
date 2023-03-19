@@ -94,8 +94,4 @@
 
 ***我已经在*** [***Udemy 课程***](https://www.udemy.com/course/nlp_natural_language_processing_python_beginners/?referralCode=ABA4DB815299652F2A37) ***中设置了这些基础知识——该课程适合初学者，我希望你能在我身边。该课程还包含 50 多个编码练习，使您能够在学习这些新概念的同时进行练习。***
 
-[](https://ivopbernardo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ivopbernardo.medium.com](https://ivopbernardo.medium.com/membership)
+<https://ivopbernardo.medium.com/membership> 

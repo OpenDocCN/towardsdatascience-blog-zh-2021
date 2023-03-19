@@ -67,18 +67,6 @@ for file in file_contents:
 
 就是这样！我们对子串 metallophos 的搜索返回了 6 个 Pfam 家族，我们可以用它们来搜索我们感兴趣的基因组以识别相似的功能域。我叫科迪·格利克曼，可以在 LinkedIn 上找到我。一定要看看我的其他一些文章！
 
-[](/data-augmentation-in-medical-images-95c774e6eaae) [## 医学图像中的数据增强
-
-### 如何通过重塑和重采样数据来提高视觉模型的性能
-
-towardsdatascience.com](/data-augmentation-in-medical-images-95c774e6eaae) [](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [## 使用 GitHub 创建漂亮的静态网页
-
-### 查找模板和为静态网页创建表单的位置
-
-towardsdatascience.com](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [](/creating-photo-mosaics-using-python-49100e87efc) [## 使用 Python 创建照片镶嵌
-
-### 一步一步的教程，让你自己的美丽的图像
-
-towardsdatascience.com](/creating-photo-mosaics-using-python-49100e87efc) 
+</data-augmentation-in-medical-images-95c774e6eaae>  </building-a-beautiful-static-webpage-using-github-f0f92c6e1f02>  </creating-photo-mosaics-using-python-49100e87efc>  
 
 [1] Sonnhammer，Erik LL，Sean R. Eddy 和 Richard Durbin。" Pfam:基于种子比对的蛋白质结构域家族综合数据库."*蛋白质:结构、功能和生物信息学*28.3(1997):405–420。

@@ -66,11 +66,7 @@ y 变量的屏幕截图。
 
 对于如何掌握数据科学的熊猫的高层次概述，也可以查看我以前写的博客帖子。
 
-[](/how-to-master-pandas-for-data-science-b8ab0a9b1042) [## 如何掌握熊猫进行数据科学
-
-### 这是数据科学需要的基本熊猫
-
-towardsdatascience.com](/how-to-master-pandas-for-data-science-b8ab0a9b1042) 
+</how-to-master-pandas-for-data-science-b8ab0a9b1042>  
 
 # 3.scikit-learn 中的实用函数
 
@@ -133,11 +129,7 @@ towardsdatascience.com](/how-to-master-pandas-for-data-science-b8ab0a9b1042)
 
 有关使用 scikit-learn 构建自己的机器学习管道的更多信息，来自 Machine Learning Mastery 的 Jason Brownlee 在以下教程中提供了详细的说明:
 
-[](https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/) [## 通过 scikit-learn - Machine 学习掌握对管道优化建模
-
-### 本教程介绍了数据科学和自动化学习中的两个基本概念。一个是机器学习…
-
-machinelearningmastery.com](https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/) 
+<https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/>  
 
 # 4.使用`scikit-learn`的高级概述
 
@@ -290,11 +282,7 @@ Scikit-learn 备忘单[选择正确的评估工具](https://scikit-learn.org/sta
 
 需要注意的是，上图是 scikit-learn 算法备忘单的预览。要充分利用此备忘单(您可以单击算法查看感兴趣的算法的基础文档)，请转到下面的链接进入备忘单:
 
-[](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) [## 选择正确的评估工具-sci kit-了解 0.24.2 文档
-
-### 通常，解决机器学习问题最困难的部分是找到合适的评估者。不同的…
-
-scikit-learn.org](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
+<https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html>  
 
 ## 数据营
 
@@ -318,21 +306,13 @@ scikit-learn.org](https://scikit-learn.org/stable/tutorial/machine_learning_map/
 
 这里有一些关于`scikit-learn`用法的好书，我个人也有，而且觉得非常有用。
 
-[](https://amzn.to/3xOmM1A) [## 使用 Scikit-Learn、Keras 和 TensorFlow 进行机器实践学习:概念、工具和技术…
-
-### 用 Scikit-Learn、Keras 和 TensorFlow 进行机器学习:概念、工具和技术来构建…
-
-amzn.to](https://amzn.to/3xOmM1A) 
+<https://amzn.to/3xOmM1A>  
 
 Aurélien Géron 的《机器学习实践》是经典书籍之一，它很好地涵盖了用 Python 实现机器学习和深度学习模型的概念和实践方面。还有一个附录部分提供了一些关于如何建立机器学习项目的实用建议，这些建议可能对有抱负的数据科学家也有帮助。
 
 在这个[链接](https://github.com/ageron/handson-ml2)中，作者还分享了 GitHub 上的书中提到的代码的 Jupyter 笔记本。
 
-[](https://amzn.to/2VVxkit) [## Python 数据科学手册:处理数据的基本工具
-
-### Python 数据科学手册:处理 Amazon.com 数据的基本工具。
-
-amzn.to](https://amzn.to/2VVxkit) 
+<https://amzn.to/2VVxkit>  
 
 Jake VanderPlas 的《Python 数据科学手册》也是一本很棒的书，它涵盖了一些用于实现数据科学项目的重要库。特别是，本书涵盖了如何使用 Jupyter 笔记本、`NumPy`、`Pandas`、`Matplotlib`和`Scikit-learn`。
 
@@ -367,11 +347,7 @@ Jake VanderPlas 的《Python 数据科学手册》也是一本很棒的书，它
 
 我是泰国一所研究型大学的生物信息学副教授和数据挖掘和生物医学信息学负责人。在我下班后的时间里，我是一名 YouTuber(又名[数据教授](http://bit.ly/dataprofessor/))制作关于数据科学的在线视频。在我做的所有教程视频里，我也分享 GitHub 上的 Jupyter 笔记本([数据教授 GitHub page](https://github.com/dataprofessor/) )。
 
-[](https://www.youtube.com/dataprofessor) [## 数据教授
-
-### 数据科学、机器学习、生物信息学、研究和教学是我的激情所在。数据教授 YouTube…
-
-www.youtube.com](https://www.youtube.com/dataprofessor) 
+<https://www.youtube.com/dataprofessor>  
 
 # 在社交网络上与我联系
 

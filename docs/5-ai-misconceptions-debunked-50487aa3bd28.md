@@ -88,8 +88,4 @@
 
 *感谢阅读！如果你喜欢这篇文章，你可能会喜欢我的关于人工智能的书:*
 
-[](https://thisisrealaibook.com/) [## 这是真正的人工智能:100 个人工智能的现实世界实现
-
-### 你知道吗？最近，人工智能(AI)发现了世界上最好的流感疫苗。渐进…
-
-thisisrealaibook.com](https://thisisrealaibook.com/)
+<https://thisisrealaibook.com/> 

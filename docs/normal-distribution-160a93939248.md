@@ -104,11 +104,7 @@ via [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kur
 
 > 正常模型在极端情况下往往不太合适。它经常低估罕见事件的概率。纳西姆·尼古拉斯·塔勒布的《黑天鹅》 给出了无数罕见事件的例子，这些事件并不像正态分布预测的*那样*罕见。
 
-[](https://www.johndcook.com/blog/2008/07/20/why-heights-are-not-normally-distributed/) [## 为什么高度不是正态分布的
-
-### 在我之前的帖子中，我推测了为什么身高是正态分布的，也就是为什么他们的统计分布…
-
-www.johndcook.com](https://www.johndcook.com/blog/2008/07/20/why-heights-are-not-normally-distributed/) 
+<https://www.johndcook.com/blog/2008/07/20/why-heights-are-not-normally-distributed/>  
 
 # 摘要
 
@@ -116,16 +112,4 @@ www.johndcook.com](https://www.johndcook.com/blog/2008/07/20/why-heights-are-not
 
 # 更多你可能喜欢的文章
 
-[](/neighborhood-explorer-a7f374e8527d) [## 如何使用聚类创建邻域浏览器工具
-
-### 使用 sklearn 的聚类算法为您的城市创建交互式仪表板的分步演练。
-
-towardsdatascience.com](/neighborhood-explorer-a7f374e8527d) [](/data-science-new-normal-ca34bcbad8f0) [## 新常态下的数据科学——来自一家 14 亿美元初创企业的教训
-
-### 后 COVID 时代，机器学习对商业成功越来越重要。
-
-towardsdatascience.com](/data-science-new-normal-ca34bcbad8f0) [](/10-python-skills-419e5e4c4d66) [## 训练营里不会教的 10 项 Python 技能
-
-### 使用这份编码技巧列表，在数据科学和机器学习方面提升到新的高度。
-
-towardsdatascience.com](/10-python-skills-419e5e4c4d66)
+</neighborhood-explorer-a7f374e8527d>  </data-science-new-normal-ca34bcbad8f0>  </10-python-skills-419e5e4c4d66> 

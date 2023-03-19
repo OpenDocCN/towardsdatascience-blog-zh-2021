@@ -36,11 +36,7 @@
 
 **PS**:如果你想了解更多关于 FastAPI、Docker 和 Github 的动作，一定要看看我之前的* [*帖子*](/how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a) *。**
 
-*[](/how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a) [## 如何用 FastAPI、Docker 和 Github 动作部署机器学习模型
-
-### 具有 CI/CD 的端到端管道
-
-towardsdatascience.com](/how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a)* 
+*</how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a> * 
 
 # *复制本教程需要什么*
 
@@ -234,31 +230,7 @@ pipenv install fastapi***
 
 *不要犹豫，让我知道你在这方面找到的其他有用的资源😉*
 
-*[](https://howhttps.works/) [## HTTPS 是如何运作的
-
-### 你有没有想过为什么你的浏览器地址栏会出现一个绿色的锁图标？为什么它很重要？我们也是，而且…
-
-howhttps。作品](https://howhttps.works/) [](https://www.valentinog.com/blog/traefik/) [## 使用 Docker、Traefik 和 Let's Encrypt 部署 FastAPI 应用程序
-
-### 当用 Docker 和 Let's Encrypt 把所有的部分组合起来配置 Traefik 时，我用了 15 个…
-
-www.valentinog.com](https://www.valentinog.com/blog/traefik/) [](https://fastapi.tiangolo.com/tr/deployment/docker/) [## 使用 Docker - FastAPI 部署
-
-### 警告当前页面仍然没有该语言的翻译。但是你可以帮忙翻译一下…
-
-fastapi.tiangolo.com](https://fastapi.tiangolo.com/tr/deployment/docker/) [](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04) [## 如何在 Ubuntu 20.04 | DigitalOcean 上使用 Traefik v2 作为 Docker 容器的反向代理
-
-### Docker 可能是在生产环境中运行 web 应用程序的一种有效方式，但是您可能希望在…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04) [](https://traefik.io/blog/traefik-2-tls-101-23b4fbee81f1/) [## 如何用 TLS - Traefik 2 & TLS 101 配置 Traefik 2
-
-### 每个人的 HTTPS (& TCP over TLS)！我喜欢成为一名开发人员有成百上千的原因(除了对…
-
-traefik.io](https://traefik.io/blog/traefik-2-tls-101-23b4fbee81f1/) [](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04) [## 如何在 Ubuntu 20.04 | DigitalOcean 上使用 Traefik v2 作为 Docker 容器的反向代理
-
-### Docker 可能是在生产环境中运行 web 应用程序的一种有效方式，但是您可能希望在…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04) 
+*<https://howhttps.works/>  <https://www.valentinog.com/blog/traefik/>  <https://fastapi.tiangolo.com/tr/deployment/docker/>  <https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04>  <https://traefik.io/blog/traefik-2-tls-101-23b4fbee81f1/>  <https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04>  
 
 [https://www . cloud flare . com/fr-fr/learning/SSL/what-is-https/](https://www.cloudflare.com/fr-fr/learning/ssl/what-is-https/)
 

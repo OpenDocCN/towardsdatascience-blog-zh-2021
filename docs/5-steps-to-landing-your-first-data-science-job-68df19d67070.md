@@ -14,11 +14,7 @@ Clem Onojeghuo 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 但是，尽管如此，如果你明智地出牌，你仍然可以得到你梦想中的工作。我认为求职是每个人都需要发展和练习的技能，就像他们发展和练习技术技能一样。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 在这篇文章中，我们将介绍一些你需要经历的步骤，以提高你获得梦想工作的机会。这些步骤中的大部分可能看起来显而易见且符合逻辑，但掌握它们需要练习，更重要的是耐心。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 建立一个相关的投资组合可能是最具挑战性的步骤。首先，你需要证明你有经验，即使你是在申请你的第一份工作。那么，在没有实际经历的情况下，如何表现出你经历过呢？
 
-[](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) [## 5 个数据科学开源项目，为你的简历增色不少
-
-### 通过这些项目，提高你的技能，充实你的简历
-
-towardsdatascience.com](/5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3) 
+</5-data-science-open-source-projects-you-to-contribute-to-boost-your-resume-d757697fb1e3>  
 
 在这里，建立一个相关的投资组合可以帮助你很多。公司找经验，基本都是找具体技能，具体项目。所以你只需要证明你解决过现实生活中的问题。一般来说，你的投资组合需要包括三类项目:
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/5-data-science-open-source-projects-you-to-contribute-t
 
 您可以创建自己的播客，与您圈子中的人或经历相同旅程的人讨论数据科学主题。如果你对此感到不舒服，那么你可以创建自己的博客，并开始与其他数据科学家交流。
 
-[](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) [## 每个数据科学家都应该写博客的 5 个理由
-
-### 解释某事让你对它有更深的理解。
-
-towardsdatascience.com](/5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3) 
+</5-reasons-why-every-data-scientist-should-blog-f1d81550a6c3>  
 
 # 第四步:利用求职工具。
 
@@ -67,11 +55,7 @@ towardsdatascience.com](/5-reasons-why-every-data-scientist-should-blog-f1d81550
 1.  [NextJobHunt](https://nextjobhunt.com/) 是一款求职工具，将求职者与可获得的[工作机会](https://analyticsindiamag.com/with-jobs-at-risk-can-a-career-in-big-data-keep-you-safe/)和寻找职位的人才公司联系起来。该网站还提供职业咨询、撰写有力的简历以及如何通过面试等服务。
 2.  LinkedIn 不仅仅是一个让你记录最近职业成就的网站。LinkedIn 求职门户可以帮你找到新工作。
 
-[](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) [## 10 种不同的数据科学职称及其含义
-
-### 为你的技能选择合适的角色。
-
-towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) 
+</10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae>  
 
 # 第五步:根据你申请的工作量身定制你的简历
 
@@ -85,11 +69,7 @@ towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean
 
 当我们开始找工作时，我们中的许多人都很挣扎，因为我们把找工作视为你在到达学习旅程的终点后所做的事情。事实是，求职是另一项技能，你需要在学习该领域技术方面的同时继续努力。
 
-[](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) [## 您的数据科学投资组合中必须包含 4 类项目
-
-### 获得一份 DS 工作并不容易，但拥有这些项目可能会增加你的机会。
-
-towardsdatascience.com](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) 
+</4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e>  
 
 获得这份工作更多地取决于学习过程和如何玩游戏，而不是你是一名了不起的数据科学家或一名白手起家的程序员。你需要知道如何赢得比赛，掌握技术知识只是迈向大胜的第一步。
 

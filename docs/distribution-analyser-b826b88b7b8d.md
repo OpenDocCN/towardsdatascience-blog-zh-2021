@@ -67,11 +67,7 @@ Distribution Analyser 是一个 web 应用程序，允许您以交互方式探�
 
 ****用户将收到预填充的 Python 代码及其选定的参数，以便他们可以重用它。拥有这样的选项可以节省用户的时间和精力来复制他们选择的发行版。我写了一篇关于此功能重要性的文章，您可以在此处阅读该文章:****
 
-****[](/how-can-we-save-time-after-an-interactive-exploratory-data-analysis-c9edfdb8d3e5) [## 我们如何在交互式探索性数据分析后节省时间？
-
-### 一款 Web 应用程序，可以带回家的不仅仅是一个数字
-
-towardsdatascience.com](/how-can-we-save-time-after-an-interactive-exploratory-data-analysis-c9edfdb8d3e5) ![](img/86ab081deeaa11b36e484b6017e50762.png)
+****</how-can-we-save-time-after-an-interactive-exploratory-data-analysis-c9edfdb8d3e5>  ![](img/86ab081deeaa11b36e484b6017e50762.png)
 
 图 3。使用选定的分发版及其参数导出 Python 代码的演练，这些代码可重复使用(在本例中，使用 Spyder 在 Python 中本地绘图)。**** 
 

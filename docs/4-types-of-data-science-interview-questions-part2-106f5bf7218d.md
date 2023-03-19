@@ -92,8 +92,4 @@ DS 面试可以是一连串的多轮面试。对于大多数公司来说，进�
 
 **您可能还喜欢:**
 
-[](/conquer-the-python-coding-round-in-data-science-interviews-5e27c4513be3) [## 征服数据科学面试中的 Python 编码回合
-
-### 我 2021 年在印度班加罗尔作为数据科学家面试的经历。
-
-towardsdatascience.com](/conquer-the-python-coding-round-in-data-science-interviews-5e27c4513be3)
+</conquer-the-python-coding-round-in-data-science-interviews-5e27c4513be3> 

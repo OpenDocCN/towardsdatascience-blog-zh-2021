@@ -35,11 +35,7 @@
 
 这里有一份非常全面的[顶级数据科学研究生项目列表](https://www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/) [3】，这份列表实际上帮助我决定申请哪些项目— *拥有数据科学硕士项目的最佳 23 所学校*:
 
- [## 拥有数据科学硕士项目的最佳 23 所学校
-
-### 想更新你的简历并提高你的收入潜力吗？你在正确的地方，在正确的…
-
-www.mastersindatascience.org](https://www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/) 
+  
 
 > 完成数据科学学位的好处:
 
@@ -123,11 +119,7 @@ www.mastersindatascience.org](https://www.mastersindatascience.org/schools/23-gr
 
 特别是一个训练营，虽然我没有亲自参加，但我已经了解了他们的计划流程，并有几个朋友和一个同事与他们一起完成了训练营，他们也取得了令人难以置信的成功。这个训练营被命名为[总会](https://generalassemb.ly/education/data-science-immersive/austin?ga_campaign=immersive-remote&ga_variation=dsi-tile)【6】:
 
-[](https://generalassemb.ly/education/data-science-immersive/austin?ga_campaign=immersive-remote&ga_variation=dsi-tile) [## 沉浸式数据科学:奥斯汀|大会
-
-### 用数据科学流畅度解决世界上最有趣的问题成为雇主不可或缺的。驾驭…
-
-一般装配](https://generalassemb.ly/education/data-science-immersive/austin?ga_campaign=immersive-remote&ga_variation=dsi-tile) 
+<https://generalassemb.ly/education/data-science-immersive/austin?ga_campaign=immersive-remote&ga_variation=dsi-tile>  
 
 > 完成数据科学训练营的缺点:
 
@@ -218,11 +210,7 @@ www.mastersindatascience.org](https://www.mastersindatascience.org/schools/23-gr
 
 *在这里，你可以找到我之前，也是最近的一篇讨论五大数据科学资格的文章[9]:*
 
-*[](/the-top-5-data-science-qualifications-94b55b19444a) [## 前 5 名数据科学资格
-
-### 数据科学家职位最需要的资格是什么？
-
-towardsdatascience.com](/the-top-5-data-science-qualifications-94b55b19444a) 
+*</the-top-5-data-science-qualifications-94b55b19444a>  
 
 以上是我的观点，我与这些公司没有任何关系。感谢您的阅读，我真的很感激！
 

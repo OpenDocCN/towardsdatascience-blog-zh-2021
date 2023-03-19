@@ -76,12 +76,4 @@
 
 这些是我为更好地准备虚拟面试的建议。只要你不断从经验中学习，通过足够的实践，你总是会在面试中变得更好。感谢您的阅读。这是我所有博客帖子的列表。如果你感兴趣的话，可以去看看！
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [](https://zzhu17.medium.com/membership) [## 阅读朱(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership)
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  <https://zzhu17.medium.com/membership> 

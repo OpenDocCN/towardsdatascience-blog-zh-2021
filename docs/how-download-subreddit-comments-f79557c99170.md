@@ -47,11 +47,7 @@
 还在纠结`reddit_id`和`reddit_secret`怎么走？
 看看这篇好文章:
 
-[](/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c) [## 如何在 Python 中使用 Reddit API
-
-### Reddit API 数据收集简单指南
-
-towardsdatascience.com](/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c) 
+</how-to-use-the-reddit-api-in-python-5e05ddfd1e5c>  
 
 # 🚀下载数据
 

@@ -62,8 +62,4 @@
 
 我也强烈推荐你去了解指数分布，了解 ED 和 PD 的区别。但是，您可能对特定事件在特定时刻发生的概率感兴趣。如果有，请看我另一篇关于指数分布的文章。
 
-[](/questions-that-you-can-answer-using-exponential-distribution-2af9da54dfd8) [## 可以用指数分布回答的问题
-
-### 可以用指数分布解决的概率问题
-
-towardsdatascience.com](/questions-that-you-can-answer-using-exponential-distribution-2af9da54dfd8)
+</questions-that-you-can-answer-using-exponential-distribution-2af9da54dfd8> 

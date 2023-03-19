@@ -296,14 +296,6 @@ Upper outliers: [103.2]
 
 **你会发现这些文章也很有趣:**
 
-[](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [## 在 Python 中对两个字典执行逻辑运算的最简单方法
+</the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f> [## 在 Python 中对两个字典执行逻辑运算的最简单方法
 
-towardsdatascience.com](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [## 你从未用过的 5 种熊猫方法…而且你没有失去任何东西！
-
-### 你知道他们到底什么时候能帮上忙吗？
-
-towardsdatascience.com](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [## 当 Python 陷阱导致错误结果时
-
-### 一个奇怪的难以调试的带有舍入数字的 Python 故障
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe)
+towardsdatascience.com](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) </5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55>  <https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe> 

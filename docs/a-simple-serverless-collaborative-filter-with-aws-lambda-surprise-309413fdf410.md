@@ -42,11 +42,7 @@
 
 我们将使用 [SAM](https://aws.amazon.com/serverless/sam/) 来部署 Lambda 及其依赖资源。关于山姆的更深入的介绍，请看下面的文章。
 
-[](https://medium.com/better-programming/private-serverless-rest-api-with-lambda-using-sam-2eb31864b243) [## 使用 SAM 的 AWS Lambda 私有无服务器 REST APIs
-
-### 使用 Lambdas 快速创建无服务器微服务
-
-medium.com](https://medium.com/better-programming/private-serverless-rest-api-with-lambda-using-sam-2eb31864b243) 
+<https://medium.com/better-programming/private-serverless-rest-api-with-lambda-using-sam-2eb31864b243>  
 
 先说文件夹结构。我们将有一个应用程序源文件目录，一个用于部署应用程序的脚本目录，以及 SAM 使用的顶层文件，如`template.yaml`。
 
@@ -73,11 +69,7 @@ my-collaborative-filter/
 
 在下面的文章中，我们将讨论创建这样一个层的可能过程。
 
-[](https://medium.com/better-programming/creating-a-python-opencv-layer-for-aws-lambda-f2d5266d3e5d) [## 为 AWS Lambda 创建 Python OpenCV 层
-
-### 为 Python 的 OpenCV 包装器创建 AWS Lambda 层的简单方法
-
-medium.com](https://medium.com/better-programming/creating-a-python-opencv-layer-for-aws-lambda-f2d5266d3e5d) 
+<https://medium.com/better-programming/creating-a-python-opencv-layer-for-aws-lambda-f2d5266d3e5d>  
 
 如果您更喜欢在不使用 Docker 的情况下构建该层，您可以使用 EC2 实例在 Python 虚拟环境中安装 Suprise，并将文件复制到该层。在 EC2 实例上安装库的命令如下所示:
 
@@ -133,4 +125,4 @@ Lambda 被限制在 [512MB](https://docs.aws.amazon.com/lambda/latest/dg/getting
 
 我们已经回顾了在 AWS 的 Lambda 上使用 Python 的 Suprise 库部署一个简单的推荐算法。该方法可用于测试算法的性能，而无需投入资源来实现全面的解决方案。
 
-*如果你有任何问题或只是想聊聊创业、创业、承包或工程，请给我发电子邮件:Paulo @*[](https://avantsoft.com.br/)**。**
+*如果你有任何问题或只是想聊聊创业、创业、承包或工程，请给我发电子邮件:Paulo @*<https://avantsoft.com.br/>**。**

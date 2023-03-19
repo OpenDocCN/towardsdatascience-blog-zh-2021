@@ -42,11 +42,7 @@
 
 除了知道不同数据库组件之间的每次旅行需要多少时间(以 ns 或 ms 为单位)之外，每个人都应该知道一些通用的数据工程数字。我在下面的文章中写到了这一点。
 
-[](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) [## 每个数据工程师都应该知道的数字
-
-### 数据工程度量的简短指南
-
-towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) 
+</numbers-every-data-engineer-should-know-cc5c1a0bc3ec>  
 
 # 丢弃数据的技术
 
@@ -56,11 +52,7 @@ towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec)
 
 表上的索引本质上是原始表的副本(以及对原始表的引用)。在基于行的数据库中的某一列上创建索引，使您有机会以时间复杂度`**O(log n)**`搜索该列，其中 n 是表中记录的数量。添加索引的成本会很高，因为索引会占用相当多的空间。我写过关于索引的最佳实践，尤其是当你不得不[索引巨大的表的时候。](/indexing-very-large-tables-569811421ee0)
 
-[](https://medium.com/analytics-vidhya/indexing-best-practices-10025d779e0b) [## 索引最佳实践
-
-### 处理数据库索引的简短指南
-
-medium.com](https://medium.com/analytics-vidhya/indexing-best-practices-10025d779e0b) 
+<https://medium.com/analytics-vidhya/indexing-best-practices-10025d779e0b>  
 
 创建、维护和使用索引有时很有挑战性。为了最大限度地利用索引，您需要确保为正确的列集创建正确类型的索引，这对加快缓慢的查询非常有帮助。注意在用于写数据的主数据库实例上创建太多索引的后果。过多的索引会对写入负载产生负面影响。要了解更多关于索引的信息，请访问[使用索引卢克](https://use-the-index-luke.com/)！
 

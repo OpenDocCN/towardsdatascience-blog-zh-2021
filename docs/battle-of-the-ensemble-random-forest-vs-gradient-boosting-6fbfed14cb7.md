@@ -32,11 +32,7 @@ Geran de Klerk 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 此外，我们将在本文的后半部分应用这两个算法来解决泰坦尼克号生存预测竞赛，以了解它们在实践中是如何工作的。
 
-[](https://www.kaggle.com/c/titanic) [## 泰坦尼克号-机器从灾难中学习
-
-### 从这里开始！预测泰坦尼克号上的生存并熟悉 ML 基础知识
-
-www.kaggle.com](https://www.kaggle.com/c/titanic) 
+<https://www.kaggle.com/c/titanic>  
 
 # 决策图表
 
@@ -299,12 +295,4 @@ sns.heatmap(matrix, annot = True, fmt = 'd')
 
 感谢您的阅读。请随意查看我下面的其他文章！
 
-[](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) [## 下一次技术面试前你需要知道的 70 个数据科学面试问题
-
-### 概率和统计，机器学习算法，脑筋急转弯等等
-
-medium.com](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) [](https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785) [## 我终于找到了一份数据科学的工作
-
-### 我在澳大利亚一家大型数据科学公司面试全职职位的经历
-
-chongjason.medium.com](https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785)
+<https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3>  <https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785> 

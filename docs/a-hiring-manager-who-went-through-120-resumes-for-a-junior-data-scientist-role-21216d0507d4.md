@@ -22,11 +22,7 @@
 
 把你的简历当作你的营销小册子。你在推销自己，而你的简历就是你获得面试的门票。你想让你的简历在某些方面脱颖而出，而不是和其他人混在一起！
 
-[](/data-scientists-how-to-sell-your-project-and-yourself-41e44685cfc0) [## 数据科学家:如何推销你的项目和你自己
-
-### 遵循以下公式获得完美的电梯推介
-
-towardsdatascience.com](/data-scientists-how-to-sell-your-project-and-yourself-41e44685cfc0) 
+</data-scientists-how-to-sell-your-project-and-yourself-41e44685cfc0>  
 
 # 2.有求职信的人比没有求职信的人获得面试的机会更大
 
@@ -65,11 +61,7 @@ towardsdatascience.com](/data-scientists-how-to-sell-your-project-and-yourself-4
 
 可以合理地假设，初级数据科学家不会被期望准确地知道如何为具有挑战性的数据项目构建解决方案。招聘经理寻找的是经过适当培训和指导后能够胜任这份工作的人。不仅如此，最有可能的是，你的职业生涯才刚刚开始。这意味着我们对你学习新事物的意愿以及你工作的动力感兴趣。如果你说你知道如何做每件事，但你不想学习任何新的东西，你不适合几乎任何角色。
 
-[](/do-you-need-to-manage-a-team-of-data-scientists-aac3ad401ab4) [## 你需要管理一个数据科学家团队吗？
-
-### 我将如何使用它来管理初级、中级和高级数据科学家
-
-towardsdatascience.com](/do-you-need-to-manage-a-team-of-data-scientists-aac3ad401ab4) 
+</do-you-need-to-manage-a-team-of-data-scientists-aac3ad401ab4>  
 
 经理们正在考虑与你、现有团队合作以及管理你有多容易。关键因素是一个人愿意倾听、学习、适应和保持谦逊。因此，在你的求职信中说你不知道如何做某事，但是你和其他人一起工作并学习了解决问题的新技能。对大多数经理来说，那将是美妙的音乐。
 

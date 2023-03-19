@@ -281,16 +281,4 @@ Nubank 是拉丁美洲最大的金融科技公司，于 2018 年成为独角兽�
 
 # *类似文章*
 
-*[](/top-10-databases-to-use-in-2021-d7e6a85402ba) [## 2021 年将使用的 10 大数据库
-
-### MySQL，Oracle，PostgreSQL，微软 SQL Server，MongoDB，Redis，Elasticsearch，Cassandra，MariaDB，IBM Db2
-
-towardsdatascience.com](/top-10-databases-to-use-in-2021-d7e6a85402ba) [](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [## 关于 2021 年软件发展趋势的 21 个预测
-
-### 云、边缘、容器、量子、区块链、AI、深度学习、批处理、流媒体、数据库、编程、软件……
-
-towardsdatascience.com](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)*
+*</top-10-databases-to-use-in-2021-d7e6a85402ba>  </21-predictions-about-the-software-development-trends-in-2021-600bfa048be>  </microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41> *

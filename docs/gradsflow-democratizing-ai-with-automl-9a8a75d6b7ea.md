@@ -72,7 +72,7 @@ Gradsflow 提供了一个 [**AutoModel**](https://docs.gradsflow.com/en/latest/g
 
 这就是如何使用 Model 和 AutoModel 类进行超参数调优。
 
-另一种自动建立和训练模型的方法是[](https://docs.gradsflow.com/en/latest/gradsflow/tasks/)**。Autotask 为图像分类、文本分类&文本摘要等各种任务提供低代码模型构建和训练类。它由 [PyTorch 闪电](https://lightning-flash.readthedocs.io/en/latest/#lightning-flash)供电。**
+另一种自动建立和训练模型的方法是<https://docs.gradsflow.com/en/latest/gradsflow/tasks/>**。Autotask 为图像分类、文本分类&文本摘要等各种任务提供低代码模型构建和训练类。它由 [PyTorch 闪电](https://lightning-flash.readthedocs.io/en/latest/#lightning-flash)供电。**
 
 **![](img/8add6a164cb50e32d34ebb20397c36f8.png)**
 

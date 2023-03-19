@@ -14,11 +14,7 @@
 
 如果数据随时可用，那么可以跳过这一步——现实世界中很少出现这种情况。如果我们要执行一个 NLP 项目，我们必须知道一套技术来改进我们的数据集，以满足我们的期望要求。技术的全部范围超出了本文的范围，但是感兴趣的读者可以钻研一下 [*永远记住数据先于科学*](/always-remember-data-comes-before-the-science-681389992082) 。
 
-[](/always-remember-data-comes-before-the-science-681389992082) [## 永远记住数据先于科学
-
-### 获取数据的不同方法
-
-towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992082) 
+</always-remember-data-comes-before-the-science-681389992082>  
 
 ## 数据扩充简介
 
@@ -29,11 +25,7 @@ towardsdatascience.com](/always-remember-data-comes-before-the-science-681389992
 
 如果我们希望在解决复杂的 NLP 任务时达到高性能水平，深度学习通常是首选解决方案。然而，要学习一个可以准确地将输入映射到输出的函数，通常需要我们建立一个具有大量隐藏神经元的非常强大的网络。
 
-[](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
-
-### 为什么你仍然应该学习启发式和基于规则的方法
-
-towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) 
+</deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359>  
 
 随着我们增加隐藏神经元的数量，我们也增加了可训练参数的数量，因此，如果我们希望我们的模型有效地学习，那么我们拥有大量数据是很重要的。
 
@@ -92,20 +84,4 @@ towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-
 
 ## 相关文章
 
-[](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
-
-### 为什么你仍然应该学习启发式和基于规则的方法
-
-towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [](/never-forget-these-8-nlp-terms-a9716b4cccda) [## 永远不要忘记这 8 个 NLP 术语
-
-### 所有 NLP 爱好者都应该知道术语
-
-towardsdatascience.com](/never-forget-these-8-nlp-terms-a9716b4cccda) [](/a-guide-to-encoding-text-in-python-ef783e50f09e) [## Python 文本编码指南
-
-### 教计算机理解人类语言
-
-towardsdatascience.com](/a-guide-to-encoding-text-in-python-ef783e50f09e) [](/a-guide-to-cleaning-text-in-python-943356ac86ca) [## Python 文本清理指南
-
-### 为机器阅读准备自然语言
-
-towardsdatascience.com](/a-guide-to-cleaning-text-in-python-943356ac86ca)
+</deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359>  </never-forget-these-8-nlp-terms-a9716b4cccda>  </a-guide-to-encoding-text-in-python-ef783e50f09e>  </a-guide-to-cleaning-text-in-python-943356ac86ca> 

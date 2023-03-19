@@ -86,11 +86,7 @@ credit:[https://en . Wikipedia . org/wiki/Bakery #/media/File:magasindandoy . jp
 
 实际上，我在这里解释这个案例:
 
-[](/how-long-should-the-forecast-horizon-be-2f24a6005b89) [## 预测范围应该有多长？
-
-### 预测只能帮助你做出正确的供应链决策
-
-towardsdatascience.com](/how-long-should-the-forecast-horizon-be-2f24a6005b89) 
+</how-long-should-the-forecast-horizon-be-2f24a6005b89>  
 
 # 结论:应该用概率预测吗？
 

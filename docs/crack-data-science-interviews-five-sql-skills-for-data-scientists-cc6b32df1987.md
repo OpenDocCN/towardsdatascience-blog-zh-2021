@@ -22,11 +22,7 @@
 
 # 问题 1:不同性别的累计总数
 
-[](https://leetcode.com/problems/running-total-for-different-genders/) [## LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/running-total-for-different-genders/) 
+<https://leetcode.com/problems/running-total-for-different-genders/>  
 
 *编写一个 SQL 查询来查找每种性别每天的总分。*
 
@@ -91,11 +87,7 @@ FROM Scores
 
 # 问题 2:找出连续范围的起始数和结束数
 
-[](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) [## LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) 
+<https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/>  
 
 *由于* `*Logs*` *中删除了部分 id。编写一个 SQL 查询来查找表* `*Logs*` *中连续范围的开始和结束编号。*
 
@@ -173,11 +165,7 @@ ORDER BY start_id
 
 # 问题 3:部门最高工资
 
-[](https://leetcode.com/problems/department-highest-salary/) [## LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/department-highest-salary/) 
+<https://leetcode.com/problems/department-highest-salary/>  
 
 *`*Employee*`*表包含所有雇员。每个雇员都有一个 Id，一份薪水，还有一个部门 Id 列。**
 
@@ -245,11 +233,7 @@ ON d.Id = e.DepartmentIdWHERE (DepartmentId,Salary) IN (
 
 # **问题 4:第二高的薪水**
 
-**[](https://leetcode.com/problems/second-highest-salary/submissions/) [## LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/second-highest-salary/submissions/) 
+**<https://leetcode.com/problems/second-highest-salary/submissions/>  
 
 *编写一个 SQL 查询，从* `*Employee*` *表中获取第二高的薪水。*
 
@@ -279,11 +263,7 @@ leetcode.com](https://leetcode.com/problems/second-highest-salary/submissions/)
 
 我在另一篇博文中介绍了如何解决这个问题:
 
-[](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) [## 2021 年数据科学家面临的 4 个棘手的 SQL 问题
-
-### 可能会让你犯错的简单查询
-
-towardsdatascience.com](/4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77) 
+</4-tricky-sql-questions-for-data-scientists-in-2021-88ff6e456c77>  
 
 这是一个简单的问题，可以通过以下步骤解决:
 
@@ -311,11 +291,7 @@ NULL) AS SecondHighestSalary
 
 # 问题 5:第 n 高工资
 
-[](https://leetcode.com/problems/nth-highest-salary/) [## LeetCode
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/problems/nth-highest-salary/) 
+<https://leetcode.com/problems/nth-highest-salary/>  
 
 *编写一个 SQL 查询，从* `*Employee*` *表中获取第 n 份最高工资。*
 
@@ -387,23 +363,11 @@ END
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
-[](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [## 用户干扰如何会搞乱你的 A/B 测试？
-
-### 来自 Lyft、LinkedIn 和 Doordash 的三个解决方案
-
-towardsdatascience.com](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) 
+</how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8>  </online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  
 
 # 喜欢读这本书吗？
 

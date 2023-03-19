@@ -28,7 +28,7 @@ GPT 3 号展示了疯狂的语言生成能力。它可以对话(模仿活着或�
 
 这是我为*写的一篇关于 GPT 3 号的完整概述，面向数据科学:*
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) 
 
@@ -52,11 +52,7 @@ OpenAI 于 2021 年 2 月在一篇名为 [*零镜头文本到图像生成*](http
 
 下面是 OpenAI 的一篇博文，展示了 DALL E 的能力:
 
-[](https://openai.com/blog/dall-e/) [## DALL E:从文本中创建图像
-
-### DALL E 是 GPT-3 的一个 120 亿参数版本，经过训练，可以使用以下数据集从文本描述中生成图像
-
-openai.com](https://openai.com/blog/dall-e/) 
+<https://openai.com/blog/dall-e/>  
 
 # LaMDA——下一代聊天机器人
 
@@ -68,7 +64,7 @@ LaMDA 作为一个明智、具体、有趣且符合事实的聊天机器人而�
 
 这是我为*写的一篇关于 LaMDA 的完整评论，关于数据科学:*
 
-[](/googles-lamda-the-next-generation-of-chatbots-62294be58426) [## 谷歌的 LaMDA:下一代聊天机器人
+</googles-lamda-the-next-generation-of-chatbots-62294be58426> [## 谷歌的 LaMDA:下一代聊天机器人
 
 towardsdatascience.com](/googles-lamda-the-next-generation-of-chatbots-62294be58426) 
 
@@ -82,7 +78,7 @@ towardsdatascience.com](/googles-lamda-the-next-generation-of-chatbots-62294be58
 
 这是我为*写的关于妈妈的一篇完整的评论:*
 
-[](/will-googles-mum-kill-seo-d283927f0fde) [## 谷歌妈妈会扼杀 SEO 吗？
+</will-googles-mum-kill-seo-d283927f0fde> [## 谷歌妈妈会扼杀 SEO 吗？
 
 towardsdatascience.com](/will-googles-mum-kill-seo-d283927f0fde) 
 
@@ -98,8 +94,4 @@ towardsdatascience.com](/will-googles-mum-kill-seo-d283927f0fde)
 
 这里是我为*写的一篇关于悟道 2.0 的完整评论:*
 
-[](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
-
-towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) 
-
-[***订阅***](https://mindsoftomorrow.ck.page/) ***获取更多关于 AI、哲学、认知科学的内容！***
+</gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484>  ***获取更多关于 AI、哲学、认知科学的内容！***

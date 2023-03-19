@@ -30,19 +30,11 @@
 
 在本文中，我展示了我解决这个问题的方法。我把它变成一个多类文本分类问题。如 Dhungel *等人*。，我使用宏基因组分类轮廓数据。我将简介视为文本，并使用词频-逆文档频率(TF-IDF)来突出重要的分类群，淡化那些过于世界性或过于罕见的分类群。然后 XGBoost 基于 TF-IDF 值构建模型。参数将首先通过网格搜索交叉验证进行优化。一旦模型被建立和测试，我使用 [SHAP](/interpretable-machine-learning-with-xgboost-9ec80d148d27) 来检查特征的重要性，这样我就可以知道哪个分类群代表哪个样本类型。这个项目的代码存放在我的 Github 仓库中:
 
-[](https://github.com/dgg32/mgnify_sentiment) [## GitHub-dgg 32/mgni fy _ 情操
-
-### 此报告包含“我的文章”在 Medium 中的代码(借用宏基因组样本分类的文本分析)。XGBoost…
-
-github.com](https://github.com/dgg32/mgnify_sentiment) 
+<https://github.com/dgg32/mgnify_sentiment>  
 
 而 Jupyter 笔记本可以用 nbviewer 渲染。
 
-[](https://nbviewer.jupyter.org/github/dgg32/mgnify_sentiment/blob/master/ebi_sentiment_multi_value.ipynb) [## nbviewer 笔记本
-
-### 看看这个 Jupyter 笔记本！
-
-nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/dgg32/mgnify_sentiment/blob/master/ebi_sentiment_multi_value.ipynb) 
+<https://nbviewer.jupyter.org/github/dgg32/mgnify_sentiment/blob/master/ebi_sentiment_multi_value.ipynb>  
 
 # 1.从 MGnify 下载分类简介
 
@@ -118,8 +110,4 @@ SHAP 软件包是迈向可解释人工智能的一大步。它可以分解一个
 
 现在，请尝试我的管道为您自己的宏基因组样本分型，并告诉我你对这个问题的看法。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

@@ -355,11 +355,7 @@ Operation called by Cathy
 
 下面，我们用一个简单的例子来解释 Python 的基本概念，这些概念非常重要，但人们发现它们很难掌握。这些都是棘手的概念，但并不难。一旦你学会了这一点，你将会在你的 python 生涯中用到很多。我非常喜欢装修工，希望在这之后，你也会喜欢。上面讨论的代码的 GitHub 链接在这里:
 
- [## tseth 92/python-基础-概念
-
-### 这个存储库包含中等出版物的代码- tseth92/python-basic-concepts
-
-github.com](https://github.com/tseth92/python-basic-concepts.git) 
+  
 
 感谢阅读！！。对于任何建议，疑问或讨论，在评论区拍摄。如果你喜欢这个代码，请在 Github 上投票。
 

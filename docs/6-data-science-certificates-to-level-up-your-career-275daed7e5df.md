@@ -14,11 +14,7 @@
 
 虽然进入数据科学领域不一定需要任何学位或证书，但有时拥有一些学位或证书可以帮助你在申请工作时在申请人中脱颖而出。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 一个好的数据科学项目组合的要素是收集能够展示您的技能、证明您的知识以及展示您构建可靠的数据科学项目的能力的项目。这是一个好的投资组合的核心，但你也可以添加一些证书，证明你投入了时间、精力和金钱来磨练你的技能，成为一名更合格的数据科学家。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 这项考试将花费大约 165 美元。价格根据你监考的国家而有所不同。
 
-[](/11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5) [## 帮助您获得成为数据科学家所需知识的 11 本书
-
-### 帮助你成为更好的数据科学家的书籍。
-
-towardsdatascience.com](/11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5) 
+</11-books-to-help-gain-the-knowledge-you-need-to-be-a-data-scientist-f0df36ac6cb5>  
 
 # IBM 数据科学专业证书
 
@@ -56,11 +48,7 @@ IBM 数据科学专业证书在 [Coursera](https://www.coursera.org/professional
 
 要访问 Coursera 上的课程系列，您需要拥有 Coursera Plus 或支付每月 49 美元的费用，直到您完成系列课程并获得证书。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # Cloudera 认证专家(CCP)数据工程师
 
@@ -80,11 +68,7 @@ Cloudera 面向开源开发者，并为开发者提供 [CCP 数据工程师](htt
 
 SAS 免费提供 30 天的[准备材料](https://www.sas.com/en_id/training/academy-data-science/ai-machine-learning-certification.html)，帮助你准备好参加并通过这三项考试。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 # TensorFlow 开发者证书
 
@@ -102,11 +86,7 @@ TensorFlow 开发者证书有效期为 3 年。之后，您需要重新参加测
 
 因为数据科学是当今最受欢迎的领域之一，你会在网上找到大量的教程和指南，告诉你如何成为一名“优秀的数据科学家”或“如何获得你梦想中的数据科学职位？”。更不用说你可以获得大量的证书和免费的课程来提高你的技能。
 
-[](/should-you-consider-being-a-data-scientist-in-2021-f8670a44fb2e) [## 2021 年该考虑做数据科学家吗？
-
-### 数据科学职业的利弊是什么？
-
-towardsdatascience.com](/should-you-consider-being-a-data-scientist-in-2021-f8670a44fb2e) 
+</should-you-consider-being-a-data-scientist-in-2021-f8670a44fb2e>  
 
 我曾经和你一样，被外面关于数据科学和如何进入这个领域的大量信息所淹没。但是，我总是欣赏简单，直截了当的文章，不要把话题拖得太长。
 

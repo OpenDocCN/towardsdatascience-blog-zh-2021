@@ -16,11 +16,7 @@
 
 与 k-中位数一样，k-medoids 也通常使用曼哈顿度量，但中心现在总是数据集中的实际点。我们现在计算中点，而不是质心，因此也就是中面。这增加了该方法的可解释性，因为数据中的代表性点总是可以被检索到。这经常与 k-medians 混淆(你可以在下面的文章中查看)，在 k-medians 中，中心点不需要是一个实际的对象。
 
-[](/use-this-clustering-method-if-you-have-many-outliers-5c99b4cd380d) [## 如果有许多异常值，请使用这种聚类方法
-
-### 稳健结果的 k-中位数变化
-
-towardsdatascience.com](/use-this-clustering-method-if-you-have-many-outliers-5c99b4cd380d) 
+</use-this-clustering-method-if-you-have-many-outliers-5c99b4cd380d>  
 
 考虑以下示例集群，由二维的 5 个点组成:
 
@@ -78,7 +74,7 @@ iris 数据集上所有 k 均值变量的比较。所有算法都能找到大致
 
 如果您想更多地了解可以用哪些客观指标来判断您的聚类结果，请查看我的文章中关于 k-means:
 
-[](/a-deep-dive-into-k-means-f9a1ef2490f8) [## 对 k-means 的深入探究
+</a-deep-dive-into-k-means-f9a1ef2490f8> [## 对 k-means 的深入探究
 
 towardsdatascience.com](/a-deep-dive-into-k-means-f9a1ef2490f8) 
 

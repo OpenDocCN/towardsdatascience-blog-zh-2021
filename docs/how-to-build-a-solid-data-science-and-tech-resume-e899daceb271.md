@@ -101,11 +101,7 @@
 
 最终要脱颖而出，你需要准备一个伟大的投资组合，创造引人注目的故事。我在下面的文章中谈了更多的细节。
 
-[](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) [## 如何构建您的终极数据科学投资组合
-
-### 伟大的数据科学家创造重要的产品
-
-towardsdatascience.com](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) 
+</how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72>  
 
 # 证明影响的事实
 
@@ -160,19 +156,11 @@ towardsdatascience.com](/how-to-build-your-ultimate-data-science-portfolios-ea04
 
 *   构建终极数据科学组合。
 
-[](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) [## 如何构建您的终极数据科学投资组合
-
-### 伟大的数据科学家创造重要的产品
-
-towardsdatascience.com](/how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72) 
+</how-to-build-your-ultimate-data-science-portfolios-ea0414d79a72>  
 
 *   赢得你的数据面试。
 
-[](/ace-your-data-analytics-interviews-ef114606c5d7) [## 赢得数据分析面试
-
-### 我在谷歌、Visa 等公司担任数据分析师/科学家的面试经历
-
-towardsdatascience.com](/ace-your-data-analytics-interviews-ef114606c5d7) 
+</ace-your-data-analytics-interviews-ef114606c5d7>  
 
 我真诚地希望这些技术能帮助你在数据科学/技术领域发展事业。
 

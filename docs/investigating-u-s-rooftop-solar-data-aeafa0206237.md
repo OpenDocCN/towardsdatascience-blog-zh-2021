@@ -78,19 +78,11 @@
 
 这个 web 应用程序是用 Django 创建的，托管在 Heroku 上。查看 github 仓库以了解更多细节。
 
-[](https://github.com/jackseagrist/Project_Rooftop_Solar) [## jackseagrist/Project _ Rooftop _ Solar
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/jackseagrist/Project_Rooftop_Solar) 
+<https://github.com/jackseagrist/Project_Rooftop_Solar>  
 
 Jack Seagrist 目前是斯坦福大学的一名学生，正在攻读环境工程硕士学位。他热衷于使用最新的数据驱动流程来解决气候挑战。通过 [twitter](https://twitter.com/JackSeagrist) 、 [linkedin](https://www.linkedin.com/in/jackson-seagrist/) 联系，或者查看他的[网站](https://www.jackseagrist.com/)来了解更多关于他的工作。
 
-[](/unlocking-the-potential-of-wind-energy-with-data-9b6c5eedb5a9) [## 用数据释放风能的潜力
-
-### 调查加利福尼亚风能的案例研究
-
-towardsdatascience.com](/unlocking-the-potential-of-wind-energy-with-data-9b6c5eedb5a9) ![](img/464e3ccaaba9f1bc48b4589db4cd4524.png)
+</unlocking-the-potential-of-wind-energy-with-data-9b6c5eedb5a9>  ![](img/464e3ccaaba9f1bc48b4589db4cd4524.png)
 
 参考资料:
 

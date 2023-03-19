@@ -52,8 +52,4 @@
 
 这是我写的另一篇文章，提供了更多关于在自学课程中学习数据科学的技巧。
 
-[](/learning-data-science-online-without-an-instructor-tips-and-tricks-5e15fb886333) [## 无教师在线学习数据科学:提示和技巧
-
-### 如何自己找到答案？如果你迷失了，一切都没有失去。
-
-towardsdatascience.com](/learning-data-science-online-without-an-instructor-tips-and-tricks-5e15fb886333)
+</learning-data-science-online-without-an-instructor-tips-and-tricks-5e15fb886333> 

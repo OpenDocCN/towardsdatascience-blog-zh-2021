@@ -104,11 +104,7 @@ Spark 数据集的 Scala API 文档:[https://Spark . Apache . org/Docs/latest/AP
 
 为什么不阅读下一篇文章，了解如何使用 PEX 打包 PySpark 应用程序用于生产—相当于 Python 的 Spark 和 assembly JARs:
 
-[](/pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5) [## PEX——AWS EMR 工作负载完美 PySpark 部署的秘方
-
-### 如何使用 PEX 加速 PySpark 应用程序在临时 AWS EMR 集群上的部署
-
-towardsdatascience.com](/pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5) ![](img/e86194b05c5f56cf6e8cb4a955da5b68.png)
+</pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5>  ![](img/e86194b05c5f56cf6e8cb4a955da5b68.png)
 
 Jan 是公司数据转型方面的成功思想领袖和顾问，拥有将数据科学大规模应用于商业生产的记录。他最近被 dataIQ 评为英国 100 位最具影响力的数据和分析从业者之一。
 

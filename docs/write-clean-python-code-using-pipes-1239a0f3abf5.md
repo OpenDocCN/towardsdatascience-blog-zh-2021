@@ -153,30 +153,10 @@ pip install pipe
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pipe.ipynb) [## 数据科学/pipe . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/pipe . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pipe.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pipe.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
-
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [## Pydash:缺少 Python 实用程序的厨房水槽
-
-### 以函数的方式使用 Python
-
-towardsdatascience.com](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba)
+</python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60>  </4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5>  </pydash-a-bucket-of-missing-python-utilities-5d10365be4fc>  </3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba> 

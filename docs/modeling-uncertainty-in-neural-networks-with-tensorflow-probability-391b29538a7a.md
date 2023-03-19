@@ -139,11 +139,7 @@ ________________
 
 ❤️ *有兴趣获得更多这样的内容吗？使用此链接加入:*
 
-[](https://aleksander-molak.medium.com/membership) [## 通过我的推荐链接加入媒体-亚历山大·莫拉克
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-aleksander-molak.medium.com](https://aleksander-molak.medium.com/membership) 
+<https://aleksander-molak.medium.com/membership>  
 
 谢谢大家！
 

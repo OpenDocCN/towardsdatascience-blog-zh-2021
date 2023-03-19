@@ -72,11 +72,7 @@ del better_call_saul["Jonathan"]
 
 最后，不是每个 Python 对象都可以是字典中的一个键。精确的规则是对象应该是**可散列的**。请放心，任何**不可变对象**都是可散列的。关于 hashable 的更深入的解释，请查看博客:
 
-[](https://betterprogramming.pub/3-essential-questions-about-hashable-in-python-33e981042bcb) [## 关于 Python 中 Hashable 的 3 个基本问题
-
-### 从一般讨论到具体实施
-
-better 编程. pub](https://betterprogramming.pub/3-essential-questions-about-hashable-in-python-33e981042bcb) 
+<https://betterprogramming.pub/3-essential-questions-about-hashable-in-python-33e981042bcb>  
 
 # 技巧 1 —字典迭代
 

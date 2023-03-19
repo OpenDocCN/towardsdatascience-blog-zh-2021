@@ -54,4 +54,4 @@ DeepL 很有可能在不久的将来被使用，其中包括:
 
 在我看来，在 5 -7 年的时间里，人们只会翻译包含特定情感元素和具有艺术潜台词的文本，如诗歌、小说或其他非常具体的文本。其他文本由人类翻译在经济上是不可行的。最贵的许可证 DeepL 目前每月收费 40 欧元。如果它的创造者能把它的价格控制在翻译的成本之内，那么大多数翻译就不需要人类了。
 
-*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

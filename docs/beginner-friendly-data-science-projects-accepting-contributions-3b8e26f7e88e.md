@@ -12,11 +12,7 @@ TLDR:看看支持数据科学家的四个开源软件项目，包括广受欢迎
 
 更新:本文的更新版本(2022 年 5 月)现已发布:
 
-[](/data-science-projects-accepting-community-contributions-662e724ba110) [## 接受社区贡献的数据科学项目
-
-### 通过为开源软件做贡献来培养你的技能和帮助他人。
-
-towardsdatascience.com](/data-science-projects-accepting-community-contributions-662e724ba110) 
+</data-science-projects-accepting-community-contributions-662e724ba110>  
 
 # 简介和动机
 
@@ -82,11 +78,7 @@ towardsdatascience.com](/data-science-projects-accepting-community-contributions
 
 对熊猫概况的深思熟虑的贡献将有可能改善你和他人的工作。保证。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 感谢阅读
 

@@ -183,20 +183,4 @@ $ xsv sort -s 'User Rating' -R bestsellers.csv  | xsv slice -e 10 | xsv table
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [## 自动读取、创建和运行多个文件的 3 个 Python 技巧
-
-### 用 Python 和 Bash For Loop 自动化枯燥的东西
-
-towardsdatascience.com](/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) [](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [## 使用 TextBlob 增强您的 Python 字符串
-
-### 在一行代码中获得更多关于文本的见解！
-
-towardsdatascience.com](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [](/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e) [## 高效 Python 代码的计时
-
-### 如何比较列表、集合和其他方法的性能
-
-towardsdatascience.com](/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e) [](/prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b) [## 用 Termcolor 和 Pyfiglet 美化你的终端文本
-
-### 厌倦了你的终端输出？让我们改变它的颜色和形状！
-
-towardsdatascience.com](/prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b)
+</3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba>  </supercharge-your-python-string-with-textblob-2d9c08a8da05>  </timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e>  </prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b> 

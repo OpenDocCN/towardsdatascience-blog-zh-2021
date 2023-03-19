@@ -35,11 +35,7 @@
 
 要更全面地讨论机器学习环境中的监督、非监督和半监督学习，请务必阅读以下文章。
 
-[](/supervised-vs-unsupervised-learning-bf2eab13f288) [## 监督与非监督学习
-
-### 讨论机器学习中监督学习、非监督学习和半监督学习的主要区别
-
-towardsdatascience.com](/supervised-vs-unsupervised-learning-bf2eab13f288) 
+</supervised-vs-unsupervised-learning-bf2eab13f288>  
 
 ## 机器学习的现实应用
 
@@ -63,16 +59,4 @@ towardsdatascience.com](/supervised-vs-unsupervised-learning-bf2eab13f288)
 
 **你可能也会喜欢**
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简而言之，特征缩放和标准化
-
-### 为什么、如何以及何时调整要素的比例
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [## 如何用 Python 将数据集分割成训练集和测试集
-
-### 探索从建模数据集创建训练和测试样本的三种方法
-
-towardsdatascience.com](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8) [## 使用 MLFlow 和 LakeFS 实现高效工作流的数据版本控制
-
-### 构建弹性、原子和版本化的数据湖操作
-
-pub.towardsai.net](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8)
+</feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  </how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830>  <https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8> 

@@ -96,11 +96,7 @@ X 矩阵有 1150 个特征和超过一百万行。测试计算速度的理想真
 
 建模类将是 python 中的 xgboost 回归实现:
 
- [## XGBoost 参数-XGBoost 1 . 4 . 0-快照文档
-
-### min_child_weight [default=1]子对象中所需的实例权重的最小总和(hessian)。如果树分区步骤…
-
-xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/latest/parameter.html) 
+  
 
 初始化模型类的模板是:
 

@@ -95,14 +95,6 @@ PS:样式直接在 Github 中无法正常渲染，你可能想在你的本地机
 
 **如果你喜欢读这篇文章，你可能也会喜欢这些:**
 
-[](/simple-guide-to-data-cleaning-with-python-39203a14afeb) [## 使用 Python 清理数据的简单指南
+</simple-guide-to-data-cleaning-with-python-39203a14afeb>  </how-to-manage-files-in-google-drive-with-python-d26471d91ecd>  
 
-### 如何使用 Python 删除重复数据、映射数据和处理空值
-
-towardsdatascience.com](/simple-guide-to-data-cleaning-with-python-39203a14afeb) [](/how-to-manage-files-in-google-drive-with-python-d26471d91ecd) [## 如何用 Python 管理 Google Drive 中的文件
-
-### 作为一名数据分析师，大多数时候我需要将我提取的数据分享给我的产品经理/利益相关者和谷歌…
-
-towardsdatascience.com](/how-to-manage-files-in-google-drive-with-python-d26471d91ecd) 
-
-你可以在 Medium 上找到我其他作品的链接，在这里关注我[](https://medium.com/@chingjunetao)****。感谢阅读！****
+你可以在 Medium 上找到我其他作品的链接，在这里关注我<https://medium.com/@chingjunetao>****。感谢阅读！****

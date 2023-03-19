@@ -36,11 +36,7 @@
 
 如何实现这个习惯:花些时间阅读好的代码文档或关于如何编写好的代码文档的文章。为了练习，为旧的个人项目写文档，或者花些时间修改你当前项目的文档。由于数据科学世界的很大一部分都是在 Python 上运行的，所以请查看这篇关于如何记录 Python 代码的写得非常好的文章:
 
-[](https://realpython.com/documenting-python-code/) [## 记录 Python 代码:完全指南-真正的 Python
-
-### 欢迎阅读完整的 Python 代码文档指南。无论你是记录一个小的脚本还是一个大的…
-
-realpython.com](https://realpython.com/documenting-python-code/) 
+<https://realpython.com/documenting-python-code/>  
 
 # 3.加入数据科学社区。
 
@@ -66,11 +62,7 @@ realpython.com](https://realpython.com/documenting-python-code/)
 
 如何实现这个习惯:看看旧代码，问问同样的代码是否可以写得更有效率。如果是这样，花些时间自学最佳编码实践，并寻找可以缩短、优化和阐明代码的方法。查看这篇概述代码重构最佳实践的文章:
 
-[](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/) [## 代码重构最佳实践:何时(以及何时不)进行
-
-### 代码重构是 DevOps 软件开发方法中使用的一个过程，涉及编辑和清理…
-
-www.altexsoft.com](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/) 
+<https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/>  
 
 # 5.优化您的工作空间、工具和工作流程。
 
@@ -118,11 +110,7 @@ www.altexsoft.com](https://www.altexsoft.com/blog/engineering/code-refactoring-b
 
 如何实现这个习惯:研究测试驱动开发，确定这种技术是否能给你的工作流程增加一些东西。TDD 并不是所有问题的完美答案，但是如果考虑周全的话，它会很有用。查看这篇文章，它对 TDD 进行了很好的描述，并提供了一个如何在数据科学项目中实现它的例子:
 
-[](/tdd-datascience-689c98492fcc) [## 如何在数据科学工作流程中使用测试驱动开发
-
-### 数据科学家和机器学习工程师应该向软件开发人员学习的另一件事
-
-towardsdatascience.com](/tdd-datascience-689c98492fcc) 
+</tdd-datascience-689c98492fcc>  
 
 # 10.小而频繁地犯错误。
 

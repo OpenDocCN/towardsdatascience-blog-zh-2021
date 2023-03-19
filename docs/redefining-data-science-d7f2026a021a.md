@@ -141,8 +141,4 @@ plopez@pkglobal.com
 
 [https://towards data science . com/the-machine-learning-life cycle-912 a 70647d 61](/the-machine-learning-lifecycle-912a70647d61)
 
-[](https://www.kdnuggets.com/2020/08/top-10-lists-data-science.html) [## 数据科学十大榜单- KDnuggets
-
-### 数据科学家兼机器学习工程师 Mojeed Abisiga。数据科学无疑是最“性感”的职业道路…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2020/08/top-10-lists-data-science.html)
+<https://www.kdnuggets.com/2020/08/top-10-lists-data-science.html> 

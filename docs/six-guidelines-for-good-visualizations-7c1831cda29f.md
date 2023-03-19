@@ -126,35 +126,7 @@
 
 *对我在数据可视化方面的更多工作感兴趣，请查看这些博客帖子:*
 
-*[](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [## 使用 ggplot2 的主数据可视化:散点图和箱线图
-
-### 使用散点图和箱线图的数据可视化指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26) [](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [## 使用 ggplot2 实现主数据可视化:直方图、条形图和密度图
-
-### 关于何时以及如何在 R 中使用直方图、条形图和密度图的指南
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc) [](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [## 使用 ggplot2 实现主数据可视化:饼图、蜘蛛图和条形图
-
-### 关于在 r 中创建饼图、蜘蛛图和圆形条形图的指南。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [## 使用 ggplot2: theme()定制的主数据可视化
-
-### 自定义 ggplot2 主题，为高效工作流程创建您的个性化主题模板。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-theme-customization-8421695d24e2) [](/hands-on-tutorial-f2ee5dc4d0a8) [## 条形图动画制作完全指南
-
-### 制作两种不同风格的条形图动画的分步指南
-
-towardsdatascience.com](/hands-on-tutorial-f2ee5dc4d0a8) [](https://medium.com/geekculture/how-to-map-data-with-r-8333110dff5b) [## 如何用 R 映射数据
-
-### 让你开始用 r 创建地图的实践教程。
-
-medium.com](https://medium.com/geekculture/how-to-map-data-with-r-8333110dff5b) 
+*</data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26>  </master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc>  </master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827>  </master-data-visualization-with-ggplot2-theme-customization-8421695d24e2>  </hands-on-tutorial-f2ee5dc4d0a8>  <https://medium.com/geekculture/how-to-map-data-with-r-8333110dff5b>  
 
 链接到 [Github 库](https://github.com/amalasi2418/Blog-post/tree/master/Blog%2016-%20Dataviz%20guidelines)。
 

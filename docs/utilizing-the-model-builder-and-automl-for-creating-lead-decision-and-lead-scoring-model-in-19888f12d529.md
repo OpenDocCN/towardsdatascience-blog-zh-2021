@@ -272,4 +272,4 @@ ML。NET 代表了一个开放源代码和跨平台的机器学习框架，可�
 
 **如果您能花时间评论、分享文章并联系我们进行进一步的讨论和潜在的合作，我将不胜感激。**
 
-**【https://www.linkedin.com】最初发表于[](https://www.linkedin.com/pulse/utilizing-model-builder-automl-creating-lead-decision-miodrag-cekikj/)**。****
+**【https://www.linkedin.com】最初发表于<https://www.linkedin.com/pulse/utilizing-model-builder-automl-creating-lead-decision-miodrag-cekikj/>**。****

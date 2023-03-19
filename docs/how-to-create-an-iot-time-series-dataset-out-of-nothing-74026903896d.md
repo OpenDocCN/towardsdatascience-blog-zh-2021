@@ -235,7 +235,7 @@ iotdf.head(n = 10)
 
 完整的代码可以在 Google Colab 中找到:
 
-[](https://colab.research.google.com/drive/1A0LGkQxUs9rG8BTS1J5_lg8ZNbBjZXRK?usp=sharing) [## 谷歌联合实验室
+<https://colab.research.google.com/drive/1A0LGkQxUs9rG8BTS1J5_lg8ZNbBjZXRK?usp=sharing> [## 谷歌联合实验室
 
 物联网数据](https://colab.research.google.com/drive/1A0LGkQxUs9rG8BTS1J5_lg8ZNbBjZXRK?usp=sharing) 
 

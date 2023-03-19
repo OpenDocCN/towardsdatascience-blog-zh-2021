@@ -19,11 +19,7 @@
 3.  数据帧
 4.  列表
 
-[](/storing-data-in-r-data-types-d0fa076ba5ad) [## 在 R 中存储数据:数据类型
-
-### R 中数据科学的构建块
-
-towardsdatascience.com](/storing-data-in-r-data-types-d0fa076ba5ad) 
+</storing-data-in-r-data-types-d0fa076ba5ad>  
 
 ## 向量
 
@@ -260,8 +256,4 @@ named_list$list[[2]]
 
 现在，您已经开始使用 R！进行数据科学、分析或数据可视化了！了解构件将有助于你组织你的变量。了解存储在列表中相对于存储在数据框中的优势将有助于保持代码的优化，即使数据开始增长。了解用于探索和处理数据的函数将有助于您了解这些函数中存储了什么。
 
-[](https://realdrewdata.medium.com/membership) [## 通过我的推荐链接加入 Medium-Drew Seewald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/membership)
+<https://realdrewdata.medium.com/membership> 

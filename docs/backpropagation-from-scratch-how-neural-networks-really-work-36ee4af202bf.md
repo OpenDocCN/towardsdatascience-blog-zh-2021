@@ -424,10 +424,6 @@ print('cost:', cost, 'accuracy:', accuracy)
 
 几年前，我在 Coursera 上参加了吴恩达的机器学习课程，如果你想理解这种算法的数学复杂性，这非常有用。
 
-[](https://www.coursera.org/learn/machine-learning) [## 机器学习
-
-### 4，250，577 已注册讲师:吴恩达字幕:英语、阿拉伯语+11 更多机器学习
-
-www.coursera.org](https://www.coursera.org/learn/machine-learning) 
+<https://www.coursera.org/learn/machine-learning>  
 
 感谢阅读！

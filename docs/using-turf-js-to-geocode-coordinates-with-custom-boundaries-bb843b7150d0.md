@@ -72,8 +72,4 @@ Image by Author |前面步骤导出的 CSV 输出在 Tableau 中呈现。根据�
 
 感谢阅读，并希望你发现这是有用的！
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

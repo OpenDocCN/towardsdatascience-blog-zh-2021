@@ -106,11 +106,7 @@ function transpose(matrix) {
 <script src=”[/lib/svd-js.min.js](https://molecularweb.epfl.ch/lib/svd-js.min.js)”></script>
 ```
 
-[](https://www.npmjs.com/package/svd-js) [## 奇异值分解
-
-### 一个计算奇异值分解的简单库，如“奇异值分解和最小平方…
-
-www.npmjs.com](https://www.npmjs.com/package/svd-js) 
+<https://www.npmjs.com/package/svd-js>  
 
 # 进一步阅读
 
@@ -120,11 +116,7 @@ www.npmjs.com](https://www.npmjs.com/package/svd-js)
 
 *   要了解更多关于奇异值分解的知识，奇异值分解是 Kabsch 算法和许多其他计算(如主成分分析)的核心，请参见 Reza Bagheri 的文章:
 
-[](/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d) [## 理解奇异值分解及其在数据科学中的应用
-
-### 在线性代数中，矩阵的奇异值分解(SVD)是将矩阵分解成三个部分的分解
-
-towardsdatascience.com](/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d) 
+</understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d>  
 
 *   要了解 moleculARweb 的 VMK 如何使用这些代码(消除扩散并突出内部分子动力学)，请打开该页面并查看其源代码，然后访问 main.js 并向下滚动，查找类似于 *svd* 的单词:
 
@@ -132,12 +124,8 @@ towardsdatascience.com](/understanding-singular-value-decomposition-and-its-appl
 
 *   要了解更多关于 moleculARweb 在浏览器中查看增强现实中的分子的应用程序，请查看:
 
-[](https://lucianosphere.medium.com/how-to-load-any-molecule-for-display-in-augmented-reality-on-molecularweb-5da0af4b64b2) [## 如何在 moleculARweb 上加载*any*分子用于增强现实显示
+<https://lucianosphere.medium.com/how-to-load-any-molecule-for-display-in-augmented-reality-on-molecularweb-5da0af4b64b2>  
 
-### 系列之一:如何在增强现实中看到任何分子
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/how-to-load-any-molecule-for-display-in-augmented-reality-on-molecularweb-5da0af4b64b2) 
-
-我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和电脑前。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [***成为中等会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(我为其获得小额收入的平台的原始附属链接，无需向您支付特殊费用)。*[](https://lucianoabriata.altervista.org/office/donations.html)***通过各种方式捐赠到这里。* [***联系我这里的***](https://lucianoabriata.altervista.org/office/contact.html) *进行任何种类的询问。***
+我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和电脑前。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [***成为中等会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(我为其获得小额收入的平台的原始附属链接，无需向您支付特殊费用)。*<https://lucianoabriata.altervista.org/office/donations.html>***通过各种方式捐赠到这里。* [***联系我这里的***](https://lucianoabriata.altervista.org/office/contact.html) *进行任何种类的询问。***
 
 ***到* ***咨询关于小工作*** *(关于编程、biotech+bio info 项目评估、科学推广+交流、分子数据分析与设计、分子图形学、摄影、私人课程与教程、私人课程、教学与辅导等。)查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。***

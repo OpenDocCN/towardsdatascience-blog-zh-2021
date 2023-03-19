@@ -71,11 +71,7 @@ Auto911 是一个 **AI for Good solution，旨在通过使用尖端开源 [GPT-J
 
 现在这是你的应用程序布局和逻辑将驻留在。Streamlit Sharing 将使用这个 python 脚本来创建您在上面看到的漂亮的应用程序布局。好的，所以我当然不想让你因为阅读这篇文章而感到遗憾，所以让我们避免像如何放置按钮或制作标题这样的微小的前端细节😅为此，您可以阅读我的 streamlit101 文章
 
-[](https://medium.com/omdena/streamlit101-deploying-an-automl-model-using-streamlit-e86c6508b5c2) [## 细流 101:使用细流部署 AutoML 模型
-
-### 显示道路预测安全等级的分步指南，以防止道路交通事故并拯救生命。
-
-medium.com](https://medium.com/omdena/streamlit101-deploying-an-automl-model-using-streamlit-e86c6508b5c2) 
+<https://medium.com/omdena/streamlit101-deploying-an-automl-model-using-streamlit-e86c6508b5c2>  
 
 好了，开始说主要的吧！
 
@@ -134,11 +130,7 @@ GPT J 也不例外，所有的模型都是由用来训练它们的数据决定�
 
 您可以在 Victor 的官方 GPT-J-API github 存储库中随意查看样本 streamlit_app 示例
 
- [## github-vic Galle/GPT-j-api:GPT-j 语言模型🦜.的 API 包括一个 FastAPI 后端和一个…
-
-### 一个与 GPT-J 语言模型和变体交互的 API！您可以用两种不同的方式使用和测试模型…
-
-github.com](https://github.com/vicgalle/gpt-j-api) 
+  
 
 # ✏️关于作者
 

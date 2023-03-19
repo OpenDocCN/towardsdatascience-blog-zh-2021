@@ -14,11 +14,7 @@
 
 其中一种方式就是游戏。我们有时都喜欢玩游戏，只是为了放松、减压和摆脱工作情绪。游戏也是一种逃离现实的好方法，让我们沉浸在一个比现实生活更神奇、更精彩的虚拟世界中。游戏还可以帮助我们发展许多领域的基本技能，包括数据科学，而实际上并没有意识到我们正在学习这些技能。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 本文将讨论 5 种游戏或游戏类型，它们可以帮助您提高每个数据科学家必须发展的一些基本技能，如批判性思维、解决问题、编码、模式发现和数据分析。这些游戏玩起来很有趣，并且会帮助你在没有压力的情况下提高这些技能。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5
 
 我们将以一个即时战略或 RTS 游戏开始游戏列表，[命令&征服](https://www.ea.com/games/command-and-conquer/command-and-conquer-remastered)。这个游戏是最早的 RTS 游戏之一，包括一个完整的演员阵容来帮助你推进故事。这个游戏向玩家介绍了不同的场景和需要完成的不同任务。玩家需要制定一个行动计划来有效地完成这些任务和策略。玩这样的游戏可以帮助你提高批判性和结构化思维技能，这两者对于任何数据科学家获得成功的职业生涯都非常重要。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 # №2:数据游戏
 
@@ -40,11 +32,7 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 接下来，我们有[代码帝国](https://empireofcode.com/)。《代码帝国》是一款结合了战略、战术和编码的太空游戏。虽然你不需要任何编码技能就可以玩这个游戏，但是如果你这样做了，它会给你带来很大的优势。这个游戏将帮助你提高机器学习和人工智能技能，因为它会要求你建立机器人和互动内容。你可以使用算法来开发这些机器人，并用它们来对付你的对手。你也可以通过这个游戏，以有趣、互动的方式学习构建机器人和编码。
 
-[](/5-databases-that-you-can-use-for-free-841cf81834bf) [## 5 个可以免费使用的数据库
-
-### 你不需要在高质量的数据库管理上花很多钱
-
-towardsdatascience.com](/5-databases-that-you-can-use-for-free-841cf81834bf) 
+</5-databases-that-you-can-use-for-free-841cf81834bf>  
 
 # №4:模式矩阵
 
@@ -58,7 +46,7 @@ towardsdatascience.com](/5-databases-that-you-can-use-for-free-841cf81834bf)
 
 作为数据科学家，我们总是在学习，我们的学习之旅永远不会真正结束。我们越深入这个领域，我们需要知道的就越多。这是由于不同的原因，比如数据科学是一个广阔的领域，你不可能真正掌握它的所有分支，而且数据科学就像任何其他技术领域一样，每天都在进步和发展。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 

@@ -14,11 +14,7 @@
 
 如果您想继续下去，自己做这个实验，您可以在这里找到所有源代码和分步说明:
 
-[](http://github.com/CloudAdvocacy/AzurePaperExplorationWorkshop) [## GitHub-cloud advocate/azurepaexplorationworkshop
-
-### 在本次研讨会中，我们将探索不同的 Microsoft Azure 特性，同时研究一个重要的示例:提取…
-
-github.com](http://github.com/CloudAdvocacy/AzurePaperExplorationWorkshop) 
+<http://github.com/CloudAdvocacy/AzurePaperExplorationWorkshop>  
 
 如果要引用这段文字，请使用[arXiv:2110.15453](https://arxiv.org/abs/2110.15453)**【cs。CL]** 。
 
@@ -34,7 +30,7 @@ github.com](http://github.com/CloudAdvocacy/AzurePaperExplorationWorkshop)
 
 我们将使用不同的 Azure 技术来深入了解纸质语料库，如 [**健康文本分析**](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=aiml-20447-dmitryso) 、 [**CosmosDB**](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=aiml-20447-dmitryso) 和 [**PowerBI**](https://powerbi.microsoft.com/?WT.mc_id=aiml-20447-dmitryso) 。现在，让我们关注该图的各个部分，并详细讨论它们。
 
-> 如果你想自己尝试文本分析，你需要一个 Azure 账户。如果你没有免费试用版[](https://azure.microsoft.com/free/?OCID=AID3029145&WT.mc_id=aiml-20447-dmitryso)**，你可以随时获得。而且你可能还想为开发者查阅 [**其他 AI 技术**](https://azure.microsoft.com/overview/ai-platform/dev-resources/?OCID=AID3029145&WT.mc_id=aiml-20447-dmitryso) 。**
+> 如果你想自己尝试文本分析，你需要一个 Azure 账户。如果你没有免费试用版<https://azure.microsoft.com/free/?OCID=AID3029145&WT.mc_id=aiml-20447-dmitryso>**，你可以随时获得。而且你可能还想为开发者查阅 [**其他 AI 技术**](https://azure.microsoft.com/overview/ai-platform/dev-resources/?OCID=AID3029145&WT.mc_id=aiml-20447-dmitryso) 。**
 
 # **COVID 科学论文和 CORD 数据集**
 
@@ -114,7 +110,7 @@ res **=** list(poller.result())
 
 **除了实体列表之外，我们还会得到以下内容:**
 
-*   ****实体映射**实体到标准医学本体，如[](https://www.nlm.nih.gov/research/umls/index.html)**。****
+*   ****实体映射**实体到标准医学本体，如<https://www.nlm.nih.gov/research/umls/index.html>**。****
 *   ******文本内部实体之间的关系**，如`TimeOfCondition`等。****
 *   ******否定**，表示实体用于否定语境，例如*新冠肺炎诊断没有发生*。****
 

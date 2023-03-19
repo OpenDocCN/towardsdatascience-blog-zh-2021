@@ -20,11 +20,7 @@
 
 文章中给出了一个过拟合的好例子:
 
-[](https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html) [## 欠拟合与过拟合-sci kit-了解 0.24.2 文档
-
-### 这个例子演示了欠拟合和过拟合的问题，以及我们如何使用线性回归…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html) 
+<https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html>  
 
 这是一个回归问题，用一个简单的函数来描述基本事实
 

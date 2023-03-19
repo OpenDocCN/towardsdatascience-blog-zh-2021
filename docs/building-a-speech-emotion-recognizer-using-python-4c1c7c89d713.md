@@ -183,14 +183,6 @@ y_pred = model.predict(X_test)accuracy = accuracy_score(y_true=y_test, y_pred=y_
 
 ## 更多语音识别相关的机器学习项目
 
-[](/extracting-speech-from-video-using-python-f0ec7e312d38) [## 使用 Python 从视频中提取语音
-
-### 使用 Google 语音识别 API 的简单实用项目
-
-towardsdatascience.com](/extracting-speech-from-video-using-python-f0ec7e312d38) [](/speech-recognition-using-ibms-speech-to-text-api-9956254c46d4) [## 使用 IBM 的语音到文本 API 的语音识别
-
-### 使用 Python 从音频记录中轻松提取对话
-
-towardsdatascience.com](/speech-recognition-using-ibms-speech-to-text-api-9956254c46d4) 
+</extracting-speech-from-video-using-python-f0ec7e312d38>  </speech-recognition-using-ibms-speech-to-text-api-9956254c46d4>  
 
 *本文提到的 RAVDESS* *数据集参考资料:Livingstone & Russo 的《Ryerson 情感语音和歌曲视听数据库(RAVDESS)》在 CC BY-NA-SC 4.0 下授权。*

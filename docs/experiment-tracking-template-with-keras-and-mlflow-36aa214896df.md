@@ -167,11 +167,7 @@ Accuracy: 1.0
 
 使用 jupyter 笔记本进行实验跟踪的另一个很好的参考可以在这篇博文中找到:
 
-[](https://neptune.ai/blog/how-to-keep-track-of-deep-learning-experiments-in-notebooks) [## 如何在笔记本上记录深度学习实验- neptune.ai
-
-### Jupyter 笔记本很酷。它们独立于语言，非常适合协作，易于定制，您可以添加…
-
-海王星. ai](https://neptune.ai/blog/how-to-keep-track-of-deep-learning-experiments-in-notebooks) 
+<https://neptune.ai/blog/how-to-keep-track-of-deep-learning-experiments-in-notebooks>  
 
 在本文中，我展示了如何使用开源的 Mlflow 框架实现一个简单的实验跟踪工作流，并使用`keras`框架作为我们的玩具示例，将其嵌入到您的训练代码中。
 

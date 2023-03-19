@@ -283,19 +283,11 @@ GPU 配置(1 个 GPU 个 vCPU，AWS [g4dn.xlarge](https://aws.amazon.com/fr/ec2/
 
 环境代码(分支:与本文相关的代码的 testing_automation)。请随意测试，它包括易于安装的诗歌文件。
 
-[](https://github.com/YannBerthelot/CaptAIn_v2/tree/testing_automation) [## GitHub-YannBerthelot/CaptAIn _ v2 at 测试 _ 自动化
-
-### 在 GitHub 上创建一个帐户，为 YannBerthelot/CaptAIn_v2 开发做贡献。
-
-github.com](https://github.com/YannBerthelot/CaptAIn_v2/tree/testing_automation) 
+<https://github.com/YannBerthelot/CaptAIn_v2/tree/testing_automation>  
 
 编辑 SB3 版本，打印代码不同部分的时间:
 
-[](https://github.com/YannBerthelot/stable-baselines3) [## GitHub-YannBerthelot/Stable-Baselines 3:py torch 版本的稳定基线，可靠…
-
-### 稳定基线 3 (SB3)是 PyTorch 中强化学习算法的一组可靠实现。它是…
-
-github.com](https://github.com/YannBerthelot/stable-baselines3) 
+<https://github.com/YannBerthelot/stable-baselines3>  
 
 ## 资源
 

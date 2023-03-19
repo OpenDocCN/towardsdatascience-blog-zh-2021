@@ -14,11 +14,7 @@
 
 我们将使用 Python NumPy 和 Matplotlib 来实现这一切。
 
-[](/polynomial-regression-in-python-b69ab7df6105) [## 用 Python 从头开始实现多项式回归
-
-### 从零开始的机器学习:第 4 部分
-
-towardsdatascience.com](/polynomial-regression-in-python-b69ab7df6105) 
+</polynomial-regression-in-python-b69ab7df6105>  
 
 # 符号—
 

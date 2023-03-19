@@ -56,12 +56,4 @@
 
 如果你已经读到这里，你可能会喜欢我以前的博客:
 
-[](/7-must-haves-in-your-data-science-cv-9316841aeb78) [## 数据科学简历中的 7 个必备要素
-
-### 寻找新角色？一定要检查这些临界点才能脱颖而出，通过简历筛选。
-
-towardsdatascience.com](/7-must-haves-in-your-data-science-cv-9316841aeb78) [](https://medium.com/riskified-technology/3-ways-to-break-into-data-science-6a7a8fd679b3) [## 进入数据科学的 3 种方式
-
-### 开始您的数据科学之旅？选择正确的道路来增加你的胜算。
-
-medium.com](https://medium.com/riskified-technology/3-ways-to-break-into-data-science-6a7a8fd679b3)
+</7-must-haves-in-your-data-science-cv-9316841aeb78>  <https://medium.com/riskified-technology/3-ways-to-break-into-data-science-6a7a8fd679b3> 

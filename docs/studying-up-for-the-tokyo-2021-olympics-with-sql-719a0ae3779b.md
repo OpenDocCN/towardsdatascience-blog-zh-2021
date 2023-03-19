@@ -358,22 +358,10 @@ LIMIT 8;
 
 对于那些想要复制这项工作或按照自己的方向进行的人，这里是包含所有代码和数据的 GitHub 存储库:
 
-[](https://github.com/sejaldua/sql-olympics) [## sejaldua/SQL-奥林匹克
-
-### 通过对历史奥运数据进行 SQL 查询来宣传奥运会
-
-github.com](https://github.com/sejaldua/sql-olympics) 
+<https://github.com/sejaldua/sql-olympics>  
 
 请随时在 [LinkedIn](https://www.linkedin.com/in/sejaldua/) 上与我联系，或者查看我的[投资组合网站](https://sejaldua.com)！
 
 ## 参考
 
-[](https://www.postgresqltutorial.com/install-postgresql/) [## 安装 PostgreSQL
-
-### 摘要:在本教程中，您将逐步学习如何在本地系统上安装 PostgreSQL。PostgreSQL 是…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/install-postgresql/) [](https://www.pgadmin.org) [## pgAdmin
-
-### pgAdmin 开发团队很高兴宣布 pgAdmin 4 版本 5.5。这个版本的 pgAdmin 4 包括 18 个错误…
-
-www.pgadmin.org](https://www.pgadmin.org)
+<https://www.postgresqltutorial.com/install-postgresql/>  <https://www.pgadmin.org> 

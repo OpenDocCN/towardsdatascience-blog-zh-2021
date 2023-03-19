@@ -10,11 +10,7 @@
 
 照片由 [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 在 [Unsplash](https://unsplash.com/s/photos/python?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-[](/machine-learning-autoencoders-712337a07c71) [## 机器学习:自动编码器
-
-### 使用自动编码器将高维数据拟合到更密集的表示中
-
-towardsdatascience.com](/machine-learning-autoencoders-712337a07c71) 
+</machine-learning-autoencoders-712337a07c71>  
 
 > 像往常一样，我将谈论生物信息学中的一个应用。
 
@@ -87,11 +83,7 @@ LRBinner 数据集(许可证抄送)
 
 现在，数据集使用以下工具进行了矢量化；
 
-[](https://github.com/anuradhawick/seq2vec) [## anuradhawick/seq2vec
-
-### 该工具旨在用于生物信息学机器学习相关任务中的数据生成。你可以用…
-
-github.com](https://github.com/anuradhawick/seq2vec) 
+<https://github.com/anuradhawick/seq2vec>  
 
 数据加载器可以设计如下:
 
@@ -152,11 +144,7 @@ plt.legend(bbox_to_anchor=(1.05, 1))
 
 最初用 VAE 代表宁滨的想法是由 VAMB 代表宁滨议会提出的。VAMB 通常要求高重叠群计数(> 10000 左右)。这是因为你总是需要更多的数据才能在深度学习中表现得更好。考虑到所有这些挑战和机遇，我们开发了自己的工具 [LRBinner](https://github.com/anuradhawick/LRBinner/) 来绑定宏基因组学读数。在那里我们总是有数百万的阅读量。完整的 LRBinner 工具比我在本文中介绍的要复杂得多。但是直觉和想法保持不变。我们也使用了不同的聚类算法。如果你感兴趣，看看下面。
 
-[](https://github.com/anuradhawick/LRBinner/) [## 阿努拉德哈维克/伊尔宾纳
-
-### CUDA 培训现已推出！新的更新将于 2021 年 6 月底推出，具有更快的矢量化和…
-
-github.com](https://github.com/anuradhawick/LRBinner/) 
+<https://github.com/anuradhawick/LRBinner/>  
 
 在这里找到完整的 Jupyter 笔记本。原 PyTorch 示例代码为[此处为](https://github.com/pytorch/examples/blob/master/vae/main.py)。
 

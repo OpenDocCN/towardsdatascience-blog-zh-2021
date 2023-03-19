@@ -115,11 +115,7 @@ Ttest_indResult(
 
 几乎为 1 的大 p 值告诉我们，没有证据拒绝平均价格相等的检验的零假设。如果你需要重温假设检验背后的哲学，以及 p 值、检验统计和显著性水平的意义，请查阅我的假设检验者指南:
 
-[](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一个简短的关于为什么可以拒绝假说，但不能接受它们的入门书，有例子和视觉效果。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d) 
+</the-hypothesis-testers-guide-75f7db2e4d0d>  
 
 我们也可以一次测试多个特性。为了检查一对数字特征的平均值是否相同，我们可以运行 ANOVA 测试。对于分类变量，卡方检验将比较它们的频率。在我关于概率分布的文章中，你可以找到这两个测试的详细描述和 Python 例子。只需向下滚动到方差分析的“f 分布”部分，以及 *χ* 2 检验的“卡方分布”部分。
 
@@ -160,14 +156,6 @@ KstestResult(statistic=0.05504587, pvalue=0.9469318)
 
 也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
+</6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> [## 贝叶斯数据分析最温和的介绍
 
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一个简短的关于为什么可以拒绝假说，但不能接受它们的入门书，有例子和视觉效果。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d)
+towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) </the-hypothesis-testers-guide-75f7db2e4d0d> 

@@ -42,11 +42,7 @@
 
 如果你对 Django 不熟悉，可以看一下我之前的一篇文章，里面尽可能简单的解释了 Django 的原理，包括了最重要的几点。如果你喜欢从头开始构建自己的应用程序，你也可以在微软文档中找到一个[教程。](https://docs.microsoft.com/en-us/graph/tutorials/python)
 
-[](/a-beginners-guide-to-using-djangos-impressive-data-management-abilities-9e94efe3bd6e) [## 使用 Django 令人印象深刻的数据管理能力的初学者指南
-
-### 使用 Django ORM 完成数据管理任务。甚至不需要启动任何 web 服务器。
-
-towardsdatascience.com](/a-beginners-guide-to-using-djangos-impressive-data-management-abilities-9e94efe3bd6e) 
+</a-beginners-guide-to-using-djangos-impressive-data-management-abilities-9e94efe3bd6e>  
 
 (2)选择语言后，[快速启动](https://developer.microsoft.com/en-us/graph/quick-start)会让您选择直接创建一个带有 App Secret 的新 App ID，稍后您会在授权过程中用到它。
 

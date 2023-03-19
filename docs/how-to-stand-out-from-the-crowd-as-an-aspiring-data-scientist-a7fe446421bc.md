@@ -12,11 +12,7 @@
 
 一个原因可能是，在一个新的就业市场中成为一名合格的候选人自然具有挑战性。随着数据科学在人才中越来越受欢迎，以及雇主推动的所需技术技能的膨胀，在过去几年中，数据科学就业市场对候选人的竞争越来越激烈，尤其是对应届毕业生。然而，有抱负的数据科学家面临越来越多的困难，因为许多雇主正在将注意力转向更高级的候选人或来自数据工程和云计算等其他领域的候选人。
 
-[](/data-science-career-is-it-still-lucrative-in-2021-f37d433d1da5) [## 数据科学职业:2021 年还有利可图吗？
-
-towardsdatascience.com](/data-science-career-is-it-still-lucrative-in-2021-f37d433d1da5) [](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) [## 2021 年进军数据科学:竞争越来越激烈了吗？
-
-towardsdatascience.com](/breaking-into-data-science-in-2021-is-it-still-easy-as-before-9bb6fe313a0f) 
+</data-science-career-is-it-still-lucrative-in-2021-f37d433d1da5>  
 
 在本文中，我们将讨论有抱负的数据科学家如何脱颖而出，吸引雇主的注意力，并获得聘用:
 
@@ -24,15 +20,7 @@ towardsdatascience.com](/breaking-into-data-science-in-2021-is-it-still-easy-as-
 
 在当今不断变化的技术领域，获取新的技术技能不仅对有抱负的数据科学家来说是必要的，对有经验的数据专业人员来说也是必要的。技术来来去去，新工具在几个月内就变得流行起来。这转化为雇主在发布的工作中的动态和不断变化的工作要求。因此，如果简历中没有丰富的技术技能，有抱负的数据科学家就无法进入就业市场。虽然学习如此多的新技术可能是一项非常耗时的任务，但有抱负的数据科学家可以采用敏捷和快速学习的心态来获得最低要求的技术技能，以使他们进入工作岗位，并帮助他们在工作中进一步发展。
 
-[](/how-to-level-up-your-data-science-skills-in-90-days-917c523e8dc9) [## 如何在 90 天内提升您的数据科学技能
-
-### 学习数据科学技能的敏捷路线图
-
-towardsdatascience.com](/how-to-level-up-your-data-science-skills-in-90-days-917c523e8dc9) [](/full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a) [## 全栈数据科学家还是大数据项目的超级英雄？
-
-### 数据科学就业市场的新兴需求趋势
-
-towardsdatascience.com](/full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a) 
+</how-to-level-up-your-data-science-skills-in-90-days-917c523e8dc9>  </full-stack-data-scientists-or-superheroes-of-the-big-data-projects-f245ec66bb6a>  
 
 **2。用突出的方式写你的简历**
 
@@ -42,11 +30,7 @@ towardsdatascience.com](/full-stack-data-scientists-or-superheroes-of-the-big-da
 
 在数据科学就业市场中，网络的重要性不容忽视。大多数候选人已经感觉到，申请著名工作论坛上发布的工作不再是找到数据科学工作的最终解决方案。然而，大多数候选人没有做任何事情来提升自己的水平，让自己被介绍给那些能让自己更接近被录用的人。候选人必须努力避免迷失在标准的招聘流程中，因为在他们之前有数百名候选人，他们必须在招聘公司内部找到更深层次的关系。这样做的一些方法可以是(a)直接与招聘经理建立关系网，(b)与拥有强大员工推荐计划的公司的员工会面，(c)与内部或外部招聘人员建立关系网，他们可以把你介绍给招聘经理。在这里，人际关系网中使用的目标或方法不如定期会见新专业人士的一致性重要。因此，有抱负的数据科学家必须走出他们的外壳，与人们谈论他们的抱负，并寻求他们对改善职业地位的建议。
 
-[](/what-is-takes-to-be-a-top-data-science-consultant-part-1-client-facing-skills-7803f5c8974c) [## 数据科学顾问面对客户的技能:奢侈品还是必需品？
-
-### 成为成功的数据科学顾问需要什么
-
-towardsdatascience.com](/what-is-takes-to-be-a-top-data-science-consultant-part-1-client-facing-skills-7803f5c8974c) 
+</what-is-takes-to-be-a-top-data-science-consultant-part-1-client-facing-skills-7803f5c8974c>  
 
 **4。在目标市场中建立信任和信誉**
 
@@ -58,19 +42,7 @@ towardsdatascience.com](/what-is-takes-to-be-a-top-data-science-consultant-part-
 
 **更多文章来自作者:**
 
-[](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) [## 初级数据科学家追求的 8 条职业道路
-
-### 如果你最终实现了自己的目标，成为了一家你喜欢的公司的数据科学家。您已成功登机…
-
-towardsdatascience.com](/8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e) [](/working-as-a-data-science-consultant-e626669ab72b) [## 担任数据科学顾问
-
-### 具有企业意识的数据科学家的职业战略
-
-towardsdatascience.com](/working-as-a-data-science-consultant-e626669ab72b) [](/working-as-a-machine-learning-engineer-a364545ae93c) [## 作为一名机器学习工程师
-
-### 人工智能和数据人才的职业战略
-
-towardsdatascience.com](/working-as-a-machine-learning-engineer-a364545ae93c) [](https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83) [## 作为数据工程师工作
+</8-career-paths-for-junior-data-scientists-to-pursue-3e6041950e4e>  </working-as-a-data-science-consultant-e626669ab72b>  </working-as-a-machine-learning-engineer-a364545ae93c>  <https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83> [## 作为数据工程师工作
 
 medium.com](https://medium.com/geekculture/working-as-a-data-engineer-1f53b04aff83) 
 

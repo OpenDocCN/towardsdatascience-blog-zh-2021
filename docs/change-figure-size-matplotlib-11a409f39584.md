@@ -88,14 +88,6 @@ factor = 0.8plt.gcf().**set_size_inches**(factor * figure_size)
 
 **你可能也会喜欢**
 
-[](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [## 如何将 Python 包上传到 PyPI
+</how-to-upload-your-python-package-to-pypi-de1b363a1b3> [## 如何将 Python 包上传到 PyPI
 
-towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [](/what-are-named-tuples-in-python-59dc7bd15680) [## Python 中的命名元组是什么
-
-### Python 中一个被忽略的扩展数据类型
-
-towardsdatascience.com](/what-are-named-tuples-in-python-59dc7bd15680) [](/easter-eggs-in-python-f32b284ef0c5) [## 蟒蛇皮复活节彩蛋
-
-### 探索八个用 Python 包装的复活节彩蛋
-
-towardsdatascience.com](/easter-eggs-in-python-f32b284ef0c5)
+towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) </what-are-named-tuples-in-python-59dc7bd15680>  </easter-eggs-in-python-f32b284ef0c5> 

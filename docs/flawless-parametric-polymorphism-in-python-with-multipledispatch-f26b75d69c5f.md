@@ -14,11 +14,7 @@
 
 也就是说，虽然我以前使用过单一调度，当然也在几乎所有的范例中使用过，但是我以前真的从来没有在我的代码中使用过像多态性这样的想法。虽然世界上对多分派的介绍可能来自 ML 编程语言，但我对多态性的介绍是以一种叫做 Julia 的编程语言的形式出现的。本文还提供了一个笔记本，您可以使用它来查看 Python 中的多个调度会话的示例。以下是所用笔记本的链接:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Parametric%20Polymorphism.ipynb) [## Emmetts-DS-NoteBooks/Python Parametric polymorphism . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Parametric%20Polymorphism.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20Parametric%20Polymorphism.ipynb>  
 
 # 朱莉娅
 
@@ -30,21 +26,13 @@ Julia 是一种编程语言，由 Viral B. Shaw 先生、Stephen Karpinski、Ala
 
 不使用 Julia 的人不会意识到多重分派范例意味着什么，但是对于那些广泛使用过 Julia 的人来说，可以理解，使用多重分派，只需改变输入和输出，就可以完全定制类型。我有一篇关于我有多爱茱莉亚的文章，你可以在这里读到:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 关于构造函数如何使用多重分派来改变 Julia 的范式，我有另外一个故事，附带一个视频，您可以在这里观看，它涵盖了多重分派 paraidgm 中的面向对象编程，以及另一篇深入研究构造函数的文章:
 
-[](https://medium.com/chifi-media/constructing-with-unknown-types-and-oop-in-julia-f3decc46d49) [## 在 Julia 中用未知类型和 OOP 来构造
+<https://medium.com/chifi-media/constructing-with-unknown-types-and-oop-in-julia-f3decc46d49> [## 在 Julia 中用未知类型和 OOP 来构造
 
-medium.com](https://medium.com/chifi-media/constructing-with-unknown-types-and-oop-in-julia-f3decc46d49) [](/an-advanced-look-at-constructors-in-julia-5b428882dde8) [## Julia 中构造函数的高级视图
-
-### 用 Julia 完整地看一下如何创建复杂的构造函数。
-
-towardsdatascience.com](/an-advanced-look-at-constructors-in-julia-5b428882dde8) 
+medium.com](https://medium.com/chifi-media/constructing-with-unknown-types-and-oop-in-julia-f3decc46d49) </an-advanced-look-at-constructors-in-julia-5b428882dde8>  
 
 朱莉娅的多重调度模式是多么令人惊讶，不谈恋爱是非常困难的。话虽如此，
 
@@ -62,15 +50,11 @@ towardsdatascience.com](/an-advanced-look-at-constructors-in-julia-5b428882dde8)
 
 我们将要学习的模块是 multipledispatch。这个模块的特别之处在于它的易用性。就像我们在 func-tools 中观察到的单一分派模型一样，这个模块允许使用一个简单的装饰器来改变类型与函数交互的方式。
 
-[](/functools-an-underrated-python-package-405bbef2dd46) [## FuncTools:一个被低估的 Python 包
-
-### 使用 functools 将您的 Python 函数提升到一个新的水平！
-
-towardsdatascience.com](/functools-an-underrated-python-package-405bbef2dd46) 
+</functools-an-underrated-python-package-405bbef2dd46>  
 
 此外，如果你想学习更多关于装饰者的知识，并学习一些很酷的知识，我有另一篇文章是关于这个的:
 
-[](/10-fabulous-python-decorators-ab674a732871) [## 10 个神话般的 Python 装饰者
+</10-fabulous-python-decorators-ab674a732871> [## 10 个神话般的 Python 装饰者
 
 towardsdatascience.com](/10-fabulous-python-decorators-ab674a732871) 
 
@@ -80,11 +64,7 @@ towardsdatascience.com](/10-fabulous-python-decorators-ab674a732871)
 
 正如我上面简单提到的，使用这个模块非常简单。一旦模块被导入，我们可以简单地用我们想要分派到函数中的类型调用上面的函数。也就是说，解释如何实际使用该模块相对简单，只需导入该模块，然后在给定函数上方的装饰器中使用以下语法。另外，另一个旁注——我发现获得该文档的最好地方是 Github。当然，还有星选和叉选等。对于那些想要的人，这里有一个 Github 页面的链接:
 
-[](https://github.com/mrocklin/multipledispatch) [## GitHub-mrocklin/Multiple dispatch:多重分派
-
-### Python 中一种相对合理的多重分派方法。这种多重分派的实现是高效的…
-
-github.com](https://github.com/mrocklin/multipledispatch) 
+<https://github.com/mrocklin/multipledispatch>  
 
 每当我们导入这个模块时，我们不希望调用整个模块，这将破坏我们的修饰语法，只导入我们不需要的东西。这个库本质上提供了这一个模块和函数，所以我们真的没有必要或目的不直接导入它。
 
@@ -154,11 +134,7 @@ printout(x)
 
 另外，如果你想读那篇旧文章，你可以在这里读:
 
-[](/parametric-polymorphism-is-really-cool-e6ac25f0fa53) [## 参数多态真的很酷
-
-### 永远塑造了函数式编程的概念。
-
-towardsdatascience.com](/parametric-polymorphism-is-really-cool-e6ac25f0fa53) 
+</parametric-polymorphism-is-really-cool-e6ac25f0fa53>  
 
 到目前为止，参数多态性无疑是我最喜欢的编程概念之一。我认为能够以这种方式处理类型和函数真的很酷，因为它在代码中创造了很多流动性。当涉及到多重分派时，对方法的描述要详细得多，这鼓励了一种新的思维方式。多重分派通过别名和类型来定义方法，而不是通过别名定义方法。这给 Julia 带来了很多强大的能力，但也有一些非常激进的 Python 应用。
 

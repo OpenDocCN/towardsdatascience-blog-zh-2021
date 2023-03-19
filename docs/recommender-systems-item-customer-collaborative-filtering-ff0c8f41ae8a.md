@@ -357,19 +357,11 @@ CustItemRecommend.to_excel(“ExportCustomer-Item-CustItemRecommend.xlsx”)
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+<https://jesko-rehberg.medium.com/membership>  
 
 如果你想推荐使用 Scikit-Learn 或 Tensorflow 推荐器，你可能会发现这篇文章很有帮助:
 
-[](/recommend-using-scikit-learn-and-tensorflow-recommender-bc659d91301a) [## 推荐使用 Scikit-Learn 和 Tensorflow 推荐器
-
-### 针对每位客户售出的销售项目(二进制)的协作筛选
-
-towardsdatascience.com](/recommend-using-scikit-learn-and-tensorflow-recommender-bc659d91301a) 
+</recommend-using-scikit-learn-and-tensorflow-recommender-bc659d91301a>  
 
 最初发表在我的网站 [DAR-Analytics](https://www.dar-analytics.de/AboutUs.html) 。
 

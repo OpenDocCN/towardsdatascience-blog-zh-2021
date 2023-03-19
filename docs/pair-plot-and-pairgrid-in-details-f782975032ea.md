@@ -20,11 +20,7 @@ Amir-abbas Abdolali 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 我使用了这个著名的数据集，叫做“nhanes”数据集。我发现它很有用，因为它有很多连续和分类的特征。请随意从该链接下载数据集，以便跟进:
 
-[](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) 
+<https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv>  
 
 如果这个数据集对您来说是新的，列名可能看起来有点奇怪。但是不用担心。当我使用它们时，我会解释它们的含义。
 
@@ -191,22 +187,6 @@ g.map_diag(plt.hist, alpha = 0.7)
 
 ## 更多阅读
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [## 关于 Keras 和 Tensorflow 中情感分析的一步一步的完整教程
-
-### 用于数据准备、深度学习模型开发和训练网络的完整工作代码
-
-towardsdatascience.com](/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f) [](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [## 机器学习(分类)算法性能评价指标综述
-
-### 开发一个分类模型和计算所有流行的性能评估指标使用…
-
-towardsdatascience.com](/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f) [](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) [## 熊猫总结数据的三个非常有用的功能
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  </a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f>  </an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f>  </three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370> [## 熊猫总结数据的三个非常有用的功能
 
 towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370)

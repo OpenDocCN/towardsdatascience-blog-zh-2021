@@ -237,10 +237,6 @@ for s in my_strings:
 
 不仅仅是文本换行，这个库还提供了很多非常方便的特性，比如缩进和体面。当我们想使用这个库用相同的参数包装文本时，最好实例化文本包装类，这样我们就可以重用这个实例。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

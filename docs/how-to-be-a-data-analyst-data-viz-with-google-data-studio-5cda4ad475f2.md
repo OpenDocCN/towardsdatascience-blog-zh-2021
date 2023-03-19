@@ -193,18 +193,10 @@
 
 喜欢这篇文章吗？你可能会喜欢这个—
 
-[](/data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf) [## 成为优秀数据分析师的 4 个步骤
-
-### TLDR；不要做一只查询猴。
-
-towardsdatascience.com](/data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf) [](/how-to-teach-yourself-data-science-in-2020-f674ec036965) [## 2021 年如何自学数据科学
-
-### 第 1 部分— SQL、Python、R 和数据可视化
-
-towardsdatascience.com](/how-to-teach-yourself-data-science-in-2020-f674ec036965) 
+</data-science-reflections-lessons-from-5-months-as-an-analyst-c9843132ecf>  </how-to-teach-yourself-data-science-in-2020-f674ec036965>  
 
 你也可以在 LinkedIn 上和我联系。我将很高兴收到反馈，回答问题或只是与志同道合的人联系。
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang -数据分析师
+<https://www.linkedin.com/in/travistang/> [## Travis Tang -数据分析师
 
 www.linkedin.com](https://www.linkedin.com/in/travistang/)

@@ -61,11 +61,7 @@ LightGBM 包含许多参数，因此，我没有遍历所有可能的值，而�
 
 总的来说，推荐引擎既需要对用户的个性化学习，也需要对歌曲的一般性学习。在这个项目中，我实验了仅使用音频特征、音频和用户特征以及我个人的收听历史的机器学习分类。进一步的调查可能包括协变量之间的因果关系，因为理解数据生成的机制可能比曲线拟合更能提供信息。
 
-[](https://github.com/Tahahaha7/Spotify_Skip_Prediction) [## Taha ha7/Spotify _ Skip _ Prediction
-
-### 使用 LightGMB 预测我的歌曲预测习惯仅基于音频功能 Permalink 无法加载最新…
-
-github.com](https://github.com/Tahahaha7/Spotify_Skip_Prediction) 
+<https://github.com/Tahahaha7/Spotify_Skip_Prediction>  
 
 # 参考
 

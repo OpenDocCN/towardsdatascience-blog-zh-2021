@@ -100,16 +100,4 @@
 
 # 参考
 
- [## WaveNet:原始音频的生成模型
-
-### 本文介绍了 WaveNet，一种用于生成原始音频波形的深度神经网络。该模型完全…
-
-arxiv.org](https://arxiv.org/abs/1609.03499) [](https://archive.org/details/Text-to-speechtts-AQuickOverview) [## 文本到语音(TTS) -快速概述:Kishore Prahallad:免费下载，借用，和流…
-
-### remove-circle Internet Archive 的浏览器内视频播放器需要启用 JavaScript。您的浏览器似乎…
-
-archive.org](https://archive.org/details/Text-to-speechtts-AQuickOverview) [](http://cambridgeenglishonline.com/interactive_phonemic_chart/) [## 互动音位图:英语的 44 种声音和符号
-
-### 欢迎来到我们的互动音位图表区。我们制作了两个版本，这样每个人都可以练习和学习 44…
-
-cambridgeenglishonline.com](http://cambridgeenglishonline.com/interactive_phonemic_chart/)
+  <https://archive.org/details/Text-to-speechtts-AQuickOverview>  <http://cambridgeenglishonline.com/interactive_phonemic_chart/> 

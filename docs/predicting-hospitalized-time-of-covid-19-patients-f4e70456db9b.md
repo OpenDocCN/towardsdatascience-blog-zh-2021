@@ -154,7 +154,7 @@ train_data.isnull().sum()
 
 ## 3.1.型号选择
 
-这个项目解决了一个分类问题，因为标签是分类的。这适用于*XGBoost*【2】、*随机森林*【3】、深度学习多层感知器([](https://en.wikipedia.org/wiki/Multilayer_perceptron)**)*分类器等有监督的机器学习分类模型【4】。*
+这个项目解决了一个分类问题，因为标签是分类的。这适用于*XGBoost*【2】、*随机森林*【3】、深度学习多层感知器(<https://en.wikipedia.org/wiki/Multilayer_perceptron>**)*分类器等有监督的机器学习分类模型【4】。*
 
 *由于数据是表格形式，特征数量相对较少，所以相比深度学习模型，一般首选 *XGBoost* 和*随机森林*。*
 

@@ -44,7 +44,7 @@
 
 *图片*来自 GDL 课程——作者编辑
 
-有人会问非欧几何的第一次出现是什么？我们会说它来自俄罗斯数学家罗巴切夫斯基。他指出，在任何一点都有不止一条线可以延伸通过该点，并与该点不属于的另一条线平行。类似的想法也有，但我们在这里就不解释了，就是德国数学家 b .黎曼的曲面的[](https://en.wikipedia.org/wiki/Differential_geometry#:~:text=Differential%20geometry%20is%20a%20mathematical,linear%20algebra%20and%20multilinear%20algebra.)*(*黎曼几何*)。*
+有人会问非欧几何的第一次出现是什么？我们会说它来自俄罗斯数学家罗巴切夫斯基。他指出，在任何一点都有不止一条线可以延伸通过该点，并与该点不属于的另一条线平行。类似的想法也有，但我们在这里就不解释了，就是德国数学家 b .黎曼的曲面的<https://en.wikipedia.org/wiki/Differential_geometry#:~:text=Differential%20geometry%20is%20a%20mathematical,linear%20algebra%20and%20multilinear%20algebra.>*(*黎曼几何*)。*
 
 *在所有这些发展之后，接近 19 世纪末，数学家们争论哪种几何是正确的，以及应该如何定义它。直到德国数学家 f·克莱因发表了*埃尔兰根纲领*，他在其中给出了所有这些问题的答案。*
 

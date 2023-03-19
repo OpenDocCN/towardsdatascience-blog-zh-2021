@@ -155,11 +155,7 @@ $ git push origin main
 
 分支会扩大本文的篇幅，因此包含在这篇流行的文章中:
 
-[](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) [## 用您的 ML 项目学习 Git 分支
-
-### MLE 项目的版本控制至关重要。这是它的工作原理。
-
-towardsdatascience.com](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) 
+</learn-git-branches-with-your-ml-project-7f58bdf1ae80>  
 
 # 摘要
 
@@ -169,16 +165,8 @@ towardsdatascience.com](/learn-git-branches-with-your-ml-project-7f58bdf1ae80)
 
 **图的跳格神经网络**
 
-[](/skip-gram-neural-network-for-graphs-83b8f308bf87) [## 图的跳格神经网络
-
-### 本文将深入探讨节点嵌入的更多细节。如果你缺乏直觉和对节点嵌入的理解…
-
-towardsdatascience.com](/skip-gram-neural-network-for-graphs-83b8f308bf87) 
+</skip-gram-neural-network-for-graphs-83b8f308bf87>  
 
 **初学者节点嵌入**
 
-[](/node-embeddings-for-beginners-554ab1625d98) [## 初学者的节点嵌入
-
-### 节点嵌入在开始时可能很困难。这篇文章为你提供了直觉，这样你就可以阅读更多…
-
-towardsdatascience.com](/node-embeddings-for-beginners-554ab1625d98)
+</node-embeddings-for-beginners-554ab1625d98> 

@@ -15,7 +15,7 @@
 攻击:
 
 *   [*快速渐变标志法*](https://arxiv.org/abs/1412.6572) *(FGSM)*
-*   [](https://arxiv.org/abs/1706.06083)**【PGD】**
+*   <https://arxiv.org/abs/1706.06083>**【PGD】**
 *   *[deep fool](https://arxiv.org/pdf/1511.04599.pdf)*
 *   *[*卡里尼&瓦格纳*](https://arxiv.org/abs/1608.04644) *(C & W)**
 

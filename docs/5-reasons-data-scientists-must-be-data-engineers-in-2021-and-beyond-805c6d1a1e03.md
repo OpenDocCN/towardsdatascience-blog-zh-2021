@@ -82,8 +82,4 @@ SAS 脚本通常长达数万行来完成非常简单的事情，excel 电子表�
 
 1 Valliappa Lakshmanan(2019)，谷歌云平台上的数据科学，第 5-6 页
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo - Tech |数据科学|银行和金融
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

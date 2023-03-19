@@ -71,35 +71,19 @@ EDA(图片由作者提供)
 
 1.  [**特征选择**](/feature-selection-and-eda-in-python-c6c4eb1058a3)
 
-[](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## 机器学习中的特征选择和 EDA
-
-### 如何使用数据可视化来指导特征选择
-
-towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) 
+</feature-selection-and-eda-in-python-c6c4eb1058a3>  
 
 **2。** [**探索性数据分析**](https://medium.com/r?url=https%3A%2F%2Ftowardsdatascience.com%2Fsemi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 **3。** [**数据可视化**](/which-chart-to-choose-4b21929539eb)
 
-[](/which-chart-to-choose-4b21929539eb) [## 如何选择最合适的图表？
-
-### 折线图、条形图、饼图……它们讲述了不同的故事
-
-towardsdatascience.com](/which-chart-to-choose-4b21929539eb) 
+</which-chart-to-choose-4b21929539eb>  
 
 **4。** [**地址缺失数据**](https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68)
 
-[](https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68) [## 如何处理丢失的数据
-
-### 三种缺失数据的解决方法
-
-medium.com](https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68) 
+<https://medium.com/analytics-vidhya/how-to-address-missing-data-531ed964e68>  
 
 # 1.对数变换-右偏数据
 
@@ -243,16 +227,4 @@ NumStorePurchases
 
 ## *更多这样的文章*
 
-*[](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) [## 客户细分的聚类算法
-
-### K-均值聚类的逐步指南
-
-towardsdatascience.com](/clustering-algorithm-for-customer-segmentation-e2d79e28cbc3) [](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## 机器学习中的特征选择和 EDA
-
-### 如何使用数据可视化来指导特征选择
-
-towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) [](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)*
+*</clustering-algorithm-for-customer-segmentation-e2d79e28cbc3>  </feature-selection-and-eda-in-python-c6c4eb1058a3>  </semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809> *

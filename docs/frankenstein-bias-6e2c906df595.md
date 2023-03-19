@@ -60,4 +60,4 @@
 
 ~约翰·j·霍华德博士
 
-[*约翰·霍华德*](http://jjhoward.org/) *是一名计算机科学家，拥有生物识别算法有效测试方面的博士学位。这里提出的观点是他的。他们不代表他的任何附属机构的观点。如果你觉得这很有趣，你可以关注 Twitter 上的*[](https://twitter.com/John_J_Howard)**或*[*LinkedIn*](https://www.linkedin.com/in/john-howard-ph-d-3bba2b15)*。**
+[*约翰·霍华德*](http://jjhoward.org/) *是一名计算机科学家，拥有生物识别算法有效测试方面的博士学位。这里提出的观点是他的。他们不代表他的任何附属机构的观点。如果你觉得这很有趣，你可以关注 Twitter 上的*<https://twitter.com/John_J_Howard>**或*[*LinkedIn*](https://www.linkedin.com/in/john-howard-ph-d-3bba2b15)*。**

@@ -199,11 +199,7 @@ AARRR 增长指标框架(详见下文增长指标一节):被激活的用户必�
 
 [**第二部分此处**](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f) **！**
 
-[](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f) [## 数据科学家破解商业案例访谈的终极指南(第二部分)
-
-### 4 种产品感问题和框架
-
-towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f) 
+</the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f>  
 
 # 感谢阅读！
 
@@ -216,12 +212,4 @@ towardsdatascience.com](/the-ultimate-guide-to-cracking-business-case-interviews
 
 我们还推荐以下相关文章:
 
-[](/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) [## 数据科学家应对编码面试的终极指南
-
-### 由艾玛·丁和罗布·王撰写
-
-towardsdatascience.com](/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) [](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) [## 数据科学面试中的 7 个 A/B 测试问题和答案
-
-### A/B 测试，也称为受控实验，在工业中广泛用于产品上市决策。它允许技术…
-
-towardsdatascience.com](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
+</the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc>  </7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63> 

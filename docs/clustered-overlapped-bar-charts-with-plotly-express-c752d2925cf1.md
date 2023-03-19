@@ -170,19 +170,11 @@ fig.add_trace(go.Bar(x = df_genre['Genre'],
 
 带 Plotly Express、跟踪和布局的面积图
 
-[](/area-charts-with-plotly-express-510a1f12ac11) [## 带 Plotly Express 的面积图
-
-### 轨迹和布局
-
-towardsdatascience.com](/area-charts-with-plotly-express-510a1f12ac11) 
+</area-charts-with-plotly-express-510a1f12ac11>  
 
 散点图，带有 Plotly Express、趋势线和分面
 
-[](/scatter-plots-with-plotly-express-1b7f5579919b) [## 用 Plotly Express 散点图
-
-### 趋势线和刻面
-
-towardsdatascience.com](/scatter-plots-with-plotly-express-1b7f5579919b) 
+</scatter-plots-with-plotly-express-1b7f5579919b>  
 
 *参考文献*
 

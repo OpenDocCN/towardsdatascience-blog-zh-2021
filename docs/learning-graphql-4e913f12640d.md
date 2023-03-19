@@ -68,50 +68,10 @@ GraphQL 使用类型系统来定义我们的模式。这包括数据类型、可
 
 查看我最近的文章:
 
-[](/a-dive-into-dash-ed5561f11021) [## 一头扎进 Dash
+</a-dive-into-dash-ed5561f11021> [## 一头扎进 Dash
 
-towardsdatascience.com](/a-dive-into-dash-ed5561f11021) [](https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd) [## 使用 Python 获取天气信息
-
-### 这么多可以选择…
-
-python .平原英语. io](https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd) [](/mysql-vs-postgresql-3d48891452a) [## MySQL vs PostgreSQL
-
-towardsdatascience.com](/mysql-vs-postgresql-3d48891452a) [](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [## GraphQL 与 REST
-
-medium.com](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) [## 使用 Python 构建您自己的 Plex 客户端
-
-### Plex 是一个客户端-服务器媒体播放器，可用于流式视频、播放音乐、观看直播电视、收听播客…
-
-python .平原英语. io](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) 
+towardsdatascience.com](/a-dive-into-dash-ed5561f11021) <https://python.plainenglish.io/getting-the-weather-with-python-dce8f20331fd>  </mysql-vs-postgresql-3d48891452a>  <https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262>  
 
 参考资料:
 
-[](https://graphql.org/) [## API 的查询语言
-
-### GraphQL 是一种 API 查询语言，也是一种用现有数据完成这些查询的运行时语言。图表 QL…
-
-graphql.org](https://graphql.org/) [](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-60e43b0a41f5/) [## 简明英语的 GraphQL 指南
-
-### Luis Aguilar 简单英语 GraphQL 指南所有你需要知道的关于 API 的最新流行词…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-60e43b0a41f5/) [](https://graphql.org/learn/) [## GraphQL 简介
-
-### 了解 GraphQL，它如何工作，以及如何使用它。寻找关于如何构建 GraphQL 服务的文档…
-
-graphql.org](https://graphql.org/learn/) [](https://graphql.org/learn/best-practices/) [## GraphQL 最佳实践
-
-### GraphQL 规范在 API 面临的一些重要问题上故意保持沉默，比如处理…
-
-graphql.org](https://graphql.org/learn/best-practices/)  [## 图形思维
-
-### 使用 GraphQL，您可以将您的业务领域建模为图。图是建模许多现实世界的强大工具…
-
-graphql.org](https://graphql.org/learn/thinking-in-graphs/) [](https://www.howtographql.com/basics/2-core-concepts/) [## GraphQL 核心概念教程
-
-### 在这一章中，你将学习一些 GraphQL 的基本语言结构。这包括第一次瞥见…
-
-www.howtographql.com](https://www.howtographql.com/basics/2-core-concepts/) [](https://blog.couchbase.com/creating-a-graphql-application-with-node-js-and-a-nosql-database/) [## 用 Node.js 和 NoSQL 数据库创建一个 GraphQL 应用程序
-
-### 我听到了很多关于与 GraphQL 和 NoSQL 合作的传言，不管是在 Couchbase 内部还是外部…
-
-blog.couchbase.com](https://blog.couchbase.com/creating-a-graphql-application-with-node-js-and-a-nosql-database/)
+<https://graphql.org/>  <https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-60e43b0a41f5/>  <https://graphql.org/learn/>  <https://graphql.org/learn/best-practices/>    <https://www.howtographql.com/basics/2-core-concepts/>  <https://blog.couchbase.com/creating-a-graphql-application-with-node-js-and-a-nosql-database/> 

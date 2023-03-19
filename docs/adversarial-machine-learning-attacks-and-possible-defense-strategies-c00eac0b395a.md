@@ -129,14 +129,6 @@ Oracle 攻击包括:
 
 # 相关文章
 
-[](https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573) [## 语义网真的死了吗？
-
-### 语义网好像已经快没了。这是真的吗？在这篇文章中，我们试图追溯语义学的历史…
-
-medium.com](https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573) [](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419) [## 我六月文章的摘要…以防你错过
-
-### 快速回顾一下我在六月份发表的文章:从数据分析，到数据可视化，再到环境设置。
-
-alod83.medium.com](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419) [](/expire-span-the-new-ai-algorithm-that-forgets-irrelevant-information-61da9b442237) [## Expire-Span:忘记无关信息的新人工智能算法
+<https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573>  <https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419>  </expire-span-the-new-ai-algorithm-that-forgets-irrelevant-information-61da9b442237> [## Expire-Span:忘记无关信息的新人工智能算法
 
 towardsdatascience.com](/expire-span-the-new-ai-algorithm-that-forgets-irrelevant-information-61da9b442237)

@@ -14,11 +14,7 @@
 
 但是，一旦我们开始构建越来越多的项目，就要和不同的团队一起处理不同的主题。然后，在不同的数据集上，我们将发展如何处理任何问题的直觉，计划达到解决方案的具体步骤，并能够解决任何出现在你面前的问题。因此，尽管您会通过构建项目找到自己避免错误的方法，但您也可以通过与职业生涯中更远的数据科学家交谈来获得这些知识。
 
-[](/what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1) [## 什么是成功的数据科学家？成功的 5 个特征
-
-### 学位不是成功的保证。
-
-towardsdatascience.com](/what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1) 
+</what-makes-a-successful-data-scientist-5-traits-to-success-b106e7bc7cf1>  
 
 我曾经和许多数据科学家谈论过他们的学习之旅，以及他们希望在职业生涯中早点知道哪些东西可以帮助他们更快更好地进步。但是，正如我听到的很多，你通过做学得更好；当你经历某件事时，它会比你听到它时更好地留在你的脑海里。也就是说，阅读和获取信息永远不会是一件坏事。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/what-makes-a-successful-data-scientist-5-traits-to-succ
 
 如果有什么是我经常重复的，那就是，明智地选择你的视觉化。可视化在项目的所有阶段都很重要。例如，它在数据探索中至关重要，让你发现或错过模式或趋势。因此，请确保您了解可用的不同可视化工具、可以使用的图形和图表，以及哪种工具最能描述您的数据并帮助您更好地理解数据。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 # **№3:不考虑数据中的偏差**
 
@@ -54,7 +46,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5
 
 相关性和因果关系是两个非常不同的东西，但有时我们倾向于将它们联系起来，不仅在数据科学项目中，而且在我们的个人生活中。相关性是一种统计技术，用于表示两个变量或两个因素之间的关系。但是，仅仅因为关系存在，并不意味着因果关系也存在。所以，先测试数据再下结论。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -70,11 +62,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 数据科学是一个跨学科的领域；它涵盖了广泛的应用程序和场景。所有这些应用都有商业的一面；这就是为什么他们永远不应该被忽视。因为业务方面是数据开始的地方，也是结果将被实现的地方，所以总是要花点时间来检查数据是如何和为什么被收集的，以及你将发现的洞察力将如何被用于未来的数据。记住，数据科学中的错误决策会导致数百万人。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 # 最后的想法
 
@@ -84,8 +72,4 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 当你开始设计和实现项目时，我确信你会同意我们在这篇文章中所经历的 9 个错误。当你想起在数据科学职业生涯的早期犯下的一个错误时，你甚至会微笑。通过阅读这篇文章，我唯一的希望是初学数据的科学家在开始他们的职业生涯时知道应该避免什么，并且能够构建更好、更专业的项目。
 
-[](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af) [## 作为一名自由数据科学家，你可以做 7 种类型的工作
-
-### 建立一个更好的投资组合，发展你的专长，赚钱
-
-towardsdatascience.com](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af)
+</7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af> 

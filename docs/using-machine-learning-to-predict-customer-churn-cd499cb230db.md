@@ -188,8 +188,4 @@ Gert RDA valasevi it 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_m
 
 这个[分析背后的完整 python 代码可以在这里运行](https://mybinder.org/v2/gh/john-adeojo/ChurnModelling/main?filepath=Churn%20Modelling%20v6%20(2).ipynb)。数据可在我的[流失建模 GitHub repo 中获得。](https://github.com/john-adeojo/ChurnModelling)
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

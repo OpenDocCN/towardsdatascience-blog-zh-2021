@@ -12,19 +12,11 @@
 
 运算符是现代编程中绝对重要的组成部分。它们通常用于数学运算，但也可用于变异不同类型的泥沼并比较这些类型。Python 编程语言有一系列不同的操作符，新的操作符也在不断增加，最新的是 Python 3.8 中添加的 walrus 操作符。实际上，我写了一篇关于该操作符的文章，这篇文章还包括了一些其他有趣改进的亮点，对于感兴趣的人来说可能值得一读:
 
-[](/my-favorite-new-features-in-python-3-8-a95d7a0a31c9) [## Python 3.8 中我最喜欢的新特性
-
-### Python 3.8 在几周前发布了，与其匆忙谈论新特性，我决定…
-
-towardsdatascience.com](/my-favorite-new-features-in-python-3-8-a95d7a0a31c9) 
+</my-favorite-new-features-in-python-3-8-a95d7a0a31c9>  
 
 一个具有一些有趣功能和怪癖的操作符是加号-equals 操作符。乍一看，这似乎只是加法和断言操作符的基本组合。虽然可能是这种情况，但是有一些真正有趣的特性使这个操作符与众不同。今天，我将展示这个操作符的一些有趣的特性，并演示是什么让它如此有趣。如果您想看看这些古怪的行为，您也可以从这里获得我用来演示这些代码的笔记本的副本:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/interesting%20plus-equals.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/interesting%20plus-equals.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/interesting%20plus-equals.ipynb>  
 
 # 加号-等号概述
 

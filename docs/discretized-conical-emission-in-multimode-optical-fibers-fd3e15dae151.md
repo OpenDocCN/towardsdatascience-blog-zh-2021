@@ -86,8 +86,4 @@
 
 11j . Andreasen 和 M. Kolesik。*光在结构化介质中的非线性传播:广义单向脉冲传播方程*。物理评论 E —统计、非线性和软物质物理学，86(3):1–9，2012。
 
-[](https://www.osapublishing.org/josab/abstract.cfm?uri=josab-38-3-732) [## 超短脉冲在多模光学系统中传输和锥形发射的数值模拟
-
-### 我们利用了两种众所周知的非线性脉冲传播的数值方法，即单向脉冲传播法
-
-www.osapublishing.org](https://www.osapublishing.org/josab/abstract.cfm?uri=josab-38-3-732)
+<https://www.osapublishing.org/josab/abstract.cfm?uri=josab-38-3-732> 

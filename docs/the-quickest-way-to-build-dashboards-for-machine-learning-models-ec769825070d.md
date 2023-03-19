@@ -12,11 +12,7 @@
 
 数据科学家的大部分工作都围绕着收集数据和为业务问题创建机器学习模型。虽然建立复杂的机器学习模型很难，但将经过训练的机器学习模型的预测传达给没有技术背景的 stake holder 就更麻烦了。这就是像 Tabpy 和 explainerdashboard 这样的 python 包派上用场的地方。在我之前的文章中，我解释了如何使用 Tabpy 包将经过训练的机器学习模型直接与 tableau 集成。
 
-[](/integrating-machine-learning-models-with-tableau-b484c0e099c5) [## 将机器学习模型与 Tableau 集成
-
-### 使用 TabPy 库将 Python 中训练好的机器学习模型直接部署到 tableau 中
-
-towardsdatascience.com](/integrating-machine-learning-models-with-tableau-b484c0e099c5) 
+</integrating-machine-learning-models-with-tableau-b484c0e099c5>  
 
 在本文中，我将讨论实现一个名为 explainerdashboard 的优秀 python 包。explainerdashboard 包通过创建交互式可视化仪表盘来帮助分析机器学习模型。试图进入数据科学的初学者或希望更好地理解其模型的不同属性的有经验的数据科学专业人员可以使用此包，只需 2 行额外代码即可创建基本的仪表板。
 

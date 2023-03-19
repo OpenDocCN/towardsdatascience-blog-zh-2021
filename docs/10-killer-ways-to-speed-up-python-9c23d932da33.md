@@ -20,11 +20,7 @@ Python 被定义为一种解释型、动态类型的编程语言，具有相对�
 
 提高 Python 速度的一个非常普通的方法是使用标准库包 Itertools。Itertools 是一个很棒的工具库，可以用来加速迭代。因为迭代在编程中很常见，所以这个包肯定会大大提高函数、类和算法的速度。在这个列表的所有选项中，Itertools 可能是最简单、最容易使用的选项之一。此外，您甚至不需要安装一个新的包来使用它，因为它在标准库中是可用的！实际上，我有一整篇关于 Itertools 的文章，您可以在这里查看:
 
-[](/wicked-fast-python-with-itertools-55c77443f84c) [## 使用 Itertools 的超快速 Python
-
-### 快速浏览一种简单的方法，通过使用 itertools 让 Python 更快、更有效地进行机器学习…
-
-towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c) 
+</wicked-fast-python-with-itertools-55c77443f84c>  
 
 在这个列表的选项中，Itertools 无疑是最容易推荐的。如果你是这个包的新手，我当然会推荐你去看看并尝试这个包！在实地实际工作中也会派上用场！
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/wicked-fast-python-with-itertools-55c77443f84c)
 
 Java 编译器和较新的 Julia 编译器普及的一个编译概念是实时(JIT)编译。JIT 编译是指编译器在执行时编译代码，并预先进行一些预编译。换句话说，当代码被编译器处理时，软件已经在执行了。结果是语言速度快了很多，因为这两件事是一起做的，而不是一次做一件。我正好有一整篇关于 Numba 的文章，你可以在这里查看:
 
-[](/numba-jit-compilation-but-for-python-373fc2f848d6) [## Numba: JIT 编译，但是用于 Python
-
-### 快速浏览一下 2020 年让 Python 变得更好的神奇工具。
-
-towardsdatascience.com](/numba-jit-compilation-but-for-python-373fc2f848d6) 
+</numba-jit-compilation-but-for-python-373fc2f848d6>  
 
 Numba 实现的伟大之处在于它非常容易使用！Numba 使用一个简单的装饰器让 Python 在某些函数和类上激活 JIT。也就是说，使用 Numba 几乎不费吹灰之力，但它仍然对性能有重大影响。
 
@@ -44,11 +36,7 @@ Numba 实现的伟大之处在于它非常容易使用！Numba 使用一个简�
 
 另一个非常容易使用的解决方案是 FuncTools。这个模块在标准库中，它是如此的通用，以至于很难涵盖其中的所有内容。然而，许多函数可以很容易地用来加速 Python。缓存就是一个很好的例子。FuncTools 包允许用户缓存以前使用的函数，这对于计算后面的例子很方便。我还有另一篇关于 Functools 的文章。如果您想了解更多关于此套餐的信息，您可以点击:
 
-[](/functools-an-underrated-python-package-405bbef2dd46) [## FuncTools:一个被低估的 Python 包
-
-### 使用 functools 将您的 Python 函数提升到一个新的水平！
-
-towardsdatascience.com](/functools-an-underrated-python-package-405bbef2dd46) 
+</functools-an-underrated-python-package-405bbef2dd46>  
 
 # №4:杯子
 
@@ -80,7 +68,7 @@ Swifter 是一个简单易用的软件包。Swifter 在整个可迭代列表中�
 
 我想回顾的最后一个提高 Python 速度的突出工具是 C。我最近写了一篇文章，讲述了为什么我认为 C 是学习数据科学的好主意，我仍然相信它是。如果你想读这篇文章，你可以在这里:
 
-[](/why-c-comes-in-handy-for-data-science-76071206bb5) [## 为什么 C 对于数据科学来说很方便
+</why-c-comes-in-handy-for-data-science-76071206bb5> [## 为什么 C 对于数据科学来说很方便
 
 towardsdatascience.com](/why-c-comes-in-handy-for-data-science-76071206bb5) 
 

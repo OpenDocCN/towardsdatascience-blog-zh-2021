@@ -34,11 +34,7 @@ else:
 
 > 注意`x, y, z`已经被合并到一个元组中，而不是一个列表中，以获得更好的内存性能。如果您想了解更多关于数据结构的内存使用情况，我以前写过一篇文章:
 
-[](/memory-efficiency-of-common-python-data-structures-88f0f720421) [## 常见 Python 数据结构的内存效率
-
-### 你听说过内存过度分配吗？
-
-towardsdatascience.com](/memory-efficiency-of-common-python-data-structures-88f0f720421) 
+</memory-efficiency-of-common-python-data-structures-88f0f720421>  
 
 ## 更好的解决方案:使用 Iterable 的成员测试
 
@@ -83,10 +79,6 @@ else:
 *   [遗传算法——停止过度拟合交易策略](https://medium.com/towards-artificial-intelligence/genetic-algorithm-stop-overfitting-trading-strategies-5df671d5cde1)
 *   [人工神经网络选股推荐系统](https://pub.towardsai.net/ann-recommendation-system-for-stock-selection-c9751a3a0520)
 
-[](https://www.linkedin.com/in/louis-chan-b55b9287) [## Louis Chan-FTI Consulting | LinkedIn 数据科学总监
-
-### 雄心勃勃的，好奇的和有创造力的个人，对分支知识和知识之间的相互联系有强烈的信念
-
-www.linkedin.com](https://www.linkedin.com/in/louis-chan-b55b9287) 
+<https://www.linkedin.com/in/louis-chan-b55b9287>  
 
 > 特别感谢 [Sander Koelstra](https://medium.com/u/9b0823a6e3a3?source=post_page-----18a4d98d79f4--------------------------------) 指出了一些误导性的陈述。

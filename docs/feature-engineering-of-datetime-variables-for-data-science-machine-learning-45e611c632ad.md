@@ -279,8 +279,4 @@ dtype='object')
 
 笔记本可在以下位置获得，并附有完整的功能代码:
 
-[](https://www.kaggle.com/nextbigwhat/feature-engineering-of-datetime-variables?scriptVersionId=61041780) [## 日期时间变量的特征工程
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 loan_data 的数据
-
-www.kaggle.com](https://www.kaggle.com/nextbigwhat/feature-engineering-of-datetime-variables?scriptVersionId=61041780)
+<https://www.kaggle.com/nextbigwhat/feature-engineering-of-datetime-variables?scriptVersionId=61041780> 

@@ -88,12 +88,4 @@ Apache ZooKeeper 依赖性的消除简化了 Kafka 部署的基础设施管理�
 
 ## 你可能也喜欢
 
-[](/overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd) [## Apache Kafka 集群的 UI 监控工具概述
-
-### 阿帕奇卡夫卡最好的监控工具有哪些？
-
-towardsdatascience.com](/overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd) [](https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8) [## 如何在阿帕奇卡夫卡中获取特定信息
-
-### 掌握 Kafka 控制台消费者和 kafkacat
-
-better 编程. pub](https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8)
+</overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd>  <https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8> 

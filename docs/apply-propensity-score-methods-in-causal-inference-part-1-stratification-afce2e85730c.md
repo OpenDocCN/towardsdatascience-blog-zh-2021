@@ -16,11 +16,7 @@
 
 如果您需要回顾协变量匹配，我之前的文章介绍了条件独立假设(CIA)下的协变量精确匹配:
 
-[](/apply-matching-method-in-causal-analysis-19e032144e93) [## 匹配法在因果分析中的应用
-
-### 用 Python 写了一个真实的例子
-
-towardsdatascience.com](/apply-matching-method-in-causal-analysis-19e032144e93) 
+</apply-matching-method-in-causal-analysis-19e032144e93>  
 
 # 倾向得分定理
 

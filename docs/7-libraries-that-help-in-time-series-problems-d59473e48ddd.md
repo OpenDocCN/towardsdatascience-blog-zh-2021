@@ -80,7 +80,7 @@ AutoTS 是一个自动化的时间序列预测库，可以使用简单的代码�
 
 ![](img/57965510736cac391dd1806243ee4aeb.png)
 
-*Github:*https://github.com/winedarksea/AutoTS[](https://github.com/winedarksea/AutoTS)
+*Github:*https://github.com/winedarksea/AutoTS<https://github.com/winedarksea/AutoTS>
 
 *文档:*[https://winedarksea . github . io/AutoTS/build/html/source/tutorial . html](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
 

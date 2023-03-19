@@ -148,8 +148,4 @@ PS:如果你想了解更多，建议你看看 Brunton & Kutz 的新书， [*数�
 
 > 想看更多这方面的内容？*查看我其他关于* [*低秩结构和数据驱动建模*](https://loiseau-jc.medium.com/list/lowrank-structure-and-datadriven-modeling-8f39635a90ea) 的文章或者干脆我的[机器学习基础知识](https://loiseau-jc.medium.com/list/machine-learning-basics-0baf10d8f8b5) *！*
 
-[](/a-case-against-pca-for-time-series-analysis-ac66b47629e0) [## 时间序列分析中反对主成分分析的一个案例
-
-### 如何对时间序列使用线性降维？
-
-towardsdatascience.com](/a-case-against-pca-for-time-series-analysis-ac66b47629e0)
+</a-case-against-pca-for-time-series-analysis-ac66b47629e0> 

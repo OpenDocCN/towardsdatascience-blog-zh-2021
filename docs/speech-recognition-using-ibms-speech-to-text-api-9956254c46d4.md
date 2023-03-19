@@ -128,12 +128,4 @@ with open('recognized_speech.txt',mode ='w') as file:
 
 ## 为您提供更多动手项目:
 
-[](/building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851) [## 用 Python 构建聊天机器人——初学者指南
-
-### 从头开始创建您的第一个人工智能聊天机器人
-
-towardsdatascience.com](/building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851) [](/adding-text-on-image-using-python-2f5bf61bf448) [## 使用 Python 在图像上添加文本
-
-### 使用枕头库的简单机器学习项目
-
-towardsdatascience.com](/adding-text-on-image-using-python-2f5bf61bf448)
+</building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851>  </adding-text-on-image-using-python-2f5bf61bf448> 

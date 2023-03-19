@@ -14,19 +14,11 @@ ulia 是一种有很多疯狂的细节的语言，允许人们用许多编程概
 
 匿名函数的伟大之处在于，它们非常容易编写，有自己的作用域，但是是环境声明的。它的伟大之处在于它可以创建一些非常高级的语法。从很多方面来说，我们通常用匿名函数做的事情就是 Python 的 Lambda 在 Python 中做的事情，如果你想深入了解 Lambda 和 Python，我写了一整篇文章，你可以在这里读到:
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 此外，像往常一样，Github 上有一个笔记本可用于这个项目，所以如果您想好好看看这个代码并自己使用它，您可以在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/What%20is%20an%20anonymous%20function%3F.ipynb) [## emmetts-DS-NoteBooks/什么是匿名函数？。ipynb at master emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/What%20is%20an%20anonymous%20function%3F.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/What%20is%20an%20anonymous%20function%3F.ipynb>  
 
 # 匿名函数
 
@@ -66,11 +58,7 @@ println(ourfunc(5))
 
 值得注意的是，这些方法的定义方式有一个关键的区别，因为我们的新“东西”是一些奇怪的 Julia 对象，有时这会导致许多非常奇怪和令人困惑的错误。我在开发 Hone.jl 包时经常遇到这种情况。如果你想看看我遇到的一些挣扎，你可以看看我在 Hone.jl 上写的一些文章:
 
-[](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) [## Hone.jl 的元编程网格和标签
-
-### 为 Julia 修复我的网格并将轴标签添加到我的图形库中
-
-towardsdatascience.com](/metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad) 
+</metaprogramming-grids-and-labels-for-hone-jl-f434c8dc24ad>  
 
 # 匿名类型
 

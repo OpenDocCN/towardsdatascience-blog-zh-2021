@@ -159,12 +159,4 @@ modified_image = prep_image(image)color_analysis(modified_image)
 
 ## ML/人工智能项目
 
-[](/building-a-face-recognizer-in-python-7fd6630c6340) [## 用 Python 构建人脸识别器
-
-### 使用 OpenCv 库进行实时人脸识别的分步指南
-
-towardsdatascience.com](/building-a-face-recognizer-in-python-7fd6630c6340) [](/extracting-speech-from-video-using-python-f0ec7e312d38) [## 使用 Python 从视频中提取语音
-
-### 使用 Google 语音识别 API 的简单实用项目
-
-towardsdatascience.com](/extracting-speech-from-video-using-python-f0ec7e312d38)
+</building-a-face-recognizer-in-python-7fd6630c6340>  </extracting-speech-from-video-using-python-f0ec7e312d38> 

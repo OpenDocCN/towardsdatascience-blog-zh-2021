@@ -119,19 +119,11 @@ M 如今，现代企业需要处理各种大规模、快速移动的数据源，
 
 如果您想要更多信息或帮助扩充或迁移您现有的数据湖，或者完全在雪花上构建一个新的数据湖，请随时联系我们。
 
-[](https://www.indigochart.com/) [## 数据现代化| IndigoChart LLC
-
-### 云数据仓库开发服务和数据工程。展示以下方面的能力和专业知识…
-
-www.indigochart.com](https://www.indigochart.com/) 
+<https://www.indigochart.com/>  
 
 或者发送电子邮件至[hello@indigochart.com](mailto:hello@indigochart.com)并在 LinkedIn 上关注我们:
 
-[](https://www.linkedin.com/company/indigochart/) [## indigoChart | LinkedIn
-
-### indigoChart | LinkedIn 上 83 个关注者。我们与组织内的变革型领导者合作，帮助执行…
-
-www.linkedin.com](https://www.linkedin.com/company/indigochart/) 
+<https://www.linkedin.com/company/indigochart/>  
 
 **参考文献:**
 

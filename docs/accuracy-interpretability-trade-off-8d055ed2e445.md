@@ -48,16 +48,4 @@ Abel Y Costa 在 [Unsplash](https://unsplash.com/s/photos/table?utm_source=unspl
 
 **你可能也会喜欢**
 
-[](/inference-vs-prediction-b719da908000) [## 推断和预测的区别是什么
-
-### 在统计学习的背景下讨论预测和推断的区别
-
-towardsdatascience.com](/inference-vs-prediction-b719da908000) [](/parametric-vs-non-parametric-methods-2cea475da1a) [## 机器学习中的参数方法与非参数方法
-
-### 讨论机器学习中参数方法和非参数方法的区别
-
-towardsdatascience.com](/parametric-vs-non-parametric-methods-2cea475da1a) [](/supervised-vs-unsupervised-learning-bf2eab13f288) [## 监督与非监督学习
-
-### 讨论机器学习中监督学习、非监督学习和半监督学习的主要区别
-
-towardsdatascience.com](/supervised-vs-unsupervised-learning-bf2eab13f288)
+</inference-vs-prediction-b719da908000>  </parametric-vs-non-parametric-methods-2cea475da1a>  </supervised-vs-unsupervised-learning-bf2eab13f288> 

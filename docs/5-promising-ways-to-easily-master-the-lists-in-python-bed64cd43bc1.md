@@ -167,11 +167,7 @@ mylist
 
 这里有一篇有趣的关于理解列表的详细知识的文章！！
 
-[](/3-python-tricks-for-better-code-511c82600ee1) [## 获得更好代码的 3 个 Python 技巧
-
-### ..第二个技巧让我的 python 程序执行速度提高了 440 倍！
-
-towardsdatascience.com](/3-python-tricks-for-better-code-511c82600ee1) 
+</3-python-tricks-for-better-code-511c82600ee1>  
 
 其他列表方法如`.copy()`、`.sort()`、`.reverse()`可以在下面的要点和本 [**必读**](/3-time-saving-python-tricks-a017f4215aeb) 中找到。
 

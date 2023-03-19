@@ -50,11 +50,7 @@ ResNet 架构的核心思想是将一部分信号传递到未经处理的卷积�
 
 首先，您需要下载包含数据集的归档文件，并将其存储到 *data* 目录中。可以通过下面的[链接](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)手动完成，或者使用下面的 GitHub 库中提供的 Python 代码:
 
-[](https://github.com/slipnitskaya/caltech-birds-advanced-classification) [## slipnitskaya/加州理工学院-鸟类-高级-分类
-
-### 这个存储库包含了由……发表的一系列文章“使用深度学习逐个鸟”的材料
-
-github.com](https://github.com/slipnitskaya/caltech-birds-advanced-classification) 
+<https://github.com/slipnitskaya/caltech-birds-advanced-classification>  
 
 现在，让我们导入将在本教程中使用的包:
 

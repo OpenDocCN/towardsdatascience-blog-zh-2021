@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/anova-t-test-and-other-statistical-tests-with-python-e7a36a2fdc0c?source=collection_archive---------5----------------------->
 
-主要分析[](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)**(ANOVA、T 检验、MANOVA 等)。)及其特点，在 Python 中应用。**
+主要分析<https://en.wikipedia.org/wiki/Statistical_hypothesis_testing>**(ANOVA、T 检验、MANOVA 等)。)及其特点，在 Python 中应用。**
 
 **gyphy.com上疯狂的前 GIF**
 

@@ -256,19 +256,7 @@ ctx.stroke();}}setTimeout(() => predictionFunction(), 500);
 
 # 我对 Tensorflow.js 文章的反应:
 
-[](/how-to-use-tensorflow-js-in-react-js-object-detection-98b3782f08c2) [## 如何在 react.js 中使用 tensorflow.js 对象检测
-
-### 使用 COCO-SSD 模型定位和识别单个图像中的多个对象
-
-towardsdatascience.com](/how-to-use-tensorflow-js-in-react-js-object-detection-98b3782f08c2) [](/how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256) [## 如何在 react.js 中使用 tensorflow.js 情感分析
-
-### 2018 年 3 月，谷歌发布了 tensor flow . js 1.0 版本，该版本使开发者能够使用机器学习(ML)模型…
-
-towardsdatascience.com](/how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256) [](/loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59) [## 使用 react.js 将模型加载到 tensorflow.js
-
-### 立即在 react.js 中使用您的 python Tensorflow 模型
-
-towardsdatascience.com](/loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59) 
+</how-to-use-tensorflow-js-in-react-js-object-detection-98b3782f08c2>  </how-to-use-tensorflow-js-in-react-js-sentimental-analysis-59c538c07256>  </loading-models-into-tensorflow-js-using-react-js-f3e118ee4a59>  
 
 # 参考
 

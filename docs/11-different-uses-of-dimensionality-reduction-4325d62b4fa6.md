@@ -165,11 +165,7 @@
 
 **我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑* [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。**
 
-*[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+*<https://rukshanpramoditha.medium.com/membership>  
 
 非常感谢你一直以来的支持！下一个故事再见。祝大家学习愉快！* 
 
@@ -177,27 +173,15 @@ rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership)
 
 *寻找不同的方法来减少数据集的大小，同时尽可能地保持变化。*
 
-*[](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) [## 2021 年你应该知道的 11 种降维技术
-
-### 减少数据集的大小，同时尽可能保留变化
-
-towardsdatascience.com](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) 
+*</11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b>  
 
 了解主成分分析(PCA)的幕后工作原理。
 
-[](https://rukshanpramoditha.medium.com/eigendecomposition-of-a-covariance-matrix-with-numpy-c953334c965d) [## 具有 NumPy 的协方差矩阵的特征分解
-
-### 对于主成分分析(PCA)
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/eigendecomposition-of-a-covariance-matrix-with-numpy-c953334c965d) 
+<https://rukshanpramoditha.medium.com/eigendecomposition-of-a-covariance-matrix-with-numpy-c953334c965d>  
 
 一站式解决您关于 PCA 的大部分问题。
 
-[](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd) [## 主成分分析—回答了 18 个问题
-
-### 一站式解决关于 PCA 的大部分问题
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd) 
+<https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd>  
 
 特别感谢 Unsplash 上的[卡尼·贝内迪克托娃](https://unsplash.com/@nika_benedictova?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) ，为我提供了这篇文章的精美封面图片。
 

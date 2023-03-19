@@ -55,16 +55,4 @@
 
 **您可能感兴趣的其他文章**
 
-[](/organizational-data-illiteracy-kills-data-science-teams-b1fe1a630053) [## 组织数据盲扼杀了数据科学团队
-
-### 数据的成本在领导层显得幼稚
-
-towardsdatascience.com](/organizational-data-illiteracy-kills-data-science-teams-b1fe1a630053) [](/automated-machine-learning-shouldnt-worry-data-scientists-9a54dfef0491) [## 自动化机器学习不应该让数据科学家担心
-
-### 这些工具只做数据科学中简单的部分
-
-towardsdatascience.com](/automated-machine-learning-shouldnt-worry-data-scientists-9a54dfef0491) [](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c) [## 计算数据科学项目的商业价值
-
-### 性能度量不能告诉你你想知道的:一个项目实际上有多大价值
-
-towardsdatascience.com](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c)
+</organizational-data-illiteracy-kills-data-science-teams-b1fe1a630053>  </automated-machine-learning-shouldnt-worry-data-scientists-9a54dfef0491>  </calculating-the-business-value-of-a-data-science-project-3b282de9be3c> 

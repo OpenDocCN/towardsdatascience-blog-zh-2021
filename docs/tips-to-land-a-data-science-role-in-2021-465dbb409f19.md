@@ -70,16 +70,4 @@
 
 ## 如果你觉得这个故事有用，你可能也会喜欢:
 
-[](/overview-of-data-related-roles-70ca48f8deed) [## 数据相关角色概述
-
-### 不同视角的数据
-
-towardsdatascience.com](/overview-of-data-related-roles-70ca48f8deed) [](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [](/do-i-need-a-degree-to-land-a-job-in-data-science-3e50b9a1a5e9) [## 我需要一个学位才能在数据科学领域找到工作吗？
-
-### 探索数据科学求职时学位的必要性
-
-towardsdatascience.com](/do-i-need-a-degree-to-land-a-job-in-data-science-3e50b9a1a5e9)
+</overview-of-data-related-roles-70ca48f8deed>  <https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  </do-i-need-a-degree-to-land-a-job-in-data-science-3e50b9a1a5e9> 

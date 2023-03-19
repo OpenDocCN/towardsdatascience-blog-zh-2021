@@ -72,11 +72,7 @@ def sum_of_n(nsamples):
 
 关于`numba`的更多细节，你可以阅读下面这篇文章，它是我的灵感来源:
 
-[](https://www.infoworld.com/article/3622013/speed-up-your-python-with-numba.html) [## 用 Numba 加速你的 Python
-
-### Python 不是最快的语言，但是速度的不足并没有阻止它成为分析领域的主要力量…
-
-www.infoworld.com](https://www.infoworld.com/article/3622013/speed-up-your-python-with-numba.html) 
+<https://www.infoworld.com/article/3622013/speed-up-your-python-with-numba.html>  
 
 # PySpark
 
@@ -94,11 +90,7 @@ PySpark 是 Apache Spark 的 Python 接口，Apache Spark 是一个开源项目�
 
 如果你想深化 PySpark 库，可以看看下面这篇文章，从中我得到了启发:
 
-[](/a-hands-on-demo-of-analyzing-big-data-with-spark-68cb6600a295) [## 使用 Spark 分析大数据的实践演示
-
-### 扫描一部小说，计算圆周率，对五千万行进行回归
-
-towardsdatascience.com](/a-hands-on-demo-of-analyzing-big-data-with-spark-68cb6600a295) 
+</a-hands-on-demo-of-analyzing-big-data-with-spark-68cb6600a295>  
 
 # 熊猫优化
 
@@ -114,11 +106,7 @@ Python Pandas 是一个非常流行的管理数据集的库。我相信几乎所
 
 在数据类型为`int8`的情况下，内存使用量非常小。要了解更多详情，您可以阅读全文:
 
-[](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) [## 为大型数据集优化 Pandas 的内存使用
-
-### 有效利用数据类型来防止内存崩溃
-
-towardsdatascience.com](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) 
+</optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b>  
 
 # 摘要
 
@@ -131,16 +119,4 @@ towardsdatascience.com](/optimize-pandas-memory-usage-while-reading-large-datase
 
 # 相关文章
 
-[](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6) [## 如何通过 PySpark 加速您的 Python 代码
-
-### 关于如何安装和运行 Apache Spark 和 PySpark 以提高代码性能的教程。
-
-towardsdatascience.com](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6) [](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [## 如何在 Python Pandas 中加载巨大的 CSV 数据集
-
-### 可能会出现这样的情况，您的硬盘中有一个巨大的 CSV 数据集，占用了 4 或 5gb(甚至更多),而您…
-
-towardsdatascience.com](/how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276) [](/dataset-manipulation-with-open-refine-a5043b7294a7) [## 使用 Open Refine 操作数据集
-
-### Open Refine 是一个用于清理、转换和丰富数据集的 web 应用程序。它可以在下载…
-
-towardsdatascience.com](/dataset-manipulation-with-open-refine-a5043b7294a7)
+</how-to-speed-up-your-python-code-through-pyspark-e3296e39da6>  </how-to-load-huge-csv-datasets-in-python-pandas-d306e75ff276>  </dataset-manipulation-with-open-refine-a5043b7294a7> 

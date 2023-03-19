@@ -46,11 +46,7 @@ lst
 
 对于任何程序，您都需要一个列表来存储一些与您正在执行的特定任务相关的信息或数据。为了在列表中存储额外的元素，您通常会在 for 循环旁边使用 append 语句来迭代特定的命令并相应地存储元素。要了解所有的概念和主列表，请查看下面提供的文章。
 
-[](/mastering-python-lists-for-programming-5423b011d937) [## 掌握 Python 列表进行编程！
-
-### 对编程所需的所有列表概念的详细理解。为什么使用列表进行数据科学和…
-
-towardsdatascience.com](/mastering-python-lists-for-programming-5423b011d937) 
+</mastering-python-lists-for-programming-5423b011d937>  
 
 # 3.字典
 
@@ -72,11 +68,7 @@ print(my_dict)
 
 字典很容易在任何程序中创建和存储。对于需要存储一对元素的各种任务，开发人员更喜欢这些数据结构。它们存储一对元素，即一个键和值。要了解更多关于字典的知识，请阅读下面这篇文章，它详细介绍了大部分方面。
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+</mastering-dictionaries-and-sets-in-python-6e30b0e2011f>  
 
 # 4.中断并继续
 
@@ -141,11 +133,7 @@ print(product)
 
 reduce 函数是我们将在本文中讨论的最后一个匿名函数。要探索更多关于高级函数的主题，并获得对这些概念的代码和示例的更直观的理解，请通过下面提供的链接查看我以前的一篇文章。
 
-[](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) [## 用代码和例子理解 Python 中的高级函数！
-
-### 详细了解 python 中的匿名函数和高级函数及其实际应用…
-
-towardsdatascience.com](/understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094) 
+</understanding-advanced-functions-in-python-with-codes-and-examples-2e68bbb04094>  
 
 # 9.Numpy
 
@@ -192,11 +180,7 @@ plt.ylabel("Counts")
 
 拥有数据的可视化表示有助于我们在机器学习任务中执行探索性数据分析。有了这些分析方法，我们就能为解决某一特定问题找到合适的方向。代码块是以条形图的形式查看数据的表示。这种可视化是查看数据的常用技术。要了解更多考虑用于数据科学项目的可视化技术，请查看下面的文章，获取关于这方面的简明指南。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 # 12.正则表达式
 
@@ -211,11 +195,7 @@ x = re.search("fun.", sentence)
 
 上面代码块中提到的四行代码是用户必须了解的一些最重要的正则表达式操作。要了解关于这个概念的更多信息，以及如何使用上述四种正则表达式操作来简化自然语言处理任务，请查看下面的文章。
 
-[](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) [## 4 个基本正则表达式操作符使自然语言处理变得更简单！
-
-### 了解四种基本的常规操作，以清理几乎任何类型的可用数据。
-
-towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) 
+</natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1>  
 
 # 13.自然语言处理工具包
 
@@ -263,11 +243,7 @@ Open-CV 是最好的库之一，开发人员在所有阶段都使用它来成功
 
 上面的代码块是一个简单的例子，用于将图像可视化到指定的目录路径。要了解更多信息，开始学习计算机视觉并掌握这个库的所有基本元素，我强烈建议查看我以前的一篇文章，其中包含了与计算机视觉相关的所有基础知识，以及几个代码和示例。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 # 16.班级
 
@@ -286,11 +262,7 @@ differentiatie.power_rule(Derivative)
 
 类被广泛使用，甚至用于深度学习模型的开发。在编写张量流代码时，您可能希望创建一个自定义类来相应地定义您的模型。这种模型子类化方法被开发人员在最高阶段使用。如果您想了解以上代码块示例的更多信息，请查看下面这篇文章，它涵盖了简化机器学习数学的最佳库这一主题。
 
-[](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) 
+</best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  
 
 # 17.随意
 
@@ -318,20 +290,8 @@ Python 预先构建并提供的随机库是最重要的模块之一，它将帮�
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [## 6 个最佳图像处理项目和有用的资源
+</6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977>  </7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e> [## 数据科学和机器学习的 7 个最佳免费工具
 
-towardsdatascience.com](/6-best-projects-for-image-processing-with-useful-resources-f860f3dfe977) [](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
-
-towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [## 数据科学和机器学习的 7 个最佳免费工具
-
-towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) [](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [## 为机器学习简化数学的最佳库！
-
-### 使用 sympy Python 库简化用于机器学习的微积分
-
-towardsdatascience.com](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac) [](/6-best-programming-practices-f2605c5b469c) [## 6 个最佳编程实践！
-
-### 每个程序员和数据科学家都应该遵循的六个编程技巧
-
-towardsdatascience.com](/6-best-programming-practices-f2605c5b469c) 
+towardsdatascience.com](/7-best-free-tools-for-data-science-and-machine-learning-3e630125f87e) </best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  </6-best-programming-practices-f2605c5b469c>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

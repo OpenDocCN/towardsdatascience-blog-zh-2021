@@ -158,19 +158,7 @@ phik_overview = df.phik_matrix()phik_overview.round(2)
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/one-simple-tip-to-make-your-readmes-stand-out-9f06ccdd76b) [## 一个简单的提示让你的简历脱颖而出
-
-### 使用 Mermaid 设计的图表——一种类似 markdown 的脚本——让您的文档更上一层楼！
-
-towardsdatascience.com](/one-simple-tip-to-make-your-readmes-stand-out-9f06ccdd76b) [](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [## 你可能没听说过的 9 种有用的熊猫方法
-
-### 它们可以让你的日常工作更容易、更快捷。
-
-towardsdatascience.com](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [](/chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348) [## chef boost——基于树的模型的替代 Python 库
-
-### 与 scikit-learn 的主要区别概述
-
-towardsdatascience.com](/chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348) 
+</one-simple-tip-to-make-your-readmes-stand-out-9f06ccdd76b>  </9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee>  </chefboost-an-alternative-python-library-for-tree-based-models-f46af028a348>  
 
 # 参考
 

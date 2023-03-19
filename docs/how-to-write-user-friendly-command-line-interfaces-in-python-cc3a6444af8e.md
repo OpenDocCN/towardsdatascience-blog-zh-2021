@@ -90,11 +90,7 @@ Miss name 参数，由 argparser 处理(由[高](https://medium.com/u/2adc5a07e7
 
 像往常一样，看看这篇来自 RealPython 的关于 argparse 的伟大文章。
 
-[](https://realpython.com/command-line-interfaces-python-argparse/) [## 如何用 argparse 在 Python 中构建命令行界面- Real Python
-
-### 在本文中，您将了解到:命令行界面(也称为 CLI)是一种与命令交互的方式…
-
-realpython.com](https://realpython.com/command-line-interfaces-python-argparse/) 
+<https://realpython.com/command-line-interfaces-python-argparse/>  
 
 ## 基于装饰的解决方案—单击
 
@@ -196,16 +192,4 @@ python source/cli.py generate --name xiaoxu --birth 1990-01-01 --vaccine pfizer 
 
 ## 参考
 
-[](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/#packaging-click-commands) [## 比较 Python 命令行解析库——arg parse、Docopt 和 Click——真正的 Python
-
-### 大约一年前，我开始了一项构建命令行应用程序是家常便饭的工作。那时我有…
-
-realpython.com](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/#packaging-click-commands) [](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df) [## 用 Python 构建漂亮的命令行界面
-
-### 使用 python 构建命令行界面..
-
-codeburst.io](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df) [](https://www.stackhawk.com/blog/command-injection-python/) [## Python 中的命令注入:示例和预防
-
-### 与 SQL 注入攻击相比，命令注入是一种不太流行的注入攻击。这一般是…
-
-www.stackhawk.com](https://www.stackhawk.com/blog/command-injection-python/)
+<https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/#packaging-click-commands>  <https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df>  <https://www.stackhawk.com/blog/command-injection-python/> 

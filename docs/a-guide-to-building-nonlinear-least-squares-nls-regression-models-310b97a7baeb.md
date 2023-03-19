@@ -273,10 +273,6 @@ plt.**show**()****
 
 # ****相关文章****
 
-****[](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958)**** 
+****</an-illustrated-guide-to-the-poisson-regression-model-50cccba15958> **** 
 
 *****感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的提示、操作方法和编程建议。*****

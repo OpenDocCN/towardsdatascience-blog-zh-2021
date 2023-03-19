@@ -40,7 +40,7 @@
 
 *摘自*[*R 华夫饼包的自述*](https://github.com/hrbrmstr/waffle)
 
-华夫饼干图的用法示例见此处[](https://qz.com/576057/why-infectious-bacteria-are-winning/)**[**此处**](https://www.one.org/making-the-connection/) 。另外，著名的 [**xkcd 辐射剂量图**](https://xkcd.com/radiation/) 也是华夫图！**
+华夫饼干图的用法示例见此处<https://qz.com/576057/why-infectious-bacteria-are-winning/>**[**此处**](https://www.one.org/making-the-connection/) 。另外，著名的 [**xkcd 辐射剂量图**](https://xkcd.com/radiation/) 也是华夫图！**
 
 **![](img/dfdf86696b560ca86718404d3da2210b.png)**
 

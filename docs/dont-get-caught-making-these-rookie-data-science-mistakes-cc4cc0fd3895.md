@@ -14,11 +14,7 @@
 
 从事数据科学需要不断的教育，部分原因是它是几个领域的集合，所有这些领域都有你可以用余生来研究的信息。然而，有一些简单的事情你可以避免，尤其是在开始学习数据科学时，这将使学习更加顺利。这篇文章不涉及任何特定的语言，但是我也有一篇关于 Python 的“新手错误”的文章，您可以在这里查看:
 
-[](/avoid-these-rookie-python-mistakes-9cc17cccd051) [## 避免这些 Python 新手的错误
-
-### 他们可能会工作，但他们可以工作得更好。
-
-towardsdatascience.com](/avoid-these-rookie-python-mistakes-9cc17cccd051) 
+</avoid-these-rookie-python-mistakes-9cc17cccd051>  
 
 # №1:错误代码
 
@@ -26,7 +22,7 @@ towardsdatascience.com](/avoid-these-rookie-python-mistakes-9cc17cccd051)
 
 当然，这些技能是可变的。在你的数据科学职业生涯中，你可以在这些技能的基础上成长，你很可能会。当学习数据科学时，有了所有其他要学习的东西，很容易将软件工程部分放在一边，并在数据科学的保护伞下从事其他领域的工作。然而，这可能会产生很多问题，因为最终没有软件和编程，实际进行数据科学会困难得多。当然这方面总是要看你应聘的是什么样的数据科学工作。一些数据科学家甚至专门在 Microsoft Excel 等应用程序中工作，但对于大多数数据科学来说，您可能会使用 Python、R、Scala 或 Julia 等统计编程语言。在我的编程经验中，我发现了一些可以让你的代码变得更好的很棒的技巧，我正好有一篇文章适合你。如果你想通过几个简单的步骤学会如何成为一名更好的程序员，这当然值得一读:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 
@@ -36,17 +32,13 @@ towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc34
 
 我喜欢用两种方法来降低数据的维度。这两种方法中的第一种非常流行，并且相对高效。它是机器学习的主要部分，在机器学习的世界里随处可见。这种技术被称为奇异值分解，简称 SVD。还有其他分解技术，比如随机投影，它基于样本空间投影新值。我正好有关于这两种技术的文章，如果你想了解更多，这里有一些链接:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
 towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) 
 
 > 我有很多文章。特别是在这两篇文章中，我想说奇异值分解文章是一篇好文章，因为它详细介绍了 SVD 是如何执行的以及它的用途。
 
-[](/random-projection-and-its-role-in-data-science-f253dd66485b) [## 随机投影及其在数据科学中的作用
-
-### 随机投影概述及其在现代数据科学实践中通常扮演的角色。
-
-towardsdatascience.com](/random-projection-and-its-role-in-data-science-f253dd66485b) 
+</random-projection-and-its-role-in-data-science-f253dd66485b>  
 
 另一种用于降低数据维数的突出技术是特征工程。特征工程可用于将多个特征组合成一个特征。这降低了对统计载荷的要求，降低了过度拟合的风险，也降低了特征对模型的性能影响。
 

@@ -16,11 +16,7 @@
 
 也就是说，自从我开始写代码，我就把尽可能多的时间花在阅读高级和入门级程序员的代码上。在这里，我列出了我用来揭开高级代码神秘面纱的轨迹。
 
-[](/how-to-read-advanced-code-even-if-you-are-a-beginner-4ce0e1087859) [## 即使是初学者，如何阅读高级代码
-
-### 揭开任何代码神秘面纱的实用步骤
-
-towardsdatascience.com](/how-to-read-advanced-code-even-if-you-are-a-beginner-4ce0e1087859) 
+</how-to-read-advanced-code-even-if-you-are-a-beginner-4ce0e1087859>  
 
 令人惊讶的是，我读得越多，就越发现经验丰富的程序员和初学者之间的差距有多大。高年级学生写的代码让你大吃一惊。大三写的代码让你想揪头发。
 

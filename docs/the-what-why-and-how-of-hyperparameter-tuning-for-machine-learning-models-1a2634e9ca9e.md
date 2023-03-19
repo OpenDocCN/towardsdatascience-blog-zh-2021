@@ -38,11 +38,7 @@
 
 需要复习梯度下降吗？阅读这篇绝对介绍线性回归和梯度下降的文章。
 
-[](/linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0) [## 绝对初学者的线性回归和梯度下降
-
-### 梯度下降的简单解释和实现
-
-towardsdatascience.com](/linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0) 
+</linear-regression-and-gradient-descent-for-absolute-beginners-eef9574eadb0>  
 
 **2。正则化参数(λ)。**正则化参数(λ)是添加到成本函数的“惩罚”项中的常数。将这种惩罚加到成本函数中称为正则化。有两种类型的正规化——L1 和 L2。他们在惩罚等式上有所不同。
 
@@ -99,11 +95,7 @@ print(scores)
 
 我们将在这篇文章中继续这一趋势，根据乘客的特征来预测生存的可能性。
 
-[](/would-jack-realistically-have-died-aboard-the-titanic-a6ac8308ed49) [## 杰克真的会死在泰坦尼克号上吗？
-
-### 机器学习如何回答这个问题
-
-towardsdatascience.com](/would-jack-realistically-have-died-aboard-the-titanic-a6ac8308ed49) 
+</would-jack-realistically-have-died-aboard-the-titanic-a6ac8308ed49>  
 
 在训练模型之前，我们需要进行一些数据处理。本质上，我不得不:
 

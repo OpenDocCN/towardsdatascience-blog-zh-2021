@@ -137,28 +137,4 @@
 
 ## ****更多文章促进您的数据科学****
 
-****[](/normal-distribution-160a93939248) [## 正态分布综合指南
-
-### 顺便了解一些关于这一基本统计学概念如何提高您的数据科学的技巧。
-
-towardsdatascience.com](/normal-distribution-160a93939248) [](/neighborhood-explorer-a7f374e8527d) [## 如何使用聚类创建邻域浏览器工具
-
-### 使用 sklearn 的聚类算法为您的城市创建交互式仪表板的分步演练。
-
-towardsdatascience.com](/neighborhood-explorer-a7f374e8527d) [](/data-science-new-normal-ca34bcbad8f0) [## 新常态下的数据科学——来自一家 14 亿美元初创企业的教训
-
-### 后 COVID 时代，机器学习对商业成功越来越重要。
-
-towardsdatascience.com](/data-science-new-normal-ca34bcbad8f0) [](/10-python-skills-419e5e4c4d66) [## 训练营里不会教的 10 项 Python 技能
-
-### 使用这份编码技巧列表，在数据科学和机器学习方面提升到新的高度。
-
-towardsdatascience.com](/10-python-skills-419e5e4c4d66) [](/supercharge-data-science-562d891ef7f9) [## 2021 年增强数据科学的资源
-
-### 新的一年，机器学习成功所需的工具。
-
-towardsdatascience.com](/supercharge-data-science-562d891ef7f9) [](/data-science-tools-f16ecd91c95d) [## 轻松进行数据科学的 5 个工具
-
-### 第六个工具是咖啡。
-
-towardsdatascience.com](/data-science-tools-f16ecd91c95d)****
+****</normal-distribution-160a93939248>  </neighborhood-explorer-a7f374e8527d>  </data-science-new-normal-ca34bcbad8f0>  </10-python-skills-419e5e4c4d66>  </supercharge-data-science-562d891ef7f9>  </data-science-tools-f16ecd91c95d> ****

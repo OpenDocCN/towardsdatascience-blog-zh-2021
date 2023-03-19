@@ -32,19 +32,7 @@
 
 **数据科学学习指南:**
 
-[](/a-complete-data-science-roadmap-in-2021-77a15d6be1d9) [## 2021 年完整的数据科学路线图
-
-### 利用在线资源构建您自己的数据科学课程
-
-towardsdatascience.com](/a-complete-data-science-roadmap-in-2021-77a15d6be1d9) [](/create-your-own-data-science-curriculum-6628b253d50d) [## 创建您自己的数据科学课程
-
-### 如何设计个性化的数据科学学习路径
-
-towardsdatascience.com](/create-your-own-data-science-curriculum-6628b253d50d) [](https://pub.towardsai.net/data-science-curriculum-bf3bb6805576) [## 数据科学课程
-
-### 初级数据科学自学的推荐课程
-
-pub.towardsai.net](https://pub.towardsai.net/data-science-curriculum-bf3bb6805576) 
+</a-complete-data-science-roadmap-in-2021-77a15d6be1d9>  </create-your-own-data-science-curriculum-6628b253d50d>  <https://pub.towardsai.net/data-science-curriculum-bf3bb6805576>  
 
 即使你不能参加所有建议的课程，仅仅掌握一些基本的编程和统计知识就能让你具备一定的数据素养。你可以在通过研究生院、在线课程、新兵训练营或自我指导项目完成学位后建立这些技能。
 

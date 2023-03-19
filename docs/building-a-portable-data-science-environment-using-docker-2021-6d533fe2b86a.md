@@ -41,15 +41,7 @@
 
 **注意:如果你不熟悉 Docker 的基础知识，可以参考我个人用过的资源:**
 
-[](/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5) [## Docker 如何帮助您成为更高效的数据科学家
-
-### 作者:哈默尔·侯赛因
-
-towardsdatascience.com](/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5) [](/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e) [## 数据科学 Docker 逐步指南
-
-### 通过 Docker 创建一个在你的机器上运行的 ML 工作空间，里面有你需要的 ML 库，VSCode，Jupyter 和…
-
-towardsdatascience.com](/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e) 
+</how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5>  </docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e>  
 
 # > >计划
 

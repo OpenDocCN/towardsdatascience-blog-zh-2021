@@ -153,8 +153,4 @@ match_recognize(
 
 我是 Felipe Hoffa，雪花的数据云倡导者。谢谢你和我一起冒险。你可以[在 Twitter](https://twitter.com/felipehoffa) 上关注我，并查看[reddit.com/r/snowflake](https://www.reddit.com/r/snowflake/)最有趣的雪花新闻。
 
-[](https://github.com/Snowflake-Labs/awesome-snowflake) [## 雪花实验室/棒极了雪花
-
-### 关于雪花社区和内容的主要链接的令人敬畏的资源的策划列表，记得订阅:活动…
-
-github.com](https://github.com/Snowflake-Labs/awesome-snowflake)
+<https://github.com/Snowflake-Labs/awesome-snowflake> 

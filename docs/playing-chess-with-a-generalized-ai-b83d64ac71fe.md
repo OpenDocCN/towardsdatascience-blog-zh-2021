@@ -219,8 +219,4 @@ pUCT 方程式|作者图片
 *   [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 *   [https://arxiv.org/abs/2111.00210](https://arxiv.org/abs/2111.00210)
 
-[](https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb) [## Mlearning.ai 提交建议
-
-### 如何成为 Mlearning.ai 上的作家
-
-medium.com](https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb)
+<https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb> 

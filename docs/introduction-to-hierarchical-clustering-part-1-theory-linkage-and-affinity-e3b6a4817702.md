@@ -128,27 +128,15 @@ cos(𝜃)=𝐴𝐵˙||𝐴||∗||𝐵||cos⁡(θ)=ab˙||a||∗||b||
 
 第 2 部分展示了 python 在这方面的应用，可以在这里找到:
 
-[](/introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298) [## 分层聚类介绍(第 2 部分——python 实现)
-
-### 伦敦犯罪数据的 sklearn 实现
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298) 
+</introduction-to-hierarchical-clustering-part-2-python-implementation-73d367f9c298>  
 
 尽管受地理位置限制的实现可以在这里找到:
 
-[](/introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173) [## 层次聚类简介(第 3 部分—空间聚类)
-
-### 在层次聚类中引入空间维度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173) 
+</introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173>  
 
 如果你想在 Medium 上阅读更多我和其他人的精彩文章，请随意使用我的推荐链接注册:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership>  
 
 来源:
 
@@ -162,14 +150,6 @@ philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership)
 
 [5][https://www . saedsayad . com/clustering _ hierarchical . htm #:~:text = In % 20 average % 20 linkage % 20 hierarchical % 20 cluster，point % 20 In % 20 the % 20 other % 20 cluster](https://www.saedsayad.com/clustering_hierarchical.htm#:~:text=In%20average%20linkage%20hierarchical%20clustering,point%20in%20the%20other%20cluster)。
 
-[](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
+</introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

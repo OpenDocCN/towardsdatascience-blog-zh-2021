@@ -88,14 +88,6 @@ FaceNet 接受了关于*三重缺失*的培训。也就是说，网络被输入�
 
 如果你喜欢这篇文章，你可能会喜欢相关的文章。
 
-[](/a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59) [## 一个迷人的和最先进的方法来训练神经网络对不诚实的数据
-
-### 从损坏的数据中学习
-
-towardsdatascience.com](/a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59) [](/can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8) [## 变形金刚能比人类更好地解决这个 90 年的经典计算机科学问题吗…
-
-### 深度学习还不能打败人类的解决方案——目前还不能
-
-towardsdatascience.com](/can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8) 
+</a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59>  </can-transformers-solve-this-90-year-old-classic-computer-science-problem-better-than-human-8ef78bb2e9d8>  
 
 *所有数字均由作者创作，除非另有说明。*

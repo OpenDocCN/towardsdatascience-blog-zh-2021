@@ -112,27 +112,15 @@ Lionbridge 是一家提供数据收集、注释和验证服务的公司。除此
 
 ## 数据中心
 
-[](https://datahub.io/search) [## 搜索数据集
-
-### 从金融市场数据和人口增长到加密货币价格，有成千上万个数据集。如果你不…
-
-数据中心. io](https://datahub.io/search) 
+<https://datahub.io/search>  
 
 ## 令人惊叹的数据集
 
-[](https://github.com/awesomedata/awesome-public-datasets) [## awesome data/awesome-公共数据集
-
-### 注意:此回购由 apd-core 自动生成。请不要直接修改该文件。我们提供了…
-
-github.com](https://github.com/awesomedata/awesome-public-datasets) 
+<https://github.com/awesomedata/awesome-public-datasets>  
 
 ## 政府统计网站—例如美国
 
-[](https://www.data.gov/) [## Data.gov
-
-### 我们很高兴地宣布重新推出新的 resources.data.gov，这是一个在线的政策、工具、案例库…
-
-www.data.gov](https://www.data.gov/) 
+<https://www.data.gov/>  
 
 ## 视觉数据—特别适合图像/视频工作
 

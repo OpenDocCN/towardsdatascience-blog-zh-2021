@@ -14,11 +14,7 @@
 
 当今数据科学家的最佳选择之一，无论是新手还是专家都是自由职业者。作为一名数据科学自由职业者，你有很多自由来选择你的项目，控制你的时间和工资。对于通过构建真实项目来寻找更多实践经验的初学者来说，这也是一个很好的选择。
 
-[](/7-ways-to-take-your-visualizations-to-the-next-level-4b68cb0f34b4) [## 让你的视觉化更上一层楼的 7 种方法
-
-### 更好的可视化有助于证明你的努力
-
-towardsdatascience.com](/7-ways-to-take-your-visualizations-to-the-next-level-4b68cb0f34b4) 
+</7-ways-to-take-your-visualizations-to-the-next-level-4b68cb0f34b4>  
 
 对于那些想自己当老板或想在其他国家远程工作的人来说，这也是一个很好的选择。作为一名自由职业数据科学家，你会遇到不同类型的工作(自由职业工作/项目)，你可以根据自己的喜好和知识基础申请/投标。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/7-ways-to-take-your-visualizations-to-the-next-level-4b
 
 对于数据可视化项目，您会发现使用特定技术(如 Tableau、Power bi 或任何其他工具)创建交互式图形和仪表板的请求。数据可视化工作平均起价为 58 美元/小时或更高，这取决于经验水平、质量和工作速度。
 
-[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
-
-### 不管你的技术背景如何，都要学习 Python。
-
-towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+</9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4>  
 
 # №2:教学和辅导
 
@@ -48,7 +40,7 @@ towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-pytho
 
 数据清理工作通常需要一些数据操作知识，能够获得不同列之间的关系，以及如何发现异常和趋势。根据数据集的复杂程度，这类任务的起薪从 50 美元到 90 美元不等。
 
-[](/6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13) [## 值得关注的 6 个鲜为人知的数据科学博客
+</6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13> [## 值得关注的 6 个鲜为人知的数据科学博客
 
 towardsdatascience.com](/6-lesser-known-data-science-blogs-that-are-worth-following-cc42924abb13) 
 
@@ -64,7 +56,7 @@ towardsdatascience.com](/6-lesser-known-data-science-blogs-that-are-worth-follow
 
 如果你喜欢处理数据，问一些能让项目更好的问题，并帮助客户获得他们需要的产品，那么这种类型的工作可能适合你。根据你的经验和项目的复杂程度，这样的工作报酬从 50 美元到 200 美元不等。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 
@@ -86,10 +78,6 @@ towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-
 
 那么，如果你找不到工作，如何获得经验和发展技能呢？你可以这样做的一个方法是从做一名自由职业的数据科学家开始。作为一名自由职业的数据科学家，你可以选择你从事的项目；你可以指定你的工资，并建立一个投资组合，然后你可以用它来申请行业角色。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 在本文中，我们介绍了一些你可以在网站上找到的最常见的数据科学工作，你可以申请。然后，根据你的喜好和你的目标，是建立更多的项目，增强你的学习能力，还是赚些钱，你可以选择我们经历过的角色中哪些最符合你的喜好。

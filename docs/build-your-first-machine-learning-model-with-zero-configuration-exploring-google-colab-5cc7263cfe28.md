@@ -105,11 +105,7 @@ sklearn 的好处是，它通过预先配置许多分类器来为我们做大量
 
 您可能会注意到，有几个术语您可能不熟悉，比如精度和召回。您可能会发现关于这些术语和分类模型的相关讨论。
 
-[](/an-introduction-to-the-roc-auc-in-classification-tasks-94c2a147dd04) [## 分类任务中 ROC-AUC 的介绍
-
-### 曲线是什么意思？
-
-towardsdatascience.com](/an-introduction-to-the-roc-auc-in-classification-tasks-94c2a147dd04) 
+</an-introduction-to-the-roc-auc-in-classification-tasks-94c2a147dd04>  
 
 ## 结论
 

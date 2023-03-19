@@ -84,8 +84,4 @@ print('Hello world!)
 
 # 我最新的文章
 
-[](/getting-started-with-d3-js-maps-593d4e68338c) [## D3.js 地图入门
-
-towardsdatascience.com](/getting-started-with-d3-js-maps-593d4e68338c) [](/getting-started-with-breakpoints-analysis-in-python-124471708d38) [## Python 断点分析入门
-
-towardsdatascience.com](/getting-started-with-breakpoints-analysis-in-python-124471708d38)
+</getting-started-with-d3-js-maps-593d4e68338c> 

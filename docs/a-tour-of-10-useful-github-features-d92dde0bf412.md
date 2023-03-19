@@ -140,6 +140,6 @@ Pressing the <kbd> .</kbd> key while browsing any repository on GitHub.
 
 **这些是我发现有帮助的一些 Github 黑客。我相信你还会遇到其他人，如果你能把他们列在评论里，那就太好了，这样我就可以把他们添加到这篇文章里。有时候，了解工具的一些鲜为人知的事实是有好处的。如果您觉得这篇文章有帮助，我已经写了一篇关于使用 Colab 的类似文章。别忘了去看看。**
 
-**[](/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8) [## 通过这些技巧更有效地使用 Colab
+**</use-colab-more-efficiently-with-these-hacks-fc89ef1162d8> [## 通过这些技巧更有效地使用 Colab
 
 towardsdatascience.com](/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8)**

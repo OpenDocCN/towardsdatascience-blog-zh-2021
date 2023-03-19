@@ -160,4 +160,4 @@ F1 分数最高的阈值调整曲线(图片由作者提供)
 
 ## 参考
 
-[1] J .布朗利。[](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)*(2020)不平衡分类的阈值移动。【https://machinelearningmastery.com/】T4。*
+[1] J .布朗利。<https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/>*(2020)不平衡分类的阈值移动。【https://machinelearningmastery.com/】T4。*

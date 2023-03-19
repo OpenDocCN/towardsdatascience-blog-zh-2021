@@ -44,11 +44,7 @@ SQL 可以很容易地适应任何其他数据仓库，但在 BQ 中运行它并
 
 如果你使用 **Firebase** 或 **Google Analytics** 你可以提取数据并上传到 BigQuery 中做进一步分析。我在之前的一篇文章中写道:
 
-[](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) [## 我不再使用 Firebase 仪表盘。我自己建了一个。
-
-### 你如何解释火基数字？以下是答案。包括简洁的模板以及示例 Firebase 数据集…
-
-towardsdatascience.com](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) 
+</i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41>  
 
 现在，当我们有数据时，我们需要一个视图来查看用户在注册后的每一天是否活跃，然后统计活跃的用户。
 
@@ -112,11 +108,7 @@ Firebase 新用户保留示例(图片由作者提供)
 
 这差不多就是 **Firebase** 记录用户的方式。默认情况下，您将拥有`user_pseudo_id`,并且可以像这样启用`user_id`:
 
-[](https://firebase.google.com/docs/analytics/userid) [## 设置用户 ID | Firebase
-
-### Google Analytics 有一个 setUserID 调用，它允许你为使用你的应用的个人存储一个用户 ID。这通电话…
-
-firebase.google.com](https://firebase.google.com/docs/analytics/userid) 
+<https://firebase.google.com/docs/analytics/userid>  
 
 您可以做很多事情来监听这些事件，甚至在将它们发送到数据仓库之前对它们进行预处理，以得到您需要的数据。像 **Kinesis** 或 **Kafka** 这样的东西可以很容易地从你的微服务中传输事件数据。
 
@@ -288,32 +280,4 @@ Data Studio 中的每周保留。作者图片
 
 ## 推荐阅读:
 
-[](https://datastudioguides.com/data-visuals-with-data-studio/) [## 如何用 Google Data Studio 可视化数据
-
-### Data Studio 是当今最强大的数据可视化工具之一，也是那些希望…
-
-datastudioguides.com](https://datastudioguides.com/data-visuals-with-data-studio/) [](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) [## 我不再使用 Firebase 仪表盘。我自己建了一个。
-
-### 你如何解释火基数字？以下是答案。包括简洁的模板以及示例 Firebase 数据集…
-
-towardsdatascience.com](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) [](https://firebase.google.com/docs/analytics/userid) [## 设置用户 ID | Firebase
-
-### Google Analytics 有一个 setUserID 调用，它允许你为使用你的应用的个人存储一个用户 ID。这通电话…
-
-firebase.google.com](https://firebase.google.com/docs/analytics/userid) [](https://support.google.com/firebase/answer/6317510?hl=en) [## 军团
-
-### 群组是指在同一时间开始使用你的应用的一组用户(比如在同一天，或者在同一个…
-
-support.google.com](https://support.google.com/firebase/answer/6317510?hl=en) [](https://stackoverflow.com/questions/60782636/firebase-retention-ratescohort) [## 火源保留率(队列)
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/60782636/firebase-retention-ratescohort) [](https://cloud.google.com/bigquery/docs) [## BigQuery 文档|谷歌云
-
-### 交互式分析大型数据集。
-
-cloud.google.com](https://cloud.google.com/bigquery/docs) [](https://firebase.google.com/) [## 重火力点
-
-### 受 Google 支持，受应用程序开发团队喜爱-从初创公司到全球企业，所有产品都在扩展 _ 更多…
-
-firebase.google.com](https://firebase.google.com/)
+<https://datastudioguides.com/data-visuals-with-data-studio/>  </i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41>  <https://firebase.google.com/docs/analytics/userid>  <https://support.google.com/firebase/answer/6317510?hl=en>  <https://stackoverflow.com/questions/60782636/firebase-retention-ratescohort>  <https://cloud.google.com/bigquery/docs>  <https://firebase.google.com/> 

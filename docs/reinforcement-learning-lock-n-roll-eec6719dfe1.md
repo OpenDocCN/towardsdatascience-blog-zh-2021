@@ -12,11 +12,7 @@ Lock N' Roll 由 Armor Games 于 2009 年创建。这是一个为那些智力水
 
 或者，也许这只是我告诉自己的，以证明我的朋友中有少数人听说过它，这是我最喜欢的浪费时间的方式之一。这是一种需要在 4x4 网格上以不同组合和图案放置不同颜色骰子(红色、黄色、绿色或蓝色，编号为 1-4)以最大化点数输出的游戏。当你没有骰子或者你想对棋盘的当前状态进行评分时，你选择显示“掷骰子”的按钮，它也会锁定你的移动，这样你放置的骰子就不能再被操纵了。掷骰子后获得的骰子是随机的。小丑是在达到一定的总点数后获得的，它们可以放在棋盘上的任何地方，以模仿任何给定骰子的效果。当棋盘上满是骰子并且你不再开玩笑时，游戏结束。骰子可以通过获得高分组合来清除。有什么不喜欢的？
 
-[](https://armorgames.com/play/4283/lock-n-roll) [## 装甲游戏中的锁定滚动游戏
-
-### 锁-n-Roll，一款由 Armor Games 为您带来的免费在线益智技能游戏。摇滚是一个有趣的和…
-
-armorgames.com](https://armorgames.com/play/4283/lock-n-roll) ![](img/1ff6934a1877deeab79ee6e18fa2cd56.png)
+<https://armorgames.com/play/4283/lock-n-roll>  ![](img/1ff6934a1877deeab79ee6e18fa2cd56.png)
 
 作者图片
 
@@ -66,8 +62,4 @@ Ttest_indResult(statistic=-6.165806097995396, pvalue=7.170408706268266e-10)
 
 我打算最终创建这个应用程序的版本 2，但是现在，我要休息一下。如果您感兴趣，下面是包含所有代码的 GitHub 资源库。
 
-[](https://github.com/mikekeith52/LockNRoll) [## mikekeith52/LockNRoll
-
-### 用双深度 q 学习的强化学习来学习一个随机状态的博弈——Mike Keith 52/lockn roll
-
-github.com](https://github.com/mikekeith52/LockNRoll)
+<https://github.com/mikekeith52/LockNRoll> 

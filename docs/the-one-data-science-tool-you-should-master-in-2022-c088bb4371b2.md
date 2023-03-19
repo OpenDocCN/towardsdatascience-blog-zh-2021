@@ -66,12 +66,4 @@ DSS 正在接管世界:它最初是一家法国初创公司，现在总部位于
 
 **如果你喜欢这篇文章，你可能也会喜欢这些:**
 
-**[](/the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43) [## 数据科学家的终极课程列表
-
-### 数据科学最佳在线课程，按主题分类
-
-towardsdatascience.com](/the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43) [](/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) [## 我是如何通过 GCP 专业 ML 工程师认证的
-
-towardsdatascience.com](/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) 
-
-> 如果你想进一步讨论，请随时通过 [LinkedIn](https://www.linkedin.com/in/melloarthur/) 联系我，这将是我的荣幸(老实说)。**
+**</the-ultimate-list-of-courses-for-data-scientists-6ad615d6eb43>  </how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5>  联系我，这将是我的荣幸(老实说)。**

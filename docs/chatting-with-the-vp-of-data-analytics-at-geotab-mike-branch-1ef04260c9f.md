@@ -72,19 +72,11 @@ SQL。这可能看起来相对简单，但是数据科学家(在我看来)通常
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/chatting-with-a-data-expert-from-google-christina-stathopoulos-fd375823ece4) [## 与来自 Google 的数据专家 Christina Stathopoulos 聊天！
-
-### 谷歌人、兼职教授、ISDI 大学客座讲师、公共演说家和思想领袖！
-
-towardsdatascience.com](/chatting-with-a-data-expert-from-google-christina-stathopoulos-fd375823ece4) 
+</chatting-with-a-data-expert-from-google-christina-stathopoulos-fd375823ece4>  
 
 **还有一个:**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

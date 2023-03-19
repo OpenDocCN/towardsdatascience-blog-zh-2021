@@ -79,8 +79,4 @@ client = EodHistoricalData(api_key)
 
 ## **开源代码库**
 
-**[](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Stock-Market-Tutorials/Analyze-Fundamental-Data.ipynb) [## Medium-Misc-Tutorials/Analyze-Fundamental-data . ipynb at main Marcos an 93/Medium-Misc-Tutorials
-
-### 一组随机的中等教程。为 Marcos an 93/Medium-Misc-Tutorials 开发做出贡献，创建一个…
-
-github.com](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Stock-Market-Tutorials/Analyze-Fundamental-Data.ipynb)**
+**<https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Stock-Market-Tutorials/Analyze-Fundamental-Data.ipynb> **

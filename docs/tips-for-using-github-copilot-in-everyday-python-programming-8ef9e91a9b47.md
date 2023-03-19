@@ -88,8 +88,4 @@ Copilot 通过使用数据类型和上下文自动填充模式匹配类参数。
 
 如果你对 gif 上的字体设置感兴趣，可以看看我下面的文章，看看如何设置类似的样式。
 
-[](https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa) [## 让你的 Python 代码看起来很漂亮
-
-### 为什么 JavaScript 开发者应该享受所有的乐趣？
-
-python .平原英语. io](https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa)
+<https://python.plainenglish.io/make-your-python-code-look-pretty-c65dc2ff2bfa> 

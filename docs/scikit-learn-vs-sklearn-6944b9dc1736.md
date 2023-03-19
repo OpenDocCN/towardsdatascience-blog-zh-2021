@@ -99,16 +99,4 @@ ModuleNotFoundError: No module named 'scikit-learn'
 
 **你可能也会喜欢**
 
-[](/what-is-machine-learning-e67043a3a30c) [## 什么是机器学习
-
-### 讨论机器学习的学习方法、类型和实际应用
-
-towardsdatascience.com](/what-is-machine-learning-e67043a3a30c) [](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [## 如何用 Python 将数据集分割成训练集和测试集
-
-### 探索从建模数据集创建训练和测试样本的三种方法
-
-towardsdatascience.com](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f) [## Python scikit 中的 fit()vs predict()vs fit _ predict()-learn
-
-### sklearn 中的 fit，predict 和 fit_predict 方法有什么区别
-
-towardsdatascience.com](/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f)
+</what-is-machine-learning-e67043a3a30c>  </how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830>  </fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f> 

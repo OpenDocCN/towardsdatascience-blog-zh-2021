@@ -18,11 +18,7 @@
 
 你可以在诸如 Agrawal 等人的《预测机器》等书中找到更全面的决策分析。
 
-[](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670) [## 预测机器:人工智能的简单经济学
-
-### 预测机器:人工智能的简单经济学
-
-www.amazon.com](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670) 
+<https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670>  
 
 # 决策中的不确定性类型
 

@@ -185,11 +185,7 @@ get_residual_properties(model2a)
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://ngupta13.medium.com/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，* ***，我会收到你的一部分会员费，而不会给你带来额外的费用*** *。*
 
-[](https://ngupta13.medium.com/membership) [## 通过我的推荐链接加入 Medium—Nikhil Gupta
-
-### 阅读 Nikhil Gupta(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-ngupta13.medium.com](https://ngupta13.medium.com/membership) 
+<https://ngupta13.medium.com/membership>  
 
 # 📗资源
 

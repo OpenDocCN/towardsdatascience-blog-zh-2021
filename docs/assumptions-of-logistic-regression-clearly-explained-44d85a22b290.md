@@ -144,11 +144,7 @@
 
 *更重要的是，三个或更多变量之间可能存在共线性，即使没有一对变量被视为具有异常高的相关性。因此， **VIF 是评估多重共线性的更好方法。***
 
-*[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 以一杯咖啡的价格访问我所有的内容(和所有的媒体文章)!
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership)* 
+*<https://kennethleungty.medium.com/membership> * 
 
 # *假设 5——观察的独立性*
 
@@ -222,11 +218,7 @@ kennethleungty.medium.com](https://kennethleungty.medium.com/membership)*
 
 *欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的教育数据科学内容。同时，享受运行逻辑回归的乐趣！*
 
-*[](/why-bootstrapping-actually-works-1e75640cf172) [## 为什么自举真的有效
-
-### 一个简单的门外汉解释为什么这种流行的技术在数据科学中有意义](/why-bootstrapping-actually-works-1e75640cf172) [](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [## 用字符错误率(CER)和单词错误率(WER)评估 OCR 输出质量
-
-### 测量光学字符识别输出质量的关键概念、示例和 Python 实现](/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510) [](/the-dying-relu-problem-clearly-explained-42d0c54e0d24) [## 垂死的雷鲁问题，解释得很清楚
+*</why-bootstrapping-actually-works-1e75640cf172>  </the-dying-relu-problem-clearly-explained-42d0c54e0d24> [## 垂死的雷鲁问题，解释得很清楚
 
 ### 通过理解 ReLU 的缺点来保持你的神经网络的活力。](/the-dying-relu-problem-clearly-explained-42d0c54e0d24) 
 

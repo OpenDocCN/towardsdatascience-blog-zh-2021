@@ -38,19 +38,7 @@
 
 准备这样的采访需要很好地理解数据结构，时空复杂性，理解问题的能力，以及良好的时间管理技巧。以下是一些好的资源
 
-[](https://aqeel-anwar.medium.com/how-to-prepare-for-coding-interviews-8bdd16b09659) [## 如何准备编码面试？
-
-### 编码面试准备的时间表和资源指南。
-
-aqeel-anwar.medium.com](https://aqeel-anwar.medium.com/how-to-prepare-for-coding-interviews-8bdd16b09659) [](/how-to-answer-a-coding-interview-question-1613776358e) [## 如何回答一个编码面试问题？
-
-### 帮助您回答编码问题的分步指南。
-
-towardsdatascience.com](/how-to-answer-a-coding-interview-question-1613776358e) [](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) [## 编码面试的七(7)个基本数据结构和相关的常见问题
-
-### 用动画可视化的重要数据结构
-
-towardsdatascience.com](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) 
+<https://aqeel-anwar.medium.com/how-to-prepare-for-coding-interviews-8bdd16b09659>  </how-to-answer-a-coding-interview-question-1613776358e>  </seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290>  
 
 # 3.机器学习
 
@@ -62,11 +50,7 @@ towardsdatascience.com](/seven-7-essential-data-structures-for-a-coding-intervie
 
 **答:关于 ML 的深入课程:**如果你在学习期间没有正式参加过 ML 课程，我强烈建议你参加网上课程。在网上提供的各种课程中，我推荐吴恩达在 Coursera 上开设的机器学习课程。
 
-[](https://www.coursera.org/learn/machine-learning) [## 机器学习
-
-### 4，499，885 已注册机器学习是让计算机在没有明确…
-
-www.coursera.org](https://www.coursera.org/learn/machine-learning) 
+<https://www.coursera.org/learn/machine-learning>  
 
 **b .复习文章:**如果你已经上过这样的课程，那么浏览几篇关于 ML 的复习文章将非常有助于你深入理解 ML 主题。这类文章的一个小列表(10)可以在下面找到。
 
@@ -74,23 +58,11 @@ www.coursera.org](https://www.coursera.org/learn/machine-learning)
 
 c .面试问题范例:了解 ML 面试中通常会问些什么有助于衡量你的准备工作。下面可以找到这样的示例问题。确保在 做好准备后，再看一遍 ***。***
 
-[](https://www.interviewbit.com/machine-learning-interview-questions/) [## 机器学习面试问题
-
-### 这一页将指导你复习机器学习的技巧来破解面试。在这里，我们的重点将是…
-
-www.interviewbit.com](https://www.interviewbit.com/machine-learning-interview-questions/) [](https://www.springboard.com/blog/ai-machine-learning/machine-learning-interview-questions/) [## 51 个机器学习面试问题及答案|跳板
-
-### 机器学习面试问题是数据科学面试不可或缺的一部分，也是成为数据…
-
-www.springboard.com](https://www.springboard.com/blog/ai-machine-learning/machine-learning-interview-questions/) 
+<https://www.interviewbit.com/machine-learning-interview-questions/>  <https://www.springboard.com/blog/ai-machine-learning/machine-learning-interview-questions/>  
 
 **d .备忘单:**在面试前一天晚上准备好备忘单总是好的。下面是 ML 备忘单的链接
 
-[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+<https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f>  
 
 # 4.案例研究:
 
@@ -112,31 +84,11 @@ medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-
 
 以下是深入理解案例研究问题的良好资源
 
-[](https://workera.ai/resources/machine-learning-case-study-interview) [## 机器学习案例研究面试
-
-### 人工智能组织将他们的工作分为数据工程、建模、部署、业务分析和人工智能…
-
-workera.ai](https://workera.ai/resources/machine-learning-case-study-interview) 
+<https://workera.ai/resources/machine-learning-case-study-interview>  
 
 下面是这种开放式问题的一些例子
 
-[](https://www.productmanagementexercises.com/119/how-would-you-improve-google-maps) [## 你将如何改进谷歌地图| PM 练习
-
-### 首先，我想概述一下我对该产品的理解，以确保我完全理解所有重要的…
-
-www.productmanagementexercises.com](https://www.productmanagementexercises.com/119/how-would-you-improve-google-maps) [](https://www.productmanagementexercises.com/591/how-can-you-improve-facebook-stories) [## 你如何改进脸书的故事？下午练习
-
-### 我会专注于改善 FB 故事的新用户体验，并帮助用户了解这个功能，使用这个功能…
-
-www.productmanagementexercises.com](https://www.productmanagementexercises.com/591/how-can-you-improve-facebook-stories) [](https://www.productmanagementexercises.com/753/how-would-you-design-a-bicycle-renting-app-for-tourists) [## 你会如何为游客设计一款自行车租赁 app？下午练习
-
-### 目的是为游客设计一款自行车租赁 app。当地人和游客可以接送他们租来的自行车…
-
-www.productmanagementexercises.com](https://www.productmanagementexercises.com/753/how-would-you-design-a-bicycle-renting-app-for-tourists) [](https://www.productmanagementexercises.com/5080/how-would-you-measure-the-success-of-uber-ride) [## 你如何衡量优步莱德的成功？下午练习
-
-### 问:你如何衡量优步莱德的成功？
-
-www.productmanagementexercises.com](https://www.productmanagementexercises.com/5080/how-would-you-measure-the-success-of-uber-ride) 
+<https://www.productmanagementexercises.com/119/how-would-you-improve-google-maps>  <https://www.productmanagementexercises.com/591/how-can-you-improve-facebook-stories>  <https://www.productmanagementexercises.com/753/how-would-you-design-a-bicycle-renting-app-for-tourists>  <https://www.productmanagementexercises.com/5080/how-would-you-measure-the-success-of-uber-ride>  
 
 # 5.系统设计:
 
@@ -146,35 +98,11 @@ www.productmanagementexercises.com](https://www.productmanagementexercises.com/5
 
 1.  **组件和概念:**
 
-[](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/) [## 面试准备的 5 个常见系统设计概念
-
-### 在软件工程面试过程中，系统设计环节已经成为面试的标准环节。主要的…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/)  [## 系统设计基本概念
-
-### 在准备系统设计面试时，我试图涵盖基本概念、主题和细节…
-
-medium.com](https://medium.com/system-design-interview-question/system-design-fundamental-concepts-d1c4a1b488c1) [](/the-complete-guide-to-the-system-design-interview-ba118f48bdfc) [## 破解系统设计面试的完整指南
-
-### 回答任何系统设计问题的模板—所有附加资源的链接。
-
-towardsdatascience.com](/the-complete-guide-to-the-system-design-interview-ba118f48bdfc) 
+<https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/>    </the-complete-guide-to-the-system-design-interview-ba118f48bdfc>  
 
 **2。示例问题和解决方案**
 
-[](https://www.educative.io/blog/uber-backend-system-design) [## 设计优步后端:系统设计演练
-
-### 这个问题要求您创建一个拼车服务来匹配用户和司机。本教程将分解这个…
-
-www.educative.io](https://www.educative.io/blog/uber-backend-system-design) [](https://www.educative.io/blog/top-10-system-design-interview-questions) [## 软件工程师的 10 大系统设计面试问题
-
-### 系统设计面试是招聘过程中的一个重要因素。今天，我们探讨 SDI 的 10 大问题…
-
-www.educative.io](https://www.educative.io/blog/top-10-system-design-interview-questions) [](https://igotanoffer.com/blogs/tech/system-design-interviews) [## 破解系统设计访谈指南
-
-### 概述方法问题概念准备练习系统设计与前面试官一对一。了解更多。系统设计…
-
-igotanoffer.com](https://igotanoffer.com/blogs/tech/system-design-interviews) 
+<https://www.educative.io/blog/uber-backend-system-design>  <https://www.educative.io/blog/top-10-system-design-interview-questions>  <https://igotanoffer.com/blogs/tech/system-design-interviews>  
 
 # 总结:
 

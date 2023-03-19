@@ -287,11 +287,7 @@ bagging[图片由作者提供]
 
 # 进一步阅读:
 
-[](https://betterprogramming.pub/understanding-decision-trees-in-machine-learning-86d750e0a38f) [## 理解机器学习中的决策树
-
-### 决策树背后的数学以及如何使用 Python 和 sklearn 实现它们
-
-better 编程. pub](https://betterprogramming.pub/understanding-decision-trees-in-machine-learning-86d750e0a38f) 
+<https://betterprogramming.pub/understanding-decision-trees-in-machine-learning-86d750e0a38f>  
 
 *如果你喜欢看我的更多教程，就关注我的* [***中***](https://medium.com/@IndhumathyChelliah) ，[***LinkedIn***](https://www.linkedin.com/in/indhumathy-chelliah/)***，***[***Twitter***](https://twitter.com/IndhuChelliah)***。***
 

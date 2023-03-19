@@ -54,11 +54,7 @@
 
 要更深入地研究这 4 个指标，请阅读 [*混淆矩阵【未混淆】*](/confusion-matrix-un-confused-1ba98dee0d7f) 。
 
-[](/confusion-matrix-un-confused-1ba98dee0d7f) [## 混淆矩阵“未混淆”
-
-### 打破混乱矩阵
-
-towardsdatascience.com](/confusion-matrix-un-confused-1ba98dee0d7f) 
+</confusion-matrix-un-confused-1ba98dee0d7f>  
 
 **曲线下面积(AUC)**
 
@@ -66,11 +62,7 @@ AUC 通过捕捉在不同阈值下正确的阳性预测数和不正确的阳性�
 
 要更深入地了解这一指标，请查看对 AUC-ROC 曲线 的理解 [*。*](/comprehension-of-the-auc-roc-curve-e876191280f9)
 
-[](/comprehension-of-the-auc-roc-curve-e876191280f9) [## 理解 AUC-ROC 曲线
-
-### 深入了解 AUC-ROC…
-
-towardsdatascience.com](/comprehension-of-the-auc-roc-curve-e876191280f9) 
+</comprehension-of-the-auc-roc-curve-e876191280f9>  
 
 **平均倒数排名(MRR)**
 
@@ -128,16 +120,4 @@ Chiara Campagnola 写了一篇非常好的关于困惑评估指标的文章，�
 
 ## 相关文章
 
-[](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [## 深度学习可能还不是所有 NLP 任务的银弹
-
-### 为什么你仍然应该学习启发式和基于规则的方法
-
-towardsdatascience.com](/deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359) [](/never-forget-these-8-nlp-terms-a9716b4cccda) [## 永远不要忘记这 8 个 NLP 术语
-
-### 所有 NLP 爱好者都应该知道术语
-
-towardsdatascience.com](/never-forget-these-8-nlp-terms-a9716b4cccda) [](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c)
+</deep-learning-may-not-be-the-silver-bullet-for-all-nlp-tasks-just-yet-7e83405b8359>  </never-forget-these-8-nlp-terms-a9716b4cccda>  </5-ideas-for-your-next-nlp-project-c6bf5b86935c> 

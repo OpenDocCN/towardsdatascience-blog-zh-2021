@@ -336,11 +336,7 @@ schlkopf【Sch01】将 SVM 方法转化为只有一个类别的分类问题。[b
 
 如果您觉得这篇文章很有帮助，您还可以找到一篇关于用于*回归*的概念和算法的类似文章:
 
-[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) [## 7 最常用的回归算法以及如何选择正确的算法
-
-### 线性和多项式回归、RANSAC、决策树、随机森林、高斯过程和支持向量回归
-
-towardsdatascience.com](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) 
+</7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3>  
 
 如果您还不是中级高级会员并打算成为会员，您可以通过以下推荐链接注册来支持我:
 

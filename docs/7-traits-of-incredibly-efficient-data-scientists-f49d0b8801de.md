@@ -30,35 +30,15 @@
 
 **如何自动收集数据:**
 
-[](/four-basic-ways-to-automate-data-extraction-3151064dc110) [## 自动化数据提取的四种基本方法
-
-### 1.从哪里获取数据？
-
-towardsdatascience.com](/four-basic-ways-to-automate-data-extraction-3151064dc110) 
+</four-basic-ways-to-automate-data-extraction-3151064dc110>  
 
 **如何自动化数据清理:**
 
-[](/data-cleaning-is-finally-being-automated-8cc964ea2e12) [## 数据清理终于实现了自动化
-
-### 伊哈布·易勒雅斯在 TDS 播客上
-
-towardsdatascience.com](/data-cleaning-is-finally-being-automated-8cc964ea2e12) [](/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17) [## 通过无监督学习自动清理数据
-
-### 为您的 NLP 项目清理文本从未如此有趣和容易！
-
-towardsdatascience.com](/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17) [](/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd) [## 为机器学习消除数据清理的痛苦
-
-### …有了这四个 python 库
-
-towardsdatascience.com](/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd) 
+</data-cleaning-is-finally-being-automated-8cc964ea2e12>  </automate-data-cleaning-with-unsupervised-learning-2046ef59ac17>  </take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd>  
 
 **如何自动化代码检查:**
 
-[](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) [## 高效数据科学家的懒惰心态:自动化如何有所帮助
-
-### 在数据科学中利用 CI/CD 和自动化
-
-towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212) 
+</the-lazy-mindset-of-effective-data-scientists-how-automation-can-help-fbb48a9c9212>  
 
 # 2.他们用最简单的工具做这项工作。
 
@@ -72,15 +52,7 @@ towardsdatascience.com](/the-lazy-mindset-of-effective-data-scientists-how-autom
 
 **这里有一些资源可以帮助你为下一个数据科学项目选择最好的工具和算法:**
 
-[](/10-tools-i-use-to-streamline-my-data-science-learning-experience-1501ddef4f0) [## 我用来简化数据科学学习体验的 10 个工具
-
-### 这 10 个工具正在帮助我在 2021 年学习数据科学。
-
-towardsdatascience.com](/10-tools-i-use-to-streamline-my-data-science-learning-experience-1501ddef4f0) [](/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9) [## 如何为您的应用选择正确的机器学习算法
-
-### 倾听你的数据，追随你的目标…
-
-towardsdatascience.com](/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9) 
+</10-tools-i-use-to-streamline-my-data-science-learning-experience-1501ddef4f0>  </how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9>  
 
 # 3.它们遵循严格的编码结构。
 
@@ -96,15 +68,7 @@ towardsdatascience.com](/how-to-choose-the-right-machine-learning-algorithm-for-
 
 **这里有一些资源可以帮助你遵循最佳实践:**
 
-[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [## 数据科学家的软件工程最佳实践
-
-### 如何弥合数据科学和软件工程之间差距的速成课程。
-
-towardsdatascience.com](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [](/object-oriented-programming-for-data-scientists-8d4d976b6af8) [## 面向数据科学家的面向对象编程
-
-### 切换如何使您的代码可以投入生产，如何降低代码复杂性，以及如何提高团队效率。
-
-towardsdatascience.com](/object-oriented-programming-for-data-scientists-8d4d976b6af8) 
+</software-engineering-best-practices-for-data-scientists-4c199ede6e03>  </object-oriented-programming-for-data-scientists-8d4d976b6af8>  
 
 # 4.他们身边有一个团队可以帮助他们解决问题。
 
@@ -118,15 +82,7 @@ towardsdatascience.com](/object-oriented-programming-for-data-scientists-8d4d976
 
 **这里有一些资源可以帮助你开始建立更好的数据科学团队:**
 
-[](https://www.kdnuggets.com/2019/04/why-data-scientists-need-work-groups.html) [## 为什么数据科学家需要团队工作
-
-### 有些人实际上更喜欢独自工作。贸易学校网上有一篇非常有趣的文章…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2019/04/why-data-scientists-need-work-groups.html) [](/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) [## 组建数据科学团队的最有效方式是什么？
-
-### 从 2012 年到 2017 年，我有幸在 Coursera 从零开始建立数据和分析组织。在那之上…
-
-towardsdatascience.com](/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) 
+<https://www.kdnuggets.com/2019/04/why-data-scientists-need-work-groups.html>  </what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae>  
 
 # 5.他们留出时间来学习新的东西和完善自己。
 
@@ -146,19 +102,7 @@ towardsdatascience.com](/what-is-the-most-effective-way-to-structure-a-data-scie
 
 **这里有一些资源可以让你从文献综述、个人项目和 MOOCs 开始。**
 
-[](/why-read-papers-eb89386e348) [## 阅读论文如何帮助你成为更有效的数据科学家
-
-### “与其手动检查我们的数据，为什么不试试 LinkedIn 的做法呢？它帮助他们实现了 95%的精确度和 80%的…
-
-towardsdatascience.com](/why-read-papers-eb89386e348) [](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [## 我计划在 2021 年完成的 7 个数据科学项目
-
-### 我计划如何在年底前利用这些项目来提高我的数据科学技能。
-
-towardsdatascience.com](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [](/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12) [## 互联网上 20 大免费数据科学、ML 和 AI MOOCs
-
-### 以下是关于数据科学、机器学习、深度学习和人工智能的最佳在线课程列表
-
-towardsdatascience.com](/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12) 
+</why-read-papers-eb89386e348>  </the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f>  </top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12>  
 
 # 6.他们使用最佳的可视化方法来避免数据失真。
 
@@ -170,15 +114,7 @@ towardsdatascience.com](/top-20-free-data-science-ml-and-ai-moocs-on-the-interne
 
 **这里有一些资源可以帮助你理解不同类型的数据可视化以及何时使用它们:**
 
-[](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [## 数据可视化 101:如何选择图表类型
-
-### 如何选择最能描述数据的图表类型
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [](/data-visualization-how-to-choose-the-right-chart-part-1-d4c550085ea7) [## 数据可视化:如何选择正确的图表(第 1 部分)
-
-### 为您希望受众完成的任务选择正确的图形或图表样式。
-
-towardsdatascience.com](/data-visualization-how-to-choose-the-right-chart-part-1-d4c550085ea7) 
+</data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6>  </data-visualization-how-to-choose-the-right-chart-part-1-d4c550085ea7>  
 
 # 7.他们在编写任何代码或清除任何数据之前都会制定一个攻击计划。
 
@@ -194,15 +130,7 @@ towardsdatascience.com](/data-visualization-how-to-choose-the-right-chart-part-1
 
 **这里有一些资源可以帮助你写出更好的流程图和伪代码来提高你的编码效率:**
 
-[](/how-do-you-flowchart-code-908841b2459f) [## 你如何编写流程图代码？
-
-### 我是一个视觉型的人——我总是需要一张照片。
-
-towardsdatascience.com](/how-do-you-flowchart-code-908841b2459f) [](/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7) [## 伪代码 101:写好伪代码的介绍
-
-### 使其清晰、易于理解
-
-towardsdatascience.com](/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7) 
+</how-do-you-flowchart-code-908841b2459f>  </pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7>  
 
 # 奖金:8。他们优化日常工作流程。
 
@@ -221,11 +149,7 @@ towardsdatascience.com](/pseudocode-101-an-introduction-to-writing-good-pseudoco
 
 **这里有一个很好的资源，可以让你更深入地了解时间块、任务批处理和日主题化:**
 
-[](https://todoist.com/productivity-methods/time-blocking) [## 时间阻塞完全指南
-
-### “我估计，一周 40 个小时的工作时间和一周 60 多个小时的工作时间产生的产出是一样的……
-
-todoist.com](https://todoist.com/productivity-methods/time-blocking) 
+<https://todoist.com/productivity-methods/time-blocking>  
 
 # 最后的想法。
 

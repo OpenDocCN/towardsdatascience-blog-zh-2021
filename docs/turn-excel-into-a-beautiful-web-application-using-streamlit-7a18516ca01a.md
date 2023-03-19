@@ -40,11 +40,7 @@ excel 和数据科学项目存在的问题是**缺乏一种简单的方式来呈
 
 我们将使用 Kaggle 的《2021 年世界幸福报告》*作为本文的数据集，请随意下载:*
 
-*[](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021) [## 2021 年世界幸福报告
-
-### 世界幸福报告
-
-2021 世界幸福 Reportwww.kaggle.com](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021) 
+*<https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021>  
 
 通过 pip 安装安装 Streamlit
 
@@ -269,19 +265,15 @@ enableCORS = false\n\
 
 *如果您对 excel 自动化感兴趣，这篇文章是必读的:*
 
-*[](/automate-excel-with-python-7c0e8c7c6256) [## 使用 Python 自动化 Excel
+*</automate-excel-with-python-7c0e8c7c6256> [## 使用 Python 自动化 Excel
 
 towardsdatascience.com](/automate-excel-with-python-7c0e8c7c6256) 
 
 我的其他文章包括:
 
-[](/automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293) [## 5 分钟内自动完成谷歌表单报告
+</automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293> [## 5 分钟内自动完成谷歌表单报告
 
-towardsdatascience.com](/automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293) [](/predicting-hepatitis-patient-survivability-uci-dataset-71982aa6775d) [## 预测肝炎患者存活率(UCI 数据集)
-
-### 探讨 ML 模型中平衡数据和非平衡数据的作用
-
-towardsdatascience.com](/predicting-hepatitis-patient-survivability-uci-dataset-71982aa6775d) 
+towardsdatascience.com](/automate-google-sheet-reporting-in-5-minutes-8bbdc1f8e293) </predicting-hepatitis-patient-survivability-uci-dataset-71982aa6775d>  
 
 # 参考资料:
 

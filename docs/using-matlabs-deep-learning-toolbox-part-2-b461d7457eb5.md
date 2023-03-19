@@ -14,11 +14,7 @@
 
 如果您想回顾第 1 部分，这里有该文章的链接:
 
-[](/using-matlabs-deep-learning-toolbox-part-1-predicting-cancer-malignancy-using-shallow-neural-68daa7b34981) [## 使用 MATLAB 的深度学习工具箱|第 1 部分:使用浅层神经预测癌症恶性程度…
-
-### 深度学习入门实用指南
-
-towardsdatascience.com](/using-matlabs-deep-learning-toolbox-part-1-predicting-cancer-malignancy-using-shallow-neural-68daa7b34981) 
+</using-matlabs-deep-learning-toolbox-part-1-predicting-cancer-malignancy-using-shallow-neural-68daa7b34981>  
 
 在本文中，我们将在 MATLAB 内置的同一个[乳腺癌威斯康星州(诊断)数据集](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))上训练一个深度前馈神经网络。
 
@@ -40,7 +36,7 @@ MATLAB 不会付钱让我(叫我 MathWorks)去检查他们的工具箱。但是�
 
 如果你想知道为什么我认为 MATLAB 是从非编程背景开始学习数据科学的编程语言，你可以阅读我写的这篇文章:
 
-[](/why-i-chose-matlab-for-learning-data-science-4f5e4650dce9) [## 为什么我选择 MATLAB 学习数据科学
+</why-i-chose-matlab-for-learning-data-science-4f5e4650dce9> [## 为什么我选择 MATLAB 学习数据科学
 
 towardsdatascience.com](/why-i-chose-matlab-for-learning-data-science-4f5e4650dce9) 
 

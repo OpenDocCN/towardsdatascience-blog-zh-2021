@@ -118,12 +118,4 @@
 
 ********欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，祝你训练 ML 模型愉快！********
 
-******[](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现许多数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [](/free-resources-for-generating-realistic-fake-data-da63836be1a8) [## 用于生成真实假数据的免费资源
-
-### 零成本地为您的数据科学项目生成模拟和虚拟数据
-
-towardsdatascience.com](/free-resources-for-generating-realistic-fake-data-da63836be1a8)******
+******</the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96>  </free-resources-for-generating-realistic-fake-data-da63836be1a8> ******

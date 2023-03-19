@@ -10,11 +10,7 @@
 
 在这篇文章中，我将解释如何对现有的 [Flask](https://flask.palletsprojects.com/en/1.1.x/) 应用程序进行 Dockerize。我将使用我的一个 Python [项目](https://github.com/lifeparticle/python-flask)进行演示。通过使用 Dockerized Flask 应用程序，其他开发人员可以轻松地运行该项目，而无需任何环境管理，这对于节省时间和精力来说非常重要。而且，开发者可以专注于开发。如果你是 Docker 的新手，那么阅读下面的帖子，我在那里介绍了一些基础知识。
 
-[](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) [## 如何在 Docker 容器中挂载目录
-
-### 专注于编写代码，无需担心环境管理
-
-towardsdatascience.com](/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b) 
+</how-to-mount-a-directory-inside-a-docker-container-4cee379c298b>  
 
 # 设置
 
@@ -82,8 +78,4 @@ if __name__ == '__main__':
 
 # 相关帖子
 
-[](/how-to-run-a-python-script-using-a-docker-container-ea248e618e32) [## 如何使用 Docker 容器运行 Python 脚本
-
-### 轻松运行 Python
-
-towardsdatascience.com](/how-to-run-a-python-script-using-a-docker-container-ea248e618e32)
+</how-to-run-a-python-script-using-a-docker-container-ea248e618e32> 

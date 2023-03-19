@@ -193,11 +193,7 @@ python3 main.py
 
 ## 项目回购
 
-[](https://github.com/kinivi/tello-gesture-control.git) [## kinivi/tello 手势控制
-
-### 这个项目的主要目标是在没有任何手套或附加设备的情况下使用手势控制无人机…
-
-github.com](https://github.com/kinivi/tello-gesture-control.git) 
+<https://github.com/kinivi/tello-gesture-control.git>  
 
 ## 参考
 

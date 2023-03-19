@@ -12,19 +12,11 @@
 
 用熊猫管理大型数据集是一个相当常见的问题。因此，开发了许多库和工具来减轻这种痛苦。以下面提到的 pydatatable 库为例。
 
-[](/using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7) [## 在 Kaggle 上无缝使用 Python 的数据表库
-
-### 在 Kaggle 上管理大型数据集，无需担心内存不足的错误
-
-towardsdatascience.com](/using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7) 
+</using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7>  
 
 尽管如此，还是有一些技巧和提示可以在一定程度上帮助我们解决熊猫的记忆问题。他们可能不会提供最好的解决方案，但这些技巧有时会被证明是方便的。因此，了解他们没有坏处。在我以前的一篇文章中，我谈到了在 pandas 中加载大型数据集的两种替代方法。
 
-[](/loading-large-datasets-in-pandas-11bdddd36f7b) [## 在 Pandas 中加载大型数据集
-
-### 有效地使用分块和 SQL 来读取 pandas 中的大型数据集。🐼
-
-towardsdatascience.com](/loading-large-datasets-in-pandas-11bdddd36f7b) 
+</loading-large-datasets-in-pandas-11bdddd36f7b>  
 
 这些技术是:
 

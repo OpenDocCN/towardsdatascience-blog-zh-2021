@@ -40,14 +40,6 @@ ResNet-18 结果
 
 你喜欢这篇文章吗？我希望这有助于展示机器学习如何用于医学预测。如果你喜欢它，请跟随并查看我的其他文章，如[这篇](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db)我运行了一些 GPU 性能测试！
 
-[](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db) [## 深度学习预算:450 美元 eGPU vs 谷歌 Colab
-
-### Colab 对于开始深度学习来说是非凡的，但它如何与 eGPU +超极本相抗衡？
-
-towardsdatascience.com](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db) [](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2) [## 建立一个基于预算新闻的算法交易者？那么你需要很难找到的数据
-
-### 创建一个零美元的算法交易者，分析免费的 API，数据集和网页抓取器。
-
-towardsdatascience.com](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2) 
+</deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db>  </building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2>  
 
 没有我的队友:安德鲁·马蒙、德万什·辛格、帕拉维·米斯拉和里什·古尔纳尼，这篇文章是不可能完成的

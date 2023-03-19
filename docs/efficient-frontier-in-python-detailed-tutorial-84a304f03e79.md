@@ -74,10 +74,6 @@ Markowitz 专注于投资组合构建方面，将预测未来表现的更具投�
 
 使用这种抽样技术，我们可以很快地沿着有效边界对投资组合进行抽样。一些早期的投资组合样本在有效边界以下清晰可见；然而，这可以很容易地通过在某次迭代后增加投资组合来补救(类似于 MCMC 中的“磨合期”的想法)。
 
-[](https://medium.com/@riandolphin/membership) [## 通过我的推荐链接加入灵媒-海豚
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@riandolphin/membership) 
+<https://medium.com/@riandolphin/membership>  
 
 对于那些走到这一步的人，感谢你的阅读！请随时在下面的评论中提出任何*问题。Jupyter 笔记本形式的**全部代码**可以在这里查看[。也可以从我的](https://nbviewer.jupyter.org/github/rian-dolphin/Efficient-Frontier-Python/blob/main/Markowitz.ipynb) [Github](https://github.com/rian-dolphin/Efficient-Frontier-Python) 下载使用的数据和笔记本。*

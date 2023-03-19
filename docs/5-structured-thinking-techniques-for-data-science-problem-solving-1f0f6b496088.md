@@ -12,7 +12,7 @@
 
 由于专业知识水平不同，每位数据科学家解决问题的方式也会略有不同。毕竟，你建立的项目越多，你解决未来问题的知识就越多。但是，无论您是否是初学者，并且正在寻找更有效的方法来解决问题，那么这篇文章就是为您准备的。
 
-[](/10-skills-of-a-successful-data-scientist-be05a72d3aec) [## 成功数据科学家的 10 项技能
+</10-skills-of-a-successful-data-scientist-be05a72d3aec> [## 成功数据科学家的 10 项技能
 
 towardsdatascience.com](/10-skills-of-a-successful-data-scientist-be05a72d3aec) 
 
@@ -41,7 +41,7 @@ towardsdatascience.com](/10-skills-of-a-successful-data-scientist-be05a72d3aec)
 
 我最喜欢这个简单技术的部分是，根据你试图解决的具体问题来改变它是多么容易。你可以在这里阅读更多关于这项技术的内容[。](/https://www.uapb.edu/sites/www/Uploads/Assessment/webinar/session%203/NewFolder/6%20Step%20Problem%20Solving%20Process.pdf)
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -59,11 +59,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 这一过程中的八个原则中的每一个都是为了让你离找到问题的完美解决方案更近一步。所以，在你得到了你的问题的先决条件之后，你就可以遵循这八大纪律 D1~D8。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 1.  D1:组建你的团队。拥有一个拥有解决项目所需技能的团队可以让项目进展更容易。
 2.  D2:定义问题。使用可量化的术语描述问题，如谁、什么、哪里、何时、为什么和如何。
@@ -92,11 +88,7 @@ Cynefin 框架可以被认为是一种更高层次的方法，因为它要求你
 
 你可以点击阅读关于 Cynefin 方法[的更多深入知识。](https://www.mindtools.com/pages/article/cynefin-framework.htm)
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # **№5:5 个为什么的技巧**
 
@@ -112,10 +104,6 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 但是，为了能够分解一个问题，你需要完全理解它，并且知道它的预期最终结果。最好和最有效的方法之一是通过结构化思考。此外，结构化思维是一个灵活的框架，任何人都可以使用它来使解决非结构化问题的过程更加顺畅。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 在本文中，我们介绍了 5 种不同的结构化思考技巧，您可以用它们来更高效地解决下一个数据科学问题。所以，如果你以前没有尝试过，试一试，看看哪种技巧最适合你解决问题的常规。

@@ -177,30 +177,14 @@ CREATE QUERY heapQueryFive(STRING account_id) FOR GRAPH AMLSim {
 
 这篇博客使用了来自 GitHub 知识库的数据集:
 
-[](https://github.com/TigerGraph-DevLabs/AMLSim_Python_Lab) [## tiger graph-dev labs/AML sim _ Python _ Lab
-
-### 在 GitHub 上创建一个帐户，为 tiger graph-dev labs/AML sim _ Python _ Lab 开发做贡献。
-
-github.com](https://github.com/TigerGraph-DevLabs/AMLSim_Python_Lab) 
+<https://github.com/TigerGraph-DevLabs/AMLSim_Python_Lab>  
 
 该博客使用了来自 TigerGraph 在 ListAccum 和 HeapAccum 上的文档的信息:
 
-[](https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#listaccum) [## 累加器
-
-### 有许多不同类型的累加器，每一种都提供特定的累加功能。累加器是…
-
-docs.tigergraph.com](https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#listaccum) [](https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#heapaccum) [## 累加器
-
-### 有许多不同类型的累加器，每一种都提供特定的累加功能。累加器是…
-
-docs.tigergraph.com](https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#heapaccum) 
+<https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#listaccum>  <https://docs.tigergraph.com/dev/gsql-ref/querying/accumulators#heapaccum>  
 
 最后，如果您有任何问题或想要了解更多信息，请随时加入 TigerGraph Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 572 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 非常感谢您阅读这篇博客，希望您以后继续使用 TigerGraph！

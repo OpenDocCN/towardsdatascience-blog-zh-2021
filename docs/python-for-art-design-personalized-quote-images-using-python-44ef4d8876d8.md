@@ -153,12 +153,4 @@ bg_image.save("marilyn_quote_on_image.jpg")
 
 ## 为您的艺术项目提供 Python 实践
 
-[](/building-an-image-color-analyzer-using-python-12de6b0acf74) [## 使用 Python 构建图像颜色分析器
-
-### 使用 Scikit-learn 和 OpenCV 的机器学习项目
-
-towardsdatascience.com](/building-an-image-color-analyzer-using-python-12de6b0acf74) [](/python-for-art-fast-neural-style-transfer-using-tensorflow-2-d5e7662061be) [## Python for Art 使用 TensorFlow 2 进行快速神经风格转换
-
-### 用神经网络在几毫秒内创建迷人的照片
-
-towardsdatascience.com](/python-for-art-fast-neural-style-transfer-using-tensorflow-2-d5e7662061be)
+</building-an-image-color-analyzer-using-python-12de6b0acf74>  </python-for-art-fast-neural-style-transfer-using-tensorflow-2-d5e7662061be> 

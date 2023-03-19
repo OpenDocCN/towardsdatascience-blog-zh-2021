@@ -80,8 +80,4 @@
 
 让我们将生成器和鉴别器结合起来，开始训练模型。
 
-[](/training-generative-adversarial-network-with-codes-2a6af80cf1f0) [## 训练生成性对抗网络(提供代码)
-
-### 打造您的 GAN 系列——第 4 部分，共 4 部分
-
-towardsdatascience.com](/training-generative-adversarial-network-with-codes-2a6af80cf1f0)
+</training-generative-adversarial-network-with-codes-2a6af80cf1f0> 

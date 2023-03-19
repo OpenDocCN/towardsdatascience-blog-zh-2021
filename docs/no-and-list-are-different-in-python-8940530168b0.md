@@ -120,10 +120,6 @@ from dis import disdis("[]")dis("list()")
 
 研究这样一个无关紧要的问题，这大概是在白费力气。然而，吹毛求疵有时能使我们发现更多的知识，这些知识可能在其他方面有所帮助。
 
-[](https://medium.com/@qiuyujx/membership) [## 阅读克里斯托弗·陶的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击以上链接)

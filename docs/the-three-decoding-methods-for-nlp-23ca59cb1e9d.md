@@ -92,10 +92,6 @@ O 自然语言处理(NLP)中序列生成的一个经常被忽视的部分是我�
 
 如果您对学习如何在 Python 中建立文本生成模型感兴趣，我写了这篇短文，介绍如何在这里建立:
 
-[](/text-generation-with-python-and-gpt-2-1fecbff1635b) [## 用 Python 和 GPT-2 生成文本
-
-### 如何在 Python 中应用前沿语言生成
-
-towardsdatascience.com](/text-generation-with-python-and-gpt-2-1fecbff1635b) 
+</text-generation-with-python-and-gpt-2-1fecbff1635b>  
 
 **除非另有说明，所有图片均出自作者之手*

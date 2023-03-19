@@ -12,11 +12,7 @@
 
 PyTorch Lightning Flash 是 PyTorch Lightning 的创作者提供的一个新库，可以在几分钟内对新数据集的最新深度学习任务进行快速基线化。
 
-[](https://github.com/PyTorchLightning/lightning-flash) [## 手电筒光/闪电
-
-### 阅读我们的发布博客 Pip/conda Pip install lightning-flash-U Pip from source Pip install…
-
-github.com](https://github.com/PyTorchLightning/lightning-flash) 
+<https://github.com/PyTorchLightning/lightning-flash>  
 
 与 PyTorch Lightning 摆脱样板文件的目标一致，Flash 旨在使其易于训练、推理和微调深度学习模型。
 

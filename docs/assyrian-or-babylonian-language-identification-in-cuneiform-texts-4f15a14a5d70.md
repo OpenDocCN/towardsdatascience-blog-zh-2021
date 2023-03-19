@@ -18,7 +18,7 @@
 
 古代美索不达米亚地图。来源: [Goran tek-en](https://commons.wikimedia.org/wiki/File:N-Mesopotamia_and_Syria_english.svg) ，维基共享
 
-本文的目的是展示如何编写一个简单的定制语言模型来识别楔形文字文本中的美索不达米亚语言和方言。为此，我们使用来自 Kaggle data challenge 的数据集[](https://www.kaggle.com/wilstrup/cuneiform-language-identification)**识别楔形文字。*该数据集包含大约 139，000 个楔形文字片段，还提供了语言或方言标签。有七个标签，包括[夏季语](https://en.wikipedia.org/wiki/Sumerian_language) (SUX)，一种孤立的语言，以及[阿卡德语](https://en.wikipedia.org/wiki/Akkadian_language)的六种方言:新亚述语(NEA)，标准巴比伦语(STB)，晚期巴比伦语(LTB)，新巴比伦语(NEB)，中巴比伦外围语(MPB)，以及旧巴比伦语(OLB)。*
+本文的目的是展示如何编写一个简单的定制语言模型来识别楔形文字文本中的美索不达米亚语言和方言。为此，我们使用来自 Kaggle data challenge 的数据集<https://www.kaggle.com/wilstrup/cuneiform-language-identification>**识别楔形文字。*该数据集包含大约 139，000 个楔形文字片段，还提供了语言或方言标签。有七个标签，包括[夏季语](https://en.wikipedia.org/wiki/Sumerian_language) (SUX)，一种孤立的语言，以及[阿卡德语](https://en.wikipedia.org/wiki/Akkadian_language)的六种方言:新亚述语(NEA)，标准巴比伦语(STB)，晚期巴比伦语(LTB)，新巴比伦语(NEB)，中巴比伦外围语(MPB)，以及旧巴比伦语(OLB)。*
 
 *如果你想知道这些字符的样子，下面的图片显示了我们的数据集的一个样本。很漂亮，对吧？*
 

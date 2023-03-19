@@ -26,11 +26,7 @@ MkDocs 使用一个配置文件`mkdocs.yml`，在这里你可以启用上面安�
 
 以前，我写过关于编写 docstrings 的重要性的文章，重点是 Sphinx 文档。
 
-[](https://betterprogramming.pub/the-guide-to-python-docstrings-3d40340e824b) [## 开始编写 Python 文档字符串
-
-### 简化你的生活和任何试图阅读你的代码的人的生活
-
-better 编程. pub](https://betterprogramming.pub/the-guide-to-python-docstrings-3d40340e824b) 
+<https://betterprogramming.pub/the-guide-to-python-docstrings-3d40340e824b>  
 
 文档字符串是记录函数的重要工具。Python 3.5+引入了[类型提示](https://docs.python.org/3/library/typing.html)，这是一种直接在函数参数中将静态类型赋给变量的方法。
 
@@ -44,11 +40,7 @@ Pycharm(几乎)自动生成文档字符串
 
 对自动化文档字符串的类型提示感兴趣吗？阅读下面的故事👇
 
-[](/python-type-hints-docstrings-7ec7f6d3416b) [## Python 类型提示和文档字符串
-
-### 在 Google 风格的文档字符串中自动插入 Python 的类型提示(3.5+)中的变量类型。
-
-towardsdatascience.com](/python-type-hints-docstrings-7ec7f6d3416b) 
+</python-type-hints-docstrings-7ec7f6d3416b>  
 
 # 将文档字符串自动转换为 MkDocs
 
@@ -99,11 +91,7 @@ version: masterpages:
 
 我们的最后一步是将每个自动化步骤添加到`pre-commit-config.yaml`中的 Git 挂钩中。关于预提交 Git 钩子的更多信息，请见下面的文章👇
 
-[](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) [## 在 Python 中自动化干净代码的 4 个技巧
-
-### 通过这些林挺和格式化工具，使用预提交 Git 挂钩来自动化 Python 代码样式
-
-better 编程. pub](https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e) 
+<https://betterprogramming.pub/4-tips-to-automate-clean-code-in-python-527f59b5fe4e>  
 
 我们将自动生成 MkDocs 页面的两个强制步骤与预提交 Git 挂钩中的`mkgendocs`包一起添加。这些钩子允许我们用一个`entry` bash 命令执行一个 Python 脚本。
 
@@ -125,8 +113,4 @@ better 编程. pub](https://betterprogramming.pub/4-tips-to-automate-clean-code-
 
 寻找更多 Python 干净的编码技巧？在这里找到他们👇
 
-[](https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f) [## 用 Python 清理代码的七个技巧
-
-### 以下是我作为数据科学家在工作中每天使用的七个技巧和代码片段。
-
-medium.com](https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f)
+<https://medium.com/analytics-vidhya/seven-tips-to-clean-code-with-python-24930d35927f> 

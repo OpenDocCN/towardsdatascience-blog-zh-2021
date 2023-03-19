@@ -387,8 +387,4 @@ HITS 算法从一个根或一组高度相关的节点(潜在的权威)开始。�
 
 ## 您可以在这里找到本系列的第 2 部分:
 
-[](/graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea) [## 用 Python 进行图机器学习第 2 部分:随机图和密码扩散模型…
-
-### 通过图形模拟和建模密码朋克交易数据
-
-towardsdatascience.com](/graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea)
+</graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea> 

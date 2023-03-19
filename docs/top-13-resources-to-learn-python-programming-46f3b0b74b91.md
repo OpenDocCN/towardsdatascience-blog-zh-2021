@@ -20,19 +20,7 @@
 
 ****查看一些关于 Python 的有趣文章—****
 
-**[](https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/) [## 2020 年大一新生热门 Python 面试问答
-
-### 这里列出了大一新生最常被问到的 python 面试问题和答案，涵盖了核心…
-
-blog.digitalogy.co](https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/) [](/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c) [## 你必须知道的 12 项 Python 开发者技能
-
-### Python 开发人员必备的顶级技能
-
-towardsdatascience.com](/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c) [](/top-10-trending-python-projects-on-github-fb852cd58262) [## GitHub 上十大热门 Python 项目
-
-### 像这样的 GitHub 项目是人们创造力和才华的完美展示
-
-towardsdatascience.com](/top-10-trending-python-projects-on-github-fb852cd58262) 
+**<https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/>  </top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c>  </top-10-trending-python-projects-on-github-fb852cd58262>  
 
 # 学习 Python 编程的顶级网站
 
@@ -52,11 +40,7 @@ towardsdatascience.com](/top-10-trending-python-projects-on-github-fb852cd58262)
 
 **对于有 Python 经验的开发人员来说，**他们会发现网站上充满了方便获取的深入的参考资料，**比如指南、书籍和常见问题解答**。包含的帮助部分也使每个人更容易找到东西。
 
-[](/python-books-you-must-read-in-2020-a0fc33798bb) [## 2020 年必读的 Python 书籍
-
-### 看看吧，你为什么要读它们？
-
-towardsdatascience.com](/python-books-you-must-read-in-2020-a0fc33798bb) 
+</python-books-you-must-read-in-2020-a0fc33798bb>  
 
 # 2.学习 Python.org
 
@@ -68,11 +52,7 @@ towardsdatascience.com](/python-books-you-must-read-in-2020-a0fc33798bb)
 
 你可能会惊讶地知道， **Ron Reiter，**learnpython.org 的创造者，同样涵盖了很多面向初学者的编程语言，比如 [Java](https://www.java.com/en/) ，HTML，C， [JavaScript](https://www.javascript.com/) ， [PHP](https://www.php.net/) 等等。
 
-[](/10-cool-python-project-ideas-for-python-developers-7953047e203) [## 给 Python 开发者的 10 个很酷的 Python 项目想法
-
-### 您可以使用 Python 构建的有趣想法和项目列表
-
-towardsdatascience.com](/10-cool-python-project-ideas-for-python-developers-7953047e203) 
+</10-cool-python-project-ideas-for-python-developers-7953047e203>  
 
 # 3.面向初学者的 Python
 
@@ -84,11 +64,7 @@ towardsdatascience.com](/10-cool-python-project-ideas-for-python-developers-7953
 
 如果您觉得您已经牢牢掌握了网站上列出的主题，为什么不试试他们的 Python 代码示例部分，并评估您的立场呢？
 
- [## Python 代码示例-PythonForBeginners.com
-
-### 这个页面包含了我们到目前为止在网站上发布的所有 Python 脚本。使用 pywhois 的例子 pywhois 是一个 Python…
-
-www.pythonforbeginners.com](https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples) 
+  
 
 # 4.一个字节的 Python
 
@@ -98,11 +74,7 @@ www.pythonforbeginners.com](https://www.pythonforbeginners.com/code-snippets-sou
 
 每个主题都有一个简单的介绍，一个示例程序，它的输出，以及它工作背后的详细解释。尽管该网站面向 Python 新手，但有经验的 Python 开发人员也可以使用该网站从新的角度重温基本概念。
 
-[](/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24) [## 2020 年你必须使用的最好的 Python IDEs 和代码编辑器
-
-### 具有显著特性的顶级 Python IDEs 和代码编辑器
-
-towardsdatascience.com](/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24) 
+</best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24>  
 
 # 5.牛逼的 Python
 
@@ -114,15 +86,7 @@ Python 的多功能性使其成为创建各种强大解决方案的完美编程�
 
 Vinta Chen 的 GitHub repo 包含了 Python 基本组件、库、工具等的详尽列表，比如构建工具、管理面板、数据分析工具、调试工具、图像处理工具、测试工具、RESTful APIs 等等。这个列表很长，我们强烈建议 Python 开发人员将这个 GitHub repo 加入书签，以便为他们的下一个项目快速找到合适的组件。
 
-[](/top-11-github-repositories-to-learn-python-e75e8676757a) [## 学习 Python 的 11 大 Github 库
-
-### 学习 Python 的流行 GitHub 库
-
-towardsdatascience.com](/top-11-github-repositories-to-learn-python-e75e8676757a) [](/best-python-libraries-for-every-python-developer-77daab4fa40e) [## 每个 Python 开发者的最佳 Python 库
-
-### 开发人员应该在他们的项目中使用的 Python 库。
-
-towardsdatascience.com](/best-python-libraries-for-every-python-developer-77daab4fa40e) 
+</top-11-github-repositories-to-learn-python-e75e8676757a>  </best-python-libraries-for-every-python-developer-77daab4fa40e>  
 
 # 6.谷歌的 Python 类
 
@@ -136,11 +100,7 @@ towardsdatascience.com](/best-python-libraries-for-every-python-developer-77daab
 
 **查看顶级谷歌人工智能工具—**
 
-[](/top-google-ai-tools-for-everyone-60346ab7e08) [## 面向所有人的顶级谷歌人工智能工具
-
-### 使用谷歌人工智能中心将想法变为现实
-
-towardsdatascience.com](/top-google-ai-tools-for-everyone-60346ab7e08) 
+</top-google-ai-tools-for-everyone-60346ab7e08>  
 
 # 7.蟒蛇斑
 
@@ -152,15 +112,7 @@ towardsdatascience.com](/top-google-ai-tools-for-everyone-60346ab7e08)
 
 除了基础知识之外，Python Spot 还涵盖了各种各样的教程来帮助您使用数据库、 [**web 开发**](https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/) 、GUI 开发、HTTP 客户端和服务器网络、图形绘制、游戏开发等等。
 
-[](/10-world-class-companies-using-python-26cde24919a8) [## 10 家使用 Python 的世界级公司
-
-### Python 正被 IT 界的一些巨头积极使用
-
-towardsdatascience.com](/10-world-class-companies-using-python-26cde24919a8) [](/top-python-libraries-for-data-science-c226dc74999b) [## 面向数据科学的顶级 Python 库
-
-### 面向数据科学的流行 Python 库概述
-
-towardsdatascience.com](/top-python-libraries-for-data-science-c226dc74999b) 
+</10-world-class-companies-using-python-26cde24919a8>  </top-python-libraries-for-data-science-c226dc74999b>  
 
 # 8.Python 的搭便车指南
 
@@ -172,15 +124,7 @@ towardsdatascience.com](/top-python-libraries-for-data-science-c226dc74999b)
 
 为了提高 Python 代码的质量，该网站有一个专门的部分，为构建、测试、记录和有效记录您的项目提供有价值的提示。
 
-[](/top-10-python-gui-frameworks-for-developers-adca32fbe6fc) [## 面向开发者的 10 大 Python GUI 框架
-
-### 构建交互式 GUI 的最佳 Python GUI 框架
-
-towardsdatascience.com](/top-10-python-gui-frameworks-for-developers-adca32fbe6fc) [](https://medium.com/analytics-vidhya/top-8-python-tools-for-app-development-df63bd127cf2) [## 应用开发的 8 大 Python 工具
-
-### 每个现代应用开发者都应该知道的工具。
-
-medium.com](https://medium.com/analytics-vidhya/top-8-python-tools-for-app-development-df63bd127cf2) 
+</top-10-python-gui-frameworks-for-developers-adca32fbe6fc>  <https://medium.com/analytics-vidhya/top-8-python-tools-for-app-development-df63bd127cf2>  
 
 # 9.深入研究 Python 3
 
@@ -206,15 +150,7 @@ medium.com](https://medium.com/analytics-vidhya/top-8-python-tools-for-app-devel
 
 该网站提供了 Python 中各种主题的教程，这些主题与 web 应用程序开发、应用程序部署、DevOps 等相关。它还介绍了其他几个有用的主题，如开发环境、使用数据库、测试技术、API、数据分析和可视化。
 
-[](/top-16-python-applications-in-real-world-a0404111ac23) [## 现实世界中的 16 大 Python 应用
-
-### 看看 Python 在现实世界中的各种应用
-
-towardsdatascience.com](/top-16-python-applications-in-real-world-a0404111ac23) [](https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/) [## 2020 年 Web 开发的 10 个最佳 Python 框架
-
-### 最近一次更新是在 Claire D .上。这些年来，Python 已经成为…
-
-blog.digitalogy.co](https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/) 
+</top-16-python-applications-in-real-world-a0404111ac23>  <https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/>  
 
 # 11.真正的 Python
 
@@ -226,11 +162,7 @@ blog.digitalogy.co](https://blog.digitalogy.co/best-python-frameworks-for-web-de
 
 无论您是学习 Python 的学生、中级开发人员还是专业开发人员，Real Python 都为您提供了所有合适的学习途径，可以让您迅速掌握 Python。
 
-[](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA) [## 真正的 Python
-
-### 超越基础的 Python 教程和培训视频。🎓🐍获取免费的 Python 技巧和…
-
-www.youtube.com](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA) 
+<https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA>  
 
 # 12.Python 大师
 
@@ -252,15 +184,7 @@ www.youtube.com](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 
 尽管该网站因其播客而闻名，但该平台也提供有益的在线视频课程，但请记住，这些课程是有偿的。
 
-[](https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A) [## 谈论 Python
-
-### “与我谈论 Python”是由迈克尔·肯尼迪主持的每周播客。该节目还涵盖了大量的 Python 主题…
-
-www.youtube.com](https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A) [](/top-8-python-podcasts-you-should-be-listening-to-f3bf07974486) [## 你应该听的八大 Python 播客
-
-### 几个最好的 Python 播客，可以给你一个基于现实世界问题的更实际的学习体验。
-
-towardsdatascience.com](/top-8-python-podcasts-you-should-be-listening-to-f3bf07974486) 
+<https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A>  </top-8-python-podcasts-you-should-be-listening-to-f3bf07974486>  
 
 **奖励资源—**
 
@@ -289,27 +213,7 @@ towardsdatascience.com](/top-8-python-podcasts-you-should-be-listening-to-f3bf07
 
 我希望这篇文章对你有用！以下是一些有趣的读物，希望你也喜欢
 
-[](/top-12-data-science-skills-to-learn-in-2020-5f635d7d98bf) [## 2020 年要学习的 12 大数据科学技能
-
-### 必须用这些数据科学技能提升自己的技能
-
-towardsdatascience.com](/top-12-data-science-skills-to-learn-in-2020-5f635d7d98bf) [](/machine-learning-books-you-must-read-in-2020-d6e0620b34d7) [## 2020 年必读的机器学习书籍
-
-### 看看吧，你为什么要读它们？
-
-towardsdatascience.com](/machine-learning-books-you-must-read-in-2020-d6e0620b34d7) [](/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03) [## 12 个适合初学者和专家的酷数据科学项目创意
-
-### “到目前为止，您已经完成了多少个数据科学项目？”
-
-towardsdatascience.com](/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03) [](/data-science-books-you-must-read-in-2020-1f30daace1cb) [## 2020 年必读的数据科学书籍
-
-### 看看吧，你为什么要读它们？
-
-towardsdatascience.com](/data-science-books-you-must-read-in-2020-1f30daace1cb) [](/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020) [## Python vs. Node。JS:哪个最适合你的项目？
-
-### 使用一组预定义的因素对 Python 和 Node.js 进行详细比较
-
-towardsdatascience.com](/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020) 
+</top-12-data-science-skills-to-learn-in-2020-5f635d7d98bf>  </machine-learning-books-you-must-read-in-2020-d6e0620b34d7>  </12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03>  </data-science-books-you-must-read-in-2020-1f30daace1cb>  </python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020>  
 
 > ***关于作者***
 > 

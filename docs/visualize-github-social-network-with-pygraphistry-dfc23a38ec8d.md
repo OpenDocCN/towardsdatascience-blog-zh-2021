@@ -74,11 +74,7 @@ GIF by Author——在这里与剧情[互动。](https://hub.graphistry.com/grap
 
 让我们用贝叶斯定理来回答这个问题。
 
-[](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [## 贝叶斯定理，用可视化清晰地解释
-
-### 如果您的 COVID 检测呈阳性，那么您实际上患有 COVID 的几率有多大？
-
-towardsdatascience.com](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) 
+</bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14>  
 
 根据贝叶斯定理，我们知道:
 
@@ -224,11 +220,7 @@ array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 1
 
 然后我们用 [faker](https://faker.readthedocs.io/en/master/) 自动为不同的分区创建不同的颜色。
 
-[](/how-to-create-fake-data-with-faker-a835e5b7a9d9) [## 如何用 Faker 创建假数据
-
-### 您可以收集数据或创建自己的数据
-
-towardsdatascience.com](/how-to-create-fake-data-with-faker-a835e5b7a9d9) 
+</how-to-create-fake-data-with-faker-a835e5b7a9d9>  
 
 您应该会看到类似下面的内容！
 
@@ -278,33 +270,13 @@ Gif by Author —在这里与情节[互动](https://hub.graphistry.com/graph/gra
 
 在这个 GitHub repo 中随意发挥和分叉本文的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/visualize_github_network/github_explore.ipynb) [## 数据科学/github _ explore . ipynb at master khuyentran 1401/数据科学
-
-### 收集了有用的数据科学主题以及代码和文章-Data-science/github _ explore . ipynb，位于 master …
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/visualize_github_network/github_explore.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/visualization/visualize_github_network/github_explore.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
-
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025) [## 用分散文本可视化特定性别的推文
-
-### 区分推文中的性别，并在交互式 HTML 散点图中呈现
-
-pub.towardsai.net](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025) [](https://khuyentran1476.medium.com/visualize-similarities-between-companies-with-graph-database-212af872fbf6) [## 使用图形数据库可视化公司之间的相似性
-
-### 用 Neo4j 建立和分析图形数据库
-
-khuyentran1476.medium.com](https://khuyentran1476.medium.com/visualize-similarities-between-companies-with-graph-database-212af872fbf6) 
+</observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  </pyvis-visualize-interactive-network-graphs-in-python-77e059791f01>  <https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025>  <https://khuyentran1476.medium.com/visualize-similarities-between-companies-with-graph-database-212af872fbf6>  
 
 # 引用
 

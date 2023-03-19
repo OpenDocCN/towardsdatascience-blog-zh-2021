@@ -28,11 +28,7 @@
 
 如果你想用你自己的文本和问题来试试，你可以在这个网站上查看一个演示:
 
-[](https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo/) [## Pragnakalp Techlabs 的自然语言处理(NLP)问答演示(英语)
-
-### 购买这个“使用 BERT 的问答系统”演示只需 99 美元！跟随我们的自然语言处理教程:问题回答…
-
-www.pragnakalp.com](https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo/) 
+<https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo/>  
 
 下一步是用法典编纂和判例法本身代替问题，以检查是否符合法律条件。这将需要(大量)具体的研究，因此这种解决方案可能需要一段时间才能投入商业使用。
 

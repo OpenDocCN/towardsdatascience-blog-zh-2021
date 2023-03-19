@@ -36,18 +36,6 @@
 
 *如果你喜欢这篇文章，并想与我联系，请这样做🐦* [*碎碎念*](https://twitter.com/alexieidingli) *，🔗*[*LinkedIn*](https://www.linkedin.com/in/alexieidingli/)*，📷*[*insta gram*](https://www.instagram.com/alexieidingli/)*或者😊* [*脸书*](https://www.facebook.com/alexieidingli/) *。*
 
-[](/beyond-the-frontiers-of-disabilities-88b82631533d) [## 超越残疾的界限
-
-### 技术如何为残疾人打开一个全新的世界
-
-towardsdatascience.com](/beyond-the-frontiers-of-disabilities-88b82631533d) [](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) [## 几分钟内从巴黎到伦敦
-
-### 交通创新如何重塑我们的未来
-
-medium.com](https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152) [](/a-whole-new-ai-world-6a5e9e49aa12) [## 一个全新的人工智能世界
-
-### 疫情之后人工智能的兴起
-
-towardsdatascience.com](/a-whole-new-ai-world-6a5e9e49aa12) 
+</beyond-the-frontiers-of-disabilities-88b82631533d>  <https://medium.com/dataseries/from-paris-to-london-in-a-handful-of-minutes-7657d978152>  </a-whole-new-ai-world-6a5e9e49aa12>  
 
 [**阿列克谢·丁力教授**](http://www.dingli.org/) 是马耳他[大学](https://www.um.edu.mt/)的 AI 教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他已经出版了几本同行评审的出版物，并成为马耳他[的一员。由马耳他政府成立的人工智能特别工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。](https://malta.ai/)

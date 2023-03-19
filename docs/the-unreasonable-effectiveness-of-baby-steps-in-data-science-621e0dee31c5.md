@@ -28,7 +28,7 @@
 
 # 3.训练你的模型并迭代
 
-[](https://www.pytorchlightning.ai/) [## PyTorch 闪电
+<https://www.pytorchlightning.ai/> [## PyTorch 闪电
 
 www.pytorchlightning.ai](https://www.pytorchlightning.ai/) 
 

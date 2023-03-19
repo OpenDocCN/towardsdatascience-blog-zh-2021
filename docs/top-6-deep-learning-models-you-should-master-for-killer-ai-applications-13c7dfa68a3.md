@@ -71,11 +71,7 @@ So, don't get confused along the way :)
 
 这里有一个前馈神经网络案例研究，您可以用它来提高您的 FfNN 技能:
 
-[](/kaggles-titanic-competition-in-10-minutes-part-iii-a492a1a1604f) [## 10 分钟后卡格尔的泰坦尼克号比赛|第三部分
-
-### 在 Kaggle 的泰坦尼克号比赛|机器中使用自然语言处理(NLP)、深度学习和 GridSearchCV
-
-towardsdatascience.com](/kaggles-titanic-competition-in-10-minutes-part-iii-a492a1a1604f) 
+</kaggles-titanic-competition-in-10-minutes-part-iii-a492a1a1604f>  
 
 # 卷积神经网络
 
@@ -107,7 +103,7 @@ towardsdatascience.com](/kaggles-titanic-competition-in-10-minutes-part-iii-a492
 
 这里有一个卷积神经网络案例研究，你可以用它来提高你的 CNN 技能:
 
-[](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) [## 使用 MNIST 数据集在 10 分钟内完成图像分类
+</image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d> [## 使用 MNIST 数据集在 10 分钟内完成图像分类
 
 towardsdatascience.com](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) 
 
@@ -135,11 +131,7 @@ RNNs 有许多不同的变体。我们经常遇到的三种 RNN 类型是
 
 这里有一个递归神经网络案例研究，你可以用它来提高你的 CNN 技能:
 
-[](/using-recurrent-neural-networks-to-predict-bitcoin-btc-prices-c4ff70f9f3e4) [## 使用递归神经网络预测比特币(BTC)价格
-
-### 如果你能以某种方式预测明天的比特币(BTC)价格，这不是很棒吗？加密货币市场有…
-
-towardsdatascience.com](/using-recurrent-neural-networks-to-predict-bitcoin-btc-prices-c4ff70f9f3e4) 
+</using-recurrent-neural-networks-to-predict-bitcoin-btc-prices-c4ff70f9f3e4>  
 
 # 变压器网络
 
@@ -157,11 +149,7 @@ Transformers 的主要优势在于，与 rnn 不同，它们不需要按顺序�
 
 这里有一个变形金刚网络案例研究，你可以用它来提高你的变形金刚技能:
 
-[](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) [## 伯特和拥抱脸 10 分钟情感分析
-
-### 学习预训练的自然语言处理模型的基础，伯特，并建立一个使用 IMDB 电影评论的情感分类器…
-
-towardsdatascience.com](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) 
+</sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671>  
 
 # 自动编码器
 
@@ -191,11 +179,7 @@ towardsdatascience.com](/sentiment-analysis-in-10-minutes-with-bert-and-hugging-
 
 这里有一个 Autoencoder 网络案例研究，您可以用它来提高您的 Autoencoder 技能:
 
-[](/image-noise-reduction-in-10-minutes-with-convolutional-autoencoders-d16219d2956a) [## 使用卷积自动编码器在 10 分钟内降低图像噪声
-
-### 在时尚 MNIST 的帮助下，使用深度卷积自动编码器清洁(或去噪)有噪声的图像
-
-towardsdatascience.com](/image-noise-reduction-in-10-minutes-with-convolutional-autoencoders-d16219d2956a) 
+</image-noise-reduction-in-10-minutes-with-convolutional-autoencoders-d16219d2956a>  
 
 # 生成对抗网络
 
@@ -219,11 +203,7 @@ GANs 的大致结构如下所示:
 
 这里有一个生成性对抗性网络案例研究，你可以用它来提高你的 GAN 技能:
 
-[](/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b) [## 利用生成性对抗网络在 10 分钟内生成图像
-
-### 使用无监督深度学习生成手写数字与深度卷积甘斯使用张量流和…
-
-towardsdatascience.com](/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b) 
+</image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b>  
 
 # 最后的话
 
@@ -246,10 +226,6 @@ towardsdatascience.com](/image-generation-in-10-minutes-with-generative-adversar
 
 如果你对深度学习感兴趣，也可以看看我的人工智能内容指南:
 
-[](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) [## 我的人工智能内容指南
-
-### 帮助您轻松浏览我的内容的指南。
-
-oyalcin.medium.com](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) 
+<https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17>  
 
 既然您正在阅读这篇文章，我相信我们有着相似的兴趣，并且现在/将来会从事相似的行业。那么我们就通过[*Linkedin*](https://linkedin.com/in/orhangaziyalcin/)*来连线吧！请不要犹豫发送联系请求！*[*Orhan g . Yal n—Linkedin*](https://linkedin.com/in/orhangaziyalcin/)

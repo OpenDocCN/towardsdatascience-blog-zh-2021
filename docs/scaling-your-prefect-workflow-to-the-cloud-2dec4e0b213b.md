@@ -190,11 +190,7 @@ flow.run(
 
 在本文中，我们讨论了何时以及如何使用 Dask 和 Coiled 在本地或云中的完美工作流中利用并行性。然后，我们构建了一个完美的数据工程工作流，每当数据集的大小超过某个阈值时，它就将计算委托给 Dask 集群。
 
-[](https://coiled.io/blog/common-dask-mistakes/) [## 使用 Dask 时要避免的常见错误
-
-### 第一次使用 Dask 可能是一个陡峭的学习曲线。经过多年的建设 Dask 和引导人们通过…
-
-coiled.io](https://coiled.io/blog/common-dask-mistakes/) 
+<https://coiled.io/blog/common-dask-mistakes/>  
 
 主要要点:
 

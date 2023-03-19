@@ -24,19 +24,11 @@
 
 剧透一下，我选择的样本数据集并没有我想象的那么有趣。但是我尽了最大努力让这篇文章尽可能的有知识性。当我解释模板的每一部分时，我会在我介绍的主题上链接我的其他文章，而不是太详细地解释它们。尽情享受吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## #1.介绍数据集，清楚地陈述 EDA 的目标
 
@@ -52,11 +44,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 在单独的子部分中，导入所需的库和模块。你可以通过导入有用的库，如`tqdm, colorama`，并根据你的喜好调整`matplotlib`的`rcParams`。如果您想了解更多关于完美项目设置的信息，我推荐您阅读我的相关文章:
 
-[](/from-kagglers-best-project-setup-for-ds-and-ml-ffb253485f98) [## 来自 Kagglers:DS 和 ML 的最佳项目设置
-
-### 编辑描述
-
-towardsdatascience.com](/from-kagglers-best-project-setup-for-ds-and-ml-ffb253485f98) 
+</from-kagglers-best-project-setup-for-ds-and-ml-ffb253485f98>  
 
 ## #2.基础探索和预处理
 
@@ -160,11 +148,7 @@ towardsdatascience.com](/from-kagglers-best-project-setup-for-ds-and-ml-ffb25348
 
 如果你在考虑使用支线剧情或者 FacetGrids，尽量保持支线剧情的数量尽可能的少。它们可能对你有用，但是观众通常没有足够的耐心去看每一个。所以，把关键的支线剧情从群体中分离出来，在更大的尺度上进行剧情设计。
 
-[](/deep-guide-into-styling-plots-delivering-effective-visuals-12e40107b380) [## 我的情节糟透了。以下是我如何修复它们。
-
-### 你的，在某种意义上，可能也是。
-
-towardsdatascience.com](/deep-guide-into-styling-plots-delivering-effective-visuals-12e40107b380) 
+</deep-guide-into-styling-plots-delivering-effective-visuals-12e40107b380>  
 
 ## #6.EDA 的结论
 

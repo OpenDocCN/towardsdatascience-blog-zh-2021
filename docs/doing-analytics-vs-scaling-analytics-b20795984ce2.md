@@ -10,11 +10,7 @@
 
 分析、数据科学和人工智能已经成为每个高级管理人员的主流词汇，并且成为“数据驱动”是大多数组织幻灯片中最常见的术语。然而，要在这些计划中取得成功还需要不断的努力，根据 Gartner 的预测，这些项目中有近 80%将永远无法部署。如果你问自己，“为什么？”—最常引用的原因之一是“文化”(下面引用了 HBR 的文章)，这是事实，但还有其他因素也有影响。
 
-[](https://hbr.org/2019/07/building-the-ai-powered-organization) [## 构建人工智能驱动的组织
-
-### 简单来说，问题是许多公司扩大人工智能规模的努力都失败了。那是因为只有…
-
-hbr.org](https://hbr.org/2019/07/building-the-ai-powered-organization) 
+<https://hbr.org/2019/07/building-the-ai-powered-organization>  
 
 作为一名数据科学从业者，我认为这些计划失败的原因之一是因为“进行分析与扩展分析”是两码事。如果你询问任何大型组织中“分析团队”的起源，你会听到一个熟悉的故事，即 3-4 名数据科学家/数据工程师在一个孤岛式团队中工作，试图构建一个数据湖，探索数据科学的用例，并开发概念证明(PoCs)以向企业展示数据的价值。虽然这种探索性的工作方式是一个很好的开始，但当涉及到将这些算法嵌入到这些组织的工作流程中时，大多数团队都犹豫了。这是因为进行分析在很大程度上是一个数据科学家可以解决的分析问题，而扩展分析需要的不仅仅是一个数据科学家团队，我将在下面详细阐述。
 
@@ -36,11 +32,7 @@ hbr.org](https://hbr.org/2019/07/building-the-ai-powered-organization)
 
 在大多数公司，数据科学家只在开发模型/算法时才会参与进来。理想情况下，数据科学家应该从业务需求/理解阶段开始参与，在这个阶段，您构思问题陈述，并开始查看要解决的数据。如果数据科学家无法参与，那么让具备分析知识的人参与进来非常重要，这样他/她可以确保“正确的数据”可用于构建模型。许多公司在让“技术”人员参与商业讨论时会三思，最终会选择那些从分析角度来看你更有可能失败的项目。麦肯锡已经发现了这一差距，并就“分析翻译”这一中介角色发表了文章。
 
-[](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/analytics-translator) [## 分析翻译:新的必备角色
-
-### 众所周知，组织越来越多地转向高级分析和人工智能(AI)…
-
-www.mckinsey.com](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/analytics-translator) 
+<https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/analytics-translator>  
 
 > **假设你有高质量的数据来开发突破性的 ML 解决方案，扩展分析的下一个问题是，“你有合适的基础设施吗？”**
 

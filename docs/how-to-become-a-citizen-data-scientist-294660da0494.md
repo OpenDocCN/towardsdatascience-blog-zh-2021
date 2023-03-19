@@ -20,11 +20,7 @@
 
 从医疗保健到零售，几乎每个行业都有公民数据科学家。
 
-[](https://pub.towardsai.net/data-science-will-be-democratized-9263d6ac009d) [## 数据科学将会大众化(不到 10 年)。)
-
-### 我们启动数据科学所需的一切都是负担得起的，也是可以获得的。
-
-pub.towardsai.net](https://pub.towardsai.net/data-science-will-be-democratized-9263d6ac009d) 
+<https://pub.towardsai.net/data-science-will-be-democratized-9263d6ac009d>  
 
 在过去，许多人会被称为业务分析师或知识工作者，因为他们依靠自己的洞察力和理解来做出决策。
 
@@ -83,11 +79,7 @@ pub.towardsai.net](https://pub.towardsai.net/data-science-will-be-democratized-9
 
 KNIME 是另一个开源平台，允许用户使用各种工具创建流程、探索和挖掘信息。它为分布式架构上的大数据集提供了大量的数据查询、转换和分析模块。
 
-[](/become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278) [## 如何在不编码的情况下成为一名出色的数据科学家(+工程师)
-
-### 从数据中获得意义是常识。编码技能不是数据科学家或数据工程师的超能力。
-
-towardsdatascience.com](/become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278) 
+</become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278>  
 
 Excel 被誉为电子表格之王。它为数据争论提供了强大的功能，大多数人觉得它很容易使用。对于数据科学的初学者来说，这是一个非常好的工具。
 

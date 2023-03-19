@@ -235,11 +235,7 @@ Drug ['DrugY', 'drugC', 'drugX', 'drugA', 'drugB'] [0, 3, 4, 1, 2]
 
 如果你觉得这个教程很有趣，我会推荐这篇文章，它深入讨论了模型部署策略的细节
 
-[](https://neptune.ai/blog/model-deployment-strategies) [## 模型部署策略- neptune.ai
-
-### 近年来，大数据和机器学习已经被大多数主要行业采用，大多数初创公司都在…
-
-海王星. ai](https://neptune.ai/blog/model-deployment-strategies) 
+<https://neptune.ai/blog/model-deployment-strategies>  
 
 # 感谢您的阅读！
 

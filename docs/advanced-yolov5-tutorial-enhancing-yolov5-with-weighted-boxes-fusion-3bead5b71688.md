@@ -127,11 +127,7 @@ python train.py — img 640 — batch 16 — epochs 30 — data ./vinbigdata.yam
 
 加权盒子融合是一种在训练之前(清理数据集)或训练之后(使预测更准确)动态融合盒子的方法。如果你想知道更多，你可以看看我的文章:
 
-[](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) [## WBF:优化目标检测——融合和过滤预测框
-
-### 加权盒融合已经成为优化目标检测模型的新 SOTA
-
-towardsdatascience.com](/wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3) 
+</wbf-optimizing-object-detection-fusing-filtering-predicted-boxes-7dc5c02ca6d3>  
 
 要使用它来预处理数据集(大多数竞争对手的性能大约提高了 10–20%)，您可以使用如下代码:
 

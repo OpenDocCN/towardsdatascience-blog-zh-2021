@@ -138,11 +138,7 @@ for key, value in result[4].items():
 
 如果您有兴趣了解使用时间序列方法进行端到端步骤计数预测的更多信息，请参考以下链接:
 
-[](/how-to-predict-your-step-count-for-next-week-a16b7800b408) [## 如何使用时间序列模型预测你下周的步数
-
-### 基于 ARIMA 模型的端到端时间序列预测
-
-towardsdatascience.com](/how-to-predict-your-step-count-for-next-week-a16b7800b408) 
+</how-to-predict-your-step-count-for-next-week-a16b7800b408>  
 
 # 参考:
 

@@ -14,43 +14,23 @@
 
 如果您错过了关于如何设置我们的环境和本地服务器的第 1 集，请阅读本文:
 
-[](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) [## 了解 SQL Server Management Studio —第 1 部分分步安装
-
-### 这是一个免费且强大的工具，可以利用数据、提高技能并在面试中脱颖而出
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0) 
+</getting-started-with-sql-server-management-studio-part-1-step-by-step-setup-63428650a1e0>  
 
 第二集将教你如何创建自己的数据库、表格，以及关于命名约定的重要注释:
 
-[](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) [## 了解 SQL Server Management Studio —第 2 部分数据库、表和命名约定
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/getting-started-with-sql-server-management-studio-5cd24bb1a87c) 
+</getting-started-with-sql-server-management-studio-5cd24bb1a87c>  
 
 在第 3 集，我们介绍了 CRUD 操作以及主键和外键:
 
-[](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) [## 了解 SQL Server Management Studio —第 3 部分 CRUD 操作、主键和外键
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70) 
+</learn-sql-server-management-studio-part-3-crud-operations-primary-foreign-keys-9d884b32ad70>  
 
 在第 4 集，我们讨论了模式&主要的规范化步骤:
 
-[](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) [## 了解 SQL Server Management Studio —第 4 部分架构和规范化
-
-### 让你在派对上开心的技能！
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258) 
+</learn-sql-server-management-studio-part-4-schemas-normalization-80bcd6a5258>  
 
 在第 5 集，我们讨论了存储过程和调度，这是一个真正的野兽。我怎么强调这将如何促进和自动化你的日常(数据)生活都不为过。
 
-[](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) [## 了解 SQL Server Management Studio —第 5 部分存储过程和调度
-
-### 让你在派对上开心的技能！循序渐进。
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314) 
+</learn-sql-server-management-studio-part-5-stored-procedures-scheduling-88fd9788d314>  
 
 别忘了回来😉。
 
@@ -171,8 +151,4 @@ towardsdatascience.com](/learn-sql-server-management-studio-part-5-stored-proced
 
 了解如何将 SQL Server 连接到 Power BI，这是一款功能强大的可视化工具，也是通过创建您的第一批视觉效果首次介绍这款商业智能工具。
 
-[](/learn-sql-server-management-studio-part-7-connect-to-powerbi-first-visuals-b13df9d78ccc) [## 了解 SQL Server Management Studio —第 7 部分连接到 PowerBI 和 First Visuals
-
-### 让你在派对上变得有趣的技巧——一步一步来
-
-towardsdatascience.com](/learn-sql-server-management-studio-part-7-connect-to-powerbi-first-visuals-b13df9d78ccc)
+</learn-sql-server-management-studio-part-7-connect-to-powerbi-first-visuals-b13df9d78ccc> 

@@ -78,24 +78,4 @@ df.plot()
 
 ## 资料来源和进一步阅读
 
-[](https://jupyter.org/try) [## Jupyter 项目
-
-### Jupyter 笔记本是一个基于网络的交互式计算平台。该笔记本结合了现场代码，方程式…
-
-jupyter.org](https://jupyter.org/try)  [## BeginnersGuide - Python 维基
-
-### 编程新手？如果你知道从哪里开始，Python 是免费且容易学习的！本指南将帮助您获得…
-
-wiki.python.org](https://wiki.python.org/moin/BeginnersGuide) [](https://pandas.pydata.org/) [## 熊猫
-
-### pandas 是一个快速、强大、灵活且易于使用的开源数据分析和操作工具，构建于…
-
-pandas.pydata.org](https://pandas.pydata.org/) [](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [## 可视化的 6 大 Python 库:使用哪一个？
-
-### 对使用哪种可视化工具感到困惑？我为你分析了每个图书馆的利弊
-
-towardsdatascience.com](/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) [](https://www.learnpython.org/) [## 学习 Python -免费的交互式 Python 教程
-
-### 这个网站得到了 DataCamp 的大力支持。DataCamp 为数据科学提供在线互动 Python 教程…
-
-www.learnpython.org](https://www.learnpython.org/)
+<https://jupyter.org/try>    <https://pandas.pydata.org/>  </top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658>  <https://www.learnpython.org/> 

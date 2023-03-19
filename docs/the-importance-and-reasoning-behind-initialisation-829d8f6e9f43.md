@@ -24,11 +24,7 @@
 
 虽然这将“打破对称”，但它带来了渐变消失和爆炸的问题。每个节点输出的平均值应该为零。我们说我们希望激活函数以零为中心。这在我的文章介绍激活函数中有解释，链接如下。
 
-[](/the-importance-and-reasoning-behind-activation-functions-4dc00e74db41) [## 激活函数背后的重要性和推理
-
-### 神经网络的一个重要组成部分
-
-towardsdatascience.com](/the-importance-and-reasoning-behind-activation-functions-4dc00e74db41) 
+</the-importance-and-reasoning-behind-activation-functions-4dc00e74db41>  
 
 考虑下面的多层网络。
 

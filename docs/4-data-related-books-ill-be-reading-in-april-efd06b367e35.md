@@ -12,11 +12,7 @@
 
 然而，在过去，我设法变戏法似的鼓起勇气睁开眼睛，看完这些书。我已经意识到，每当我这样做了，我就在我所研究的学科或领域取得了巨大的进步，因此这个月我将再次这样做。
 
-[](/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71) [## 5 本免费书籍，让您的数据科学技能更上一层楼
-
-### 帮助您提高数据科学技能的书籍
-
-towardsdatascience.com](/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71) 
+</5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71>  
 
 对于那些有兴趣了解我全年都在读什么书的人，可以看看我的 [Instagram 页面](https://www.instagram.com/mentalrep.bc/)，它专门给出我对我正在读的不同书籍的看法。
 
@@ -72,16 +68,4 @@ towardsdatascience.com](/5-free-books-to-take-your-data-science-skills-to-the-ne
 
 ## 相关文章
 
-[](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [](/thriving-as-a-remote-data-scientist-98f9aa79f5ab) [## 作为远程数据科学家蒸蒸日上
-
-### 我远程工作的经历
-
-towardsdatascience.com](/thriving-as-a-remote-data-scientist-98f9aa79f5ab) [](/how-an-unemployed-data-scientist-structures-their-day-1712824e58fd) [## 失业的数据科学家如何安排他们的一天
-
-### 维持秩序很重要
-
-towardsdatascience.com](/how-an-unemployed-data-scientist-structures-their-day-1712824e58fd)
+<https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343>  </thriving-as-a-remote-data-scientist-98f9aa79f5ab>  </how-an-unemployed-data-scientist-structures-their-day-1712824e58fd> 

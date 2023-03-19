@@ -12,11 +12,7 @@
 
 请点击此处了解更多信息:
 
-[](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424) [## 量子机器学习是下一件事吗？
-
-### 当前最先进的工具将量子物理学和人工智能结合在一起
-
-medium.com](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424) 
+<https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424>  
 
 2020 年 3 月，谷歌宣布发布[tensor flow Quantum](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html)——一系列结合了最先进的机器学习和量子计算算法的工具。
 

@@ -175,11 +175,7 @@
 
 如果您有任何问题、意见或顾虑，也欢迎通过 LinkedIn 联系我:
 
-[](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) [## Kasper Müller -高级顾问，数据和分析，金融服务，技术咨询- EY | LinkedIn
-
-### 编程、数学和教学是我最大的兴趣。数据科学、机器学习、编程…
-
-www.linkedin.com](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) 
+<https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/>  
 
 > 数学家是把咖啡变成定理的机器。
 > 

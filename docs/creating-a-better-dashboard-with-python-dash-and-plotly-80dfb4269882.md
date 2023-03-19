@@ -50,11 +50,7 @@
 
 当我们深入研究时，你需要访问代码。这是我的这个项目资源库的链接。所有代码示例和参考均来自此处:
 
-[](https://github.com/brad-darksbian/commodities-dashboard) [## GitHub-Brad-darksbian/commodities-dashboard:一个查看商品头寸数据的简单仪表板…
-
-### 一个简单的仪表板，查看商品的立场数据的基础上，CFTC 报告这是一个 python 项目使用破折号和…
-
-github.com](https://github.com/brad-darksbian/commodities-dashboard) ![](img/b4dff86499a4a2e3417bad3572dead74.png)
+<https://github.com/brad-darksbian/commodities-dashboard>  ![](img/b4dff86499a4a2e3417bad3572dead74.png)
 
 商品仪表板——我们在构建什么
 

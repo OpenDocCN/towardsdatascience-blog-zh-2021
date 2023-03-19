@@ -98,11 +98,7 @@ node app.js
 
 无论如何，将高性能计算与 web 服务器结合在一起是一个糟糕的想法。即使是异步服务器也不应该在请求-响应周期内为它们服务。如果是这样，Instagram 和 Spotify 这样的巨型平台是如何处理海量计算的？这里有一篇文章可以回答这个问题。
 
-[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) [## 如何使用 Python Web 应用服务于大规模计算？
-
-### 克服 Python 的局限性，并通过 web 请求将其用于繁重的数据分析和机器学习。
-
-towardsdatascience.com](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) 
+</how-to-serve-massive-computations-using-python-web-apps-590e51624bc6>  
 
 这个想法是向运行在独立线程上的计算引擎发送消息。web 服务器不需要等到计算完成才发送响应。相反，计算引擎更新数据库。web 服务器可以使用单独的端点随时读取其值。
 
@@ -112,11 +108,7 @@ towardsdatascience.com](/how-to-serve-massive-computations-using-python-web-apps
 
 Tuplex 将您的 Python 代码转换为本地 LLVM，并并行运行它。该库背后的团队在一篇研究文章中显示，它的速度大约快了 91 倍。下面是我之前写的一篇关于这个话题的详细文章:
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 ## 引入异步行为。
 
@@ -138,11 +130,7 @@ JavaScript 本质上是异步的，对于长时间运行的任务表现更好。
 
 如果你仍然喜欢 Python web 应用程序而不是你的数据科学项目，那么试试 streamlit。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 > 谢谢你的阅读，朋友。看来你和我有许多共同的兴趣。一定要看看我的个人博客。
 > 

@@ -151,4 +151,4 @@ gcloud app deploy
 
 **祝好运，编码快乐！**
 
-*原载于 2021 年 4 月 11 日 https://theappliedarchitect.com*[](https://theappliedarchitect.com/deploy-a-node-js-application-with-app-engine-in-10-minutes/)**。**
+*原载于 2021 年 4 月 11 日 https://theappliedarchitect.com*<https://theappliedarchitect.com/deploy-a-node-js-application-with-app-engine-in-10-minutes/>**。**

@@ -54,4 +54,4 @@
 
 *请注意，来自数据源的数据可用性存在延迟。如果你在周日阅读这篇文章，数据可能会在几天后用最新的锦标赛结果更新。*
 
-*【2021–03–16 数据更新】:虽然**[*体育参考*](https://www.sports-reference.com/cbb/seasons/2021-school-stats.html) *数据现已更新，但* [*体育书评在线*](https://www.sportsbookreviewsonline.com/scoresoddsarchives/ncaabasketball/ncaabasketballoddsarchives.htm) *数据(包括比赛历史和最近 10 场比赛的结果)似乎不会在比赛前及时更新。截至今天，Kaggle 为参加其挑战的人提供了最新赛季的比赛，包括男子*[](https://www.kaggle.com/c/ncaam-march-mania-2021/overview)**和女子*[](https://www.kaggle.com/c/ncaaw-march-mania-2021/overview)**比赛。由于这些数据不是公开的，因此在此不共享这些数据。请注册参加免费的 Kaggle 挑战赛来查看这些数据。****
+*【2021–03–16 数据更新】:虽然**[*体育参考*](https://www.sports-reference.com/cbb/seasons/2021-school-stats.html) *数据现已更新，但* [*体育书评在线*](https://www.sportsbookreviewsonline.com/scoresoddsarchives/ncaabasketball/ncaabasketballoddsarchives.htm) *数据(包括比赛历史和最近 10 场比赛的结果)似乎不会在比赛前及时更新。截至今天，Kaggle 为参加其挑战的人提供了最新赛季的比赛，包括男子*<https://www.kaggle.com/c/ncaam-march-mania-2021/overview>**和女子*<https://www.kaggle.com/c/ncaaw-march-mania-2021/overview>**比赛。由于这些数据不是公开的，因此在此不共享这些数据。请注册参加免费的 Kaggle 挑战赛来查看这些数据。****

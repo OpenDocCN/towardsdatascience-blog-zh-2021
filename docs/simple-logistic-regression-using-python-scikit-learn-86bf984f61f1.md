@@ -85,11 +85,7 @@ df.describe()(图片由作者提供)
 
 在这个例子中，我没有深入探索数据分析(EDA)过程。如果您有兴趣了解更多，请随意阅读我关于更全面的 EDA 指南的文章。
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 我通过 FOR 循环自动进行单变量分析。如果遇到数字变量，将生成一个直方图来可视化分布。另一方面，为分类变量创建一个条形图。
 
@@ -121,11 +117,7 @@ towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-
 
 逻辑回归只接受数值作为输入，因此，有必要将分类数据编码成数字。最常见的技术是一键编码和标签编码。我发现这篇文章很好地比较了这两者。
 
-[](https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/) [## 一键编码与使用 Scikit-Learn 的标签编码
-
-### 什么是一键编码？什么时候应该使用一次性编码而不是标签编码？这些都是典型的数据科学…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/) 
+<https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/>  
 
 以 *RainToday* 为例:
 
@@ -161,11 +153,7 @@ df.info()(图片作者提供)
 
 如果您想了解特性选择技术的详细信息，您可能会发现这很有帮助:
 
-[](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## Python 中的特征选择和 EDA
-
-### 如何使用数据可视化来指导 ML 中的特征选择
-
-towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) 
+</feature-selection-and-eda-in-python-c6c4eb1058a3>  
 
 在这个练习中，我使用了上面文章中提到的相关性分析。相关性分析是一种常见的多变量 EDA 方法，有助于识别高度相关的变量。
 
@@ -267,18 +255,6 @@ ROC，AUC 代码(图片由作者提供)
 
 ## 更多这样的文章
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [](/how-to-build-ml-model-using-bigquery-eced0107e4fd) [## 如何使用 SQL 建立机器学习模型
-
-### BigQuery 中的机器学习和预测建模
-
-towardsdatascience.com](/how-to-build-ml-model-using-bigquery-eced0107e4fd) [](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [## 2021 年数据科学家关注的 15 大网站
-
-### 启发学习的网站和博客
-
-medium.com](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) 
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  </how-to-build-ml-model-using-bigquery-eced0107e4fd>  <https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d>  
 
 *原载于 2021 年 3 月 30 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/simple-logistic-regression-using-python-scikit-learn)*。*

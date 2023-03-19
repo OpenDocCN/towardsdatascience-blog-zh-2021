@@ -260,22 +260,10 @@ X_df 的内容
 
 *如果您想了解如何处理数据集中的缺失值，请点击此处查看本文:*
 
-*[](/data-cleaning-series-with-python-part-1-24bb603c82c8) [## Python 数据清理系列
-
-### 回到基础——处理缺失值
-
-towardsdatascience.com](/data-cleaning-series-with-python-part-1-24bb603c82c8) 
+*</data-cleaning-series-with-python-part-1-24bb603c82c8>  
 
 最后，我强烈建议您阅读这两本书，我发现它们在学习特征工程时非常有用:
 
-[](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) [## 接近(几乎)任何机器学习问题
-
-### 拿到这本书已经 11 天了。我刷新了这么多话题(带代码)，学到了很多新的。我希望…
-
-www .亚马逊. in](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) [](https://www.amazon.in/Machine-Learning-Python-Cookbook-Preprocessing-ebook/dp/B07BC3LFKT) [## Python 机器学习指南:从预处理到深度学习的实用解决方案
-
-### Python 机器学习指南:从预处理到深度学习的实用解决方案
-
-www .亚马逊. in](https://www.amazon.in/Machine-Learning-Python-Cookbook-Preprocessing-ebook/dp/B07BC3LFKT) 
+<https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT>  <https://www.amazon.in/Machine-Learning-Python-Cookbook-Preprocessing-ebook/dp/B07BC3LFKT>  
 
 下次见，再见！✋*

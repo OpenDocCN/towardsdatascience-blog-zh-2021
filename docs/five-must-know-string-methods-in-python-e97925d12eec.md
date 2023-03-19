@@ -202,11 +202,7 @@ Python 中的字符串替换()
 
 *💡有兴趣了解更多关于数据争论的知识吗？？这里有一个关于它的快速阅读。*
 
-*[](/data-wrangling-raw-to-clean-transformation-b30a27bf4b3b) [## 数据争论—从原始到干净的转变
-
-### 简单的三个字的解释
-
-towardsdatascience.com](/data-wrangling-raw-to-clean-transformation-b30a27bf4b3b)* 
+*</data-wrangling-raw-to-clean-transformation-b30a27bf4b3b> * 
 
 *长话短说，*
 

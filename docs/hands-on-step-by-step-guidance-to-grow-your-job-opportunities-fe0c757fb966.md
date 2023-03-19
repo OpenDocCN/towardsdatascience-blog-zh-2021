@@ -268,14 +268,6 @@ Meetup 会议是最被低估的机会，它能让你在求职中获得竞争优�
 
 **你喜欢我的故事吗？在这里你可以找到更多。**
 
-[](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) [## 作为数据科学初学者应该避免的 10 个错误
+</10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd> [## 作为数据科学初学者应该避免的 10 个错误
 
-towardsdatascience.com](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) [](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [## 发现 9 个咨询领域，开始任何经验水平的激动人心的数据科学之旅
-
-### 和更多指导，让您做好咨询准备
-
-towardsdatascience.com](/discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4) [](/5-concrete-real-world-projects-to-build-up-your-data-science-portfolio-ef44509abdd7) [## 5 个具体的真实项目来构建您的数据科学组合
-
-### 独特性是关键，而不是花哨
-
-towardsdatascience.com](/5-concrete-real-world-projects-to-build-up-your-data-science-portfolio-ef44509abdd7)
+towardsdatascience.com](/10-mistakes-you-should-avoid-as-a-data-science-beginner-ec1b14ea1bcd) </discover-9-consultancy-segments-to-start-an-exciting-data-science-journey-for-any-experience-level-a972cb6b63e4>  </5-concrete-real-world-projects-to-build-up-your-data-science-portfolio-ef44509abdd7> 

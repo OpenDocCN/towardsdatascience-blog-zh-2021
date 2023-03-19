@@ -44,11 +44,7 @@ df = sns.load_dataset('tips')
 
 现在，加载数据集本身就是分析的一部分。在这篇文章中，我有一组很好的代码片段，可以帮助你在将数据加载到 Python 会话时更上一层楼:
 
-[](https://medium.com/gustavorsantos/go-next-level-with-pandas-read-csv-29e3c207a66d) [## 熊猫的下一关 read_csv()
-
-### 众所周知的 Pandas 的 read_csv()方法的 9 个使用不足的参数。
-
-medium.com](https://medium.com/gustavorsantos/go-next-level-with-pandas-read-csv-29e3c207a66d) 
+<https://medium.com/gustavorsantos/go-next-level-with-pandas-read-csv-29e3c207a66d>  
 
 首先要做的是查看数据集。重要的是实际查看它，如果导入顺利，查看数据集是大还是长，了解每个变量中的内容。
 
@@ -202,8 +198,4 @@ df.describe(include='all ')结果。图片由作者提供。
 
 如果这是你感兴趣的内容，请关注我的博客。
 
-[](https://medium.com/gustavorsantos) [## 古斯塔夫·桑托斯
-
-### 让我们做出更好的决定。数据驱动的决策。我用 Python，R，Excel，SQL 创建数据科学项目。
-
-medium.com](https://medium.com/gustavorsantos)
+<https://medium.com/gustavorsantos> 

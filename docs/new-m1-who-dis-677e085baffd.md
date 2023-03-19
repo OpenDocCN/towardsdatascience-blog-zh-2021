@@ -18,7 +18,7 @@
 
 我会考虑安装 Ubuntu，但我对一些商业化的 mac/win 专用应用程序如 Adobe Lightroom 情有独钟。我考虑过切换到 Windows(并使用 WSL2):这样，我仍然可以拥有我愚蠢的 GUI 应用程序和 Linuxy 开发环境，然后在硬件上挥霍。但是 MacBooks 的工业设计有一点很特别！我喜欢把 MacBook air 放在背包里随身携带的轻松感觉。我已经在 macOS 上扎下了根。
 
-我知道苹果芯片的一些[问题](/top-3-reasons-why-i-sold-my-m1-macbook-pro-as-a-data-scientist-abad1226f52a):新的 arm64 处理器架构对数据科学库兼容性提出了挑战。基本上，这是**太新**——我不习惯有这个问题。尽管如此，新的苹果芯片还是[](https://www.youtube.com/watch?v=cAjarAgf0nI&ab_channel=TheDevDoctor)****快，开发者社区正在努力弥合这一差距。****
+我知道苹果芯片的一些[问题](/top-3-reasons-why-i-sold-my-m1-macbook-pro-as-a-data-scientist-abad1226f52a):新的 arm64 处理器架构对数据科学库兼容性提出了挑战。基本上，这是**太新**——我不习惯有这个问题。尽管如此，新的苹果芯片还是<https://www.youtube.com/watch?v=cAjarAgf0nI&ab_channel=TheDevDoctor>****快，开发者社区正在努力弥合这一差距。****
 
 ****它也不是你能以这个价格买到的最强大的笔记本电脑。也就是说，在一个生产 ML 的重担越来越多地在云服务器上执行的世界里，UX 对我来说可能比我本地日常机器上的原始计算能力更重要。我已经掌握了 AWS 的基础知识，并且正在上 Docker、Kubernetes、Terraform 等课程。必要时，我仍然可以在运行 plaidML 的旧 x86 Hackintosh 桌面上运行 shell。****
 

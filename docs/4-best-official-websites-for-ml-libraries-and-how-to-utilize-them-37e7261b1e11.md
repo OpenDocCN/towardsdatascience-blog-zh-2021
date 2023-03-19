@@ -22,11 +22,7 @@ Python 就是这样一种通用且独特的编程语言，它以其丰富的库�
 
 在我们开始之前，如果你对类似的文章感兴趣，请通过下面提供的链接查看我以前在十大最佳网站上发表的一篇文章，以了解更多关于数据科学和机器学习的信息！
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 # 1.sci kit-学习:
 
@@ -54,11 +50,7 @@ sklearn 模块提供了许多选项来解决各种任务，例如拆分数据、
 
 Jupyter 笔记本是同时阅读和编码的最佳方式之一。我推荐阅读下面这篇关于 Jupyter 笔记本的文章，这篇文章广泛地涵盖了如何充分利用这些笔记本的大部分重要主题。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 # 2.张量流:
 
@@ -74,11 +66,7 @@ TensorFlow 无疑是让深度学习面向广泛受众的最大贡献之一。借
 
 为了进一步了解 GPU 的重要用途，如果你真的需要一个 GPU 来进行深度学习，我推荐下面这篇文章，它全面深入地讨论了这个主题。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 ## 怎么用？
 
@@ -92,7 +80,7 @@ towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226
 
 如果您没有自己的 PC 构建，并且希望在您的预算范围内构建一个高质量的系统，请查看下面的文章，该文章涵盖了针对所有预算范围的深度学习的最佳 PC 构建这一主题。
 
-[](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
+</best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8> [## 在各种预算范围内，最适合深度学习的电脑
 
 towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) 
 
@@ -148,36 +136,12 @@ Keras 库的官方文档可以通过下面的[链接](https://keras.io/)获得�
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b) [## 你的人工智能和数据科学项目失败的 6 个原因
-
-### 分析导致你的人工智能和数据科学项目失败的 6 个主要原因
-
-towardsdatascience.com](/6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b) [](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) [## 17 每个数据科学家都必须知道代码块
-
-### 讨论将帮助您作为数据科学家有效处理大多数任务和项目的 17 个代码块
-
-towardsdatascience.com](/17-must-know-code-blocks-for-every-data-scientist-c39a607a844d) 
+</6-reasons-why-your-ai-and-data-science-projects-fail-2a1ecb77743b>  </how-to-write-code-effectively-in-python-105dc5f2d293>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </17-must-know-code-blocks-for-every-data-scientist-c39a607a844d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

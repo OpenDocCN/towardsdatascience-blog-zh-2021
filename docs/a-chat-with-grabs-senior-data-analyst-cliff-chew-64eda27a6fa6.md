@@ -139,11 +139,7 @@ Cliff 提到，SQL 应该是人们应该学习的最重要的东西，因为它�
 
 如果你想和克里夫保持联系，请随时通过他的 LinkedIn 联系他。
 
- [## 郭婷，Cliff Chew -高级数据分析师- Grab | LinkedIn
-
-### 查看世界上最大的职业社区 LinkedIn 上的郭婷，Cliff Chew 的简介。
-
-www.linkedin.com](https://www.linkedin.com/in/kuo-ting-cliff-chew-22001925/) 
+  
 
 想听听我刚刚总结的播客吗？听听这里。
 
@@ -151,7 +147,7 @@ www.linkedin.com](https://www.linkedin.com/in/kuo-ting-cliff-chew-22001925/)
 
 如果你喜欢这篇文章，请在 LinkedIn 上联系我！我撰写关于学习数据科学、数据科学技巧和诀窍以及一般技术的内容。
 
-[](https://www.linkedin.com/in/travistang/) [## Travis Tang -数据分析师- Gojek
+<https://www.linkedin.com/in/travistang/> [## Travis Tang -数据分析师- Gojek
 
 www.linkedin.com](https://www.linkedin.com/in/travistang/) 
 

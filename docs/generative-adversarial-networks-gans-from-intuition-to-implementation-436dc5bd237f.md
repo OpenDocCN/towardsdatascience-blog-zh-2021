@@ -103,10 +103,6 @@ GIF by [LGTSM](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 
 这样，我们就完成了对 GANs 的介绍。我希望这个博客能让你对 GANs 的工作有一个好的直觉。完整的实现可以在下面的 GitHub 仓库中找到。
 
-[](https://github.com/harsh-99/PyTorch-Tutorials/blob/master/GANS.ipynb) [## harsh-99/PyTorch 教程
-
-### permalink dissolve GitHub 是 4000 多万开发人员的家园，他们一起工作来托管和审查代码，管理…
-
-github.com](https://github.com/harsh-99/PyTorch-Tutorials/blob/master/GANS.ipynb) 
+<https://github.com/harsh-99/PyTorch-Tutorials/blob/master/GANS.ipynb>  
 
 *成为* [*介质会员*](https://medium.com/@AnveeNaik/membership) *解锁并阅读介质上的许多其他故事。关注我们的* [*媒体*](https://medium.com/@AnveeNaik) *阅读更多此类博文*。

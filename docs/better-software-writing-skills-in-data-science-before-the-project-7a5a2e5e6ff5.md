@@ -33,4 +33,4 @@
 
 在软件领域 20 多年了。目前在 Shopify 担任数据科学家。在深度学习、机器学习/分析、云计算、物联网、领域特定语言、遗传算法和编程、人工生命/智能以及所有技术领域的研究兴趣！[通过点击](https://thelonenutblog.wordpress.com/author/potvinpascal/)查看所有帖子
 
-*原载于 2021 年 5 月 11 日*[](https://thelonenutblog.wordpress.com/2021/05/11/better-software-writing-skills-in-data-science-before-the-project/)**。**
+*原载于 2021 年 5 月 11 日*<https://thelonenutblog.wordpress.com/2021/05/11/better-software-writing-skills-in-data-science-before-the-project/>**。**

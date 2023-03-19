@@ -49,16 +49,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1) [## 为什么可靠性和稳定性在数据科学中很重要？
-
-### 理解糟糕的软件可靠性的含义
-
-towardsdatascience.com](/why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1) [](/one-big-lesson-on-creating-a-software-library-723c36180941) [## 创建软件库的一大教训
-
-### 近两年的数据科学软件库的故事
-
-towardsdatascience.com](/one-big-lesson-on-creating-a-software-library-723c36180941) [](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0) [## 远程工作很难让你成为一名出色的数据科学家
-
-### 不要因为你太安静而被忽视
-
-towardsdatascience.com](/remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0)
+</why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1>  </one-big-lesson-on-creating-a-software-library-723c36180941>  </remote-work-can-make-it-hard-to-stand-out-as-a-strong-data-scientist-71e9a2a6bc0> 

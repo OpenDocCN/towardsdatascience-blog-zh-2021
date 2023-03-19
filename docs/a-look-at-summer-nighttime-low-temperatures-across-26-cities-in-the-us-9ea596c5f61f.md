@@ -16,19 +16,11 @@
 
 如果你有兴趣学习更多关于美国天气数据源的知识，你可能会在我的关于天气数据民主化的教程中找到你想要的。
 
-[](/democratizing-historical-weather-data-with-r-cc3c76dde7c5) [## 用 R 民主化历史天气数据
-
-### 园丁指南，有人搬到不同的气候，或任何其他原因，人们可能有兴趣分析…
-
-towardsdatascience.com](/democratizing-historical-weather-data-with-r-cc3c76dde7c5) 
+</democratizing-historical-weather-data-with-r-cc3c76dde7c5>  
 
 如果你想快速阅读一下 2021 年 6 月太平洋西北部的历史性热浪，你可能会喜欢这本书。
 
-[](https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f) [## 太平洋西北地区的热浪有低有高，令人震惊
-
-### 探索历史夜间低温
-
-sabolch-horvat.medium.com](https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f) 
+<https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f>  
 
 # 24 个城市的比较
 

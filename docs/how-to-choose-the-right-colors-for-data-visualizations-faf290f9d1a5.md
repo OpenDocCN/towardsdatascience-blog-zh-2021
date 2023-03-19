@@ -38,11 +38,7 @@
 
 **根据你的文化背景以及你希望你的图表传达的感情**，选择最有意义的颜色将有助于读者更好地理解和坚持你的图表。如果你想更多地了解用四种不同的方式给同一个图表着色对读者来说会有不同的意义，你可以参考这篇文章:
 
-[](/the-power-of-color-in-data-visualizations-9868d661f2a0) [## 数据可视化中颜色的力量
-
-### 仅仅改变图表的颜色会导致完全不同的解释
-
-towardsdatascience.com](/the-power-of-color-in-data-visualizations-9868d661f2a0) 
+</the-power-of-color-in-data-visualizations-9868d661f2a0>  
 
 # 2.使颜色一致
 

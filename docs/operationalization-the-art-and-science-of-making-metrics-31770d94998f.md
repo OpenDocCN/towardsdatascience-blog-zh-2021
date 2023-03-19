@@ -149,16 +149,4 @@
 
 *与此同时，本文中的大部分链接会带你去我的其他思考。不能选择？尝试以下方法之一:*
 
-*[](http://bit.ly/quaesita_inkblot) [## 你的数据集是一个巨大的墨迹测试
-
-### apophenia 在分析中的危险以及您对此可以做些什么
-
-一点点](http://bit.ly/quaesita_inkblot) [](http://bit.ly/quaesita_fad) [## 人工智能是一种时尚吗？
-
-### 人们认为人工智能只是昙花一现的三个原因
-
-一点点](http://bit.ly/quaesita_fad) [](/statistics-for-people-in-a-hurry-a9613c0ed0b) [## 匆匆忙忙的人的统计
-
-### 曾经希望有人能告诉你统计的意义以及行话在普通英语中的含义吗？让…
-
-towardsdatascience.com](/statistics-for-people-in-a-hurry-a9613c0ed0b)*
+*<http://bit.ly/quaesita_inkblot>  <http://bit.ly/quaesita_fad>  </statistics-for-people-in-a-hurry-a9613c0ed0b> *

@@ -16,11 +16,7 @@
 
 如果你对 Python 3.10 中的其他特性感兴趣，可以参考我之前的帖子。
 
-[](/python-3-10-five-new-features-and-considerations-f775c9432887) [## Python 3.10 五项新功能和注意事项
-
-### 不仅仅是列表，还有例子和注意事项。
-
-towardsdatascience.com](/python-3-10-five-new-features-and-considerations-f775c9432887) 
+</python-3-10-five-new-features-and-considerations-f775c9432887>  
 
 # 1.基础
 
@@ -303,10 +299,6 @@ direction(d3)
 
 在本文中，我介绍了 Python 3.10 中引入的新语法“match-case”，以及它是多么灵活和强大。我相信钉住这个新语法将帮助我们在可读性方面写更好的代码。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

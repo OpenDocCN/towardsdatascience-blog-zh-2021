@@ -14,11 +14,7 @@
 
 我喜欢将数据科学视为讲述数据故事的艺术。你越擅长讲故事，这个故事就越有吸引力。也就是说，找到数据所讲述的故事并不总是容易的。事实上，这从来都不容易。简化寻找故事过程的一种方法是通过数据可视化。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 数据可视化不仅仅是数据科学项目的一个步骤；这是它的核心。然而，通常情况下，开发人员不希望花很长时间来设计可视化。这就是为什么像 Tableau 这样的工具为开发人员提供了一个很好的选择，让他们在代码上花更多的时间，同时产生有价值的、清晰的、引人注目的数据可视化。
 
@@ -32,11 +28,7 @@ Tableau 可能是最知名和最常用的数据可视化工具；它健壮、有
 
 Google Data Studio 允许您同时创建不同数据集的可视化，它是为团队访问相同的数据和仪表板而设计的，并且是免费的。Google Data Studio 可以与其他 Google 产品集成，如 Google Analytics、Ads、Google cloud 和 BigQuery，以创建强大、健壮的配对，可用于各种数据探索任务。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # 2 号:数据包装器
 
@@ -50,11 +42,7 @@ Datawrapper 是一个完全基于网络的服务，为不同需求的开发者�
 
 Infogram 是一个界面友好的易用工具。它提供了 30 多种类型的图表和可视化，可以从 A 到 z 进行定制。Infogram 还为我们这些没有太多时间的人提供了使用预制模板创建数据仪表板的选项。Infogram 提供了选项有限的免费版本和每月 19 美元的付费版本。
 
-[](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) [## 数据可视化 101:如何选择 Python 绘图库
-
-### 如何选择不同用途的绘图库
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a) 
+</data-visualization-101-how-to-choose-a-python-plotting-library-853460a08a8a>  
 
 # №4:融合图表
 
@@ -68,11 +56,7 @@ towardsdatascience.com](/data-visualization-101-how-to-choose-a-python-plotting-
 
 寻找和讲述数据故事的最佳方式是将其可视化。数据可视化不仅仅是任何数据科学项目的另一个步骤。这是决定你整个项目成败的关键步骤之一。如果您在数据探索步骤中使用了错误的数据可视化技术，那么您可能会错过一些基本的模式、趋势或见解。
 
-[](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) [## 数据可视化 101:如何选择图表类型
-
-### 如何选择最能描述数据的图表类型
-
-towardsdatascience.com](/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) 
+</data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6>  
 
 如果你花了这么多时间开发和训练你的模型，最后，你以一种枯燥的、不可描述的方式来可视化你的结果，你的客户可能会对你的结果不屑一顾，并努力寻找你工作的真正意义。这就是为什么数据可视化应该是每个数据科学家应该努力的主要技能之一。
 

@@ -52,10 +52,6 @@ ML-Collage [12/52]:数字改编自 Cohen 等人(2021) |📝[论文](http://arxiv
 
 > 这是这个月的。让我知道你最喜欢的论文是什么。如果你想获得一些每周 ML 拼贴输入，查看 Twitter 上的标签[# ML collage](https://twitter.com/hashtag/mlcollage)。你也可以看看我上一篇博文中的拼贴画:
 
-[](/four-deep-learning-papers-to-read-in-march-2021-9d933f52aafa) [## 2021 年 3 月要读的四篇深度学习论文
-
-### 从合成梯度到胶囊网络，网络训练守恒定律&多主体生成模型
-
-towardsdatascience.com](/four-deep-learning-papers-to-read-in-march-2021-9d933f52aafa) 
+</four-deep-learning-papers-to-read-in-march-2021-9d933f52aafa>  
 
 > 最后，如果你想了解更多关于 RL 和其他领域的元梯度的潜力，你可以查看我以前的调查博客。我也有机会在[最近的 ML Street Talk 播客插曲](https://youtu.be/hfaZwgk_iS0)中采访了主要的元渐变作者之一——来自 DeepMind 的汤姆·萨哈维:

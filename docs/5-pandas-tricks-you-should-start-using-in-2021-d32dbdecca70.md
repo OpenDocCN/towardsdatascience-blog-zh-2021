@@ -23,11 +23,7 @@ andas 无需介绍，因为它已经成为 Python 中事实上的数据分析工
 
 我们开始吧。
 
-[](https://romanorac.medium.com/pandas-data-analysis-series-b8cec5b38b22) [## 熊猫数据分析系列
-
-### 从提示和技巧，如何不指南到与大数据分析相关的提示，熊猫文章的精选列表。
-
-romanorac.medium.com](https://romanorac.medium.com/pandas-data-analysis-series-b8cec5b38b22) 
+<https://romanorac.medium.com/pandas-data-analysis-series-b8cec5b38b22>  
 
 # 1.日期范围
 

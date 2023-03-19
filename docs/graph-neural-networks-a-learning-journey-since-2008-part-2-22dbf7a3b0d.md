@@ -8,11 +8,7 @@
 
 布雷迪·贝里尼在 [Unsplash](https://unsplash.com/photos/WEQbe2jBg40) 上拍摄的照片
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 我们在本系列的第一部分[中学习了斯卡塞利图形神经网络的理论背景。特别是，我们了解到:](/graph-neural-networks-a-learning-journey-since-2008-part-1-7df897834df9)
 
@@ -31,11 +27,7 @@ medium.com](https://medium.com/@stefanobosisio1/membership)
 
 主要脚本存储在此存储库中:
 
-[](https://github.com/Steboss/learn_graph_ml/tree/master/Scarselli_GNN) [## 大师 ste boss/learn _ graph _ ml/斯卡塞利 _GNN
-
-### 从 2009 年到现在的一次长途旅行，在 ste boss/learn _ graph _ ml/Scarselli _ GNN 大师课上学习图表
-
-github.com](https://github.com/Steboss/learn_graph_ml/tree/master/Scarselli_GNN) 
+<https://github.com/Steboss/learn_graph_ml/tree/master/Scarselli_GNN>  
 
 在继续之前，我建议您在一个工作目录中创建一个虚拟环境(只需输入您的终端`python -m venv venv`，就会创建一个`venv`文件夹)。然后，您可以安装这些软件包:
 
@@ -76,11 +68,7 @@ github.com](https://github.com/Steboss/learn_graph_ml/tree/master/Scarselli_GNN)
 
 ## 1.输入预处理:边、标签和要素
 
-[](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_edge_nodes_mat.py) [## 主 Steboss 上的 learn _ graph _ ml/prepare _ edge _ nodes _ mat . py/learn _ graph _ ml
-
-### 从 2009 年到现在的一次长途旅行，带着 graphs-learn _ graph _ ml/prepare _ edge _ nodes _ mat . py 在主…
-
-github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_edge_nodes_mat.py) 
+<https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_edge_nodes_mat.py>  
 
 `prepare_edge_nodes_mat.py`允许创建两个矩阵:边矩阵`E`和节点特征矩阵`N`。
 
@@ -112,11 +100,7 @@ github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/
 
 ## 2.从矩阵到 GNN 输入
 
-[](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_GNN.py) [## 主 ste boss/learn_graph_ml/prepare _ gnn . py 上的 learn _ graph _ ml
-
-### 从 2009 年到现在的一次长途旅行，带着图表- learn_graph_ml/prepare_GNN.py 在 Steboss 大师/learn_graph_ml
-
-github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_GNN.py) 
+<https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/prepare_GNN.py>  
 
 `prepare_GNN.py`帮助从`E`和`N`矩阵创建神经网络的输入。
 
@@ -128,11 +112,7 @@ github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/
 
 ## 3.定义输入和输出函数
 
-[](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/input_and_output_functions.py) [## 主 ste boss/learn _ graph _ ml/input _ and _ output _ functions . py
-
-### 从 2009 年到现在的一个漫长的旅程，有图-learn _ graph _ ml/input _ and _ output _ functions . py 在主…
-
-github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/input_and_output_functions.py) 
+<https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/input_and_output_functions.py>  
 
 `input_and_output_functions.py`将底层转换和输出函数定义为 MLP。`class Net`的核心函数是`netSt`和`netOut`，分别为 *f𝓌* 和 *g𝓌* 创建神经网络，定义了一个 2 层神经网络。`netSt`接收维数为 70 的节点特征，并使用`tanh`激活函数，用 3 个隐藏节点重新映射这些特征。`netOut`具有类似的架构，它接收 2 维输入，通过 3 个节点重新映射，并在`softmax`应用后返回最终预测输出:
 
@@ -140,11 +120,7 @@ github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/
 
 ## 4.几乎准备好了:主 GNN
 
-[](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/GNN.py) [## 主 ste boss/learn_graph_ml/gnn . py 上的 learn _ graph _ ml
-
-### 从 2009 年到现在的漫长旅程，在 Steboss 大师/learn _ graph _ ml/gnn . py
-
-github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/GNN.py) 
+<https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/GNN.py>  
 
 最后一步是`GNN.py`，我们将定义神经网络架构应该如何工作。功能`convergence`、`condition`和`Loop`是整个架构的核心部分，在这里更新节点的状态
 
@@ -160,11 +136,7 @@ github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/
 
 您现在可以运行`karate.py`了！！！
 
-[](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/karate.py) [## 师父 ste boss/learn _ graph _ ml/空手道. py
-
-### 从 2009 年到现在的一次长途旅行，有图表-learn _ graph _ ml/空手道. py 在 Steboss 大师/learn_graph_ml
-
-github.com](https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/karate.py) 
+<https://github.com/Steboss/learn_graph_ml/blob/master/Scarselli_GNN/karate.py>  
 
 最终的输出没有什么意义，但它是一个显著的例子，可以看到图形神经网络的力量以及图形如何被用作我们预测的输入。
 

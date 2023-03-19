@@ -71,24 +71,12 @@ SwiftUI 提供了多种风格的`Stacks`，比如`VStack`、`HStack`和`ZStack`�
 
 在下一次之前，您可以阅读本系列的第一篇文章:
 
-[](https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b) [## SwiftUI 数据可视化:雷达图
-
-### 在 SwiftUI 应用中构建漂亮的图表
-
-medium.com](https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b) 
+<https://medium.com/better-programming/data-visualization-with-swiftui-radar-charts-64124aa2ac0b>  
 
 你可以回顾一些如何解决复杂问题的指导方针:
 
-[](https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea) [## 在没有头绪的情况下如何编码
-
-### 分解复杂任务并使其正确的指南。
-
-medium.com](https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea) 
+<https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea>  
 
 或者你可能想得到一些在家工作时如何保持理智的建议:
 
-[](https://medium.com/swlh/how-to-stay-sane-as-a-remote-developer-48377bae99d3) [## 如何作为远程开发者保持理智
-
-### 作为远程开发人员的第一年，我学到了 5 个最重要的经验。
-
-medium.com](https://medium.com/swlh/how-to-stay-sane-as-a-remote-developer-48377bae99d3)
+<https://medium.com/swlh/how-to-stay-sane-as-a-remote-developer-48377bae99d3> 

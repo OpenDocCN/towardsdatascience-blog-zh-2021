@@ -100,8 +100,4 @@
 
 担心隐私和安全？对安装来源不明的应用程序感到怀疑？只需克隆[项目库](https://github.com/slipnitskaya/image-tagger)并使用 Android Studio 4.1 或更新版本自行构建 ImageTagger。
 
-[](https://github.com/slipnitskaya/image-tagger) [## slipnitskaya/图像标签
-
-### 这个项目演示了基于人工智能的 Android 应用程序，允许生成给定图像的标签。视觉的总量…
-
-github.com](https://github.com/slipnitskaya/image-tagger)
+<https://github.com/slipnitskaya/image-tagger> 

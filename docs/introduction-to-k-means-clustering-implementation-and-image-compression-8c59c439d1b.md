@@ -91,12 +91,4 @@ k 均值算法。来源:Incheol via [Wikimedia](https://commons.wikimedia.org/wi
 
 # 相关文章
 
-[](/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) [## 理解机器学习中的 K-均值聚类
-
-### K-means 聚类是最简单和最流行的无监督机器学习算法之一。
-
-towardsdatascience.com](/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) [](https://heartbeat.fritz.ai/a-2019-guide-to-deep-learning-based-image-compression-2f5253b4d811) [## 2019 年基于深度学习的图像压缩指南
-
-### 流行的和最近的方法
-
-heartbeat.fritz.ai](https://heartbeat.fritz.ai/a-2019-guide-to-deep-learning-based-image-compression-2f5253b4d811)
+</understanding-k-means-clustering-in-machine-learning-6a6e67336aa1>  <https://heartbeat.fritz.ai/a-2019-guide-to-deep-learning-based-image-compression-2f5253b4d811> 

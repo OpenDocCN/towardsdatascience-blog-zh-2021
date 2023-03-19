@@ -230,24 +230,8 @@ python3 -m twine upload dist/*
 
 # 相关文章
 
-[](/how-to-quickly-build-a-readme-file-in-github-8886b98ef95a) [## 如何在 Github 中快速构建自述文件
-
-### 快速浏览 readme.so 在线工具，快速构建 Github 自述文件。
-
-towardsdatascience.com](/how-to-quickly-build-a-readme-file-in-github-8886b98ef95a) [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [## 有没有想过用 Python virtualenv？
-
-### 在终端和 Jupyter 笔记本上安装和使用 Python virtualenv 的实用指南。
-
-towardsdatascience.com](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) 
+</how-to-quickly-build-a-readme-file-in-github-8886b98ef95a>  </have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785>  <https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d>  
 
 # 参考
 
- [## 打包 Python 项目——Python 打包用户指南
-
-### 本教程将带您了解如何打包一个简单的 Python 项目。它将向您展示如何添加必要的文件…
-
-packaging.python.org](https://packaging.python.org/tutorials/packaging-projects/)
+ 

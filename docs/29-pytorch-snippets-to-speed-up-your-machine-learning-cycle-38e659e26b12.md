@@ -312,15 +312,7 @@ for t in range(epochs):
 
 我想在这里提到两个我认为对 Pytorch 中的基本代码非常有用的资源:
 
- [## PyTorch 备忘单- PyTorch 教程 1.8.1+cu102 文档
-
-### 编辑描述
-
-pytorch.org](https://pytorch.org/tutorials/beginner/ptcheat.html) [](https://github.com/Apress/pytorch-recipes) [## apress/py torch-食谱
-
-### 该知识库附有 Pradeepta Mishra 的 PyTorch 食谱(Apress，2019)。使用下载压缩文件…
-
-github.com](https://github.com/Apress/pytorch-recipes) 
+  <https://github.com/Apress/pytorch-recipes>  
 
 因此，请确保您的 Pytorch 代码片段随时可用，并享受编写代码的乐趣！
 

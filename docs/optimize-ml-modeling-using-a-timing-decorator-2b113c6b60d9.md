@@ -20,11 +20,7 @@
 
 我们想做[高效的数据科学](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37)。这意味着我们希望**提高我们机器学习(ML)训练**和推理的效率。自然，我们需要测量将特定的 ML 模型拟合到数据所花费的时间。
 
-[](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) [## 为什么以及如何学习“生产数据科学”？
-
-### 什么是生产数据科学，它有哪些组成部分？
-
-medium.com](https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37) 
+<https://medium.com/productive-data-science/why-and-how-should-you-learn-productive-data-science-53377b473f37>  
 
 也许，我们想用各种模型进行实验，并测量它们在相同测试数据上的表现。或者，我们可能希望改变模型的超参数，并查看训练时间和性能如何变化。
 

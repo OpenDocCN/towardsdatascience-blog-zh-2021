@@ -95,11 +95,7 @@
 *   [使用 Jensen-Shannon 和 Kullback Leibler 测量两个样本之间的统计相似性](https://medium.com/datalab-log/measuring-the-statistical-similarity-between-two-samples-using-jensen-shannon-and-kullback-leibler-8d05af514b15)
 *   [瓦瑟斯坦公制](https://en.wikipedia.org/wiki/Wasserstein_metric)
 
-[](https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-datasets/) [## ArangoML 第 4 部分:检测数据集中的协变量变化
-
-### 本文是介绍 ArangoML 并展示其对机器学习的好处的系列文章中的第四篇…
-
-www.arangodb.com](https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-datasets/) 
+<https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-datasets/>  
 
 *   [概念漂移下的学习:概述](https://arxiv.org/abs/1010.4784)
 *   [理解概念漂移](https://arxiv.org/abs/1704.00362)

@@ -158,16 +158,8 @@ Reddit 被认为是 1 月下旬事件的中心。1 月 29 日的 peek 活动中�
 
 和往常一样，如果你能想到任何改进我所做的事情的方法，请评论。
 
-[](https://github.com/john-adeojo/Reddit_WallStreet) [## 约翰-阿德乔/Reddit _ 华尔街
-
-### 在 GitHub 上创建一个帐户，为 john-adeojo/Reddit_WallStreet 的发展做出贡献。
-
-github.com](https://github.com/john-adeojo/Reddit_WallStreet) 
+<https://github.com/john-adeojo/Reddit_WallStreet>  
 
 **关注我在**的链接
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo 数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://www.linkedin.com/in/john-adeojo/> 

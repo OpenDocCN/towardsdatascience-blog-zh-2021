@@ -162,4 +162,4 @@ To calculate the Fisher-Pearson correlation of skewness, we will need the **scip
 
 如果您有任何问题或对一些编辑有建议，请随时在下面留下评论，并查看更多我的[统计](https://pyshark.com/category/python-programming/)文章。
 
-*原载于 2021 年 7 月 26 日 https://pyshark.com*[](https://pyshark.com/skewness-in-python/)**。**
+*原载于 2021 年 7 月 26 日 https://pyshark.com*<https://pyshark.com/skewness-in-python/>**。**

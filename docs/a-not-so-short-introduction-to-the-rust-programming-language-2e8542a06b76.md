@@ -453,11 +453,7 @@ Rust 中的测试内置于语言本身的结构中。看看下面的片段:
 
 看看这个小教程，明白我的意思:
 
- [## I/O 项目:构建命令行程序
-
-### 这一章是对到目前为止你所学的许多技能的一个回顾，也是对一些更标准的库的一个探索…
-
-doc.rust-lang.org](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) 
+  
 
 # 高级概念:一般类型、特征、生存期、闭包和并发性
 
@@ -467,42 +463,22 @@ doc.rust-lang.org](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
 
 如果您还不是 Medium 的成员，但想要无限制地访问像这样的故事，您只需点击下面的:
 
-[](https://kaspermuller.medium.com/membership) [## 通过我的推荐链接加入 Medium-Kasper müller
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kaspermuller.medium.com](https://kaspermuller.medium.com/membership) 
+<https://kaspermuller.medium.com/membership>  
 
 进一步阅读的资源:
 
 **锈书:**
 
- [## Rust 编程语言
-
-### 史蒂夫·克拉布尼克和卡罗尔·尼科尔斯，Rust 社区的贡献，这个版本的文本假设你…
-
-doc.rust-lang.org](https://doc.rust-lang.org/book/) 
+  
 
 **铁锈举例:**
 
- [## 生锈的例子
-
-### Rust 是一种现代系统编程语言，专注于安全性、速度和并发性。它实现了这些目标…
-
-doc.rust-lang.org](https://doc.rust-lang.org/rust-by-example/) 
+  
 
 **文档**:
 
- [## Rust 编程语言
-
-### 文档是任何软件项目的重要组成部分，在 Rust 中是一流的。让我们来谈谈工具…
-
-web.mit.edu](http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/documentation.html) 
+  
 
 **让我们生锈吧:**
 
-[](https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w) [## 让我们生锈吧
-
-### 这个频道是你学习 Rust 编程语言的第一资源！我们将讨论基本的 Rust 语言教程…
-
-www.youtube.com](https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w)
+<https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w> 

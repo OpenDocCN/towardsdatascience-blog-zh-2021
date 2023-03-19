@@ -34,11 +34,7 @@ GLMs(作者图片)
 
 如需进一步阅读，请查看我关于线性回归的[概率解释](/probabilistic-interpretation-of-linear-regression-clearly-explained-d3b9ba26823b)的文章。
 
-[](/probabilistic-interpretation-of-linear-regression-clearly-explained-d3b9ba26823b) [## 线性回归的概率解释解释清楚
-
-### 最小二乘法背后的原因
-
-towardsdatascience.com](/probabilistic-interpretation-of-linear-regression-clearly-explained-d3b9ba26823b) 
+</probabilistic-interpretation-of-linear-regression-clearly-explained-d3b9ba26823b>  
 
 **什么是指数分布族？**
 

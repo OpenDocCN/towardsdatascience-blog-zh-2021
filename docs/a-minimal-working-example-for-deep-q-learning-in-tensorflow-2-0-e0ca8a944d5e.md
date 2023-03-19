@@ -98,23 +98,11 @@ next_q_value = np.max(next_q_values[0])
 
 *想要稳定你的深度 Q 学习算法？下面这篇文章可能会让你感兴趣:*
 
-[](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) [## 如何对经验重放、批量学习和目标网络进行建模
-
-### 使用 TensorFlow 2.0，快速学习稳定和成功的深度 Q 学习的三个基本技巧
-
-towardsdatascience.com](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) 
+</how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172>  
 
 *转而寻求实施政策梯度方法？请检查我的文章与连续和离散情况下的最小工作示例:*
 
-[](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [## TensorFlow 2.0 中连续策略梯度的最小工作示例
-
-### 一个简单的训练高斯演员网络的例子。定义自定义损失函数并应用梯度胶带…
-
-towardsdatascience.com](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) 
+</a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b>  </a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  
 
 ## 参考
 

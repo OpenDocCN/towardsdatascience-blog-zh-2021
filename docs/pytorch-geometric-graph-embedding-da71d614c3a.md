@@ -6,11 +6,7 @@
 
 图形表示学习/嵌入通常是用于将图形数据结构转换为更结构化的向量形式的过程的术语。这通过提供更易管理的固定长度向量来实现下游分析。理想情况下，除了节点特征之外，这些向量还应包含图结构(拓扑)信息。我们使用图形神经网络(CNN)来执行这种转换。要对 GNNs 有一个基本的高级概念，您可以看一下下面的文章。
 
-[](/what-can-you-do-with-gnns-5dbec638b525) [## 你能用 GNNs 做什么
-
-### 图形神经网络的操作、效用和优势
-
-towardsdatascience.com](/what-can-you-do-with-gnns-5dbec638b525) 
+</what-can-you-do-with-gnns-5dbec638b525>  
 
 在本文中，我将讨论 GraphSAGE 架构，它是消息传递神经网络(MPNN)的一种变体。MPNN 是一个描述 gnn 如何有效实现的奇特术语。
 

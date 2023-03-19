@@ -45,8 +45,4 @@
 
 查看本系列的下一篇文章！
 
-[](/the-fourier-transform-4-putting-the-fft-to-work-38dd84dc814) [## 傅立叶变换，应用(4):让 FFT 发挥作用
-
-### 傅立叶变换的实际应用
-
-towardsdatascience.com](/the-fourier-transform-4-putting-the-fft-to-work-38dd84dc814)
+</the-fourier-transform-4-putting-the-fft-to-work-38dd84dc814> 

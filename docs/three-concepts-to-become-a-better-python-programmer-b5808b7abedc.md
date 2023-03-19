@@ -153,11 +153,7 @@ num_dict_2 = {‘d’: 4, ‘e’: 5, ‘f’: 6}new_dict = {**num_dict, **num_d
 # {‘a’: 1, ‘b’: 2, ‘c’: 3, ‘d’: 4, ‘e’: 5, ‘f’: 6}
 ```
 
-[](/two-functions-to-know-in-python-bfb925bb5fff) [## Python 中需要了解的两个函数
-
-### 了解如何在 Python 中使用 any()和 all()函数
-
-towardsdatascience.com](/two-functions-to-know-in-python-bfb925bb5fff) 
+</two-functions-to-know-in-python-bfb925bb5fff>  
 
 # 2.args 和 kwargs
 
@@ -174,11 +170,7 @@ towardsdatascience.com](/two-functions-to-know-in-python-bfb925bb5fff)
 
 > 注意:这就是我们在定义可以接收不同数量参数的函数时所做的事情！那就是*args 和**kwargs 的概念！
 
-[](/three-functions-to-know-in-python-4f2d27a4d05) [## Python 中需要了解的三个函数
-
-### 了解如何使用 python 中的映射、过滤和归约函数
-
-towardsdatascience.com](/three-functions-to-know-in-python-4f2d27a4d05) 
+</three-functions-to-know-in-python-4f2d27a4d05>  
 
 ## *参数
 
@@ -208,11 +200,7 @@ def names_dict(**kwargs):
 
 *要更全面地了解*args 和**kwargs:*
 
-[](/args-and-kwargs-in-python-6d991a3c1b5e) [## * Python 中的 args 和**kwargs
-
-### 理解什么是*args 和**kwargs 以及如何使用它们
-
-towardsdatascience.com](/args-and-kwargs-in-python-6d991a3c1b5e) 
+</args-and-kwargs-in-python-6d991a3c1b5e>  
 
 # 3.迭代、可迭代对象和迭代器
 
@@ -321,11 +309,7 @@ num1, num2 = 5, 10min = num2 if num1 > num2 else num1
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的 [***链接***](https://lmatalka90.medium.com/membership) *，我会赚一小笔佣金。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 # 结论
 

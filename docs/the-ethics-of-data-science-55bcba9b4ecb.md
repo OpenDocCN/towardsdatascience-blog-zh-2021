@@ -70,44 +70,8 @@
 
 查看我最近的一些文章
 
-[](/all-about-deepfakes-e481a55cf7e5) [## 关于 Deepfakes 的一切
-
-### 什么是 deepfake，它在当今世界有多“真实”？
-
-towardsdatascience.com](/all-about-deepfakes-e481a55cf7e5) [](https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482) [## 退出 Kubernetes Kubeadm，转投 MicroK8s
-
-### 为不易出错的群集让路…
-
-medium.com](https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482) [](https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf) [## 因为“自私”的原因离职
-
-### 有什么“不好的”理由让你为了新的工作而辞职吗？
-
-miketechgame.medium.com](https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf) [](https://python.plainenglish.io/video-editing-with-python-73d419ba93ae) [## 如何用 Python 编辑视频
-
-### 通过使用 MoviePy Python 模块加速回放来创建延时的指南。
-
-python .平原英语. io](https://python.plainenglish.io/video-editing-with-python-73d419ba93ae) [](https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7) [## Kubernetes vs Docker Swarm
-
-### 评估容器编排平台…
-
-medium.com](https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7) 
+</all-about-deepfakes-e481a55cf7e5>  <https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482>  <https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf>  <https://python.plainenglish.io/video-editing-with-python-73d419ba93ae>  <https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7>  
 
 参考资料:
 
-[](https://datascienceethics.com/data-science-ethics-in-practice/#:~:text=Data%20Science%20Ethics%20in%20Practice%201%20Protect%20Privacy.,7%20Consider%20Context.%20...%208%20Encode%20Equity.%20) [## 实践中的数据科学伦理-
-
-### 数据科学道德最佳实践的目的是成为一个框架，我们可以在其中运行，而不是一个…
-
-datascienceethics.com](https://datascienceethics.com/data-science-ethics-in-practice/#:~:text=Data%20Science%20Ethics%20in%20Practice%201%20Protect%20Privacy.,7%20Consider%20Context.%20...%208%20Encode%20Equity.%20) [](https://www.freecodecamp.org/news/the-ethics-of-data-science/) [## 数据科学伦理——什么可能出错以及如何避免出错
-
-### 数据科学模型就在你身边。它们可能会影响你的入学，不管你是被录用(还是被解雇)…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/the-ethics-of-data-science/) [](https://datascience.stanford.edu/research/research-areas/ethics-and-data-science) [## 伦理和数据科学
-
-### 新技术经常引发新的道德问题。例如，核武器的出现带来了巨大的压力…
-
-datascience.stanford.edu](https://datascience.stanford.edu/research/research-areas/ethics-and-data-science) [](https://www.karmelsoft.com/ethical-challenges-of-big-data/) [## 大数据的伦理挑战
-
-### 随着数据技术的进步，大数据的伦理挑战增加了，并提出了社会从未有过的问题…
-
-www.karmelsoft.com](https://www.karmelsoft.com/ethical-challenges-of-big-data/)
+<https://datascienceethics.com/data-science-ethics-in-practice/#:~:text=Data%20Science%20Ethics%20in%20Practice%201%20Protect%20Privacy.,7%20Consider%20Context.%20...%208%20Encode%20Equity.%20>  <https://www.freecodecamp.org/news/the-ethics-of-data-science/>  <https://datascience.stanford.edu/research/research-areas/ethics-and-data-science>  <https://www.karmelsoft.com/ethical-challenges-of-big-data/> 

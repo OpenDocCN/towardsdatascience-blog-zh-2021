@@ -138,22 +138,10 @@ ax.tick_params(axis = "y",
 
 如果你喜欢你所读的，并且想在 medium 上看到更多其他作者的作品，请随意使用我下面的参考代码注册:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership>  
 
 或者考虑看看我的其他文章:
 
-[](/ucl-data-science-society-python-logic-3eb847362a97) [## UCL 数据科学学会:Python 逻辑
-
-### 讲习班 3:条件语句、逻辑语句、循环和函数
-
-towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97) [](/univariate-outlier-detection-in-python-40b621295bc5) [## Python 中的单变量异常检测
-
-### 从数据集中检测异常值的五种方法
-
-towardsdatascience.com](/univariate-outlier-detection-in-python-40b621295bc5) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</ucl-data-science-society-python-logic-3eb847362a97>  </univariate-outlier-detection-in-python-40b621295bc5>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)

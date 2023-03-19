@@ -12,11 +12,7 @@
 
 这个故事利用了泛化树和泛化语言的概念，并提出了一种聚合不同语言的结果来发现表格数据集中的格式错误的方法。如果你需要泛化树和语言的详细介绍，你可以浏览下面的故事。
 
-[](/how-to-auto-detect-format-errors-in-a-dataset-6609a9e9aacc) [## 如何自动检测数据集中的错误
-
-### 引入泛化树和泛化语言来自动检测结构化数据集中的损坏值。
-
-towardsdatascience.com](/how-to-auto-detect-format-errors-in-a-dataset-6609a9e9aacc) 
+</how-to-auto-detect-format-errors-in-a-dataset-6609a9e9aacc>  
 
 简而言之，由泛化树导出的泛化语言将原始值泛化成模式。例如，让我们考虑下图中给出的一般化树。
 

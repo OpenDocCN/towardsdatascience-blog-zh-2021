@@ -14,11 +14,7 @@
 
 开始总是最难的，但这并不意味着它们是不可能的。无论事情从远处看起来有多难，一旦你付出了努力，采取了一些认真的步骤，那么看起来如此困难的事情就会变得容易处理。
 
-[](/top-5-websites-to-find-data-science-freelance-jobs-63081362a566) [## 寻找数据科学自由职业的 6 大网站
-
-### 自由职业是一个很好的选择，尤其是在今天
-
-towardsdatascience.com](/top-5-websites-to-find-data-science-freelance-jobs-63081362a566) 
+</top-5-websites-to-find-data-science-freelance-jobs-63081362a566>  
 
 这篇文章将带你了解我在尝试——老实说，在奋斗——开始自由职业生涯时采取的一些步骤。我还想说，不管你想从事什么样的自由职业，这些步骤仍然适用。因此，无论你是想成为一名自由职业的数据科学家、网站开发人员、技术作家还是导师，遵循这些步骤都有望帮助你实现目标。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/top-5-websites-to-find-data-science-freelance-jobs-6308
 
 如果你是一个初学者，你可能不清楚你的技能可以准确地应用于什么类型的项目。在准备过程的这一阶段，你可以做研究，寻找什么样的项目，公司和客户想要什么，并尝试将一些类型的项目与你在步骤 1 中列出的技能相匹配。
 
-[](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af) [## 作为一名自由数据科学家，你可以做 7 种类型的工作
-
-### 建立一个更好的投资组合，发展你的专长，赚钱
-
-towardsdatascience.com](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af) 
+</7-types-of-gigs-you-can-do-as-a-freelance-data-scientist-5b81f3c203af>  
 
 # 第三步:建立网上形象。
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/7-types-of-gigs-you-can-do-as-a-freelance-data-scientis
 
 总的来说，你可以通过以下三种方式找到自由职业者的工作，要么联系客户，要么客户直接联系你，要么你可以浏览自由职业者的网站并投标。这一步最重要的是确保你找到的工作不是骗局。一个可以帮助你发现合法工作的资源是 [FlexJobs](https://www.flexjobs.com/About.aspx) 。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # 第五步:社交，交流，建立关系网
 
@@ -74,7 +62,7 @@ towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-readi
 
 我们都追求自由，选择的自由，工作的自由，时间的自由。我们都想在工作的时候控制自己的时间，在休息的时候控制自己的时间，去度假。所以这种自由的时间是我一生中最优先考虑的事情。因为，如果我有这种自由，那么我也有选择在哪里工作的自由，我不必被束缚在一个特定的地点，这对我这样的人来说很重要。
 
-[](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) [## 5 本 Python 书籍，让你的代码更上一层楼
+</5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204> [## 5 本 Python 书籍，让你的代码更上一层楼
 
 towardsdatascience.com](/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204) 
 

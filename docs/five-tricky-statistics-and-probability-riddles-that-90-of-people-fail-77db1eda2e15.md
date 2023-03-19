@@ -194,19 +194,11 @@ D:500
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) [## 2022 年数据科学家 50+统计面试问答
-
-### 一个更新的资源，为你的面试刷统计知识！
-
-towardsdatascience.com](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) 
+</50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271>  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 # -特伦斯·申
 

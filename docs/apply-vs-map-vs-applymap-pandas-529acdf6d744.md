@@ -89,24 +89,8 @@ import numpy as np**df[['colA', 'colB']] = df[['colA', 'colB']].apply(np.sqrt)**
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)** 
+**<https://gmyrianthous.medium.com/membership> ** 
 
 ****你可能也会喜欢****
 
-**[](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [## Python 中静态方法和类方法有什么区别？
-
-### 关于 classmethod 和 staticmethod，您只需要知道
-
-towardsdatascience.com](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351)** **[](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [## 使用预提交挂钩自动化 Python 工作流
-
-### 什么是预提交钩子，它们如何给你的 Python 项目带来好处
-
-towardsdatascience.com](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb)** **[](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)**
+**</whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351> ** **</automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb> ** **</mastering-indexing-and-slicing-in-python-443e23457125> **

@@ -8,7 +8,7 @@
 
 照片由 [Marija Zaric](https://unsplash.com/@simplicity?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 
-> *本文使用的代码可以在这里找到——*[](http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/GPTs/#finetuning-gpt-2-for-sentiment-classification)**和* [*T5*](http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/T5/#t5-finetuning) *。要阅读更多关于文本生成模型的内容，请参见*[](http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/text_generation/)**。更多此类文章请访问我的网站*[](https://mohitmayank.com/blog/)**或者看看我的* [*最新数据科学简书*](http://mohitmayank.com/a_lazy_data_science_guide/) *。也可以在*[*LinkedIn*](https://www.linkedin.com/in/imohitmayank/)*上和我联系。****
+> *本文使用的代码可以在这里找到——*<http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/GPTs/#finetuning-gpt-2-for-sentiment-classification>**和* [*T5*](http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/T5/#t5-finetuning) *。要阅读更多关于文本生成模型的内容，请参见*<http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/text_generation/>**。更多此类文章请访问我的网站*<https://mohitmayank.com/blog/>**或者看看我的* [*最新数据科学简书*](http://mohitmayank.com/a_lazy_data_science_guide/) *。也可以在*[*LinkedIn*](https://www.linkedin.com/in/imohitmayank/)*上和我联系。****
 
 # **介绍**
 

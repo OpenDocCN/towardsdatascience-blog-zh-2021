@@ -8,25 +8,17 @@
 > 
 > —阿纳金·天行者
 
-我们正在云上构建一个赛车，使用[](https://github.com/AI4Finance-Foundation/ElegantRL)**。**
+我们正在云上构建一个赛车，使用<https://github.com/AI4Finance-Foundation/ElegantRL>**。**
 
 *如果你想看一个在几分钟内训练一个强大的深度强化学习(DRL)代理的“赛车”，这篇文章就是为你准备的。ElegantRL-Podracer 是一个云解决方案，支持数百万个 GPU 核心在多个级别上进行大规模并行 DRL 训练。让我们开始吧！*
 
 *Steven Li 和[刘晓阳](https://twitter.com/XiaoYangLiu10)的这篇文章描述了我们最近在**neur IPS 2021:Deep RL Workshop**上发表的论文 **ElegantRL-Podracer:可扩展和弹性的云原生深度强化学习库**。*
 
-*[](https://arxiv.org/abs/2112.05923) [## ElegantRL-Podracer:用于云原生深度强化学习的可扩展弹性库
-
-### 深度强化学习(DRL)已经彻底改变了游戏和学习等应用中的学习和驱动
-
-arxiv.org](https://arxiv.org/abs/2112.05923) 
+*<https://arxiv.org/abs/2112.05923>  
 
 代码、文档和演示可在 [GitHub](https://github.com/AI4Finance-Foundation/ElegantRL) 上获得。
 
-[](https://github.com/AI4Finance-Foundation/ElegantRL) [## GitHub-ai4 finance-Foundation/ElegantRL:可扩展的弹性深度强化学习使用…
-
-### ElegantRL 是为研究人员和实践者开发的，具有以下优点:轻量级:核心代码…
-
-github.com](https://github.com/AI4Finance-Foundation/ElegantRL) 
+<https://github.com/AI4Finance-Foundation/ElegantRL>  
 
 # 最大的挑战是什么？
 

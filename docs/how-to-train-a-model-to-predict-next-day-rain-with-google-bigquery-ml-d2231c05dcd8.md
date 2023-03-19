@@ -239,4 +239,4 @@
 
 *感谢您的阅读。对我如何能做得更好有反馈，或者只是想聊天？在评论里告诉我或者在 [LinkedIn](https://www.linkedin.com/in/skyetran/) 上找到我。祝大家这周过得愉快！*
 
-**原载于 2021 年 4 月 12 日 http://thedigitalskye.com*[](http://thedigitalskye.com/2021/04/13/how-to-train-a-classification-model-to-predict-next-day-rain-with-google-bigquery-ml/)**。***
+**原载于 2021 年 4 月 12 日 http://thedigitalskye.com*<http://thedigitalskye.com/2021/04/13/how-to-train-a-classification-model-to-predict-next-day-rain-with-google-bigquery-ml/>**。***

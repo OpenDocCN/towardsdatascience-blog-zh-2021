@@ -12,11 +12,7 @@
 
 虽然在计算机视觉中通过组成超大质量神经网络来解决复杂问题很方便，但理解每个权重对结果的影响很困难。
 
-[](https://medium.com/dataseries/how-ai-can-see-better-than-your-eyes-do-93e5a5da1e8a) [## 人工智能怎么能比你的眼睛看得更清楚
-
-### 卷积神经网络用简单的英语解释。
-
-medium.com](https://medium.com/dataseries/how-ai-can-see-better-than-your-eyes-do-93e5a5da1e8a) 
+<https://medium.com/dataseries/how-ai-can-see-better-than-your-eyes-do-93e5a5da1e8a>  
 
 事实上，神经网络的权重与网络所代表的功能之间的关系极其复杂，尤其是当网络具有数十亿个权重时。
 

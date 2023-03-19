@@ -123,6 +123,6 @@
 
 我发现，人类，甚至被认为是“书呆子”的数据科学家，倾向于与人和故事联系起来，所以如果你能在那里吸引他们，他们通常会更好地记住你，更有可能雇用你。当你有一个引人入胜的故事时，所有其他的问题都会自然而然地到位，作为对整个故事的直观的进一步澄清。
 
-【https://ethno-data.com/common-science-interview-questions/.】[](https://ethno-data.com/common-science-interview-questions/.)**【原文发表于此】更多关于网站和其他文章的信息，请前往*[*https://ethno-data.com/*](https://ethno-data.com/)*。)**
+【https://ethno-data.com/common-science-interview-questions/.】<https://ethno-data.com/common-science-interview-questions/.>**【原文发表于此】更多关于网站和其他文章的信息，请前往*[*https://ethno-data.com/*](https://ethno-data.com/)*。)**
 
-**也感谢《数据科学》杂志发表这篇文章。关于他们工作的更多细节，见*[](/about-towards-data-science-d691af11cc2f)**。***
+**也感谢《数据科学》杂志发表这篇文章。关于他们工作的更多细节，见*</about-towards-data-science-d691af11cc2f>**。***

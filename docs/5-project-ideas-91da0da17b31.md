@@ -87,11 +87,7 @@ Jo Szczepanska 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 这是这个项目的关键部分，你的大部分时间将用于建造铲运机。抓取的数据通常是杂乱的，因此可能要花更多的时间来清理。对于第一次项目，我建议使用 BeautifulSoup 包，但如果你以前做过，请尝试 ScraPy 或 Selenium。网上有很多好的资源。
 
-[](https://realpython.com/beautiful-soup-web-scraper-python/) [## 美丽的汤:用 Python 构建一个 Web 刮刀——真正的 Python
-
-### 在本教程中，你将走过网页抓取过程的主要步骤。你将学习如何写剧本…
-
-realpython.com](https://realpython.com/beautiful-soup-web-scraper-python/) 
+<https://realpython.com/beautiful-soup-web-scraper-python/>  
 
 ## **EDA**
 
@@ -101,11 +97,7 @@ realpython.com](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 下面是我如何使用一些搜集的数据和 EDA 来写博客的一个例子:
 
-[](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) [## 2021 年，数据科学家和分析师必须学习技术技能
-
-### 以数据驱动的方法理解英国市场的技术技能。
-
-adam-shafi.medium.com](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) 
+<https://adam-shafi.medium.com/tech-skills-2021-5805848851c6>  
 
 ## 系统模型化
 
@@ -143,11 +135,7 @@ adam-shafi.medium.com](https://adam-shafi.medium.com/tech-skills-2021-5805848851
 
 您可以探索本文中的方法:
 
-[](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/) [## 应对机器学习数据集中不平衡班级的 8 个策略——机器学习掌握
-
-### 最后更新于 2020 年 8 月 15 日你遇到过这种情况吗？您正在处理数据集。你创建一个分类…
-
-machinelearningmastery.com](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/) 
+<https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/>  
 
 ## 部署
 
@@ -235,11 +223,7 @@ NLP 也有很大的潜力来构建人们想要使用的东西。文本摘要和�
 
 一旦你有了数据集，你就可以做一些真正有趣的 EDA。我个人最喜欢的是进行维度缩减和聚类，以真正可视化模型如何理解数据。你可以在这里看到我的例子:
 
-[](/text-classification-with-bert-2e0297ea188a) [## 用 BERT 升级你的初学者 NLP 项目
-
-### 深度学习不一定要复杂。
-
-towardsdatascience.com](/text-classification-with-bert-2e0297ea188a) 
+</text-classification-with-bert-2e0297ea188a>  
 
 ## 系统模型化
 
@@ -263,20 +247,8 @@ towardsdatascience.com](/text-classification-with-bert-2e0297ea188a)
 
 ## 了解更多信息
 
-[](/text-classification-with-bert-2e0297ea188a) [## 用 BERT 升级你的初学者 NLP 项目
-
-### 深度学习不一定要复杂。
-
-towardsdatascience.com](/text-classification-with-bert-2e0297ea188a) [](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) [## 2021 年，数据科学家和分析师必须学习技术技能
-
-### 以数据驱动的方法理解英国市场的技术技能。
-
-adam-shafi.medium.com](https://adam-shafi.medium.com/tech-skills-2021-5805848851c6) 
+</text-classification-with-bert-2e0297ea188a>  <https://adam-shafi.medium.com/tech-skills-2021-5805848851c6>  
 
 ## 联系我
 
-[](https://www.linkedin.com/in/adamshafi/) [## 亚当·沙菲—数据科学家—凯捷| LinkedIn
-
-### 拥有 4 年以上分析经验的数据科学家，包括管理团队、交付项目和转变…
-
-www.linkedin.com](https://www.linkedin.com/in/adamshafi/)
+<https://www.linkedin.com/in/adamshafi/> 

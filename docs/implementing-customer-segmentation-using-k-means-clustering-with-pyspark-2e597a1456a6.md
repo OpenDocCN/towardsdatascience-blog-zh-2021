@@ -30,11 +30,7 @@ K-Means 是最流行的无监督聚类算法之一。它可以通过简单地利
 
 > 我推荐以下站点来了解更多关于 k-means 算法、其应用、优点和缺点的信息:
 
-[](/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a) [## k-均值聚类:算法、应用、评价方法和缺点
-
-### 使聚集
-
-:算法、应用、评估方法和缺点 Clusteringtowardsdatascience.com](/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a) 
+</k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a>  
 
 要应用 k-means 聚类，我们所要做的就是告诉算法我们想要多少个聚类，它就会把数据集划分成所请求数量的聚类。有几种方法可以确定最佳的集群数量。我们将在本文中使用的*肘*方法就是其中之一。
 

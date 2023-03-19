@@ -14,19 +14,11 @@
 
 通过使用这些工具，我们将一起构建一个特性选择器，它可以接受任意数量的 Sklearn 模型。所有这些模型将投票决定我们应该保留哪些功能，我们通过收集所有模型(民主)的投票来做出决定。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 构建选择器的必备知识:权重和系数
 
@@ -62,11 +54,7 @@ X.loc[:, rfecv.support_]
 
 定制特性选择器的核心将是这个`RFECV`类。我没有详细介绍它是如何工作的，但我以前的文章重点介绍了它。我建议在继续之前阅读:
 
-[](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e) [## Sklearn 的递归特征消除(RFE)功能强大的特征选择
-
-### 编辑描述
-
-towardsdatascience.com](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e) 
+</powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e>  
 
 ## 第一部分:选择模型
 

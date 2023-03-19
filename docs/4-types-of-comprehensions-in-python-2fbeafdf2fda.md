@@ -254,14 +254,6 @@ print('\n'.join([''.join([f'{col}x{row}={row*col} \t' for col in range(1, row + 
 
 希望你喜欢阅读。编码快乐！
 
-[](https://colab.research.google.com/drive/1PygMIKhTAW_Pl5VVk6UkIfC1VoltqJNj?usp=sharing) [## 4TypesComprehensions.ipynb
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1PygMIKhTAW_Pl5VVk6UkIfC1VoltqJNj?usp=sharing) [](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://colab.research.google.com/drive/1PygMIKhTAW_Pl5VVk6UkIfC1VoltqJNj?usp=sharing>  <https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

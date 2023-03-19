@@ -210,11 +210,7 @@ ar_fp = fprowth(df_ary, min_support=0.01, max_len=2,
 
 > *注意:itemsets 列中的值是 frozensets。这与用于实现 Apriori 算法的方法有关，并且它被带到 FP 增长，以便* `*fpgrowth*` *可以是对* `*apriori*` *的替换。这使得比较数据帧变得困难。然而，如果你想看到它们包含相同信息的证据，看看下面链接的与本文相关的笔记本。*
 
-[](https://github.com/benbogart/frequently_bought_together) [## GitHub-benbogart/经常一起购买
-
-### 在 GitHub 上创建一个帐户，为 benbogart/frequency _ buy _ together 开发做贡献。
-
-github.com](https://github.com/benbogart/frequently_bought_together) 
+<https://github.com/benbogart/frequently_bought_together>  
 
 # 计算关联规则
 
@@ -351,11 +347,7 @@ for stockid in preds:
 
 # GitHub 知识库
 
-[](https://github.com/benbogart/frequently_bought_together) [## GitHub-benbogart/经常一起购买
-
-### 在 GitHub 上创建一个帐户，为 benbogart/frequency _ buy _ together 开发做贡献。
-
-github.com](https://github.com/benbogart/frequently_bought_together) 
+<https://github.com/benbogart/frequently_bought_together>  
 
 [1]陈大庆、赛梁赛恩和郭昆，“在线零售业的数据挖掘:使用数据挖掘进行基于 RFM 模型的客户细分的案例研究”，《数据库营销和客户战略管理杂志》，第 19 卷第 3 期，第 197-208 页，2012 年(印刷前在线出版:2012 年 8 月 27 日)。doi: 10.1057/dbm.2012.17)。
 

@@ -118,11 +118,7 @@ classifier_model.compile(loss=tf.keras.losses.BinaryCrossentropy(from_logits=Tru
 
 无论如何，我希望听到反馈，评论或其他人的经验。所以。请随意评论您的想法和建议。感谢阅读！！！
 
-[](https://github.com/VinuraD) [## VinuraD -概述
-
-### 阻止或报告基于 Python 的 web 应用程序，用于查看 SDWAN 网络隧道 Python 1 2 一个基于 GoLang 的程序，用于解析…
-
-github.com](https://github.com/VinuraD) 
+<https://github.com/VinuraD>  
 
 **参考文献**
 

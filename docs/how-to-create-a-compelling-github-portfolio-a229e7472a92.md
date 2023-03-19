@@ -30,11 +30,7 @@
 
 创建一些解释清楚的博客帖子、内核或 markdown 来解释你正在做的事情也是一个好主意，这样你就可以迎合可能会购买你的投资组合的非技术受众。
 
-[](/how-to-make-your-data-science-projects-stand-out-b91d3861a885) [## 如何让你的数据科学项目脱颖而出
-
-### 创建有效的自述文件
-
-towardsdatascience.com](/how-to-make-your-data-science-projects-stand-out-b91d3861a885) 
+</how-to-make-your-data-science-projects-stand-out-b91d3861a885>  
 
 # 创建投资组合
 
@@ -76,11 +72,7 @@ HTML5up.net 的 HTML 样板示例；作者图片
 
 亲自看看我的作品集…
 
-[](https://kurtispykes.github.io/) [## Kurtis Pykes 投资组合
-
-### 我花了 6 年时间追求足球生涯；我在达格南&红桥足球俱乐部效力时，他们在第四梯队…
-
-kurtispykes.github.io](https://kurtispykes.github.io/) 
+<https://kurtispykes.github.io/>  
 
 ## 最后的想法
 
@@ -92,16 +84,4 @@ kurtispykes.github.io](https://kurtispykes.github.io/)
 
 ## **相关文章**
 
-**[](/the-most-important-data-science-project-458d016ef8a6) [## 最重要的数据科学项目
-
-### 每个数据科学家都必须做的项目
-
-towardsdatascience.com](/the-most-important-data-science-project-458d016ef8a6) [](/how-to-secure-a-data-science-role-you-actually-want-169afc52019b) [## 如何获得你真正想要的数据科学职位
-
-### 当承担与人工智能相关的角色时，必须做的事情没有被充分提及
-
-towardsdatascience.com](/how-to-secure-a-data-science-role-you-actually-want-169afc52019b) [](/3-reasons-why-you-should-have-a-data-science-blog-cdc1d4b0e8f4) [## 你应该拥有数据科学博客的 3 个理由
-
-### 我认为写博客对你有利的原因
-
-towardsdatascience.com](/3-reasons-why-you-should-have-a-data-science-blog-cdc1d4b0e8f4)**
+**</the-most-important-data-science-project-458d016ef8a6>  </how-to-secure-a-data-science-role-you-actually-want-169afc52019b>  </3-reasons-why-you-should-have-a-data-science-blog-cdc1d4b0e8f4> **

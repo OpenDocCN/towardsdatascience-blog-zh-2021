@@ -18,19 +18,11 @@
 
 当 [**Numba**](https://numba.pydata.org/) 无法使用时，我们使用 **C** 来加速 **Python** 。我们试了试围棋，但没有成功。
 
-[](/my-journey-to-speed-up-python-setting-up-a-golang-development-environment-and-benchmarking-f03c5252ef8f) [## 我加速 Python 的旅程:设置 GoLang 开发环境和基准测试
-
-### 我们的旅程从安装 GoLang 开始。我们用 GoLang IDE 创建了一个开发环境，以及一些…
-
-towardsdatascience.com](/my-journey-to-speed-up-python-setting-up-a-golang-development-environment-and-benchmarking-f03c5252ef8f) 
+</my-journey-to-speed-up-python-setting-up-a-golang-development-environment-and-benchmarking-f03c5252ef8f>  
 
 4.随着从 **Python 3.5** 开始引入类型提示，云、 **Spark、**包实现(即 **XGBoost** )和强类型越来越多地绕过 Python GIL(多核机器上缺乏并发性)。
 
-[](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) [## 面向未来的 Python 代码
-
-### 我讨论了为什么类型提示可以让您的 Python 代码经得起未来考验。
-
-medium.com](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) 
+<https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5>  
 
 **Python 的**运行速度似乎聚集了大多数批评。如果找到编译 Python 的方法，很多批评可能会消失。同时， **Python** 是机器学习的主要选择。
 
@@ -50,11 +42,7 @@ Jupyter Notebook 使您能够嵌入文本、嵌入代码和交互式运行代码
 
 > Jupyter 项目旨在开发跨越数十种编程语言的开源软件、开放标准和交互式计算服务。Jupyter 项目
 
-[](/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) [## 将 Jupyter 笔记本扩展添加到 Docker 映像
-
-### 我们的 Jupyter Python 和 R 用户的 Docker 映像要求他们在每隔…之后设置他们的 Nbextensions 首选项
-
-towardsdatascience.com](/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) 
+</adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3>  
 
 ## [**nbdev**](https://www.fast.ai/2019/12/02/nbdev/)
 
@@ -76,11 +64,7 @@ towardsdatascience.com](/adding-jupyter-notebook-extensions-to-a-docker-image-85
 
 > 面向专业开发人员的 Python IDE—JetBrains
 
-[](https://dr-bruce-cottman.medium.com/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6) [## PyCharm:创建项目和设置项目行为的动画指南
-
-### 我是一个视觉学习者。如果你用视觉动画演示给我看，我学得很快，记得也更久…
-
-dr-bruce-cottman.medium.com](https://dr-bruce-cottman.medium.com/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6) 
+<https://dr-bruce-cottman.medium.com/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6>  
 
 # Python 开发工具
 
@@ -104,15 +88,11 @@ Coverage.py 是我们用来测量我们的 **Pytest** 框架覆盖的代码量�
 
 **Mypy** type 检查具有符合 [PEP 484](https://www.python.org/dev/peps/pep-0484/) 的类型注释的程序。 **mypy** 经常在持续集成中使用，以防止类型错误。 **Mypy** 加入了我们的其他开发工具，如 **pytest、black、pylint 和 Codacy。**
 
-[](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) [## 面向未来的 Python 代码
-
-### 我将讨论为什么类型提示可以让您的 Python 代码经得起未来的考验。
-
-medium.com](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) 
+<https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5>  
 
 ## [皮林特](http://pylint.pycqa.org/en/latest/)
 
-我们使用 **pylint** 在本地编码节点上查找错误和可疑代码。我们今天用[](https://www.codacy.com/)**来表示“林挺”的完整项目代码，以便推送给 **Github** 回购。**
+我们使用 **pylint** 在本地编码节点上查找错误和可疑代码。我们今天用<https://www.codacy.com/>**来表示“林挺”的完整项目代码，以便推送给 **Github** 回购。**
 
 ## **[Pytest](https://docs.pytest.org/en/stable/contents.html)**
 
@@ -144,21 +124,13 @@ medium.com](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5)
 
 ****有关 DevOps 的介绍和概述，请访问:****
 
-****[](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 完整的 DevOps 路线图
-
-### 成为前端或后端开发人员的图解指南，提供课程链接
-
-medium.com](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb) 
+****<https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb>  
 
 DevOps(开发操作)是为计算机语言代码生命周期而创建的。MLOps(机器学习操作)扩展了机器学习管道生命周期的 DevOps。
 
 有关 MLOps 的介绍和概述，请访问:
 
-[](https://medium.com/slalom-data-analytics/the-modern-mlops-blueprint-c8322af69d21) [## 现代 MLOps 蓝图
-
-### 一个机器学习操作蓝图，将授权您的组织实现您的使命和…
-
-medium.com](https://medium.com/slalom-data-analytics/the-modern-mlops-blueprint-c8322af69d21) 
+<https://medium.com/slalom-data-analytics/the-modern-mlops-blueprint-c8322af69d21>  
 
 ## [MLFlow](https://www.mlflow.org/docs/latest/index.html)
 
@@ -178,11 +150,7 @@ medium.com](https://medium.com/slalom-data-analytics/the-modern-mlops-blueprint-
 
 ******你可以在下面的博客中看看 **photon.ai** 是如何将 **scikit-learn** 扩展成 MLOps 工具的:******
 
-****[](/is-photonai-a-better-choice-than-scikit-learn-f33849423709) [## Photonai 是不是比 Scikit-Learn 更好的选择？
-
-### 答案是否定的！Photonai 的最终用户目标与 Scikit-Learn 不同。Photonai 是一个伟大的 Kaggle 大师…
-
-towardsdatascience.com](/is-photonai-a-better-choice-than-scikit-learn-f33849423709) 
+****</is-photonai-a-better-choice-than-scikit-learn-f33849423709>  
 
 ## GitHub 操作
 
@@ -192,11 +160,7 @@ towardsdatascience.com](/is-photonai-a-better-choice-than-scikit-learn-f33849423
 
 它是我们在中展示的 **GitHub** 动作脚本的核心基础:
 
-[](https://medium.com/swlh/will-github-actions-kill-off-jenkins-f85e614bb8d3) [## Github 行动会杀死詹金斯吗？
-
-### 是的，标题有点争议。然而，我们的经验让我们预测 GitHub 的行为将会是…
-
-medium.com](https://medium.com/swlh/will-github-actions-kill-off-jenkins-f85e614bb8d3) 
+<https://medium.com/swlh/will-github-actions-kill-off-jenkins-f85e614bb8d3>  
 
 ## 码头工人
 
@@ -212,15 +176,7 @@ medium.com](https://medium.com/swlh/will-github-actions-kill-off-jenkins-f85e614
 
 以下博客详细介绍了 Docker 图像的构建:
 
-[](/natural-language-processing-in-production-creating-docker-images-84bd86e161b4) [## 生产中的自然语言处理:创建 Docker 图像
-
-### Docker 图像用于开发、测试、阶段和生产的自然语言处理生命周期。
-
-towardsdatascience.com](/natural-language-processing-in-production-creating-docker-images-84bd86e161b4) [](https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) [## 我们将 Docker 企业解决方案的速度提高了一倍
-
-### 我们收到了大量关于 Docker 解决方案 0.0.2 版本的反馈。反馈有一个共同的主题:只有 R&D…
-
-dr-bruce-cottman.medium.com](https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) 
+</natural-language-processing-in-production-creating-docker-images-84bd86e161b4>  <https://dr-bruce-cottman.medium.com/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11>  
 
 # Python 库包
 
@@ -230,11 +186,7 @@ dr-bruce-cottman.medium.com](https://dr-bruce-cottman.medium.com/a-docker-soluti
 
 下面的博客展示了 Azure、AWS 和 GCP 的高质量架构图的渲染:
 
-[](https://medium.com/better-programming/a-fantastic-way-to-programmatically-create-diagrams-for-different-cloud-architectures-33b32a3d6cdc) [## 为不同的云架构以编程方式创建图表的绝佳方式
-
-### 可视化您的架构
-
-medium.com](https://medium.com/better-programming/a-fantastic-way-to-programmatically-create-diagrams-for-different-cloud-architectures-33b32a3d6cdc) 
+<https://medium.com/better-programming/a-fantastic-way-to-programmatically-create-diagrams-for-different-cloud-architectures-33b32a3d6cdc>  
 
 ## [Hiplot](https://facebookresearch.github.io/hiplot/index.html)
 
@@ -254,11 +206,7 @@ Python 有可靠的日志记录器包。这篇[文章](https://realpython.com/py
 
 你可以在以下网址了解我如何使用 **loguru** :
 
-[](/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) [## Python 项目的日志记录和参数服务
-
-### 日志和参数文件对于任何生产可维护服务的部署都是至关重要的。
-
-towardsdatascience.com](/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) 
+</pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a>  
 
 ## [Pyclustering](https://pyclustering.github.io)
 
@@ -268,11 +216,7 @@ towardsdatascience.com](/pasos-offering-of-logging-and-parameter-services-for-yo
 
 你可以在下面的博客中看到对 pycluster 的详细研究:
 
-[](/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) [## 45 对 KMeans 和 KMedoids 无监督学习聚类的广泛研究的观察
-
-### 在数据集中发现模式或聚类是人类智能的基本能力之一。如果我们打算…
-
-towardsdatascience.com](/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) 
+</45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712>  
 
 ## [pysim](https://pythonhosted.org/pysim/)
 
@@ -286,11 +230,7 @@ Smote 可能是最广为人知的软件包，用于增加代表性不足的数�
 
 您可以通过以下方式了解我们如何使用 **smote** 来论证所有结构化数据类:
 
-[](/part-1-balancing-and-augmenting-structured-data-4ade0df38662) [## 平衡和扩充结构化数据
-
-### 数据扩充是必不可少的，因为它从我们当前现有的数据集生成(准确地)模拟数据。的…
-
-towardsdatascience.com](/part-1-balancing-and-augmenting-structured-data-4ade0df38662) 
+</part-1-balancing-and-augmenting-structured-data-4ade0df38662>  
 
 ## [火花流](https://github.com/dmmiller612/sparktorch/blob/master/sparktorch/distributed.py)和[火花炬](https://github.com/dmmiller612/sparktorch)
 
@@ -306,15 +246,7 @@ towardsdatascience.com](/part-1-balancing-and-augmenting-structured-data-4ade0df
 
 在早期的博客文章中，我们用两个不同的例子比较了 **Flask** 和 **Streamlit** 。我们发现 **Flask** 需要大约一百行代码，而 **Streamlit** 需要十行代码来完成同样的任务。
 
-[](/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) [## Streamlit 还不能取代 Flask
-
-### Streamlit 2020 路线图
-
-towardsdatascience.com](/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) [](/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed) [## Streamlit 会导致 Flask 灭绝吗？
-
-### 可能对于机器学习(ML)和深度学习(DL)来说。对于其他全栈应用，大概不会！
-
-towardsdatascience.com](/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed) 
+</streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde>  </part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed>  
 
 ## [空间](http://spacy.io)
 
@@ -326,11 +258,7 @@ towardsdatascience.com](/part-2-will-streamlit-cause-the-extinction-of-flask-395
 
 spacy 管道来源:[https://github . com/explosion/spaCy/blob/master/website/docs/images/pipeline . SVG](https://github.com/explosion/spaCy/blob/master/website/docs/images/pipeline.svg)
 
-[](https://medium.com/swlh/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf) [## 生产中的自然语言处理:27 种快速文本预处理方法
-
-### 我们展示了 27 种不同的 NLP 文本预处理操作的 Python 代码和基准。
-
-medium.com](https://medium.com/swlh/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf) 
+<https://medium.com/swlh/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf>  
 
 ## [mFST](https://arxiv.org/pdf/2012.03437v1.pd)
 

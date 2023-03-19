@@ -39,11 +39,7 @@
 
 你可以在下面的帖子中阅读更多关于准确性指标的信息。
 
-[](/accuracy-precision-recall-or-f1-331fb37c5cb9) [## 准确度、精密度、召回率还是 F1？
-
-### 当我与希望将数据科学应用到其流程中的组织交谈时，他们经常会问…
-
-towardsdatascience.com](/accuracy-precision-recall-or-f1-331fb37c5cb9) 
+</accuracy-precision-recall-or-f1-331fb37c5cb9>  
 
 产品团队应该在产品生命周期的早期确定哪些度量与用例相关，以及对于每个选择的度量，什么是要达到的好目标。这将决定一个产品是不能满足客户需求，还是能让客户满意。
 
@@ -69,11 +65,7 @@ towardsdatascience.com](/accuracy-precision-recall-or-f1-331fb37c5cb9)
 
 如果训练数据没有被均匀采样，则 ML 模型可能具有内置的偏差。你可能在新闻中读到过几个例子。这里有一个。
 
-[](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G) [## 亚马逊废除了显示对女性有偏见的秘密人工智能招聘工具
-
-### 旧金山(路透社)-Amazon.com 公司的机器学习专家发现了一个大问题:他们的新招聘…
-
-www.reuters.com](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G) 
+<https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G>  
 
 项目经理需要与跨职能团队合作，以确保培训数据的获取合乎道德，没有偏见，并符合 GDPR 等法规。确保数据取样正确，以消除基于年龄、性别、收入、种族和其他几个因素的偏见。你的模型越关键，你就越应该确保不存在偏见。
 

@@ -234,30 +234,10 @@ SymPy 还提供了许多其他有用的方法，我无法在这里一一介绍�
 
 在 Github repo 中，您可以随意使用本文的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/sympy_example.ipynb) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/sympy_example.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/sympy_example.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上和我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [## 如何使用 Python 找到餐馆的最佳位置
-
-### 用 CVXPY 解决集合覆盖问题
-
-towardsdatascience.com](/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd) [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [](/maximize-your-productivity-with-python-6110004b45f7) [## 使用 Python 最大化您的生产力
-
-### 你创建了一个待办事项清单来提高效率，但最终却把时间浪费在了不重要的任务上。如果你能创造…
-
-towardsdatascience.com](/maximize-your-productivity-with-python-6110004b45f7)
+</how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd>  </how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  </maximize-your-productivity-with-python-6110004b45f7> 

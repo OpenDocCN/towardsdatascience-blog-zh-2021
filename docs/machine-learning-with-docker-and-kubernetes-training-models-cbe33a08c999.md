@@ -263,15 +263,7 @@ kubeadm resetsudo apt-get purge kubeadm kubectl kubelet kubernetes-cni kube*sudo
 
 下一步将是通过从我们训练好的模型中加载预测来进行批量推断/评分，并使用 REST APIs 进行实时在线推断。我们在这里探讨了这些概念:
 
-[](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7) [## 使用 Docker 和 Kubernetes 的机器学习:批量推理
-
-### Kubernetes，Docker，Python 和 sci kit-机器和深度学习的学习:如何扩大数据科学家的努力
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7) [](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) [## 使用 Docker、Python Rest APIs 和 Flask 和 Kubernetes 进行实时机器学习预测…
-
-### 用于机器和深度学习的 Kubernetes、Docker、Python、Scikit-Learn 和 Flask:如何扩展数据科学家的工作
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) 
+<https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7>  <https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67>  
 
 **来源**
 

@@ -94,15 +94,7 @@ IaC 使您能够轻松地创建不同的环境，尤其是当您的项目很复�
 
 下面看看我关于这个主题的其他一些文章。
 
-[](/data-lake-on-gcp-using-terraform-469062a205ad) [## 使用 Terraform 的 GCP 数据湖
-
-### 使用 Terraform 为谷歌云平台上的数据湖建立基础设施代码。
-
-towardsdatascience.com](/data-lake-on-gcp-using-terraform-469062a205ad) [](/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79) [## 使用 Terraform 在 5 分钟内引导一个现代数据堆栈
-
-### 设置 Airbyte、BigQuery、dbt、Metabase 以及使用 Terraform 运行现代数据堆栈所需的一切。
-
-towardsdatascience.com](/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79) 
+</data-lake-on-gcp-using-terraform-469062a205ad>  </bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79>  
 
 ## 资源分离
 

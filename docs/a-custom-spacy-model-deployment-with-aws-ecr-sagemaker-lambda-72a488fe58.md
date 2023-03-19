@@ -12,11 +12,7 @@
 
 SpaCy 是我最喜欢的 NLP 图书馆之一。我一直在使用 spaCy 执行许多命名实体识别(NER)任务。通常，我们首先需要加载一个特定语言的 spaCy 预训练模型，并使用我们的训练数据集对该模型进行微调。训练过程可以在本地计算机上离线完成，我们甚至可以通过 Flask / Streamlit 在本地托管它来测试微调后的模型性能。
 
-[](/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6) [## 使用 SpaCy 构建 Flask API 来自动提取命名实体
-
-### 如何使用 spaCy 中的命名实体识别模块来识别文本中的人、组织或位置，然后…
-
-towardsdatascience.com](/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6) 
+</building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6>  
 
 虽然我发现了很多关于使用 Flask / Streamlit 在本地部署 spaCy 模型的很棒的教程，但是关于如何在更大范围内部署的教程并不多，例如，如何使用 AWS 部署 spaCy 模型。
 
@@ -59,11 +55,7 @@ towardsdatascience.com](/building-a-flask-api-to-automatically-extract-named-ent
 
 > SageMaker 提供了两个选项，其中第一个选项是使用 sage maker 提供的内置算法，包括 KNN、XgBoost、线性学习器等。而另一个选项是使用 ECR 中的**自定义 docker 容器**。
 
-[](/deploy-custom-deep-learning-based-algorithm-docker-container-on-amazon-sagemaker-4c334190e278) [## 在 Amazon Sagemaker 上部署基于定制深度学习的算法 Docker 容器
-
-### 在这篇文章中，我将介绍我们如何在 Amazon Sagemaker 上部署定制的深度学习容器算法…
-
-towardsdatascience.com](/deploy-custom-deep-learning-based-algorithm-docker-container-on-amazon-sagemaker-4c334190e278) 
+</deploy-custom-deep-learning-based-algorithm-docker-container-on-amazon-sagemaker-4c334190e278>  
 
 上面的文章是一个很棒的参考，它启发了我如何部署一个定制的 spaCy 容器。我强烈建议通读这篇文章，并对 docker 容器的内部工作方式有更深入的了解。一开始对我来说理解起来很复杂，但是很有帮助。🧠
 
@@ -75,11 +67,7 @@ towardsdatascience.com](/deploy-custom-deep-learning-based-algorithm-docker-cont
 
 对于训练文件，目标是修改代码来训练自定义空间模型。将 CSV 格式的数据读取到名为 train_data 的数据帧后，我们需要将数据帧转换为 spaCy model 可以接受的输入格式。我建议阅读我以前写的一篇关于如何为 NER 任务训练空间模型的文章。
 
-[](/an-overview-of-building-a-merchant-name-cleaning-engine-with-sequencematcher-and-spacy-9d8138b9aace) [## 使用 SequenceMatcher 和 spaCy 构建商家名称清理引擎概述
-
-### 使用预训练的 spaCy 深度学习模型构建一个商家名称清理引擎…
-
-towardsdatascience.com](/an-overview-of-building-a-merchant-name-cleaning-engine-with-sequencematcher-and-spacy-9d8138b9aace) 
+</an-overview-of-building-a-merchant-name-cleaning-engine-with-sequencematcher-and-spacy-9d8138b9aace>  
 
 本质上，这里我们需要将数据帧转换成以下空间格式:
 
@@ -100,11 +88,7 @@ TRAIN_DATA =
 
 然后，在训练文件中，我们定义我们的 **train_spacy** 函数来训练模型。train_spaCy 函数类似于下一篇文章中的函数。请注意，本文中的代码是用 spaCy 版本 2 编写的。
 
-[](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6) [## 如何使用 spaCy 自定义训练数据训练 NER？
-
-### 使用我们的自定义数据集训练空间名称实体识别(NER)
-
-manivannan-ai.medium.com](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6) 
+<https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6>  
 
 训练文件示例
 
@@ -157,11 +141,7 @@ Sections on the AWS SageMaker...--->Training
 
 *如果你在 AWS SageMaker 上面的步骤中有任何问题，下面的教程将会很有帮助！🏂🏻*
 
-*[](https://aws.amazon.com/cn/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/) [## 使用 Amazon API Gateway 和 AWS Lambda | Amazon Web 调用 Amazon SageMaker 模型端点…
-
-### 2021 年 4 月-此帖子已更新，以确保解决方案演练反映对相关 AWS 所做的更改…
-
-aws.amazon.com](https://aws.amazon.com/cn/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/) 
+*<https://aws.amazon.com/cn/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/>  
 
 # 设计 AWS Lambda 函数
 
@@ -203,12 +183,4 @@ aws.amazon.com](https://aws.amazon.com/cn/blogs/machine-learning/call-an-amazon-
 
 # 相关阅读
 
-[](https://xoelop.medium.com/deploying-big-spacy-nlp-models-on-aws-lambda-s3-2857bfc143ba) [## 在 AWS Lambda + S3 上部署大空间 NLP 模型
-
-### Spacy 型号对于 250MB 的 Lambda 限制来说太大了。这向你展示了如何绕过它，从 S3 和…
-
-xoelop.medium.com](https://xoelop.medium.com/deploying-big-spacy-nlp-models-on-aws-lambda-s3-2857bfc143ba) [](/load-a-large-spacy-model-on-aws-lambda-e1999e5e24b5) [## 在 AWS Lambda 上加载大型空间模型
-
-### spaCy 是一个有用的工具，它允许我们执行许多自然语言处理任务。当将空间整合到一个…
-
-towardsdatascience.com](/load-a-large-spacy-model-on-aws-lambda-e1999e5e24b5)*
+<https://xoelop.medium.com/deploying-big-spacy-nlp-models-on-aws-lambda-s3-2857bfc143ba>  </load-a-large-spacy-model-on-aws-lambda-e1999e5e24b5> *

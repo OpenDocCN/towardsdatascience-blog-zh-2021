@@ -159,11 +159,7 @@ That’s it for this article. If you would like to connect with me on my social 
 
 *喜欢这篇文章吗？成为* [***中员***](https://ngupta13.medium.com/membership) 继续 ***无限制学习*** *。如果您使用以下链接* ***，我将获得您一部分会员费，您无需支付额外费用*** *。*
 
-[](https://ngupta13.medium.com/membership) [## 加入 Medium，我的推荐链接——Nikhil Gupta
-
-### 阅读尼克希尔·古普塔(以及其他数千名媒体作家)的每一篇故事。您的会员费直接支持…
-
-ngupta13.medium.com](https://ngupta13.medium.com/membership) 
+<https://ngupta13.medium.com/membership>  
 
 # 📗资源
 

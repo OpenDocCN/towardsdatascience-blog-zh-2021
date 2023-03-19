@@ -52,8 +52,4 @@
 
 这意味着过采样方法确实产生了稍微好一点的模型。正如你在木星笔记本上看到的，如果我们以预测值 0.97 为分界点，我们会得到 7 个正确的预测值，而不是以前的 3 个。另一个优点是，该技术在不影响或夸大模型特征重要性的情况下实现了更高的性能。它有助于一种侵入性更小的过采样技术，同时仍然改善基本预测。
 
-[](https://www.linkedin.com/in/anapreciado/) [## Ana Preciado -数据科学家- Banco General | LinkedIn
-
-### 联系人:anamargaritapreciado@gmail.com |+(507)61305543。自从我做了电子商务的本科研究后，我…
-
-www.linkedin.com](https://www.linkedin.com/in/anapreciado/)
+<https://www.linkedin.com/in/anapreciado/> 

@@ -107,12 +107,4 @@ print(report)
 
 关于 edX 的 MITx 分析课程
 
-[](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/) [## 机器学习的分类和回归树-机器学习掌握
-
-### 决策树是预测建模机器学习的一种重要算法。经典的决策树…
-
-machinelearningmastery.com](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/) [](https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/) [## 逻辑回归与决策树
-
-### 给定大量的模型，将哪种模型类型应用于机器学习任务可能是一个令人生畏的问题
-
-blog.bigml.com](https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/)
+<https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/>  <https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/> 

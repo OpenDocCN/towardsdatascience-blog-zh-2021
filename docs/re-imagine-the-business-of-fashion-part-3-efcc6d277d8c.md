@@ -74,11 +74,7 @@ Zara 成功整合了不同的数字战略和技术，以提高销售额和需求
 
 查看下面的文章，深入了解 Zara 如何在供应链管理中利用大数据。
 
-[](https://olaoluwakiitan-o-olabiyi.medium.com/fashion-and-big-data-application-cb946dd76844) [## 时尚和大数据
-
-### 将 Zara 作为时尚供应链和库存管理中采用高级分析的案例研究。
-
-olaoluwakiitan-o-olabiyi.medium.com](https://olaoluwakiitan-o-olabiyi.medium.com/fashion-and-big-data-application-cb946dd76844) 
+<https://olaoluwakiitan-o-olabiyi.medium.com/fashion-and-big-data-application-cb946dd76844>  
 
 一些时尚品牌在新的生产季节之前通过调查和问卷直接与顾客接触。
 

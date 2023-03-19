@@ -80,22 +80,10 @@
 
 那我来问你这个:非人类 AI 和情感 AI 哪个更危险？
 
-## 如果你喜欢这篇文章，可以考虑订阅我的免费周报[](https://mindsoftomorrow.ck.page/)**！**每周一关于人工智能的新闻、观点和见解！****
+## 如果你喜欢这篇文章，可以考虑订阅我的免费周报<https://mindsoftomorrow.ck.page/>**！**每周一关于人工智能的新闻、观点和见解！****
 
 ## ****在这里** **你也可以直接支持我的工作，成为中等会员** [**获得无限权限！:)**](https://albertoromgar.medium.com/membership)**
 
 # **推荐阅读**
 
-**[](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [## 不受欢迎的观点:我们将放弃机器学习作为主要的人工智能范式
-
-### 这一时刻将会到来，就像它发生在象征性人工智能身上一样。
-
-towardsdatascience.com](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [](/heres-how-openai-codex-will-revolutionize-programming-and-the-world-e8432aafc5f7) [## 以下是 OpenAI Codex 将如何革新编程(和世界)
-
-### “Codex 接近于我们大多数人真正希望从计算机中获得的东西——我们说我们想要什么，他们就做什么。”—山姆·奥特曼
-
-towardsdatascience.com](/heres-how-openai-codex-will-revolutionize-programming-and-the-world-e8432aafc5f7) [](/5-must-know-ai-concepts-in-2021-75d8c1ff938) [## 2021 年必须知道的 5 个人工智能概念
-
-### 这是你不想错过的。
-
-towardsdatascience.com](/5-must-know-ai-concepts-in-2021-75d8c1ff938)**
+**</unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46>  </heres-how-openai-codex-will-revolutionize-programming-and-the-world-e8432aafc5f7>  </5-must-know-ai-concepts-in-2021-75d8c1ff938> **

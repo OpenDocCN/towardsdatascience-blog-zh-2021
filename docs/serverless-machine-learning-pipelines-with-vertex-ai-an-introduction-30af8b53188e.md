@@ -120,16 +120,4 @@ Vertex AI 通过一个托管管道运行器解决了这个问题:你可以定义
 
 以下是一些其他链接:
 
-[](https://github.com/piEsposito/vertex-ai-tutorials) [## piEsposito/vertex-ai 教程
-
-### 顶点人工智能工具教程。通过在…上创建帐户，为 piEsposito/vertex-ai 教程开发做出贡献
-
-github.com](https://github.com/piEsposito/vertex-ai-tutorials) [](https://github.com/piEsposito) [## piEsposito -概述
-
-### 数据科学家，MLOps @ Acordo Certo。piEsposito 有 14 个存储库。在 GitHub 上关注他们的代码。
-
-github.com](https://github.com/piEsposito) [](https://www.linkedin.com/in/piesposito/) [## Piero (Pi) Esposito -数据科学家，MLOps - Acordo Certo | LinkedIn
-
-### 我是 Pi，数据科学家@ Acordo Certo，前深度学习工程实习生@ Intel。以…为背景
-
-www.linkedin.com](https://www.linkedin.com/in/piesposito/)
+<https://github.com/piEsposito/vertex-ai-tutorials>  <https://github.com/piEsposito>  <https://www.linkedin.com/in/piesposito/> 

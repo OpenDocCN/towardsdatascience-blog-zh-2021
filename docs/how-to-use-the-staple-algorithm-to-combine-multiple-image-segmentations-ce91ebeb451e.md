@@ -112,20 +112,8 @@ STAPLE 是一个优秀的算法，也是该领域的黄金标准，但也有一�
 
 关于使用 SimpleITK 进行分段的更深入的教程—
 
- [## 34 _ 细分 _ 评估
-
-### 评估分割算法最常用的方法是使用参考数据来比较结果。在…
-
-insight software consortium . github . io](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/34_Segmentation_Evaluation.html) 
+  
 
 链接到我其他一些关于医学成像的文章—
 
-[](/understanding-dicom-bce665e62b72) [## 了解 DICOM
-
-### 如何阅读、书写和组织医学图像
-
-towardsdatascience.com](/understanding-dicom-bce665e62b72) [](/a-python-script-to-sort-dicom-files-f1623a7f40b8) [## 对 DICOM 文件进行排序的 Python 脚本
-
-### 这个脚本将帮助您理解和组织您的医学图像数据集
-
-towardsdatascience.com](/a-python-script-to-sort-dicom-files-f1623a7f40b8)
+</understanding-dicom-bce665e62b72>  </a-python-script-to-sort-dicom-files-f1623a7f40b8> 

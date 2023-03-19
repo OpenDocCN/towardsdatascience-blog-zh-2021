@@ -6,15 +6,11 @@
 
 ![](img/04ed158d9b2d8dee3236abe110a0d7ba.png)
 
-[](https://www.flickr.com/photos/50216172@N00/46721657)[Jimmy Harris](https://www.flickr.com/photos/50216172@N00)的《老鹰队 50 分钟内的争议标记》由 [CC 授权 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+<https://www.flickr.com/photos/50216172@N00/46721657>[Jimmy Harris](https://www.flickr.com/photos/50216172@N00)的《老鹰队 50 分钟内的争议标记》由 [CC 授权 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
 
 在我们的[原始论文](/lifecycle-of-an-afl-players-career-31713df30f62)中，我们证明了使用球员年龄、选秀和位置的基线模型可以用来解释 AFL 球员队列中以下每个组成部分的大部分——每分钟得分、上场时间和赛季百分比。
 
-[](/lifecycle-of-an-afl-players-career-31713df30f62) [## AFL 球员职业生涯的生命周期
-
-### AFL 球员职业生涯的阶段和跨多个赛季评估球员效力的第一个模型
-
-towardsdatascience.com](/lifecycle-of-an-afl-players-career-31713df30f62) 
+</lifecycle-of-an-afl-players-career-31713df30f62>  
 
 在这篇后续文章中，我们通过将个人表现分为两个部分来研究个人表现的组成部分:
 

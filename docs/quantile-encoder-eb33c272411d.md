@@ -118,6 +118,6 @@ isbn="978-3-030-85529-1"
 
 *..[4]加法平滑，摘自*[*https://en . Wikipedia . org/wiki/Additive _ smoothing # Generalized _ to _ the _ case _ of _ known _ incidence _ rates*](https://en.wikipedia.org/wiki/Additive_smoothing#Generalized_to_the_case_of_known_incidence_rates)
 
-*..[5]目标编码做对了*[](https://maxhalford.github.io/blog/target-encoding/)
+*..[5]目标编码做对了*<https://maxhalford.github.io/blog/target-encoding/>
 
 *..[6] Mougan，c .，Alvarez，J. M .，Patro，G. K .，Ruggieri，s .，和 Staab，S. (2022 年)。编码受保护分类属性的公平含义[https://arxiv.org/abs/2201.11358](https://arxiv.org/abs/2201.11358)*

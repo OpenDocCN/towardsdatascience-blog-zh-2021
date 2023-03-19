@@ -242,6 +242,6 @@
 
 为了简化这个模型的解释，我还制作了 PowerPoint，这样你就可以得到一个清晰的解释。你可以在这里查看幻灯片。
 
-**Github:**https://github.com/nugrahazikry[](https://github.com/nugrahazikry)
+**Github:**https://github.com/nugrahazikry<https://github.com/nugrahazikry>
 
 【领英:[https://www.linkedin.com/in/zikry-adjie-nugraha/](https://www.linkedin.com/in/zikry-adjie-nugraha/)

@@ -12,15 +12,7 @@
 
 在前面的文章中，我们讨论了贝叶斯神经网络(BNN)的概念及其背后的数学理论。对于那些刚到 BNN 的人，确保你已经检查了下面的链接。
 
-[](/why-you-should-use-bayesian-neural-network-aaf76732c150) [## 为什么你应该使用贝叶斯神经网络？
-
-### 贝叶斯神经网络解释了模型中的不确定性，并提供了权重和权重的分布
-
-towardsdatascience.com](/why-you-should-use-bayesian-neural-network-aaf76732c150) [](/8-terms-you-should-know-about-bayesian-neural-network-467a16266ea0) [## 关于贝叶斯神经网络你应该知道的 8 个术语
-
-### 先验，后验，贝叶斯定理，负对数似然，KL 散度，替代，变分…
-
-towardsdatascience.com](/8-terms-you-should-know-about-bayesian-neural-network-467a16266ea0) 
+</why-you-should-use-bayesian-neural-network-aaf76732c150>  </8-terms-you-should-know-about-bayesian-neural-network-467a16266ea0>  
 
 今天，我们将探索使用张量流概率来实现 BNN 模型的概率规划。从本文中，您将学习如何使用张量流概率来
 
@@ -33,11 +25,7 @@ towardsdatascience.com](/8-terms-you-should-know-about-bayesian-neural-network-4
 
 TensorFlow Probability (TFP)是 TensorFlow 中用于概率推理和统计分析的库。它提供了概率方法与深度网络的集成，使用自动微分的基于梯度的推理，以及通过硬件加速(GPU)和分布式计算对大型数据集和模型的可扩展性。事实上，TFP 是一个综合的工具，由许多模块组成，包括概率层、变分推理、MCMC、Nelder-Mead、BFGS 等。但我不会深入所有模块，只会挑选和演示其中的一部分。如果你想知道更多的细节，请查看下面的技术文档。
 
-[](https://www.tensorflow.org/probability) [## 张量流概率
-
-### TensorFlow Probability (TFP)是一个基于 TensorFlow 构建的 Python 库，它可以很容易地组合概率模型…
-
-www.tensorflow.org](https://www.tensorflow.org/probability) 
+<https://www.tensorflow.org/probability>  
 
 # 分布
 

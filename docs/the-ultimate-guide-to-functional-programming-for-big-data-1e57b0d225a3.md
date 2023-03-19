@@ -12,11 +12,7 @@ Apache Spark 已经成为当今大数据领域最常用的工具。它能够单�
 
 要了解 Spark 的基础知识、其架构以及在大数据和云世界中的实施，请参考下面链接的故事。
 
-[](https://medium.com/geekculture/unleash-the-spark-from-your-data-ba3227755e) [## 释放数据的火花
-
-### Apache Spark 如何改变大数据游戏？
-
-medium.com](https://medium.com/geekculture/unleash-the-spark-from-your-data-ba3227755e) 
+<https://medium.com/geekculture/unleash-the-spark-from-your-data-ba3227755e>  
 
 # 为什么是函数式编程？
 
@@ -190,11 +186,7 @@ distributed_player_log.map(convert_to_lowercase).collect()
 
 要参考本文中提到的完整代码，请访问下面提到的链接:
 
-[](https://github.com/rjrahul24/spark-ud-2002/blob/master/Functional_V_S_Procedural_Programming.ipynb) [## rjrahul24/spark-ud-2002
-
-### 项目内容是 MapReduce 和 Spark 上的应用。该存储库包含基于 Udacity 的 Spark 的项目…
-
-github.com](https://github.com/rjrahul24/spark-ud-2002/blob/master/Functional_V_S_Procedural_Programming.ipynb) 
+<https://github.com/rjrahul24/spark-ud-2002/blob/master/Functional_V_S_Procedural_Programming.ipynb>  
 
 # 结论
 

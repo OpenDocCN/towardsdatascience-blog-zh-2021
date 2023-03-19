@@ -170,12 +170,4 @@ Dataville 的政府正计划推出一种疫苗。据说它的有效率在 95%左
 
 在下面的 GitHub 链接中，您可以自由地自己使用代码。
 
-[](https://github.com/john-adeojo/Pandemic_Simulation) [## 约翰-阿德乔/疫情 _ 模拟
-
-### 疫情模拟器。在 GitHub 上创建一个帐户，为约翰-阿德乔/疫情模拟开发做贡献。
-
-github.com](https://github.com/john-adeojo/Pandemic_Simulation) [](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/)
+<https://github.com/john-adeojo/Pandemic_Simulation>  <https://www.linkedin.com/in/john-adeojo/> 

@@ -167,20 +167,8 @@ MLLE“努力”处理引入 3D 形状的不同角度，最终将瑞士卷矩形
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 一些相关的文章你可能会感兴趣:
 
-[](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0) [## Isomap 嵌入——一种令人敬畏的非线性降维方法
-
-### 如何用等距映射“展开瑞士卷”？
-
-towardsdatascience.com](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0) [](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e) [## t-SNE 机器学习算法 Python 中降维的利器
-
-### 如何使用 t 分布随机邻居嵌入(t-SNE)来可视化高维数据？
-
-towardsdatascience.com](/t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e)
+</isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0>  </t-sne-machine-learning-algorithm-a-great-tool-for-dimensionality-reduction-in-python-ec01552f1a1e> 

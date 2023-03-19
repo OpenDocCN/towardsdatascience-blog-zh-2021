@@ -28,11 +28,7 @@ Python 有大量的包。它包括从普通任务到高级任务。不知不觉�
 
 如果您想要生成类似的实时生产数据，那么您可能需要使用 GAN。查看下面关于表格 GAN 的文章。
 
-[](https://medium.com/make-money-with-code/generating-synthetic-tabular-data-using-conditional-tabular-gan-on-an-imbalanced-dataset-smote-f4f921e9c716) [## 甘遇到不平衡的表格数据|会谈恋爱吗？条件表格式
-
-### 使用 SMOTE 和条件 GAN 生成合成数据。在不平衡数据集上创建模型并比较指标。
-
-medium.com](https://medium.com/make-money-with-code/generating-synthetic-tabular-data-using-conditional-tabular-gan-on-an-imbalanced-dataset-smote-f4f921e9c716) 
+<https://medium.com/make-money-with-code/generating-synthetic-tabular-data-using-conditional-tabular-gan-on-an-imbalanced-dataset-smote-f4f921e9c716>  
 
 # Pywebio
 

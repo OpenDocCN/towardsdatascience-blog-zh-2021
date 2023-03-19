@@ -34,7 +34,7 @@
 
 答关于机器学习的另一件事是，它要求你会两种语言:**编程语言**如 Python、R 和**数学**。有时候，要解决一个挑战，你需要综合的力量，掌握一个肯定会帮助另一个。因此，如果你不是“数学头脑”，所有的希望都不会失去，因为你仍然可以尝试用代码来做它，它一点也不含糊，而且非常“可修补”。不像数学，你总是可以做更多的实验并得到反馈。
 
-在编码领域，当教授递归算法时，最大的障碍是要'**信任**'简单的递归代码，它们实际上可以解决看似困难的问题。这叫做‘信念的递归跳跃’[](https://baeddavid.medium.com/taking-the-first-recursive-leap-of-faith-ea5cd9582d94)**。第一次递归学习通常很难克服不舒服的感觉，即仍然缺少解决问题的代码。这有点不自然，但你只要相信代码，相信算法，让它以优雅的方式展开问题。只有在实践之后，你才能轻松自信地使用递归解决问题。**
+在编码领域，当教授递归算法时，最大的障碍是要'**信任**'简单的递归代码，它们实际上可以解决看似困难的问题。这叫做‘信念的递归跳跃’<https://baeddavid.medium.com/taking-the-first-recursive-leap-of-faith-ea5cd9582d94>**。第一次递归学习通常很难克服不舒服的感觉，即仍然缺少解决问题的代码。这有点不自然，但你只要相信代码，相信算法，让它以优雅的方式展开问题。只有在实践之后，你才能轻松自信地使用递归解决问题。**
 
 **我感觉深度学习也有类似的东西。大多数框架和一些语言拥有的“自动渐变”特性就是其中之一。你不需要知道如何计算你的损失函数的梯度，只需要相信框架/语言可以做到。也许它应该被称为“信念的自动毕业生飞跃”。不会用汇编写你的 Python 代码你也不会烦恼吧？所以当你不能用手做渐变的时候，为什么要小题大做呢？**
 
@@ -56,16 +56,4 @@
 
 **觉得这篇文章有用？在 Medium 上关注我([李立伟](https://medium.com/u/72c98619a048?source=post_page-----dbe7106145f5----------------------))，或者你可以在 Twitter [@lymenlee](https://twitter.com/lymenlee) 或我的博客网站[wayofnumbers.com](https://wayofnumbers.com/)上找到我。你也可以看看我下面最受欢迎的文章！**
 
-**[](/this-is-cs50-a-pleasant-way-to-kick-off-your-data-science-education-d6075a6e761a) [## “这是 CS50”:开始数据科学教育的愉快方式
-
-### 为什么 CS50 特别适合巩固你的软件工程基础
-
-towardsdatascience.com](/this-is-cs50-a-pleasant-way-to-kick-off-your-data-science-education-d6075a6e761a) [](/two-sides-of-the-same-coin-fast-ai-vs-deeplearning-ai-b67e9ec32133) [## 一枚硬币的两面:杰瑞米·霍华德的 fast.ai vs 吴恩达的 deeplearning.ai
-
-### 如何不通过同时参加 fast.ai 和 deeplearning.ai 课程来“过度适应”你的人工智能学习
-
-towardsdatascience.com](/two-sides-of-the-same-coin-fast-ai-vs-deeplearning-ai-b67e9ec32133) [](/what-you-need-to-know-about-netflixs-jupyter-killer-polynote-dbe7106145f5) [## 你需要了解网飞的“朱庇特黑仔”:冰穴📖
-
-### 是时候让 Jupyter 笔记本有个有价值的竞争对手了
-
-towardsdatascience.comgg](/what-you-need-to-know-about-netflixs-jupyter-killer-polynote-dbe7106145f5)**
+**</this-is-cs50-a-pleasant-way-to-kick-off-your-data-science-education-d6075a6e761a>  </two-sides-of-the-same-coin-fast-ai-vs-deeplearning-ai-b67e9ec32133>  </what-you-need-to-know-about-netflixs-jupyter-killer-polynote-dbe7106145f5> **

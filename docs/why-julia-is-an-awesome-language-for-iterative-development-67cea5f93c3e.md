@@ -20,11 +20,7 @@ TJulia 编程语言是一种相当新的语言，它已经在软件工程和科�
 
 为了理解多重分派如何促进一些非常棒的迭代开发，我们首先需要理解多重分派到底是什么。多重分派是 Julia 编程语言的核心，没有多重分派的 Julia 根本就不是 Julia。这个概念允许我们接受多种类型，并通过相同的函数调用传递它们。这些函数调用可以限制在一个类型的父类的任何部分，这意味着该函数的多个版本可以仅使用一个类型来调度。如果你想进一步了解我为什么如此喜欢多重分派，我最近写了一篇文章，你可能会感兴趣:
 
-[](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) [## 为什么多重分派是我最喜欢的编程方式
-
-### 多种调度的优势概述，以及我为什么这么喜欢它。
-
-towardsdatascience.com](/why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878) 
+</why-multiple-dispatch-is-my-favorite-way-to-program-786bf78f4878>  
 
 虽然在我看来，多重分派是一种很好的编程方式，而且比使用其他编程概念生成的代码结构更自然，但我认为它在 Julia 语言中真正与众不同的地方是它几乎可以在任何地方使用。通常在编程中，我们在正常的全局范围之外编写两种不同类型的东西:
 
@@ -60,11 +56,7 @@ import Base: +
 
 这只是一行代码，通过这一行代码，二进制加法运算符对字典和 pair 类型变得非常有用。当然，这也可以从我们自己的模块和环境中有效地用于我们自己的类型，我可能在一篇文章中详细介绍了如何做到这一点，您可以在这里查看:
 
-[](/extending-julias-operators-with-amazing-results-96c042369349) [## 用惊人的结果扩展 Julia 的算子
-
-### 如何在 Julia 中加载和扩展方法，用一个真正激动人心的例子。
-
-towardsdatascience.com](/extending-julias-operators-with-amazing-results-96c042369349) 
+</extending-julias-operators-with-amazing-results-96c042369349>  
 
 > 这篇文章实际上是我最近写的最喜欢的文章之一，因为它真正展示了 Julia 编程语言的伟大之处。
 

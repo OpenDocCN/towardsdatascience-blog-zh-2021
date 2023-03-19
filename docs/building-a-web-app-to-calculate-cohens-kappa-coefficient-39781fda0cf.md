@@ -20,33 +20,13 @@
 
 更多关于科恩卡帕系数的阅读，请查看以下内容:
 
- [## 科恩的卡帕-维基百科
-
-### Cohen 的 kappa 系数(κ)是一个统计量，用于测量评分者之间的可靠性(以及评分者内部的可靠性)
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Cohen%27s_kappa) [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/) [## 评分者之间的可靠性:kappa 统计
-
-### kappa 统计经常被用来检验评分者之间的可靠性。评分者信度的重要性在于…
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/) [](/cohens-kappa-9786ceceab58) [## 科恩的卡帕
-
-### 理解科恩的卡帕系数
-
-towardsdatascience.com](/cohens-kappa-9786ceceab58) 
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/>  </cohens-kappa-9786ceceab58>  
 
 # 构建一个简单的 Kappa 统计应用程序
 
 我希望这个应用程序能够创建一个简单的方法来输入数据，以计算 Cohen 的 Kappa 系数。为此，我使用了 *streamlit* ，这是一个使用纯 python 快速创建数据科学应用的开源框架，以及 *scikit-learn* ，这是一个用于机器学习和数据分析的开源库。
 
-[](https://streamlit.io/) [## Streamlit *构建和共享数据应用的最快方式
-
-### 用我们神奇简单的 API，用几行代码构建一个应用程序。然后看到它随着你的迭代自动更新…
-
-streamlit.io](https://streamlit.io/) [](https://scikit-learn.org/stable/) [## sci kit-学习
-
-### “我们使用 scikit-learn 来支持前沿基础研究[...]" "我认为这是我设计过的最棒的 ML 套装…
-
-scikit-learn.org](https://scikit-learn.org/stable/) 
+<https://streamlit.io/>  <https://scikit-learn.org/stable/>  
 
 *以下是使用 streamlit 和 scikit-learn 构建简单 kappa 统计应用程序的教程。*
 
@@ -185,14 +165,6 @@ st.sidebar.write('Result: %s' % kap)
 
 *更多来自作者的故事:*
 
-[](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f) [](/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad) [## 介绍 open HAC——用于数字生物标记分析和机器学习的开源工具包
-
-### 用于人体活动分类研究和模型创建的新视频分析平台。
-
-towardsdatascience.com](/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad) 
+</making-it-rain-with-raincloud-plots-496c39a2756f>  </introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad>  
 
 ## 感谢您的阅读！！

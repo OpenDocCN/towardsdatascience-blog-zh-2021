@@ -14,11 +14,7 @@
 
 **在这篇文章中，我们将教你如何使用预训练的**[**GPT-2**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)**，GPT-3 的更轻的前身来生成文本。我们将使用由 [Huggingface](https://huggingface.co/) 开发的著名的[变形金刚库](https://github.com/huggingface/transformers)。如果你想知道如何在你自己的定制数据集上微调 GPT-2 以生成特定领域的文本，那么你可以参考我以前的帖子:**
 
-[](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) [## 使用 Pytorch 微调用于文本生成的 GPT2
-
-### 使用 Pytorch 和 Huggingface 微调用于文本生成的 GPT2。我们在 CMU 图书摘要数据集上进行训练，以生成…
-
-towardsdatascience.com](/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7) 
+</fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1ba7>  
 
 如果使用预训练的 GPT-2 是足够的，你在正确的地方！事不宜迟，我们开始教程吧！
 
@@ -145,27 +141,7 @@ print(generated_text['generated_text'])
 
 就是这样！希望你喜欢这篇文章。如果你有任何问题，欢迎在下面评论。此外，请订阅我的电子邮件列表，以接收我的新文章。有兴趣也可以看看我以前的帖子:)
 
-[](/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012) [## 使用 Pytorch 回答关于预调变压器的问题
-
-### 学会在几分钟内建立一个任何语言的问答系统！
-
-towardsdatascience.com](/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012) [](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [## 使用 Pytorch 的变压器机器翻译
-
-### 只需简单的几个步骤就可以将任何语言翻译成另一种语言！
-
-towardsdatascience.com](/machine-translation-with-transformers-using-pytorch-f121fe0ad97b) [](/abstractive-summarization-using-pytorch-f5063e67510) [## 使用 Pytorch 的抽象摘要
-
-### 总结任何文本使用变压器在几个简单的步骤！
-
-towardsdatascience.com](/abstractive-summarization-using-pytorch-f5063e67510) [](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) [](/bert-text-classification-using-pytorch-723dfb8b6b5b) [## 使用 Pytorch 的 BERT 文本分类
-
-### 文本分类是自然语言处理中的一项常见任务。我们应用 BERT，一个流行的变压器模型，对假新闻检测使用…
-
-towardsdatascience.com](/bert-text-classification-using-pytorch-723dfb8b6b5b) 
+</question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012>  </machine-translation-with-transformers-using-pytorch-f121fe0ad97b>  </abstractive-summarization-using-pytorch-f5063e67510>  </semantic-similarity-using-transformers-8f3cb5bf66d6>  </bert-text-classification-using-pytorch-723dfb8b6b5b>  
 
 # 参考
 

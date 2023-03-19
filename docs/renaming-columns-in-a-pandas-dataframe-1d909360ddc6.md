@@ -150,11 +150,7 @@ new_names = ['ID', 'Survived', 'Class', 'Name', 'Sex']df = pd.read_csv(
 
 如果你想了解更多关于`read_csv()`的信息，请查看下面的文章。
 
-[](/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) [## 所有你应该知道的熊猫 read_csv()加速你的数据分析
-
-### 一些最有帮助的熊猫技巧来加速你的数据分析
-
-towardsdatascience.com](/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) 
+</all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3>  
 
 # 4.使用`columns.str.replace()`方法
 

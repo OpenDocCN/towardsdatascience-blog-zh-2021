@@ -59,4 +59,4 @@ Plotly 是一个可视化库，因其惊人的功能而迅速流行起来。Plot
 
 我希望这是有趣和好玩的。下次见！
 
-查看我的 [**github**](https://github.com/rajlm10) 的一些其他项目和整个[代码](https://github.com/rajlm10/FifaPlotly/blob/main/FifaPlotly.ipynb)。你可以在这里联系我[](https://rajsangani.me/)****。*** 感谢您的配合！*
+查看我的 [**github**](https://github.com/rajlm10) 的一些其他项目和整个[代码](https://github.com/rajlm10/FifaPlotly/blob/main/FifaPlotly.ipynb)。你可以在这里联系我<https://rajsangani.me/>****。*** 感谢您的配合！*

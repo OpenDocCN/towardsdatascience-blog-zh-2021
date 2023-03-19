@@ -250,35 +250,19 @@ plt.suptitle("Clusters with distance threshold 3", fontsize = 20)
 
 本三部曲的第一部分涵盖了理论联系和亲和力，可在以下网址找到:
 
-[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [## 层次聚类简介(第 1 部分——理论、联系和相似性)
-
-### 什么是层次聚类、亲和度和关联度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) 
+</introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702>  
 
 使用地理约束集群的最后一部分可以在这里找到:
 
-[](/introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173) [## 层次聚类简介(第 3 部分—空间聚类)
-
-### 在层次聚类中引入空间维度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173) 
+</introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173>  
 
 该代码可在以下网址找到:
 
-[](https://github.com/PhilipDW183/London_crime_clusters) [## GitHub-Philip dw 183/London _ crime _ clusters:应用聚类来识别…的聚类
-
-### 这本笔记本旨在介绍等级聚类，并探索跨…
-
-github.com](https://github.com/PhilipDW183/London_crime_clusters) 
+<https://github.com/PhilipDW183/London_crime_clusters>  
 
 如果你想在 Medium 上阅读更多我和其他人写的好文章，请随意使用我的参考链接注册 Medium 会员:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership>  
 
 来源:
 
@@ -286,14 +270,6 @@ philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership)
 
 [2]https://data.london.gov.uk/
 
-[](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [## Python 中 Matplotlib 绘图简介
-
-### UCL 数据科学学会研讨会 7:创建一个基本的图表，在同一图表上绘制不同的信息…
-
-towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)

@@ -105,11 +105,7 @@ RAKE 和 TextRank 的主要区别在于，RAKE 考虑候选关键字内的同现
 
 如果您不熟悉文档嵌入，请阅读本文:
 
-[](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) [## 无需编码的文档嵌入和文本分类
-
-### 什么是文档嵌入，如何在没有一行代码的情况下对文本进行分类？
-
-towardsdatascience.com](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) 
+</documents-embeddings-and-text-classification-without-coding-e274b4e191e9>  
 
 ## 结论
 

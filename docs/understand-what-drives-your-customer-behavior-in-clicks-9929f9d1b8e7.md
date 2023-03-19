@@ -71,10 +71,6 @@
 
 不用说——作为一名数据科学家，我仍然喜欢用不同的方法处理原始数据——决策树、分类算法等等。关键驱动因素分析不仅仅是一种技术。如果你有兴趣知道 PowerBI 是如何做到这一点的，这里是我找到的链接-
 
-[](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi) [## Power BI 通过 ML.NET |使用关键影响者。网
-
-### 产品与服务 ML.NET 组织规模庞大(1000 多名员工)Power BI 是一款业务分析解决方案…
-
-dotnet.microsoft.com](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi) 
+<https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi>  
 
 *   *保持连接在*[*LinkedIn*](https://www.linkedin.com/in/deep7/)*和* [*中*](https://vermadeepak.medium.com/)

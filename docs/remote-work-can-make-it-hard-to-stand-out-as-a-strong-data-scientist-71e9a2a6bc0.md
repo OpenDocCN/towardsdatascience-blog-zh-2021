@@ -65,16 +65,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1) [## 为什么可靠性和稳定性在数据科学中很重要？
-
-### 理解糟糕的软件可靠性的含义
-
-towardsdatascience.com](/why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1) [](/one-big-lesson-on-creating-a-software-library-723c36180941) [## 创建软件库的一大教训
-
-### 近两年的数据科学软件库的故事
-
-towardsdatascience.com](/one-big-lesson-on-creating-a-software-library-723c36180941) [](/top-7-lessons-learned-after-an-application-outage-in-data-science-683a13287839) [## 数据科学应用中断后的 7 大经验教训
-
-### 了解失误并找到前进的道路
-
-towardsdatascience.com](/top-7-lessons-learned-after-an-application-outage-in-data-science-683a13287839)
+</why-does-reliability-and-stability-matter-in-data-science-3040ffb64b1>  </one-big-lesson-on-creating-a-software-library-723c36180941>  </top-7-lessons-learned-after-an-application-outage-in-data-science-683a13287839> 

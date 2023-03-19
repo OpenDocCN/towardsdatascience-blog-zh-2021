@@ -157,32 +157,16 @@ app 修改方案(图片作者提供)
 
 关于达尔-e:
 
-[](https://openai.com/blog/dall-e/) [## DALL E:从文本中创建图像
-
-### DALL E 是 GPT-3 的一个 120 亿参数版本，经过训练，可以使用以下数据集从文本描述中生成图像
-
-openai.com](https://openai.com/blog/dall-e/) 
+<https://openai.com/blog/dall-e/>  
 
 关于剪辑:
 
-[](https://openai.com/blog/clip/) [## 剪辑:连接文本和图像
-
-### 我们正在引入一个叫做 CLIP 的神经网络，它可以有效地从自然语言中学习视觉概念…
-
-openai.com](https://openai.com/blog/clip/) 
+<https://openai.com/blog/clip/>  
 
 剪辑 github:
 
-[](https://github.com/openai/CLIP) [## 打开/剪辑
-
-### CLIP(对比语言-图像预训练)是在各种(图像、文本)对上训练的神经网络。它可以…
-
-github.com](https://github.com/openai/CLIP) 
+<https://github.com/openai/CLIP>  
 
 关于 CLIp 和多模态中的神经元激活:
 
-[](https://openai.com/blog/multimodal-neurons/) [## 人工神经网络中的多模态神经元
-
-### 我们发现 CLIP 中的神经元对相同的概念做出反应，无论是字面上的、象征性的还是…
-
-openai.com](https://openai.com/blog/multimodal-neurons/)
+<https://openai.com/blog/multimodal-neurons/> 

@@ -88,15 +88,7 @@ DBSCAN 算法过程以及两个参数ϵ和最小点数对结果的影响的图�
 
 我将跳过关于 I/O 操作和文件格式的细节，但是我知道，如果你想弄清楚或者建立一个成熟的专家🧐.，下面的文章中会涉及到它们今天，我们将直接使用众所周知的。ply 文件格式。
 
-[](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [## 如何使用 Python 自动处理激光雷达点云
-
-### 使用 Python 从头开始点云子采样的终极指南。它涵盖了激光雷达输入/输出，三维体素网格处理…
-
-towardsdatascience.com](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [](/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba) [## 使用 Python 从点云生成 3D 网格的 5 步指南
-
-### 生成 3D 网格的教程(。obj，。ply，。stl，。gltf)自动从三维点云使用 python。(奖金)…
-
-towardsdatascience.com](/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba) 
+</how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c>  </5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba>  
 
 🤓 ***注意*** *:* 对于这个操作指南，你可以使用[这个库](https://drive.google.com/file/d/1CJrH9eqzOte3PHJ_g8iLifJFE_cBGg6b/view?usp=sharing)中的点云，我已经过滤和转换过了，这样你就处于最佳状态了。如果你想在不安装任何东西的情况下预先可视化并使用它，你可以查看一下 [webGL 版本](https://www.flyvast.com/flyvast/app/page-snapshot-viewer.html#/388/ae65f30d-01d4-5faf-0472-4b9962e8d2cb)。
 
@@ -104,11 +96,7 @@ towardsdatascience.com](/5-step-guide-to-generate-3d-meshes-from-point-clouds-wi
 
 在下面的前一篇文章中，我们看到了如何使用 Anaconda 轻松地设置环境，以及如何使用 IDE Spyder 管理您的代码。如果你想成为一名成熟的 python 应用程序开发人员，我建议你继续这样做😆。
 
-[](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) [## 使用 Python 探索 3D 点云处理
-
-### 教程简单地设置 python 环境，开始处理和可视化 3D 点云数据。
-
-towardsdatascience.com](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) 
+</discover-3d-point-cloud-processing-with-python-6112d9ee38e7>  
 
 但是，嘿，如果你喜欢在接下来的 5 分钟内从头开始，我也给你一个 Google Colab 笔记本，你会在文章的结尾找到它。没有要安装的内容；你可以把它保存到你的 google drive，然后开始使用它，也可以使用来自 1☝️.步骤的免费数据集
 
@@ -329,19 +317,11 @@ rest.colors = o3d.utility.Vector3dVector(colors[:, :3])
 
 **未来的帖子将深入探讨点云空间分析、文件格式、数据结构、对象检测、分割、分类、可视化、动画和网格划分。我们将特别关注如何管理大点云数据，如下文所述:**
 
-**[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [## 三维点云的未来:一个新的视角
-
-### 被称为点云的离散空间数据集通常为决策应用奠定基础。但是他们能不能…
-
-towardsdatascience.com](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) 
+**</the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9>  
 
 我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。您可以从今天开始，在[地理数据学院](https://learngeodata.eu/)开始。
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 点云处理器在清晰的基础(10 '到 20 ')和将它们付诸具体行动(20 '到…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 # 更进一步
 

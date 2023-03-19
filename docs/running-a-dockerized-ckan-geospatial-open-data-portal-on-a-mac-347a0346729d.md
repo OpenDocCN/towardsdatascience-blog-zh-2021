@@ -206,8 +206,4 @@ $ source $CKAN_VENV/bin/activate && cd $CKAN_VENV/src/`
 
 如果你喜欢这篇文章，考虑给我买杯咖啡，这样我就可以继续写更多的文章了！
 
-[](https://www.buymeacoffee.com/guilhermeiablo) [## 古伊列梅·亚布洛诺夫斯基正在传播空间数据科学
-
-### 嘿👋我刚刚在这里创建了一个页面。你现在可以给我买杯咖啡了！
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/guilhermeiablo)
+<https://www.buymeacoffee.com/guilhermeiablo> 

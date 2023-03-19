@@ -66,6 +66,6 @@
 
 感谢阅读！
 
-如果你喜欢这篇文章，请随意查看[](https://seekingwithin.substack.com/)****——**每周一期的时事通讯，涵盖了广泛的话题，探讨了这样一个信念:我们寻求的大多数答案就在我们自己身上。**
+如果你喜欢这篇文章，请随意查看<https://seekingwithin.substack.com/>****——**每周一期的时事通讯，涵盖了广泛的话题，探讨了这样一个信念:我们寻求的大多数答案就在我们自己身上。**
 
 **想和我交流吗？通过[电子邮件](http://mailto:reuben3699@gmail.com/)、 [LinkedIn](https://linkedin.com.in/reubence) 或 [Twitter](https://twitter.com/reuben_rapose) 给我发消息！**

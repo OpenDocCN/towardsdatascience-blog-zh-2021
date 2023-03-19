@@ -58,40 +58,8 @@ deepfake 的意图取决于人。有的用 deepfakes 来娱乐，有的用来教
 
 查看我最近的一些文章
 
-[](https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482) [## 退出 Kubernetes Kubeadm，转投 MicroK8s
-
-### 为不易出错的群集让路…
-
-medium.com](https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482) [](https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf) [## 因为“自私”的原因离职
-
-### 有什么“不好的”理由让你为了新的工作而辞职吗？
-
-miketechgame.medium.com](https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf) [](https://python.plainenglish.io/video-editing-with-python-73d419ba93ae) [## 如何用 Python 编辑视频
-
-### 通过使用 MoviePy Python 模块加速回放来创建延时的指南。
-
-python .平原英语. io](https://python.plainenglish.io/video-editing-with-python-73d419ba93ae) [](https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7) [## Kubernetes vs Docker Swarm
-
-### 评估容器编排平台…
-
-medium.com](https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7) [](/mysql-vs-access-5db036bcdf4d) [## MySQL 与 Access
-
-### 开源和专有的冲突
-
-towardsdatascience.com](/mysql-vs-access-5db036bcdf4d) 
+<https://medium.com/codex/quitting-kubernetes-kubeadm-and-switching-to-microk8s-b487e2abd482>  <https://miketechgame.medium.com/leaving-your-job-for-selfish-reasons-af1060ea51bf>  <https://python.plainenglish.io/video-editing-with-python-73d419ba93ae>  <https://medium.com/codex/kubernetes-vs-docker-swarm-d209e7cd58d7>  </mysql-vs-access-5db036bcdf4d>  
 
 参考资料:
 
-[](https://www.merriam-webster.com/words-at-play/deepfake-slang-definition-examples) [## 我们正在观看的单词:“Deepfake”
-
-### deepfake 一词通常用于指使用算法编辑的视频，以取代人…
-
-www.merriam-webster.com](https://www.merriam-webster.com/words-at-play/deepfake-slang-definition-examples) [](https://us.norton.com/internetsecurity-emerging-threats-what-are-deepfakes.html) [## Deepfakes:它们是什么以及它们为什么具有威胁性
-
-### Deepfake 技术正在使你更难辨别你在互联网上看到和听到的一些新闻是真是假。什么…
-
-us.norton.com](https://us.norton.com/internetsecurity-emerging-threats-what-are-deepfakes.html) [](https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/) [## 记忆者正在制造深度假货，事情变得越来越奇怪
-
-### 格蕾丝·温德海姆以前听说过 deepfakes。但是她从来没有考虑过如何制造一个。这是一个病毒迷因，使用…
-
-www.technologyreview.com](https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/)
+<https://www.merriam-webster.com/words-at-play/deepfake-slang-definition-examples>  <https://us.norton.com/internetsecurity-emerging-threats-what-are-deepfakes.html>  <https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/> 

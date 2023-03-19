@@ -122,12 +122,4 @@ stock_df["close_10_sma_xd_close_50_sma"]
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/quantra-a-python-coding-platform-to-learn-quantitative-finance-8e5e88c89120) [## quantra——学习量化金融的 Python 编码平台
-
-towardsdatascience.com](/quantra-a-python-coding-platform-to-learn-quantitative-finance-8e5e88c89120) [](/introduction-to-the-hurst-exponent-with-code-in-python-4da0414ca52e) [## 赫斯特指数简介 Python 代码
-
-towardsdatascience.com](/introduction-to-the-hurst-exponent-with-code-in-python-4da0414ca52e) [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [## 5 个提高我工作效率的免费工具
-
-### 这不是一个好的 IDE，尽管它很有帮助！
-
-towardsdatascience.com](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42)
+</quantra-a-python-coding-platform-to-learn-quantitative-finance-8e5e88c89120>  </5-free-tools-that-increase-my-productivity-c0fafbbbdd42> 

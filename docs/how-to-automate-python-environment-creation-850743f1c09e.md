@@ -8,11 +8,7 @@
 
 照片由 [Florian Olivo](https://unsplash.com/@florianolv?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 
-[](https://learningfrommachines.substack.com/) [## 向机器学习
-
-### 了解向我们学习的算法。
-
-learningfrommachines.substack.com](https://learningfrommachines.substack.com/) 
+<https://learningfrommachines.substack.com/>  
 
 # 介绍
 
@@ -20,11 +16,7 @@ learningfrommachines.substack.com](https://learningfrommachines.substack.com/)
 
 在本文中，我将向您展示如何使用`bash`脚本在`conda`和`ipykernel`中自动开发 Python 环境。我已经写了如何将您的环境链接到 Jupyter 内核，所以如果您不知道如何做，您可以在下面找到它的链接:
 
-[](/link-your-virtual-environment-to-jupyter-with-kernels-a69bc61728df) [## 用内核将你的虚拟环境链接到 Jupyter
-
-### 立即开始原型制作。
-
-towardsdatascience.com](/link-your-virtual-environment-to-jupyter-with-kernels-a69bc61728df) 
+</link-your-virtual-environment-to-jupyter-with-kernels-a69bc61728df>  
 
 我将在一个 Unix shell 上工作，默认情况下，这个 shell 可用于 Linux 和 macOS。本文不会讨论如何在 Windows 上实现这一点，所以请注意这一点。
 

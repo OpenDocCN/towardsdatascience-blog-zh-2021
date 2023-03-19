@@ -46,7 +46,7 @@
 
 好了，我们把代码放在了 Sagemaker 实例可以访问的地方，现在我们需要一个触发器，在我们的例子中是气流。正如我上面提到的，每个项目都有一个 dag，当 DAG 运行时，它为每个项目执行几乎标准的任务，例如；
 
-## 创建一个 Sagemaker 实例[](https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#create-a-sagemaker-instance)
+## 创建一个 Sagemaker 实例<https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#create-a-sagemaker-instance>
 
 根据 DAG 的要求，我们可以在一个 sagemaker 实例中运行所有笔记本，也可以使用多个 sagemaker 实例并行运行它们。想象这样一个场景，您为每个国家训练一个模型，因此我们可以简单地同时为 20 个国家启动 20 个 sagemaker 实例，因为没有必要等待彼此训练完成后再启动下一个。我们通常这样做，并保持 dag 的总运行时间不变，即使国家的数量在不断增加。有时，您必须为每种类型的实例创建 AWS 限制增加支持票，以增加您的活动 Sagemaker 实例数。
 
@@ -68,11 +68,11 @@ Papermill 是一个伟大的项目，我最喜欢它的两个特点。当然，�
 
 papermill 的第二个功能是，您可以将每个笔记本运行文件与单元输出和注入参数等保存在一起。得救了。ipynb 文件看起来与您手动运行它时一样。这为我们提供了两件事情，使用详细的错误日志进行故障排除，以及保存每次计划的运行以供审计或保存历史记录。基本上每个自动运行的笔记本文件都作为一个单独的文件保存在 S3 上。
 
-## 删除 Sagemaker 实例[](https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#delete-sagemaker-instance)
+## 删除 Sagemaker 实例<https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#delete-sagemaker-instance>
 
 当所有笔记本文件都通过 Airflow dag 中的 SSHOperator 执行时，下一步是删除这个 Sagemaker 实例，因为我们不再需要它了。此 dag 和其他 Dag 的下一次运行将创建他们自己的 Sagemaker 实例来运行笔记本，这为我们提供了每个项目的临时和*隔离运行时，以及项目的更多并发运行程序。AWS Sagemaker 管理 api 的限制是每秒 4 个请求，因此如果出现 api 错误，您需要处理这个问题。*
 
-## 交付结果[](https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#delivering-results)
+## 交付结果<https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#delivering-results>
 
 由于此流程用于 ML 模型训练以及预测/推理，大多数情况下 Dag 会有一个最终步骤，我们将笔记本的输出加载到雪花或其他目的地。这些是基于项目需求的 json 或 parquet 文件，在我们的例子中，与 Snowflake 或其他第三方的交互比在笔记本文件中更容易。Airflow 几乎为我们已经集成的所有东西都提供了一个操作符或插件，因此我们选择不在数据科学项目笔记本中包含这一职责，以保持简单。
 
@@ -82,7 +82,7 @@ papermill 的第二个功能是，您可以将每个笔记本运行文件与单�
 
 上面，我用 Sagemaker 笔记本实例为一个典型的气流 DAG 添加了一个简单的流。每个笔记本都可能在其中进行非常复杂的 ML 模型训练或预测，但从数据工程的角度来看，这是一个简单的应用程序，通过带有参数的气流触发，与各种源数据系统交互，并产生将被传递到目标系统的输出。
 
-# 此解决方案的优势[](https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#benefits-of-this-solution)
+# 此解决方案的优势<https://halilduygulu.com/blog/2021-12-11-managing-sagemaker-workflows-with-airflow#benefits-of-this-solution>
 
 *   数据工程师不需要了解数据科学项目的细节就可以实现自动化。
 *   数据科学家可以开发和测试没有硬编码参数的笔记本，并且知道相同的代码正在生产中运行，没有复制粘贴，没有临时代码行等。所有的代码变更和历史都在 git 仓库中。

@@ -10,15 +10,7 @@ tommyvideo 的 Pixabay 上的原子分子化学-自由图像
 
 两个月前，我写了两篇文章，解释了使用递归和时态卷积神经网络进行时间序列预测。两篇文章都继续吸引着读者。
 
-[](/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f) [## 时间循环:Python 中用于时间序列预测的递归神经网络简介
-
-### 一个关于 LSTM，GRU 和香草 RNNs 的教程-由 Darts 多方法预测库包装
-
-towardsdatascience.com](/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f) [](/temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6) [## 时态线圈:Python 中时间序列预测的时态卷积网络介绍
-
-### 一个 TCN 教程，使用飞镖多方法预测库
-
-towardsdatascience.com](/temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6) 
+</temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f>  </temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6>  
 
 由于深度预测的初级读本显然有很多读者，我认为神经网络预测者中的最新竞争者也会有类似的兴趣。让我们在书架上增加第三个深度预测者。
 
@@ -358,12 +350,4 @@ Darts 库使我们能够对 TFT 模型的超参数进行网格搜索。该搜索
 
 Jupyter 笔记本可以在 GitHub 上下载: [h3ik0th/TFT_darts:用时间融合变换器进行概率预测(github.com)](https://github.com/h3ik0th/TFT_darts)
 
-[](https://medium.com/subscribe/@h3ik0.th) [## 每当 Heiko Onnen 发表文章时，都会收到一封电子邮件。
-
-### 每当 Heiko Onnen 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@h3ik0.th) [](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b) [## 释放时间融合变压器:Python 中多元时间序列的深度预测
-
-### 端到端示例:带有外生变量和复杂季节性的时间序列的概率预测
-
-medium.com](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b)
+<https://medium.com/subscribe/@h3ik0.th>  <https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b> 

@@ -166,14 +166,6 @@ plt.show()
 
 如果你喜欢这篇文章，你也可以发现下面这些有趣的:
 
-[](/bar-plots-best-practices-and-issues-30f1ad32c68f) [## 条形图:最佳实践和问题
-
-### 如何创建一个有洞察力的图表
-
-towardsdatascience.com](/bar-plots-best-practices-and-issues-30f1ad32c68f) [](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [## 用 Python 创建瀑布图
-
-### 做这件事最简单的方法
-
-medium.com](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [](/testing-birthday-paradox-in-faker-library-python-54907d724414) [## 在 Faker 库中测试生日悖论(Python)
+</bar-plots-best-practices-and-issues-30f1ad32c68f>  <https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45>  </testing-birthday-paradox-in-faker-library-python-54907d724414> [## 在 Faker 库中测试生日悖论(Python)
 
 towardsdatascience.com](/testing-birthday-paradox-in-faker-library-python-54907d724414)

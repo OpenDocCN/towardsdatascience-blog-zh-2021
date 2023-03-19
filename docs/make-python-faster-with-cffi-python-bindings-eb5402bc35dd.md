@@ -22,11 +22,7 @@ Python 是最用户友好的编程语言之一。它易于学习，免费使用�
 
 在上一篇文章中，我们用标准 Python 库的一部分库`ctypes`做了同样的事情。我们看到了什么是编组，以及 Python 在内存管理方面与 C 有何不同。最后，我们通过一个简单的例子看到了`ctypes`如何帮助我们调用 C 函数。
 
-[](/do-you-hate-how-slow-python-is-this-is-how-you-can-make-it-run-faster-532468fe1583) [## 你讨厌 Python 有多慢吗？这就是你如何让它跑得更快！
-
-### 将具有挑战性的任务委派给另一名玩家
-
-towardsdatascience.com](/do-you-hate-how-slow-python-is-this-is-how-you-can-make-it-run-faster-532468fe1583) 
+</do-you-hate-how-slow-python-is-this-is-how-you-can-make-it-run-faster-532468fe1583>  
 
 在这个故事中，让我们和 CFFI 一起更上一层楼。
 

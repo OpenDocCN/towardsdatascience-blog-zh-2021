@@ -95,11 +95,7 @@ pipenv run pip freeze > requirements.txt
 > 
 > 在此找到它们:
 
-[](/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e) [## 在 Python 中使用环境变量快速指南
-
-### 在您的数据科学应用中轻松设置应用机密、加载和检索它们。
-
-towardsdatascience.com](/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e) 
+</the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e>  
 
 使用 Deepnote，只需点击侧面板中的 **Integrations** 选项卡，然后点击**环境变量**，即可插入环境变量。
 
@@ -212,10 +208,6 @@ towardsdatascience.com](/the-quick-guide-to-using-environment-variables-in-pytho
 
 *如果你想留在圈子里，阅读我的更多数据科学文章，我恳请你考虑成为一名中等会员。只需每月 5 美元，你就可以获得我所有的文章，同时支持我的写作。:) 👇*
 
-[](https://ipom.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership) 
+<https://ipom.medium.com/membership>  
 
 也在[推特](https://twitter.com/csandyash)上找我。

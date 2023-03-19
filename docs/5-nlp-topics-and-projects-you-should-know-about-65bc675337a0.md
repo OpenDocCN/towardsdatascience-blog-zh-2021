@@ -16,11 +16,7 @@
 
 如果你对 Python 和数据科学的更棒的项目感兴趣，请随意查看下面的链接，这里涵盖了 2021 年及以后的 15 个这样的最佳项目。在这篇文章中，我们将集中讨论 NLP 的五个主题和项目，每个热衷于这个主题的人都应该了解它们，并致力于达到完美！
 
-[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+</15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  
 
 # 1.带 ML 和 DL 的 NLTK
 
@@ -48,11 +44,7 @@ X_test_essay_bow = vectorizer.transform(X_test['essay'].values)
 
 要了解更多关于如何用正则表达式简化自然语言处理项目的信息，我强烈推荐大家查看下面提供的链接。它涵盖了你如何利用四个基本的正则表达式操作来对你的项目的论文和文本数据集进行大部分预处理。
 
-[](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) [## 4 个基本正则表达式操作符使自然语言处理变得更简单！
-
-### 了解四种基本的常规操作，以清理几乎任何类型的可用数据。
-
-towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1) 
+</natural-language-processing-made-simpler-with-4-basic-regular-expression-operators-5002342cbac1>  
 
 # 2.预测系统
 
@@ -68,11 +60,7 @@ towardsdatascience.com](/natural-language-processing-made-simpler-with-4-basic-r
 
 解决这些任务的独特方法包括利用一维卷积神经网络来创建与单词向量的链接。我建议观众查看我的下一个单词预测项目，我在几个堆栈 LSTMs 的帮助下实现了下面的过程。
 
-[](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) [## 基于自然语言处理和深度学习的下一个单词预测
-
-### 使用 LSTM 设计单词预测系统
-
-towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf) 
+</next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf>  
 
 # 3.聊天机器人
 
@@ -88,11 +76,7 @@ towardsdatascience.com](/next-word-prediction-with-nlp-and-deep-learning-48b9fe0
 
 我强烈建议检查一下这些聊天机器人的各种工作方法。有几种深度学习算法和方法可以在这些聊天机器人上获得理想的结果。一种独特的方法是通过利用一维卷积神经网络来构建这些聊天机器人。查看下面提供的文章链接，获得对以下内容更直观的理解。
 
-[](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) [## 使用一维卷积层的创新聊天机器人
-
-### 从头开始使用深度学习和 Conv-1D 层构建聊天机器人
-
-towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc) 
+</innovative-chatbot-using-1-dimensional-convolutional-layers-2cab4090b0fc>  
 
 # 4.变形金刚(电影名)
 
@@ -134,26 +118,6 @@ towardsdatascience.com](/innovative-chatbot-using-1-dimensional-convolutional-la
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [## 国际象棋中的人工智能:国际象棋引擎中人工智能的进化
-
-### 揭示人工智能，神经网络和深度学习的进步导致快速…
-
-towardsdatascience.com](/ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50) [](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [## 破解数据科学和机器学习面试的 7 个技巧！
-
-### 帮助你在数据科学和机器学习面试中表现更好的 7 个详细技巧
-
-towardsdatascience.com](/7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3) [](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [## 在数据科学领域取得更大成功的 15 个技巧！
-
-### 作为数据科学家，每个数据科学爱好者都必须努力提高的 15 个因素
-
-towardsdatascience.com](/15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae) [](/machine-learning-101-master-ml-66b20003404e) [## 机器学习 101:ML 大师
-
-### 学习初学者掌握该领域所需的机器学习的所有必要和核心概念
-
-towardsdatascience.com](/machine-learning-101-master-ml-66b20003404e) 
+</ai-in-chess-the-evolution-of-artificial-intelligence-in-chess-engines-a3a9e230ed50>  </7-tips-to-crack-data-science-and-machine-learning-interviews-38b0b0d4a2d3>  </8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  </15-tips-to-be-more-successful-in-data-science-c58aa1eb4cae>  </machine-learning-101-master-ml-66b20003404e>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

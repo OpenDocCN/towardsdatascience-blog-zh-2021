@@ -316,4 +316,4 @@ my_submission.to_csv("/kaggle/working/my_submission.csv", index=False)*
 
 > *我希望你喜欢我的工作，请♥并与你的朋友和同事分享它，如果你想阅读更多关于数据科学/机器学习的文章，请在 [LinkedIn](https://www.linkedin.com/in/1abidaliawan/) 和 [Polywork](https://www.polywork.com/kingabzpro) 上关注我。*
 
-**原载于 2021 年 8 月 4 日 https://www.analyticsvidhya.com*[](https://www.analyticsvidhya.com/blog/2021/08/training-bert-text-classifier-on-tensor-processing-unit-tpu)**。***
+**原载于 2021 年 8 月 4 日 https://www.analyticsvidhya.com*<https://www.analyticsvidhya.com/blog/2021/08/training-bert-text-classifier-on-tensor-processing-unit-tpu>**。***

@@ -66,16 +66,4 @@
 
 ## 相关文章
 
-[](/the-hard-part-of-data-science-fa9cad734319) [## 数据科学的难点在于
-
-### 那些闯入这一领域的人往往会遗漏什么
-
-towardsdatascience.com](/the-hard-part-of-data-science-fa9cad734319) [](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c) [## 计算数据科学项目的商业价值
-
-### 性能度量不能告诉你你想知道的:一个项目实际上有多大价值
-
-towardsdatascience.com](/calculating-the-business-value-of-a-data-science-project-3b282de9be3c) [](/thinking-in-distributions-c40b2cd0ec76) [## 在分配中思考
-
-### 数据科学家如何看待世界
-
-towardsdatascience.com](/thinking-in-distributions-c40b2cd0ec76)
+</the-hard-part-of-data-science-fa9cad734319>  </calculating-the-business-value-of-a-data-science-project-3b282de9be3c>  </thinking-in-distributions-c40b2cd0ec76> 

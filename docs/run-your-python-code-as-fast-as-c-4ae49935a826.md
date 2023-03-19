@@ -72,8 +72,4 @@ JIT 编译结合了提前编译和解释。
 
 欢迎在 LinkedIn 上向我提出私人问题和评论。如果你喜欢这篇文章，让我告诉你我的时事通讯:[marcelmoos.com/newsletter](https://marcelmoos.com/newsletter)。
 
-[](/make-your-neural-net-confuse-dogs-with-pelicans-af7ad6ec95a5) [## 攻击神经网络
-
-### 使用 PGD 攻击为神经网络制造视错觉。
-
-towardsdatascience.com](/make-your-neural-net-confuse-dogs-with-pelicans-af7ad6ec95a5)
+</make-your-neural-net-confuse-dogs-with-pelicans-af7ad6ec95a5> 

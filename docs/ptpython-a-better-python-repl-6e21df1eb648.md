@@ -194,16 +194,4 @@ Ptpython 也支持 IPython。运行`ptipython`，获得一个漂亮的交互式 
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [## 当 Python 文件改变时自动重新加载的 2 个工具
-
-towardsdatascience.com](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [## PyWebIO:使用 Python 以脚本方式编写交互式 Web 应用
-
-### 在没有 HTML 和 JS 知识的情况下，用几行 Python 代码构建 Web 应用程序！
-
-towardsdatascience.com](/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e) [](/how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f) [## 使用 Python 获得通知的 3 种方式
-
-### 现在，您可以在等待培训完成的同时从事其他项目
-
-towardsdatascience.com](/how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f)
+</2-tools-to-automatically-reload-when-python-files-change-90bb28139087>  </pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e>  </how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f> 

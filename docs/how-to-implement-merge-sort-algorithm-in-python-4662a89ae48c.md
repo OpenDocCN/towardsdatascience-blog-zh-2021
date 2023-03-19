@@ -164,8 +164,4 @@ run_merge_sort()
 3.  跟着我上 [**中**](https://richmondalake.medium.com/)
 4.  通过 [**LinkedIn**](https://www.linkedin.com/in/richmondalake/) 联系我
 
-[](/algorithms-for-data-scientists-insertion-sort-6caa69f906b3) [## 数据科学家的算法—插入排序
-
-### 你将学到的最简单的算法之一。
-
-towardsdatascience.com](/algorithms-for-data-scientists-insertion-sort-6caa69f906b3)
+</algorithms-for-data-scientists-insertion-sort-6caa69f906b3> 

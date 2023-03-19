@@ -20,11 +20,7 @@
 
 只是为了刷新关于 BERT 的记忆，这里有一个关于 NLP 作为一个域从 BoW，TFIDF，Word2Vec，RNN，LSTM 到最后 BERT 的增长的故事情节——珍惜旅程。
 
-[](https://medium.com/analytics-vidhya/attention-transformer-and-bert-a-simulating-nlp-journey-2a4abbfb6e74) [## 注意，变形金刚和伯特:模拟 NLP 之旅
-
-### 几年前，出于一个纯粹的巧合，我们被要求与一群律师一起主持一个关于机器如何…
-
-medium.com](https://medium.com/analytics-vidhya/attention-transformer-and-bert-a-simulating-nlp-journey-2a4abbfb6e74) 
+<https://medium.com/analytics-vidhya/attention-transformer-and-bert-a-simulating-nlp-journey-2a4abbfb6e74>  
 
 这种发展导致了行业中常用的 BERT 模型的多种变体。在深入研究各种变体之前，有必要修改几个 BERT 概念。
 
@@ -44,11 +40,7 @@ b. **NSP** :在训练过程中，模型得到输入的句子对，它还学习�
 
 > 鉴于文章的篇幅，我选择将本文分为两部分。。在这一部分，我们将深入探讨前三个变体，即 ALBERT、RoBERTa 和 ELECTRA。第二部分将涵盖其余三个。下面是第二部分的链接:
 
-[](https://durgiachandan.medium.com/exploring-bert-variants-part-2-spanbert-distilbert-tinybert-8e9bbef4eef1) [## 探索 BERT 变体(第 2 部分):SpanBERT、DistilBERT、TinyBERT
-
-### 对伯特家族的一次温和的深入探究…
-
-durgiachandan.medium.com](https://durgiachandan.medium.com/exploring-bert-variants-part-2-spanbert-distilbert-tinybert-8e9bbef4eef1) 
+<https://durgiachandan.medium.com/exploring-bert-variants-part-2-spanbert-distilbert-tinybert-8e9bbef4eef1>  
 
 所以，让我们开始吧:
 
@@ -64,11 +56,7 @@ I .仅前馈层
 
 b.**因式分解嵌入层参数化**:嵌入层不是保持 768，而是因式分解减少到 128 层。人们可以认为这种分解类似于推荐系统中常用的矩阵分解。如果你想恢复记忆，这里有一篇很好的文章。
 
-[](/recommendation-system-matrix-factorization-d61978660b4b) [## 推荐系统—矩阵分解
-
-### 矩阵分解的漫游推荐系统
-
-towardsdatascience.com](/recommendation-system-matrix-factorization-d61978660b4b) 
+</recommendation-system-matrix-factorization-d61978660b4b>  
 
 除了阿尔伯特很轻，不像伯特研究 NSP，阿尔伯特研究一个叫做 SOP(句子顺序预测)的概念。NSP 和 SOP 之间的关键区别在于，对于 NSP，在训练期间，该模型获得输入的句子对，并学习预测第二句话是否是原文中的下一句话。SOP 是一个“分类模型”,其目标是“分类”两个给定的句子是否互换，即它们的顺序是否正确。
 

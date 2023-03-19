@@ -10,11 +10,7 @@
 
 随机梯度下降是机器学习和深度学习中广泛使用的方法。这篇文章解释了随机梯度下降使用一个单一的感知器，使用著名的虹膜数据集。我假设你已经知道梯度下降的基本知识。如果你需要复习，请查看这个线性回归教程，它用一个简单的机器学习问题解释了梯度下降。
 
-[](/basic-linear-regression-algorithm-in-python-for-beginners-c519a808b5f8) [## Python 中的线性回归算法:一步一步
-
-### 学习线性回归的概念，并使用 python 从头开始开发一个完整的线性回归算法
-
-towardsdatascience.com](/basic-linear-regression-algorithm-in-python-for-beginners-c519a808b5f8) 
+</basic-linear-regression-algorithm-in-python-for-beginners-c519a808b5f8>  
 
 ## 什么是随机梯度下降？
 
@@ -195,11 +191,7 @@ def error(X, y, w):
 
 请随意尝试用日志记录错误术语。这里有一个例子:
 
-[](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) [## Python 中从头开始的完整逻辑回归算法:一步一步
-
-### 使用真实世界的数据集开发算法
-
-towardsdatascience.com](/a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703) 
+</a-complete-logistic-regression-algorithm-from-scratch-in-python-step-by-step-ce33eae7d703>  
 
 我们将收集每次迭代和 Ws 中的错误。
 
@@ -397,24 +389,4 @@ array([.93333333        , 0.3       , 0.3       , 0.3       , 0.3       ,
 
 ## 更多阅读
 
-[](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e) [## Python 中从头开始的完整异常检测算法:分步指南
-
-### 基于概率的异常检测算法
-
-towardsdatascience.com](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e) [](/a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461) [## Python 中从头开始的完整 K 均值聚类算法:分步指南
-
-### 还有，如何使用 K 均值聚类算法对图像进行降维
-
-towardsdatascience.com](/a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461) [](/a-complete-recommender-system-from-scratch-in-python-step-by-step-6fc17a4da054) [## 一个完整的推荐系统从零开始:一步一步
-
-### 基于用户评分的线性回归电影推荐系统
-
-towardsdatascience.com](/a-complete-recommender-system-from-scratch-in-python-step-by-step-6fc17a4da054) [](/univariate-and-multivariate-gaussian-distribution-clear-understanding-with-visuals-5b85e53ea76) [## 单变量和多变量高斯分布:直观清晰的理解
-
-### 详细的高斯分布及其与均值、标准差和方差的关系
-
-towardsdatascience.com](/univariate-and-multivariate-gaussian-distribution-clear-understanding-with-visuals-5b85e53ea76) [](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [## 文本数据的探索性数据分析，包括可视化和情感分析
-
-towardsdatascience.com](/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260) [](/a-complete-free-course-on-inferential-statistics-for-data-scientists-in-r-129483f5f522) [## 一个完全免费的 R 语言数据科学家推断统计学课程
-
-towardsdatascience.com](/a-complete-free-course-on-inferential-statistics-for-data-scientists-in-r-129483f5f522)
+</a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e>  </a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461>  </a-complete-recommender-system-from-scratch-in-python-step-by-step-6fc17a4da054>  </univariate-and-multivariate-gaussian-distribution-clear-understanding-with-visuals-5b85e53ea76>  </exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis-e46dda3dd260> 

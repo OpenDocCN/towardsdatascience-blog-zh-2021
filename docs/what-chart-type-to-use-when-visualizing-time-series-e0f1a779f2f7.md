@@ -70,26 +70,6 @@ D 数据可视化是向更广泛的受众传达信息的强大工具。这意味
 
 我撰写的其他与数据可视化相关的文章:
 
-[](/six-guidelines-for-good-visualizations-7c1831cda29f) [## 良好可视化的六个准则
-
-### DataViz 传奇作品的要点。
-
-towardsdatascience.com](/six-guidelines-for-good-visualizations-7c1831cda29f) [](/hands-on-tutorial-f2ee5dc4d0a8) [## 条形图动画制作完全指南
-
-### 制作两种不同风格的条形图动画的分步指南
-
-towardsdatascience.com](/hands-on-tutorial-f2ee5dc4d0a8) [](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [## 使用 ggplot2 实现主数据可视化:饼图、蜘蛛图和条形图
-
-### 关于在 r 中创建饼图、蜘蛛图和圆形条形图的指南。
-
-towardsdatascience.com](/master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827) [](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) [## 为数据可视化创建自己的调色板——第 2 部分
-
-### 平衡色调、色调和饱和度，以生成完美的颜色渐变。
-
-towardsdatascience.com](/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19) 
+</six-guidelines-for-good-visualizations-7c1831cda29f>  </hands-on-tutorial-f2ee5dc4d0a8>  </master-data-visualization-with-ggplot2-pie-charts-spider-plots-and-bar-plots-899a07a15827>  </data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  </creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19>  
 
 *可以在* [*LinkedIn*](https://www.linkedin.com/in/abhinav-malasi/) *和*[*Twitter*](https://twitter.com/malasi_abhinav)*上与我连线，跟随我的数据科学和数据可视化之旅。或者您可以在 Medium 上关注我，了解有关 R 和 ggplot2 包的数据可视化的最新文章。*

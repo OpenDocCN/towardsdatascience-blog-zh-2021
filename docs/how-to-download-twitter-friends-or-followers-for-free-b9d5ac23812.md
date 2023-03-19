@@ -38,11 +38,7 @@
 
 如果您还没有开发人员帐户，请在此处获取一个:
 
-[](https://developer.twitter.com/en/apply-for-access) [## 申请访问- Twitter 开发者
-
-### 申请准入。Twitter APIs 和工具入门。所有新开发人员必须申请一个开发人员帐户…
-
-developer.twitter.com](https://developer.twitter.com/en/apply-for-access) 
+<https://developer.twitter.com/en/apply-for-access>  
 
 有用的文档:
 
@@ -54,11 +50,7 @@ developer.twitter.com](https://developer.twitter.com/en/apply-for-access)
 
 如果您没有时间等待批准，我很乐意快速为您获取数据。你可以在 UpWork 上找到我:
 
-[](https://www.upwork.com/o/profiles/users/~013c12563e17631b80/) [## 布蕾娜·赫罗尔德
-
-### 我很乐意帮你得到你想要的数据。
-
-www.upwork.com](https://www.upwork.com/o/profiles/users/~013c12563e17631b80/) 
+<https://www.upwork.com/o/profiles/users/~013c12563e17631b80/>  
 
 # 2.生成身份验证令牌
 
@@ -194,11 +186,7 @@ df.to_csv('followers.csv', index=False)
 
 您可以将上述代码复制并粘贴到您自己的脚本中，或者您可以在此处找到该脚本的可执行版本:
 
-[](https://github.com/brienna/twitter-helper-scripts) [## brien na/Twitter-助手-脚本
-
-### 为任何公开的 Twitter 账号获得朋友或关注者。
-
-github.com](https://github.com/brienna/twitter-helper-scripts) 
+<https://github.com/brienna/twitter-helper-scripts>  
 
 要使用这个脚本，
 
@@ -218,32 +206,12 @@ github.com](https://github.com/brienna/twitter-helper-scripts)
 
 如果你想阅读更多我的文章或者探索数以百万计的其他文章，你可以注册成为中级会员
 
-[](https://brienna.medium.com/membership) [## 通过我的推荐链接加入 Medium-briena Herold
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-brienna.medium.com](https://brienna.medium.com/membership) 
+<https://brienna.medium.com/membership>  
 
 你也可以订阅我的邮件列表，以便在我发表新文章时得到通知
 
-[](https://brienna.medium.com/subscribe) [## 每当布蕾娜·赫罗尔德发表。
-
-### 每当布蕾娜·赫罗尔德发表。通过注册，您将创建一个中型帐户，如果您还没有…
-
-brienna.medium.com](https://brienna.medium.com/subscribe) 
+<https://brienna.medium.com/subscribe>  
 
 你可能会对我的其他一些故事感兴趣
 
-[](/how-to-bulk-access-arxiv-full-text-preprints-58026e19e8ef) [## 如何批量获取 arXiv 全文预印本
-
-### 使用 Python3 和 MacOS X 命令行
-
-towardsdatascience.com](/how-to-bulk-access-arxiv-full-text-preprints-58026e19e8ef) [](/collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004) [## 从《纽约时报》收集任何时期的数据
-
-### Python 中的简单指南
-
-towardsdatascience.com](/collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004) [](https://medium.com/codex/how-to-detect-code-plagiarism-de147cb4f421) [## 如何检测代码抄袭
-
-### 使用斯坦福苔藓的简短教程
-
-medium.com](https://medium.com/codex/how-to-detect-code-plagiarism-de147cb4f421)
+</how-to-bulk-access-arxiv-full-text-preprints-58026e19e8ef>  </collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004>  <https://medium.com/codex/how-to-detect-code-plagiarism-de147cb4f421> 

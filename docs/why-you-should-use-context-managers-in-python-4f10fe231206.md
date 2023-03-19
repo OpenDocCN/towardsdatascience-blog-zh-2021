@@ -120,27 +120,11 @@ __exit__ 中的处理值错误。图片由作者提供。
 
 在这篇文章中，我们讨论了上下文管理器，为什么它们有用，以及如何实现它们。
 
-[](https://eminik355.medium.com/subscribe) [## 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。
-
-### 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。注册后，如果您还没有，您将创建一个中型帐户…
-
-eminik355.medium.com](https://eminik355.medium.com/subscribe) 
+<https://eminik355.medium.com/subscribe>  
 
 **出自同一作者。**
 
-[](/how-not-to-use-python-lists-d06cbe8e593) [## 如何不使用 Python 列表
-
-### 理解 Python 中的可变对象。
-
-towardsdatascience.com](/how-not-to-use-python-lists-d06cbe8e593) [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](/going-bayesian-testing-rate-metrics-82e872b79175) [## 走向贝叶斯:测试速率度量
-
-### 如何在没有 p 值和置信区间的情况下运行速率度量的 A/B 测试？
-
-towardsdatascience.com](/going-bayesian-testing-rate-metrics-82e872b79175) [](/how-to-use-abstract-classes-in-python-d4d2ddc02e90) [## 如何在 Python 中使用抽象类
+</how-not-to-use-python-lists-d06cbe8e593>  <https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  </going-bayesian-testing-rate-metrics-82e872b79175>  </how-to-use-abstract-classes-in-python-d4d2ddc02e90> [## 如何在 Python 中使用抽象类
 
 towardsdatascience.com](/how-to-use-abstract-classes-in-python-d4d2ddc02e90) 
 

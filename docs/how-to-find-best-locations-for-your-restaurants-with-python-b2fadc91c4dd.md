@@ -137,31 +137,15 @@ array([0., 1., 1., 0., 0.])
 
 在 Github repo 中，您可以随意使用本文的代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/mathematical_programming/locations_of_stores) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合— khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/mathematical_programming/locations_of_stores) 
+<https://github.com/khuyentran1401/Data-science/tree/master/mathematical_programming/locations_of_stores>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [## 使用 SimPy 在 Python 中模拟真实事件
+</simulate-real-life-events-in-python-using-simpy-e6d9152a102f> [## 使用 SimPy 在 Python 中模拟真实事件
 
-towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [](/how-to-match-two-people-with-python-7583b51ff3f9) [## 如何用 Python 找到最佳匹配
-
-### 给定个人偏好，如何匹配使得总偏好最大化？
-
-towardsdatascience.com](/how-to-match-two-people-with-python-7583b51ff3f9) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) 
+towardsdatascience.com](/simulate-real-life-events-in-python-using-simpy-e6d9152a102f) </how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4>  </how-to-match-two-people-with-python-7583b51ff3f9>  </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1>  
 
 # 参考
 

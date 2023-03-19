@@ -12,11 +12,7 @@
 
 **我将使用 [vosk API](https://alphacephei.com/vosk/) 。参见下面的文章，了解如何设置 vosk 库。在本文中，您还可以找到无需时间戳即可进行离线语音识别的代码。**
 
-**[](https://medium.com/@andimid/offline-foreign-speech-recognition-32d8d63de2dc) [## 离线外语语音识别
-
-### 如何为免费和离线的外国(非英语)语音识别设置 Python 库
-
-medium.com](https://medium.com/@andimid/offline-foreign-speech-recognition-32d8d63de2dc) 
+**<https://medium.com/@andimid/offline-foreign-speech-recognition-32d8d63de2dc>  
 
 首先，安装库并下载模型。
 
@@ -46,11 +42,7 @@ Vosk 模型以 JSON 格式输出结果。语音识别的最终结果是`results`
 
 在上面的代码示例中，我保持了大纲的简单。对于可靠的、防御性的编程，我建议增加对文件存在和 vosk 模型、文件格式等的检查。在[git lab repo](https://gitlab.com/Winston-90/foreign_speech_recognition/-/tree/main/timestamps)中有更详细评论的完整程序。
 
-[](https://gitlab.com/Winston-90/foreign_speech_recognition/-/tree/main/timestamps) [## 时间戳主 Dmytro Nikolai ev/foreign _ speech _ recognition
-
-### 使用 Python、vosk、SpeechRecognition / Pocketsphinx 进行免费的离线外语(非英语)语音识别
-
-gitlab.com](https://gitlab.com/Winston-90/foreign_speech_recognition/-/tree/main/timestamps) 
+<https://gitlab.com/Winston-90/foreign_speech_recognition/-/tree/main/timestamps>  
 
 # 感谢您的阅读！
 

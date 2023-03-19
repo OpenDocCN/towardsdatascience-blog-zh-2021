@@ -88,11 +88,7 @@ c_e = h * c
 3.  想象订购和接收之间的**交付周期**的影响
 4.  每个规则的**齿**的实时可视化
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。建立模型
 
@@ -144,11 +140,7 @@ samirsaci.com](http://samirsaci.com)
 
 > ***备注*** *更长的补货周期使订单数量减少 7 倍= >更低的 TRC*
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 ## 3.包括补货提前期
 
@@ -195,11 +187,7 @@ samirsaci.com](http://samirsaci.com)
 
 **恒定确定性需求的初始假设非常乐观。在下一篇文章中，我们将研究需求的可变性对总相关成本和销售损失的影响。**
 
-**[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) [## 零售库存管理——随机需求
-
-### 供应链优化模拟安全库存水平对库存管理绩效指标的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)** 
+**<https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/> ** 
 
 # **关于我**
 
@@ -207,11 +195,7 @@ www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-sto
 
 **如果你对数据分析和供应链感兴趣，可以看看我的网站**
 
-**[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)** 
+**<https://samirsaci.com> ** 
 
 # **参考**
 

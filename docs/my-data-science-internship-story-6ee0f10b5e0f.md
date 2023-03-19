@@ -80,24 +80,12 @@ c)继续用最有前途的特征空间设计更好的架构。
 
 有兴趣了解更多我们的发现吗？我们的预印本现已发布:
 
- [## 基于深度学习的心冲击图系统睡眠-觉醒状态分类
-
-### 睡眠状态分类在管理和理解睡眠模式中是至关重要的，并且通常是睡眠研究的第一步
-
-arxiv.org](https://arxiv.org/abs/2011.08977) 
+  
 
 非常感谢你的阅读。我希望你喜欢它。如果你觉得我错过了什么，或者如果你想知道更多，请在下面的评论中留下，如果 Dozee 团队有人正在阅读这篇文章；感谢给我这个机会！
 
 在 AI 上看多了有交集？探索下面的文章。
 
-[](https://medium.com/swlh/how-do-ai-based-fitness-trackers-work-ft-1d-cnns-e76f679bdee8) [## 基于人工智能的健身追踪器是如何工作的？制成 1D CNN
-
-### 一篇关于基于人工智能的健身追踪器的算法如何进行活动识别的文章和一个简短的…
-
-medium.com](https://medium.com/swlh/how-do-ai-based-fitness-trackers-work-ft-1d-cnns-e76f679bdee8) [](/the-rush-to-push-ai-to-edge-2ac477be0e6b) [## 将 AI 推向边缘的热潮
-
-### 为什么苹果、英特尔、谷歌等公司试图将人工智能从云端转移到边缘
-
-towardsdatascience.com](/the-rush-to-push-ai-to-edge-2ac477be0e6b) ![](img/7f6493d36ddfd1a481f71f43afc9d3e3.png)
+<https://medium.com/swlh/how-do-ai-based-fitness-trackers-work-ft-1d-cnns-e76f679bdee8>  </the-rush-to-push-ai-to-edge-2ac477be0e6b>  ![](img/7f6493d36ddfd1a481f71f43afc9d3e3.png)
 
 作者图片(最近点击)

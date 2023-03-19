@@ -107,11 +107,7 @@ col_grad <- c("#6F4995","#8F69B6","#A789C5","#BCA5D3","#CDBBDE",
 
 如果你是一个 R 用户，想探索 ggplot2 的新特性，那么看看这个:
 
-[](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) 
+</data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  
 
 # 结论
 

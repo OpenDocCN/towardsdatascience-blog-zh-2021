@@ -109,8 +109,4 @@ Lambda 函数是 AWS 上使用最广泛的服务之一。这主要归功于它�
 
 *要了解更多数据工程内容，您可以订阅我的双周刊时事通讯 Data Espresso，我将在其中讨论与数据工程和技术相关的各种主题:*
 
-[](https://dataespresso.substack.com/) [## 数据浓缩咖啡
-
-### 数据工程更新和评论伴随您的午后咖啡。点击阅读数据咖啡，由马赫迪…
-
-dataespresso.substack.com](https://dataespresso.substack.com/)
+<https://dataespresso.substack.com/> 

@@ -117,12 +117,4 @@ Coolors 调色板工具的快照
 
 没有别的办法:让数据可视化变得可访问需要额外的工作。有工具约束、知识约束和个人偏好。但是，这并不意味着我们不能在制作更容易访问的可视化方面做得更好。为了填补上面我可能遗漏的空白，我加入了社区中其他人的一些文章。欢迎在评论中分享其他资源！
 
-[](https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b) [## 数据可视化可访问性:我们现在在哪里，下一步是什么？
-
-### 将网页可访问性指南纳入数据设计
-
-medium.com](https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b) [](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b) [## 为什么可访问性是数据可视化的核心
-
-### 为了让 viz 数据更容易访问，我们首先需要了解辅助技术
-
-medium.com](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)
+<https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b>  <https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b> 

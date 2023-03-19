@@ -194,20 +194,4 @@ GPT-3 经由[生成的诗歌-3 GPT 论文](https://arxiv.org/abs/2005.14165)
 
 # 参考
 
- [## 语言模型是很少机会学习的
-
-### 最近的工作表明，通过对大量的…进行预先培训，在许多自然语言处理任务和基准方面取得了实质性的进展
-
-arxiv.org](https://arxiv.org/abs/2005.14165) [](https://medium.com/swlh/openai-gpt-2-language-models-are-multitask-learners-1c6d42d406ae) [## OpenAI GPT-2:语言模型是多任务学习者
-
-### 了解基于变压器的自监督架构
-
-medium.com](https://medium.com/swlh/openai-gpt-2-language-models-are-multitask-learners-1c6d42d406ae) [](https://medium.com/dataseries/openai-gpt-generative-pre-training-for-language-understanding-bbbdb42b7ff4) [## 开放式 GPT:语言理解的生成性预训练
-
-### 了解基于变压器的自监督架构
-
-medium.com](https://medium.com/dataseries/openai-gpt-generative-pre-training-for-language-understanding-bbbdb42b7ff4)  [## 用稀疏变换器生成长序列
-
-### 变形金刚是强大的序列模型，但是需要的时间和内存随着序列的平方增长…
-
-arxiv.org](https://arxiv.org/abs/1904.10509)
+  <https://medium.com/swlh/openai-gpt-2-language-models-are-multitask-learners-1c6d42d406ae>  <https://medium.com/dataseries/openai-gpt-generative-pre-training-for-language-understanding-bbbdb42b7ff4>   

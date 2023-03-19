@@ -14,19 +14,11 @@ Lucaxx Freire 在[Unsplash](https://unsplash.com/s/photos/knee?utm_source=unspla
 
 Satop、Albrecht、Irwin 和 Raghavan (2011 年[2])发表了“Kneedle”算法，使用曲率的概念作为函数与直线差异的数学度量。Satop 等人(2011 年，[2]，第 2 页)得出结论，“因此，最大曲率捕捉了操作员用于识别膝盖的平稳效应”。
 
- [## 大海捞针:检测系统行为中的拐点
-
-### 计算机系统经常达到这样一个点，即增加一些可调参数的相对成本不再值得…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/5961514) 
+  
 
 对于**连续函数**，曲率描述如下:
 
-[](https://en.wikipedia.org/wiki/Curvature#Graph_of_a_function) [## 曲率-维基百科
-
-### 在数学中，曲率是几何中几个密切相关的概念之一。直觉上，曲率是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Curvature#Graph_of_a_function) 
+<https://en.wikipedia.org/wiki/Curvature#Graph_of_a_function>  
 
 例如，让我们创建 N = 10，000 个随机标准正态分布数据点，并将它们显示在直方图中:
 
@@ -111,11 +103,7 @@ y = 0.43 时指示的阈值，敏感度为 1(图片由作者提供，灵感来�
 
 现在让我们更深入地了解一下 Kevin Arvai 编写的 Python 包“kneed ”,它使用了“Kneedle”算法:
 
-[](https://pypi.org/project/kneed/) [## 有节的
-
-### Python 中的拐点检测这个库是实现 kneedle 算法的一个尝试，发表在这里。鉴于…
-
-pypi.org](https://pypi.org/project/kneed/) 
+<https://pypi.org/project/kneed/>  
 
 这样，我们可以直接绘制包括“拐点”在内的归一化差异曲线:
 
@@ -123,11 +111,7 @@ pypi.org](https://pypi.org/project/kneed/)
 
 Satop 等人 2011 年[2]的图 2 标有“kneed”(图片由作者提供)
 
- [## 欢迎来到 kneed 的文档！- kneed 0.6.0 文档
-
-### 这是 kneed Python 包的文档。给定 x 和 y 数组，kneed 尝试识别膝盖/肘部…
-
-kneed.readthedocs.io](https://kneed.readthedocs.io/en/stable/) 
+  
 
 我们可以使用函数 *KneedLocator()* 在我们的数据中查找膝盖/肘部:
 
@@ -194,19 +178,11 @@ k 距离图(图片由作者提供)
 
 [https://share.streamlit.io/arvkevi/ikneed/main/ikneed.py](https://share.streamlit.io/arvkevi/ikneed/main/ikneed.py)
 
-[](https://github.com/arvkevi/ikneed) [## arvkevi/ikneed
-
-### 使用 kneed 进行交互式拐点检测！通过在…上创建帐户，为 arvkevi/ikneed 的发展做出贡献
-
-github.com](https://github.com/arvkevi/ikneed) 
+<https://github.com/arvkevi/ikneed>  
 
 在我看来，“kneed”是目前用于膝盖检测的最强大的 Python 包，因为它提供了许多有用的功能。尽管如此，还有其他类似的 Python 包用于查找曲线的拐点，例如“kneebow”:
 
-[](https://pypi.org/project/kneebow/) [## 跪拜
-
-### 求曲线的拐点或弯头。kneebow 基于一个非常简单的想法:如果我们想找到肘部…
-
-pypi.org](https://pypi.org/project/kneebow/) 
+<https://pypi.org/project/kneebow/>  
 
 # **参考文献**
 

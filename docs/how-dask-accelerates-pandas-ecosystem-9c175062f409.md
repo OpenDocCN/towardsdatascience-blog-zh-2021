@@ -97,11 +97,7 @@ Dask 中的所有高级集合都有生成任务图的 API，其中图中的每�
 
 还有各种其他框架，如 Vaex、Modin、Ray、Rapids 等等，可以并行化现有的 Pandas 生态系统。阅读下面提到的文章[，了解更多关于 Vaex 框架及其实现的信息。](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b)
 
-[](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) [## 使用 Vaex 处理具有 2 亿行的数据集
-
-### 使用 vaex 数据框对大型数据集执行操作
-
-towardsdatascience.com](/process-dataset-with-200-million-rows-using-vaex-ad4839710d3b) 
+</process-dataset-with-200-million-rows-using-vaex-ad4839710d3b>  
 
 # 参考资料:
 

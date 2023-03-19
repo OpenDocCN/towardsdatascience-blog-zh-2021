@@ -282,10 +282,6 @@ Image by [二 盧](https://pixabay.com/users/uniquedesign52-816436/?utm_source=l
 
 itertools 帮助我们以许多奇特的方式操纵 Python 可迭代对象。本文不能包含 Itertools 模块的所有函数。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

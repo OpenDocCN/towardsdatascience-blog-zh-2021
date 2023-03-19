@@ -464,11 +464,7 @@ $ rasa x
 
 本文中使用的所有代码都可以在以下位置获得:
 
-[](https://github.com/Polaris000/BlogCode/tree/main/RasaChatbot) [## 博客代码/RasaChatbot Polaris 000/博客代码
-
-### 示例代码来自我在 Medium 和我的个人网站上的博客文章。- BlogCode/RasaChatbot 在主北极星 000/BlogCode
-
-github.com](https://github.com/Polaris000/BlogCode/tree/main/RasaChatbot) 
+<https://github.com/Polaris000/BlogCode/tree/main/RasaChatbot>  
 
 ## 链接
 

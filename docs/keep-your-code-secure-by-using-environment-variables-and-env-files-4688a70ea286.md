@@ -39,11 +39,7 @@
 
 此外，你可以运行一个程序(例如在 Docker 中)并给它一个 env 文件(如下文所示)。例如，这使得在开发和生产数据库之间切换变得非常容易。
 
-[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) [## 在 Docker 和 Compose 中使用环境变量和文件的完整指南
-
-### 通过这个简单的教程，保持你的容器的安全性和灵活性
-
-towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) 
+</a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af>  
 
 # 2.环境变量如何工作
 
@@ -118,11 +114,7 @@ Python 最方便的就是安装包:`pip install python-dotenv`。这个包可以
 
 ***的位置。env 文件→使用 Python 中的相对路径*** `load_dotenv`函数需要一个指向`.env`文件位置的绝对路径。在本文中，我们只是硬编码传递它，但是一旦我们部署我们的代码，我们可能会面临一个问题:在我的机器上，env 文件的位置是`c:/users/mike/envfileproject/config/conf/.env`，但是在你的机器上，它可能是`c:/pythonstuff/envfileproject/config/conf/.env`。查看下面的文章，获得一个简单的、可重用的技巧来解决计算 env 文件的绝对路径带来的头痛问题。
 
-[](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9) [## 在 Python 中使用相对路径的简单技巧
-
-### 轻松计算运行时的文件路径
-
-towardsdatascience.com](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9) 
+</simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9>  
 
 ## c.加载环境文件
 
@@ -137,11 +129,7 @@ if (os.environ.get("DB_TYPE") == None):
 
 首先，我们将检查我们需要的变量之一(在这个特定的例子中是 DB_TYPE)是否已经加载到环境中。当我们从外部通过 Docker 将 env 文件传递给这个 Python 项目时，情况就是这样，例如，查看下面关于如何在 Docker 中使用 env 文件的文章。
 
-[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) [## 在 Docker 和 Compose 中使用环境变量和文件的完整指南
-
-### 通过这个简单的教程，保持你的容器的安全性和灵活性
-
-towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) 
+</a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af>  
 
 如果 DB_TYPE 变量在环境中还不存在，我们将使用`python-dotenv`包加载它。
 
@@ -158,11 +146,7 @@ database_password = os.environ.get("DB_PASS")
 
 有关如何实现？Docker 容器中的 env 文件。如果我们使用 env 文件将数据传递给 Postgres 容器:
 
-[](/getting-started-with-postgres-in-docker-616127e2e46d) [## Docker 中的 Postgres 入门
-
-### 为初学者在 Docker 容器中创建 Postgres 数据库
-
-towardsdatascience.com](/getting-started-with-postgres-in-docker-616127e2e46d) 
+</getting-started-with-postgres-in-docker-616127e2e46d>  
 
 # 结论
 
@@ -184,8 +168,4 @@ towardsdatascience.com](/getting-started-with-postgres-in-docker-616127e2e46d)
 
 页（page 的缩写）学生:比如我正在做的事情？跟我来！
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+<https://mikehuls.medium.com/membership> 

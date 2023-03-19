@@ -179,10 +179,6 @@ roster = gen_roster(names)for i in range(10):
 
 不仅介绍了基本用法，还介绍了一些高级用法，如从外部向生成器发送值、引发异常和关闭生成器。希望它能帮助你了解更多关于 Python 生成器的知识。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

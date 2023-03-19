@@ -112,11 +112,7 @@
 
 第一个 PC 可能比任何个人收入特征更具预测性。然而，我们可能仍然只包括收入的简单汇总。这是因为违约和总收入之间的关系比个人电脑更容易理解和解释。最终，我们可以优先考虑一些特性来提高模型的可解释性。如果你想了解为什么可解释性很重要，你可以阅读这篇文章:
 
-[](/interpretability-in-machine-learning-ab0cf2e66e1) [## 机器学习中的可解释性
-
-### 为什么我们需要理解我们的模型如何做出预测
-
-towardsdatascience.com](/interpretability-in-machine-learning-ab0cf2e66e1) 
+</interpretability-in-machine-learning-ab0cf2e66e1>  
 
 ## 法律与伦理
 
@@ -140,7 +136,7 @@ towardsdatascience.com](/interpretability-in-machine-learning-ab0cf2e66e1)
 
 这个框架可能会成为一个更大的建模框架的一部分。与特征选择一起，这将定义特征工程的方法和使用的模型类型。建模框架可以再次成为更大的治理框架的一部分。这就是负责任的人工智能框架。我们将在下面的文章中讨论负责任的人工智能及其目标。
 
-[](/what-is-responsible-ai-548743369729) [## 什么是负责任的 AI？
+</what-is-responsible-ai-548743369729> [## 什么是负责任的 AI？
 
 towardsdatascience.com](/what-is-responsible-ai-548743369729) 
 

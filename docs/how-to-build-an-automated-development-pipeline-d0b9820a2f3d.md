@@ -122,11 +122,7 @@ docker push $IMAGE_NAMEE
 ...
 ```
 
-[](/how-to-learn-circleci-in-simple-words-2275e4299628) [## 如何用简单的话学习 CircleCI
-
-### 作为数据科学家创建 CI/CD 管道的行动手册
-
-towardsdatascience.com](/how-to-learn-circleci-in-simple-words-2275e4299628) 
+</how-to-learn-circleci-in-simple-words-2275e4299628>  
 
 # —遗言
 
@@ -142,8 +138,4 @@ towardsdatascience.com](/how-to-learn-circleci-in-simple-words-2275e4299628)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *跟我上* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

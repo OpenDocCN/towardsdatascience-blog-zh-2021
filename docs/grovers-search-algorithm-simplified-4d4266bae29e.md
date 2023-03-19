@@ -97,28 +97,8 @@ Grover 算法通过二次加速已经优于经典的搜索方法。量子计算�
 
 这些链接对我理解算法帮助很大，请访问它们。
 
-[](https://qiskit.org/) [## Qiskit
-
-### Qiskit 是一个开源软件开发包(SDK ),用于 OpenQASM 和 IBM Q quantum 处理器…
-
-qiskit.org](https://qiskit.org/)  [## 格罗弗算法-维基百科
-
-### 在量子计算中，格罗弗算法，也称为量子搜索算法，指的是一种用于…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Grover%27s_algorithm) 
+<https://qiskit.org/>    
 
 ## 关于我
 
-[](https://www.linkedin.com/in/theamitnikhade/) [## Amit Nikhade - JSPM 拉贾什胡莎工程学院-马哈拉施特拉邦阿科拉
-
-### 在我的杯子里装了很多咖啡，为普通智力革命而工作。我是一个热爱享受的人…
-
-www.linkedin.com](https://www.linkedin.com/in/theamitnikhade/) [](https://github.com/AmitNikhade) [## AmitNikhade -概述
-
-### 这是我的方式或没有办法🂮 |人工智能和机器人爱好者|机器学习，深度学习，NLP，物联网…
-
-github.com](https://github.com/AmitNikhade) [](https://amitnikhadeofficial.medium.com/?source=your_stories_page-------------------------------------) [## 米特尼克哈德-中等
-
-### “计算机视觉”是人工智能的一个领域，它帮助机器将这个美丽的…
-
-amitnikhadeofficial.medium.com](https://amitnikhadeofficial.medium.com/?source=your_stories_page-------------------------------------)
+<https://www.linkedin.com/in/theamitnikhade/>  <https://github.com/AmitNikhade>  <https://amitnikhadeofficial.medium.com/?source=your_stories_page-------------------------------------> 

@@ -172,16 +172,4 @@ s = pd.Series(['a', 'b', 'c'], **index=df.index)**
 
 **你可能也会喜欢**
 
-[](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [## Python 中静态方法和类方法有什么区别？
-
-### 关于 classmethod 和 staticmethod，您只需要知道
-
-towardsdatascience.com](/whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351) [](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [## Python 中浅拷贝和深拷贝有什么区别？
-
-### Python 中的 copy()与 deepcopy()
-
-towardsdatascience.com](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [](/6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9) [## 帮助你脱颖而出成为 Python 开发者的 6 个技巧
-
-### Python 开发人员和数据科学家的实用技巧
-
-towardsdatascience.com](/6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9)
+</whats-the-difference-between-static-and-class-methods-in-python-1ef581de4351>  </whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926>  </6-tips-to-help-you-stand-out-as-a-python-developer-2294d15672e9> 

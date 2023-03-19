@@ -139,7 +139,7 @@ curl -s -X GET [http://schema-registry-2:8081/subjects/bar-replica-value/version
 {"f1":"string1","f2":"string2"}:**2**
 ```
 
-消费者还运行并通过查找模式 ID“2”成功地反序列化了消息。如果你需要更多关于为什么我们看到的模式 ID 是“2”而不是“1”的信息，那么看看这篇文章[](/replicate-avro-messages-to-target-part1-conflicting-schema-exists-on-target-8489df60fd05)****有更多的细节。****
+消费者还运行并通过查找模式 ID“2”成功地反序列化了消息。如果你需要更多关于为什么我们看到的模式 ID 是“2”而不是“1”的信息，那么看看这篇文章</replicate-avro-messages-to-target-part1-conflicting-schema-exists-on-target-8489df60fd05>****有更多的细节。****
 
 ******删除目标模式注册表上的版本:**一个简单的选项(但不总是一个选项)是删除目标模式注册表上“bar-value”主题的版本“1”(这是冲突的)。****
 
@@ -181,8 +181,4 @@ curl -s -X GET [http://schema-registry-2:8081/subjects/bar-replica-value/version
 
 ****通过使用 replicator 连接器的“topic.rename.format”属性，将会自动创建一个新的主题，并注入 replicator 从源读取的新模式(在反序列化时)。在我看来，这是最安全的选择。****
 
-****[](/replicate-avro-messages-to-target-part1-conflicting-schema-exists-on-target-8489df60fd05) [## 将 Avro 消息复制到目标-第 1 部分(目标上存在冲突模式)
-
-### 当目标模式注册表具有相同的模式 ID 但模式不同时，是否可以使用复制器复制主题…
-
-towardsdatascience.com](/replicate-avro-messages-to-target-part1-conflicting-schema-exists-on-target-8489df60fd05)****
+****</replicate-avro-messages-to-target-part1-conflicting-schema-exists-on-target-8489df60fd05> ****

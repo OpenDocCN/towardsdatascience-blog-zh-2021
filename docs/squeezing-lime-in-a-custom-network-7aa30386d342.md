@@ -32,11 +32,7 @@
 
 本文省略了可解释性理论和可用模型的细节，因为文献在这个主题上提供了足够的材料。那些有兴趣进一步探索这一主题的人可以从 Christoph Molnar 的著名著作开始。
 
-[](https://christophm.github.io/interpretable-ml-book/) [## 可解释的机器学习
-
-### 机器学习在改进产品、流程和研究方面潜力巨大。但是电脑通常不会…
-
-christophm.github.io](https://christophm.github.io/interpretable-ml-book/) 
+<https://christophm.github.io/interpretable-ml-book/>  
 
 ## 我们感兴趣的算法
 

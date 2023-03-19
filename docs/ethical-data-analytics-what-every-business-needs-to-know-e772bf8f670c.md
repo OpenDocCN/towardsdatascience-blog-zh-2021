@@ -34,6 +34,6 @@
 
 例如:您是否会使用这些数据来做出可能会对被视为弱势群体的财务状况产生影响的决策？如果是，他们的个人行为会受到什么影响？在你能够衡量算法是否会导致不良影响之前，需要多长时间？
 
-*这是伦理数据分析系列的第一篇文章。在下一部分*[](/how-to-make-your-data-project-ethical-by-design-99629dcd2443)**中，我们将更深入地探讨道德风险快速扫描，并描述 IG & H(我工作的公司)用来帮助企业减轻扫描结果中出现的潜在问题的框架。**
+*这是伦理数据分析系列的第一篇文章。在下一部分*</how-to-make-your-data-project-ethical-by-design-99629dcd2443>**中，我们将更深入地探讨道德风险快速扫描，并描述 IG & H(我工作的公司)用来帮助企业减轻扫描结果中出现的潜在问题的框架。**
 
 **这篇文章也被发表到 IG & H 的网站上。这是三篇系列文章中的第一篇，你可以在这里找到这些文章:* [*第二部分*](/how-to-make-your-data-project-ethical-by-design-99629dcd2443) *和* [*第三部分*](/the-importance-of-ethics-centricity-in-data-projects-ea2a60e6b67)*

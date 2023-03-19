@@ -14,37 +14,21 @@
 
 Pluto.jl 是一个相当新的 IDE 开发，用于处理 Julia 编程语言中的笔记本文件。虽然 Pluto.jl 有一些很棒的功能，但这些功能肯定不符合我的个人偏好——我不是唯一一个这样想的人。我写了一整篇文章，详细介绍了我使用 Pluto.jl 的经历，我喜欢这个包的什么，不喜欢什么，你可以在这里阅读:
 
-[](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) [## 冥王星有可能真正取代木星吗？
-
-### 对 Pluto.jl 笔记本和 Julia 编程的其他开发解决方案的简要概述和比较…
-
-towardsdatascience.com](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) 
+</could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6>  
 
 然后是海王星。Neptune 是 Pluto.jl 的一个分支，它修改了 Pluto.jl，排除了最初的创建者打算在每个笔记本会话中使用的所有有趣的东西。我最后还写了一篇关于 Neptune.jl 的文章，你可以在这里看到:
 
-[](/could-neptune-really-replace-jupyter-9a90d6432325) [## 海王星真的能取代木星吗？
-
-### 非交互式笔记本 Neptune 包的简要概述。
-
-towardsdatascience.com](/could-neptune-really-replace-jupyter-9a90d6432325) 
+</could-neptune-really-replace-jupyter-9a90d6432325>  
 
 我认为 Pluto.jl 和 Neptune.jl 实际上向我展示了这是**非常可能的**。您可以拥有一台基于 Julia 的笔记本服务器，笔记本服务器提供的所有功能都可以通过 Julia 的全部功能进行定制和发挥。不管你是否使用 Julia，你都必须承认, **IJulia** 可能不是最好的解决方案。也就是说，所有这一切让我真的想创建自己的笔记本服务器，并在它下面设计自己的应用程序。
 
 在这个项目的发布画布上有很多想法，一旦这个项目实际上处于常规开发阶段并有了可靠的发布，我会有更多的想法。如果你想了解更多关于这个新的 IDE jockey . JL 的信息，你可以在这里查看这个项目的 Github:
 
-[](https://github.com/ChifiSource/Jockey.jl) [## GitHub-chifi source/Jockey . JL:Jockey IDE/笔记本服务器
-
-### 骑师 IDE/笔记本服务器。在 GitHub 上创建一个帐户，为 ChifiSource/Jockey.jl 的开发做出贡献。
-
-github.com](https://github.com/ChifiSource/Jockey.jl) 
+<https://github.com/ChifiSource/Jockey.jl>  
 
 还有一件事！在另一篇文章中，我初步研究了这种格式，并创建了一些新的类型来处理这种数据。考虑到这一点，为了给这里的总体目标提供更多的上下文，这可能是值得研究的。
 
-[](/building-a-cell-data-format-for-my-custom-notebook-server-aaa963c858) [## 为我的定制笔记本服务器构建单元数据格式
-
-### 在 Jockey.jl 中为我的单元格构建新的数据格式
-
-towardsdatascience.com](/building-a-cell-data-format-for-my-custom-notebook-server-aaa963c858) 
+</building-a-cell-data-format-for-my-custom-notebook-server-aaa963c858>  
 
 # Pluto.jl 文件格式
 
@@ -56,11 +40,7 @@ towardsdatascience.com](/building-a-cell-data-format-for-my-custom-notebook-serv
 
 恰当地说，我的反应是对他们实际上是如何做的感到惊讶。今天，我们将尝试读取这种文件格式，并将其放入我们的单元格对象中。像这样一个项目的一个伟大之处在于它需要大量的调试，也就是说，我将在笔记本中编写这些代码。这将使我编写的代码更容易与我所有的读者分享——这是更容易解释的额外好处——因为我不会在文件间跳来跳去。话虽如此，笔记本可在此处获得:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Reading%20Pluto.jl.ipynb) [## Emmetts-DS-NoteBooks/Reading Pluto . JL . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Reading%20Pluto.jl.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Reading%20Pluto.jl.ipynb>  
 
 ```
 [emmac@fedora ~]$ cd dev/nbs && jupyter-notebook
@@ -70,11 +50,7 @@ github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/R
 
 总之，我创建了一个新的笔记本——因此，添加了我们的第一点代码。这段代码只是 Jockey Cells.jl 文件中的代码。您可以在 Github 上查看该文件，网址是:
 
-[](https://github.com/ChifiSource/Jockey.jl/blob/cells_v1/src/ServerController/Cells.jl) [## Jockey.jl/Cells.jl 在 cells_v1 ChifiSource/Jockey.jl
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/ChifiSource/Jockey.jl/blob/cells_v1/src/ServerController/Cells.jl) 
+<https://github.com/ChifiSource/Jockey.jl/blob/cells_v1/src/ServerController/Cells.jl>  
 
 ```
 using UUIDs, TOMLabstract type AbstractCell end
@@ -195,7 +171,7 @@ end
 
 我将把它重命名为 plto_cell_lines()方法，这只是开发人员 API 的一部分，所以除了我之外，没有人真的需要担心它。这将是对提取方法的公然使用，我使用这种方法是为了通过简单地使用更多的函数使我的代码看起来更简洁和漂亮。如果你感兴趣的话，我有一整篇关于这个主题的文章，还有一些做同样事情的其他技术。我认为这些技能对于数据科学工作来说是绝对必要的:
 
-[](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) [## 更漂亮的代码的 5 个惊人的重构方法
+</5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2> [## 更漂亮的代码的 5 个惊人的重构方法
 
 towardsdatascience.com](/5-fabulous-refactoring-methods-for-prettier-code-e3bc3447c0b2) 
 

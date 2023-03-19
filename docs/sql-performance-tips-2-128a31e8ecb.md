@@ -68,11 +68,7 @@ CTE 执行计划的亮点是:
 
 注意:这一部分是从 Brent Ozar 的博客中大量获取的。确保遵循它，因为他比任何人都了解 SQL Server。下面的链接。
 
-[](https://www.brentozar.com/blog/) [## 博客-布伦特·奥扎
-
-### Brent Ozar Unlimited 博客涵盖了关于集群、AlwaysOn 的 SQL server 新闻和免费的 SQL Server 培训技巧…
-
-www.brentozar.com](https://www.brentozar.com/blog/) 
+<https://www.brentozar.com/blog/>  
 
 # 避免在堆上运行查询
 

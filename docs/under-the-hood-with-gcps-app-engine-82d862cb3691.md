@@ -221,4 +221,4 @@ GCS 有一个很好的免费使用层，如这里的[所述](https://cloud.googl
 
 **祝好运，编码快乐！**
 
-*原载于 2021 年 5 月 14 日 http://www.theappliedarchitect.com*[](https://www.theappliedarchitect.com/under-the-hood-with-gcps-app-engine/)**。**
+*原载于 2021 年 5 月 14 日 http://www.theappliedarchitect.com*<https://www.theappliedarchitect.com/under-the-hood-with-gcps-app-engine/>**。**

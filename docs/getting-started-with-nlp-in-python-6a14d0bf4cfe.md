@@ -18,11 +18,7 @@
 
 Kaggle 内部有许多不同的竞赛，旨在挑战任何初露头角的数据科学家。我们将回顾 CommonLit 可读性竞赛中提供的数据集。
 
-[](https://www.kaggle.com/c/commonlitreadabilityprize) [## 通俗文学可读性奖
-
-### 为 3-12 年级课堂使用的文学段落的复杂性评级
-
-www.kaggle.com](https://www.kaggle.com/c/commonlitreadabilityprize) 
+<https://www.kaggle.com/c/commonlitreadabilityprize>  
 
 CommonLit 为 Kaggle 提供了开发算法的机会，这些算法可以帮助管理员、教师、家长和学生理解如何以适当的技能水平分配阅读材料。在这方面，阅读材料应该提供乐趣和挑战，以帮助防止阅读技能停滞不前。这个项目的发现之路应该鼓励自然语言处理技术的发展，这种技术可以对应该分配给每个阅读水平的书的摘录进行分类/分级。
 

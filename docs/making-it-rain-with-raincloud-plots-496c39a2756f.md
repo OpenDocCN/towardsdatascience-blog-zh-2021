@@ -12,11 +12,7 @@
 
 要了解更多关于雨云地块的细节和背景，请阅读原文:
 
-[](https://wellcomeopenresearch.org/articles/4-63/v2) [## 威康开放研究文章:雨云图:稳健数据的多平台工具…
-
-### Allen M，Poggiali D，Whitaker K 等。雨云图:一种用于稳健数据可视化的多平台工具[第 2 版…
-
-wellcomeopenresearch.org](https://wellcomeopenresearch.org/articles/4-63/v2) 
+<https://wellcomeopenresearch.org/articles/4-63/v2>  
 
 # 下雨了
 
@@ -130,22 +126,10 @@ if savefigs:
 
 本文概述了如何使用 python 和 ptitprince 库来创建雨云图。要更深入地使用 ptitprince 库，请查看 github 存储库:
 
-[](https://github.com/pog87/PtitPrince) [## pog87/PtitPrince
-
-### “雨云情节”的 Python 实现！见:https://github.com/RainCloudPlots/RainCloudPlots 你可以安装…
-
-github.com](https://github.com/pog87/PtitPrince) 
+<https://github.com/pog87/PtitPrince>  
 
 或者查看我的存储库和 google colab 实现的链接:
 
-[](https://github.com/chags1313/raincloud_colab) [## chags1313/raincloud_colab
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/chags1313/raincloud_colab) [](https://colab.research.google.com/drive/10UObYNGsepQgaCswi6l1cOy0CxQdr3Ki?usp=sharing) [## 雨云 _ptitprince
-
-### 在 google colab 中使用 ptitprince
-
-colab.research.google.com](https://colab.research.google.com/drive/10UObYNGsepQgaCswi6l1cOy0CxQdr3Ki?usp=sharing) 
+<https://github.com/chags1313/raincloud_colab>  <https://colab.research.google.com/drive/10UObYNGsepQgaCswi6l1cOy0CxQdr3Ki?usp=sharing>  
 
 感谢您的阅读！

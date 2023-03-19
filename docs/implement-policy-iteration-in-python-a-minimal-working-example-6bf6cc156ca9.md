@@ -12,7 +12,7 @@
 
 策略迭代是许多现代强化学习算法的基础，更具体地说是策略近似算法的[类。事实上，bertsekis(1996)将其解释为一个行动者-批评家模型，将政策更新与价值函数相结合。在讨论最接近的策略优化和自然策略梯度之前，先掌握这个基本算法是有意义的。](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a)
 
-[](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 
@@ -28,11 +28,7 @@ towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185
 
 在步骤 2 — **策略评估** —以非常类似于值迭代的方式确定每个状态的值。然而，我们不是通过最大化所有操作来确定值，而是简单地使用当前策略来计算值。简而言之，我们将行动的价值`a=π(s)`(直接回报`r` +下游价值`V(s’)`)乘以转移概率`p`。更多细节——比如误差容限`θ`——请查看关于价值迭代的文章。
 
-[](/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437) [## 用 Python 实现值迭代——一个最小的工作示例
-
-### 掌握简单和经典的动态规划算法，寻找马尔可夫决策过程的最优解…
-
-towardsdatascience.com](/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437) 
+</implement-value-iteration-in-python-a-minimal-working-example-f638907f3437>  
 
 步骤 3 — **策略改进** —寻求使用主流价值函数来改进策略。对于每个状态，它验证当前策略建议的行动是否确实是价值最大化行动。如果没有，则更新策略并重复步骤 2。该算法在这两个步骤之间交替，直到策略保持稳定。此时，达到了最优策略，算法终止。
 
@@ -88,19 +84,7 @@ Python 算法与前面展示的数学过程没有太大的不同。注意，最�
 
 *您可能感兴趣的一些更简单的工作示例:*
 
-[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [## TensorFlow 2.0 中连续策略梯度的最小工作示例
-
-### 一个简单的训练高斯演员网络的例子。定义自定义损失函数并应用梯度胶带…
-
-towardsdatascience.com](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) 
+</a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  </a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b>  </a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  
 
 # 参考
 

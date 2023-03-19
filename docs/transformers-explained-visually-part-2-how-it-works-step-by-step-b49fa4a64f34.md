@@ -278,18 +278,6 @@
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于音频深度学习、地理位置机器学习和图像字幕架构的其他系列。
 
-[](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [## 音频深度学习变得简单(第一部分):最新技术
-
-### 颠覆性深度学习音频应用和架构世界的温和指南。以及为什么我们都需要…
-
-towardsdatascience.com](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [## 利用地理位置数据进行机器学习:基本技术
-
-### 简明的地理空间数据特征工程和可视化指南
-
-towardsdatascience.com](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) [## 具有深度学习的图像标题:最先进的架构
-
-### 图像特征编码器、序列解码器、注意和多模态架构的简明指南，用简单的英语编写
-
-towardsdatascience.com](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) 
+</audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504>  </leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc>  </image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db>  
 
 让我们继续学习吧！

@@ -10,11 +10,7 @@
 
 无论你是希望用一份利润丰厚的兼职来补充你目前的全职工作，还是你是一名寻求灵活的赚钱方式并在学习中获得经验的研究生，自由职业都是一种很好的方式，可以通过灵活的时间获得现实世界的经验，同时赚一些钱，无论你是一名经验丰富的数据科学家还是一名新手。
 
-[](/freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6) [## 2021 年，自由职业可能是从事数据科学的最佳方式
-
-### 为什么我决定做自由职业者
-
-towardsdatascience.com](/freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6) 
+</freelancing-may-be-the-best-way-to-do-data-science-in-2021-4f04e76da0b6>  
 
 我不知道其他职业的情况如何，但获得数据科学自由职业者的工作极其困难。雇主需要确保他们雇佣的人能够完成手头的任务。这并不会让经验丰富的数据科学专业人员在成本、可信度、营销等各种因素方面变得更加容易。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/freelancing-may-be-the-best-way-to-do-data-science-in-2
 
 我觉得品牌在整个数据科学中很重要，但对于任何寻求自由职业的人来说，你必须付出额外的努力让自己脱颖而出。
 
-[](/the-importance-of-branding-in-data-science-467b2d2b1e7f) [## 品牌在数据科学中的重要性
-
-### 最近，一个特别的话题在我和朋友的讨论中反复出现。品牌的重要性！我…
-
-towardsdatascience.com](/the-importance-of-branding-in-data-science-467b2d2b1e7f) 
+</the-importance-of-branding-in-data-science-467b2d2b1e7f>  
 
 这不仅仅意味着创建一个数据科学博客或者在你的 Github 文件夹中添加一些项目。当你开始成为自由职业者时，你应该积极寻找和申请工作机会——不管你是否有经验。
 

@@ -108,11 +108,7 @@
 
 所有的 PCA 运行都是使用我在本文中描述的工具进行的:
 
-[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [## 在每台设备上进行统计和数据分析的网站
-
-### 我对网络浏览器中数据分析在线工具的选择。
-
-towardsdatascience.com](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) 
+</websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53>  
 
 我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和电脑前。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [***成为中等会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(我为其获得小额收入的平台的原始附属链接，无需向您支付特殊费用)。* [***通过各种方式在这里捐赠***](https://lucianoabriata.altervista.org/office/donations.html)**。* [*这里联系我*](https://lucianoabriata.altervista.org/office/contact.html) *。**
 

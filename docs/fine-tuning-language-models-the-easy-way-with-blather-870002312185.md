@@ -10,11 +10,7 @@
 
 如果您想跳过这一步，只看如何微调您自己的数据集，您可以跳过本文的其余部分，只查看 colab 笔记本！
 
-[](https://github.com/bigthonk/blather) [## GitHub-bigthonk/agw:在几行代码中训练和使用生成文本模型。
-
-### 在几行代码中训练和使用生成文本模型。看看乱说在行动检查…
-
-github.com](https://github.com/bigthonk/blather) 
+<https://github.com/bigthonk/blather>  
 
 做客座演讲是我最喜欢的事情之一；没有任何责任的教学乐趣。我在讲座中的目标是让学生对机器学习感到兴奋，让他们玩实际的例子，然后走开。
 

@@ -149,10 +149,6 @@ ML Cheatsheet 中的正则化—图像来源:[www.cheatsheets.aqeel-anwar.com](h
 
 可以在下面的链接中找到这个主题和机器学习中许多其他重要主题的紧凑备忘单
 
-[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+<https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f>  
 
 **如果这篇文章对你有帮助，欢迎鼓掌、分享和回复。如果你想了解更多关于机器学习和数据科学的知识，请关注我@**[**Aqeel an war**](https://medium.com/u/a7cc4f201fb5?source=post_page-----eb5ce5f9bf50--------------------------------)**或者在**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***上与我联系。***

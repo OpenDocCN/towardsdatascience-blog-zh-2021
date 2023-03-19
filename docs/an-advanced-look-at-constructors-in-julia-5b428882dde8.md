@@ -67,10 +67,6 @@ Hal = Janitor(hals_UUID)
 
 一般来说，构造函数是一个必要且重要的编程概念。然而，在 Julia 编程语言中，构造函数的能力实际上是惊人的。它们不仅可以用来创建可变和不可变类型，还可以利用初始化函数。如果对构造函数的这种观察很有趣，您可能也会喜欢另一篇文章，在这篇文章中，我使用相同的概念在 Julia 中进行面向对象编程！：
 
-[](/how-to-turn-julia-into-python-6ab13dafb84) [## 如何把茱莉亚变成 Python！
-
-### 如何在 Julia 编程语言中使用面向对象编程范式？
-
-towardsdatascience.com](/how-to-turn-julia-into-python-6ab13dafb84) 
+</how-to-turn-julia-into-python-6ab13dafb84>  
 
 谢谢你的阅读，这对我意义重大！

@@ -98,11 +98,7 @@ T 这里有很多关于讲故事的炒作。就像数据一样。对我来说，
 
 要进一步了解数据可视化方面的内容，您可以查看这篇文章:
 
-[](/3-questions-you-should-ask-yourself-when-creating-data-visualizations-fa255652508a) [## 创建数据可视化时你应该问自己的 3 个问题
-
-### 和 3 个记忆它们的迷因
-
-towardsdatascience.com](/3-questions-you-should-ask-yourself-when-creating-data-visualizations-fa255652508a) 
+</3-questions-you-should-ask-yourself-when-creating-data-visualizations-fa255652508a>  
 
 快乐讲故事！
 

@@ -134,22 +134,10 @@ Matomo、Fathom 和 Simple Analytics 表现出快速和持续的增长，同时�
 
 我是营销分析和数据科学领域的独立顾问，帮助以转化为导向的数字企业做出明智的营销决策。我通过 Twitter *和*[*LinkedIn*](https://www.linkedin.com/in/alexandrospapageorgiou/)*在我的* [*博客*](http://alex-papageo.com/blog) *和* [*上分享我关于数字、营销和数据分析的故事。*](https://twitter.com/alex_papageo)
 
-[](https://www.linkedin.com/in/alexandrospapageorgiou/) [## Alex Papageorgiou -营销分析顾问|前谷歌| LinkedIn
+<https://www.linkedin.com/in/alexandrospapageorgiou/> [## Alex Papageorgiou -营销分析顾问|前谷歌| LinkedIn
 
 www.linkedin.com](https://www.linkedin.com/in/alexandrospapageorgiou/) 
 
 我在 Medium 上发表的故事，你可能也会喜欢:
 
-[](https://medium.com/innovation-machine/google-analytics-kaggle-competition-highlights-eaa046737ac4) [## 内核、点击和提升的树:第一届 Google Analytics Kaggle 竞赛集锦
-
-### 我参加了上周结束的广受欢迎的谷歌分析竞赛。
-
-medium.com](https://medium.com/innovation-machine/google-analytics-kaggle-competition-highlights-eaa046737ac4) [](https://medium.com/innovation-machine/choosing-between-r-and-python-a-digital-analysts-guide-b7103f80aa4e) [## 在 R 和 Python 之间选择:数字分析师指南
-
-### “R 还是 Python？一个数字分析师应该选择什么？
-
-medium.com](https://medium.com/innovation-machine/choosing-between-r-and-python-a-digital-analysts-guide-b7103f80aa4e) [](/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) [## GCP 专业化的数据工程:数据专业人员综合指南
-
-### 如果你是一名正在考虑提升技能的数据专业人士，学习的选择是很多的，但是如果你正在寻找…
-
-towardsdatascience.com](/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7)
+<https://medium.com/innovation-machine/google-analytics-kaggle-competition-highlights-eaa046737ac4>  <https://medium.com/innovation-machine/choosing-between-r-and-python-a-digital-analysts-guide-b7103f80aa4e>  </data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7> 

@@ -145,11 +145,7 @@ np.vstack((arr, arr2))
 
 这是我的另一篇文章，你可能想看看:
 
-[](/26-datasets-for-your-data-science-projects-658601590a4c) [## 为您的数据科学项目提供 26 个数据集
-
-### 众多基于任务的数据集的汇编，可用于构建您的下一个数据科学项目。
-
-towardsdatascience.com](/26-datasets-for-your-data-science-projects-658601590a4c) 
+</26-datasets-for-your-data-science-projects-658601590a4c>  
 
 此外，请随意访问⭐️，并跟随[这个 repo](https://github.com/yashprakash13/Python-Cool-Concepts) 访问我制作的完整 Numpy Cheatsheet 和我将来会包含的其他很酷的 Python 概念。快乐阅读！
 

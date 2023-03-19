@@ -6,11 +6,7 @@
 
 Python 中的 PyGMT 库使绘制高分辨率地形图变得轻而易举。它带有海岸线、国界和地形数据。通常，我们需要使用可用的 shapefile (SHP)数据在地图上高亮显示任意选择的多边形形状或区域。
 
-[](https://www.earthinversion.com/utilities/pygmt-high-resolution-topographic-map-in-python/) [## PyGMT:Python 中的高分辨率地形图(包括代码)
-
-### 一个简单的教程，如何使用 GMT 工具绘制高分辨率地形图的 Python 地形图南部…
-
-www.earthinversion.com](https://www.earthinversion.com/utilities/pygmt-high-resolution-topographic-map-in-python/) ![](img/38b680104c3cf2345157bade8100d501.png)
+<https://www.earthinversion.com/utilities/pygmt-high-resolution-topographic-map-in-python/>  ![](img/38b680104c3cf2345157bade8100d501.png)
 
 安德鲁·斯图特斯曼在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
@@ -99,10 +95,6 @@ fig.savefig('map1.pdf')
 
 我们已经看到了如何轻松地将 shapefile 数据添加到 PyGMT 地图上。我们在台湾的底图上绘制了各县的数据。此外，我们创建了一个覆盖了 shapefile 数据的高分辨率地形图。
 
-[](https://www.earthinversion.com/utilities/how-to-overlay-shapefiles-on-pygmt-maps/) [## 如何在 PyGMT 地图上叠加 shapefile 数据
-
-### 这一次我们将看看如何在 PyGMT 地图上叠加 shapefile 数据。在这里，例如我拿了县的数据…
-
-www.earthinversion.com](https://www.earthinversion.com/utilities/how-to-overlay-shapefiles-on-pygmt-maps/) 
+<https://www.earthinversion.com/utilities/how-to-overlay-shapefiles-on-pygmt-maps/>  
 
 *原载于 2021 年 7 月 17 日*[*【https://www.earthinversion.com】*](https://www.earthinversion.com/utilities/how-to-overlay-shapefiles-on-pygmt-maps/)*。*

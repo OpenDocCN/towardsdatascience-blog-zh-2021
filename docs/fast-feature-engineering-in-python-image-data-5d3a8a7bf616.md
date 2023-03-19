@@ -13,11 +13,7 @@
 
 本文是我的“快速特征工程”系列的第 2 部分。如果您还没有读过我的第一篇关于表格数据的文章，那么我请求您在这里查看一下:
 
-[](/fast-feature-engineering-in-python-tabular-data-d050b68bb178) [## Python 中的快速要素工程:表格数据
-
-### 使您的表格数据更适合输入 ML 系统
-
-towardsdatascience.com](/fast-feature-engineering-in-python-tabular-data-d050b68bb178) 
+</fast-feature-engineering-in-python-tabular-data-d050b68bb178>  
 
 本文将研究在执行图像处理作为我们机器学习工作流程的一部分时要遵循的一些最佳实践。
 

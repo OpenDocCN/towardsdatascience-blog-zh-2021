@@ -607,16 +607,4 @@ plt.show()
 
 **如果你喜欢这篇文章，你也可以发现下面这些有趣的:**
 
-**[](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [## 如何用 Python 阅读你的星座运势
-
-### 用 Python 找乐子
-
-better 编程. pub](https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1) [](/bar-plots-alternatives-specific-types-9d10ef250e5) [## 条形图:备选方案和特定类型
-
-### 何时以及是否使用它们
-
-towardsdatascience.com](/bar-plots-alternatives-specific-types-9d10ef250e5) [](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [## 用 Python 创建瀑布图
-
-### 做这件事最简单的方法
-
-medium.com](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45)**
+**<https://betterprogramming.pub/read-your-horoscope-in-python-91ca561910e1>  </bar-plots-alternatives-specific-types-9d10ef250e5>  <https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45> **

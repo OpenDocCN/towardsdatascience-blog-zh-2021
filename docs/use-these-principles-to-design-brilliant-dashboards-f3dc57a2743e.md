@@ -18,11 +18,7 @@
 
 我最喜欢的免费仪表盘工具之一是 [Dash by Plotly](https://dash.plotly.com/) 。它允许您使用纯 Python 创建强大的仪表盘和 web 应用程序。除了这些原则之外，我还将介绍如何在使用 Dash 创建仪表板时应用这些原则。如果你对 Dash 完全陌生或者想学习它，可以在这里查看我的入门教程，或者我的网站[pythondashboards.com](http://pythondashboards.com)
 
-[](https://levelup.gitconnected.com/how-to-create-powerful-web-apps-and-dashboards-using-dash-2-0-a05db174f20d) [## 如何使用 Dash 2.0 创建强大的 Web 应用和仪表盘
-
-### 使用 Python 设计多页面 Web 应用程序
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/how-to-create-powerful-web-apps-and-dashboards-using-dash-2-0-a05db174f20d) 
+<https://levelup.gitconnected.com/how-to-create-powerful-web-apps-and-dashboards-using-dash-2-0-a05db174f20d>  
 
 # 仪表板设计原则
 
@@ -272,8 +268,4 @@ pip install plotlyimport plotly.express as px
 
 [**—埃里克·克莱本**](http://pythondashboards.com/)
 
-[](https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353) [## 埃里克文章的终极指南
-
-### 我的所有内容按主题组织…
-
-erickleppen.medium.com](https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353)
+<https://erickleppen.medium.com/the-ultimate-guide-to-erics-articles-d32df8241353> 

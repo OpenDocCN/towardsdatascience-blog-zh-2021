@@ -120,11 +120,7 @@ kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic transactions
 
 原来如此；解决方案已经启动并运行！我希望这对你有用。请记住，完整的代码在这里:
 
-[](https://github.com/rodrigo-arenas/kafkaml-anomaly-detection) [## Rodrigo-arenas/kaf kaml-异常检测
-
-### 使用 Kafka 和 python 的实时异常检测项目
-
-github.com](https://github.com/rodrigo-arenas/kafkaml-anomaly-detection) 
+<https://github.com/rodrigo-arenas/kafkaml-anomaly-detection>  
 
 我想留下一些关于这个特定实现的最后考虑:
 

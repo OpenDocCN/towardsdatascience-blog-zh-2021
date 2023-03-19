@@ -25,11 +25,7 @@
 
 > 这是我 30 天文章写作挑战的一部分。请随意查看我的新人帖子上的文章:
 
-[](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) [## 让我们在 30 天内发表 30 篇文章
-
-### 在这篇文章中，我将接受挑战，在未来 30 天内写 30 篇与数据科学相关的文章…
-
-nouman10.medium.com](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) 
+<https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb>  
 
 # 什么是决策树
 
@@ -116,27 +112,15 @@ tree.plot_tree(clf)
 
 *   线性回归——用 Python 实现的机器学习算法
 
-[](https://medium.com/mlearning-ai/linear-regression-a-to-z-2ab3d1b7277c) [## 线性回归—从 A 到 Z
-
-### 在本文中，我们将从数学上研究线性回归，以及如何使用 Python (Scikit-learn)实现它
-
-medium.com](https://medium.com/mlearning-ai/linear-regression-a-to-z-2ab3d1b7277c) 
+<https://medium.com/mlearning-ai/linear-regression-a-to-z-2ab3d1b7277c>  
 
 *   k-最近邻——机器学习算法及其 Python 实现
 
-[](https://nouman10.medium.com/k-nearest-neighbors-a-to-z-with-implementation-in-python-74630ffb79a2) [## k-最近邻-用 Python 实现的 A 到 Z
-
-### 在本文中，我们将从数学上研究 k-最近邻，以及如何使用 Python 实现它…
-
-nouman10.medium.com](https://nouman10.medium.com/k-nearest-neighbors-a-to-z-with-implementation-in-python-74630ffb79a2) 
+<https://nouman10.medium.com/k-nearest-neighbors-a-to-z-with-implementation-in-python-74630ffb79a2>  
 
 *   k-Means-机器学习算法及其在 Python 中的实现
 
-[](/k-means-machine-learning-algorithms-with-implementation-in-python-ac1d48e90239) [## k-Means-机器学习算法及其在 Python 中的实现
-
-### 在本文中，我们将研究 K-Means 以及如何使用 Python (Scikit-learn)实现它
-
-towardsdatascience.com](/k-means-machine-learning-algorithms-with-implementation-in-python-ac1d48e90239) 
+</k-means-machine-learning-algorithms-with-implementation-in-python-ac1d48e90239>  
 
 如果您觉得以上内容对您有用，请分享并随时支持我-->
 

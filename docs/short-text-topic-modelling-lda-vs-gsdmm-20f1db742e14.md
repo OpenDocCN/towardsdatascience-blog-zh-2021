@@ -192,8 +192,4 @@ GSDMM 的实现需要多做一点工作，因为我们首先必须将主题中�
 
 请考虑成为支持写作社区的媒体成员:
 
-[](https://richardpelgrim.medium.com/membership) [## 使用此推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-richardpelgrim.medium.com](https://richardpelgrim.medium.com/membership)
+<https://richardpelgrim.medium.com/membership> 

@@ -198,28 +198,12 @@ AssertionError: assert {'apple': 2, 'banana': [3, 2, 2], 'orange': 3} == {'apple
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/deepdiff_example.ipynb) [## 数据科学/deepdiff _ example . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/deepdiff _ example . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/deepdiff_example.ipynb) 
+<https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/deepdiff_example.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
+</4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5>  </pydash-a-bucket-of-missing-python-utilities-5d10365be4fc>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [## Pydash:缺少 Python 实用程序的厨房水槽
-
-### 以函数的方式使用 Python
-
-towardsdatascience.com](/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) [## 如何使用 Python 创建类似 3Blue1Brown 的数学动画
-
-### 利用您的 Python 技能创建美丽的数学动画
-
-towardsdatascience.com](/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1> 

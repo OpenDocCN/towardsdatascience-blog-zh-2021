@@ -61,11 +61,7 @@
 
 **目标:**使用数据分析模拟循环订阅模式的几种情况对一家快速时尚零售商的减排和用水的影响。
 
-[](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/) [## 你的循环经济有多可持续？
-
-### 可持续性使用数据分析来模拟一个循环模型对二氧化碳排放量和用水量的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/) 
+<https://www.samirsaci.com/how-sustainable-is-your-circular-economy/>  
 
 # 三。绿色库存管理
 
@@ -91,11 +87,7 @@ www.samirsaci.com](https://www.samirsaci.com/how-sustainable-is-your-circular-ec
 
 **目的:**利用数据分析模拟商店补货频率的变化，衡量对整体环境影响的影响。
 
-[](https://www.samirsaci.com/green-inventory-management-case-study/) [## 绿色库存管理-案例研究
-
-### 可持续发展如何减少时尚零售物流运作的二氧化碳排放量？
-
-www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-study/) 
+<https://www.samirsaci.com/green-inventory-management-case-study/>  
 
 # 四。生产固定范围计划
 
@@ -115,11 +107,7 @@ www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-stu
 
 **目标:**在本文中，我们将通过 python 使用 **Wagner-Whitin 方法**实现最优生产计划。
 
-[](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/) [## 使用 Python 进行生产固定水平规划
-
-### 供应链优化实现瓦格纳-怀廷算法，以最小化总生产成本给定一套…
-
-www.samirsaci.com](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/) 
+<https://www.samirsaci.com/production-fixed-horizon-planning-with-python/>  
 
 # 动词 （verb 的缩写）供应链可持续性报告
 
@@ -135,11 +123,7 @@ www.samirsaci.com](https://www.samirsaci.com/production-fixed-horizon-planning-w
 
 **目标:**在本文中，我们将介绍一种简单的方法，使用 **Python 和 PowerBI 来**报告您的分销网络**的二氧化碳排放量。**
 
-[](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) [## 使用 Python 进行供应链可持续性报告
-
-### 自动化和报告构建 ESG 报告的 4 个步骤，重点关注分销网络的二氧化碳排放 4 个步骤…
-
-www.samirsaci.com](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/) 
+<https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/>  
 
 # 不及物动词供应链网络优化
 
@@ -159,11 +143,7 @@ www.samirsaci.com](https://www.samirsaci.com/supply-chain-sustainability-reporti
 
 **目标:**在本文中，我们将使用 Python 的蒙特卡罗模拟，构建一个简单的方法来设计一个健壮的供应链网络。
 
-[](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/) [## 基于蒙特卡罗模拟的鲁棒供应链网络
-
-### 供应链优化当你设计一个供应链网络时，你考虑到你的需求波动了吗？在…
-
-www.samirsaci.com](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/) 
+<https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/>  
 
 # 七。零售预测的机器学习
 
@@ -183,11 +163,7 @@ www.samirsaci.com](https://www.samirsaci.com/robust-supply-chain-networks-with-m
 
 **目标:**在本文中，我们将使用 **M5 预测竞赛数据集**来尝试**了解几个特征对模型准确性的影响**。
 
-[](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/) [## 零售预测的机器学习-特征工程
-
-### 供应链优化了解与缺货、商店关闭日期或其他相关的额外功能的影响
-
-www.samirsaci.com](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/) 
+<https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/>  
 
 # 八。仓库拣货生产率
 
@@ -213,19 +189,7 @@ www.samirsaci.com](https://www.samirsaci.com/machine-learning-for-retail-sales-f
 
 **链接到文章**
 
-[](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [## 使用 Python | Samir Saci 的订单批处理提高仓库生产率
-
-### 物流持续改进设计一个模拟模型来估计几个单拣货员路线的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/) [](https://www.samirsaci.com/improve-warehouse-productivity-using-spatial-clustering-with-python/) [## 使用 Python | Samir Saci 的空间聚类提高仓库生产率
-
-### 物流持续改进通过使用拣货功能将订单分批分组，提高仓库拣货生产率
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-spatial-clustering-with-python/) [](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/) [## 通过 Python |使用寻路算法提高仓库生产率
-
-### 物流持续改进实现基于旅行商问题的寻路算法
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/) 
+<https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/>  <https://www.samirsaci.com/improve-warehouse-productivity-using-spatial-clustering-with-python/>  <https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/>  
 
 # 九。资源计划和调度
 
@@ -245,11 +209,7 @@ www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-usin
 
 **结果**:计算满足所有约束条件的最小工人数。
 
-[](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) [## 使用 Python 线性编程优化劳动力规划
-
-### 物流持续改进你需要雇佣多少临时工来消化你每周的…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) 
+<https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/>  
 
 # X.运输路线优化
 
@@ -273,11 +233,7 @@ www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-l
 
 **结果**:使用更大卡车和更高装载率的优化运输计划。
 
-[](https://www.samirsaci.com/road-transportation-network-visualization/) [## 道路交通网络可视化
-
-### 物流持续改进构建 FTL 网络绩效的可视化:交付/路线、每吨成本…
-
-www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visualization/) 
+<https://www.samirsaci.com/road-transportation-network-visualization/>  
 
 # XI。精益六适马与 Python-Kruskal Wallis 测试
 
@@ -299,11 +255,7 @@ www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visuali
 
 **目标:**在本文中，我们将探讨 **Python** 如何在**分析**步骤中取代 **Minitab** 来测试**假设**和**了解**什么可以改进特定流程的**性能指标**。
 
-[](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) [## 使用 Python - Kruskal Wallis 测试精益六适马
-
-### 物流持续改进如何用 Python 替换 Minitab 来执行 Kruskal Wallis 测试评估…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/) 
+<https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/>  
 
 # 十二。使用 Flask + D3.js 的交互式仪表板
 
@@ -325,11 +277,7 @@ www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-
 
 **结果**:一个动态的仪表板，可以与用户交互以展示商业洞察力。
 
-[](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/) [## 使用 Flask 和 D3.js 构建交互式图表
-
-### 自动化和报告设计交互式 D3.js 可视化，用于电子商务销售分析和支持业务…
-
-www.samirsaci.com](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/) 
+<https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/>  
 
 # 十三。零售业的库存管理——随机需求
 
@@ -347,11 +295,7 @@ www.samirsaci.com](https://www.samirsaci.com/build-interactive-charts-using-flas
 
 **目标:**在本文中，我们将介绍**一种简单的方法，使用用 Python 构建的离散模拟** **模型**来测试**几种库存管理规则**，假设客户需求呈正态分布。
 
-[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) [## 零售库存管理——随机需求
-
-### 供应链优化模拟安全库存水平对库存管理绩效指标的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) 
+<https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/>  
 
 # 十四。基于图论的交通网络分析
 
@@ -369,11 +313,7 @@ www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-sto
 
 **目的:**在本文中，我们将使用**图论**来设计运输网络的**可视化表示**以**支持这种协作**并促进**解决方案设计**。
 
-[](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/) [## 基于图论的交通网络分析
-
-### 物流持续改进利用图论优化零售企业的道路运输网络
-
-www.samirsaci.com](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/) 
+<https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/>  
 
 # 结论
 
@@ -387,11 +327,7 @@ www.samirsaci.com](https://www.samirsaci.com/transportation-network-analysis-wit
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

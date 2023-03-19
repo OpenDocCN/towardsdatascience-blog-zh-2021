@@ -158,27 +158,15 @@ python3 generator_64.py portrait negative 2
 
 部署在 Heroku 上的 GitHub 存储库和 [Flask Web 应用](https://neurogram.herokuapp.com/):
 
-[](https://github.com/MarvinMartin24/CGAN-Emotion-Art) [## GitHub-Marvin Martin 24/CGAN-情感-艺术
-
-### 从 Wiki-Art 情感，我们建立了一个 VGG16 分类器(98%训练 acc - 50 val acc ),具有 3 个情感类别(积极的…
-
-github.com](https://github.com/MarvinMartin24/CGAN-Emotion-Art) 
+<https://github.com/MarvinMartin24/CGAN-Emotion-Art>  
 
 **图像到情感** : VGG16(识别情感，不考虑艺术风格)
 
-[](https://colab.research.google.com/drive/1ZqtZx9DP0FoW0SyzHikjCOHjzPznFf0d?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1ZqtZx9DP0FoW0SyzHikjCOHjzPznFf0d?usp=sharing) 
+<https://colab.research.google.com/drive/1ZqtZx9DP0FoW0SyzHikjCOHjzPznFf0d?usp=sharing>  
 
 **情感到图像**:条件生成对抗性神经网络(基于情感的人像)
 
-[](https://colab.research.google.com/drive/1dQcHAClX1fjBNvt-hMauWEg7x4m7Kq3V?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1dQcHAClX1fjBNvt-hMauWEg7x4m7Kq3V?usp=sharing) 
+<https://colab.research.google.com/drive/1dQcHAClX1fjBNvt-hMauWEg7x4m7Kq3V?usp=sharing>  
 
 # 类似项目
 

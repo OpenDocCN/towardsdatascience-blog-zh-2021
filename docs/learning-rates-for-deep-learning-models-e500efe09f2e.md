@@ -103,11 +103,7 @@ eep 学习模式非常灵活，但要使其有效，还需要大量的关注。�
 
 对于这个例子，我在公共领域许可下使用 diamonds 数据集。这个数据集由分类变量和数字变量的组合组成。对于本文，我已经删除了分类特性。
 
-[](https://www.kaggle.com/shivam2503/diamonds) [## 钻石
-
-### 通过切割、颜色、净度、价格和其他属性来分析钻石
-
-www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds) 
+<https://www.kaggle.com/shivam2503/diamonds>  
 
 该数据集提供了许多要素的大量数据。因此，损失函数的空间是完全凸的可能性不大。因此，创造了一个有许多小峰、奇怪的突起和突然下降的山脉的场景。理想情况下，用于比较不同学习速率的收敛性。
 
@@ -121,11 +117,7 @@ www.kaggle.com](https://www.kaggle.com/shivam2503/diamonds)
 
 为了可视化实验的结果，我使用了库 Plotly。我过去广泛使用过这个包。复制文章中的情节的代码来自下面的代码。关于 Plotly 的细节可以在链接文章中找到。
 
-[](/automated-interactive-reports-with-plotly-and-python-88dbe3aae5) [## 使用 Plotly 和 Python 自动生成交互式报告
-
-### 使用 Python 中的 Plotly 轻松生成交互式报告
-
-towardsdatascience.com](/automated-interactive-reports-with-plotly-and-python-88dbe3aae5) 
+</automated-interactive-reports-with-plotly-and-python-88dbe3aae5>  
 
 情节训练与验证损失(作者代码)
 
@@ -245,8 +237,4 @@ Plot 多个深度学习模型收敛(作者代码)
 
 *如果你对我的写作感兴趣，想直接支持我，请通过以下链接订阅。这个链接确保我会收到你的会员费的一部分。*
 
-[](https://zjwarnes.medium.com/membership) [## 通过我的推荐链接加入 Medium-Zachary Warnes
-
-### 阅读扎卡里·沃恩斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zjwarnes.medium.com](https://zjwarnes.medium.com/membership)
+<https://zjwarnes.medium.com/membership> 

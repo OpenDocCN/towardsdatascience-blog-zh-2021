@@ -36,11 +36,7 @@ MIR 是计算机科学、统计学、音乐学和数字信号处理的交叉领�
 
 如果你感兴趣，我已经写了关于完全自动化音乐的可能含义，你可以阅读。
 
-[](/ai-automation-and-music-8b9871dec784) [## 人工智能、自动化和音乐
-
-### 技术对新一代艺术家意味着什么？
-
-towardsdatascience.com](/ai-automation-and-music-8b9871dec784) 
+</ai-automation-and-music-8b9871dec784>  
 
 # 音乐机器学习需要哪些技能？
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/ai-automation-and-music-8b9871dec784)
 
 *如果你想开始学习 DSP，我有一系列专门从数据科学角度学习 DSP 的文章，叫做**从音频中学习**。您可以在这里找到 GitHub 笔记本资源库的链接，也可以在 README 中找到 Medium 文章本身的链接。*
 
-*[](https://github.com/theadamsabra/LearningfromAudio) [## theadamsabra/LearningfromAudio
-
-### 从音频中学习是 Adam Sabra 写的一系列媒体文章。它的主要目标是帮助那些在…
-
-github.com](https://github.com/theadamsabra/LearningfromAudio) 
+*<https://github.com/theadamsabra/LearningfromAudio>  
 
 ***注:*** *最明显的技能是机器学习和编程，我不打算过多地钻研这个。然而，我将在下面的* ***当前最先进的应用*** *章节中概述一些今天使用的最重要和最有用的模型。** 
 
@@ -81,19 +73,11 @@ github.com](https://github.com/theadamsabra/LearningfromAudio)
 
 ***Deezer:***
 
-*[](https://github.com/deezer/spleeter) [## 除雾器/分离器
-
-### ⚠️sp leater 2 . 1 . 0 版本引入了一些突破性的变化，包括输入的新 CLI 选项命名，以及
-
-github.com](https://github.com/deezer/spleeter) 
+*<https://github.com/deezer/spleeter>  
 
 **音乐数据库:**
 
-[](https://sigsep.github.io/datasets/musdb.html) [## MUSDB18 | SigSep
-
-### musdb18 是一个数据集，包含 150 首不同风格的全长音乐曲目(时长约 10 小时),以及它们各自独立的…
-
-sigsep.github.io](https://sigsep.github.io/datasets/musdb.html) 
+<https://sigsep.github.io/datasets/musdb.html>  
 
 ## 实时伴奏
 
@@ -105,19 +89,11 @@ sigsep.github.io](https://sigsep.github.io/datasets/musdb.html)
 
 **MuseGAN:用于符号音乐生成和伴奏的多轨道顺序生成对抗网络:**
 
-[](https://paperswithcode.com/paper/musegan-multi-track-sequential-generative) [## 多轨道有序生成的符号对抗网络
-
-### 在 7 个代码库中实现。
-
-paperswithcode.com](https://paperswithcode.com/paper/musegan-multi-track-sequential-generative) 
+<https://paperswithcode.com/paper/musegan-multi-track-sequential-generative>  
 
 **音乐渐变:通过低级特征建模基于高级特征的可控音乐生成:**
 
-[](https://paperswithcode.com/paper/music-fadernets-controllable-music-generation) [## 论文与代码-音乐渐变:可控的音乐生成基于高层次的特点，通过…
-
-### 高层次的音乐品质(如情感)往往是抽象的、主观的，难以量化。鉴于这些…
-
-paperswithcode.com](https://paperswithcode.com/paper/music-fadernets-controllable-music-generation) 
+<https://paperswithcode.com/paper/music-fadernets-controllable-music-generation>  
 
 ## 自动音乐转录
 
@@ -129,29 +105,17 @@ paperswithcode.com](https://paperswithcode.com/paper/music-fadernets-controllabl
 
 **通过回归开始和偏移时间用踏板进行高分辨率钢琴转录:**
 
-[](https://cs.paperswithcode.com/paper/high-resolution-piano-transcription-with-1) [## 论文与代码-高分辨率钢琴转录踏板回归开始和偏移…
-
-### 自动音乐转录(AMT)是将音频记录转录成符号表示的任务，例如…
-
-cs.paperswithcode.com](https://cs.paperswithcode.com/paper/high-resolution-piano-transcription-with-1) 
+<https://cs.paperswithcode.com/paper/high-resolution-piano-transcription-with-1>  
 
 **走向多乐器鼓转录:**
 
-[](https://paperswithcode.com/paper/towards-multi-instrument-drum-transcription) [## 面向多乐器鼓转录的论文与代码
-
-### 自动鼓转录是更一般的自动音乐转录的子任务，处理提取鼓…
-
-paperswithcode.com](https://paperswithcode.com/paper/towards-multi-instrument-drum-transcription) 
+<https://paperswithcode.com/paper/towards-multi-instrument-drum-transcription>  
 
 ## 这样的例子不胜枚举！
 
 如果这三个应用程序听起来对你都不太感兴趣，但你仍然想进一步研究 MIR 和机器学习的可能性，最好的资源是国际音乐信息检索协会(ISMIR。)
 
-[](https://ismir.net/) [## ISMIR - Home
-
-### 会议交易的 ISMIR 妇女在 MIR 资源关于社会成员社区统计联系…
-
-ismir.net](https://ismir.net/) 
+<https://ismir.net/>  
 
 自 2000 年以来举行的所有会议以及提交的会议记录和文件都可以在网站上找到。虽然你们中的大多数人可能会阅读该领域最近几年的资料，但如果你决定继续在该领域工作，这个年度会议仍然是一个值得关注的问题。
 

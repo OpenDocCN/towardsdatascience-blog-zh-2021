@@ -37,12 +37,8 @@
 
 **你可能感兴趣的其他故事**
 
-[](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
+</why-your-data-science-portfolio-project-sucks-208ee830ad1b> [## 为什么大多数数据科学组合项目没有得到招聘经理的认可
 
-towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) [](/thinking-in-distributions-c40b2cd0ec76) [## 在分配中思考
-
-### 数据科学家如何看待世界
-
-towardsdatascience.com](/thinking-in-distributions-c40b2cd0ec76) [](/making-your-data-science-resume-stand-out-119d2eb37d8c) [## 让你的数据科学简历脱颖而出
+towardsdatascience.com](/why-your-data-science-portfolio-project-sucks-208ee830ad1b) </thinking-in-distributions-c40b2cd0ec76>  </making-your-data-science-resume-stand-out-119d2eb37d8c> [## 让你的数据科学简历脱颖而出
 
 towardsdatascience.com](/making-your-data-science-resume-stand-out-119d2eb37d8c)

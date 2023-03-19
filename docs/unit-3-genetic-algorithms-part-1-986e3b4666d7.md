@@ -8,11 +8,7 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将讨论课程的第三单元，遗传算法。在上一篇文章中，我们讨论了第二单元——进化计算导论。如果你还没有阅读那篇文章，请这样做，因为我们将在这里详细地展开那篇文章，你可以在这里查看:
 
-[](https://morganscottbrandon.medium.com/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-2-introduction-to-evolutionary-computation-85764137c05a) 
+<https://morganscottbrandon.medium.com/unit-2-introduction-to-evolutionary-computation-85764137c05a>  
 
 在这篇文章中，我将扩展上一单元的内容，并将这些概念应用到一些真实的例子中。首先，我们将介绍标准的**规范遗传算法**。然后我们将讨论浮点表示，并直接讨论交叉和变异操作符。然后，我们将涵盖遗传算法变体，高级主题，以及如何处理不同的优化问题。在整篇文章中，我们会用 Python 代码给出一些例子。因为这个单元会比较广泛，所以会分解成几个部分。
 
@@ -152,8 +148,4 @@ morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-2-intr
 
 在这篇文章中，我们介绍了浮点表示的交叉和变异操作符的基础知识，以及一个简单例子的基本算法。在下一篇文章中，我们将通过处理一个实际的基准测试函数进行更深入的探讨！您可以在这里找到它:
 
-[](https://morganscottbrandon.medium.com/unit-3-genetic-algorithm-benchmark-test-function-1-670a55088064) [## 单元 3)遗传算法:基准测试函数 1
-
-### 将遗传算法课程中的概念应用到实际的优化问题中！
-
-morganscottbrandon.medium.com](https://morganscottbrandon.medium.com/unit-3-genetic-algorithm-benchmark-test-function-1-670a55088064)
+<https://morganscottbrandon.medium.com/unit-3-genetic-algorithm-benchmark-test-function-1-670a55088064> 

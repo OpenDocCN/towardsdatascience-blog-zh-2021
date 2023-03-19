@@ -23,11 +23,7 @@
 截图自 Andrew NG 对我上一篇文章的背书—2021 年 8 月
 [https://www . LinkedIn . com/feed/update/urn:李:活动:6830591493435224064/](https://www.linkedin.com/feed/update/urn:li:activity:6830591493435224064/)
 
-[](https://medium.com/geekculture/a-deep-dive-into-andrew-ng-data-centric-competition-eb2bc0886005) [## 深入探讨 Andrew NG 以数据为中心的竞争
-
-### 关于这种新型挑战，您需要了解的一切，关注数据质量而不是模型…
-
-medium.com](https://medium.com/geekculture/a-deep-dive-into-andrew-ng-data-centric-competition-eb2bc0886005) 
+<https://medium.com/geekculture/a-deep-dive-into-andrew-ng-data-centric-competition-eb2bc0886005>  
 
 如果你赶时间，**长话短说**:比赛的目标是产生尽可能好的一组图片来训练预定义的模型(ResNet50)识别罗马数字。该竞赛提供了一个大约。3000 张图片，包括嘈杂和贴错标签的数字，如下图所示:
 
@@ -230,12 +226,4 @@ DeepLearning.ai 的组织者提供了一组 52 张图片，这些图片不在“
 
 正如我所承诺的，这里是 GitHub 知识库的链接，欢迎在评论中分享你的经验和/或发现:
 
-[](https://github.com/pierrelouisbescond/data-centric-challenge-public) [## pierrellouisscond/以数据为中心-挑战-公共
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/pierrelouisbescond/data-centric-challenge-public) [](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+<https://github.com/pierrelouisbescond/data-centric-challenge-public>  <https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

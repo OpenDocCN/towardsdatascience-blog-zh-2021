@@ -22,11 +22,7 @@
 
 但是正如在下面的文章中进一步详细解释的那样，使用 p<0.05 常常是一个错误。如上所述，数据集的大小决定了适当的置信区间(从而决定了正确的 p 值)。
 
-[](/are-your-models-using-the-correct-significance-levels-c88367ee0544) [## 您的模型使用了正确的显著性水平吗？
-
-### 避免一切都变得重要的大数据谬论。使用 p < 0.05 通常是不合适的。
-
-towardsdatascience.com](/are-your-models-using-the-correct-significance-levels-c88367ee0544) 
+</are-your-models-using-the-correct-significance-levels-c88367ee0544>  
 
 假设检验中不当使用 p 值的问题由于错误地强调它们而被放大。
 
@@ -100,12 +96,4 @@ Assume instead (following an example from [Dave Giles](https://davegiles.blogspo
 
 在放大数据集时缩小 p 值临界值将有助于避免过度剔除，从而避免模型中有太多重要变量。
 
-[](https://medium.com/datadriveninvestor/the-cape-ratio-suggests-the-stock-market-is-attractive-7eb3fc22816b) [## CAPE 比率表明股票市场是有吸引力的
-
-### 坎贝尔和诺贝尔奖得主席勒发明的这一指标预示着股市的乐观前景
-
-medium.com](https://medium.com/datadriveninvestor/the-cape-ratio-suggests-the-stock-market-is-attractive-7eb3fc22816b) [](https://medium.com/swlh/3-truly-disruptive-businesses-built-on-founder-knowledge-d71ab2482d13) [## 3 个基于创始人知识的真正颠覆性业务
-
-### 特定行业的知识和技能、经验和多年积累的人脉是无价的，如果你想…
-
-medium.com](https://medium.com/swlh/3-truly-disruptive-businesses-built-on-founder-knowledge-d71ab2482d13)
+<https://medium.com/datadriveninvestor/the-cape-ratio-suggests-the-stock-market-is-attractive-7eb3fc22816b>  <https://medium.com/swlh/3-truly-disruptive-businesses-built-on-founder-knowledge-d71ab2482d13> 

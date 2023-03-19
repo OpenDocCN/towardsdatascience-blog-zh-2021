@@ -215,8 +215,4 @@ ALM 工具包网页的 URL:[https://www.sqlbi.com/tools/alm-toolkit/](https://ww
 
 [2021 年表格模型的开发工具](https://www.sqlbi.com/articles/development-tools-for-tabular-models-in-2021/)关于 SQLBI 的文章
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+<https://medium.com/@salvatorecagliari/membership> 

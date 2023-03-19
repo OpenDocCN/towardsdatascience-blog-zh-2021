@@ -249,20 +249,8 @@ Apriori 是一种简单的算法，可以快速学习项目(数据点)之间的�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 您可能感兴趣的相关文章:
 
-[](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [## BBN:贝叶斯信念网络——如何用 Python 有效地构建它们？
-
-### 使用真实生活数据在 Python 中构建模型的贝叶斯信念网络的详细解释
-
-towardsdatascience.com](/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba) [](/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2) [## k-最近邻(kNN)-如何使用监督学习进行质量预测？
-
-### 使用 kNN 解决回归和分类问题的综合指南
-
-towardsdatascience.com](/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2)
+</bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba>  </k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2> 

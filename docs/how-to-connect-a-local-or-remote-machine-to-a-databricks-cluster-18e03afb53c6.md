@@ -12,11 +12,7 @@
 
 当您开始使用 Databricks 时，您将会决定在 Databricks 之外进行编码，并远程连接到它的计算能力，也就是 Databricks 集群。为什么？主要是因为 Databricks 的主要特性之一是它的 Spark 作业管理,这可以让您的生活变得轻松。使用该服务，您可以向大规模数据集提交一系列 Spark 作业，并在几秒钟内返回您的结果；多亏了它的火花引擎。在本文中，我想描述如何配置您的本地或远程机器连接到 Databricks 集群，作为这个过程的第一步。
 
-[](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) [## 人工智能:非正统的教训:如何获得洞察力和建立创新的解决方案
-
-### 亚马逊网站:人工智能:非正统课程:如何获得洞察力和建立创新的解决方案电子书…
-
-www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) 
+<https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0>  
 
 # —什么是数据块？
 
@@ -34,11 +30,7 @@ Databricks 提供的简单性有一些限制。例如，Databricks 使您作为�
 
 换句话说，您不能远程连接到其数据块运行时不受`databricks-connect`支持的集群。您可以在 Databricks Connect 的原始文档中找到 Databricks 运行时版本的更新列表。
 
-[](https://docs.databricks.com/dev-tools/databricks-connect.html#requirements) [## 数据块连接
-
-### Databricks Connect 允许您连接您喜爱的 IDE (IntelliJ、Eclipse、PyCharm、RStudio、Visual Studio)…
-
-docs.databricks.com](https://docs.databricks.com/dev-tools/databricks-connect.html#requirements) 
+<https://docs.databricks.com/dev-tools/databricks-connect.html#requirements>  
 
 ## 2-安装所需的 Python 和 Java 版本
 
@@ -48,11 +40,7 @@ docs.databricks.com](https://docs.databricks.com/dev-tools/databricks-connect.ht
 
 假设您为 Databricks 运行时版本选择了 **7.3 LTS** 。在这种情况下，您必须在本地或远程机器上安装 **Python 3.7** 才能与之兼容。您还必须在您的机器上安装 Java 运行时环境(JRE) 8。这些都是由 Databricks 网站指导的。
 
- [## Java 8
-
-### 未找到结果您的搜索没有匹配任何结果。我们建议您尝试以下方法来帮助找到您想要的…
-
-www.oracle.com](https://www.oracle.com/java/technologies/java8.html) 
+  
 
 ## 3-安装所需的 Databricks Connect 版本
 
@@ -101,11 +89,7 @@ RUN pip3 install -U databricks-connect==7.3.*
 
 使用`databricks-connect configure`，很容易配置`databricks-connect`库以连接到 Databricks 集群。运行此命令后，它会以交互方式询问您有关主机、令牌、组织 ID、端口和集群 Id 的问题。要了解更多信息，您可以查看下面的官方文档。
 
-[](https://docs.databricks.com/dev-tools/databricks-connect.html#step-2-configure-connection-properties) [## 数据块连接
-
-### Databricks Connect 允许您连接您喜爱的 IDE (IntelliJ、Eclipse、PyCharm、RStudio、Visual Studio)…
-
-docs.databricks.com](https://docs.databricks.com/dev-tools/databricks-connect.html#step-2-configure-connection-properties) 
+<https://docs.databricks.com/dev-tools/databricks-connect.html#step-2-configure-connection-properties>  
 
 然而，**如果您想自动配置 Docker 映像**中的连接属性，您可以将以下代码添加到上述 Docker 文件的末尾。
 
@@ -132,8 +116,4 @@ RUN export DATABRICKS_HOST=XXXXX && \
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

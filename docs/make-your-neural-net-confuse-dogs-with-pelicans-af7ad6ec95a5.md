@@ -94,12 +94,4 @@ adv_input = attack.run(net, german_shepherd, criterion, epsilon=10)*
 
 ***以下是另外三个你可能感兴趣的故事:***
 
-***[](/why-your-neural-net-is-uncertain-in-different-ways-a125ce1fa4e5) [## 为什么你的神经网络以不同的方式不确定
-
-towardsdatascience.com](/why-your-neural-net-is-uncertain-in-different-ways-a125ce1fa4e5) [](/five-paradoxes-with-probabilities-that-will-puzzle-you-2f71201d6ee8) [## 可能会让你困惑的五个悖论
-
-towardsdatascience.com](/five-paradoxes-with-probabilities-that-will-puzzle-you-2f71201d6ee8) [](/what-really-is-a-matrix-determinant-89c09884164c) [## 什么是矩阵行列式？
-
-### 行列式背后的几何直觉会改变你对它们的看法。
-
-towardsdatascience.com](/what-really-is-a-matrix-determinant-89c09884164c)***
+***</why-your-neural-net-is-uncertain-in-different-ways-a125ce1fa4e5>  </what-really-is-a-matrix-determinant-89c09884164c> ***

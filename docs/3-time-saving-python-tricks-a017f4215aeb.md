@@ -164,10 +164,6 @@ def forinfunction(listofstrings):
 
 *看看这个。*
 
-*[](https://medium.com/analytics-vidhya/best-machine-learning-certification-for-free-b0984efc7303) [## 免费获得最佳机器学习认证
-
-### 只投入 2 小时/天学习 Python，获得机器学习认证！
-
-medium.com](https://medium.com/analytics-vidhya/best-machine-learning-certification-for-free-b0984efc7303)* 
+*<https://medium.com/analytics-vidhya/best-machine-learning-certification-for-free-b0984efc7303> * 
 
 *感谢您的阅读！投入你宝贵的时间！*

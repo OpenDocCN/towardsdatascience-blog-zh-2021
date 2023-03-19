@@ -42,7 +42,7 @@
 
 **凭直觉，我们想说的是，RS 的成功模式很少有那种把 BERT 模型[应用到 Google 搜索](https://blog.google/products/search/search-language-understanding-bert/)或者改进[亚马逊的推荐](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)的影响力。RS 公司的 ML 可以产生相当大的影响，但这种影响的绝对规模很少达到大数据公司的规模。**
 
-**另一种稍微正式一点的思考方式是，看看 RS 公司投资 ML 的[](https://www.investopedia.com/terms/n/npv.asp)**(**【NPV】**)净现值状态。如前所述，RS 公司有不同的规模，并且在许多方面存在差异，从业务成熟度到运营效率，从财务杠杆到流动性。它们可能是蓬勃发展的公司，收入增长迅速，但不一定盈利，如直接面向消费者的品牌，如 [Warby Parker](https://www.forbes.com/sites/greatspeculations/2021/09/27/warby-parkers-direct-listing-still-overvalued-after-updated-revenue-guidance/?sh=5dd88a5f5baf) 和 [Casper](https://techcrunch.com/2020/01/10/casper-files-to-go-public-shows-you-can-lose-money-selling-mattresses/) 或数字本地玩家，如 [Tubi](https://tubitv.com/) 或[Lyst](https://www.lyst.com/)；或者他们可以是已经实现盈利的老牌企业，比如零售商翠鸟、马克斯和斯潘塞。****
+**另一种稍微正式一点的思考方式是，看看 RS 公司投资 ML 的<https://www.investopedia.com/terms/n/npv.asp>**(**【NPV】**)净现值状态。如前所述，RS 公司有不同的规模，并且在许多方面存在差异，从业务成熟度到运营效率，从财务杠杆到流动性。它们可能是蓬勃发展的公司，收入增长迅速，但不一定盈利，如直接面向消费者的品牌，如 [Warby Parker](https://www.forbes.com/sites/greatspeculations/2021/09/27/warby-parkers-direct-listing-still-overvalued-after-updated-revenue-guidance/?sh=5dd88a5f5baf) 和 [Casper](https://techcrunch.com/2020/01/10/casper-files-to-go-public-shows-you-can-lose-money-selling-mattresses/) 或数字本地玩家，如 [Tubi](https://tubitv.com/) 或[Lyst](https://www.lyst.com/)；或者他们可以是已经实现盈利的老牌企业，比如零售商翠鸟、马克斯和斯潘塞。****
 
 ****关键的一点是，所有这些组织都应该遵循[资本预算](https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp)的一个关键原则，即它们应该承担那些将增加其盈利能力的项目。****
 

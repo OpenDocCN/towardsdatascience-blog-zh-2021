@@ -6,7 +6,7 @@
 
 ![](img/98e835adac456ab74c518b877dbb07b3.png)
 
-照片由 [](https://unsplash.com/@jasonrosewell) [阿丽娜·格鲁布尼亚](https://unsplash.com/@alinnnaaaa)在 [Unsplash](https://unsplash.com/photos/ASKeuOZqhYU) 上拍摄
+照片由 <https://unsplash.com/@jasonrosewell> [阿丽娜·格鲁布尼亚](https://unsplash.com/@alinnnaaaa)在 [Unsplash](https://unsplash.com/photos/ASKeuOZqhYU) 上拍摄
 
 自从 Vaswani 等人的开创性论文“[注意力是你所需要的全部](https://arxiv.org/abs/1706.03762)”以来，变压器模型已经成为 NLP 技术中最先进的技术。应用范围从 NER，文本分类，问答或聊天机器人，这项惊人的技术的应用是无限的。
 

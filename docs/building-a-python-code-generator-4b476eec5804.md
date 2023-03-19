@@ -196,15 +196,7 @@ var_1 [::-1 ]
 
 # **参考知识库**
 
-**[](https://github.com/divyam96/English-to-Python-Converter) [## divyam 96/英语-Python 转换器
-
-### 这是一个尝试使用变压器和自我关注，以便将英文描述转换成 Python 代码…
-
-github.com](https://github.com/divyam96/English-to-Python-Converter) [](https://github.com/bentrevett/pytorch-seq2seq) [## bentrevett/pytorch-seq2seq
-
-### 本报告包含的教程涵盖了使用…理解和实现序列到序列(seq2seq)模型
-
-github.com](https://github.com/bentrevett/pytorch-seq2seq) 
+**<https://github.com/divyam96/English-to-Python-Converter>  <https://github.com/bentrevett/pytorch-seq2seq>  
 
 # 参考
 

@@ -226,18 +226,6 @@ Geopandas 具有良好的内置绘图功能。此外，还有许多优秀的 Pyt
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于变形金刚和音频深度学习的其他系列。
 
-[](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [## 直观解释的变压器(第 1 部分):功能概述
-
-### NLP 变形金刚的简明指南，以及为什么它们比 rnn 更好，用简单的英语。注意力如何帮助…
-
-towardsdatascience.com](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [## 音频深度学习变得简单(第一部分):最新技术
-
-### 颠覆性深度学习音频应用和架构世界的温和指南。以及为什么我们都需要…
-
-towardsdatascience.com](/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504) [](/neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788) [## 神经网络优化器变得简单:核心算法和为什么需要它们
-
-### 梯度下降优化器使用的基本技术的温和指南，如 SGD，Momentum，RMSProp，Adam 和…
-
-towardsdatascience.com](/neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788) 
+</transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>  </audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504>  </neural-network-optimizers-made-simple-core-algorithms-and-why-they-are-needed-7fd072cd2788>  
 
 让我们继续学习吧！

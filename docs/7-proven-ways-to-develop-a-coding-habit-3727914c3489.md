@@ -30,19 +30,7 @@
 
 这里有一些上面提到的想法的链接，可以帮助你开始:
 
-[](/easiest-guide-to-getting-stock-data-with-python-f74b5f75d179) [## 使用 Python 获取股票数据的最简单指南
-
-### 获取股票数据变得简单而有趣
-
-towardsdatascience.com](/easiest-guide-to-getting-stock-data-with-python-f74b5f75d179) [](/formula-1-race-predictor-5d4bfae887da) [## 一级方程式赛车预测
-
-### 预测下一届 F1 大奖赛冠军的机器学习方法
-
-towardsdatascience.com](/formula-1-race-predictor-5d4bfae887da) [](/global-warming-and-malaria-in-developing-regions-an-analysis-in-python-69a9ba52f83a) [## 发展中地区的全球变暖和疟疾:Python 中的分析
-
-### 气候变化预计将对尼日利亚、海地和也门等发展中国家产生不利影响。这些…
-
-towardsdatascience.com](/global-warming-and-malaria-in-developing-regions-an-analysis-in-python-69a9ba52f83a) 
+</easiest-guide-to-getting-stock-data-with-python-f74b5f75d179>  </formula-1-race-predictor-5d4bfae887da>  </global-warming-and-malaria-in-developing-regions-an-analysis-in-python-69a9ba52f83a>  
 
 # 使用“线索-常规-奖励”习惯循环法。
 

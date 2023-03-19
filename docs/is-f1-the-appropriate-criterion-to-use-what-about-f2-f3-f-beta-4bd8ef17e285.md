@@ -64,11 +64,7 @@ F beta(图片由作者提供)
 
 这种方法允许我们定义召回比精确度重要多少。在 sklearn 中使用 Fβ测量非常简单，只需遵循以下示例:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html?highlight=f%20beta#sklearn.metrics.fbeta_score) [## sk learn . metrics . fbeta _ score-sci kit-learn 0 . 24 . 1 文档
-
-### 编辑描述
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html?highlight=f%20beta#sklearn.metrics.fbeta_score) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html?highlight=f%20beta#sklearn.metrics.fbeta_score>  
 
 ```
 **>>> from** **sklearn.metrics** **import** fbeta_score

@@ -64,14 +64,6 @@ ML 和 DL 是今天 AI 的同义词。在过去的 15-20 年里，该领域的�
 
 ## 推荐阅读
 
-[](/what-no-one-is-thinking-agi-will-take-everyone-by-surprise-a76903474c79) [## 没人想到的是——AGI 会让所有人大吃一惊
+</what-no-one-is-thinking-agi-will-take-everyone-by-surprise-a76903474c79>  </gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484> [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
 
-### 这就是为什么我们可能在不知道的情况下创造了 AGI。
-
-towardsdatascience.com](/what-no-one-is-thinking-agi-will-take-everyone-by-surprise-a76903474c79) [](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
-
-towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02) [## 人工智能和机器人技术将不可避免地融合
-
-### AGI 将有一个身体，并将生活在这个世界上。
-
-towardsdatascience.com](/artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02)
+towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) </artificial-intelligence-and-robotics-will-inevitably-merge-4d4cd64c3b02> 

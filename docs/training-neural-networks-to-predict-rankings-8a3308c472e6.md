@@ -18,11 +18,7 @@
 
 如今，科学家已经报道了几种植物物种在生物燃料生产中的潜在用途。然而，到目前为止，还没有人对这些原料的所有需要测试的特性进行评估，包括燃料特性、发动机性能、排放特性、生产潜力等。用于评估生物柴油质量的参数由澳大利亚的[燃料质量标准(生物柴油)测定 2019](https://policy.asiapacificenergy.org/node/4082) 和欧洲的[欧洲标准 EN 14214](https://www.en-standard.eu/din-en-14214-liquid-petroleum-products-fatty-acid-methyl-esters-fame-for-use-in-diesel-engines-and-heating-applications-requirements-and-test-methods-includes-amendment-2019/) 建立。十六烷值、每公顷作物产量或闪点是这些重要参数的三个例子。其他重要参数是生产效率，如油转化为生物柴油的转化率、含油量或产量。然而，这些参数在很大程度上取决于原料位置，因此，一个地区的完美解决方案可能与另一个地区的不同。
 
-[](https://www.sciencedirect.com/science/article/abs/pii/S0196890419307721) [## 多准则设计矩阵在生物柴油原料选择中的有效性
-
-### 筛选非食用生物柴油原料的多准则决策分析。*核果仁制成的生物柴油…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0196890419307721) 
+<https://www.sciencedirect.com/science/article/abs/pii/S0196890419307721>  
 
 总的来说，我们最终得到了一个涵盖数百个不同选项的 20 多个参数的数据集，但是我们如何为这些选项创建决策排序呢？
 

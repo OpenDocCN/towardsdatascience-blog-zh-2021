@@ -40,7 +40,7 @@ freeCodeCamp 是一个为数据科学奠定基础的优秀资源，因此我建�
 以下是一些我最喜欢的 VSC 数据科学扩展，我不能没有它们:
 
 *   [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python):Python for Visual Studio 代码支持 Python 语言，包含了智能感知、林挺、调试、代码导航、代码格式化、Jupyter 笔记本支持、重构、变量探索、测试探索等有用的特性。
-*   [](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)**:Jupyter for Visual Studio Code 为 Jupyter 笔记本中支持的语言内核提供基本的笔记本支持。这个扩展最好与 Python 扩展一起使用。**
+*   <https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter>**:Jupyter for Visual Studio Code 为 Jupyter 笔记本中支持的语言内核提供基本的笔记本支持。这个扩展最好与 Python 扩展一起使用。**
 *   **[**地理数据查看器**](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) :地理数据查看器提供了一种简单而美观的方式来可视化全球数据。**
 *   **[**Rainbow CSV**](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv):Rainbow CSV 可以让你在。csv 文件。**
 
@@ -118,8 +118,4 @@ freeCodeCamp 是一个为数据科学奠定基础的优秀资源，因此我建�
 
 **你可以在这里查看我将在 2021 年学习数据科学的学习课程:**
 
-**[](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c) [## 我在 2021 年自学数据科学的循序渐进的课程
-
-### 我打算如何不花一分钱自学数据科学。
-
-towardsdatascience.com](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c)**
+**</the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c> **

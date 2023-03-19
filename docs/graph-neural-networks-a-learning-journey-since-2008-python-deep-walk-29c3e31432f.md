@@ -10,11 +10,7 @@
 
 图片由[弗朗西丝卡·霍钦](https://unsplash.com/@franhotchin)在 [Unsplash](https://unsplash.com/photos/FN-cedy6NHA) 上拍摄
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 欢迎回到我们在图形机器学习世界的旅程的第四部分。在之前的帖子中，我们看到了[deep walk 算法如何工作](/graph-neural-networks-a-learning-journey-since-2008-deep-walk-e424e716070a?source=user_profile---------0----------------------------)及其数学背景。今天，我们将深入研究该算法的 Python 实现，从一个简单的例子(空手道俱乐部)开始，在`Numpy`中有一个简单的 DeepWalk 版本，然后我们将跳转到一个更有趣的场景，使用脸书大型页面数据集。
 
@@ -30,11 +26,7 @@ medium.com](https://medium.com/@stefanobosisio1/membership)
 
 现在我们知道了 DeepWalk 在数学上是如何工作的，让我们一起一步一步地看看空手道俱乐部将会发生什么，在跳到更大的应用之前修正我们的想法。当前的应用程序基于一个简单的`numpy`嵌入式神经网络应用程序。代码和输入文件可在以下位置找到:
 
-[](https://github.com/Steboss/learn_graph_ml/tree/master/Perozzi_DeepWalk) [## learn _ graph _ ml/Perozzi _ deep walk at master ste boss/learn _ graph _ ml
-
-### 从 2009 年到现在的漫长旅程，带着图表——learn _ graph _ ml/Perozzi _ deep walk at master ste boss/learn _ graph _ ml
-
-github.com](https://github.com/Steboss/learn_graph_ml/tree/master/Perozzi_DeepWalk) 
+<https://github.com/Steboss/learn_graph_ml/tree/master/Perozzi_DeepWalk>  
 
 输入数据集是`data/karate.adjlist`，空手道俱乐部的邻接表，`graph.py`是读取输入文件的实用程序，`karate.py`是我们的主要 DeepWalk 算法文件。这些计算远非正确，但它们是具体理解正在发生的事情的一个很好的方法。
 

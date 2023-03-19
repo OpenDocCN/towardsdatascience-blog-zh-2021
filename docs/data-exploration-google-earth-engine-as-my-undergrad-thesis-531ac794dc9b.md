@@ -130,19 +130,11 @@ Google Earth Engine 平台是一个信息丰富的工具，其开发环境(Googl
 
 方法论的所有过程和对数据的探索都记录在 Jupyter 的笔记本上。这些笔记本位于 GitHub 存储库中。不幸的是，这个库是西班牙语的，但是如果你有任何问题，你可以联系我。
 
-[](https://github.com/isaacarroyov/thesis_undergrad) [## GitHub-isaacarroyov/论文 _ 本科生:文档:方法和探索性数据分析
-
-### 米格尔·伊萨克·阿罗约·贝拉斯克斯
-
-github.com](https://github.com/isaacarroyov/thesis_undergrad) 
+<https://github.com/isaacarroyov/thesis_undergrad>  
 
 我在做这篇论文的时候，有机会参加了火生态学协会举办的**第九届国际火生态学与管理大会，并展示了一张海报。**因此，我创建了一个 GitHub 知识库，用英语提供类似的信息。
 
-[](https://github.com/isaacarroyov/2021_AFE_FireCongress09) [## GitHub-isaacarroyov/2021 _ AFE _ fire congress 09:此库旨在补充分享的海报…
-
-### 该知识库旨在补充在第 9 届国际火灾生态和管理大会上分享的海报…
-
-github.com](https://github.com/isaacarroyov/2021_AFE_FireCongress09) 
+<https://github.com/isaacarroyov/2021_AFE_FireCongress09>  
 
 # 关于我
 

@@ -18,7 +18,7 @@ Python 最有可能证明其生态系统优势的一个领域是数据科学。P
 
 我认为第一个被严重低估的包是 Emmett web-framework。Emmett web-framework 是通用的，可以用于 web 开发的许多不同目的。另一个好处是 Emmett web-framework 相对容易使用。它遵循类似 Flask 的语法，如果你碰巧已经知道 Flask，那么很容易被介绍。如果你想了解更多关于 Emmett 框架的知识，我已经写了一整篇文章，你可以在这里阅读:
 
-[](/elegant-web-development-with-emmett-in-python-612ed898a71e) [## 用 Python 语言用 Emmett 进行优雅的 Web 开发
+</elegant-web-development-with-emmett-in-python-612ed898a71e> [## 用 Python 语言用 Emmett 进行优雅的 Web 开发
 
 towardsdatascience.com](/elegant-web-development-with-emmett-in-python-612ed898a71e) 
 
@@ -32,15 +32,11 @@ towardsdatascience.com](/elegant-web-development-with-emmett-in-python-612ed898a
 
 将技能转换到机器学习，这个列表上的下一个包是幕府将军。幕府将军是一个全面的机器学习库，最初用 C++编写，然后通过 API 移植到 Python。虽然幕府当然没有遵循 Sklearn 为机器学习而提出的 Python 编程语言中的典型约定，但该包仍然有足够的代码库来很好地支持其模型。该软件包实际上非常强大且易于使用。此外，如果你想阅读我的标准机器学习包的替代列表，以了解这个包和许多其他包的特点，这里有一个链接:
 
-[](/5-fabulous-python-packages-for-data-science-nobody-knows-about-9fa192f312e4) [## 5 个无人知晓的用于数据科学的精彩 Python 包
-
-### 你知道这些包裹吗？
-
-towardsdatascience.com](/5-fabulous-python-packages-for-data-science-nobody-knows-about-9fa192f312e4) 
+</5-fabulous-python-packages-for-data-science-nobody-knows-about-9fa192f312e4>  
 
 另外，我有一篇关于幕府将军的文章，你可以在这里看到:
 
-[](/shogun-an-underrated-python-machine-learning-package-d306ac07b0e0) [## 幕府将军:一个被低估的 Python 机器学习包
+</shogun-an-underrated-python-machine-learning-package-d306ac07b0e0> [## 幕府将军:一个被低估的 Python 机器学习包
 
 towardsdatascience.com](/shogun-an-underrated-python-machine-learning-package-d306ac07b0e0) 
 

@@ -82,10 +82,6 @@
 
 所以你有它！希望这篇文章给你一个基本的概述和指导，告诉你如何将 mixup 应用到你的图像分类网络训练中。完整的实现可以在下面的 Github 资源库中找到:
 
-[](https://github.com/ttchengab/mixup.git) [## ttchengab/mixup
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/ttchengab/mixup.git) 
+<https://github.com/ttchengab/mixup.git>  
 
 *感谢您坚持到现在*🙏*！* *我会在计算机视觉/深度学习的不同领域发布更多内容。一定要看看我关于 VAE 的其他文章，一次学习，等等！*

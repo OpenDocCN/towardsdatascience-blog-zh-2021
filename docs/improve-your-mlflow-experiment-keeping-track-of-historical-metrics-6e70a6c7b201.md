@@ -8,21 +8,13 @@
 
 图片由[萨汉德·巴巴里](https://unsplash.com/@sahandbabali)在 [Unsplash](https://unsplash.com/photos/owjrvbyXYyc) 上拍摄
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 欢迎回到我们 MLflow 旅程的第二部分。今天，我们将扩展当前的 SDK 实现，增加两个功能来报告历史指标和自定义指标。然后，我们将最终看到 SDK 与一个简单的例子一起工作。下一次，我们将深入探讨 MLflow 插件，我们将为 GCP 人工智能平台创建一个“部署”插件
 
 这是我关于 MLflow SDK 创建的第一篇文章:
 
-[](/scale-up-your-models-development-with-mlflow-4b78a5f22cb7) [## 使用 MLflow 扩展您的模型开发
-
-### 在本文中，让我们看看您的数据科学团队如何👩‍💻👨‍💻可以享受试验🧪的新模式与…
-
-towardsdatascience.com](/scale-up-your-models-development-with-mlflow-4b78a5f22cb7) 
+</scale-up-your-models-development-with-mlflow-4b78a5f22cb7>  
 
 ## 目录
 

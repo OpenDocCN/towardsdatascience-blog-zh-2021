@@ -67,11 +67,7 @@ kModes 库的实现模仿了`**scikit-learn**`中的集群算法，并具有相�
 
 > 阅读下面提到的文章中的[以获得对 k-Means、k-Means++和 k-Medoids 算法的更多理解。](/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca)
 
-[](/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca) [## 了解 K-means、K-means++和 K-medoids 聚类算法
-
-### 了解 K-means、K-means++和 K-Medoids 聚类算法及其关系的概述。这篇文章…
-
-towardsdatascience.com](/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca) 
+</understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca>  
 
 # 参考资料:
 

@@ -121,19 +121,7 @@ tree.plot_tree(clf);
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/improve-the-train-test-split-with-the-hashing-function-f38f32b721fb) [## 用哈希函数改进训练测试分割
-
-### 更新数据集时，确保定型集和测试集不会混淆的最佳方法是
-
-towardsdatascience.com](/improve-the-train-test-split-with-the-hashing-function-f38f32b721fb) [](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [## 懒惰预测:拟合和评估 scikit 中的所有模型——用一行代码学习
-
-### 查看哪些模型最适合您的数据集的最简单方法！
-
-towardsdatascience.com](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e) [## 以随机森林为例解释特征的重要性
-
-### 了解 Python 中最流行的确定要素重要性的方法
-
-towardsdatascience.com](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e) 
+</improve-the-train-test-split-with-the-hashing-function-f38f32b721fb>  </lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281>  </explaining-feature-importance-by-example-of-a-random-forest-d9166011959e>  
 
 # 参考
 

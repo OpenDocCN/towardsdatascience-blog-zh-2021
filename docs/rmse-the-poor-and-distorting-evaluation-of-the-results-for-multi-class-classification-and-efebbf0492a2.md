@@ -33,7 +33,7 @@ RMSE 评价(图片由作者提供)
 [***【1】TPS 8 月 21 日—XGBoost&CatBoost***](https://www.kaggle.com/somayyehgholami/1-tps-aug-21-xgboost-catboost)
 *[***2】TPS 8—智能组装***](https://www.kaggle.com/somayyehgholami/2-tps8-smart-ensembling/notebook)
 [***【3】TPS 8 月 21 日—结果& RMSE 评测***](https://www.kaggle.com/somayyehgholami/3-tps-aug-21-results-rmse-evaluation)
-[](https://www.kaggle.com/somayyehgholami/4-tps-aug-21-guide-point-snap-to-curve)*
+<https://www.kaggle.com/somayyehgholami/4-tps-aug-21-guide-point-snap-to-curve>*
 
 ***By:*[*Somayyeh*](https://www.kaggle.com/somayyehgholami)*&*[*Mehran Kazeminia*](https://www.kaggle.com/mehrankazeminia)**
 

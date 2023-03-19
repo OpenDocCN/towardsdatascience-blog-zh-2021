@@ -95,7 +95,7 @@ WALL-E(来自 Unsplash)
 我是一名机器学习工程师，致力于解决具有挑战性的计算机视觉问题。我想帮助你学习应用于计算机视觉问题的机器学习。以下是方法。
 
 1.  通过帮助您了解该领域的最新动态。我几乎每天都在 [**LinkedIn**](https://www.linkedin.com/in/nour-islam-mokhtari-07b521a5/) 和[**Twitter**](https://twitter.com/NourIslamMo)**上分享一些小帖子。那就跟我去吧！**
-2.  **给你一份我的[](https://nourislam.ck.page/dc3e8b7e12)**时事通讯上那些琐碎帖子的每周摘要。所以订阅吧！****
+2.  **给你一份我的<https://nourislam.ck.page/dc3e8b7e12>**时事通讯上那些琐碎帖子的每周摘要。所以订阅吧！****
 3.  ****通过在 Medium 上写关于机器学习不同主题的文章。所以跟我来吧！****
 4.  ****给你一份免费的机器学习工作清单，帮助你检查你需要学习的所有要点，如果你计划在 ML，特别是在计算机视觉方面的职业生涯。你可以在这里 得到核对表 [**。**](https://www.aifee.co/free-resources)****
 

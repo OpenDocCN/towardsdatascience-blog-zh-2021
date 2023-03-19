@@ -12,11 +12,7 @@
 
 这一领域的一个很好的例子是数据科学。数据科学基本上是一个建立在其他知识基础上的计算机科学领域，这些知识基础不一定是计算机科学的一部分。因此，要成为一名数据科学家，你需要增长编程和数学以外的知识。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 这些知识实际上成为了在这个领域取得成功并最终获得你梦想中的工作的必要条件。因此，我们可以将这些技能视为成为一名成功的数据科学家所需的软技能。本文将介绍每个数据科学家为了成功的职业生涯所需要的 10 项软技能。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 良好的沟通技巧的重要性超越了项目的最初阶段；在项目结束时，你需要向你的客户或经理展示和交流你的发现。您的发现将用于为未来步骤做出决策，而您传达这些发现的方式将是做出正确或错误未来决策的决定性因素。
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # №3:讲故事
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizat
 
 适应性包括其他较小的技能，比如在足够的时间内学习一种新工具，并将你的知识转移和应用到新的或不同的技术或风格中的能力。此外，你需要能够应对该领域不断变化的趋势。
 
-[](/4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba) [## 4 个数据可视化工具，改变您的数据叙述方式
-
-### 虽然 Tableau 很棒，但这不是唯一的选择。
-
-towardsdatascience.com](/4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba) 
+</4-data-visualization-tools-to-transform-your-data-storytelling-e2c6fb6de8ba>  
 
 # №5:商业焦点
 
@@ -70,11 +58,7 @@ towardsdatascience.com](/4-data-visualization-tools-to-transform-your-data-story
 
 批判性思维将使数据科学家能够超越明显的趋势和异常，更仔细地观察数据及其试图传达的信息。它还减少甚至消除了项目最终结果的偏差。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №7:结构化思维
 
@@ -88,7 +72,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 但是，仅仅因为数据可以被收集并不意味着你应该收集它并随后使用它。问题是，在有些情况下，决策并不那么明确或容易做出。因此，解释你的选择和你为什么做出选择的能力，将使你更容易证明你的工作的价值，以及这些决定是如何基于道德准则做出的。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -110,7 +94,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 也许当涉及到数据科学这样的技术领域时，猜测或陈述所需的技术技能根本不是一件困难的事情。即使你对这个领域不是很熟悉，你也可以猜测你需要某种编程和数学知识才能进入这个领域。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

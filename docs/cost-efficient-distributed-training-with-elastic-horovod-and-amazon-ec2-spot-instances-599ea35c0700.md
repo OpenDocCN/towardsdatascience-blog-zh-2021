@@ -40,11 +40,7 @@
 
 **有人可能想知道，在多个训练设备的情况下，当只有一个设备被中断时，我们为什么需要终止整个训练会话。为什么训练不能简单地在剩余的设备上继续？这就是**弹性 Horovod** 的用武之地。**
 
-**[](https://horovod.readthedocs.io/en/stable/elastic_include.html) [## 弹性 Horovod - Horovod 文档
-
-### 弹性培训使 Horovod 能够在运行时动态地增加或减少工作人员的数量，而不需要一个
-
-horovod.readthedocs.io](https://horovod.readthedocs.io/en/stable/elastic_include.html) 
+**<https://horovod.readthedocs.io/en/stable/elastic_include.html>  
 
 # 第 3 部分:弹性卵形线
 
@@ -217,11 +213,7 @@ aws ec2 describe-images --owners amazon \
 
 Horovod 依赖于调度员和所有工人之间的无密码 SSH 通信。要设置这个，使用一个[记载的机制](https://docs.aws.amazon.com/quickstarts/latest/vmlaunch/step-2-connect-to-instance.html#sshclient)连接到 EC2 实例。在 dispatcher 上创建无密码的 SSH 密钥，并将公钥复制到每台主机设备上。有关详细信息，请参考下面的链接。
 
-[](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/) [## 如何设置无密码 SSH 登录
-
-### 安全外壳(SSH)是一种加密网络协议，用于客户端和服务器之间的安全连接
-
-linuxize.com](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/) 
+<https://linuxize.com/post/how-to-setup-passwordless-ssh-login/>  
 
 在真实的场景中，这一步应该是自动化的。
 

@@ -14,11 +14,7 @@
 
 特征选择类似于**降维技术，**的目的是减少特征的数量，但本质上它们是不同的。不同之处在于，要素选择会选择要保留的要素或从数据集中移除的要素，而降维会创建数据的投影，从而产生全新的输入要素。如果你想知道更多关于降维的知识，你可以看看我下面的其他文章。
 
-[](/5-must-know-dimensionality-reduction-techniques-via-prince-e6ffb27e55d1) [## 通过 Prince 的 5 个必须知道的降维技术
-
-### 减少功能对您的数据科学项目有好处
-
-towardsdatascience.com](/5-must-know-dimensionality-reduction-techniques-via-prince-e6ffb27e55d1) 
+</5-must-know-dimensionality-reduction-techniques-via-prince-e6ffb27e55d1>  
 
 特性选择有许多方法，但我只展示 Scikit-Learn 中的 5 个特性选择。我只限制 scikit 中的一个工具——learn，因为它最简单也最有用。让我们开始吧。
 

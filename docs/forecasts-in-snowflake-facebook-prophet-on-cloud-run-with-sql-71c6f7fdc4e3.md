@@ -12,11 +12,7 @@
 
 > [脸书先知现在运行在雪花](https://hoffa.medium.com/facebook-prophet-forecasts-running-in-snowflake-with-snowpark-14fc870b56ae)内部，不需要外部函数。
 
-[](https://hoffa.medium.com/facebook-prophet-forecasts-running-in-snowflake-with-snowpark-14fc870b56ae) [## 脸书先知预测运行在雪花与雪地公园
-
-### 现在脸书预言家在雪花内部运行——不需要外部函数。让我们看看怎么做。
-
-hoffa.medium.com](https://hoffa.medium.com/facebook-prophet-forecasts-running-in-snowflake-with-snowpark-14fc870b56ae) 
+<https://hoffa.medium.com/facebook-prophet-forecasts-running-in-snowflake-with-snowpark-14fc870b56ae>  
 
 # 目标
 
@@ -341,12 +337,4 @@ from table(result_scan(last_query_id(-1))) a, table(flatten(a.$1)) x;
 
 我是 Felipe Hoffa，雪花的数据云倡导者。谢谢你和我一起冒险。你可以[在 Twitter](https://twitter.com/felipehoffa) 和 [LinkedIn](https://www.linkedin.com/in/hoffa/) 关注我，查看【reddit.com/r/snowflake】的[了解最有趣的雪花新闻。](https://www.reddit.com/r/snowflake/)
 
-[](https://github.com/Snowflake-Labs/awesome-snowflake) [## 雪花实验室/棒极了雪花
-
-### 关于雪花社区和内容的主要链接的令人敬畏的资源的策划列表，记得订阅:活动…
-
-github.com](https://github.com/Snowflake-Labs/awesome-snowflake) [](https://medium.com/snowflake/knoema-datasets-and-the-snowflake-data-marketplace-challenge-95ff0d7ac6eb) [## Knoema 数据集和雪花数据市场挑战
-
-### 雪花数据市场挑战赛已经开始。要赢，你需要想出一个有创意的问题答案，通过…
-
-medium.com](https://medium.com/snowflake/knoema-datasets-and-the-snowflake-data-marketplace-challenge-95ff0d7ac6eb)
+<https://github.com/Snowflake-Labs/awesome-snowflake>  <https://medium.com/snowflake/knoema-datasets-and-the-snowflake-data-marketplace-challenge-95ff0d7ac6eb> 

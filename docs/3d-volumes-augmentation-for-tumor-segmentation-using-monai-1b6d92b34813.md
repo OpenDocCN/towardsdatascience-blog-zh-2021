@@ -141,20 +141,12 @@
 
 > 你可以在这里得到完整的代码。
 
-[](https://github.com/amine0110/data-augmentation-for-3D-volumes) [## GitHub-amine 0110/3D 体积的数据增强
-
-### 在 GitHub 上创建一个帐户，为 amine 0110/data-augmentation-for-3D-volumes 开发做出贡献。
-
-github.com](https://github.com/amine0110/data-augmentation-for-3D-volumes) 
+<https://github.com/amine0110/data-augmentation-for-3D-volumes>  
 
 # 你想学医学影像的深度学习！
 
 即将推出全面的医学成像课程，涵盖使用 Monai 和 PyTorch 的 2D 和 3D 分割，并提供额外支持。加入等候名单以接收任何课程更新的通知。
 
-[](https://pycad.co/monai-and-pytoch-for-medical-imaging/) [## 医学成像深度学习登录页面- PYCAD
-
-### 使用 Monai 和 PyTorch 的医学成像中的 2D 和 3D 分割。
-
-pycad.co](https://pycad.co/monai-and-pytoch-for-medical-imaging/) 
+<https://pycad.co/monai-and-pytoch-for-medical-imaging/>  
 
 > 订阅[我的简讯](https://astounding-teacher-3608.ck.page/136bdb1fbe)获取我工作的所有更新:)。

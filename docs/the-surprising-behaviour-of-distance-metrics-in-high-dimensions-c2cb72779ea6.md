@@ -28,11 +28,7 @@
 
 **最后，我们将把所有的东西融合在一起**，以一种高度可视化的方式，引入其他资源和见解，从而解决这个难题。
 
-[](https://z-ai.medium.com/subscribe) [## 订阅我的专属列表！
-
-### 订阅我的专属列表！并获取所有你喜爱的新鲜文章<3! By signing up, you will create a Medium…
-
-z-ai.medium.com](https://z-ai.medium.com/subscribe) 
+<https://z-ai.medium.com/subscribe>  
 
 ## Lets get to it! 🏁
 
@@ -226,11 +222,7 @@ For 8 Dimensions the proportion of points inside is 0.13
 
 **底线:**在计算距离度量时，使用[特征选择](/an-introduction-to-feature-selection-dd72535ecf2b)或[特征重要性](/random-forest-for-feature-importance-ea90852b8fc5)和降维技术的组合，尽量保持你的特征数量适中。您将会看到，除了促进[可解释性](/explainable-artificial-intelligence-14944563cc79)和减少培训时间之外，这在很多情况下会导致模型性能的提高。
 
-[](https://z-ai.medium.com/subscribe) [## 订阅我的专属列表！
-
-### 订阅我的专属列表！并获得所有你喜欢的新鲜文章<3! By signing up, you will create a Medium…
-
-z-ai.medium.com](https://z-ai.medium.com/subscribe) 
+<https://z-ai.medium.com/subscribe>  
 
 **仅此而已！** *更多关于机器学习的资源请查看* [*以下回购*](https://howtolearnmachinelearning.com/books/machine-learning-books/) *，希望大家喜欢！*
 

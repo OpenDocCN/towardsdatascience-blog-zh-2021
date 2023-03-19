@@ -272,20 +272,4 @@ pickle.dump(model, open("knn.sav", 'wb'))
 
 # 相关文章
 
-[](/data-normalization-with-python-scikit-learn-e9c5640fed58) [## 使用 Python scikit 进行数据规范化-学习
-
-### 继关于数据预处理的系列文章之后，在本教程中，我将讨论 Python 中的数据规范化…
-
-towardsdatascience.com](/data-normalization-with-python-scikit-learn-e9c5640fed58) [](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [## Python PyCaret 中的完整数据分析工作流
-
-### 这是一个现成的教程，利用了我用过的最好的机器学习库。
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) 
-
-# 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。
+</data-normalization-with-python-scikit-learn-e9c5640fed58>  </a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4>  </automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829>  </a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3> 。

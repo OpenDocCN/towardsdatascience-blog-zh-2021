@@ -68,16 +68,12 @@ GPT-3 是一个令人惊叹的人工智能，但像任何其他强大的技术�
 
 如果你想了解更多关于 GPT 3 号的信息，我推荐你阅读完整的概述
 
-[](/gpt-3-a-complete-overview-190232eb25fd) [## GPT-3 —全面概述
+</gpt-3-a-complete-overview-190232eb25fd> [## GPT-3 —全面概述
 
 towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd) 
 
 **其他推荐阅读**
 
-[](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [## GPT 4 号将从 GPT 3 号改进的 4 件事
-
-towardsdatascience.com](/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f) [](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) [## GPT 三号吓到你了？遇见武道 2.0:1.75 万亿参数的怪兽
-
-towardsdatascience.com](/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484) 
+</4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f>  
 
 [***跟我一起旅行到未来***](https://mindsoftomorrow.ck.page/) ***了解更多关于人工智能、哲学和认知科学的内容！如有任何疑问，欢迎在评论中提问或联系***[***LinkedIn***](https://www.linkedin.com/in/alberromgar/)***或***[***Twitter***](https://twitter.com/Alber_RomGar)***！:)***

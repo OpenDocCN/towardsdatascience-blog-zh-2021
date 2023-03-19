@@ -117,23 +117,11 @@ KeyBERT 通过执行以下步骤提取关键词:
 
 你可以在这里了解更多关于 KeyBERT 的信息:
 
-[](https://github.com/MaartenGr/KeyBERT) [## 马尔滕格尔/凯伯特
-
-### KeyBERT 是一种简单易用的关键字提取技术，它利用 BERT 嵌入来创建关键字和…
-
-github.com](https://github.com/MaartenGr/KeyBERT) [](/keyword-extraction-with-bert-724efca412ea) [## 用 BERT 提取关键词
-
-### 一种提取关键词和关键短语的最小方法
-
-towardsdatascience.com](/keyword-extraction-with-bert-724efca412ea) 
+<https://github.com/MaartenGr/KeyBERT>  </keyword-extraction-with-bert-724efca412ea>  
 
 还有这里:
 
-[](https://www.preprints.org/manuscript/201908.0073/v1) [## 具有自标记的自监督上下文关键词和关键短语检索
-
-### 本文提出了一种新的自监督的关键字和关键短语检索和抽取方法
-
-www.preprints.org](https://www.preprints.org/manuscript/201908.0073/v1) 
+<https://www.preprints.org/manuscript/201908.0073/v1>  
 
 保重，
 

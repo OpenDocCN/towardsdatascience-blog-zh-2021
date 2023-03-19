@@ -116,4 +116,4 @@ Roman Zykov 是 Retail Rocket 的联合创始人，也是《Roman ' s Data Scien
 【4】凯文·帕特里克·墨菲，[《机器学习:一种概率视角》](https://probml.github.io/pml-book/book0.html)，2012
 【5】[以上代码要点](https://gist.github.com/rzykov/2c66b2bfffad3136837ab9dc0c22000c)
 
-【https://topdatalab.com】原载于[](https://topdatalab.com/blog/tpost/1p3lt20od1-data-analysis-using-scala)**。**
+【https://topdatalab.com】原载于<https://topdatalab.com/blog/tpost/1p3lt20od1-data-analysis-using-scala>**。**

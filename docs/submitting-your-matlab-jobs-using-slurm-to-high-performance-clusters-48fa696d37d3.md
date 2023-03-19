@@ -10,11 +10,7 @@
 
 在我的[上一篇文章](https://medium.com/swlh/how-to-submit-r-code-jobs-using-pbs-to-high-performance-clusters-ed82d0a578c7)中，我写了使用 PBS 作业调度器向高性能集群(HPC)提交作业以满足我们的计算需求。但是，并非所有 HPC 都支持 PBS 作业。最近，我所在的机构还决定为其新安装的集群使用另一种叫做 [Slurm 的作业调度器。](https://public.confluence.arizona.edu/display/UAHPC/Puma+Quick+Start)
 
-[](https://medium.com/swlh/how-to-submit-r-code-jobs-using-pbs-to-high-performance-clusters-ed82d0a578c7) [## 如何使用 PBS 向高性能集群提交 R 代码作业
-
-### 关于使用 HPC 满足 R 中计算需求的简短教程
-
-medium.com](https://medium.com/swlh/how-to-submit-r-code-jobs-using-pbs-to-high-performance-clusters-ed82d0a578c7) 
+<https://medium.com/swlh/how-to-submit-r-code-jobs-using-pbs-to-high-performance-clusters-ed82d0a578c7>  
 
 从它的文档来看，Slurm 是一个开源的、容错的、可伸缩的集群管理和作业调度器 Linux 集群。作为一个集群工作负载管理器，Slurm 有三个关键功能:
 
@@ -115,11 +111,7 @@ squeue | grep username
 
 我希望这篇文章对使用 SLURM 提交工作的人有所帮助，他们希望使用 MATLAB 的并行计算工具箱
 
- [## 并行计算工具箱
-
-### 在多核计算机、GPU 和计算机集群上执行并行计算并行计算工具箱使您能够…
-
-www.mathworks.com](https://www.mathworks.com/help/parallel-computing/) 
+  
 
 有关 MATLAB 分布式计算工具箱的更多详细信息，请查看
 

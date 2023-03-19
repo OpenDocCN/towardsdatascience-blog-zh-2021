@@ -14,21 +14,13 @@
 
 我将为这个项目使用 Tableau Public，它是免费的，您可以从这里下载:
 
-[](https://public.tableau.com/en-us/s/) [## Tableau 公共
-
-### 可视化和发布您关心的主题的数据。探索志同道合的数据创造，并从中获得灵感…
-
-public.tableau.com](https://public.tableau.com/en-us/s/) 
+<https://public.tableau.com/en-us/s/>  
 
 # 问题陈述
 
 我将使用的数据集由 *Udacity 数据可视化*课程提供。这是一个超市数据集样本，可在以下位置找到:
 
-[](https://docs.google.com/spreadsheets/d/1YVR_cOGIlSJnDWZHrsUrmfqXrvEZhkdmofhGDiQ3jzM/edit#gid=1909165549) [## 样本数据. csv
-
-### 样本-超市利润率，一，类别，城市，国家，客户名称，折扣，记录数量，订单日期，订单…
-
-docs.google.com](https://docs.google.com/spreadsheets/d/1YVR_cOGIlSJnDWZHrsUrmfqXrvEZhkdmofhGDiQ3jzM/edit#gid=1909165549) 
+<https://docs.google.com/spreadsheets/d/1YVR_cOGIlSJnDWZHrsUrmfqXrvEZhkdmofhGDiQ3jzM/edit#gid=1909165549>  
 
 基于数据集，我们的目标是建立一个动态仪表板。从仪表板上，观众应该能够了解到以下见解:
 
@@ -156,16 +148,8 @@ KPI 最终版本
 
 *[***滴水不漏***](https://dribbble.com/colors/8930e8)*
 
-*[](https://www.behance.net/)*
+*<https://www.behance.net/>*
 
 **[***探索其他仪表盘上的画面***](https://public.tableau.com/app/discover)**
 
-**[](https://www.thedataschool.co.uk/ellie-mason/tableau-tip-formatting-bans) [## 数据学校- Tableau 提示:禁止格式化
-
-### 禁令，或大屁股数字，是一个伟大的方式来显示重要的数字非常快。但是，通常他们不是…
-
-www.thedataschool.co.uk](https://www.thedataschool.co.uk/ellie-mason/tableau-tip-formatting-bans) [](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283) [## 为数据可视化寻找正确的调色板
-
-### 虽然现在很容易找到好的调色板，但是为数据可视化找到合适的调色板却是…
-
-blog.graphiq.com](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283)**
+**<https://www.thedataschool.co.uk/ellie-mason/tableau-tip-formatting-bans>  <https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283> **

@@ -156,19 +156,11 @@ t 分布类似于正态分布，但通常较短，尾部较厚。当样本量很
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) [## 2021 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7) 
+</all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7>  
 
 **又一个！**
 
-[](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+</10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 # 特伦斯·申
 

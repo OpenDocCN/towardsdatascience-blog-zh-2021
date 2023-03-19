@@ -68,23 +68,7 @@
 
 就材料而言，这里有一些你可能想要阅读的阅读材料，以及遵循业务流程的项目示例。
 
-[](https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation) [## GitHub-cornelliusyudhawijaya/交叉销售-保险-商业-模拟:该项目旨在开发…
-
-### 这个项目是开发一个机器学习模型来预测客户对保险交叉销售感兴趣…
-
-github.com](https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation) [](/how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4) [## 如何为企业设置技术指标数据科学项目
-
-### 技术 KPI 是数据科学项目中的必备要素
-
-towardsdatascience.com](/how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4) [](/data-scientist-must-know-business-x-statistics-7bb8575a9525) [## 数据科学家必须知道:商业 x 统计
-
-### 为什么业务和统计之间集成对于数据科学家来说至关重要
-
-towardsdatascience.com](/data-scientist-must-know-business-x-statistics-7bb8575a9525) [](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) [## 学习业务，成为伟大的数据科学家
-
-### 每个数据科学家的核心。(抱歉，不是编码的问题)
-
-towardsdatascience.com](/learn-the-business-to-become-a-great-data-scientist-635fa6029fb6) 
+<https://github.com/cornelliusyudhawijaya/Cross-Sell-Insurance-Business-Simulation>  </how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4>  </data-scientist-must-know-business-x-statistics-7bb8575a9525>  </learn-the-business-to-become-a-great-data-scientist-635fa6029fb6>  
 
 # **结论**
 

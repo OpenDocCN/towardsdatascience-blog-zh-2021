@@ -97,11 +97,7 @@ Twitter [开发者](https://developer.twitter.com/en/docs/tutorials/filtering-tw
 
 下面是详细说明代码的 Google Colab 笔记本:
 
-[](https://colab.research.google.com/drive/1X9Om4lNGVRG2_LMCndVGErq8UgMKsK1C?usp=sharing) [## 谷歌联合实验室
-
-### 推特-地理空间
-
-colab.research.google.com](https://colab.research.google.com/drive/1X9Om4lNGVRG2_LMCndVGErq8UgMKsK1C?usp=sharing) 
+<https://colab.research.google.com/drive/1X9Om4lNGVRG2_LMCndVGErq8UgMKsK1C?usp=sharing>  
 
 总之，Twitter 提供了巨大的潜力来分析社会模式，包括情绪，流动性和异常现象。然而，当涉及到地理空间分析时，由于数据的稀疏性和提供的位置含义的模糊性，存在一些限制-位置是否代表发出推文的设备的实际位置，或者它们是否对应于推文中引用的地点。
 

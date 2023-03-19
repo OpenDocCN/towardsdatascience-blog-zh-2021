@@ -17,11 +17,7 @@ py torch 上面也开发了类似的抽象层，比如 [PyTorch Ignite](https://
 
 本文是系列文章的第一篇。在下一篇文章中，我将通过一个实例来比较框架，这个实例就是情感分类。
 
-[](/comparing-keras-and-pytorch-on-sentiment-classification-20041734d131) [## Keras 和 PyTorch 在情感分类上的比较
-
-### IMDB 电影评论的实用比较
-
-towardsdatascience.com](/comparing-keras-and-pytorch-on-sentiment-classification-20041734d131) 
+</comparing-keras-and-pytorch-on-sentiment-classification-20041734d131>  
 
 # 准备数据
 
@@ -126,10 +122,6 @@ tf.random.set_seed(0)
 
 你完成了第一部分！下面的第二部分比较了 Keras 和 PyTorch 的情感分类。
 
-[](/comparing-keras-and-pytorch-on-sentiment-classification-20041734d131) [## Keras 和 PyTorch 在情感分类上的比较
-
-### IMDB 电影评论的实用比较
-
-towardsdatascience.com](/comparing-keras-and-pytorch-on-sentiment-classification-20041734d131) 
+</comparing-keras-and-pytorch-on-sentiment-classification-20041734d131>  
 
 *原载于 2021 年 3 月 2 日*[*https://adamoudad . github . io*](https://adamoudad.github.io/posts/keras_torch_comparison/syntax/)*。*

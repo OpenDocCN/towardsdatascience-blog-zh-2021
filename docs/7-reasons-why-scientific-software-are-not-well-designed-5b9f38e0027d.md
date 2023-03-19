@@ -100,8 +100,4 @@ RF 拍摄的照片。_.工作室在[像素上](https://www.pexels.com/pt-br/foto
 
 ****如果你喜欢这篇文章，并且想无限制地继续阅读/学习这些和其他故事，考虑成为* [*中型会员*](https://cordmaur.medium.com/membership) *。如果您使用以下链接，我将收取部分会员费，不收取额外费用。****
 
-***[](https://cordmaur.medium.com/membership) [## 加入 Medium 与我的推荐链接-毛里西奥科迪罗
-
-### 作为 Medium 会员，您的会员费的一部分将支付给您阅读的作者，您可以完全访问每个故事……
-
-cordmaur.medium.com](https://cordmaur.medium.com/membership)***
+***<https://cordmaur.medium.com/membership> ***

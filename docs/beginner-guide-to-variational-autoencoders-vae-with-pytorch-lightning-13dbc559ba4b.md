@@ -122,11 +122,7 @@ github:[https://github.com/reoneo97/vae-playground](https://github.com/reoneo97/
 
 非常有用的资源，尤其是如果你想深入研究 VAEs 的数学方面。
 
-[](/understanding-variational-autoencoders-vaes-f70510919f73) [## 了解变分自动编码器(VAEs)
-
-### 逐步建立导致 VAEs 的推理。
-
-towardsdatascience.com](/understanding-variational-autoencoders-vaes-f70510919f73) 
+</understanding-variational-autoencoders-vaes-f70510919f73>  
 
 (2)变型自动编码器——Arxiv 洞察
 

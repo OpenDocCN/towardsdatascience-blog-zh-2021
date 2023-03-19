@@ -50,11 +50,7 @@
 
 写作也是我在 H2O.ai 工作中不可或缺的一部分。事实上，我们都非常鼓励写作，因为我们相信“内容为王”的哲学我们经常更新软件，发布新产品和新的解决方案，我们通过博客和文章告知公众。除了我为 H2O 写的技术文章，我还经营着一个 Kaggle Grandmaster 系列，在那里我在 H2O.ai 上展示了[老牌数据科学家和 ka ggle grand master](/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8)的故事，他们分享了他们的旅程、灵感和成就。
 
-[](/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8) [## 见见无法停止在 Kaggle 上获胜的数据科学家。
-
-### 与 Philipp Singer 对话:数据科学家，Kaggle 双特级大师，计算机科学博士。
-
-towardsdatascience.com](/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8) 
+</meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8>  
 
 当人们因为我写的一篇文章而联系我时，这种感觉尤其强烈。仅仅通过写作这个媒介，我就和许多不同国籍的人建立了联系。
 

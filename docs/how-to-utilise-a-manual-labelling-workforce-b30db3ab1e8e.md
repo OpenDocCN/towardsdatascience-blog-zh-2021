@@ -46,7 +46,7 @@
 
 # **反馈**
 
-没有人喜欢做不好的工作。尤其不是故意的。尤其是那些根据业绩得到明确奖励的承包商。因此，重要的是要突出标签的错误，以使他们能够改善。错误很可能会发生，尤其是在开始时，因为 data domain 是新领域，还不清楚要做什么和如何做。另一方面，不良标签在初始阶段最容易识别。这就是为什么初学者的错误应该与不适合工作区分开来。一个可能的指标可以是缺乏**标记**[](https://en.wikipedia.org/wiki/Repeatability#:~:text=Repeatability%20or%20test%E2%80%93retest%20reliability,the%20same%20conditions%20of%20measurement.&text=A%20measurement%20may%20be%20said,a%20pre%2Ddetermined%20acceptance%20criterion.)**；犯错误是可以的，应该给出如何避免错误的指导。但是，如果同样的错误一再发生，那就麻烦了。如果错误看起来是随机的——相同的上下文有不同的标签，那么它应该敲响警钟。一个学习缓慢但愿意全力以赴的人比一个学习快速但对任务不够专注的人要好得多。**
+没有人喜欢做不好的工作。尤其不是故意的。尤其是那些根据业绩得到明确奖励的承包商。因此，重要的是要突出标签的错误，以使他们能够改善。错误很可能会发生，尤其是在开始时，因为 data domain 是新领域，还不清楚要做什么和如何做。另一方面，不良标签在初始阶段最容易识别。这就是为什么初学者的错误应该与不适合工作区分开来。一个可能的指标可以是缺乏**标记**<https://en.wikipedia.org/wiki/Repeatability#:~:text=Repeatability%20or%20test%E2%80%93retest%20reliability,the%20same%20conditions%20of%20measurement.&text=A%20measurement%20may%20be%20said,a%20pre%2Ddetermined%20acceptance%20criterion.>**；犯错误是可以的，应该给出如何避免错误的指导。但是，如果同样的错误一再发生，那就麻烦了。如果错误看起来是随机的——相同的上下文有不同的标签，那么它应该敲响警钟。一个学习缓慢但愿意全力以赴的人比一个学习快速但对任务不够专注的人要好得多。**
 
 # ****期末笔记****
 

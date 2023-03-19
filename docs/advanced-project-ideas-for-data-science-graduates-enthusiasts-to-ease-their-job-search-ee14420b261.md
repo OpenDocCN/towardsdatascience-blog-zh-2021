@@ -98,8 +98,4 @@ Shravankumar Hiregoudar 在 [Unsplash](https://unsplash.com?utm_source=medium&ut
 
 你也可以看看数据科学求职博客:
 
-[](/data-science-job-search-what-worked-for-me-c60a1df222b5) [## 数据科学求职——什么对我有用？
-
-### “从别人的错误中吸取教训。你不可能活得足够长，让它们都是你自己做的。”―埃莉诺·罗斯福。
-
-towardsdatascience.com](/data-science-job-search-what-worked-for-me-c60a1df222b5) [![](img/2b7a97a04ee7bd60dbc24f9011480f86.png)](https://www.buymeacoffee.com/shravanh)
+</data-science-job-search-what-worked-for-me-c60a1df222b5>  [![](img/2b7a97a04ee7bd60dbc24f9011480f86.png)](https://www.buymeacoffee.com/shravanh)

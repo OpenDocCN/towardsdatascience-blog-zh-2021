@@ -65,7 +65,7 @@ PyCaret 异常检测模块提供了几个预处理功能，可以在初始化设
 
 Higuera C，Gardiner KJ，CIO KJ(2015)自组织特征图确定了唐氏综合征小鼠模型中对学习至关重要的蛋白质。PLoS ONE 10(6): e0129126。[网页链接] journal.pone.0129126
 
-您可以从这里找到的原始数据源[](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)**下载数据，并使用 pandas [**(了解如何使用)**](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) 加载数据，或者您可以使用 PyCaret 的数据存储库使用`get_data()`函数加载数据(这将需要互联网连接)。**
+您可以从这里找到的原始数据源<https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression>**下载数据，并使用 pandas [**(了解如何使用)**](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) 加载数据，或者您可以使用 PyCaret 的数据存储库使用`get_data()`函数加载数据(这将需要互联网连接)。**
 
 ## **许可证:**
 

@@ -55,11 +55,7 @@ Christophe Hautier 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 如果你热衷于学习更多关于这个主题的知识，请查看这篇文章，在这篇文章中，我探讨了正规化的其他实例和应用:
 
-[](/understanding-regularisation-7576f36942f5) [## 理解规范化
-
-### 今年年初，我对正规化的理解非常有限。对我来说，它只是一个工具…
-
-towardsdatascience.com](/understanding-regularisation-7576f36942f5) 
+</understanding-regularisation-7576f36942f5>  
 
 # 3.梯度下降
 

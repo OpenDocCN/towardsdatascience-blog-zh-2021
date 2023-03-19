@@ -85,12 +85,4 @@ evolved_estimator.best_features_[False True True True False False False False Fa
 
 如果你想了解这个包的更多信息，请告诉我，你也可以在这里查看文档和源代码:
 
-[](https://sklearn-genetic-opt.readthedocs.io/en/stable/) [## sklean-genetic-opt 文档
-
-### Sklearn-genetic-opt 使用 deap 包中的进化算法来选择一组超参数…
-
-sk learn-genetic-opt . readthedocs . io](https://sklearn-genetic-opt.readthedocs.io/en/stable/) [](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) [## GitHub-Rodrigo-arenas/sk learn-genetic-opt
-
-### scikit-learn 使用进化算法对超参数调整和特征选择进行建模。这是一个…
-
-github.com](https://github.com/rodrigo-arenas/Sklearn-genetic-opt)
+<https://sklearn-genetic-opt.readthedocs.io/en/stable/>  <https://github.com/rodrigo-arenas/Sklearn-genetic-opt> 

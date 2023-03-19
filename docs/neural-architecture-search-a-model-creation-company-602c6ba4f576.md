@@ -8,11 +8,7 @@
 
 图片来自 [Unsplash](https://unsplash.com/photos/7aUgMBxhVNU) by [beasty](https://unsplash.com/@beastydesign)
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 当我在学习和接触机器学习时，我总是想知道 Google AutoML 如何能够为给定的任务选择合适的模型，返回有希望和令人鼓舞的度量结果。研究越来越多，当我发现神经架构搜索(NAS)的力量时，我感到高兴和兴奋，这是创建新模型的关键，它运行在 AutoML 下面。
 

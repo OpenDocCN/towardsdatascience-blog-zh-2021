@@ -37,11 +37,7 @@
 本系列中使用的所有代码都可以在**G**[**it hub**](https://github.com/WhatIThinkAbout/BabyRobot/tree/master/Multi_Armed_Bandits)上获得。
 或者，您可以在 Binder 上运行 Jupyter 笔记本来阅读本文:
 
-[](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/d1fcf019ee41245aea04a8591d0c40332acdc73a) [## GitHub:WhatIThinkAbout/baby robot/D1 fcf 019 ee 41245 AEA 04 a 8591d 0c 40332 acdc 73 a
-
-### 单击运行此交互式环境。来自活页夹项目:可复制、可共享、交互式计算…
-
-mybinder.org](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/d1fcf019ee41245aea04a8591d0c40332acdc73a) 
+<https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/d1fcf019ee41245aea04a8591d0c40332acdc73a>  
 
 对于那些还不熟悉多臂土匪问题，或希望刷新他们的知识的任何特定领域，在这一系列的其他部分如下:
 
@@ -49,7 +45,7 @@ mybinder.org](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/d1fcf019ee412
 *   [**第二部分:Bandit 框架**](/multi-armed-bandits-part-2-5834cb7aba4b)
     *-* 代码和测试框架的描述
 *   [**第三部分:土匪算法**](/bandit-algorithms-34fd7890cb18)
-    *[*贪婪算法*](/bandit-algorithms-34fd7890cb18)[*乐观-贪婪算法*](/bandit-algorithms-34fd7890cb18) *-*[*ε-贪婪算法(ε-贪婪)*](/bandit-algorithms-34fd7890cb18) *-*[](/bandit-algorithms-34fd7890cb18)*
+    *[*贪婪算法*](/bandit-algorithms-34fd7890cb18)[*乐观-贪婪算法*](/bandit-algorithms-34fd7890cb18) *-*[*ε-贪婪算法(ε-贪婪)*](/bandit-algorithms-34fd7890cb18) *-*</bandit-algorithms-34fd7890cb18>*
 *   **[**第四部分:置信上限(UCB) Bandit 算法**](/the-upper-confidence-bound-ucb-bandit-algorithm-c05c2bf4c13f)**
 *   **[**第五部分:汤普森采样**](/thompson-sampling-fc28817eacb8)*-*[*伯努利汤普森采样*](/thompson-sampling-fc28817eacb8#f535)
     *-*[*高斯汤普森采样*](/thompson-sampling-fc28817eacb8#16db)**
@@ -173,7 +169,7 @@ mybinder.org](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/d1fcf019ee412
 
 # **未知方差，未知均值**
 
-**我们现在已经看到，当可能性也具有方差已知的正态分布时，我们如何使用正态分布作为共轭先验，当我们知道均值时，我们可以使用伽玛分布。因此，毫不奇怪，当我们既不知道均值也不知道方差时，我们可以使用[](https://en.wikipedia.org/wiki/Normal-gamma_distribution)**(这实际上是针对未知的均值和精度，如果模型参数是方差，那么将使用正态-逆伽马)。****
+**我们现在已经看到，当可能性也具有方差已知的正态分布时，我们如何使用正态分布作为共轭先验，当我们知道均值时，我们可以使用伽玛分布。因此，毫不奇怪，当我们既不知道均值也不知道方差时，我们可以使用<https://en.wikipedia.org/wiki/Normal-gamma_distribution>**(这实际上是针对未知的均值和精度，如果模型参数是方差，那么将使用正态-逆伽马)。****
 
 ***在这种情况下，共轭先验有四个超参数，它们具有以下更新函数:***
 

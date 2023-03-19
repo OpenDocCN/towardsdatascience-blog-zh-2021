@@ -244,11 +244,7 @@ isPalindrome('civic')
 
 **关于切片序列的更多信息:**
 
-*[](/a-skill-to-master-in-python-d6054394e073) [## 如何在 Python 中分割序列
-
-### 了解如何在 Python 中分割列表和字符串
-
-towardsdatascience.com](/a-skill-to-master-in-python-d6054394e073)* 
+*</a-skill-to-master-in-python-d6054394e073> * 
 
 # *2.枚举()函数*
 
@@ -286,15 +282,7 @@ towardsdatascience.com](/a-skill-to-master-in-python-d6054394e073)*
 
 **关于 enumerate()函数和迭代器的更多信息:**
 
-*[](/looping-in-python-5289a99a116e) [## Python 中的循环
-
-### 如何在 python 中使用 enumerate()函数
-
-towardsdatascience.com](/looping-in-python-5289a99a116e) [](/iterables-and-iterators-in-python-849b1556ce27) [## Python 中的迭代器和迭代器
-
-### Python 中的可迭代对象、迭代器和迭代
-
-towardsdatascience.com](/iterables-and-iterators-in-python-849b1556ce27) ![](img/b7700bc1e6f161d3a10665675090ad4f.png)
+*</looping-in-python-5289a99a116e>  </iterables-and-iterators-in-python-849b1556ce27>  ![](img/b7700bc1e6f161d3a10665675090ad4f.png)
 
 托马斯·索贝克在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
@@ -337,15 +325,7 @@ last_names = list(last_names)print(first_names)
 
 *关于 zip()函数和解包操作符的更多信息:*
 
-[](/zip-function-in-python-da91c248385d) [## 在 Python 中压缩和解压缩 Iterables
-
-### 如何在 Python 中压缩和解压缩可迭代对象
-
-towardsdatascience.com](/zip-function-in-python-da91c248385d) [](/unpacking-operators-in-python-306ae44cd480) [## Python 中的解包运算符
-
-### 在 python 中使用*和**解包运算符
-
-towardsdatascience.com](/unpacking-operators-in-python-306ae44cd480) 
+</zip-function-in-python-da91c248385d>  </unpacking-operators-in-python-306ae44cd480>  
 
 # 4.f 弦
 
@@ -379,11 +359,7 @@ age = 43sentence = f'{first_name.upper()} {last_name.lower()} is {age} years old
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [***链接***](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 # 结论
 

@@ -36,12 +36,4 @@
 
 ## 你可能也会喜欢…
 
-[](/how-to-be-a-more-productive-data-analyst-82006ab8a487) [## 如何成为更高效的数据分析师
-
-### 在不增加工作量的情况下最大限度提高产量的技巧
-
-towardsdatascience.com](/how-to-be-a-more-productive-data-analyst-82006ab8a487) [](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537) [## 不良数据分析师的 4 个习惯
-
-### 以及如何避免成为其中一员
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537)
+</how-to-be-a-more-productive-data-analyst-82006ab8a487>  <https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537> 

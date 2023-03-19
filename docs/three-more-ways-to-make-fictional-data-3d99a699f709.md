@@ -67,21 +67,13 @@ Mockaroo 拥有 145 种数据类型。从 2018 年到 2020 年，有多次更新
 
 当然，如果你是那种喜欢自己动手的人，看看这本烹饪书和相关的 YouTube 视频，寻找灵感。你会得到一个完美的匹配。
 
-[](/how-to-make-fictional-data-7a79ce86a350) [## 如何制作虚构的数据
-
-### 当您需要数据用于测试、培训、演示或其他目的时。自己做！
-
-towardsdatascience.com](/how-to-make-fictional-data-7a79ce86a350) 
+</how-to-make-fictional-data-7a79ce86a350>  
 
 # Maven Analytics(荣誉奖)
 
 从技术上讲，这是一个荣誉奖，因为它不是假数据。Maven 解释说，在他们的网站上，你可以“探索和下载由 Maven 导师精心挑选的样本数据集。练习将您的数据分析和可视化技能应用到现实世界的数据中，从航班延误和电影评级到鲨鱼袭击和 UFO 目击事件。”[更在自己的地盘](https://www.mavenanalytics.io/data-playground)。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 感谢阅读
 

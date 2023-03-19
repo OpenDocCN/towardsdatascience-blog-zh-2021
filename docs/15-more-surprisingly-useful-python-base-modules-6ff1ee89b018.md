@@ -12,11 +12,7 @@
 
 本月早些时候，我深入研究了 Python 编程语言基础上的一些非常强大且非常有用的函数。这些标准库模块和 Python 函数非常棒，但幸运的是，当谈到 Python 编程语言所能提供的东西时，它们都只是昙花一现。如果您没有时间阅读我的上一篇文章，在这篇文章中，我概述了一些其他的标准库工具，我认为它们可能比这些工具更有用，您可以在这里查看:
 
-[](/10-surprisingly-useful-base-python-functions-822d86972a23) [## 10 个非常有用的基本 Python 函数
-
-### 用这个令人兴奋的列表来复习你的标准模块库吧！
-
-towardsdatascience.com](/10-surprisingly-useful-base-python-functions-822d86972a23) 
+</10-surprisingly-useful-base-python-functions-822d86972a23>  
 
 尽管我在上一次迭代中概述了许多精彩的特性，但是 Python 标准库还可以为那些有足够决心成为它的专家的程序员提供更多的特性。Python 的真正优势在于其基础的简单性和开箱即用的能力，特别是操纵数据和使用其他语言和脚本。这当然在它提供的包中有很大反映，这些包通常提供处理外部代码、文本和数据的功能。数据操作只是 Python 编程语言标准库实际能力的一小部分。也就是说，只需要一点点知识，就可以用几个包的例子将标准的 Python 体验提升到一个新的水平。这里有 15 个我最喜欢的，我想大多数 Python 程序员可能想看一看！
 
@@ -308,11 +304,7 @@ print(uuid.uuid3(uuid.NAMESPACE_DNS, "towardsdatascience.com"))
 
 这是好是坏，在数据伦理领域是一个完全不同的话题，但事实是，IP 地址是大多数服务器管理员和程序员通常应该熟悉的工具。在 Python 中，我们有一个标准的库模块，叫做 ipaddress。在很大程度上，该模块通常用于处理 IP 网络和服务器上的本地 IP 配置。使用该模块的流行应用程序的一个很好的例子是 Gunicorn3，这是一个 Pythonic 式的高性能 web 服务器。如果你想了解更多关于 Gunicorn3 的知识，或者想用它部署 Flask，我在一年前(实际上是将近两年前)写了一篇文章，我认为这篇文章很好地利用了它:
 
-[](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) [## 用 Gunicorn 3 展开烧瓶
-
-### 应用程序部署通常会带来意想不到的后果和错误。部署可以是制定或…
-
-towardsdatascience.com](/deploying-flask-with-gunicorn-3-9eaacd0f6eea) 
+</deploying-flask-with-gunicorn-3-9eaacd0f6eea>  
 
 在很大程度上，这个包只是用来创建 IP 的类，并把它们从字符串世界带到 Python 世界，在那里它们是自己独特的类型。也就是说，唯一要演示的是如何创建这样一个类:
 

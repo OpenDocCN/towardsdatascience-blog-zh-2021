@@ -75,11 +75,7 @@
 
 您可以在这里查看最终结果:
 
-[](https://github.com/stfsy/prometheus-what-active-users-exporter/blob/master/lib/index.js) [## Prometheus-what-active-users-exporter/index . js at master…
-
-### Prometheus exporter 抓取 unix 系统上当前登录的用户…
-
-github.com](https://github.com/stfsy/prometheus-what-active-users-exporter/blob/master/lib/index.js) 
+<https://github.com/stfsy/prometheus-what-active-users-exporter/blob/master/lib/index.js>  
 
 # 收尾工作
 
@@ -114,10 +110,6 @@ github.com](https://github.com/stfsy/prometheus-what-active-users-exporter/blob/
 
 我在我的 GitHub 帐户上发布了源代码和二进制文件，请随意查看。
 
-[](https://github.com/stfsy/prometheus-what-active-users-exporter/) [## GitHub-stfsy/Prometheus-what-active-users-exporter:目前勉强度日的 Prometheus exporter
-
-### 这是一个简单的服务器，抓取 unix 命令 w 的输出。w 显示当前用户的信息…
-
-github.com](https://github.com/stfsy/prometheus-what-active-users-exporter/) 
+<https://github.com/stfsy/prometheus-what-active-users-exporter/>  
 
 感谢阅读。如果您有任何反馈或进一步的想法，您可以通过 Twitter [@stfs](https://twitter.com/stfsy?lang=en) y 联系我

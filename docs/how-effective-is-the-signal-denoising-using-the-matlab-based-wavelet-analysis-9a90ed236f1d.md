@@ -151,4 +151,4 @@ MATLAB 生成的合成数据小波去噪(图片由作者提供)
 **1\.** Wu, W., & Cai, P. (n.d.). Simulation of Wavelet Denoising Based on MATLAB — 《Information and Electronic Engineering》2008 年 03 期. Retrieved May 18, 2021, from [https://en.cnki.com.cn/Article_en/CJFDTotal-XXYD200803017.htm](https://en.cnki.com.cn/Article_en/CJFDTotal-XXYD200803017.htm)
 2\. [MATLAB]([https://www.mathworks.com/?s_tid=gn_logo](https://www.mathworks.com/?s_tid=gn_logo))
 
-*原载于 2021 年 5 月 18 日 http://www.earthinversion.com*[](https://www.earthinversion.com/techniques/how-effective-is-the-signal-denoising-using-the-matlab-based-wavelet-analysis/)**。**
+*原载于 2021 年 5 月 18 日 http://www.earthinversion.com*<https://www.earthinversion.com/techniques/how-effective-is-the-signal-denoising-using-the-matlab-based-wavelet-analysis/>**。**

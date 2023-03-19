@@ -95,8 +95,4 @@
 
 您可能会感兴趣的另一个相关内容是:
 
-[](/the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488) [## 使用 Python 制作自己的数据集的快速指南
-
-### 使用 Google Sheets API 和 Streamlit 从您的用户那里收集和存储数据
-
-towardsdatascience.com](/the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488)
+</the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488> 

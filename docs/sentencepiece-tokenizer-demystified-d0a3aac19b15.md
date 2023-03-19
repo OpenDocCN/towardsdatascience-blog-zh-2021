@@ -223,11 +223,7 @@ Sample 2: ['h', 'e', 'l', 'l', 'o', '_', 'w', 'o', 'r', 'l', 'd'] Sample 3: ['h'
 
 **如果你有任何 NLP 任务，请强烈考虑使用 SentencePiece 作为你的分词器。对于使用实际的软件，我发现下面的 google colab 教程非常有用**
 
-**[](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb) [## 谷歌联合实验室
-
-### 句子片断教程
-
-colab.research.google.com](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb) 
+**<https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb>  
 
 谢谢，祝令牌化愉快！
 

@@ -56,11 +56,7 @@
 $ aws sqs add-permission --queue-url https://sqs.us-east-1.amazonaws.com/000000000000/PageVisitEventQueue --label AllowedSQSPermissions --aws-account-ids "111111111111" --actions ReceiveMessage DeleteMessage GetQueueAttributes$ aws sqs add-permission --queue-url https://sqs.us-east-1.amazonaws.com/000000000000/ClickedEventQueue --label AllowedSQSPermissions --aws-account-ids "111111111111" --actions ReceiveMessage DeleteMessage GetQueueAttributes
 ```
 
-[](https://docs.aws.amazon.com/cli/latest/reference/sqs/add-permission.html) [## add-permission - AWS CLI 1.19.47 命令参考
-
-### 注意:您正在查看 AWS CLI 的较旧主要版本(版本 1)的文档。AWS CLI 版本 2,…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/cli/latest/reference/sqs/add-permission.html) 
+<https://docs.aws.amazon.com/cli/latest/reference/sqs/add-permission.html>  
 
 *   现在，在 AWS 控制台中，打开 PageVisitEvent SQS 队列。转到 Permissions 选项卡并编辑策略，以便我们创建的特定 IAM 角色可以访问队列，而不是整个帐户，即将主体从`arn:aws:iam::111111111111:root`更改为`arn:aws:iam::111111111111:role/crossaccount_sqs_lambda_role`。
 
@@ -78,11 +74,7 @@ $ aws kinesis create-stream --stream-name PageVisitEventStream --shard-count 1$ 
 
 类似地，可以根据您的要求创建其他流。
 
-[](https://docs.aws.amazon.com/cli/latest/reference/kinesis/create-stream.html) [## create-stream - AWS CLI 1.19.47 命令参考
-
-### 创建一个 Kinesis 数据流。流捕获并传输从…连续发出的数据记录
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/cli/latest/reference/kinesis/create-stream.html) 
+<https://docs.aws.amazon.com/cli/latest/reference/kinesis/create-stream.html>  
 
 除了这些流之外，还要创建一个 DLQ 流(在步骤 4 中提供了理由):
 
@@ -114,11 +106,7 @@ $ zip sqs_to_kinesis.zip lambda_function.py sqs_to_kinesis_mapping.json
 $ aws lambda create-function --function-name sqs_to_kinesis --zip-file fileb://sqs_to_kinesis.zip --handler lambda_function.lambda_handler --runtime python3.8 --role arn:aws:iam::111111111111:role/crossaccount_sqs_lambda_role
 ```
 
- [## 教程:在 Python 3.8 中创建 Lambda 函数
-
-### 本教程将指导您使用 AWS 构建代码和资产，在 Python 3.8 中创建 Lambda 函数…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/lambda/latest/dg/python-package-create.html) 
+  
 
 ## 步骤 5:向 Lambda 添加触发器
 
@@ -128,11 +116,7 @@ docs.aws.amazon.com](https://docs.aws.amazon.com/lambda/latest/dg/python-package
 *$ aws lambda create-event-source-mapping --event-source-arn arn:aws:sqs:us-east-1:000000000000:PageVisitEventQueue --function-name arn:aws:lambda:us-east-1:111111111111:function:sqs_to_kinesis$ aws lambda create-event-source-mapping --event-source-arn arn:aws:sqs:us-east-1:000000000000:ClickedEventQueue --function-name arn:aws:lambda:us-east-1:111111111111:function:sqs_to_kinesis*
 ```
 
-*[](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html) [## AWS Lambda 事件源映射
-
-### 事件源映射是一个 AWS Lambda 资源，它从事件源读取并调用 Lambda 函数。你…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html) 
+*<https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html>  
 
 这将使 Lambda 函数能够轮询任何消息的 SQS 队列。一旦消息存在于队列中，lambda 就会对其进行处理，并根据代码是否能够成功提取所需的数据将消息发送到相应的流，然后从相应的 SQS 队列中将其删除。
 
@@ -175,11 +159,7 @@ CloudWatch 警报设置
 *   开发一个 Spark 流应用程序，使记录可以从 Kinesis Stream 实时传输到 datalake。
 *   其他方法可以在这里找到:
 
- [## 从亚马逊 Kinesis 数据流中读取数据
-
-### 消费者是处理来自 Kinesis 数据流的所有数据的应用程序。当消费者使用增强型扇出时…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/streams/latest/dev/building-consumers.html) 
+  
 
 ## 使用这种架构向前发展
 

@@ -358,10 +358,6 @@ dd = defaultdict(int)for name in my_list:
 
 在本文中，我介绍了 Python 的`collection`模块中的 6 种容器类型。命名元组帮助我们编写更可读的代码，有序字典帮助我们定义对项目顺序敏感的字典，链图帮助我们定义多层字典，计数器帮助我们轻松计算所有内容，deque 定义双端队列，最后，默认字典帮助我们基于一些公共键收集对象。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

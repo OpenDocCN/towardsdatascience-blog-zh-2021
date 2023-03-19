@@ -54,11 +54,7 @@ ML/AI 更多的是给你的团队一个[编程](http://bit.ly/quaesita_sbucks)�
 
 *你的项目需要满足一堆条件，你才能认真考虑 ML/AI。仔细检查这份包含 22 个项目的清单，看看你的项目是否没有成功的可能。把它想象成你的免费人工智能战略顾问盒。*
 
-*[](http://bit.ly/quaesita_realitycheck) [## 你的人工智能项目没戏吗？
-
-### 这里有一个现实清单，可以帮助你避免痛苦的学习
-
-bit.ly](http://bit.ly/quaesita_realitycheck) 
+*<http://bit.ly/quaesita_realitycheck>  
 
 # #2 不尊重技能多样性
 
@@ -126,11 +122,7 @@ bit.ly](http://bit.ly/quaesita_realitycheck)
 
 如果你渴望阅读更多我的作品，这篇文章中的大部分链接会带你去我的其他思考。不能选择？试试这个:
 
-[](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df) [## AI 入门？从这里开始！
-
-### 深入项目所需了解的一切
-
-medium.com](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df) 
+<https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df>  
 
 一如既往，您的所作所为决定了您的社区将会听到谁的声音。请[在社交媒体上分享](https://twitter.com/quaesita/status/1390793663966597126)好的、有用的文章，这样它就能超越垃圾。无为是杀死一篇文章的最好方法。(哦，你知道 Medium 允许你点击赞按钮 50 次来获得起立鼓掌吗？)
 

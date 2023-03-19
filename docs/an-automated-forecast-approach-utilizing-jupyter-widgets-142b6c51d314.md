@@ -12,11 +12,7 @@
 
 在过去的几年里，我在一些场合遇到过同样的问题。我开发了一个现在经常使用的 Python 模块。源代码如下:
 
-[](https://github.com/mikekeith52/AllStatesForecast) [## mikekeith52/AllStatesForecast
-
-### 构建预测对象，为我们公司想要扩展的许多时间序列创建易于访问的预测…
-
-github.com](https://github.com/mikekeith52/AllStatesForecast) 
+<https://github.com/mikekeith52/AllStatesForecast>  
 
 我以前在自动预测季节性的背景下写过这个模块。你可以在这里看到文章。我假设你正在使用 Jupyer Lab 或 Jupyter Notebook，如果你想继续下去的话。
 
@@ -109,8 +105,4 @@ def on_button_clicked(b):
 
 我们使用预测模块和 Jupyter 小部件构建了一个简单的可视化分析。使用这个基本示例，我们可以将预测解决方案扩展到多个系列，这使得为多个系列建模这一看似困难的任务变得更加容易。如果你感兴趣，下面是包含完整笔记本的 zip 文件。
 
- [## generalizable_forecast.zip
-
-### 在线存储照片和文档。从任何 PC、Mac 或手机访问它们。在 Word、Excel 或……上创建和协同工作
-
-1drv.ms](https://1drv.ms/u/s!AiU-wPmtZaslhoxGdoUR-BQm-0EdJQ?e=hmH8I8)
+ 

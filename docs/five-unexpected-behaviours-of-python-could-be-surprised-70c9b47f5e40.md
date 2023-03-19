@@ -14,11 +14,7 @@
 
 在本文中，我将演示其中五个有趣的场景。如果你想了解更多，这里还有另外三个:)
 
-[](/three-mysterious-behaviours-of-python-95c9dffa88fe) [## Python 的三个神秘行为
-
-### 字典、Try Except 和 For-Loop 的意外运行结果
-
-towardsdatascience.com](/three-mysterious-behaviours-of-python-95c9dffa88fe) 
+</three-mysterious-behaviours-of-python-95c9dffa88fe>  
 
 # 1.“+=”不是原子操作
 
@@ -230,10 +226,6 @@ my_dict = {1: 1}for key in my_dict.keys():
 
 如果你觉得这篇文章中的例子很有趣，我会在以后找到更多这样的例子和技巧！
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

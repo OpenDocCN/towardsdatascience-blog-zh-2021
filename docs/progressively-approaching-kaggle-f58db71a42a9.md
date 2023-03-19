@@ -36,11 +36,7 @@ TPS 是一系列带有简单表格数据集的月度竞赛。它有一个初学�
 
 # 项目 1:TPS-2021 年 1 月
 
-[](https://www.kaggle.com/c/tabular-playground-series-jan-2021) [## 表格游乐场系列—2021 年 1 月
-
-### 在这个可接近的数据集上练习你的 ML 回归技巧！
-
-www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-jan-2021) 
+<https://www.kaggle.com/c/tabular-playground-series-jan-2021>  
 
 **1:阅读比赛信息** 阅读[描述](https://www.kaggle.com/c/tabular-playground-series-jan-2021/overview/description)、[评测](https://www.kaggle.com/c/tabular-playground-series-jan-2021/overview/evaluation)、[时间线](https://www.kaggle.com/c/tabular-playground-series-jan-2021/overview/timeline)、[奖品](https://www.kaggle.com/c/tabular-playground-series-jan-2021/overview/prizes)和[规则](https://www.kaggle.com/c/tabular-playground-series-jan-2021/rules)。
 
@@ -101,11 +97,7 @@ www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-jan-2021)
 
 # 项目 2:TPS-2021 年 2 月
 
- [## 表格游乐场系列-2021 年 2 月
-
-### 在这个可接近的数据集上练习你的 ML 技能！
-
-www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-feb-2021) 
+  
 
 **1:迭代项目 1**
 做你在前一个项目中做的所有事情。跳过与你无关或你不感兴趣的东西。
@@ -144,11 +136,7 @@ www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-feb-2021)
 
 # 项目 3:TPS-2021 年 3 月
 
-[](https://www.kaggle.com/c/tabular-playground-series-mar-2021) [## 表格游乐场系列—2021 年 3 月
-
-### 在这个可接近的数据集上练习你的 ML 技能！
-
-www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-mar-2021) 
+<https://www.kaggle.com/c/tabular-playground-series-mar-2021>  
 
 **1:迭代项目 2
 跳过与你无关或你不感兴趣的东西。**
@@ -178,11 +166,7 @@ www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-mar-2021)
 
 # 项目 4:TPS-2021 年 4 月
 
-[](https://www.kaggle.com/c/tabular-playground-series-apr-2021) [## 表格游乐场系列—2021 年 4 月
-
-### synthanic——你需要一艘更大的船
-
-www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-apr-2021) 
+<https://www.kaggle.com/c/tabular-playground-series-apr-2021>  
 
 **1:迭代项目 3
 做你在之前项目中做过的所有事情。跳过与你无关或你不感兴趣的东西。**

@@ -72,7 +72,7 @@ Julia Nikulski 制作的图形展示了有毒语言检测和有毒语言生成�
 
 ## [领域自适应预训练(DAPT)](https://medium.com/jasonwu0731/pre-finetuning-domain-adaptive-pre-training-of-language-models-db8fa9747668)
 
-**基于数据的策略**:使用无毒数据集 [[](https://arxiv.org/pdf/2004.10964.pdf) [1](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf) ， [9](https://arxiv.org/pdf/2004.10964.pdf) ， [10](https://arxiv.org/pdf/2104.06390.pdf) 对 LM 进行额外的预训练。**优势**:最有效的减毒策略之一[【1】](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf)。**局限性**:计算量大[【1】](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf)。需要用于训练的额外数据，当通过众包利用人类时，收集这些数据可能会很昂贵。
+**基于数据的策略**:使用无毒数据集 [<https://arxiv.org/pdf/2004.10964.pdf> [1](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf) ， [9](https://arxiv.org/pdf/2004.10964.pdf) ， [10](https://arxiv.org/pdf/2104.06390.pdf) 对 LM 进行额外的预训练。**优势**:最有效的减毒策略之一[【1】](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf)。**局限性**:计算量大[【1】](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf)。需要用于训练的额外数据，当通过众包利用人类时，收集这些数据可能会很昂贵。
 
 ## [属性条件](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf)(基于 [CTRL](https://arxiv.org/abs/1909.05858) )
 
@@ -132,19 +132,11 @@ Julia Nikulski 创作的图表展示了偏见对语言解毒的影响。从 [Fla
 
 你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的会员。
 
-[](https://medium.com/@julia.nikulski/membership) [## 通过我的推荐链接加入 Medium-Julia Nikulski
-
-### 作为一个媒体会员，你的会员费的一部分给了你所阅读的作家，你可以在…上看到所有的故事
-
-medium.com](https://medium.com/@julia.nikulski/membership) 
+<https://medium.com/@julia.nikulski/membership>  
 
 您是否希望展示您的数据科学项目，但不确定如何展示？查看我的指南**如何建立数据科学组合网站**:
 
-[](/how-to-build-a-data-science-portfolio-website-335b0f253822) [## 如何建立数据科学作品集网站
-
-### 展示您的作品——从零开始创建网站
-
-towardsdatascience.com](/how-to-build-a-data-science-portfolio-website-335b0f253822) 
+</how-to-build-a-data-science-portfolio-website-335b0f253822>  
 
 # 学术论文参考文献
 

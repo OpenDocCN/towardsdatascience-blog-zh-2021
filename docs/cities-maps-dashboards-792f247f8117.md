@@ -72,11 +72,7 @@ Dashmap.io .作者图片。
 
 如前所述，DashMap 的目的是让个人和企业能够在决策过程中利用开放数据。因此，平台是开源的是至关重要的。Dashmap 背后的全部代码可以在这里找到:
 
-[](https://github.com/Geometrein/dashmap.io) [## GitHub-geomet rein/dash map . io:dash map 是一个开源的网络平台，它收集、分析和…
-
-### DashMap 是一个收集、分析和可视化城市数据的开源网络平台。它是免费的，可以由…使用
-
-github.com](https://github.com/Geometrein/dashmap.io) 
+<https://github.com/Geometrein/dashmap.io>  
 
 **欢迎投稿和拉请求！**
 

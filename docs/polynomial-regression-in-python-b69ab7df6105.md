@@ -12,11 +12,7 @@
 
 多项式回归只是标准线性回归的另一个版本。
 
-[](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) [## Python 中从头开始的线性回归
-
-### 从零开始的机器学习:第 1 部分
-
-medium.com](https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d) 
+<https://medium.com/analytics-vidhya/linear-regression-from-scratch-in-python-b6501f91c82d>  
 
 首先，我们将重述**符号**(寻找新变量`degrees`)，然后**理解**算法，最后**使用 Python NumPy 和 Matplotlib 实现**它，**绘制预测**并计算 **r2 分数**。
 

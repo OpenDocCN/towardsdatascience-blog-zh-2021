@@ -30,11 +30,7 @@
 
 你的工作是把你的想法翻译成最清晰、最容易理解的形式，而不损害信息的内容。在许多情况下，你将是你所讨论的领域的专家——你将因为你的技术专长而被雇用，并被要求将这种专长翻译给非技术利益相关者，或者你将在一个技术团队中，并将你的项目成果传达给更广泛的团队。无论哪种方式，都与背景有关。这让我想起了许多由[伊丽莎白·牛顿在斯坦福大学](https://creatorsvancouver.com/wp-content/uploads/2016/06/rocky-road-from-actions-to-intentions.pdf)做的著名实验——研究参与者被要求给其他人弹奏一首曲子，并猜测它被正确猜到的可能性，那些弹奏曲子的人大大高估了它被猜到的容易程度。这被称为“知识的诅咒”，并得到了很好的研究。
 
- [## 知识的诅咒
-
-### 知识的诅咒是一种认知偏差，当一个人与其他人交流时…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Curse_of_knowledge) 
+  
 
 从本质上讲，任何人在向他人解释某件事情时，都很难对自己已经知道的东西打折扣。数据专家在这方面尤其糟糕。我们经常假设一定程度的理解(甚至是兴趣！)根本就不存在，并且在完全错误的层面上进行沟通。
 
@@ -72,21 +68,13 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 
 有很多资源可以利用。有时，一个混杂的包但是 r/databasebeautiful 是一个观察其他人在做什么的好地方:
 
-[](https://www.reddit.com/r/dataisbeautiful/) [## r/数据非常有用
-
-### r/dataisbeautiful:一个分享和讨论数据可视化表示的地方:图形、图表、地图等。
-
-www.reddit.com](https://www.reddit.com/r/dataisbeautiful/) 
+<https://www.reddit.com/r/dataisbeautiful/>  
 
 我建议你熟悉一下[《金融时报》的视觉词汇](https://ft-interactive.github.io/visual-vocabulary/)——这是一个值得努力的伟大标准。也有一些类似 Tableau 和 Power BI 的实现。
 
 有时，复杂的数字是必要的，在这种情况下，尽最大努力应用爱德华·塔夫特的量化信息的奇妙视觉显示中的一些要点:
 
-[](https://www.amazon.co.uk/Visual-Display-Quantitative-Information/dp/0961392142?crid=ISCRTVDDNDYT&dchild=1&keywords=tufte+data&qid=1613689357&sprefix=tufte+%2Caps%2C182&sr=8-3&linkCode=ll1&tag=adzsroka-21&linkId=774f076e002659b4ebca2946226b4059&language=en_GB&ref_=as_li_ss_tl) [## 定量信息的可视化显示
-
-### 购买数量信息的可视化显示第二版由 Tufte，Edward R. (ISBN: 9780961392147)从亚马逊的…
-
-www.amazon.co.uk](https://www.amazon.co.uk/Visual-Display-Quantitative-Information/dp/0961392142?crid=ISCRTVDDNDYT&dchild=1&keywords=tufte+data&qid=1613689357&sprefix=tufte+%2Caps%2C182&sr=8-3&linkCode=ll1&tag=adzsroka-21&linkId=774f076e002659b4ebca2946226b4059&language=en_GB&ref_=as_li_ss_tl) 
+<https://www.amazon.co.uk/Visual-Display-Quantitative-Information/dp/0961392142?crid=ISCRTVDDNDYT&dchild=1&keywords=tufte+data&qid=1613689357&sprefix=tufte+%2Caps%2C182&sr=8-3&linkCode=ll1&tag=adzsroka-21&linkId=774f076e002659b4ebca2946226b4059&language=en_GB&ref_=as_li_ss_tl>  
 
 # 后续步骤
 
@@ -98,12 +86,4 @@ www.amazon.co.uk](https://www.amazon.co.uk/Visual-Display-Quantitative-Informati
 
 作为一名数据科学家，如果您正在寻找其他方面的建议，以下一些文章可能会让您感兴趣:
 
-[](https://medium.com/better-programming/7-non-data-science-books-that-will-make-you-a-better-data-scientist-1e2844d75fa1) [## 7 本非数据科学书籍，让你成为更好的数据科学家
-
-### 在从事数据科学工作和大规模应用机器学习时，这些书籍将为您提供更广阔的视角
-
-medium.com](https://medium.com/better-programming/7-non-data-science-books-that-will-make-you-a-better-data-scientist-1e2844d75fa1) [](/how-to-stand-out-as-a-great-data-scientist-in-2021-3b7a732114a9) [## 如何在 2021 年脱颖而出成为伟大的数据科学家
-
-### 帮助您脱颖而出并从经验丰富的数据科学领导者那里获得聘用的 5 个技巧。
-
-towardsdatascience.com](/how-to-stand-out-as-a-great-data-scientist-in-2021-3b7a732114a9)
+<https://medium.com/better-programming/7-non-data-science-books-that-will-make-you-a-better-data-scientist-1e2844d75fa1>  </how-to-stand-out-as-a-great-data-scientist-in-2021-3b7a732114a9> 

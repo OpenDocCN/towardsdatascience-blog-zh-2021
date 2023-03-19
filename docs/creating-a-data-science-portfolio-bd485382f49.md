@@ -133,11 +133,7 @@ T 形轮廓代表了两件事。首先，单杠代表通才。数据科学家应
 
 举个例子，我在下面写的这篇文章展示了用简单的方式呈现复杂的材料是多么重要:
 
-[](/9-distance-measures-in-data-science-918109d069fa) [## 数据科学中的 9 种距离度量
-
-### 常见距离测量的优点和缺陷
-
-towardsdatascience.com](/9-distance-measures-in-data-science-918109d069fa) 
+</9-distance-measures-in-data-science-918109d069fa>  
 
 磨练你的写作技巧会帮助你成为一个更好的沟通者。你将慢慢开始对你的利益相关者的需求和愿望有一种直觉，这是一种令人惊奇的技能。
 
@@ -145,11 +141,7 @@ towardsdatascience.com](/9-distance-measures-in-data-science-918109d069fa)
 
 [我在 TowardsDataScience 的工作](https://medium.com/@maartengrootendorst)并没有被忽视，而且在过去几年我参加的几乎所有面试中都有很大帮助。
 
-[](https://medium.com/@maartengrootendorst) [## 马尔滕·格罗登多斯特培养基
-
-### 许多算法，不管是有监督的还是无监督的，都利用了距离度量。这些措施，如欧几里得…
-
-medium.com](https://medium.com/@maartengrootendorst) 
+<https://medium.com/@maartengrootendorst>  
 
 似乎不仅仅是我从写作中受益。梅根·迪布尔解释了在媒体上写作是如何让她的[在数据分析](/writing-on-medium-got-me-a-job-in-data-analytics-586564d29264)部门找到工作的。同样，Dario rade ci[写了作为数据科学家拥有博客的好处](/how-having-a-blog-can-advance-your-career-as-a-data-scientist-245270cc281e)。作为最后一个例子，大卫·罗宾逊解释了开博客的好处。
 

@@ -12,11 +12,7 @@
 
 本文将研究如何对我们已经构建的 Dash 应用程序进行 Dockerize。理解应用程序的结构很重要，所以请在这里查看存储库[。如果你想了解更多的细节和解释，可以看看我们在这里详细介绍这个结构的文章:](https://github.com/edkrueger/dash-template)
 
-[](/structuring-your-dash-app-e33d8e70133e) [## 构建您的 Dash 应用
-
-### 选择正确的结构使得开发和部署 Dash 应用程序变得更加容易
-
-towardsdatascience.com](/structuring-your-dash-app-e33d8e70133e) 
+</structuring-your-dash-app-e33d8e70133e>  
 
 现在你已经根据我们的第一篇文章构建了你的 Dash 应用程序，你已经为你的应用程序做好了准备。
 
@@ -60,11 +56,7 @@ CMD gunicorn -b 0.0.0.0:80 app.app:server
 
 要深入了解优化容器，请查看 Sciforce 的这篇文章。
 
-[](https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6) [## 码头形象优化策略
-
-### 我们给出了通过减少构建时间和图像大小来优化 Docker 图像的策略的详细回顾。
-
-medium.com](https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6) 
+<https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6>  
 
 ## 构建 Docker 容器
 
@@ -82,11 +74,7 @@ t 标志“标记”我们的图像，并允许我们命名容器。标签是有
 
 Docker 基础映像有多种类型。我们使用的是 Python 镜像的精简版本，当您希望安装运行 Python 所需的最小软件包时，这是最佳选择。后缀`-slim`表示容器应该只装必需品。对于许多基本映像，有精简版和完整版。slim 比完整版包含的少，所以图像更小，是处理空间限制的理想选择。对于大多数语言，也有一个维护的完整版本的图像。如果您不确定在应用程序中使用哪种类型，完整图像通常是最佳选择。如果你想阅读更多关于这个话题的内容，看看朱莉·紫苏·加西亚的这篇文章吧！
 
-[](https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d) [## 阿尔卑斯，苗条，拉伸，巴斯特，杰西，牛眼，书虫 Docker 有什么区别…
-
-### 而我该选择哪一个呢？
-
-medium.com](https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d) 
+<https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d>  
 
 图像通常包括许多层。层可能包括系统库、工具、依赖项和其他文件。在我们的例子中，Python slim 映像从从 DockerHub 访问现有的 Python slim 容器开始。映像下载到本地后，就安装了 Debian/Linux OS 发行版和 Python 的最新稳定版本。最后，Docker 编译所有应用程序文件并安装应用程序需求。
 
@@ -120,6 +108,6 @@ docker run -p 8080:80 tiny_home
 
 我们希望你喜欢这篇文章！要获得更多关于数据科学、机器学习和开发的内容，请查看 [Edward 的 YouTube 频道](https://www.youtube.com/channel/UCmvdvjDaSjjMRIAxE5s7EZA)，并订阅我下面的邮件列表，成为第一个听到新文章的人！
 
-[](https://edkruegerdata.com/subscribe) [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
+<https://edkruegerdata.com/subscribe> [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
 
 edkruegerdata.com](https://edkruegerdata.com/subscribe)

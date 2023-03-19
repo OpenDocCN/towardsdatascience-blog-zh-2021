@@ -14,7 +14,7 @@
 
 话虽如此，以下是我在数据科学职业生涯中学到的 3 条最重要的经验！
 
-> **如果您喜欢这篇文章，请务必订阅**[](https://terenceshin.medium.com/subscribe)****，千万不要错过另一篇关于数据科学指南、技巧和提示、生活经验等的文章！****
+> **如果您喜欢这篇文章，请务必订阅**<https://terenceshin.medium.com/subscribe>****，千万不要错过另一篇关于数据科学指南、技巧和提示、生活经验等的文章！****
 
 # **1.很大一部分时间实际上是花在你的项目之间(之前和之后)。**
 
@@ -52,11 +52,7 @@
 
 **如果你想掌握 SQL，看看我下面的指南:**
 
-**[](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) [## 为期 15 周的完整课程，旨在掌握数据科学的 SQL
-
-### 在 15 周内学习最重要的数据科学技能
-
-towardsdatascience.com](/a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4) 
+**</a-complete-15-week-curriculum-to-master-sql-for-data-science-999e690033e4>  
 
 ## b)描述性和推断性统计
 
@@ -70,11 +66,7 @@ towardsdatascience.com](/a-complete-15-week-curriculum-to-master-sql-for-data-sc
 
 Python 主要对执行 EDA 和特征工程很重要。也就是说，这两个步骤也可以使用 SQL 来完成，所以这一点要记住。我个人喜欢在我的技术堆栈中使用 Python，因为我发现在 Jupyter 笔记本中执行 EDA 比在 SQL 控制台或仪表板中更容易。
 
-[](/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e) [## 探索性数据分析的广泛逐步指南
-
-### 我对任何数据集执行 EDA 的个人指南
-
-towardsdatascience.com](/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e) 
+</an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e>  
 
 # 3.迭代并构建一个模型的几个版本比花费大量时间构建一个最终模型要好。
 
@@ -94,15 +86,11 @@ towardsdatascience.com](/an-extensive-guide-to-exploratory-data-analysis-ddd99a0
 
 **不确定接下来该读什么？我为你挑选了另一篇文章:**
 
-[](/the-most-in-demand-skills-for-data-scientists-in-2021-4b2a808f4005) [## 2021 年数据科学家最需要的技能
-
-### 来自 15，000 多个数据科学家职位发布的网络搜索结果
-
-towardsdatascience.com](/the-most-in-demand-skills-for-data-scientists-in-2021-4b2a808f4005) 
+</the-most-in-demand-skills-for-data-scientists-in-2021-4b2a808f4005>  
 
 **又一个！**
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 

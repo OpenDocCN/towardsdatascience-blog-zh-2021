@@ -14,11 +14,7 @@
 
 几个月前，我写了一篇关于利用 **BERT** 进行主题建模的文章。它出乎意料地爆发了，我对我得到的积极反馈感到惊讶！
 
-[](/topic-modeling-with-bert-779f7db187e6) [## 用 BERT 进行主题建模
-
-### 利用 BERT 和 TF-IDF 创建易于解释的主题。
-
-towardsdatascience.com](/topic-modeling-with-bert-779f7db187e6) 
+</topic-modeling-with-bert-779f7db187e6>  
 
 我决定专注于进一步开发本文所基于的主题建模技术，即 BERTopic。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/topic-modeling-with-bert-779f7db187e6)
 
 **我现在处在一个点上，BERTopic 已经获得了足够的牵引力和发展，我相信它可以取代或补充其他主题建模技术，如 LDA。**
 
-**[](https://github.com/MaartenGr/BERTopic/) [## 贝尔托皮奇
-
-### BERTopic 是一种主题建模技术，它利用了🤗变压器和 c-TF-IDF 创建密集的集群，允许…
-
-github.com](https://github.com/MaartenGr/BERTopic/) 
+**<https://github.com/MaartenGr/BERTopic/>  
 
 本文的主要目的是向您深入介绍 BERTopic 的特性和教程，以及如何最好地将其应用于您自己的项目。
 
@@ -182,8 +174,4 @@ pip install bertopic[visualization]
 
 您可以在下面找到 BERTopic 及其文档:
 
-[](https://github.com/MaartenGr/BERTopic) [## 贝尔托皮奇
-
-### BERTopic 是一种主题建模技术，它利用了🤗变压器和 c-TF-IDF 创建密集的集群，允许…
-
-github.com](https://github.com/MaartenGr/BERTopic)**
+<https://github.com/MaartenGr/BERTopic> **

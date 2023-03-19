@@ -184,16 +184,8 @@ class Solution:
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/leetcode-problem-1-python-ec6cba23c20f) [## Python 中的 LeetCode 问题 1 解决方案
-
-### 讨论了 LeetCode 中两个和问题的最优解的方法
-
-towardsdatascience.com](/leetcode-problem-1-python-ec6cba23c20f)
+</leetcode-problem-1-python-ec6cba23c20f> 

@@ -48,7 +48,7 @@ def predict(): if request.method == 'POST': data = json.loads(request.data)
 其中几个例子是:
 
 1.  [**WebGL**](https://www.khronos.org/webgl/) **(浏览器实现**[**OpenGL**](https://www.opengl.org//)**):**web GL 在 2011 年已经发布**(所以其并不算太新)，但是对于 ML 机型来说还是挺有用的。WebGL 是一个 Javascript API，用于允许在浏览器上运行的任何应用程序平滑地交互和使用 GPU，通常用于渲染游戏中的图形和物理交互**
-2.  [**Web Assembly**](https://webassembly.org/)**:**Web Assembly 大约出现在 **4 年前**你大概能从关键词“Assembly”中感觉到它与编译和底层代码有关。WebAssembly 引入了一种将 web 应用程序编译成更紧凑的二进制格式的新方法，这种方法从本质上减小了它们的大小，并允许它们在浏览器上更流畅地运行。它通过定义一个以二进制格式[](https://github.com/WebAssembly/design/blob/master/BinaryEncoding.md)**存储的[抽象语法树](https://github.com/WebAssembly/design/blob/master/AstSemantics.md#abstract-syntax-tree-semantics) (AST)来实现这一点。在“Javascript 的 nitrous boost”之前已经调用过了。**
+2.  [**Web Assembly**](https://webassembly.org/)**:**Web Assembly 大约出现在 **4 年前**你大概能从关键词“Assembly”中感觉到它与编译和底层代码有关。WebAssembly 引入了一种将 web 应用程序编译成更紧凑的二进制格式的新方法，这种方法从本质上减小了它们的大小，并允许它们在浏览器上更流畅地运行。它通过定义一个以二进制格式<https://github.com/WebAssembly/design/blob/master/BinaryEncoding.md>**存储的[抽象语法树](https://github.com/WebAssembly/design/blob/master/AstSemantics.md#abstract-syntax-tree-semantics) (AST)来实现这一点。在“Javascript 的 nitrous boost”之前已经调用过了。**
 3.  **[**WebGPU**](https://www.w3.org/TR/webgpu/) :这本质上是在 WebGL 上的升级。WebGPU 是一个正在进行的项目，用于升级 WebGL 以优化浏览器上的 GPU 操作。简而言之，WebGPU 是一种新标准，它试图通过将标准分解为更多模块化的着色器组件来提高 WebGL 的核心性能，这些组件可以并发运行以获得更好的性能。**
 4.  **[**WebDNN**](https://mil-tokyo.github.io/webdnn/)**:**WebDNN 是在浏览器上运行深度神经网络最好的开源库之一。WebDNN 的第一个组件是 Python API，它将模型转换成图形。然后，这个图被移交给第二个组件，该组件是一个 JS API，它将这个图移植成兼容的格式，以便在浏览器上运行(适用于 WebGL、Web Assembly 等..)**
 

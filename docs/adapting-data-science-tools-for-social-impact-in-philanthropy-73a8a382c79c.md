@@ -6,7 +6,7 @@
 
 ## 洛克菲勒基金会的数据科学
 
-*在 Community Spotlight 系列中，TDS 编辑与数据科学社区成员畅谈有助于推动该领域发展的激动人心的计划。今天，我们很高兴与大家分享埃利奥特·冈恩*[](https://medium.com/u/aad1101621dd?source=post_page-----73a8a382c79c--------------------------------)**与* [*玛德琳·利塞乌斯*](https://medium.com/u/b375e8eb5719?source=post_page-----73a8a382c79c--------------------------------) *，* [*首席数据科学家*](https://www.linkedin.com/in/madeline-lisaius) ，*以及* [*洛克菲勒基金会*](https://www.rockefellerfoundation.org/about-us/our-history/) *的统计和机器学习团队的对话，该慈善组织成立于 1913 年，致力于解决**
+*在 Community Spotlight 系列中，TDS 编辑与数据科学社区成员畅谈有助于推动该领域发展的激动人心的计划。今天，我们很高兴与大家分享埃利奥特·冈恩*<https://medium.com/u/aad1101621dd?source=post_page-----73a8a382c79c-------------------------------->**与* [*玛德琳·利塞乌斯*](https://medium.com/u/b375e8eb5719?source=post_page-----73a8a382c79c--------------------------------) *，* [*首席数据科学家*](https://www.linkedin.com/in/madeline-lisaius) ，*以及* [*洛克菲勒基金会*](https://www.rockefellerfoundation.org/about-us/our-history/) *的统计和机器学习团队的对话，该慈善组织成立于 1913 年，致力于解决**
 
 *![](img/4555a40209b8945da70d6c9f2c5385ff.png)*
 

@@ -16,19 +16,11 @@
 
 因此，在本文中，我将列出我学到的 6 件最重要的事情，以持续推动我的模型实现最佳性能。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 1️⃣.找出控制过拟合/欠拟合的超参数
 
@@ -89,11 +81,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 两者都在 R 中有实现，我惊讶地发现，用于输入缺失值的 R 生态系统更加成熟。在这里讨论这些方法会偏离本文的最初目的，所以我可以向你推荐我的另一篇文章:
 
-[](/going-beyond-the-simpleimputer-for-missing-data-imputation-dd8ba168d505) [## 超越缺失数据插补的简单插补
-
-### 编辑描述
-
-towardsdatascience.com](/going-beyond-the-simpleimputer-for-missing-data-imputation-dd8ba168d505) 
+</going-beyond-the-simpleimputer-for-missing-data-imputation-dd8ba168d505>  
 
 还有一个问题是哪种技术更好，效果如何。您可以使用多种技术并评估一个估计量来查看每种技术对预测的影响，但这种方法不适用于大型数据集。
 

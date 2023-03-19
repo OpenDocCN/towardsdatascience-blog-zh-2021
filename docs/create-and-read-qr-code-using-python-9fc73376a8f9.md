@@ -126,10 +126,6 @@ detectAndDecode 函数返回 QR 码的内容、盒子角的坐标和二进制化
 
 ## 相关文章:
 
-[](/generate-pencil-sketch-from-photo-in-python-7c56802d8acb) [## 用 Python 从照片生成铅笔草图
-
-### 使用 OpenCV 的图像处理教程，带代码
-
-towardsdatascience.com](/generate-pencil-sketch-from-photo-in-python-7c56802d8acb) ![](img/dd53c0552c16a7515210f8f07dcae8a2.png)
+</generate-pencil-sketch-from-photo-in-python-7c56802d8acb>  ![](img/dd53c0552c16a7515210f8f07dcae8a2.png)
 
 照片由[阿尔伯特·胡](https://unsplash.com/@alberthu?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

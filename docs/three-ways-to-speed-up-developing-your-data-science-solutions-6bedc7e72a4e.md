@@ -56,4 +56,4 @@
 *   您可能会很快失败——如果有什么东西不工作，您会很快知道它，并可以管理客户的期望。
 *   您可以定期与客户分享切实的成果。
 
-*原载于 2021 年 4 月 26 日 https://jackbakerds.com*[](https://jackbakerds.com/posts/speed-up-data-science-development/)**。**
+*原载于 2021 年 4 月 26 日 https://jackbakerds.com*<https://jackbakerds.com/posts/speed-up-data-science-development/>**。**

@@ -120,8 +120,4 @@
 
 完整的笔记本可以通过下面的链接访问。
 
-[](https://github.com/jackliu333/gradient_editing/blob/main/Gradient_editing_on_the_fly.ipynb) [## Gradient _ editing/Gradient _ editing _ on _ the _ fly . ipynb at main jack Liu 333/Gradient _ editing
-
-### 在 GitHub 上创建一个帐户，为 jackliu333/gradient_editing 开发做贡献。
-
-github.com](https://github.com/jackliu333/gradient_editing/blob/main/Gradient_editing_on_the_fly.ipynb)
+<https://github.com/jackliu333/gradient_editing/blob/main/Gradient_editing_on_the_fly.ipynb> 

@@ -54,16 +54,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
-
-### 将数据科学与数据分析相结合
-
-medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [## 如何向非技术人员展示机器学习结果
-
-### 展示利益相关者能够理解的模型结果
-
-towardsdatascience.com](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [## 如何创建成功的数据演示
-
-### 针对不同受众的演示技巧
-
-towardsdatascience.com](/how-to-create-a-successful-data-presentation-7eae7a9a41f)
+<https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd>  </how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76>  </how-to-create-a-successful-data-presentation-7eae7a9a41f> 

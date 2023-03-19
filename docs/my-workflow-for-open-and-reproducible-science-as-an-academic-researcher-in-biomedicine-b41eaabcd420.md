@@ -117,11 +117,7 @@ RMarkdown 有很多定制选项，请参阅 Yan Holtz 的指南了解更多信�
 
 这些脚本要么将原始数据转化为经过处理的数据，要么将经过处理的数据转化为手稿中呈现的图形和结论。从原始数据和经过处理的数据中复制手稿的代码可以在 Github 上获得。如果您使用如上所述的文件夹结构进行数据分析，就像上传文件夹一样容易(如果文件太大，不需要原始/处理过的数据，将这些数据添加到。gitignore)。许多杂志也接受你从编织你的博客中得到的 html 文件。此外，您可以将 html 文件[作为网页](https://rmvpaeme.github.io/PIMS_MISC_SR/)发布在 Github 页面上。
 
-[](https://gfycat.com/sillythirstybangeltiger) [## 减价 GIF | Gfycat
-
-### 在 Gfycat 上观看和分享减价 gif
-
-gfycat.com](https://gfycat.com/sillythirstybangeltiger) 
+<https://gfycat.com/sillythirstybangeltiger>  
 
 对于这些 Github 库来说，编写文档通常是最具挑战性的。当我发布我的代码时，我并不打算每次都发布一个适用于所有人的现成软件包。对于熟悉 R 和/或 Python 的用户来说，我更多地将这些脚本视为扩展的数据分析部分。我试着给出每个脚本做了什么的简要总结，并以一种清晰的方式评论我的 Python 代码或 RMarkdowns。
 

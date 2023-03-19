@@ -126,8 +126,4 @@ Atlanta United 有一名头衔为“运动性能科学总监”的员工、三�
 
 *   关联 GitHub:[https://github.com/navido89/MLS-Current-State-Analytics](https://github.com/navido89/MLS-Current-State-Analytics)
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我是 Navid Mashinchi，是加利福尼亚州萨克拉门托的一名数据科学家。我一直在分析领域工作…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

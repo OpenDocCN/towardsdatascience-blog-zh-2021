@@ -78,14 +78,6 @@ dp.login(API_TOKEN)
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180) [## 用 dtreeviz 实现漂亮的决策树可视化
+</beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180>  </the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8> [## 用 Python 创建交互式烛台图表的最简单方法
 
-### 改进绘制决策树的旧方法，永不回头！
-
-towardsdatascience.com](/beautiful-decision-tree-visualizations-with-dtreeviz-af1a66c1c180) [](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) [## 用 Python 创建交互式烛台图表的最简单方法
-
-towardsdatascience.com](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) [](/5-types-of-plots-that-will-help-you-with-time-series-analysis-b63747818705) [## 有助于时间序列分析的 5 种绘图类型
-
-### 以及如何使用 Python 快速创建它们！
-
-towardsdatascience.com](/5-types-of-plots-that-will-help-you-with-time-series-analysis-b63747818705)
+towardsdatascience.com](/the-simplest-way-to-create-an-interactive-candlestick-chart-in-python-ee9c1cde50d8) </5-types-of-plots-that-will-help-you-with-time-series-analysis-b63747818705> 

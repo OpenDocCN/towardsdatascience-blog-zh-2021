@@ -78,4 +78,4 @@ Julia 是一种伟大的语言，它的创造者理所当然地获得了 J. H. W
 
 另一方面，本文表明 TensorFlow 仍然可以使模型迭代更快，因为它依赖于 C++后端。在许多情况下，它仍然是训练 ML 模型的优选选择。
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

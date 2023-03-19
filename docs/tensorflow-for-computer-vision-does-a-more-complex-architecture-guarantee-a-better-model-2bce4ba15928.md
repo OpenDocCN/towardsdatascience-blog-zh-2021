@@ -26,11 +26,7 @@ Sebastian Kanczok 在 [Unsplash](https://unsplash.com/s/photos/computer-science?
 
 数据集相当大-25，000 张图像均匀分布在各个类别之间(12，500 张狗图像和 12，500 张猫图像)。它应该足够大，可以训练一个像样的图像分类器。唯一的问题是——它不是为开箱即用的深度学习而构建的。您可以按照我以前的文章创建一个合适的目录结构，并将其分为训练集、测试集和验证集:
 
-[](/tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42) [## 用于图像分类的 TensorFlow 深度学习项目的三大先决条件
-
-### 想训练一个用于图像分类的神经网络？请确保首先执行此操作
-
-towardsdatascience.com](/tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42) 
+</tensorflow-for-image-classification-top-3-prerequisites-for-deep-learning-projects-34c549c89e42>  
 
 您还应该删除 *train/cat/666.jpg* 和 *train/dog/11702.jpg* 图像，因为它们已损坏，您的模型将无法使用它们进行训练。
 
@@ -60,11 +56,7 @@ towardsdatascience.com](/tensorflow-for-image-classification-top-3-prerequisites
 
 今天，它是关于理解为什么用模型架构做大是不值得的。我们通过一个简单的模型获得了 75%的准确率，因此这是我们必须超越的基准:
 
-[](/tensorflow-for-computer-vision-how-to-train-image-classifier-with-convolutional-neural-networks-77f2fd6ed152) [## 用于计算机视觉的张量流——如何用卷积神经网络训练图像分类器
-
-### 结合卷积和池，如果你想要一个体面的从零开始的图像分类器
-
-towardsdatascience.com](/tensorflow-for-computer-vision-how-to-train-image-classifier-with-convolutional-neural-networks-77f2fd6ed152) 
+</tensorflow-for-computer-vision-how-to-train-image-classifier-with-convolutional-neural-networks-77f2fd6ed152>  
 
 ## 模型 1 —两个卷积模块
 
@@ -114,11 +106,7 @@ towardsdatascience.com](/tensorflow-for-computer-vision-how-to-train-image-class
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *无限制地继续学习。如果您使用以下链接，我将收到您部分会员费，您无需支付额外费用。*
 
-[](https://medium.com/@radecicdario/membership) [## 加入 Medium，加入我的推荐链接——Dario rade 契奇
-
-### 作为一名中型会员，您的部分会员费将支付给您所阅读的作家，您可以完全接触到每个故事……
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

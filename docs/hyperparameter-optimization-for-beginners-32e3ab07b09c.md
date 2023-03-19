@@ -66,16 +66,4 @@ Scikit-Optimize (skopt)是一个优化库，它有一个[贝叶斯优化实现](
 
 ## 相关文章
 
-[](/cross-validation-c4fae714f1c5) [## 交叉验证
-
-### 验证机器学习模型的性能
-
-towardsdatascience.com](/cross-validation-c4fae714f1c5) [](/oversampling-and-undersampling-5e2bbaf56dcf) [## 过采样和欠采样
-
-### 一种不平衡分类技术
-
-towardsdatascience.com](/oversampling-and-undersampling-5e2bbaf56dcf) [](/gradient-descent-811efcc9f1d5) [## 梯度下降
-
-### 机器学习中梯度下降的不同变体的利弊
-
-towardsdatascience.com](/gradient-descent-811efcc9f1d5)
+</cross-validation-c4fae714f1c5>  </oversampling-and-undersampling-5e2bbaf56dcf>  </gradient-descent-811efcc9f1d5> 

@@ -172,10 +172,6 @@ pd.options.display.float_format = '{:.2f}%'.format
 
 在这篇文章中，我介绍了 6 种我们最好记住的熊猫展示方式。有 30 多个，但这几个是我发现最常用的。为了避免每次都在谷歌上浪费时间，强烈建议记住它们。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

@@ -32,11 +32,7 @@
 
 如果你需要一个潜在结果模型的回顾，你可以阅读下面链接的我以前的文章:
 
-[](https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426) [## 随机实验和潜在结果模型
-
-### 深入探究随机化的重要性
-
-medium.com](https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426) 
+<https://medium.com/geekculture/an-introduction-of-randomized-experiment-aka-a-b-testing-and-potential-outcome-model-f2c93f73d426>  
 
 **中情局称，根据一组观察到的特征 X *ᵢ* ，选择偏差被消除:**
 

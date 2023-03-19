@@ -36,11 +36,7 @@ Jorge Nocedal 的数值优化书的第一段已经解释了很多。它继续说
 
 乍一看，这种数学陈述确实令人望而生畏，也许是因为它是对优化的一般描述，在这里没有太多可以推断的。但是不要担心，到我们得到代码的时候，一切都会清楚的。
 
-[](/complete-step-by-step-conjugate-gradient-algorithm-from-scratch-202c07fb52a8) [## 从头开始完成逐步共轭梯度算法
-
-### 和一般函数优化的实现
-
-towardsdatascience.com](/complete-step-by-step-conjugate-gradient-algorithm-from-scratch-202c07fb52a8) 
+</complete-step-by-step-conjugate-gradient-algorithm-from-scratch-202c07fb52a8>  
 
 # 梯度下降(最简单的方法)
 

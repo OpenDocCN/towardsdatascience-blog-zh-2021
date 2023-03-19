@@ -20,11 +20,7 @@
 
 最后，当你看完这个故事后，看看 Python 程序员和数据科学家的 VS 代码的 5 大扩展！
 
-[](/5-visual-studio-code-extensions-for-data-scientists-937487b987c0) [## 面向数据科学家的 5 个 Visual Studio 代码扩展
-
-### 借助这些强大的附加组件，提高 VS 代码的生产率
-
-towardsdatascience.com](/5-visual-studio-code-extensions-for-data-scientists-937487b987c0) 
+</5-visual-studio-code-extensions-for-data-scientists-937487b987c0>  
 
 > [学习率](https://www.dimpo.me/newsletter?utm_source=article&utm_medium=medium&utm_campaign=jupyter&utm_term=jupyter_vs_code)是为那些对 AI 和 MLOps 的世界感到好奇的人准备的时事通讯。你会在每周五收到我关于最新人工智能新闻和文章的更新和想法。在这里订阅！
 
@@ -36,11 +32,7 @@ Visual Studio 代码的 Jupyter 扩展带来了笔记本支持、交互式编程
 
 VS 代码附带了一个方便的命令面板，允许您在不离开键盘的情况下发出命令。它的设计非常好，新的 JupyterLab 3.0 复制了它，创造了类似的体验。
 
-[](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) [## 期待已久的 JupyterLab 3.0 终于来了
-
-### Jupyter 项目发布了 Jupyter lab 3.0 版本，作为送给数据科学家的圣诞礼物。
-
-towardsdatascience.com](/the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860) 
+</the-long-awaited-jupyterlab-3-0-is-finally-here-3b6648b3a860>  
 
 因此，要创建一个新的 Jupyter 笔记本，启动命令面板(`Ctrl+Shift+P`)并搜索`new notebook`；应该是第一个结果:`Jupyter: Create New Blank Jupyter Notebook`。你总是可以通过在你的工作区触摸一个新的`.ipynb`文件来创建它，但是快捷方式总是让你更有效率。
 

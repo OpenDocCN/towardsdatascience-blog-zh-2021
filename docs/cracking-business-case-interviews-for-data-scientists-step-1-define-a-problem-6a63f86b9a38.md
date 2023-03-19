@@ -273,4 +273,4 @@
 
 **免责声明**:我并不代表麦肯锡建议的解决问题的方法，这里有所描述。我只是分享我的观点。
 
-*原载于 2021 年 9 月 6 日 http://bigdataco.blogspot.com*[](http://bigdataco.blogspot.com/2021/09/cracking-business-case-interviews-for.html)**。**
+*原载于 2021 年 9 月 6 日 http://bigdataco.blogspot.com*<http://bigdataco.blogspot.com/2021/09/cracking-business-case-interviews-for.html>**。**

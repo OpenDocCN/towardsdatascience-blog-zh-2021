@@ -245,12 +245,4 @@ df.to_csv('structured_register.csv')
 
 # 相关文章
 
-[](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [## 面向数据科学的 25 大 Python 库
-
-### 你一生中至少应该尝试一次的 Python 库列表。
-
-medium.com](https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d) [](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
-
-towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [](/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f) [## 用 Python Selenium 从嵌套的 HTML 页面中抓取数据
-
-towardsdatascience.com](/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f)
+<https://medium.com/geekculture/the-top-25-python-libraries-for-data-science-71c0eb58723d>  </how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> 

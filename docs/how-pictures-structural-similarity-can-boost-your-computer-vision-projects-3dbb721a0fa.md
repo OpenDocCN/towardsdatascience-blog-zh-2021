@@ -39,11 +39,7 @@
 
 我将假设您熟悉图片如何被转换成 Numpy 数组。如果你对这个概念不清楚，你应该看看这篇文章:
 
-[](/better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca) [## 由于城市，更好地可视化张量！
-
-### 当然，很容易看出标量、向量或矩阵是什么样子！但是当涉及到 n 维数组时，我们的…
-
-towardsdatascience.com](/better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca) 
+</better-visualizing-tensors-thanks-to-cities-b97e6b4ca2ca>  
 
 我的第一直觉是，一个简单的数学运算可能会提供一个很好的“双胞胎检测系统”。例如，由于所有图片都是从同一个角度拍摄的，因此每个像素之间的差异总和可能很好:
 
@@ -55,11 +51,7 @@ towardsdatascience.com](/better-visualizing-tensors-thanks-to-cities-b97e6b4ca2c
 
 对于本文的其余部分，我们将使用与本文中提供的数据集相同的数据集:
 
-[](/xai-build-your-own-deep-learning-interpretation-algorithm-6e471b59af7) [## XAI——构建自己的深度学习解释算法
-
-### 你可能听说过莱姆或 SHAP 图书馆，以及它们如何帮助你发现你感兴趣的领域
-
-towardsdatascience.com](/xai-build-your-own-deep-learning-interpretation-algorithm-6e471b59af7) 
+</xai-build-your-own-deep-learning-interpretation-algorithm-6e471b59af7>  
 
 让我们处理下图，这是从数据集中随机抽取的样本。如果我们增加原始图片的亮度，相应阵列的值将显著改变，并且这个新的更亮的图片将具有比右边的图片(19)更高的 MSE (27)，然而它在视觉上更接近:
 
@@ -129,8 +121,4 @@ SSIM 矩阵继承自 27 张随机图片—图片由作者提供
 
 如果你想试一试，相应的笔记本可以在 Google Colab 的[这里](https://colab.research.google.com/drive/18csSiEQer0HdRChzZ-SRrWj9AAGdwkfL?usp=sharing)找到。
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+<https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

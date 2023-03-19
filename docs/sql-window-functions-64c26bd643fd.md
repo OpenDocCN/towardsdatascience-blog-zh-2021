@@ -16,11 +16,7 @@
 
 为了突破自我强加的限制，我鼓励想象和实验。在这篇**高级**教程中，我通过将`CASE Expression`添加到 SQL 窗口函数中，打开了深入学习的大门。作为一个高级主题，我将介绍与学习相关的基础知识。如果你需要一本关于 SQL 窗口函数的初级读本，我推荐我以前写的一篇文章， **SQL 窗口函数，一段爱恨交加的关系**。
 
-[](/sql-window-functions-78593bcabf4) [## SQL 窗口函数
-
-### 爱恨交加的关系
-
-towardsdatascience.com](/sql-window-functions-78593bcabf4) 
+</sql-window-functions-78593bcabf4>  
 
 ## 基础知识
 

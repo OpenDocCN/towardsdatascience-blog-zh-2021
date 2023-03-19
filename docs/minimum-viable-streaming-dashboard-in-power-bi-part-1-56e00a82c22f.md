@@ -69,11 +69,7 @@ Power BI 可以利用两种不同类型的数据集，它们是为在实时仪�
 
 在我们为演示创建数据集之前，请使用下面的链接访问 Power BI 网站，并使用您的工作或学校电子邮件地址注册 Power BI 帐户:
 
-[](https://powerbi.microsoft.com/en-us/get-started/) [## 如何开始| Microsoft Power BI
-
-### 开始使用 Power BI 很容易。立即免费使用 Power BI Desktop，免费试用 Power BI Pro，或请求…
-
-powerbi.microsoft.com](https://powerbi.microsoft.com/en-us/get-started/) 
+<https://powerbi.microsoft.com/en-us/get-started/>  
 
 无需下载 Power BI Desktop，因为我们无法使用流数据集创建报告。因此，在本教程中，我们只使用 Power BI 服务。
 
@@ -219,21 +215,13 @@ JSON 格式的 PubNub 传感器网络数据结构。图片由[作者](https://na
 
 本文中使用的演示最初是由 PubNub 在其官方网站上编写的，因此我强烈建议您也查看他们的文章以供参考。
 
-[](https://www.pubnub.com/blog/microsoft-power-bi-streaming-business-data-to-dashboards/) [## 使用 Microsoft Power BI | PubNub 创建实时仪表板
-
-### 实时图表和图形将商业智能带到了一个新的水平，PubNub 很高兴能让您的数据流…
-
-www.pubnub.com](https://www.pubnub.com/blog/microsoft-power-bi-streaming-business-data-to-dashboards/) 
+<https://www.pubnub.com/blog/microsoft-power-bi-streaming-business-data-to-dashboards/>  
 
 ## PubNub 示例数据流
 
 我们刚刚探索了 PubNub 提供的众多数据流中的一个。如果你对用流技术构建更多应用的前景感到兴奋，今天就在他们的网站上探索 PubNub 的 API 吧。
 
-[](https://www.pubnub.com/developers/realtime-data-streams/) [## 实时数据流示例| PubNub
-
-### 访问您可以在自己的实时项目中使用的实时联合数据流。
-
-www.pubnub.com](https://www.pubnub.com/developers/realtime-data-streams/) 
+<https://www.pubnub.com/developers/realtime-data-streams/>  
 
 数据集的范围从 Twitter 互动到股票市场数据，再到维基百科的文章，所以请随意使用 PubNub 的数据流之一来构建您的下一个项目。
 

@@ -193,12 +193,4 @@ S.T.A.R 方法的另一个问题是灵活性，或者说缺乏灵活性。S.T.A.
 *   *连接上* [*Linkedin*](https://www.linkedin.com/in/emmading001/) *！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/product-case-interviews-dos-and-donts-for-data-scientists-71f9f90b033f) [## 产品案例访谈数据科学家的注意事项
-
-### 如何在产品案例面试中给人留下深刻印象
-
-towardsdatascience.com](/product-case-interviews-dos-and-donts-for-data-scientists-71f9f90b033f) [](/how-to-deal-with-the-5-types-of-interviewers-on-data-science-interviews-25c3f1eaa7aa) [## 如何应对数据科学面试中的 5 类面试官
-
-### 介绍
-
-towardsdatascience.com](/how-to-deal-with-the-5-types-of-interviewers-on-data-science-interviews-25c3f1eaa7aa)
+</product-case-interviews-dos-and-donts-for-data-scientists-71f9f90b033f>  </how-to-deal-with-the-5-types-of-interviewers-on-data-science-interviews-25c3f1eaa7aa> 

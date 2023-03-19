@@ -82,14 +82,6 @@
 
 *本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/54?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_54)
 
-[](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) [## func tools——Python 中高阶函数的威力
+</functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4>  </the-correct-way-to-overload-functions-in-python-b11b50ca7336> [## Python 中重载函数的正确方法
 
-### 浏览 Python 的 functools 模块，了解如何使用它的高阶函数来实现缓存…
-
-towardsdatascience.com](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) [](/the-correct-way-to-overload-functions-in-python-b11b50ca7336) [## Python 中重载函数的正确方法
-
-towardsdatascience.com](/the-correct-way-to-overload-functions-in-python-b11b50ca7336) [](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc) [## 使用 Python 调度各种循环作业
-
-### 让我们探索一下运行 cron 作业、延迟任务、重复任务或任何其他计划作业的所有库…
-
-towardsdatascience.com](/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc)
+towardsdatascience.com](/the-correct-way-to-overload-functions-in-python-b11b50ca7336) </scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc> 

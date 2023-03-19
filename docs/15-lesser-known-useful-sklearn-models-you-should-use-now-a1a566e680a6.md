@@ -129,15 +129,7 @@ contesty = contesty.reshape(-1, 1)
 
 然而，在适当的应用和平衡偏差中，保序回归可以是一个非常强大的预测模型！如果你想了解更多关于保序回归的知识，你可以看看我写的这两篇文章，一篇是我用 C++从头开始编写保序回归器，另一篇是我详细阐述模型的工作原理:
 
-[](/building-and-using-an-isotonic-regression-model-in-c-f6789d46ab07) [## 在 C++中建立和使用保序回归模型
-
-### 在 C++中从头开始实现保序回归。
-
-towardsdatascience.com](/building-and-using-an-isotonic-regression-model-in-c-f6789d46ab07) [](/isotonic-regression-is-the-coolest-machine-learning-model-you-might-not-have-heard-of-3ce14afc6d1e) [## 保序回归是你可能没听说过的最酷的机器学习模型
-
-### 术语“等渗”源自希腊语词根“iso”和“tonos”根“iso”不仅仅是一个文件…
-
-towardsdatascience.com](/isotonic-regression-is-the-coolest-machine-learning-model-you-might-not-have-heard-of-3ce14afc6d1e) 
+</building-and-using-an-isotonic-regression-model-in-c-f6789d46ab07>  </isotonic-regression-is-the-coolest-machine-learning-model-you-might-not-have-heard-of-3ce14afc6d1e>  
 
 为了适应这个模型，我们首先需要使用 make_regressor 函数，它将为我们提供一个基本的回归模型，我们可以在这个模型上构建保序回归。让我们这样做:
 

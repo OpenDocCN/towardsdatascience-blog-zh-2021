@@ -114,7 +114,7 @@ VAE 在线有很好的解释——我会带你去 Alfredo Canziani 的深度学�
 
 **[4]j .伯格斯特拉和 y .本吉奥(2012 年)。[超参数优化的随机搜索。](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a) *机器学习研究杂志*， *13* (2)。**
 
-***本文原载于 tvhahn.com*[](https://www.tvhahn.com/posts/building-vae/)**。此外，这项工作是对发表在 IJHM* *的* [*研究的补充。官方的 GitHub 回购是*](https://www.researchgate.net/publication/350842309_Self-supervised_learning_for_tool_wear_monitoring_with_a_disentangled-variational-autoencoder) [*这里的*](https://github.com/tvhahn/ml-tool-wear) *。****
+***本文原载于 tvhahn.com*<https://www.tvhahn.com/posts/building-vae/>**。此外，这项工作是对发表在 IJHM* *的* [*研究的补充。官方的 GitHub 回购是*](https://www.researchgate.net/publication/350842309_Self-supervised_learning_for_tool_wear_monitoring_with_a_disentangled-variational-autoencoder) [*这里的*](https://github.com/tvhahn/ml-tool-wear) *。****
 
 ****除非另有说明，本帖及其内容由作者授权于*[*CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/)*。****
 

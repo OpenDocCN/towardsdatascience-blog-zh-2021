@@ -106,11 +106,7 @@
 
 另外，如果你想了解这 10 条线背后的想法，可以看看这个 colab 笔记本。见下文，我也把它放在了我的参考资料的末尾。
 
-[](https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb) [## nglillywhite/blog _ resources/Refactoring _ notebook . ipynb
-
-### 上述要点的运行笔记本
-
-colab.research.google.com](https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb) 
+<https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb>  
 
 那么我们如何从第二个要点转向第三个要点呢？！乍一看，这似乎是一个巨大的飞跃，中间没有故事，但我保证魔术中有简单。
 
@@ -227,50 +223,26 @@ out_val 赋值 3 次，只返回一次。**如果你有你的值，返回你的�
 
 这里有一个完整的跑步笔记本，如果你想看上面的要点和一些额外的评论，你可以参考:
 
-[](https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb) [## nglillywhite/blog _ resources/Refactoring _ notebook . ipynb
-
-### 上述要点的运行笔记本
-
-colab.research.google.com](https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb) 
+<https://colab.research.google.com/github/nglillywhite/blog_resources/blob/main/Refactoring%20Resources-checkpoint.ipynb>  
 
 这是科林，我喜欢和他一起工作，我可能会永远缠着他要知识和陪伴
 
-[](https://col-jung.medium.com/) [## 郑上校培养基
-
-### 当新冠肺炎在 2020 年初席卷全球时，研究人员凭借他们的建模专业知识蜂拥而至，预测疫情…
-
-col-jung.medium.com](https://col-jung.medium.com/) 
+<https://col-jung.medium.com/>  
 
 这是 Raymond 的演讲，让我爱上了重构&让我用不同的方式思考解决问题。
 
 这是乔尔，他是一个了不起的作家，他的顶级博客，如关于编码的博客，非常精彩。
 
-[](https://www.joelonsoftware.com/) [## 乔尔谈软件
-
-### 有时模拟复杂系统是理解它们的最好方法。阅读更多“HASH:一个免费的在线平台…
-
-www.joelonsoftware.com](https://www.joelonsoftware.com/) 
+<https://www.joelonsoftware.com/>  
 
 马丁·福勒是另一位我非常喜欢的伟大作家，他写了大量关于重构的文章
 
-[](https://martinfowler.com/) [## martinfowler.com
-
-### 像大多数人一样，我期待着在后视镜里看到 2020 年，但即使是这个丑陋的一年也带来了一些…
-
-martinfowler.com](https://martinfowler.com/) 
+<https://martinfowler.com/>  
 
 这是他关于重构的页面！
 
-[](https://refactoring.com/) [## 重构主页
-
-### 当一个软件系统成功时，总是需要不断地增强它，修正问题和添加新的…
-
-refactoring.com](https://refactoring.com/) 
+<https://refactoring.com/>  
 
 [杰瑞米·霍华德](https://twitter.com/jeremyphoward) & [雷切尔·托马斯](https://twitter.com/math_rachel)是我的两个英雄，雷切尔在 fast.ai 深度学习程序员课程中鼓励每个人创建博客并开始写作，所以我也将这个博客的创建部分归功于她。我想把它们分享给每个人，因为它们很棒。他们制作了《T4》fast . ai 以及其他一些东西，非常棒。对于所有与伦理和实用神经网络相关的东西，去那里尽情享受他们制作的精彩内容。
 
-[](https://www.fast.ai) [## 主页
-
-### 2020 年 10 月 30 日更新:NumFOCUS 已经向我道歉了。我接受他们的道歉。我不接受他们的断言，即“在…
-
-www.fast.ai](https://www.fast.ai)
+<https://www.fast.ai> 

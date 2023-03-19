@@ -31,11 +31,7 @@
 
 > 为了更好地理解投票分类器，请阅读穆巴拉克·加尼尤的一篇文章:
 
-[](/how-voting-classifiers-work-f1c8e41d30ff) [## 投票分类器如何工作！
-
-### 用于增强分类的 scikit-learn 功能
-
-towardsdatascience.com](/how-voting-classifiers-work-f1c8e41d30ff) 
+</how-voting-classifiers-work-f1c8e41d30ff>  
 
 # 功能重要性:
 

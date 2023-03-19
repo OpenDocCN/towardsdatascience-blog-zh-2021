@@ -288,30 +288,10 @@ Prefect 还使得在某个时间或某个时间间隔执行一个流变得无缝
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/prefect_example) [## 数据科学/数据科学工具/完美范例
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/Data _ science _ tools/prefect _ example…
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/prefect_example) 
+<https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/prefect_example>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) [## 远大的期望:永远知道从你的数据中可以期待什么
-
-### 使用 Python 确保数据按预期工作
-
-towardsdatascience.com](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) [](/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) [## kedro——可再生数据科学项目的 Python 框架
-
-### 使用 Kedro 创建可维护的模块化数据科学管道
-
-towardsdatascience.com](/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8) [## Datapane 简介:构建交互式报表的 Python 库
-
-### 创建精美报告并与您的团队分享分析结果的简单框架
-
-towardsdatascience.com](/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
+</great-expectations-always-know-what-to-expect-from-your-data-51214866c24>  </kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d>  </introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8> 

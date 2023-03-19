@@ -141,11 +141,7 @@ run()函数启动遗传算法，最终 best_solution()属性为我们提供了�
 
 有关使用 Python 实现遗传算法代码的详细信息，请参考下面提到的知识库。往复运动图像或其他对象所需的代数高度依赖于输入的性质及其复杂性。因此，创建一个能够非常快速地评估群体的适应度函数非常重要。
 
-[](https://github.com/rjrahul24/ga-reinforcement-learning-image-restoration) [## rjrahul 24/ga-强化-学习-图像-恢复
-
-### 一个使用遗传算法和强化学习机制实现图像恢复和重建的项目…
-
-github.com](https://github.com/rjrahul24/ga-reinforcement-learning-image-restoration) ![](img/d77e152848af02d3febd800d32d41768.png)
+<https://github.com/rjrahul24/ga-reinforcement-learning-image-restoration>  ![](img/d77e152848af02d3febd800d32d41768.png)
 
 我们今天看到的大多数机器人应用程序都是使用 GAs 构建的|照片由 [Sebastian Kurpiel](https://unsplash.com/@sebbykurps?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上发布
 

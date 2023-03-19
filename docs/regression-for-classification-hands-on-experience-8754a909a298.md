@@ -33,11 +33,7 @@
 
 我用红酒质量数据集(在 Kaggle 中)向你展示这一点。
 
-[](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) [## 红酒质量
-
-### 用于回归或分类建模的简单明了的实践数据集
-
-www.kaggle.com](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) 
+<https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009>  
 
 原始数据集在 [UCI 机器学习知识库](https://archive.ics.uci.edu/ml/datasets/wine+quality)中公开。
 
@@ -322,21 +318,13 @@ print(y_hat.head())
 
 *   完整的合作实验室 Python 笔记本。
 
-[](https://colab.research.google.com/drive/1QyVpFToKva_NceVKUzQ1cbYmKEbTSFsr?usp=sharing) [## 分类回归
-
-### 由 Yasas Sandeepa 创作
-
-colab.research.google.com](https://colab.research.google.com/drive/1QyVpFToKva_NceVKUzQ1cbYmKEbTSFsr?usp=sharing) 
+<https://colab.research.google.com/drive/1QyVpFToKva_NceVKUzQ1cbYmKEbTSFsr?usp=sharing>  
 
 *   红酒质量数据集。
 
 这个数据集在数据库内容许可(DbCL)1.0 版下，在 [UCI 机器学习库](https://archive.ics.uci.edu/ml/datasets/wine+quality)和 Kaggle 中公开提供。
 
-[](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) [## 红酒质量
-
-### 用于回归或分类建模的简单明了的实践数据集
-
-www.kaggle.com](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) 
+<https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009>  
 
 [1] Paulo Cortez，葡萄牙吉马雷斯米尼奥大学，[http://www3.dsi.uminho.pt/pcortez](http://www3.dsi.uminho.pt/pcortez)a . Cerdeira，F. Almeida，T. Matos 和 J. Reis，葡萄牙波尔图 Vinho Verde 地区葡萄栽培委员会，2009 年
 

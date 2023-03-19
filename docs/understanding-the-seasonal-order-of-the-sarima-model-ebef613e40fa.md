@@ -243,14 +243,6 @@ plt.show()
 
 # 相关文章
 
-[](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [## 4 种不同的时间序列分析方法
+</4-different-approaches-for-time-series-analysis-7e2364fadcb9> [## 4 种不同的时间序列分析方法
 
-towardsdatascience.com](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419) [## 我六月文章的摘要…以防你错过
-
-### 快速回顾一下我在六月份发表的文章:从数据分析，到数据可视化，再到环境设置。
-
-alod83.medium.com](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419) [](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [## 加快和优化 Python 的三个技巧
-
-### 关于我在六月份的阅读中发现的三个 Python 技巧的评论。
-
-towardsdatascience.com](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6)
+towardsdatascience.com](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) <https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419>  </three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6> 

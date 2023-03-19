@@ -42,11 +42,7 @@ Medium 有数百甚至数千篇文章，涵盖了编程相关的主题。但是�
 
 为此，我开发了一个具有 CLI 功能的基于 Python 的工具包，我想在这里介绍一下: ***gistyc*** 。 *GISTsyc* 应使用户能够从外壳或 Python 程序中创建、更新和删除 gist。它的功能、特性和 GitHub 动作集成(新的 GIST 代码的持续部署)是本文的一部分。
 
-[](https://github.com/ThomasAlbin/gistyc) [## ThomasAlbin/gistyc
-
-### gistyc 是一个基于 Python 的库，使开发者能够创建、更新和删除他们的 GitHub GISTs。客户端…
-
-github.com](https://github.com/ThomasAlbin/gistyc) 
+<https://github.com/ThomasAlbin/gistyc>  
 
 总的来说，gistyc 很容易理解。让我们举个例子:
 

@@ -67,11 +67,7 @@ MLflow 将这些数据存储在**跟踪服务器**上。这可以是您在个人
 
 如果您有兴趣了解更多关于 MLflow 的信息，请查看我以前关于这个主题的帖子。
 
-[](/how-to-use-mlflow-on-aws-to-better-track-machine-learning-experiments-bbcb8acded65) [## 如何在 AWS 上使用 MLflow 来更好地跟踪你的机器学习实验
-
-### 记录一切以获得更好的再现性
-
-towardsdatascience.com](/how-to-use-mlflow-on-aws-to-better-track-machine-learning-experiments-bbcb8acded65) 
+</how-to-use-mlflow-on-aws-to-better-track-machine-learning-experiments-bbcb8acded65>  
 
 **如何看待 MLflow 的实际应用？**下面是一小段代码，它执行许多模型拟合，并针对超参数的每个组合，将指标和数据记录到 MLflow 中。
 
@@ -146,11 +142,7 @@ import os****api_key = os.environ["API_KEY"]**
 
 如果您想轻松地从代码中外部化环境变量，那么`**python-dotenv**`是一个流行的选择。要了解更多信息，你可以查看我以前的帖子:
 
-[](/stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3) [## 停止在 Python 应用程序中硬编码敏感数据
-
-### 使用将您的设置和凭据保密。环境文件
-
-towardsdatascience.com](/stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3) 
+</stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3>  
 
 # 5 —设置 CI-CDs 以自动化工作流程
 
@@ -169,11 +161,7 @@ CI-CD 工作流允许您在 Git 事件(如特定分支上的 push 或 pull 请�
 
 关于最后一点，如果你有兴趣用 FastAPI 构建一个机器学习 API，并用 Docker 和 Github 操作部署它，可以看看我以前的帖子。
 
-[](/how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a) [## 如何用 FastAPI、Docker 和 Github 动作部署机器学习模型
-
-### 具有 CI/CD 的端到端管道
-
-towardsdatascience.com](/how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a) 
+</how-to-deploy-a-machine-learning-model-with-fastapi-docker-and-github-actions-13374cbd638a>  
 
 # 6 —不要相信用户的输入，要事先验证
 
@@ -195,11 +183,7 @@ towardsdatascience.com](/how-to-deploy-a-machine-learning-model-with-fastapi-doc
 
 要了解更多关于 Pydantic 以及如何使用它有效地验证用户输入的信息，可以看看我以前发表的关于这个主题的文章。
 
-[](/8-reasons-to-start-using-pydantic-to-improve-data-parsing-and-validation-4f437eae7678) [## 开始使用 Pydantic 改进数据解析和验证的 8 个理由
-
-### 改善您的应用程序需要控制它们的数据质量
-
-towardsdatascience.com](/8-reasons-to-start-using-pydantic-to-improve-data-parsing-and-validation-4f437eae7678) 
+</8-reasons-to-start-using-pydantic-to-improve-data-parsing-and-validation-4f437eae7678>  
 
 # **7 —使用模板引导您的项目**
 
@@ -217,11 +201,7 @@ Cookiecutter 允许你创建模板来启动一个项目:如果你的一些项目
 
 如果您想了解更多关于 cookiecutter 以及如何自动化您的数据科学项目的结构，您可以看看我以前的帖子，在那里我尝试了一些开源的 Cookiecutter 模板，这些模板实施了行业的最佳实践。
 
-[](/automate-the-structure-of-your-data-science-projects-with-cookiecutter-937b244114d8) [## 使用 Cookiecutter 自动化数据科学项目的结构
-
-### 停止手工操作，重新使用项目模板
-
-towardsdatascience.com](/automate-the-structure-of-your-data-science-projects-with-cookiecutter-937b244114d8) 
+</automate-the-structure-of-your-data-science-projects-with-cookiecutter-937b244114d8>  
 
 # 资源
 

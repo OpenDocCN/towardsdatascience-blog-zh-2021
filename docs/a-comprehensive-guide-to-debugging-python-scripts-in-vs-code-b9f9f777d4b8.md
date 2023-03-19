@@ -132,16 +132,4 @@ VS 代码提供了三种类型的断点，每种都有不同的用途。要选�
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [## 懒惰预测:拟合和评估 scikit 中的所有模型——用一行代码学习
-
-### 查看哪些模型最适合您的数据集的最简单方法！
-
-towardsdatascience.com](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [](/my-experience-as-a-data-scientist-in-a-startup-13ae037780d0) [## 我在一家初创公司担任数据科学家的经历
-
-### 在一家“较小”的公司担任数据科学家时，主要需要做些什么？
-
-towardsdatascience.com](/my-experience-as-a-data-scientist-in-a-startup-13ae037780d0) [](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e) [## 以随机森林为例解释特征的重要性
-
-### 了解 Python 中最流行的确定要素重要性的方法
-
-towardsdatascience.com](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e)
+</lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281>  </my-experience-as-a-data-scientist-in-a-startup-13ae037780d0>  </explaining-feature-importance-by-example-of-a-random-forest-d9166011959e> 

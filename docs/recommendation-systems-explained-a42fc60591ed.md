@@ -198,11 +198,7 @@
 
 如果您想要一步一步地了解如何以一种不同的方式实现混合推荐系统，您可以参考我的关于使用 Node2Vec 构建链接预测推荐引擎的文章。
 
-[](https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-vatsal12-p.medium.com](https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) 
+<https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  
 
 # **结束语**
 
@@ -231,14 +227,6 @@ vatsal12-p.medium.com](https://vatsal12-p.medium.com/link-prediction-recommendat
 
 如果你喜欢读这篇文章，看看其他你可能也感兴趣的文章:
 
-[](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </monte-carlo-method-explained-8635edf2cf58>  </random-walks-with-restart-explained-77c3fe216bca> 

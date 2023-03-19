@@ -136,19 +136,11 @@ Q-learning:时间差分更新方程
 
 **有兴趣用深度 Q-learning 解决悬崖行走问题？请查看我关于 TensorFlow 实现的文章:**
 
-*[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) [## 悬崖行走问题的深度 Q 学习
-
-### 一个完整的 Python 实现，用 TensorFlow 2.0 导航悬崖。
-
-towardsdatascience.com](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) 
+*</deep-q-learning-for-the-cliff-walking-problem-b54835409046>  
 
 *转而寻找政策梯度实施？*
 
-[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) [## 基于离散策略梯度算法的悬崖行走问题
-
-### 用 Python 实现了一个完整的增强算法。手动执行这些步骤来说明内部…
-
-towardsdatascience.com](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) 
+</cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 ## 参考
 

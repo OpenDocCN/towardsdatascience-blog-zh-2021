@@ -45,11 +45,7 @@
 
 为了获得所有这些信息，我们需要我们的交易历史和我们交易的股票的历史价格。
 
-[](https://medium.com/@fneves/membership) [## 阅读媒体上的每一个故事！
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@fneves/membership) 
+<https://medium.com/@fneves/membership>  
 
 ## 交易—2.0 版
 
@@ -209,4 +205,4 @@ Dash 甚至允许您使用回调函数，这将使仪表板**对用户输入做�
 
 如果你对这里的任何部分感到困惑，不要忘记观看视频教程[！](https://youtu.be/wYvx8K-nzg4)
 
-*感谢您的阅读！一如既往，我欢迎反馈和建设性的批评。如果你想取得联系，可以在这里联系我*[](https://www.linkedin.com/in/fabioneves/)*[***推文***](https://twitter.com/fnsnows)*或者回复下面的文章。**
+*感谢您的阅读！一如既往，我欢迎反馈和建设性的批评。如果你想取得联系，可以在这里联系我*<https://www.linkedin.com/in/fabioneves/>*[***推文***](https://twitter.com/fnsnows)*或者回复下面的文章。**

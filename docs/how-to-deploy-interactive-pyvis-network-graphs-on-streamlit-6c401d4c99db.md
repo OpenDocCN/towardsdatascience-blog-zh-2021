@@ -28,13 +28,9 @@
 
 **这个项目的**目标**是在线发布 Pyvis 网络图，以便用户可以访问 web app 并直接与图形进行交互。**
 
-**本文基于 [**网络分析和药物-药物相互作用的可视化**](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) 项目。因此，我们将再次使用来自斯坦福网络分析项目[](http://snap.stanford.edu/biodata/datasets/10001/10001-ChCh-Miner.html)**的公开药物相互作用数据集。****
+**本文基于 [**网络分析和药物-药物相互作用的可视化**](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) 项目。因此，我们将再次使用来自斯坦福网络分析项目<http://snap.stanford.edu/biodata/datasets/10001/10001-ChCh-Miner.html>**的公开药物相互作用数据集。****
 
-****[](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) [## 药物-药物相互作用的网络分析和可视化
-
-### 了解如何使用 NetworkX、Pyvis 和 Datapane 探索和可视化药物相互作用数据(Python 格式)
-
-towardsdatascience.com](/network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df) 
+****</network-analysis-and-visualization-of-drug-drug-interactions-1e0b41d0d3df>  
 
 要查看最终完成的网络图 web 应用程序，您将很快学会如何创建，请单击 [**此处**](https://share.streamlit.io/kennethleungty/pyvis-network-graph-streamlit/main/pyvis_network_app.py) 或观看下面的 **gif** 。
 
@@ -127,7 +123,7 @@ else:
 
 ****在本地运行**app**时，我们可以创建一个指定的目标文件夹(如 ***/html_files*** )来保存网络图 html 文件。****
 
-****然而，当部署在[**Streamlit Cloud**](https://streamlit.io/cloud)**(步骤 7 中有更多信息)上时，使用相同的目标文件夹[](https://discuss.streamlit.io/t/file-permisson-error-on-streamlit-sharing/8291)****不起作用，因为目标路径**而**不存在于 web 服务器上。**********
+****然而，当部署在[**Streamlit Cloud**](https://streamlit.io/cloud)**(步骤 7 中有更多信息)上时，使用相同的目标文件夹<https://discuss.streamlit.io/t/file-permisson-error-on-streamlit-sharing/8291>****不起作用，因为目标路径**而**不存在于 web 服务器上。**********
 
 ******为了解决这个问题，我们可以使用 Streamlit webserver 默认的**临时文件夹** ( **/tmp** )来保存 HTML 文件。从那里，我们可以在加载 HTML 文件进行显示之前读取它。******
 
@@ -188,19 +184,7 @@ components.html(HtmlFile.read())******
 
 ******欢迎您加入我们的数据科学学习之旅！点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。享受在 Streamlit 上部署网络图的乐趣！******
 
-******[](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) [## 如何轻松绘制神经网络架构图
-
-### 使用无代码 diagrams.net 工具通过图表可视化展示您的深度学习模型
-
-towardsdatascience.com](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) [](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [## 面向数据科学和 Python 的最受欢迎的 GitHub Repos
-
-### 发现许多数据专业人员和 Python 程序员正在关注的非常受欢迎的回购
-
-towardsdatascience.com](/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96) [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 《面向生产的机器学习工程》课程 1 的主要课程(含课堂讲稿)(由 DeepLearning 提供。艾&…
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) 
+******</how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875>  </the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96>  </key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  
 
 ## 参考
 

@@ -12,7 +12,7 @@
 
 # FasterAI 简介
 
-*→图书馆可以在这里找到*[](https://github.com/nathanhubens/fasterai)
+*→图书馆可以在这里找到*<https://github.com/nathanhubens/fasterai>
 
 *FasterAI 是一个项目，它通过使用 [fastai](https://github.com/fastai/fastai) 库来使神经网络变得更小更快。这里实现的技术可以很容易地与普通 Pytorch 一起使用，但是我们的想法是以一种抽象和易于使用的方式来表达它们( *à la* fastai)。*
 

@@ -12,21 +12,13 @@
 
 如今，公司的目标是通过使用他们的数据建立人工智能解决方案来增加利润。但是，由于他们通常没有完善的数据策略，因此无法成功完成任务。数据策略有四个主要支柱:**价值**、**集合**、**架构、**和**治理。**我在[如何为您的组织创建数据策略](/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)中描述了数据策略。我见过很多公司在制定数据策略时犯的常见错误。在本文中，我想描述构建数据策略的最佳实践，并解释我从一些真实场景中学到的经验。
 
-[](/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7) [## 如何为您的组织创建数据策略
-
-### 创建可靠数据战略的三个基本支柱
-
-towardsdatascience.com](/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7) 
+</how-to-create-a-data-strategy-for-your-organization-e0493110b2e7>  
 
 # 价值——它真的创造了商业价值吗？
 
 一个大型组织必须找到一个可以被人工智能解决方案很好服务的商业目标。例如，一家大型连锁杂货店可以分析来自其客户忠诚度计划、供应链、商店交易和商店流量的数据。**问题是使用人工智能解决方案可以显著增强哪个业务目标。**对于这些组织来说，开始构建人工智能解决方案的成本效益分析没有意义是很常见的。失败可能会阻止该组织追求其他有前途的道路。因此，强烈建议在使用人工智能确定业务目标之前，进行成本效益或复杂性预期分析。要阅读更多关于复杂性期望分析的内容，你可以看看下面的文章。
 
-[](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23) [## 如果你考虑在你的业务中使用人工智能，请阅读这篇文章。
-
-### 期望-复杂性框架来评估人工智能在你的企业中的可行性
-
-medium.com](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23) 
+<https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23>  
 
 > 在使用人工智能确定商业目标之前，你必须进行成本效益或复杂性预期分析。
 
@@ -34,11 +26,7 @@ medium.com](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-re
 
 众所周知，如果大量数据或各种数据类型不存在，人工智能解决方案就无法工作。然而，数据和问题之间的关联经常被忽视。那些不是人工智能专家的人，期待人工智能解决方案的魔力。他们认为，如果大量数据输入到人工智能解决方案中，这就足够了。不对！领域专家可以简单地识别数据与业务目标的相关性。他们知道问题背后的物理原理，并且能够很容易地确定需要收集的相关数据。然而，他们的意见有时会受到损害。要了解大规模数据收集中存在的其他挑战，您可以阅读下面的文章。
 
-[](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d) [## 正在进行大规模数据收集
-
-### 这是我多年来在管理风险方面学到的经验
-
-medium.com](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d) 
+<https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d>  
 
 > 没有多样、庞大、相关的数据，AI 会让你失望。然而，数据和问题之间的关联经常被忽视。
 
@@ -64,8 +52,4 @@ medium.com](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scal
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

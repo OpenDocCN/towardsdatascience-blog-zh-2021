@@ -52,11 +52,7 @@
 
 如果您热衷于理解基本的统计概念以及使用 python 的实现，请查看下面的文章
 
-[](/basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55) [## 每个数据科学家都必须知道的基本统计概念
-
-### 从 python 实现的实际角度来看
-
-towardsdatascience.com](/basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55) 
+</basic-statistical-concepts-every-data-scientist-must-know-e4f000254f55>  
 
 ## 数据科学数学
 
@@ -102,11 +98,7 @@ Git 用于版本控制，当团队规模较大时，像 git 这样的工具是�
 
 如果你热衷于创建一个免费的个人作品集网站，请查看我的以下文章。这帮助许多人建立了他们的第一个组合网站，这非常简单，有模板可用，你不需要任何网站开发经验，你可以免费使用 GitHub 页面来托管你的网站。
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) [## 如何免费创建一个令人惊叹的个人投资组合网站
-
-### 帮助你创建一个简单的指南。不需要专业知识！
-
-towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) 
+</how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd>  
 
 如果你期待在 2021 年开始你的数据科学职业生涯，那么看看我的这个视频，
 
@@ -114,8 +106,4 @@ towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for
 
 我是一名拥有超过 10 年经验的数据科学专业人员，并且已经撰写了 2 本数据科学方面的书籍。我写数据科学相关的内容是为了让它简单易懂。跟我上 [**中**](https://medium.com/@rsharankumar) **。**我也有一个 YouTube 频道，在那里我教授和谈论各种数据科学概念。如果有兴趣，可以订阅我下面的频道。
 
-[](https://www.youtube.com/c/DataSciencewithSharan) [## 莎兰的数据科学
-
-### 我是一名数据科学专业人员，在高级分析和应用机器领域拥有十多年的经验…
-
-www.youtube.com](https://www.youtube.com/c/DataSciencewithSharan)
+<https://www.youtube.com/c/DataSciencewithSharan> 

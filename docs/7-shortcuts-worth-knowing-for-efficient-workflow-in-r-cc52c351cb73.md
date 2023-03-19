@@ -72,10 +72,6 @@
 
 如果你喜欢这些提示，那么你可能想看看这些关于 ggplot2 包的提示。
 
-[](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) [## 使用 ggplot2 的数据可视化:值得了解的 5 个特性
-
-### 使用 ggplot2 包提高 dataviz 效率的技巧
-
-towardsdatascience.com](/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335) 
+</data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335>  
 
 您可以在 [LinkedIn](https://www.linkedin.com/in/abhinav-malasi/) 和 [Twitter](https://twitter.com/malasi_abhinav) 上与我联系，跟随我的数据科学和数据可视化之旅。

@@ -12,11 +12,7 @@
 
 去年 10 月，我看了一个名为 Pluto.jl 的 Julia 包。Pluto.jl 是一个用于 Julia 编程语言的笔记本服务器，它有许多独特的功能，使它在竞争中脱颖而出。由于我主要是一个 IJulia 用户，我当然会将这个解决方案与 Jupyter 笔记本进行比较。从很多方面来说，我相信笔记本之间是互相打击的。然而，我在 Pluto.jl 和它背后的想法上遇到了一些根本性的问题，这使得我个人的笔记本比 Jupyter 上的更不实用。如果你想看那篇文章，你可以在这里看:
 
-[](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) [## 冥王星有可能真正取代木星吗？
-
-### 对 Pluto.jl 笔记本和 Julia 编程的其他开发解决方案的简要概述和比较…
-
-towardsdatascience.com](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) 
+</could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6>  
 
 我发现在我使用 Pluto.jl 的经历中，它比我使用过的任何其他解决方案都要乏味得多。我要再次指出，这是我的选择，不是一揽子计划的错。然而，我发现笔记本的反应性质经常会妨碍任何代码单元的执行。这很难处理，因为在理论上，Pluto.jl 听起来很神奇。笔记本是反应式的，因此不存在会降低笔记本可复制性的状态问题。这种担忧是我从我最喜欢的机器学习爱好者之一 Joel Grus 那里继承来的，他也是我最喜欢的一本来自 O'Reilly 的书的作者。直接引用 Grus 的话，
 

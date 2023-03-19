@@ -14,11 +14,7 @@
 
 当我开始我的数据科学之旅时，我问了自己所有这些问题以及更多问题。关于如何成为一名数据科学家，你需要学习什么，以及你应该做什么的大量信息让我不知所措。我花了大量时间浏览课程、教程和书籍，试图掌握数据科学的基础知识。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 我知道我不是唯一一个经历过或者将要经历这个挑战的人。我知道每个人对适合自己的东西有不同的偏好；适合我的不一定适合其他人，反之亦然。然而，我想提供一个简单的指南，涵盖 5 门在线数据科学课程，这些课程有很好的评论，并为您提供一个开始学习之旅的好地方。
 
@@ -32,11 +28,7 @@ IBM 提供了一个[专业证书项目](https://www.edx.org/professional-certifi
 
 在这个证书课程中，您将学习编程、数据科学和机器学习的基础知识，如何使用 Jupyter 笔记本电脑，使用 SQL 与数据库进行交互，有效地可视化您的结果，并了解该领域的最新进展。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 # №2:哈佛数据科学专业证书
 
@@ -54,11 +46,7 @@ towardsdatascience.com](/5-data-science-programming-languages-not-including-pyth
 
 该证书还揭示了该领域的研究方面，以及如何才能产生可重复的数据科学研究的一些线索。作为一名学术界人士，很高兴看到数据科学在线课程指向学术界，而不是只关注工业用途。
 
-[](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) [## 每个数据科学家都应该知道的 10 个 NLP 术语
-
-### 了解术语对于理解任何教程都是必不可少的。
-
-towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d3291643c0) 
+</10-nlp-terms-every-data-scientist-should-know-43d3291643c0>  
 
 # №4:密歇根大学应用数据科学与 Python 专业
 
@@ -76,11 +64,7 @@ towardsdatascience.com](/10-nlp-terms-every-data-scientist-should-know-43d329164
 
 Dataquest 提供的课程旨在在一个地方找到您需要学习的所有内容，您无需去其他地方继续学习。这为您节省了大量时间和精力。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 # 最后的想法
 
@@ -90,10 +74,6 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 网上有许多资源可供您用来学习数据科学，这些资源太多了，很容易让人不知所措，找不到最适合您的资源。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 我写这篇文章的唯一目的是帮助您找到一个开始学习不同数据科学分支的好地方。我在本文中介绍的 5 门课程并不是你可以使用的唯一课程。尽管如此，他们帮助许多数据科学家建立了他们的知识库，构建了他们的投资组合，并开始了他们的新职业生涯，希望他们也能为你做同样的事情。

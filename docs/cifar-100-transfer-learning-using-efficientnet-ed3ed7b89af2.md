@@ -363,11 +363,7 @@ plt.show()
 
 **相关文章:**
 
-[](/cifar-100-pre-processing-for-image-recognition-task-68015b43d658) [## CIFAR-100:图像识别任务预处理
-
-### 常用图像数据集(CIFAR-100)的预处理或数据准备
-
-towardsdatascience.com](/cifar-100-pre-processing-for-image-recognition-task-68015b43d658) 
+</cifar-100-pre-processing-for-image-recognition-task-68015b43d658>  
 
 **参考:**
 

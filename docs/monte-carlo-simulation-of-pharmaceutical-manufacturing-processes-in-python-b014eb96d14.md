@@ -14,15 +14,7 @@
 
 Python 中的离散事件模拟是制作生产模型原型的最快速和可用的工具之一，甚至可以利用标准库来构建各种制造场景。在今天的练习中，我们将模拟一种假设药物的年产量，这种药物是我们在之前的两篇媒体文章中生产的。
 
-[](/production-planning-and-resource-management-of-manufacturing-systems-in-python-5458e9c04183) [## Python 中制造系统的生产计划和资源管理
-
-### 高效的供应链、生产计划和资源分配管理比以往任何时候都更加重要。Python…
-
-towardsdatascience.com](/production-planning-and-resource-management-of-manufacturing-systems-in-python-5458e9c04183) [](/applied-models-of-production-planning-systems-in-python-942a2c91e6ad) [## Python 中生产计划系统的应用模型
-
-### 用 Python 开发了生产计划系统后，就有可能扩展我们的系统以包括人员配备和…
-
-towardsdatascience.com](/applied-models-of-production-planning-systems-in-python-942a2c91e6ad) ![](img/ce1a141e521c97864fd238484abc3ec4.png)
+</production-planning-and-resource-management-of-manufacturing-systems-in-python-5458e9c04183>  </applied-models-of-production-planning-systems-in-python-942a2c91e6ad>  ![](img/ce1a141e521c97864fd238484abc3ec4.png)
 
 仿制药生物制品生产工艺流程图
 

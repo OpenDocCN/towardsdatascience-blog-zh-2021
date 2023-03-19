@@ -14,11 +14,7 @@
 
 接下来，我将展示如何从特定区域获取这些图像。我会选择波尔图——葡萄牙**🇵🇹的一座美丽的海滨城市，作为我的工作区域，因为那是我居住的地方。IMO 获取卫星图像的最佳来源是:**
 
-**[](https://apps.sentinel-hub.com/eo-browser/) [## Sentinel-hub 电子浏览器 3
-
-### 2018 年 8 月 18 日拍摄的哨兵-2 L2A 图像
-
-apps.sentinel-hub.com](https://apps.sentinel-hub.com/eo-browser/) 
+**<https://apps.sentinel-hub.com/eo-browser/>  
 
 1.  注册一个账户，简单快捷。使用最近创建的帐户登录，您将看到以下屏幕:
 
@@ -64,18 +60,6 @@ apps.sentinel-hub.com](https://apps.sentinel-hub.com/eo-browser/)
 
 查看一些由[阿卜迪沙库尔](https://medium.com/u/d4284ce02aec?source=post_page-----888695361925--------------------------------)、[阿德里安·塞拉皮奥](https://medium.com/u/60c1c2b787cc?source=post_page-----888695361925--------------------------------)和[阿努巴夫·帕特奈克](https://medium.com/u/d6fbbcb89e29?source=post_page-----888695361925--------------------------------)撰写的关于地理空间分析的好文章，为你的下一个项目提供灵感:
 
-[](/external-geospatial-data-types-and-use-cases-7131e9a1ee24) [## 外部地理空间数据:类型和用例
-
-### 不同地理空间数据流、其类型和使用案例的详细回顾
-
-towardsdatascience.com](/external-geospatial-data-types-and-use-cases-7131e9a1ee24) [](/are-we-fcqd-dfea9e534eb1) [## 简单、直观的地理空间分析，帮助疫情做好准备
-
-### 使用可视化技术和实时数据来分析菲律宾的医疗保健系统，及其能力。
-
-towardsdatascience.com](/are-we-fcqd-dfea9e534eb1) [](/land-use-land-cover-classification-with-deep-learning-9a5041095ddb) [## 基于深度学习的土地利用/土地覆盖分类
-
-### 确定地球表面的物理方面(土地覆盖)以及我们如何开发土地(土地利用)是一个…
-
-towardsdatascience.com](/land-use-land-cover-classification-with-deep-learning-9a5041095ddb) 
+</external-geospatial-data-types-and-use-cases-7131e9a1ee24>  </are-we-fcqd-dfea9e534eb1>  </land-use-land-cover-classification-with-deep-learning-9a5041095ddb>  
 
 一有机会就去看看 Sentinel Hub，找到你需要的图片，在评论区让我知道你的想法！**

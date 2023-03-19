@@ -16,11 +16,7 @@
 *   成分乳腺成像允许发现新的癌症生物标志物
 *   成分信息与诊断相关，有助于改善癌症检测，从而减少不必要的活检数量。
 
-[](https://rdcu.be/cSENN) [## 用于成分生物标记物的双能三室乳腺成像，以改善对乳腺癌的检测
-
-### 虽然乳房成像如全视野数字乳房 x 线照相术和数字乳房断层合成术有助于减少…
-
-rdcu.be](https://rdcu.be/cSENN) 
+<https://rdcu.be/cSENN>  
 
 # 当前乳腺癌成像技术
 
@@ -90,4 +86,4 @@ rdcu.be](https://rdcu.be/cSENN)
 
 [【1】](https://www.nature.com/articles/s43856-021-00024-0)Leong，l .、Malkov，s .、Drukker，k .、Niell，b .、Sadowski，p .、Wolfgruber，t .…&Shepherd，j .、双能量三隔室乳腺成像(3CB)，用于改进恶性病变检测的新型成分生物标志物，(2021)。
 
-【https://www.lambertleong.com】原载于 2021 年 11 月 14 日[](https://www.lambertleong.com/projects/compositional-breast-cancer-ai)**。**
+【https://www.lambertleong.com】原载于 2021 年 11 月 14 日<https://www.lambertleong.com/projects/compositional-breast-cancer-ai>**。**

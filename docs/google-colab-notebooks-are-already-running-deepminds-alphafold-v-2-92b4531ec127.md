@@ -121,6 +121,6 @@ Github 中的 AlphaFold 2 代码
 
 牛津蛋白质信息学小组 Carlos Outeiral 的博客文章:[结构预测奇迹的背后是什么](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)。比我在这里给你的更详细，但比《自然》杂志的文章简单。
 
-喜欢这篇文章，想给我提示？【[](https://www.paypal.me/LAbriata)**】-谢谢！**
+喜欢这篇文章，想给我提示？【<https://www.paypal.me/LAbriata>**】-谢谢！**
 
 ***我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和计算机里。我写我广泛兴趣范围内的一切。查看我的* [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [*成为媒介会员*](https://lucianosphere.medium.com/membership) *访问我和其他作家的所有故事，* [*订阅通过邮件获取我的新故事*](https://lucianosphere.medium.com/subscribe) *(平台原创附属链接)。***

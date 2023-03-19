@@ -96,11 +96,7 @@ FCM(作者图片)算法
 
 该过程实际上与 **EM** 算法相同。如果你有兴趣了解 EM，可以去下面的帖子。
 
-[](/gaussian-mixture-models-with-python-36dabed6212a) [## 基于 Python 的高斯混合模型
-
-### 用 Python 实现高斯混合模型。在这篇文章中，我简要介绍了无监督学习方法的概念…
-
-towardsdatascience.com](/gaussian-mixture-models-with-python-36dabed6212a) 
+</gaussian-mixture-models-with-python-36dabed6212a>  
 
 ## 实施 FCM
 
@@ -123,8 +119,4 @@ labels = my_model.predict(X)
 
 希望文章有用。
 
-[](https://jianan-lin.medium.com/membership) [## 用我的推荐链接-裕丰加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jianan-lin.medium.com](https://jianan-lin.medium.com/membership)
+<https://jianan-lin.medium.com/membership> 

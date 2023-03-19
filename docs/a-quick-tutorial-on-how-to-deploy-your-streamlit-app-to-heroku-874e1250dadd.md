@@ -96,19 +96,11 @@ web: sh setup.sh && streamlit run app.py
 
 你要做的第一件事是确保你已经在你的机器上安装了 Heroku 并创建了一个免费帐户。请参见下面的链接创建一个帐户。
 
-[](https://www.heroku.com/) [## 云应用平台| Heroku
-
-### 无论您是在构建简单的原型还是关键业务产品，Heroku 的全托管平台都能为您提供…
-
-www.heroku.com](https://www.heroku.com/) 
+<https://www.heroku.com/>  
 
 根据文档，Heroku CLI 需要 Git。因此，如果你没有 Heroku，点击下面的链接，你可以安装它。
 
-[](https://devcenter.heroku.com/articles/heroku-cli) [## Heroku CLI
-
-### Heroku 命令行界面(CLI)使得直接从终端创建和管理您的 Heroku 应用程序变得非常容易…
-
-devcenter.heroku.com](https://devcenter.heroku.com/articles/heroku-cli) 
+<https://devcenter.heroku.com/articles/heroku-cli>  
 
 当您在机器上安装了 Heroku 并创建了一个帐户后，就该从终端登录您的 Heroku 帐户了。在您的终端中运行以下命令:
 
@@ -152,11 +144,7 @@ git push heroku master
 
 我们没有收到错误消息，现在是时候检查应用程序了。点击下面的链接，你可以在 Heroku 上看到我们的 Streamlit 应用。
 
- [## 细流
-
-### 编辑描述
-
-sample-app22a.herokuapp.com](https://sample-app22a.herokuapp.com/) 
+  
 
 好了，伙计们。现在你的应用程序开始工作了，你想把你的改变也推送到你的回购中。
 
@@ -172,8 +160,4 @@ git push
 
 希望本文能让您更好地理解如何将您的 Streamlit 应用程序部署到 Heroku。如果你对这个话题有任何问题或有任何反馈，请告诉我。如果你喜欢这篇文章，如果你能在任何社交媒体平台上分享它，我将非常感激。我将在下一篇文章中向您介绍我用 Streamlit 创建的 Covid19-Dashboard web 应用程序及其共享功能。敬请关注！直到下一个 time️ ✌️
 
-[](https://www.navidma.com/) [## 纳维德·马辛奇作品集
-
-### 我是 Navid Mashinchi，是加利福尼亚州萨克拉门托的一名数据科学家。我一直在分析领域工作…
-
-www.navidma.com](https://www.navidma.com/)
+<https://www.navidma.com/> 

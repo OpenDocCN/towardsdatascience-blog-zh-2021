@@ -108,8 +108,4 @@
 
 笔记本可在以下位置获得，并附有完整的功能代码:
 
-[](https://www.kaggle.com/nextbigwhat/train-valid-test-split-instead-of-train-test-split) [## train_valid_test_split 代替 train_test_split
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用推土机蓝皮书中的数据
-
-www.kaggle.com](https://www.kaggle.com/nextbigwhat/train-valid-test-split-instead-of-train-test-split)
+<https://www.kaggle.com/nextbigwhat/train-valid-test-split-instead-of-train-test-split> 

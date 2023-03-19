@@ -14,11 +14,7 @@
 
 有一项技能可以帮助你进行更好的初始数据分析并展示最终结果，那就是可视化。数据可视化是数据科学最关键和最具创造性的方面之一。知道使用什么样的可视化可以帮助您快速找到模式，或者花几个小时甚至几天的时间找到对数据有价值的见解。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 这同样适用于展示你的发现。如果你使用正确的视觉化，你将更容易传达你的结果。因此，人们会更好更快地理解它们；因此，提高数据可视化技能绝对是一项值得做的工作。此外，它将帮助你更有效地完成你的工作。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 这本书涵盖了许多概念，从什么是成功的可视化到为您的数据选择正确的图表，颜色如何影响图表，以及如何更好地与您的同事或客户分享您的数据发现。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 # №2:用数据讲故事:商业专家数据可视化指南
 
@@ -58,11 +50,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 今天，比以往任何时候，我们需要与世界分享的任何内容都需要可视化，以便传播和被他人理解。任何领域的一个重要分支都是研究。研究帮助我们提出新的算法和更好的解决方案。但是，从来没有人教过研究人员如何更好地展示他们的发现。
 
-[](/5-books-to-help-you-master-the-pandas-library-acb5c305159b) [## 帮助你掌握熊猫图书馆的 5 本书
-
-### 超越“进口熊猫作为 pd”
-
-towardsdatascience.com](/5-books-to-help-you-master-the-pandas-library-acb5c305159b) 
+</5-books-to-help-you-master-the-pandas-library-acb5c305159b>  
 
 # №5:共鸣:呈现改变观众的视觉故事
 
@@ -76,7 +64,7 @@ towardsdatascience.com](/5-books-to-help-you-master-the-pandas-library-acb5c3051
 
 当我开始我的数据科学之旅时，我需要学习或发展的大多数技能似乎都非常简单。但是，除了数据可视化，我觉得这种特殊的技能需要更多的创造力和视觉智能，我认为我不具备。但是，这让我比其他人更加努力地学习这项技能变得更加重要。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 

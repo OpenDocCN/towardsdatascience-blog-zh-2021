@@ -36,28 +36,4 @@ Python 相当强大。你可以用 Python 管理 R 中的大部分人员，但�
 
 ## 更多阅读
 
-[](/how-i-switched-to-data-science-f070d2b5954c) [## 我如何转向数据科学
-
-### 我的旅程、错误和收获
-
-towardsdatascience.com](/how-i-switched-to-data-science-f070d2b5954c) [](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [## 成为数据科学家需要硕士学位吗？
-
-### 我作为波士顿大学数据分析专业硕士学生的经历和体会
-
-towardsdatascience.com](/do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 的终极备忘单
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [## Python 中的探索性数据分析、可视化和预测模型
-
-### 在 Python 中使用 Pandas、Matplotlib、Seaborn 和 Scikit_learn 库
-
-towardsdatascience.com](/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731) [](/efficient-python-programming-with-lambda-map-filter-and-sorted-cfdf536afc36) [## 使用 Lambda、Map、Filter 和 Sorted 进行高效的 Python 编程
-
-### 使用数字、字符串和字典列表的快乐编程
-
-towardsdatascience.com](/efficient-python-programming-with-lambda-map-filter-and-sorted-cfdf536afc36) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 一些有趣的数据集提升你的技能和投资组合
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5)
+</how-i-switched-to-data-science-f070d2b5954c>  </do-you-need-a-masters-degree-to-become-a-data-scientist-ab894c2a8d41>  </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731>  </efficient-python-programming-with-lambda-map-filter-and-sorted-cfdf536afc36>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5> 

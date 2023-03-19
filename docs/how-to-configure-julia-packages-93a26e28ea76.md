@@ -14,21 +14,13 @@
 
 > 我们项目的存储库:
 
-[](https://github.com/ChifiSource/SuperFrames.jl) [## ChifiSource/SuperFrames.jl
-
-### 我们一起编写的 DataFrames.jl 扩展:)如果您想了解更多信息，可以通过以下方式与我们合作…
-
-github.com](https://github.com/ChifiSource/SuperFrames.jl) 
+<https://github.com/ChifiSource/SuperFrames.jl>  
 
 # 介绍
 
 在之前的“Julia 综合教程”中，我们介绍了在 Julia 编程语言中使用 Project.toml 文件和虚拟环境的基础知识。如果您还没有阅读或观看这个系列教程的迭代，如果您感兴趣，可以在这里查看:
 
-[](/intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683) [## Julia 编程语言中的软件工程介绍
-
-### Julia 语言中定义的目录和环境概述。
-
-towardsdatascience.com](/intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683) 
+</intro-to-software-engineering-in-the-julia-programming-language-3c32411c5683>  
 
 Project.toml 文件是描述任何 Julia 项目的宝贵资产。这个文件不仅包括项目需要的所有依赖项，还包括那些包的兼容版本，以及关于包的元信息。虽然 Project.toml 的大部分可以通过创建新的虚拟环境来机械地生成，但是配置的某些部分必须手动完成。
 
@@ -108,11 +100,7 @@ import DataFrames: Index
 
 我们今天要做的最后一件事是创建一个新类型，它将继承已经赋予抽象类型 AbstractDataFrame 的所有属性。我们使用<:/>
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 # 结论
 

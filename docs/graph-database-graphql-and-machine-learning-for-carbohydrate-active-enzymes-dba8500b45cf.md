@@ -55,11 +55,7 @@ CAZy 数据库对于基因组分析来说是一个非常有价值的资源。然
 
 这个项目的代码存放在我的 Github 仓库中:
 
-[](https://github.com/dgg32/neo4j_cazy) [## dgg32/neo4j_cazy
-
-### 这个存储库包含我的文章“Neo4j for CAZy”的代码和数据。convert.ipynb 用于数据处理和…
-
-github.com](https://github.com/dgg32/neo4j_cazy) 
+<https://github.com/dgg32/neo4j_cazy>  
 
 # 1.下载并处理数据
 
@@ -163,8 +159,4 @@ GraphQL 可以交付来自不同数据源的数据，只要它们符合其规范
 
 最后，我衷心感谢 CAZy 团队的辛勤工作。你可以在他们的出版物中读到更多关于这个数据库的信息:https://pubmed.ncbi.nlm.nih.gov/24270786/。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

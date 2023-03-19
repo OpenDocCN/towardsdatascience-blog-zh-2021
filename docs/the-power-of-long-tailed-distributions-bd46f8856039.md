@@ -108,11 +108,7 @@ S **自组织临界**:想象一个空的 N 乘 N 网格。在网格上随机选�
 
 第一步是理解两者之间的主要区别。我希望这篇文章对你有所帮助。
 
-[](https://www.linkedin.com/in/john-adeojo/) [## John Ade-Ojo -数据科学|技术|银行和金融| LinkedIn
-
-### 查看 John Ade-Ojo 在全球最大的职业社区 LinkedIn 上的个人资料。约翰的工作列表上有 6 份工作…
-
-www.linkedin.com](https://www.linkedin.com/in/john-adeojo/) 
+<https://www.linkedin.com/in/john-adeojo/>  
 
 ## *引文*
 

@@ -136,11 +136,7 @@ d.plot.area(alpha=0.4, color=['coral', 'purple', 'lightgreen'],figsize=(8, 6), t
 
 我想展示所有这些不同情节的用法。为此，我将使用美国疾病控制和预防中心的 NHANES 数据集。我下载了这个数据集，并把它保存在 Jupyter 笔记本所在的文件夹中。请随意下载数据集并跟随:
 
-[](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) [## rashida 048/数据集
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv) 
+<https://github.com/rashida048/Datasets/blob/master/nhanes_2015_2016.csv>  
 
 在这里，我导入数据集:
 
@@ -479,32 +475,4 @@ from pandas.plotting import bootstrap_plotbootstrap_plot(df['BMXBMI'], size=100,
 
 **更多阅读:**
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [## 多元线性回归模型、评估和推理的详细指南
-
-### 模型开发、解释、方差计算、f 检验和 t 检验
-
-towardsdatascience.com](/detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3) [](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [## Matplotlib 和 Seaborn 中的高级数据可视化集合
-
-### 让你的故事更有趣
-
-towardsdatascience.com](/a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14) [](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3) [## 熊猫时间序列分析终极指南
-
-### 在 Pandas 中执行时间序列分析所需的所有 Pandas 功能。您也可以将此用作备忘单。
-
-towardsdatascience.com](/an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3) [](/a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4) [## 一个完整的图像分类项目，使用 Python 从头开始进行逻辑回归
-
-### 带有项目的逻辑回归算法的详细布局
-
-towardsdatascience.com](/a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4) [](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [## Numpy 入门指南
-
-### 日常工作所需的所有 Numpy 功能
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-numpy-bb1112b0488f) [](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) [## 数据宁滨与熊猫削减或 Qcut 方法
-
-### 当你在寻找一个范围而不是一个确切的数值，一个等级而不是一个分数
-
-towardsdatascience.com](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </detailed-guide-to-multiple-linear-regression-model-assessment-and-inference-in-r-146845067aa3>  </a-collection-of-advanced-data-visualization-in-matplotlib-and-seaborn-f08136172e14>  </an-ultimate-guide-to-time-series-analysis-in-pandas-76a0433621f3>  </a-complete-project-on-image-classification-with-logistic-regression-from-scratch-in-python-ae7386211ab4>  </an-ultimate-cheat-sheet-for-numpy-bb1112b0488f>  </sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde> 

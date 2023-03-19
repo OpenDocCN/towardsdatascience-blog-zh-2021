@@ -45,16 +45,4 @@
 
 ## **你可能也会喜欢…**
 
-**[](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770) [## 如何成为一名成功的数据故事讲述者
-
-### 数据演示初学者指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770) [](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [## 我如何使用机器学习模型来生成可操作的见解
-
-### 将数据科学与数据分析相结合
-
-medium.com](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd) [](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e) [## 为什么数据科学家应该首先成为数据分析师
-
-### 确保成功的职业战略
-
-towardsdatascience.com](/why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e)**
+**<https://medium.datadriveninvestor.com/how-to-become-a-successful-data-storyteller-f90e677e4770>  <https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd>  </why-data-scientists-should-become-data-analysts-first-d5a2bc68fc6e> **

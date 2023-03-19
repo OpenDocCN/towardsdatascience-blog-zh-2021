@@ -115,11 +115,7 @@ Minikube *概要文件*是 Minikube 实例的*名称*，它是本地机器上的
 
 关于 Mimikube 上下文和`kubectl`简介的更详细讨论:
 
-[](https://itnext.io/understanding-the-connection-between-minicubes-profile-and-kubectl-s-context-f9a30f89bc62) [## 理解 Minikube 的简介和 Kubectl 的背景之间的联系
-
-### 我讨论了导致 Minicube 表现得像 Kubernetes 一样的稀疏记录的桥接概念。
-
-itnext.io](https://itnext.io/understanding-the-connection-between-minicubes-profile-and-kubectl-s-context-f9a30f89bc62) 
+<https://itnext.io/understanding-the-connection-between-minicubes-profile-and-kubectl-s-context-f9a30f89bc62>  
 
 ## 用于指定本地虚拟机的 Minikube 启动选项。
 

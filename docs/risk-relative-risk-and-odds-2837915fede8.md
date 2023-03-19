@@ -57,11 +57,7 @@
 
 请阅读我之前的文章，了解更多关于比值比的信息；
 
-[](/interpretation-of-odds-ratio-and-fishers-exact-test-c6dde394d204) [## 比值比和费希尔精确检验的解释
-
-### 比值比的计算及在 Python 上应用 Fisher 检验
-
-towardsdatascience.com](/interpretation-of-odds-ratio-and-fishers-exact-test-c6dde394d204) 
+</interpretation-of-odds-ratio-and-fishers-exact-test-c6dde394d204>  
 
 # 结论
 

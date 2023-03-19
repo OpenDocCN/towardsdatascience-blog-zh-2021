@@ -143,16 +143,4 @@ Swish 的论文还包含了一个有趣的讨论，关于是什么让激活函�
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/the-learning-rate-finder-6618dfcb2025) [## 学习率查找器
-
-### 无需昂贵的搜索即可快速到达最佳值的邻域。
-
-towardsdatascience.com](/the-learning-rate-finder-6618dfcb2025)
+</monte-carlo-dropout-7fd52f8b6571>  </6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </the-learning-rate-finder-6618dfcb2025> 

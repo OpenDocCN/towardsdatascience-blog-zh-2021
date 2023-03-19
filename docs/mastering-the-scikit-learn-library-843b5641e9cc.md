@@ -360,4 +360,4 @@ y_pred = rf_cass.predict(X_test)
 
 最后，scikit-learn 使得构建各种各样的机器学习模型变得非常容易。虽然我在这篇文章中只讨论了三个，但是构建其他广泛使用的模型(如支持向量机和 k 近邻)的逻辑非常相似。它也非常适合对这些算法如何工作了解有限的初学者，因为每个模型对象都有默认的参数来提供基线性能。无论任务是用玩具数据进行模型基准标记、准备/清理数据还是评估模型性能，scikit-learn 都是为各种用例构建机器学习模型的绝佳工具。如果你有兴趣学习 python 编程的基础知识、Pandas 的数据操作以及 python 中的机器学习，请查看[*Python for Data Science and Machine Learning:Python 编程、Pandas 和 sci kit-初学者学习教程*](https://www.amazon.com/dp/B08N38XW2Q/ref=sr_1_1?dchild=1&keywords=sadrach+python&qid=1604966500&s=books&sr=1-1) *。我希望你觉得这篇文章有用/有趣。*
 
-***本帖原载于*** [***内置博客***](https://builtin.com/machine-learning) ***。原片可以在这里找到***[](https://builtin.com/machine-learning/scikit-learn-guide)****。****
+***本帖原载于*** [***内置博客***](https://builtin.com/machine-learning) ***。原片可以在这里找到***<https://builtin.com/machine-learning/scikit-learn-guide>****。****

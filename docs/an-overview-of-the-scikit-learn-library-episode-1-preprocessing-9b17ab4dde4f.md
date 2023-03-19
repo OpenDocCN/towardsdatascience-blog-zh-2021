@@ -170,16 +170,4 @@ prep = joblib.load('prep.pkl')
 
 # 相关文章
 
-[](/machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09) [## 机器学习:K 近邻分类器入门
-
-### 一个 Python 的现成代码，实现了 scikit-learn 中的 K-neighbors 分类器，从数据预处理到…
-
-towardsdatascience.com](/machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09) [](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b) [## 如何使用 scikit-learn 检查分类模型是否过度拟合
-
-towardsdatascience.com](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b) [](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28) [## 了解 n_jobs 参数以加速 scikit-learn 分类
-
-### 一个现成的代码，演示了如何使用 n_jobs 参数来减少训练时间
-
-towardsdatascience.com](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28)
+</machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09>  </how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b>  </understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28> 

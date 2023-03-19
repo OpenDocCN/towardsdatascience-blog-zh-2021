@@ -50,11 +50,7 @@ for k in range(10,16): print(k**2)
 
 在这份快速阅读材料中，列举的理解，它的优点和缺点都用有趣的例子详细说明了。👇
 
-[](/3-python-tricks-for-better-code-511c82600ee1) [## 获得更好代码的 3 个 Python 技巧
-
-### ..第二个技巧让我的 python 程序执行速度提高了 440 倍！
-
-towardsdatascience.com](/3-python-tricks-for-better-code-511c82600ee1) 
+</3-python-tricks-for-better-code-511c82600ee1>  
 
 # 在一行中分配多个变量
 

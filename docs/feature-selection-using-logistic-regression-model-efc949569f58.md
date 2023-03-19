@@ -14,11 +14,7 @@
 
 特征选择方法降低了数据的维数，避免了维数灾难的问题。在我以前的一篇文章中，我已经广泛地讨论了 [7 特性选择技术](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09):
 
-[](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) [## 机器学习中的 7 大特征选择技术
-
-### 选择最佳功能的流行策略
-
-towardsdatascience.com](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) 
+</top-7-feature-selection-techniques-in-machine-learning-94e08730cd09>  
 
 在本文中，我们将讨论如何使用带有 L1 正则化的逻辑回归模型来移除数据中的冗余特征。
 
@@ -82,11 +78,7 @@ X_test = X_test[imp_features]**
 
 还有各种其他的特征选择技术。我在以前的一篇文章中已经讨论过 [7 这样的特征选择技术](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09):
 
-[](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) [## 机器学习中的 7 大特征选择技术
-
-### 选择最佳功能的流行策略
-
-towardsdatascience.com](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) 
+</top-7-feature-selection-techniques-in-machine-learning-94e08730cd09>  
 
 # 参考资料:
 

@@ -16,11 +16,7 @@ AWS 机器学习专业是我参加过的最具挑战性的考试之一，也是�
 
 机器学习正在被各种行业采用，比如金融服务，数字银行利用机器学习来改善服务，创造更个性化的银行体验。然而，将使用这些技术的人的需求和经验放在首位是至关重要的。通过整合以人为本的设计原则，我们可以确保机器学习创新能够提高使用机器学习的人们的生活和体验。
 
-[](https://medium.com/swlh/how-to-build-a-bank-a99a7f346f0d) [## 如何建立银行
-
-### 克服金融服务的进入壁垒。
-
-medium.com](https://medium.com/swlh/how-to-build-a-bank-a99a7f346f0d) 
+<https://medium.com/swlh/how-to-build-a-bank-a99a7f346f0d>  
 
 **成长心态在 AWS 考试准备中的重要性**
 
@@ -53,11 +49,7 @@ medium.com](https://medium.com/swlh/how-to-build-a-bank-a99a7f346f0d)
 
 由于我以前有过机器学习的经验，我的偏好是找到一些课程，帮助我专注于我需要温习的 AWS 领域以及任何需要填补的空白。而不是从头学起。我发现的最好的方法是弗兰克·凯恩的实践课程，链接在评论部分。我以前上过弗兰克的课，我喜欢他脚踏实地的风格。他在 AWS 和 IMBD 有职业生涯，很容易将机器学习概念与现实世界的例子联系起来。如果你没有任何机器学习知识，这将是一个挑战。弗兰克在他的讲座中证实了这一点。
 
-[](/starting-out-in-machine-learning-a8a12e5fe227) [## 从机器学习开始
-
-### 我是如何开始机器学习教育的。
-
-towardsdatascience.com](/starting-out-in-machine-learning-a8a12e5fe227) 
+</starting-out-in-machine-learning-a8a12e5fe227>  
 
 与实际的考试领域相似，Frank 的课程分为四个部分。还有几个实验室，您可以亲自试用这些工具。与其他学习平台不同，您需要一个 AWS 帐户。AWS 免费层将有助于最小化成本，但请记住关闭并删除您启动的任何构建。如果你用 GPU 创建一个机器学习训练环境，如果你忘记关闭环境，这可能会非常昂贵。
 

@@ -266,7 +266,7 @@ Google Trends 还显示，近年来 PostgreSQL 的吸引力有所增加，这证
 
 # 4.Microsoft SQL Server
 
-1988 年， [**微软**](https://en.wikipedia.org/wiki/Microsoft) 联合 [**阿什顿-泰特**](https://en.wikipedia.org/wiki/Ashton-Tate) 和[**Sybase**](https://en.wikipedia.org/wiki/Sybase)**创建了一个 RDBMS 作为[**Sybase SQL Server**](https://en.wikipedia.org/wiki/Sybase_SQL_Server)**的变种。1989 年，他们发布了第一版 [**微软 SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-2019) 。尽管不像其他产品那样具有创新性或先进性，但 Microsoft SQL Server 多年来经历了重大的更新和改进。最初是为 IBM[](https://en.wikipedia.org/wiki/IBM)****[**OS/2、**](https://en.wikipedia.org/wiki/OS/2) 发布的，很快就为 Windows 系统发布了。在过去的三十年里，它是 Windows 系统中占主导地位的商业中型数据库。********
+1988 年， [**微软**](https://en.wikipedia.org/wiki/Microsoft) 联合 [**阿什顿-泰特**](https://en.wikipedia.org/wiki/Ashton-Tate) 和[**Sybase**](https://en.wikipedia.org/wiki/Sybase)**创建了一个 RDBMS 作为[**Sybase SQL Server**](https://en.wikipedia.org/wiki/Sybase_SQL_Server)**的变种。1989 年，他们发布了第一版 [**微软 SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-2019) 。尽管不像其他产品那样具有创新性或先进性，但 Microsoft SQL Server 多年来经历了重大的更新和改进。最初是为 IBM<https://en.wikipedia.org/wiki/IBM>****[**OS/2、**](https://en.wikipedia.org/wiki/OS/2) 发布的，很快就为 Windows 系统发布了。在过去的三十年里，它是 Windows 系统中占主导地位的商业中型数据库。********
 
 ****目前，它是领先的商业数据库系统之一，拥有微软优秀的工具支持。****
 
@@ -694,7 +694,7 @@ Google Trends 还显示，近年来 PostgreSQL 的吸引力有所增加，这证
 
 # ****10.IBM Db2****
 
-****1966 年，IBM 为阿波罗计划[](https://en.wikipedia.org/wiki/Apollo_program)**开发了第一个数据库管理系统 [**IMS**](https://en.wikipedia.org/wiki/IBM_Information_Management_System) (一个层次数据库)。当 IBM 工程师 Edgar F. Codd **发表他关于关系数据库的开创性论文时，IBM 不愿意放弃他们的 IMS 数据库。一旦 Oracle 发布了第一个关系数据库，IBM 很快纠正了它的路线，并在 1983 年发布了作为商业支持的 RDBMS 的 Db2。最初，IBM 为 IBM 的大型机发布了 Db2。1987 年，IBM 发布了适用于 Windows、Linux 和 Unix 系统的 Db2 LUW。这里我将讨论 Db2 LUW，因为 Db2 家族还有其他数据库。********
+****1966 年，IBM 为阿波罗计划<https://en.wikipedia.org/wiki/Apollo_program>**开发了第一个数据库管理系统 [**IMS**](https://en.wikipedia.org/wiki/IBM_Information_Management_System) (一个层次数据库)。当 IBM 工程师 Edgar F. Codd **发表他关于关系数据库的开创性论文时，IBM 不愿意放弃他们的 IMS 数据库。一旦 Oracle 发布了第一个关系数据库，IBM 很快纠正了它的路线，并在 1983 年发布了作为商业支持的 RDBMS 的 Db2。最初，IBM 为 IBM 的大型机发布了 Db2。1987 年，IBM 发布了适用于 Windows、Linux 和 Unix 系统的 Db2 LUW。这里我将讨论 Db2 LUW，因为 Db2 家族还有其他数据库。********
 
 ****多年来，IBM Db2 经历了许多重大变化，与 Oracle 发展得很像。****
 
@@ -779,16 +779,4 @@ Google Trends 还显示，近年来 PostgreSQL 的吸引力有所增加，这证
 
 # ****类似文章****
 
-****[](/5-best-public-cloud-database-to-use-in-2021-5fca5780f4ef) [## 2021 年使用的 5 个最佳公共云数据库
-
-### 亚马逊 DynamoDB，谷歌 BigQuery，Azure SQL Server，Azure Cosmos DB，亚马逊红移
-
-towardsdatascience.com](/5-best-public-cloud-database-to-use-in-2021-5fca5780f4ef) [](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [## 关于 2021 年软件发展趋势的 21 个预测
-
-### 云、边缘、容器、量子、区块链、AI、深度学习、批处理、流媒体、数据库、编程、软件……
-
-towardsdatascience.com](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)****
+****</5-best-public-cloud-database-to-use-in-2021-5fca5780f4ef>  </21-predictions-about-the-software-development-trends-in-2021-600bfa048be>  </microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41> ****

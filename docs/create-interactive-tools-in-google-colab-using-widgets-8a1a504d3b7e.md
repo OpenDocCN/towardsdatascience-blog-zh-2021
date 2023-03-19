@@ -65,18 +65,10 @@
 
 ****作者图片****
 
-****[](https://huajing-shi.medium.com/membership) [## 用我的推荐链接-华景石加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-huajing-shi.medium.com](https://huajing-shi.medium.com/membership) 
+****<https://huajing-shi.medium.com/membership>  
 
 源代码:[GitHub 上的谷歌可乐笔记本](https://github.com/shi093/python_widget/blob/main/Daily_Horoscope.ipynb)**** 
 
 ****本文的灵感来自“蟒蛇的隐藏宝藏”****
 
-****[](/hidden-treasures-of-python-78ae604f7e33) [## 蟒蛇的隐藏宝藏
-
-### 很少使用的库以及如何使用它们
-
-towardsdatascience.com](/hidden-treasures-of-python-78ae604f7e33)****
+****</hidden-treasures-of-python-78ae604f7e33> ****

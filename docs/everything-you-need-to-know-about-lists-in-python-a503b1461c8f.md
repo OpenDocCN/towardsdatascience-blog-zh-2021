@@ -23,11 +23,7 @@ Python 中的列表或其他编程语言中的数组基本上是一种复合数�
 
 > 这是我 30 天文章写作挑战的一部分。请随意查看我的新人帖子上的文章:
 
-[](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) [## 让我们在 30 天内发表 30 篇文章
-
-### 在这篇文章中，我将接受挑战，在未来 30 天内写 30 篇与数据科学相关的文章…
-
-nouman10.medium.com](https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb) 
+<https://nouman10.medium.com/lets-publish-30-articles-in-30-days-a0b8111855bb>  
 
 # 列表介绍
 
@@ -197,11 +193,7 @@ print(combined)
 
 列表迭代是一个独立的主题，我在以前的一篇文章中详细讨论过:
 
-[](/everything-you-need-to-know-about-iterating-lists-in-python-78009ff593d5) [## 关于 Python 中迭代列表的所有知识
-
-### 在本文中，我们将研究 Python 中迭代器的各种函数和循环方式
-
-towardsdatascience.com](/everything-you-need-to-know-about-iterating-lists-in-python-78009ff593d5) 
+</everything-you-need-to-know-about-iterating-lists-in-python-78009ff593d5>  
 
 # 将列表用作堆栈:
 

@@ -206,12 +206,4 @@ plt.show()
 
 # 相关文章
 
-[](/how-to-detect-outliers-with-python-pyod-aa7147359e4b) [## 如何用 Python pyod 检测异常值
-
-### 关于 pyod 库使用的快速教程。
-
-towardsdatascience.com](/how-to-detect-outliers-with-python-pyod-aa7147359e4b) [](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [## 4 种不同的时间序列分析方法
-
-towardsdatascience.com](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3)
+</how-to-detect-outliers-with-python-pyod-aa7147359e4b>  </4-different-approaches-for-time-series-analysis-7e2364fadcb9> 

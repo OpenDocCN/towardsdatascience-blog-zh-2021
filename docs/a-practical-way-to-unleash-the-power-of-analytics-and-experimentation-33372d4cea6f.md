@@ -132,16 +132,4 @@ Shyam 是数据领域的公认领导者，在建立技术和数据领域的全�
 
 # 参考
 
-[](https://shyamdsundar.medium.com/prioritising-the-scientific-way-507d4200b6b8) [## 优先考虑科学方法
-
-### 在领导分析和数据科学实践时，我经常处理关于优先级和选择的问题…
-
-shyamdsundar.medium.com](https://shyamdsundar.medium.com/prioritising-the-scientific-way-507d4200b6b8) [](https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/?sh=7bcae3a864b0) [## 议会邮报:选择性(第一部分):它是什么，为什么它是至关重要的？
-
-### Ravi 是工程高级副总裁兼首席技术官，负责监督 Couchbase 数据库的开发和交付…
-
-www.forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/?sh=7bcae3a864b0) [](https://www.linkedin.com/posts/shyamdsundar_insights-datascience-analytics-activity-6717605677487017984-z5t1) [## LinkedIn 上的 Shyam Sundar Dhanabalan 博士:# insights # data science # analytics
-
-### 你喜欢更好的结果还是更好的决定？正确答案是“更好的决策”！在…方面的持续改进
-
-www.linkedin.com](https://www.linkedin.com/posts/shyamdsundar_insights-datascience-analytics-activity-6717605677487017984-z5t1)
+<https://shyamdsundar.medium.com/prioritising-the-scientific-way-507d4200b6b8>  <https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/?sh=7bcae3a864b0>  <https://www.linkedin.com/posts/shyamdsundar_insights-datascience-analytics-activity-6717605677487017984-z5t1> 

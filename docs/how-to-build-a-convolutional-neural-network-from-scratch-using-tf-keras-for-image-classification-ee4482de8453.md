@@ -86,7 +86,7 @@ x = layers.Dense(128, activation='relu')(x)
 x= layers.Dense(10)(x)output= activations.softmax(x)model = Model(inputs=input, outputs=output,name="TF_Functional_API")model.summary()**
 ```
 
-****每层涉及的参数数量和层输出的尺寸可以用[](https://www.tensorflow.org/api_docs/python/tf/keras/Model#summary)****()**方法查看。******
+****每层涉及的参数数量和层输出的尺寸可以用<https://www.tensorflow.org/api_docs/python/tf/keras/Model#summary>****()**方法查看。******
 
 ****![](img/756515e0096a4c0b7af22276dbc5445f.png)****
 
@@ -158,10 +158,10 @@ datagen_test.fit(test_X)**
 ****提高准确性的一些技巧:****
 
 1.  ****使用具有跳过连接的架构，如 [**ResNet**](https://arxiv.org/abs/1512.03385) ，这些架构已被证明对图像表现良好。****
-2.  ****我们可以用**迁移学习**。例如，加载在更大的相关数据集(如[](http://www.image-net.org/)**)上预先训练的模型，然后在我们的数据集上进行微调。由于大小和类别的相似性，预训练的 CIFAR-100 模型在 CIFAR-10 数据集上可能更有益。******
+2.  ****我们可以用**迁移学习**。例如，加载在更大的相关数据集(如<http://www.image-net.org/>**)上预先训练的模型，然后在我们的数据集上进行微调。由于大小和类别的相似性，预训练的 CIFAR-100 模型在 CIFAR-10 数据集上可能更有益。******
 3.  ******调整使用的层和超参数。例如，SGD 优化器、更高的批量、改变过滤器尺寸和每层中的过滤器数量。******
 4.  ******使用 [**学习率调度**](https://keras.io/api/optimizers/learning_rate_schedules/) 随着模型的学习，用历元衰减学习率。******
-5.  ****使用正则化技术，如[](https://keras.io/api/layers/regularization_layers/dropout/)****和高级策略，如 [**CutMix**](https://arxiv.org/abs/1905.04899) **、** [**标签平滑**](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/) **、** [**混合训练**](https://arxiv.org/pdf/1710.09412.pdf) 等。********
+5.  ****使用正则化技术，如<https://keras.io/api/layers/regularization_layers/dropout/>****和高级策略，如 [**CutMix**](https://arxiv.org/abs/1905.04899) **、** [**标签平滑**](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/) **、** [**混合训练**](https://arxiv.org/pdf/1710.09412.pdf) 等。********
 
 > ****注意:****
 > 

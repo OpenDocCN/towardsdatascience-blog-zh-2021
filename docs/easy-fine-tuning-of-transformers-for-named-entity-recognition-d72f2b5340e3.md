@@ -235,40 +235,8 @@ dataset_validation = get_dane_data('dev'),** ...
 
 资源
 
-[](https://github.com/ebanalyse/NERDA) [## 内尔达
-
-### 妮妲不仅是一个迷人的布偶角色。NERDA 也是一个 python 包，它提供了一个简单易用的…
-
-github.com](https://github.com/ebanalyse/NERDA) [](https://huggingface.co/) [## 拥抱脸-在解决 NLP 的任务中，一次一个承诺。
-
-### 为了介绍我们在 ICLR 2018 上展示的工作，我们起草了一份可视化和直观的元学习介绍。在这个…
-
-huggingface.co](https://huggingface.co/) [](https://pytorch.org/) [## PyTorch
-
-### 推动自然语言处理和多任务学习的发展。利用 PyTorch 的灵活性有效地研究新的…
-
-pytorch.org](https://pytorch.org/) [](https://github.com/google-research/bert) [## 谷歌研究/bert
-
-### 这是一个 24 个较小的 BERT 模型的版本(只有英语，未封装，用单词屏蔽训练),参考…
-
-github.com](https://github.com/google-research/bert) 
+<https://github.com/ebanalyse/NERDA>  <https://huggingface.co/>  <https://pytorch.org/>  <https://github.com/google-research/bert>  
 
 [“丹麦人:丹麦人的命名实体资源”。铝(2020)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.565.pdf)
 
-[](https://github.com/google-research/electra) [## 谷歌研究/electra
-
-### ELECTRA 是一种自我监督的语言表示学习方法。它可以用来预训练变压器…
-
-github.com](https://github.com/google-research/electra) [](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) [## 什么是变压器，你如何使用它们？
-
-### 介绍在过去的几年中彻底改变了自然语言处理的模型。
-
-towardsdatascience.com](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) [](/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) [## BERT 解释道:NLP 的艺术语言模型
-
-### 一个平易近人和可理解的解释伯特，谷歌最近的一篇论文，实现了 SOTA 结果在广泛…
-
-towardsdatascience.com](/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) [](/understanding-electra-and-training-an-electra-language-model-3d33e3a9660d) [## 理解 ELECTRA 并训练一个 ELECTRA 语言模型
-
-### 变形金刚模型如何学习语言？伊莱克特拉有什么新消息？你如何在一个…
-
-towardsdatascience.com](/understanding-electra-and-training-an-electra-language-model-3d33e3a9660d)
+<https://github.com/google-research/electra>  </what-are-transformers-and-how-can-you-use-them-f7ccd546071a>  </bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270>  </understanding-electra-and-training-an-electra-language-model-3d33e3a9660d> 

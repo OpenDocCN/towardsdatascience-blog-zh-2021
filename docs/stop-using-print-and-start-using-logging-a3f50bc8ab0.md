@@ -93,7 +93,7 @@ CRITICAL:root:OMG!!! A critical error happend and the code cannot run!
 
 ![](img/7f469993e3cccdaf2395ac93eb2a7d79.png)
 
-Python 文档 LogRecord 属性 [](https://docs.python.org/3/library/logging.html#logrecord-attributes) ( [链接](https://docs.python.org/3/library/logging.html#logrecord-attributes))。
+Python 文档 LogRecord 属性 <https://docs.python.org/3/library/logging.html#logrecord-attributes> ( [链接](https://docs.python.org/3/library/logging.html#logrecord-attributes))。
 
 # 写入文件
 

@@ -14,11 +14,7 @@
 
 总的来说，技术领域——尤其是数据科学——非常广阔，有许多差异很大的部门和子领域。这就是为什么在科技领域导航不像在其他领域导航那么简单。但是今天，让我们把重点放在作为职业道路的数据科学上。数据科学是一个总括术语，通常用于描述与数据有关的各种职业道路。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 但是，在数据科学中，你可以从事不同的领域和专业。由于这种多样性，试图清楚地了解作为一名数据科学家实际需要做些什么常常令人困惑。我和其他数据科学家被问及“那么，作为一名数据科学家，你实际上在做什么？”的次数可以证明这一点。
 
@@ -28,11 +24,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 在每个数据科学项目的开始，数据科学家需要收集和收集数据，通常来自不同的资源-来自网络或数据库-以分析和应用算法。有时，数据科学家不会自己收集数据，但会从客户或公司那里准备好数据以供分析。这个过程是作为数据科学家的第一步，你需要掌握的一个基本和必要的技能。这主要意味着在一段时间内收集关于特定主题的信息。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 # №2:清理数据
 
@@ -46,11 +38,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5
 
 现在，我们终于进入了每个数据科学项目的有趣部分，也是您感觉到您的项目所属的特定专业的步骤。您将需要使用从上一步获得的信息来决定要应用的好模型，并且您的模型可以根据您的应用和您想要的结果而变化。
 
-[](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) [## 作为数据科学家，您需要订阅的 10 份简讯
-
-### 直接通过电子邮件获取有用的知识。
-
-towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab) 
+</10-newsletters-you-need-to-subscribe-to-as-a-data-scientist-d12c7f33fbab>  
 
 # №5:解读结果
 
@@ -64,11 +52,7 @@ towardsdatascience.com](/10-newsletters-you-need-to-subscribe-to-as-a-data-scien
 
 一些职业道路有明确的工作描述。如果你问某人他们是做什么的，并说他们是数学老师或外科医生，通常不会问出他们真正的意思。但是，如果你说你是一名数据科学家，那么 90%的时候，你会被问到这是什么意思，或者你作为一名数据科学家做什么。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 这种模糊背后的原因是术语数据科学家的普遍性，它用于描述不同的角色和工作描述。简单来说，数据科学家是一个处理数据并试图利用数据做出更好的商业决策的人。尽管数据科学中有不同的角色，从分析师到机器学习专家或大数据专家，但几乎所有的数据科学家都使用数据来更好地了解世界。
 

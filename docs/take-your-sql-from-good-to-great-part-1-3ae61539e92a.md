@@ -109,11 +109,7 @@ SELECT * FROM cte_name;
 
 **你可以在这里看到上面这张连通图的笔记本:**
 
- **[## 网球分析
-
-### 背景
-
-count.co](https://count.co/n/jFWwjRetKMx)** 
+ **** 
 
 **您可以在这里了解更多关于 SQL 笔记本的信息[。](https://count.co)**
 

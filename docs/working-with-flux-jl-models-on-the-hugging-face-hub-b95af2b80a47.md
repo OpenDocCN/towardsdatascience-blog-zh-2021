@@ -12,11 +12,7 @@
 
 编辑:我和我的合著者很高兴地告诉大家，我们的新书《朱莉娅速成班》已经开始预售了
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse) [## 朱莉娅速成班(电子书预购)
-
-### Julia 速成课程是使用 Julia 编程语言的实践指南，是为初学者编写的。我们接受…
-
-logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcourse) 
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 好了，现在我们已经安装了 Flux，并且您知道我们为什么可能要使用它，让我们创建一个简单的模型:
 

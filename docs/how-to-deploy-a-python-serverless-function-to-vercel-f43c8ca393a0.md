@@ -80,8 +80,4 @@ class handler(BaseHTTPRequestHandler):
 
 现在您知道了如何将 python 无服务器函数部署到 Vercel！欢迎来到充满新可能性的世界。如果您想将 Ruby 无服务器功能部署到 Vercel，请访问下面的链接。编码快乐！
 
-[](/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2) [## 如何将 Ruby 无服务器功能部署到 Vercel
-
-### 关注你的代码，而不是基础设施
-
-towardsdatascience.com](/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2)
+</how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2> 

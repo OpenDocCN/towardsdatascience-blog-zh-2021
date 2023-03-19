@@ -119,8 +119,4 @@ df.drop(columns = duplicate_features_list, inplace=True)
 
 笔记本可在以下位置获得，并附有完整的功能代码:
 
-[](https://www.kaggle.com/nextbigwhat/detect-duplicate-features-in-dataset) [## 检测数据集中的重复要素
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自实践数据集的数据进行二进制…
-
-www.kaggle.com](https://www.kaggle.com/nextbigwhat/detect-duplicate-features-in-dataset)
+<https://www.kaggle.com/nextbigwhat/detect-duplicate-features-in-dataset> 

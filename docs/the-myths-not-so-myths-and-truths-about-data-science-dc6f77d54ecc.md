@@ -103,11 +103,7 @@
 
 ****不确定如何开始你的 DS 之旅？试试这个教程:****
 
-**[](/is-that-red-wine-good-enough-49326a4c08e4) [## 那种红酒够好吗？
-
-### 一个介绍性的教程，介绍预测建模的基本工作流程，并演示如何记录…
-
-towardsdatascience.com](/is-that-red-wine-good-enough-49326a4c08e4) 
+**</is-that-red-wine-good-enough-49326a4c08e4>  
 
 # 阿拉法特·侯赛因
 

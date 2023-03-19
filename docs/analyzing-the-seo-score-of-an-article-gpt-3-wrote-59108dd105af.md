@@ -30,11 +30,7 @@ GPT 3 号现在风靡一时。这是一个生成性的预训练深度学习模�
 
 查看它为您自己写的示例文章。
 
-[](https://lazarinastoy.medium.com/10-ways-to-increase-your-productivity-c4154b765b9a) [## 提高工作效率的 10 种方法
-
-### 一篇文章，GPT 写的-3
-
-lazarinastoy.medium.com](https://lazarinastoy.medium.com/10-ways-to-increase-your-productivity-c4154b765b9a) 
+<https://lazarinastoy.medium.com/10-ways-to-increase-your-productivity-c4154b765b9a>  
 
 现在，让我们开始分析。
 

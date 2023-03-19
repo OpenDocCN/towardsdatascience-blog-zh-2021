@@ -34,11 +34,7 @@ Jorge Ramirez 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 如果你想了解更多关于数据科学的知识，以及如何掌握这门学科，我强烈建议你通过下面的链接查看下面这篇文章，它讲述了数据科学初学者在 12 个月内成为专业人士的 12 个步骤。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 在本文中，我们的主要目标将是涵盖机器学习的大多数基本方面。我们还将探索机器学习的各种功能，以及您可以做些什么来掌握该领域的大多数关键项目。因此，事不宜迟，让我们开始探索机器学习的这些特性以及随之而来的多个概念。
 
@@ -62,11 +58,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 从下面的链接，你可以看到我以前的一篇文章，主题是“开始你的 Python 机器学习之旅”
 
-[](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) [## 开始使用 Python 掌握机器学习的旅程
-
-### 了解精通机器学习的基本要求
-
-towardsdatascience.com](/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9) 
+</starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9>  
 
 # 编程:
 
@@ -78,15 +70,7 @@ towardsdatascience.com](/starting-your-journey-to-master-machine-learning-with-p
 
 对于每一个机器学习工程师或爱好者来说，编码技能都是必不可少的。如果你渴望从事与机器学习相关的工作，或者任何其他涉及使用机器学习的领域，那么编程是一个非常重要的专业领域。我强烈推荐从下面提供的链接中查看下面的文章资源。它们是提高您的编码技能的很好的指南，也涵盖了为什么您应该保持更新和继续练习您的编程的原因。
 
-[](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
-
-### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
-
-towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) 
+</5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  </how-to-read-and-understand-python-code-faster-180ba1ba9445>  
 
 在学习机器学习编程时，请确保您专注于重要的基本主题，如列表和字典的操作，并了解 Python 的基础知识，如果这是您选择用于机器学习的编程语言的话。通过利用你的编程技能，专注于学习更多的数学实现。练习并不断提高你的编码知识。
 
@@ -110,11 +94,7 @@ Scikit-learn 是另一个很棒的库模块，可以作为 Python 中的附加�
 
 Python 中有如此多令人惊叹的机器学习库模块。这个列表需要一整篇文章。因此，我们将在以后讨论这些主题。从下面提供的链接中可以找到 Python 中其他令人惊叹的独特库模块，它们将帮助您构建很酷的机器学习和数据科学项目。如果观众有兴趣了解更多关于这些库的信息，我强烈推荐他们去看看。
 
-[](/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae) [## 5+独特的 Python 模块，用于创建脱颖而出的机器学习和数据科学项目！
-
-### 超过 5 个酷 Python 库模块的指南，用于创建令人敬畏的机器学习和数据科学项目。
-
-towardsdatascience.com](/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae) 
+</5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae>  
 
 # 算法
 
@@ -130,11 +110,7 @@ towardsdatascience.com](/5-unique-python-modules-for-creating-machine-learning-a
 
 尝试通过从头开始执行这些机器学习算法的实现来获得直观的理解，而不使用这些外部库模块，如 scikit-learn。通过从头开始实现它们，您将对这些架构和算法的内部工作有更好的直觉和更强的理解。我还建议从下面提供的链接中查看下面这篇关于无监督聚类学习简明指南的文章。
 
-[](/concise-guide-to-unsupervised-learning-with-clustering-4924cdbb27cb) [## 聚类无监督学习简明指南！
-
-### 借助聚类算法详细理解无监督学习的概念。
-
-towardsdatascience.com](/concise-guide-to-unsupervised-learning-with-clustering-4924cdbb27cb) 
+</concise-guide-to-unsupervised-learning-with-clustering-4924cdbb27cb>  
 
 # 项目:
 
@@ -150,11 +126,7 @@ towardsdatascience.com](/concise-guide-to-unsupervised-learning-with-clustering-
 
 我强烈推荐从下面提供的链接查看这篇文章。它包含了 15 个非常棒的 Python 和数据科学项目，你应该在 2021 年及以后去看看。
 
-[](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) [## 2021 年及以后的 15 个令人敬畏的 Python 和数据科学项目！
-
-### 15 个很酷的 Python 和数据科学项目，提供有用的链接和资源，为 2021 年构建您的投资组合…
-
-towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20) 
+</15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20>  
 
 # 资源:
 
@@ -166,11 +138,7 @@ towardsdatascience.com](/15-awesome-python-and-data-science-projects-for-2021-an
 
 每一个有抱负的机器学习爱好者都应该学会谷歌一些事实，并找到一些对他们来说最好的技术资源，同时完成一个特定的项目。查看下面的文章，进一步了解一些最好的网站，这些网站可供机器学习爱好者探索并充分利用这些资源。
 
-[](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) [## 了解数据科学和机器学习更多信息的 10 个最佳免费网站！
-
-### 分析 10 个最好的免费网站，以获得更多关于机器学习和数据科学的知识
-
-towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d) 
+</10-best-free-websites-to-learn-more-about-data-science-and-machine-learning-f2c6d7387b8d>  
 
 # 优势:
 
@@ -200,11 +168,7 @@ towardsdatascience.com](/10-best-free-websites-to-learn-more-about-data-science-
 
 为了更深入地了解这些利弊话题，我建议查看一篇广泛涉及这个话题的类似文章。您可以从下面提供的参考资料中找到此链接。
 
-[](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) [## 2021 年数据科学的利与弊
-
-### 5 个优点和 5 个缺点，以确定数据科学是否是你在 2021 年的完美职业选择，或者你是否有更好的…
-
-towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d) 
+</pros-and-cons-of-data-science-in-2021-b3c333dfa79d>  
 
 # 应用:
 
@@ -218,11 +182,7 @@ towardsdatascience.com](/pros-and-cons-of-data-science-in-2021-b3c333dfa79d)
 
 要了解更多关于人工智能和机器学习在众多现实世界应用中的现实应用，请随时通过下面提供的链接查看下面的文章。
 
-[](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) [## 数据科学和人工智能的 10 个令人敬畏的现实世界应用
-
-### 理解和分析人工智能和数据科学在现实世界中的日常使用！
-
-towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74) 
+</10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74>  
 
 # 结论:
 
@@ -244,30 +204,6 @@ towardsdatascience.com](/10-awesome-real-world-applications-of-data-science-and-
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [## 可能会让你惊讶的 5 个独特的人工智能用例
-
-### 找出人工智能在现实世界中令人着迷的五个独特应用
-
-towardsdatascience.com](/5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf) [](/10-best-free-websites-to-learn-programming-939ec029009b) [## 学习编程的 10 个最佳免费网站
-
-### 快速浏览 10 个最好的免费网站，从中学习编程并提高您的编码技能
-
-towardsdatascience.com](/10-best-free-websites-to-learn-programming-939ec029009b) [](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [## 尽快掌握数据科学需要关注的最佳话题
-
-### 开始学习数据科学时，您应该主要关注哪些主题和领域？
-
-towardsdatascience.com](/best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3) [](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [## 你应该用 Python 和 AI 开发游戏的 5 个理由！
-
-### 学习创建一个游戏对提高你的 Python 工作效率大有裨益的 5 个原因…
-
-towardsdatascience.com](/5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637) [](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
-
-### 你有没有可能给你的人工智能编程来发展情绪？
-
-towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) 
+</5-unique-use-cases-of-ai-that-might-surprise-you-22478aaaabaf>  </10-best-free-websites-to-learn-programming-939ec029009b>  </best-topics-to-focus-on-to-master-data-science-as-fast-as-possible-609ce5cb05e3>  </5-reasons-why-you-should-develop-a-game-with-python-and-ai-9f5f276e7637>  </can-your-ai-have-emotions-7efc35721e12>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

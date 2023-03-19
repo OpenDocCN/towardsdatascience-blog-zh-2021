@@ -309,19 +309,7 @@ apt-get install bash-completionecho “source <(kubectl completion bash)” >> ~
 
 现在我们知道如何安装 Kubernetes 集群，我们将能够创建 Kubernetes 作业，这些作业将创建 pods(以及容器),例如，允许训练我们的机器学习模型，序列化它们，将模型加载到内存中，并执行批处理或在线推理。我们在这里探讨了这些概念:
 
-[](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-training-models-cbe33a08c999) [## Docker 和 Kubernetes 的机器学习:训练模型
-
-### Kubernetes，Docker，Python 和 sci kit-机器和深度学习的学习:如何扩大数据科学家的努力
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-training-models-cbe33a08c999) [](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7) [## 使用 Docker 和 Kubernetes 的机器学习:批量推理
-
-### Kubernetes，Docker，Python 和 sci kit-机器和深度学习的学习:如何扩大数据科学家的努力
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7) [](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) [## 使用 Docker、Python Rest APIs 和 Flask 和 Kubernetes 进行实时机器学习预测…
-
-### 用于机器和深度学习的 Kubernetes、Docker、Python、Scikit-Learn 和 Flask:如何扩展数据科学家的工作
-
-xaviervasques.medium.com](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67) 
+<https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-training-models-cbe33a08c999>  <https://xaviervasques.medium.com/machine-learning-with-docker-and-kubernetes-batch-inference-4a25328f23c7>  <https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-python-rest-apis-with-flask-and-kubernetes-fae08cd42e67>  
 
 **来源**
 

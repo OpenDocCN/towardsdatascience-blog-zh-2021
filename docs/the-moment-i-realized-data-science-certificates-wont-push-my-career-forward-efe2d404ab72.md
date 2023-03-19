@@ -16,11 +16,7 @@
 
 因此，我在不断地投资于自己，学习新的东西，无论是通过书籍、会议、MOOCs 等。
 
-[](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) [## 2021 年学习数据科学的课程
-
-### 看看这份课程清单
-
-medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c) 
+<https://medium.com/analytics-vidhya/courses-to-learn-data-science-in-2021-a52e64344e5c>  
 
 最近，我完成了一门关于投资股票市场的课程——当你把钱放在某个地方，它会帮你赚得更多，这总是好的。完成后，我获得了一份证书，祝贺我完成了课程。太好了！
 
@@ -56,15 +52,7 @@ medium.com](https://medium.com/analytics-vidhya/courses-to-learn-data-science-in
 
 如果做得正确，在寻找数据科学工作时，没有理由不能将你的 Vlog/Blog 内容作为你投资组合的一部分。
 
-[](/these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a) [## 这 7 个 Youtube 频道帮助我成为了一名数据科学家
-
-### 确保你订阅了它们
-
-towardsdatascience.com](/these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a) [](/how-i-stay-up-to-date-with-data-science-41e2e6bbbe72) [## 我如何与数据科学保持同步
-
-### 与数据科学保持同步，同时从杂质中过滤黄金对于任何数据都是必不可少的…
-
-towardsdatascience.com](/how-i-stay-up-to-date-with-data-science-41e2e6bbbe72) 
+</these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a>  </how-i-stay-up-to-date-with-data-science-41e2e6bbbe72>  
 
 ## #2 创建项目
 
@@ -74,15 +62,7 @@ towardsdatascience.com](/how-i-stay-up-to-date-with-data-science-41e2e6bbbe72)
 
 通过创建深思熟虑的项目，然后与世界分享你的发现(例如，在 Github 上分享，在 LinkedIn 上分享，写博客等)，确保你的知识得到检验。).
 
-[](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [## 下一个 NLP 项目的 5 个想法
-
-### 产生一些想法
-
-towardsdatascience.com](/5-ideas-for-your-next-nlp-project-c6bf5b86935c) [](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) [## 情绪分析:预测一条推文是否是关于一场灾难
-
-### 探索自然语言处理
-
-towardsdatascience.com](/sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245) 
+</5-ideas-for-your-next-nlp-project-c6bf5b86935c>  </sentiment-analysis-predicting-whether-a-tweet-is-about-a-disaster-c004d09d7245>  
 
 ## #3 参加竞赛和黑客马拉松
 
@@ -104,16 +84,4 @@ towardsdatascience.com](/sentiment-analysis-predicting-whether-a-tweet-is-about-
 
 ## 相关文章
 
-[](/dont-waste-time-building-your-data-science-network-2c336690dee4) [## 不要浪费时间构建您的数据科学网络
-
-### 专注于重要的事情
-
-towardsdatascience.com](/dont-waste-time-building-your-data-science-network-2c336690dee4) [](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [## 不要让闯入数据科学变得比需要的更难
-
-### 我是如何在没有学位或工作经验的情况下找到第一份数据相关工作的
-
-towardsdatascience.com](/dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260) [](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b) [## 为什么我停止申请数据科学的工作
-
-### 以及为什么你应该考虑效仿
-
-towardsdatascience.com](/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b)
+</dont-waste-time-building-your-data-science-network-2c336690dee4>  </dont-make-breaking-into-data-science-harder-than-it-needs-to-be-96835553260>  </why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b> 

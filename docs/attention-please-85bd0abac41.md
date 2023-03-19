@@ -168,31 +168,11 @@ Transformer architecture 去掉了递归，代之以一种关注机制，这种�
 
 # 作者相关文章
 
-[](/how-you-can-use-gpt-j-9c4299dd8526) [## 如何使用 GPT J
-
-### GPT J 解释了 3 种简单的方法，你可以如何访问它
-
-towardsdatascience.com](/how-you-can-use-gpt-j-9c4299dd8526) [](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) 
+</how-you-can-use-gpt-j-9c4299dd8526>  </backpropagation-in-neural-networks-6561e1268da8>  
 
 # 作者撰写的其他文章
 
-[](/deep-q-learning-is-no-rocket-science-e34912f1864) [## 深度 Q 学习不是火箭科学
-
-### 用 pytorch 解释和编码的深度 Q 和双 Q 学习
-
-towardsdatascience.com](/deep-q-learning-is-no-rocket-science-e34912f1864) [](/einstein-index-notation-d62d48795378) [## 爱因斯坦指数符号
-
-### 爱因斯坦求和、指数符号和数值
-
-towardsdatascience.com](/einstein-index-notation-d62d48795378) [](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [## 具有策略梯度的 Snake 深度强化学习
-
-### 策略梯度深度强化学习在蛇游戏中的应用
-
-towardsdatascience.com](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) 
+</deep-q-learning-is-no-rocket-science-e34912f1864>  </einstein-index-notation-d62d48795378>  </snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054>  
 
 ## 想联系支持我？
 

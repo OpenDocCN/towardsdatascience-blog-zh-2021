@@ -246,18 +246,6 @@
 
 最后，如果你喜欢这篇文章，你可能也会喜欢我关于变形金刚、地理定位机器学习和图像字幕架构的其他系列。
 
-[](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [## 直观解释的变压器(第 1 部分):功能概述
-
-### NLP 变形金刚的简明指南，以及为什么它们比 rnn 更好，用简单的英语。注意力如何帮助…
-
-towardsdatascience.com](/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [## 利用地理位置数据进行机器学习:基本技术
-
-### 简明的地理空间数据特征工程和可视化指南
-
-towardsdatascience.com](/leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc) [](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) [## 具有深度学习的图像标题:最先进的架构
-
-### 图像特征编码器、序列解码器、注意和多模态架构的简明指南，用简单的英语编写
-
-towardsdatascience.com](/image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db) 
+</transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>  </leveraging-geolocation-data-for-machine-learning-essential-techniques-192ce3a969bc>  </image-captions-with-deep-learning-state-of-the-art-architectures-3290573712db>  
 
 让我们继续学习吧！

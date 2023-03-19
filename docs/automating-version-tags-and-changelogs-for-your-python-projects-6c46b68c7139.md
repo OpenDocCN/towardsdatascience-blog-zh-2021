@@ -59,26 +59,10 @@ git push --tags
 
 *另外，如果这一切进行得有点太快，看看* [*这个回购*](https://github.com/ngoet/es_demo) *我为一个* [*不同的博客帖子*](https://medium.com/@ndgoet) *设置的，在那里我使用 commitizen 进行版本控制。*
 
-[](https://medium.com/@ndgoet/membership) [## 用我的推荐链接加入媒体。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ndgoet/membership) 
+<https://medium.com/@ndgoet/membership>  
 
 **如果你喜欢这篇文章，这里还有一些你可能喜欢的文章:**
 
-[](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) [## 如何用预提交钩子改进 Python 代码风格
-
-### 实施代码风格是简化开发过程的关键，下面是如何实现自动化。
-
-python .平原英语. io](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) [](/automating-unit-tests-in-python-with-hypothesis-d53affdc1eba) [## 使用假设在 Python 中自动化单元测试
-
-### 单元测试是产生高质量代码的关键。以下是如何自动化测试 Python 代码。
-
-towardsdatascience.com](/automating-unit-tests-in-python-with-hypothesis-d53affdc1eba) [](/simplify-your-python-code-automating-code-complexity-analysis-with-wily-5c1e90c9a485) [## 简化您的 Python 代码:用 Wily 自动化代码复杂性分析
-
-### 以下是如何让评估代码复杂性成为 Python 开发例程的一部分
-
-towardsdatascience.com](/simplify-your-python-code-automating-code-complexity-analysis-with-wily-5c1e90c9a485) 
+<https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa>  </automating-unit-tests-in-python-with-hypothesis-d53affdc1eba>  </simplify-your-python-code-automating-code-complexity-analysis-with-wily-5c1e90c9a485>  
 
 *在依赖* [*中的任何内容之前，请仔细阅读*](/@ndgoet) [*本免责声明*](https://medium.com/@ndgoet/disclaimer-5ad928afc841) *我关于 Medium.com 的文章* *。*

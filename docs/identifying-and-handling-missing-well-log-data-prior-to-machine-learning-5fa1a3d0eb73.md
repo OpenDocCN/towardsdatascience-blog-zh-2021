@@ -304,8 +304,4 @@ memory usage: 3.1+ MB
 
 有兴趣了解更多关于 python 和测井数据或岩石物理学的知识吗？跟我上 [*中*](https://medium.com/@andymcdonaldgeo) *。*
 
-[](https://andymcdonaldgeo.medium.com/membership) [## 通过我的推荐链接加入 Medium 安迪·麦克唐纳
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-andymcdonaldgeo.medium.com](https://andymcdonaldgeo.medium.com/membership)
+<https://andymcdonaldgeo.medium.com/membership> 

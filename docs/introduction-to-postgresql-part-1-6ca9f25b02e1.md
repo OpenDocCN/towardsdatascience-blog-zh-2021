@@ -122,48 +122,12 @@ Postgresql 是一个开源的对象关系数据库管理系统(ORDBMS)。它是�
 
 查看我最近的文章:
 
-[](/sqlite-vs-tinydb-7d6a6a42cb97) [## SQLite vs TinyDB
+</sqlite-vs-tinydb-7d6a6a42cb97> [## SQLite vs TinyDB
 
-towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) [](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [## 关于 Python 虚拟环境你需要知道什么
-
-### 如果你没有使用它们，你应该…
-
-python .平原英语. io](https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586) [](https://python.plainenglish.io/tinydb-b646e3270fd7) [## 使用 TinyDB 的简要指南
-
-### 纯 Python 项目的内置数据库
-
-python .平原英语. io](https://python.plainenglish.io/tinydb-b646e3270fd7) [](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [## Python 数据库转储
-
-### 备份您的数据人员！
-
-python .平原英语. io](https://python.plainenglish.io/python-database-dumping-9a8658994e5a) [](/learning-graphql-4e913f12640d) [## 学习图表 QL
+towardsdatascience.com](/sqlite-vs-tinydb-7d6a6a42cb97) <https://python.plainenglish.io/python-virtual-environments-what-you-need-to-know-95487982c586>  <https://python.plainenglish.io/tinydb-b646e3270fd7>  <https://python.plainenglish.io/python-database-dumping-9a8658994e5a>  </learning-graphql-4e913f12640d> [## 学习图表 QL
 
 towardsdatascience.com](/learning-graphql-4e913f12640d) 
 
 参考资料:
 
-[](https://www.postgresql.org/about/) [## 关于
-
-### PostgreSQL 是一个强大的、开源的对象关系数据库系统，它使用并扩展了 SQL 语言和
-
-www.postgresql.org](https://www.postgresql.org/about/) [](https://www.postgresql.org/docs/9.5/datatype.html) [## 数据类型
-
-### 本文档适用于不受支持的 PostgreSQL 版本。您可能希望查看当前的同一页面…
-
-www.postgresql.org](https://www.postgresql.org/docs/9.5/datatype.html)  [## O/R 建模第 1 部分:介绍 PostgreSQL 作为对象关系数据库管理系统
-
-### 这是对 PostgreSQL 作为一个对象关系数据库管理系统的一个非常简短的介绍。在未来的博客文章中，我们…
-
-ledgersmbdev.blogspot.com](http://ledgersmbdev.blogspot.com/2012/08/intro-to-postgresql-as-object.html) [](https://www.postgresql.org/docs/7.1/mvcc.html#MVCC-INTRO) [## 多版本并发控制
-
-### 本文档适用于不受支持的 PostgreSQL 版本。您可能希望查看当前的同一页面…
-
-www.postgresql.org](https://www.postgresql.org/docs/7.1/mvcc.html#MVCC-INTRO) [](https://www.postgresql.org/docs/9.0/sql-createdatabase.html) [## 创建数据库
-
-### 本文档适用于不受支持的 PostgreSQL 版本。您可能希望查看当前的同一页面…
-
-www.postgresql.org](https://www.postgresql.org/docs/9.0/sql-createdatabase.html) [](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/) [## MVCC(多版本并发控制)是如何工作的
-
-### 了解 MVCC(多版本并发控制)机制如何使用插入、更新和删除示例工作
-
-vladmihalcea.com](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)
+<https://www.postgresql.org/about/>  <https://www.postgresql.org/docs/9.5/datatype.html>    <https://www.postgresql.org/docs/7.1/mvcc.html#MVCC-INTRO>  <https://www.postgresql.org/docs/9.0/sql-createdatabase.html>  <https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/> 

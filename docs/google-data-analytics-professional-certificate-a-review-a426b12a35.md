@@ -125,7 +125,7 @@ Coursera 还为有需要的学习者提供经济援助。我个人从经济资�
 
 ## 在 LinkedIn 上与我联系。
 
-[](https://www.linkedin.com/in/travistang) [## Travis Tang -数据分析师- Gojek
+<https://www.linkedin.com/in/travistang> [## Travis Tang -数据分析师- Gojek
 
 www.linkedin.com](https://www.linkedin.com/in/travistang) 
 

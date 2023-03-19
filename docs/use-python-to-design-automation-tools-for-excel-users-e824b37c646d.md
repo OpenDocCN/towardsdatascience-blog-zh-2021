@@ -37,11 +37,7 @@ Excel 自动化—(图片由作者提供)
 
 **问题:**拥有近 100 万条记录，您的同事正在接近 Excel 的极限。因此，他们请求数据科学家的支持，以找到神奇的解决方案。
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 2.解决办法
 
@@ -101,15 +97,7 @@ Pyinstaller 处理日志—(图片由作者提供)
 
 在开始构建报告之前，您需要从 ERP 中收集数据。如果您正在使用 SAP，您可能会对这一系列关于 ERP 自动化的文章感兴趣
 
-[](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/) [## 零售产品列表的 SAP 自动化
-
-### 自动化和报告使用 Visual Basic 自动化产品，通过 SAP GUI 脚本工具在 SAP 中自动列出产品…
-
-www.samirsaci.com](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/) [](https://www.samirsaci.com/sap-automation-for-retail/) [## 面向零售业的 SAP 自动化
-
-### 自动化和报告设计 RPA 解决方案使用通过 SAP GUI 脚本工具构建的 Visual Basic 脚本设计 RPA…
-
-www.samirsaci.com](https://www.samirsaci.com/sap-automation-for-retail/) 
+<https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/>  <https://www.samirsaci.com/sap-automation-for-retail/>  
 
 # 4.结论
 
@@ -125,11 +113,7 @@ www.samirsaci.com](https://www.samirsaci.com/sap-automation-for-retail/)
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

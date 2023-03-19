@@ -20,11 +20,7 @@
 
 ## 第 1 部分可以在这里找到…
 
-[](/state-values-and-policy-evaluation-ceefdd8c2369) [## 国家价值观和政策评估
-
-### 强化学习简介:第 1 部分
-
-towardsdatascience.com](/state-values-and-policy-evaluation-ceefdd8c2369) 
+</state-values-and-policy-evaluation-ceefdd8c2369>  
 
 ## 密码
 

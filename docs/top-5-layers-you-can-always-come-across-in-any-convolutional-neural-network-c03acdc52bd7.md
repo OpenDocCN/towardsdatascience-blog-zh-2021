@@ -90,15 +90,11 @@ C 选择性神经网络是一系列人工神经网络架构，专门为计算机
 
 如果你有兴趣将你的职业生涯推向深度学习，请查看我的人工智能内容指南。
 
-[](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) [## 我的人工智能内容指南
-
-### 帮助您轻松浏览我的内容的指南。
-
-oyalcin.medium.com](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) 
+<https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17>  
 
 更具体地说，如果您正在寻找使用 TensorFlow 构建自己的卷积神经网络，并使用 MNIST 数据集对手写数字进行分类，请查看下面的文章:
 
-[](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) [## 使用 MNIST 数据集在 10 分钟内完成图像分类
+</image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d> [## 使用 MNIST 数据集在 10 分钟内完成图像分类
 
 towardsdatascience.com](/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) 
 

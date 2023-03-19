@@ -36,44 +36,8 @@
 
 看看我最近的一些文章:
 
-[](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [## 一年的媒介写作
-
-### 回想我写博客第一年的起起落落。
-
-miketechgame.medium.com](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [](/deep-learning-in-data-science-f34b4b124580) [## 数据科学中的深度学习
-
-### 它是什么，为什么使用它？
-
-towardsdatascience.com](/deep-learning-in-data-science-f34b4b124580) [](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [## 美汤网刮
-
-### 用于解析 HTML 的 Python 库
-
-python .平原英语. io](https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32) [](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [## 这周我学到了一些东西——para miko 的远程文件管理
-
-### 另一个 Python 包来拯救…
-
-python .平原英语. io](https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4) [](/all-about-big-data-ae01afacc081) [## 关于大数据的一切
-
-### 深入探讨什么是大数据以及如何存储大数据
-
-towardsdatascience.com](/all-about-big-data-ae01afacc081) 
+<https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297>  </deep-learning-in-data-science-f34b4b124580>  <https://python.plainenglish.io/web-scraping-with-beautiful-soup-1d524e8ef32>  <https://python.plainenglish.io/something-i-learned-this-week-paramikos-remote-file-management-f13af69baf4>  </all-about-big-data-ae01afacc081>  
 
 参考资料:
 
-[](https://www.rocketsource.co/blog/data-as-a-service/) [## 数据即服务:什么、为什么、如何、谁和何时
-
-### 数据即服务(DaaS)的想法经常让人联想到复杂的算法和机器学习，但在…
-
-www.rocketsource.co](https://www.rocketsource.co/blog/data-as-a-service/) [](https://searchdatamanagement.techtarget.com/definition/data-as-a-service) [## 什么是数据即服务(DaaS)？来自 WhatIs.com 的定义
-
-### 数据即服务(DaaS)是一种信息提供和分发模型，其中数据文件(包括文本…
-
-searchdatamanagement.techtarget.com](https://searchdatamanagement.techtarget.com/definition/data-as-a-service) [](https://www.techslang.com/definition/what-is-data-as-a-service/) [## 什么是数据即服务？-由技术术语定义
-
-### 数据即服务是一种数据管理策略，其前提是数据可以通过以下方式按需交付给用户…
-
-www.techslang.com](https://www.techslang.com/definition/what-is-data-as-a-service/) [](https://www.talend.com/resources/what-is-data-as-a-service/) [## 什么是数据即服务(DaaS)？塔伦德
-
-### 随着越来越多的组织转向云来实现基础架构和工作负载的现代化，数据即服务或…
-
-www.talend.com](https://www.talend.com/resources/what-is-data-as-a-service/)
+<https://www.rocketsource.co/blog/data-as-a-service/>  <https://searchdatamanagement.techtarget.com/definition/data-as-a-service>  <https://www.techslang.com/definition/what-is-data-as-a-service/>  <https://www.talend.com/resources/what-is-data-as-a-service/> 

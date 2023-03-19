@@ -74,11 +74,7 @@
 
 我不会详细解释为什么这个配方如此独特。因为这篇文章是关于异常检测的。如果您有兴趣了解更多关于精确度、召回率和 f1 分数的信息，我这里有一篇关于该主题的详细文章:
 
-[](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) [## 完全理解精确度、召回率和 F 分数的概念
-
-### 机器学习中如何处理倾斜数据集
-
-towardsdatascience.com](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) 
+</a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6>  
 
 基于 f1 的分数，你需要选择你的阈值概率。
 
@@ -90,11 +86,7 @@ towardsdatascience.com](/a-complete-understanding-of-precision-recall-and-f-scor
 
 拥有两个特性的好处是你可以将数据可视化，这对学习者来说很好。请随意从该链接下载数据集，并遵循:
 
-[](https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex8data1.xlsx) [## master rashida 048/Machine-Learning-With-Python/ex 8 data 1 . xlsx
-
-### 通过在 GitHub 上创建一个帐户，为 rashida 048/用 Python 进行机器学习开发做出贡献。
-
-github.com](https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex8data1.xlsx) 
+<https://github.com/rashida048/Machine-Learning-With-Python/blob/master/ex8data1.xlsx>  
 
 **我们开始任务吧！**
 

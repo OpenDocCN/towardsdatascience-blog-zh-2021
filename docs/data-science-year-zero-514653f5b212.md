@@ -45,11 +45,7 @@
     -创建 ML 模型
     环境的简单介绍:
 
-[](https://medium.com/swlh/environments-in-software-development-cf84adbbf197) [## 软件开发环境
-
-### 在开发中，我们有各种部署环境
-
-medium.com](https://medium.com/swlh/environments-in-software-development-cf84adbbf197) ![](img/752f8799a3784b93599768e5d138246c.png)
+<https://medium.com/swlh/environments-in-software-development-cf84adbbf197>  ![](img/752f8799a3784b93599768e5d138246c.png)
 
 [伊恩·泰勒](https://unsplash.com/@carrier_lost?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
@@ -57,11 +53,7 @@ medium.com](https://medium.com/swlh/environments-in-software-development-cf84adb
 *   在更大的组织中，您可能会找到专门的 DevOps 人员来做这件事，但是全栈总是更好。码头工人可以做的比我提到的多得多，但我会把这些留给专家。
     **提示** : Dockers 还可以帮你为自己搭建一个便携的个人开发环境，你可以在旅途中使用。Docker 分步指南:
 
-[](/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e) [## 数据科学 Docker 逐步指南
-
-### 通过 Docker 创建一个在你的机器上运行的 ML 工作空间，里面有你需要的 ML 库，VSCode，Jupyter 和…
-
-towardsdatascience.com](/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e) ![](img/69e3f11073995104e4ea0b9e9d9fa793.png)
+</docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e>  ![](img/69e3f11073995104e4ea0b9e9d9fa793.png)
 
 斯蒂芬·菲利普斯-Hostreviews.co.uk 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
@@ -74,15 +66,7 @@ towardsdatascience.com](/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf
 *   ETL :我一直没有注意到 [ETL](https://www.talend.com/resources/what-is-etl/) ，直到它需要我的时候。除非你的产品利用有意的数据传输(IDT)，否则你无法逃避这一点。ETL 是**提取-转换-加载**的首字母缩写，这是一个你必须重复执行的过程，可能一周要为一百个不同的任务执行几百次。ETL 应用程序允许您模板化整个过程(称为“管道”，使用代码或 GUI)，甚至安排它在指定的时间间隔运行，无需干预。
 *   我的工程主管向我推荐了 Pentaho DI Community Edition(早期的 Kettle)，这是一个非常好的应用程序。备选方案包括 Matillion(对云数据源的广泛支持)、Talend 和 Informatica。精明的数据科学家更喜欢使用 **Bash** 进行底层控制，所以你可以选择。Pentaho DI 指南:
 
-[](https://medium.com/ai-in-plain-english/getting-started-with-pentaho-data-integration-kettle-and-its-components-ef1e71101323) [## Pentaho 数据集成(Kettle)及其组件入门。
-
-### 了解勺子、平底锅、厨房等关键部件将使我们对 PDI 工具有更好的了解
-
-medium.com](https://medium.com/ai-in-plain-english/getting-started-with-pentaho-data-integration-kettle-and-its-components-ef1e71101323) [](https://medium.com/whispering-data/the-end-of-etl-as-we-know-it-92166c19084c) [## 我们所知的 ETL 的终结
-
-### 如果你和我一样讨厌这个三个字母的短语，你会很高兴知道还有另一种方法。
-
-medium.com](https://medium.com/whispering-data/the-end-of-etl-as-we-know-it-92166c19084c) 
+<https://medium.com/ai-in-plain-english/getting-started-with-pentaho-data-integration-kettle-and-its-components-ef1e71101323>  <https://medium.com/whispering-data/the-end-of-etl-as-we-know-it-92166c19084c>  
 
 提示**:你最终会想要升级到一个成熟的工作流管理系统(比如 Luigi，Apache Airflow)。此刻我正试图承受气流，这是一个痛苦的世界。但是看起来确实值得，一站式解决。**
 
@@ -102,11 +86,7 @@ medium.com](https://medium.com/whispering-data/the-end-of-etl-as-we-know-it-9216
 *   **ML/DL/Visualization:** 这是你的堡垒。你会不断积累其他技能，但在内心深处，你永远是一个 ML/DL 奇才或可视化爱好者。然而，在最初几年，项目可能并不总是如你所愿。你可能无法建立统计模型或花哨的推荐引擎。你需要通过从事个人项目或参与开源项目来满足自己的需求。当你找到一个你的技能对产品/公司有用的窗口时，赶紧进去。请参考下面的'**工作场所知识**'。你的准备将确保你在需要的时候脱颖而出。
 *   你必须已经熟悉 ML/DL 的 [TensorFlow](https://www.tensorflow.org) 、 [MXNet](https://mxnet.apache.org/versions/1.7.0/) 或 [Torch](https://pytorch.org) 以及可视化的 [ggPlot2](https://ggplot2.tidyverse.org) 、 [Bokeh](https://docs.bokeh.org/en/latest/index.html) 、[plottly](https://plotly.com)。NVIDIA 有一个很棒的开源项目，你可以参与其中:
 
-[](https://github.com/NVlabs/few-shot-vid2vid) [## NV labs/少数镜头-视频 2 视频
-
-### Pytorch 实现少镜头真实感视频到视频的翻译。它可以用来产生人类…
-
-github.com](https://github.com/NVlabs/few-shot-vid2vid) ![](img/4079b314fe38e981456cd82d30ee9268.png)
+<https://github.com/NVlabs/few-shot-vid2vid>  ![](img/4079b314fe38e981456cd82d30ee9268.png)
 
 礼貌:[教程道场](https://tutorialsdojo.com/aws-cheat-sheets/)
 
@@ -115,21 +95,13 @@ github.com](https://github.com/NVlabs/few-shot-vid2vid) ![](img/4079b314fe38e981
 
 **以下是我关于 AWS 数据科学云计算解决方案的个人笔记:**
 
- [## AWS:数据分析和基础
-
-### 词汇表
-
-www . opinion . so](https://www.notion.so/AWS-Data-Analytics-and-Fundamentals-8c9c9edc103e4683ab873acaaa274969) ![](img/e7f52fb724b54021729a05473f968e8c.png)
+  ![](img/e7f52fb724b54021729a05473f968e8c.png)
 
 由[卢克·切瑟](https://unsplash.com/@lukechesser?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
 *   **版本控制(**[**Git**](https://github.com)**):**当你在大型团队中工作时，不可避免地会有多人同时参与项目。这将需要**协作和某种历史以及代码库的变更跟踪**。Git 帮助多人在同一个项目上协作，甚至跟踪对代码库所做的所有更改。它可以做得更多，但这是一个过程，随着经验的积累，你会变得更好。我还在纠结 Git。
 
-[](/introduction-to-git-for-data-science-ca5ffd1cebbe) [## 数据科学 Git 简介
-
-### 了解如何使用版本控制的基础知识
-
-towardsdatascience.com](/introduction-to-git-for-data-science-ca5ffd1cebbe) 
+</introduction-to-git-for-data-science-ca5ffd1cebbe>  
 
 # TL；大卫:你应该先学什么
 

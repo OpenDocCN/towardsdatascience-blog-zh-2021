@@ -134,20 +134,4 @@ Stacer 还允许您通过以下方式优化您的计算机:
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [## Rich:用 Python 在终端生成丰富美观的文本
-
-### 用几行代码调试和创建很酷的 Python 包
-
-towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [](/create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684) [## 使用 Wtfutil 在您的终端中创建一个漂亮的仪表板
-
-### 现在你可以在你的终端上查看你的日程表，待办事项，系统信息，Docker，Git 等等。
-
-towardsdatascience.com](/create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684) [](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [## 了解您的 CSV 文件从您的终端与 XSV
-
-### 用一行代码通过你的终端快速理解你的 CSV 文件
-
-towardsdatascience.com](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [## 如何在命令行上创建和查看交互式备忘单
-
-### 停止搜索命令行。用作弊来节省时间
-
-towardsdatascience.com](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff)
+</rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e>  </create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684>  </understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293>  </how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff> 

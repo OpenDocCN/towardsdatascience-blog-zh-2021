@@ -96,24 +96,4 @@
 
 如果你觉得这很有帮助，请关注我，看看我的其他博客。敬请关注更多内容！❤
 
-[](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [## 作为分析师如何准备商业案例面试？
-
-### 作为数据分析师或数据科学家，我们不仅需要知道概率和统计，机器学习算法…
-
-towardsdatascience.com](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07) [## 想要在 SQL 面试中胜出，你必须知道的 10 个问题
-
-### 2021 年你应该知道的 SQL 面试问题
-
-towardsdatascience.com](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07) [](/probability-sampling-methods-explained-with-python-4c0a19a59456) [## 用 Python 解释概率抽样方法
-
-### 为什么我们需要取样？
-
-towardsdatascience.com](/probability-sampling-methods-explained-with-python-4c0a19a59456) [](/understanding-and-choosing-the-right-probability-distributions-with-examples-5051b59b5211) [## 用例子理解和选择正确的概率分布
-
-### 举例说明最常见的离散概率分布
-
-towardsdatascience.com](/understanding-and-choosing-the-right-probability-distributions-with-examples-5051b59b5211) [](/how-to-handle-missing-values-in-python-23407781b2b0) [## 如何在 Python 中处理缺失值
-
-### 缺失值插补的简明介绍
-
-towardsdatascience.com](/how-to-handle-missing-values-in-python-23407781b2b0)
+</how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8>  </10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07>  </probability-sampling-methods-explained-with-python-4c0a19a59456>  </understanding-and-choosing-the-right-probability-distributions-with-examples-5051b59b5211>  </how-to-handle-missing-values-in-python-23407781b2b0> 

@@ -22,19 +22,11 @@
 
 我在 Medium 上看到了两篇文章:一篇是由 [Sebastian Telsemeyer](https://dsdx.medium.com/) 写的，关于用 Cloud Run 和 Pub/Sub 在 GCP 建立一个时间序列预测管道；
 
-[](/building-a-serverless-containerized-batch-prediction-model-using-google-cloud-run-and-terraform-82c97ab17515) [## 使用 Google Cloud Run 和 Terraform 构建一个无服务器的容器化批量预测模型
-
-### 使用 Google Cloud Run、云存储和发布/订阅的异步模型服务
-
-towardsdatascience.com](/building-a-serverless-containerized-batch-prediction-model-using-google-cloud-run-and-terraform-82c97ab17515) 
+</building-a-serverless-containerized-batch-prediction-model-using-google-cloud-run-and-terraform-82c97ab17515>  
 
 第二个是由 Samir Saci 提出的，他使用 Goolge OR-Tools 来优化最后一英里的交付(然而[解决方案](https://developers.google.com/optimization/routing/cvrp)是由 Goolge 在 2020 年首先提出的):
 
-[](/optimize-e-commerce-last-mile-delivery-with-python-ab9ba37d214c) [## 使用 Python 优化电子商务的最后一英里交付
-
-### 使用 python 优化模型组织路径，以最少的驾驶员数量交付包裹
-
-towardsdatascience.com](/optimize-e-commerce-last-mile-delivery-with-python-ab9ba37d214c) 
+</optimize-e-commerce-last-mile-delivery-with-python-ab9ba37d214c>  
 
 塞巴斯蒂安的文章鼓舞人心。在他的管道中，一个 Pub/Sub 监控一个特定的 GCP 桶。上传 TSV 文件时，它会激活云运行计算，在第二个存储桶中生成结果。他的整个基础设施是无服务器的，并且是用 Terraform 编码的。在我看来，他的管道甚至可以更简单:一个`Finalise/Create`事件触发的云函数，可以代替“Pub/Sub + Cloud Run”组合。更简单的版本需要更少的设置。因为云函数基本上是一个 Lambda 函数，所以它摆脱了整个 Docker 部分和 Gunicorn + Flask 依赖关系。
 
@@ -57,11 +49,7 @@ OR 工具将十个位置的距离矩阵作为输入之一。在谷歌的原始�
 
 带着这些想法，站在 Sebastian 和 Samir 的肩膀上，我接受了挑战，并在 GCP 实施了一个简单的解决方案。云存储中的上传事件可以触发云函数通过 Google Maps API 构建距离矩阵。或工具然后计算路线。最后，它通过 SendGrid 将路线指示发送给运营商(图 2。).作为奖励，我设置了云构建来持续部署应用程序。这个项目的代码存放在我的 Github 库中。
 
-[](https://github.com/dgg32/gcp-delivery-lite) [## dgg 32/GCP-交付-精简版
-
-### 在 GitHub 上创建一个帐户，为 dgg32/gcp-delivery-lite 的开发做出贡献。
-
-github.com](https://github.com/dgg32/gcp-delivery-lite) 
+<https://github.com/dgg32/gcp-delivery-lite>  
 
 # 1.准备输入 Json 数据
 
@@ -158,8 +146,4 @@ github.com](https://github.com/dgg32/gcp-delivery-lite)
 
 因此，现在是时候让你在这条管道上进一步构建一些东西，并向我展示你的想法。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+<https://dgg32.medium.com/membership> 

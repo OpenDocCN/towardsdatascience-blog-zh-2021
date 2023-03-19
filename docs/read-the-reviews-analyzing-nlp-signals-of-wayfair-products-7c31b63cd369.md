@@ -10,7 +10,7 @@
 
 *完成哈佛的* [*AC297r 顶点课程*](https://www.capstone.iacs.seas.harvard.edu/) *。与来自 Wayfair 的* [*纳撒尼尔·伯班克*](https://www.linkedin.com/in/nathanielburbank/) *合作。感谢课程导师* [*克里斯·坦纳*](https://www.linkedin.com/in/chriswtanner/) *和助教* [*黄家仪*](https://www.linkedin.com/in/wphoebe/) *。*
 
-*免责声明:某些细节，包括某些图形和数字，在本分析之前已经进行了转换。本文中表达的观点仅是作者的观点，并不反映哈佛大学*[](https://www.wayfair.com/)**或* [*高级计算科学研究所(IACS)*](https://iacs.seas.harvard.edu/) *的观点。**
+*免责声明:某些细节，包括某些图形和数字，在本分析之前已经进行了转换。本文中表达的观点仅是作者的观点，并不反映哈佛大学*<https://www.wayfair.com/>**或* [*高级计算科学研究所(IACS)*](https://iacs.seas.harvard.edu/) *的观点。**
 
 # *背景*
 

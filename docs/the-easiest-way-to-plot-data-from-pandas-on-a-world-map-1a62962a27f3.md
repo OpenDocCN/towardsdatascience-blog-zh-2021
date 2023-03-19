@@ -115,7 +115,7 @@ ax.grid(b=True, which="minor", alpha=0.25)fig
 
 # 感谢
 
-*我们承认使用了美国宇航局资源管理系统(公司)(*[](https://earthdata.nasa.gov/firms)**)的消防信息的数据和/或图像，这是美国宇航局地球观测系统数据和信息系统(EOSDIS)的一部分。**
+*我们承认使用了美国宇航局资源管理系统(公司)(*<https://earthdata.nasa.gov/firms>**)的消防信息的数据和/或图像，这是美国宇航局地球观测系统数据和信息系统(EOSDIS)的一部分。**
 
 *MODIS 收集了 6 个 NRT 热点/主动火灾探测 [MCD14ML](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/mcd14ml) 由 NASA 公司分发*。*上线[https://earthdata.nasa.gov/firms](https://earthdata.nasa.gov/firms)。doi:[10.5067/FIRMS/MODIS/MCD 14ml](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/mcd14ml)*
 

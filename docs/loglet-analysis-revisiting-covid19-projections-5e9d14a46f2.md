@@ -312,11 +312,7 @@ KNIME-workflow 在我的 [KNIME-hub](https://hub.knime.com/deganza/spaces/Public
 
 这种扩展的对数预测方法比简单的对数分析更灵活，因为它考虑了连续波的演变。因此，可以更快地跟踪和推断病毒的新波动或变异。这变得越来越重要，因为这种病毒已经在英国和南非变异成传染性更强的版本。
 
-[](https://medium.com/@deganza11/membership) [## 通过我的推荐链接加入 Medium-Dennis Ganzaroli
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@deganza11/membership) 
+<https://medium.com/@deganza11/membership>  
 
 *跟我上* [*中*](https://deganza11.medium.com/)*[*Linkedin*](https://www.linkedin.com/in/dennis-ganzaroli-17785222/)*或*[*Twitter*](https://twitter.com/DennisGanzaroli) *以及跟我上的脸书群* [***数据科学跟 yo dime***](https://www.facebook.com/Data-Science-with-Yodime-103661695297356)*
 

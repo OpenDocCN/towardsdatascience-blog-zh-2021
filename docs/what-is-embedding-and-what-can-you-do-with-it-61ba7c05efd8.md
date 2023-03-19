@@ -38,11 +38,7 @@ W ord2vec(由托马斯·米科洛夫领导的谷歌研究团队发表)作为自�
 
 为了说明上面提到的想法，我们可以做的是使用维度演绎技术(主成分分析，UMAP 等)。)将高维向量的大小缩小到 2D/3D，并在图上画出点。这里有一个博客专门向你展示如何在 3D 空间中实现这一点:
 
-[](/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693) [## 使用 3D 360 度动画散点图可视化高维网络数据
-
-### 使用 node2vec，networkx，pca，seaborn 等。可视化高维网络数据
-
-towardsdatascience.com](/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693) 
+</visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693>  
 
 # ***为什么我们要嵌入***
 

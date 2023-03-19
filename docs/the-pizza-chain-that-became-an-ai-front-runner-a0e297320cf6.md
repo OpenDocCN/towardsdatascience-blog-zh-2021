@@ -89,10 +89,6 @@ Domino 的三个 AI 实现应用于[一个 AI 策略框架](/4-business-strategi
 
 嘿，如果一家 60 年的披萨连锁店能做到，那你也能。
 
-*感谢阅读！如果你想找到更详细的人工智能策略介绍，以及 100 种人工智能的现实世界实现，请查看我的关于人工智能的非技术书籍*[](https://thisisrealaibook.com/)**。**
+*感谢阅读！如果你想找到更详细的人工智能策略介绍，以及 100 种人工智能的现实世界实现，请查看我的关于人工智能的非技术书籍*<https://thisisrealaibook.com/>**。**
 
-*[](https://thisisrealaibook.com/) [## 这是真正的人工智能:100 个人工智能的现实世界实现
-
-### 你知道吗？最近，人工智能(AI)发现了世界上最好的流感疫苗。渐进…
-
-thisisrealaibook.com](https://thisisrealaibook.com/)*
+*<https://thisisrealaibook.com/> *

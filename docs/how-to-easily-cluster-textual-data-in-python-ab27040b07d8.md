@@ -86,19 +86,7 @@ K-means 算法的主要目标是通过创建相似方差的聚类来最小化聚
 
 如果你喜欢这篇文章，请看看我下面的其他文章。
 
-[](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b) [## 如何在网站输入上轻松运行 Python 脚本
-
-### 这是我建立的一个网站的演示，它将动态分析文本情感
-
-towardsdatascience.com](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b) [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [## 如何轻松地在你的网站上动态显示你的 Matplotlib 图和 Pandas 数据框。
-
-### 这是一种令人惊讶的简单方法，可以在线向全世界展示您的图表和数据框架，而且不到…
-
-towardsdatascience.com](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [](/how-to-easily-automate-your-keyboard-to-do-tasks-in-python-b698e98a5c40) [## 如何轻松地自动化您的键盘来完成 Python 中的任务
-
-### 永远告别单调的任务
-
-towardsdatascience.com](/how-to-easily-automate-your-keyboard-to-do-tasks-in-python-b698e98a5c40) 
+</how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b>  </how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  </how-to-easily-automate-your-keyboard-to-do-tasks-in-python-b698e98a5c40>  
 
 干杯，
 

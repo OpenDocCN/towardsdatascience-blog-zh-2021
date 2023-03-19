@@ -50,8 +50,4 @@
 
 感谢您的阅读。如果您有更多问题，请通过链接联系我们
 
-[](https://swapnilin.github.io/) [## Swapnil Kangralkar
-
-### Swapnil Kangralkar。我是一名驻加拿大渥太华的中级数据科学家。
-
-swapnilin.github.io](https://swapnilin.github.io/)
+<https://swapnilin.github.io/> 

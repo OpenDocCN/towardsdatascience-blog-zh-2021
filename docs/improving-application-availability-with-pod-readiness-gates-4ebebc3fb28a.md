@@ -80,16 +80,4 @@
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/63?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_63)
 
-[](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [## 调试 Kubernetes 工作负载的最简单方法
-
-### 对 Kubernetes 上运行的任何应用程序进行调试和故障排除的最快最简单的方法…
-
-towardsdatascience.com](/the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75) [](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [## 用 seccomp 强化 Docker 和 Kubernetes
-
-### 您的容器可能不像您想象的那样安全，但是 seccomp 配置文件可以帮助您解决这个问题…
-
-itnext.io](https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111) [](/making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f) [## 使用 kubectl 插件简化 Kubernetes 操作
-
-### 使用这些 kubectl 插件来提高您的生产力，使所有的 Kubernetes 任务和操作更容易，更快和…
-
-towardsdatascience.com](/making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f)
+</the-easiest-way-to-debug-kubernetes-workloads-ff2ff5e3cc75>  <https://itnext.io/hardening-docker-and-kubernetes-with-seccomp-a88b1b4e2111>  </making-kubernetes-operations-easy-with-kubectl-plugins-206493c1f41f> 

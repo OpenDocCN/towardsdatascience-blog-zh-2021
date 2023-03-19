@@ -50,11 +50,7 @@
 
 **您可以通过以下链接下载带有 Spotify 示例的 GA4 分析框架:**
 
-[](https://docs.google.com/spreadsheets/d/1kH_BbETEQDGwIOk4UX84l7yAvC6NWcTLBoHieYmeJm8/edit?usp=sharing) [## GA4 -分析跟踪框架-简化的 Spotify 应用示例
-
-### Sheet1 应用程序，Web，事件参数，用户属性流，应用程序事件…
-
-docs.google.com](https://docs.google.com/spreadsheets/d/1kH_BbETEQDGwIOk4UX84l7yAvC6NWcTLBoHieYmeJm8/edit?usp=sharing) 
+<https://docs.google.com/spreadsheets/d/1kH_BbETEQDGwIOk4UX84l7yAvC6NWcTLBoHieYmeJm8/edit?usp=sharing>  
 
 **最后的想法:**
 

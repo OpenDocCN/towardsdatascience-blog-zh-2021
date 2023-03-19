@@ -129,6 +129,6 @@ OLAP 数据库性能差和成本膨胀的一个常见原因是昂贵的查询模
 
 *这是因为，本质上，处理流数据的计算资源必须动态地重新分配，以匹配流过的数据量。这意味着缩放流数据是一个更复杂的问题，需要一个或多个专业工程师的关注，或者需要专用的流解决方案。*
 
-作为一名作者，我对这个问题特别兴奋，因为这是我在河口的团队正在解决的问题。如果您想了解更多关于如何使用 Flow 为批处理和流式数据构建可伸缩的数据管道的信息，请联系[](https://www.estuary.dev/#get-in-touch)**或加入* [*邮件列表！*](https://share.hsforms.com/1Ash2OjCNQQmEXgJcBHT_wQ553hf)*
+作为一名作者，我对这个问题特别兴奋，因为这是我在河口的团队正在解决的问题。如果您想了解更多关于如何使用 Flow 为批处理和流式数据构建可伸缩的数据管道的信息，请联系<https://www.estuary.dev/#get-in-touch>**或加入* [*邮件列表！*](https://share.hsforms.com/1Ash2OjCNQQmEXgJcBHT_wQ553hf)*
 
 **本帖的一个版本最初发表在* [*河口博客*](https://www.estuary.dev/blogs/) *上。**

@@ -122,19 +122,11 @@ AdaIN 输出 ***t*** 用作内容目标，因为它有助于模型更快地收�
 
 训练 AdaIN 型传输网络的代码可在此处找到:
 
-[](https://github.com/aadhithya/AdaIN-pytorch) [## GitHub-aadhithya/AdaIN-py torch:py torch 实现“实时任意风格传输…
-
-### PyTorch 实现的“实时任意风格转换与自适应实例规范化”由黄浚…
-
-github.com](https://github.com/aadhithya/AdaIN-pytorch) 
+<https://github.com/aadhithya/AdaIN-pytorch>  
 
 预训练模型(pytorch 和 onnx 格式)的权重可在此处找到:
 
-[](https://github.com/aadhithya/AdaIN-pytorch/releases/tag/1.0) [## 释放 AdaIN StyleNet 重量 aadhithya/AdaIN-pytorch
-
-### 训练 30000 次迭代后的模型权重。样式权重(训练):10 创建模型和加载权重:模型=…
-
-github.com](https://github.com/aadhithya/AdaIN-pytorch/releases/tag/1.0) 
+<https://github.com/aadhithya/AdaIN-pytorch/releases/tag/1.0>  
 
 # 结论
 
@@ -170,16 +162,4 @@ github.com](https://github.com/aadhithya/AdaIN-pytorch/releases/tag/1.0)
 
 如果你喜欢这篇文章，这里有一些你可能会喜欢的文章:
 
-[](/learning-disentangled-representations-with-invertible-flow-based-interpretation-networks-9954554a28d2) [## 用可逆的(基于流的)解释网络学习解纠缠的表示
-
-### 什么是解开的表征？
-
-towardsdatascience.com](/learning-disentangled-representations-with-invertible-flow-based-interpretation-networks-9954554a28d2) [](/demystified-wasserstein-gans-wgan-f835324899f4) [## 揭秘:瓦瑟斯坦·甘斯(WGAN)
-
-### 什么是瓦瑟斯坦距离？用 Wasserstein 距离训练 GANs 背后的直觉是什么？怎么样…
-
-towardsdatascience.com](/demystified-wasserstein-gans-wgan-f835324899f4) [](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5) [## 阿特鲁卷积和深度可分卷积的初步研究
-
-### 什么是萎缩/扩张和深度方向可分卷积？与标准卷积有何不同？什么…
-
-towardsdatascience.com](/a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5)
+</learning-disentangled-representations-with-invertible-flow-based-interpretation-networks-9954554a28d2>  </demystified-wasserstein-gans-wgan-f835324899f4>  </a-primer-on-atrous-convolutions-and-depth-wise-separable-convolutions-443b106919f5> 

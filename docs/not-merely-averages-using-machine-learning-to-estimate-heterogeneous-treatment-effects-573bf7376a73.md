@@ -86,7 +86,7 @@
 
 **(1)有一个 Chernozuhokov 等人(2010)的旧版本的[复制文件](https://github.com/demirermert/MLInference/blob/master/Heterogeneity/EL1.R)，应用于摩洛哥的小额信贷。你可以根据你的设置调整文件。**
 
-**(2) **你更好的选择很可能是由** [**马克斯·韦尔兹**](https://github.com/mwelz) **，** [**安德烈亚斯·阿尔方斯**](https://personal.eur.nl/alfons/) **，** [**梅尔特·德米雷尔**](https://www.mertdemirer.com/) **，以及** [**维克多·切尔诺朱科夫**](https://www.mit.edu/~vchern/) **组成的全新而优秀的 R 包 GenericML。R 包的测试版在这里**[](https://github.com/mwelz/GenericML)****是可用的，但是请注意，它仍然在进行中**，作者写道它“还没有经过彻底的测试”，所以他们“还不能保证正确性。”然而，当你读到这篇博文的时候，测试有可能已经取得了进展，这个包可以从 CRAN 获得。****
+**(2) **你更好的选择很可能是由** [**马克斯·韦尔兹**](https://github.com/mwelz) **，** [**安德烈亚斯·阿尔方斯**](https://personal.eur.nl/alfons/) **，** [**梅尔特·德米雷尔**](https://www.mertdemirer.com/) **，以及** [**维克多·切尔诺朱科夫**](https://www.mit.edu/~vchern/) **组成的全新而优秀的 R 包 GenericML。R 包的测试版在这里**<https://github.com/mwelz/GenericML>****是可用的，但是请注意，它仍然在进行中**，作者写道它“还没有经过彻底的测试”，所以他们“还不能保证正确性。”然而，当你读到这篇博文的时候，测试有可能已经取得了进展，这个包可以从 CRAN 获得。****
 
 ****你可以在这里找到这篇博文[的具体例子的代码，但是让我澄清一下:我们正在密切关注由 GenericML 包作者发布的例子代码，在 R 中实现 generic ML 方法的所有功劳都归于他们！](https://github.com/lucas-kitzmueller/GenericML_blog_post)****
 

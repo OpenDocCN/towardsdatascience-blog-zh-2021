@@ -30,7 +30,7 @@
 
 对于抓取谷歌的定制搜索引擎——在他们的常规搜索引擎上的自动请求是不允许的——我们使用[谷歌定制搜索 API](https://developers.google.com/custom-search/) 。这个 API 每天提供多达 100 个免费查询，以 JSON 格式返回输出。使用 Python，我们为每天创建一个查询，并将它们传递给 Google 定制搜索引擎 JSON API，以提取每个搜索的头条。关于创建和配置 API 和谷歌搜索定制引擎的更多信息，请查看我的教程[用 Python 抓取谷歌——一步一步的教程](https://wvheeswijk.medium.com/scraping-google-with-python-a-step-by-step-tutorial-11b38dd5691c)。在这个项目中，我们配置搜索引擎，使其在*中包含来自美国的结果。com* 域。
 
-[](https://medium.com/codex/scraping-google-with-python-a-step-by-step-tutorial-11b38dd5691c) [## 用 Python 抓取 Google 一步一步的教程
+<https://medium.com/codex/scraping-google-with-python-a-step-by-step-tutorial-11b38dd5691c> [## 用 Python 抓取 Google 一步一步的教程
 
 medium.com](https://medium.com/codex/scraping-google-with-python-a-step-by-step-tutorial-11b38dd5691c) 
 
@@ -115,11 +115,7 @@ Denys Kostyuchenko 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 想看完整的标题列表吗？结账:
 
-[](https://wvheeswijk.medium.com/a-year-in-the-life-of-the-florida-man-dec4781a74a2) [## 佛罗里达人的一年生活
-
-### 谷歌一年中每天的头条
-
-wvheeswijk.medium.com](https://wvheeswijk.medium.com/a-year-in-the-life-of-the-florida-man-dec4781a74a2) 
+<https://wvheeswijk.medium.com/a-year-in-the-life-of-the-florida-man-dec4781a74a2>  
 
 # 外卖食品
 

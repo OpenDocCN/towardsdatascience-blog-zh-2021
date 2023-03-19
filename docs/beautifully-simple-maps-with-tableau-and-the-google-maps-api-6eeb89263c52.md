@@ -123,19 +123,11 @@ Google Maps [地理定位 API](https://developers.google.com/maps/documentation/
 
 如果你想看本教程中使用的完整的原始脚本，你可以在 GitHub [这里](https://github.com/schmitzmelissa/geocoding-script)查看它:
 
-[](https://github.com/schmitzmelissa/geocoding-script) [## schmitzmelissa/地理编码-脚本
-
-### 使用 Google Maps API 将城市和州转换为经纬度坐标的脚本。示例…
-
-github.com](https://github.com/schmitzmelissa/geocoding-script) 
+<https://github.com/schmitzmelissa/geocoding-script>  
 
 或者，如果您想在 Tableau Public 上开始示例可视化，您可以在此处[进行操作](https://public.tableau.com/profile/melissa.schmitz#!/vizhome/SimpleScriptsHowcanIproducecleanmapdataforgeodatavisualizations/MapPlot):
 
- [## Tableau 公共
-
-### 如何在 Tableau 中生成清晰的地图可视化？
-
-public.tableau.com](https://public.tableau.com/profile/melissa.schmitz#!/vizhome/SimpleScriptsHowcanIproducecleanmapdataforgeodatavisualizations/MapPlot) 
+  
 
 谢谢你的来访！
 

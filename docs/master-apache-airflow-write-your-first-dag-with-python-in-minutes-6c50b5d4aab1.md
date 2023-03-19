@@ -12,11 +12,7 @@
 
 如果您想了解如何设置 Apache Airflow 环境，这里有一篇适合您的文章:
 
-[](/master-apache-airflow-how-to-install-and-setup-the-environment-in-10-minutes-61dad52d5239) [## 掌握 Apache Airflow:如何在 10 分钟内安装和设置环境
-
-### 了解如何设置和配置环境来编写您的第一个 DAG。
-
-towardsdatascience.com](/master-apache-airflow-how-to-install-and-setup-the-environment-in-10-minutes-61dad52d5239) 
+</master-apache-airflow-how-to-install-and-setup-the-environment-in-10-minutes-61dad52d5239>  
 
 本文假设您已经配置了 Airflow 环境，启动了 webserver 和 scheduler，并且使用 Visual Studio 代码连接到了虚拟机。
 
@@ -134,11 +130,7 @@ Apache Airflow 基于 Dag(有向无环图)的思想。这意味着我们必须�
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 了解更多信息
 

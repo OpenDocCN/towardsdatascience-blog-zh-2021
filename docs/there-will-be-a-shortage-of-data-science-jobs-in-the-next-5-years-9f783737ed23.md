@@ -58,15 +58,7 @@
 
 谢谢你的阅读！
 
-[](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) [## 让你惊叹的 10 个 Python 技巧
-
-### 提高 Python 编程技能的便利特性
-
-better 编程. pub](https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a) [](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) [## 每个程序员的 15 个终极日常技巧
-
-### 打印“hello world”不需要导入 TensorFlow
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) 
+<https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a>  <https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae>  
 
 > 在你走之前…
 

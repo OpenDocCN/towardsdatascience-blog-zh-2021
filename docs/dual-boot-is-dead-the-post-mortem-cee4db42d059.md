@@ -12,11 +12,7 @@
 
 所以，我想出的解决方案很简单。我决定双启动 Ubuntu 和 Windows 10。很长一段时间里，双靴都是答案。然而，一百万次上下文切换之后，Linux 的 Windows 子系统，简称 WSL，发布了。我决定尝试一下，并开始将我的部分工作流程转移到 Windows 和 WSL。
 
-[](/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128) [## 双重引导已死:Windows 和 Linux 现在合二为一了。
-
-### 用 WSL 2 把你的 Windows 机器变成一个开发者工作站。
-
-towardsdatascience.com](/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128) 
+</dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128>  
 
 尽管如此，许多东西还是不见了。但是 WSL 2 来了，它似乎是一个游戏改变者。一年后，WSL 2 仍然没有实现它的承诺或潜力。也许有一天会的，但我现在需要一些东西。此外，由于我是远程工作，我需要一些可移植的东西，一个我可以随身携带并在 10 分钟内设置好的开发环境。
 
@@ -62,11 +58,7 @@ towardsdatascience.com](/dual-boot-is-dead-windows-and-linux-are-now-one-2755590
 
 虽然 ViM 真的很棒，而且我每天都在使用它，尤其是当我在 Jupyter 内部工作时，我仍然更喜欢使用 VS 代码。
 
-[](/jupyter-has-a-perfect-code-editor-62147cb9bf21) [## Jupyter 有一个完美的代码编辑器
-
-### 一切触手可及
-
-towardsdatascience.com](/jupyter-has-a-perfect-code-editor-62147cb9bf21) 
+</jupyter-has-a-perfect-code-editor-62147cb9bf21>  
 
 Visual Studio 代码是一个免费的、轻量级的、跨平台的代码编辑器。它可能不像 IntelliJ Idea 或 T2 py charm 那样是一个成熟的 IDE，但它是一个强大的、不受干扰的工具，拥有专门的粉丝群和蓬勃发展的生态系统。
 
@@ -76,11 +68,7 @@ Visual Studio 代码的[远程开发](https://marketplace.visualstudio.com/items
 
 因此，您可以使用它的[远程 SSH](https://aka.ms/vscode-remote/download/ssh) 变种来连接到您的 VM。此外，您在 VM 内部安装的任何扩展都安装在那里，因此它不会污染核心 VS 代码安装。要了解更多关于如何设置和使用它的信息，请阅读下面的故事:
 
-[](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) [## 你唯一需要的 VS 代码扩展
-
-### 如果您必须安装一个 Visual Code Studio 扩展，这就是它！
-
-towardsdatascience.com](/the-only-vs-code-extension-you-will-ever-need-e095a6d09f24) 
+</the-only-vs-code-extension-you-will-ever-need-e095a6d09f24>  
 
 # 摘要
 

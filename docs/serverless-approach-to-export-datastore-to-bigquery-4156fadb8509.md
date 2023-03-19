@@ -96,11 +96,7 @@ schedule 使用的服务帐户的定义如下所示。该账户有权限调用 *
 
 **完整的功能你可以在这里找到:*[*https://github.com/jkrajniak/demo-datastore-export*](https://github.com/jkrajniak/demo-datastore-export)*
 
-*[](https://github.com/jkrajniak/demo-datastore-export) [## jkrajniak/demo-数据存储-导出
-
-### 在 GitHub 上创建一个帐户，为 jkrajniak/demo-datastore-export 开发做贡献。
-
-github.com](https://github.com/jkrajniak/demo-datastore-export) 
+*<https://github.com/jkrajniak/demo-datastore-export>  
 
 # 许可
 

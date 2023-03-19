@@ -12,11 +12,7 @@
 
 你可以在这里玩烧瓶应用程序。
 
-[](https://github.com/V-Sher/house-interior-prediction) [## GitHub-V-Sher/房屋内部预测
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/V-Sher/house-interior-prediction) 
+<https://github.com/V-Sher/house-interior-prediction>  
 
 ## 快速抬头
 

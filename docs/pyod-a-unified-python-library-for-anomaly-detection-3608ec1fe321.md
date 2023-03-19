@@ -26,11 +26,7 @@
 
 专用的异常值检测算法提供了一种可靠地对大量未标记数据执行模式识别的方法。
 
-[](https://pub.towardsai.net/why-outlier-detection-is-hard-94386578be6c) [## 为什么异常值检测很难
-
-### 异常检测机器学习任务的考虑因素
-
-pub.towardsai.net](https://pub.towardsai.net/why-outlier-detection-is-hard-94386578be6c) 
+<https://pub.towardsai.net/why-outlier-detection-is-hard-94386578be6c>  
 
 # **关键**特性
 
@@ -140,29 +136,13 @@ PyOD 为`[pyod.models.combination](https://pyod.readthedocs.io/en/latest/pyod.mo
 
 如果你喜欢这篇文章，你可能也会喜欢这些类似的帖子。
 
-[](/fast-accurate-anomaly-detection-based-on-copulas-copod-3133ce9041fa) [## 基于 COPOD 的快速准确异常检测
+</fast-accurate-anomaly-detection-based-on-copulas-copod-3133ce9041fa> [## 基于 COPOD 的快速准确异常检测
 
-towardsdatascience.com](/fast-accurate-anomaly-detection-based-on-copulas-copod-3133ce9041fa) [](https://pub.towardsai.net/an-in-depth-guide-to-local-outlier-factor-lof-for-outlier-detection-in-python-5a6f128e5871) [## Python 中离群点检测的局部离群点因子(LOF)深度指南
-
-### 理论直觉、数学定义和实际代码示例
-
-pub.towardsai.net](https://pub.towardsai.net/an-in-depth-guide-to-local-outlier-factor-lof-for-outlier-detection-in-python-5a6f128e5871) [](https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79) [## 用 ECOD 简单统计取代异常值检测
-
-### 一种新的基于 python 的、简单的、无参数的、可解释的无监督异常检测方法
-
-medium.com](https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79) [](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) [## Sktime:用于时间序列机器学习的统一 Python 库
-
-### 用于时间序列预测、分类和回归的“sklearn”
-
-towardsdatascience.com](/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) 
+towardsdatascience.com](/fast-accurate-anomaly-detection-based-on-copulas-copod-3133ce9041fa) <https://pub.towardsai.net/an-in-depth-guide-to-local-outlier-factor-lof-for-outlier-detection-in-python-5a6f128e5871>  <https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79>  </sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55>  
 
 ## 不是中等会员？今天就加入！
 
- [## 阅读亚历山德拉·阿米登(以及媒体上成千上万的其他作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-alexandra-amidon.medium.com](https://alexandra-amidon.medium.com/membership) 
+  
 
 # 参考
 

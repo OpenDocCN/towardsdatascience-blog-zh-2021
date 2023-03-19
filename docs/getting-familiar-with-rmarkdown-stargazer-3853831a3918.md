@@ -18,11 +18,7 @@ ksen ia Samoylenko 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 Stargazer 是一个最初为 R 平台开发的库，用于增强 R Markdown 文档中回归表的表示。作为一个用户，我们不能否认 stargazer 的结果在 pdf 文档中使用时非常类似于科学杂志或统计教科书的外观和感觉。
 
-[](/getting-familiar-with-rmarkdown-pdf-19fed1864952) [## 熟悉 Rmarkdown PDF
-
-### 元数据和引用
-
-towardsdatascience.com](/getting-familiar-with-rmarkdown-pdf-19fed1864952) 
+</getting-familiar-with-rmarkdown-pdf-19fed1864952>  
 
 上面的文章试图鼓励读者积极考虑 R Markdown PDF。但是，这里说的是元数据和参考书目部分。stargazer 的使用在元数据之后，书目之前。
 
@@ -48,19 +44,7 @@ towardsdatascience.com](/getting-familiar-with-rmarkdown-pdf-19fed1864952)
 
 Stargazer 还可以显示“lm”、“glm”和其他类型模型族的稳健标准误差。它同样有助于显示 logit 家族的β系数和指数标准差的比值比。本文中提到了一些有用的参考资料。如果有人想用 stargazer 做他们的论文或主要项目提交的实验，它们是重要的访问目的地，所以要求将它们放在手边。可以从 [*这里*](https://cran.r-project.org/web/packages/stargazer/stargazer.pdf) 和 [*这里*](https://web.northeastern.edu/econpress/wp-content/uploads/2016/04/Stargazer.pdf) 访问几种 pdf 格式。
 
- [## 使用 Stargazer 的额外回归表
-
-### 编辑描述
-
-unc-libraries-data.github.io](https://unc-libraries-data.github.io/R-Open-Labs/Extras/Stargazer/Stargazer.html)  [## 观星者
-
-### 为这个 cheatsheet 设置一个数据集使我能够重点关注 Hadley Wickham 最近创建的两个 R 包。的…
-
-www.jakeruss.com](https://www.jakeruss.com/cheatsheets/stargazer/)  [## RPubs
-
-### 编辑描述
-
-rpubs.com](https://rpubs.com/omerorsun/week3_stargazer) 
+      
 
 需要注意的是，尽管回归的基本本质由于基于树或基于提升的算法迎合大数据的纯粹计算能力而变得成熟，但是涉及不同回归技术的基于关系的研究对于识别重要驱动因素总是有效且必要的。
 

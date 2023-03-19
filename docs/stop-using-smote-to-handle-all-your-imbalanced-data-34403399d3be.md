@@ -17,11 +17,7 @@
 
 > 阅读下面提到的文章中的[来了解处理类不平衡问题的 7 种过采样技术。](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f)
 
-[](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) [## 7 处理不平衡数据的过采样技术
-
-### 各种过采样技术的深度分析
-
-towardsdatascience.com](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) 
+</7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f>  
 
 使用欠采样技术的缺点是，为了平衡类，我们丢失了许多多数类数据点。过采样技术弥补了这一缺点，但在少数类中创建多个样本可能会导致模型过拟合。
 
@@ -104,11 +100,7 @@ Imblean 包附带了 SMOTETomek 和 SMOTEENN 的实现。有一条经验法则�
 
 > 你也可以阅读下面提到的文章中的[来了解处理类不平衡的 7 种过采样技术。](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f)
 
-[](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) [## 7 处理不平衡数据的过采样技术
-
-### 各种过采样技术的深度分析
-
-towardsdatascience.com](/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f) 
+</7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f>  
 
 # 参考资料:
 

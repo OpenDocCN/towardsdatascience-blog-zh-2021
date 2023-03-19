@@ -16,11 +16,7 @@
 
 在这篇文章中，一个可解释的国家最先进的方法被采用，超越了所有以前提出的方法。最近在线发表在 Scopus 索引期刊《农业信息处理》上的一篇影响因子为 6.41 的研究论文被用作本文的基础。
 
-[](https://www.sciencedirect.com/science/article/pii/S2214317321000482) [## ResTS:植物病害检测的剩余深度可解释体系结构
-
-### 近年来，受深层神经网络在植物病害检测中的影响，出现了许多方法
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2214317321000482) 
+<https://www.sciencedirect.com/science/article/pii/S2214317321000482>  
 
 本文提出了一种高级深度学习架构 ResTS，Residual Teacher/Student 的缩写。它包含两个分类器，即 ResTeacher 和 ResStudent 以及一个解码器。rest teacher+Decoder 用作自动编码器，从输入图像中移除非鉴别特征，而 ResStudent 分类器有助于改善这种架构的重建损失。ResTS 输出一个热图，只突出显示叶部疾病和疾病类别的区别特征。它是在 PlantVillage 数据集(分段版本)上训练的。这种提出的结构优于先前发现的用于植物疾病的诊断和可视化的架构，最高 F1 分数为 0.991。figure 1–4 描述了休止符如何操纵输入图像。以下部分解释了这些图像是如何由模型构建的，以及如何通过几个重要的公式进行后处理的。
 
@@ -42,11 +38,7 @@ www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S221431
 
 **1。在 LinkedIn 上的以下帖子中对您的请求提出适当的理由，我将分享个人链接，以各种格式访问预先培训的已保存模型:**
 
-[](https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b-) [## LinkedIn 上的 Dhruvil Shah 研究#创新#数据科学
-
-### 我很高兴与大家分享我的研究论文“ResTS:植物病害的剩余深度可解释架构…
-
-www.linkedin.com](https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b-) 
+<https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b->  
 
 ## 2.按照这里的指示引用论文:[https://doi.org/10.1016/j.inpa.2021.06.001](https://doi.org/10.1016/j.inpa.2021.06.001)
 
@@ -251,11 +243,7 @@ def change():
 
 **1。在 LinkedIn 上的以下帖子中对您的请求提出适当的理由，我将分享个人链接，以访问各种格式的预培训保存模型:**
 
-[](https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b-) [## LinkedIn 上的 Dhruvil Shah 研究#创新#数据科学
-
-### 我很高兴与大家分享我的研究论文“ResTS:植物病害的剩余深度可解释架构…
-
-www.linkedin.com](https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b-) 
+<https://www.linkedin.com/posts/dhruvilshah28_research-innovation-datascience-activity-6809383337841434624-b4b->  
 
 ## 2.按此处说明引用论文:【https://doi.org/10.1016/j.inpa.2021.06.001 
 

@@ -217,11 +217,7 @@ segment_image.load_model("Nature_model_resnet101.h5")**
 
 **阅读本文，了解如何使用 PixelLib 训练一个定制模型。**
 
-**[](/custom-instance-segmentation-training-with-7-lines-of-code-ff340851e99b) [## 用 7 行代码进行自定义实例分段训练。
-
-towardsdatascience.com](/custom-instance-segmentation-training-with-7-lines-of-code-ff340851e99b) 
-
-> [访问 PixelLib 的官方 github 库](https://github.com/ayoolaolafenwa/PixelLib)
+**</custom-instance-segmentation-training-with-7-lines-of-code-ff340851e99b> 
 > 
 > [访问 PixelLib 的官方文档](https://pixellib.readthedocs.io/en/latest/)
 
@@ -237,20 +233,8 @@ Linkedin: [阿尤拉·奥拉芬娃](https://www.linkedin.com/in/ayoola-olafenwa-
 
 查看这些关于如何利用 PixelLib 在图像和视频中进行语义分割、实例分割和背景编辑的文章。
 
-[](/image-segmentation-with-six-lines-0f-code-acb870a462e8) [## 用 5 行代码实现图像分割
+</image-segmentation-with-six-lines-0f-code-acb870a462e8> [## 用 5 行代码实现图像分割
 
-towardsdatascience.com](/image-segmentation-with-six-lines-0f-code-acb870a462e8) [](/video-segmentation-with-5-lines-of-code-87f798afb93) [## 用 5 行代码实现视频分割
+towardsdatascience.com](/image-segmentation-with-six-lines-0f-code-acb870a462e8) </video-segmentation-with-5-lines-of-code-87f798afb93>  </semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c>  </change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a> [## 用 5 行代码改变任何图像的背景
 
-### 视频的语义和实例分割。
-
-towardsdatascience.com](/video-segmentation-with-5-lines-of-code-87f798afb93) [](/semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c) [## 用 5 行代码对 150 类对象进行语义分割
-
-### 用 PixelLib 对 150 类对象进行语义分割
-
-towardsdatascience.com](/semantic-segmentation-of-150-classes-of-objects-with-5-lines-of-code-7f244fa96b6c) [](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) [## 用 5 行代码改变任何图像的背景
-
-towardsdatascience.com](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) [](/change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d) [## 用 5 行代码改变任何视频的背景
-
-### 使用 PixelLib 对视频进行模糊、彩色、灰度处理并创建虚拟背景
-
-towardsdatascience.com](/change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d)**
+towardsdatascience.com](/change-the-background-of-any-image-with-5-lines-of-code-23a0ef10ce9a) </change-the-background-of-any-video-with-5-lines-of-code-7cc847394f5d> **

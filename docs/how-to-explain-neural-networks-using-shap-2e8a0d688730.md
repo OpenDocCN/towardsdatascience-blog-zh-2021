@@ -128,4 +128,4 @@ SHAP 是一个非常强大的方法，当谈到解释模型，不能给我们自
 
 如果你想学习关于神经网络和 SHAP 技术的模式，你可以加入我的 10 多个小时的在线课程[关于 Python 中有监督的机器学习的](https://yourdatateacher.teachable.com/p/supervised-machine-learning-with-python)。
 
-*原载于 2021 年 5 月 17 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2021/05/17/how-to-explain-neural-networks-using-shap/)**。**
+*原载于 2021 年 5 月 17 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2021/05/17/how-to-explain-neural-networks-using-shap/>**。**

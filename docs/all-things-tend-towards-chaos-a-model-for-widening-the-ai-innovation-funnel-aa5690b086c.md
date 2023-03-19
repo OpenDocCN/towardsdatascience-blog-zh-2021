@@ -105,7 +105,7 @@
 *   *Zider，1998 年 11 月至 12 月号。风险投资是如何运作的。<[https://hbr.org/1998/11/how-venture-capital-works](https://hbr.org/1998/11/how-venture-capital-works)*
 *   *伯恩哈德松，2019 年 4 月 15 日。为什么软件项目花费的时间比你想象的要长:一个统计模型<[https://Erik Bern . com/2019/04/15/why-software-projects-take-long-than-you-think-a-statistical-model . html](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)>*
 *   *格雷厄姆，“做不可扩展的事情”(2013 年 7 月)。<[http://paulgraham.com/ds.html](http://paulgraham.com/ds.html)*
-*   *产品计划。产品管理:产品发布。【https://www.productplan.com/glossary/product-launch/<[](https://www.productplan.com/glossary/product-launch/)*
+*   *产品计划。产品管理:产品发布。【https://www.productplan.com/glossary/product-launch/<<https://www.productplan.com/glossary/product-launch/>*
 *   *Gottesdiener，e . 2019 年 1 月 15 日。使用产品画布定义您的产品:入门。<[https://www . ebg consulting . com/blog/using-product-canvas-define-product-get-started/](https://www.ebgconsulting.com/blog/using-product-canvas-define-product-getting-started/)>*
 *   *传统的 POC 已经死亡。视点万岁。<[https://www.omnetric.com/blog/iot-poc-pov](https://www.omnetric.com/blog/iot-poc-pov)*
 *   *赖斯，2009 年 8 月 3 日。摘自《创业经验》最低可行产品:指南。<[http://www . startuplessonslearned . com/2009/08/minimum-viable-product-guide . html](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)>*

@@ -120,7 +120,7 @@ GPU 利用率。来源:来自本地机器的截图
 
 在第 2 部分中，我将演示如何将`tf.data`用于您的输入管道，并测量`tf.data`和 Keras `ImageDataGenerator`之间的性能
 
-[](/optimising-your-input-pipeline-performance-with-tf-data-part-2-9ee406451f93) [## 使用 tf.data 优化输入管道性能(第 2 部分)
+</optimising-your-input-pipeline-performance-with-tf-data-part-2-9ee406451f93> [## 使用 tf.data 优化输入管道性能(第 2 部分)
 
 towardsdatascience.com](/optimising-your-input-pipeline-performance-with-tf-data-part-2-9ee406451f93) 
 

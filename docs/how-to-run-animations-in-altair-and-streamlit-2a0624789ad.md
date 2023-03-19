@@ -147,16 +147,4 @@ streamlit run AltairAnimation.py
 
 # 相关文章
 
-[](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [## 我在六月份发现的一些关于数据可视化的有趣文章和资源
-
-### 从网上收集的一些关于数据可视化的最新有趣文章和资源的摘要。
-
-towardsdatascience.com](/some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946) [](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [## 数据可视化原理第 1 部分:空白、文本和颜色
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [](/plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471) [## plotly VS matplotlib:Python 中数据可视化最好的库是什么？
-
-### 在这个简短的教程中，我将向您展示如何使用 plotly 和 matplotlib 库快速构建一个基本的折线图…
-
-towardsdatascience.com](/plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471)
+</some-interesting-articles-and-resources-on-data-visualisation-that-i-discovered-in-june-c00b58d15946>  </data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9>  </plotly-vs-matplotlib-what-is-the-best-library-for-data-visualization-in-python-89a8b64a9471> 

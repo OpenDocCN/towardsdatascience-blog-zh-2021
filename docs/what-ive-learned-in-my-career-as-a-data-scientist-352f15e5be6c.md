@@ -38,11 +38,7 @@
 
 回想起来，我从来没有后悔过我拒绝攻读博士学位的决定，我必须从学术界跳到工业界。
 
-[](/you-dont-need-a-ph-d-in-data-science-but-aef232436315) [## 你不需要数据科学的博士学位，但是…
-
-### 这是我对所有有抱负的数据科学家的建议。
-
-towardsdatascience.com](/you-dont-need-a-ph-d-in-data-science-but-aef232436315) 
+</you-dont-need-a-ph-d-in-data-science-but-aef232436315>  
 
 # 巨大的飞跃
 

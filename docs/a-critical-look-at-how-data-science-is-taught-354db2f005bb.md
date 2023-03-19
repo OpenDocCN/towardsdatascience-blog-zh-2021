@@ -54,11 +54,7 @@
 
 如果您有兴趣了解更多信息，请访问 Springer Link:
 
-[](https://link.springer.com/book/10.1007/978-1-4842-7413-2) [## 现代深度学习设计与应用开发
-
-### 了解如何在许多环境中利用现代深度学习方法。包装与直觉理论，实践…
-
-link.springer.com](https://link.springer.com/book/10.1007/978-1-4842-7413-2) 
+<https://link.springer.com/book/10.1007/978-1-4842-7413-2>  
 
 感谢您的阅读，请在回复中告诉我您的想法！
 

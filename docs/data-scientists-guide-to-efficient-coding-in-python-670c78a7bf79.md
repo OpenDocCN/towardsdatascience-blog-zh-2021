@@ -278,28 +278,4 @@ image_data_dir: path/to/img/dir*# the following paths are relative to images_dat
 
 *我喜欢写循序渐进的初学者指南、操作指南、面试问题、解码 ML/AI 中使用的术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以使用* [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***注册。****
 
-*[](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) [## 了解 Python 导入，__init__。py 和 pythonpath —一劳永逸
-
-### 了解如何导入包和模块(以及两者之间的区别)
-
-towardsdatascience.com](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) [](/end-to-end-deep-learning-project-part-1-930af1e1e191) [## 端到端深度学习项目:第 1 部分
-
-### 用 Keras 实现迁移学习的高效网络图像分类模型
-
-towardsdatascience.com](/end-to-end-deep-learning-project-part-1-930af1e1e191) [](/interviewers-favorite-question-how-would-you-scale-your-ml-model-56e4fa40071b) [## 面试官最喜欢的问题-你会如何“扩展你的 ML 模型？”
-
-### 您正在构建一个生产就绪的 ML 模型吗？
-
-towardsdatascience.com](/interviewers-favorite-question-how-would-you-scale-your-ml-model-56e4fa40071b) [](/time-series-analysis-using-pandas-in-python-f726d87a97d8) [## 使用 Python 中的 Pandas 进行时间序列分析
-
-### 对季节性、趋势、自相关等关键词的额外介绍。
-
-towardsdatascience.com](/time-series-analysis-using-pandas-in-python-f726d87a97d8) [](https://podurama.com/) [## Podurama:播客播放器
-
-### iOS、Android、Web、Windows 和 MacOS 的无限设备之间的免费同步。阿米莉亚·汤普森这是……
-
-podurama.com](https://podurama.com/) [](https://varshitasher.medium.com/membership) [## 阅读瓦希塔·谢尔博士的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-varshitasher.medium.com](https://varshitasher.medium.com/membership)*
+*</understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355>  </end-to-end-deep-learning-project-part-1-930af1e1e191>  </interviewers-favorite-question-how-would-you-scale-your-ml-model-56e4fa40071b>  </time-series-analysis-using-pandas-in-python-f726d87a97d8>  <https://podurama.com/>  <https://varshitasher.medium.com/membership> *

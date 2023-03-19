@@ -14,11 +14,7 @@
 
 但是这些年来，我学会了几种技术来发现脚本中的错误。有些改变了，有些我停止了。在这篇文章中，我将带你了解我认为调试 Python 代码的坏的、好的和聪明的方法。
 
-[](/poetry-to-complement-virtualenv-44088cc78fd1) [## 你不会还在用 Virtualenv 吧？
-
-### 有一种更好的方法来管理依赖项、打包和发布 Python 项目。
-
-towardsdatascience.com](/poetry-to-complement-virtualenv-44088cc78fd1) 
+</poetry-to-complement-virtualenv-44088cc78fd1>  
 
 让我们从坏的开始。
 
@@ -50,11 +46,7 @@ print 语句用于调试 Python 代码。—作者图片
 
 但是这会吸走开发者的灵魂。有更好的方法。这是我们在列表中的以下技术。
 
-[](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) [## 5 Python GUI 框架来创建桌面、Web 甚至移动应用程序。
-
-### 你可以纯粹用 Python 来构建漂亮的应用程序。
-
-towardsdatascience.com](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) 
+</5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561>  
 
 # 冰淇淋
 
@@ -100,15 +92,7 @@ from icecream import ic
 
 不出我所料，用 [VSCode](https://code.visualstudio.com/) 调试对初学者来说也是超级容易的。这就是这篇文章的其余部分。让我们把这一部分分成三个部分:用断点调试、流行框架的配置和调试数据帧。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建令人惊叹的网络应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [](https://thuwarakesh.medium.com/how-to-create-progressive-web-apps-pwa-in-python-86ab3fb0d7cf) [## 如何用 Python 创建渐进式网络应用程序(PWA)？
-
-### 您可以用 Python 网络框架构建可安装的网络应用程序。以下是使用姜戈创建一个的指南。
-
-thuwarakesh.medium.com](https://thuwarakesh.medium.com/how-to-create-progressive-web-apps-pwa-in-python-86ab3fb0d7cf) 
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  <https://thuwarakesh.medium.com/how-to-create-progressive-web-apps-pwa-in-python-86ab3fb0d7cf>  
 
 ## 在 VSCode 中使用断点调试 Python 脚本。
 

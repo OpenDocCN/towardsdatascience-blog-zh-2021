@@ -102,11 +102,7 @@
 
 既然现在一切都准备好了，剩下的就是以期望的格式训练和导出我们的模型，供以后使用。因为它涉及到在本地或通过 Google Colab 之类的服务运行一些脚本，所以在这里可以很容易地跳过，培训和整个第 1 部分的参考资料可以在这里找到:
 
-[](https://github.com/himanshu-dutta/mbc-object-detection-yolov5) [## 希曼舒-杜塔/MBC-目标探测-约洛夫 5
-
-### YOLOv5 的一个实例在手工收集和注释的食物成分的自定义数据集上进行训练。以下是…
-
-github.com](https://github.com/himanshu-dutta/mbc-object-detection-yolov5) 
+<https://github.com/himanshu-dutta/mbc-object-detection-yolov5>  
 
 # 推理终点
 

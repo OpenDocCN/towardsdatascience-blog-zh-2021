@@ -71,24 +71,4 @@ K 的选择对模型至关重要，如果选择不正确，会导致模型过拟
 
 如果你喜欢这本书，那么看看我的其他作品。
 
-[](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](https://medium.com/nerd-for-tech/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-medium.com](https://medium.com/nerd-for-tech/monte-carlo-method-explained-8635edf2cf58)
+</markov-chain-explained-210581d7a4a9>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  <https://medium.com/nerd-for-tech/monte-carlo-method-explained-8635edf2cf58> 

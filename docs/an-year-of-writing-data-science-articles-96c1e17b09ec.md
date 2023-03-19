@@ -18,11 +18,7 @@
 
 下面是我个人最喜欢的文章之一，我会推荐大多数数据科学初学者查看，以深入探索该主题的大多数复杂细节和方面。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 通过这篇文章，我希望分享我在一年多的时间里写数据科学和人工智能文章时积累的一些重要知识和经验。在我们深入讨论关键要点之前，我想分享一些关于我的背景的小细节，我被问了好几次。事不宜迟，让我们开始吧！
 
@@ -36,15 +32,7 @@ towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-mont
 
 在写我的第一篇文章的时候，我正在进行一个深度学习项目，在人类情感和手势检测的任务上使用迁移学习和定制模型。我以两部分系列的形式发表了这些关于迈向数据科学的文章，并由此开始了我的文章写作之旅。如果您有兴趣探索更多，请点击下面的链接。
 
-[](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [## 使用深度学习的人类情感和手势检测器:第 1 部分
-
-### 了解如何从零开始构建具有深度学习的人类情感和手势检测器。
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb) [](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) [## 使用深度学习的人类情感和手势检测器:第 2 部分
-
-### 深入探究人类情感和手势识别
-
-towardsdatascience.com](/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023) 
+</human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb>  </human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023>  
 
 最初的想法是写几篇文章，可能只是转移到我的其他爱好上。然而，在我早期的帖子中收到的爱和鼓励越来越多地激励我继续学习和写作。
 
@@ -108,11 +96,7 @@ TDS 的编辑团队在整个旅程中给予了我特别的支持，他们在几�
 
 如果你仍然在选择数据科学的中途，还没有完全决定你在不久的将来想从事什么工作，我建议查看我以前的一篇文章，其中我谈到了成为数据科学家的十个错误理由。下面提供了链接。
 
-[](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) [## 成为数据科学家的 10 个错误理由
-
-### 分析追求数据科学成为数据科学家的 10 个错误原因
-
-towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874e) 
+</10-wrong-reasons-to-become-a-data-scientist-319531bb874e>  
 
 # 结论:
 
@@ -128,7 +112,7 @@ towardsdatascience.com](/10-wrong-reasons-to-become-a-data-scientist-319531bb874
 
 Medium 启动了一个新项目，让读者订阅他们最喜欢的作家的作品，以获得最快的更新。如果你喜欢我的内容，那么从下面的链接订阅，每当我发表文章时，你就会收到闪电般的通知！
 
-[](https://bharath-k1297.medium.com/subscribe) [## 当我发布时收到闪电般的速度通知！
+<https://bharath-k1297.medium.com/subscribe> [## 当我发布时收到闪电般的速度通知！
 
 bharath-k1297.medium.com](https://bharath-k1297.medium.com/subscribe) 
 
@@ -136,26 +120,6 @@ bharath-k1297.medium.com](https://bharath-k1297.medium.com/subscribe)
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [## 每个人都必须知道的 10 个计算机视觉术语！
-
-### 十个基本的计算机视觉术语，每个人都应该学习，以更加精通计算机视觉…
-
-towardsdatascience.com](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [## CBAM 天气模式的数据科学和可视化
-
-### 了解如何使用数据科学可视化和 CBAM 解释大量天气模式
-
-towardsdatascience.com](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+</10-computer-vision-terms-everyone-must-know-about-687a98845fc8>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

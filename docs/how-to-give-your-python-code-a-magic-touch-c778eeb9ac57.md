@@ -133,16 +133,8 @@
 
 您可以在这里获得完整的代码:
 
-[](https://github.com/KRBM/PolynomialEngine/) [## GitHub-KRBM/多项式引擎
-
-### 通过多项式的系数来指定多项式:我们可以分别用+和-来加减多项式，p.zeros 给出…
-
-github.com](https://github.com/KRBM/PolynomialEngine/) 
+<https://github.com/KRBM/PolynomialEngine/>  
 
 如果您有任何问题、意见或顾虑，请联系 LinkedIn:
 
-[](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) [## Kasper Müller -高级顾问，数据和分析，金融服务，技术咨询- EY | LinkedIn
-
-### 编程、数学和教学是我最大的兴趣。数据科学、机器学习、编程…
-
-www.linkedin.com](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/)
+<https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/> 

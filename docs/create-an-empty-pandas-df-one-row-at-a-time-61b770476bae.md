@@ -81,16 +81,4 @@ for i in range(7):
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [## 使用预提交挂钩自动化 Python 工作流
-
-### 什么是预提交钩子，它们如何给你的 Python 项目带来好处
-
-towardsdatascience.com](/automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </automating-python-workflows-with-pre-commit-hooks-e5ef8e8d50bb>  </dynamic-typing-in-python-307f7c22b24e> 

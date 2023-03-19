@@ -8,7 +8,7 @@
 
 凯文·Ku 在 T2 拍摄的照片
 
-***本帖原载于*** [***内置博客***](https://builtin.com/software-engineering-perspectives/) ***。原片可以在这里找到***[](https://builtin.com/software-engineering-perspectives/django-overview-introduction)****。****
+***本帖原载于*** [***内置博客***](https://builtin.com/software-engineering-perspectives/) ***。原片可以在这里找到***<https://builtin.com/software-engineering-perspectives/django-overview-introduction>****。****
 
 *Django 是 Python 中的一个高级 web 框架，它允许用户用最少的代码轻松快速地构建 web 应用程序。Django 框架遵循模型-视图-控制器(MVC)设计模式。这种设置简化了复杂的数据库驱动的 web 应用程序的开发。通过这些设计模式，Django 强调了组件的可重用性。它还遵循不重复自己(DRY)原则，通过抽象和数据标准化来避免冗余代码，从而减少软件中的重复。*
 

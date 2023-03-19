@@ -111,32 +111,4 @@ def trainer(dataset: torch.Dataset) -> torch.nn.Module:
 
 **本帖中引用了一些有用的链接:**
 
-**[](/why-ml-should-be-written-as-pipelines-from-the-get-go-b2d95003f998) [## 为什么 ML 应该从一开始就写成管道
-
-### 通过迭代、可复制的管道消除技术债务。
-
-towardsdatascience.com](/why-ml-should-be-written-as-pipelines-from-the-get-go-b2d95003f998) [](https://fall2019.fullstackdeeplearning.com/course-content/ml-teams/roles) [## 角色
-
-### 机器学习团队内部有哪些不同的角色？他们每个人都需要哪些技能？
-
-fall2019.fullstackdeeplearning.com](https://fall2019.fullstackdeeplearning.com/course-content/ml-teams/roles) [](/avoiding-technical-debt-with-ml-pipelines-3e5b6e0c1c93) [## 避免 ML 管道的技术债务
-
-### 开始考虑管道而不是脚本，以避免开发 ML 系统时的技术债务。
-
-towardsdatascience.com](/avoiding-technical-debt-with-ml-pipelines-3e5b6e0c1c93) [](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) [## 为什么数据科学家不需要了解 Kubernetes
-
-### 这篇文章旨在说明，虽然数据科学家拥有整个堆栈是件好事，但他们可以这样做，而不必…
-
-huyenchip.com](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) [](https://eugeneyan.com/writing/end-to-end-data-science/#from-start-identify-the-problem-to-finish-solve-it) [## 不受欢迎的观点-数据科学家应该更加端到端
-
-### 最近，我在 Reddit 上看到一个关于数据科学和机器学习中不同角色的帖子:数据科学家…
-
-eugeneyan.com](https://eugeneyan.com/writing/end-to-end-data-science/#from-start-identify-the-problem-to-finish-solve-it) [](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/#back-1) [## 当心数据科学引脚工厂:全栈数据科学通才和
-
-### 在《国富论》中，亚当·斯密展示了劳动分工是生产率提高的主要来源…
-
-multithreaded.stitchfix.com](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/#back-1) [](https://docs.zenml.io/) [## ZenML 101
-
-### ZenML 管道执行特定于 ML 的工作流，从数据源到分割、预处理、训练，一直到…
-
-docs.zenml.io](https://docs.zenml.io/)**
+**</why-ml-should-be-written-as-pipelines-from-the-get-go-b2d95003f998>  <https://fall2019.fullstackdeeplearning.com/course-content/ml-teams/roles>  </avoiding-technical-debt-with-ml-pipelines-3e5b6e0c1c93>  <https://huyenchip.com/2021/09/13/data-science-infrastructure.html>  <https://eugeneyan.com/writing/end-to-end-data-science/#from-start-identify-the-problem-to-finish-solve-it>  <https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/#back-1>  <https://docs.zenml.io/> **

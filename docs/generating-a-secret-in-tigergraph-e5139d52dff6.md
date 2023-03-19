@@ -62,8 +62,4 @@
 
 恭喜你。你创造了一个秘密！现在，您可以加入 TigerGraph Discord 来了解更多信息并加入任何项目！
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 在 Discord 上查看 TigerGraph 社区-与 379 名其他成员一起闲逛，享受免费语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW)
+<https://discord.gg/gRHWBZNpxW> 

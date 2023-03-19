@@ -25,11 +25,7 @@
 
 现在我们知道了什么是分类变量，很明显我们不能在机器学习模型中直接使用它们。它们必须被转换成有意义的数字表示。这个过程叫做编码。有很多编码分类变量的技术，但是我们将特别关注由 pandas 库提供的一种叫做`[get_dummies()](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)`的技术。
 
- [## pandas.get_dummies - pandas 1.2.4 文档
-
-### 将分类变量转换为虚拟/指示变量。参数数据类似数组、序列或数据帧的数据…
-
-pandas.pydata.org](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html) 
+  
 
 顾名思义，`pandas.get_dummies()`函数将分类变量转换成哑变量或指示变量。让我们通过一个简单的例子来看看它是如何工作的。我们首先定义一个由公司员工属性组成的假设数据集，并使用它来预测员工的工资。
 
@@ -73,11 +69,7 @@ pd.get_dummies(df)
 
 > **注**:上图非常直观的解释了多重共线性。感谢[凯伦·格雷斯-马丁](https://www.theanalysisfactor.com/author/kgm_admin/)以如此清晰的方式解释了这个概念。请参考下面的链接转到文章。
 
-[](https://www.theanalysisfactor.com/multicollinearity-explained-visually/) [## 多重共线性的可视化描述——分析因子
-
-### 多重共线性是统计学中的术语之一，通常以两种方式定义:1。非常数学化…
-
-www.theanalysisfactor.com](https://www.theanalysisfactor.com/multicollinearity-explained-visually/) 
+<https://www.theanalysisfactor.com/multicollinearity-explained-visually/>  
 
 回归模型的假设之一是观测值必须相互独立。**多重共线性**发生在**回归模型**中的独立变量相关时。那么为什么相关性是一个问题呢？为了帮助你详细理解这个概念，避免重复发明轮子，我会给你看一篇由吉姆·弗罗斯特**写的[伟大作品，他非常简洁地解释了这个概念。以下段落来自同一篇文章。](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)**
 

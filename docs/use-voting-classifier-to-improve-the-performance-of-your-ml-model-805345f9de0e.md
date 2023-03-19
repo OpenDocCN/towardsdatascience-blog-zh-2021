@@ -19,11 +19,7 @@
 
 > 阅读我以前的一篇文章来更好地理解 bagging ensemble 技术:
 
-[](/improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7) [## 使用 Bagging 提高机器学习模型的性能
-
-### 了解 Bootstrap Aggregation (Bagging)集成学习的工作原理，并实现随机森林 Bagging 模型…
-
-towardsdatascience.com](/improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7) 
+</improving-the-performance-of-machine-learning-model-using-bagging-534cf4a076a7>  
 
 在本文中，我们将讨论投票分类器的实现，并进一步讨论如何使用它来提高模型的性能。
 
@@ -64,11 +60,7 @@ Scikit-learn 包用几行 Python 代码实现了投票分类器。
 
 与其他模型不同，Scikit-learn 不提供计算投票分类器最高性能特征的实现，但我有一个计算相同特征的黑客。您可以通过基于权重组合每个估计值的重要性分数来计算要素的重要性。跟随[我的前一篇文章](/custom-implementation-of-feature-importance-for-your-voting-classifier-model-859b573ce0e0)来更好地理解这一点:
 
-[](/custom-implementation-of-feature-importance-for-your-voting-classifier-model-859b573ce0e0) [## 投票分类器模型的特征重要性的自定义实现
-
-### 与其他模型不同，Scikit-learn 包缺少投票分类器的功能重要性实现
-
-towardsdatascience.com](/custom-implementation-of-feature-importance-for-your-voting-classifier-model-859b573ce0e0) 
+</custom-implementation-of-feature-importance-for-your-voting-classifier-model-859b573ce0e0>  
 
 # 参考资料:
 
@@ -76,10 +68,6 @@ towardsdatascience.com](/custom-implementation-of-feature-importance-for-your-vo
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://satyam-kumar.medium.com/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一小部分会员费，不需要你额外付费。*
 
-[](https://satyam-kumar.medium.com/membership) [## 加入我的推荐链接-萨蒂扬库马尔媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-satyam-kumar.medium.com](https://satyam-kumar.medium.com/membership) 
+<https://satyam-kumar.medium.com/membership>  
 
 > 感谢您的阅读

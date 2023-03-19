@@ -14,11 +14,7 @@
 
 如果你想从一个简单的仪表板开始，你可能想看看这篇文章。
 
-[](/create-a-simple-dashboard-with-plotly-dash-8f385ba1dd6d) [## 用 Plotly & Dash 创建一个简单的仪表板
-
-### 自从上次我用意甲数据玩游戏并用 Plotly 创建了一些图表，我想我应该迈出一步…
-
-towardsdatascience.com](/create-a-simple-dashboard-with-plotly-dash-8f385ba1dd6d) 
+</create-a-simple-dashboard-with-plotly-dash-8f385ba1dd6d>  
 
 # 先决条件:
 
@@ -379,12 +375,4 @@ if __name__ == '__main__':
 
 # **参考**
 
-[](https://realpython.com/python-dash/) [## 用 Dash - Real Python 开发 Python 中的数据可视化接口
-
-### 过去，创建分析性 web 应用程序是经验丰富的开发人员的任务，他们需要了解…
-
-realpython.com](https://realpython.com/python-dash/) [](https://github.com/gsuijker/avocado_dashboard) [## gsuijker/avocado_dashboard
-
-### 用 plotly 和 dash 制作的鳄梨仪表板。我想看看用…制作仪表板的可能性
-
-github.com](https://github.com/gsuijker/avocado_dashboard)
+<https://realpython.com/python-dash/>  <https://github.com/gsuijker/avocado_dashboard> 

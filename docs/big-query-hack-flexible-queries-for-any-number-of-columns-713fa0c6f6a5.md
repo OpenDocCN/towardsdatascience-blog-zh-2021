@@ -121,16 +121,4 @@ BQ 脚本将所有数字列提取到一个数组中，并构造和执行一个�
 
 如果你觉得这篇文章有帮助，你可能也会对我的其他 BQ 技巧感兴趣。欢迎随时留下评论/问题，BQ 黑客快乐！👋
 
-[](https://medium.com/swlh/bigquery-hack-1000x-more-efficient-aggregation-using-materialized-view-7243e07208da) [## BigQuery Hack:使用物化视图聚合效率提高 1000 倍
-
-### 了解如何使用物化视图增强聚合查询
-
-medium.com](https://medium.com/swlh/bigquery-hack-1000x-more-efficient-aggregation-using-materialized-view-7243e07208da) [](https://medium.com/swlh/bigquery-hack-create-multiple-tables-in-one-query-bc47e52bf44a) [## BigQuery Hack:在一个查询中创建多个表
-
-### 了解如何在一个查询中创建多个表(串联)
-
-medium.com](https://medium.com/swlh/bigquery-hack-create-multiple-tables-in-one-query-bc47e52bf44a) [](https://medium.com/swlh/bigquery-hack-monte-carlo-simulation-for-free-57d18fb87076) [## BigQuery Hack:使用 Javascript UDF 免费计算
-
-### 不像吃角子老虎机，BigQuery 让你免费生成随机数！
-
-medium.com](https://medium.com/swlh/bigquery-hack-monte-carlo-simulation-for-free-57d18fb87076)
+<https://medium.com/swlh/bigquery-hack-1000x-more-efficient-aggregation-using-materialized-view-7243e07208da>  <https://medium.com/swlh/bigquery-hack-create-multiple-tables-in-one-query-bc47e52bf44a>  <https://medium.com/swlh/bigquery-hack-monte-carlo-simulation-for-free-57d18fb87076> 

@@ -91,14 +91,6 @@ C oding 面试是各种软件相关职位必不可少的一部分，比如软件
 
 您可能还会发现下面的文章很有用
 
-[](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) [## 编码面试的七(7)个基本数据结构和相关的常见问题
-
-### 用动画可视化的重要数据结构
-
-towardsdatascience.com](/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290) [](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+</seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290>  <https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f>  
 
 **如果这篇文章对你有帮助，或者你想了解更多关于机器学习和数据科学的知识，请关注我**[**Aqeel an war**](https://medium.com/u/a7cc4f201fb5?source=post_page-----1613776358e--------------------------------)**，或者联系我**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***或者***[***Twitter***](https://twitter.com/_aqeelanwar)***。***

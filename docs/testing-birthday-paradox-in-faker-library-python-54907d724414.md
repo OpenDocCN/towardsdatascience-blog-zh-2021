@@ -106,16 +106,4 @@ The probability of a shared birthday among a group of 366 random people:
 
 如果你喜欢这篇文章，你也可以发现下面这些有趣的:
 
-[](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [## 用 Python 创建瀑布图
-
-### 做这件事最简单的方法
-
-medium.com](https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45) [](https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e) [## 用 Python 为《小王子》生成单词云
-
-### 文字云上的小王子:我们可以这样解开他的一些谜团吗？
-
-python .平原英语. io](https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e) [](https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882) [## 数据科学中的 11 个酷名字
-
-### 你可能不知道它们是什么意思
-
-medium.com](https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882)
+<https://medium.com/geekculture/creating-a-waterfall-chart-in-python-dc7bcddecb45>  <https://python.plainenglish.io/the-little-prince-on-a-word-cloud-8c912b9e587e>  <https://medium.com/mlearning-ai/11-cool-names-in-data-science-2b64ceb3b882> 

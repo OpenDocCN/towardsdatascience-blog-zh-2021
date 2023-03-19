@@ -90,7 +90,7 @@
 
 进行的 A/B 测试的类型取决于许多因素，我将在下面介绍这些因素:
 
-*注意:我不会涉及这些测试背后的数学，但可以随意查看 Francesco 关于 A/B 测试的文章*[](/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)**。**
+*注意:我不会涉及这些测试背后的数学，但可以随意查看 Francesco 关于 A/B 测试的文章*</a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499>**。**
 
 ## ***费希尔精确检验***
 
@@ -255,19 +255,11 @@
 
 *不确定接下来要读什么？我为你选了另一篇文章:*
 
-*[](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) [## 2021 年数据科学家的 50+统计面试问题和答案
-
-### 一个更新的资源，为你的面试刷统计知识！
-
-towardsdatascience.com](/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) 
+*</50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271>  
 
 **又一个！**
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 # 特伦斯·申
 

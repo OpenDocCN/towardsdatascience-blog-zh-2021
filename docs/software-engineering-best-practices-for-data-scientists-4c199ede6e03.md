@@ -206,11 +206,7 @@ DRY(不要重复自己)是一种软件工程最佳实践，旨在保持您的代
 
 查看这篇由微软撰写的关于如何编写单元测试的文章:
 
-[](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices) [## 编写单元测试的最佳实践。网
-
-### 编写单元测试有很多好处；他们帮助回归，提供文档，并促进…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices) 
+<https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices>  
 
 虽然本文只描述了如何用 C#编写单元测试，但是这些经验和例子适用于任何语言。
 

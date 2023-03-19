@@ -85,10 +85,6 @@
 
 # 你愿意支持我吗？
 
-为了获得无限的故事，你还可以考虑注册[](https://jairribeiro.medium.com/membership)**成为中等会员，只需 5 美元。此外，如果您使用我的链接* [*注册*](https://jairribeiro.medium.com/membership) *，我将收到一小笔佣金(无需您额外付费)。**
+为了获得无限的故事，你还可以考虑注册<https://jairribeiro.medium.com/membership>**成为中等会员，只需 5 美元。此外，如果您使用我的链接* [*注册*](https://jairribeiro.medium.com/membership) *，我将收到一小笔佣金(无需您额外付费)。**
 
-*[](https://jairribeiro.medium.com/membership) [## 通过我的推荐链接加入媒体- Jair Ribeiro
-
-### 阅读我分享的每一个故事(以及媒体上成千上万的其他作者)。你的会员费直接支持其他…
-
-jairribeiro.medium.com](https://jairribeiro.medium.com/membership)*
+*<https://jairribeiro.medium.com/membership> *

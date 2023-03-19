@@ -20,11 +20,7 @@ G 图形神经网络(GNNs)已经成为从图形数据中学习的标准工具箱
 
 *如果您对 GNNs 和相关概念完全陌生，我邀请您阅读以下介绍性文章*:
 
-[](/understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5) [## 了解图形神经网络的构建模块(简介)
-
-### 框架上的直觉(带有运行代码),用神经架构分析和学习图形数据
-
-towardsdatascience.com](/understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5) 
+</understanding-the-building-blocks-of-graph-neural-networks-intro-56627f0719d5>  
 
 ## GCN vs 加特——数学热身
 
@@ -273,4 +269,4 @@ Neighborhood aggregation (GCN) scaled with attention scores (GAT). Shape(n, emb)
 
 【https://towardsdatascience.com/tagged/grl-series】:，你可以通过以下链接关注我的系列。
 
-*如果你喜欢我的文章，你可以支持我使用这个链接*[](https://medium.com/@giuseppefutia/membership)**成为一名中等会员。**
+*如果你喜欢我的文章，你可以支持我使用这个链接*<https://medium.com/@giuseppefutia/membership>**成为一名中等会员。**

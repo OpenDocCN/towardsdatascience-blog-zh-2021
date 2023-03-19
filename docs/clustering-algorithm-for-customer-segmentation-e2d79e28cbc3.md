@@ -59,15 +59,7 @@ from pandas.api.types import is_string_dtype, is_numeric_dtype df = pd.read_csv(
 
 如果您想了解更多关于数据可视化和 EDA 的细节，请查看这两篇文章。
 
-[](/feature-selection-and-eda-in-python-c6c4eb1058a3) [## 机器学习中的特征选择和 EDA
-
-### 如何使用数据可视化来指导特征选择
-
-towardsdatascience.com](/feature-selection-and-eda-in-python-c6c4eb1058a3) [](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) 
+</feature-selection-and-eda-in-python-c6c4eb1058a3>  </semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 ## 2.数据预处理
 
@@ -258,18 +250,6 @@ k 表示聚类是一种基于**中心的聚类算法**，这意味着它根据�
 
 ## *更多这样的文章*
 
-*[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
+*</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  </simple-logistic-regression-using-python-scikit-learn-86bf984f61f1>  <https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d>  
 
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) [## 2021 年数据科学家关注的 15 大网站
-
-### 启发学习的网站和博客
-
-medium.com](https://medium.com/analytics-vidhya/top-15-websites-for-data-scientists-to-follow-in-2021-67352092c54d) 
-
-*原载于 2021 年 7 月 4 日 https://www.visual-design.net*[](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)**。***
+*原载于 2021 年 7 月 4 日 https://www.visual-design.net*<https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python>**。***

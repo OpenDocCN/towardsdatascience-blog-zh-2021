@@ -128,11 +128,7 @@ OR-Tools 是 Google 的一个开源集合，提供了用于组合优化的工具
 
 让我们尝试使用这个库来找到最佳排序，以减少这个特定流程集的**最大完工时间**。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。优化您的日程安排
 
@@ -224,11 +220,7 @@ Machine 3: job_1_2   job_3_3   job_2_3
 
 如果我们有标签缝纫工作站，对整体生产力会有什么影响？
 
-[](/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3) [## 基于排队论的供应链流程设计
-
-### 用 Python 应用排队论的几个原则来设计一个电子商务的包裹打包过程…
-
-towardsdatascience.com](/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3) 
+</supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3>  
 
 # 关于我
 
@@ -236,11 +228,7 @@ towardsdatascience.com](/supply-chain-process-design-using-the-queueing-theory-2
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

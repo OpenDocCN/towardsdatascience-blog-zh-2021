@@ -151,11 +151,7 @@ Y = reward_batch+gamma *(1—done_batch)* torch . max(Q2，dim=1)[0])中的 done
 
 点击这里查看本文的第 1 部分:
 
-[](https://nandakishorej8.medium.com/part-1-building-a-deep-q-network-to-play-gridworld-deepminds-deep-q-networks-78842007c631) [## 第 1 部分——构建深度 Q 网络来玩 grid world——deep mind 的深度 Q 网络
-
-### 在本文中，让我们构建一个类似于 DeepMind 的 Atari 代理的深度 Q 网络来玩 Gridworld 问题。我们会…
-
-nandakishorej8.medium.com](https://nandakishorej8.medium.com/part-1-building-a-deep-q-network-to-play-gridworld-deepminds-deep-q-networks-78842007c631) 
+<https://nandakishorej8.medium.com/part-1-building-a-deep-q-network-to-play-gridworld-deepminds-deep-q-networks-78842007c631>  
 
 在这里查看这篇文章的第三部分:
 [https://nandakishorej 8 . medium . com/Part-3-building-a-deep-q-network-to-play-grid world-learning-unstability-and-target-networks-FB 399 CB 42616](https://nandakishorej8.medium.com/part-3-building-a-deep-q-network-to-play-gridworld-learning-instability-and-target-networks-fb399cb42616)

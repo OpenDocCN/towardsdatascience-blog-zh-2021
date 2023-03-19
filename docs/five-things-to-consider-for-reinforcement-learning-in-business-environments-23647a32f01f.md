@@ -60,7 +60,7 @@ RL 环境通常是[部分确定和部分随机的](/what-are-post-decision-state
 
 固有的权衡是在设计努力和计算努力之间。尽管存在一些有用的指导方针[3]，但是对于一个给定的问题，不一定有一个“最佳”的政策类别，更不用说一个*通用的*解决方案。不过这是另一个时间的讨论——现在，在构思现实世界 RL 问题的解决方案时，推荐一种开放的思维就足够了。
 
-[](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 

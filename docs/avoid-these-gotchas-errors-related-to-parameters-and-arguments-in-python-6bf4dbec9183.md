@@ -108,4 +108,4 @@
 
 > *在*[*LinkedIn*](https://www.linkedin.com/in/rahulbanerjee2699/)*，* [*Twitter*](https://twitter.com/rahulbanerjee99) 上跟我连线
 
-*原载于 2021 年 5 月 2 日 https://www.realpythonproject.com*[](https://www.realpythonproject.com/avoid-these-gotchas-errors-related-to-parameters-and-arguments-in-python/)**。**
+*原载于 2021 年 5 月 2 日 https://www.realpythonproject.com*<https://www.realpythonproject.com/avoid-these-gotchas-errors-related-to-parameters-and-arguments-in-python/>**。**

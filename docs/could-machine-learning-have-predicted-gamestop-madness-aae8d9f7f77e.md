@@ -172,24 +172,8 @@ GameStop 是一家中型零售商，没有什么特别之处。上周它的股�
 
 **我也在 [Linkedin](http://www.linkedin.com/in/maletelier) 和 [Twitter](https://twitter.com/maletelier) 上。我很乐意与你交谈！如果你想多读一点，看看我最近的一些帖子:**
 
-**[](/top-5-data-science-job-roles-for-2021-c487fd4ed1c6) [## 2021 年前 5 大数据科学工作角色
-
-### 数据科学家不是一个…
-
-towardsdatascience.com](/top-5-data-science-job-roles-for-2021-c487fd4ed1c6) [](/roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab) [## NumPy 中从头开始的 ROC 曲线和 AUC(可视化！)
-
-### 因为你只有在建造它的时候才会学到它。
-
-towardsdatascience.com](/roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab) 
+**</top-5-data-science-job-roles-for-2021-c487fd4ed1c6>  </roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab>  
 
 # 承诺的文章
 
-[](https://marker.medium.com/gamestop-proves-were-in-a-meme-stock-bubble-b3f39163a77f) [## GameStop 的惨败证明我们正处于一个“迷因股”泡沫中
-
-### Redditors 和华尔街之间的新动态揭示了 2021 年的股票市场
-
-marker.medium.com](https://marker.medium.com/gamestop-proves-were-in-a-meme-stock-bubble-b3f39163a77f) [](https://www.denofgeek.com/games/gamestop-gme-nokia-amc-hedge-fund-stock-market-wall-street-memes/) [## GameStop 对冲基金股市惨败由互联网解释
-
-### 新闻 Reddit 买下了所有的“gamestonk ”,华尔街恐慌了。这些游戏到底发生了什么…
-
-www.denofgeek.com](https://www.denofgeek.com/games/gamestop-gme-nokia-amc-hedge-fund-stock-market-wall-street-memes/)**
+<https://marker.medium.com/gamestop-proves-were-in-a-meme-stock-bubble-b3f39163a77f>  <https://www.denofgeek.com/games/gamestop-gme-nokia-amc-hedge-fund-stock-market-wall-street-memes/> **

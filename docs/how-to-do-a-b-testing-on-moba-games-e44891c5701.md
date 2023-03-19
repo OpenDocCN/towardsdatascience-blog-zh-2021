@@ -45,11 +45,7 @@ DOTA2 也是一个不断发展的游戏，为了保持游戏平衡，物品和�
 
 *使用 [OpenDota Explorer](https://www.opendota.com/explorer?sql=select%20match_id%20from%20matches%0Ajoin%20team_match%20using(match_id)%0Awhere%20team_id%20%3D%2036%0Aorder%20by%20match_id%20desc) 获取数据，它允许我们编写 SQL 查询来提取数据。完整的表格模式可在此处找到:*
 
-*[](https://github.com/odota/core/blob/master/sql/create_tables.sql) [## 主 odata/core 上的 core/create_tables.sql
-
-### 开源 Dota 2 数据平台。通过在 GitHub 上创建帐户，为 odata/core 开发做出贡献。
-
-github.com](https://github.com/odota/core/blob/master/sql/create_tables.sql) 
+*<https://github.com/odota/core/blob/master/sql/create_tables.sql>  
 
 ## 数据模式
 
@@ -101,24 +97,8 @@ github.com](https://github.com/odota/core/blob/master/sql/create_tables.sql)
 
 如果您希望研究整个代码，请参见下面的资源库:
 
-[](https://github.com/NadimKawwa/dota_hypothesis_test) [## GitHub-NadimKawwa/dota _ hypothesis _ test:使用样本英雄对胜率进行假设检验
-
-### 使用样本对胜率进行假设检验
-
-github.com](https://github.com/NadimKawwa/dota_hypothesis_test) 
+<https://github.com/NadimKawwa/dota_hypothesis_test>  
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) [## 统计假设检验-维基百科
-
-### 统计假设是一种假设，可以根据模拟为实际值的观察数据进行检验…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) [](https://stats.stackexchange.com/questions/113602/test-if-two-binomial-distributions-are-statistically-different-from-each-other) [## 测试两个二项分布在统计上是否不同
-
-### begingroup$我有三组数据，每组都是二项分布(也就是说，每组的元素都是…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/113602/test-if-two-binomial-distributions-are-statistically-different-from-each-other) [](https://github.com/odota/core/blob/master/sql/create_tables.sql) [## 主 odata/core 上的 core/create_tables.sql
-
-### 开源 Dota 2 数据平台。通过在 GitHub 上创建帐户，为 odata/core 开发做出贡献。
-
-github.com](https://github.com/odota/core/blob/master/sql/create_tables.sql)*
+<https://en.wikipedia.org/wiki/Statistical_hypothesis_testing>  <https://stats.stackexchange.com/questions/113602/test-if-two-binomial-distributions-are-statistically-different-from-each-other>  <https://github.com/odota/core/blob/master/sql/create_tables.sql> *

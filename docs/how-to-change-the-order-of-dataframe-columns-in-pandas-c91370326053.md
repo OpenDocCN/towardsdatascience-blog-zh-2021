@@ -109,16 +109,4 @@ df.reindex(sorted(df.columns, reverse=True), axis='columns')
 
 **你可能也会喜欢**
 
-[](/how-to-delete-a-column-in-pandas-cc4120dbfc25) [## 如何删除熊猫中的一个栏目
-
-### 从 pandas 数据框架中删除列
-
-towardsdatascience.com](/how-to-delete-a-column-in-pandas-cc4120dbfc25) [](/easter-eggs-in-python-f32b284ef0c5) [## 蟒蛇皮复活节彩蛋
-
-### 探索八个用 Python 包装的复活节彩蛋
-
-towardsdatascience.com](/easter-eggs-in-python-f32b284ef0c5) [](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926) [## Python 中浅拷贝和深拷贝有什么区别？
-
-### Python 中的 copy()与 deepcopy()
-
-towardsdatascience.com](/whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926)
+</how-to-delete-a-column-in-pandas-cc4120dbfc25>  </easter-eggs-in-python-f32b284ef0c5>  </whats-the-difference-between-shallow-and-deep-copies-in-python-ceee1e061926> 

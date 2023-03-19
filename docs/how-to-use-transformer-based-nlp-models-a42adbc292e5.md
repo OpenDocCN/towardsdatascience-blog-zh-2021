@@ -128,19 +128,11 @@ Transformer 模型结构已经在很大程度上取代了其他 NLP 模型实现
 
 你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的会员。
 
-[](https://medium.com/@julia.nikulski/membership) [## 通过我的推荐链接加入 Medium-Julia Nikulski
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@julia.nikulski/membership) 
+<https://medium.com/@julia.nikulski/membership>  
 
 你想开始使用基于 Transformer 的 NLP 模型，但是你还没有一个具体的项目想法吗？为什么不看看我的关于如何提出独特的数据科学项目想法的 5 步指南:
 
-[](/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b) [## 开发独特数据科学项目创意的 5 个步骤
-
-### 帮助您识别值得一试的新颖独特的数据项目的指南
-
-towardsdatascience.com](/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b) 
+</5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b>  
 
 # 学术论文参考文献
 

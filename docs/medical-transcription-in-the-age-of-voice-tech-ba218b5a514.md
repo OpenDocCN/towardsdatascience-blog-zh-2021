@@ -8,7 +8,7 @@
 
 ![](img/6e63ad733f9c64efd2f5a32d32fe07e0.png)
 
-【Freepik.com】形象由[](https://www.freepik.com/premium-photo/medicine-doctor-team-meeting-analysis_5284720.htm#page=2&query=data+science&position=34)
+【Freepik.com】形象由<https://www.freepik.com/premium-photo/medicine-doctor-team-meeting-analysis_5284720.htm#page=2&query=data+science&position=34>
 
 # 医学领域中的人工神经网络
 

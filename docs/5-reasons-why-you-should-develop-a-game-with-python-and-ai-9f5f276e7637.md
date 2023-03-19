@@ -24,11 +24,7 @@
 
 幸运的是，这些 GPU 也可以用来有效地玩现代游戏。要了解更多关于图形处理单元(GPU)的信息，我强烈建议通过下面提供的链接查看下面这篇关于“你真的需要一个用于深度学习的 GPU 吗”的文章。它涵盖了这个主题的大部分重要细节。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 有了这个基本的理解之后，让我们来缩小为什么你应该专注于用 Python 和人工智能开发一个或多个游戏来提高你的编程技能和整体生产力的五个原因。
 
@@ -96,11 +92,7 @@ towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226
 
 在我看来，在解决游戏项目的过程中，你所开发的最优质的技能是规划的重要特征。你从一开始就制定了一个完整的工作计划和游戏项目的样子。这个规划特性允许你在旅途中解释和修改你的代码。要了解数据科学家的其他基本素质，请通过下面提供的链接查看我以前的一篇文章。
 
-[](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) [## 成功数据科学家的 5 大品质！
-
-### 找出将成功的数据科学家与其他人区分开来的独特特质
-
-towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca) 
+</top-5-qualities-of-successful-data-scientists-c3cfa0f8f0ca>  
 
 最本质的原因可以在文章的下一部分找到，在那里我们讨论了借助人工智能开发游戏的意义，特别是在深度学习和深度强化学习领域。
 
@@ -142,26 +134,6 @@ towardsdatascience.com](/top-5-qualities-of-successful-data-scientists-c3cfa0f8f
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/can-your-ai-have-emotions-7efc35721e12) [## 你的 AI 可以有情感吗？
-
-### 你有没有可能给你的人工智能编程来发展情绪？
-
-towardsdatascience.com](/can-your-ai-have-emotions-7efc35721e12) [](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [## 使用对象存储和 Jupyter 笔记本
-
-### 理解对象存储和 Jupyter 笔记本的概念。了解将他们融入其中的最佳平台…
-
-towardsdatascience.com](/working-with-object-storage-and-jupyter-notebooks-96915cba815a) [](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [## 如何更快地阅读和理解 Python 代码
-
-### 如何更快地为数据科学和人工智能解释 Python 代码的快速指南
-
-towardsdatascience.com](/how-to-read-and-understand-python-code-faster-180ba1ba9445) [](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [## 作为数据科学家，你应该每天编码的 5 个理由
-
-### 即使它只是每天一点点编码，你也必须考虑它
-
-towardsdatascience.com](/5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4) [](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) [## 回答关于人工智能的 10 个最常见的问题
-
-### 提供人工智能问题的解决方案，澄清误解，并讨论关于人工智能的各种概念
-
-towardsdatascience.com](/answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837) 
+</can-your-ai-have-emotions-7efc35721e12>  </working-with-object-storage-and-jupyter-notebooks-96915cba815a>  </how-to-read-and-understand-python-code-faster-180ba1ba9445>  </5-reasons-why-you-should-code-daily-as-a-data-scientist-fa7fc6dc92c4>  </answering-10-most-commonly-asked-questions-about-artificial-intelligence-f847e63b5837>  
 
 谢谢你们坚持到最后。我希望你们喜欢阅读这篇文章。我希望你们都有美好的一天！

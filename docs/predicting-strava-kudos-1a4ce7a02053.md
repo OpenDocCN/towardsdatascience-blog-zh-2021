@@ -217,12 +217,4 @@ XGB 模型的超参数重要性和平行坐标图(图片由作者提供)
 
 如果你做到了这一步，这里有一些你可能感兴趣的我的其他故事…
 
-[](/building-a-recipe-recommendation-system-297c229dda7b) [## 建立食谱推荐系统
-
-### 使用 Word2Vec、Scikit-Learn 和 Streamlit
-
-towardsdatascience.com](/building-a-recipe-recommendation-system-297c229dda7b) [](/organizing-machine-learning-projects-e4f86f9fdd9c) [## 组织机器学习项目
-
-### 组织机器学习项目的实用指南
-
-towardsdatascience.com](/organizing-machine-learning-projects-e4f86f9fdd9c)
+</building-a-recipe-recommendation-system-297c229dda7b>  </organizing-machine-learning-projects-e4f86f9fdd9c> 

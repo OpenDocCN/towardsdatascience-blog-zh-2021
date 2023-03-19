@@ -80,11 +80,7 @@
 
 # 密码
 
-[](https://github.com/Vennify-Inc/zero-shot-data-generation) [## venni fy-Inc/零炮数据生成
-
-### 在 GitHub 上创建一个帐户，为 Vennify-Inc/zero-shot 数据生成开发做出贡献。
-
-github.com](https://github.com/Vennify-Inc/zero-shot-data-generation) 
+<https://github.com/Vennify-Inc/zero-shot-data-generation>  
 
 *如果你有自然语言处理研究的经验，并且相信这个实验的原创性不足以导致发表论文，请联系我。*
 

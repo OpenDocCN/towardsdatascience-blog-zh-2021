@@ -117,18 +117,6 @@ QCNN 算法与经典的 CNN 算法非常相似。然而，看到一些其他的�
 
 你可能也会觉得这些文章很有趣。
 
-[](/5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406) [## 2021 年值得关注的 5 项激动人心的深度学习进展
-
-### 正在进行的研究的暗流
-
-towardsdatascience.com](/5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406) [](/a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59) [## 一个迷人的和最先进的方法来训练神经网络对不诚实的数据
-
-### 从损坏的数据中学习
-
-towardsdatascience.com](/a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59) [](https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb) [## Mlearning.ai 提交建议
-
-### 如何成为 Mlearning.ai 上的作家
-
-medium.com](https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb) 
+</5-exciting-deep-learning-advancements-to-keep-your-eye-on-in-2021-6f6a9b6d2406>  </a-fascinating-state-of-the-art-method-to-train-neural-networks-on-dishonest-data-bcbf51dd0b59>  <https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb>  
 
 🟠 [**成为作家**](https://medium.com/mlearning-ai/mlearning-ai-submission-suggestions-b51e2b130bfb)

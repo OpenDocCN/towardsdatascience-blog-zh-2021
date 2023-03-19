@@ -144,11 +144,7 @@ query = 'Poisson Dirichlet distribution with two-parameters' print('Results: ')r
 
 完整的代码也可以在这里的笔记本上找到:
 
-[](https://github.com/yashprakash13/haystack-search-engine) [## yashprakash 13/haystack-搜索引擎
-
-### 基于 Kaggle 的 Arxiv 数据集构建的语义搜索引擎。-yashprakash 13/haystack-搜索引擎
-
-github.com](https://github.com/yashprakash13/haystack-search-engine) 
+<https://github.com/yashprakash13/haystack-search-engine>  
 
 感谢阅读！:)
 
@@ -158,8 +154,4 @@ github.com](https://github.com/yashprakash13/haystack-search-engine)
 
 这是我的另一篇文章，你可能想读一读:
 
-[](/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21) [## 使用 FastAPI 部署 ML 模型——简明指南
-
-### 如何使用 NLP 模型作为 API——智能的、生产就绪的方式。
-
-towardsdatascience.com](/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21)
+</deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21> 

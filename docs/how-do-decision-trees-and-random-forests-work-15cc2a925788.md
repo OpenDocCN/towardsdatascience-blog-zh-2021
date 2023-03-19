@@ -61,14 +61,6 @@
 
 # 进一步阅读
 
-[](/how-do-decision-trees-and-random-forests-work-66a1094e6c5d) [## 决策树和随机森林是如何工作的？
+</how-do-decision-trees-and-random-forests-work-66a1094e6c5d> [## 决策树和随机森林是如何工作的？
 
-towardsdatascience.com](/how-do-decision-trees-and-random-forests-work-66a1094e6c5d)  [## 决策树回归
-
-### 地图>数据科学>预测未来>建模>回归>决策树决策树构建回归或…
-
-www.saedsayad.com](https://www.saedsayad.com/decision_tree_reg.htm) [](/use-rattle-to-help-you-learn-r-d495c0cc517f) [## 用拨浪鼓来帮助你学习 R
-
-### 初学者指南
-
-towardsdatascience.com](/use-rattle-to-help-you-learn-r-d495c0cc517f)
+towardsdatascience.com](/how-do-decision-trees-and-random-forests-work-66a1094e6c5d)   </use-rattle-to-help-you-learn-r-d495c0cc517f> 

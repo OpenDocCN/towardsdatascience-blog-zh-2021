@@ -64,11 +64,7 @@ Standard error: 0.08733193966359917
 
 在我的上一篇文章中，我已经写了信心和预测区间的区别。这篇文章包括在回归模型环境中引导两者的代码——不要犹豫，绕道去看看吧！
 
-[](/confidence-intervals-vs-prediction-intervals-7b296ae58745) [## 置信区间与预测区间
-
-### 混淆这两者可能代价高昂。了解它们的不同之处以及何时使用它们！
-
-towardsdatascience.com](/confidence-intervals-vs-prediction-intervals-7b296ae58745) 
+</confidence-intervals-vs-prediction-intervals-7b296ae58745>  
 
 ## 示例 4:引导和缺失数据
 
@@ -219,16 +215,4 @@ Bruce，Bruce & Gedeck (2020)，*数据科学家实用统计学，*第二版，O
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/confidence-intervals-vs-prediction-intervals-7b296ae58745) [## 置信区间与预测区间
-
-### 混淆这两者可能代价高昂。了解它们的不同之处以及何时使用它们！
-
-towardsdatascience.com](/confidence-intervals-vs-prediction-intervals-7b296ae58745) [](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一个简短的关于为什么可以拒绝假说，但不能接受它们的入门书，有例子和视觉效果。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d) [](/establishing-causality-part-1-49cb9230884c) [## 建立因果关系:第 1 部分
-
-### 随机实验的黄金标准
-
-towardsdatascience.com](/establishing-causality-part-1-49cb9230884c)
+</confidence-intervals-vs-prediction-intervals-7b296ae58745>  </the-hypothesis-testers-guide-75f7db2e4d0d>  </establishing-causality-part-1-49cb9230884c> 

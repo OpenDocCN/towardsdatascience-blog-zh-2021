@@ -182,8 +182,4 @@ PCA 是在不使用 sklearn 库的情况下通过数学运算创建的，并且�
 
 ## 回到指引点击[此处](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 所有与机器学习相关的文章
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> 

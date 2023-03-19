@@ -24,7 +24,7 @@
 
 查尔斯·德鲁维奥在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-抓耳挠腮之余，你翻开自己信任的统计书籍，发现了以下说法 [](https://www.springer.com/gp/book/9783642172601) :
+抓耳挠腮之余，你翻开自己信任的统计书籍，发现了以下说法 <https://www.springer.com/gp/book/9783642172601> :
 
 > "统计分析的目标是找出数据背后的分布."
 

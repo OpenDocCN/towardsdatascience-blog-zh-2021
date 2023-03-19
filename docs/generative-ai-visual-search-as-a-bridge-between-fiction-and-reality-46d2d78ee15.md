@@ -61,7 +61,7 @@ StyleGAN2 投影是一个很大的可能性，但可以用几种方式欺骗；�
 
 老实说，有两点:
 
-1.  这可能不一定是欺诈或伪造的，只是另一个即将开业的公司分支机构的模型,或者仍然没有同事的照片。例如，前面提到的在别尔哥罗德[办公室的公司职员看起来很普通](https://belgorod.dezmarafet.ru/)，不像甘。可能这只是另一个——我们，人类，西方——对俄国制造的*假货的偏见。即使不存在这样的情况，我们也会发现它们的另一种情况[](/pareidolia-of-ai-dba7cf44bfde?sk=f22677820ca169764e2c076fea98ee6e)****或**选择性知觉**。不是所有的俄罗斯都是假的；不是所有的假货都是俄罗斯的。顺便说一句。将 GAN 的图像用于实体模型是一个非常明显的想法:你不需要购买股票图像，并且你的实体模型员工的脸不会在完全不同的产品上重复出现，如[股票女孩“Ariane”](https://vulcanpost.com/6176/overexposed-model-ariane-makes-you-go-she-is-everywhere/)。比较[这个出租不存在](https://thisrentaldoesnotexist.com/)，一个使用 StyleGAN2 faces 作为用户账号的生成页面(更像是一个实验)。*****
+1.  这可能不一定是欺诈或伪造的，只是另一个即将开业的公司分支机构的模型,或者仍然没有同事的照片。例如，前面提到的在别尔哥罗德[办公室的公司职员看起来很普通](https://belgorod.dezmarafet.ru/)，不像甘。可能这只是另一个——我们，人类，西方——对俄国制造的*假货的偏见。即使不存在这样的情况，我们也会发现它们的另一种情况</pareidolia-of-ai-dba7cf44bfde?sk=f22677820ca169764e2c076fea98ee6e>****或**选择性知觉**。不是所有的俄罗斯都是假的；不是所有的假货都是俄罗斯的。顺便说一句。将 GAN 的图像用于实体模型是一个非常明显的想法:你不需要购买股票图像，并且你的实体模型员工的脸不会在完全不同的产品上重复出现，如[股票女孩“Ariane”](https://vulcanpost.com/6176/overexposed-model-ariane-makes-you-go-she-is-everywhere/)。比较[这个出租不存在](https://thisrentaldoesnotexist.com/)，一个使用 StyleGAN2 faces 作为用户账号的生成页面(更像是一个实验)。*****
 2.  ****如果这可能是一个骗局，这不仅仅是 Yandex 的特色，也不仅仅是俄罗斯的问题。唯一的问题是:Yandex 确实比谷歌(Google)更擅长寻找 GAN 的面孔。****
 
 ****谷歌搜索可能是查找全球虚假公司的一个好办法，但它也有缺陷:****

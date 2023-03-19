@@ -64,13 +64,9 @@ GPT-2 文本生成|修改后的图像来自[来源](http://jalammar.github.io/il
 
 *所有代码和预训练的垃圾邮件/业余邮件生成器模型可在—* 找到
 
-[](https://github.com/prakhar21/TextAugmentation-GPT2) [## GitHub-prak har 21/text augmentation-gp T2:针对定制主题的微调预训练 gp T2…
+<https://github.com/prakhar21/TextAugmentation-GPT2>  
 
-### 针对特定主题文本生成的微调预训练 GPT2。这种系统可用于文本扩充。git…
-
-github.com](https://github.com/prakhar21/TextAugmentation-GPT2) 
-
-**如果你愿意，你也可以在**[](https://www.youtube.com/watch?v=9O9scQb4sNo&list=PLsAqq9lZFOtUg63g_95OuV-R2GhV1UiIZ)****查看一些最近在 NLP 数据增强领域的研究。****
+**如果你愿意，你也可以在**<https://www.youtube.com/watch?v=9O9scQb4sNo&list=PLsAqq9lZFOtUg63g_95OuV-R2GhV1UiIZ>****查看一些最近在 NLP 数据增强领域的研究。****
 
 **我希望你喜欢读这篇文章。如果你愿意支持我成为一名作家，可以考虑注册[成为一名媒体成员](https://prakhar-mishra.medium.com/membership)。每月只需 5 美元，你就可以无限制地使用 Medium。**
 

@@ -90,11 +90,7 @@ Bloomberg.com 声称[美国输送了太多的博士。](https://www.bloomberg.co
 
 > 数据科学是向现任和前任教师以及其他受过博士教育的专业人士开放的众多职业道路之一。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 结论
 

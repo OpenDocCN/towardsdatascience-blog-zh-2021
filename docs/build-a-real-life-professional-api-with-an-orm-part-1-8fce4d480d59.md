@@ -42,7 +42,7 @@ ORM 代表对象关系映射，它是一种允许你使用对象从数据库中�
 
 在 API 能够处理数据库数据之前，我们需要一个实际使用的数据库。在 [**这篇文章**](https://mikehuls.medium.com/version-control-your-database-part-2-migrations-and-seeds-for-table-relations-d4fb185d95d8) 中，我们使用迁移来创建所有的表、关联、关联和索引。无论您是否使用迁移，本文还包含一个非常漂亮的 BeerSnob 数据库结构图。
 
-我们将在 [**本文**](https://mikehuls.medium.com/version-control-your-database-part-2-migrations-and-seeds-for-table-relations-d4fb185d95d8) 中构建的迁移模型上构建 API。如果你想编码，那么 git 从这里的[](https://github.com/mike-huls/beersnobv2)****克隆代码。**首先让我们构建一个 ORM，然后实现我们的 API。**
+我们将在 [**本文**](https://mikehuls.medium.com/version-control-your-database-part-2-migrations-and-seeds-for-table-relations-d4fb185d95d8) 中构建的迁移模型上构建 API。如果你想编码，那么 git 从这里的<https://github.com/mike-huls/beersnobv2>****克隆代码。**首先让我们构建一个 ORM，然后实现我们的 API。**
 
 # **2.为我们的 ORM 创建模型**
 

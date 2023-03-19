@@ -247,10 +247,6 @@ Covaxin:智能单词云，通过情绪进行颜色编码
 
 如果你做到了这一步，非常感谢你的阅读！这项工作的代码可以在下面的 GitHub 资源库中找到:
 
-[](https://github.com/sejaldua/covid19-vaccy-tweets-NLP) [## sejaldua/covid 19-vacci-tweets-NLP
-
-### 新冠肺炎疫苗推特的情感分析。为 sejaldua/covid 19-vaccy-tweets-NLP 的发展做出贡献，创建…
-
-github.com](https://github.com/sejaldua/covid19-vaccy-tweets-NLP) 
+<https://github.com/sejaldua/covid19-vaccy-tweets-NLP>  
 
 如果你想了解更多我的作品或与我联系，请随时访问我的[网站](https://sejaldua.com)、 [GitHub](https://github.com/sejaldua) 、 [LinkedIn](https://www.linkedin.com/in/sejaldua) 和/或 [Twitter](https://twitter.com/sejaldua) 。我很乐意连接！

@@ -10,11 +10,7 @@
 
 你是新来卡格尔的吗？你是否发现这是一个对数据科学家或机器学习工程师来说非常迷人的世界，但随后你又很难提交。那么下面这个指南就适合你！我将向你展示如何让你的经历更流畅，可复制，并扩展你的职业生活经历。
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 快速卡格尔游戏攻略
 
@@ -34,11 +30,7 @@ devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-
 
 我们在之前的文章中已经描述了这个过程。简而言之，创建这样一个数据集的过程是:( 1)本地下载所有的依赖项,( 2)重命名所有以`.tar.gz`结尾的源包，因为 Kaggle 执行所有归档文件到文件夹的递归提取，以及(3)上传包到新的数据集。然后在推理内核上，(4)重新命名源包，(5)安装所有带有来自 Kaggle 数据集的 pip 的包。
 
-[](/submitting-model-predictions-to-kaggle-competition-ccb64b17132e) [## 向 Kaggle 竞赛提交模型预测
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 5/5 部分)
-
-towardsdatascience.com](/submitting-model-predictions-to-kaggle-competition-ccb64b17132e) 
+</submitting-model-predictions-to-kaggle-competition-ccb64b17132e>  
 
 你感觉需要多少步骤。即使你完成了这一切，你也可能面临一些兼容性问题，因为为你的本地环境下载的包可能与你后来的 Kaggle 内核环境不兼容。而且还有几个角力案例。
 
@@ -116,11 +108,7 @@ wget [https://github.com/unitaryai/detoxify/releases/download/v0.1-alpha/toxic_o
 
 由于需要大量的模型训练和有限的免费 Kaggle 计算资源，您可能仍然需要为您提交的模型创建一个特定的数据集。
 
-[](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) [## 使用 Grid.ai 进行超参数优化，无需更改代码
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 4/5 部分)
-
-towardsdatascience.com](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) 
+</hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49>  
 
 # 摘要
 

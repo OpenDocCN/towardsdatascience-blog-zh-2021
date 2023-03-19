@@ -151,32 +151,16 @@ volia，我们得到这个线性回归！
 
 恭喜你。您使用来自 TigerGraph 的数据用 Plotly Express 创建了一个线性回归！如果您想了解更多关于 TigerGraph 的信息，加入更多与 TigerGraph 相关的项目，询问关于 TigerGraph 的问题，或者只是与社区讨论 TigerGraph，请随时加入 Discord:
 
-[](https://discord.gg/gRHWBZNpxW) [## 加入 TigerGraph Discord 服务器！
-
-### 在 Discord 上查看 TigerGraph 社区——与 569 名其他成员一起闲逛，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/gRHWBZNpxW) 
+<https://discord.gg/gRHWBZNpxW>  
 
 您可以在开发者门户网站找到更多 TigerGraph 工具:
 
- [## TigerGraph 开发者网站
-
-### 所有 TigerGraph 开发者内容的一站式商店。探索学习、TigerGraph 项目和我们生动的…
-
-developers.tigergraph.com](https://developers.tigergraph.com/) 
+  
 
 了解如何使用 TigerGraph 编写查询:
 
-[](https://docs.tigergraph.com/dev/gsql-ref/querying/select-statement) [## 选择指令
-
-### 注意:从 TigerGraph 2.6 开始，GSQL 查询语言现在有两个版本。两者都可以在…
-
-docs.tigergraph.com](https://docs.tigergraph.com/dev/gsql-ref/querying/select-statement) 
+<https://docs.tigergraph.com/dev/gsql-ref/querying/select-statement>  
 
 点击此处查看 Plotly Express 的线性回归文档:
 
- [## plotly.express.scatter - 5.0.0 文档
-
-### 在散点图中，的每一行都由 2D 空间中的符号标记表示。参数数据帧(数据帧或…
-
-plotly.com](https://plotly.com/python-api-reference/generated/plotly.express.scatter)
+ 

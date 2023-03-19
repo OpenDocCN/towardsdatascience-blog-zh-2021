@@ -20,11 +20,7 @@ k-最近邻算法是可用于分类的最简单的监督机器学习算法之一
 
 这里显示的前一篇文章说明了距离度量如何测量相似性。
 
-[](/a-cookbook-using-distance-to-measure-similarity-8de97a1404dd) [## 一本食谱:用距离来衡量相似性
-
-### 一本用距离度量相似性的编码食谱。
-
-towardsdatascience.com](/a-cookbook-using-distance-to-measure-similarity-8de97a1404dd) 
+</a-cookbook-using-distance-to-measure-similarity-8de97a1404dd>  
 
 图 1 展示了我们熟悉的毕达哥拉斯定理是如何测量距离和相似性的。
 
@@ -143,11 +139,7 @@ pd.crosstab(pred, y_test)
 
 随附的 Jupyter 笔记本和视频展示了如何生成类似于图 6 中的视觉效果。使用笔记本和视频中讨论的技术进一步检查模型性能。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 额外资源
 

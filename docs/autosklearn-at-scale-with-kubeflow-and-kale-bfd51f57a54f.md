@@ -44,19 +44,11 @@
 
 首先，您需要一个正在运行的 Kubeflow 实例和一个 Jupyter 笔记本服务器。不要担心，我们将使用 MiniKF，我们将立即拥有所有这些。要设置 Kubeflow 并启动笔记本服务器，请遵循以下指南:
 
-[](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) [## 有了 MiniKF，Kubeflow 比以往任何时候都更容易访问
-
-### 10 分钟入门 Kubernetes 最好的机器学习平台。
-
-towardsdatascience.com](/kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b) 
+</kubeflow-is-more-accessible-than-ever-with-minikf-33484d9cb26b>  
 
 如果您更喜欢使用 AWS，我们将为您提供:
 
-[](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) [## AWS 上的 Mini Kubeflow 是您的新 ML 工作站
-
-### 通过 AWS 上的 MiniKF 加速您的机器学习模型开发
-
-towardsdatascience.com](/mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585) 
+</mini-kubeflow-on-aws-is-your-new-ml-workstation-eb4036339585>  
 
 在文章中，您将看到要创建一个笔记本服务器，您需要选择`jupyter-kale:v0.5.0–47-g2427cc9` Kale 图像(注意图像标签可能不同)。然而，在我们的例子中，让我们选择`gcr.io/arrikto/jupyter-kale-py36:kubecon21eu-automl-nightly`图像，因为这个特性仍然处于早期阶段。
 
@@ -125,11 +117,7 @@ AutoML 编排管道—按作者分类的图像
 
 有关您需要的所有步骤的更详细的指南，请在此处进入代码实验室:
 
-[](https://codelabs.arrikto.com/codelabs/minikf-kale-automl/index.html?index=..%2F..index#0) [## 从笔记本到 AutoML，使用 Kubeflow 和 Kale
-
-### Kubeflow 是 Kubernetes 的机器学习工具包。该项目致力于部署机器…
-
-codelabs.arrikto.com](https://codelabs.arrikto.com/codelabs/minikf-kale-automl/index.html?index=..%2F..index#0) 
+<https://codelabs.arrikto.com/codelabs/minikf-kale-automl/index.html?index=..%2F..index#0>  
 
 # 关于作者
 

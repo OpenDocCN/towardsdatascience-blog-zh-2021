@@ -16,11 +16,7 @@
 
 给出一个分析也是很麻烦的。当处理一些特别的分析时，通常会在代码中留下数据库密码，同时处理分析的细节。给出 R Markdown 文件或将它放在共享网络驱动器上会引起安全问题。虽然 dotenv 是一个选项，但它需要更多的设置才能正常工作。
 
-[](/using-dotenv-to-hide-sensitive-information-in-r-8b878fa72020) [## 用 dotenv 隐藏 R 中的敏感信息
-
-### 隐藏您的密码和 API 令牌，使您的共享代码更加安全
-
-towardsdatascience.com](/using-dotenv-to-hide-sensitive-information-in-r-8b878fa72020) 
+</using-dotenv-to-hide-sensitive-information-in-r-8b878fa72020>  
 
 幸运的是，R Markdown 有一个名为 parameters 的特性，可以解决所有这些问题。
 
@@ -98,11 +94,7 @@ gapminder %>%
 
 参数不一定是数字，也可以是布尔值。一个常见的例子是创建开关来修改减价编织时的行为。一个例子是是否在最终输出中打印代码。当向经理或执行官展示某些东西时，您可能不想看到代码，但是当与团队一起评审时，代码可能更重要。
 
-[](/storing-data-in-r-data-types-d0fa076ba5ad) [## 在 R 中存储数据:数据类型
-
-### R 中数据科学的构建块
-
-towardsdatascience.com](/storing-data-in-r-data-types-d0fa076ba5ad) 
+</storing-data-in-r-data-types-d0fa076ba5ad>  
 
 为此，我们将在 year 下创建另一个参数:`show_code`。
 
@@ -215,12 +207,4 @@ params:
 *   [闪亮小部件图库](https://shiny.rstudio.com/gallery/widget-gallery.html):所有闪亮小部件的交互示例，可用于动态设置 R Markdown 文档中的参数。
 *   [汉斯·罗斯林 TED 演讲](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?referrer=playlist-the_best_hans_rosling_talks_yo):汉斯·罗斯林是 Gapminder 基金会的创始人之一。这个 TED 演讲给出了一些例子中使用的数据的背景。它总是让我兴奋起来，并准备做一些数据分析！
 
-[](https://realdrewdata.medium.com/membership) [## 通过我的推荐链接加入 Medium-Drew Seewald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-realdrewdata.medium.com](https://realdrewdata.medium.com/membership) [](/r-is-slow-and-its-your-fault-2fcedacc7abb) [## r 慢——都是你的错！
-
-### 了解您的工具对您的成功至关重要
-
-towardsdatascience.com](/r-is-slow-and-its-your-fault-2fcedacc7abb)
+<https://realdrewdata.medium.com/membership>  </r-is-slow-and-its-your-fault-2fcedacc7abb> 

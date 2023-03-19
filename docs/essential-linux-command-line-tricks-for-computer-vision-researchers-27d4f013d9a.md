@@ -25,11 +25,7 @@ L inux 在数据科学社区，尤其是深度学习工程师中非常受欢迎�
 
 **耶鲁安·扬森斯**在他的书《**数据** **命令行中的科学》中对命令行的优势进行了很好的分类:**
 
-[](https://www.datascienceatthecommandline.com/) [## 命令行中的数据科学
-
-### 本实践指南演示了命令行的灵活性如何帮助您成为一个更高效的…
-
-www.datascienceatthecommandline.com](https://www.datascienceatthecommandline.com/) 
+<https://www.datascienceatthecommandline.com/>  
 
 > **命令行是敏捷的:**这个特性使它非常适合数据科学的探索性质。因为你想要及时的结果。
 > 
@@ -166,11 +162,7 @@ GradCam 输出的项目[图像颜色分类](https://www.kaggle.com/masouduut94/t
 
 Kaggle 上的完整项目:
 
-[](https://www.kaggle.com/masouduut94/tensorflow-a-comprehensive-image-classification) [## 张量流:一种综合的图像分类
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Digikala 产品颜色分类的数据
-
-www.kaggle.com](https://www.kaggle.com/masouduut94/tensorflow-a-comprehensive-image-classification) 
+<https://www.kaggle.com/masouduut94/tensorflow-a-comprehensive-image-classification>  
 
 如果你想把视频转换成 gif，你可能会注意到输出的 gif 文件会变得非常大。所以减小 gif 文件大小的最好方法是从视频中取样。为此，使用采样 FPS 的`-r`:
 
@@ -180,15 +172,7 @@ www.kaggle.com](https://www.kaggle.com/masouduut94/tensorflow-a-comprehensive-im
 
 是计算机视觉工程师的必备技能，因为她/他必须处理视频/图像数据。`**ffmpeg**`有很多窍门，我在这里只分享其中的几个。如果你想了解更多关于`ffmpeg`的信息，请看看这些书:
 
-[](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) [## FFmpeg 基础:用快速音频和视频编码器处理多媒体
-
-### FFmpeg 基础:多媒体处理与 Amazon.com 的快速音频和视频编码器[科贝尔，弗兰蒂塞克]。*免费*…
-
-www.amazon.com](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) [](https://ffmpegfromzerotohero.com/) [## 尼克·费兰多的《从零到英雄》
-
-### 这本书是为哪些读者准备的？这本书是为那些刚刚超过“初级初学者”的人设计的…
-
-ffmpegfromzerotohero.com](https://ffmpegfromzerotohero.com/) 
+<https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832>  <https://ffmpegfromzerotohero.com/>  
 
 ## 1.检查视频持续时间
 

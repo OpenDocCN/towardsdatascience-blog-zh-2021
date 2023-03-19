@@ -6,7 +6,7 @@
 
 在 [**第一部分**](https://bharatss.medium.com/distributed-biomedical-text-mining-using-pyspark-for-classification-of-cancer-gene-mutations-3e11507b2450) 中，我讨论了探索性数据分析和将逐点互信息应用于突变对，以找出 PMI 分数和突变类相似性之间是否存在任何相关性。在这一部分中，我将讨论训练一个分布式多项逻辑回归(MLR)模型，并将其应用于测试数据集以确定突变的类别。
 
-同样，为了简洁起见，我在本文中只分享代码的某些部分。完整代码请查看 GitHub 链接 [**这里**](https://github.com/bsets/Distributed_ML_with_PySpark_for_Cancer_Tumor_Classification/tree/main/Tumor_Gene_Classification_using_Multinomial_Logistic_Regression) 。我还准备了一个 5 分钟的视频，你可以在这里找到[](https://www.youtube.com/watch?v=LRp75Ku8Hc4)**。**
+同样，为了简洁起见，我在本文中只分享代码的某些部分。完整代码请查看 GitHub 链接 [**这里**](https://github.com/bsets/Distributed_ML_with_PySpark_for_Cancer_Tumor_Classification/tree/main/Tumor_Gene_Classification_using_Multinomial_Logistic_Regression) 。我还准备了一个 5 分钟的视频，你可以在这里找到<https://www.youtube.com/watch?v=LRp75Ku8Hc4>**。**
 
 **在继续在 MLlib 中训练模型之前，需要几个预处理步骤:**
 

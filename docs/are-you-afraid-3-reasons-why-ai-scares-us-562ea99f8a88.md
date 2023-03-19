@@ -18,7 +18,7 @@ Andrew Boersma 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 > “我们必须找出某种方法来确保数字超级智能的到来是与人类共生的。我认为这是我们面临的最大的生存危机，也是最紧迫的危机，”他补充道:“记住我的话，人工智能远比核武器更危险。”
 
-在此之前几年，2014 年，著名物理学家斯蒂芬·霍金告诉 BBC[](https://www.bbc.com/news/technology-30290540)*关于人工智能超越我们的危险:*
+在此之前几年，2014 年，著名物理学家斯蒂芬·霍金告诉 BBC<https://www.bbc.com/news/technology-30290540>*关于人工智能超越我们的危险:*
 
 > *“全人工智能的发展可能意味着人类的终结。[……]它会自己起飞，以越来越快的速度重新设计自己。受到缓慢生物进化限制的人类无法竞争，并将被取代。”*
 
@@ -102,12 +102,4 @@ Andrew Boersma 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 # *推荐阅读*
 
-*[](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [## 不受欢迎的观点:我们将放弃机器学习作为主要的人工智能范式
-
-### 这一时刻将会到来，就像它发生在象征性人工智能身上一样。
-
-towardsdatascience.com](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [](/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11) [## 无法进入 GPT 3 号？这是 GPT J——它的开源兄弟
-
-### 类似于 GPT-3，每个人都可以使用它。
-
-towardsdatascience.com](/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11)*
+*</unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46>  </cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11> *

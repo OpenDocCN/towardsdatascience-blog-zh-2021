@@ -24,11 +24,7 @@
 
 我将数据分为训练集和验证集。分割的代码与使用 Azure 没有直接关系，所以我没有在这里包括它；然而，用于创建这个项目的所有代码都可以在相关的 [github 资源库](https://github.com/benbogart/getting_started_with_azure_for_ml)中找到。
 
- [## benbogart/getting _ started _ with _ azure _ for _ ml
-
-### 中型文章《Azure 机器学习入门》附带的笔记本…
-
-github.com](https://github.com/benbogart/getting_started_with_azure_for_ml/blob/master/1_Getting_started_with_Azure_for_Machine_Learning.ipynb) 
+  
 
 至此，是时候设置 Azure 环境了！
 
@@ -246,10 +242,6 @@ _________________________________________________________________*
 
 *您可以查看完整的 [github 资源库](https://github.com/benbogart/getting_started_with_azure_for_ml/)或者直接跳到下面的第一个笔记本:*
 
- *[## benbogart/getting _ started _ with _ azure _ for _ ml
-
-### 中型文章《Azure 机器学习入门》附带的笔记本…
-
-github.com](https://github.com/benbogart/getting_started_with_azure_for_ml/blob/master/1_Getting_started_with_Azure_for_Machine_Learning.ipynb)* 
+ ** 
 
 *现在去做好事吧。*

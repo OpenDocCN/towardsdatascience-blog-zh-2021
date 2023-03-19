@@ -114,18 +114,10 @@ ANOVA 表可用于找到该线性关联的 R^2 值。
 
 五步假设检验:
 
-[](https://www.scribbr.com/methodology/hypothesis-testing/) [## 假设检验|带有简单示例的逐步指南
-
-### 假设检验是一种使用统计学调查我们对世界的想法的正式程序。最常见的是…
-
-www.scribbr.com](https://www.scribbr.com/methodology/hypothesis-testing/) 
+<https://www.scribbr.com/methodology/hypothesis-testing/>  
 
 方差分析程序:
 
-[](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova3.html) [## 方差分析程序
-
-### 接下来，我们将使用五步方法来说明 ANOVA 程序。因为测试统计的计算…
-
-sphweb.bumc.bu.edu](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova3.html) 
+<https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova3.html>  
 
 希望这篇文章能帮助你踏上数据分析之旅！

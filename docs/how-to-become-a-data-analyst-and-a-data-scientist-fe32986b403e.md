@@ -44,16 +44,4 @@
 
 ## 你可能也会喜欢…
 
-[](/why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747) [## 为什么数据分析师应该申请数据科学家的工作
-
-### 不要被职称误导
-
-towardsdatascience.com](/why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747) [](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [## 如何向非技术人员展示机器学习结果
-
-### 展示利益相关者能够理解的模型结果
-
-towardsdatascience.com](/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76) [](/why-youll-quit-your-data-science-job-6079d407bbeb) [## 为什么你会辞去数据科学的工作
-
-### 你应该做些什么来防止这种情况发生
-
-towardsdatascience.com](/why-youll-quit-your-data-science-job-6079d407bbeb)
+</why-data-analysts-should-apply-to-data-scientist-jobs-4bd695e7d747>  </how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76>  </why-youll-quit-your-data-science-job-6079d407bbeb> 

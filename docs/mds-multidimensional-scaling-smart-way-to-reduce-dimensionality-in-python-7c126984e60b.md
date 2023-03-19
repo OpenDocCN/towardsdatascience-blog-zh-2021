@@ -41,7 +41,7 @@
 
 机器学习算法分类。由[作者](https://solclover.com/)创建的交互式图表。
 
-***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的邮件。如果你不是中等会员，可以在这里加入*[](https://bit.ly/36Mozgu)**。**
+***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的邮件。如果你不是中等会员，可以在这里加入*<https://bit.ly/36Mozgu>**。**
 
 # *公制多维标度(公制 MDS)实际上是如何工作的？*
 
@@ -133,19 +133,11 @@
 
 *但是，如果您的分析需要您更多地关注全局结构，您可能希望使用 PCA。*
 
-*[](/pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c) [## PCA:主成分分析——如何用更少的维度获得优越的结果？
-
-### 降维的最佳技术之一
-
-towardsdatascience.com](/pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c) 
+*</pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c>  
 
 或者，您可以探索 Isomap(等距映射)，它结合了[【k 最近邻】](/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2)和 MDS，以更好地保存局部结构。
 
-[](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0) [## Isomap 嵌入——一种令人敬畏的非线性降维方法
-
-### 如何用等距映射“展开瑞士卷”？
-
-towardsdatascience.com](/isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0) 
+</isomap-embedding-an-awesome-approach-to-non-linear-dimensionality-reduction-fc7efbca47a0>  
 
 如果您有任何问题或建议，请随时联系我们。
 
@@ -154,8 +146,4 @@ towardsdatascience.com](/isomap-embedding-an-awesome-approach-to-non-linear-dime
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership)*
+<https://solclover.com/membership> *

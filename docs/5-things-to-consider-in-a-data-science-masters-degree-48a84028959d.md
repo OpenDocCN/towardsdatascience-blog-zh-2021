@@ -147,11 +147,7 @@
 
 这里是我的一篇文章，概述了五大[数据科学认证](/the-top-5-data-science-certifications-71b3be907d8)【7】，如果你想了解更多关于学习数据科学的一些更快的方法:
 
-[](/the-top-5-data-science-certifications-71b3be907d8) [## 五大数据科学认证
-
-### …面向数据科学家。在这里找到答案。
-
-towardsdatascience.com](/the-top-5-data-science-certifications-71b3be907d8) 
+</the-top-5-data-science-certifications-71b3be907d8>  
 
 # 参考
 

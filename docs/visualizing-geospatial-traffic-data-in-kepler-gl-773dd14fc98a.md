@@ -18,15 +18,7 @@ Kepler.gl 是优步的开源地理空间工具箱。通常，可视化大规模�
 
 我已经从[HERE Technologies traffic flow API](https://developer.here.com/pricing)获得了交通数据。我写过几篇文章，重点介绍如何提取交通流量数据:
 
-[](/visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563) [## 使用 HERE traffic api 可视化实时交通模式
-
-### 虽然谷歌地图显示的是实时交通状况，但却无法访问底层的交通数据。这里的技术提供了…
-
-towardsdatascience.com](/visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563) [](/visualizing-dc-real-time-traffic-during-the-curfew-after-riots-2007cc6838f6) [## 骚乱后宵禁期间 DC 实时交通可视化
-
-### 流动性是城市的生命线。让我们想象一下，在今天不幸的混乱之后，宵禁期间的 DC…
-
-towardsdatascience.com](/visualizing-dc-real-time-traffic-during-the-curfew-after-riots-2007cc6838f6) 
+</visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563>  </visualizing-dc-real-time-traffic-during-the-curfew-after-riots-2007cc6838f6>  
 
 # 保存文件
 

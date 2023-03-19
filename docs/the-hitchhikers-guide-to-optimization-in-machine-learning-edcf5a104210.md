@@ -171,26 +171,10 @@ SGD 中的退火(图片由作者提供)
 
 **这里是我的一些其他策划的文章:**
 
-[](/ml-from-scratch-k-nearest-neighbors-classifier-3fc51438346b) [## ML 从零开始:K-最近邻分类器
-
-### KNN 分类算法的完整指南，在这里我们将看到如何实现一个基于 KNN 的机器学习…
-
-towardsdatascience.com](/ml-from-scratch-k-nearest-neighbors-classifier-3fc51438346b) [](/ml-from-scratch-multinomial-logistic-regression-6dda9cbacf9d) [## ML 从零开始-多项式逻辑回归
-
-### 你的多项逻辑回归完全指南，又名 Softmax 回归
-
-towardsdatascience.com](/ml-from-scratch-multinomial-logistic-regression-6dda9cbacf9d) [](/linear-regression-model-with-numpy-7d270feaca63) [## 数字线性回归模型
-
-### 在这个项目中，我们将看到如何创建一个使用多元线性回归算法的机器学习模型。
-
-towardsdatascience.com](/linear-regression-model-with-numpy-7d270feaca63) 
+</ml-from-scratch-k-nearest-neighbors-classifier-3fc51438346b>  </ml-from-scratch-multinomial-logistic-regression-6dda9cbacf9d>  </linear-regression-model-with-numpy-7d270feaca63>  
 
 你可以在 LinkedIn 上联系我:
 
-[](https://www.linkedin.com/in/amansharma2910/) [## Aman Sharma -微软学生大使-微软| LinkedIn
-
-### 作为一名深度学习、数据科学爱好者和充满激情的技术博客作者，我相信数据是最强大的…
-
-www.linkedin.com](https://www.linkedin.com/in/amansharma2910/) 
+<https://www.linkedin.com/in/amansharma2910/>  
 
 快乐学习！

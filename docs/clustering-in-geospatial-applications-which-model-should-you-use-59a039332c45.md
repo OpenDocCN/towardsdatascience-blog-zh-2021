@@ -237,11 +237,7 @@ nc_ag,ns_ag=plot1(G, ids_G3, ag_labels, 'hierarch_calib_G.png')
 
 如您所见，没有完美的空间聚类算法。在地理空间应用中尤其如此，其中网络节点和边不是均匀分布的，并且数据通常是有噪声的。获得的聚类算法结果可能是曼哈顿街道分布的一个特征，曼哈顿比其他城市更像网格-观察这些算法在其他城市网络中的表现可能会很有趣。我们知道，与新加坡、罗马和圣保罗等城市相比，芝加哥、迈阿密和曼哈顿等城市的街道网络更像网格。这里开发的方法通常可以应用于量化聚类方法在各种地理空间场景中的功效。如果您感兴趣，可以在 GitHub 上找到 python 代码。还有一个朱庇特笔记本:
 
-[](https://github.com/skandavivek/Geospatial-Clustering) [## skandavivek/地理空间聚类
-
-### 评估地理空间数据上的聚类算法 KMeans、DBSCAN 和层次聚集性能
-
-github.com](https://github.com/skandavivek/Geospatial-Clustering) 
+<https://github.com/skandavivek/Geospatial-Clustering>  
 
 以下是 YouTube 上的教程链接:
 
@@ -249,15 +245,11 @@ github.com](https://github.com/skandavivek/Geospatial-Clustering)
 
 1.  [*Geoff Boeing，“聚类减少空间数据集大小”，SocArxiv (2018)*](https://osf.io/preprints/socarxiv/nzhdc/)
 2.  [*Dheeraj Kumar 等人，“通过出租车出行聚类了解城市移动性”，第 17 届 IEEE 移动数据管理国际会议(MDM) (2016)*](https://ieeexplore.ieee.org/document/7517811)
-3.  [](https://arxiv.org/abs/1903.00059)*塞犍陀·维韦克等人，“被黑客攻击的联网车辆的网络物理风险”，《物理评论》E (2019)*
+3.  <https://arxiv.org/abs/1903.00059>*塞犍陀·维韦克等人，“被黑客攻击的联网车辆的网络物理风险”，《物理评论》E (2019)*
 4.  *[*Geoff Boeing，《城市空间秩序:街道网络定向、配置和熵》，应用网络科学(2019)*](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1)*
 
 *如果你喜欢这篇文章，请关注我。*
 
 *如果你对科技和现代社会之间的相互联系有全面的看法，请订阅我的时事通讯。*
 
-*[](https://skandavivek.substack.com/) [## 网络物理
-
-### 在日益互联的世界中，基于数据的现代社会问题透视
-
-skandavivek.substack.com](https://skandavivek.substack.com/)*
+*<https://skandavivek.substack.com/> *

@@ -119,11 +119,7 @@ Hello
 
 `**kwargs`通常用于保存在对象之间传递的消息。我们可以看到这是下面的装饰代码。如果您想了解更多关于 decorators 的知识，请查看这段代码所在的文章。
 
-[](/a-simple-way-to-trace-code-in-python-a15a25cbbf51) [## 用 Python 追踪代码的简单方法
-
-### 使用装饰器来跟踪你的函数
-
-towardsdatascience.com](/a-simple-way-to-trace-code-in-python-a15a25cbbf51) 
+</a-simple-way-to-trace-code-in-python-a15a25cbbf51>  
 
 tracefunc 装饰器
 

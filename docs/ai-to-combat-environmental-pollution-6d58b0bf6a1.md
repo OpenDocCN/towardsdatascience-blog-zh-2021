@@ -131,14 +131,6 @@ TACO 指定的检测废物的类别(资料来源:WIMLDS Trojmiasto)
 
 作者:
 
-[](https://medium.com/@magdalenakortas) [## 马格达莱纳·科尔塔斯-培养基
-
-### 阅读马格达莱纳·科尔塔斯在媒介上的作品。数据科学家，WiMLDS Trójmiasto(波兰)联合创始人，AI for Good & Data…
-
-medium.com](https://medium.com/@magdalenakortas) [](https://medium.com/@sylwia.majchrowska) [## Sylwia Majchrowska 培养基
-
-### 阅读 Sylwia Majchrowska 在介质上的作品。深度学习研究员，物理学博士生，STEM 教育家。每…
-
-medium.com](https://medium.com/@sylwia.majchrowska) 
+<https://medium.com/@magdalenakortas>  <https://medium.com/@sylwia.majchrowska>  
 
 WIMLDS Trojmiasto 小组成员 Agnieszka mikoajczyk、Sylwia Majchrowska、Maria Ferlin、Ewa Marczewska、Zuzanna Klawikowska、Marta Plantykow、Magdalena Kortas、Anna Brodecka 和 Katarzyna ago cka 制定了项目和最终解决方案。

@@ -365,8 +365,4 @@ co_ocurrence_vectors.loc['states'].sort_values(ascending=False).head(10)
 
 *******这个例子摘自我的*** [***NLP 课程，该课程面向 Udemy 平台上的绝对初学者***](https://www.udemy.com/course/nlp_natural_language_processing_python_beginners/?referralCode=ABA4DB815299652F2A37)***——该课程非常适合初学者和希望学习自然语言处理基础知识的数据科学家。该课程还包含 50 多个编码练习，使您能够在学习新概念的同时进行练习。*******
 
-****[](https://ivopbernardo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ivopbernardo.medium.com](https://ivopbernardo.medium.com/membership)****
+****<https://ivopbernardo.medium.com/membership> ****

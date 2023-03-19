@@ -24,7 +24,7 @@
 
 # 1.逻辑回归不是一个分类器
 
-是的，它不是。它本质上是一个回归模型。我将描述什么和为什么逻辑回归，同时保留它与线性回归模型的共鸣。假设我的读者对线性回归的基础有所了解，很容易说线性回归通过给定特征的线性组合来预测目标变量的“值”，而另一方面，逻辑回归通过插入到等式(1)给出的 [**逻辑函数**](https://en.wikipedia.org/wiki/Logistic_function) **(又名**[](https://en.wikipedia.org/wiki/Logit)****)**中的给定特征的线性组合来预测“概率值”:**
+是的，它不是。它本质上是一个回归模型。我将描述什么和为什么逻辑回归，同时保留它与线性回归模型的共鸣。假设我的读者对线性回归的基础有所了解，很容易说线性回归通过给定特征的线性组合来预测目标变量的“值”，而另一方面，逻辑回归通过插入到等式(1)给出的 [**逻辑函数**](https://en.wikipedia.org/wiki/Logistic_function) **(又名**<https://en.wikipedia.org/wiki/Logit>****)**中的给定特征的线性组合来预测“概率值”:**
 
 **![](img/3976eb10379da521b27e25afc9144877.png)**
 
@@ -390,10 +390,6 @@ myresult2$`confusion matrix`***
 
 > ***[**统计学习的要素** *数据挖掘、推断和预测*](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)***
 
-***[](https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method) [## 用牛顿法求解 Logistic 回归
-
-### 在这篇文章中，我们介绍牛顿法，以及如何用它来解决逻辑回归。逻辑回归…
-
-thelaziestprogrammer.com](https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method) 
+***<https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method>  
 
 *还有，随意探索一下* [*第一部分*](/a-laymans-guide-to-building-your-first-image-classification-model-in-r-using-keras-b285deac6572?source=your_stories_page-------------------------------------) *和* [*第二部分*](/understanding-a-neural-network-through-scratch-coding-in-r-a-novice-guide-a81e5777274b?source=your_stories_page-------------------------------------) *的动手香草造型系列。欢呼:)****

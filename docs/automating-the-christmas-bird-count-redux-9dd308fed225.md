@@ -138,16 +138,4 @@ CASJ CBC 2020 活动
 
 # *参考*
 
-*[](https://github.com/jhurley13/automatingcbc) [## jhurley 13/自动化 cbc
-
-### 自动化圣诞鸟计数圣诞鸟计数已有 120 年的传统。开始于…
-
-github.com](https://github.com/jhurley13/automatingcbc) [](https://www.audubon.org/conservation/science/christmas-bird-count) [## 圣诞鸟计数
-
-### 圣诞鸟数好奇圣诞鸟数数据显示了什么？奥杜邦的科学团队已经建立了一个工具…
-
-www.audubon.org](https://www.audubon.org/conservation/science/christmas-bird-count) [](https://ebird.org/news/ebirding-your-christmas-bird-count-updated) [## eBird 你的圣诞鸟计数[更新] - eBird
-
-### 圣诞鸟计数(CBC)季节到了！每年，西半球成千上万的观鸟者…
-
-ebird.org](https://ebird.org/news/ebirding-your-christmas-bird-count-updated)*
+*<https://github.com/jhurley13/automatingcbc>  <https://www.audubon.org/conservation/science/christmas-bird-count>  <https://ebird.org/news/ebirding-your-christmas-bird-count-updated> *

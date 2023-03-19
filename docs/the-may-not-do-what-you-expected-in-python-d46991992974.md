@@ -85,11 +85,7 @@ x.__rtruediv__(y)
 
 如果你想知道有多少其他的运算符或计算具有这些特性，这里有一个官方文档的链接。
 
- [## 3.数据模型- Python 3.9.6 文档
-
-### 对象是 Python 对数据的抽象。Python 程序中的所有数据都由对象或关系来表示…
-
-docs.python.org](https://docs.python.org/3.9/reference/datamodel.html?highlight=__iadd__#emulating-numeric-types) 
+  
 
 # 3.调用 __radd__ 时。
 
@@ -265,10 +261,6 @@ print("c", c)
 
 最重要的是，要知道`a = a + b`和`a += b`的区别。当对象是**可变的**时，它们会产生不同的结果。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

@@ -161,24 +161,12 @@ ipyml 后端也适用于 3D 可视化。
 
 *   如果您想使用 matplotlib 库来创建一些引人入胜的动画。
 
-[](/animations-with-matplotlib-d96375c5442c) [## Matplotlib 动画
-
-### 动画是展示一种现象的有趣方式。我们人类总是被动画和…
-
-towardsdatascience.com](/animations-with-matplotlib-d96375c5442c) 
+</animations-with-matplotlib-d96375c5442c>  
 
 *   使用 Pandas 绘图语法直接创建 Plotly 和 Bokeh 绘图的教程
 
-[](/get-interactive-plots-directly-with-pandas-13a311ebf426) [## 直接和熊猫获取互动剧情。
-
-### 使用 Pandas 绘图语法直接创建 Plotly 和 Bokeh 绘图的教程
-
-towardsdatascience.com](/get-interactive-plots-directly-with-pandas-13a311ebf426) 
+</get-interactive-plots-directly-with-pandas-13a311ebf426>  
 
 *   matplotlib 中的一些高级图，可以让我们的分析更上一层楼。
 
-[](/advanced-plots-in-matplotlib-part-1-30dbb02b09ae) [## Matplotlib 中的高级绘图—第 1 和第 2 部分
-
-### python 可视化环境由几个有用的 Python 库组成。每个图书馆都有自己独特的亮点…
-
-towardsdatascience.com](/advanced-plots-in-matplotlib-part-1-30dbb02b09ae)
+</advanced-plots-in-matplotlib-part-1-30dbb02b09ae> 

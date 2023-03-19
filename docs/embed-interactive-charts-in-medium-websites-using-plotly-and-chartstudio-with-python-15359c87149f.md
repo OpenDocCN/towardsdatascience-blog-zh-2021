@@ -64,36 +64,8 @@ py.plot(pop, filename = 'Population_Asia', auto_open=True)# Output
 
 # 更多来自作者
 
-[](/comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a) [## 使用 Python 进行卫星影像分析的综合指南
-
-### 使用 Python 分析卫星图像的不同方法和机器学习技术，以及实践教程和…
-
-towardsdatascience.com](/comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a) [](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [## 超光谱图像分析—入门
-
-### 使用 Python 进行高光谱图像分析的演练。
-
-towardsdatascience.com](/hyperspectral-image-analysis-getting-started-74758c12f2e9) [](/beginners-guide-to-pyspark-bbe3b553b79f) [## PySpark 初学者指南
-
-### 第 1 章:使用美国股票价格数据介绍 PySpark
-
-towardsdatascience.com](/beginners-guide-to-pyspark-bbe3b553b79f) [](/character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c) [## 使用 Detectron2 对自定义数据进行字符识别和分段
-
-### 利用迁移学习的力量
-
-towardsdatascience.com](/character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c) [](/wildfire-detection-using-satellite-imagery-with-python-d534d74d0505) [## 利用卫星影像和 Python 进行野火探测
-
-### 卫星图像与计算机视觉相遇:使用 Python 在澳大利亚进行野火探测的教程
-
-towardsdatascience.com](/wildfire-detection-using-satellite-imagery-with-python-d534d74d0505) 
+</comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a>  </hyperspectral-image-analysis-getting-started-74758c12f2e9>  </beginners-guide-to-pyspark-bbe3b553b79f>  </character-recognition-and-segmentation-for-custom-data-using-detectron2-599de82b393c>  </wildfire-detection-using-satellite-imagery-with-python-d534d74d0505>  
 
 # **参考文献**
 
-[](https://plotly.com/python/) [## Plotly Python 图形库
-
-### Plotly 的 Python 图形库制作出交互式的、出版物质量的图形。如何制作线图的示例…
-
-plotly.com](https://plotly.com/python/) [](https://chart-studio.plotly.com/feed/#/) [## Plotly |在线制作图表和仪表盘
-
-### 编辑描述
-
-chart-studio.plotly.com](https://chart-studio.plotly.com/feed/#/)
+<https://plotly.com/python/>  <https://chart-studio.plotly.com/feed/#/> 

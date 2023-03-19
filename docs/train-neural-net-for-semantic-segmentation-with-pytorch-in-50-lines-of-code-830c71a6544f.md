@@ -265,11 +265,7 @@ if itr % 1000 == 0:
 
 完整代码可在此处找到:
 
-[](https://github.com/sagieppel/Train-Semantic-Segmentation-Net-with-Pytorch-In-50-Lines-Of-Code) [## GitHub-sagieppel/Train-Semantic-Segmentation-Net-with-py torch-In-50-line Of-Code:Train neural…
-
-### 用 pytorch 在不到 50 行代码中训练语义分割的神经网络(deep lab V3)
-
-github.com](https://github.com/sagieppel/Train-Semantic-Segmentation-Net-with-Pytorch-In-50-Lines-Of-Code) 
+<https://github.com/sagieppel/Train-Semantic-Segmentation-Net-with-Pytorch-In-50-Lines-Of-Code>  
 
 总共 50 行代码，不包括空格，40 行代码，不包括导入:-)
 

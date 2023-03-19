@@ -90,11 +90,7 @@ Normality Test **III. Conclusion**
 *   计算销售额的平均值、标准差和 CV
 *   ABC 分析的排序(降序)和累计销售额计算
 
-[](http://samirsaci.com) [## 萨米尔 Samir 供应链组合的数据科学
-
-### 🏭使用高级数学概念的供应链网络优化👨‍🏭仓储的持续改进…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。产品细分
 
@@ -194,11 +190,7 @@ CV 非常高的 C 类参考—(图片由作者提供)
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

@@ -10,11 +10,7 @@
 
 在我之前的[文章](https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b)中，我写了关于使用 TensorFlow 2.x 的模型验证、正则化和回调。在机器学习管道中，创建一个经过训练的模型是不够的。一旦我们完成了训练、验证和测试，并保留了一部分数据，我们将如何处理训练好的模型呢？在实践中，我们希望导入这样一个经过训练的模型，以便它可以在一些实际应用中有用。例如，假设我在相机图像上训练了一个模型来识别行人。最终，我想使用训练好的模型，通过安装在自动驾驶汽车上的摄像头，对检测行人进行实时预测。此外，训练模型还需要将模型保存为检查点，特别是当您在非常大的数据集上训练模型或者训练时间大约为几个小时时。如果您的训练由于某些原因而中断，比如您的编程逻辑中的缺陷、您的笔记本电脑的电池没电、存在 I/O 错误等等，模型保存也是有用的。
 
-[](https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b) [## Tensorflow 2:模型验证、正则化和回调
-
-### 开发机器学习模型时的一个常见问题是过度拟合。此外，概化模型是一种实用的方法
-
-medium.com](https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b) 
+<https://medium.com/analytics-vidhya/tensorflow-2-model-validation-regularization-and-callbacks-49c5ace1e8b>  
 
 > 最终，我想使用训练好的模型，通过安装在自动驾驶汽车上的摄像头，对检测行人进行实时预测。
 

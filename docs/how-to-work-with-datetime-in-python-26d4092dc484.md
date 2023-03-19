@@ -96,8 +96,4 @@ Python 中 DateTime 的常用格式代码。作者自我图解。
 
 **感谢阅读这篇文章。如果你喜欢我的工作，请考虑加入 Medium 来支持我。谢谢大家！😊**
 
-**[](https://jackyeetan.medium.com/membership) [## 通过我的推荐链接-谭施敏加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jackyeetan.medium.com](https://jackyeetan.medium.com/membership)**
+**<https://jackyeetan.medium.com/membership> **

@@ -161,16 +161,4 @@
 
 你喜欢我的故事吗？在这里你可以找到更多。
 
-[](/hands-on-step-by-step-guidance-to-grow-your-job-opportunities-fe0c757fb966) [## 实践逐步指导增加你的工作机会
-
-### 如何战略性地利用 Meetup 会议来获得你梦想中的数据科学工作
-
-towardsdatascience.com](/hands-on-step-by-step-guidance-to-grow-your-job-opportunities-fe0c757fb966) [](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [## edX 2021 上数据科学 MicroMasters 计划的终极指南
-
-### 你应该选择 6 个程序中的哪一个？
-
-towardsdatascience.com](/the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387) [](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa) [## 顶级技术趋势及其对数据科学、机器学习和人工智能的影响
-
-### 你和你的职业生涯的行动计划
-
-towardsdatascience.com](/the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa)
+</hands-on-step-by-step-guidance-to-grow-your-job-opportunities-fe0c757fb966>  </the-ultimate-guide-on-the-data-science-micromasters-programs-on-edx-2020-2021-db7646381387>  </the-top-technology-trends-and-their-impact-on-data-science-machine-learning-and-ai-f6223b496efa> 

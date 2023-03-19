@@ -79,11 +79,7 @@ Python 的一般实现如下:
 
 下一步是找到一种方法来最大化完整楼梯的数量，并最小化硬币计数和 n 之间的距离，这可以通过使用二分搜索法来实现。
 
-[](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) [## Python 中“臭名昭著”的算法:二分搜索法
-
-### 为什么它的性能优于线性迭代？
-
-towardsdatascience.com](/binary-search-in-python-the-programming-algorithm-8b8fa039eaa) 
+</binary-search-in-python-the-programming-algorithm-8b8fa039eaa>  
 
 ## 解决办法
 
@@ -124,11 +120,7 @@ towardsdatascience.com](/binary-search-in-python-the-programming-algorithm-8b8fa
 
 Dictionary 有一个独特的键值对特性，这在很多情况下都很方便。请看这里:
 
-[](/master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45) [## 2021 年初级 Python 大师词典
-
-### 4 个真实面试问题的完整演练
-
-towardsdatascience.com](/master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45) 
+</master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45>  
 
 ## 解决办法
 
@@ -209,27 +201,11 @@ False
 
 *Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。*
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+<https://leihua-ye.medium.com/membership>  
 
 # 我的数据科学面试序列
 
-[](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [## FAANG 在 2021 年提出这 5 个 Python 问题
-
-### 数据科学家和数据工程师的必读！
-
-towardsdatascience.com](/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0) [](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [## 2021 年数据科学家必备的 SQL 技能
-
-### 数据科学家/工程师的重要 SQL 技能
-
-towardsdatascience.com](/essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f) [](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) [## 破解数据科学访谈:基本统计概念
-
-### 赢在 2021 年:数据科学家/工程师的必读之作，第 2 部分
-
-towardsdatascience.com](/crack-data-science-interviews-essential-statistics-concepts-d4491d85219e) 
+</5-python-coding-questions-asked-at-faang-59e6cf5ba2a0>  </essential-sql-skills-for-data-scientists-in-2021-8eb14a38b97f>  </crack-data-science-interviews-essential-statistics-concepts-d4491d85219e>  
 
 # 喜欢读这本书吗？
 

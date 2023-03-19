@@ -56,7 +56,7 @@ pip install cython
 pip install cythonbuilder
 ```
 
-安装后，调用`cybuilder init`。这将在您的根目录下创建一个名为`ext`的文件夹。如果您不熟悉使用终端，请查看本文[](https://mikehuls.medium.com/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8)**。**
+安装后，调用`cybuilder init`。这将在您的根目录下创建一个名为`ext`的文件夹。如果您不熟悉使用终端，请查看本文<https://mikehuls.medium.com/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8>**。**
 
 **![](img/524225e48d0338956f0c44df07690583.png)**
 

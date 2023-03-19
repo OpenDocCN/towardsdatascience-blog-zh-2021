@@ -266,11 +266,7 @@ df[['Inst','isBig', 'isExpensive', 'isSelect','Jaccard']]
 
 为了在几十个或几百个观察值之间进行比较，这些距离方法可以帮助快速确定哪些观察值与任何给定的参考观察值相似。然后，通过对该距离进行排序，X 个最接近的观察值可以作为合理的比较组。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+<https://adamrossnelson.medium.com/membership>  
 
 # 感谢阅读
 

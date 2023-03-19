@@ -90,11 +90,7 @@
 
 **延伸阅读:**
 
-[](https://www.sciencedirect.com/science/article/pii/S146902922100131X) [## 新冠肺炎疫情期间的主场优势:欧洲足球联赛分析
-
-### 主场优势(HA)是足球中的一个强大现象，主队比客场队更成功。* A…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S146902922100131X) 
+<https://www.sciencedirect.com/science/article/pii/S146902922100131X>  
 
 附录:
 

@@ -22,15 +22,7 @@
 
 模块是 Python 标准库的一部分。但是如果您需要安装 pandas 或 requests，请查看它们文档中的安装部分:
 
- [## 安装请求-请求 2.25.1 文档
-
-### 文档的这一部分涵盖了请求的安装。使用任何软件包的第一步是…
-
-docs.python-requests.org](https://docs.python-requests.org/en/master/user/install/)  [## 安装- pandas 1.2.3 文档
-
-### 安装 pandas 最简单的方法是将其安装为 Anaconda 发行版的一部分，这是一个跨平台发行版…
-
-pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) 
+    
 
 我在示例中使用 Jupyter 笔记本(作为 Anaconda Navigator 的一部分)来展示结果。有关如何安装的信息，请参见此处的文档。
 
@@ -285,8 +277,4 @@ polling_data_2011.pivot_table(index=["Poll_year","Poll_type"])
 
 所有代码和表格的图片都是作者拍摄的。本文的 Jupyter 笔记本可以在这里找到:
 
-[](https://github.com/LiamConnors/Medium-articles) [## Liam Connors/Medium-文章
-
-### 我在媒体上发表的文章的代码。为 LiamConnors/Medium-articles 开发创建一个…
-
-github.com](https://github.com/LiamConnors/Medium-articles)
+<https://github.com/LiamConnors/Medium-articles> 

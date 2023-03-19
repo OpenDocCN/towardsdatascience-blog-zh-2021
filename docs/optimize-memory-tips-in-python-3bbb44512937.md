@@ -36,7 +36,7 @@ print(psutil.Process().memory_info().peak_wset)
 
 ## **1。利用 Pytorch 数据加载器**
 
-训练大型数据集是您的内存瓶颈，如果整个数据集无法同时放入您的内存，您将永远无法训练完整的模型，尤其是对于图像、文本、语音等非结构化数据……但是，使用 Pytorch DataLoader，您可以为整个数据集设置各种小批量，并且每个小批量都不间断地加载到您的模型中(样本数量取决于您的内存容量)。你可以在这里看到[](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)**使用 Pytorch DataLoader 的教程。**
+训练大型数据集是您的内存瓶颈，如果整个数据集无法同时放入您的内存，您将永远无法训练完整的模型，尤其是对于图像、文本、语音等非结构化数据……但是，使用 Pytorch DataLoader，您可以为整个数据集设置各种小批量，并且每个小批量都不间断地加载到您的模型中(样本数量取决于您的内存容量)。你可以在这里看到<https://pytorch.org/tutorials/beginner/data_loading_tutorial.html>**使用 Pytorch DataLoader 的教程。**
 
 **然而，如果你想在不使用深度学习的情况下(因此，不使用 Pytorch)在表格数据上训练机器学习模型，或者你没有访问数据库的权限，只能在内存上工作，那么内存优化的选择是什么？**
 
@@ -73,11 +73,7 @@ iinfo(min=-32768, max=32767, dtype=int16)### Access min value
 
 **Python 检索局部变量比检索全局变量更快。此外，将太多变量声明为全局变量会导致内存不足的问题，因为这些变量会保留在内存中，直到程序执行完成，而一旦函数结束，局部变量就会被删除，并释放它所占用的内存空间。在[阅读更多数据科学家必须掌握的真实技能](/the-real-life-skill-set-that-data-scientists-must-master-8746876d5b2e)**
 
-**[](/the-real-life-skill-set-that-data-scientists-must-master-8746876d5b2e) [## 数据科学家必须掌握的现实生活技能
-
-### 数据科学职业生涯中有哪些软技能？数据科学是一项融合商业和技术的工作…
-
-towardsdatascience.com](/the-real-life-skill-set-that-data-scientists-must-master-8746876d5b2e) 
+**</the-real-life-skill-set-that-data-scientists-must-master-8746876d5b2e>  
 
 ## **4。使用 yield 关键字**
 

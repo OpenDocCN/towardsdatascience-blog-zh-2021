@@ -36,11 +36,7 @@ Tabnine —作者图片
 
 Tabnine 的底层模型(主要是 [GPT-2](https://openai.com/blog/better-language-models/) )是在高质量的公共 GitHub 库上训练出来的。然而，如果你选择加入`team`计划(每个用户每月 24.00 美元)，你可以在你的代码库上个性化和培训他们。
 
-[](/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) [## 您编写代码的方式即将改变:加入革命
-
-### OpenAI API 将会带来编码的革命。
-
-towardsdatascience.com](/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) 
+</the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0>  
 
 您可以利用它的预测来更快地编写代码，提高生产率，减少错误，并遵循使那些伟大的开源项目大放异彩的编码实践。
 

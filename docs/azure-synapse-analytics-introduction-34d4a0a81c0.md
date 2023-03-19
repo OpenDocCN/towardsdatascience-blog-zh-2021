@@ -38,11 +38,7 @@ Azure Synapse Analytics 是一站式分析解决方案，提供以下功能:
 *   ***高级分析*:通过利用 Azure 数据块，使用 Azure 数据块来支持决策。**
 *   ***报告&可视化*:与 PowerBI 集成，增强业务决策能力。**
 
-**[](https://www.linkedin.com/in/p-jainani/) [## Pankaj Jainani -云解决方案架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani/) 
+**<https://www.linkedin.com/in/p-jainani/>  
 
 # 功能演练
 
@@ -137,11 +133,7 @@ display(df.limit(10))
 
 > ***与我连线*[***LinkedIn***](https://www.linkedin.com/in/p-jainani/)*进一步讨论***
 
-**[](https://www.linkedin.com/in/p-jainani/) [## Pankaj Jainani -云解决方案架构师
-
-### 我是云解决方案架构师、人工智能工程师、DevOps 顾问、Scrum Master、技术经理……
-
-www.linkedin.com](https://www.linkedin.com/in/p-jainani/) 
+**<https://www.linkedin.com/in/p-jainani/>  
 
 # 参考
 

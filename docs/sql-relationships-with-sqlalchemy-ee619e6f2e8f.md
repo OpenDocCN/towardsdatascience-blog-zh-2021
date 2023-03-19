@@ -130,40 +130,8 @@ for item in application.ApplicationLog:
 
 看看我最近的一些文章:
 
-[](/mysql-vs-redis-def3287de41) [## MySQL vs Redis
-
-### DBMS 与内存中数据存储的比较
-
-towardsdatascience.com](/mysql-vs-redis-def3287de41) [](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [## 使用 Python 搜索 PDF 中的文本
-
-### 没有人喜欢使用 pdf，但是我们必须…
-
-python .平原英语. io](https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055) [](/daas-data-as-a-service-78494933253f) [## DaaS —数据即服务
-
-### 它是什么，为什么它是下一件大事？
-
-towardsdatascience.com](/daas-data-as-a-service-78494933253f) [](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [## 一年的媒介写作
-
-### 回想我写博客第一年的起起落落。
-
-miketechgame.medium.com](https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297) [](/deep-learning-in-data-science-f34b4b124580) [## 数据科学中的深度学习
-
-### 它是什么，为什么使用它？
-
-towardsdatascience.com](/deep-learning-in-data-science-f34b4b124580) 
+</mysql-vs-redis-def3287de41>  <https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055>  </daas-data-as-a-service-78494933253f>  <https://miketechgame.medium.com/one-year-of-writing-on-medium-d4d73366e297>  </deep-learning-in-data-science-f34b4b124580>  
 
 参考资料:
 
- [## SQLAlchemy 1.4 文档
-
-### 基本关系模式的快速浏览。用于以下各部分的导入如下…
-
-docs.sqlalchemy.org](https://docs.sqlalchemy.org/en/14/orm/basic_relationships.html) [](https://stackoverflow.com/questions/16433338/inserting-new-records-with-one-to-many-relationship-in-sqlalchemy) [## 在 sqlalchemy 中插入一对多关系的新记录
-
-### 我正在学习 flask-sqlalchemy 教程中关于一对多关系的声明模型。示例代码是…
-
-stackoverflow.com](https://stackoverflow.com/questions/16433338/inserting-new-records-with-one-to-many-relationship-in-sqlalchemy) [](https://blog.theodo.com/2020/03/sqlalchemy-relationship-performance/) [## 以性能友好的方式掌握 SQLAlchemy 关系
-
-### 在 web 应用程序中，性能和任何功能特性一样重要。在我目前的项目中，我们经历了…
-
-blog.theodo.com](https://blog.theodo.com/2020/03/sqlalchemy-relationship-performance/)
+  <https://stackoverflow.com/questions/16433338/inserting-new-records-with-one-to-many-relationship-in-sqlalchemy>  <https://blog.theodo.com/2020/03/sqlalchemy-relationship-performance/> 

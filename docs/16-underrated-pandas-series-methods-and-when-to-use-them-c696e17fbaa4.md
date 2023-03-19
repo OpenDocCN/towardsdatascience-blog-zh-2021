@@ -305,14 +305,6 @@ s.repeat(0)**Output:** Series([], dtype: int64)
 
 **你会发现这些文章也很有趣:**
 
-[](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [## 你从未用过的 5 种熊猫方法…而且你没有失去任何东西！
+</5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55>  </the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f> [## 在 Python 中对两个字典执行逻辑运算的最简单方法
 
-### 你知道他们到底什么时候能帮上忙吗？
-
-towardsdatascience.com](/5-pandas-methods-youve-never-used-and-you-didn-t-lose-anything-37277fae7c55) [](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [## 在 Python 中对两个字典执行逻辑运算的最简单方法
-
-towardsdatascience.com](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) [](https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c) [## 你的数据科学项目🎭
-
-### 如何让你的代码和讲故事更生动
-
-medium.com](https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c)
+towardsdatascience.com](/the-easiest-ways-to-perform-logical-operations-on-two-dictionaries-in-python-88c120fa0c8f) <https://medium.com/geekculture/emojize-your-data-science-projects-8f19d447f03c> 

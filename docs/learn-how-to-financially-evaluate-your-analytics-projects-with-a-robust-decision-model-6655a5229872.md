@@ -146,11 +146,7 @@
 
 ****在模型的第二部分，我们构建现金流以获得项目的**净现值(NPV)** ，在本例中为 7，187，955 美元。如果你想更详细地分析现金流模型，你可以查看我在下面附上的 Google Sheet 链接。****
 
-****[](https://docs.google.com/spreadsheets/d/1bqOesbj5UOvhdWz0XY-LvtBONdZF2NaD76c-k0FQ_Gs/edit?usp=sharing) [## FloridaDepartmentOfRevenue _ excelspreadsheet model
-
-### 分析项目评估
-
-docs.google.com](https://docs.google.com/spreadsheets/d/1bqOesbj5UOvhdWz0XY-LvtBONdZF2NaD76c-k0FQ_Gs/edit?usp=sharing) 
+****<https://docs.google.com/spreadsheets/d/1bqOesbj5UOvhdWz0XY-LvtBONdZF2NaD76c-k0FQ_Gs/edit?usp=sharing>  
 
 > ***第 3 节——评估定性因素、其潜在风险，并做出最终决策***
 
@@ -168,11 +164,7 @@ docs.google.com](https://docs.google.com/spreadsheets/d/1bqOesbj5UOvhdWz0XY-LvtB
 
 该项目的净现值仍然为正，净现值为 390 万美元。不同的**场景**可以通过修改模型的参数(如寿命、初始投资或成本)来创建，以查看潜在的财务影响。之前解释过的**悲观情景**的模型可以在这里访问:
 
-[](https://docs.google.com/spreadsheets/d/1-mJVGdNn6SIBpHIFbh7lBtZTDvq7auUMLkw4GovtxEk/edit?usp=sharing) [## 风险评估- Excel 电子表格模型
-
-### 悲观 _ 情景
-
-docs.google.com](https://docs.google.com/spreadsheets/d/1-mJVGdNn6SIBpHIFbh7lBtZTDvq7auUMLkw4GovtxEk/edit?usp=sharing) 
+<https://docs.google.com/spreadsheets/d/1-mJVGdNn6SIBpHIFbh7lBtZTDvq7auUMLkw4GovtxEk/edit?usp=sharing>  
 
 为了做出最终决定，我们需要平衡定量和定性因素，同时考虑项目的潜在风险。
 

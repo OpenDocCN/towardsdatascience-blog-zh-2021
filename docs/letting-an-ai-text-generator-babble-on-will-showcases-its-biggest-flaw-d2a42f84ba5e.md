@@ -90,8 +90,4 @@ Lyman Hansel Gerona 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 *我希望你喜欢这首曲子。如果你对利用人工智能方法的其他研究领域感兴趣，运筹学就是一个很好的例子，我写了一个小故事:*
 
-[](/why-operations-research-is-awesome-an-introduction-7a0b9e62b405) [## 为什么运筹学很棒——简介
-
-### 数学是宇宙的语言，根据定义，它是逻辑的。但是做数学不仅仅是逻辑——它是…
-
-towardsdatascience.com](/why-operations-research-is-awesome-an-introduction-7a0b9e62b405)
+</why-operations-research-is-awesome-an-introduction-7a0b9e62b405> 

@@ -54,4 +54,4 @@
 
 主图由[萨贾德·诺里](https://unsplash.com/@sajad_sqs9966b?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/t/experimental?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄
 
-【https://karimfanous.substack.com】最初发表于[](https://karimfanous.substack.com/p/storage-an-essential-component-of)**。**
+【https://karimfanous.substack.com】最初发表于<https://karimfanous.substack.com/p/storage-an-essential-component-of>**。**

@@ -14,11 +14,7 @@
 
 数据科学是一个技术领域，对具有不同领域专业知识的新数据科学家的需求日益增加。尽管需求不断上升，但空缺职位的供应往往超过了可获得的职位。要想在数据科学领域找到一份工作，即使是入门级的工作——这种工作并不总是存在——也可能是一项非常漫长且具有挑战性的任务。
 
-[](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) [## 10 种不同的数据科学职称及其含义
-
-### 为你的技能选择合适的角色。
-
-towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae) 
+</10-different-data-science-job-titles-and-what-they-mean-d385fc3c58ae>  
 
 也就是说，如果你有一个强大的投资组合，里面有你使用了各种核心和先进技术的惊人项目，你获得面试的机会会更高。但是，进入面试阶段并不是终点；这只是向你未来的雇主证明你能力的又一步，也是获得你梦想中的角色的又一步。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/10-different-data-science-job-titles-and-what-they-mean
 
 幸运的是，尽管数据科学的范围很广，但各种数据科学职位的面试主要关注该领域的核心基础。因为如果你的基础很强，你可以学习并建立任何数量的新知识。本文将讨论 6 个基本的、技术性的数据科学问题，这些问题是你在未来的数据科学面试中可能会被问到的。
 
-[](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) [## 您的数据科学投资组合中必须包含 4 类项目
-
-### 获得一份 DS 工作并不容易，但拥有这些项目可能会增加你的机会。
-
-towardsdatascience.com](/4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e) 
+</4-types-of-projects-you-must-have-in-your-data-science-portfolio-4b67cc25ed3e>  
 
 # 1.回归
 
@@ -44,11 +36,7 @@ towardsdatascience.com](/4-types-of-projects-you-must-have-in-your-data-science-
 
 要做到这一点，您需要了解基本模型、它们的基本理论、它们如何工作以及它们的最佳实践。您还需要训练它们，测试它们的准确性，验证它们的结果，并对它们执行不同的分析。如何以及何时执行交叉验证。你的模型参数基于什么标准？如何选择最佳预测器来解决眼前的问题？
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # 3.随机森林
 
@@ -68,11 +56,7 @@ k-means 算法是一种简单而有效的机器学习算法。面试官可以问
 
 你可能会被问到不同的概率分布，如何进行 T 检验或获得 Z 值。什么是卡方检验？什么时候用，什么意思？如何计算变量和分布之间的协方差和相关性？
 
-[](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) [## 数据可视化 101:有效可视化的 7 个步骤
-
-### 用引人注目的视觉效果讲述您的数据故事。
-
-towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de) 
+</data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
 
 # 6.高级主题
 
@@ -86,10 +70,6 @@ towardsdatascience.com](/data-visualization-101-7-steps-for-effective-visualizat
 
 坏消息是，没有找到工作的神奇公式。然而，你可以做一些事情来帮助你获得这份工作。你需要做的一个重要步骤，尤其是如果你进入了面试阶段，就是为技术面试中经常被问到的问题做好充分准备。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 在本文中，我们讨论了数据科学面试中经常被问到的 6 种类型的问题(概念),而不管你申请的具体职位是什么。因为最终，数据科学的所有子领域都归结为几个基本概念，如果你知道，那么你就是一个数据科学家。

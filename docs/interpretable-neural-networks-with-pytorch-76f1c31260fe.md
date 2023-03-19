@@ -20,11 +20,7 @@
 
 但是，如果你看过我关于[可解释的助推机](https://github.com/interpretml/interpret) (EBM)的文章，那么你已经知道这不是真的。EBM 是一个模型的例子，它具有很好的性能，同时又是可解释的。
 
-[](/the-explainable-boosting-machine-f24152509ebb) [## 可解释的助推器
-
-### 像梯度推进一样精确，像线性回归一样可解释。
-
-towardsdatascience.com](/the-explainable-boosting-machine-f24152509ebb) 
+</the-explainable-boosting-machine-f24152509ebb>  
 
 对于我以前的文章，我创建了下图，展示了我们如何在*可解释性-准确性空间*中放置一些模型。
 

@@ -50,10 +50,6 @@ FastRCNN 的自定义损失函数
 
 [1] [并集上的广义交集:包围盒回归的度量和损失](https://giou.stanford.edu/GIoU.pdf)
 
-[](https://sciencenotes.medium.com/membership) [## 加入媒体阅读伟大的教程和故事！
-
-### 我写机器学习、深度学习和数据科学教程。升级阅读更多。
-
-sciencenotes.medium.com](https://sciencenotes.medium.com/membership) 
+<https://sciencenotes.medium.com/membership>  
 
 杰瑞米·哈里斯，[拉胡尔·阿加瓦尔](https://medium.com/u/e8cce06956c9?source=post_page-----9534029d1a89--------------------------------)，[大卫·麦克](https://medium.com/u/1d81a71197ab?source=post_page-----9534029d1a89--------------------------------)，[库马尔·什里达尔](https://medium.com/u/c7ad13abfbb7?source=post_page-----9534029d1a89--------------------------------)

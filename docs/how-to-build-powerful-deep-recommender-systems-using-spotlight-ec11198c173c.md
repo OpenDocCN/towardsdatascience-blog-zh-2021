@@ -10,11 +10,7 @@
 
 在我的上一篇文章中，我展示了如何使用 Surprise 构建基于矩阵分解等技术的浅层推荐系统。
 
-[](/how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802) [## 如何用惊喜构建简单的推荐系统？
-
-### 使用这个 Python 库来构建图书推荐系统。
-
-towardsdatascience.com](/how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802) 
+</how-you-can-build-simple-recommender-systems-with-surprise-b0d32a8e4802>  
 
 但是如果你想建立一个推荐系统，使用比简单的矩阵分解更复杂的技术呢？如果你想用深度学习来构建推荐系统呢？如果你想利用用户的观看历史来预测他们将要观看的下一部电影呢？
 
@@ -322,15 +318,7 @@ Spotlight 是一个易于使用且功能强大的库，用于使用深度学习�
 
 和往常一样，你可以在 [GitHub](https://github.com/AmolMavuduru/SpotlightExamples) 上找到这篇文章的代码。如果你喜欢这篇文章，请随意查看下面我以前写的一些关于深度学习的文章。
 
-[](/how-to-use-facebooks-neuralprophet-and-why-it-s-so-powerful-136652d2da8b) [## 如何使用脸书的神经营养蛋白，为什么它如此强大。
-
-### 脸书最新预报图书馆介绍。
-
-towardsdatascience.com](/how-to-use-facebooks-neuralprophet-and-why-it-s-so-powerful-136652d2da8b) [](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) [## 什么是变压器，你如何使用它们？
-
-### 介绍在过去的几年中彻底改变了自然语言处理的模型。
-
-towardsdatascience.com](/what-are-transformers-and-how-can-you-use-them-f7ccd546071a) 
+</how-to-use-facebooks-neuralprophet-and-why-it-s-so-powerful-136652d2da8b>  </what-are-transformers-and-how-can-you-use-them-f7ccd546071a>  
 
 # 加入我的邮件列表
 

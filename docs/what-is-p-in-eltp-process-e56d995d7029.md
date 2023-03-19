@@ -76,4 +76,4 @@ ELTP 的 P 解决了信息传递的最后一英里问题，使商业运作变得
 
 大河望·田中是 ANELEN 有限责任公司的首席执行官兼数据科学家，该公司是一家专注于数据工程、分析和数据科学的精品咨询公司。ANELEN 的使命是帮助创新企业利用数据科学做出更明智的决策。
 
-*原载于 2021 年 2 月 13 日 https://articles.anelen.co*[](https://articles.anelen.co/What-is-P-in-ELTP-Process/)**。**
+*原载于 2021 年 2 月 13 日 https://articles.anelen.co*<https://articles.anelen.co/What-is-P-in-ELTP-Process/>**。**

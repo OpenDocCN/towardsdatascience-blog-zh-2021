@@ -16,27 +16,15 @@
 
 首先，如果您是数据科学家或 ML 工程师，并且正在问自己为什么我们需要一个专用的解决方案来监控 ML 系统，请阅读" [Monitor！不要再做一个盲目的数据科学家。](https://medium.com/p/66904f0863bb/edit#:~:text=https%3A//towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
 
-[](/monitor-stop-being-a-blind-data-scientist-ac915286075f) [## 班长！不要再做一个盲目的数据科学家。
-
-### 监控和警报如何帮助您更好地控制您的数据，以及它的实际应用有多少…
-
-towardsdatascience.com](/monitor-stop-being-a-blind-data-scientist-ac915286075f) 
+</monitor-stop-being-a-blind-data-scientist-ac915286075f>  
 
 如果你在问自己怎么没人监控依赖关系，那么我也写了一篇关于[监控依赖关系](/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594)的文章，由 O'Reilly 发表在[《每个云工程师都应该知道的 97 件事》](https://www.oreilly.com/library/view/97-things-every/9781492076728/)。
 
-[](/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594) [## 监控你的依赖！不要再做一个盲目的数据科学家。
-
-### 监控模型依赖关系的原因。
-
-towardsdatascience.com](/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594) 
+</monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594>  
 
 最后，如果您是一名高管或投资者，并且您想知道为什么模型监控对[企业和企业高管](/data-science-observability-for-executives-a054411faecc)很重要，请阅读以下文章。
 
-[](/data-science-observability-for-executives-a054411faecc) [## 高管的数据科学可观察性
-
-### 为什么管理层需要观察与数据科学相关的 KPI？
-
-towardsdatascience.com](/data-science-observability-for-executives-a054411faecc) 
+</data-science-observability-for-executives-a054411faecc>  
 
 ## 分析
 
@@ -66,11 +54,7 @@ AirTable 的一个很棒的特性是，您可以看到一个卡片视图，并�
 
 我们可以看到市场已经爆炸，有许多新的参与者分享相同的功能，但有自己的观点。投资于 MLOps 领域的金额高达 38 亿美元。我们看到小型但成熟的创业公司没有形成规模，因此过早退出。
 
- [## https://www.stateofmlops.com
-
-### 嗨！以下是 MLOps 监控领域公司的详细列表，并按…进行了细分
-
-stateofmlops.com](https://stateofmlops.com/) 
+  
 
 我预见到该领域的整合，我相信最终，大公司会收购小公司，小公司会收购小公司，以吸引大公司。
 

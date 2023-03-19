@@ -42,11 +42,7 @@ df.loc[(df[‘observation_date’] > cutoff_date )].tail()
 
 因为模型不能很好地拟合许多过去观察到的值，所以有理由认为未来的值也是如此。为此，在本文中，我们将改进原始拟合，引入**假日**和定制的**季节成分**，并调整另外三个参数( ***傅立叶顺序、*** ***变点先验比例*** 和 ***变点范围*** )。
 
-[](/business-kpis-forecasting-with-python-using-prophet-part-1-1b8a97d45e3c) [## 使用 Prophet 用 Python 预测业务 KPIs 第 1 部分
-
-### 了解如何通过使用 Prophet 预测未来绩效来为您的企业增值
-
-towardsdatascience.com](/business-kpis-forecasting-with-python-using-prophet-part-1-1b8a97d45e3c) 
+</business-kpis-forecasting-with-python-using-prophet-part-1-1b8a97d45e3c>  
 
 # 添加假日
 
@@ -150,16 +146,4 @@ towardsdatascience.com](/business-kpis-forecasting-with-python-using-prophet-par
 
 # ***你可能也喜欢***
 
-***[](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [## Python 编码面试前要解决的 10 个算法
-
-### 在这篇文章中，我介绍并分享了 FAANG 中经常出现的一些基本算法的解决方案
-
-towardsdatascience.com](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719) [## Python 中计算加权平均值的 3 种方法
-
-### 在这篇简短的教程中，我将展示如何在 Python 中计算加权平均值，要么定义自己的函数，要么使用…
-
-towardsdatascience.com](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719) [](/8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7) [## Python 中复制的 8 个流行的 SQL 窗口函数
-
-### 关于如何利用业务分析中的 Pandas 高效复制最常用的 SQL 窗口的教程…
-
-towardsdatascience.com](/8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7)***
+***</10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27>  </3-ways-to-compute-a-weighted-average-in-python-4e066de7a719>  </8-popular-sql-window-functions-replicated-in-python-e17e6b34d5d7> ***

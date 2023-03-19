@@ -35,11 +35,7 @@
 
 > ****注**:本文中用于生成模型的所有代码都可以在 Github 上找到。**
 
-**[](https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb) [## kurtispykes/twitter 情绪分析
-
-### 通过在 GitHub 上创建一个帐户，为 kurtispykes/twitter 情绪分析开发做出贡献。
-
-github.com](https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb) 
+**<https://github.com/kurtispykes/twitter-sentiment-analysis/blob/master/notebook/03_kpy_data_exploration.ipynb>  
 
 ## 对模型的改进
 
@@ -110,11 +106,7 @@ github.com](https://github.com/kurtispykes/twitter-sentiment-analysis/blob/maste
 
 **特征选择:**收集数据在时间和资金方面都是一个昂贵的过程，因此，只有当它能显著提高模型的性能时，我才会推荐它。首先，我们需要收集数据的人，然后我们需要标记数据的人。我们可能决定进行特征选择，而不是获取更多的实例。这是我们选择只使用带来最大价值的特性的时候。
 
-[](/getting-started-with-feature-selection-3ecfb4957fd4) [## 特征选择入门
-
-### 选择有用功能的初学者指南
-
-towardsdatascience.com](/getting-started-with-feature-selection-3ecfb4957fd4) 
+</getting-started-with-feature-selection-3ecfb4957fd4>  
 
 ## 包裹
 

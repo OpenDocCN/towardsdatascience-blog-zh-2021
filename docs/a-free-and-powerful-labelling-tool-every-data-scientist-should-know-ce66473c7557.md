@@ -35,11 +35,7 @@
 
 在我开始之前，让我声明如下:我不为 Label Studio 工作，也不隶属于 Label Studio。这只是我为客户项目工作的个人经历。
 
-[](https://github.com/heartexlabs/label-studio) [## GitHub-heartex labs/Label-Studio:Label Studio 是一个多类型的数据标注和注释工具…
-
-### website * Docs * Twitter * Join Slack Community Label Studio 是一款开源的数据标注工具。它可以让您标记…
-
-github.com](https://github.com/heartexlabs/label-studio) 
+<https://github.com/heartexlabs/label-studio>  
 
 当我在开发一个代表客户标记数据的系统时，我遇到了这个工具。鉴于它是一个开源和免费的数据标记工具，我对它的灵活性和功能性感到非常惊讶。通过几个简单的步骤，我将向你展示如何构建一个简单的 NER 标签接口。
 
@@ -214,8 +210,4 @@ Woen Yon 与少数聪明人合作，为当地和国际初创企业主提供网�
 
 他喜欢交朋友！在 [LinkedIn](https://www.linkedin.com/in/woenyon/) 和 [Medium](https://laiwoenyon.medium.com/) 上随时与他联系
 
-[](https://medium.com/@laiwoenyon) [## 碧玉莱-中
-
-### 这篇文章包括了我在新加坡 Shopee 工作面试中失败的教训。三次面试…
-
-medium.com](https://medium.com/@laiwoenyon)
+<https://medium.com/@laiwoenyon> 

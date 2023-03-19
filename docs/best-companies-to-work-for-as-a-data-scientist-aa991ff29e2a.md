@@ -22,11 +22,7 @@ NVIDIA 不像你曾经工作过的地方。您将解决一些世界上最具挑�
 
 快速参观:英伟达办公室
 
-[](https://www.nvidia.com/en-gb/about-nvidia/careers/) [## 你从未工作过的地方
-
-### 帮助我们转变整个行业我们在 NVIDIA 取得的突破正在影响着世界各地的企业…
-
-www.nvidia.com](https://www.nvidia.com/en-gb/about-nvidia/careers/) 
+<https://www.nvidia.com/en-gb/about-nvidia/careers/>  
 
 ## **销售队伍**
 
@@ -34,11 +30,7 @@ Salesforce 是客户关系管理领域的全球领导者。它已经被评为 20
 
 Salesforce 的核心价值观是*信任*、*客户成功*、*创新*和*平等*。然而，该公司希望他们的员工多做一点，为每个人创造更好的体验。所以，你应该期待长时间的工作。由于大型数据集与职业行为和数字规划相关联，在 Salesforce 工作可能是一个独特的机会，可以持续产生见解并支持业务决策。如果你想在以后的职业生涯中加入 FAANG 公司，这种经历会让你成为一名出色的候选人。
 
-[](https://www.salesforce.com/company/careers/?d=cta-rdr-uk-global) [## 销售队伍职业
-
-### 我们是一家全球性公司，总部设在加利福尼亚州旧金山，在 28 个国家设有 63 个办事处。我们仍然…
-
-www.salesforce.com](https://www.salesforce.com/company/careers/?d=cta-rdr-uk-global) 
+<https://www.salesforce.com/company/careers/?d=cta-rdr-uk-global>  
 
 ## **土坯**
 
@@ -46,11 +38,7 @@ www.salesforce.com](https://www.salesforce.com/company/careers/?d=cta-rdr-uk-glo
 
 Adobe 提供软件和咨询服务以及增强程序，如 [Adobe Sign](https://acrobat.adobe.com/us/en/sign.html) 。他们的计划支持企业和政府机构通过浏览器或移动设备使用基于云的电子签名服务来保持运营。在 Adobe 工作的数据科学家可以扩展他们在媒体领域的专业知识，或者进入营销、销售或客户分析领域。
 
- [## 数据科学工作| Adobe 职业
-
-### 我们有 30 年的历史记录，但这是一个创业公司的灵魂。扩展您在媒体、营销、销售或…
-
-www.adobe.com](https://www.adobe.com/careers/data-science.html) 
+  
 
 # **中型&小型公司**
 
@@ -60,41 +48,25 @@ Tanium 是一家总部位于美国加利福尼亚州的私营终端安全和系�
 
 了解一下 [Tanium](https://www.tanium.com/)
 
-[](https://www.tanium.com/careers/) [## Tanium 职业
-
-### 我们的任务。Tanium 的使命是降低复杂性、提高效率并协调 IT 团队，为世界上最大的…
-
-www.tanium.com](https://www.tanium.com/careers/) 
+<https://www.tanium.com/careers/>  
 
 ## **OpenAI**
 
 OpenAI 是一家人工智能研究和部署公司。OpenAI 的专业人员致力于保证高度自主的系统在最具经济价值的工作中超越人类，这将使整个人口受益。他们试图建立安全和有益的人工通用智能，并间接为其他具有相同目标的公司做出贡献。作为一名数据科学家在 OpenAI 工作的独特优势之一是，他们将' *audacity* '作为核心价值观**【3】**。该公司大量投资于来自数据的见解，并不怕违反既定规范。这是一个独一无二的机会，让你超越自我，将你的见解和想法带入生活。
 
-[](https://openai.com/jobs/) [## 加入 OpenAI
-
-### 对多样性、公平和包容性的承诺我们相信通用人工智能的发展…
-
-openai.com](https://openai.com/jobs/) 
+<https://openai.com/jobs/>  
 
 ## **基础 SP**
 
 Foundation SP，简称 FSP，是一家数字解决方案和服务提供商，为组织创造积极吸引员工的机会。他们专注于释放数据的价值。该公司有一个以人为本的商业政策，并为他们从一开始就发展的以价值观为导向的包容性文化感到无比自豪。通过帮助各种公共和私营部门组织转变工作方式和利用数据解决方案，FSP 在这些组织中蓬勃发展。最终，数据是改善他们与客户和员工关系的核心。Foundation SP 的专长是商业生产力应用、数据和人工智能，以实现战略目标。
 
-[](https://www.linkedin.com/company/foundation-sp/jobs/) [## 基金会 SP | LinkedIn
-
-### LinkedIn 上有 785 名粉丝。数字解决方案使组织能够积极地吸引员工并…
-
-www.linkedin.com](https://www.linkedin.com/company/foundation-sp/jobs/) 
+<https://www.linkedin.com/company/foundation-sp/jobs/>  
 
 ## **齿轮组**
 
 手动数据部署既困难又耗时。任何公司都不应该依赖过时或不完整的数据。因此，在过去的几年里，Gearset 痴迷地使用客户反馈(以数据的形式)来驱动公司的日常发布，建立一个平台来处理最复杂的工作流。Gearset 与 Azure DevOps 和 GitHub 等领先提供商的集成意味着客户可以在其工作流程和管道的各个方面获得最佳产品。该公司现在是 Salesforce 的领先 DevOps 工具(上面已经提到)。它从刚开始使用 DevOps 的团队一直扩展到拥有数百名专业人员的团队，充分利用并行开发和持续交付。
 
-[](https://gearset.com/careers/) [## 职业|面向 Salesforce 专业人员的 DevOps 工具|齿轮组
-
-### Gearset 的家庭式文化意味着我们都希望看到对方在我们所做的一切中发展和成功…
-
-gearset.com](https://gearset.com/careers/) 
+<https://gearset.com/careers/>  
 
 ## **结论**
 
@@ -102,19 +74,7 @@ gearset.com](https://gearset.com/careers/)
 
 **感谢阅读。这里有一些你可能会喜欢的文章:**
 
-[](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [## 数据科学家的最佳工作城市
-
-### 硅谷不是你唯一的选择。世界各地都需要数据科学家，说英语和法语可能…
-
-towardsdatascience.com](/best-cities-to-work-as-a-data-scientist-a295ff60c6ef) [](/best-universities-to-study-data-science-65f9a12a0342) [## 研究数据科学的最佳大学
-
-### 并非所有的数据科学学位都是一样的，所以请找出适合你的课程。
-
-towardsdatascience.com](/best-universities-to-study-data-science-65f9a12a0342) [](/machine-learning-is-like-football-e3e3ace8ce7a) [## 机器学习就像足球
-
-### 对复杂话题的有趣类比
-
-towardsdatascience.com](/machine-learning-is-like-football-e3e3ace8ce7a) 
+</best-cities-to-work-as-a-data-scientist-a295ff60c6ef>  </best-universities-to-study-data-science-65f9a12a0342>  </machine-learning-is-like-football-e3e3ace8ce7a>  
 
 **参考文献:**
 

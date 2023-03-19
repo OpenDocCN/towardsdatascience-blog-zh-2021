@@ -20,11 +20,7 @@
 
 近年来，多个小型期货合约(小型和微型)的开发和上市极大地改变了这一局面。股票指数、波动性、石油、玉米和其他大宗商品甚至比特币的期货合约规模较小。这使得散户投资者对这一资产类别很感兴趣，尤其是从系统投资的角度来看。
 
-[](https://www.investopedia.com/terms/f/futures.asp) [## 期货
-
-### 期货是一种衍生金融合约，它使双方有义务在预定的未来交易一项资产…
-
-www.investopedia.com](https://www.investopedia.com/terms/f/futures.asp) 
+<https://www.investopedia.com/terms/f/futures.asp>  
 
 # 挑战
 
@@ -94,10 +90,6 @@ VIX 期货价格快照(作者图片)
 
 如果你想了解更多期货回溯测试和交易的复杂性，请查看 Quantra 的 12 小时综合课程，学习如何用 python 实现期货交易自动化。
 
-[](https://quantra.quantinsti.com/course/futures-trading/?ref=stefanharing) [## 期货交易:概念和策略
-
-### 回溯测试和实时交易一种多样化的期货交易策略。学习如何创建一个投资组合，衡量风险和…
-
-quantra.quantinsti.com](https://quantra.quantinsti.com/course/futures-trading/?ref=stefanharing) 
+<https://quantra.quantinsti.com/course/futures-trading/?ref=stefanharing>  
 
 ***注来自《走向数据科学》的编辑:*** *虽然我们允许独立作者根据我们的* [*规则和指导方针*](/questions-96667b06af5) *发表文章，但我们不认可每个作者的贡献。你不应该在没有寻求专业建议的情况下依赖一个作者的作品。详见我们的* [*读者术语*](/readers-terms-b5d780a700a4) *。*

@@ -14,21 +14,13 @@
 
 这是该系列的第一篇文章，即“腹侧颞叶皮层时空功能磁共振成像的认知计算模型”。如果你想了解整个系列，请点击下面的链接。
 
- [## 腹侧颞叶皮层时空功能磁共振成像的认知计算模型
-
-### 在这一系列文章中，我们将回顾以下文章
-
-cankocagil.medium.com](https://cankocagil.medium.com/cognitive-computational-modelling-for-spatio-temporal-fmri-in-ventral-temporal-cortex-f353b5c20fdd) 
+  
 
 我将介绍认知计算建模的话题及其在大脑解码研究中的用例。让我们开始吧。
 
 所有相关资料都放在我的 Github 页面上。别忘了去看看。如果你是一个纸质爱好者，你可以阅读这一系列文章的纸质版，也可以在我的回购中找到。
 
-[](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) [## 腹侧颞叶皮层的时空功能磁共振成像认知计算模型
-
-### 视觉解码的分布区域的人类腹侧颞叶皮层，显著性和注意力一直活跃…
-
-github.com](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex) 
+<https://github.com/cankocagil/Cognitive-Computational-Modelling-for-Spatio-Temporal-fMRI-in-Ventral-Temporal-Cortex>  
 
 人类大脑中的腹侧颞叶皮层对来自自然的视觉刺激的不同表示具有选择性，腹侧物体视觉通路产生分布式和重叠的神经反应[21]。进行单细胞研究以证明非人灵长类动物腹侧颞叶皮层中单个神经元的差异调谐对不同种类的对象具有选择性，并形成代表性特征[6，21]。然而，它们的选择性顺序对于更高程度的对象表示是不可概括和可扩展的[8]。为了模拟腹侧皮层的神经结构，开发了统计算法，但是通路中的不确定性仍然存在。关于神经成像的最新进展表明，人类感知、记忆和思维的时空解码可以通过功能性磁共振成像(fMRI)方法进行解码[11]。然而，由于时空分辨率的神经能力，fMRI 数据的复杂性和分布需要复杂的科学工具。随着机器学习的进步，神经科学家在大规模 fMRI 数据集中发现统计和结构模式，以解决神经科学背景下的各种任务。此外，深度学习的最新进展使研究人员能够解决未解决的神经科学任务[12]，并具体展示了深度学习的重要性。在这项研究中，我们建立了端到端的发现机器学习管道，以解码人类受试者基于 fMRI 数据观看的视觉刺激的类别。我们利用最先进的解释性神经成像技术，如回波平面、感兴趣区域(RoI)、统计图、解剖和玻璃脑方法，来可视化和预分析 fMRI 样本的视觉结构。
 
@@ -97,35 +89,19 @@ github.com](https://github.com/cankocagil/Cognitive-Computational-Modelling-for-
 
 1.  **发表文章**
 
-[](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) [## 人脑认知计算模型导论(上)
-
-### 这是该系列的第一篇文章，即“时空功能磁共振成像的认知计算建模…
-
-cankocagil.medium.com](https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9) 
+<https://cankocagil.medium.com/introduction-to-cognitive-computational-modelling-of-human-brain-part-i-90c61e0e24c9>  
 
 2.
 
-[](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) [## 发现神经影像分析(第二部分)
-
-### 这是该系列的第二篇文章，即“腹侧部时空功能磁共振成像的认知计算模型……
-
-cankocagil.medium.com](https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3) 
+<https://cankocagil.medium.com/discovery-neuroimaging-analysis-part-ii-b2cdbdc6e6c3>  
 
 3.
 
-[](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) [## 人脑的功能连接和相似性分析(下)
-
-### 人脑的空间分析
-
-cankocagil.medium.com](https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb) 
+<https://cankocagil.medium.com/functional-connectivity-and-similarity-analysis-of-human-brain-part-iii-c427c88ca5bb>  
 
 4.
 
-[](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) [## 人脑分布式区域的无监督表示学习(下)
-
-### 无监督学习和人脑的交集
-
-cankocagil.medium.com](https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f) 
+<https://cankocagil.medium.com/unsupervised-representation-learning-on-distributed-regions-in-the-human-brain-part-iv-55fecf4e1b6f>  
 
 2.**在路上(即将推出…)**
 

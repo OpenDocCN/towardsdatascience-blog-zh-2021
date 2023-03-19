@@ -131,23 +131,11 @@ Python 中有很多值得关注的东西。其中一些被设计成以定义的�
 
 *   **100k 观点俱乐部**
 
-[](/building-android-apps-with-python-part-1-603820bebde8) [## 用 Python 构建 Android 应用程序:第 1 部分
-
-### 使用 Python 构建 Android 应用程序的分步指南
-
-towardsdatascience.com](/building-android-apps-with-python-part-1-603820bebde8) 
+</building-android-apps-with-python-part-1-603820bebde8>  
 
 *   **50K 观点俱乐部**
 
-[](/3-ways-to-convert-python-app-into-apk-77f4c9cd55af) [## 将 Python 应用程序转换为 APK 的 3 种方法
-
-### 结束构建 Python 系列的 Android 应用程序！
-
-towardsdatascience.com](/3-ways-to-convert-python-app-into-apk-77f4c9cd55af) [](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) [## 在网站上运行 Python 代码:探索 Brython
-
-### Python 中的 JavaScript 等效脚本
-
-towardsdatascience.com](/run-python-code-on-websites-exploring-brython-83c43fb7ac5f) 
+</3-ways-to-convert-python-app-into-apk-77f4c9cd55af>  </run-python-code-on-websites-exploring-brython-83c43fb7ac5f>  
 
 **参考文献—**
 

@@ -325,16 +325,4 @@ bars = alt.Chart(df).mark_bar().encode(
 
 # 相关文章
 
-[](/how-to-run-animations-in-altair-and-streamlit-2a0624789ad) [## 如何在牛郎星和细流中运行动画
-
-### 一个准备运行的教程，它描述了如何建立一个动画折线图使用阿尔泰和细流。
-
-towardsdatascience.com](/how-to-run-animations-in-altair-and-streamlit-2a0624789ad) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分——阿尔泰中的一个实例
-
-### 这是一个实用的教程，介绍如何在 Python Altair 中构建、自定义简单条形图并向其添加注释
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9) [## 数据可视化原则第 1 部分:空白、文本和颜色
-
-### 从基本的平面设计原则开始。
-
-towardsdatascience.com](/data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9)
+</how-to-run-animations-in-altair-and-streamlit-2a0624789ad>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  </data-visualisation-principles-part-1-white-space-text-and-colour-13f520f90ce9> 

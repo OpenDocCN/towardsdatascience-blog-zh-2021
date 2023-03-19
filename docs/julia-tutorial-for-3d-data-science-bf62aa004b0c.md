@@ -26,11 +26,7 @@
 
 但是这些主张成立吗🤔？这是一种“我都想要”的语言吗？好吧，我第一次发现朱莉娅是在 2019 年初，当时我正在德国亚琛工业大学(RWTH Aachen University)视觉计算研究所(计算机图形学)做研究访问。
 
- [## 室内三维点云的无监督分割:应用于基于对象的分类
-
-### 弗洛伦特·普克斯、克里斯蒂安·马特斯、叶小开·科贝尔特 3D GeoInfo 会议 2020 年室内场景的点云数据主要是…
-
-www.vci.rwth-aachen.de](https://www.vci.rwth-aachen.de/publication/03321/) 
+  
 
 从那以后，我基本上是通过朱莉娅发誓的！这来自于 Pythonista/C“程序员”的思维模式。它超级清晰，拿起来毫不费力，超级快，而且你可以在里面循环 python 脚本，直接调用你喜欢的库，纯 Julia 会执行的疯狂快！的确，朱丽亚是编译出来的，不是解读出来的。为了获得更快的运行时性能，Julia 使用 LLVM 编译器框架进行实时(JIT)编译。在最好的情况下，Julia 可以接近或匹配 C 语言的速度，这太棒了🚀！用三个字来说，我会说 Julia 是**快速**、**动态**和**可再生环境。**
 
@@ -66,11 +62,7 @@ Julia.exe 让这个小窗口出现，它充当了你工作的 REPL。弗洛伦�
 
 ***注*** *:* 如果你没有安装 Anaconda，可以按照下面的教程进行操作:
 
-[](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) [## 使用 Python 探索 3D 点云处理
-
-### 教程简单地设置 python 环境，开始处理和可视化 3D 点云数据。
-
-towardsdatascience.com](/discover-3d-point-cloud-processing-with-python-6112d9ee38e7) ![](img/ad4f82ae613e967432958a549898a9da.png)
+</discover-3d-point-cloud-processing-with-python-6112d9ee38e7>  ![](img/ad4f82ae613e967432958a549898a9da.png)
 
 一旦 GUI 出现，您就可以直接启动 Jupyter。弗洛伦特·普克斯
 
@@ -175,11 +167,7 @@ normals = pointlist[:,4:6]*
 
 ***提示**这种方式执行起来非常快速和简单；因此，它通常在不使用太多记忆的情况下获得第一视觉结果来知道我们正在处理什么。如果你想更深入，我建议你按照下面的教程。对朱莉娅的改编应该不会有太大问题😉。*
 
-*[](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) [## 如何使用 Python 自动处理激光雷达点云
-
-### 使用 Python 从头开始点云子采样的终极指南。它涵盖了激光雷达输入/输出，三维体素网格处理…
-
-towardsdatascience.com](/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c) 
+*</how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c>  
 
 # 步骤 5: 3D 数据可视化
 
@@ -288,26 +276,10 @@ current_figure()
 
 在 Julia 中，您刚刚学习了如何导入、子采样、导出和可视化由数十万个点组成的点云！干得好！但是这条路并没有到此为止，未来的文章将会深入探讨点云空间分析、文件格式、数据结构、可视化、动画和网格划分。我们将特别关注如何管理大点云数据，如下面的文章中所定义的。
 
-[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [## 三维点云的未来:一个新的视角
+</the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9>  </how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5> 的在线课程立即开始。
 
-### 被称为点云的离散空间数据集通常为决策应用奠定基础。但是他们能不能…
-
-towardsdatascience.com](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [](/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5) [## 如何使用 Python 实现 3D 点云分割和聚类的自动化
-
-towardsdatascience.com](/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5) 
-
-我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。您可以通过参加[地理数据学院](https://learngeodata.eu/)的在线课程立即开始。
-
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+<https://learngeodata.eu/point-cloud-processor-formation/>  
 
 如果你刚接触媒体，你可以通过下面的链接来支持我的工作:
 
-[](https://medium.com/@florentpoux/membership) [## 通过我的推荐链接加入 Medium-Florent Poux 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@florentpoux/membership)*
+<https://medium.com/@florentpoux/membership> *

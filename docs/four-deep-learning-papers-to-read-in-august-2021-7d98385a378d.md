@@ -57,8 +57,4 @@ ML-Collage [28/52]:作者的数字。|📝[论文](https://arxiv.org/abs/2107.05
 
 这是这个月的🤗让我知道你最喜欢的论文是什么。如果你想获得一些每周 ML 拼贴输入，查看 Twitter 上的标签[# ML collage](https://twitter.com/hashtag/mlcollage)。你也可以在最后的总结中找到拼贴画📖博客帖子:
 
-[](/four-deep-learning-papers-to-read-in-july-2021-e91c546d112d) [## 2021 年 7 月要读的四篇深度学习论文
-
-### 从大规模深度强化学习到对抗鲁棒性，SimCLR-v2 &学习神经网络空间
-
-towardsdatascience.com](/four-deep-learning-papers-to-read-in-july-2021-e91c546d112d)
+</four-deep-learning-papers-to-read-in-july-2021-e91c546d112d> 

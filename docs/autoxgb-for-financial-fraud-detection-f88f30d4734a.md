@@ -193,19 +193,7 @@
 
 **欢迎您**加入我的数据科学学习之旅！**关注我的 [Medium](https://kennethleungty.medium.com/) 页面和 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受在你的 ML 任务中使用 AutoXGB 的乐趣！**
 
-**[](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) [## 用集合回归预测公寓租金
-
-### Python 中集成学习和多元线性回归在公寓租金预测中的应用
-
-medium.com](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) [](/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) [## 只需点击几下鼠标，即可自动生成机器学习代码
-
-### 使用 Traingenerator 轻松创建 PyTorch 和 scikit-learn 模板代码，用于机器学习模型培训
-
-towardsdatascience.com](/automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97) [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要课程(包括课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) 
+**<https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9>  </automatically-generate-machine-learning-code-with-just-a-few-clicks-7901b2334f97>  </key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  
 
 ## 资源
 

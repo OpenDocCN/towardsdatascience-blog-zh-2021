@@ -373,11 +373,7 @@ df[df['size'].str.contains('small|medium')]
 
 如果您错过了我关于 Dask 和 Vaex 使用大于主内存数据集的文章:
 
-[](/are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919) [## 2021 年你还在用熊猫处理大数据吗？
-
-### 熊猫处理不好大数据。这两个库有！哪个更好？更快？
-
-towardsdatascience.com](/are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919) 
+</are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919>  
 
 进行分析时，通常不需要数据集中的所有行或所有列。
 

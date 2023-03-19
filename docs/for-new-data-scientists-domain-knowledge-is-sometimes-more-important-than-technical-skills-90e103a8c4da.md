@@ -6,7 +6,7 @@
 
 ## *索菲亚·杨谈到持续学习和寻找优秀同事和导师的重要性。*
 
-*在 Author Spotlight 系列中，TDS 编辑与我们社区的成员谈论他们在数据科学领域的职业道路、他们的写作以及他们的灵感来源。今天，我们很高兴与大家分享* [*杨*](https://medium.com/u/ae9cae9cbcd2?source=post_page-----90e103a8c4da--------------------------------) *与本*[](https://medium.com/u/e6ad8abedec9?source=post_page-----90e103a8c4da--------------------------------)**的对话。**
+*在 Author Spotlight 系列中，TDS 编辑与我们社区的成员谈论他们在数据科学领域的职业道路、他们的写作以及他们的灵感来源。今天，我们很高兴与大家分享* [*杨*](https://medium.com/u/ae9cae9cbcd2?source=post_page-----90e103a8c4da--------------------------------) *与本*<https://medium.com/u/e6ad8abedec9?source=post_page-----90e103a8c4da-------------------------------->**的对话。**
 
 *![](img/4e094112b5f65f0f24ae331c8daeb4f7.png)*
 
@@ -54,7 +54,7 @@
     "很多人一直在使用多类逻辑回归，但并不真正知道它是如何工作的，"因此 Sophia 编写了一个全面的演练，并用 Python 实现完成。*
 *   *" [**数据科学家的测试**](/testing-for-data-scientists-1223fcad4ac2)"(2021 年 1 月， *TDS* )
     软件测试对开发者来说是家常便饭，但在数据科学家中却是不太常见的做法。在这篇文章中，Sophia 介绍了两个工具——Pytest 和 Hypothesis——它们使得单元测试变得容易。*
-*   *"[](/customer-lifetime-value-in-a-discrete-time-contractual-setting-math-and-python-implementation-af3ef606cefe)**(2020 年 8 月， *TDS* )
+*   *"</customer-lifetime-value-in-a-discrete-time-contractual-setting-math-and-python-implementation-af3ef606cefe>**(2020 年 8 月， *TDS* )
     在这里，索菲亚利用她的行业经验，解释了商业世界中最重要的指标之一:客户终身价值(LTV)。她包括了一个数学和 Python 实现。***
 *   ***" [**Jupyter 面向数据科学家的工作流程**](/jupyter-workflow-for-data-scientists-d1ce05d67717)"(2020 年 12 月， *TDS* )
     Jupyter 笔记本在数据科学世界里随处可见，但相当一部分从业者不喜欢使用；Sophia 分享了一个实用的工作流程，帮助她从设置到部署利用该工具的强大功能。***

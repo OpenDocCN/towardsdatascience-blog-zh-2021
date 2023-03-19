@@ -78,15 +78,7 @@ Lambda 函数通过 apply 方法比 iterrows 更快。通过一行代码，我�
 
 **感谢阅读。这里有一些你可能会喜欢的文章:**
 
-[](/the-perfect-python-cheatsheet-for-beginners-c7c16799de5) [## 初学者的完美 Python 备忘单
-
-### Cheetsheets 是有抱负和早期职业数据科学家的救命稻草。
-
-towardsdatascience.com](/the-perfect-python-cheatsheet-for-beginners-c7c16799de5) [](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3) 
+</the-perfect-python-cheatsheet-for-beginners-c7c16799de5>  </switching-career-to-data-science-in-your-30s-6122e51a18a3>  
 
 **参考文献:**
 

@@ -161,27 +161,11 @@
 
 ***Medium 最近进化出了它的* [*作家伙伴计划*](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c) *，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。***
 
-**[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership)** 
+**<https://leihua-ye.medium.com/membership> ** 
 
 # **进一步阅读**
 
-**[](/a-practical-guide-to-a-b-tests-in-python-66666f5c3b02) [## Python 中 A/B 测试的实用指南
-
-### 数据科学家在实验前、实验中和实验后应遵循的最佳实践
-
-towardsdatascience.com](/a-practical-guide-to-a-b-tests-in-python-66666f5c3b02) [](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [## 用户干扰如何会搞乱你的 A/B 测试？
-
-### 来自 Lyft、LinkedIn 和 Doordash 的三个解决方案
-
-towardsdatascience.com](/how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8) [](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) [## 运行 A/B 测试的 8 个常见陷阱
-
-### 如何不让你的在线控制实验失败
-
-towardsdatascience.com](/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e) 
+**</a-practical-guide-to-a-b-tests-in-python-66666f5c3b02>  </how-user-interference-may-mess-up-your-a-b-tests-f29abfcfccf8>  </online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e>  
 
 # 喜欢读这本书吗？
 

@@ -14,11 +14,7 @@
 
 虽然科技行业的工作确实有很多优势，从工资到各种工作以及远程工作的可能性，但科技职业肯定不适合所有人。最著名的技术职业道路之一是数据科学，这是一个对当今世界既广泛又重要的领域。在过去的十年里，从事数据科学职业的人和数据科学工具的数量都呈爆炸式增长。
 
-[](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) [## 您可以在 1 天内完成 5 门在线数据科学课程
-
-### 在周末结束前学点新东西！
-
-towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e) 
+</5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e>  
 
 在这十年中，数百万人学习了数据科学，无论是通过在线课程还是通过获得该领域的学位。成为数据科学家的前提和好处今天仍然吸引着人们，在不久的将来也会如此。但是，包括我在内的所有这些人都会问自己一个问题:“数据科学是我的职业道路吗？”。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/5-online-data-science-courses-you-can-finish-in-1-day-5
 
 这是一个好迹象，表明数据科学可能是你的一个潜在领域。在数据科学中，当数据科学家检查数据时，他们的好奇心会产生很大的影响。这种好奇心会引导他们问正确的问题，这将导致更好的分析，从而做出更好的决策。
 
-[](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) [## 9 份全面的数据科学备忘单
-
-### 有时我们需要一个简短扼要的资源。
-
-towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b485) 
+</9-comprehensive-cheat-sheets-for-data-science-46005d72b485>  
 
 但是，如果你对这个问题的回答是“不”，“我真的不在乎为什么事情是这样，或者为什么人们做他们做的事情。”那么追求数据科学对你来说可能有点挑战。
 
@@ -50,11 +42,7 @@ towardsdatascience.com](/9-comprehensive-cheat-sheets-for-data-science-46005d72b
 
 在将你的模型应用于数据之前，当你训练你的模型时，你也需要耐心，耐心处理几乎每天发布的大量新工具。但是，做一个有耐心的人可以让你在数据科学或任何其他技术领域走得更远。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 # 问题 4:你喜欢和别人一起工作吗？
 
@@ -68,11 +56,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 你需要学习编程、数学、统计学、可视化、商业、决策和解决问题。你需要挑战自己，了解许多领域，以便在数据科学中脱颖而出。这可能是许多人放弃进入数据科学的原因之一，但如果你像我一样，这可能是进入该领域的原因。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 # 问题 6:你能轻松地交流复杂的想法吗？
 
@@ -86,11 +70,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 如今，许多人考虑的技术职业之一是数据科学。数据科学是一个非常广泛的职业道路，涵盖许多角色，混合了技术、数学、统计和科学通信。对于一些喜欢解决特定问题并愿意不断学习的人来说，这是一个很好的领域。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 但是，尽管数据科学很有趣，但它肯定不是一个适合所有人的领域。所以现在的问题是，你如何决定数据科学是否适合你？你如何判断从事这个领域是否会给你的职业生涯带来满足和快乐？
 

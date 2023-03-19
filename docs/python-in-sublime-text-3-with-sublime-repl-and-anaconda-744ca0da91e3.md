@@ -159,14 +159,6 @@ Windows 用户的快捷方式:点击 *Windows 键*，输入`env`，从搜索结�
 
 # 资源
 
-[](https://stackoverflow.com/questions/38214656/using-different-conda-envs-with-sublime-repl) [## 使用不同的康达 env 和 Sublime REPL
-
-### 我正在尝试将 Sublime Text 3 设置为一个用于数据科学的多语言编辑器。为此，我使用崇高的 REPL…
-
-stackoverflow.com](https://stackoverflow.com/questions/38214656/using-different-conda-envs-with-sublime-repl)  [## 正确配置 Anaconda:damnwidget.github.io/anaconda/
-
-### Anaconda 开箱即可正常工作(总是在您的路径中配置了一个 Python 解释器，并且二进制文件是…
-
-damnwidget.github.io](http://damnwidget.github.io/anaconda/anaconda_settings/) 
+<https://stackoverflow.com/questions/38214656/using-different-conda-envs-with-sublime-repl>    
 
 *最初发布于*[*https://philippschmalen . github . io*](https://philippschmalen.github.io/posts/python-in-sublime-text-3-with-sublime-repl-and-anaconda/)*。*

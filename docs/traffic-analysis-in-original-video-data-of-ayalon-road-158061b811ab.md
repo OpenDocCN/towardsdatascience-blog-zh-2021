@@ -6,11 +6,7 @@
 
 帖子中的所有图片均由作者创作，除非另有说明
 
-[](https://github.com/ido90/AyalonRoad) [## 伊多 90 号公路/阿亚隆路
-
-### 更多项目、文章和课程总结请访问我的网站。这个仓库讲述了 81 年的故事…
-
-github.com](https://github.com/ido90/AyalonRoad) 
+<https://github.com/ido90/AyalonRoad>  
 
 # 摘要
 

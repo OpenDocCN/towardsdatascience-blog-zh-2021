@@ -89,15 +89,7 @@ Orange 正在开发自己的知识图谱，名为未来事物。这里，数据�
 
 我已经在图形神经网络上发表了两篇有趣的文章，解释了我们如何使用 PyTorch 几何 python 库构建 GNN 模型。如果您对基于图形的分析感兴趣，我建议您查看它们。
 
-[](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742) [## 使用 PyTorch 几何图形的神经网络初学者指南—第 1 部分
-
-### PyTorch 几何入门
-
-towardsdatascience.com](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742) [](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab) [## 使用 PyTorch 几何图形的神经网络初学者指南—第 2 部分
-
-### 使用节点嵌入作为 GNN 模型的特征
-
-towardsdatascience.com](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab) 
+</a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-1-d98dc93e7742>  </a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab>  
 
 我会写更多关于知识图及其嵌入技术的文章。敬请期待！
 

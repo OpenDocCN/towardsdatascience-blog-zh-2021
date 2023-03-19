@@ -16,11 +16,7 @@
 
 有关使用 GPS 数据集计算 STM 的更多信息，请访问以下链接:
 
-[](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) [## 速度转移矩阵:一种新的道路交通数据建模技术
-
-### 对道路交通数据建模的方法有很多种。研究人员大多使用某种时间序列…
-
-medium.com](https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1) 
+<https://medium.com/analytics-vidhya/speed-transition-matrix-novel-road-traffic-data-modeling-technique-d37bd82398d1>  
 
 # 2.方法学
 

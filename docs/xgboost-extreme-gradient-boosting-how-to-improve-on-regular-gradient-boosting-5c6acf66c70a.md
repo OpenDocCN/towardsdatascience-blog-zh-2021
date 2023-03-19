@@ -65,11 +65,7 @@ XGBoost。图片由[作者](https://solclover.com/)提供。
 
 如果你不熟悉这是如何工作的，我强烈建议你回顾一下我关于梯度增强树的故事中的深入解释:
 
-[](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) [## 用于分类的梯度增强树——最好的机器学习算法之一
-
-### 梯度增强在分类树中如何工作的分步指南
-
-towardsdatascience.com](/gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2) 
+</gradient-boosted-trees-for-classification-one-of-the-best-machine-learning-algorithms-35245dab03f2>  
 
 ## XGBoost
 
@@ -186,20 +182,8 @@ XGBoost 是 tin 上显示的内容，即常规梯度增强算法的更精确和�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 如果你喜欢这篇文章，你可能也会觉得有趣:
 
-[](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) [## AdaBoost 机器学习算法:如何提高难以预测案例的性能
-
-### 对自适应 Boosting 算法及其与其他基于决策树的机器的区别的直观解释…
-
-towardsdatascience.com](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) [](/svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b) [## SVM 分类器和 RBF 核——如何用 Python 制作更好的模型
-
-### 支持向量机(SVM)和径向基函数(RBF)核的内部工作的完整解释
-
-towardsdatascience.com](/svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b)
+</adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0>  </svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b> 

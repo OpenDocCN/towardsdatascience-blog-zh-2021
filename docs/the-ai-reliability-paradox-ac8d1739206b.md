@@ -110,11 +110,7 @@
 
 **所以，如果你聪明，你会选择最好的系统，但是[建立安全网](http://bit.ly/quaesita_policy)就好像它是最差的系统。**
 
-**[](http://bit.ly/quaesita_policy) [## 如何防止 AI 中的尴尬
-
-### 你应该立即将这个简单的必备安全网添加到你的机器学习系统中…
-
-bit.ly](http://bit.ly/quaesita_policy) 
+**<http://bit.ly/quaesita_policy>  
 
 # 感谢阅读！人工智能课程怎么样？
 

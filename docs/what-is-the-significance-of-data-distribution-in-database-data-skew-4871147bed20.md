@@ -107,19 +107,7 @@ Teradata 基于在创建表的过程中创建的主索引来分发数据。
 
 请务必查看以下文章，它们将有助于更好地理解这一主题:
 
-[](/data-warehouse-dimensional-modelling-use-case-study-ewallet-d9d16f559181) [## 数据仓库|维度建模|用例研究:电子钱包
-
-### “根据我以前作为数据工程师和分析师的经验，我将解释数据仓库和维度建模…
-
-towardsdatascience.com](/data-warehouse-dimensional-modelling-use-case-study-ewallet-d9d16f559181) [](/logical-flow-of-sql-query-sql-through-the-eye-of-database-e7d111c87516) [## 从数据库的角度看 SQL 查询| SQL 的逻辑流程
-
-### 对于所有的数据分析师来说，从逻辑上改变你看待 SQL 语句的方式。
-
-towardsdatascience.com](/logical-flow-of-sql-query-sql-through-the-eye-of-database-e7d111c87516) [](/data-analytics-data-profiling-use-case-study-investment-data-adf872152db6) [## 数据分析|数据分析|用例研究:投资数据
-
-### 解释许多数据分析项目中涉及的一个主要阶段“数据剖析”使用投资数据…
-
-towardsdatascience.com](/data-analytics-data-profiling-use-case-study-investment-data-adf872152db6) 
+</data-warehouse-dimensional-modelling-use-case-study-ewallet-d9d16f559181>  </logical-flow-of-sql-query-sql-through-the-eye-of-database-e7d111c87516>  </data-analytics-data-profiling-use-case-study-investment-data-adf872152db6>  
 
 # 参考
 

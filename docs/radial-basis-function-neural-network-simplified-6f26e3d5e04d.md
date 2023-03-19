@@ -83,20 +83,4 @@ RBF 网络只包含一个单独的隐藏层，它有自己计算输出的方法�
 
 ## 参考
 
-[](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622) [## 神经网络和深度学习:教科书
-
-### 神经网络和深度学习:一本关于 Amazon.com 的教科书。*符合条件的优惠可享受免费*运输…
-
-www.amazon.com](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622) [](http://vlabs.iitb.ac.in/vlabs-dev/labs_local/machine_learning/labs/exp3/theory.php) [## 虚拟实验室
-
-### 径向基函数网络(RBFN)是一种特殊类型的神经网络。RBFN 方法比…更直观
-
-vlabs.iitb.ac.in](http://vlabs.iitb.ac.in/vlabs-dev/labs_local/machine_learning/labs/exp3/theory.php) [](https://www.sciencedirect.com/topics/engineering/radial-basis-function-network) [## 径向基函数网络
-
-### 径向基函数(RBF)网络是一种常用的人工神经网络类型，用于函数逼近
-
-www.sciencedirect.com](https://www.sciencedirect.com/topics/engineering/radial-basis-function-network) [](https://en.wikipedia.org/wiki/Radial_basis_function_network) [## 径向基函数网络-维基百科
-
-### 在数学建模领域，径向基函数网络是一种使用径向基函数的人工神经网络
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Radial_basis_function_network)
+<https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622>  <http://vlabs.iitb.ac.in/vlabs-dev/labs_local/machine_learning/labs/exp3/theory.php>  <https://www.sciencedirect.com/topics/engineering/radial-basis-function-network>  <https://en.wikipedia.org/wiki/Radial_basis_function_network> 

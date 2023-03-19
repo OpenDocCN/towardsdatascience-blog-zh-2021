@@ -198,15 +198,7 @@ score = grid_search.best_score
 
 # **更多文章阅读**
 
-**[](/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e) [## 4 sci kit——每个数据科学家都应该使用的学习工具
-
-### 复合估算器和变压器
-
-towardsdatascience.com](/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e) [](/classification-model-for-source-code-programming-languages-40d1ab7243c2) [## 源代码语言的分类模型
-
-### 大约 97%的准确率
-
-towardsdatascience.com](/classification-model-for-source-code-programming-languages-40d1ab7243c2) 
+**</4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e>  </classification-model-for-source-code-programming-languages-40d1ab7243c2>  
 
 # 参考
 

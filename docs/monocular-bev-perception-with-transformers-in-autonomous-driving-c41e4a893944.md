@@ -23,11 +23,7 @@
 
 该图暗示，对于唯一的异常值(摄像机感知)来说，转向 BEV 将是非常有益的。首先，直接在 BEV 中执行相机感知可以直接与来自雷达或激光雷达等其他设备的感知结果相结合，因为它们已经在 BEV 中表示和使用。BEV 空间中的感知结果也容易被下游组件使用，例如预测和规划。第二，单纯依靠手工制作的规则将 2D 观测提升到 3D 是不可扩展的。BEV 表示有助于过渡到早期融合管道，使融合过程完全由数据驱动。最后，在只有视觉的系统中(没有雷达或激光雷达)，在 BEV 中执行感知任务几乎成为**强制**，因为在传感器融合中没有其他 3D 提示可用于执行这种视图转换。
 
-[](/monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59) [## 面向自动驾驶的单目鸟瞰语义分割
-
-### 2020 年 BEV 语义分割综述
-
-towardsdatascience.com](/monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59) 
+</monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59>  
 
 一年前的 2020 年末，我写了一篇[评论博文](/monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59)，总结了学术界关于**单眼 BEV 感知**的论文。该领域研究如何将单目图像提升到 BEV 空间进行感知任务。从那以后，我一直在更新我读过的更多的文章，以保持这篇博文的更新和相关性。这个领域的范围已经从语义分割稳步扩展到全景分割、对象检测，甚至其他下游任务，如预测或规划。
 
@@ -193,11 +189,7 @@ towardsdatascience.com](/monocular-birds-eye-view-semantic-segmentation-for-auto
 
 ## **关于变形金刚 vs MLP 的最后一句话**
 
-**[](/illustrated-difference-between-mlp-and-transformers-for-tensor-reshaping-52569edaf89) [## 说明了张量整形的 MLP 和变压器之间的差异
-
-### 深入探究数学细节，并附有插图。
-
-towardsdatascience.com](/illustrated-difference-between-mlp-and-transformers-for-tensor-reshaping-52569edaf89) 
+**</illustrated-difference-between-mlp-and-transformers-for-tensor-reshaping-52569edaf89>  
 
 > (将图像提升到 BEV 空间)是数据相关的，很难对此组件进行固定的转换，因此为了解决这个问题，我们使用转换器来表示这个空间。—安德烈·卡帕西，2021 年特斯拉人工智能日
 

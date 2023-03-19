@@ -313,20 +313,8 @@
 
 ****如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加盟媒介是:**
 
-*[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership)* 
+*<https://solclover.com/membership> * 
 
 *你可能喜欢的相关故事:*
 
-*[](/svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b) [## SVM 分类器和 RBF 核——如何用 Python 制作更好的模型
-
-### 支持向量机(SVM)和径向基函数(RBF)核的内部工作的完整解释
-
-towardsdatascience.com](/svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b) [](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069) [## 朴素贝叶斯分类器——如何在 Python 中成功使用？
-
-### 算法背后的理论的详细解释，以及 6 个 Python 例子
-
-towardsdatascience.com](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069)*
+*</svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b>  </naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069> *

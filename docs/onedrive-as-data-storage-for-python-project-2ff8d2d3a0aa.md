@@ -42,11 +42,7 @@
 
 让我们尝试使用上面的步骤和下面的样本时间序列数据集。它存放在我的 OneDrive 上。
 
-[](https://1drv.ms/u/s!AmLiprCs46qqkpw8W4MoOiwf_jHvow?e=VR3NEb) [## time _ series _ covid 19 _ confirmed _ us . xlsx
-
-### 在线存储照片和文档。从任何 PC、Mac 或手机访问它们。在 Word、Excel 或……上创建和协同工作
-
-1drv.ms](https://1drv.ms/u/s!AmLiprCs46qqkpw8W4MoOiwf_jHvow?e=VR3NEb) 
+<https://1drv.ms/u/s!AmLiprCs46qqkpw8W4MoOiwf_jHvow?e=VR3NEb>  
 
 我们可以使用上面两步中的脚本来生成直接下载链接，然后使用 Pandas 直接导入 excel 数据。完整的示例脚本如下所示:
 

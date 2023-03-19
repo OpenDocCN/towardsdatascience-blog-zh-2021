@@ -45,11 +45,7 @@ Docker 是一个神奇的工具，它为我们提供了代码的标准化、生�
 
 **请注意，我们节省了大量内存；我们的应用程序共享一个操作系统(至少是内核)，这使得它更加轻量级。查看下面的文章，这是一个关于如何将 Postgres 数据库容器化的很好的实用示例。**
 
-**[](/getting-started-with-postgres-in-docker-616127e2e46d) [## Docker 中的 Postgres 入门
-
-### 为初学者在 Docker 容器中创建 Postgres 数据库
-
-towardsdatascience.com](/getting-started-with-postgres-in-docker-616127e2e46d) 
+**</getting-started-with-postgres-in-docker-616127e2e46d>  
 
 ## 轻便
 
@@ -75,11 +71,7 @@ docker 文件不仅允许我们发布应用程序代码，还允许我们发布�
 *   ****图片:**像一张 CD:它包含了所有的代码，但还不能做任何事情。**
 *   ****容器:**一个运行的图像。把它想象成你刚刚放入 CD 播放器的 CD。它正在执行图像。**
 
-**[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) [## 面向绝对初学者的 Docker:图像和容器的区别
-
-### 了解 Docker 图像和容器的区别以及图像是不同的+实用代码示例
-
-towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) 
+**</docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d>  
 
 所有这些都将在下面解释并给出例子。
 
@@ -144,8 +136,4 @@ towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an
 
 **又及:喜欢我正在做的事吗？跟我来！**
 
-**[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)**
+**<https://mikehuls.medium.com/membership> **

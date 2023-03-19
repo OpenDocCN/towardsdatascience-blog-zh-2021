@@ -79,24 +79,4 @@
 
 如果你喜欢这本书，那么看看我的其他作品。
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
-
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](https://medium.com/nerd-for-tech/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-medium.com](https://medium.com/nerd-for-tech/markov-chain-explained-210581d7a4a9) [](https://medium.com/nerd-for-tech/k-nearest-neighbours-explained-7c49853633b6) [## k 最近的邻居解释说
-
-### 在这篇文章中，我将给出一个概述，实现，缺点和相关的 K 最近…
-
-medium.com](https://medium.com/nerd-for-tech/k-nearest-neighbours-explained-7c49853633b6)
+</text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </word2vec-explained-49c52b4ccb71>  <https://medium.com/nerd-for-tech/markov-chain-explained-210581d7a4a9>  <https://medium.com/nerd-for-tech/k-nearest-neighbours-explained-7c49853633b6> 

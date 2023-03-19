@@ -59,11 +59,7 @@ num = 15
 # TypeError*
 ```
 
-*[](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc) [## 成为更好的 Python 程序员的三个概念
-
-### 了解 Python 中的*和**运算符，*args 和**kwargs 以及更多内容
-
-towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b5808b7abedc)* 
+*</three-concepts-to-become-a-better-python-programmer-b5808b7abedc> * 
 
 ## *另一个例子*
 
@@ -83,11 +79,7 @@ towardsdatascience.com](/three-concepts-to-become-a-better-python-programmer-b58
 
 *walrus 运算符可以提高代码可读性和计算效率的一个例子是在旨在过滤值的列表理解中。*
 
-*[](/list-comprehensions-in-python-28d54c9286ca) [## Python 中的列表理解
-
-### 用 python 创建列表的更优雅、更简洁的方式
-
-towardsdatascience.com](/list-comprehensions-in-python-28d54c9286ca)* 
+*</list-comprehensions-in-python-28d54c9286ca> * 
 
 *例如，假设我们有一个数字列表 ***num_list*** ，并且我们希望仅在立方值小于 20 的情况下将这些数字的立方相加。我们可以这样做:*
 
@@ -103,10 +95,6 @@ towardsdatascience.com](/list-comprehensions-in-python-28d54c9286ca)*
 
 *如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [*链接*](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。**
 
-*[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership)* 
+*<https://lmatalka90.medium.com/membership> * 
 
 **我希望这篇关于如何在 Python 中使用 walrus 操作符的教程能有所帮助。感谢您的阅读！**

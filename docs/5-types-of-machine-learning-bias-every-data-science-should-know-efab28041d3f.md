@@ -14,11 +14,7 @@
 
 数据科学的所有子领域，无论是机器学习、自然语言处理还是任何其他子领域，都依赖于数据。它们都依赖于用于构建、训练和开发其核心算法的数据集的质量和数量。因此，质量差的数据或有缺陷的数据会导致不准确的预测和总体糟糕的结果。
 
-[](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) [## 你需要知道的 5 种机器学习算法
-
-### 如果您是数据科学的新手，这里是一个很好的起点
-
-towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d) 
+</5-types-of-machine-learning-algorithms-you-need-to-know-5ac7fce8920d>  
 
 机器学习应用中的偏差有多种原因。作为数据科学家，尽最大努力减少和防止他们的模型中出现偏差的原因是我们工作的一部分。防止偏见的最好方法是充分了解其原因。一旦确定了原因，就可以采取一些措施来消除它并完全消除它的影响。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/5-types-of-machine-learning-algorithms-you-need-to-know
 
 幸运的是，样本偏差并不复杂；您可以尝试使用更大、更多样化的数据集来训练您的模型。您可以多次训练它，观察它的行为，并微调参数以获得最佳答案。
 
-[](/6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436) [## 提高 ML 模型准确性的 6 种方法
-
-### 简单的步骤获得更好的结果
-
-towardsdatascience.com](/6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436) 
+</6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436>  
 
 # **№3:偏见偏见**
 
@@ -58,11 +50,7 @@ towardsdatascience.com](/6-ways-to-improve-your-ml-model-accuracy-ec5c9599c436)
 
 这些数据通常是由人或计算机完成的一些计算和测量的结果，然后存储在数据库中。如果这些计算测量是错误的，它们将导致错误的数据点，这些数据点将被输入到模型中以训练和发展它。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 # **№5:排除偏差**
 
@@ -74,11 +62,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 然而，这些系统可能会有偏差，这取决于用来构建它们的数据以及构建它们的人。这就是为什么尽可能地减少和消除偏见是任何机器学习应用程序开发的重要步骤。为了成功地做到这一点，我们首先需要了解为什么会出现偏差，偏差的类型，以及每种类型在开发过程中的位置。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 在任何机器学习应用中寻找和解决偏差的原因都不是一门精确的科学；我更愿意将它视为一种艺术形式，一种只有在你建立更多项目、与更多数据互动并解决不同类型偏见的情况下才会变得更好的技能。
 

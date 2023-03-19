@@ -175,11 +175,7 @@
 
 这是不同的东西。KNN 插补，尤其是在缩放数据集上，产生了迄今为止最好的结果。如果你想了解更多关于 KNN 插补及其优化的知识，这里有一篇文章适合你:
 
-[](/missing-value-imputation-with-python-and-k-nearest-neighbors-308e7abd273d) [## 如何用 Python 和 KNN 处理缺失数据
-
-### 使用机器学习算法处理缺失数据
-
-towardsdatascience.com](/missing-value-imputation-with-python-and-k-nearest-neighbors-308e7abd273d) 
+</missing-value-imputation-with-python-and-k-nearest-neighbors-308e7abd273d>  
 
 还有一项技术需要探索。
 
@@ -211,11 +207,7 @@ MissForest 是一种基于机器学习的插补技术。它使用随机森林算
 
 如果你想更多地了解 MissForest，这里有一篇文章给你:
 
-[](/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a) [## 如何使用 Python 和 MissForest 算法估算缺失数据
-
-### 使用随机森林处理丢失数据的分步指南
-
-towardsdatascience.com](/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a) 
+</how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a>  
 
 # 结论
 
@@ -229,11 +221,7 @@ towardsdatascience.com](/how-to-use-python-and-missforest-algorithm-to-impute-mi
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 了解更多信息
 

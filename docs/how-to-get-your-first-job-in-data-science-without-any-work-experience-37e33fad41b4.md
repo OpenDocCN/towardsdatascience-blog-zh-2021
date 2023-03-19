@@ -52,15 +52,7 @@
 
 这里有一些资源可以激发你的写作灵感:
 
-[](/why-data-scientists-should-write-books-and-why-i-did-1f047e10c6ab) [## 为什么数据科学家应该写书，为什么我要写书。
-
-### 知识就在那里。
-
-towardsdatascience.com](/why-data-scientists-should-write-books-and-why-i-did-1f047e10c6ab) [](/practical-advice-for-data-science-writing-cc842795ed52) [## 数据科学写作的实用建议
-
-### 开始撰写数据科学项目的一些有用提示
-
-towardsdatascience.com](/practical-advice-for-data-science-writing-cc842795ed52) 
+</why-data-scientists-should-write-books-and-why-i-did-1f047e10c6ab>  </practical-advice-for-data-science-writing-cc842795ed52>  
 
 # 成为一名自由职业的数据科学家，建立自己的咨询业务。
 
@@ -86,23 +78,7 @@ towardsdatascience.com](/practical-advice-for-data-science-writing-cc842795ed52)
 
 此外，快速搜索将引导您找到数百篇充满不同数据科学项目的文章，从而激发您的灵感。这里有几个让你开始。
 
-[](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [## 我计划在 2021 年完成的 7 个数据科学项目
-
-### 我计划如何在年底前利用这些项目来提高我的数据科学技能。
-
-towardsdatascience.com](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f) [](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) [## 圣诞节 12 天的 12 个数据科学项目
-
-### 一天就能完成的相关且有价值的数据科学项目！
-
-towardsdatascience.com](/12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b) [](/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03) [## 12 个适合初学者和专家的酷数据科学项目创意
-
-### “到目前为止，您已经完成了多少个数据科学项目？”
-
-towardsdatascience.com](/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03) [](/a-guide-to-getting-data-science-projects-ideas-9ba5aaeafa61) [## 获取数据科学项目想法的指南
-
-### 如何提出自学、作品集或商业创意？从一个有太多。
-
-towardsdatascience.com](/a-guide-to-getting-data-science-projects-ideas-9ba5aaeafa61) 
+</the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f>  </12-data-science-projects-for-12-days-of-christmas-aff693f5ed2b>  </12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03>  </a-guide-to-getting-data-science-projects-ideas-9ba5aaeafa61>  
 
 # 实习生、志愿者或做公益工作来获得宝贵的行业经验。
 

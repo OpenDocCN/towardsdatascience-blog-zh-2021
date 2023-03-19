@@ -28,11 +28,7 @@
 
 *然而，数据行业的情况并非如此。就拿我的背景来说吧:我有*金融经济学*学士学位和*数量金融学*硕士学位。在大学里，我从未上过真正的计算机科学课程，也很少使用 MATLAB 和 R 来完成一些带回家的统计作业。尽管如此，我是一名 BI 工程师。*
 
-*[](/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453) [## 排名上的 6 个 SQL 窗口函数编码问题——采访倒计时 P1
-
-### SQL 面试即将来临，您正在寻找一些具有挑战性的练习来测试您的准备情况？你是…
-
-towardsdatascience.com](/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453) 
+*</6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453>  
 
 通常，在聊完我的背景后，同事们会问我，我有金融背景，是如何找到数据方面的工作的。我告诉他们真相:当我认真对待这个职业时，我开始在网上参加按需编码课程，每天两个小时。就这样，我先自学了 SQL，然后是 Python，最近又自学了 Apache Spark。
 
@@ -83,11 +79,7 @@ towardsdatascience.com](/6-sql-window-functions-coding-problems-on-ranking-inter
 
 到目前为止，我的分数是 7.5/10，但仅仅是因为，在我看来，这个课程对于它所服务的主要目的来说有点太长了。
 
-[](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [## Python 编码面试前要解决的 10 个算法
-
-### 在这篇文章中，我介绍并分享了 FAANG 中经常出现的一些基本算法的解决方案
-
-towardsdatascience.com](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) 
+</10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27>  
 
 ## **2。** [**数据工程纳米学位**](https://imp.i115008.net/jWWEGv)
 
@@ -111,11 +103,7 @@ towardsdatascience.com](/10-algorithms-to-solve-before-your-python-coding-interv
 
 在过去的 3 周里，我已经学习了太多关于气流、火花和数据湖的知识，所以我可能会购买剩下的 4 个月来完成 nanodegree。这种材料质量极高，价格完全合理。我此时的标记是 **9/10** 。
 
-[](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) [## 用 Apache Spark 创建表格的 3 种方法
-
-towardsdatascience.com](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) 
-
-## 3.[数据流技术纳米度](https://imp.i115008.net/7mmA9d)
+</3-ways-to-create-tables-with-apache-spark-32aed0f355ab> 
 
 ![](img/dd6b2c8fa6db207852e51284c4af6fc0.png)
 

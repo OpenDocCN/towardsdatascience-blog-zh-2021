@@ -98,11 +98,7 @@ Lambda 函数访问理解医疗
 
 # 7.代码和结论
 
- [## RamVegiraju/medner understand
-
-### 使用 AWS 的 Web 应用程序理解医疗-RamVegiraju/medner 理解
-
-github.com](https://github.com/RamVegiraju/MedNERComprehend) 
+  
 
 要访问演示的所有代码，请访问上面发布的链接。AWS 拥有一套不断扩展的高级人工智能服务，可以真正实现自动化，并为时间少或没有构建定制 ML 模型经验的人提供应用程序。
 

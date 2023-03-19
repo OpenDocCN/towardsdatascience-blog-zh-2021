@@ -122,8 +122,4 @@ SiCaGCN 系统包括在深度学习和 ML 领域中发现的神经网络架构�
 3.  通过 [**LinkedIn**](https://www.linkedin.com/in/richmondalake/) 联系我
 4.  跟我学学 [**奥莱利**](https://www.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/)
 
-[](/creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356) [## 用概念创建数据科学和机器学习组合
-
-### 传统简历的现代化
-
-towardsdatascience.com](/creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356)
+</creating-a-data-science-and-machine-learning-portfolio-with-notion-25888cf19356> 

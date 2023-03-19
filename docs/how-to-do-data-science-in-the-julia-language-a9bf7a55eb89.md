@@ -34,11 +34,7 @@ Julia 语言是最近发布的科学编程语言，旨在解决科学计算面�
 
 所有这些工具都有其优点和缺点。我想说在这方面最全面的可能是 Lathe，它将提供缩放器、编码器、分离器、统计、测试，甚至一些机器学习模型，如相对快速的随机森林分类器实现。关于这个话题，你可以在这篇文章中比较一下车床和 Sklearn 的速度:
 
-[](/performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7) [## 性能测试——Python 和 SkLearn 与 Julia 和 Lathe
-
-### 在两个生态系统工具的最新版本上执行一些基本指标。
-
-towardsdatascience.com](/performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7) 
+</performance-testing-python-and-sklearn-with-julia-and-lathe-f5516fa497d7>  
 
 最后，很多时候需要从其他地方获取数据。例如，我们可以研究用 SQL.jl 执行 SQL，我们可以研究通过使用 HTTP.jl 包来利用 API 数据。
 
@@ -59,11 +55,7 @@ towardsdatascience.com](/performance-testing-python-and-sklearn-with-julia-and-l
 
 如果您想了解更多，并考虑您今天想要查看哪个可视化库，我写了一篇文章详细介绍了这些出色的库(Makie.jl 除外)的优缺点，您可以在这里查看！：
 
-[](/julia-visualization-libraries-which-is-best-e4108d3eeaba) [## Julia 可视化库:哪个最好？
-
-### Julia 语言中常用的可视化库概述。
-
-towardsdatascience.com](/julia-visualization-libraries-which-is-best-e4108d3eeaba) 
+</julia-visualization-libraries-which-is-best-e4108d3eeaba>  
 
 # 机器学习
 
@@ -73,11 +65,7 @@ GLM 是广义线性模型的简称。线性建模是在一种新的编程语言�
 
 但是，如果您来自 Python 和 Sklearn，您可能会对一个名为 Lathe 的包感兴趣。Lathe.jl 是一个纯粹的 Julian 统计和数据处理库，上面有一个不断扩展的机器学习模型库。Lathe 的伟大之处在于，它允许没有实际 Julia 编程经验的用户快速进入该语言，并开始使用完整的模型，就像在 Python 中一样。如果你想了解车床，你可以查看车床网站:
 
- [## 车床
-
-### 车床使用更快的方法和简单的方法。使得包装快速、简单且轻便。许多工具和模型…
-
-车床. ai](https://lathe.ai/) 
+  
 
 MLJ.jl 也能派上很多用场。像车床一样，它是相当包容的，并带有一些黑盒模型。然而，虽然 Lathe 更侧重于成为通用数据科学包，但 MLJ.jl 更专注于机器学习。
 

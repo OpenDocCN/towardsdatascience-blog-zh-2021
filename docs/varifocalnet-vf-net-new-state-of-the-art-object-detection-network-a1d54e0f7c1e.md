@@ -50,11 +50,7 @@ VarifocalNet 使用变焦距损失来预测每幅图像的 IoU 感知分类得�
 
 如果你有兴趣了解更多关于 FCOS 的信息，我建议你看看这篇文章:
 
-[](https://medium.com/swlh/fcos-walkthrough-the-fully-convolutional-approach-to-object-detection-777f614268c) [## FCOS 演练:物体探测的完全卷积方法
-
-### 无锚目标检测
-
-medium.com](https://medium.com/swlh/fcos-walkthrough-the-fully-convolutional-approach-to-object-detection-777f614268c) 
+<https://medium.com/swlh/fcos-walkthrough-the-fully-convolutional-approach-to-object-detection-777f614268c>  
 
 我知道我们很快引入了很多概念，但是请耐心听我说。新 SOTA 模型的美妙之处在于，它们几乎总是建立在几种新颖技术的基础上，了解每种技术以及它们是如何组合成一个单一模型的，这是优秀的数据科学家与众不同的地方(当然是在我看来)。这篇文章不足以深入每个概念，所以我将尽力简要地解释它们，如果您需要，只需查看整篇文章中列出的附加资源来增强您的理解。
 
@@ -68,21 +64,13 @@ FCOS 网络预测每个图像的分类分数(除了边界框坐标之外)。VFNe
 
 请随意检查论文的最终实验和结果，显示它如何优于其他 SOTA 模型。我觉得在这里复制和粘贴一个巨大的结果表没有意义，我对网络如何工作更感兴趣。我希望您现在对整个网络的工作原理有了一个更全面的了解。总而言之，VFNet 建立在 3 个主要组件之上。第一个是 FPN(特征提议网络)，第二个是主干 CNN，第三个是 VFNet 头(使用上面讨论的变焦损失和 IACS)。如果您对编写 VFNet 比深入理论部分更感兴趣，我建议查看我的关于在自定义数据集上实现 VFNet 的 MMdetection 文章:
 
-[](/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3) [## MMDetection 教程——最先进的对象检测库
-
-### MMDetection 为使用许多 SOTA 物体检测模型提供了巨大的潜力，例如 FasterRCNN，DETR，VFNet…
-
-towardsdatascience.com](/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3) 
+</mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3>  
 
 # 谢谢你
 
 感谢您阅读本文:)如果您喜欢这篇文章，请考虑在这里给我买杯咖啡(咖啡有助于我写作):
 
-[](https://www.buymeacoffee.com/mostafaibrahim) [## mostafaibrahim
-
-### 嘿，你好👋谢谢你考虑给我买一杯咖啡，☕️，说清楚一点，你的钱不会帮我付账单，我…
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/mostafaibrahim) 
+<https://www.buymeacoffee.com/mostafaibrahim>  
 
 如果你想定期收到关于人工智能和机器学习的最新论文的评论，请在这里添加你的电子邮件并订阅！
 

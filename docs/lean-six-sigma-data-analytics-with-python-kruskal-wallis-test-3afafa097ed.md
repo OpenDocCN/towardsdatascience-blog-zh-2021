@@ -73,11 +73,7 @@ ANOVA assumptions are not verified
 
 测试我们假设的数据驱动分析—(图片由作者提供)
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+<http://samirsaci.com>  
 
 # 二。数据分析
 
@@ -191,15 +187,7 @@ Menu Stats > Non-parametric > Kruskal Wallis > Graphs > Four in one
 
 如果您对使用 Python 的精益六适马方法的其他应用感兴趣，可以看看下面的文章:
 
-[](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) [## 使用 Python - Chi-Squared 测试的精益六适马
-
-### 物流持续改进执行卡方检验，解释影响您的…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/) [](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/) [## 基于 Python - Logistic 回归的精益六适马
-
-### 物流持续改进用 Python 替换 Minitab 来执行逻辑回归以估计最小…
-
-www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/) 
+<https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/>  <https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/>  
 
 # 三。结论
 
@@ -215,11 +203,7 @@ www.samirsaci.com](https://www.samirsaci.com/lean-six-sigma-with-python-logistic
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+<https://samirsaci.com>  
 
 # 参考
 

@@ -86,16 +86,4 @@ Top-k 采样技术|图片由作者提供
 
 **这里有一些你可能会感兴趣的帖子**
 
-**[](/8-types-of-sampling-techniques-b21adcdd2124) [## 8 种取样技术
-
-### 了解采样方法(视觉和代码)
-
-towardsdatascience.com](/8-types-of-sampling-techniques-b21adcdd2124) [](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c) [## 自然语言处理中 10 种流行的关键词提取算法
-
-### 从 10 篇研究论文中总结用于从文本中无监督提取关键词的方法
-
-medium.com](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c) [](/5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210) [## 每个“数据爱好者”都必须知道的 5 种异常检测技术
-
-### 异常检测方法(视觉和代码)
-
-towardsdatascience.com](/5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210)**
+**</8-types-of-sampling-techniques-b21adcdd2124>  <https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c>  </5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210> **

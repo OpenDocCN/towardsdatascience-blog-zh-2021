@@ -40,7 +40,7 @@ Python 标准库包括许多伟大的模块，可以帮助你使你的代码更�
 
 考虑到函数重载本身就是一个很大的话题，我专门为 Python 的`singledispatch`和`singledispatchmethod`写了一篇文章，所以如果你想了解更多，你可以在这里阅读更多:
 
-[](/the-correct-way-to-overload-functions-in-python-b11b50ca7336) [## Python 中重载函数的正确方法
+</the-correct-way-to-overload-functions-in-python-b11b50ca7336> [## Python 中重载函数的正确方法
 
 towardsdatascience.com](/the-correct-way-to-overload-functions-in-python-b11b50ca7336) 
 
@@ -84,16 +84,4 @@ towardsdatascience.com](/the-correct-way-to-overload-functions-in-python-b11b50c
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/52?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_52)
 
-[](/tour-of-python-itertools-2af84db18a5e) [## Python Itertools 之旅
-
-### 让我们探索两个伟大的 Python 库——ITER tools 和 more_itertools，看看如何利用它们来处理数据…
-
-towardsdatascience.com](/tour-of-python-itertools-2af84db18a5e) [](/making-python-programs-blazingly-fast-c1cd79bd1b32) [## 让 Python 程序快得惊人
-
-### 让我们看看我们的 Python 程序的性能，看看如何让它们快 30%！
-
-towardsdatascience.com](/making-python-programs-blazingly-fast-c1cd79bd1b32) [](/ultimate-guide-to-python-debugging-854dea731e1b) [## Python 调试终极指南
-
-### 让我们探索使用 Python 日志记录、回溯、装饰器等等进行调试的艺术…
-
-towardsdatascience.com](/ultimate-guide-to-python-debugging-854dea731e1b)
+</tour-of-python-itertools-2af84db18a5e>  </making-python-programs-blazingly-fast-c1cd79bd1b32>  </ultimate-guide-to-python-debugging-854dea731e1b> 

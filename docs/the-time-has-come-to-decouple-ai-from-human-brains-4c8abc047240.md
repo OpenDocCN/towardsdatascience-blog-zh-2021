@@ -20,11 +20,7 @@
 
 手动修复可以消除这些偏见，但它们也伴随着风险。如果执行不当，善意的修正会使一些偏见变得更糟，甚至引入新的偏见。然而，人工智能算法的最新发展使得这些偏见越来越不重要。工程师们应该接受这些新发现。新方法限制了偏差污染结果的风险，无论是来自数据集还是工程师本身。此外，新兴技术意味着工程师自己需要更少地干预人工智能，消除更多无聊和重复的任务。
 
-[](/why-decorators-in-python-are-pure-genius-1e812949a81e) [## 为什么 Python 中的装饰者是纯粹的天才
-
-### 用一个@符号来分析、测试和重用你的代码
-
-towardsdatascience.com](/why-decorators-in-python-are-pure-genius-1e812949a81e) 
+</why-decorators-in-python-are-pure-genius-1e812949a81e>  
 
 # 当人类知识为王的时候
 
@@ -80,11 +76,7 @@ towardsdatascience.com](/why-decorators-in-python-are-pure-genius-1e812949a81e)
 
 从一个不完美的模型中手动消除偏见是非常棘手的，需要大量的测试、常识和人类礼仪。还有，这只是权宜之计。从长远来看，我们应该放弃人类的干预以及随之而来的偏见。相反，我们应该接受这样一个事实:如果让机器独自为正确的目标而努力，它们就不会像人类那样可怕和不公平。
 
-[](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) [## 为什么开发人员会爱上函数式编程
-
-### 从 Python 到 Haskell，这种趋势不会很快消失
-
-towardsdatascience.com](/why-developers-are-falling-in-love-with-functional-programming-13514df4048e) 
+</why-developers-are-falling-in-love-with-functional-programming-13514df4048e>  
 
 # 以人为中心的人工智能很棒，但我们不应该忘记人类是有缺陷的
 

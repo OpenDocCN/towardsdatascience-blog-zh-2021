@@ -125,12 +125,4 @@ Google Data Studio 中的混合数据遵循左外连接的 SQL 参数。
 
 *感觉好奇？继续阅读…*
 
-[](https://medium.com/bite-sized-marketing/4-new-data-studio-features-released-in-2021-that-you-need-to-know-about-23ef366c48bc) [## 2021 年发布的 4 个 Data Studio 新特性，您需要了解这些特性
-
-### 市场数据分析师和 SQL 爱好者的振奋人心的消息
-
-medium.com](https://medium.com/bite-sized-marketing/4-new-data-studio-features-released-in-2021-that-you-need-to-know-about-23ef366c48bc) [](/analyzing-the-seo-score-of-an-article-gpt-3-wrote-59108dd105af) [## 分析 GPT-3 写的一篇文章的搜索引擎优化得分
-
-### 使用自动化人工智能生成的内容有哪些实际和更广泛的社会关注？
-
-towardsdatascience.com](/analyzing-the-seo-score-of-an-article-gpt-3-wrote-59108dd105af)
+<https://medium.com/bite-sized-marketing/4-new-data-studio-features-released-in-2021-that-you-need-to-know-about-23ef366c48bc>  </analyzing-the-seo-score-of-an-article-gpt-3-wrote-59108dd105af> 

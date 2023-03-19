@@ -96,4 +96,4 @@
 
 2.我不想谈太多细节，只想指出一些事实:1。经典的计算机门大多是不可逆的，意思是门应用后，你无法弄清楚原来的输入是什么。由于量子力学的物理性质，量子都是可逆的。2.量子门由酉矩阵表示。极其有用。事实上，从线性代数的角度来看，我可能会写第二个版本，因为它看起来很令人满意。
 
-*原载于 2021 年 3 月 27 日 https://kblagoev.com*[](https://kblagoev.com/blog/quantum-programming-abstraction-level-0/)**。**
+*原载于 2021 年 3 月 27 日 https://kblagoev.com*<https://kblagoev.com/blog/quantum-programming-abstraction-level-0/>**。**

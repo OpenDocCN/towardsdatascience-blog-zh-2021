@@ -8,11 +8,7 @@
 
 作者图片
 
-[](https://github.com/shadgriffin/profile_of_1) [## shadgriffin/profile_of_1
-
-### 在 GitHub 上创建一个帐户，为 shadgriffin/profile_of_1 的开发做出贡献。
-
-github.com](https://github.com/shadgriffin/profile_of_1) 
+<https://github.com/shadgriffin/profile_of_1>  
 
 # 介绍
 

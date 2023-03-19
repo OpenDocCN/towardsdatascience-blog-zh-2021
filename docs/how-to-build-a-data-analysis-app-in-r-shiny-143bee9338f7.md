@@ -125,7 +125,7 @@ about_page <- tabPanel(
 
 *(注意:您可以在页面本身和导航面板上使用不同的标题。)*
 
-分析页面将会更加精彩。首先，我们希望输入位于左侧的侧边栏中。然后，我们希望在右边有一个单独的绘图和表格区域。用闪亮的术语来说:我们的主页面，tabPanel 将是一个[](https://shiny.rstudio.com/reference/shiny/0.14/sidebarLayout.html)**侧栏布局，左边是一个【输入】 [**侧栏**](https://shiny.rstudio.com/reference/shiny/0.14/sidebarPanel.html) ，右边是一个 [**主面板**](https://shiny.rstudio.com/reference/shiny/0.14/mainPanel.html) ，它将采用一个 [**tabsetPanel**](https://shiny.rstudio.com/reference/shiny/0.14/tabsetPanel.html) 的形式，有两个**tab panel**。呼。**
+分析页面将会更加精彩。首先，我们希望输入位于左侧的侧边栏中。然后，我们希望在右边有一个单独的绘图和表格区域。用闪亮的术语来说:我们的主页面，tabPanel 将是一个<https://shiny.rstudio.com/reference/shiny/0.14/sidebarLayout.html>**侧栏布局，左边是一个【输入】 [**侧栏**](https://shiny.rstudio.com/reference/shiny/0.14/sidebarPanel.html) ，右边是一个 [**主面板**](https://shiny.rstudio.com/reference/shiny/0.14/mainPanel.html) ，它将采用一个 [**tabsetPanel**](https://shiny.rstudio.com/reference/shiny/0.14/tabsetPanel.html) 的形式，有两个**tab panel**。呼。**
 
 **我觉得我没有理由总结这些是做什么的，如果你好奇可以看看链接，但是名字应该是不言自明的。**
 
@@ -313,7 +313,7 @@ actionButton("run_button","Run Analysis",icon=icon("play"))
 
 ***现在，每当我们上传一个`.csv`文件，app 就会自动将其结果保存在名为`data_input`的`data.table`中。嗯，不完全是。更准确地说，我们有一个`data_input`函数，它返回一个`data.table`。(这个非常容易搞砸！)***
 
-****(注意:我还没有对数据类型进行任何验证。如果你试图导入任何不是. csv 文件的东西，这个应用程序就会毫不客气地死机。请看这里的*[](https://mastering-shiny.org/action-transfer.html)**了解更多关于如何确保它是一个. csv 文件的信息。)*****
+****(注意:我还没有对数据类型进行任何验证。如果你试图导入任何不是. csv 文件的东西，这个应用程序就会毫不客气地死机。请看这里的*<https://mastering-shiny.org/action-transfer.html>**了解更多关于如何确保它是一个. csv 文件的信息。)*****
 
 ## ****基于导入的更新****
 
@@ -534,34 +534,18 @@ output$fact_var_title <-
 
 ****使用 shinyapps.io 非常简单，你注册，创建一个帐户，获得一个令牌，用它你可以发布你的应用程序。一个免费的帐户，你可以获得 5 个应用程序和每月 25 个活跃用户小时。****
 
-****[](https://matepocs.medium.com/membership) [## 加入我的推荐链接-伴侣概念
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-matepocs.medium.com](https://matepocs.medium.com/membership) 
+****<https://matepocs.medium.com/membership>  
 
 # 其他有用的链接
 
 再一次，我推荐你掌握哈德利·威克姆的《闪亮》,如果你想以一种好的、有条理的方式学习《闪亮》:
 
- [## 掌握闪亮
-
-### 这是《掌握闪亮》的在线版本，这本书目前正处于早期开发阶段，计划于 2020 年底出版…
-
-mastering-shiny.org](https://mastering-shiny.org/index.html) 
+  
 
 你可以在这里找到一些有用的备忘单:
 
-[](https://www.rstudio.com/resources/cheatsheets/) [## RStudio 备忘单
-
-### 面向数据科学的开源企业级专业软件
-
-www.rstudio.com](https://www.rstudio.com/resources/cheatsheets/) 
+<https://www.rstudio.com/resources/cheatsheets/>  
 
 这是一个 GitHub repo，其中有一个 R 包列表，增强了 Shiny 的默认功能:
 
-[](https://github.com/nanxstats/awesome-shiny-extensions) [## nangstats/awesome-shiny-扩展
-
-### 一个令人敬畏的 R 包的精选列表，为 R web framework Shiny 提供了扩展的 UI 或服务器组件。你的…
-
-github.com](https://github.com/nanxstats/awesome-shiny-extensions)****
+<https://github.com/nanxstats/awesome-shiny-extensions> ****

@@ -72,8 +72,4 @@
 
 从 uci_dataset 库中读取 UCI 数据集
 
-[](https://sciencenotes.medium.com/membership) [## 加入媒体阅读伟大的教程和故事！
-
-### 我写机器学习、深度学习和数据科学教程。升级阅读更多。
-
-sciencenotes.medium.com](https://sciencenotes.medium.com/membership)
+<https://sciencenotes.medium.com/membership> 

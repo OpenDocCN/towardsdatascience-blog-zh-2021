@@ -14,11 +14,7 @@ PyCaret 是一个用 Python 编写的开源、低代码的机器学习库，可�
 
 PyCaret 最近发布了一个时间序列模块，它附带了许多方便的特性，使得时间序列建模变得轻而易举。你可以在这篇文章中了解更多。
 
-[](/announcing-pycarets-new-time-series-module-b6e724d4636c) [## 📢宣布 PyCaret 的新时间序列模块
-
-### 🚪介绍
-
-towardsdatascience.com](/announcing-pycarets-new-time-series-module-b6e724d4636c) 
+</announcing-pycarets-new-time-series-module-b6e724d4636c>  
 
 在这个由多个部分组成的系列文章中，我们将重点讨论如何使用 PyCaret 这样的“低代码”库来更深入地理解 ARIMA 模型的工作原理。在第一部分中，我们将对 ARIMA 模型及其参数进行概述。然后，我们将从一个简单的 ARIMA 模型开始，为这个模型的预测和预测区间创建一个理论框架，以发展对其工作的直觉。最后，我们将使用 PyCaret 构建这个 ARIMA 模型，并将理论计算与模型输出进行比较。将模型的输出与我们的理论框架联系起来，有望加深我们对模型的理解，并为后续文章中更详细的分析奠定基础。
 
@@ -240,11 +236,7 @@ plot_predictions(model1)
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://ngupta13.medium.com/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，* ***，我会收到你的一部分会员费，而不会给你带来额外的费用*** *。*
 
-[](https://ngupta13.medium.com/membership) [## 通过我的推荐链接加入 Medium—Nikhil Gupta
-
-### 阅读 Nikhil Gupta(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-ngupta13.medium.com](https://ngupta13.medium.com/membership) 
+<https://ngupta13.medium.com/membership>  
 
 # 🔖建议下次阅读
 

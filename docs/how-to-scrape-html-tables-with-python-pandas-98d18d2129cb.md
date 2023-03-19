@@ -169,16 +169,8 @@ df.to_csv('euro_2020_groups.csv')
 
 # 相关文章
 
-[](/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f) [## 用 Python Selenium 从嵌套的 HTML 页面中抓取数据
+</scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f> [## 用 Python Selenium 从嵌套的 HTML 页面中抓取数据
 
-towardsdatascience.com](/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f) [](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [## 如何使用 Python 熊猫和 tabula-py 从 PDF 中提取表格
+towardsdatascience.com](/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f) </how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754>  </how-to-load-the-content-of-a-google-document-in-python-1d23fd8d8e52> [## 如何用 Python 加载 Google 文档的内容
 
-### 一个从 PDF 中提取重复表格的快捷脚本
-
-towardsdatascience.com](/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754) [](/how-to-load-the-content-of-a-google-document-in-python-1d23fd8d8e52) [## 如何用 Python 加载 Google 文档的内容
-
-towardsdatascience.com](/how-to-load-the-content-of-a-google-document-in-python-1d23fd8d8e52) [](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6) [## 加快和优化 Python 的三个技巧
-
-### 关于我在六月份的阅读中发现的三个 Python 技巧的评论。
-
-towardsdatascience.com](/three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6)
+towardsdatascience.com](/how-to-load-the-content-of-a-google-document-in-python-1d23fd8d8e52) </three-tricks-to-speed-up-and-optimise-your-python-d9b5d49d68a6> 

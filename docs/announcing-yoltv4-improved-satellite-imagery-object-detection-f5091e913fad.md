@@ -6,7 +6,7 @@
 
 ## 将高级目标探测扩展到任意大的卫星图像
 
-*前言:虽然* [*CosmiQ 作品*](http://7sux*GCLNtH%25N3mF) *(及其相关博客:*[*The DownLinQ*](https://medium.com/the-downlinq)*)不幸被关闭，但在地理空间分析领域仍有许多工作要做。因此，这篇博客详细描述了 IQT 在业余时间独立完成的*[](https://www.iqt.org)**工作。**
+*前言:虽然* [*CosmiQ 作品*](http://7sux*GCLNtH%25N3mF) *(及其相关博客:*[*The DownLinQ*](https://medium.com/the-downlinq)*)不幸被关闭，但在地理空间分析领域仍有许多工作要做。因此，这篇博客详细描述了 IQT 在业余时间独立完成的*<https://www.iqt.org>**工作。**
 
 *在之前的一些博客[如 [1](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571) 、 [2](https://medium.com/the-downlinq/car-localization-and-counting-with-overhead-imagery-an-interactive-exploration-9d5a029a596b) 、 [3](https://medium.com/the-downlinq/simrdwn-adapting-multiple-object-detection-frameworks-for-satellite-imagery-applications-991dbf3d022b) ]和学术论文[如 [4](https://arxiv.org/abs/1805.09512) 、 [5](https://arxiv.org/abs/1809.09978) 、 [6](https://arxiv.org/abs/1812.04098) ]中，我们已经展示了采用 [YOLO](https://pjreddie.com/darknet/yolo/) 探测卫星图像中的物体的惊人功效。回想一下，YOLO 是一个领先的深度学习对象检测框架，旨在检测图像中的对象。YOLO 最大限度地利用了几千像素大小的图像，这对于处理超过 1 亿像素的大规模卫星图像来说太小了。因此，我们构建了 [YOLT](https://github.com/avanetten/yolt) (并用 [SIMRDWN](https://github.com/avanetten/simrdwn) 扩展了 YOLT)来优化这个任意大尺寸卫星图像的目标检测框架。*
 

@@ -194,12 +194,4 @@ torch.save 保存预训练模型的权重。它使用 Python 的 [pickle](https:
 
 # 如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:
 
-[](/how-to-use-deep-learning-to-shoo-pigeons-from-the-balcony-31a2704f2160) [## 如何用深度学习把鸽子从阳台上赶走
-
-### 基于 Keras 的迁移学习和树莓 Pi 的生产部署
-
-towardsdatascience.com](/how-to-use-deep-learning-to-shoo-pigeons-from-the-balcony-31a2704f2160) [](/code-and-techniques-for-exploratory-data-analysis-a44c50953502) [## 探索性数据分析的代码和技术
-
-### 如何分析数据，测试假设，并为您的客户创造洞察力
-
-towardsdatascience.com](/code-and-techniques-for-exploratory-data-analysis-a44c50953502)
+</how-to-use-deep-learning-to-shoo-pigeons-from-the-balcony-31a2704f2160>  </code-and-techniques-for-exploratory-data-analysis-a44c50953502> 

@@ -14,11 +14,7 @@ Python 是世界上最流行的编程语言。这是有充分理由的，因为�
 
 Python 也是一种动态类型语言。这意味着在程序执行过程中可以改变不同的类型。当涉及到变量、范围和类型时，这一点和 Python 的解释器的结合培养了一些相当有趣的怪癖。今天，我想谈谈 Python 处理变量和作用域的一种奇怪方式。我还擅自将我用来演示这些怪癖的笔记本上传到 Github，所以如果你想亲自尝试这个项目，你可以在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20variable%20oddities.ipynb) [## emmett GB/Emmetts-DS-笔记本电脑
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20variable%20oddities.ipynb) 
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20variable%20oddities.ipynb>  
 
 # №1:范围古怪
 

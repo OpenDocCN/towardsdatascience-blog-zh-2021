@@ -86,24 +86,4 @@
 
 如果你有兴趣阅读更多关于其他小说的文章，请点击这里查看我的文章:
 
-[](/microsoft-zero-offload-democratizing-billion-scale-model-training-2a44f142d931) [## 微软零卸载:民主化十亿级模型训练
-
-### 微软用于训练巨大模型的竞争模型(与谷歌 Switch Transformers 和 OpenAI GPT-3 相比)
-
-towardsdatascience.com](/microsoft-zero-offload-democratizing-billion-scale-model-training-2a44f142d931) [](/nvidias-pay-attention-when-required-a-transformer-optimization-approach-694d1472da14) [## NVIDIA 的需要时注意-变压器优化方法
-
-### 优化自关注和前馈变压器模块，以更短的计算时间实现更高的性能
-
-towardsdatascience.com](/nvidias-pay-attention-when-required-a-transformer-optimization-approach-694d1472da14) [](/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235) [## 脸书和 NYU 通过自我监督学习降低 Covid 医院压力——Covid 预后
-
-### 通过使用变形金刚和对比学习的自我监督实现令人印象深刻的绩效。
-
-towardsdatascience.com](/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235) [](/facebook-detr-transformers-dive-into-the-object-detection-world-39d8422b53fa) [## 脸书·DETR:变形金刚潜入物体探测世界
-
-### 变形金刚已经统治了自然语言处理和图像识别，现在又统治了物体检测
-
-towardsdatascience.com](/facebook-detr-transformers-dive-into-the-object-detection-world-39d8422b53fa) [](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c) [## 无监督病理学整片图像切片分割
-
-### 一个解决繁琐的数字病理标记问题的 UCL 项目
-
-towardsdatascience.com](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c)
+</microsoft-zero-offload-democratizing-billion-scale-model-training-2a44f142d931>  </nvidias-pay-attention-when-required-a-transformer-optimization-approach-694d1472da14>  </facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235>  </facebook-detr-transformers-dive-into-the-object-detection-world-39d8422b53fa>  </unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c> 

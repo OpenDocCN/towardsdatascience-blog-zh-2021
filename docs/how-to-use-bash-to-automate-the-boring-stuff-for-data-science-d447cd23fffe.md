@@ -184,12 +184,4 @@ chmod +x createmlapp.sh
 
 最后，这里有几篇我的类似文章，你可能也会觉得有用:
 
-[](/five-numpy-functions-you-should-understand-e0e35704e7d2) [## 你应该了解的五个数字函数
-
-### 如何水平和垂直堆叠你的数组，找到唯一的值，分割你的数组和一些更多的技巧来使用…
-
-towardsdatascience.com](/five-numpy-functions-you-should-understand-e0e35704e7d2) [](/26-datasets-for-your-data-science-projects-658601590a4c) [## 为您的数据科学项目提供 26 个数据集
-
-### 众多基于任务的数据集的汇编，可用于构建您的下一个数据科学项目。
-
-towardsdatascience.com](/26-datasets-for-your-data-science-projects-658601590a4c)
+</five-numpy-functions-you-should-understand-e0e35704e7d2>  </26-datasets-for-your-data-science-projects-658601590a4c> 

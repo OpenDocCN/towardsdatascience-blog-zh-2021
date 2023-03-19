@@ -357,8 +357,4 @@ jindex_model_eval %>%
 
 谢谢你的阅读，请留意后面的部分。我希望你能像我喜欢写作一样喜欢阅读这篇文章。如果你不是媒介会员，使用下面我的推荐链接，定期从我和其他优秀的媒介作者那里获得新出版物的更新。
 
-[](https://mmgillin.medium.com/membership) [## 通过我的推荐链接加入媒体——默里·吉林
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mmgillin.medium.com](https://mmgillin.medium.com/membership)
+<https://mmgillin.medium.com/membership> 

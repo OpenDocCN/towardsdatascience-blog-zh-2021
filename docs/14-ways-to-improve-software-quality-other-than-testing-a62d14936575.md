@@ -98,11 +98,7 @@
 
 特别是对于应用程序发布，有各种方法可以更好地远程处理它。下面是一篇文章。
 
-[](https://betterprogramming.pub/11-solid-preparations-for-shipping-your-next-mobile-app-eaf064891ed1) [## 想象一下，你正在向火星发送一个移动应用程序。你如何让它变得健壮？
-
-### 发布下一款应用的 11 项坚实准备
-
-better 编程. pub](https://betterprogramming.pub/11-solid-preparations-for-shipping-your-next-mobile-app-eaf064891ed1) 
+<https://betterprogramming.pub/11-solid-preparations-for-shipping-your-next-mobile-app-eaf064891ed1>  
 
 一个重要的心态是，必须从产品的角度整体地看待质量，而不仅仅是在产品发布之前(例如测试阶段)。测试只是一种手段，用来衡量产品在那个时间点的质量在哪里，而不是质量本身。
 

@@ -277,14 +277,6 @@ plt.show()
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [## Python PyCaret 中的完整数据分析工作流
-
-### 这是一个现成的教程，利用了我用过的最好的机器学习库。
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [](/machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09) [## 机器学习:K 近邻分类器入门
-
-### 一个 Python 的现成代码，实现了 scikit-learn 中的 K-neighbors 分类器，从数据预处理到…
-
-towardsdatascience.com](/machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09) 
+</a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4>  </machine-learning-getting-started-with-the-k-neighbours-classifier-d7e6b25f2b09>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [点击此处](https://alod83.medium.com/membership)。

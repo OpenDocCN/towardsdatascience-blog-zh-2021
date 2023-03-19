@@ -179,19 +179,7 @@
 
 # 相关文章
 
-[](/how-to-turn-your-data-science-idea-into-a-funded-project-f919dbaff104) [## 如何将您的数据科学想法转化为受资助的项目
-
-### 为你的数据科学想法和项目寻找资金的一些建议。
-
-towardsdatascience.com](/how-to-turn-your-data-science-idea-into-a-funded-project-f919dbaff104) [](/how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057) [## 如何根据数据科学项目撰写科学论文
-
-### 关于如何将数据科学项目转化为精彩的科学论文的一些提示。
-
-towardsdatascience.com](/how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057) [](https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573) [## 语义网真的死了吗？
-
-### 语义网好像已经快没了。这是真的吗？在这篇文章中，我们试图追溯语义学的历史…
-
-medium.com](https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573) 
+</how-to-turn-your-data-science-idea-into-a-funded-project-f919dbaff104>  </how-to-write-a-scientific-paper-from-a-data-science-project-62d7101c9057>  <https://medium.com/geekculture/is-the-semantic-web-really-dead-7113cfd1f573>  
 
 # 一个额外的提示
 

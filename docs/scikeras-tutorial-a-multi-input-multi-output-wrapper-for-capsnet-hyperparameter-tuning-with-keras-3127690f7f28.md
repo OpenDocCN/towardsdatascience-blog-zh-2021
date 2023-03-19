@@ -125,7 +125,7 @@ clf = KerasClassifier(build_fn=get_model, model__param_1=value_1, model__param_2
 ## **代码和其他资源**
 
 **>此实现的完整代码可以在 [*这里*](https://github.com/data-hound/Capsnet-with-scikeras-tutorial) 找到。
->关于自定义 Keras 图层的教程可以在这里[](https://keras.io/api/layers/core_layers/masking/)*和 [*这里*](https://gist.github.com/nairouz/5b65c35728d8fb8ec4206cbd4cbf9bea) 找到。
+>关于自定义 Keras 图层的教程可以在这里<https://keras.io/api/layers/core_layers/masking/>*和 [*这里*](https://gist.github.com/nairouz/5b65c35728d8fb8ec4206cbd4cbf9bea) 找到。
 >实现的 CapsNet 图层可以在 [*这里找到*](https://github.com/naturomics/CapsLayer) 。***
 
 ## **学术参考文献**

@@ -14,11 +14,7 @@
 
 你需要将大部分注意力和精力放在这项任务上，而不是如何管理数据、存储数据或扩展存储。此外，如果你是一个自由职业的数据科学家，或者是一个初学者，找到一个灵活而强大的好数据库并不总是负担得起的。并不是所有的免费选项都是好的。
 
-[](/databases-101-sql-vs-nosql-which-fits-your-data-better-45e744981351) [## 数据库 101: SQL 与 NoSQL:哪个更适合你的数据？
-
-### 差异和最佳实践
-
-towardsdatascience.com](/databases-101-sql-vs-nosql-which-fits-your-data-better-45e744981351) 
+</databases-101-sql-vs-nosql-which-fits-your-data-better-45e744981351>  
 
 当我学习数据科学的基础知识时，我陷入了寻找好的、免费的数据库系统的困境，这些系统给了我所需要的所有能力和灵活性，而没有任何隐藏的成本。因此，我可以专注于讲述我的数据故事，而不是浪费时间管理和处理数据的存储和处理。
 
@@ -36,11 +32,7 @@ HarperDB 除了离线管理工作室之外，还提供了一个云平台，该�
 
 由于当今现实生活中的应用程序在规模上快速增长，RethinkDB 提供了一个快速且简单易用的 web 界面，只需点击几下鼠标即可帮助您扩展项目和应用程序。我最喜欢 RethinkDB 的一点是它的社区，以及他们如何一直致力于改进它，使它对全世界的开发者更有用。
 
-[](/databases-101-how-to-choose-a-python-database-library-cf19d1157d45) [## 数据库 101:如何选择 Python 数据库库
-
-### SQL，NoSQL，所有你需要知道的 Python 数据库库
-
-towardsdatascience.com](/databases-101-how-to-choose-a-python-database-library-cf19d1157d45) 
+</databases-101-how-to-choose-a-python-database-library-cf19d1157d45>  
 
 # №3: FaunaDB
 
@@ -54,11 +46,7 @@ FaunaDB 提供了 n 个索引数据文档，您可以使用这些文档根据项
 
 CockroachDB 是基于 Kubernetes for SQL 构建的，可以支持 ORM(对象关系映射)。它提供数据安全性，并允许您轻松扩展您的应用程序。
 
-[](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) [## 9 个免费的优质资源来学习和拓展您的 Python 技能
-
-### 不管你的技术背景如何，都要学习 Python。
-
-towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4) 
+</9-free-quality-resources-to-learn-and-expand-your-python-skills-44e0fe920cf4>  
 
 # №5: CouchDB
 
@@ -72,10 +60,6 @@ towardsdatascience.com](/9-free-quality-resources-to-learn-and-expand-your-pytho
 
 理解数据、其趋势以及其含义应该是数据科学家的主要关注点，因为这是项目的核心。但是，如果我们没有一个坚实的数据库结构，使我们能够有效地与数据通信，在需要时使用数据，并在可能的情况下添加数据，我们就无法真正专注于这一部分。
 
-[](/7-tools-used-by-data-scientists-to-increase-efficiency-a0eb1edcc892) [## 数据科学家用来提高效率的 7 种工具
-
-### 让您的工作流程更简单、更快速、更省时。
-
-towardsdatascience.com](/7-tools-used-by-data-scientists-to-increase-efficiency-a0eb1edcc892) 
+</7-tools-used-by-data-scientists-to-increase-efficiency-a0eb1edcc892>  
 
 如果您正在寻找一个灵活、高效、可扩展的数据库，那么您一定像我一样在网上到处跑，测试和尝试可用的选项，寻找一个最适合您和您的数据而又不花费大量金钱的数据库。在我今天的文章中，我在你面前展示了 5 个免费的强大的数据库，你可以在你的下一个项目中轻松使用，而不用担心任何额外的成本。

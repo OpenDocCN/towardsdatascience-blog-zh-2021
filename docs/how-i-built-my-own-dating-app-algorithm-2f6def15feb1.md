@@ -12,11 +12,7 @@
 
 过去，我曾无数次深入研究过这个问题。我甚至使用机器学习聚类算法构建了一个简单的约会应用程序:
 
-[](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) [## 如何用机器学习和 AI 做一个交友 App
-
-### 利用无监督学习作为约会算法
-
-towardsdatascience.com](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) 
+</dating-algorithms-using-machine-learning-and-ai-814b68ecd75e>  
 
 使用无监督的机器学习是一个很好的练习，产生的约会算法也不算太差！这是一次很棒的经历，但我认为还需要一些改进。
 
@@ -37,11 +33,7 @@ towardsdatascience.com](/dating-algorithms-using-machine-learning-and-ai-814b68e
 
 由于我们的约会算法只适用于已经建立的数据集，我们需要用随机值来制造数据。我们可以制作更复杂的数据集来模拟真实世界的约会档案，但现在还没有必要。
 
-[](/build-a-your-own-custom-dataset-using-python-9296540a0178) [## 使用 Python 构建您自己的自定义数据集
-
-### 我是如何从零开始构建数千行数据点的
-
-towardsdatascience.com](/build-a-your-own-custom-dataset-using-python-9296540a0178) 
+</build-a-your-own-custom-dataset-using-python-9296540a0178>  
 
 ## 创建数据框架
 
@@ -208,16 +200,4 @@ recs[:20]
 
 # 资源
 
-[](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Dating-Algo.ipynb) [## Medium-Misc-Tutorials/Dating-algo . ipynb at main Marcos an 93/Medium-Misc-Tutorials
-
-### 一组随机的中等教程。为 Marcos an 93/Medium-Misc-Tutorials 开发做出贡献，创建一个…
-
-github.com](https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Dating-Algo.ipynb) [](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) [## 如何用机器学习和 AI 做一个交友 App
-
-### 利用无监督学习作为约会算法
-
-towardsdatascience.com](/dating-algorithms-using-machine-learning-and-ai-814b68ecd75e) [](/build-a-your-own-custom-dataset-using-python-9296540a0178) [## 使用 Python 构建您自己的自定义数据集
-
-### 我是如何从零开始构建数千行数据点的
-
-towardsdatascience.comm](/build-a-your-own-custom-dataset-using-python-9296540a0178)
+<https://github.com/marcosan93/Medium-Misc-Tutorials/blob/main/Dating-Algo.ipynb>  </dating-algorithms-using-machine-learning-and-ai-814b68ecd75e>  </build-a-your-own-custom-dataset-using-python-9296540a0178> 

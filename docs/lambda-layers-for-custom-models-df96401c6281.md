@@ -6,11 +6,7 @@
 
 在开发不同复杂度的人工智能算法时，有时需要对可用数据执行**特定操作**。在此背景下，我们将使用 Tensorflow 2。x，特别是 Keras API。这个工作环境提供了广泛的数学运算、数据处理和图层，但可能需要执行特定的和**原** **运算**。在另一篇文章中，我们已经谈到了**定制层**以及这些工具如何让我们创建适合我们应用的完全原创的模型。但是，我们并不总是需要定义一个真正的原始层，尤其是当要执行的**操作**是**简单**和**直接**时。例如，我们正在考虑预处理操作、数据大小调整、后处理…
 
-[](/custom-layers-in-tensorflow-4dbd7c194b6e) [## Tensorflow 中的自定义图层
-
-### 增强 Tensorflow 体验创建您自己的层
-
-towardsdatascience.com](/custom-layers-in-tensorflow-4dbd7c194b6e) 
+</custom-layers-in-tensorflow-4dbd7c194b6e>  
 
 *请记住，您可能总是在自定义图层和 Lambda 图层中仅使用 TensorFlow 操作，以从算法中获得最佳性能，并从 TensorFlow 的图形功能中受益。*
 
@@ -97,11 +93,7 @@ towardsdatascience.com](/custom-layers-in-tensorflow-4dbd7c194b6e)
 
 > **子类化`[tf.keras.layers.Layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Layer)`而不是使用`Lambda`层的主要原因是保存和检查模型。`Lambda`通过序列化 Python 字节码来保存层，这从根本上说是不可移植的。它们只能在保存它们的相同环境中加载。子类化的层可以通过覆盖它们的`get_config`方法以更便携的方式保存。依赖于子类层的模型通常也更容易可视化和推理。**
 
-**[](https://github.com/GitMarco27/TMML/blob/main/Notebooks/010_Lambda_Layer.ipynb) [## TMML/010_Lambda_Layer.ipynb 在主要的 GitMarco27/TMML
-
-### 3 分钟机器学习。通过在 GitHub 上创建帐户，为 GitMarco27/TMML 的发展做出贡献。
-
-github.com](https://github.com/GitMarco27/TMML/blob/main/Notebooks/010_Lambda_Layer.ipynb) 
+**<https://github.com/GitMarco27/TMML/blob/main/Notebooks/010_Lambda_Layer.ipynb>  
 
 这里显示的代码涉及对著名的 fashion-mnist 数据集的简要分析。服装图像是一个图像处理和分类的问题。这些是 28x28 的黑白图像。目标是开发一种算法，能够以尽可能高的准确度自动对它们进行分类。
 

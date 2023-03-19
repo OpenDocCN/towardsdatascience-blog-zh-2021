@@ -120,11 +120,7 @@ FAQ 是浏览特定产品或服务要点和功能的另一个很好的资源。
 
 如果你感兴趣，你可以点击下面的链接来阅读我写的关于如何用 Amazon SageMaker 因子分解机构建和训练推荐引擎的文章。
 
-[](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [## 用 AWS SageMaker 构建产品推荐引擎
-
-### 了解如何使用 Amazon SageMaker 因式分解机构建和训练个性化推荐引擎
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) 
+<https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b>  
 
 ## *📝记下自己的笔记*
 
@@ -188,12 +184,4 @@ pub.towardsai.net](https://pub.towardsai.net/building-a-product-recommendation-e
 
 有兴趣了解变形金刚吗？我有以下的帖子给你。
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [## 变形金刚，你能评价阅读段落的复杂程度吗？
-
-### 用 PyTorch 微调 RoBERTa 以预测文本摘录的阅读难易程度
-
-towardsdatascience.com](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [## 微调变压器的先进技术
-
-### 学习这些先进的技术，看看它们如何帮助改善结果
-
-towardsdatascience.com](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)
+</transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403>  </advanced-techniques-for-fine-tuning-transformers-82e4e61e16e> 

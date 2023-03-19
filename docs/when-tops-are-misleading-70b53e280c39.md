@@ -125,19 +125,11 @@ gyr falcon 当然也可以设计成 SOC，但这需要大量的工作和专业�
 
 调查基于 PHYTEC AI 试剂盒:
 
-[](https://www.phytec.de/produkte/development-kits/phyboard-pollux-ki-kit/) [## i.MX 8M Plus EVK 机器和嵌入式视觉| PHYTEC
-
-### 在嵌入式系统 i.MX 8M Plus Quad mit 中使用机器学习平台
-
-www.phytec.de](https://www.phytec.de/produkte/development-kits/phyboard-pollux-ki-kit/) 
+<https://www.phytec.de/produkte/development-kits/phyboard-pollux-ki-kit/>  
 
 以及回转隼的光速 2803s:
 
- [## 面向边缘和云的 Lightspeeur 2803 神经加速器
-
-### Lightspeeur 2803S 神经加速器卓越的高性能与低功耗比，适合人工智能入门产品…
-
-www.gyrfalcontech.ai](https://www.gyrfalcontech.ai/solutions/2803s/) 
+  
 
 ## 附录
 
@@ -149,16 +141,8 @@ www.gyrfalcontech.ai](https://www.gyrfalcontech.ai/solutions/2803s/)
 
 请自行检查我们的问题到目前为止是否得到了回答，以及花了多长时间才得到回答:
 
-[](https://dev.gyrfalcontech.ai/forums/topic/2083-plug-device-cannot-be-found/) [## 2083 插头。找不到设备| GTI 开发者门户
-
-### 你好，我用 2803 插头，用 sourceMe.so 安装了所有东西(虽然有些小错误)。版本 4.5.0.3…
-
-dev.gyrfalcontech.ai](https://dev.gyrfalcontech.ai/forums/topic/2083-plug-device-cannot-be-found/) 
+<https://dev.gyrfalcontech.ai/forums/topic/2083-plug-device-cannot-be-found/>  
 
 2020 年 1 月发布了一个具有非常相似问题的主题，在撰写本文时尚未得到回复(2021 年 4 月 26 日):
 
-[](https://dev.gyrfalcontech.ai/forums/topic/bugreport-gti-sdk-4-5-0-0-cannot-find-2801-device/) [## 错误报告:GTI SDK 4.5.0.0 找不到 2801 设备| GTI 开发者门户
-
-### 你好，我来展示一下你在 GTISDK-windows 10 _ x86 _ 64 _ v 4 . 5 . 0 . 1 上的 GTILibrary.dll 问题吧`…
-
-dev.gyrfalcontech.ai](https://dev.gyrfalcontech.ai/forums/topic/bugreport-gti-sdk-4-5-0-0-cannot-find-2801-device/)
+<https://dev.gyrfalcontech.ai/forums/topic/bugreport-gti-sdk-4-5-0-0-cannot-find-2801-device/> 

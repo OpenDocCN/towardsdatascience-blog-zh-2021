@@ -72,8 +72,4 @@ fit 方法通常负责许多操作。通常，他们应该首先清除已经存�
 
 一个非常相似的主题可能是比较由 scikit-learn 用于转换特性的**转换器**实现的`fit()`、`transform()`和`fit_transform()`方法。如果你想了解更多，你可以阅读我下面的文章。
 
-[](https://gmyrianthous.medium.com/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3) [## Python scikit 中的 fit()vs transform()vs fit _ transform()-学习
-
-### sklearn 中的 fit，transform 和 fit_transform 方法有什么区别
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3)
+<https://gmyrianthous.medium.com/fit-vs-transform-vs-fit-transform-in-python-scikit-learn-2623d5a691e3> 

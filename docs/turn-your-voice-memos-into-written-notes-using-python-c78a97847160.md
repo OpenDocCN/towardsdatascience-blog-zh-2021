@@ -70,11 +70,7 @@ filename = "voice_memo_1.m4a"
 
 现在，让我们写一个函数来读取这个录音文件。顺便说一下，文件格式应该是音频格式，以便我们的阅读功能正常工作。苹果的语音备忘录应用程序以 *m4a* 格式保存录音。您可以在以下文章中了解不同的视频和音频格式:
 
-[](/extracting-speech-from-video-using-python-f0ec7e312d38) [## 使用 Python 从视频中提取语音
-
-### 使用 Google 语音识别 API 的简单实用项目
-
-towardsdatascience.com](/extracting-speech-from-video-using-python-f0ec7e312d38) 
+</extracting-speech-from-video-using-python-f0ec7e312d38>  
 
 ```
 def read_audio_file(filename, chunk_size=5242880):

@@ -87,19 +87,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a) [## SQL 和 Python 收入群组分析完全指南
-
-### 了解客户行为的重要数据分析工具
-
-towardsdatascience.com](/a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a) 
+</a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a>  
 
 **又一个！**
 
-[](/an-complete-guide-to-building-a-marketing-mix-model-in-2021-fb53975be754) [## 2021 年建立营销组合模式的完整指南
-
-### 充分理解什么是营销组合模型以及如何使用它
-
-towardsdatascience.com](/an-complete-guide-to-building-a-marketing-mix-model-in-2021-fb53975be754) 
+</an-complete-guide-to-building-a-marketing-mix-model-in-2021-fb53975be754>  
 
 # 特伦斯·申
 

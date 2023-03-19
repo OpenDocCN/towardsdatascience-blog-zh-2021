@@ -18,7 +18,7 @@
 
 [**NLP(自然语言处理)**](https://en.wikipedia.org/wiki/Natural_language_processing) 是人工智能领域，研究计算机与人类语言之间的交互，特别是如何给计算机编程以处理和分析大量自然语言数据。NLP 研究一直专注于让聊天机器人变得越来越聪明。
 
-[**聊天机器人**](https://en.wikipedia.org/wiki/Chatbot) 是用于通过文本或文本到语音进行自动聊天对话的软件应用，模仿与人类代理的交互。第一个是 ELIZA[](https://en.wikipedia.org/wiki/ELIZA)**(1966)，它使用模式匹配和替换方法来模拟文本对话(它既不能听也不能说)。目前市场上最先进的是 [*亚马逊 ALEXA*](https://en.wikipedia.org/wiki/Amazon_Alexa) ，这是一款智能个人助理，能够理解用户的声音并与之对话。**
+[**聊天机器人**](https://en.wikipedia.org/wiki/Chatbot) 是用于通过文本或文本到语音进行自动聊天对话的软件应用，模仿与人类代理的交互。第一个是 ELIZA<https://en.wikipedia.org/wiki/ELIZA>**(1966)，它使用模式匹配和替换方法来模拟文本对话(它既不能听也不能说)。目前市场上最先进的是 [*亚马逊 ALEXA*](https://en.wikipedia.org/wiki/Amazon_Alexa) ，这是一款智能个人助理，能够理解用户的声音并与之对话。**
 
 **在本教程中，我将展示如何使用语音识别 API 和预先训练的 Transformer 模型构建一个对话聊天机器人。我将展示一些有用的 Python 代码，这些代码可以很容易地应用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，以便您可以复制这个示例。**
 
@@ -233,20 +233,4 @@ res = res[res.find("bot >> ")+6:].strip()**
 
 > **本文是系列文章 **NLP 与 Python** 的一部分，参见:**
 
-**[](/text-summarization-with-nlp-textrank-vs-seq2seq-vs-bart-474943efeb09) [## 使用 NLP 的文本摘要:TextRank vs Seq2Seq vs BART
-
-### 使用 Python、Gensim、Tensorflow、Transformers 进行自然语言处理
-
-towardsdatascience.com](/text-summarization-with-nlp-textrank-vs-seq2seq-vs-bart-474943efeb09) [](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [## 基于自然语言处理的文本分类:Tf-Idf vs Word2Vec vs BERT
-
-### 预处理、模型设计、评估、词袋的可解释性、词嵌入、语言模型
-
-towardsdatascience.com](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [](/text-analysis-feature-engineering-with-nlp-502d6ea9225d) [## 使用自然语言处理的文本分析和特征工程
-
-### 语言检测，文本清理，长度，情感，命名实体识别，N-grams 频率，词向量，主题…
-
-towardsdatascience.com](/text-analysis-feature-engineering-with-nlp-502d6ea9225d) [](/text-classification-with-no-model-training-935fe0e42180) [## 用于无模型训练的文本分类的 BERT
-
-### 如果没有带标签的训练集，请使用 BERT、单词嵌入和向量相似度
-
-towardsdatascience.com](/text-classification-with-no-model-training-935fe0e42180)**
+**</text-summarization-with-nlp-textrank-vs-seq2seq-vs-bart-474943efeb09>  </text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794>  </text-analysis-feature-engineering-with-nlp-502d6ea9225d>  </text-classification-with-no-model-training-935fe0e42180> **

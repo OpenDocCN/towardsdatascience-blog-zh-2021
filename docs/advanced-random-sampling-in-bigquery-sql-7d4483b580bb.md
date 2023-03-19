@@ -12,11 +12,7 @@
 
 *我确实有一些关于 BigQuery 的其他文章，所以请查看我的个人资料以获得更多 BQ 阅读:*
 
-[](https://niczky12.medium.com) [## Bence Komarniczky -培养基
-
-### 学习所有的连接——内连接、外连接、交叉连接和半连接。我们为什么要这么做？还有…
-
-niczky12.medium.com](https://niczky12.medium.com) 
+<https://niczky12.medium.com>  
 
 > 要获得所有媒体文章的完整访问权限，包括我的文章，请考虑在此订阅。
 
@@ -161,16 +157,4 @@ Miguel Orós 在 [Unsplash](https://unsplash.com/s/photos/more?utm_source=unspla
 
 通过阅读更多内容，让您的 BigQuery 技能更上一层楼😅：
 
-[](/loops-in-bigquery-db137e128d2d) [## BigQuery 中的循环
-
-### 了解如何使用 BigQuery 脚本来计算斐波那契数
-
-towardsdatascience.com](/loops-in-bigquery-db137e128d2d) [](/fizzbuzz-in-bigquery-e0c4fbc1d195) [## BigQuery 中的 FizzBuzz
-
-### BigQuery 中的 FizzBuzz，而不是 BigQuery 中的 Java 或 Python。使用 SQL，为什么不呢？
-
-towardsdatascience.com](/fizzbuzz-in-bigquery-e0c4fbc1d195) [](/load-files-faster-into-bigquery-94355c4c086a) [## 将文件更快地加载到 BigQuery 中
-
-### 针对摄取的 CSV、GZIP、AVRO 和拼花文件类型进行基准测试
-
-towardsdatascience.com](/load-files-faster-into-bigquery-94355c4c086a)
+</loops-in-bigquery-db137e128d2d>  </fizzbuzz-in-bigquery-e0c4fbc1d195>  </load-files-faster-into-bigquery-94355c4c086a> 

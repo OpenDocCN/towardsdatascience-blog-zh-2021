@@ -94,18 +94,6 @@ plt.grid(True)
 
 如果你喜欢我的文章，并想阅读更多，请随时使用以下链接:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [## 最大似然估计和 OLS 回归
-
-### 介绍他们的关系和工作方式
-
-towardsdatascience.com](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
-
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+<https://philip-wilkinson.medium.com/membership>  </maximum-likelihood-estimation-and-ols-regression-36c049c94a48>  </introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
 towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d)

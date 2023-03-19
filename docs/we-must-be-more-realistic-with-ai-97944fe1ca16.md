@@ -12,15 +12,7 @@
 
 我不能阻止自己写这篇文章，并与你分享我的观点。我在看吴恩达接受《财富》杂志[采访](https://fortune.com/2021/07/30/ai-adoption-big-data-andrew-ng-consumer-internet/)，他在采访中强调**不要相信大数据**的宣传。他提到不买大数据的炒作，而他是过去几年推动大数据炒作的主要人物之一。例如，在 2017 年斯坦福商学院的一次采访中，安德鲁说“为了让人工智能有意义，公司需要给它们的算法输入大量数据，而这些数据并不总是容易获得的。”所以，有趣的是，我发现他在这件事上改变了主意。
 
-[](https://fortune.com/2021/07/30/ai-adoption-big-data-andrew-ng-consumer-internet/) [## 吴恩达:人工智能需要超越大数据的概念
-
-### 吴恩达说，人工智能的发展需要关注数据的质量，而不是数量。
-
-fortune.com](https://fortune.com/2021/07/30/ai-adoption-big-data-andrew-ng-consumer-internet/) [](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) [## 吴恩达:为什么人工智能是新的电力
-
-### 人工智能已经为我们今天的许多互动提供了动力。当你向 Siri 问路时，请仔细阅读…
-
-www.gsb.stanford.edu](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) 
+<https://fortune.com/2021/07/30/ai-adoption-big-data-andrew-ng-consumer-internet/>  <https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity>  
 
 我认为人工智能面临两大挑战。
 
@@ -62,8 +54,4 @@ www.gsb.stanford.edu](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new
 *   ***连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！***
 *   ***跟我上* [*推特*](https://twitter.com/pedram_ataee) *！***
 
-**[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)**
+**<https://pedram-ataee.medium.com/membership> **

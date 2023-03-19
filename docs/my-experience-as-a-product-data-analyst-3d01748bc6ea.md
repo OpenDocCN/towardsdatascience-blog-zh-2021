@@ -47,14 +47,6 @@ KPI 通常因您支持的部门和业务而异。相反，产品有通用 KPI，
 
 ## 你可能也会喜欢…
 
-[](https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439) [## 没有经验如何获得第一份数据分析师工作
-
-### 回答——这不仅仅是拥有技术技能
-
-madfordata.medium.com](https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439) [](/what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e) [## 成为营销数据分析师之前你应该知道什么
-
-### 从我的营销分析经验来看利弊
-
-towardsdatascience.com](/what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e) [](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61) [## 关于 A/B 测试，产品分析师应该知道什么
+<https://madfordata.medium.com/how-to-get-your-first-data-analyst-job-without-experience-7a9afc663439>  </what-you-should-know-before-becoming-a-marketing-data-analyst-c35109be773e>  </what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61> [## 关于 A/B 测试，产品分析师应该知道什么
 
 towardsdatascience.com](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61)

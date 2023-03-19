@@ -45,15 +45,7 @@ from sklearn.metrics import classification_report
 
 →第 6 行是获得完整的分类报告，包括准确度、f1 分数、精确度和召回率，作为[性能指标](/performance-measures-for-classification-models-a486c8976bf1)。
 
-[](/data-preprocessing-in-python-b52b652e37d5) [## Python 中的数据预处理
-
-### 对于机器学习与工作代码的例子…
-
-towardsdatascience.com](/data-preprocessing-in-python-b52b652e37d5) [](/performance-measures-for-classification-models-a486c8976bf1) [## 分类模型的性能度量
-
-### 和评估分类器性能的方法
-
-towardsdatascience.com](/performance-measures-for-classification-models-a486c8976bf1) 
+</data-preprocessing-in-python-b52b652e37d5>  </performance-measures-for-classification-models-a486c8976bf1>  
 
 ## 第 2 部分—加载数据集
 
@@ -99,11 +91,7 @@ print('test data: ', len(X_test))
 
 在下面的[帖子](/data-preprocessing-in-data-mining-machine-learning-79a9662e2eb)中，我将从概念上详细讨论变量转换(特性缩放)。
 
-[](/data-preprocessing-in-data-mining-machine-learning-79a9662e2eb) [## 数据挖掘和机器学习中的数据预处理
-
-### 有了详细的概念…
-
-towardsdatascience.com](/data-preprocessing-in-data-mining-machine-learning-79a9662e2eb) 
+</data-preprocessing-in-data-mining-machine-learning-79a9662e2eb>  
 
 我们使用特征缩放将不同的尺度转换为标准尺度，以使机器学习算法更容易。我们在 Python 中这样做，如下所示:
 
@@ -135,21 +123,13 @@ clf = MLPClassifier(hidden_layer_sizes=(10, 10, 10), random_state=1, max_iter=10
 
 要了解有关 MLPClassifier 参数的更多信息，请访问:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) [## sklearn.neural_network。MLP 分类器-sci kit-学习 0.24.1 文档
-
-### 多层感知器分类器。该模型使用 LBFGS 或随机梯度优化对数损失函数
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html>  
 
 → `clf.fit`将训练数据传递给网络，以便网络从中学习。
 
 要了解神经网络的基本概念，请访问:
 
-[](/artifical-neural-networks-771562b83e31) [## 人工神经网络
-
-### 简要的概念性概述
-
-towardsdatascience.com](/artifical-neural-networks-771562b83e31) 
+</artifical-neural-networks-771562b83e31>  
 
 ## 第 6 部分—预测测试结果和检查性能
 
@@ -180,18 +160,10 @@ print(cm)print(classification_report(y_test, y_pred, target_names=iris.target_na
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑[注册成为一名媒体成员](https://tarun-gupta.medium.com/membership)。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://tarun-gupta.medium.com/membership) [## 加入我的推荐链接-塔伦古普塔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-tarun-gupta.medium.com](https://tarun-gupta.medium.com/membership) 
+<https://tarun-gupta.medium.com/membership>  
 
 我希望你喜欢阅读这篇文章，并开始学习一些基本的人工神经网络实现。感谢您的阅读。
 
 这是我的故事索引:
 
- [## 标记故事列表的快速链接—感谢您的访问
-
-### 我也有一份以快节奏出版为目标的出版物。读书成为作家。
-
-tarun-gupta.medium.com](https://tarun-gupta.medium.com/thank-you-for-visiting-my-profile-9f708062c75e)
+ 

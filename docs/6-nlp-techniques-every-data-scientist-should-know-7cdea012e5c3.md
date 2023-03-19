@@ -18,11 +18,7 @@
 
 在这篇文章中，我将介绍自然语言处理的 6 种基本技术，如果你真的想进入这个领域，你应该知道这 6 种技术。
 
-[](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) [## NLP 101:什么是自然语言处理？
-
-### NLP 是怎么开始的？
-
-towardsdatascience.com](/nlp-101-what-is-natural-language-processing-b4a968a3b7bf) 
+</nlp-101-what-is-natural-language-processing-b4a968a3b7bf>  
 
 # 词汇化和词干化
 
@@ -87,11 +83,7 @@ NER 可用于各种领域，如构建推荐系统、在医疗保健中为患者�
 
 情感分析是机器学习技术的广泛应用之一。它可以使用监督或非监督技术来实现。也许执行情感分析的最常见的监督技术是使用朴素贝叶斯算法。可以使用的其他监督 ML 算法是梯度提升和随机森林。
 
-[](/nlp-101-towards-natural-language-processing-92df5728f6bb) [## NLP 101:走向自然语言处理
-
-### 构建强大 NLP 基础的 10 个步骤
-
-towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6bb) 
+</nlp-101-towards-natural-language-processing-92df5728f6bb>  
 
 # 外卖食品
 
@@ -103,8 +95,4 @@ towardsdatascience.com](/nlp-101-towards-natural-language-processing-92df5728f6b
 
 这些技术是大多数(如果不是全部)自然语言处理算法的基本构件。所以，如果你理解了这些技巧以及何时使用它们，没有什么能阻止你。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f)
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f> 

@@ -18,11 +18,7 @@
 
 我推荐 DeepLearning 提供的这个 Coursera 课程。人工智能学习更多自然语言处理。
 
-[](https://click.linksynergy.com/link?id=J2RDo*Rlzkk&offerid=759505.16188218824&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsequence-models-in-nlp) [## 基于序列模型的自然语言处理
-
-### 在 deeplearning.ai 提供的自然语言处理专业化的课程 3 中，你将:a)训练一个神经…
-
-click.linksynergy.com](https://click.linksynergy.com/link?id=J2RDo*Rlzkk&offerid=759505.16188218824&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsequence-models-in-nlp) 
+<https://click.linksynergy.com/link?id=J2RDo*Rlzkk&offerid=759505.16188218824&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsequence-models-in-nlp>  
 
 # 我们开始吧！
 

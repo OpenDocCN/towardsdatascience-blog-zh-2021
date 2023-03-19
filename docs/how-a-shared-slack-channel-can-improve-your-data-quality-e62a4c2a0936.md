@@ -153,11 +153,7 @@ aws secretsmanager create-secret --name slack-webhook --secret-string '{"hook_ur
 
 此外，我们自己编写各种数据质量检查是**不可伸缩的**，并且**甚至可能不可行**如果你处理大量数据的话。正如 [Barr Moses](https://medium.com/u/2818bac48708?source=post_page-----e62a4c2a0936--------------------------------) 指出的，这种质量检查只能覆盖**已知的未知**，即可以预见的问题。一个有趣的想法是将共享松弛通道的社交方面与来自端到端可观察性管道的警报相结合。
 
-[](/the-new-rules-of-data-quality-5e4fdecb9618) [## 数据质量的新规则
-
-### 引入一种更好的方法，通过测试和可观察性来大规模管理数据质量。
-
-towardsdatascience.com](/the-new-rules-of-data-quality-5e4fdecb9618) 
+</the-new-rules-of-data-quality-5e4fdecb9618>  
 
 # 结论
 

@@ -75,16 +75,4 @@ freeCodeCamp 几乎就像一个中心网站，提供大量不同的课程，你�
 
 ## 相关文章
 
-[](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [](/7-women-you-should-be-following-on-linkedin-737362a7777f) [## 你应该在 LinkedIn 上关注的 7 位女性
-
-### 作为一名数据科学家，不断进步并跟上时代的步伐
-
-towardsdatascience.com](/7-women-you-should-be-following-on-linkedin-737362a7777f) [](/8-folks-you-should-be-following-on-linkedin-75f8fe9e43db) [## 你应该在 LinkedIn 上关注的 8 个人
-
-### 作为一名数据科学家不断进步和跟上时代
-
-towardsdatascience.com](/8-folks-you-should-be-following-on-linkedin-75f8fe9e43db)
+<https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343>  </7-women-you-should-be-following-on-linkedin-737362a7777f>  </8-folks-you-should-be-following-on-linkedin-75f8fe9e43db> 

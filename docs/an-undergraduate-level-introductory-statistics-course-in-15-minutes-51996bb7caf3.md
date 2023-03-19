@@ -553,18 +553,6 @@ p1 — p2 假设的检验。
 
 **虽然这个备忘单是一个很好的起点，但是网上有大量的资源可以帮助你进一步加深对统计概念的理解。下面列出了一些我最喜欢的:**
 
-**[](https://www.khanacademy.org/math/statistics-probability) [## 统计和概率|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/statistics-probability) [](/8-fundamental-statistical-concepts-for-data-science-9b4e8a0c6f1c) [## 数据科学的 8 个基本统计概念
-
-### …用简单的英语解释
-
-towardsdatascience.com](/8-fundamental-statistical-concepts-for-data-science-9b4e8a0c6f1c) [](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) [## 数据科学面试中你应该知道的 10 个统计概念
-
-### 学习聪明，不努力。
-
-towardsdatascience.com](/10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11) 
+**<https://www.khanacademy.org/math/statistics-probability>  </8-fundamental-statistical-concepts-for-data-science-9b4e8a0c6f1c>  </10-statistical-concepts-you-should-know-for-data-science-interviews-373f417e7d11>  
 
 当学习统计学时，重复和一致性是关键。当你知道你在寻找什么以及如何寻找时，问题很少是难以解决的。通过熟悉寻找所需值的最重要的公式和程序，你将能够很快解决任何摆在你面前的统计问题。**

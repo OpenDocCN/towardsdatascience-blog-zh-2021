@@ -75,7 +75,7 @@
 *   **[**微软 Azure**](https://www.google.com/search?q=microsoft+azure&rlz=1C5CHFA_enUS905US905&oq=microsoft+azure&aqs=chrome..69i57j0i433j0j0i433j0j0i433j0l2j0i433i457j0.4251j1j4&sourceid=chrome&ie=UTF-8#:~:text=Microsoft%20Azure%3A%20Cloud,us)%3A%20389/55.49K)**——微软的云计算参赛者在这个名单中常见于利用大量 Windows 集成的团队。****
 *   ****[**亚马逊 S3**](https://aws.amazon.com/s3/)**——结构化和非结构化数据的对象存储服务，S3 给你计算资源，让你从零开始构建数据湖。******
 *   ******[**data bricks**](https://databricks.com/)—data bricks 是 Apache Spark 即服务平台的先驱，它为用户提供了利用结构化和非结构化数据的选项，并提供了数据湖的低成本存储功能。******
-*   ****[](https://www.dremio.com/)**—dre mio 的数据湖引擎为分析师、数据科学家和数据工程师提供了一个集成的自助式数据湖界面。******
+*   ****<https://www.dremio.com/>**—dre mio 的数据湖引擎为分析师、数据科学家和数据工程师提供了一个集成的自助式数据湖界面。******
 *   ******[**starbrust**](https://www.starburst.io/)**—starbrust 提供 PrestoSQL(现在的 Trino)作为托管服务，让你的湖中数据的分析和访问变得更加容易。********
 
 # ******数据转换和建模******

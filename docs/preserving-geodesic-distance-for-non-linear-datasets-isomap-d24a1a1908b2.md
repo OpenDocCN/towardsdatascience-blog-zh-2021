@@ -113,11 +113,7 @@ Isomap 可用于医疗领域，使超声和超声心动图图像在消除噪声�
 
 图 7。应用 ISOMAP 后数字 9 的定位，图片作者
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) [## 机器学习指南
-
-### 所有与机器学习相关的文章
-
-ibrahimkovan.medium.com](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) 
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d>  
 
 # 5.参考
 

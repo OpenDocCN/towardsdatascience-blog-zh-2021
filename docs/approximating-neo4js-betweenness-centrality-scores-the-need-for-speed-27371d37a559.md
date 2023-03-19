@@ -16,11 +16,7 @@
 然而，对于许多中心性指标，如*中间中心性*或*接近中心性*得分，精确算法的计算复杂性 ***非常昂贵*** 。
 例如，Cohen 等人在*”*[*计算经典接近中心性中说明，在规模*](https://dl.acm.org/doi/abs/10.1145/2660460.2660465?casa_token=DP-jrp7O5OIAAAAA:yug3h0jJtCTEw3lzYiBhlG4JbDZ1lpAnGLUOW4LYC8Zov2nq9Gm67JXuXnwNfax09e9t2jqlacuz)*中，使用标准计算资源计算 2400 万个节点的网络上的接近中心性需要惊人的 44222 个小时，或者大约 5 年来计算。*
 
-*[](https://dl.acm.org/doi/abs/10.1145/2660460.2660465) [## 大规模计算经典的接近中心性
-
-### 最早由 Bavelas (1948)提出，是网络中节点重要性的一种度量
-
-dl.acm.org](https://dl.acm.org/doi/abs/10.1145/2660460.2660465) 
+*<https://dl.acm.org/doi/abs/10.1145/2660460.2660465>  
 
 在这篇文章中， [Mark Needham](https://medium.com/u/68584b0be0fb?source=post_page-----27371d37a559--------------------------------) 和我将说明如何使用一个 ***定制机器学习模型*** 来近似 Neo4j 中大型图的中间中心性分数。
 
@@ -38,11 +34,7 @@ ORDER BY score DESC
 
 使用这些 Neo4j 中心性算法，正如我们在以前的文章中所阐述的； [*“启动你的中心性度量引擎:Neo4j vs NetworkX——各种形式的短程加速赛…*](/fire-up-your-centrality-metric-engines-neo4j-vs-networkx-a-drag-race-of-sorts-18857f25be35) *”，*仍然是计算中心性得分的最有效方式之一，但正如所强调的，当图的大小增加时，运行时间也以指数方式增加，因此需要速度。
 
-[](/fire-up-your-centrality-metric-engines-neo4j-vs-networkx-a-drag-race-of-sorts-18857f25be35) [## 启动你的中心性度量引擎:Neo4j vs NetworkX——一场各种各样的拉力赛…
-
-### 在本文中，Mark Needham 和我在 Python NetworkX 包和 Neo4j 图形数据之间进行了一场赛跑…
-
-towardsdatascience.com](/fire-up-your-centrality-metric-engines-neo4j-vs-networkx-a-drag-race-of-sorts-18857f25be35) 
+</fire-up-your-centrality-metric-engines-neo4j-vs-networkx-a-drag-race-of-sorts-18857f25be35>  
 
 ## 使用机器学习模型
 
@@ -74,11 +66,7 @@ towardsdatascience.com](/fire-up-your-centrality-metric-engines-neo4j-vs-network
 
 所有代码都在 TensorFlow 2.2.3 & Keras 中，可以在下面找到:
 
-[](https://colab.research.google.com/drive/1m3FBa2KgYxmkLo182wNiOzKF0C3Qbki3?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1m3FBa2KgYxmkLo182wNiOzKF0C3Qbki3?usp=sharing) 
+<https://colab.research.google.com/drive/1m3FBa2KgYxmkLo182wNiOzKF0C3Qbki3?usp=sharing>  
 
 **从 Neo4j 加载图形**
 
@@ -131,11 +119,7 @@ LOOCV 方法包括将观察值集合分割成元组，其中单个观察值、 *
 
 为了测量预测的归一化介数值(和节点的排序)产生可信的结果，我们使用了[肯德尔τ距离度量](https://en.wikipedia.org/wiki/Kendall_tau_distance)。此指标比较两个列表的相似程度，1 分表示两个列表完全匹配。
 
- [## 肯德尔τ距离
-
-### Kendall tau 等级距离是一个度量标准，用于计算两个等级列表之间成对不一致的数量…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Kendall_tau_distance) 
+  
 
 经过 30 个纪元的训练，我们获得了 **0.783** 的肯德尔 Tau 分数。
 

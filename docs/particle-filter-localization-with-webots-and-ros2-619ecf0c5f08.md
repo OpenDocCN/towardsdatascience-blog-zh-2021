@@ -262,11 +262,7 @@
 
 *您可以从以下网址获得完整的源代码:*
 
-*[](https://github.com/debbynirwan/mcl) [## GitHub - debbynirwan/mcl:这个 ROS2 包旨在演示粒子过滤器或 Monte…
-
-### 这个 ROS2 包的目的是演示粒子滤波或蒙特卡罗定位是如何在一个真实的…
-
-github.com](https://github.com/debbynirwan/mcl) 
+*<https://github.com/debbynirwan/mcl>  
 
 要了解更多，我建议您尝试在 Webots 模拟器和 ROS2 上运行它。
 
@@ -274,16 +270,8 @@ github.com](https://github.com/debbynirwan/mcl)
 
 如果你想了解更多细节，你可以阅读《概率机器人学》一书:
 
-[](https://mitpress.mit.edu/books/probabilistic-robotics) [## 概率机器人学
-
-### 机器人学最新领域的技术和算法介绍。概率机器人学是一门新兴的…
-
-mitpress.mit.edu](https://mitpress.mit.edu/books/probabilistic-robotics) 
+<https://mitpress.mit.edu/books/probabilistic-robotics>  
 
 还有下面这张纸:
 
-[](https://www.mdpi.com/1424-8220/21/2/438) [## 粒子过滤器:实践教程
-
-### 粒子滤波器在 20 世纪 90 年代早期得到推广，并一直用于解决估计问题
-
-www.mdpi.com](https://www.mdpi.com/1424-8220/21/2/438)*
+<https://www.mdpi.com/1424-8220/21/2/438> *

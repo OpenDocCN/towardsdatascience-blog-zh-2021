@@ -263,11 +263,7 @@ ReLU 在大多数应用程序中运行良好，但并不完美。它遇到了一
 
 为了解决这个问题，你可能想使用 ReLU 函数的一个变体，比如 **Leaky ReLU** 、**Parametric Leaky ReLU**(**PReLU**)、**指数线性单元** ( **ELU** )，或者**比例指数线性单元** ( **SELU** )。请查看以下文章中对它们的介绍:
 
-[](/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) [## 深度学习中你应该知道的 7 个常用激活函数以及如何与 Keras 和…
-
-### 西格蒙德，坦，雷卢，漏雷卢，普雷卢，eLU 和 SELU 的实用介绍
-
-towardsdatascience.com](/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) 
+</7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6>  
 
 # 结论
 

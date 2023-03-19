@@ -24,11 +24,7 @@ JavaScript 的 D3 库以其创建交互式和/或动画可视化的灵活性和�
 
 > 我在下面添加了可视化的链接，你可以去发现什么类型的电影受到社会的喜爱，或者为他们幸运的制片人带来更多的利润。
 
-[](http://anilgurbuz.com/visualisation/Page2.html) [## 平台比较
-
-### 悬停在点上以查看电影海报和信息框
-
-anilgurbuz.com](http://anilgurbuz.com/visualisation/Page2.html) 
+<http://anilgurbuz.com/visualisation/Page2.html>  
 
 PS:我知道网页的设计违背了所有的启发法，但是当时唯一的担心是可视化的设计。
 
@@ -57,11 +53,7 @@ PS:我知道网页的设计违背了所有的启发法，但是当时唯一的�
 
 在此处再添加一次链接以访问应用程序。
 
-[](http://anilgurbuz.com/visualisation/Page2.html) [## 平台比较
-
-### 悬停在点上以查看电影海报和信息框
-
-anilgurbuz.com](http://anilgurbuz.com/visualisation/Page2.html) 
+<http://anilgurbuz.com/visualisation/Page2.html>  
 
 ## 用户使用滑块或按钮过滤数据
 

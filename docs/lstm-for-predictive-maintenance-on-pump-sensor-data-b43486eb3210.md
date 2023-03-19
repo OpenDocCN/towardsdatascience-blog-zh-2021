@@ -183,11 +183,7 @@ CSV 文件包含 55 列，每列超过 200K 个条目。
 
 离群点去除意味着识别和去除对模式识别没有贡献或者甚至扰乱算法的信号部分。这可以通过不同的已经建立的算法来完成。在下面的文章中可以找到一个很好的概述:
 
-[](/ways-to-detect-and-remove-the-outliers-404d16608dba) [## 检测和移除异常值的方法
-
-### 在从事数据科学项目时，你在寻找什么？EDA 最重要的部分是什么…
-
-towardsdatascience.com](/ways-to-detect-and-remove-the-outliers-404d16608dba) 
+</ways-to-detect-and-remove-the-outliers-404d16608dba>  
 
 需要记住的一点是，除了降噪之外，异常值的去除是信号的这些部分实际上可能是有价值的信息。因此，盲目地忽略它们并自动移除异常值和噪声可能不会破坏您的算法，但可能会降低其性能。这尤其适用于降噪。匆忙执行降噪会威胁到您的分析。
 
@@ -199,21 +195,13 @@ towardsdatascience.com](/ways-to-detect-and-remove-the-outliers-404d16608dba)
 
 这个话题是另一篇文章的内容，因此我们不会深入讨论，但会给你一篇由*杰森·布朗利写的很棒的文章:*
 
-[](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) [## 发现特征工程，如何工程化特征以及如何擅长它-机器学习…
-
-### 特征工程是一个非正式的话题，但绝对是众所周知的，并同意是成功的关键应用…
-
-machinelearningmastery.com](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) 
+<https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/>  
 
 ## 特征选择
 
 此外，这个主题本身需要一篇文章，我们将简要解释关于我们的数据集的几点，并指出更多由*杰森·布朗利*撰写的文献供您深入研究。
 
-[](https://machinelearningmastery.com/feature-selection-with-optimization/) [## 基于随机优化算法的特征选择——机器学习掌握
-
-### 通常，可以通过移除输入特征(列)来开发更简单、性能更好的机器学习模型…
-
-machinelearningmastery.com](https://machinelearningmastery.com/feature-selection-with-optimization/) 
+<https://machinelearningmastery.com/feature-selection-with-optimization/>  
 
 特征选择已经完成，因为冗余数据、坏数据或无信息数据会阻碍而不是提高你的机器学习性能。我们总是认为，数据越多越好，但更准确地说应该是:*好特性的数据越多越好。* 通过特征选择，我们帮助算法预先整理出哪个特征会加入来解决问题。
 

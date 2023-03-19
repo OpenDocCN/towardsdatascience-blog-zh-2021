@@ -117,11 +117,7 @@ NLTK 树|上面代码的输出|作者图片
 
 对于上面执行的两个代码笔记本，包含所有输入和输出的完整代码都在下面链接的存储库中。我强烈建议任何阅读本文的人一起浏览代码，以便更好地理解上面讨论的概念。
 
-[](https://github.com/rjrahul24/ai-with-python-series/tree/main/08.%20Natural%20Language%20Processing) [## 人工智能与 python 系列/自然语言处理
-
-### Python 教程系列—集中:NLP 基础
-
-github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/08.%20Natural%20Language%20Processing) 
+<https://github.com/rjrahul24/ai-with-python-series/tree/main/08.%20Natural%20Language%20Processing>  
 
 # 结论
 
@@ -133,19 +129,7 @@ github.com](https://github.com/rjrahul24/ai-with-python-series/tree/main/08.%20N
 
 ## 有趣的机器学习阅读
 
-[](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [## 使用 Azure Data Factory 实现端到端的机器学习工作流
-
-### 使用微软的 Azure 数据工厂(ADF)在一个屏幕上构建完整的 MLOps 生命周期
-
-towardsdatascience.com](/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94) [](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) [## 逻辑程序设计和基于 Python 的人性化人工智能设计
-
-### 建立逻辑，促进机器中的人工智能
-
-towardsdatascience.com](/logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2) [](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) [## 大数据函数式编程终极指南
-
-### 纯函数和惰性求值——分布式数据计算的症结
-
-towardsdatascience.com](/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3) 
+</implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94>  </logic-programming-and-the-design-of-humanistic-ai-using-python-6ddb7019caa2>  </the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3>  
 
 ## 关于我
 

@@ -78,11 +78,7 @@ GLM 有三个组成部分:
 
 要了解更多关于逻辑回归的知识，请点击这里查看我的文章:
 
-[](/simple-logistic-regression-a9735ed23abd) [## 清理逻辑回归
-
-### 非数学家指南
-
-towardsdatascience.com](/simple-logistic-regression-a9735ed23abd) 
+</simple-logistic-regression-a9735ed23abd>  
 
 **为什么可以解释？**
 
@@ -133,11 +129,7 @@ towardsdatascience.com](/simple-logistic-regression-a9735ed23abd)
 
 要了解它是如何工作的，请看这里:
 
-[](/decision-trees-ac091793070) [## 决策树的非技术性指南
-
-### 现代的、基于树的模型的构建模块…
-
-towardsdatascience.com](/decision-trees-ac091793070) 
+</decision-trees-ac091793070>  
 
 **为什么可以解释？**
 
@@ -167,7 +159,7 @@ gam 通过使用一系列被称为**样条**的复杂函数来估计每个变量
 
 要了解更多关于 GAMs 的信息，请点击这里:
 
-[](/generalised-additive-models-6dfbedf1350a) [## 什么是广义加性模型？
+</generalised-additive-models-6dfbedf1350a> [## 什么是广义加性模型？
 
 towardsdatascience.com](/generalised-additive-models-6dfbedf1350a) 
 
@@ -266,7 +258,7 @@ TabNet 模型架构。图片作者。灵感来自[https://arxiv.org/pdf/1908.074
 
 **我在 TabNet 上的文章更详细地介绍了这个模型，请看这里:**
 
-[](/tabnet-e1b979907694) [## TabNet:梯度推进的终结？
+</tabnet-e1b979907694> [## TabNet:梯度推进的终结？
 
 towardsdatascience.com](/tabnet-e1b979907694) 
 
@@ -282,19 +274,11 @@ TabNet 使用顺序注意机制来选择最重要的特征，这影响了掩盖�
 
 **分类**
 
-[](https://github.com/dreamquark-ai/tabnet/blob/develop/census_example.ipynb) [## dreamquark-ai/tabnet
-
-### PyTorch 实现 TabNet 论文:https://arxiv.org/pdf/1908.07442.pdf—dream quark-ai/TabNet
-
-github.com](https://github.com/dreamquark-ai/tabnet/blob/develop/census_example.ipynb) 
+<https://github.com/dreamquark-ai/tabnet/blob/develop/census_example.ipynb>  
 
 **回归**
 
-[](https://github.com/dreamquark-ai/tabnet/blob/develop/regression_example.ipynb) [## dreamquark-ai/tabnet
-
-### PyTorch 实现 TabNet 论文:https://arxiv.org/pdf/1908.07442.pdf—dream quark-ai/TabNet
-
-github.com](https://github.com/dreamquark-ai/tabnet/blob/develop/regression_example.ipynb) 
+<https://github.com/dreamquark-ai/tabnet/blob/develop/regression_example.ipynb>  
 
 # 比较模型
 
@@ -322,14 +306,10 @@ github.com](https://github.com/dreamquark-ai/tabnet/blob/develop/regression_exam
 
 ## 了解更多信息
 
-[](/mlops-at-home-part1-4c60db29d4a2) [## 在家创建一个现代的、开源的 MLOps 堆栈
+</mlops-at-home-part1-4c60db29d4a2> [## 在家创建一个现代的、开源的 MLOps 堆栈
 
 towardsdatascience.com](/mlops-at-home-part1-4c60db29d4a2) 
 
 ## 将我的内容直接发送到您的收件箱！
 
-[](https://adamsh.substack.com/p/coming-soon) [## Data Siens:机器学习技巧、诀窍和教程的资源。
-
-### 欢迎来到亚当的数据西恩斯。我是一名数据科学家，有 5 年的分析经验。我喜欢谈论任何事情…
-
-adamsh.substack.com](https://adamsh.substack.com/p/coming-soon)
+<https://adamsh.substack.com/p/coming-soon> 

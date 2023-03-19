@@ -52,48 +52,8 @@
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [## 我不擅长编码
-
-### 使用 Pylint 审查我的代码…
-
-python .平原英语. io](https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06) [](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) [## Python 中的数组、列表和字典
-
-### 比较 Python 中不同的数据存储类型
-
-python .平原英语. io](https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e) [](https://python.plainenglish.io/converting-a-cli-app-to-typer-6c7462f5a9ff) [## 将 CLI 应用程序转换为 Typer
-
-### 会有多难呢？
-
-python .平原英语. io](https://python.plainenglish.io/converting-a-cli-app-to-typer-6c7462f5a9ff) [](/commonly-used-words-in-data-science-ea06a8f17577) [## 数据科学中的常用词
-
-### 定义数据科学术语
-
-towardsdatascience.com](/commonly-used-words-in-data-science-ea06a8f17577) [](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) [## 这周我学到了一些东西——实体框架对主键很挑剔
-
-### 当一个简单的任务变得比预期的更难时
-
-medium.com](https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7) 
+<https://python.plainenglish.io/i-suck-at-coding-cb9bc7ef6c06>  <https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e>  <https://python.plainenglish.io/converting-a-cli-app-to-typer-6c7462f5a9ff>  </commonly-used-words-in-data-science-ea06a8f17577>  <https://medium.com/codex/something-i-learned-this-week-entity-framework-is-picky-about-primary-keys-b5d7642c9ab7>  
 
 参考资料:
 
-[](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/) [## 什么是数据湖？
-
-### 数据湖是一个集中的存储库，允许您在任何地方存储所有结构化和非结构化数据…
-
-aws.amazon.com](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/) [](https://www.ibm.com/analytics) [## 分析学
-
-### 了解 IBM Data 和 AI 如何帮助您收集、组织和分析您的数据，以加速您的 AI 之旅。
-
-www.ibm.com](https://www.ibm.com/analytics) [](https://searchdatamanagement.techtarget.com/definition/big-data) [## 什么是大数据，为什么它很重要？
-
-### 大数据是由组织收集的结构化、半结构化和非结构化数据的组合，可以是…
-
-searchdatamanagement.techtarget.com](https://searchdatamanagement.techtarget.com/definition/big-data) [](https://databricks.com/glossary/hadoop-cluster) [## 什么是 Hadoop 集群？
-
-### 回到词汇表 Apache Hadoop 是一个开源的、基于 Java 的软件框架和并行数据处理引擎…
-
-databricks.com](https://databricks.com/glossary/hadoop-cluster)  [## 什么是大数据？甲骨文
-
-### 大数据到底是什么？大数据的定义是包含更多种类的数据，包括越来越多的…
-
-www.oracle.com](https://www.oracle.com/big-data/what-is-big-data/)
+<https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/>  <https://www.ibm.com/analytics>  <https://searchdatamanagement.techtarget.com/definition/big-data>  <https://databricks.com/glossary/hadoop-cluster>   

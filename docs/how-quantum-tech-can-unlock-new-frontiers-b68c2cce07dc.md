@@ -18,11 +18,7 @@
 
 然而，随着量子计算的最新进展，暗物质物理学可能会经历一次巨大的推动。寻找两种类型的暗物质——科学家们实际上不知道它们是否都存在，但他们正在试图弄清楚——可能会从量子技术中受益。第一种是[轴子](https://www.symmetrymagazine.org/article/the-other-dark-matter-candidate)，它的存在可以解释为什么如果你翻转一个粒子的电荷和宇称，强核力不会改变。另一种是暗光子。这些粒子的行为类似于光的粒子光子，当然，除了暗光子根本不是光。
 
-[](/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66) [## 为什么 Python 不是未来的编程语言
-
-### 尽管未来几年对它的需求量会很大
-
-towardsdatascience.com](/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66) 
+</why-python-is-not-the-programming-language-of-the-future-30ddc5339b66>  
 
 # 寻找轴子
 
@@ -68,11 +64,7 @@ Axions 可能比喝醉的人更复杂一点，但他们也有两个频率，就�
 
 通过结合腔和量子测量方面的专业知识，这种技术的灵敏度比量子极限(即常规量子测量的基准)高 36 倍。如果没有量子技术，探测暗光子甚至是不可能的。
 
-[](/bye-bye-python-hello-julia-9230bff0df62) [## 再见了蟒蛇。你好朱莉娅。
-
-### 随着 Python 的寿命逐渐停止，一个热门的新竞争者正在出现
-
-towardsdatascience.com](/bye-bye-python-hello-julia-9230bff0df62) 
+</bye-bye-python-hello-julia-9230bff0df62>  
 
 # 搜索正在升温
 

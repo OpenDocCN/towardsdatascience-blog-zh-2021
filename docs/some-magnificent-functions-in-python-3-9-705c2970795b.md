@@ -12,11 +12,7 @@
 
 Python 编程语言本身就包含了许多奇妙的函数和工具，以及标准库中一些令人敬畏的功能。这使得 Python 本身成为一种非常通用的语言，而不需要像其他语言那样依赖于依赖关系。在过去，我已经讨论了一些我最喜欢的 Python 模块，它们包含在标准库中，如果您想阅读我这样做的一些文章，您可以在这里查看我关于这个主题的上一篇文章:
 
-[](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) [## 15 个非常有用的 Python 基础模块
-
-### 忘记依赖性，使用标准库！
-
-towardsdatascience.com](/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018) 
+</15-more-surprisingly-useful-python-base-modules-6ff1ee89b018>  
 
 然而，尽管这些工具很有用，实际的语言本身仍然有更多的乐趣。Python 编程语言中包含了许多非常有用的函数，这些函数在许多不同的场景中都非常有用。对于数据科学家来说尤其如此，因为许多这些操作在迭代观察列表上工作得非常好。
 
@@ -56,7 +52,7 @@ print(lstpone)
 
 很容易看出，在 Python 中处理数据时，这样的东西可能会派上用场。同样，编写一个提取的 map()函数比用一些嵌套的 for 循环来执行算术要干净和简洁得多。我写了一篇关于抽取的整洁的文章，以及为什么作为程序员它是如此伟大的实践，如果你对这样一个概念感兴趣，它当然值得一读，如果你愿意，你可以在这里查看这个主题的更详细的内容:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -89,7 +85,7 @@ print(lst3)
 
 很容易理解为什么这样的东西对处理数据很有价值。跨多个特性进行迭代是一种您很容易发现自己所处的场景，所以这个解决方案肯定是一个很好的想法。我正好有一篇关于 Python 的 zip()函数的更深入的文章，当然值得一读。如果你以前从未看过，你可以在这里查看:
 
-[](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) [## 关于 Python 中的 Zip，您需要了解的一切
+</everything-you-need-to-know-about-zip-in-python-5da1416f3626> [## 关于 Python 中的 Zip，您需要了解的一切
 
 towardsdatascience.com](/everything-you-need-to-know-about-zip-in-python-5da1416f3626) 
 
@@ -127,11 +123,7 @@ print(hash(“ Hello”))-7944160827638463773
 
 format 方法可用于返回由格式说明符控制的对象的格式化表示形式。这些方法调用对象的内部 __format__()函数。这个方法有两个参数，第一个是我们想要格式化的值，第二个是格式规范。有关说明符的完整列表，您可以查看此页面:
 
- [## PyFormat 使用%和。格式()为大好事！
-
-### Python 有很棒的字符串格式化器已经很多年了，但是关于它们的文档太理论化了…
-
-pyformat.info](https://pyformat.info/) 
+  
 
 总之，在这个例子中，我将把一个有符号的整数转换成二进制数:
 

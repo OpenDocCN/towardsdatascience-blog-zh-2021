@@ -12,11 +12,7 @@
 
 我开发的[学习课程的一部分](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c)聚焦于完成项目的重要性，这是一种加深我的知识并开始应用我所学技能的方式。
 
-[](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c) [## 我在 2021 年自学数据科学的循序渐进的课程
-
-### 我打算如何不花一分钱自学数据科学。
-
-towardsdatascience.com](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c) 
+</the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c>  
 
 这就引出了这篇文章:列出我计划在今年完成的 7 个数据科学项目，以及这些项目将如何增强我在特定领域的技能。我想选择专注于我感兴趣的主题的项目，我也选择附带源代码的项目，如果我遇到困难，我可以参考这些源代码。此外，我还想挑选一些比那些经常分享的项目更独特的项目。所以，事不宜迟，让我们直接开始吧！
 
@@ -150,19 +146,7 @@ Jaromír Kavan 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 ## 其他资源:
 
-[](/predicting-stock-prices-with-python-ec1d0c9bece1) [## 用 Python 预测股票价格
-
-### 用 100 行代码
-
-towardsdatascience.com](/predicting-stock-prices-with-python-ec1d0c9bece1) [](/simple-stock-price-prediction-with-ml-in-python-learners-guide-to-ml-76896910e2ba) [## 用 Python 中的 ML 进行简单的股票价格预测——ML 学习指南
-
-### 机器学习的一个最突出的用例是“金融科技”(金融科技，为那些不…
-
-towardsdatascience.com](/simple-stock-price-prediction-with-ml-in-python-learners-guide-to-ml-76896910e2ba) [](/stock-prediction-in-python-b66555171a2) [## Python 中的股票预测
-
-### 在学习真正的 Python 时制造(和失去)假财富
-
-towardsdatascience.com](/stock-prediction-in-python-b66555171a2) 
+</predicting-stock-prices-with-python-ec1d0c9bece1>  </simple-stock-price-prediction-with-ml-in-python-learners-guide-to-ml-76896910e2ba>  </stock-prediction-in-python-b66555171a2>  
 
 ## 使用的技能:
 

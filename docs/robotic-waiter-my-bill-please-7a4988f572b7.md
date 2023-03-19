@@ -33,22 +33,6 @@
 
 如果你喜欢这篇文章并想联系我，请通过 [🖊️Medium](https://alexieidingli.medium.com/) 、[联系我🐦推特](https://twitter.com/alexieidingli)，[🔗领英](https://www.linkedin.com/in/alexieidingli/)，[📷Instagram](https://www.instagram.com/alexieidingli/) ，[😊脸书](https://www.facebook.com/alexieidingli)还是[🌐网站](http://www.dingli.org/)
 
-[](/printing-my-takeout-7abfc28ce415) [## 打印我的外卖
-
-### 这是一个周六的晚上，当你在看你最喜欢的电影时，电视上突然出现了一则美味披萨的广告。外壳是…
-
-towardsdatascience.com](/printing-my-takeout-7abfc28ce415) [](/boosting-your-small-business-in-2020-6ae3529cbfb0) [## 在 2020 年推动您的小型企业
-
-### 毫无疑问，2019 年是人工智能(AI)年。我们听说了很多，但很多人不确定…
-
-towardsdatascience.com](/boosting-your-small-business-in-2020-6ae3529cbfb0) [](/how-to-pump-up-your-business-using-ai-ff9d7edb1d77) [## 如何使用人工智能提升你的业务
-
-### 一本给没有人工智能背景的人的简明指南
-
-towardsdatascience.com](/how-to-pump-up-your-business-using-ai-ff9d7edb1d77) [](/reinventing-the-workplace-beyond-the-office-3a41c42b426c) [## 重塑办公室之外的工作场所
-
-### 如何在家中舒适地高效工作
-
-towardsdatascience.com](/reinventing-the-workplace-beyond-the-office-3a41c42b426c) 
+</printing-my-takeout-7abfc28ce415>  </boosting-your-small-business-in-2020-6ae3529cbfb0>  </how-to-pump-up-your-business-using-ai-ff9d7edb1d77>  </reinventing-the-workplace-beyond-the-office-3a41c42b426c>  
 
 [**阿列克谢丁立教授**](http://www.dingli.org) 是马耳他大学的艾教授。二十多年来，他一直在人工智能领域进行研究和工作，协助不同的公司实施人工智能解决方案。他的工作被国际专家评为世界级，并赢得了几个当地和国际奖项(如欧洲航天局、世界知识产权组织和联合国等)。他出版了几本同行评审的出版物，并成为马耳他的一部分。由马耳他政府成立的人工智能工作组，旨在使马耳他成为世界上人工智能水平最高的国家之一。

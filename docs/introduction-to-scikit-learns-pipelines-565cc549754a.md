@@ -36,8 +36,4 @@ scikit-learn 管道是 scikit-learn 包提供的一个组件，它允许我们�
 
 如果你喜欢这篇文章，你也可以关注我并查看我的其他文章:
 
-[](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7) [## 如何检测、处理和可视化异常值
-
-### 当我第一次开始开发数据科学项目时，我既不关心数据可视化，也不关心离群点检测，我…
-
-towardsdatascience.com](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7)
+</how-to-detect-handle-and-visualize-outliers-ad0b74af4af7> 

@@ -55,11 +55,7 @@
 
 注意，如果你想对以上概念有更深入的理解，可以参考我讲的关于 Logistic 回归的故事:
 
-[](/logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2) [## Python 中的逻辑回归——如何工作的有用指南
-
-### 算法的详细解释以及如何用 Python 构建模型的有用示例
-
-towardsdatascience.com](/logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2) 
+</logistic-regression-in-python-a-helpful-guide-to-how-it-works-6de1ef0a2d2>  
 
 # **梯度增强树——基于实例的解释**
 
@@ -230,20 +226,8 @@ Pred Prob T2 (Obs7) = 1/(1+e^(0.82)) = 0.31
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加盟媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 此外，如果您对本文感兴趣，这里还有一些关于替代算法的资源。
 
-[](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) [## AdaBoost 机器学习算法:如何提高难以预测案例的性能
-
-### 对自适应 Boosting 算法及其与其他基于决策树的机器的区别的直观解释…
-
-towardsdatascience.com](/adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0) [](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069) [## 朴素贝叶斯分类器——如何在 Python 中成功使用？
-
-### 算法背后的理论的详细解释，以及 6 个 Python 例子
-
-towardsdatascience.com](/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069)
+</adaboost-algorithm-remarkably-capable-but-with-one-interesting-limitation-cf95905bf8a0>  </naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069> 

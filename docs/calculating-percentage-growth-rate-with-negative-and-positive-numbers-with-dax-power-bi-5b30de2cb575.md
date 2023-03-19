@@ -74,8 +74,4 @@ VAR _PREV_MONTH =
 
 **这个片段在 GitHub 上——叉出来！**
 
-**[](https://github.com/raymonbell01/Calculate-Percentage-Growth-Rate-with-DAX/commit/d873ff809c10ba6ed8f2ea3cca4f42e17acc3254) [## 创建百分比增长率 DAX raymonbell 01/用 DAX@d873ff8 计算百分比增长率
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/raymonbell01/Calculate-Percentage-Growth-Rate-with-DAX/commit/d873ff809c10ba6ed8f2ea3cca4f42e17acc3254)**
+**<https://github.com/raymonbell01/Calculate-Percentage-Growth-Rate-with-DAX/commit/d873ff809c10ba6ed8f2ea3cca4f42e17acc3254> **

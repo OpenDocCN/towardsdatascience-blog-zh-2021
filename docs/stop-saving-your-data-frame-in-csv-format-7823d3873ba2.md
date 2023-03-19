@@ -56,11 +56,7 @@ Pickle、Parquet、Feather 文件格式优于标准 CSV 格式，因为它们具
 
 读取熊猫数据框中的数据后，可以通过降级每个要素的数据类型来优化内存使用。阅读下述文章中的[以了解实现和用法:](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b)
 
-[](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) [## 为大型数据集优化 Pandas 的内存使用
-
-### 有效利用数据类型来防止内存崩溃
-
-towardsdatascience.com](/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b) 
+</optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b>  
 
 # 参考资料:
 

@@ -22,11 +22,7 @@
 
 有趣的是，虽然完全有可能在 Chrome books 或任何类似这样的轻量级笔记本电脑(或在某些情况下，手机)上进行数据科学研究，但重点当然仍然是网络浏览器。这里真正的问题是，考虑到我们现在必须使用的所有基于网络的解决方案来进行科学研究，这样的笔记本电脑对于数据科学家的日常使用是否可行。答案可能有点复杂，但是考虑到今年以及 IDE、计算机和服务器的技术水平，现在可能是开始考虑使用服务器而不是笨重的计算机的好时机。此外，如果您想了解更多关于将 Chromebook 转变为数据科学机器的信息，我实际上在大约 2 年前写了一篇文章，在这篇文章中，我使用了一台联想 C330 Chromebook，并且能够在 ARM-64 处理器上运行我所需要的一切，您可以在这里阅读:
 
-[](/how-i-made-a-chromebook-my-data-science-daily-driver-af273ee47828) [## 我如何让 ChromeBook 成为我的数据科学日常驱动程序
-
-### 在 ChromeOS 中利用 Linux 和 android 应用
-
-towardsdatascience.com](/how-i-made-a-chromebook-my-data-science-daily-driver-af273ee47828) 
+</how-i-made-a-chromebook-my-data-science-daily-driver-af273ee47828>  
 
 # 优点和缺点
 
@@ -61,10 +57,6 @@ Google Colab 有许多令人惊叹的功能，而且访问起来非常方便。�
 
 如果您想了解 Jockey.jl 的更多信息，因为这个包还处于早期阶段(我仍在开发后端来处理所有的会话数据)，您可以查看 Jockey.jl Github 并查看我存储在那里的代码和文件。
 
-[](https://github.com/ChifiSource/Jockey.jl) [## GitHub-chifi source/Jockey . JL:Jockey IDE/笔记本服务器
-
-### 骑师 IDE/笔记本服务器。在 GitHub 上创建一个帐户，为 ChifiSource/Jockey.jl 的开发做出贡献。
-
-github.com](https://github.com/ChifiSource/Jockey.jl) 
+<https://github.com/ChifiSource/Jockey.jl>  
 
 谢谢你读这篇文章，它对我来说意味着整个世界。我希望在数据科学和人工智能方面有一个伟大的未来，希望这些项目有助于这样的事情。祝您有美好的一天，祝您数据科学工作愉快！

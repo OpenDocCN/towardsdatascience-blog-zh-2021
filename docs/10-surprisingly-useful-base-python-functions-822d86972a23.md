@@ -33,11 +33,7 @@ print(mean(x))
 
 如果你想阅读更多关于 Lambda 的内容，为什么我喜欢它，以及如何使用它，我也写了另一篇关于它的文章。这篇文章的伟大之处在于，它深入地展示了 Lambda 可以在 Python 中使用的各种技巧。看看吧！：
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+</scientific-python-with-lambda-b207b1ddfcd1>  
 
 # №2:舒蒂尔
 
@@ -108,19 +104,11 @@ python top.py --lines=5 examplefile.txt
 
 不用说，这肯定会派上用场。我使用这个模块的一些值得注意的情况是在使用 Crontab 时，它可以在特定的 Unix 时间戳运行脚本。此外，这个脚本还可以用于管理员，管理员在没有用户作为工作人员在场的情况下运行 Bash 命令。如果您想了解更多关于 crontab 的信息，我有一整篇文章在这里讲述我为什么喜欢它:
 
-[](/why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d) [## 为什么 CronTab 是终极数据科学后端工具
-
-### 为什么 CronJobs 被低估为简单自动化的支柱。
-
-towardsdatascience.com](/why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d) 
+</why-crontab-is-the-ultimate-data-science-back-end-tool-e3f212f2b13d>  
 
 此外，如果您想了解更多关于我用来部署 Pythonic 端点和网站的其他一些应用程序，我有一整篇文章详细介绍了 A-Z 部署，其中有一个自我训练的机器学习模型，您可以在这里查看:
 
-[](https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee) [## 建立一个自我训练的美丽模型！(简单的方法)
-
-### 结合开发运营和数据科学的元素，在 Ubuntu 上部署可扩展的自我训练模型。
-
-medium.com](https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee) 
+<https://medium.com/chifi-media/build-a-beautiful-model-that-trains-itself-the-easy-way-a0d31b611cee>  
 
 # №5: **导入** **回复**
 

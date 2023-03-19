@@ -26,11 +26,7 @@ SHAP 值用于解释模型做出的单个预测。它通过给出每个因素对
 
 本文假设您对数据交互有所了解。如果没有，下面的文章将是一个很好的阅读第一。在这里我们确切地解释什么是相互作用。使用与上面相同的数据集，我们还解释了可以用来分析它们的其他技术。这些可以是 SHAP 的一个很好的替代品。
 
-[](/finding-and-visualising-interactions-14d54a69da7c) [## 发现和可视化交互
-
-### 使用特征重要性、弗里德曼的 H-统计量和 ICE 图分析相互作用
-
-towardsdatascience.com](/finding-and-visualising-interactions-14d54a69da7c) 
+</finding-and-visualising-interactions-14d54a69da7c>  
 
 # 包装
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/finding-and-visualising-interactions-14d54a69da7c)
 
 现在我们有了模型，我们可以得到 SHAP 相互作用值。这些可以解释为类似于正常的 SHAP 值。如果你对解释这些不熟悉，下面的文章会很有帮助。这将使本文的其余部分更容易理解，因为所讨论的情节是相似的。
 
-[](/introduction-to-shap-with-python-d27edc23c454) [## Python SHAP 简介
-
-### 如何创造和解释 SHAP 情节:瀑布，力量，决定，SHAP 和蜂群
-
-towardsdatascience.com](/introduction-to-shap-with-python-d27edc23c454) 
+</introduction-to-shap-with-python-d27edc23c454>  
 
 为了计算 SHAP 交互值，在第 2 行，我们通过将模型传递给 TreeExplainer 函数来定义一个 explainer。该函数用于解释系综树模型的输出。使用第 3 行的解释器，我们得到交互值。这将返回一个数组，***【shap _ interaction】***，它包含 X 特征矩阵中 1000 个观察值中每一个的记录。
 
@@ -130,19 +122,11 @@ towardsdatascience.com](/introduction-to-shap-with-python-d27edc23c454)
 
 上面我们使用了 SHAP 相互作用值作为更多的探索性数据分析技术。也就是说，我们用它们来识别和可视化重要的相互作用。我们也可以使用这个包来帮助解释我们的模型。你可以用类似的方式使用它，除了我们的目标是理解我们的模型如何做出预测。我们将在下面的文章中详细解释为什么这很重要。
 
-[](/interpretability-in-machine-learning-ab0cf2e66e1) [## 机器学习中的可解释性
-
-### 为什么我们需要理解我们的模型如何做出预测
-
-towardsdatascience.com](/interpretability-in-machine-learning-ab0cf2e66e1) 
+</interpretability-in-machine-learning-ab0cf2e66e1>  
 
 支持我成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **:)**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+<https://conorosullyds.medium.com/membership>  
 
 |[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup) —注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

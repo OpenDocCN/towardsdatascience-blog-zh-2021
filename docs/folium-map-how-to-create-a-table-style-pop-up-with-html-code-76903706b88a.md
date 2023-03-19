@@ -72,11 +72,7 @@ df.info()和数据字典—按作者分类的图像
 
 如果您对 HTML 完全陌生，并且在理解代码方面有困难，请阅读我最近发表的关于 HTML 基础知识以及如何使用它将动态图像、链接和表格添加到 read 地图弹出窗口的文章，其中有对代码的详细解释！
 
-[](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190) [## 在树叶地图中使用 HTML:数据科学家综合指南
-
-### 逐步了解如何使用 HTML 将动态图像、链接、文本和表格添加到叶子地图弹出窗口
-
-towardsdatascience.com](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190) 
+</use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190>  
 
 ## 参考列表和数据源:
 

@@ -83,10 +83,6 @@
 
 👉**阅读本系列其他访谈:**
 
-[](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c) [## 你不会因为使用花哨的技术而变得更好，而是通过在基础上努力
-
-### 《元学习:如何学习深度学习并在学习中茁壮成长》一书的作者 Radek Osmulski 的访谈
-
-towardsdatascience.com](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c) 
+</you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c>  
 
 👉**期待与 Alexey 连线？在**[**Twitter**](http://@Al_Grigor)**和**[**LinkedIn**](https://www.linkedin.com/in/agrigorev/?originalSubdomain=de)**上关注他。**

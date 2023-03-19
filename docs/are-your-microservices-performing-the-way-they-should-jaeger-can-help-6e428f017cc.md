@@ -28,11 +28,7 @@
 
 根据经验，请记住:**我们监控系统并观察应用程序**。你还会听到人们使用术语*可观察性*来对这两个概念进行分组(即监控*和*可观察性)。如果您想了解更多关于监控和可观察性的信息，请查看以下内容:
 
-[](/monitoring-and-observability-in-cloud-native-architectures-54e68e52b103) [## 云本地架构中的监控和可观察性
-
-### 为什么监控对于云原生应用程序至关重要？有哪些工具可以完成这项工作？
-
-towardsdatascience.com](/monitoring-and-observability-in-cloud-native-architectures-54e68e52b103) 
+</monitoring-and-observability-in-cloud-native-architectures-54e68e52b103>  
 
 # 贼鸥
 

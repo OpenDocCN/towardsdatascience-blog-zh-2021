@@ -298,23 +298,11 @@ Firebase 中的队列内容[图片由作者提供]
 
 如果你喜欢我的文章，看看我的其他文章！
 
-[](/animating-yourself-as-a-disney-character-with-ai-78af337d4081) [## 用人工智能让你自己成为一个迪斯尼角色
-
-### 先睹为快数字艺术的未来
-
-towardsdatascience.com](/animating-yourself-as-a-disney-character-with-ai-78af337d4081) [](/generating-anime-characters-with-stylegan2-6f8ae59e237b) [## 使用 StyleGAN2 生成动画角色
-
-### 了解如何生成这个很酷的动画人脸插值
-
-towardsdatascience.com](/generating-anime-characters-with-stylegan2-6f8ae59e237b) 
+</animating-yourself-as-a-disney-character-with-ai-78af337d4081>  </generating-anime-characters-with-stylegan2-6f8ae59e237b>  
 
 也可以在 Linkedin 上和我联系。
 
-[](https://www.linkedin.com/in/mfathyrashad/) [## Muhammad Fathy Rashad -技术作家-中型| LinkedIn
-
-### 16 岁时，我作为大学最年轻的学生开始了我的学位，并出版了 2 款 2K+…
-
-www.linkedin.com](https://www.linkedin.com/in/mfathyrashad/) 
+<https://www.linkedin.com/in/mfathyrashad/>  
 
 # 参考
 

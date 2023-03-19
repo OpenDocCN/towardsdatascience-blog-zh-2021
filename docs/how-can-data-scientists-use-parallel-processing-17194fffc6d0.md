@@ -196,7 +196,7 @@ results = Parallel(n_jobs=8)(delayed(f)(x,y) for x,y in params)
 
 如果你想了解更多关于 [Python](https://amzn.to/2XPSiiG) 3 的知识，我想从密歇根大学调出一门关于学习[中级 Python](https://bit.ly/2XshreA) 的优秀课程。一定要去看看。
 
-将来我也会写更多初学者友好的帖子。在[](http://mlwhiz.medium.com)**关注我或者订阅我的 [**博客**](https://mlwhiz.ck.page/a9b8bda70c) 了解他们。一如既往，我欢迎反馈和建设性的批评，可以通过 Twitter [@mlwhiz](https://twitter.com/MLWhiz) 联系。**
+将来我也会写更多初学者友好的帖子。在<http://mlwhiz.medium.com>**关注我或者订阅我的 [**博客**](https://mlwhiz.ck.page/a9b8bda70c) 了解他们。一如既往，我欢迎反馈和建设性的批评，可以通过 Twitter [@mlwhiz](https://twitter.com/MLWhiz) 联系。**
 
 **此外，一个小小的免责声明——这篇文章中可能会有一些相关资源的附属链接，因为分享知识从来都不是一个坏主意。**
 

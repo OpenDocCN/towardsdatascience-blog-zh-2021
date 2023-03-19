@@ -242,10 +242,6 @@ git commit -m "remove todo file"
 
 # 相关职位
 
-[](/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) [## 每个程序员都应该知道的 17 个终端命令
+</17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e> [## 每个程序员都应该知道的 17 个终端命令
 
-towardsdatascience.com](/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) [](/the-ultimate-markdown-cheat-sheet-3d3976b31a0) [## 终极降价备忘单
-
-### 写一篇精彩的自述
-
-towardsdatascience.com](/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+towardsdatascience.com](/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) </the-ultimate-markdown-cheat-sheet-3d3976b31a0> 

@@ -50,6 +50,6 @@ ML-Collage [20/52]:数字改编自 Leavitt 和 Morcos (2021) |📝[论文](https
 
 这是这个月的🤗让我知道你最喜欢的论文是什么。如果你想获得一些每周 ML 拼贴输入，查看 Twitter 上的标签[# ML collage](https://twitter.com/hashtag/mlcollage)。你也可以在最后的总结中找到拼贴画📖博客帖子:
 
-[](/four-deep-learning-papers-to-read-in-may-2021-706e02071473) [## 2021 年 5 月要读的四篇深度学习论文
+</four-deep-learning-papers-to-read-in-may-2021-706e02071473> [## 2021 年 5 月要读的四篇深度学习论文
 
 towardsdatascience.com](/four-deep-learning-papers-to-read-in-may-2021-706e02071473)

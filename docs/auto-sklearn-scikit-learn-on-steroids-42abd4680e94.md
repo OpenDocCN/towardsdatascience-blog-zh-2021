@@ -253,11 +253,7 @@ y_proba = y_probas[:, clf.classes_.tolist().index(pos_label)]
 
 搜索最佳模型管线组件和超参数是一项重要的任务。幸运的是，有 AutoML 解决方案，如 Auto-Sklearn，可以帮助自动化这个过程。在本文中，我们研究了 Auto-Sklearn 如何使用元学习和贝叶斯优化来找到最佳模型管道并构建模型集成。Auto-Sklearn 是众多 AutoML 软件包中的一个。查看其他备选方案，如 [H2O 汽车](https://medium.com/@edwintan/automated-machine-learning-with-h2o-258a2f3a203f)。
 
-[](/automated-machine-learning-with-h2o-258a2f3a203f) [## H2O 的自动机器学习
-
-### 使用 AutoML 加速您的机器学习开发周期
-
-towardsdatascience.com](/automated-machine-learning-with-h2o-258a2f3a203f) 
+</automated-machine-learning-with-h2o-258a2f3a203f>  
 
 你可以在这里找到本文[中使用的演示代码。](https://colab.research.google.com/drive/1IaM7Zj8z5lMoTX20qusekGPfd05tl1nL?usp=sharing)
 

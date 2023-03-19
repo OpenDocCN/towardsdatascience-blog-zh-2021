@@ -44,12 +44,4 @@
 
 # 参考
 
- [## 未经认证
-
-### 如果你在一个内部网络上，并且你信任可以访问服务器的用户，那么设置一个包的最简单的方法是…
-
-swri-robotics.github.io](https://swri-robotics.github.io/bag-database/installation/docker/without-authentication) [](https://github.com/swri-robotics/bag-database) [## swri-机器人/箱包-数据库
-
-### Bag 数据库是一个基于 web 的应用程序，它监视 ROS bag 文件的目录，解析它们的元数据，并…
-
-github.com](https://github.com/swri-robotics/bag-database)
+  <https://github.com/swri-robotics/bag-database> 

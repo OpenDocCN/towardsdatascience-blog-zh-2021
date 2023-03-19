@@ -61,11 +61,7 @@ Matplotlib 小部件是一个方便的工具，它的主要优点是不需要在
 
 阅读下面提到的[的文章](/interactive-data-visualization-167ae26016e8)作者 [Pier Paolo Ippolito](https://medium.com/u/b8391a6a5f1a?source=post_page-----8a6d1673ba2d--------------------------------) 可以更好地了解其他绘图库，包括 Plotly、Bokeh 等。
 
-[](/interactive-data-visualization-167ae26016e8) [## 交互式数据可视化
-
-### 使用 Python 库(如:Plotly、Bokeh…)创建用于数据可视化的交互式绘图和微件
-
-towardsdatascience.com](/interactive-data-visualization-167ae26016e8) 
+</interactive-data-visualization-167ae26016e8>  
 
 # 参考资料:
 

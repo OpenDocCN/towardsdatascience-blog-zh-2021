@@ -17,11 +17,7 @@
 
 # 用模糊不清的东西搜索
 
-[](https://github.com/seatgeek/fuzzywuzzy) [## seatgeek/fuzzywuzzy
-
-### 像老板一样的模糊字符串匹配。它使用 Levenshtein 距离来计算序列间的差异
-
-github.com](https://github.com/seatgeek/fuzzywuzzy) 
+<https://github.com/seatgeek/fuzzywuzzy>  
 
 FuzzyWuzzy 是一个很棒的 python 库，可以用来完成模糊搜索工作。本质上，它使用 [Levenshtein 距离](https://en.wikipedia.org/wiki/Levenshtein_distance)来计算序列之间的差异/距离。
 
@@ -89,21 +85,13 @@ FuzzyWuzzy 的输出
 
 # 用 HMNI 搜索
 
-[](https://github.com/Christopher-Thornton/hmni) [## 克里斯托弗·桑顿/hmni
-
-### 基于机器学习的模糊姓名匹配。执行常见的模糊名称匹配任务，包括相似性评分…
-
-github.com](https://github.com/Christopher-Thornton/hmni) 
+<https://github.com/Christopher-Thornton/hmni>  
 
 一般来说，HMNI 是一个遵循应用软逻辑来近似拼写和**语音**(声音)特征的认知过程的库。
 
 一篇值得探索的好文章:
 
-[](/fuzzy-name-matching-with-machine-learning-f09895dce7b4) [## 基于机器学习的模糊姓名匹配
-
-### 用于语义名称匹配的堆叠语音算法、字符串度量和字符嵌入
-
-towardsdatascience.com](/fuzzy-name-matching-with-machine-learning-f09895dce7b4) 
+</fuzzy-name-matching-with-machine-learning-f09895dce7b4>  
 
 为了测试 HMNI 的模糊名称匹配性能，我们可以遵循与 FuzzyWuzzy 相同的步骤。
 

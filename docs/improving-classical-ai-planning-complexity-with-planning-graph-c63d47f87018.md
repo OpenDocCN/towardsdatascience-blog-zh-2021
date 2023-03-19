@@ -30,11 +30,7 @@
 
 这种方法本身相当复杂，我们不打算在这里讨论细节，如果你有兴趣了解更多，你可以阅读这篇文章:
 
-[](https://medium.com/swlh/plan-space-search-2d877b4ab231) [## 平面空间搜索
-
-### 在平面空间而不是状态空间中搜索解决方案，这是解决规划问题的另一种方法。
-
-medium.com](https://medium.com/swlh/plan-space-search-2d877b4ab231) 
+<https://medium.com/swlh/plan-space-search-2d877b4ab231>  
 
 ## 改善空间的大小
 

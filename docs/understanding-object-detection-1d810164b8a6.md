@@ -30,11 +30,7 @@ ResNet 表现优于人类(作者注释)
 
 在本教程中，我们将学习使用 R-CNN 和 YOLO 快速检测物体的方法。
 
-[](/understanding-cnn-convolutional-neural-network-69fd626ee7d4) [## 了解 CNN(卷积神经网络)
-
-### 你学习图像分类深度学习的第一步
-
-towardsdatascience.com](/understanding-cnn-convolutional-neural-network-69fd626ee7d4) 
+</understanding-cnn-convolutional-neural-network-69fd626ee7d4>  
 
 # 物体检测的一般步骤是什么？
 
@@ -117,11 +113,7 @@ SSD 通过从每个卷积层计算包围盒和图像分类来关注速度。SSD 
 
 用 GPU 运行这个 colab 大概需要 1 个小时。请随意打开下面的 colab 并开始使用:)
 
- [## intro _ to _ Object _ Detection _ with _ R _ CNN . ipynb
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/15tL9uQXk5T8x1k1sRItW2sdhBqN_nu0O/view?usp=sharing) 
+  
 
 ## 图书馆
 
@@ -242,11 +234,7 @@ detection_model, optimizer, to_fine_tune)
 
 ## 报纸
 
-[](https://arxiv.org/abs/1611.10012) [## 现代卷积目标探测器的速度/精度权衡
-
-### 本文的目标是作为选择检测架构的指南，以实现正确的
-
-arxiv.org](https://arxiv.org/abs/1611.10012) 
+<https://arxiv.org/abs/1611.10012>  
 
 # 关于作者
 

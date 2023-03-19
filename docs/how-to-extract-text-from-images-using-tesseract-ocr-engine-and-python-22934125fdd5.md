@@ -84,12 +84,4 @@ dog.
 
 查看我关于 Python 的其他帖子。
 
-[](/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0) [## 如何将 Python 无服务器功能部署到 Vercel
-
-### 让基础设施来承担重担。
-
-towardsdatascience.com](/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0) [](/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475) [## 如何使用 Python 无服务器函数连接到 PostgreSQL 数据库
-
-### 使用 Heroku 和 Vercel
-
-towardsdatascience.com](/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475)
+</how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0>  </how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475> 

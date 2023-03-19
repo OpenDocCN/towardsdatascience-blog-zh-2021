@@ -23,11 +23,7 @@
 
 如果你对从零开始建立你的技能感兴趣，那么看看这篇文章。我提供了一些资源来帮助非编程背景的人。可以从基于浏览器的平台开始学习编程。无需安装各种工具。它将涵盖成为数据科学家所需的所有主题。
 
-[](/how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f) [## 如何在 6 个月内从非编码人员成长为数据科学家
-
-### 包含所有必需资源的完整指南
-
-towardsdatascience.com](/how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f) 
+</how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f>  
 
 ## 建立投资组合
 
@@ -39,21 +35,13 @@ Kaggle 是学习构建项目的一个简单的地方。这里有向全球领先�
 
 通过构建项目来学习数据科学是另一种在学习过程中构建令人惊叹的投资组合的有效方式。它会让你接触到许多真实的问题，这将帮助你比通过任何教程或笔记更好地理解概念。这将有助于你从同龄人中脱颖而出。下面的文章将帮助你学习，同时为你的投资组合建立项目。
 
-[](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) [## 通过做项目完全学习数据科学的分步指南
-
-### 建立一个文件夹，在学习的过程中做好工作准备
-
-towardsdatascience.com](/a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef) 
+</a-step-by-step-guide-to-completely-learn-data-science-by-doing-projects-d7b6a99381ef>  
 
 如果您正在寻找一些使用数据科学来解决的现实问题。 [DrivenData](https://www.drivendata.org/about/) 是一个挑战问题的平台，有助于对环境和人类产生影响。此外，像 [DataKind](https://www.datakind.org/about) 这样的社区将领先的数据科学家聚集在一起，致力于具有社会影响的事业。这将是一个合作、建设和向行业专家学习的好地方。
 
 一旦你有了项目，下一步就是建立一个组合网站来展示你的工作。下面的文章将有助于建立一个免费的投资组合网站。你不需要任何用户界面/UX 体验，你可以在几个小时内创建一个。个人投资组合网站是一份数字简历，有助于建立你在数据科学领域的声望。
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) [## 如何免费创建一个令人惊叹的个人投资组合网站
-
-### 帮助你创建一个简单的指南。不需要专业知识！
-
-towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) 
+</how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd>  
 
 为什么有一个作品集网站很重要？大多数数据科学职位空缺都会吸引大量的申请。招聘团队很难找到合适的候选人。拥有一个投资组合网站会帮助你脱颖而出。
 
@@ -71,11 +59,7 @@ towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for
 
 另一个写你的工作的地方是 Kaggle 笔记本。它允许人们用清晰的文档发布他们的作品。下面的笔记本是一个正在学习机器学习的用户写的，他第一次尝试编写脚本和文档。
 
-[](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic) [## 探索泰坦尼克号上的生存
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Titanic 的数据-灾难中的机器学习
-
-www.kaggle.com](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic) 
+<https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic>  
 
 上述文档显示了用户的知识。这是招聘人员所期待的简单事情。学习和理解这些概念很重要。但更重要的是写出来。这将有助于提高你的身份。这有助于你和其他志同道合的人建立联系。最重要的是，这会带来一些有趣的机会。
 
@@ -83,11 +67,7 @@ www.kaggle.com](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic
 
 简历在你找工作的过程中起着重要的作用。许多组织部署软件来筛选应用程序。没有好的简历是没有任何借口的。有一些在线工具有一些令人惊讶的模板。此外，创建令人印象深刻的简历也有一些规则和技巧。要了解更多，请阅读下面的文章。
 
-[](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) [## 如何打造令人印象深刻的数据科学简历？
-
-### 制作一份引人注目的有影响力的简历的建议
-
-towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) 
+</how-to-build-an-impressive-data-science-resume-7a9c71f761c5>  
 
 ## 建立关系网和有一个导师
 

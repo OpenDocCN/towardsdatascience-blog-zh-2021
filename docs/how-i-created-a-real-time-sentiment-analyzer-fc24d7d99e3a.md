@@ -69,10 +69,6 @@ TextBlob 是一个基于 NLTK 的开源 Python 库，提供易于使用的 API�
 
 在这个实验中，我们使用了来自 TextBlob 库的预先训练的情感分类器模型。还有一些其他的技术来开发一个情感分析模型，阅读下面的文章来获得这些方法实现的概述。
 
-[](/5-ways-to-develop-a-sentiment-analyser-in-machine-learning-e8352872118) [## 在机器学习中开发情感分析器的 5 种方法
-
-### 探索不同的方法来开发一个模型来预测给定文本的情感
-
-towardsdatascience.com](/5-ways-to-develop-a-sentiment-analyser-in-machine-learning-e8352872118) 
+</5-ways-to-develop-a-sentiment-analyser-in-machine-learning-e8352872118>  
 
 > 感谢您的阅读

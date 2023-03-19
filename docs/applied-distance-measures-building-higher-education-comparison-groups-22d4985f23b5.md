@@ -157,11 +157,7 @@ boardamtX                                                 4275
 
 如果你有观察个体的数据，这种技术也可以找到相似的个体。例如，继续本科生入学的主题，考虑一下 Wiscesota 的一个场景，招生主任想要寻找一种新的方法来识别有可能在该机构表现良好的学生。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) ![](img/a9c3e9bc8b4b56a6f772b18fe5b25245.png)
+<https://adamrossnelson.medium.com/membership>  ![](img/a9c3e9bc8b4b56a6f772b18fe5b25245.png)
 
 照片由[泰在](https://unsplash.com/@taiscaptures?utm_source=medium&utm_medium=referral) [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上抓拍
 

@@ -52,11 +52,7 @@ from wordcloud import WordCloud
 
 要了解如何生成 TF-IDF 矩阵，您可以在这里查看我以前的文章。：
 
-[](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) [## TF-IDF:总统就职演说的可视化解释器和 Python 实现
-
-### 曾经被要求向非技术观众解释 TF-IDF 吗？这是 TF-IDF(术语频率-反…
-
-towardsdatascience.com](/tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550) 
+</tf-idf-a-visual-explainer-and-python-implementation-on-presidential-inauguration-speeches-2a7671168550>  
 
 基于我的 TF-IDF 矩阵，我想要一个数据帧，其中每一列是一个文档，每一行是一个单词及其每个文档的 TF-IDF 值。
 
@@ -152,8 +148,4 @@ plt.savefig('biden_wc.png')
 
 在这里打开这项研究的结果:
 
-[](https://anupamagarla.medium.com/comparing-inaugural-addresses-democracy-is-to-dreams-as-biden-is-to-trump-8a1aaeba5f9c) [## 比较就职演说:民主之于梦想，正如拜登之于特朗普
-
-### 使用自然语言处理工具的比较内容分析。
-
-anupamagarla.medium.com](https://anupamagarla.medium.com/comparing-inaugural-addresses-democracy-is-to-dreams-as-biden-is-to-trump-8a1aaeba5f9c)
+<https://anupamagarla.medium.com/comparing-inaugural-addresses-democracy-is-to-dreams-as-biden-is-to-trump-8a1aaeba5f9c> 

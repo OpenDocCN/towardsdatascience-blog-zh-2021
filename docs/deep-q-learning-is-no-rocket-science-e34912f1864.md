@@ -253,19 +253,7 @@ prediction = self.q.forward(states_batch).gather(1,actions_batch.unsqueeze(1)).s
 
 # 作者相关文章
 
-[](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [## 具有策略梯度的 Snake 深度强化学习
-
-### 策略梯度深度强化学习在蛇游戏中的应用
-
-towardsdatascience.com](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) [](/how-you-can-use-gpt-j-9c4299dd8526) [## 如何使用 GPT J
-
-### GPT J 解释了 3 种简单的方法，你可以如何访问它
-
-towardsdatascience.com](/how-you-can-use-gpt-j-9c4299dd8526) 
+</snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054>  </backpropagation-in-neural-networks-6561e1268da8>  </how-you-can-use-gpt-j-9c4299dd8526>  
 
 ## 想联系支持我？
 

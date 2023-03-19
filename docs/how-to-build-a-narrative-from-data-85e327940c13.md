@@ -104,19 +104,7 @@
 
 # 相关文章
 
-[](/how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32) [## 如何为数据科学构建高影响力的图表
-
-### 提高数据可视化技能的一些技巧
-
-towardsdatascience.com](/how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32) [](/can-context-analysis-help-extract-meaningful-insights-178a21a88e9f) [## 上下文分析能帮助提取有意义的见解吗？
-
-### 通过上下文分析从数据中提取有意义见解的三种策略
-
-towardsdatascience.com](/can-context-analysis-help-extract-meaningful-insights-178a21a88e9f) [](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4) [## 数据新闻和数据科学是一回事吗？
-
-### 答案是否定的，我会解释原因
-
-pub.towardsai.net](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4) 
+</how-to-build-high-impact-graphs-for-data-science-55ce19d1ab32>  </can-context-analysis-help-extract-meaningful-insights-178a21a88e9f>  <https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4>  
 
 # 人工智能内容作者能帮助数据科学家吗？
 

@@ -10,11 +10,7 @@ PDF 到有声读物
 
 最终界面托管在 Gradio hub！
 
-[](https://gradio.app/hub/aliabd/text_speech) [## 文字 _ 语音
-
-### 编辑描述
-
-gradio.app](https://gradio.app/hub/aliabd/text_speech) 
+<https://gradio.app/hub/aliabd/text_speech>  
 
 # **简介**
 

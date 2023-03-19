@@ -82,11 +82,7 @@ Linux/Mac 终端教程:[导航您的文件系统](https://www.youtube.com/watch?
 
 我已经在简单的数据集上应用了一些机器学习，所以请随意查看我到目前为止所做的工作:
 
-[](https://www.kaggle.com/renatoboemer/pokemon-datasets-for-ml) [## 口袋妖怪数据集
-
-### 使用口袋妖怪数据集的初学者机器学习
-
-www.kaggle.com](https://www.kaggle.com/renatoboemer/pokemon-datasets-for-ml) 
+<https://www.kaggle.com/renatoboemer/pokemon-datasets-for-ml>  
 
 ## **结论**
 
@@ -99,11 +95,7 @@ www.kaggle.com](https://www.kaggle.com/renatoboemer/pokemon-datasets-for-ml)
 *   **🔔关注我:**[**LinkedIn**](https://www.linkedin.com/in/renatoboemer/)**|**[**中**](https://boemer.medium.com/)|**|**[**GitHub**](https://github.com/boemer00)
 *   *🚀👉* ***加入*** [***中等会员计划***](https://boemer.medium.com/membership) ***继续无限制学习。如果你使用下面的链接，我会收到一小部分会员费，不需要你额外付费。***
 
-[](/ensure-model-reliability-with-unit-testing-589292e6f0e2) [## 通过单元测试确保模型的可靠性
-
-### 在开发过程的早期捕捉错误
-
-towardsdatascience.com](/ensure-model-reliability-with-unit-testing-589292e6f0e2) 
+</ensure-model-reliability-with-unit-testing-589292e6f0e2>  
 
 **参考文献:**
 

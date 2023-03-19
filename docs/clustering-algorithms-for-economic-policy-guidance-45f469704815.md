@@ -130,18 +130,6 @@ T 创新的魔力总是产生于不同知识的融合。在那里，固执的学
 
 在我的博客上订阅时事通讯，我正在那里为未来的出版物建立读者群。我的推特账号是 **@warsame_words** ，我欢迎反馈和建设性的批评——对于后者， [LinkedIn](https://www.linkedin.com/in/mohamed-warsame-428136153/) 是一个受欢迎的渠道。谢谢你陪我走完这段旅程。在 Medium 上关注我，了解我的最新数据相关文章，例如:
 
-[](/data-for-good-somalia-drought-management-e882355a98e0) [## 数据造福人类——索马里干旱管理
+</data-for-good-somalia-drought-management-e882355a98e0>  </data-analyst-vs-data-scientist-a83af97ad472>  </fake-news-everywhere-how-to-detect-it-with-sota-nlp-f2dc1e07247c> [## 无处不在的假新闻:如何用 SOTA NLP 检测
 
-### 应用数据科学和分析应对全球变暖引发的环境挑战。端到端项目，包括…
-
-towardsdatascience.com](/data-for-good-somalia-drought-management-e882355a98e0) [](/data-analyst-vs-data-scientist-a83af97ad472) [## 数据分析师与数据科学家
-
-### 比较分析的作用和责任，重叠点和期望的最性感的工作…
-
-towardsdatascience.com](/data-analyst-vs-data-scientist-a83af97ad472) [](/fake-news-everywhere-how-to-detect-it-with-sota-nlp-f2dc1e07247c) [## 无处不在的假新闻:如何用 SOTA NLP 检测
-
-towardsdatascience.com](/fake-news-everywhere-how-to-detect-it-with-sota-nlp-f2dc1e07247c) [](/ethical-data-work-lessons-on-technical-data-protection-e6ab2d0c6571) [## 道德数据工作:技术数据保护的教训
-
-### 一个初学者友好的教程，探索伦理数据科学-阐明一个人如何可以与数据工作，而…
-
-towardsdatascience.com](/ethical-data-work-lessons-on-technical-data-protection-e6ab2d0c6571)
+towardsdatascience.com](/fake-news-everywhere-how-to-detect-it-with-sota-nlp-f2dc1e07247c) </ethical-data-work-lessons-on-technical-data-protection-e6ab2d0c6571> 

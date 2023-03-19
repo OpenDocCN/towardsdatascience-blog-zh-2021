@@ -317,8 +317,4 @@ poetry self update
 
 查看本指南的第 1 部分，学习如何用传统的方式向 PyPI 发布 setup.py，一些其他的技巧，再加上一些幽默。那天我运气很好:
 
-[](https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f) [## 包第 1 部分:如何将 Python 包发布到 PyPI
-
-### 嘿！欢迎阅读这份关于如何将 python 包发布到 PyPI 的快速、有趣的指南。
-
-medium.com](https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f)
+<https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f> 

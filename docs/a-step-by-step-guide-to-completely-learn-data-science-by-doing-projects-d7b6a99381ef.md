@@ -46,11 +46,7 @@ Kaggle 上有超过 500 万注册用户。超过 500 万人注册了至少一门
 
 这个项目的棘手之处在于，它需要从许多页面中提取数据。要了解如何从 IMDB 中提取所有需要的数据，请查看下面的这篇文章。这个概念可以应用于废弃来自任何公共来源的数据。
 
-[](https://betterprogramming.pub/how-to-scrape-multiple-pages-of-a-website-using-a-python-web-scraper-4e2c641cff8) [## 如何使用 Python Web Scraper 抓取网站的多个页面
-
-### 提取数据并确保数据质量
-
-better 编程. pub](https://betterprogramming.pub/how-to-scrape-multiple-pages-of-a-website-using-a-python-web-scraper-4e2c641cff8) 
+<https://betterprogramming.pub/how-to-scrape-multiple-pages-of-a-website-using-a-python-web-scraper-4e2c641cff8>  
 
 将这个数据集与来自社交媒体的数据结合起来，将会产生一些很酷的见解。社交媒体数据可以包括主要人物的追随者和社会影响力。这将有助于使你的工作独特而有趣。在下一节中，我们将看到更多关于从数据中提取洞察力的内容。
 
@@ -66,15 +62,7 @@ better 编程. pub](https://betterprogramming.pub/how-to-scrape-multiple-pages-o
 
 要了解更多关于提取洞察力的信息，请查看下面的笔记本。它有助于理解探索性数据分析中的常用技术和方法。
 
-[](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) [## 使用 Python 进行全面的数据探索
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用房价数据-高级回归…
-
-www.kaggle.com](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) [](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) [## 话题 1。熊猫的探索性数据分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 mlcourse.ai 的数据
-
-www.kaggle.com](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) 
+<https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python>  <https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas>  
 
 要进行全面的数据分析，需要遵循以下要求:
 
@@ -88,11 +76,7 @@ www.kaggle.com](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analy
 
 总是从询问更多关于数据集的问题开始。这里的关键是对问题有最好的理解。许多数据科学项目由于缺乏对实际根本原因的关注而失败。下面的文章讨论了如何使用心智模型来更好地理解问题并取得成功。
 
-[](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) [## 5 个心智模型有助于提升您的数据科学职业生涯
-
-### 激发超级思维的简单框架
-
-towardsdatascience.com](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) 
+</5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f>  
 
 ## 寻找模式
 
@@ -132,15 +116,7 @@ towardsdatascience.com](/5-mental-models-to-help-boost-your-data-science-career-
 
 首先，参考下面的 kaggle 笔记本来更好地理解监督学习算法。这些记录良好的脚本将帮助您正确理解解决监督学习问题的步骤和标准。第一个是关于回归问题，第二个是关于分类。
 
-[](https://www.kaggle.com/faressayah/linear-regression-house-price-prediction) [## 线性回归📈房子🏡价格💵预言；预测；预告
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/faressayah/linear-regression-house-price-prediction) [](https://www.kaggle.com/alexisbcook/titanic-tutorial) [## 泰坦尼克号教程
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Titanic 的数据-灾难中的机器学习
-
-www.kaggle.com](https://www.kaggle.com/alexisbcook/titanic-tutorial) 
+<https://www.kaggle.com/faressayah/linear-regression-house-price-prediction>  <https://www.kaggle.com/alexisbcook/titanic-tutorial>  
 
 边做边学的目标是获得尽可能多的实践机会来提高理解能力。使用上述脚本作为参考，并求解以下数据集。为了做得更好，确保你花足够的时间阅读 kaggle 论坛。论坛是信息的金矿。他们有许多有趣的技术和技巧来更好地解决问题。
 
@@ -158,19 +134,11 @@ www.kaggle.com](https://www.kaggle.com/alexisbcook/titanic-tutorial)
 
 ***回归问题:*** 这个问题所附带的数据集是房价。它将帮助你了解回归问题和用来解决它们的算法。这个特定的数据集有超过 75 个描述属性的属性。这将帮助您在解决回归问题时掌握特性选择和其他典型问题。
 
-[](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) [## 房价——高级回归技术
-
-### 预测销售价格并实践特征工程、RFs 和梯度推进
-
-www.kaggle.com](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) 
+<https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data>  
 
 ***分类问题:*** 分类问题就是我们把数据分类成类的问题。下面的例子是一个二元分类问题。这里有一个健康保险公司想预测他们的客户对汽车保险的兴趣。像回归问题一样，总是从分析数据集开始。对数据理解得越好，预测结果就越好。
 
-[](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv) [## 健康保险交叉销售预测🏠 🏥
-
-### 预测健康保险所有者对汽车保险的兴趣
-
-www.kaggle.com](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv) 
+<https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv>  
 
 在解决这些问题时，重点是
 
@@ -186,19 +154,11 @@ www.kaggle.com](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-pr
 
 首先，让我们了解一下使用商场客户细分问题的聚类算法。它是根据提供的信息创建不同的客户群。一旦确定了集群，我们就不会停止。我们可以进一步分析，以了解一个集群内的相似性和集群之间的不同之处。下面是一个示例脚本，清晰地记录了如何处理集群问题。
 
-[](https://www.kaggle.com/roshansharma/mall-customers-clustering-analysis) [## 商场顾客聚类分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
-
-www.kaggle.com](https://www.kaggle.com/roshansharma/mall-customers-clustering-analysis) 
+<https://www.kaggle.com/roshansharma/mall-customers-clustering-analysis>  
 
 现在让我们放大并求解传感器数据。这将有助于了解如何使用物联网设备产生的数据。同时更容易处理和理解人类可读的数据，如客户简档数据。传感器数据通常很棘手，因为它们需要更多的分析来提取洞察力。直接查看数据集时，洞察通常是不可见的。
 
-[](https://www.kaggle.com/uciml/electric-power-consumption-data-set) [## 家庭电力消耗
-
-### 时间序列分析-回归/聚类
-
-www.kaggle.com](https://www.kaggle.com/uciml/electric-power-consumption-data-set) 
+<https://www.kaggle.com/uciml/electric-power-consumption-data-set>  
 
 这个例子将帮助您更好地理解集群问题。学习时应重点关注以下方面:
 
@@ -220,11 +180,7 @@ www.kaggle.com](https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
 如果你是自然语言处理的新手，那么首先参考这里的[介绍性脚本](https://www.kaggle.com/philculliton/nlp-getting-started-tutorial)。它有助于理解处理和解决 NLP 问题。然后利用所学知识处理下面的数据集。
 
-[](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification) [## 冠状病毒推文 NLP -文本分类
-
-### 电晕病毒标记数据
-
-www.kaggle.com](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification) 
+<https://www.kaggle.com/datatattle/covid-19-nlp-text-classification>  
 
 ## 计算机视觉问题
 
@@ -244,37 +200,21 @@ www.kaggle.com](https://www.kaggle.com/datatattle/covid-19-nlp-text-classificati
 
 以下两个数据集略有不同。第一个是关于识别狗的品种，这是一个典型的图像识别问题。解决这个问题将使您获得关于图像识别问题所涉及的步骤的第一手经验。
 
-[](https://www.kaggle.com/c/dog-breed-identification/data) [## 犬种识别
-
-### 确定图像中狗的品种
-
-www.kaggle.com](https://www.kaggle.com/c/dog-breed-identification/data) 
+<https://www.kaggle.com/c/dog-breed-identification/data>  
 
 下面的数据集是关于对象检测的，这里的目标是正确识别图像中的对象。下面的数据集是一组船只的卫星图像，这里的问题是识别每张图片中出现的所有船只。这需要大量的训练，因为在某些情况下，船只会非常小，或者与背景融为一体。
 
-[](https://www.kaggle.com/andrewmvd/ship-detection) [## 航拍图像中的舰船检测
-
-### 621 张船和船的图片。
-
-www.kaggle.com](https://www.kaggle.com/andrewmvd/ship-detection) 
+<https://www.kaggle.com/andrewmvd/ship-detection>  
 
 ## 推荐系统
 
 推荐系统是一种非常有趣的技术，在商业中很流行。这项技术已经帮助许多组织改善了销售和客户体验。根据这份[麦肯锡的行业报告](https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-keep-up-with-consumers)，亚马逊大约 35%的销售额来自其推荐系统。此外，75%的人会在网飞上观看推荐给他们的内容。
 
-[](https://grouplens.org/datasets/movielens/) [## 莫维伦斯
-
-### 2500 万电影收视率。稳定的基准数据集。2500 万个评级和 100 万个标签应用程序适用于…
-
-grouplens.org](https://grouplens.org/datasets/movielens/) 
+<https://grouplens.org/datasets/movielens/>  
 
 如果你想了解一个推荐系统的实现，请点击下面的链接。它会让你对推荐系统的工作有一个很好的认识。
 
-[](https://www.kaggle.com/rounakbanik/movie-recommender-systems) [## 电影推荐系统
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自电影数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/rounakbanik/movie-recommender-systems) 
+<https://www.kaggle.com/rounakbanik/movie-recommender-systems>  
 
 # 4.提高沟通技巧和炫耀
 
@@ -286,21 +226,13 @@ www.kaggle.com](https://www.kaggle.com/rounakbanik/movie-recommender-systems)
 
 拥有一个作品集网站可以传达一个关于你技能的强烈信息。作品集网站就像是在线版的简历。包括你所有的工作和成就。如果你有兴趣学习如何使用 GitHub 页面免费创建一个作品集网站，
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) [## 如何免费创建一个令人惊叹的个人投资组合网站
-
-### 帮助你创建一个简单的指南。不需要专业知识！
-
-towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) 
+</how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd>  
 
 ## 制作一份真正好的简历
 
 最后一步是创建一份令人印象深刻的简历。如果没有一份好的简历，你到目前为止所获得的知识量没有多大意义。有一些工具和技巧可以写出一份有影响力的简历。这里有一篇文章可以帮助你为自己准备一个。
 
-[](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) [## 如何打造令人印象深刻的数据科学简历？
-
-### 制作一份引人注目的有影响力的简历的建议
-
-towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) 
+</how-to-build-an-impressive-data-science-resume-7a9c71f761c5>  
 
 # 结束语
 
@@ -314,12 +246,4 @@ towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f7
 
 # 如果你觉得这很有趣，你可能也会喜欢，
 
-[](/how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f) [## 如何在 6 个月内从非编码人员成长为数据科学家
-
-### 包含所有必需资源的完整指南
-
-towardsdatascience.com](/how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f) [](/how-to-use-kaggle-to-master-data-science-1467d45788ea) [## 如何使用 Kaggle 掌握数据科学
-
-### 向世界上最好的数据科学家学习
-
-towardsdatascience.com](/how-to-use-kaggle-to-master-data-science-1467d45788ea)
+</how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f>  </how-to-use-kaggle-to-master-data-science-1467d45788ea> 

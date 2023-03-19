@@ -101,11 +101,7 @@ SIR 模型用下列常微分方程组描述了 *S* ( *t* )、 *I* ( *t* )和 *R*
 
 为了更好地理解蒙特卡罗模拟如何帮助量化模型预测的不确定性，请看我在这里的帖子:
 
-[](/how-to-quantify-the-prediction-error-made-by-my-model-db4705910173) [## 利用蒙特卡罗量化模型预测误差
-
-### 蒙特卡洛模拟证明
-
-towardsdatascience.com](/how-to-quantify-the-prediction-error-made-by-my-model-db4705910173) 
+</how-to-quantify-the-prediction-error-made-by-my-model-db4705910173>  
 
 # 3.准备
 
@@ -231,11 +227,7 @@ towardsdatascience.com](/how-to-quantify-the-prediction-error-made-by-my-model-d
 
 **为了回答这些问题，我们需要进一步进行**全局灵敏度分析**和**稳健设计分析**。与前向不确定性量化一起，它们构成了计算科学和工程中**不确定性管理的主干。如果你想了解更多，请看看我在这里的帖子:****
 
-**[](/managing-uncertainty-in-computational-science-and-engineering-5e532085512b) [## 不确定性量化解释
-
-### 进行基于模型的可靠预测的实践
-
-towardsdatascience.com](/managing-uncertainty-in-computational-science-and-engineering-5e532085512b) 
+**</managing-uncertainty-in-computational-science-and-engineering-5e532085512b>  
 
 # 7.假设结果图
 
@@ -243,19 +235,11 @@ towardsdatascience.com](/managing-uncertainty-in-computational-science-and-engin
 
 假设结果图特别擅长于向更广泛的受众传达分析的不确定性，例如利益相关者、领域专家等。，不一定有很强的统计学背景。基本上，这种方法的工作原理是通过创建动画来循环多个不同的情节，每个情节模拟从结果分布中提取的一个可能的场景。更多详情，请查看我的帖子:
 
-[](/uncertainty-visualization-made-easy-with-hypothetical-outcome-plots-89558574d069) [## 假设结果图简化了不确定性可视化
-
-### 使用动画生动地呈现不确定性。
-
-towardsdatascience.com](/uncertainty-visualization-made-easy-with-hypothetical-outcome-plots-89558574d069) 
+</uncertainty-visualization-made-easy-with-hypothetical-outcome-plots-89558574d069>  
 
 下面，我们将使用`celluloid`包来创建动画。要查看如何使用`celluloid,`制作动画的详细教程，请点击此处:
 
-[](/a-hands-on-tutorial-for-creating-matplotlib-animations-254fc7d52ed6) [## 创建 Matplotlib 动画的实践教程
-
-### 在 Jupyter Notebook 中创建和显示动画的分步指南。
-
-towardsdatascience.com](/a-hands-on-tutorial-for-creating-matplotlib-animations-254fc7d52ed6) 
+</a-hands-on-tutorial-for-creating-matplotlib-animations-254fc7d52ed6>  
 
 该动画有两个目的:首先，它模拟了易感、感染和康复病例在各种𝛽−𝛾组合下的演变。此外，它还在散点图中捕获了感染病例的最高数量及其发生日期。
 
@@ -279,19 +263,7 @@ towardsdatascience.com](/a-hands-on-tutorial-for-creating-matplotlib-animations-
 
 一种解决方法是首先训练快速评估的替代模型来近似物理模拟。随后的蒙特卡罗模拟可以应用于训练的替代模型，以实现加速的正向不确定性量化分析。要了解更多，请查看我的帖子:
 
-[](/an-introduction-to-surrogate-modeling-part-i-fundamentals-84697ce4d241) [## 代理建模介绍，第一部分:基础知识
-
-### 加速工程设计的机器学习方法
-
-towardsdatascience.com](/an-introduction-to-surrogate-modeling-part-i-fundamentals-84697ce4d241) [](/an-introduction-to-surrogate-modeling-part-ii-case-study-426d8035179e) [## 代理建模介绍，第二部分:案例研究
-
-### 加速工程设计的机器学习方法
-
-towardsdatascience.com](/an-introduction-to-surrogate-modeling-part-ii-case-study-426d8035179e) [](/an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271) [## 代理建模介绍，第三部分:超越基础
-
-### 加速工程设计的机器学习方法
-
-towardsdatascience.com](/an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271) 
+</an-introduction-to-surrogate-modeling-part-i-fundamentals-84697ce4d241>  </an-introduction-to-surrogate-modeling-part-ii-case-study-426d8035179e>  </an-introduction-to-surrogate-modeling-part-iii-beyond-basics-a60125767271>  
 
 # 关于作者
 

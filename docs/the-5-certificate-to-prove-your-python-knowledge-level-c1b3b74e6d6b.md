@@ -14,11 +14,7 @@ Python 是许多应用程序流行和常用的编程语言之一。Python 是通
 
 在我们继续之前，我必须说，你并不真的需要一个证书来获得做 Python 的工作，只要你能证明你的知识。此外，拥有 Python 证书并不意味着你会马上得到这份工作，但这将是对你简历的宝贵补充。
 
-[](/5-ways-to-write-more-pythonic-code-a33069f968c) [## 编写更多 Pythonic 代码的 5 种方法
-
-### 提升代码的质量和 Python 代码的可读性
-
-towardsdatascience.com](/5-ways-to-write-more-pythonic-code-a33069f968c) 
+</5-ways-to-write-more-pythonic-code-a33069f968c>  
 
 作为开发人员或数据科学家，我们总是致力于提高我们的技能。我们总是在学习。我们一直在建设，有证书只会让我们的作品集或者简历更扎实。我们可以通过不同的在线平台学习 Python 或数据科学，免费或收费。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/5-ways-to-write-more-pythonic-code-a33069f968c)
 
 由于该测试的目标是入门级知识，因此它将侧重于核心 Python 概念和基本命令，如基本格式和输出方法、编译语言和解释语言之间的差异、基本数据类型和它们之间的转换，以及控制流语句(条件语句和循环)。它还涵盖了逻辑操作、函数、列表切片和字符串操作。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
-
-towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
-
-## №2:[PCAP(Python 编程认证助理)](https://pythoninstitute.org/certification/pcap-certification-associate/)
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> 
 
 接下来是中级证书，也就是 PCAP。由于这个测试比 PCEP 更高级，它包含更多的问题，需要更长的时间来完成，准确地说是 65 分钟。PCEP 测试费用为 294 美元，主要由选择题和基于 Python 3.x 的代码题组成
 
@@ -56,7 +48,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 PCPP2 解决了你写完 Python 代码并发布给公众后会发生什么。所以，它测试的是打包和分发代码到 PIP 的知识，打包设计模式，网络编程，处理和与数据库交互，以及测试你的工作。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -74,11 +66,7 @@ Python 证书的另一个已知来源是微软。目前，一个微软提供的�
 
 Python 是目前使用最多的编程语言之一。那是因为它用途广泛，可以用于各种应用领域。如果你正在做数据科学，研究一个科学课题，或者学习计算机科学，那么你很有可能曾经使用过 Python，现在还在使用它，或者计划将来学习和使用它。
 
-[](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) [## 2021 年要追求的 6 个机器学习证书
-
-### 在你的简历中写下这些会有很大的不同。
-
-towardsdatascience.com](/6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d) 
+</6-machine-learning-certificates-to-pursue-in-2021-2070e024ae9d>  
 
 因为这种多功能性，你可以为了特定的目的学习 Python，比如 web 开发的数据科学。因此，你可能会想参加这方面的证书考试。这可能会使获得 Python 中的通用证书变得不值得争论，但事实并非如此；获得通用 Python 证书有多种好处，包括:
 

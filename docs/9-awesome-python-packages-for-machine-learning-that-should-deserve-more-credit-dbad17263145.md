@@ -93,11 +93,7 @@ interpretML 项目的最后两个包，[**interpret-Text**](https://github.com/i
 
 **由 Yandex 开发的这个软件包在准确性、速度和可解释性方面令人惊叹。我写了一篇文章总结了它的能力。数据科学家通常知道 XGBoost，可能不太想了解其他类似的 boosting 库，如 CatBoost 或 LightGBM。但是 CatBoost 有这么多很酷的附加特性(可视化训练、可解释性工具……)，如果默认使用 XGBoost 就太可惜了。**
 
-**[](/why-you-should-learn-catboost-now-390fb3895f76) [## 为什么您现在应该学习 CatBoost
-
-### CatBoost 正在永远改变机器学习的游戏，变得更好。
-
-towardsdatascience.com](/why-you-should-learn-catboost-now-390fb3895f76) 
+**</why-you-should-learn-catboost-now-390fb3895f76>  
 
 ## [4-plaidml](https://github.com/plaidml/plaidml)
 

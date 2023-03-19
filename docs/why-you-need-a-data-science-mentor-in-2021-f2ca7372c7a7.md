@@ -58,16 +58,4 @@
 
 如果你想阅读更多，看看我下面的其他文章吧！
 
-[](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6) [## 数百份工作申请后的五大经验教训
-
-### 看看在我找工作的过程中，哪些变化对我有帮助
-
-towardsdatascience.com](/top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6) [](/top-8-most-common-questions-i-get-asked-as-a-data-scientist-9e333dfaea35) [## 作为数据科学家，我最常被问到的 8 个问题
-
-### 回答这些问题，我在和大学生交谈时最常被问到
-
-towardsdatascience.com](/top-8-most-common-questions-i-get-asked-as-a-data-scientist-9e333dfaea35) [](/effective-data-science-requires-strong-collaboration-with-data-engineering-88bde56d0701) [## 有效的数据科学需要与数据工程紧密合作
-
-### 学习如何在团队之间建立良好的沟通
-
-towardsdatascience.com](/effective-data-science-requires-strong-collaboration-with-data-engineering-88bde56d0701)
+</top-5-lessons-learned-after-hundreds-of-job-applications-fc2ff5a316c6>  </top-8-most-common-questions-i-get-asked-as-a-data-scientist-9e333dfaea35>  </effective-data-science-requires-strong-collaboration-with-data-engineering-88bde56d0701> 

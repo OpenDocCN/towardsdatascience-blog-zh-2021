@@ -14,11 +14,7 @@
 
 大多数时候，机器人是在某种类型的网络上运行的软件，通常是互联网。它们与其他机器人、网页甚至人类互动，寻找它们旨在解决的问题。如果我们想对机器人进行分类，我们可以定义两个通用类别，好机器人和坏机器人。
 
-[](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) [## 6 个网页抓取工具，让收集数据变得轻而易举
-
-### 任何数据科学项目的第一步都是数据收集。
-
-towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d) 
+</6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d>  
 
 “好的机器人”是一个用来描述帮助用户并提供有效服务的机器人的术语。坏的或恶意的机器人是那些执行非法且有时不道德的任务的机器人。但是，我们必须记住，机器人就像任何其他技术形态一样，没有好坏之分；相反，人们决定使用它们的方式决定了它们是好是坏。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/6-web-scraping-tools-that-make-collecting-data-a-breeze
 
 有很多聊天机器人，但第一个，也是被认为是聊天机器人诞生的人是伊莱扎。这个聊天机器人有硬连线的问答脚本，用于与人类交流。聊天机器人的其他例子有来自美洲银行的财政援助[埃里卡](https://promo.bankofamerica.com/erica/)，以及通过推特与人互动的微软人工智能聊天机器人[泰伊](https://twitter.com/tayandyou)。
 
-[](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) [## 每个数据科学家都应该知道的 6 种 NLP 技术
-
-### 迈向更高效的自然语言处理
-
-towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3) 
+</6-nlp-techniques-every-data-scientist-should-know-7cdea012e5c3>  
 
 ## **№2:爬虫**
 
@@ -64,11 +56,7 @@ towardsdatascience.com](/6-nlp-techniques-every-data-scientist-should-know-7cdea
 
 信息机器人最常见的用法是突发新闻机器人。这些机器人监控新闻，并在有事发生时发出警报。这种机器人的一个例子是 [GuardianBot](https://www.hubspot.com/bots/the-guardian) ，它允许你通过 Facebook Messenger 获得最新新闻的点播简报，以及 [GamerBot，](https://www.hubspot.com/bots/gamerbot)允许你通过 Facebook Messenger 获得特定点播内容的定期游戏新闻更新。
 
-[](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) [## 成为数据科学家的学习之路
-
-### 开启数据科学未来的 10 步路线图
-
-towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f) 
+</a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f>  
 
 # 在不良应用中使用的机器人(不良机器人)
 
@@ -90,11 +78,7 @@ towardsdatascience.com](/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae
 
 幸运的是，由于好的机器人和搜索引擎的发展，检测坏机器人的行为，垃圾邮件或任何垃圾邮件的数量在最近几年迅速下降。
 
-[](/4-software-development-techniques-to-level-up-your-data-science-project-59a44498ca3f) [## 提升数据科学项目的 4 种软件开发技术
-
-### 让您的项目更清晰、更高效、更专业
-
-towardsdatascience.com](/4-software-development-techniques-to-level-up-your-data-science-project-59a44498ca3f) 
+</4-software-development-techniques-to-level-up-your-data-science-project-59a44498ca3f>  
 
 ## **№4:模仿者**
 
@@ -106,11 +90,7 @@ towardsdatascience.com](/4-software-development-techniques-to-level-up-your-data
 
 作为数据科学家，我们有时需要比想象中更频繁地设计、构建、开发和处理机器人。不仅仅是作为数据科学家，如今每个人都至少每周与机器人打交道一次。这就是为什么知道什么是机器人和什么类型的机器人是一个很好的信息。
 
-[](/a-step-by-step-guide-to-web-scraping-in-python-5c4d9cef76e8) [## Python 中 Web 抓取的分步指南
-
-### 抓取任何有请求和美丽声音的网页
-
-towardsdatascience.com](/a-step-by-step-guide-to-web-scraping-in-python-5c4d9cef76e8) 
+</a-step-by-step-guide-to-web-scraping-in-python-5c4d9cef76e8>  
 
 我们可以用不同的方式对机器人进行分类；在本文中，我们根据使用方式对机器人进行了一般分类。机器人可以被构建并用于执行合法的、道德的任务，也可以被用于执行非法的任务。
 

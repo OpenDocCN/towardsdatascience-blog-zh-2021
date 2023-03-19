@@ -101,11 +101,7 @@ streamlit run index.py
 
 一如既往地感谢阅读，如果你想知道我什么时候发表新文章，请考虑在这里[注册一个电子邮件提醒](https://alan-jones.medium.com/subscribe)。我也偶尔在[子栈](https://technofile.substack.com/)上发布免费的时事通讯。请在下面留下任何评论，或者您可以通过 [LinkedIn](https://www.linkedin.com/in/alan-jones-032699100) 或 [Twitter](https://twitter.com/MrAlanJones) 联系。
 
-[](https://alanjones2.github.io/) [## AlanJones:编码、科学和技术
-
-### 我为数据可视化和类似的主题撰写文章、实践教程和应用程序——大部分是用 Python 写的(参见一些……
-
-alanjones2.github.io](https://alanjones2.github.io/) 
+<https://alanjones2.github.io/>  
 
 有趣的是，这里是调度程序代码:
 

@@ -190,19 +190,11 @@ gr.Interface 接受一个解释参数，该参数为我们提供了模式特征�
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) [## 超过 100 个数据科学家面试问题和答案！
-
-### 来自亚马逊、谷歌、脸书、微软等公司的面试问题！
-
-towardsdatascience.com](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) 
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 **或者您可以查看我的媒体页面:**
 
-[](https://terenceshin.medium.com/) [## 特伦斯·申—中号
-
-### 阅读特伦斯·申在媒体上的文章。数据科学@ KOHO，SaturnCloud |理学硕士，MBA |…
-
-terenceshin.medium.com](https://terenceshin.medium.com/) 
+<https://terenceshin.medium.com/>  
 
 # 特伦斯·申
 

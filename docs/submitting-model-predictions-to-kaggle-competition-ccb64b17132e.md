@@ -10,11 +10,7 @@
 
 在[之前的帖子](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49)中，我们谈到了对超参数搜索的需求，我们已经运行了 walked throw Grid.ai，这简化了云中的微调。我们甚至可以在线监控我们的训练，并最终根据我们的选择终止一些默认配置。
 
-[](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) [## 使用 Grid.ai 进行超参数优化，无需更改代码
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 4/5 部分)
-
-towardsdatascience.com](/hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49) 
+</hyperparameter-optimization-with-grid-ai-and-no-code-change-b89218d4ff49>  
 
 现在我们有了最好的模型，是时候提交我们的结果了。这个挑战和其他几个挑战限制了对测试数据的访问，这意味着真正的测试数据集只提供给没有任何外部连接的独立预测运行。
 
@@ -76,11 +72,7 @@ pkgs = glob.glob("package_freeze/*.xyz")
     --find-link /kaggle/working/package_freeze
 ```
 
-[](/easy-kaggle-offline-submission-with-chaining-kernels-30bba5ea5c4d) [## 带链接内核的简单 Kaggle 离线提交
-
-### 一个简单的指南，帮助您使用 Kaggle 提交受限互联网接入的比赛…
-
-towardsdatascience.com](/easy-kaggle-offline-submission-with-chaining-kernels-30bba5ea5c4d) 
+</easy-kaggle-offline-submission-with-chaining-kernels-30bba5ea5c4d>  
 
 ## 准备简单的预测笔记本。
 
@@ -113,19 +105,11 @@ model.load_state_dict(ckpt['state_dict'])
 
 上一篇文章介绍了如何准备提交内核，适合在完全隔离的环境中运行。**跟着我学我吧！**
 
-[](https://devblog.pytorchlightning.ai/practical-tips-to-rank-on-kaggle-image-challenges-with-lightning-242e2e533429) [## 用闪电挑战 Kaggle 图像的实用技巧
-
-### 这篇文章概述了一些 PyTorch 闪电的最佳做法，从最近的 Kaggle 植物病理学图像分类…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/practical-tips-to-rank-on-kaggle-image-challenges-with-lightning-242e2e533429) 
+<https://devblog.pytorchlightning.ai/practical-tips-to-rank-on-kaggle-image-challenges-with-lightning-242e2e533429>  
 
 **敬请关注，并跟随我了解更多！**
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

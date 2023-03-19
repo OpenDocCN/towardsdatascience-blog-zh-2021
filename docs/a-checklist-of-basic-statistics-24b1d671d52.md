@@ -132,16 +132,4 @@
 
 # *我的更多文章*
 
-*[](/6-common-metrics-for-your-next-regression-project-4667cbc534a7) [## 下一个回归项目的 6 个通用指标
-
-### 优势、劣势和主要陷阱
-
-towardsdatascience.com](/6-common-metrics-for-your-next-regression-project-4667cbc534a7) [](https://medium.com/@h-vo/greece-used-reinforcement-learning-to-curb-influx-of-covid-19-a7d62ccfe508) [## 希腊利用强化学习遏制新冠肺炎的涌入
-
-### TL；大卫:看起来效果很好
-
-medium.com](https://medium.com/@h-vo/greece-used-reinforcement-learning-to-curb-influx-of-covid-19-a7d62ccfe508) [](/what-has-machine-learning-been-up-to-in-healthcare-a137db866f05) [## 机器学习在医疗保健领域的进展如何？
-
-### 对已经完成的工作进行高层次的审视
-
-towardsdatascience.com](/what-has-machine-learning-been-up-to-in-healthcare-a137db866f05)*
+*</6-common-metrics-for-your-next-regression-project-4667cbc534a7>  <https://medium.com/@h-vo/greece-used-reinforcement-learning-to-curb-influx-of-covid-19-a7d62ccfe508>  </what-has-machine-learning-been-up-to-in-healthcare-a137db866f05> *

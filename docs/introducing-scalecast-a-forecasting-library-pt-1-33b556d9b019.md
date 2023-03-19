@@ -18,11 +18,7 @@
 
 第 1 部分使用这个框架来预测单个序列。[第 2 部分](/may-the-forecasts-be-with-you-introducing-scalecast-pt-2-692f3f7f0be5)将该方法扩展到 100 多个系列。第 3 部分回归到一个系列，但是展示了在不同集成级别上建模的灵活性。如果这是一个你喜欢并有兴趣参与和/或维护的项目，请联系 mikekeith52@gmail.com。在 GitHub 上看到它:
 
-[](https://github.com/mikekeith52/scalecast) [## mikekeith52/scalecast
-
-### 一个灵活的、代码最少的预测对象。通过在…上创建帐户，为 mikekeith52/scalecast 开发做出贡献
-
-github.com](https://github.com/mikekeith52/scalecast) 
+<https://github.com/mikekeith52/scalecast>  
 
 首先，要安装:
 

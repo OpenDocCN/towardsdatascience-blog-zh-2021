@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/information-theory-principals-and-apostasy-a7c1be72be5f?source=collection_archive---------27----------------------->
 
-这是关于信息论及其与数据驱动型企业和战略的关系的系列文章的第三篇。虽然在每一部分都会有一些等式，但是对于那些对细节不太感兴趣而对含义更感兴趣的人来说，它们可以被忽略。前文关于互资的文章&奇怪的是麦克白的情节可以在这里找到[](/mutual-information-prediction-as-imitation-da2cfb1e9bdd)**。**
+这是关于信息论及其与数据驱动型企业和战略的关系的系列文章的第三篇。虽然在每一部分都会有一些等式，但是对于那些对细节不太感兴趣而对含义更感兴趣的人来说，它们可以被忽略。前文关于互资的文章&奇怪的是麦克白的情节可以在这里找到</mutual-information-prediction-as-imitation-da2cfb1e9bdd>**。**
 
 ***因果关系被高估***
 

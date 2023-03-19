@@ -108,6 +108,6 @@ confidence = 0.95*
 
 *置信区间很容易计算，可以为数据分析师和科学家提供非常有用的见解。它们给出了非常强大的误差估计，如果使用正确，可以真正帮助我们从数据中提取尽可能多的信息。*
 
-**Gianluca Malato 是一名数据科学家，在*[](http://www.yourdatateacher.com/)**上教授机器学习和数据科学。***
+**Gianluca Malato 是一名数据科学家，在*<http://www.yourdatateacher.com/>**上教授机器学习和数据科学。***
 
 ***原载于 2021 年 11 月 8 日 https://www.yourdatateacher.com**的* [*。*](https://www.yourdatateacher.com/2021/11/08/how-to-calculate-confidence-intervals-in-python/)**

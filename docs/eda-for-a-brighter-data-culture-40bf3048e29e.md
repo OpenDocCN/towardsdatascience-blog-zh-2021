@@ -24,15 +24,7 @@
 
 这是 IT 所有领域的一个痛苦的现实:关键人员的离开和他们编写的所有东西都变得不可触及的故事可以从后端到前端到处流传。前人留下的微不足道的文件变成了被所有人崇敬的古老的真理卷轴。
 
-[](https://www.eduflow.com/blog/institutional-knowledge-why-it-matters-and-how-to-tap-into-it) [## 机构知识:为什么重要以及如何利用 It Eduflow 博客
-
-### 机构知识是一种巨大的资源，许多公司都不知道如何利用。根据……
-
-www.eduflow.com](https://www.eduflow.com/blog/institutional-knowledge-why-it-matters-and-how-to-tap-into-it) [](https://hrdailyadvisor.blr.com/2018/07/18/knowledge-loss-turnover-means-losing-employees/) [## 知识流失:人员流动意味着失去的不仅仅是员工
-
-### 《人力资源日报》的顾问最近在 Panopto 与营销副总裁 Ari Bixhorn 坐下来讨论了失去…
-
-hrdailyadvisor.blr.com](https://hrdailyadvisor.blr.com/2018/07/18/knowledge-loss-turnover-means-losing-employees/) 
+<https://www.eduflow.com/blog/institutional-knowledge-why-it-matters-and-how-to-tap-into-it>  <https://hrdailyadvisor.blr.com/2018/07/18/knowledge-loss-turnover-means-losing-employees/>  
 
 但是，虽然可以通过代码文档层和过程描述减轻其他领域的损害，但数据科学中丢失的领域知识不容易恢复。
 
@@ -42,11 +34,7 @@ hrdailyadvisor.blr.com](https://hrdailyadvisor.blr.com/2018/07/18/knowledge-loss
 
 通常包含数据本身所有秘密的文档是**探索性数据分析(EDA)** 的结果。它是对数据集的结构化统计调查，其中数据科学家分析数据的完整性，发现变量之间的关系，并在教学图和图表中总结收集的见解。下面的文章有一个 EDA 报告通常包含什么的实际例子。
 
-[](/exploratory-data-analysis-8fc1cb20fd15) [## 什么是探索性数据分析？
-
-### 当我在考虑我应该开始写博客的第一个话题是什么的时候，EDA 突然出现了…
-
-towardsdatascience.com](/exploratory-data-analysis-8fc1cb20fd15) 
+</exploratory-data-analysis-8fc1cb20fd15>  
 
 周围的大多数文章和书籍都会告诉你，探索数据集是数据科学模型开发周期中的一个重要步骤。这当然很重要，但不应该只是一个步骤！EDA 报告包含的信息对于保持公司的数据文化活力和活力非常宝贵，并让新员工快速了解任何数据集的所有复杂性。它可以用于:
 
@@ -60,11 +48,7 @@ towardsdatascience.com](/exploratory-data-analysis-8fc1cb20fd15)
 
 制作文档既辛苦又无聊。当你的云提供商出现问题或者你的 sprint 目标需要一些补充时，你就要做这项工作。对于任何开发团队的持续速度来说，这也是绝对必要的。
 
-[](https://hackaday.com/2019/03/05/good-code-documents-itself-and-other-hilarious-jokes-you-shouldnt-tell-yourself/) [## “好的代码文档本身”和其他你不应该告诉自己的搞笑笑话
-
-### 代码文档——还有比花时间写大量注释更令人兴奋的事情吗？如果我不得不…
-
-hackaday.com](https://hackaday.com/2019/03/05/good-code-documents-itself-and-other-hilarious-jokes-you-shouldnt-tell-yourself/) 
+<https://hackaday.com/2019/03/05/good-code-documents-itself-and-other-hilarious-jokes-you-shouldnt-tell-yourself/>  
 
 数据科学文档非常难，因为它涉及数学和统计学。将数据洞察放入连贯的单词串是一门艺术，因此在我们的实际编程世界中非常少见。
 

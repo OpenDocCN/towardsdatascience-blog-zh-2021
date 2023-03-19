@@ -12,11 +12,7 @@
 
 数据科学面试通常有三个技术步骤:(a)**SQL 挑战**,( b)**ML 挑战**,( c)**现场技术面试**。前两步成为标准，而第三步因公司而异。在这篇文章中，我的目标是帮助你战胜“ML 挑战”这一步。如果您对 SQL 挑战感兴趣，可以查看下面的文章。
 
-[](/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec) [## 面向数据科学家的 SQL 面试初学者指南
-
-### 通过基础知识、示例和日常工作中需要的实用技术的结合
-
-towardsdatascience.com](/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec) 
+</the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec>  
 
 根据数据类型，机器学习挑战可以分为三组:**表格**、**文本**和**图像**。这些组的高级概念和步骤是相似的；但是实现细节不一样。
 
@@ -24,11 +20,7 @@ towardsdatascience.com](/the-beginners-guide-to-acing-sql-interviews-for-data-sc
 
 在本文中，我将一步步向您介绍一个典型的机器学习挑战的例子，这些挑战主要集中在聚类上。这是几年前我在一次采访中接受的挑战。现在，我想和大家分享一下我是如何解决的。我们开始吧。
 
-[](https://sharpestminds.com?r=pedram-ataee) [## SharpestMinds |寻找数据科学导师
-
-### 在您需要时，从高级数据科学家那里获得您需要的支持。付给他们你第一年的一小部分…
-
-sharpestminds.com](https://sharpestminds.com?r=pedram-ataee) 
+<https://sharpestminds.com?r=pedram-ataee>  
 
 # 问题
 
@@ -130,8 +122,4 @@ plt.show()
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我上* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium-Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

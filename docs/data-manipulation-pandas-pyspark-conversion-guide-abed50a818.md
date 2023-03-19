@@ -81,16 +81,4 @@ Databricks 为您的所有数据提供了一个统一的开放平台。它为数
 
 **如果你觉得这很有帮助，请关注我，看看我的其他博客。敬请关注更多内容！❤**
 
-**[](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [## 作为新毕业生获得第一份数据科学工作的 10 个技巧
-
-### 从我的求职之旅中学到的经验
-
-towardsdatascience.com](/10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7) [](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [## 作为分析师如何准备商业案例面试？
-
-### 作为数据分析师或数据科学家，我们不仅需要知道概率和统计，机器学习算法…
-
-towardsdatascience.com](/how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8) [](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07) [## 想要在 SQL 面试中胜出，你必须知道的 10 个问题
-
-### 2021 年你应该知道的 SQL 面试问题
-
-towardsdatascience.com](/10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07)**
+**</10-tips-to-land-your-first-data-science-job-as-a-new-grad-87ecc06c17f7>  </how-to-prepare-for-business-case-interview-as-an-analyst-6e9d68ce2fd8>  </10-questions-you-must-know-to-ace-any-sql-interviews-2faa0a424f07> **

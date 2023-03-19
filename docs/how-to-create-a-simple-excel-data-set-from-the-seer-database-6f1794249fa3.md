@@ -12,11 +12,7 @@
 
 简而言之，如果您是一名对癌症流行病学充满热情的有抱负的研究人员，您可以使用 SEER 数据库来提取数据，您可以立即或稍后使用这些数据来运行统计测试并获得有价值的见解。
 
-[](https://ame48.medium.com/this-database-will-save-you-tons-of-time-and-effort-towards-publishing-your-first-cancer-research-b1e3888c3dc) [## 这个数据库将为你发表你的第一个癌症研究节省大量的时间和精力…
-
-### 我叫阿姆尔·伊比得。我是一名 44 岁的埃及血液学家，从未发表过一篇医学研究论文…
-
-ame48.medium.com](https://ame48.medium.com/this-database-will-save-you-tons-of-time-and-effort-towards-publishing-your-first-cancer-research-b1e3888c3dc) 
+<https://ame48.medium.com/this-database-will-save-you-tons-of-time-and-effort-towards-publishing-your-first-cancer-research-b1e3888c3dc>  
 
 为了更快地进入角色并开始使用 SEER 数据库，我建议您观看以下视频，其中我解释了如何访问 SEER 数据库，以及下载并安装 SEER*Stat 软件，您应该使用该程序从 SEER 数据库中提取癌症相关数据。
 

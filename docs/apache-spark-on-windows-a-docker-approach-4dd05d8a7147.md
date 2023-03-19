@@ -43,7 +43,7 @@
 
 当安装完成后，你可以重新启动你的机器(记得保存这篇文章在收藏夹，以备份从重启)。
 
-如果您在此时或稍后运行任何错误，请查看微软故障排除指南[](https://docs.microsoft.com/en-us/visualstudio/containers/troubleshooting-docker-errors?view=vs-2019)**。**
+如果您在此时或稍后运行任何错误，请查看微软故障排除指南<https://docs.microsoft.com/en-us/visualstudio/containers/troubleshooting-docker-errors?view=vs-2019>**。**
 
 **你可以从开始菜单启动 Docker，过一会儿你会在系统托盘上看到这个图标:**
 
@@ -83,7 +83,7 @@
 
 **正如我前面所说，docker 最酷的特性之一依赖于社区图片。几乎所有的需求都有许多预制的图像可供下载，只需很少或不需要配置就可以使用。花点时间探索一下 [**Docker Hub**](https://hub.docker.com/) ，自己看吧。**
 
-**Jupyter 开发人员一直在做一项惊人的工作，积极地为数据科学家和研究人员维护一些图像，项目页面可以在这里找到[](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)**。一些图像是:****
+**Jupyter 开发人员一直在做一项惊人的工作，积极地为数据科学家和研究人员维护一些图像，项目页面可以在这里找到<https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html>**。一些图像是:****
 
 1.  ******jupyter/r-notebook** 包括来自 R 生态系统的流行软件包。****
 2.  ****jupyter/scipy-notebook 包括来自科学 Python 生态系统的流行包。****

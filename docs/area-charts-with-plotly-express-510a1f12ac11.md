@@ -214,19 +214,11 @@ fig4.show()
 
 带有 Plotly Express、趋势线和分面的散点图
 
-[](/scatter-plots-with-plotly-express-1b7f5579919b) [## 用 Plotly Express 散点图
-
-### 趋势线和刻面
-
-towardsdatascience.com](/scatter-plots-with-plotly-express-1b7f5579919b) 
+</scatter-plots-with-plotly-express-1b7f5579919b>  
 
 带有 Plotly Express、主题和模板的直方图
 
-[](/histograms-with-plotly-express-e9e134ae37ad) [## 用 Plotly 表示的直方图
-
-### 主题和模板
-
-towardsdatascience.com](/histograms-with-plotly-express-e9e134ae37ad) 
+</histograms-with-plotly-express-e9e134ae37ad>  
 
 参考
 

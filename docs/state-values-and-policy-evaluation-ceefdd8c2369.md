@@ -47,11 +47,7 @@
 本文的 Jupyter 笔记本版本可以在 github 上找到。
 这包含了用于创建本文中描述的网格级别和 RL 算法的所有代码。
 
-[](https://github.com/WhatIThinkAbout/BabyRobot/blob/master/Reinforcement_Learning/Part%201%20-%20State%20Values%20and%20Policy%20Evaluation.ipynb) [## 我在想什么/婴儿机器人
-
-### 婴儿机器人强化学习指南。通过创建一个……
-
-github.com](https://github.com/WhatIThinkAbout/BabyRobot/blob/master/Reinforcement_Learning/Part%201%20-%20State%20Values%20and%20Policy%20Evaluation.ipynb) 
+<https://github.com/WhatIThinkAbout/BabyRobot/blob/master/Reinforcement_Learning/Part%201%20-%20State%20Values%20and%20Policy%20Evaluation.ipynb>  
 
 # 强化学习的术语
 
@@ -345,11 +341,7 @@ github.com](https://github.com/WhatIThinkAbout/BabyRobot/blob/master/Reinforceme
 
 ***此外，机器人宝宝还没有真正探索他发现自己的任何水平。所有关于等级的信息，比如奖励和状态转移概率，都已经给定了，这被用来推导每个等级的最优策略。当前面所有的信息都被给出时，它被称为基于 ***模型的*** 系统。更现实的情况是当这些值不可用时，需要进行一些探索来解决问题。不出所料，这种性质的问题被称为 ***无模型*** 问题，我们将在未来的帖子中探讨这些问题。***
 
-***[](/markov-decision-processes-and-bellman-equations-45234cce9d25) [## 马尔可夫决策过程和贝尔曼方程
-
-### 强化学习简介:第 2 部分
-
-towardsdatascience.com](/markov-decision-processes-and-bellman-equations-45234cce9d25)*** ***![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)***
+***</markov-decision-processes-and-bellman-equations-45234cce9d25> *** ***![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)***
 
 # ***脚注:***
 
@@ -361,8 +353,4 @@ towardsdatascience.com](/markov-decision-processes-and-bellman-equations-45234cc
 
 ***对于婴儿机器人的多臂土匪指南，从这里开始:***
 
-***[](/multi-armed-bandits-part-1-b8d33ab80697) [## 多种武器的强盗:第一部分
-
-### 数学框架和术语
-
-towardsdatascience.com](/multi-armed-bandits-part-1-b8d33ab80697)***
+***</multi-armed-bandits-part-1-b8d33ab80697> ***

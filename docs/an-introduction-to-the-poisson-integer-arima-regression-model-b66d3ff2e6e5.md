@@ -322,7 +322,7 @@ inar_model_results = inar_model.**fit**()*
 
 ## *泊松 INAR(1)模型的拟合优度*
 
-*模型方程中的滞后项 *y_(t-1)* 使得拟合优度的确定变得复杂。泊松 INAR(1)模型的非线性排除了使用基于均方误差的测量，例如 R 平方。另一方面，由于 MLE 用于模型拟合，基于偏差的测量，例如[](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c)**和 [**卡方分布似然比(LR)测试**](https://en.wikipedia.org/wiki/Likelihood-ratio_test) 可用于判断拟合优度。然而，伪 r 平方和 LR 检验都需要计算零模型(也称为仅截距模型)的对数似然(LL)。在泊松 INAR(1)模型中，由于模型方程中滞后项 *y_(t-1)* 的存在，零模型的构成并不十分明显，还存在争议。***
+*模型方程中的滞后项 *y_(t-1)* 使得拟合优度的确定变得复杂。泊松 INAR(1)模型的非线性排除了使用基于均方误差的测量，例如 R 平方。另一方面，由于 MLE 用于模型拟合，基于偏差的测量，例如</the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c>**和 [**卡方分布似然比(LR)测试**](https://en.wikipedia.org/wiki/Likelihood-ratio_test) 可用于判断拟合优度。然而，伪 r 平方和 LR 检验都需要计算零模型(也称为仅截距模型)的对数似然(LL)。在泊松 INAR(1)模型中，由于模型方程中滞后项 *y_(t-1)* 的存在，零模型的构成并不十分明显，还存在争议。***
 
 ***考虑到这些困难，人们可能希望通过间接方式判断拟合优度，特别是通过检查拟合模型参数的标准误差和相应的 95%置信区间。***
 
@@ -407,22 +407,6 @@ fig.suptitle(**'Predicted versus actual strike counts'**)predicted, = plt.**plot
 
 # ***相关文章***
 
-***[](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c) [## R 平方、调整 R 平方和伪 R 平方完全指南
-
-### 了解如何使用这些方法来评估线性和某些非线性回归模型的拟合优度
-
-towardsdatascience.com](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c) [](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [## 泊松回归模型图解指南
-
-### 和使用 Python 的泊松回归教程
-
-towardsdatascience.com](/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) [](/negative-binomial-regression-f99031bb25b4) [## 负二项式回归:逐步指南
-
-### 外加一个关于负二项式回归的 Python 教程
-
-towardsdatascience.com](/negative-binomial-regression-f99031bb25b4) [](/generalized-poisson-regression-for-real-world-datasets-d1ff32607d79) [## 真实世界数据集的广义泊松回归
-
-### 以及用 Python 进行广义泊松回归的分步指南
-
-towardsdatascience.com](/generalized-poisson-regression-for-real-world-datasets-d1ff32607d79) 
+***</the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c>  </an-illustrated-guide-to-the-poisson-regression-model-50cccba15958>  </negative-binomial-regression-f99031bb25b4>  </generalized-poisson-regression-for-real-world-datasets-d1ff32607d79>  
 
 *感谢阅读！如果您喜欢这篇文章，请* [***关注我***](https://timeseriesreasoning.medium.com) *获取关于回归和时间序列分析的提示、操作方法和编程建议。****

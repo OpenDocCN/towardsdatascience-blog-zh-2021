@@ -12,11 +12,7 @@
 
 PySpark 是在 Apache Spark 上工作的 Python API。使用 [PySpark](https://www.gangboard.com/blog/what-is-pyspark#:~:text=PySpark%20is%20the%20Python%20API%20written%20in%20python%20to%20support%20Apache%20Spark.&text=Apache%20Spark%20is%20written%20in,in%20parallel%20and%20batch%20systems.) 的主要优势是它可以很容易地与 Java、R 和 Scala 集成。数据科学家可以利用 RDD 以更高的速度在分布式集群上工作，以部分方式存储数据。磁盘持久化和强大的缓存有助于进一步提高处理速度。在本文中，我们讨论了如何在 Google Collaboratory 笔记本上使用 [PySpark](https://www.gangboard.com/blog/what-is-pyspark#:~:text=PySpark%20is%20the%20Python%20API%20written%20in%20python%20to%20support%20Apache%20Spark.&text=Apache%20Spark%20is%20written%20in,in%20parallel%20and%20batch%20systems.) 来分析包含大约 360 万行和 15 个特征的巨大数据集。
 
-[](https://github.com/ojaashampiholi/Airport_Analysis_PySpark) [## ojaashampiholi/Airport _ Analysis _ py spark
-
-### 这个项目的重点是执行探索性分析的航班在美国使用 PySpark 是运行在谷歌 Colab…
-
-github.com](https://github.com/ojaashampiholi/Airport_Analysis_PySpark) 
+<https://github.com/ojaashampiholi/Airport_Analysis_PySpark>  
 
 # 在 Google Colab 上安装和初始化 PySpark
 

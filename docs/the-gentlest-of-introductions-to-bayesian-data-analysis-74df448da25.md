@@ -169,16 +169,4 @@
 
 你也可以试试 [**我的其他文章**](https://michaloleszak.github.io/blog/) 中的一篇。不能选择？从这些中选择一个:
 
-[](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/monte-carlo-dropout-7fd52f8b6571) [## 蒙特卡洛辍学
-
-### 用一个小技巧免费改善你的神经网络，获得模型不确定性估计作为奖励。
-
-towardsdatascience.com](/monte-carlo-dropout-7fd52f8b6571) [](/the-hypothesis-testers-guide-75f7db2e4d0d) [## 假设检验者指南
-
-### 一个简短的关于为什么可以拒绝假说，但不能接受它们的入门书，有例子和视觉效果。
-
-towardsdatascience.com](/the-hypothesis-testers-guide-75f7db2e4d0d)
+</6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </monte-carlo-dropout-7fd52f8b6571>  </the-hypothesis-testers-guide-75f7db2e4d0d> 

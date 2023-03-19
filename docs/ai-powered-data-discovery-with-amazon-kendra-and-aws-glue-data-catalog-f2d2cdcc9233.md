@@ -29,11 +29,7 @@
 
 > [亚马逊 Kendra](https://aws.amazon.com/kendra/) 是一项由机器学习支持的智能搜索服务。Kendra 为您的网站和应用程序重新设计了企业搜索，以便您的员工和客户可以轻松找到他们正在寻找的内容，即使这些内容分散在您组织内的多个位置和内容存储库中。… Amazon Kendra 是一项完全托管的服务，因此无需供应服务器，也无需构建、训练或部署机器学习模型。
 
-[](https://aws.amazon.com/kendra/) [## 亚马逊肯德拉-智能搜索-亚马逊网络服务
-
-### 由机器学习支持的高度准确的智能搜索服务。亚马逊 Kendra 是一个智能搜索服务…
-
-aws.amazon.com](https://aws.amazon.com/kendra/) 
+<https://aws.amazon.com/kendra/>  
 
 正如产品页面上所述，[亚马逊 Kendra](https://aws.amazon.com/kendra/) 是一项完全托管的服务，因此，维护和扩展机器学习系统的基础设施负担是完全不可能的。我需要做的就是弄清楚如何以适用于 Amazon Kendra 的格式准备我的数据。
 
@@ -47,11 +43,7 @@ aws.amazon.com](https://aws.amazon.com/kendra/)
 
 [Amazon Kendra](https://aws.amazon.com/kendra/) 也包含大量关于其设置的文档，但我想强调一下，只需点击几下鼠标，从控制台创建一个索引是多么容易。点击以下链接了解更多信息:
 
- [## S3 铲斗入门(控制台)
-
-### 以下过程显示了如何使用 AWS 控制台创建和测试 Amazon Kendra 索引。在程序中…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/kendra/latest/dg/gs-console.html) 
+  
 
 一旦我们的 [Amazon Kendra](https://aws.amazon.com/kendra/) 索引建立并运行，接下来的事情就是用可搜索的元数据填充索引。
 

@@ -20,11 +20,7 @@
 
 更多的细节在我写的一篇关于我如何进行的文章中给出。
 
-[](/how-i-built-a-corona-stats-twitter-bot-4f0dc90cf96e) [## 我如何建立一个电晕统计 Twitter 机器人
-
-### 编辑描述
-
-towardsdatascience.com](/how-i-built-a-corona-stats-twitter-bot-4f0dc90cf96e) 
+</how-i-built-a-corona-stats-twitter-bot-4f0dc90cf96e>  
 
 ## 我学到了什么
 
@@ -86,11 +82,7 @@ towardsdatascience.com](/how-i-built-a-corona-stats-twitter-bot-4f0dc90cf96e)
 
 谈到熊猫的阅读器，我已经深入研究了熊猫 Excel 阅读器。我的目标是将复杂的 Excel 表格中的数据放到数据框中。我发现熊猫确实有阅读 Excel 表格的超能力。我的文章详细展示了熊猫阅读 Excel 表格的超能力。
 
-[](/pandas-has-superpowers-in-reading-excel-files-44344bfdaac) [## 熊猫有阅读 Excel 文件的超能力
-
-### 编辑描述
-
-towardsdatascience.com](/pandas-has-superpowers-in-reading-excel-files-44344bfdaac) 
+</pandas-has-superpowers-in-reading-excel-files-44344bfdaac>  
 
 ## 我学到了什么
 
@@ -100,11 +92,7 @@ towardsdatascience.com](/pandas-has-superpowers-in-reading-excel-files-44344bfda
 
 最后但同样重要的是，我再次找到了一些为我的国家提供数据的来源。我已经开始每天收集数据。利用这些数据，我用 [Datawrapper](https://datawrapeer.de) 创建了一个可视化，这是一个*的基于 web 的数据可视化工具。最好的:它有一个免费层。在 Twitter 上发表我的见解时，人们问我是否愿意分享我收集的数据。对一个好位置的简短搜索把我带到了[Qri](https://qri.io)——一种类似 GitHub 的服务，只提供数据。厉害！我在一篇文章中总结了这一点:*
 
-[](/providing-and-plotting-data-with-free-services-is-easy-c3176f4323f7) [## 通过免费服务提供和绘制数据非常简单
-
-### 编辑描述
-
-towardsdatascience.com](/providing-and-plotting-data-with-free-services-is-easy-c3176f4323f7) 
+</providing-and-plotting-data-with-free-services-is-easy-c3176f4323f7>  
 
 ## 我学到了什么
 

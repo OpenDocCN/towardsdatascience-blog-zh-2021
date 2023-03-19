@@ -124,10 +124,6 @@ Photo by [金 运](https://unsplash.com/@jinyun?utm_source=medium&utm_medium=ref
 
 在现实世界中，我们很少遇到如此明确定义的问题。以这种方式定义一个业务问题就是我所说的数据科学的困难部分。
 
-[](/the-hard-part-of-data-science-fa9cad734319) [## 数据科学的难点在于
-
-### 那些闯入这一领域的人往往会遗漏什么
-
-towardsdatascience.com](/the-hard-part-of-data-science-fa9cad734319) 
+</the-hard-part-of-data-science-fa9cad734319>  
 
 在现实世界中，成本并不为人所知，而且很少有直接的分类问题能够完全抓住业务问题的本质。然而，通过观察这些简化的案例，我们可以更清晰地处理更复杂的问题。认识到项目定义中的模糊或缺失是澄清问题并将其与带来最大商业价值的技术解决方案联系起来的第一步。

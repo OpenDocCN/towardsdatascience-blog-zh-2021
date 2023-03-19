@@ -78,10 +78,6 @@ NSP 有很多，但是概念和实现并不太复杂——但是功能非常强�
 
 如果你有兴趣了解更多关于 NSP 到底是如何运作的——看看这篇文章:
 
-[](/bert-for-next-sentence-prediction-466b67f8226f) [## 用于下一句预测的 BERT
-
-### 另一半用来训练伯特
-
-towardsdatascience.com](/bert-for-next-sentence-prediction-466b67f8226f) 
+</bert-for-next-sentence-prediction-466b67f8226f>  
 
 **所有图片均由作者提供，除非另有说明*

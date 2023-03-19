@@ -138,19 +138,11 @@
 
 如需完整的脚本，请点击以下链接进入我的 Github 页面:
 
-[](https://github.com/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb) [## 安德里贝罗 1989/中号
-
-### tensor flow _ getting _ started . ipynb
-
-github.com](https://github.com/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb) 
+<https://github.com/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb>  
 
 或者通过以下链接直接访问 Google Colab 笔记本:
 
-[](https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb) [## 谷歌联合实验室
-
-### tensor flow _ getting _ started . ipynb
-
-colab.research.google.com](https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb) 
+<https://colab.research.google.com/github/andreRibeiro1989/medium/blob/main/tensorflow_getting_started.ipynb>  
 
 # 结论
 

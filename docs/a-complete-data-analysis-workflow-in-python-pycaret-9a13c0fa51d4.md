@@ -235,16 +235,8 @@ predict_model(final_best, data = data_unseen)
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
+</a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3> [## Python 和 scikit 中的完整数据分析工作流程-学习
 
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-detect-outliers-with-python-pyod-aa7147359e4b) [## 如何用 Python pyod 检测异常值
-
-### 关于 pyod 库使用的快速教程。
-
-towardsdatascience.com](/how-to-detect-outliers-with-python-pyod-aa7147359e4b) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) 
+towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) </how-to-detect-outliers-with-python-pyod-aa7147359e4b>  </automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [单击此处](https://alod83.medium.com/membership)。

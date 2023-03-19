@@ -10,11 +10,7 @@
 
 这篇文章是“基础与超越”系列中的线性回归文章的后续，所以如果你刚刚开始机器学习，我建议你先看完那篇文章，然后从这篇教程开始。如果你已经知道什么是线性回归，那么让我们开始吧！
 
-[](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35) [## 基础与超越:线性回归
-
-### 这篇文章将带你从最基本的开始进行线性回归。当开始机器学习线性…
-
-medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35) 
+<https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35>  
 
 在本帖中，我们将使用 python 从头开始编写整个线性回归算法，所以今天我们真的要动手了！
 
@@ -80,11 +76,7 @@ medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regress
 
 为了评估我们模型的质量，我们使用了成本函数。同样，这篇文章是以下内容的“代码版本”:
 
-[](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35) [## 基础与超越:线性回归
-
-### 这篇文章将带你从最基本的开始进行线性回归。当开始机器学习线性…
-
-medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35) 
+<https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35>  
 
 因此，如果这里有什么不明白的地方，你可以浏览一下，或者跟着这两篇文章走。好了，成本函数的等式是:
 
@@ -162,11 +154,7 @@ medium.com](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regress
 
 您可以在此找到完整的代码和数据集，以供参考:
 
-[](https://github.com/kumudlakara/Medium-codes/tree/main/linear_regression) [## kumudlakara/中等代码
-
-### 线性回归房价预测代码
-
-github.com](https://github.com/kumudlakara/Medium-codes/tree/main/linear_regression) 
+<https://github.com/kumudlakara/Medium-codes/tree/main/linear_regression>  
 
 1.  [https://medium . com/analytics-vid hya/basics-and-beyond-linear-regression-c 12d 99 a4 df 35](https://medium.com/analytics-vidhya/basics-and-beyond-linear-regression-c12d99a4df35)
 2.  [https://www.coursera.org/learn/machine-learning/home/](https://www.coursera.org/learn/machine-learning/home/week/1)

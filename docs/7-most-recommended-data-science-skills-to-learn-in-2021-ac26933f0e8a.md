@@ -20,11 +20,7 @@
 
 *我写了一篇文章专门讲为什么不应该先学机器学习——你可以在下面看看:*
 
-[](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) [## 想成为数据科学家？不要从机器学习开始。
-
-### 有抱负的数据科学家最大的误解是
-
-towardsdatascience.com](/want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f) 
+</want-to-be-a-data-scientist-dont-learn-machine-learning-28e418d9af2f>  
 
 说了这么多，让我们深入了解一下**2021 年最值得学习的七项数据科学技能:**
 
@@ -142,19 +138,11 @@ Airflow 功能强大，因为它允许您生产您可能想要用于进一步分
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) [## 2021 年成为数据科学家的完整 52 周课程
-
-### 连续 52 周，每周学点东西！
-
-towardsdatascience.com](/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) 
+</a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160>  
 
 **又一个！**
 
-[](/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c) [## 如果我可以重新开始，我会如何学习数据科学(两年内)
-
-### 尽可能有效地学习数据科学的指南
-
-towardsdatascience.com](/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c) 
+</how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c>  
 
 # 特伦斯·申
 

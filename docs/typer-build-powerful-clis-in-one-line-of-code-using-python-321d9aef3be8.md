@@ -204,24 +204,12 @@ pip install typer
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/terminal/typer_examples) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/terminal/typer_examples) 
+<https://github.com/khuyentran1401/Data-science/tree/master/terminal/typer_examples>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [## 当 Python 文件改变时自动重新加载的 2 个工具
+</2-tools-to-automatically-reload-when-python-files-change-90bb28139087>  </ptpython-a-better-python-repl-6e21df1eb648> [## Ptpython:更好的 Python REPL
 
-towardsdatascience.com](/2-tools-to-automatically-reload-when-python-files-change-90bb28139087) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/ptpython-a-better-python-repl-6e21df1eb648) [## Ptpython:更好的 Python REPL
-
-towardsdatascience.com](/ptpython-a-better-python-repl-6e21df1eb648) [](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [## Rich:用 Python 在终端生成丰富美观的文本
-
-### 用几行代码调试和创建很酷的 Python 包
-
-towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e)
+towardsdatascience.com](/ptpython-a-better-python-repl-6e21df1eb648) </rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e> 

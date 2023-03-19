@@ -227,11 +227,7 @@ estimator.fit("s3://my-bucket/cifar-training-data/")
 
 在这篇文章中，我们没有提到为了适应增加的全局批处理大小，可能需要对优化器设置进行的调整。关于分布式培训的更多细节，包括你可能面临的一些挑战，请查看下面的帖子。
 
-[](/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3) [## (高度)分布式 DNN 训练指南
-
-### 将培训扩展到多名员工时需要注意什么
-
-towardsdatascience.com](/a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3) 
+</a-guide-to-highly-distributed-dnn-training-9e4814fb8bd3>  
 
 # 步骤 5——如何分析您的运行时性能
 
@@ -338,10 +334,6 @@ Amazon SageMaker 提供了专门的监控和自动停止工具。更多详情请
 
 基于云的培训提供了一定程度的灵活性和可扩展性，这在您的本地环境中几乎是不可能重现的。在这篇文章中，我们已经介绍了成功过渡到云计算所需的一些步骤。我相信，除了这种转变的机制之外，云中的培训还需要心态的转变和对基本开发习惯的调整，就像在以前的博客文章中讨论的那样。
 
-[](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) [## 提高云 ML 生产力的 6 个开发习惯
-
-### 回归基础:重新思考云计算时代的开发最佳实践
-
-towardsdatascience.com](/6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289) 
+</6-development-habits-for-increasing-your-cloud-ml-productivity-becdc41eb289>  
 
 对我来说，想到天空中的云，就会唤起兴奋、创新和无尽机遇的感觉。我发现用这样的感觉来描述 cloud ML 的潜力并不为过。我希望你也是。

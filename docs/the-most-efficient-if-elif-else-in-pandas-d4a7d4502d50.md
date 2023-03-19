@@ -168,16 +168,4 @@ df["RESULT"] = np.where(df['COL_2'] == 0, 0, -1)0.06414675712585449
 
 如果你喜欢这篇文章，并想阅读我写的更多内容，请将你认为还会需要的文章加入书签，并考虑跟随的[或查看下面的其他文章！如果你正在寻找 Python/Pandas 的完整课程，我推荐](http://follow me)[这些家伙](https://datasciencedojo.com/python-for-data-science/?ref=jdibattista3)！
 
-[](/the-most-efficient-way-to-merge-join-pandas-dataframes-7576e8b6c5c) [## 合并/连接熊猫数据帧的最有效方法
-
-### 为什么几乎每个人都写得很低效
-
-towardsdatascience.com](/the-most-efficient-way-to-merge-join-pandas-dataframes-7576e8b6c5c) [](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db) [## 深度学习预算:450 美元 eGPU vs 谷歌 Colab
-
-### Colab 对于开始深度学习来说是非凡的，但它如何与 eGPU +超极本相抗衡？
-
-towardsdatascience.com](/deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db) [](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2) [## 建立一个基于预算新闻的算法交易者？那么你需要很难找到的数据
-
-### 创建一个零美元的算法交易者，分析免费的 API，数据集和网页抓取器。
-
-towardsdatascience.com](/building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2)
+</the-most-efficient-way-to-merge-join-pandas-dataframes-7576e8b6c5c>  </deep-learning-on-a-budget-450-egpu-vs-google-colab-494f9a2ff0db>  </building-a-budget-news-based-algorithmic-trader-well-then-you-need-hard-to-find-data-f7b4d6f3bb2> 

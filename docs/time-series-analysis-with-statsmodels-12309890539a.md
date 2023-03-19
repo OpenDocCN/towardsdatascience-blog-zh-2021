@@ -167,12 +167,4 @@ df[['Sales','DES_12_add','DES_12_mul','TES_12_mul','TES_12_add']].iloc[-128:].pl
 
 如果你感兴趣，可以看看我的其他帖子:
 
-[](/an-overview-for-h2o-driverless-ai-ee1a4502f7e7) [## 你应该选择 H2O 无人驾驶人工智能作为你的建模方案吗？
-
-### 对 DAI 主要功能的全面概述，以及我对此 AutoML 工具的评论和建议
-
-towardsdatascience.com](/an-overview-for-h2o-driverless-ai-ee1a4502f7e7) [](/data-driven-approach-for-schedule-optimizations-60fdcba1376e) [## 数据驱动调度优化方法
-
-### 如何使用 Google 或-Tools 来调度问题，并用 Plotly 可视化输出
-
-towardsdatascience.com](/data-driven-approach-for-schedule-optimizations-60fdcba1376e)
+</an-overview-for-h2o-driverless-ai-ee1a4502f7e7>  </data-driven-approach-for-schedule-optimizations-60fdcba1376e> 

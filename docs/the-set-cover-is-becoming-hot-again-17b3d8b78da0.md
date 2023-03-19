@@ -72,10 +72,6 @@ or 问题有不同的复杂程度，包括 P、NP、NP 完全和 NP 困难。NP 
 
 *我希望你喜欢阅读这篇文章，它给了你一些关于数学优化的新见解。如果您想了解更多关于 ILPs 的知识，您可以查看下面这篇关于自己制定 ILPs 的文章:*
 
-[](/five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c) [## 五个问题将帮助你更好地为整数线性规划建模
-
-### 一种将现实世界问题公式化为数学模型的结构化方法，如背包问题
-
-towardsdatascience.com](/five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c) 
+</five-questions-that-will-help-you-model-integer-linear-programs-better-3256731a258c>  
 
 另外，别忘了关注我，获取更多关于这个话题的文章。下次见！

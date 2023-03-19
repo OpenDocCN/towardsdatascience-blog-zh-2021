@@ -60,11 +60,7 @@ ln -s /Applications/Julia-1.6.app/Contents/Resources/julia/bin/julia /usr/local/
 
 所有这些都是我们需要添加的 Julia 包，因此为了启动笔记本服务器，我们可能需要首先确定哪台笔记本服务器最适合我们的工作。就我个人而言，比起冥王星和海王星，我更喜欢 good-ole Jupyter，我相信这可能有点令人头痛，但当它真正稳定和工作良好时，还有一段不错的路要走。我写了一篇关于这个主题的观点鲜明的文章，你可以在这里查看，看看 Pluto.jl 是否适合你:
 
-[](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) [## 冥王星有可能真正取代木星吗？
-
-### 对 Pluto.jl 笔记本和 Julia 编程的其他开发解决方案的简要概述和比较…
-
-towardsdatascience.com](/could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6) 
+</could-pluto-be-a-real-jupyter-replacement-6574bfb40cc6>  
 
 也就是说，使用像 Pluto 或 Neptune 这样的解决方案的优势在于，这两种笔记本服务器都是用 Julia 编程语言编写的。换句话说，我们可以省去 IPython 内核的中间人，直接通过它自己运行 Julia，这肯定会带来一些性能上的好处。此外，冥王星和海王星文件存储在。jl Julia 文件，而不是 IPython 笔记本文件——这很酷，因为这样你就可以一次编写代码，让它在 REPL 和笔记本上都可以工作。
 

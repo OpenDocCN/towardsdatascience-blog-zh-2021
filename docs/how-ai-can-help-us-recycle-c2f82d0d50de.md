@@ -233,20 +233,4 @@ TensorBoard 回调函数还允许我们查看与训练过程相关的各种指�
 
 ## 关于我们的更多信息:
 
-[](https://www.linkedin.com/in/james-hogan9/) [## 詹姆斯·霍根-麦吉尔大学-德索特尔管理学院-大波士顿| LinkedIn
-
-### 我的目标是将我在数据科学领域的技术专长和商业头脑结合起来。我用一个数学…
-
-www.linkedin.com](https://www.linkedin.com/in/james-hogan9/) [](https://www.linkedin.com/in/sophie-courtemanche-martel/) [## 索菲·考特曼斯-马特尔- UX/UI 专家-顾问-洛博劳有限公司| LinkedIn
-
-### 麦吉尔大学德绍特尔管理学院研究生(2020-2021)攻读…
-
-www.linkedin.com](https://www.linkedin.com/in/sophie-courtemanche-martel/) [](https://www.linkedin.com/in/duncan-w/) [## 邓肯王-麦吉尔大学-德索特尔管理学院-加拿大魁北克蒙特利尔
-
-### 在麦吉尔大学的分析管理硕士(MMA)候选人，有证明的历史经验，在…
-
-www.linkedin.com](https://www.linkedin.com/in/duncan-w/) [](https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/) [## 阿诺·古兹曼-安妮-麦吉尔大学-加拿大| LinkedIn
-
-### 我精力充沛，充满活力，通过促进沟通、团队合作和提供领导能力，有效地开展项目…
-
-www.linkedin.com](https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/)
+<https://www.linkedin.com/in/james-hogan9/>  <https://www.linkedin.com/in/sophie-courtemanche-martel/>  <https://www.linkedin.com/in/duncan-w/>  <https://www.linkedin.com/in/arnaud-guzman-ann%C3%A8s/> 

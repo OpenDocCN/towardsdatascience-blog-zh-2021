@@ -117,16 +117,4 @@ Tableau 提供了一系列广泛的 [**免费培训视频**](https://www.tableau
 
 欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，祝你考试顺利！
 
-[](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) [## 在两周或更短时间内获得 AWS 云从业者认证的 3 个步骤
-
-### 通过 AWS 认证来验证您的云计算专业知识的 Kickstart 2021
-
-towardsdatascience.com](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) [](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [## 新冠肺炎疫苗——公众情绪如何？
-
-### 使用 NLP (Stanza、NLTK Vader 和 TextBlob)对新冠肺炎疫苗推文进行逐步情感分析
-
-towardsdatascience.com](/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99) [](https://medium.com/datadriveninvestor/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) [## 用集合回归预测公寓租金
-
-### Python 中集成学习和多元线性回归在公寓租金预测中的应用
-
-medium.com](https://medium.com/datadriveninvestor/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9)
+</3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249>  </covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99>  <https://medium.com/datadriveninvestor/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9> 

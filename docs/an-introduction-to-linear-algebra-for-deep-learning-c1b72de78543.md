@@ -86,12 +86,4 @@ y =xβ+ϵ
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/Linear_algebra) [## 线性代数-维基百科
-
-### 线性代数是数学的一个分支，它涉及线性方程，如:线性映射，如:线性代数是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Linear_algebra) [](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [## 线性代数
-
-### 这是矩阵理论和线性代数的基础课程。重点是将在其他有用的主题…
-
-ocw.mit.edu](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+<https://en.wikipedia.org/wiki/Linear_algebra>  <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/> 

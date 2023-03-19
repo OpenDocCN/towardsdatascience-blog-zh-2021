@@ -12,11 +12,7 @@
 
 ava 是一种编程语言，已经很久不需要介绍了。这种语言无疑已经在各种软件行业中站稳了脚跟。从软件开发到 web 开发，甚至是 OpenGL 游戏开发，Java 已经成为这个行业的主流十多年了，它可以做很多事情。我们甚至可以认为 Java 在数据科学中也占有相当大的份额。当然，Scala 是一种不同的语言，它修改了 Java，试图去掉更多的缺点，使范例更加灵活，但是——Scala 是基于 JVM 的，当然非常接近 Java。Scala 绝对是数据科学领域的一项大工程，尽管这种语言的持久力可能随着它的 Java 亲戚在最近几年有所下降。实际上，我写了一整篇文章，讨论在您的数据科学之旅中，为什么您可能想或不想学习 Scala，如果您有兴趣在 2021 年学习更多关于数据科学和 Scala 的知识，这当然值得一读:
 
-[](/should-you-learn-scala-for-data-science-in-2021-cf7810be7bfc) [## 2021 年数据科学该不该学 Scala？
-
-### Scala 编程语言在发布 17 年后真的值得学习吗？
-
-towardsdatascience.com](/should-you-learn-scala-for-data-science-in-2021-cf7810be7bfc) 
+</should-you-learn-scala-for-data-science-in-2021-cf7810be7bfc>  
 
 # Python 和 Java
 
@@ -40,11 +36,7 @@ Python 和 Java 结合的真正迷人之处在于，它们来自两个完全不�
 
 Jython 是一个发音非常奇怪的名字，但是这个名字的好处是我们都可以识别这个包可能做什么。如果您想亲自查看 Jython 网站，这里有一个链接:
 
- [## 主页
-
-### Jython 是 Python 的一个 Java 实现，结合了表达能力和清晰性。Jython 免费提供给…
-
-www.jython.org](https://www.jython.org/) 
+  
 
 这个包的酷之处在于它结合了 Python 和 Java。我认为这可能会给两种语言之间的某种程度的协同带来一些潜力。然而，这一切可能的长度目前对我来说是一个谜——所以我想最好的方法是跳进一个笔记本，尝试一下。我甚至没有在这台计算机上安装 openJDK，所以我要做的第一件事就是安装它。
 
@@ -199,11 +191,7 @@ error: compilation failed
 
 所以这产生了一些错误…看起来 PythonInterpreter 类不存在。我找到了这个类的文档，在这里:
 
- [## PythonInterpreter (Jython API 文档)
-
-### PythonInterpreter 类是嵌入到 Java 应用程序中的 Jython 解释器的标准包装器。
-
-javadoc.io](https://javadoc.io/static/org.python/jython-standalone/2.7.1/org/python/util/PythonInterpreter.html) 
+  
 
 奇怪的是，这并不在反对之列。我必须承认，Java 肯定不是我最喜欢的语言，也不是我经常编写的语言，所以我不确定这是被否决了还是我做错了什么——但是整个 org.python 包可能已经被完全否决了。我们可以通过尝试导入来测试这个工作理论:
 
@@ -319,11 +307,7 @@ jython --help
 
 不管它实际上意味着什么，它肯定是非常有趣的。我将不得不在以后的文章中花些时间来研究这个问题！还有一件事，如果你想查看这两个 hello world 文件，无论出于什么原因，你都可以在 Github 上我的“随机代码”存储库中查看它们:
 
-[](https://github.com/emmettgb/Random_Code/tree/main/jython) [## Random _ Code/jython at main emmett GB/Random _ Code
-
-### 只是一堆随机的斑点。在 GitHub 上创建一个帐户，为 emmettgb/Random_Code 开发做贡献。
-
-github.com](https://github.com/emmettgb/Random_Code/tree/main/jython) 
+<https://github.com/emmettgb/Random_Code/tree/main/jython>  
 
 非常感谢您阅读这篇古怪的 Java-Python 疯狂冒险，它对我来说意味着一切！鉴于 Jython 仍在工作(不确定它是否仍在使用 Python 2.7 或 3.9.9)，我肯定会就此主题写一篇后续文章，在所述文章中，我可能会尝试用 Python 编译一个 jar 文件，如果这是那个论点实际做的，那么描述符确实不是最好的。如果有读者知道这是什么意思，也不知道这是什么意思，如果有人能告诉我，那就太好了。我也可能会尝试用旧的 C 编译器对 JVM 编译器进行基准测试。
 

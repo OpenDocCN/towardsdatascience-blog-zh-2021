@@ -20,11 +20,7 @@
 
 在上一篇文章中，我描述了准备时间序列数据的过程，以便能够对这些信号进行交互式探索:
 
-[](/having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028) [## 有数百个时间序列要探索，却不知道从哪里开始
-
-### 在本文中，我将为致力于大规模时间序列探索的框架奠定基础。
-
-towardsdatascience.com](/having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028) 
+</having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028>  
 
 然而，你首先要做的可能是绘制所有信号的整体地图。有几个原因可能会让你想拥有这样一个视角来开始你的探索:
 
@@ -94,19 +90,7 @@ towardsdatascience.com](/having-hundreds-of-time-series-to-explore-and-not-knowi
 
 如果您喜欢这篇文章，我希望您也会对下面的文章感兴趣:
 
-[](/having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028) [## 有数百个时间序列要探索，却不知道从哪里开始
-
-### 在本文中，我将为致力于大规模时间序列探索的框架奠定基础。
-
-towardsdatascience.com](/having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028) [](/all-multivariate-time-series-are-not-born-equal-ba2d26e2528e) [## 所有多元时间序列并非生来平等
-
-### 多元时间序列的不同家庭的介绍，以及这将如何影响你的探索和人工智能/ML…
-
-towardsdatascience.com](/all-multivariate-time-series-are-not-born-equal-ba2d26e2528e) [](/advanced-visualization-techniques-for-time-series-analysis-14eeb17ec4b0) [## 时间序列分析的高级可视化技术
-
-### 使用马尔可夫转移场和网络图揭示时间序列行为。
-
-towardsdatascience.com](/advanced-visualization-techniques-for-time-series-analysis-14eeb17ec4b0) 
+</having-hundreds-of-time-series-to-explore-and-not-knowing-where-to-start-5e7873fd2028>  </all-multivariate-time-series-are-not-born-equal-ba2d26e2528e>  </advanced-visualization-techniques-for-time-series-analysis-14eeb17ec4b0>  
 
 ## 参考
 

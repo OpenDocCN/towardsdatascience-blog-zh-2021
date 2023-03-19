@@ -145,15 +145,7 @@ NLP 的应用不仅限于上述用例。关于 [**算法等级**](https://algosc
 
 ***你也可以读出以下有趣的文章作为 NLP 的基础***
 
-[](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [## 使用 Python 处理文本文件的技巧和诀窍
-
-### 使用文本文件并熟悉 Python 中令人惊叹的技术
-
-towardsdatascience.com](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) [## 操作 PDF 文件，用 PyPDF2 和正则表达式提取信息
-
-### 使用 PyPDF2 和正则表达式简化 PDF 操作任务
-
-towardsdatascience.com](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) 
+</tips-and-tricks-to-work-with-text-files-in-python-89f14a755315>  </manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca>  
 
 ## 参考
 

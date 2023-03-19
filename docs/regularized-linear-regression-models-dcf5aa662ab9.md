@@ -12,7 +12,7 @@
 
 你好。👋
 
-欢迎来到深入探讨**正则化线性回归建模**的三部分的最后一部分！在[**第一部分**](/regularized-linear-regression-models-57bbdce90a8c) 中，建立了线性模型，并推导出 OLS，显示了如何求解模型系数，以预测给定新特征数据的响应。接下来，在第二部分[](/regularized-linear-regression-models-44572e79a1b5)**、 ***中，讨论了 OLS 模型的过拟合*** 问题，并且提出了 ***岭回归*** 作为通过正则化来帮助减少过拟合的技术。建筑脱离了与山脊回归相同的概念， ***套索*** 和 ***弹性网*** 现已呈现。本系列以对所介绍技术的用例的一般考虑作为结束。**
+欢迎来到深入探讨**正则化线性回归建模**的三部分的最后一部分！在[**第一部分**](/regularized-linear-regression-models-57bbdce90a8c) 中，建立了线性模型，并推导出 OLS，显示了如何求解模型系数，以预测给定新特征数据的响应。接下来，在第二部分</regularized-linear-regression-models-44572e79a1b5>**、 ***中，讨论了 OLS 模型的过拟合*** 问题，并且提出了 ***岭回归*** 作为通过正则化来帮助减少过拟合的技术。建筑脱离了与山脊回归相同的概念， ***套索*** 和 ***弹性网*** 现已呈现。本系列以对所介绍技术的用例的一般考虑作为结束。**
 
 **模型和包含的实现在葡萄酒质量预测数据集上进行了测试，其代码和结果可以在项目资源库 [**这里**](http://github.com/wyattowalsh/regularized-linear-regression-deep-dive) **中查看。****
 
@@ -150,6 +150,6 @@
 
 ****见 [**这里**](https://github.com/wyattowalsh/regularized-linear-regression-deep-dive/blob/master/SOURCES.md) 为不同的来源，利用创造这一系列的职位。****
 
-****如果你刚刚开始这个系列，请确保查看第一部分[](/regularized-linear-regression-models-57bbdce90a8c)**和第二部分[**！**](/regularized-linear-regression-models-44572e79a1b5)******
+****如果你刚刚开始这个系列，请确保查看第一部分</regularized-linear-regression-models-57bbdce90a8c>**和第二部分[**！**](/regularized-linear-regression-models-44572e79a1b5)******
 
 ******如果你愿意，请留下评论！我一直在努力改进我的帖子(逻辑上，语法上，或者其他方面),并且很乐意讨论任何相关的东西！👋******

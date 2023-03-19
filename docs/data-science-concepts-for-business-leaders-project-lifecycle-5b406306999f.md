@@ -24,11 +24,7 @@
 
 数据科学人才短缺并不是什么新鲜事。这个问题已经存在好几年了，随着对数据科学专业人员需求的增加，这个问题似乎变得越来越严重。这有点像一个古老的难题，先有鸡还是先有蛋？为数据科学团队寻找人才的挑战分为两类:有才华的数据科学家，但他们都不具备特定于您公司的行业知识，或者您有知识渊博的行业人才，但没有数据科学技能。这是一个棘手的问题。为了实现*有用的*洞察力的目标，需要领域知识和数据科学技能。
 
-[](/getting-your-analytics-team-right-b539206dac3d) [## 让您的分析团队走上正轨！
-
-### 成功分析团队的五个必要角色
-
-towardsdatascience.com](/getting-your-analytics-team-right-b539206dac3d) 
+</getting-your-analytics-team-right-b539206dac3d>  
 
 **通信**
 
@@ -122,11 +118,7 @@ towardsdatascience.com](/getting-your-analytics-team-right-b539206dac3d)
 *   数据砖
 *   矩阵实验室
 
-[](/data-science-concepts-for-business-leaders-the-basics-15fd17c18254) [## 商业领袖的数据科学概念:基础
-
-### 你需要知道的基础知识
-
-towardsdatascience.com](/data-science-concepts-for-business-leaders-the-basics-15fd17c18254) 
+</data-science-concepts-for-business-leaders-the-basics-15fd17c18254>  
 
 **第五阶段:实施模型**
 
@@ -167,11 +159,7 @@ Kye 角色:
 *   数据分析经理
 *   商业分析师
 
-[](/the-future-of-data-science-5825bde65637) [## 数据科学的未来
-
-### 数据科学和业务环境正在融合
-
-towardsdatascience.com](/the-future-of-data-science-5825bde65637) 
+</the-future-of-data-science-5825bde65637>  
 
 ## 结论
 

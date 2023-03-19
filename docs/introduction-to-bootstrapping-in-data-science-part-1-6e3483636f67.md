@@ -105,17 +105,13 @@ Confidence interval 95%:
 
 **最后的话**
 
-“bootstrapping”一词的所谓来源是《孟乔森男爵奇异历险记》[](https://en.wikipedia.org/wiki/Baron_Munchausen)*(1786)的一个版本中的一段话，当主角通过拉自己靴子的带子从一个洞里出来时。*
+“bootstrapping”一词的所谓来源是《孟乔森男爵奇异历险记》<https://en.wikipedia.org/wiki/Baron_Munchausen>*(1786)的一个版本中的一段话，当主角通过拉自己靴子的带子从一个洞里出来时。*
 
 *这一比喻在一定程度上适用:虽然自举并不创造数据，但这一简单的计算技术让我们可以利用手头的数据更进一步，即使在理论不可用或无法安全做出假设的情况下，这一方法也能奏效。*
 
 *我将在后续文章中介绍各种各样的引导应用程序(见下文)。如果你对这个话题感兴趣，我强烈建议你看看参考资料。感谢您的阅读！*
 
-*[](/introduction-to-bootstrapping-in-data-science-part-2-ef7236e464a7) [## 数据科学中的引导介绍—第 2 部分
-
-### 使用您选择的任何自定义统计数据比较两个样本
-
-towardsdatascience.com](/introduction-to-bootstrapping-in-data-science-part-2-ef7236e464a7)* 
+*</introduction-to-bootstrapping-in-data-science-part-2-ef7236e464a7> * 
 
 ***参考文献***
 

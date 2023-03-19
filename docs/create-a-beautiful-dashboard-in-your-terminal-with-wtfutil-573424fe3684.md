@@ -224,30 +224,10 @@ sudo mv ~/Downloads/credentials.json  ~/.config/wtf
 
 本文中显示的完整的`~/.config/wtf/config.yml`文件可以在这里找到。
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/terminal/wtf/config.yml) [## khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合- khuyentran1401/Data-science
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/terminal/wtf/config.yml) 
+<https://github.com/khuyentran1401/Data-science/blob/master/terminal/wtf/config.yml>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/) 和 [Twitter](https://twitter.com/KhuyenTran16) 上联系我。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [## 了解您的 CSV 文件从您的终端与 XSV
-
-### 用一行代码通过你的终端快速理解你的 CSV 文件
-
-towardsdatascience.com](/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) [](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [## 如何在命令行上创建和查看交互式备忘单
-
-### 停止搜索命令行。用作弊来节省时间
-
-towardsdatascience.com](/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) [](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [## 在 Python 中停止使用 Print 进行调试。用冰淇淋代替
-
-### 你是使用打印还是日志来调试你的代码？用冰淇淋代替。
-
-towardsdatascience.com](/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) [](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) [## Rich:用 Python 在终端生成丰富美观的文本
-
-### 用几行代码调试和创建很酷的 Python 包
-
-towardsdatascience.com](/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e)
+</understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293>  </how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff>  </stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc>  </rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e> 

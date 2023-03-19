@@ -20,11 +20,7 @@
 
 我正在使用来自 [Kaggle](https://www.kaggle.com/c/titanic/data) 的泰坦尼克号数据集。
 
-[](https://www.kaggle.com/c/titanic/data) [## 泰坦尼克号-机器从灾难中学习
-
-### 从这里开始！预测泰坦尼克号上的生存并熟悉 ML 基础知识
-
-www.kaggle.com](https://www.kaggle.com/c/titanic/data) 
+<https://www.kaggle.com/c/titanic/data>  
 
 这个数据集有很多关于乘客的信息:姓名、年龄、性别、舱位等级(一等、二等或三等)、票价、车上兄弟姐妹的数量等等。
 

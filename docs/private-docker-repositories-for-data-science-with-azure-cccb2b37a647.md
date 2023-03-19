@@ -21,15 +21,7 @@
 
 如果您不确定从哪里开始使用 Docker，我已经写了两部分的系列文章，包括启动和运行，然后在这两篇文章中部署端到端的机器学习服务:
 
-[](/docker-for-data-scientists-part-1-41b0725d4a50) [## 面向数据科学家的 Docker 第 1 部分
-
-### 最基本的。数据科学家和机器学习工程师快速入门指南
-
-towardsdatascience.com](/docker-for-data-scientists-part-1-41b0725d4a50) [](/docker-for-data-scientists-part-2-7655c02fe975) [## 数据科学家的 Docker 第 2 部分
-
-### 开发机器学习模型、编写 API、打包到 Docker 中、在任何地方运行、分享的完整指南…
-
-towardsdatascience.com](/docker-for-data-scientists-part-2-7655c02fe975) 
+</docker-for-data-scientists-part-1-41b0725d4a50>  </docker-for-data-scientists-part-2-7655c02fe975>  
 
 第一部分介绍了如何使用 Docker，所以如果您还没有准备好，请随时进入并准备好。
 

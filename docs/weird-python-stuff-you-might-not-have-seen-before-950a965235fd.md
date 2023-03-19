@@ -20,11 +20,7 @@ Python 编程语言是一种充满了惊人的多范例特性的编程语言。�
 
 如果你是一个 C 程序员，很可能你熟悉返回类型。对于所有的非 C 程序员(或其他具有这种特性的语言，Java，C++，等等)。)返回类型就是函数结束时将要返回的数据类型。此外，如果你对 C 感兴趣，但在阅读之后不知道从哪里开始，我确实有一篇文章提供了对 C 的简单介绍，对新程序员来说非常友好。如果你想要这本书，你可以在这里查阅:
 
-[](/an-understandable-introduction-to-c-e2cc12a52053) [## 浅显易懂的 C 语言介绍
-
-### 对 C 语法结构的有效观察，以及对 C 编程的介绍
-
-towardsdatascience.com](/an-understandable-introduction-to-c-e2cc12a52053) 
+</an-understandable-introduction-to-c-e2cc12a52053>  
 
 有些人可能会惊讶地发现，在 Python 中也可以这样做。我实际上是在一艘直到最近才知道这件事的人的船上。Python 首先处理类型和函数的方式相当奇怪…来自像 Julia 这样具有健壮的、强类型系统的语言，尽管 Python 是相对强类型的并且几乎没有隐式类型，但我仍然觉得奇怪的是指定参数类型基本上没有任何作用:
 
@@ -60,11 +56,7 @@ type(add5(5))str
 
 为了更好地理解这个特性，我在 Python.org 上读了一些 PEP 对这个特性的解释。如果你想读我读的东西，你可以在这里:
 
-[](https://www.python.org/dev/peps/pep-3107/#return-values) [## PEP 3107 -功能注释
-
-### 这个 PEP 引入了一个向 Python 函数添加任意元数据注释的语法[1]。因为 Python 的 2.x…
-
-www.python.org](https://www.python.org/dev/peps/pep-3107/#return-values) 
+<https://www.python.org/dev/peps/pep-3107/#return-values>  
 
 然而，基本上所有这些反复出现在我脑海中的是，这是一个完全没有意义的功能。这看起来很奇怪，这样的东西被编程到 Python 中，却没有一个函数类型的系统真正使用它。我唯一的想法是，这可能实际上是有用的，也许它可以帮助编译。在我读到之前，这是有可能的
 
@@ -78,11 +70,7 @@ www.python.org](https://www.python.org/dev/peps/pep-3107/#return-values)
 
 装饰器是 Python 中最简单、最容易使用的特性之一，它可以对您生成的代码产生巨大的影响。它们可以用来加速代码，改变代码的工作方式，甚至操纵对象在 Python 中存储数据的方式。也就是说，我的下一个奇怪的 Python 特性来自于标准库的 functools 模块中的缓存功能。此外，如果您想了解更多关于这个库的信息，我有一整篇关于它的文章，非常激进:
 
-[](/functools-an-underrated-python-package-405bbef2dd46) [## FuncTools:一个被低估的 Python 包
-
-### 使用 functools 将您的 Python 函数提升到一个新的水平！
-
-towardsdatascience.com](/functools-an-underrated-python-package-405bbef2dd46) 
+</functools-an-underrated-python-package-405bbef2dd46>  
 
 为了利用缓存，我们将像这样导入 lru_cache:
 
@@ -133,7 +121,7 @@ def factorial(n):
 
 我列出的怪异 Python 的下一个例子是 dataclass。这是另一个我认为非常有价值的装饰。虽然 decorator 的工作非常简单，但是它可以通过消除对初始化函数和典型 Python 类的其他组件的需求，非常有效地节省大量代码。如果你想阅读更多关于这个特定主题的内容，我有一整篇关于数据类的文章，以及为什么我认为它们很酷，你可以在这里阅读:
 
-[](/pythons-data-classes-are-underrated-cc6047671a30) [## Python 的数据类被低估了
+</pythons-data-classes-are-underrated-cc6047671a30> [## Python 的数据类被低估了
 
 towardsdatascience.com](/pythons-data-classes-are-underrated-cc6047671a30) 
 
@@ -184,17 +172,13 @@ print("I'm a {Ds} Named {nm}".format(Ds = "Data Scientist", nm="Bob"))I'm a Data
 
 当然，在很多情况下，这样的东西会被证明是有用的。我想到的一个例子当然是标签处理。我正好有一篇关于 Python 中标签处理的文章，如果你想了解更多关于这个主题的内容，你可以在这里阅读这篇文章:
 
-[](/essential-python-string-processing-techniques-aa5be43a4f1f) [## Python 字符串处理的基本技术
-
-### 在 Python 中处理字符串类型数据的完整过程
-
-towardsdatascience.com](/essential-python-string-processing-techniques-aa5be43a4f1f) 
+</essential-python-string-processing-techniques-aa5be43a4f1f>  
 
 # 结论
 
 Python 确实有许多奇怪的地方，其中一些比其他的更有用。这些只是其中的一些，还有很多。我希望在你的软件之旅中，这些奇怪的小轨迹能派上用场！非常感谢您阅读我的文章。如果这篇文章中有一个部分对我来说很突出，那可能是两个装饰者，因为根据我的经验，我发现他们非常有用。我有一篇文章列出了一堆我认为有用的不同装饰者，我强烈推荐它们！你可以在这里读到:
 
-[](/10-fabulous-python-decorators-ab674a732871) [## 10 个神话般的 Python 装饰者
+</10-fabulous-python-decorators-ab674a732871> [## 10 个神话般的 Python 装饰者
 
 towardsdatascience.com](/10-fabulous-python-decorators-ab674a732871) 
 

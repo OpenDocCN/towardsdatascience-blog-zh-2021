@@ -56,16 +56,4 @@
 
 ## **相关文章**
 
-**[](/the-difference-between-data-scientists-and-ml-engineers-f6e797948003) [## 数据科学家和 ML 工程师的区别
-
-### 职责、专业知识和期望薪资
-
-towardsdatascience.com](/the-difference-between-data-scientists-and-ml-engineers-f6e797948003) [](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [## 如何成为一名机器学习工程师
-
-### 包含课程的全面路线图
-
-towardsdatascience.com](/how-to-become-a-machine-learning-engineer-e420e134c0a3) [](/the-day-to-day-of-a-machine-learning-engineer-378b80bf1f6f) [## 机器学习工程师的日常工作
-
-### 表现得像你想成为的人
-
-towardsdatascience.com](/the-day-to-day-of-a-machine-learning-engineer-378b80bf1f6f)**
+**</the-difference-between-data-scientists-and-ml-engineers-f6e797948003>  </how-to-become-a-machine-learning-engineer-e420e134c0a3>  </the-day-to-day-of-a-machine-learning-engineer-378b80bf1f6f> **

@@ -36,11 +36,7 @@ Spark NLP 是 John Snow Labs 的一个开源项目，作为第三方产品，成
 
 句子嵌入是一种将句子映射到向量的文本处理方法，作为一种用适合机器学习的实数表示文本的方法。关于如何训练和部署基于 Transformer 的句子嵌入(如 LaBSE)的更多细节，我建议阅读我关于*基于 Transformer 的句子嵌入*的文章。
 
-[](https://medium.com/swlh/transformer-based-sentence-embeddings-cd0935b3b1e0) [## 基于转换器的句子嵌入
-
-### 深度学习自然语言处理教程分析与摘录文本摘要的文件集，利用…
-
-medium.com](https://medium.com/swlh/transformer-based-sentence-embeddings-cd0935b3b1e0) 
+<https://medium.com/swlh/transformer-based-sentence-embeddings-cd0935b3b1e0>  
 
 Spark NLP 提供了两个 [Tensorflow Hub 的通用句子编码器模型](https://tfhub.dev/google/universal-sentence-encoder/1)，默认选项是用深度平均网络(DAN)编码器训练的模型，这是最初使用论文的研究人员提供的两个选项中最受欢迎的一个。关于如何实现 USE 语句嵌入的更多细节，我推荐这篇讨论生产选项的[中型文章。](/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15)
 

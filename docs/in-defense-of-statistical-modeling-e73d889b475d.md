@@ -91,7 +91,7 @@ Chris I. [说得](/dont-become-a-data-scientist-ee4769899025)更直白，有一�
 
 # *数据科学家太多了*
 
-***怀疑论者:** *也许高级数据科学家真的很好增值但是现在有了*[](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists)**[*初级数据科学家*](https://veekaybee.github.io/2019/02/13/data-science-is-different/) *。这些穷人最终会在没有准备好统计模型的公司工作，浪费他们的培训和才能。****
+***怀疑论者:** *也许高级数据科学家真的很好增值但是现在有了*<https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists>**[*初级数据科学家*](https://veekaybee.github.io/2019/02/13/data-science-is-different/) *。这些穷人最终会在没有准备好统计模型的公司工作，浪费他们的培训和才能。****
 
 ****我:**我们上面说过，数据清洗是统计建模的*部分*，数据科学培训项目更应该强调这一点。想专攻模特的人应该去大公司找工作，尽管这也不是万灵药；理解数据和工程管道总是很重要的。**
 
@@ -103,4 +103,4 @@ Chris I. [说得](/dont-become-a-data-scientist-ee4769899025)更直白，有一�
 
 **在过去的 10 年里，数据科学领域肯定受到了大量的炒作，一定程度的抵制是不可避免的，甚至是富有成效的。但是我们不要忘记它的统计建模核心技能带来的价值。**
 
-***原载*[](https://www.crosstab.io/articles/defending-data-science)**交叉表风筝。****
+***原载*<https://www.crosstab.io/articles/defending-data-science>**交叉表风筝。****

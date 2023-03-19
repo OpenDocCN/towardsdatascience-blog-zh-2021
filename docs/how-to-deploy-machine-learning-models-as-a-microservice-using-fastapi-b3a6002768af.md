@@ -139,4 +139,4 @@ FastAPI 还提供了自动创建的精美文档。只需在浏览器中输入 [1
 *   [K-最近邻算法完全指南——使用 Python 实现 KNN](https://ashutoshtripathi.com/2019/08/05/a-complete-guide-to-k-nearest-neighbors-algorithm-knn-using-python/)
 *   [参考 Python 笔记本，了解适合初学者的重要 ML 算法](https://ashutoshtripathi.com/reference-python-notebook-for-important-ml-algorithms-for-the-beginners/)
 
-*原载于 2021 年 2 月 15 日 http://ashutoshtripathi.com*[](https://ashutoshtripathi.com/2021/02/15/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi/)**。**
+*原载于 2021 年 2 月 15 日 http://ashutoshtripathi.com*<https://ashutoshtripathi.com/2021/02/15/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi/>**。**

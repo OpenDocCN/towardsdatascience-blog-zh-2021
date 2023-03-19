@@ -16,23 +16,11 @@
 
 如果你错过了他们:
 
-[](/docker-for-data-scientists-part-1-41b0725d4a50) [## 面向数据科学家的 Docker 第 1 部分
-
-### 最基本的。数据科学家和机器学习工程师快速入门指南
-
-towardsdatascience.com](/docker-for-data-scientists-part-1-41b0725d4a50) [](/docker-for-data-scientists-part-2-7655c02fe975) [## 数据科学家的 Docker 第 2 部分
-
-### 开发机器学习模型、编写 API、打包到 Docker 中、在任何地方运行、分享的完整指南…
-
-towardsdatascience.com](/docker-for-data-scientists-part-2-7655c02fe975) 
+</docker-for-data-scientists-part-1-41b0725d4a50>  </docker-for-data-scientists-part-2-7655c02fe975>  
 
 现在你可能不想在任何情况下公开分享你的图片。幸运的是，有许多选项可供您构建和维护私有存储库。每个主要的云提供商 Azure、AWS 和 GCP 都有托管存储库选项，这些选项很容易启动和运行。对于那些热衷于使用 Azure 的人，我还写了一个快速指南，介绍如何使用 Docker 和 Azure CLI 运行私有存储库:
 
-[](/private-docker-repositories-for-data-science-with-azure-cccb2b37a647) [## 使用 Azure 的数据科学专用 Docker 存储库
-
-### 机器学习工程师精要——如何建立私有容器库，保护它们，在…
-
-towardsdatascience.com](/private-docker-repositories-for-data-science-with-azure-cccb2b37a647) 
+</private-docker-repositories-for-data-science-with-azure-cccb2b37a647>  
 
 如果您已经启动并运行了，并且只是想开始使用数据持久性，那么让我们开始吧。
 
@@ -134,18 +122,10 @@ http://127.0.0.1:8888/?token=a7a30a23821b5764d7f754838af13099b6b134c8687c415f
 
 Docker 中的数据持久性还有很多。由 [Lorenz Vanthillo](https://medium.com/u/fd5f8bfe0baa?source=post_page-----18bb05589010--------------------------------) 撰写的这篇文章介绍了如何将 Docker 容器连接到 PostgreSQL 数据库:
 
-[](https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7) [## 从本地机器连接到 Docker 中的 PostgreSQL 数据库
-
-### 一个简单的方法让你开始使用 Docker
-
-medium.com](https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7) 
+<https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7>  
 
 在这里， [Thiago S. Adriano](https://medium.com/u/bfc537e02cdc?source=post_page-----18bb05589010--------------------------------) 写了一篇关于连接 SQL Server 的精彩指南:
 
-[](https://medium.com/dockerbr/accessing-sql-server-on-docker-container-86b84efcaa1c) [## Ubuntu -访问 Docker 容器上的 SQL Server
-
-### 今天我们将看到如何在 Ubuntu 中使用 sqlcmd 访问 Docker 容器中的数据库。
-
-medium.com](https://medium.com/dockerbr/accessing-sql-server-on-docker-container-86b84efcaa1c) 
+<https://medium.com/dockerbr/accessing-sql-server-on-docker-container-86b84efcaa1c>  
 
 再次感谢您的阅读，如果您对进一步的内容有任何反馈或要求，请务必告诉我。

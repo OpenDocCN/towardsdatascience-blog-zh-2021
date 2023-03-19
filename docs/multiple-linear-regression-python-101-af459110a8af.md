@@ -339,8 +339,4 @@
 
 请留下你的评论或想法！
 
-[](https://chuckutterback.medium.com/membership) [## 通过我的推荐链接加入媒体-查克·厄特巴克
-
-### 加入我的推荐链接- Chuck Utterback，从我自己和所有的人那里获得高质量的文章
-
-chuckutterback.medium.com](https://chuckutterback.medium.com/membership)
+<https://chuckutterback.medium.com/membership> 

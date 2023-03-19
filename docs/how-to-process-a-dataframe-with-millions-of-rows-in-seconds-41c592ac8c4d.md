@@ -28,11 +28,7 @@ Python 中的 ig 数据分析正在复兴。这一切都始于 NumPy，它也是
 
 *你愿意多看一些这样的文章吗？如果是这样，你可以点击上面的任何链接来支持我。其中一些是附属链接，但你不需要购买任何东西。*
 
-[](/are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919) [## 2021 年你还在用熊猫处理大数据吗？
-
-### 熊猫处理不好大数据。这两个库有！哪个更好？更快？
-
-towardsdatascience.com](/are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919) 
+</are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919>  
 
 # 认识 Vaex
 

@@ -394,10 +394,6 @@ Power BI 数据集连接器。图片由[作者](https://natworkeffects.medium.co
 **今天使用的所有 Python 代码片段都可以在
 Github repo:**
 
-**[](https://github.com/natworkeffects/power-bi-streaming) [## GitHub-natworkeffects/power-bi-streaming
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/natworkeffects/power-bi-streaming) 
+**<https://github.com/natworkeffects/power-bi-streaming>  
 
 感谢您通读本系列，下一篇文章再见。**

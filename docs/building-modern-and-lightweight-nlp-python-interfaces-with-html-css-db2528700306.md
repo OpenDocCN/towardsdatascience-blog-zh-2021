@@ -65,16 +65,8 @@ Eel 是数据科学家和机器学习研究人员的游戏规则改变者，他�
 
 在这里你可以找到这个项目的 GitHub 库。请随意使用 eel 来创建令人惊奇的 NLP 应用程序和更多！
 
-[](https://github.com/detsutut/ama-bot) [## GitHub - detsutut/ama-bot:一个用于问答系统的现代轻量级 NLP 接口…
-
-### 一个现代的轻量级 NLP 界面，用于问答系统等等。叉这个项目来展示你的…
-
-github.com](https://github.com/detsutut/ama-bot) 
+<https://github.com/detsutut/ama-bot>  
 
 我希望这篇文章对你有用！如果你喜欢我的工作，现在你也可以给我买一瓶啤酒！🍺
 
-[](https://www.linkedin.com/in/tbuonocore) [## Tommaso Buonocore -帕维亚大学大数据和生物医学信息学博士生
-
-### 生物医学工程师和人工智能爱好者，目前正在研究 NLP 解决方案，以改善基于医疗保健的预测任务…
-
-www.linkedin.com](https://www.linkedin.com/in/tbuonocore)
+<https://www.linkedin.com/in/tbuonocore> 

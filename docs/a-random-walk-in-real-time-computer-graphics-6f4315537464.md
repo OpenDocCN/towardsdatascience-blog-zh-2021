@@ -116,11 +116,7 @@ vec4 boxmap( in sampler2D s, in vec3 p, in vec3 n, in float k )
 
 你可以访问 ShaderToy 查看实时版本。
 
-[](https://www.shadertoy.com/view/flBGzK) [## Shadertoy
-
-### 构建着色器，共享它们，并向最佳社区学习。
-
-www.shadertoy.com](https://www.shadertoy.com/view/flBGzK) 
+<https://www.shadertoy.com/view/flBGzK>  
 
 # 收场白
 

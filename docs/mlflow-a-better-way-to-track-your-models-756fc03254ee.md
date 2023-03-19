@@ -12,11 +12,7 @@
 
 本教程源代码推送到 GitHub:
 
-[](https://github.com/Deena-Gergis/mlflow_tracking) [## GitHub-Deena-ger GIS/mlflow _ tracking:演示 ml flow 跟踪的基本功能
-
-### 图解启动 MLflow tracking 的基本功能-GitHub-Deena-ger GIS/ml flow _ tracking:图解启动基本…
-
-github.com](https://github.com/Deena-Gergis/mlflow_tracking) 
+<https://github.com/Deena-Gergis/mlflow_tracking>  
 
 # 3 分钟后开始:
 

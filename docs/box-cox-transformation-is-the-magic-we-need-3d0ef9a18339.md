@@ -28,11 +28,7 @@
 
 您可以在我之前的文章中找到关于这个模型的更多细节:
 
-[](/when-should-we-use-the-log-linear-model-db76c405b97e) [## 我们什么时候应该使用对数线性模型？
-
-### 线性模型的一个有吸引力的替代方案
-
-towardsdatascience.com](/when-should-we-use-the-log-linear-model-db76c405b97e) 
+</when-should-we-use-the-log-linear-model-db76c405b97e>  
 
 # 博克斯-考克斯方法
 

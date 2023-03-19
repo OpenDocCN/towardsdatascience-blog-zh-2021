@@ -12,11 +12,7 @@
 
 远程工作是当今的一种新常态。离开办公室的头几个月相当有趣，但那份工作还是那份工作:依赖固定的薪水/时薪，有限的机会，失去温暖工作的风险。我们很多人都尝试过单干，在网上寻找客户，学习新的热门技能。然而，你可能会注意到，你好不容易征服的新客户不会为 Udemy 证书和 Tensorflow 技能付钱——他们只想要*尽可能便宜的两周内 99%准确的解决方案。别忘了还有那个时间追踪"*。因此，对你来说——**更多的压力，更少的钱，更少的满足感** **来自所谓的独立、创造性和鼓舞人心的工作**。在这篇文章中，我想总结一下我在维罗纳大学会议上详细谈到的实用见解，它将帮助你建立一个独立的专家职业生涯。另外，我邀请你参加下周的俱乐部聊天，我们可以一起更详细地讨论我们的经历，并互相帮助:
 
-[](https://www.joinclubhouse.com/event/Md0N42wq) [## 🧑数据科学🏽‍💻当自由职业者🌴快乐的客户💰
-
-### 讨论作为数据科学家的独立职业以及如何为您的客户提供最大价值🚀🚀🚀没有会所…
-
-www.joinclubhouse.com](https://www.joinclubhouse.com/event/Md0N42wq) 
+<https://www.joinclubhouse.com/event/Md0N42wq>  
 
 # 客户真正想从你这里得到什么
 
@@ -62,11 +58,7 @@ www.joinclubhouse.com](https://www.joinclubhouse.com/event/Md0N42wq)
 
 简而言之，你应该**利用你的才能**(而不是社会教条行为)**在一个**高薪且有影响力的专业领域使用你擅长的技能**(再次强调，而不是被认为很酷的东西**(而不是在别人告诉你的地方工作)。关于这个话题，我写了一整篇文章，请大家看看:
 
-[](https://medium.com/@alexrachnog/from-developer-to-entrepreneur-what-is-your-way-up-497fd5512b9c) [## 从开发商到企业家:你的上升之路是什么？
-
-### 分解世界各地的技术摇滚明星和年轻企业家的职业生涯
-
-medium.com](https://medium.com/@alexrachnog/from-developer-to-entrepreneur-what-is-your-way-up-497fd5512b9c) 
+<https://medium.com/@alexrachnog/from-developer-to-entrepreneur-what-is-your-way-up-497fd5512b9c>  
 
 ## 利用你的网络
 
@@ -76,11 +68,7 @@ medium.com](https://medium.com/@alexrachnog/from-developer-to-entrepreneur-what-
 
 我知道你的关系网可能是有限的，或者不包括你想工作的地区的人。怎么去？**开始对网上陌生人有用！**正如我们所商定的，你在人才、技能和业务领域的独特交汇处工作，因此开始帮助他人回答专业社区中的问题，参与讨论和在线会议，分析行业新闻，展示见解和案例研究。Hubspot 的销售之王也同意这一点(查看“权威消息”):
 
-[](https://blog.hubspot.com/marketing/using-content-marketing-professional-services) [## 在专业服务行业中使用内容营销
-
-### 如果您的企业提供专业的内容营销服务，那么您的内容营销策略应该有所不同
-
-blog.hubspot.com](https://blog.hubspot.com/marketing/using-content-marketing-professional-services) 
+<https://blog.hubspot.com/marketing/using-content-marketing-professional-services>  
 
 在媒体上积极主动(选择你喜欢的一个)，你的网络会爆炸。
 
@@ -88,11 +76,7 @@ blog.hubspot.com](https://blog.hubspot.com/marketing/using-content-marketing-pro
 
 作为一名数据科学家，你明白，如果你根据垃圾数据进行建模和决策，结果将会是这样。衡量你的财务(甚至用 Excel)，你的工作努力(用 Toggle 之类的东西)，你的内容的参与度，作为一个最小的活动集。我建议将客观的关键结果作为设定目标和衡量后续进展的方法:
 
-[](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) [## 回复:工作指南:用 OKRs 设定目标
-
-### 研究表明，致力于一个目标有助于提高员工的绩效。但更具体地说，研究…
-
-rework.withgoogle.com](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) 
+<https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/>  
 
 现在你是一家单人企业，所以你集所有关键“角色”于一身:首席执行官、首席财务官、首席技术官、CMO。你在这些方向上所做的一切都必须被定期跟踪和反思，以便改进。
 
@@ -114,11 +98,7 @@ rework.withgoogle.com](https://rework.withgoogle.com/guides/set-goals-with-okrs/
 
 我想再次提醒你下周俱乐部会所的谈话。我们人不多，团结互助吧:)
 
-[](https://www.joinclubhouse.com/event/Md0N42wq) [## 🧑数据科学🏽‍💻当自由职业者🌴快乐的客户💰
-
-### 讨论作为数据科学家的独立职业以及如何为您的客户提供最大价值🚀🚀🚀没有会所…
-
-www.joinclubhouse.com](https://www.joinclubhouse.com/event/Md0N42wq) 
+<https://www.joinclubhouse.com/event/Md0N42wq>  
 
 **附言**
 如果你觉得这个内容有用，有观点，可以[在 Bitclout 上支持我](https://bitclout.com/u/alexrachnog)。你也可以在[脸书](https://www.facebook.com/rachnogstyle.blog)博客或 [LinkedIn](https://www.linkedin.com/in/alexandr-honchar-4423b962/) 上与我联系，在那里我会定期发布一些对媒体来说太短的人工智能文章或新闻，并在 [Instagram](http://instagram.com/rachnogstyle) 上发布一些更私人的内容。如果你期待成为一名人工智能企业家并解决具有挑战性的问题，ping [神经元实验室](http://neurons-lab.com/)，我们正在与顶级人工智能自由职业者合作:)

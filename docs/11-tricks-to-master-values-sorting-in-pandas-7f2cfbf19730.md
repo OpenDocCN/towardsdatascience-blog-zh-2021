@@ -234,11 +234,7 @@ df.**sort_values('size')**
 
 这里有一篇文章可以了解更多关于熊猫的自定义排序:
 
-[](/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320) [## 如何对熊猫数据帧进行自定义排序
-
-### 你应该知道的一些最有用的熊猫把戏
-
-towardsdatascience.com](/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320) 
+</how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320>  
 
 # 7.处理缺失值
 
@@ -265,11 +261,7 @@ df.sort_values('id', **na_position='first'**)
 
 或者，我们可以考虑删除或替换丢失的值。
 
-[](/working-with-missing-values-in-pandas-5da45d16e74) [## 处理熊猫中缺失的值
-
-### 关于 Pandas 中缺失值以及如何使用内置方法处理它们的教程
-
-towardsdatascience.com](/working-with-missing-values-in-pandas-5da45d16e74) 
+</working-with-missing-values-in-pandas-5da45d16e74>  
 
 # 8.就地排序值
 

@@ -70,19 +70,11 @@ Sample_Test_3 =我不喜欢这项服务。
 
 他们围绕这一点设计了一个非常简单易用的用户界面，以方便非技术人员也能大规模地生成示例。请务必检查其他功能，网址为—
 
-[](https://github.com/marcotcr/checklist/blob/master/notebooks/tutorials/visual_suggest.gif) [## marcotcr/清单
-
-### 超越准确性:NLP 模型的行为测试
-
-github.com](https://github.com/marcotcr/checklist/blob/master/notebooks/tutorials/visual_suggest.gif) 
+<https://github.com/marcotcr/checklist/blob/master/notebooks/tutorials/visual_suggest.gif>  
 
 ***P.S.*** *我也正在为这篇论文做一个多语种字幕的视频讲解。一旦发布，我会在评论中更新！同时，我在我的频道上已经解释了很多论文，你可以在—* 查看
 
-[](https://www.youtube.com/c/TechVizTheDataScienceGuy) [## TechViz——数据科学家
-
-### 有人说得好，“学习最好的部分是分享你所知道的”。我是普拉卡·米什拉，这个频道是我的…
-
-www.youtube.com](https://www.youtube.com/c/TechVizTheDataScienceGuy) 
+<https://www.youtube.com/c/TechVizTheDataScienceGuy>  
 
 **更新—2020 年 8 月 2 日**
 

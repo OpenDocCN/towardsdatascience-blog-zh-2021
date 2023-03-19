@@ -12,19 +12,11 @@
 
 这些变化我就不一一列举了。如果你想要所有新特性的列表，官方文档总是最好的地方。
 
-[](https://www.python.org/downloads/release/python-3100/) [## Python 版本 Python 3.10.0
-
-### 发布日期:2021 年 10 月 4 日 Python 3.10.0 是 Python 编程语言的最新主要版本，它…
-
-www.python.org](https://www.python.org/downloads/release/python-3100/) 
+<https://www.python.org/downloads/release/python-3100/>  
 
 我不会只关注特性，我还会建议如何获得 Python 的这个新版本，这样我们都可以开始玩了。既然它已经发布了，我可以使用我最喜欢的 Python 环境管理工具包——Anaconda 来下载它。如果你还没拿到，可以免费下载。
 
-[](https://www.anaconda.com/products/individual) [## Anaconda |个人版
-
-### Anaconda 的开源个人版是在一个应用程序上执行 Python/R 数据科学和机器学习的最简单的方法
-
-www.anaconda.com](https://www.anaconda.com/products/individual) 
+<https://www.anaconda.com/products/individual>  
 
 安装后，我们可以使用最新版本 3.10 创建一个新的 Python 虚拟环境。
 
@@ -83,11 +75,7 @@ def plus_1(number: int | str):
 
 在我之前的一篇文章中已经对`zip()`函数进行了深入的讨论。这里也提到了 Python 3.10 中的这个新特性。这是 Python 中一个非常强大和有用的函数。如果不是太了解，强烈推荐看我的文章。
 
-[](/fasten-python-objects-using-zip-88a1e7a68c7) [## 使用 Zip“固定”Python 对象
-
-### Python 的一个技巧使得使用多个可迭代对象变得更加容易
-
-towardsdatascience.com](/fasten-python-objects-using-zip-88a1e7a68c7) 
+</fasten-python-objects-using-zip-88a1e7a68c7>  
 
 简而言之，`zip()`函数将从两个容器(比如一个列表)中逐个获取项目，并将两个容器中相应位置的项目放在一个元组中。看看下面的例子。
 
@@ -291,10 +279,6 @@ my_dict = {'name': 'Chris', 'age': 33
 
 在这篇文章中，我介绍了几天前发布的 Python 3.10 中最重要的 5 个新特性。希望这将是有帮助的，并展示了这些新功能以及我提供的例子。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

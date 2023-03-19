@@ -70,11 +70,7 @@ do 运算符如何工作的图示。图片作者。
 
 do 运算符是因果推理工具箱中的一个关键工具。事实上，接下来的两个礼物依赖于 do-operator。
 
-[](/causal-effects-via-the-do-operator-5415aefc834a) [## 通过 Do 运算符的因果关系
-
-### 将观察转化为干预
-
-towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a) 
+</causal-effects-via-the-do-operator-5415aefc834a>  
 
 ## 礼物 2:消除混淆
 
@@ -100,11 +96,7 @@ towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a)
 
 我将利用回答这个问题的机会来完成一个使用 Python 进行因果推理的具体例子。
 
-[](/causal-effects-f30f962ffff3) [## 因果关系——简介
-
-### 什么是治疗效果，如何计算？
-
-towardsdatascience.com](/causal-effects-f30f962ffff3) 
+</causal-effects-f30f962ffff3>  
 
 # 示例:估计研究生院对收入的处理效果
 
@@ -188,11 +180,7 @@ plt.hist(metalearner_estimate.cate_estimates)
 
 不管怎样，仅仅根据潜在收入来决定读研，可能表明你并不真的想读研。🤷🏽‍♀️
 
-[](/causal-effects-via-regression-28cb58a2fffc) [## 通过回归的因果效应
-
-### Python 示例代码的 3 种流行技术
-
-towardsdatascience.com](/causal-effects-via-regression-28cb58a2fffc) 
+</causal-effects-via-regression-28cb58a2fffc>  
 
 # 结论
 
@@ -208,11 +196,7 @@ towardsdatascience.com](/causal-effects-via-regression-28cb58a2fffc)
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+<https://shawhin.medium.com/membership>  
 
 朱迪亚·珀尔所著的《为什么:因果的新科学》
 

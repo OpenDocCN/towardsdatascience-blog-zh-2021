@@ -225,12 +225,4 @@ mi_results = pd.concat([kernel.complete_data(i).loc[:,["age", 'fnlwgt']] for i i
 
 麦克奈特，P. E. (2007)。*缺失数据:温柔的介绍*。吉尔福德出版社。
 
-[](https://github.com/AnotherSamWilson/miceforest#Simple-Example-Of-Multiple-Imputation) [## GitHub-AnotherSamWilson/mice forest:Python 中随机森林的多重插补
-
-### 通过具有随机森林的链式方程(小鼠)的快速、记忆有效的多重插补。它可以估算分类…
-
-github.com](https://github.com/AnotherSamWilson/miceforest#Simple-Example-Of-Multiple-Imputation) [](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.4067) [## 使用链式方程的多重插补:问题和实践指南
-
-### 生物统计学教程，通讯作者 MRC 生物统计学单位，公共卫生研究所，罗宾逊路…
-
-onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.4067)
+<https://github.com/AnotherSamWilson/miceforest#Simple-Example-Of-Multiple-Imputation>  <https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.4067> 

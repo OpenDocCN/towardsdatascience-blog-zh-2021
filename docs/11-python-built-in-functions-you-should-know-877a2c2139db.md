@@ -52,11 +52,7 @@ chr(165) + '3,000'
 
 只要系统支持 Unicode，你的程序现在就可以输出特殊字符。有关 Unicode 字符的完整列表，请参考维基百科页面。
 
-[](https://en.wikipedia.org/wiki/List_of_Unicode_characters) [## Unicode 字符列表
-
-### 这是 Unicode 字符列表；有 143，859 个字符，Unicode 13.0，涵盖 154 个现代和…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_Unicode_characters) 
+<https://en.wikipedia.org/wiki/List_of_Unicode_characters>  
 
 另一个函数`ord()`是`chr()`的逆函数。
 
@@ -178,11 +174,7 @@ for num, letter in zip([1, 2, 3], ['a', 'b', 'c']):
 
 然而，在我看来，它比它的本意更加强大。事实上，值得写一篇独立的文章来介绍`zip()`函数，我以前就做过:)
 
-[](/fasten-python-objects-using-zip-88a1e7a68c7) [## 使用 Zip“固定”Python 对象
-
-### Python 的一个技巧使得使用多个可迭代对象变得更加容易
-
-towardsdatascience.com](/fasten-python-objects-using-zip-88a1e7a68c7) 
+</fasten-python-objects-using-zip-88a1e7a68c7>  
 
 如果您有兴趣深入研究这个函数，强烈建议您查看上面的文章。
 
@@ -200,10 +192,6 @@ towardsdatascience.com](/fasten-python-objects-using-zip-88a1e7a68c7)
 
 【https://docs.python.org/3.9/library/functions.htm 
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

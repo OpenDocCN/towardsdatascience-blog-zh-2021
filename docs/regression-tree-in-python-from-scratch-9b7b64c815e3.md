@@ -20,11 +20,7 @@
 
 本文是上一篇关于决策树的文章的延续:
 
-[](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) [## Python 中的决策树算法从零开始
-
-### 用 Python 编写只使用 NumPy 和 Pandas 的流行算法，并解释其中的内容
-
-towardsdatascience.com](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) 
+</decision-tree-algorithm-in-python-from-scratch-8c43f0e40173>  
 
 我假设读者熟悉节点、分裂和树的层次的概念。所有这些概念在前一篇文章中都有解释。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/decision-tree-algorithm-in-python-from-scratch-8c43f0e4
 
 回归树是处理连续响应变量 **Y.** 的估计器，例如，身高、工资、点击量等。该算法在我的 GitHub 存储库中编码和实现(以及附带的笔记本):
 
-[](https://github.com/Eligijus112/decision-tree-python) [## eligijus 112/决策树-python
-
-### 从头开始实现决策树。为 eligijus 112/决策树-python 开发做出贡献，创建一个…
-
-github.com](https://github.com/Eligijus112/decision-tree-python) 
+<https://github.com/Eligijus112/decision-tree-python>  
 
 回归的节点类非常类似于上一篇文章中的二叉分类树类:
 

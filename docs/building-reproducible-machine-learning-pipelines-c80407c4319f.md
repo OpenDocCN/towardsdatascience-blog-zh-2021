@@ -90,18 +90,6 @@
 
 ## **相关文章**
 
-**[](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [## 机器学习模型部署
+**<https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd>  </data-scientist-should-know-software-engineering-best-practices-f964ec44cada>  </the-machine-learning-workflow-1d168cf93dea> [## 机器学习工作流程
 
-### 被遗忘的阶段
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd) [](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [## 数据科学家应该知道软件工程的最佳实践
-
-### 成为不可或缺的数据科学家
-
-towardsdatascience.com](/data-scientist-should-know-software-engineering-best-practices-f964ec44cada) [](/the-machine-learning-workflow-1d168cf93dea) [## 机器学习工作流程
-
-towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea) [](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84) [## 机器学习工程师必须阅读这 5 本书
-
-### 打造机器学习工程师
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84)**
+towardsdatascience.com](/the-machine-learning-workflow-1d168cf93dea) <https://medium.datadriveninvestor.com/machine-learning-engineers-must-read-these-5-books-583e81922b84> **

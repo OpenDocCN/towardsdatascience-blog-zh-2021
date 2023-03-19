@@ -64,16 +64,4 @@
 
 ## 你可能也会喜欢…
 
-[](/7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285) [## 在接受数据分析师提议之前，要考虑的 7 个鲜为人知的因素
-
-### 剧透一下——这不是薪水或头衔
-
-towardsdatascience.com](/7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285) [](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [## 如何成为数据分析师和数据科学家
-
-### 当你可以尝试两个角色时，为什么只选择一个
-
-towardsdatascience.com](/how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e) [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [## 如何创建成功的数据演示
-
-### 针对不同受众的演示技巧
-
-towardsdatascience.com](/how-to-create-a-successful-data-presentation-7eae7a9a41f)
+</7-little-known-factors-to-consider-before-you-accept-that-data-analyst-offer-a27cb36aa285>  </how-to-become-a-data-analyst-and-a-data-scientist-fe32986b403e>  </how-to-create-a-successful-data-presentation-7eae7a9a41f> 

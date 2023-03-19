@@ -16,11 +16,7 @@
 
 在我们开始之前，我强烈建议看看下面的文章。它解释了 Python 是如何工作的，以及为什么它没有其他语言快。它还揭示了为什么 Python 一开始就不是多线程的？你会对我们在这篇文章中试图解决的问题有更好的理解。我们来编码吧！
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) [## Python 为什么这么慢，如何加速
-
-### 看看 Python 的瓶颈在哪里
-
-towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) 
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 # 线程和进程
 
@@ -117,11 +113,7 @@ make_some_coffee()
 
 *在 Python 中，多任务处理可以解决很多速度问题，但有时这还不够。查看 [**这篇**](https://mikehuls.medium.com/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77) 或 [**这篇**](https://mikehuls.medium.com/write-your-own-c-extension-to-speed-up-python-x100-626bb9d166e7) 文章，向您展示如何编译一小部分代码以获得 100 倍的速度提升。*
 
-*[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) [## 面向绝对初学者的 Cython:通过简单的两步将代码速度提高 30 倍
-
-### 为速度惊人的应用程序轻松编译 Python 代码
-
-towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)* 
+*</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad> * 
 
 # *结论*
 
@@ -145,8 +137,4 @@ towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-si
 
 *页（page 的缩写）学生:比如我正在做的事情？跟我来！*
 
-*[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)*
+*<https://mikehuls.medium.com/membership> *

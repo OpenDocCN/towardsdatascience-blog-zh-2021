@@ -180,30 +180,14 @@ workbook.close()
 
 *如果你想了解更多关于我从懒鬼到数据科学家的旅程，请查看下面的文章:*
 
-[](/from-slacker-to-data-scientist-b4f34aa10ea1) [## 从懒鬼到数据科学家
-
-### 我的无学位数据科学之旅。
-
-towardsdatascience.com](/from-slacker-to-data-scientist-b4f34aa10ea1) 
+</from-slacker-to-data-scientist-b4f34aa10ea1>  
 
 *如果你正考虑转型进入数据科学领域，现在就开始考虑重塑品牌:*
 
-[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) [## 懒鬼将自己重塑为数据科学家指南
-
-### 给我们其他人的固执己见的建议。热爱数学，选修。
-
-towardsdatascience.com](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) 
+</the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540>  
 
 你可以通过 [Twitter](https://twitter.com/ecdedios) 或 [LinkedIn](https://www.linkedin.com/in/ednalyn-de-dios/) 联系我。
 
 # 参考
 
-[](https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) [## tabula-py/tabula _ example . ipynb at master chezou/tabula-py
-
-### tabula-java 的简单包装:从 PDF 中提取表格到 pandas data frame-tabula-py/tabula _ example . ipynb at master…
-
-github.com](https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) [](https://xlsxwriter.readthedocs.io/tutorial01.html) [## 教程 1:创建一个简单的 XLSX 文件
-
-### 让我们首先使用 Python 和 XlsxWriter 模块创建一个简单的电子表格。假设我们有一些关于…的数据
-
-xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io/tutorial01.html)
+<https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb>  <https://xlsxwriter.readthedocs.io/tutorial01.html> 

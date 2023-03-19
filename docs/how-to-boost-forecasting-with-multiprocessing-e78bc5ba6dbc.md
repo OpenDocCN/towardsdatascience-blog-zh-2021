@@ -195,11 +195,7 @@ train_model(**params)
 
 **编辑:如果你正在寻找一个更深入的话题，从头开始学习 Python 中的多处理，可以看看我写的一篇涵盖所有基础知识的文章。**
 
-[](https://python.plainenglish.io/how-to-design-python-functions-with-multiprocessing-6d97b6db0214) [## 如何用多重处理设计 Python 函数
-
-### 停止等待循环结束——通过多处理并行运行任务来加速迭代。
-
-python .平原英语. io](https://python.plainenglish.io/how-to-design-python-functions-with-multiprocessing-6d97b6db0214) 
+<https://python.plainenglish.io/how-to-design-python-functions-with-multiprocessing-6d97b6db0214>  
 
 # 资源
 

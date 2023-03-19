@@ -148,16 +148,4 @@ import pandas as pddf = pd.DataFrame({
 
 **你可能也会喜欢**
 
-[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) [## 如何根据列值从 Pandas 数据框架中选择行
-
-### 探索如何根据 pandas 数据框架中的条件选择行
-
-towardsdatascience.com](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) [](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c) [## 如何优化你的谷歌搜索并获得更好的结果
-
-### 更智能的谷歌搜索的 12 个技巧
-
-medium.com](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)
+</how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93>  <https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c>  </dynamic-typing-in-python-307f7c22b24e> 

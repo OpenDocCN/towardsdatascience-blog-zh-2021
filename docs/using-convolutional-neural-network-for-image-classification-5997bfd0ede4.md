@@ -12,11 +12,7 @@
 
 如果我们想使用一个全连接的神经网络进行图像处理，我们很快就会发现它不能很好地扩展。
 
-[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) 
+<https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2>  
 
 对于计算机来说，RGB 符号的图像是三个不同矩阵的总和。对于图像的每个像素，它描述了该像素显示的颜色。为此，我们在第一个矩阵中定义红色分量，在第二个矩阵中定义绿色分量，然后在最后一个矩阵中定义蓝色分量。因此，对于 3 个像素大小为 3 的图像，我们得到三个不同的 3x3 矩阵。
 
@@ -68,11 +64,7 @@ medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural
 
 Tensorflow 有各种各样的数据集，我们只需几行代码就可以下载和使用。当您想要测试新模型及其实现，并且因此不想长时间搜索适当的数据时，这尤其有用。此外，谷歌还提供了一个[数据集搜索](https://datasetsearch.research.google.com/)，人们可以通过点击几下找到合适的数据集。
 
-[](/an-introduction-to-tensorflow-fa5b17051f6b) [## 张量流简介
-
-### 了解机器学习框架、其架构以及与 PyTorch 的比较
-
-towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b) 
+</an-introduction-to-tensorflow-fa5b17051f6b>  
 
 对于我们的示例卷积神经网络，我们使用通过 Tensorflow 获得的 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) 数据集。该数据集包含总共 60，000 幅彩色图像，分为十个不同的图像类别，例如马、鸭或卡车。我们注意到，这是一个完美的训练数据集，因为每个类正好包含 6，000 幅图像。在分类模型中，如果可能的话，我们必须始终确保每个类在数据集中出现的次数相同。对于测试数据集，我们总共获取 10，000 张图像，因此训练数据集获取 50，000 张图像。
 
@@ -110,21 +102,9 @@ towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b)
 *   使用 Tensorflow，卷积神经网络只需几步即可编程。
 *   根据不同的使用情况调整卷积层和最大池层的安排非常重要。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [## 为什么您应该了解大数据
-
-### 定义大数据及其潜在威胁
-
-medium.com](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-medium.com](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [## 学习编码:13 个免费网站帮助你开始
-
-### 一旦你决定要学习编码，你会被众多的在线工具宠坏，这些工具可以帮助你…
-
-towardsdatascience.com](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) 
+*<https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14>  <https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  </learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>  
 
 # 参考
 

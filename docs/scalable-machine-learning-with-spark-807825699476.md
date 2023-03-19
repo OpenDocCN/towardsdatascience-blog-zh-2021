@@ -490,7 +490,7 @@ pip3 install sklearn statsmodels seaborn matplotlib pandas boto3
 
 **以上实验的**完整源代码**可以在 [**这里**](https://github.com/AdroitAnandAI/Scalable-ML-with-Spark) **找到。****
 
-*****如有任何疑问或建议，可在此*** 联系我[](https://www.linkedin.com/in/ananduthaman/)**
+*****如有任何疑问或建议，可在此*** 联系我<https://www.linkedin.com/in/ananduthaman/>**
 
 # ***参考***
 

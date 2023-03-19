@@ -40,11 +40,7 @@
 
 这里有一篇文章介绍了一些与 Python 一起使用的旧内存分析器。
 
- [## 如何在 Python | Pluralsight | Pluralsight 中管理内存
-
-### Luke Lee Python 使开发比 C 和 C++之类的语言更快更容易的方法之一是内存管理…
-
-www.pluralsight.com](https://www.pluralsight.com/guides/profiling-memory-usage-in-python) 
+  
 
 在本文中，我们将讨论**Scalene**——您可以一站式回答工程团队提出的这些问题。
 
@@ -183,11 +179,7 @@ $ scalene linearmodel.py --html >> linearmodel-scalene.html
 *   出于上述同样的原因，考虑比较来自多个实现/包的 **same 算法的内存配置文件(例如 Keras vs. PyTorch vs. Scikit-learn)。如果内存优化是您的主要目标，那么您可能需要寻找一种内存占用最少但能够令人满意地完成工作的实现，即使它在功能或性能方面不是绝对最好的。**
 *   如果数据 I/O 成为瓶颈，探索**更快的选项或其他存储类型**，例如用拼花文件和 Apache Arrow 存储替换 Pandas CSV。查看这篇文章，
 
-[](/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94) [## 熊猫读拼花文件(带箭头)vs. CSV 多快？
-
-### 重点研究使用 PyArrow 读取拼花文件与使用…读取相同 CSV 文件的速度比较
-
-towardsdatascience.com](/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94) 
+</how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94>  
 
 ## 使用 Scalene 可以做的其他事情
 
@@ -219,8 +211,4 @@ towardsdatascience.com](/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with
 
 L *喜欢这篇文章？成为* [***中等成员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，我会收到你的一部分会员费，* ***而不需要你额外付费*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+<https://medium.com/@tirthajyoti/membership> 

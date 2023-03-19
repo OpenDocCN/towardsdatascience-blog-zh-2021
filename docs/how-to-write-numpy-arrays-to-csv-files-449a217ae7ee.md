@@ -171,4 +171,4 @@ NPY 文件格式不允许并行读取和写入。
 
 **在 Twitter 上关注我，获取更多类似的内容。**
 
-***原载于 2021 年 12 月 25 日 http://crunchcrunchhuman.com*[](https://crunchcrunchhuman.com/2021/12/25/numpy-save-csv-write/)**。****
+***原载于 2021 年 12 月 25 日 http://crunchcrunchhuman.com*<https://crunchcrunchhuman.com/2021/12/25/numpy-save-csv-write/>**。****

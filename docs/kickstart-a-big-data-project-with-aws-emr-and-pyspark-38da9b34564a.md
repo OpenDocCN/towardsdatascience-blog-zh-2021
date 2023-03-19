@@ -163,4 +163,4 @@ EMR 上的 notebook 的一个优点是能够快速建立一些探索所需的正
 
 另一个方面，第一人称射击游戏中没有太多围绕电子游戏和在线比赛的数据集，所以我会建议人们看一看[育碧](https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/2fQ8bGRr6SlS7B4u5jpVt1/introduction-to-the-data-peek-velvet-shell-statistics)的这个数据集。即使他的原表单上的数据集不好用，你也可以在 Kaggle 上找到类似[这里](https://www.kaggle.com/maxcobra/rainbow-six-siege-s5-ranked-dataset)的更为消化的版本。
 
-*原载于 2021 年 4 月 5 日 https://www.the-odd-dataguy.com*[](https://www.the-odd-dataguy.com/2021/04/05/cluster-and-video-game-data-introduction-to-aws-emr-and-pyspark/)**。**
+*原载于 2021 年 4 月 5 日 https://www.the-odd-dataguy.com*<https://www.the-odd-dataguy.com/2021/04/05/cluster-and-video-game-data-introduction-to-aws-emr-and-pyspark/>**。**

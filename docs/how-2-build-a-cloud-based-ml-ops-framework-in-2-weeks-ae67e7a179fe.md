@@ -122,16 +122,4 @@
 
 # 资源
 
-[](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) [## ML Ops:作为工程学科的机器学习
-
-### 随着 ML 从研究走向应用商业解决方案的成熟，我们是否需要提高其运营的成熟度…
-
-towardsdatascience.com](/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) [](https://cml.dev/) [## CML -连续机器学习:将 DevOps 带入数据科学
-
-### CML 是机器学习的持续集成。将 DevOps 实践引入您的项目，以实现自动化…
-
-cml.dev](https://cml.dev/) [](https://pypi.org/project/cookiecutter/) [## 烹饪刀具
-
-### 从项目模板创建项目的命令行实用程序，例如，从…
-
-pypi.org](https://pypi.org/project/cookiecutter/)
+</ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f>  <https://cml.dev/>  <https://pypi.org/project/cookiecutter/> 

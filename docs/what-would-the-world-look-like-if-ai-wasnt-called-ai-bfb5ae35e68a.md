@@ -122,16 +122,4 @@ AGI 不在拐角处。如果一个复杂的信息处理系统是世界上最好�
 
 ## 此外，请随时在 [LinkedIn](https://www.linkedin.com/in/alberromgar/) 或 [Twitter](https://twitter.com/Alber_RomGar) 上发表评论和联系！:)
 
-[](/5-must-know-ai-concepts-in-2021-75d8c1ff938) [## 2021 年必须知道的 5 个人工智能概念
-
-### 这是你不想错过的。
-
-towardsdatascience.com](/5-must-know-ai-concepts-in-2021-75d8c1ff938) [](/what-they-dont-tell-you-4-ways-humans-still-vastly-outperform-ai-ba640aae0d4) [## 他们没有告诉你的是——人类仍然远远胜过人工智能的 4 种方式
-
-### 他们把人工智能描绘得比它实际上更聪明。
-
-towardsdatascience.com](/what-they-dont-tell-you-4-ways-humans-still-vastly-outperform-ai-ba640aae0d4) [](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46) [## 不受欢迎的观点:我们将放弃机器学习作为主要的人工智能范式
-
-### 这一时刻将会到来，就像它发生在象征性人工智能身上一样。
-
-towardsdatascience.com](/unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46)
+</5-must-know-ai-concepts-in-2021-75d8c1ff938>  </what-they-dont-tell-you-4-ways-humans-still-vastly-outperform-ai-ba640aae0d4>  </unpopular-opinion-well-abandon-machine-learning-as-main-ai-paradigm-7d11e6773d46> 

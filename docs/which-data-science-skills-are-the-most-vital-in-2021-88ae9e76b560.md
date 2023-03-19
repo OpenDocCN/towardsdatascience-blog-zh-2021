@@ -56,11 +56,7 @@ Python 是科学计算的当前行业标准。这是有充分理由的，因为�
 
 如果你不知道任何一部分是如何组合在一起的，那么使用已经在使用的开发-运营实现可能会很困难。至少，知道如何使用终端和熟悉 CLI 对于许多数据科学来说是绝对必要的。实际上，我在一年前写了一篇关于为什么这如此重要的文章，你可以在这里查看:
 
-[](/the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85) [## 数据科学中开发运营技能的优势
-
-### 开发运营是我热爱的一门学科。我对开发运营的热爱来自于我对 Linux 的热爱，我对两者的热爱…
-
-towardsdatascience.com](/the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85) 
+</the-benefits-of-dev-ops-skills-in-data-science-fa0a30aade85>  
 
 # 在你的生态系统中
 

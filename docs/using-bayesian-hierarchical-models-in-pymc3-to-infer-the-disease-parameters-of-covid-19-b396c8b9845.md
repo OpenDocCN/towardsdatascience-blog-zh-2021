@@ -292,27 +292,15 @@ with pm.Model() as model4: # narrow std is roughly equivalent to a constant prio
 
 1.  Priesemann 小组的工作
 
-[](https://github.com/Priesemann-Group/covid_bayesian_mcmc) [## GitHub-Priesemann-Group/covid _ Bayesian _ MCMC:Bayesian Markov Chain Monte Carlo 预测…
-
-### 这个库提供了我们对新冠肺炎在德国传播的预测背后的代码。它被用于三个…
-
-github.com](https://github.com/Priesemann-Group/covid_bayesian_mcmc) 
+<https://github.com/Priesemann-Group/covid_bayesian_mcmc>  
 
 2.Demetri Pananos 在 PyMC3 网站上的工作
 
- [## GSoC 2019:pymc 3 . ode API-pymc 3 3 . 10 . 0 文档介绍
-
-### 由德米特里·帕纳诺斯常微分方程(ODEs)是一个方便的数学框架建模的…
-
-docs.pymc.io](https://docs.pymc.io/notebooks/ODE_API_introduction.html) 
+  
 
 3.太阳之歌
 
-[](https://github.com/aseyboldt/sunode) [## GitHub - aseyboldt/sunode:快速求解 ODEs，支持 PyMC3
-
-### 您可以在这里找到文档。《太阳之歌》包含了日晷解算器亚当和 BDF，以及他们对解算的支持…
-
-github.com](https://github.com/aseyboldt/sunode) 
+<https://github.com/aseyboldt/sunode>  
 
 4.闪光
 

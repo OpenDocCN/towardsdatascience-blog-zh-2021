@@ -28,11 +28,7 @@
 
 这时，你必须意识到知道如何开发和维护一个 ML 管道的重要性。但是，作为高级角色的候选人，你必须知道深度学习等**高级机器学习技术** **。你必须掌握与你申请的工作岗位相关的最佳深度学习架构。例如，如果你想从事自然语言处理方面的工作，你一定要了解 BERT 或 GPT3。你可以在下面的文章中读到更多关于伯特的内容。**
 
-[](/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64) [## 如何使用 BERT 和 Word2Vec 计算句子相似度
-
-### 以及防止计算句子嵌入时常见错误的一些见解
-
-towardsdatascience.com](/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64) 
+</how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64>  
 
 另外，你的简历必须表明你有使用深度学习开发解决方案的实践经验。例如，它必须表明你知道以下问题的答案:
 
@@ -73,8 +69,4 @@ towardsdatascience.com](/how-to-compute-sentence-similarity-using-bert-and-word2
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+<https://pedram-ataee.medium.com/membership> 

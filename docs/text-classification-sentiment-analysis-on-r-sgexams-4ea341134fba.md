@@ -180,11 +180,7 @@ OUTPUT: 0.3506
 
 所有代码都可以在我的 Github 中找到:
 
-[](https://github.com/S3annnyyy/TCSAProject/) [## S3 annnyyy/tcsa 项目
-
-### Reddit 上的文本分类和情感分析项目
-
-github.com](https://github.com/S3annnyyy/TCSAProject/) 
+<https://github.com/S3annnyyy/TCSAProject/>  
 
 LinkedIn 简介:[肖恩·雅普](https://www.linkedin.com/in/seanyckang/)
 

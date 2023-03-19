@@ -24,21 +24,13 @@
 
 从那里，扎卡里列举了公司和组织目前使用人工智能的多种方式，以及这些做法如何对他们坚持稳定、容易察觉的性别二元制有害。不过，我欣赏扎卡里的帖子的地方在于，它还旨在追踪潜在解决方案的轮廓——从坚持在人工智能使用方面(特别是在公共机构的自动决策系统中)增加透明度，到在人工智能工具的设计中积极纳入跨性别知识和经验。
 
- [## 走向跨包容的人工智能
-
-### 人工智能像那些设计它们的人一样“思考”——用一种非规范性的性别概念。他们排斥变性人…
-
-towardsdatascience.com](/towards-trans-inclusive-ai-a4abe9ad4e62) 
+  
 
 ## 保持数据的包容性，同时不稀释您的结果
 
 即使当数据科学家希望解决项目中的偏差并以公平的方式设计项目时，在保持结果具有统计意义的需要和对包容性数据集的渴望之间也经常出现矛盾。[希瑟·克劳斯](https://medium.com/u/7e89d86194d2?source=post_page-----37b4f06c0bd7--------------------------------)通过案例研究[思考这个问题](/keeping-data-inclusivity-without-diluting-your-results-27dc92c29171):一项涉及性取向的调查，但只收到来自特定子群体的少量回复。
 
-[](/keeping-data-inclusivity-without-diluting-your-results-27dc92c29171) [## 保持数据的包容性，同时不稀释您的结果
-
-### 假设您正在调查 10，000 人中的 100 人。你想从你的 100 个样本中分析数据以得到…
-
-towardsdatascience.com](/keeping-data-inclusivity-without-diluting-your-results-27dc92c29171) 
+</keeping-data-inclusivity-without-diluting-your-results-27dc92c29171>  
 
 ## 谷歌在我之前就知道我不是二进制的
 
@@ -46,11 +38,7 @@ towardsdatascience.com](/keeping-data-inclusivity-without-diluting-your-results-
 
 [Rhea mout afis](https://medium.com/u/593908e0206?source=post_page-----37b4f06c0bd7--------------------------------)[对谷歌广告设置](/google-knew-i-was-non-binary-before-i-did-f06dc6c33604)的沉思，以及他们作为一个非二进制人如何反映他们的个人旅程，融合了散文、分析和回忆录。这是一个强大的阅读，不仅推动了公开故事的界限，也推动了数据科学故事的界限。
 
-[](/google-knew-i-was-non-binary-before-i-did-f06dc6c33604) [## 谷歌比我先知道我是非二进制的
-
-### 但不知何故，在我出柜后，它改变了主意
-
-towardsdatascience.com](/google-knew-i-was-non-binary-before-i-did-f06dc6c33604) 
+</google-knew-i-was-non-binary-before-i-did-f06dc6c33604>  
 
 ## 苏格兰的数据行动主义和争取社会公正
 
@@ -58,10 +46,6 @@ towardsdatascience.com](/google-knew-i-was-non-binary-before-i-did-f06dc6c33604)
 
 > 为了证明一个专门与边缘化群体合作的社会或文化团体的存在，我们需要知道我们的数据。数据就是弹药。数据就是力量。
 
-[](/data-activism-social-justice-d36b779a0f29) [## 苏格兰的数据行动主义和争取社会公正
-
-### “人数太少”并不是对苏格兰的不平等现象不采取行动的好借口
-
-towardsdatascience.com](/data-activism-social-justice-d36b779a0f29) 
+</data-activism-social-justice-d36b779a0f29>  
 
 感谢您的阅读——如果您想分享您(或其他人)在数据科学、人工智能和 LGBTQIA+主题方面的工作，请在评论中留下链接。

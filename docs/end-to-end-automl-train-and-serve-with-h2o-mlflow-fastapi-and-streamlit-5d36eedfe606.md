@@ -344,26 +344,10 @@ ML 代码只是 ML 生产系统的一小部分
 
 *下面是这篇文章的续集，我们使用 Docker 来封装整个管道:*
 
-*[](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5) [## 如何对接用 H2O、MLflow、FastAPI 和 Streamlit 构建的机器学习应用
-
-### 用 Docker 容器化多服务 ML 应用的简单指南
-
-towardsdatascience.com](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5)* 
+*</how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5> * 
 
 # *在你走之前*
 
 *欢迎您加入我们的数据科学学习之旅！关注我的 [Medium](https://kennethleungty.medium.com/) 页面和 [GitHub](https://github.com/kennethleungty) 了解更多精彩的数据科学内容。同时，享受构建端到端 AutoML 解决方案的乐趣！*
 
-*[](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [## MLOps 专业化认证的关键学习点—课程 2
-
-### 面向生产的机器学习工程(MLOps)课程概述
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [](/autoxgb-for-financial-fraud-detection-f88f30d4734a) [## 利用 AutoXGB 进行金融欺诈检测
-
-### AutoXGB 与标准 XGBoost 在检测欺诈性信用卡交易方面的对比
-
-towardsdatascience.com](/autoxgb-for-financial-fraud-detection-f88f30d4734a) [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership)*
+*</key-learning-points-from-mlops-specialization-course-2-13af51e22d90>  </autoxgb-for-financial-fraud-detection-f88f30d4734a>  <https://kennethleungty.medium.com/membership> *

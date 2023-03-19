@@ -243,11 +243,7 @@ logger.addHandler(file_handler)def extract():logger.info('Start Extract Session'
 
 **样本代码位置**:
 
-[](https://github.com/Shivakoreddi/ETL-Log-Structure) [## GitHub-Shivakoreddi/ETL-Log-Structure
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Shivakoreddi/ETL-Log-Structure) 
+<https://github.com/Shivakoreddi/ETL-Log-Structure>  
 
 感谢您阅读这篇文章，未来的工作将涉及开发 python ETL 作业的其他挑战，如编排、代码管理、版本控制等。
 

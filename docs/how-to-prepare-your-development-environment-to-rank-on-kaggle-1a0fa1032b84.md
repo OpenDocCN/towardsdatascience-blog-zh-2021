@@ -24,20 +24,12 @@
 
 我为这些比赛选择的框架是 [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ，它允许我专注于迭代我的数据处理和模型架构，而不用担心训练循环和设备管理的繁重工程。关于为什么你应该查看下面的 [PyTorch 闪电贴](https://devblog.pytorchlightning.ai/why-should-i-use-pytorch-lightning-488760847b8b)的更多信息。
 
-[](https://devblog.pytorchlightning.ai/why-should-i-use-pytorch-lightning-488760847b8b) [## 我为什么要用 PyTorch Lightning？
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/why-should-i-use-pytorch-lightning-488760847b8b) 
-
-作为一个计算平台，我选择了 [Grid.ai](https://docs.grid.ai) ，它可以让我精确地指定我想要使用的机器，里面预装了 JupiterLab。作为奖励，Grid 使我能够用 Github 同步我所有的 Kaggle 代码。稍后，我将使用它来运行超参数搜索，为我的模型找到最佳配置。
+<https://devblog.pytorchlightning.ai/why-should-i-use-pytorch-lightning-488760847b8b>  ，它可以让我精确地指定我想要使用的机器，里面预装了 JupiterLab。作为奖励，Grid 使我能够用 Github 同步我所有的 Kaggle 代码。稍后，我将使用它来运行超参数搜索，为我的模型找到最佳配置。
 
 > 完全公开——我目前在 [Grid.ai](https://www.grid.ai/)
 > 担任高级研究工程师。注意，还有其他替代方案可以用来利用这些最佳实践，例如 Kaggle 内核或 Colab，但 Grid 是我的首选平台，因为它使我能够使用云轻松地扩展训练我的模型。
 
-[](/trivially-scale-pytorch-on-aws-4cfde16e6d37) [## AWS 上的普通比例 PyTorch
-
-### 在 AWS 上运行 PyTorch 工作负载，无需更改代码
-
-towardsdatascience.com](/trivially-scale-pytorch-on-aws-4cfde16e6d37) 
+</trivially-scale-pytorch-on-aws-4cfde16e6d37>  
 
 本教程中包含的所有代码和可视化都可以在[本报告](https://github.com/Borda/kaggle_plant-pathology)中获得，您可以免费使用和贡献。
 
@@ -63,11 +55,7 @@ towardsdatascience.com](/trivially-scale-pytorch-on-aws-4cfde16e6d37)
 
 我可以轻松地启动 JupyterLab，并使用 cli 工具[glasses](https://glances.readthedocs.io/en/latest/quickstart.html)来监控实时资源使用情况，这让我知道是否存在任何资源瓶颈，如预处理期间的 CPU 利用率或训练期间的 GPU 利用率，从而导致训练批量增加。
 
-[](https://docs.grid.ai/products/sessions) [## ⚡Sessions
-
-### 会话是为开发而优化的交互式机器(带有多个 GPU)。
-
-doc . grid . ai](https://docs.grid.ai/products/sessions) 
+<https://docs.grid.ai/products/sessions>  
 
 ## 设置 Kaggle CLI 并下载数据集
 
@@ -120,19 +108,11 @@ mogrify -resize 640 plant-pathology/train_images/*.jpg
 
 我将在未来的博客文章中继续探索这个下载的数据集，并准备一个基线计算机视觉模型来解决这个任务。我还将回顾一些帮助我在排行榜上排名的技巧，敬请关注。稍后，我们还将分享如何轻松地从离线内核提交内容。
 
-[](/intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08) [## 直观的 Kaggle 任务探索和模型基线
-
-### 用 PyTorch 闪电和网格点实例在 Kaggle 上排名的最佳实践(第 2/5 部分)
-
-towardsdatascience.com](/intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08) 
+</intuitive-kaggle-task-exploration-and-model-baselining-e5f641943d08>  
 
 **敬请关注，并跟随我了解更多！**
 
-[](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) [## 使用 PyTorch Lightning 和 Grid.ai Spot 实例对 Kaggle 竞争进行排名的最佳实践
-
-### 通过交互式会话、超参数解决图像分类挑战的完整数据科学周期…
-
-devblog.pytorchlightning.ai](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e) 
+<https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e>  
 
 # 关于作者
 

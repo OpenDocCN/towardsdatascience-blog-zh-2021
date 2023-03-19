@@ -654,4 +654,4 @@ func rollup(TimeWeightSummary tws1, TimeWeightSummary tws2)
 
 这些功能将很快稳定下来，但我们希望在 API 仍在发展的时候收到您的反馈。什么会让它们更直观？比较好用？[提出问题](https://github.com/timescale/timescaledb-toolkit/issues)或[开始讨论](https://github.com/timescale/timescaledb-toolkit/discussions)！
 
-*原载于 2021 年 8 月 4 日 https://blog.timescale.com*[](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)**。**
+*原载于 2021 年 8 月 4 日 https://blog.timescale.com*<https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/>**。**

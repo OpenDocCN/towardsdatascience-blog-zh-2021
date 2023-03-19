@@ -14,7 +14,7 @@
 
 在这篇新文章中，我将对第一部分做一个简短的回顾。所以，没必要看。尽管如此，如果你想对我在这一篇中要阐述的东西有更详细的解释，你应该考虑读一读。
 
-[](/data-engineers-shouldnt-write-airflow-dags-b885d57737ce) [## 数据工程师不应该写气流图——第 1 部分
+</data-engineers-shouldnt-write-airflow-dags-b885d57737ce> [## 数据工程师不应该写气流图——第 1 部分
 
 towardsdatascience.com](/data-engineers-shouldnt-write-airflow-dags-b885d57737ce) 
 
@@ -130,11 +130,7 @@ DAG 工厂的责任不仅仅是创建 DAG。但是，要确保 Dag 的*任务*�
 
 **如果你想看的话，这里有 Github 回购。**
 
-**[](https://github.com/castor-team/airflow-castor) [## castor-team/气流-castor
-
-### 通过 YAML 文件构建气流 Dag 的框架。Castor 由四个模块组成:配置文件 DAG 工厂任务…
-
-github.com](https://github.com/castor-team/airflow-castor) 
+**<https://github.com/castor-team/airflow-castor>  
 
 **本文的目的不是宣传我们的框架**。我们的目标是揭示如何更好地使用 Apache Airflow。在这种情况下，我们提倡使用更多的声明性数据管道，因为我们相信**它们是数据管道的未来。**
 

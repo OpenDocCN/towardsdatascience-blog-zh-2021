@@ -10,11 +10,7 @@
 
 2012 年，亚马逊发布了第一个云数据库 DynamoDB，从此改变了数据库格局。从那以后，云数据库在采用和创新方面经历了飞速的增长。随着整个软件开发行业转向云原生开发，云数据库将在未来变得越来越重要。Gartner 预测，到 2022 年底，75%的数据库将迁移到云:
 
-[](https://www.gartner.com/en/newsroom/press-releases/2019-07-01-gartner-says-the-future-of-the-database-market-is-the) [## Gartner 表示，数据库市场的未来是云
-
-### 到 2022 年，75%的数据库将部署或迁移到云平台，只有 5%曾经考虑过…
-
-www.gartner.com](https://www.gartner.com/en/newsroom/press-releases/2019-07-01-gartner-says-the-future-of-the-database-market-is-the) 
+<https://www.gartner.com/en/newsroom/press-releases/2019-07-01-gartner-says-the-future-of-the-database-market-is-the>  
 
 为什么云数据库越来越受欢迎？在数据库技术方面，公共云数据库与其他 SQL 或 NoSQL 数据库没有什么不同。然而，公共云数据库的关键卖点在于数据库管理和扩展。
 
@@ -378,16 +374,4 @@ Google BigQuery 彻底改变了数据仓库的面貌，是最具创新性的数�
 
 # 类似文章
 
-[](/top-10-databases-to-use-in-2021-d7e6a85402ba) [## 2021 年将使用的 10 大数据库
-
-### MySQL，Oracle，PostgreSQL，微软 SQL Server，MongoDB，Redis，Elasticsearch，Cassandra，MariaDB，IBM Db2
-
-towardsdatascience.com](/top-10-databases-to-use-in-2021-d7e6a85402ba) [](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [## 微服务架构及其 10 个最重要的设计模式
-
-### 微服务架构、每个微服务的数据库、事件源、CQRS、Saga、BFF、API 网关、扼杀者、电路…
-
-towardsdatascience.com](/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41) [](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be) [## 关于 2021 年软件发展趋势的 21 个预测
-
-### 云、边缘、容器、量子、区块链、AI、深度学习、批处理、流媒体、数据库、编程、软件……
-
-towardsdatascience.com](/21-predictions-about-the-software-development-trends-in-2021-600bfa048be)
+</top-10-databases-to-use-in-2021-d7e6a85402ba>  </microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41>  </21-predictions-about-the-software-development-trends-in-2021-600bfa048be> 

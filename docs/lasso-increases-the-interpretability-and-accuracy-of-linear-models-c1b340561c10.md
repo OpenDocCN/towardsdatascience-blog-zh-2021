@@ -128,11 +128,7 @@ L1 刑罚(来源:作者)
 
 如果你对将约束问题转化为损失函数背后的数学和直觉感到好奇，请查看安德鲁·张伯伦博士的精彩文章！
 
-[](https://medium.com/@andrew.chamberlain/a-simple-explanation-of-why-lagrange-multipliers-works-253e2cdcbf74) [## 拉格朗日乘数法工作原理的简单解释
-
-### 拉格朗日乘数法是经济学家解决最优化问题的常用方法。该技术是一种有效的方法
-
-medium.com](https://medium.com/@andrew.chamberlain/a-simple-explanation-of-why-lagrange-multipliers-works-253e2cdcbf74) 
+<https://medium.com/@andrew.chamberlain/a-simple-explanation-of-why-lagrange-multipliers-works-253e2cdcbf74>  
 
 ## 可视化约束区域
 
@@ -204,6 +200,6 @@ medium.com](https://medium.com/@andrew.chamberlain/a-simple-explanation-of-why-l
 
 要了解更多关于数据科学、机器学习和开发的内容，请查看 [Edward 的 YouTube 频道](https://www.youtube.com/channel/UCmvdvjDaSjjMRIAxE5s7EZA)，并订阅我下面的邮件列表，成为第一个听到新文章的人！
 
-[](https://edkruegerdata.com/subscribe) [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
+<https://edkruegerdata.com/subscribe> [## 每当爱德华·克鲁格发表文章时，就收到一封电子邮件。
 
 edkruegerdata.com](https://edkruegerdata.com/subscribe)

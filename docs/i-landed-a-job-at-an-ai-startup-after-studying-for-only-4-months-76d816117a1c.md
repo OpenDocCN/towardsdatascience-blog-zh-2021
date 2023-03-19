@@ -73,7 +73,7 @@
 *   [**深度学习**](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf) (辛顿、本吉奥&勒村，2015)。概述 DL 在 2015 年前的突破的综述文章。
 *   [**用深度卷积神经网络进行 ImageNet 分类**](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(krijevsky，Sutskever & Hinton，2012)。使用 CNN 解决对象识别的突破性论文促进了 DL 在 CV 社区的采用。
 *   [**长短期记忆**](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory)(hoch Reiter&schmid Huber，1997)。介绍了 LSTM 递归网络。
-*   [](https://arxiv.org/pdf/1406.2661v1.pdf)**(good fellow 等，2014)。本文介绍了 GAN，它由一对神经网络组成，在一个零和博弈中相互竞争。**
+*   <https://arxiv.org/pdf/1406.2661v1.pdf>**(good fellow 等，2014)。本文介绍了 GAN，它由一对神经网络组成，在一个零和博弈中相互竞争。**
 *   **[**注意力是你需要的全部**](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (Vaswani et al .，2017)。本文介绍了 NLP 中最先进的变压器。**
 
 **有很多其他的文章可以帮助你更好地理解这些架构和模型是如何工作的，如何最好地实现它们，什么是最佳实践，等等。也有论文对这些论文进行了跟进，或者提出了创造历史的改进。**

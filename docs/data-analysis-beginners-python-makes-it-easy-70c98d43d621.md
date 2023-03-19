@@ -142,7 +142,7 @@
 
 我希望这篇文章展示了使用 Python 来探索数据是多么容易，并启发您亲自尝试一下。关于其他例子，请查看我的[最新的“电子表格到 Python”文章。](/spreadsheets-to-python-its-time-to-make-the-switch-ef49cf9463d5)
 
-*这篇文章的文本、代码和图像是使用*[*Filament*](http://www.filament.so/)*创建的，这是一个用于数据、分析和报告的一体化工作空间。如需了解更多信息，请访问我们的网站*[](http://www.filament.so/)**。Filament 目前正在运行一个封闭的测试程序；前 100 名使用推荐代码 TDSFILAMENT 请求访问的人可以跳过等候名单，提前获得访问权限。**
+*这篇文章的文本、代码和图像是使用*[*Filament*](http://www.filament.so/)*创建的，这是一个用于数据、分析和报告的一体化工作空间。如需了解更多信息，请访问我们的网站*<http://www.filament.so/>**。Filament 目前正在运行一个封闭的测试程序；前 100 名使用推荐代码 TDSFILAMENT 请求访问的人可以跳过等候名单，提前获得访问权限。**
 
 **感谢邦妮·塞勒斯·维勒斯基和尤安·维勒斯基**
 

@@ -129,16 +129,4 @@ plt.ylabel('Teammates Average WAR')def label_point(x, y, val, ax):
 
 **我叫科迪·格利克曼，可以在 LinkedIn 上找到我。代码和数据可以在 [GitHub](https://github.com/glickmac/Wasted_MLB_Talent) 上找到。看看下面我写的一些与运动相关的文章。我想将这一分析扩展到 NBA 和 NHL 的球员，看看所有体育运动中最大的被浪费的人才，尽管我怀疑迈克·特劳特可能拥有这个头衔。**
 
-**[](https://medium.com/swlh/exploring-college-football-salaries-dc472448684d) [## 探索大学足球薪酬
-
-### 按州和会议列出的每个学生的价格
-
-medium.com](https://medium.com/swlh/exploring-college-football-salaries-dc472448684d) [](/a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2) [## 一个幻想草案秩序彩票使用 R 闪亮
-
-### 作为 web 应用程序编写的 NBA 风格的彩票系统
-
-towardsdatascience.com](/a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2) [](/college-football-travel-during-covid-1ced0164840e) [## COVID 期间的大学足球旅行
-
-### 使用 NetworkX 对 2020 年大学足球赛程的网络分析以及对困难决策的思考
-
-towardsdatascience.com](/college-football-travel-during-covid-1ced0164840e)**
+**<https://medium.com/swlh/exploring-college-football-salaries-dc472448684d>  </a-fantasy-draft-order-lottery-using-r-shiny-6668a5b275d2>  </college-football-travel-during-covid-1ced0164840e> **

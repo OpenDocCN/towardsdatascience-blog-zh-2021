@@ -78,12 +78,4 @@ Finmarketpy 也是一个优秀的模块，可以用各种参数进行调查和�
 
 ## 为您提供更多 Python 和金融文章
 
-[](/python-for-finance-the-complete-beginners-guide-764276d74cef) [## 面向金融的 Python 完全初学者指南
-
-### 使用亚马逊股票数据的简单实践
-
-towardsdatascience.com](/python-for-finance-the-complete-beginners-guide-764276d74cef) [](/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b) [## 分步指南-用 Python 构建预测模型
-
-### 使用长短期记忆预测模型的动手练习
-
-towardsdatascience.com](/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b)
+</python-for-finance-the-complete-beginners-guide-764276d74cef>  </step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b> 

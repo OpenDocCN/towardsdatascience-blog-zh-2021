@@ -14,11 +14,7 @@ Apache Kafka 是增长最快的产品之一，已被全球许多公司广泛采�
 
 本文包含 Apache Kafka 集群最流行和最强大的监控工具的更新列表。您还可以找到我在几年前写的一篇文章中提出的旧的建议列表。
 
-[](/overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd) [## Apache Kafka 集群的 UI 监控工具概述
-
-### 阿帕奇卡夫卡最好的监控工具有哪些？
-
-towardsdatascience.com](/overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd) 
+</overview-of-ui-monitoring-tools-for-apache-kafka-clusters-9ca516c165bd>  
 
 具体来说，在本文中，我们将介绍以下工具和服务，它们可以帮助您跨组织管理和监控 Kafka 集群的健康状况:
 
@@ -120,16 +116,4 @@ CMAK 的主题视图—来源: [GitHub](https://github.com/yahoo/CMAK#cmak-clust
 
 **你可能也会喜欢**
 
-[](/kafka-no-longer-requires-zookeeper-ebfbf3862104) [## 卡夫卡不再需要动物园管理员了
-
-### 2.8.0 版本让你提前接触到没有动物园管理员的卡夫卡
-
-towardsdatascience.com](/kafka-no-longer-requires-zookeeper-ebfbf3862104) [](https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8) [## 如何在阿帕奇卡夫卡中获取特定信息
-
-### 掌握 Kafka 控制台消费者和 kafkacat
-
-better 编程. pub](https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8) [](https://python.plainenglish.io/how-to-programmatically-create-topics-in-kafka-using-python-d8a22590ecde) [## 如何使用 Python 在 Kafka 中以编程方式创建主题
-
-### 使用 Python 和 kafka 创建主题
-
-python .平原英语. io](https://python.plainenglish.io/how-to-programmatically-create-topics-in-kafka-using-python-d8a22590ecde)
+</kafka-no-longer-requires-zookeeper-ebfbf3862104>  <https://betterprogramming.pub/how-to-fetch-specific-messages-in-apache-kafka-4133dad0b4b8>  <https://python.plainenglish.io/how-to-programmatically-create-topics-in-kafka-using-python-d8a22590ecde> 

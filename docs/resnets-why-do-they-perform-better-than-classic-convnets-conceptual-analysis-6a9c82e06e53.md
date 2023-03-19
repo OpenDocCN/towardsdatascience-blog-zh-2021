@@ -106,7 +106,7 @@
 
 **参考文献:**
 
-【https://arxiv.org/pdf/1603.05027.pdf】[](https://arxiv.org/pdf/1603.05027.pdf)**:ResNets 研究论文**
+【https://arxiv.org/pdf/1603.05027.pdf】<https://arxiv.org/pdf/1603.05027.pdf>**:ResNets 研究论文**
 
 **【2】*[*http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf*](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)*:LeNet 研究论文**
 

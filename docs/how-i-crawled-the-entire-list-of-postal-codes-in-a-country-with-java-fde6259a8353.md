@@ -12,11 +12,7 @@
 
 对于有兴趣了解如何以最少的麻烦对位置列表进行地理编码的读者，请阅读我关于 [TurfJS](https://turfjs.org/) 的文章:
 
-[](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) [## 使用 Turf.js 通过自定义边界对坐标进行地理编码
-
-### 这个位置属于❝Which 地区/区域/区域吗？❞
-
-towardsdatascience.com](/using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0) 
+</using-turf-js-to-geocode-coordinates-with-custom-boundaries-bb843b7150d0>  
 
 # Java 代码实现——用令牌调用 API
 
@@ -110,8 +106,4 @@ throws JSONException {
 
 ## 非常感谢你坚持到这篇文章的结尾！❤希望有人会觉得这很有用，并欢迎使用 Medium 跟随我。会非常感激😃
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

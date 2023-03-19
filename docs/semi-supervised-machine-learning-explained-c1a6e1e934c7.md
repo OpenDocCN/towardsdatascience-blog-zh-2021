@@ -49,16 +49,4 @@
 
 ## **相关文章**
 
-**[](/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3) [## 机器学习中分类和回归的区别
-
-### 函数逼近问题
-
-towardsdatascience.com](/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3) [](/unsupervised-machine-learning-explained-1ccc5f20ca29) [## 无监督机器学习解释
-
-### 它是什么，方法和应用
-
-towardsdatascience.com](/unsupervised-machine-learning-explained-1ccc5f20ca29) [](/5-books-you-can-read-to-learn-about-artificial-intelligence-477b5a26277d) [## 你可以阅读的关于人工智能的 5 本书
-
-### 跟上时代
-
-towardsdatascience.com](/5-books-you-can-read-to-learn-about-artificial-intelligence-477b5a26277d)**
+**</the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3>  </unsupervised-machine-learning-explained-1ccc5f20ca29>  </5-books-you-can-read-to-learn-about-artificial-intelligence-477b5a26277d> **

@@ -64,24 +64,8 @@ SaaS 最常见的例子之一是基于网络的电子邮件服务，在这里你
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/deployment-models-cloud-computing-b17fe1e58d44) [## 云计算中的部署模型
-
-### 了解私有云、公共云和混合云之间的区别
-
-towardsdatascience.com](/deployment-models-cloud-computing-b17fe1e58d44) [](https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0) [## 选择 AWS 地区时需要考虑的 5 件事
-
-### 如何为你的亚马逊网络服务找到合适的区域
-
-better 编程. pub](https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0) [](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8) [## 使用 MLFlow 和 LakeFS 实现高效工作流的数据版本控制
-
-### 构建弹性、原子和版本化的数据湖操作
-
-pub.towardsai.net](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8)
+</deployment-models-cloud-computing-b17fe1e58d44>  <https://betterprogramming.pub/5-things-to-consider-when-choosing-your-aws-region-484e800cb6f0>  <https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8> 

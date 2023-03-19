@@ -327,22 +327,6 @@ PyCaret —作者图片
 
 # 更多 PyCaret 相关教程:
 
-[](/predict-customer-churn-the-right-way-using-pycaret-8ba6541608ac) [## 使用 PyCaret 预测客户流失(正确的方式)
+</predict-customer-churn-the-right-way-using-pycaret-8ba6541608ac> [## 使用 PyCaret 预测客户流失(正确的方式)
 
-towardsdatascience.com](/predict-customer-churn-the-right-way-using-pycaret-8ba6541608ac) [](/build-with-pycaret-deploy-with-fastapi-333c710dc786) [## 用 PyCaret 构建，用 FastAPI 部署
-
-### 一步一步，初学者友好的教程，如何建立一个端到端的机器学习管道与 PyCaret 和…
-
-towardsdatascience.com](/build-with-pycaret-deploy-with-fastapi-333c710dc786) [](/time-series-anomaly-detection-with-pycaret-706a6e2b2427) [## 基于 PyCaret 的时间序列异常检测
-
-### 使用 PyCaret 对时间序列数据进行无监督异常检测的分步教程
-
-towardsdatascience.com](/time-series-anomaly-detection-with-pycaret-706a6e2b2427) [](/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9) [## 使用 PyCaret 和 Gradio 增强您的机器学习实验
-
-### 快速开发机器学习管道并与之交互的循序渐进教程
-
-towardsdatascience.com](/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9) [](/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe) [## 基于 PyCaret 的多时间序列预测
-
-### 使用 PyCaret 预测多个时间序列的分步教程
-
-towardsdatascience.com](/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe)
+towardsdatascience.com](/predict-customer-churn-the-right-way-using-pycaret-8ba6541608ac) </build-with-pycaret-deploy-with-fastapi-333c710dc786>  </time-series-anomaly-detection-with-pycaret-706a6e2b2427>  </supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9>  </multiple-time-series-forecasting-with-pycaret-bc0a779a22fe> 

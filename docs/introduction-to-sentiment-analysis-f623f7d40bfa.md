@@ -116,11 +116,7 @@ N-gram 是 N 个连续单词的集合。在图 2 中，我们看到了一个例�
 
 情感分析是自然语言处理中的一类问题。在下面的文章中，我将带您了解解决另一个问题的过程——语言识别。如果你对 NLP 感兴趣，我推荐你去看看。我们还建立在上面解释的许多概念之上。
 
-[](/deep-neural-network-language-identification-ae1c158f6a7d) [## 深度神经网络语言识别
-
-### 使用 DNN 和字符三元组对一段文本的语言进行分类
-
-towardsdatascience.com](/deep-neural-network-language-identification-ae1c158f6a7d) 
+</deep-neural-network-language-identification-ae1c158f6a7d>  
 
 ## 图像来源
 

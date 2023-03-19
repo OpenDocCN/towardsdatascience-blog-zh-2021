@@ -66,11 +66,7 @@ com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12:4.0.0
 
 一旦我们将 Cosmos DB 只读密钥放入 Azure Key Vault，我们需要在 Databricks 工作区中创建一个秘密范围。这不是本文的重点，所以我将跳过它。如果您不知道如何创建 Databricks secret 作用域，请遵循以下文档。
 
-[](https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes) [## 秘密范围- Azure 数据块-工作区
-
-### 管理机密从创建机密范围开始。机密范围是由名称标识的机密的集合。一个…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes) 
+<https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes>  
 
 在创建 Python 字典作为变更提要配置对象之前，我们需要从 Azure Key Vault 中读取连接细节。
 
@@ -245,10 +241,6 @@ azure_cosmos_spark.io.netty.handler.timeout.ReadTimeoutException
 
 在本文中，我使用了一个简单的例子来演示如何使用 Azure Cosmos DB Spark 3 OLTP 连接器建立 Spark 结构化流来读取 Cosmos DB change feed。我相信这是将增量变化从 Cosmos DB 读入 Databricks workspace 进行进一步数据分析的最简单方法。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入 Medium 克里斯托弗·陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

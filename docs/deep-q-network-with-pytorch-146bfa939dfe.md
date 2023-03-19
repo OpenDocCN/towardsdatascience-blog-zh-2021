@@ -77,11 +77,7 @@ DQN 解算器将使用 3 层卷积神经网络来构建 **Q 网络**。然后，
 
 # 推荐阅读
 
-[](/q-learning-and-sasar-with-python-3775f86bd178) [## Q-Learning 和 SASAR，使用 Python
-
-### 解释无模型 RL 算法的基础:Q-Learning 和 SARSA(带代码！)
-
-towardsdatascience.com](/q-learning-and-sasar-with-python-3775f86bd178) 
+</q-learning-and-sasar-with-python-3775f86bd178>  
 
 # 参考
 

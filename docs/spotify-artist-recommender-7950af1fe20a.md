@@ -143,19 +143,7 @@ get_cosim_artist_df('Ed Sheeran', df_artists, 20)
 
 如果你喜欢这篇文章，我写了一些其他的文章，我想你可能会感兴趣。我正在通过例子解释各种机器学习概念。
 
-[](https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8) [## 用最大似然法预测泰坦尼克号幸存者
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8) [](https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556) [## 用最大似然法预测房价
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556) [](https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e) [## 使用机器学习进行分类
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e) 
+<https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8>  <https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556>  <https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e>  
 
 我希望你觉得这篇文章有趣并且有用。如果您想随时了解情况，请不要忘记关注我，注册我的[电子邮件通知](https://whittle.medium.com/subscribe)。
 

@@ -66,11 +66,7 @@ HRNet 是语义分割、面部标志检测和人体姿态估计领域中最先�
 
 **所有这些应用和方法都依赖于卷积神经网络，它是 HRNet 的基础。**
 
-[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) 
+<https://medium.com/@hucker.marius/membership>  
 
 ## 让我们深入了解卷积神经网络
 
@@ -200,11 +196,7 @@ HRNet 背后的网络称为 HRNetV1，它“通过并行连接高分辨率到低
 
 **人力资源网再次表明，打破常规的思维是实现最先进成果的必要条件。作者没有试图像 AlexNet 和 co .那样改进现有的串行方法，但他们试图用一种更智能的方法彻底重建它，从而获得更高的结果。我很确定这只是将来有一天会取代 HRNet 的更复杂架构的开始。**
 
-**[](https://medium.com/@hucker.marius/membership) [## 通过我的推荐链接加入 Medium-Hucker Marius
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hucker.marius/membership) 
+**<https://medium.com/@hucker.marius/membership>  
 
 ## [阅读更多像这样的](https://medium.com/@hucker.marius/membership)** 
 

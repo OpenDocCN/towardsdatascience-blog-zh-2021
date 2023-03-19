@@ -47,11 +47,7 @@ Sklearn 提出了 RFE(递归特征消除)实现。开发人员只需要指定估
 
 还有其他各种包装器方法，包括 [**SelectKBest**](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html) ，这也是 Sklearn 实现的一部分。SelectKBest 算法根据 k 个最高分选择相关特征。每个数据科学家都应该知道各种其他的特征选择技术，阅读下面提到的文章[来了解 7 种这样的特征选择技术。](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09)
 
-[](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) [## 机器学习中的 7 大特征选择技术
-
-### 选择最佳功能的流行策略
-
-towardsdatascience.com](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) 
+</top-7-feature-selection-techniques-in-machine-learning-94e08730cd09>  
 
 # 参考资料:
 

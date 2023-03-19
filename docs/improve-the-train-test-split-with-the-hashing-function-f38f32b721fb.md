@@ -48,19 +48,7 @@
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [## 懒惰预测:拟合和评估 scikit 中的所有模型——用一行代码学习
-
-### 查看哪些模型最适合您的数据集的最简单方法！
-
-towardsdatascience.com](/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281) [](/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8) [## 在 VS 代码中调试 Python 脚本的综合指南
-
-### 了解如何在 10 分钟内高效调试您的脚本！
-
-towardsdatascience.com](/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8) [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [## 5 个提高我工作效率的免费工具
-
-### 这不是一个好的 IDE，尽管它很有帮助！
-
-towardsdatascience.com](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) 
+</lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281>  </a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8>  </5-free-tools-that-increase-my-productivity-c0fafbbbdd42>  
 
 # 参考
 

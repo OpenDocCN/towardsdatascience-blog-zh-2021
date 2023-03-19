@@ -431,11 +431,7 @@ DAGsHub Experiments 提供了灵活的选项来添加标签、重命名实验和
 
 你可以在 DAGsHub[kingabzpro/DVC-ML-Experiments](https://dagshub.com/kingabzpro/DVC-ML-Experiments)上找到包含代码和实验的资源库。我会建议你叉我的仓库，自己实验。DAGsHub 的互动性相当强，你会立刻爱上它。
 
-[](https://dagshub.com/kingabzpro/DVC-ML-Experiments) [## 金加布兹普罗/DVC-ML-实验
-
-### 在本指南中，我们将了解 DVC 以及 DAGsHub 如何让机器学习工程师轻松跟踪各种…
-
-dagshub.com](https://dagshub.com/kingabzpro/DVC-ML-Experiments) 
+<https://dagshub.com/kingabzpro/DVC-ML-Experiments>  
 
 # 激动人心的 DAGsHub 实验项目
 

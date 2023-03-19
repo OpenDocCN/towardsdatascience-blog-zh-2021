@@ -26,11 +26,7 @@
 
 我从 Reddit 上了解到，通过阅读[其他](https://medium.com/r?url=https%3A%2F%2Ftowardsdatascience.com%2Fmy-friends-gave-me-their-tinder-data-7fcd2621c140) [文章](https://medium.com/swlh/analyzing-my-tinder-data-3b4f05a4a34f)，我可以请求我自己的数据。几年前，*卫报*写了一篇关于 Tinder 如何使用个人数据的报道。该公司的部分回应是根据要求提供用户数据
 
-[](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold) [## 我向 Tinder 要了我的数据。它寄给我 800 页我最深最黑暗的秘密
-
-### 2013 年 12 月 18 日星期三晚上 9 点 24 分(零 1 秒)，在巴黎第二区，我写道…
-
-www.theguardian.com](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold) 
+<https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold>  
 
 似乎很容易做到，对不对？除了，我没有任何数据下载。我有下载 Tinder 使用几个月的习惯，然后出于沮丧删除我的账户，结果只是重复这个过程。
 

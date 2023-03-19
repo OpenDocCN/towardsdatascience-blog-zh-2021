@@ -189,20 +189,4 @@ Instagram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/ucl
 
 领英:[https://www.linkedin.com/company/ucldata/](https://www.linkedin.com/company/ucldata/)
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/ucl-data-science-society-python-sequences-e3ffa67604a0) [## UCL 数据科学协会:Python 序列
-
-### 工作坊 2:列表、元组、集合和字典！
-
-towardsdatascience.com](/ucl-data-science-society-python-sequences-e3ffa67604a0) [](/ucl-data-science-society-python-logic-3eb847362a97) [## UCL 数据科学学会:Python 逻辑
-
-### 讲习班 3:条件语句、逻辑语句、循环和函数
-
-towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97) [](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be)
+<https://philip-wilkinson.medium.com/membership>  </ucl-data-science-society-python-sequences-e3ffa67604a0>  </ucl-data-science-society-python-logic-3eb847362a97>  </ucl-data-science-society-object-oriented-programming-d69cb7a7b0be> 

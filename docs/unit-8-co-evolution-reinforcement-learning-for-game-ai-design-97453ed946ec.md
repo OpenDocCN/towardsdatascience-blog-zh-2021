@@ -8,23 +8,11 @@
 
 大家好，欢迎回到进化计算的完整课程！在这篇文章中，我们将开始并完成第八单元，共同进化。不幸的是，这将是本课程的最后一个单元，但希望你在这个过程中学到了很多！在前一单元中，我们应用差分进化来进化 Keras 中的卷积神经网络的模型架构，您可以在此处找到该文章:
 
-[](/unit-7-differential-evolution-automated-machine-learning-eb22014e592e) [## 第 7 单元)差异进化—自动机器学习
-
-### 应用差分进化的概念在进化一个深度卷积神经网络的结构上…
-
-towardsdatascience.com](/unit-7-differential-evolution-automated-machine-learning-eb22014e592e) 
+</unit-7-differential-evolution-automated-machine-learning-eb22014e592e>  
 
 如果您是本系列的新手，请查看下面的两篇文章，我在其中介绍了理解进化计算所必需的背景信息:
 
-[](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [## 单元 2)进化计算简介
-
-### 进化计算和遗传算法概述！
-
-towardsdatascience.com](/unit-2-introduction-to-evolutionary-computation-85764137c05a) [](/unit-3-genetic-algorithms-part-1-986e3b4666d7) [## 单元 3)遗传算法(第一部分)
-
-### 遗传算法概述—主要是交叉和变异算子
-
-towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7) 
+</unit-2-introduction-to-evolutionary-computation-85764137c05a>  </unit-3-genetic-algorithms-part-1-986e3b4666d7>  
 
 在这篇文章中，我们将简要概述共同进化、竞争适应度、不同类型的共同进化，然后以进化合作/竞争游戏 AI 来玩**月球着陆器**来结束。
 
@@ -98,11 +86,7 @@ towardsdatascience.com](/unit-3-genetic-algorithms-part-1-986e3b4666d7)
 
 一些人在尝试测试他们的强化学习算法时可能遇到的主要问题是如何创建环境本身。嗯，幸运的是，在 Python 中存在一个名为 **Gym** 的库，这是一个用于开发和比较强化学习算法的工具包，包含大量旧的 Atari 游戏、复杂的物理问题和其他简单的小游戏。您可以在下面找到他们的网站:
 
-[](https://gym.openai.com/) [## Gym:开发和比较强化学习算法的工具包
-
-### 健身房图书馆提供了一套易于使用的强化学习任务。import gym env = gym . make(" cart pole-v1 ")…
-
-gym.openai.com](https://gym.openai.com/) 
+<https://gym.openai.com/>  
 
 我们将使用体育馆的环境来测试我们的遗传算法。
 
@@ -112,19 +96,11 @@ gym.openai.com](https://gym.openai.com/)
 
 为此我们将使用**进化计算**库中的**神经增强器**类，附:我写的。这将是库的一小段，目前还没有完全完成，但是我已经等不及要展示这个例子了。您可以在我的 GitHub 资源库页面上找到更多关于该库及其更新的信息:
 
-[](https://github.com/OUStudent/EvolutionaryComputation) [## GitHub -学生/进化计算
-
-### 进化计算是一个 Python 模块，包含进化计算领域的高级算法…
-
-github.com](https://github.com/OUStudent/EvolutionaryComputation) 
+<https://github.com/OUStudent/EvolutionaryComputation>  
 
 你也可以在 PyPi 上找到它
 
-[](https://pypi.org/project/EvolutionaryComputation/) [## 进化计算
-
-### 进化计算是一个 Python 模块，包含进化计算领域的高级算法…
-
-pypi.org](https://pypi.org/project/EvolutionaryComputation/) 
+<https://pypi.org/project/EvolutionaryComputation/>  
 
 **神经强化器**类是专门解决输入为数字的强化型学习问题的类，而**神经强化器**类解决输入为图像的强化型学习问题。**神经强化器**类通过先进的自适应对数正态遗传算法来进化前馈神经网络的权重和激活函数。神经强化器展示了将竞争和合作机制结合成一种进化机制。它展示了合作的方面，因为目标是让所有物种进化出解决问题的最佳模式；此外，它展示了竞争的品质，因为进化中的每个物种都必须为生存而战，否则就会灭绝……**神经强化剂**中的物种由其激活功能来指定，这些激活功能可以是所有层的静态激活功能，也可以是混合激活功能。
 

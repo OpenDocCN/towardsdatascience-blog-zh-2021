@@ -16,19 +16,11 @@
 
 线性和多项式回归是回归分析的基础。对于非线性关系，多项式拟合工作得非常好，并且当存在对过度拟合的优化时，可以预见下一个数据点。过度拟合是机器学习爱好者的噩梦。当多项式过度拟合局部数据点时，它在进行预测时会变得混乱。基本上，过度拟合的模型不能正确预测，并且在应用测试数据时表现不佳。在这些情况下，线性模型可以是一个很好的替代品，并且可以降低误差。对于回归模型，还有其他问题，如异方差。如果有人感兴趣，我还有另外一篇文章。
 
-[](/heteroscedasticity-in-regression-model-21d9f5a93e59) [## 回归模型中的异方差性
-
-### 使用统计模型检查异方差性
-
-towardsdatascience.com](/heteroscedasticity-in-regression-model-21d9f5a93e59) 
+</heteroscedasticity-in-regression-model-21d9f5a93e59>  
 
 先说多项式和样条回归的利弊。多项式回归是非线性曲线拟合的基本分析方法。其背后的数学比简单的线性回归更复杂，但比样条回归更简单。多项式回归受到[龙格效应](https://en.wikipedia.org/wiki/Runge%27s_phenomenon)的影响，即数据集的端点与模型不同步，当应用回归时，结果变化很大。当在模型中使用高阶多项式时，这种现象尤其明显。多项式回归的一个更复杂的版本是样条回归。这种方法首先识别中间节点，然后使用数据点找到节点之间的最佳拟合。当使用 3 节时，这些点通常是第 25、50 和 75 个百分点。读者可以阅读下面的文章，以获得更多关于样条回归的见解。
 
-[](/simply-spline-regression-polynomials-between-knots-3d007523ad99) [## 简单样条回归:节点间的多项式
-
-### 使用 python 的 statsmodels 库
-
-towardsdatascience.com](/simply-spline-regression-polynomials-between-knots-3d007523ad99) 
+</simply-spline-regression-polynomials-between-knots-3d007523ad99>  
 
 一种更灵活的建模技术是广义加性模型，它可以在不指定节点位置的情况下部署。维基百科对它的定义如下:
 

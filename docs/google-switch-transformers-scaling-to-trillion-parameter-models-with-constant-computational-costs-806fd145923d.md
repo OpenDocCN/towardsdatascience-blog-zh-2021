@@ -40,11 +40,7 @@ MoE 在本文之前就已经介绍过了，但是，它有几个训练不稳定�
 
 事实上，脸书最近最先进的 DeIt 论文使用 0 卷积和不到 1%的最先进数据集对图像进行分类依赖于蒸馏。如果您有兴趣了解更多关于蒸馏令牌的技巧，请在这里查看我的文章:
 
-[](/facebook-deit-a-promising-new-technique-for-image-classification-6516f039b4bb) [## 脸书戴特:一种有前途的图像分类新技术
-
-### 以 0 卷积和不到 1%的先进数据集实现先进的性能。
-
-towardsdatascience.com](/facebook-deit-a-promising-new-technique-for-image-classification-6516f039b4bb) 
+</facebook-deit-a-promising-new-technique-for-image-classification-6516f039b4bb>  
 
 3.**模型和数据分片(并行)**
 
@@ -102,19 +98,7 @@ towardsdatascience.com](/facebook-deit-a-promising-new-technique-for-image-class
 
 如果你有兴趣阅读更多关于其他小说的文章，请点击这里查看我的文章:
 
-[](/open-ai-clip-learning-visual-concepts-from-natural-language-supervision-d02644969278) [## 开放 AI 剪辑:从自然语言监督中学习视觉概念
-
-### 一种基于变换的神经网络，使用对比语言-图像预训练对图像进行分类
-
-towardsdatascience.com](/open-ai-clip-learning-visual-concepts-from-natural-language-supervision-d02644969278) [](/openai-curl-reinforcement-learning-meets-unsupervised-learning-b038897daa30) [## OpenAI CURL:强化学习遇上无监督学习
-
-### 通过对比无监督表示促进强化学习。
-
-towardsdatascience.com](/openai-curl-reinforcement-learning-meets-unsupervised-learning-b038897daa30) [](/the-first-rl-approach-to-control-blood-glucose-without-requiring-meal-announcements-daa6a7f47c2b) [## 第一个不需要膳食通知就能控制血糖的 RL 方法。
-
-### 强化学习遇上糖尿病，达到人类水平的表现。
-
-towardsdatascience.com](/the-first-rl-approach-to-control-blood-glucose-without-requiring-meal-announcements-daa6a7f47c2b) 
+</open-ai-clip-learning-visual-concepts-from-natural-language-supervision-d02644969278>  </openai-curl-reinforcement-learning-meets-unsupervised-learning-b038897daa30>  </the-first-rl-approach-to-control-blood-glucose-without-requiring-meal-announcements-daa6a7f47c2b>  
 
 如果你想定期收到关于人工智能和机器学习的最新论文的评论，请在这里添加你的电子邮件并订阅！
 

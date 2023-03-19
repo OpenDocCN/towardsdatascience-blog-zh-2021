@@ -71,11 +71,7 @@ GRL 方法的主要目标是从离散图形数据中学习低维连续表示，�
 
 在 GRL 的背景下，非欧几里得方法似乎很有前途。这些方法背后的主要思想是在连续的嵌入空间中映射图形数据表示，这能够类似于输入的底层图形结构(例如，双曲空间表示树的连续版本)。例如，称为知识图(KGs)的语义网络的特定实现展示了分层和逻辑模式，这些模式可以通过双曲嵌入高保真地保留。以下文章和[相关系列](https://towardsdatascience.com/tagged/kgs-insights)中提供了有关 kg 的更多信息:
 
-[](/knowledge-graphs-at-a-glance-c9119130a9f0) [## 知识图表一览
-
-### 利用语义图视角，将人类知识融入智能系统
-
-towardsdatascience.com](/knowledge-graphs-at-a-glance-c9119130a9f0) 
+</knowledge-graphs-at-a-glance-c9119130a9f0>  
 
 ## 位置嵌入与结构嵌入
 

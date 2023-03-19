@@ -14,11 +14,7 @@
 
 虽然这可能不是最好的例子，但在使用 Julia 中的 REPLMaker 创建 REPLs 方面，几乎有无限的潜力。在我介绍该软件的上一篇文章中，我最终创建了一个评估 Julia 表达式的 REPL。如果你想阅读我以前关于 REPLMaker.jl 的文章，你可以在这里查看:
 
-[](/replmaker-jl-create-interactive-julia-packages-67be382f3eb8) [## jl:创建交互式 Julia 包
-
-### 快速浏览使用 Julia 的 REPLMaker.jl 包为最终用户创建交互式代码。
-
-towardsdatascience.com](/replmaker-jl-create-interactive-julia-packages-67be382f3eb8) 
+</replmaker-jl-create-interactive-julia-packages-67be382f3eb8>  
 
 # 入门指南
 

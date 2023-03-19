@@ -294,37 +294,21 @@ y = y.astype(np.uint8)
 
 学习创建类似 NumPy 数组的张量。
 
-[](https://medium.com/geekculture/lets-create-tensors-like-numpy-arrays-90a4cf32144) [## 让我们创建类似 NumPy 数组的张量
-
-### 张量只不过是多维数组的矩阵表示
-
-medium.com](https://medium.com/geekculture/lets-create-tensors-like-numpy-arrays-90a4cf32144) 
+<https://medium.com/geekculture/lets-create-tensors-like-numpy-arrays-90a4cf32144>  
 
 学习 NumPy 基础知识和数组创建。
 
-[](/numpy-for-data-science-part-1-21e2c5ddbbd3) [## 数据科学的 NumPy:第 1 部分
-
-### NumPy 基础和数组创建
-
-towardsdatascience.com](/numpy-for-data-science-part-1-21e2c5ddbbd3) 
+</numpy-for-data-science-part-1-21e2c5ddbbd3>  
 
 像专家一样分割 NumPy 数组。
 
-[](https://rukshanpramoditha.medium.com/numpy-for-data-science-part-2-7399ffc605e5) [## NumPy 数组索引和切片的完整分步指南
-
-### 数据科学的数字——第二部分
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/numpy-for-data-science-part-2-7399ffc605e5) 
+<https://rukshanpramoditha.medium.com/numpy-for-data-science-part-2-7399ffc605e5>  
 
 ## 阅读下一页(可选)
 
 使用 PCA 压缩图像！
 
-[](/image-compression-using-principal-component-analysis-pca-253f26740a9f) [## 使用主成分分析(PCA)的图像压缩
-
-### 行动中的维度缩减
-
-towardsdatascience.com](/image-compression-using-principal-component-analysis-pca-253f26740a9f) 
+</image-compression-using-principal-component-analysis-pca-253f26740a9f>  
 
 今天的帖子到此结束。
 

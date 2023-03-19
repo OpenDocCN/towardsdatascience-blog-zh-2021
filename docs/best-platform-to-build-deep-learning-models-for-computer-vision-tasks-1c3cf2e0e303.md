@@ -14,11 +14,7 @@
 
 在本文中，我们将讨论几个重要的计算机视觉任务，即对象分类和检测，以及实例分割。一旦我们理解了这些主题的基础，我们将讨论如何在这些任务的最佳平台的帮助下完成这些项目。实现大多数深度学习任务的一个主要贡献因素是 GPU。要了解和探索更多关于 GPU 的重要性，请通过下面提供的链接查看下面的文章。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 # 重要的计算机视觉应用:
 
@@ -124,26 +120,6 @@ towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226
 
 看看我的其他一些文章，你可能会喜欢读！
 
-[](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [## 每个人都必须知道的 10 个计算机视觉术语！
-
-### 十个基本的计算机视觉术语，每个人都应该学习，以更加精通计算机视觉…
-
-towardsdatascience.com](/10-computer-vision-terms-everyone-must-know-about-687a98845fc8) [](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [## 5 个最好的 Python 项目，代码可以在一小时内完成！
-
-### 用完整的代码构建五个很酷的 Python 项目，开发人员可以在一个小时内构建这些项目，并添加到您的…
-
-towardsdatascience.com](/5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44) [](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [## CBAM 天气模式的数据科学和可视化
-
-### 了解如何使用数据科学可视化和 CBAM 解释大量天气模式
-
-towardsdatascience.com](/data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97) [](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [## 每个数据科学家都必须知道的 14 个熊猫操作！
-
-### 关于 14 种最基本的熊猫手术的完整指南
-
-towardsdatascience.com](/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee) [](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+</10-computer-vision-terms-everyone-must-know-about-687a98845fc8>  </5-best-python-projects-with-codes-that-you-can-complete-within-an-hour-fb112e15ef44>  </data-science-and-visualizations-of-weather-patterns-with-cbam-41ec6380ed97>  </14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee>  </7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

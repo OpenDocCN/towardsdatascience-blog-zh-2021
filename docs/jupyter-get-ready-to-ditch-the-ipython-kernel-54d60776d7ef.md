@@ -21,11 +21,7 @@ JupyterLab 可视化调试器
 
 该项目建立在 xeus-python 内核的基础上，这是 python 编程语言 Jupyter 内核的一个轻量级实现。你可以在我当时写的一篇文章中读到这一点，这篇文章成了我在媒体上最成功的一篇文章。
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+</jupyter-is-now-a-full-fledged-ide-c99218d33095>  
 
 然而，`xeus-python`并没有提供所有的 IPython 内核特性。最重要的是，它不支持魔术命令或 Matplotlib 图形，而这两者对于数据科学家来说是非常有用的。
 
@@ -61,11 +57,7 @@ xeus-python 中的 Matplotlib
 
 不用安装`xeus-python`就可以在 Binder 上试驾。请点击下面的链接。这会让你知道`xeus-python`能做什么，以及它是否适合你
 
-[](https://mybinder.org/v2/gh/jupyter-xeus/xeus-python/stable?urlpath=/lab/tree/notebooks/xeus-python.ipynb) [## GitHub:jupyter-xeus/xeus-python/stable
-
-### 单击运行此交互式环境。来自活页夹项目:可复制、可共享、交互式计算…
-
-mybinder.org](https://mybinder.org/v2/gh/jupyter-xeus/xeus-python/stable?urlpath=/lab/tree/notebooks/xeus-python.ipynb) 
+<https://mybinder.org/v2/gh/jupyter-xeus/xeus-python/stable?urlpath=/lab/tree/notebooks/xeus-python.ipynb>  
 
 如果你对这个想法感兴趣，你可以使用 mamba 或 conda 安装最新的`xeus-python`版本:
 

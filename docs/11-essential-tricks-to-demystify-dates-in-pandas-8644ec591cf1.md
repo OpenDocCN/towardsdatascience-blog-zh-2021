@@ -296,12 +296,4 @@ missing_dates**
 
 **我的其他文章也可能对你有用:**
 
-**[](/26-datasets-for-your-data-science-projects-658601590a4c) [## 为您的数据科学项目提供 26 个数据集
-
-### 众多基于任务的数据集的汇编，可用于构建您的下一个数据科学项目。
-
-towardsdatascience.com](/26-datasets-for-your-data-science-projects-658601590a4c) [](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe) [## 如何使用 Bash 来自动化数据科学的枯燥工作
-
-### 使用命令行为您的数据科学项目编写一些可重用代码的指南
-
-towardsdatascience.com](/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe)**
+**</26-datasets-for-your-data-science-projects-658601590a4c>  </how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe> **

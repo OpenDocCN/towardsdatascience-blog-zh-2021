@@ -18,19 +18,11 @@ Scikit-learn 提供了大量的 [15 种不同的函数](https://scikit-learn.org
 
 > 这篇文章的所有代码示例都可以在 [this](https://www.kaggle.com/bextuychiev/master-the-subtle-art-of-train-test-set-generation) Kaggle 笔记本或者 [this](https://github.com/BexTuychiev/medium_stories/blob/master/2021/february/5_train_test_generation/train_test.ipynb) GitHub repo 上找到。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 还需要为`train_test_split`澄清？
 
@@ -155,8 +147,4 @@ diamonds
 
 ## 不知道接下来要读什么？在这里，我为你挑选了一些东西:
 
-[](/my-6-part-powerful-eda-template-that-speaks-of-ultimate-skill-6bdde3c91431) [## 我的 6 部分强大的 EDA 模板，讲终极技能
-
-### EDA —做得对…
-
-towardsdatascience.com](/my-6-part-powerful-eda-template-that-speaks-of-ultimate-skill-6bdde3c91431)
+</my-6-part-powerful-eda-template-that-speaks-of-ultimate-skill-6bdde3c91431> 

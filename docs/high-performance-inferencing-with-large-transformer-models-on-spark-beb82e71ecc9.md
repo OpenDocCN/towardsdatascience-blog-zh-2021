@@ -39,11 +39,7 @@
 
 ## 安装拥抱脸变压器
 
-[](https://huggingface.co/) [## 拥抱脸-人工智能社区建设未来。
-
-### 我们正在通过开源和开放科学来推进和民主化人工智能的旅程。
-
-huggingface.co](https://huggingface.co/) 
+<https://huggingface.co/>  
 
 首先，让我们将[支撑面](https://huggingface.co/)变压器安装到组合仪表上。
 
@@ -75,11 +71,7 @@ huggingface.co](https://huggingface.co/)
 
 出于好奇，这里有一篇 Laurent Leturgez 的精彩文章，深入探讨了 Spark 分区策略:
 
-[](https://medium.com/datalex/on-spark-performance-and-partitioning-strategies-72992bbbf150) [## 关于火花性能和分割策略
-
-### 当你在 Spark 上工作时，尤其是在数据工程任务上，你必须处理分区以获得最好的…
-
-medium.com](https://medium.com/datalex/on-spark-performance-and-partitioning-strategies-72992bbbf150) 
+<https://medium.com/datalex/on-spark-performance-and-partitioning-strategies-72992bbbf150>  
 
 # 使用变压器模型进行推理
 

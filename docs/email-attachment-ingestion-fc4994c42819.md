@@ -12,11 +12,7 @@
 
 我在 Medium 上发现了一篇非常棒的文章，描述了如何将电子邮件附件放入亚马逊 S3 网站。这是一篇写得非常好的文章，非常清楚地描述了这个过程。我认为只有几个部分可以更详细地介绍，比如亚马逊 IAM 中的角色，可能还有更多关于安全性的内容。
 
-[](/extract-email-attachment-using-aws-624614a2429b) [## 使用 AWS 提取电子邮件附件
-
-### 创造了使用 AWS 执行 ETL 操作的可能性
-
-towardsdatascience.com](/extract-email-attachment-using-aws-624614a2429b) 
+</extract-email-attachment-using-aws-624614a2429b>  
 
 上面这篇文章详细解释了推理和过程。由于显而易见的原因，我不打算再谈论它了。我将提供一个快速总结和一些改进，然后描述下一部分。
 
@@ -77,7 +73,7 @@ towardsdatascience.com](/extract-email-attachment-using-aws-624614a2429b)
 
 这将创建一个新的电子邮件地址，“**agent@myorg.awsapps.com**”。这将是您发送带有处理附件的电子邮件的电子邮件地址。出于本教程的目的，它将接受来自任何人的带有任何附件的电子邮件。这带来了安全风险。一旦你做到了这一点，我建议添加过滤功能，只允许“T2”白名单中的“T3”被允许的发件人，也许还可以过滤一些附件的内容。这真的很重要，所以以后不要忽视它。
 
-有几种方法可以做到这一点。在工作邮件服务器上过滤，通过登录“[](https://mapi.awsapps.com/mail)**”【agent@myorg.awsapps.com】账户过滤(用你的组织名称替换“ **myorg** ”)，或者在我们不久将讨论的 Lambda 函数中过滤。我会说 Lambda 函数将是我的首选方法，因为它给了我们最多的控制，但也许你会想做一个组合过滤。**
+有几种方法可以做到这一点。在工作邮件服务器上过滤，通过登录“<https://mapi.awsapps.com/mail>**”【agent@myorg.awsapps.com】账户过滤(用你的组织名称替换“ **myorg** ”)，或者在我们不久将讨论的 Lambda 函数中过滤。我会说 Lambda 函数将是我的首选方法，因为它给了我们最多的控制，但也许你会想做一个组合过滤。**
 
 **亚马逊工作邮件每个用户每月 4.00 美元，包括每个用户 50 GB 的邮箱存储。您可以开始为多达 25 个用户提供 30 天的免费试用。**
 
@@ -354,11 +350,7 @@ lambda_tmp % zip -r lambda.zip .
 
 **他最近的一部真的很有趣…**
 
-**[](https://medium.com/geekculture/exploring-the-use-of-ai-and-machine-learning-for-mortgage-recommendations-95a22ea07d13) [## 探索人工智能和机器学习在抵押贷款推荐中的应用。
-
-### 抵押技术和 API:
-
-medium.com](https://medium.com/geekculture/exploring-the-use-of-ai-and-machine-learning-for-mortgage-recommendations-95a22ea07d13) 
+**<https://medium.com/geekculture/exploring-the-use-of-ai-and-machine-learning-for-mortgage-recommendations-95a22ea07d13>  
 
 # 迈克尔·惠特尔
 

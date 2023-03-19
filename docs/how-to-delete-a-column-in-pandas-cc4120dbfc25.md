@@ -106,16 +106,8 @@ print(df) colA   colC
 
 您可能也对阅读如何重命名熊猫数据帧的列感兴趣。如果是这样，请不要错过下面的文章。
 
-[](/how-to-rename-columns-in-pandas-d35d13262c4f) [## 如何重命名 Pandas 中的列
-
-### 重命名熊猫数据框架中的列
-
-towardsdatascience.com](/how-to-rename-columns-in-pandas-d35d13262c4f) 
+</how-to-rename-columns-in-pandas-d35d13262c4f>  
 
 此外，下面的文章讨论了如何根据特定条件执行正确的行选择。
 
-[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) [## 如何根据列值从 Pandas 数据框架中选择行
-
-### 探索如何根据 pandas 数据框架中的条件选择行
-
-towardsdatascience.com](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93)
+</how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93> 

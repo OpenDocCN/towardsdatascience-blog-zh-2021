@@ -109,11 +109,7 @@
 
 例如，它的一些应用提供了一种寻找给定矩阵的逆矩阵或特征值的方法。后者尤其重要，因为特征值和特征分解在主成分分析中起着中心作用。
 
-[](/implementing-pca-from-scratch-fb434f1acbaa) [## 从头开始实施 PCA
-
-### 仅用 Python 和 NumPy 来提高您的线性代数技能
-
-towardsdatascience.com](/implementing-pca-from-scratch-fb434f1acbaa) 
+</implementing-pca-from-scratch-fb434f1acbaa>  
 
 假设我们有一个 2 乘 2 的矩阵，并且我们已经知道了行列式。将矩阵元素放在等式的一边，将行列式放在等式的另一边，可以让我们求解矩阵的特定元素。
 
@@ -141,11 +137,7 @@ towardsdatascience.com](/implementing-pca-from-scratch-fb434f1acbaa)
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership) [## 通过我的推荐链接加入 Medium-Marvin Lanhenke
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@marvinlanhenke/membership) 
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

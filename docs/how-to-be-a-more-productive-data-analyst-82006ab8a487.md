@@ -42,16 +42,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322) [## 如何减轻数据分析工作的压力
-
-### 防止压力情境形成的小贴士
-
-madfordata.medium.com](https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322) [](/data-analyst-guide-to-stakeholder-management-728413c19449) [## 利益相关者管理数据分析师指南
-
-### 管理利益相关者的技巧
-
-towardsdatascience.com](/data-analyst-guide-to-stakeholder-management-728413c19449) [](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1) [## 如何对异常 KPI 变化进行故障排除
-
-### 调查 DAU 下降的案例研究
-
-towardsdatascience.com](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1)
+<https://madfordata.medium.com/how-to-reduce-stress-in-a-data-analytics-job-d6567ee85322>  </data-analyst-guide-to-stakeholder-management-728413c19449>  </how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1> 

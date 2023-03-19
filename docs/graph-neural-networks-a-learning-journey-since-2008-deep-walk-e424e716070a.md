@@ -8,11 +8,7 @@
 
 图片由 [Wladislaw Sokolowskij](https://unsplash.com/@wsokolowskij) 在 [Unsplash](https://unsplash.com/photos/0vw4InAC-yM) 上拍摄
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+<https://medium.com/@stefanobosisio1/membership>  
 
 [在本系列的第一篇文章中，我们学习了图形神经网络模型是如何工作的](/graph-neural-networks-a-learning-journey-since-2008-part-1-7df897834df9)。我们看到，GNN 返回基于节点和基于图形的预测，它有坚实的数学背景支持。特别地，转移函数和输出函数满足 Banach 不动点定理。然而，尽管成功的 GNN 应用，也有一些障碍，如解释[1]。GNN 模型的主要思想是建立状态转换，函数 *f𝓌* 和 *g𝓌* ，并迭代直到这些函数收敛在一个阈值内。这是一个强约束，可能会限制模型的可扩展性和表示能力。其次，GNN 不能利用*表示学习*，即如何从低维特征向量中表示图形。第三，GNN 基于迭代学习过程，其中标签是混合的特征。这种混合可能会导致一些级联错误，如[6]所示
 

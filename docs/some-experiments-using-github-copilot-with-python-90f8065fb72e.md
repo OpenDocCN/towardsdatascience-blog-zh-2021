@@ -10,11 +10,7 @@
 
 查看我最近关于用 GitHub Copilot 编写测试的文章
 
-[](https://www.realpythonproject.com/writing-better-tests-with-ai-and-github-copilot/) [## 用 AI 和 GitHub Copilot 编写更好的测试
-
-### 生产力。Copilot 可以省去你写重复代码的麻烦，并且可以通过节省你的…
-
-www.realpythonproject.com](https://www.realpythonproject.com/writing-better-tests-with-ai-and-github-copilot/) 
+<https://www.realpythonproject.com/writing-better-tests-with-ai-and-github-copilot/>  
 
 # 获取口袋妖怪数据的函数
 
@@ -123,16 +119,8 @@ www.realpythonproject.com](https://www.realpythonproject.com/writing-better-test
 
 由 [Alberto Romero](https://medium.com/u/7ba6be8a3022?source=post_page-----90f8065fb72e--------------------------------) 撰写的这篇文章更深入地探讨了 GitHub Copilot
 
-[](/github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae) [## GitHub Copilot——新一代人工智能程序员
-
-### GitHub、微软、OpenAI 都达到了一个新的里程碑。
-
-towardsdatascience.com](/github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae) 
+</github-copilot-a-new-generation-of-ai-programmers-327e3c7ef3ae>  
 
 由 [Bex T.](https://medium.com/u/39db050c2ac2?source=post_page-----90f8065fb72e--------------------------------) 撰写的这篇文章也很值得一读
 
-[](/should-we-be-worried-now-that-github-copilot-is-out-12f59551cd95) [## OpenAI 推出 GitHub Copilot:专注于代码生成的 AI。我们现在应该担心吗？
-
-towardsdatascience.com](/should-we-be-worried-now-that-github-copilot-is-out-12f59551cd95) 
-
-*原载于 2021 年 7 月 5 日 https://www.realpythonproject.com*[](https://www.realpythonproject.com/some-experiments-with-github-copilot/)**。**
+</should-we-be-worried-now-that-github-copilot-is-out-12f59551cd95> **。**

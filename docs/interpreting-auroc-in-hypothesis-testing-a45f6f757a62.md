@@ -29,7 +29,7 @@
 1.  将像素块分类为包含或不包含汽车。
 2.  将电子邮件分类为垃圾邮件。(提示:[支持向量机](/svm-an-optimization-problem-242cbb8d96a8))
 
-**统计(**[](/hypothesis-testing-visualized-6f30b18fc78f)****)****
+**统计(**</hypothesis-testing-visualized-6f30b18fc78f>****)****
 
 1.  **雄性企鹅的身高平均比雌性企鹅高吗？(提示:两个样本 t 检验)**
 2.  **接种疫苗的人访问 ICU 的比率是否低于未接种疫苗的人？(提示:[二项式检验](/turning-a-two-sample-event-rate-test-into-a-one-sample-binomial-test-23fbfb9d1df6))**

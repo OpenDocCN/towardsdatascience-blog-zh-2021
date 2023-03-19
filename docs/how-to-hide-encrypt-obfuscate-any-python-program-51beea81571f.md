@@ -92,11 +92,7 @@ main.py 文件中内容，
 
 **@*GitHub***
 
-[](https://github.com/bala-codes/Code-Encryption-Obfuscation---Python) [## bala 代码/代码加密混淆 Python
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/bala-codes/Code-Encryption-Obfuscation---Python) 
+<https://github.com/bala-codes/Code-Encryption-Obfuscation---Python>  
 
 ## 皮铠甲:
 

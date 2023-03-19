@@ -152,8 +152,4 @@ Olist 提供了来自 8 个关系表的数据，它们具有很好的引用完�
 *   需要额外的功能:虽然 84%的准确率预测 29%的差评是一个开始，我们需要做得更好。我建议 Olist 为进一步的功能开发获取额外的数据:订单、客户退货、客户网络日志、客户服务互动、客户角色、人口统计、品牌/产品/卖家社会情绪的完整数据库，以及来自卖家的数据。
 *   营销漏斗:Olist 还在 Kaggle 上发布了一个[营销漏斗数据集，其中包含来自卖方资格认证流程的 2 个上游表格。当加入订单模式时，该数据不可用，因为它仅包含 2017-2018 年间注册的卖家，代表了这一时期实际订单的一小部分(大多数是由已建立的卖家完成的)。](https://www.kaggle.com/olistbr/marketing-funnel-olist)
 
-[](https://chuckutterback.medium.com/membership) [## 通过我的推荐链接加入媒体-查克·厄特巴克
-
-### 加入我的推荐链接- Chuck Utterback，从我自己和所有的人那里获得高质量的文章
-
-chuckutterback.medium.com](https://chuckutterback.medium.com/membership)
+<https://chuckutterback.medium.com/membership> 

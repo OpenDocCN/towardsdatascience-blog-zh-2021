@@ -50,11 +50,7 @@
 
 事实上，一些人，比如网飞大学数据科学和工程的前副总裁 Eric Colson，认为我们应该组织我们的数据科学团队的方式是拥有多面手而不是专家。
 
-[](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) [## 为什么数据科学团队需要多面手，而不是专家
-
-### 在《国富论》中，亚当·斯密展示了劳动分工是生产率提高的主要来源…
-
-hbr.org](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) 
+<https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists>  
 
 # 成为多面手的好处
 
@@ -100,15 +96,7 @@ hbr.org](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-spe
 
 如果你想更深入地了解这方面的内容，我推荐你读一些其他的文章。
 
-[](/why-you-should-be-a-generalist-first-specialist-later-as-a-data-scientist-f26d687f8c6) [## 为什么你应该先成为多面手，再成为数据科学家的专家？
-
-### 当我刚开始从事数据科学时，我想成为的人非常简单——成为一名数据科学家。句号。
-
-towardsdatascience.com](/why-you-should-be-a-generalist-first-specialist-later-as-a-data-scientist-f26d687f8c6) [](/generalists-vs-specialists-in-data-science-and-analytics-fe5d8b55f1e6) [## 数据科学和分析领域的通才与专家
-
-### 在数据科学和分析社区，专家比多面手更受青睐，这就是它…
-
-towardsdatascience.com](/generalists-vs-specialists-in-data-science-and-analytics-fe5d8b55f1e6) 
+</why-you-should-be-a-generalist-first-specialist-later-as-a-data-scientist-f26d687f8c6>  </generalists-vs-specialists-in-data-science-and-analytics-fe5d8b55f1e6>  
 
 感谢阅读！
 

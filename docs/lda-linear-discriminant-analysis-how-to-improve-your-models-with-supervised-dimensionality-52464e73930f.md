@@ -83,11 +83,7 @@ PCA 的目标是捕捉最大的变化量，这是通过算法找到一条线来�
 
 *如果你想更深入的了解 PCA，可以参考我之前的文章:*
 
-[](/pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c) [## PCA:主成分分析——如何用更少的维度获得优越的结果？
-
-### 降维的最佳技术之一
-
-towardsdatascience.com](/pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c) 
+</pca-principal-component-analysis-how-to-get-superior-results-with-fewer-dimensions-7a70e8ab798c>  
 
 ## 应用线性判别分析(LDA)
 
@@ -257,20 +253,8 @@ LDA 图。图片由[作者](https://solclover.com/)提供。
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介是:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+<https://solclover.com/membership>  
 
 如果你喜欢这个故事，这里有几篇你可能会喜欢的文章:
 
-[](/dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec) [## DBSCAN 聚类算法——如何构建强大的基于密度的模型
-
-### 对有噪声的应用程序使用基于密度的空间聚类的详细指南
-
-towardsdatascience.com](/dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec) [](/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2) [## k-最近邻(kNN)-如何使用监督学习进行质量预测？
-
-### 使用 kNN 解决回归和分类问题的综合指南
-
-towardsdatascience.com](/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2)
+</dbscan-clustering-algorithm-how-to-build-powerful-density-based-models-21d9961c4cec>  </k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2> 

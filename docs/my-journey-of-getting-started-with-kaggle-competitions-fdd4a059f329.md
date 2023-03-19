@@ -27,47 +27,23 @@
 
 > [**三月机器学习狂潮 2021- NCAAM**](https://www.kaggle.com/c/ncaam-march-mania-2021) **和** [**三月机器学习狂潮 2021- NCAAW**](https://www.kaggle.com/c/ncaaw-march-mania-2021) **:-** 在这场比赛中，目的是预测一支队伍在 NCAA 2021 年男女比赛中战胜另一支队伍的概率。虽然我们参赛晚了一点，但我们还是在男子比赛中获得了一枚铜牌。通过这次比赛，我学到了一些新的东西，如单变量样条模型和 [**如何进行 Kaggle 比赛**](https://www.kaggle.com/c/ncaam-march-mania-2021/discussion/226188) ，因为这是我的第一次比赛。关于我的方法的更多细节可以在本次比赛的 [**讨论部分**](https://www.kaggle.com/c/ncaam-march-mania-2021/discussion/230919) 中找到。这是我为这两个比赛写的笔记本。:-
 
-[](https://www.kaggle.com/muskan2006/ncaam-feature-engineering-and-xgboost) [## NCAAM-特征工程和 XGBoost
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 2021 年 3 月机器学习狂潮的数据- NCAAM
-
-www.kaggle.com](https://www.kaggle.com/muskan2006/ncaam-feature-engineering-and-xgboost) [](https://www.kaggle.com/muskan2006/ncaaw-feature-engineering-and-xgboost) [## NCAAW-特征工程和 XGBoost
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 2021 年 3 月机器学习狂潮- NCAAW 的数据
-
-www.kaggle.com](https://www.kaggle.com/muskan2006/ncaaw-feature-engineering-and-xgboost) 
+<https://www.kaggle.com/muskan2006/ncaam-feature-engineering-and-xgboost>  <https://www.kaggle.com/muskan2006/ncaaw-feature-engineering-and-xgboost>  
 
 > [**室内定位导航**](https://www.kaggle.com/c/indoor-location-navigation)**:-在这个比赛中，需要根据实时传感器数据预测智能手机的室内位置。该数据由室内定位技术公司 XYZ10 与微软研究院合作提供。不幸的是，由于新冠肺炎，我生病了。所以我们只能工作四天，但我确实学到了一些新东西，比如**后处理**的重要性以及用于后处理的各种技术(网格捕捉、成本最小化等)。).此外，可视化数据在这场比赛中是一个挑战，但有很多很棒的公共笔记本在这方面帮助了我。关于我的方法的更多细节可以在本次竞赛的 [**讨论部分**](https://www.kaggle.com/c/indoor-location-navigation/discussion/239916) 中找到。**
 
-[](https://www.kaggle.com/c/indoor-location-navigation) [## 室内定位和导航
-
-### 识别智能手机在购物中心的位置
-
-www.kaggle.com](https://www.kaggle.com/c/indoor-location-navigation) 
+<https://www.kaggle.com/c/indoor-location-navigation>  
 
 > [**表格游乐场系列-2021 年 5 月**](https://www.kaggle.com/c/tabular-playground-series-may-2021) **:-这是一个为任何希望开始 Kaggle 比赛的人准备的比赛系列。它旨在提供一个任何人都可以接近的表格数据集。**通过这次比赛，我了解了**去噪自动编码器(DAE)、自动机器学习模型(AutoML)、**和**Google Research 的 TabNet 库。关于我的方法的更多细节可以在本次比赛的 [**讨论部分**](https://www.kaggle.com/c/tabular-playground-series-may-2021/discussion/243050) 中找到。**
 
-[](https://www.kaggle.com/c/tabular-playground-series-may-2021) [## 表格游乐场系列-2021 年 5 月
-
-### 在这个可接近的数据集上练习你的 ML 技能！
-
-www.kaggle.com](https://www.kaggle.com/c/tabular-playground-series-may-2021) 
+<https://www.kaggle.com/c/tabular-playground-series-may-2021>  
 
 > [**植物病理学 2021-fgvc 8**](https://www.kaggle.com/c/plant-pathology-2021-fgvc8)**:-**T**竞赛的主要目标是开发基于机器学习的模型，将测试数据集中给定的叶片图像准确分类到特定的疾病类别，并从单个叶片图像上的多个疾病症状中识别出单个疾病。**这是我第一次参加与图像检测相关的 Kaggle 比赛。我以前从事过手写数字识别，但这次比赛涉及彩色图像，并且**关于各种颜色(RGB)分布的知识**是 EDA 的重要部分。使用的模型可以从 CNN 到 DenseNet、EfficientNet 等。关于我的方法的更多细节可以在本次比赛的 [**讨论部分**](https://www.kaggle.com/c/plant-pathology-2021-fgvc8/discussion/243536) 中找到。
 
- [## 植物病理学 2021 - FGVC8
-
-### 识别苹果树叶面病害的种类
-
-www.kaggle.com](https://www.kaggle.com/c/plant-pathology-2021-fgvc8) 
+  
 
 > 我还做过 [**SESHAT 的社会复杂性数据集**](https://www.kaggle.com/usharengaraju/social-complexity-dataset-ancient-civilization) **。在这里，我处理了非结构化数据，并致力于分析多年来社会复杂性演变的各种趋势，以及可能在社会复杂性演变中发挥重要作用的各种因素。这是我写的笔记本**
 
-[](https://www.kaggle.com/muskan2006/evolution-of-social-complexity-a-data-analysis) [## 社会复杂性的演变:数据分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自多个数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/muskan2006/evolution-of-social-complexity-a-data-analysis) 
+<https://www.kaggle.com/muskan2006/evolution-of-social-complexity-a-data-analysis>  
 
 我最终成为了 Kaggle 笔记本电脑专家！除了赠款，Kaggle 还提供了一些 Coursera 专业和 GCP 学分，以帮助学员开始使用谷歌云。他们还发出了令人惊叹的好东西，并向每个人传达了美好的信息，耶！
 

@@ -16,7 +16,7 @@
 
 如果这是你的第一个大型自我指导项目，那么你需要花时间做相应的计划。事先做好研究并制定计划会给你带来最大的成功机会。你还需要考虑你的时间管理技巧和当前的习惯。了解最好的学习技巧是一回事，但你也必须能够使用它们。这就是时间管理和良好习惯形成的地方。除了制定课程，你还必须安排好你的时间和学习习惯。没有人会监视你，告诉你什么时候该做什么。因此，你必须确保把系统放在适当的位置，确保你按照你的计划。
 
-我推荐看 Coursera 上的课程“[学习如何学习](https://www.coursera.org/learn/learning-how-to-learn)”或者读 Scott H. Young 的书[*Ultralearning*](https://www.scotthyoung.com/blog/ultralearning/)*(或者两者都是！).这些将有助于你更好地理解我们的大脑在学习一个新话题时是如何工作的，以及如何做得最好。关于时间管理和习惯养成，我推荐詹姆斯·克纳普和约翰·泽拉特斯基的《原子习惯》*和《创造时间》[](https://maketime.blog/)**这两本书。请随意使用这些资源或任何其他你认为有助于达到相同目的的资源。****
+我推荐看 Coursera 上的课程“[学习如何学习](https://www.coursera.org/learn/learning-how-to-learn)”或者读 Scott H. Young 的书[*Ultralearning*](https://www.scotthyoung.com/blog/ultralearning/)*(或者两者都是！).这些将有助于你更好地理解我们的大脑在学习一个新话题时是如何工作的，以及如何做得最好。关于时间管理和习惯养成，我推荐詹姆斯·克纳普和约翰·泽拉特斯基的《原子习惯》*和《创造时间》<https://maketime.blog/>**这两本书。请随意使用这些资源或任何其他你认为有助于达到相同目的的资源。****
 
 # ***实验，但不要太多***
 
@@ -50,11 +50,7 @@
 
 ***查看这篇文章，找到要加入的 discords 列表:***
 
-***[](/top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d) [## 2020 年将加入的 20 大数据科学不和谐服务器
-
-### 以下是 Discord 上用于数据科学的最佳服务器列表
-
-towardsdatascience.com](/top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d) 
+***</top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d>  
 
 # 在整个旅程中保持责任感
 

@@ -67,11 +67,7 @@ T 图形神经网络(GNNs)的日益流行给了我们一堆 python 库。
 
 我已经在我发表的这篇中型文章中解释了 PyTorch 几何库的过程。随便查！
 
-[](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab) [## 使用 PyTorch 几何图形的神经网络初学者指南—第 2 部分
-
-### 使用节点嵌入作为 GNN 模型的特征
-
-towardsdatascience.com](/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab) 
+</a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab>  
 
 在本文中，我将重点介绍 DGL 和斯佩克特拉。
 

@@ -148,14 +148,6 @@
 
 如果您目前正在寻找一份数据分析师的工作，或者如果您有兴趣了解我是如何获得目前职位的，请随时查看我下面的其他文章:
 
-[](https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785) [## 我终于找到了一份数据科学的工作
-
-### 我在澳大利亚一家大型数据科学公司面试全职职位的经历
-
-chongjason.medium.com](https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785) [](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) [## 下一次技术面试前你需要知道的 70 个数据科学面试问题
-
-### 概率和统计，机器学习算法，脑筋急转弯等等
-
-medium.com](https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3) 
+<https://chongjason.medium.com/i-finally-got-a-data-science-job-39f58774785>  <https://medium.com/geekculture/70-data-science-interview-questions-you-need-to-know-before-your-next-technical-interview-ccfbd37a37b3>  
 
 感谢您的阅读，我希望在我的下一篇文章中见到您！

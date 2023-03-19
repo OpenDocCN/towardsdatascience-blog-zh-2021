@@ -247,10 +247,6 @@ print('Test accuracy:', score[1])**
 
 查看完整的数据可视化指南:
 
-[](/data-visualization-with-python-8bc988e44f22) [## 用 Python 实现数据可视化
-
-### Master python 的数据可视化库
-
-towardsdatascience.com](/data-visualization-with-python-8bc988e44f22) 
+</data-visualization-with-python-8bc988e44f22>  
 
 ***最初发表于:***[***www.patataeater.blogspot.com***](http://www.patataeater.blogspot.com/)

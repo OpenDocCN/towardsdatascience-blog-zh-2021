@@ -103,26 +103,10 @@ np.random.seed(100)
 
 如果你想了解更多关于**如何将数据分成训练集、测试集和验证集**的信息，那么请务必阅读下面的文章。
 
-[](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) [## 如何用 Python 将数据集分割成训练集和测试集
-
-### 探索从建模数据集创建训练和测试样本的三种方法
-
-towardsdatascience.com](/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830) 
+</how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830>  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。**
 
 **你可能也会喜欢**
 
-[](/how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84) [## 如何迭代熊猫数据框架中的行
-
-### 讨论如何在 pandas 中迭代行，以及为什么最好避免(如果可能的话)
-
-towardsdatascience.com](/how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84) [](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [## 使用性能可视化来监控 Python 代码
-
-### 如何持续测量、可视化和提高 Python 代码在生产中的性能
-
-medium.com](https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb) [](/how-to-suppress-settingwithcopywarning-in-pandas-c0c759bd0f10) [## 如何抑制熊猫设定 SettingWithCopyWarning
-
-### 了解 pandas 中副本和视图之间的区别以及如何处理带有副本警告的设置
-
-towardsdatascience.com](/how-to-suppress-settingwithcopywarning-in-pandas-c0c759bd0f10)
+</how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84>  <https://medium.com/geekculture/use-performance-visualization-to-monitor-your-python-code-f6470592a1cb>  </how-to-suppress-settingwithcopywarning-in-pandas-c0c759bd0f10> 

@@ -122,11 +122,7 @@ Python 中的多处理模块是启动许多子流程的一种极好的方式。�
 
 如果你在 Tuplex 上寻找一个详细的帖子，这里有一个。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 ## 单一进程的多路复用器。
 

@@ -20,11 +20,7 @@
 
 ## **点击这里查看第一部分—**
 
-[](/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24) [## 2020 年你必须使用的最好的 Python IDEs 和代码编辑器
-
-### 具有显著特性的顶级 Python IDEs 和代码编辑器
-
-towardsdatascience.com](/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24) 
+</best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24>  
 
 # 你应该知道的最好的 Python IDEs 和代码编辑器
 
@@ -179,15 +175,7 @@ Thonny 的教育性编程风格不仅教你编程语言的某些部分，比如�
 
 ●使用多个插件时，性能会受到影响
 
-[](/top-16-python-applications-in-real-world-a0404111ac23) [## 现实世界中的 16 大 Python 应用
-
-### 看看 Python 在现实世界中的各种应用
-
-towardsdatascience.com](/top-16-python-applications-in-real-world-a0404111ac23) [](/10-cool-python-project-ideas-for-python-developers-7953047e203) [## 给 Python 开发者的 10 个很酷的 Python 项目想法
-
-### 您可以使用 Python 构建的有趣想法和项目列表
-
-towardsdatascience.com](/10-cool-python-project-ideas-for-python-developers-7953047e203) 
+</top-16-python-applications-in-real-world-a0404111ac23>  </10-cool-python-project-ideas-for-python-developers-7953047e203>  
 
 # 5.**竞技表演**
 
@@ -230,51 +218,7 @@ Python 对开发人员来说非常友好，但是在选择合适的代码编辑�
 
 我希望这篇文章对你有用！以下是一些有趣的读物，希望你也喜欢
 
-[](https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/) [## 2020 年大一新生热门 Python 面试问答
-
-### 这里列出了大一新生最常被问到的 python 面试问题和答案，涵盖了核心…
-
-blog.digitalogy.co](https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/) [](/top-11-github-repositories-to-learn-python-e75e8676757a) [## 学习 Python 的 11 大 Github 库
-
-### 学习 Python 的流行 GitHub 库
-
-towardsdatascience.com](/top-11-github-repositories-to-learn-python-e75e8676757a) [](/best-python-libraries-for-every-python-developer-77daab4fa40e) [## 每个 Python 开发者的最佳 Python 库
-
-### 开发人员应该在他们的项目中使用的 Python 库。
-
-towardsdatascience.com](/best-python-libraries-for-every-python-developer-77daab4fa40e) [](/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c) [## 你必须知道的 12 项 Python 开发者技能
-
-### Python 开发人员必备的顶级技能
-
-towardsdatascience.com](/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c) [](/top-10-trending-python-projects-on-github-fb852cd58262) [## GitHub 上十大热门 Python 项目
-
-### 像这样的 GitHub 项目是人们创造力和才华的完美展示
-
-towardsdatascience.com](/top-10-trending-python-projects-on-github-fb852cd58262) [](/python-books-you-must-read-in-2020-a0fc33798bb) [## 2020 年必读的 Python 书籍
-
-### 看看吧，你为什么要读它们？
-
-towardsdatascience.com](/python-books-you-must-read-in-2020-a0fc33798bb) [](/top-10-python-gui-frameworks-for-developers-adca32fbe6fc) [## 面向开发者的 10 大 Python GUI 框架
-
-### 构建交互式 GUI 的最佳 Python GUI 框架
-
-towardsdatascience.com](/top-10-python-gui-frameworks-for-developers-adca32fbe6fc) [](/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c) [## 机器学习和深度学习的最佳 Python 库
-
-### 现代机器学习模型和项目的 Python 库
-
-towardsdatascience.com](/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c) [](/python-libraries-for-natural-language-processing-be0e5a35dd64) [## 用于自然语言处理的 Python 库
-
-### 用于自然语言处理的流行 python 库概述
-
-towardsdatascience.com](/python-libraries-for-natural-language-processing-be0e5a35dd64) [](/10-world-class-companies-using-python-26cde24919a8) [## 10 家使用 Python 的世界级公司
-
-### Python 正被 IT 界的一些巨头积极使用
-
-towardsdatascience.com](/10-world-class-companies-using-python-26cde24919a8) [](https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/) [## 2020 年 Web 开发的 10 个最佳 Python 框架
-
-### 最近一次更新是在 Claire D .上。这些年来，Python 已经成为…
-
-blog.digitalogy.co](https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/) 
+<https://blog.digitalogy.co/python-interview-questions-and-answers-for-freshers/>  </top-11-github-repositories-to-learn-python-e75e8676757a>  </best-python-libraries-for-every-python-developer-77daab4fa40e>  </top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c>  </top-10-trending-python-projects-on-github-fb852cd58262>  </python-books-you-must-read-in-2020-a0fc33798bb>  </top-10-python-gui-frameworks-for-developers-adca32fbe6fc>  </best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c>  </python-libraries-for-natural-language-processing-be0e5a35dd64>  </10-world-class-companies-using-python-26cde24919a8>  <https://blog.digitalogy.co/best-python-frameworks-for-web-development-2020/>  
 
 > ***关于作者***
 > 

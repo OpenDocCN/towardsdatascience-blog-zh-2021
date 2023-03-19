@@ -20,7 +20,7 @@
 *   *使用一个流行的术语参与对话，例如*见解*——即使你不能准确解释*见解*到底是什么或者它们是如何产生的。*
 *   *好吧，最后一个有点卑鄙……但是每个人都知道至少有一个典型的商人依赖于流行词汇，却不理解它们，对吗？如果你足够油嘴滑舌，这是一个有用的策略。*
 
-*不幸的是，使用这些术语和缩略词会疏远和迷惑那些不是你行话俱乐部成员的人。它会阻碍多学科团队之间的合作。当然，这些术语可能会被荒谬地过度使用——[](https://en.wikipedia.org/wiki/Buzzword_bingo)**流行语，有人知道*吗？**
+*不幸的是，使用这些术语和缩略词会疏远和迷惑那些不是你行话俱乐部成员的人。它会阻碍多学科团队之间的合作。当然，这些术语可能会被荒谬地过度使用——<https://en.wikipedia.org/wiki/Buzzword_bingo>**流行语，有人知道*吗？**
 
 **社区之间也存在许多术语的含义冲突。最近一些对话的例子:**
 
@@ -81,7 +81,7 @@
 
 **尽管如此，对于每种数据类型，我们可以努力将*数据处理管道协调成一致的代码库、编程框架和编排/质量保证系统，例如 [Apache Airflow](https://en.wikipedia.org/wiki/Apache_Airflow) 、 [Galaxy](https://en.wikipedia.org/wiki/Galaxy_(computational_biology)) 。***
 
-**也许更重要的是，数据处理可以相对于[](https://en.wikipedia.org/wiki/Provenance#Computer_science)**协调*——即精确、可复制地记录数据发生了什么以及何时发生的。***
+**也许更重要的是，数据处理可以相对于<https://en.wikipedia.org/wiki/Provenance#Computer_science>**协调*——即精确、可复制地记录数据发生了什么以及何时发生的。***
 
 ## **4 —处理数据存储的协调**
 

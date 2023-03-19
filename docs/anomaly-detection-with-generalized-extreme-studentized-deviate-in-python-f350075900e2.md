@@ -105,10 +105,6 @@ Rosner 的模拟研究表明，这个临界值近似值对于 n ≥ 25 非常精
 
 *bmc| [机器学习的异常检测:Jonathan Johnson 的介绍](https://www.bmc.com/blogs/machine-learning-anomaly-detection/#:~:text=Anomaly%20detection%20is%20any%20process,data%20for%20cleaning%2C%20before%20analysis)*
 
-*[](https://datascience904.wordpress.com/2019/10/14/anomaly-detection-using-pca/) [## 使用主成分分析的异常检测
-
-### 异常检测(或异常值检测)是对引起异常的罕见项目、事件或观察结果的识别
-
-datascience904.wordpress.com](https://datascience904.wordpress.com/2019/10/14/anomaly-detection-using-pca/) 
+*<https://datascience904.wordpress.com/2019/10/14/anomaly-detection-using-pca/>  
 
 [https://www . ITL . NIST . gov/div 898/handbook/EDA/section 3/EDA 35h 3 . htm](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm)*

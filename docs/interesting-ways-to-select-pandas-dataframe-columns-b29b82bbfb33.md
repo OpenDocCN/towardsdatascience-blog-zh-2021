@@ -132,16 +132,4 @@ df.loc[:,[(df[col].mean() > 7) for col in df.columns]]
 
 ## 参考
 
-[](https://github.com/caseywhorton/medium-blog-code) [## GitHub-Casey Horton/medium-blog-code
-
-### 在 GitHub 上创建一个帐户，为 Casey Horton/medium-blog-code 开发做贡献。
-
-github.com](https://github.com/caseywhorton/medium-blog-code)  [## 重新正则表达式操作- Python 3.9.4 文档
-
-### 这个模块提供了类似于 Perl 中的正则表达式匹配操作。无论是图案还是字符串…
-
-docs.python.org](https://docs.python.org/3/library/re.html) [](https://pandas.pydata.org/) [## 熊猫
-
-### pandas 是一个快速、强大、灵活且易于使用的开源数据分析和操作工具，构建于…
-
-pandas.pydata.org](https://pandas.pydata.org/)
+<https://github.com/caseywhorton/medium-blog-code>    <https://pandas.pydata.org/> 

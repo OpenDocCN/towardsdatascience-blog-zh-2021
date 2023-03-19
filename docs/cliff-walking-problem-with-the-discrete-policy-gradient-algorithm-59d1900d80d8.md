@@ -10,11 +10,7 @@
 
 教科书上的悬崖行走问题继续引人入胜。虽然非常简单，但它阐明了强化学习算法的许多有趣的方面。在处理了一些基于价值的实现(这里是 SARSA 和 Q-learning，这里是深度 Q-learning)之后，现在是时候转向基于策略的实现了。尽管现在有很多库，我们还是用 Python 手动实现了这个过程，来演示**离散策略梯度算法**背后的机制。最后，我们与 SARSA 进行了面对面的比较。
 
-[](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) [## 强化学习中的策略梯度解释
-
-### 了解所有关于基于似然比的政策梯度算法(加强):直觉，推导，和…
-
-towardsdatascience.com](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) 
+</policy-gradients-in-reinforcement-learning-explained-ecec7df94245>  
 
 # 悬崖行走问题
 
@@ -116,11 +112,7 @@ Softmax 政策。
 
 *完整的代码，包括其他针对悬崖行走问题的 RL 解决方案，可以在我的 GitHub 上找到:*
 
-[](https://github.com/woutervanheeswijk/cliff_walking_public) [## GitHub—woutervanheeswijk/Cliff _ walking _ public:悬崖行走强化学习示例，带…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/woutervanheeswijk/cliff_walking_public) 
+<https://github.com/woutervanheeswijk/cliff_walking_public>  
 
 # 外卖食品
 
@@ -131,31 +123,15 @@ github.com](https://github.com/woutervanheeswijk/cliff_walking_public)
 
 *Q-learning 和 SARSA 的实现:*
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) [## 用非策略强化学习走下悬崖
-
-### 政策外强化学习和政策内强化学习的深入比较
-
-towardsdatascience.com](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) 
+</walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff>  
 
 *深度 Q 学习的实现:*
 
-[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) [## 悬崖行走问题的深度 Q 学习
-
-### 一个完整的 Python 实现，用 TensorFlow 2.0 导航悬崖。
-
-towardsdatascience.com](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) 
+</deep-q-learning-for-the-cliff-walking-problem-b54835409046>  
 
 *首先在离散政策梯度的基础上迎头赶上？查看我的文章最小工作实例和理论推导:*
 
-[](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) [## 强化学习中的策略梯度解释
-
-### 了解所有关于基于似然比的政策梯度算法(加强):直觉，推导，和…
-
-towardsdatascience.com](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) 
+</a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  </policy-gradients-in-reinforcement-learning-explained-ecec7df94245>  
 
 # 参考
 

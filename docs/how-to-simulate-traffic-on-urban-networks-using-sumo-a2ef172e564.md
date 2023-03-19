@@ -148,11 +148,7 @@ SUMO xml 输出包含每个时间步长的单个车辆时间、位置和速度�
 
 这个项目的代码可以在 GitHub 上找到:
 
-[](https://github.com/skandavivek/sumo-traffic-grids) [## skandavivek/sumo-交通-网格
-
-### 使用 SUMO 和 Python 模拟网格上的流量。通过创建……为 skandavivek/sumo 交通网络的发展做出贡献
-
-github.com](https://github.com/skandavivek/sumo-traffic-grids) 
+<https://github.com/skandavivek/sumo-traffic-grids>  
 
 参考资料:
 
@@ -164,8 +160,4 @@ github.com](https://github.com/skandavivek/sumo-traffic-grids)
 
 如果你对技术和现代社会之间的相互联系有全面的看法，请订阅我的时事通讯。
 
-[](https://skandavivek.substack.com/) [## 网络物理
-
-### 在日益互联的世界中，基于数据的现代社会问题透视
-
-skandavivek.substack.com](https://skandavivek.substack.com/)
+<https://skandavivek.substack.com/> 

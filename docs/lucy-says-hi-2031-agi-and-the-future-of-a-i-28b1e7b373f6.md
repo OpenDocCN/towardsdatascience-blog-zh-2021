@@ -188,8 +188,4 @@ Ben Goertzel 博士是奇点网的创始人。这个项目代表了通过多个�
 
 如果你想**阅读更多关于神经科学**可能帮助我们**到达 AGI** ，**查看**这篇我写的**文章**:
 
-[](/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb) [## 走向深度学习的终点和 AGI 的起点
-
-### 如何最近的研究指出了战胜对立的例子，并实现更有弹性，一致…
-
-towardsdatascience.com](/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb)
+</towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb> 

@@ -50,11 +50,7 @@ df_result = **df[['colA', 'colD']]**print(df_result)
 
 如果您想了解更多关于 Python 中索引和切片的工作原理，请务必阅读下面的文章。
 
-[](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125) 
+</mastering-indexing-and-slicing-in-python-443e23457125>  
 
 ## 使用 iloc
 
@@ -90,7 +86,7 @@ df_result = df.loc[:, 'colA':'colC']print(df_result)
 
 此时，您可能想要了解 Pandas 中`loc`和`iloc`之间的差异，并根据您的具体需求和使用案例阐明使用哪一个。
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
+</loc-vs-iloc-in-pandas-92fc125ed8eb> [## 熊猫中的 loc 与 iloc
 
 towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) 
 
@@ -114,16 +110,4 @@ df_result = **pd.DataFrame(df, columns=['colA', 'colC'])**print(df_result)
 
 **你可能也会喜欢**
 
-[](/how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84) [## 如何迭代熊猫数据框架中的行
-
-### 讨论如何在 pandas 中迭代行，以及为什么最好避免(如果可能的话)
-
-towardsdatascience.com](/how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84) [](/how-to-auto-adjust-the-width-of-excel-columns-with-pandas-excelwriter-60cee36e175e) [## 如何用 Pandas ExcelWriter 自动调整 Excel 列的宽度
-
-### 使用 pandas 时动态调整 Excel 列名的宽度。ExcelWriter 和 Python
-
-towardsdatascience.com](/how-to-auto-adjust-the-width-of-excel-columns-with-pandas-excelwriter-60cee36e175e) [](/how-to-get-the-row-count-of-a-pandas-dataframe-be67232ad5de) [## 如何获得熊猫数据帧的行数
-
-### 探讨如何更有效地获取熊猫数据帧的行数
-
-towardsdatascience.com](/how-to-get-the-row-count-of-a-pandas-dataframe-be67232ad5de)
+</how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84>  </how-to-auto-adjust-the-width-of-excel-columns-with-pandas-excelwriter-60cee36e175e>  </how-to-get-the-row-count-of-a-pandas-dataframe-be67232ad5de> 

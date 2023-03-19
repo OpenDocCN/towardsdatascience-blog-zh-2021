@@ -195,7 +195,7 @@ tensor = tensor.cuda()**
 
 ## ****培训、评估和储蓄****
 
-****就在那里！模型可以变化，训练方法可以不同，可视化可以应用，损失可以是许多奇怪组件的组合，但最终它将基于这样一个简单的主干。关于实际网络的例子，请随意在这里[](/building-a-gan-with-pytorch-237b4b07ca9a)**或者在这里 找到 [**。**](/building-a-convolutional-vae-in-pytorch-a0f54c947f71)******
+****就在那里！模型可以变化，训练方法可以不同，可视化可以应用，损失可以是许多奇怪组件的组合，但最终它将基于这样一个简单的主干。关于实际网络的例子，请随意在这里</building-a-gan-with-pytorch-237b4b07ca9a>**或者在这里 找到 [**。**](/building-a-convolutional-vae-in-pytorch-a0f54c947f71)******
 
 # ****预训练模型****
 

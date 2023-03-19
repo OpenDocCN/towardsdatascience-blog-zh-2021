@@ -107,11 +107,7 @@ CatBoost 机器学习算法是由[Yandex](https://catboost.ai/)【7】创建的�
 
 *请随意查看我在'`The Top 5 Machine Learning Algorthims` ' [8]中的另一篇文章，这篇文章深入探讨了这些算法中的两个以及其他三个算法的用例:*
 
-*[](/the-top-5-machine-learning-algorithms-53bc471a2e92) [## 五大机器学习算法
-
-### …每个数据科学家都应该知道的，以及使用案例。
-
-towardsdatascience.com](/the-top-5-machine-learning-algorithms-53bc471a2e92) 
+*</the-top-5-machine-learning-algorithms-53bc471a2e92>  
 
 # 参考
 

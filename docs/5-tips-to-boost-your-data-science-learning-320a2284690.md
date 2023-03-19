@@ -119,16 +119,8 @@ Julia Nikulski 制作的图片展示了推动您的数据科学学习之旅的 5
 
 你想在媒体上阅读更多高质量的故事吗？考虑注册一个支持我和其他媒体作者的会员。
 
-[](https://medium.com/@julia.nikulski/membership) [## 通过我的推荐链接加入 Medium-Julia Nikulski
-
-### 作为一个媒体会员，你的会员费的一部分给了你所阅读的作家，你可以在…上看到所有的故事
-
-medium.com](https://medium.com/@julia.nikulski/membership) 
+<https://medium.com/@julia.nikulski/membership>  
 
 您是否正在寻找展示您的数据科学产品组合的方法，但不知道从哪里开始？查看我关于如何建立数据科学组合网站的指南**:**
 
-**[](/how-to-build-a-data-science-portfolio-website-335b0f253822) [## 如何建立数据科学作品集网站
-
-### 展示您的作品——从零开始创建网站
-
-towardsdatascience.com](/how-to-build-a-data-science-portfolio-website-335b0f253822)**
+**</how-to-build-a-data-science-portfolio-website-335b0f253822> **

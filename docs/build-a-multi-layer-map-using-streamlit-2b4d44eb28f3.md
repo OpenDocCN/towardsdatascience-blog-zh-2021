@@ -162,24 +162,12 @@ st.plotly_chart(fig)
 
 1.  **对 Streamlit 的精彩介绍:**
 
-[](/streamlit-101-an-in-depth-introduction-fc8aad9492f2) [## Streamlit 101:深入介绍
-
-### 利用 Airbnb 数据深入了解 Streamlit
-
-towardsdatascience.com](/streamlit-101-an-in-depth-introduction-fc8aad9492f2) 
+</streamlit-101-an-in-depth-introduction-fc8aad9492f2>  
 
 2) **如果你更喜欢 Dash for web apps:**
 
-[](https://plotly.com/python/maps/) [## 地图
-
-### Plotly 的 Python 图形库可以制作交互式、出版物质量的在线地图。如何使用…制作地图的示例
-
-plotly.com](https://plotly.com/python/maps/) 
+<https://plotly.com/python/maps/>  
 
 3) **是什么让空间数据变得特殊** l:
 
-[](https://escholarship.org/uc/item/3ph5k0d4) [## 空间数据有什么特别之处？空间数据分析的不同观点(89-4)
-
-### 作者:安瑟林，吕克|摘要:概述基本问题的一般想法与独特的…
-
-escholarship.org](https://escholarship.org/uc/item/3ph5k0d4)
+<https://escholarship.org/uc/item/3ph5k0d4> 

@@ -82,15 +82,7 @@ to_pickle()比 to_csv()
 
 ## 不确定接下来要读什么？这里有两个选择:
 
-[](/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4) [## 时间序列分析与理论、图表和代码第 1 部分
-
-### 什么是时间序列，预测任务的步骤是什么？如何绘制趋势和季节性？如何…
-
-towardsdatascience.com](/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4) [](https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4) [## 对我观看的电影进行主题建模
-
-### 将 IMDb 与维基百科电影数据合并，使用 LDA 构建、评估和可视化主题。
-
-medium.com](https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4) 
+</time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4>  <https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4>  
 
 ## 保持联络
 

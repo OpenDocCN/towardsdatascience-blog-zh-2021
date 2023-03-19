@@ -14,11 +14,7 @@
 
 虽然一些技术领域的神话跨越到数据科学，因为它是技术的一个分支，但一些独特的神话尤其笼罩着数据科学。在我加入数据科学领域之前，我在网上查了一下，进入了一个关于这个领域的神话和一些真相的兔子洞，进入了这个领域，并在其中找到了一份工作。
 
-[](/5-books-to-take-your-data-visualization-skills-to-the-next-level-42565105377e) [## 5 本书，让你的数据可视化技能更上一层楼
-
-### 更好的可视化等于更好的沟通
-
-towardsdatascience.com](/5-books-to-take-your-data-visualization-skills-to-the-next-level-42565105377e) 
+</5-books-to-take-your-data-visualization-skills-to-the-next-level-42565105377e>  
 
 起初，我相信这些神话，并花了一些时间才发现所有这些都只是谎言，数据科学并不像它从远处看起来的那样。因此，在本文中，我将带您了解我在加入数据科学领域之前听到的 6 个完全错误的神话。因此，如果您正在考虑进入数据科学领域，这篇文章是为您准备的。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/5-books-to-take-your-data-visualization-skills-to-the-n
 
 计划、分析数据、创建可视化效果，有时甚至做市场调查，都将占用项目的大部分时间和精力。所以，如果你认为不做一个好的编码员是死路一条，它不是；事实上，在数据科学的一些分支中，你不需要编码，比如创建可视化或者数据分析。
 
-[](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) [## 证明你 Python 知识水平的 5 个证书
-
-### 有时候，拥有一个证书可能是你需要的验证
-
-towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b) 
+</the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b>  
 
 # №3:数据科学没有创造力
 
@@ -52,11 +44,7 @@ towardsdatascience.com](/the-5-certificate-to-prove-your-python-knowledge-level-
 
 要想在数据科学领域取得成功，你需要提高你的可视化和沟通技能，学习一些业务基础知识，并培养良好的团队合作技能。然而，如果你发现数据科学不适合你，所有这些技能都可以转移或专注于追求一个全新的职业。
 
-[](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) [## 6 个数据科学证书提升您的职业生涯
-
-### 充实你的投资组合，离你梦想的工作更近一步
-
-towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275daed7e5df) 
+</6-data-science-certificates-to-level-up-your-career-275daed7e5df>  
 
 # №5:这是一条不稳定的职业道路
 
@@ -70,7 +58,7 @@ towardsdatascience.com](/6-data-science-certificates-to-level-up-your-career-275
 
 让数据科学成为一个伟大领域的另一个因素是这个社区是多么的热情和友好。如果您在这个领域遇到了困难，我相信您会找到一位数据科学家，他会很乐意在您的旅程中帮助您。
 
-[](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
+</9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8> [## 9 台用于数学、Python 和数据科学的 Discord 服务器，您需要立即加入
 
 towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-need-to-join-today-34214b93d6b8) 
 
@@ -86,7 +74,7 @@ towardsdatascience.com](/9-discord-servers-for-math-python-and-data-science-you-
 
 互联网是获取信息的绝佳场所，既有准确的信息，也有虚假的信息。但是，对于那些刚进入这个领域的人来说，很难区分真假，而且可能会因为错误的信息而放弃从事这个领域的工作。例如，我被问了很多关于编程、量子计算和数据科学的问题，让我震惊的是，有这么多不正确的信息让人们远离这些领域。
 
-[](/10-skills-of-a-successful-data-scientist-be05a72d3aec) [## 成功数据科学家的 10 项技能
+</10-skills-of-a-successful-data-scientist-be05a72d3aec> [## 成功数据科学家的 10 项技能
 
 towardsdatascience.com](/10-skills-of-a-successful-data-scientist-be05a72d3aec) 
 

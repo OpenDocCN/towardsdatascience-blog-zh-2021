@@ -76,11 +76,7 @@ Featurewiz 不仅可以处理具有一个目标变量的数据集，还可以处
 在本文中，我们讨论了一个开源库 featurewiz，它可以自动选择数据集的特性。除了功能选择，featurewiz 还具有执行功能工程和生成数百个功能的能力，只需点击一下代码。
 Featurewiz 使用两种算法(SULOV 和递归 XGBoost)来选择最佳的特性集。Featurewiz 只需点击一行代码即可完成整个功能选择，从而加快了数据科学家的工作流程。数据科学家可以使用几种特性选择技术来筛选出最佳特性，您可以在下面提到的文章中阅读其中的 7 种特性选择技术。
 
-[](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) [## 机器学习中的 7 大特征选择技术
-
-### 选择最佳功能的流行策略
-
-towardsdatascience.com](/top-7-feature-selection-techniques-in-machine-learning-94e08730cd09) 
+</top-7-feature-selection-techniques-in-machine-learning-94e08730cd09>  
 
 # 参考资料:
 

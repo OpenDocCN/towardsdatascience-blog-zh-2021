@@ -90,12 +90,4 @@
 
 喜欢这篇文章吗？那么你可能也会对我的另一篇关于(产品)分析的文章感兴趣:
 
-[](https://productcoalition.com/mastering-user-retention-like-amazon-spotify-and-co-5d2bd2931717) [## 像亚马逊、Spotify 和 Co 一样掌握用户留存。
-
-### 如何利用正确的保留指标来利用您的产品数据
-
-productcoalition.com](https://productcoalition.com/mastering-user-retention-like-amazon-spotify-and-co-5d2bd2931717) [](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5) [## 挑战作为分析师的利益相关者
-
-### 为什么分析师不应该盲目地处理摆在他们桌面上的每一个数据请求，以及如何做得更好。
-
-towardsdatascience.com](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5)
+<https://productcoalition.com/mastering-user-retention-like-amazon-spotify-and-co-5d2bd2931717>  </challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5> 

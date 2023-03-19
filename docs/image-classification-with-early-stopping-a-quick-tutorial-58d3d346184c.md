@@ -18,11 +18,7 @@ Keras 是一个深度学习库，作为数据科学家，我们可能会经常�
 
 我们将使用[这个](https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset)数据集，可在 Kaggle 上获得，可在公共领域下获得，与我在上一部分提到的标题相同。
 
-[](https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset) [## COVID19 _ 肺炎 _ 正常 _ 胸部 _x 光 _ PA _ 数据集
-
-### 肺炎和正常胸部 x 光(PA)数据集的 COVID19
-
-www.kaggle.com](https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset) 
+<https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset>  
 
 对于分类问题，我们有三种类型的 X 射线——正常的、肺炎的和冠状的。我们的目标是快速开发一个模型，并利用它学习 Keras 深度学习库的基础知识。
 

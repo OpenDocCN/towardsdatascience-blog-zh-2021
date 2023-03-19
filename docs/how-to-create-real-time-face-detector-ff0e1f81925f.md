@@ -12,11 +12,7 @@
 
 我马上会注意到，所有代码文件都可以在[这个 repo](https://gitlab.com/Winston-90/me_not_me_detector/) 中获得。
 
-[](https://gitlab.com/Winston-90/me_not_me_detector/) [## dmy tro Nikolai ev/me _ not _ me _ detector
-
-### 用 Python，TensorFlow/Keras 和 OpenCV 实现实时人脸检测
-
-gitlab.com](https://gitlab.com/Winston-90/me_not_me_detector/) 
+<https://gitlab.com/Winston-90/me_not_me_detector/>  
 
 首先，在**理论部分**我会告诉你一些对我们有用的概念(*迁移学习*和*数据扩充*)，然后我会在**实践部分**部分进行代码分析。
 
@@ -81,11 +77,7 @@ gitlab.com](https://gitlab.com/Winston-90/me_not_me_detector/)
 
 图像分类问题中的另一个重要概念是数据扩充。数据扩充是通过对原始图像应用一些变换来人为增加数据集大小的过程。例如，我们可以使用水平和垂直反射、小旋转或放大、颜色反转等等。这将显著增加数据集的大小，从而提高网络的概化能力。
 
-[](/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2) [## 用于深度学习的图像增强
-
-### 深度网络需要大量的训练数据来实现良好的性能。要建立一个强大的图像分类器…
-
-towardsdatascience.com](/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2) 
+</image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2>  
 
 在上面的例子中(文章中的第一个图像)，当偏移值很高时，有时会出现只有部分图像可见的情况。一方面，这是好的(在头部不可见的图像情况下，网络可以通过爪子和尾巴而不是通过口鼻来学习识别猫)，但如果你过度进行这样的转换，也会使网络混淆。
 

@@ -87,20 +87,8 @@ Streamlit 与 Python 中大多数流行的数据可视化库的互操作性使�
 
 ## 链接:
 
-[](https://github.com/Sayar1106/covid-dashboard) [## sayar 1106/covid-仪表板
-
-### 一个冠状病毒仪表板，使用 Streamlit 作为主要 UI 引擎来实时更新信息。数据来源是…
-
-github.com](https://github.com/Sayar1106/covid-dashboard) 
+<https://github.com/Sayar1106/covid-dashboard>  
 
 ## 参考资料:
 
-[](https://docs.streamlit.io/en/stable/api.html) [## API 参考- Streamlit 0.78.0 文档
-
-### Streamlit 使您可以轻松地可视化、变异和共享数据。API 参考按活动类型组织…
-
-docs.streamlit.io](https://docs.streamlit.io/en/stable/api.html)  [## plotly - 4.14.3 文档的 Python API 参考
-
-### 这是 plotly 的 API 的参考。另请参见 plotly 的文档网站。
-
-plotly.com](https://plotly.com/python-api-reference/)
+<https://docs.streamlit.io/en/stable/api.html>   

@@ -113,19 +113,11 @@ FooBar 邀请(图片作者: [Pratick Roy](https://medium.com/u/d0e73ebdbb0c?sour
 
 仅此而已。如果你对我如何解决其他挑战感兴趣，看看我的回购。
 
-[](https://github.com/pratickRoy/foobar) [## GitHub - pratickRoy/foobar:我的 foobar 之旅
-
-### 我的 Foobar 旅程。在 GitHub 上创建一个帐户，为 pratickRoy/foobar 开发做贡献。
-
-github.com](https://github.com/pratickRoy/foobar) 
+<https://github.com/pratickRoy/foobar>  
 
 在以后的帖子中，我将回顾我解决的其他问题的解决方案的关键见解/经验。我在这里把它们联系起来。要获得相同的通知，请考虑在 medium 上关注我，订阅一封相同的电子邮件，直接发送到您的收件箱！😊
 
- [## 点击此处订阅:)
-
-### 想在我写新东西时得到通知吗？每当我发布时收到电子邮件！
-
-有两种作家，写得多的和写得少的。我是后者。我痴迷于创造价值，回避噪音。如果想看这样的内容，可以考虑订阅。](https://pratickroy.medium.com/subscribe) 
+  
 
 # 来源、脚注和进一步阅读链接
 

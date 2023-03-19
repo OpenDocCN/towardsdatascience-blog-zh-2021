@@ -14,11 +14,7 @@
 
 *请查看我之前关于为什么需要回归的帖子的链接。*
 
-[](/linear-regression-the-basic-building-blocks-part-1-abd605c39f) [## 线性回归——基本构件！(第一部分)
-
-### 介绍最广泛使用的数据科学技术之一的需求和基本概念。
-
-towardsdatascience.com](/linear-regression-the-basic-building-blocks-part-1-abd605c39f) 
+</linear-regression-the-basic-building-blocks-part-1-abd605c39f>  
 
 # 回归方程
 

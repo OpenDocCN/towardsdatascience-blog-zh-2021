@@ -62,54 +62,10 @@ MySQL 不区分大小写，但 Postgres 区分大小写。这意味着如果没�
 
 查看我最近的文章:
 
-[](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [## GraphQL 与 REST
+<https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1> [## GraphQL 与 REST
 
-medium.com](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) [](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) [## 使用 Python 构建您自己的 Plex 客户端
-
-### Plex 是一个客户端-服务器媒体播放器，可用于流式视频、播放音乐、观看直播电视、收听播客…
-
-python .平原英语. io](https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262) [](/mysql-vs-sqlite-ba40997d88c5) [## MySQL 与 SQLite
-
-### 作为改变，我决定回到数据库。不过这一次，我想做一个小小的比较…
-
-towardsdatascience.com](/mysql-vs-sqlite-ba40997d88c5) [](https://python.plainenglish.io/giving-django-another-shot-3e6f786b13f3) [## 再给姜戈一次机会
-
-### 第 1 部分:是时候重赛了…
-
-python .平原英语. io](https://python.plainenglish.io/giving-django-another-shot-3e6f786b13f3) [](https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840) [## Ren'Py:构建视觉小说游戏的简单解决方案
-
-### 第 1 部分:入门
-
-python .平原英语. io](https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840) 
+medium.com](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1) <https://python.plainenglish.io/build-your-own-plex-client-using-python-11cf2e566262>  </mysql-vs-sqlite-ba40997d88c5>  <https://python.plainenglish.io/giving-django-another-shot-3e6f786b13f3>  <https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840>  
 
 参考资料:
 
-[](https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/) [## PostgreSQL 与 MySQL 的关键区别
-
-### Postgres 是一个功能丰富的数据库，可以处理复杂的查询和海量数据库。MySQL 是更简单的数据库…
-
-www.xplenty.com](https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/) [](https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres) [## MySQL 与 PostgreSQL——为您的项目选择合适的数据库
-
-### 当开始一个新项目时，选择一个数据库管理系统通常是事后的想法，特别是在…
-
-developer.okta.com](https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres) [](https://www.postgresqltutorial.com/postgresql-vs-mysql/) [## PostgreSQL 与 MySQL
-
-### 当选择开源关系数据库管理时，PostgreSQL 与 MySQL 是一个重要的决定…
-
-www.postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-vs-mysql/) [](https://www.enterprisedb.com/blog/postgresql-vs-mysql-360-degree-comparison-syntax-performance-scalability-and-features) [## PostgreSQL 与 MySQL:360 度比较[语法、性能、可伸缩性和特性] | EDB
-
-### 在这篇博客中，我们将从性能、语法、可伸缩性和特性方面讨论…
-
-www.enterprisedb.com](https://www.enterprisedb.com/blog/postgresql-vs-mysql-360-degree-comparison-syntax-performance-scalability-and-features) [](https://www.postgresql.org/docs/11/datatype.html) [## 第八章。数据类型
-
-### 为用户提供了丰富的本机数据类型。用户可以使用创建类型…向 PostgreSQL 添加新类型
-
-www.postgresql.org](https://www.postgresql.org/docs/11/datatype.html) [](https://www.postgresql.org/about/) [## 关于
-
-### PostgreSQL 是一个强大的、开源的对象关系数据库系统，它使用并扩展了 SQL 语言和
-
-www.postgresql.org](https://www.postgresql.org/about/) [](https://pediaa.com/what-is-the-difference-between-rdbms-and-ordbms/#:~:text=The%20main%20difference%20between%20RDBMS,store%20and%20manage%20data%20efficiently.&text=ORDBMS%20has%20features%20of%20both%20RDBMS%20and%20OODBMS) [## RDBMS 和 ORDBMS 有什么区别-pedia。Com
-
-### RDBMS 和 ORDBMS 的主要区别是 RDBMS 是基于关系模型的 DBMS，而 ORDBMS 是基于关系模型的 DBMS
-
-pediaa.com](https://pediaa.com/what-is-the-difference-between-rdbms-and-ordbms/#:~:text=The%20main%20difference%20between%20RDBMS,store%20and%20manage%20data%20efficiently.&text=ORDBMS%20has%20features%20of%20both%20RDBMS%20and%20OODBMS)
+<https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/>  <https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres>  <https://www.postgresqltutorial.com/postgresql-vs-mysql/>  <https://www.enterprisedb.com/blog/postgresql-vs-mysql-360-degree-comparison-syntax-performance-scalability-and-features>  <https://www.postgresql.org/docs/11/datatype.html>  <https://www.postgresql.org/about/>  <https://pediaa.com/what-is-the-difference-between-rdbms-and-ordbms/#:~:text=The%20main%20difference%20between%20RDBMS,store%20and%20manage%20data%20efficiently.&text=ORDBMS%20has%20features%20of%20both%20RDBMS%20and%20OODBMS> 

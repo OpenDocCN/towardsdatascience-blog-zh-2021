@@ -26,11 +26,7 @@
 
 这篇文章卷帙浩繁，不建议你一次看完。将这篇文章添加到阅读列表中以便稍后回来，通过 GitLab 阅读章节[或下载这篇文章的 pdf 版本并打印出来(可在同一位置获得)。](https://gitlab.com/Winston-90/supervised_algorithms)
 
-[](https://gitlab.com/Winston-90/supervised_algorithms) [## Dmytro Nikolaiev /监督算法
-
-### 监督学习算法备忘单
-
-gitlab.com](https://gitlab.com/Winston-90/supervised_algorithms) 
+<https://gitlab.com/Winston-90/supervised_algorithms>  
 
 ## 介绍
 
@@ -421,11 +417,7 @@ AdaBoost 代表*自适应增压*。这是一个贪婪的迭代算法。在每一
 
 您可能还对以下内容感兴趣:
 
-[](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) [## 无监督学习算法备忘单
-
-### 你应该知道的所有无监督机器学习算法的完整备忘单
-
-towardsdatascience.com](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) 
+</unsupervised-learning-algorithms-cheat-sheet-d391a39de44a>  
 
 # 感谢您的阅读！
 

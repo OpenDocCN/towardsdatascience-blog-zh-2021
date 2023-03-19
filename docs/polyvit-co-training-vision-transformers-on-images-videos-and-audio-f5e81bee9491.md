@@ -90,15 +90,7 @@ PolyViT 现在可以在边缘设备上部署重量相对较轻的多模变压器
 
 ## 我的更多研究论文评论
 
-[](/non-deep-networks-b0b80c65c7c6) [## 非深度网络
-
-### 少就是新的多？
-
-towardsdatascience.com](/non-deep-networks-b0b80c65c7c6) [](/expire-span-not-all-memories-are-created-equal-explained-ffcbd9663bfd) [## 并非所有的记忆都是生来平等的
-
-### 通过过期学会遗忘。有时候，为了更好地完成一项任务，应该删除无关紧要的记忆？
-
-towardsdatascience.com](/expire-span-not-all-memories-are-created-equal-explained-ffcbd9663bfd) [](/mlp-mixer-an-all-mlp-architecture-for-vision-7438fac99a06) [## MLP 混合器:全 MLP 的视觉建筑
+</non-deep-networks-b0b80c65c7c6>  </expire-span-not-all-memories-are-created-equal-explained-ffcbd9663bfd>  </mlp-mixer-an-all-mlp-architecture-for-vision-7438fac99a06> [## MLP 混合器:全 MLP 的视觉建筑
 
 towardsdatascience.com](/mlp-mixer-an-all-mlp-architecture-for-vision-7438fac99a06) 
 

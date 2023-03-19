@@ -28,7 +28,7 @@
 *   **图像识别**:堆叠式自动编码器通过学习图像的不同特征来进行图像识别。
 *   **图像生成**:变分自动编码器(VAE)，一种自动编码器，用于生成图像。
 
-在这里阅读关于**不同类型的自动编码器**[](https://medium.com/datadriveninvestor/deep-learning-different-types-of-autoencoders-41d4fa5f7570)****。****
+在这里阅读关于**不同类型的自动编码器**<https://medium.com/datadriveninvestor/deep-learning-different-types-of-autoencoders-41d4fa5f7570>****。****
 
 ## ****使用自动编码器的异常检测****
 
@@ -317,11 +317,7 @@ print(" Precision: ",precision_score(error_df['True_class'], error_df['pred']))*
 
 ## ****参考文献:****
 
-**[](https://blog.keras.io/building-autoencoders-in-keras.html) [## 在 Keras 中构建自动编码器
-
-### 这个帖子写于 2016 年初。因此，它已经严重过时了。在本教程中，我们将回答一些常见的…
-
-blog.keras.io](https://blog.keras.io/building-autoencoders-in-keras.html) 
+**<https://blog.keras.io/building-autoencoders-in-keras.html>  
 
 【https://www.deeplearningbook.org/contents/autoencoders.html 
 

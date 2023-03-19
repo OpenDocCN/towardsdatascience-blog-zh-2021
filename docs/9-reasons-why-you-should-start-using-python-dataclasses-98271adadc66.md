@@ -24,11 +24,7 @@
 
 > 新到中？你可以每月订阅 5 美元，解锁我写的不限数量的关于编程、MLOps 和系统设计的文章，以帮助数据科学家(或 ML 工程师)编写更好的代码。
 
-[](https://medium.com/membership/@ahmedbesbes) [## 通过我的推荐链接加入 Medium—Ahmed bes bes
-
-### 阅读 Ahmed Besbes 的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-medium.com](https://medium.com/membership/@ahmedbesbes) 
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 0 —数据类:整体情况
 

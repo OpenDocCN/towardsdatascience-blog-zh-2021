@@ -108,19 +108,7 @@ cpi.get(2020)# 258.811
 
 如果您喜欢这篇文章，您可能还会对以下内容感兴趣:
 
-[](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [## 你可能没听说过的 9 种有用的熊猫方法
-
-### 它们可以让你的日常工作更容易、更快捷。
-
-towardsdatascience.com](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [## mpl finance——matplolib 相对不为人知的用于绘制金融数据的库
-
-### 包括快速创建图表的方法，如烛台，连科，或点和图
-
-towardsdatascience.com](/mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd) [](/stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f) [## stock stats——一个方便的面向股票的熊猫数据框架包装器
-
-### 只需调用列名即可访问各种技术指标！
-
-towardsdatascience.com](/stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f) 
+</9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee>  </mplfinance-matplolibs-relatively-unknown-library-for-plotting-financial-data-62c1c23177fd>  </stockstats-a-handy-stocks-oriented-pandas-dataframe-wrapper-a879a06d9c3f>  
 
 # 参考
 

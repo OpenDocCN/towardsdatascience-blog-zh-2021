@@ -54,11 +54,7 @@
 
 我们提到了算法公平性。这是负责任人工智能的重要组成部分，很可能成为许多人工智能监管的焦点。这本身就是一个非常有趣的话题，我们将在下面的文章中进行更深入的探讨。
 
-[](/what-is-algorithm-fairness-3182e161cf9f) [## 什么是算法公平？
-
-### 对旨在理解和防止机器学习模型中的偏差的领域的介绍
-
-towardsdatascience.com](/what-is-algorithm-fairness-3182e161cf9f) 
+</what-is-algorithm-fairness-3182e161cf9f>  
 
 ## 图像来源
 

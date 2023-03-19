@@ -177,19 +177,11 @@ FROM transactions
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/22-new-data-science-interview-questions-for-2022-964c687f735b) [## 2022 年的 22 个新数据科学面试问题
-
-### 来自谷歌、脸书和网飞等顶级科技公司的问题
-
-towardsdatascience.com](/22-new-data-science-interview-questions-for-2022-964c687f735b) 
+</22-new-data-science-interview-questions-for-2022-964c687f735b>  
 
 **还有一个:**
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) [## 2022 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) 
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 # -特伦斯·申
 

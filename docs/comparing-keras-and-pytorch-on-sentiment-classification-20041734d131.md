@@ -10,11 +10,7 @@
 
 在第一部分概述了 Keras 和 PyTorch 语法之后，这是我们比较 Keras 和 PyTorch 的第二部分！这一部分更实用，因为我们将实现一个神经网络来按情感对电影评论进行分类，并比较分类结果。
 
-[](/comparing-keras-and-pytorch-syntaxes-54b164268466) [## 比较 Keras 和 PyTorch 语法
-
-### 数据加载、模型定义和张量操作
-
-towardsdatascience.com](/comparing-keras-and-pytorch-syntaxes-54b164268466) 
+</comparing-keras-and-pytorch-syntaxes-54b164268466>  
 
 正如我们在第一部分中看到的，Keras 和 PyTorch 在设计上是不同的
 

@@ -132,8 +132,4 @@ print(os.path.dirname(__file__))# Results in
 
 又及:喜欢我正在做的事吗？[跟着我](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+<https://mikehuls.medium.com/membership> 

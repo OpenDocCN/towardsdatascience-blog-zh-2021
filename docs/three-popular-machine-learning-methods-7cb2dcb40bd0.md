@@ -58,44 +58,8 @@
 
 看看我最近的一些文章:
 
-[](https://python.plainenglish.io/what-is-typer-9a9220d80306) [## Typer 简介:用于创建 CLI 的 Python 库
-
-### 探索“CLIs 的 FastAPI”
-
-python .平原英语. io](https://python.plainenglish.io/what-is-typer-9a9220d80306) [](/tensorflow-vs-keras-d51f2d68fdfc) [## 张量流与 Keras:比较
-
-### 查看两个机器学习库的具体细节
-
-towardsdatascience.com](/tensorflow-vs-keras-d51f2d68fdfc) [](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) [## 用 Python 发送错误电子邮件和文本消息
-
-### 杜绝错误的电子邮件龙卷风
-
-python .平原英语. io](https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae) [](https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3) [## 会话、令牌和 Cookies
-
-### 讨论 web 开发的构件。
-
-medium.com](https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3) [](https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195) [## 与 Kubernetes 的旅行
-
-### 第 5 部分:安装 Jenkins
-
-medium.com](https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195) 
+<https://python.plainenglish.io/what-is-typer-9a9220d80306>  </tensorflow-vs-keras-d51f2d68fdfc>  <https://python.plainenglish.io/sending-error-emails-and-text-messages-in-python-b8e9a48e00ae>  <https://medium.com/codex/sessions-tokens-and-cookies-2fcae32bb7a3>  <https://medium.com/codex/a-journey-with-kubernetes-84848e5bf195>  
 
 参考资料:
 
-[](https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/) [## 监督和非监督机器学习算法-机器学习掌握
-
-### 什么是监督机器学习，它与无监督机器学习有什么关系？在这篇文章中，你将…
-
-machinelearningmastery.com](https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/) [](https://www.potentiaco.com/what-is-machine-learning-definition-types-applications-and-examples/) [## 什么是机器学习:定义、类型、应用和例子
-
-### “机器学习被定义为对利用算法和统计模型来学习的计算机程序的研究…
-
-www.potentiaco.com](https://www.potentiaco.com/what-is-machine-learning-definition-types-applications-and-examples/) [](https://www.ibm.com/cloud/learn/machine-learning) [## 什么是机器学习？
-
-### 这机器学习的介绍提供了它的历史，重要的定义，应用和…
-
-www.ibm.com](https://www.ibm.com/cloud/learn/machine-learning) [](https://www.guru99.com/reinforcement-learning-tutorial.html#1) [## 强化学习:什么是，算法，应用，例子
-
-### 强化学习被定义为一种机器学习方法，它关注的是软件代理应该如何采取…
-
-www.guru99.com](https://www.guru99.com/reinforcement-learning-tutorial.html#1)
+<https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/>  <https://www.potentiaco.com/what-is-machine-learning-definition-types-applications-and-examples/>  <https://www.ibm.com/cloud/learn/machine-learning>  <https://www.guru99.com/reinforcement-learning-tutorial.html#1> 

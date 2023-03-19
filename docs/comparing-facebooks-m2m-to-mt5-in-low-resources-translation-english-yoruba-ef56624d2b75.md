@@ -162,14 +162,6 @@ M2M:抱歉，你不能告诉我
 
 这个项目在 Github 和 colab 上都有(请从[这里](https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge)下载数据集)。发现有用就启动回购。联系我:boukil98@gmail.com
 
-[](https://github.com/maroxtn/mt5-M2M-comparison) [## maro xtn/mt5-M2M-比较
+<https://github.com/maroxtn/mt5-M2M-comparison>  <https://colab.research.google.com/drive/1_1QbvXQllO1rL88shNvcOFz8H590ktax?usp=sharing> [## Fairseq 培训和评估
 
-### 在一个罕见的语言对上比较 M2M 和 mT5，博客帖子:-maro xtn/mT5-M2M-比较
-
-github.com](https://github.com/maroxtn/mt5-M2M-comparison) [](https://colab.research.google.com/drive/1_1QbvXQllO1rL88shNvcOFz8H590ktax?usp=sharing) [## Fairseq 培训和评估
-
-colab.research.google.com](https://colab.research.google.com/drive/1_1QbvXQllO1rL88shNvcOFz8H590ktax?usp=sharing) [](https://colab.research.google.com/drive/1ZOhDhl1d1khVwCY5hzXwezx6ETGi2P2f?usp=sharing) [## mT5 培训和评估
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1ZOhDhl1d1khVwCY5hzXwezx6ETGi2P2f?usp=sharing)
+colab.research.google.com](https://colab.research.google.com/drive/1_1QbvXQllO1rL88shNvcOFz8H590ktax?usp=sharing) <https://colab.research.google.com/drive/1ZOhDhl1d1khVwCY5hzXwezx6ETGi2P2f?usp=sharing> 

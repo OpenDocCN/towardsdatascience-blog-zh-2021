@@ -12,11 +12,7 @@
 
 最近，经过几周的努力，我发现 Pyvis 正在寻找其他基于 javascript 的库的替代品，这些库用于使图形具有交互性。我非常喜欢 pyvis，并想在这篇文章中分享一些我学到的技巧。但是如果你想自己看，可以查看文档页面[2]:
 
-[](https://pyvis.readthedocs.io/en/latest/index.html#) [## 交互式网络可视化- pyvis 0.1.3.1 文档
-
-### 编辑描述
-
-pyvis.readthedocs.io](https://pyvis.readthedocs.io/en/latest/index.html#) 
+<https://pyvis.readthedocs.io/en/latest/index.html#>  
 
 这篇文章的其余部分如下:首先，我将展示一个超级简单的例子来做一个小的 3 节点网络。其次，我展示了如何固定节点的位置，以及如何保持分子图形的形状。第三个案例是用 Networkx 构建一个网络。最后，我展示了一个使用 Pyvis 的 Streamlit 应用程序。
 
@@ -105,32 +101,8 @@ for atomo in range(14):
 
 # [https://medium.com/@jnapoles/membership](https://medium.com/@jnapoles/membership)
 
-[](https://jnapoles.medium.com/membership) [## 通过我的推荐链接加入 Medium-joséMANUEL na POLES du arte
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jnapoles.medium.com](https://jnapoles.medium.com/membership) 
+<https://jnapoles.medium.com/membership>  
 
 引用的链接:
 
-[](https://discuss.streamlit.io/) [## [1]简化 it
-
-### 讨论 Streamlit 的社区。
-
-discuse . streamlit . io](https://discuss.streamlit.io/) [](https://pyvis.readthedocs.io/en/latest/index.html#) [## [2]交互式网络可视化- pyvis 0.1.3.1 文档
-
-### 编辑描述
-
-pyvis.readthedocs.io](https://pyvis.readthedocs.io/en/latest/index.html#) [](https://www.rdkit.org/) [## [3]快速诊断试剂盒
-
-### 编辑描述
-
-www.rdkit.org](https://www.rdkit.org/)  [## [4] NetworkX - NetworkX 文档
-
-### NetworkX 是一个 Python 包，用于创建、操作和研究…的结构、动力学和功能
-
-networkx.org](https://networkx.org/) [](https://en.wikipedia.org/wiki/Zachary%27s_karate_club) [## [5]扎卡里空手道俱乐部
-
-### 扎卡里的空手道俱乐部是一个大学空手道俱乐部的社交网络，在论文“信息流…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Zachary%27s_karate_club)
+<https://discuss.streamlit.io/>  <https://pyvis.readthedocs.io/en/latest/index.html#>  <https://www.rdkit.org/>    <https://en.wikipedia.org/wiki/Zachary%27s_karate_club> 

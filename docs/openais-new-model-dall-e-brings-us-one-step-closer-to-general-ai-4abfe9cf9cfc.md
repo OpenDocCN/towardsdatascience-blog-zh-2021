@@ -138,16 +138,8 @@ OpenAI 是一个非营利的人工智能研究和部署实验室，位于旧金�
 
 如果你对深度学习感兴趣，也可以看看我的人工智能内容指南:
 
-[](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) [## 我的人工智能内容指南
-
-### 帮助您轻松浏览我的内容的指南。
-
-oyalcin.medium.com](https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17) 
+<https://oyalcin.medium.com/a-guide-to-my-content-on-artificial-intelligence-c70c9b4a3b17>  
 
 最后，如果你想阅读 OpenAI 发表的原始博文，请参见下文:
 
-[](https://openai.com/blog/dall-e/) [## DALL E:从文本中创建图像
-
-### DALL E 是 GPT-3 的一个 120 亿参数版本，经过训练，可以使用以下数据集从文本描述中生成图像
-
-openai.com](https://openai.com/blog/dall-e/)
+<https://openai.com/blog/dall-e/> 

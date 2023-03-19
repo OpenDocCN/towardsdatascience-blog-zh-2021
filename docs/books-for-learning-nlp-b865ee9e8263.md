@@ -26,15 +26,7 @@
 2.  统计意义、相关性、分布和概率是机器学习的基本概念。为了填补这个空白，给自己挑一本关于统计学的好书，比如[数据科学实用统计学](https://www.goodreads.com/book/show/48816585-practical-statistics-for-data-scientists)并努力阅读。
 3.  至于线性代数，正如下面的文章巧妙地解释的那样，它是深度学习和计算文本相似性的基础:
 
-[](/linear-algebra-for-deep-learning-506c19c0d6fa) [## 用于深度学习的线性代数
-
-### 每个深度学习程序背后的数学。
-
-towardsdatascience.com](/linear-algebra-for-deep-learning-506c19c0d6fa) [](/a-complete-beginners-guide-to-document-similarity-algorithms-75c44035df90) [## 文档相似性算法初学者完全指南
-
-### 了解欧几里得距离、余弦相似性和皮尔逊相关性背后的代码和数学知识，以便进行推荐…
-
-towardsdatascience.com](/a-complete-beginners-guide-to-document-similarity-algorithms-75c44035df90) 
+</linear-algebra-for-deep-learning-506c19c0d6fa>  </a-complete-beginners-guide-to-document-similarity-algorithms-75c44035df90>  
 
 为此，帮自己一个忙，看看 3Brown1Blue 的这个令人惊叹的视频系列
 

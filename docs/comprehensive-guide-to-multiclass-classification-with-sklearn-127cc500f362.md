@@ -27,19 +27,11 @@
 
 出于这个原因，本文将是一个关于如何使用 Sklearn 解决任何多类监督分类问题的综合教程。您将学习上述核心概念的理论和实现。这将是一个漫长而技术性的阅读，所以去喝杯咖啡吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 本地多类分类器
 
@@ -257,11 +249,7 @@ ROC AUC 分数只是一个很好的衡量标准，可以看出分类器如何区
 
 我们将使用 HalvingGridSeachCV (HGS ),它比常规的网格搜索要快得多。你可以阅读这篇文章来看看我的实验:
 
-[](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) [## HalvingGridSearch 将超参数调谐速度提高了 11 倍
-
-### 编辑描述
-
-towardsdatascience.com](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) 
+</11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155>  
 
 在我们将上面的网格提供给 HGS 之前，让我们创建一个定制的评分函数。在二进制的情况下，我们可以传递字符串值作为我们想要使用的度量的名称，比如“precision”或“recall”但是在多类的情况下，这些函数接受额外的参数，如果我们将函数名作为字符串传递，我们就不能这样做。为了解决这个问题，Sklearn 提供了`make_scorer`功能:
 

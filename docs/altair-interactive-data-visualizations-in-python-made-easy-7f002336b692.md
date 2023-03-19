@@ -14,11 +14,7 @@
 
 Altair 还可以用于构建和部署交互式报告。本文解释了如何:
 
-[](/introducing-datapane-how-to-create-interactive-reports-and-visualizations-with-python-ebc40e02e748) [## Datapane 简介:如何用 Python 创建交互式报告和可视化
-
-### 从媒体文章到网站，在任何地方创建、发布和嵌入交互式数据可视化。
-
-towardsdatascience.com](/introducing-datapane-how-to-create-interactive-reports-and-visualizations-with-python-ebc40e02e748) 
+</introducing-datapane-how-to-create-interactive-reports-and-visualizations-with-python-ebc40e02e748>  
 
 今天的文章结构如下:
 
@@ -153,11 +149,7 @@ conda install jupyter jupyterlab
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 了解更多信息
 

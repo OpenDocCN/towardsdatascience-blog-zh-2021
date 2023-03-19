@@ -188,8 +188,4 @@ Docker 提供了更多的功能。请继续关注下一部分，我们将在其�
 
 又及:喜欢我正在做的事吗？[跟我来](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+<https://mikehuls.medium.com/membership> 

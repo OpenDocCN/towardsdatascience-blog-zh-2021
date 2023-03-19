@@ -154,18 +154,6 @@ plt.show()*
 
 ## *作者的类似文章*
 
-*[](https://medium.com/geekculture/generate-gantt-chart-in-python-9d1e1fe9103e) [## 用 Python 生成甘特图
-
-### 如何使用 python 中的 matplotlib 创建简单甘特图的分步教程
-
-medium.com](https://medium.com/geekculture/generate-gantt-chart-in-python-9d1e1fe9103e) [](https://medium.com/geekculture/how-to-plot-a-treemap-in-python-48743061cfda) [## 如何用 Python 绘制树形图
-
-### 使用 squarify 和 matplotlib 包将数据可视化为树形图的分步教程
-
-medium.com](https://medium.com/geekculture/how-to-plot-a-treemap-in-python-48743061cfda) [](/how-to-perform-a-quadrant-analysis-in-python-9f84d36f8a24) [## 如何在 Python 中执行象限分析
-
-### 什么是象限分析？为什么用？使用 pandas，matplotlib 和 seaborn 库在 python 中如何实现？
-
-towardsdatascience.com](/how-to-perform-a-quadrant-analysis-in-python-9f84d36f8a24) ![](img/564d90f9ce4cea0399684f11be897db4.png)
+*<https://medium.com/geekculture/generate-gantt-chart-in-python-9d1e1fe9103e>  <https://medium.com/geekculture/how-to-plot-a-treemap-in-python-48743061cfda>  </how-to-perform-a-quadrant-analysis-in-python-9f84d36f8a24>  ![](img/564d90f9ce4cea0399684f11be897db4.png)
 
 作者图片*

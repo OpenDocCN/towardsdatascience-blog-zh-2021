@@ -24,11 +24,7 @@
 
 现在，让我们考虑一下人工智能模型，它们已经向我们展示了在现实世界中做一些好的预测的辉煌成功，并且理解它们的局限性。
 
-[](https://medium.com/subscribe/@profsarang) [## 每当 Poornachandra Sarang 发表文章时，收到一封电子邮件。
-
-### 每当 Poornachandra Sarang 发表文章时，收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您不…
-
-medium.com](https://medium.com/subscribe/@profsarang) 
+<https://medium.com/subscribe/@profsarang>  
 
 # 少数人工智能成功案例
 
@@ -66,8 +62,4 @@ medium.com](https://medium.com/subscribe/@profsarang)
 
 考虑到以上所有事实，我们可以得出结论，我们离开发真正的智能还很远。问题是，我们是否完全理解了“智力”这个词的含义？根据 Gartner 2021 年对人工智能*的炒作周期*显示 AGI 处于*创新触发*水平。所以，AGI 仍然领先很多很多年。在开发出具有完全人类智能的机器人之前，我们只能拭目以待。因此，让我们不要害怕机器人接管人类，至少在不久的将来。
 
-[](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@profsarang/membership)
+<https://medium.com/@profsarang/membership> 

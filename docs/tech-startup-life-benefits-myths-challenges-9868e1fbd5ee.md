@@ -71,16 +71,4 @@
 
 对于具有数据科学背景并正在寻找退出机会的人来说，我的一些文章可能会有所帮助:
 
-[](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [## 我们应该留在数据科学领域吗？
-
-### 数据科学家的 4 个现实职业选择
-
-towardsdatascience.com](/the-most-realistic-data-science-career-guide-d12c4af87cc8) [](/the-best-data-science-transition-routes-e809254934d0) [## 下一个最佳数据科学工作
-
-### 数据科学家最受欢迎的过渡路线
-
-towardsdatascience.com](/the-best-data-science-transition-routes-e809254934d0) [](/how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9) [## 作为一名害羞的数据科学家，如何获得工作推荐？
-
-### 技巧、经验教训和 1+1+1 流程
-
-towardsdatascience.com](/how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9)
+</the-most-realistic-data-science-career-guide-d12c4af87cc8>  </the-best-data-science-transition-routes-e809254934d0>  </how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9> 

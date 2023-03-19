@@ -72,11 +72,7 @@ print(tabulate(**table**, headers='firstrow', tablefmt='fancy_grid'))
 
 *更全面的概述了* ***制表*** *功能:*
 
-[](/how-to-easily-create-tables-in-python-2eaea447d8fd) [## 如何在 Python 中轻松创建表格
-
-### 如何在 Python 中使用制表函数创建格式良好的表格
-
-towardsdatascience.com](/how-to-easily-create-tables-in-python-2eaea447d8fd) 
+</how-to-easily-create-tables-in-python-2eaea447d8fd>  
 
 ## 使用 tqdm 显示进度条
 
@@ -104,11 +100,7 @@ from tqdm import tqdm
 
 我们还可以使用***【tqdm】***来显示进度条，这些进度条带有遍历一个 iterable 的函数，比如**映射**、**过滤**和**减少**函数。
 
-[](/three-functions-to-know-in-python-4f2d27a4d05) [## Python 中需要了解的三个函数
-
-### 了解如何使用 python 中的映射、过滤和归约函数
-
-towardsdatascience.com](/three-functions-to-know-in-python-4f2d27a4d05) 
+</three-functions-to-know-in-python-4f2d27a4d05>  
 
 如果您在 Jupyter Notebook 中工作，您可以从 **tqdm.notebook** 子模块中导入 ***tqdm*** 函数，它提供了一个更具视觉吸引力的进度条，其中包括一些颜色提示(蓝色表示正常，绿色表示已完成，红色表示错误/中断，浅蓝色表示无预计到达时间) **:**
 
@@ -121,10 +113,6 @@ from tqdm.notebook import tqdmdef add(**num**):
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你用我的 [*链接*](https://lmatalka90.medium.com/membership) *报名，我会赚一小笔佣金。*
 
-[](https://lmatalka90.medium.com/membership) [## 通过我的推荐链接加入媒体——卢艾·马塔尔卡
-
-### 阅读卢艾·马塔尔卡的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-lmatalka90.medium.com](https://lmatalka90.medium.com/membership) 
+<https://lmatalka90.medium.com/membership>  
 
 *我希望你喜欢这个关于* ***制表*** *和****tqdm****函数的简短教程。感谢您的阅读！*

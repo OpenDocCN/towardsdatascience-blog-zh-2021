@@ -86,11 +86,7 @@
 
 请随意使用下面的 colab 作为你的教程。
 
-[](https://colab.sandbox.google.com/drive/1d8YEErtymICvB_-YjFRH8LfUgtw-8YWW?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.sandbox.google.com](https://colab.sandbox.google.com/drive/1d8YEErtymICvB_-YjFRH8LfUgtw-8YWW?usp=sharing) 
+<https://colab.sandbox.google.com/drive/1d8YEErtymICvB_-YjFRH8LfUgtw-8YWW?usp=sharing>  
 
 ## 使用的库
 

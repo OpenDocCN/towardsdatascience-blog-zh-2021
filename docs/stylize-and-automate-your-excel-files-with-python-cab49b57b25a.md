@@ -251,10 +251,6 @@ GIF by Author |使用 xlwings 格式化的 Excel 表格
 
 如果你想在这篇文章中学到的编码技巧的基础上再接再厉:
 
-[](/automate-your-excel-report-by-creating-a-summary-sheet-using-python-6fdb26480c3b) [## 通过使用 Python 创建摘要表来自动化您的 Excel 报表
-
-### 协调 Python 和 Excel，用可展示的专业格式总结您的数据。
-
-towardsdatascience.com](/automate-your-excel-report-by-creating-a-summary-sheet-using-python-6fdb26480c3b) 
+</automate-your-excel-report-by-creating-a-summary-sheet-using-python-6fdb26480c3b>  
 
 *注:本文仅代表个人观点和经验。*

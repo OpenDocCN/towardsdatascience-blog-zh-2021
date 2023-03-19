@@ -231,10 +231,6 @@ Pipeline(steps=[('logisticregression',
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [## 如何在 Python 中处理不平衡的多类数据集
-
-towardsdatascience.com](/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669) [](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b) [## 如何使用 scikit-learn 检查分类模型是否过度拟合
+</a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3>  </how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b> [## 如何使用 scikit-learn 检查分类模型是否过度拟合
 
 towardsdatascience.com](/how-to-check-if-a-classification-model-is-overfitted-using-scikit-learn-148b6b19af8b)

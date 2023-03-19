@@ -12,11 +12,7 @@
 
 由于这种受欢迎程度的提高，开发人员和公司在日常工作中使用 Python 来构建应用程序、进行研究和开发供他人使用的包。现在，有超过 200，000 个 Python 包，涵盖了从简单的字符串操作到完整的机器学习和人工智能包的广泛应用。
 
-[](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) [## 如何以正确的方式学习编程
-
-### 语法不应该是第一步！
-
-towardsdatascience.com](/how-to-learn-programming-the-right-way-d7f87bdc7d6a) 
+</how-to-learn-programming-the-right-way-d7f87bdc7d6a>  
 
 Python 是一个完整的框架，适合任何想进入编程领域，尤其是任何数据科学分支的人。Python 提供了许多优势来帮助人们建立他们的投资组合和职业生涯。毕竟，一旦你掌握了一门编程语言，学习另一门就不是那么复杂的任务了。
 
@@ -26,11 +22,7 @@ Python 是一个完整的框架，适合任何想进入编程领域，尤其是�
 
 在编写代码时，我们可以采取一些简单的步骤来提高执行速度。也许没有 C、C++或 Java 那么快，但足够让 Python 代码做得更好。
 
-[](/7-tips-for-data-science-newbies-d95d979add54) [## 给数据科学新手的 7 条建议
-
-### 让您的学习之旅更加轻松。
-
-towardsdatascience.com](/7-tips-for-data-science-newbies-d95d979add54) 
+</7-tips-for-data-science-newbies-d95d979add54>  
 
 # 方法 1:保持最新
 
@@ -48,11 +40,7 @@ Python 开发人员正在努力保持 Python 的相关性、功能性，并在�
 
 确保使用正确的数据结构是一项技能，它要求您更多地了解不同类型的数据结构以及每种数据结构的最佳应用。
 
-[](/complexity-theory-101-introduction-to-big-o-bab99152ad44) [## 复杂性理论 101:大 O 介绍
-
-### 为什么每个数据科学家都应该关心算法的复杂性？
-
-towardsdatascience.com](/complexity-theory-101-introduction-to-big-o-bab99152ad44) 
+</complexity-theory-101-introduction-to-big-o-bab99152ad44>  
 
 # 方法 3:仅在绝对需要时循环
 
@@ -80,11 +68,7 @@ Python 提供了如此多的内置函数，那些没有提供的函数通常是�
 *   使用 math 和 Numpy 处理和执行大数和矩阵运算。这些库的构建是为了提高内存效率。
 *   使用`format`或`join`方法连接字符串，而不是使用`+`操作符。
 
-[](/a-guide-to-everything-string-formatting-in-python-e724f101eac5) [## Python 中所有字符串格式的指南
-
-### 关于 Python 中格式化字符串的五种方法，您只需要知道
-
-towardsdatascience.com](/a-guide-to-everything-string-formatting-in-python-e724f101eac5) 
+</a-guide-to-everything-string-formatting-in-python-e724f101eac5>  
 
 # 方法 6:使用加速应用程序
 
@@ -100,11 +84,7 @@ Python 是最流行的编程语言之一；对于初学者和专业人士来说�
 
 Python 的许多优势使它这些年来一直保持活力，并鼓励许多开发人员和公司构建和开发许多包，任何人都可以使用这些包来构建和部署来自广泛领域的应用程序。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 尽管 Python 很成功，但它总是有一个缺点，那就是速度慢。由于 Python 是一种基于解释器的语言，它默认比编译语言慢，因为它逐行执行和运行代码。
 

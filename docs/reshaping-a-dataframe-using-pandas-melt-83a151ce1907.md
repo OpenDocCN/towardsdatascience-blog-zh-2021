@@ -205,11 +205,7 @@ full_table = **full_table**.merge(
 
 **如果您想了解更多关于创建**活动**、**新确认**、**新死亡**和**新恢复**的信息，请查看这篇文章:**
 
-**[](/covid-19-data-processing-58aaa3663f6) [## 新冠肺炎数据处理
-
-### 下载、加载、合并、清理和聚合新冠肺炎时间序列数据的分步指南
-
-towardsdatascience.com](/covid-19-data-processing-58aaa3663f6) 
+**</covid-19-data-processing-58aaa3663f6>  
 
 # 结论
 

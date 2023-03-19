@@ -82,19 +82,7 @@ PUG-REST 和 PUG-View 都不是为大量(数百万)请求设计的。PubChem 有
 
 # 我的更多文章
 
-[](/what-has-machine-learning-been-up-to-in-healthcare-a137db866f05) [## 机器学习在医疗保健领域的进展如何？
-
-### 对已经完成的工作进行高层次的审视
-
-towardsdatascience.com](/what-has-machine-learning-been-up-to-in-healthcare-a137db866f05) [](/a-checklist-of-basic-statistics-24b1d671d52) [## 基本统计一览表
-
-### 统计推断，实验设计，显著性检验，回归。
-
-towardsdatascience.com](/a-checklist-of-basic-statistics-24b1d671d52) [](/6-common-metrics-for-your-next-regression-project-4667cbc534a7) [## 下一个回归项目的 6 个通用指标
-
-### 优势、劣势和主要陷阱
-
-towardsdatascience.com](/6-common-metrics-for-your-next-regression-project-4667cbc534a7) 
+</what-has-machine-learning-been-up-to-in-healthcare-a137db866f05>  </a-checklist-of-basic-statistics-24b1d671d52>  </6-common-metrics-for-your-next-regression-project-4667cbc534a7>  
 
 # 来源
 

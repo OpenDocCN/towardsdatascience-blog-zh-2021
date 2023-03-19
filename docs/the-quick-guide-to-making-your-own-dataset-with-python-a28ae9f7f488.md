@@ -134,8 +134,4 @@ st.write('Submitted to database!')
 
 我的几篇文章你可能也想看看:
 
-[](/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) [## 适用于所有数据科学应用的可重复使用的 Python 日志模板
-
-towardsdatascience.com](/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) [](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b) [## 将 Docker 与 VSCode 结合使用的好方法
-
-towardsdatascience.com](/the-nice-way-to-use-docker-with-vscode-f475c49aab1b)
+</the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540> 

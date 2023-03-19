@@ -31,27 +31,11 @@ Codecademy 不仅仅是数据科学。这是一个支持不同职业的开发人
 
 ## 推荐课程(免费)
 
-[](https://www.codecademy.com/learn/learn-python) [## Python 教程:免费学习 Python | Codecademy
-
-### 学习 Python，这是 YouTube 和 Dropbox 等网站使用的强大语言。学习编程的基础知识…
-
-www.codecademy.com](https://www.codecademy.com/learn/learn-python) 
+<https://www.codecademy.com/learn/learn-python>  
 
 ## 推荐课程(付费)
 
-[](https://www.codecademy.com/learn/learn-python-3) [## 学习 Python 3 | Codecademy
-
-### Codecademy 是学习如何编码的最简单的方法。它是互动的，有趣的，你可以和你的朋友一起做。
-
-www.codecademy.com](https://www.codecademy.com/learn/learn-python-3) [](https://www.codecademy.com/learn/paths/analyze-data-with-python) [## 掌握一项技能——用 Python | Codecademy 分析数据
-
-### 数据无处不在。这意味着更多的公司正在跟踪数据、分析数据，并利用他们发现的见解…
-
-www.codecademy.com](https://www.codecademy.com/learn/paths/analyze-data-with-python) [](https://www.codecademy.com/learn/paths/visualize-data-with-python) [## 掌握一项技能——用 Python | Codecademy 可视化数据
-
-### 从金融到新闻，数据是提出令人信服的论点和讲述精彩故事的关键。学习如何…
-
-www.codecademy.com](https://www.codecademy.com/learn/paths/visualize-data-with-python) 
+<https://www.codecademy.com/learn/learn-python-3>  <https://www.codecademy.com/learn/paths/analyze-data-with-python>  <https://www.codecademy.com/learn/paths/visualize-data-with-python>  
 
 # 2.数据营
 
@@ -83,15 +67,7 @@ LearnSQL 和 Mode 是一些非常好的学习 SQL 的平台。场景练习题提
 
 来自技术背景的人会对 SQL 有一定程度的了解。这些课程对于那些来自非编程背景的人来说非常重要。
 
-[](https://learnsql.com/track/sql-from-a-to-z#) [## SQL 从 A 到 Z |课程跟踪
-
-### 我们的网站使用 cookies。通过使用本网站，您同意通过浏览器设置使用它们。你…
-
-learnsql.com](https://learnsql.com/track/sql-from-a-to-z#) [](https://mode.com/sql-tutorial/) [## 模式 SQL 教程| -模式
-
-### 学会用 SQL 用数据回答问题。不需要编码经验。
-
-mode.com](https://mode.com/sql-tutorial/) 
+<https://learnsql.com/track/sql-from-a-to-z#>  <https://mode.com/sql-tutorial/>  
 
 # 4.可汗学院
 
@@ -125,27 +101,7 @@ Khan Academy 是学习数据科学数学概念的最佳平台。当你开始学�
 
 从下而上的高中数学
 
-[](https://www.khanacademy.org/math) [## 数学|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math) [](https://www.khanacademy.org/math/algebra-basics) [## 代数基础|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/algebra-basics) [](https://www.khanacademy.org/math/linear-algebra) [## 线性代数|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/linear-algebra) [](https://www.khanacademy.org/math/statistics-probability) [## 统计和概率|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/statistics-probability) [](https://www.khanacademy.org/math/calculus-1) [## 微积分 1 |数学|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/calculus-1) 
+<https://www.khanacademy.org/math>  <https://www.khanacademy.org/math/algebra-basics>  <https://www.khanacademy.org/math/linear-algebra>  <https://www.khanacademy.org/math/statistics-probability>  <https://www.khanacademy.org/math/calculus-1>  
 
 # 5.Coursera
 
@@ -155,33 +111,17 @@ Coursera 是最受欢迎的学习数据科学的平台。它拥有超过 7500 �
 
 数据分析是一个没有得到足够重视的话题。数据科学项目的成功取决于分析的质量。尽管如此，许多人倾向于加快数据分析，只是为了进入算法。如果你的分析一直不好，你用什么算法都没用。这里有一些很好的数据分析课程，
 
-[](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) [## 使用 Python 和 Pandas 进行探索性数据分析
-
-### 在与您的工作区域分屏播放的视频中，您的讲师将指导您完成以下步骤:初始…
-
-www.coursera.org](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) [](https://www.coursera.org/learn/data-analysis-with-python) [## 使用 Python 进行数据分析
-
-### 了解如何使用 Python 分析数据。本课程将带您从 Python 的基础开始，探索许多不同的…
-
-www.coursera.org](https://www.coursera.org/learn/data-analysis-with-python) 
+<https://www.coursera.org/projects/exploratory-data-analysis-python-pandas>  <https://www.coursera.org/learn/data-analysis-with-python>  
 
 如果您正在寻找涵盖数据科学项目生命周期的完整课程。这是你的选择，
 
 ***—基于 R 的***
 
-[](https://www.coursera.org/specializations/jhu-data-science) [## 数据科学
-
-### 约翰·霍普金斯大学的使命是教育学生，培养他们终身学习的能力
-
-www.coursera.org](https://www.coursera.org/specializations/jhu-data-science) 
+<https://www.coursera.org/specializations/jhu-data-science>  
 
 ***基于 Python 的***
 
-[](https://www.coursera.org/professional-certificates/ibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-science) 
+<https://www.coursera.org/professional-certificates/ibm-data-science>  
 
 # 6.卡格尔
 
@@ -189,11 +129,7 @@ Kaggle 是我最喜欢的学习数据科学的平台。不再是一个只是参�
 
 Kaggle 为数据科学家提供了急需的经验。这有助于建立实际的曝光率，这是获得聘用的关键。如果您有兴趣了解使用 Kaggle 学习数据科学，请查看我下面的文章，
 
-[](/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6) [## 如何开始并充分利用 Kaggle
-
-### 使用 Kaggle 学习数据科学的指南
-
-towardsdatascience.com](/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6) 
+</how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6>  
 
 如果你已经有了一些数据科学的知识。期待着上升一个档次，然后下面的视频会有所帮助。
 
@@ -226,11 +162,7 @@ COVID 之后事情就变了。大多数会面都是虚拟的。这可能是一�
 
 费曼技术是另一种思维模式。它有助于用简单的术语交流复杂的话题。如果你有兴趣了解数据科学背景下的心智模型，请查看我下面的文章
 
-[](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) [## 5 个心智模型有助于提升您的数据科学职业生涯
-
-### 激发超级思维的简单框架
-
-towardsdatascience.com](/5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f) 
+</5-mental-models-to-help-boost-your-data-science-career-2a40fd9b7d8f>  
 
 # 10.科技博客
 
@@ -238,19 +170,7 @@ towardsdatascience.com](/5-mental-models-to-help-boost-your-data-science-career-
 
 一些我认为非常有用的最好的科技博客是，
 
-[](https://research.fb.com/category/data-science/) [## 数据科学
-
-### 获得洞察力以实现有意义的社会互动我们的研究结果直接影响决策，以改善人们的…
-
-research.fb.com](https://research.fb.com/category/data-science/) [](https://netflixtechblog.com) [## 网飞科技博客
-
-### 了解网飞世界一流的工程成果、公司文化、产品开发等。
-
-netflixtechblog.com](https://netflixtechblog.com) [](https://cloud.google.com/blog/products/data-analytics) [## 数据分析|谷歌云博客
-
-### JOIN 是 Looker 的年度用户大会，本博客欢迎所有人参加，并让我们先睹为快…
-
-cloud.google.com](https://cloud.google.com/blog/products/data-analytics) 
+<https://research.fb.com/category/data-science/>  <https://netflixtechblog.com>  <https://cloud.google.com/blog/products/data-analytics>  
 
 你目前阅读这篇文章的出版物是最好的之一。每天都有如此多的数据科学博客发表。注册会员的每一分钱都是值得的。成为 Medium 成员的优势在于，他们有如此丰富的内容，涵盖职业、金钱、工作生活平衡、健身等各种主题。如果你还没有注册成为中级会员，可以考虑在这里注册。如果你注册使用这个链接，我会得到一小笔佣金。
 
@@ -264,61 +184,33 @@ cloud.google.com](https://cloud.google.com/blog/products/data-analytics)
 
 ***第二步:*** 学习探索性数据分析
 
-[](https://www.coursera.org/learn/data-analysis-with-python) [## 使用 Python 进行数据分析
-
-### 了解如何使用 Python 分析数据。本课程将带您从 Python 的基础开始，探索许多不同的…
-
-www.coursera.org](https://www.coursera.org/learn/data-analysis-with-python) 
+<https://www.coursera.org/learn/data-analysis-with-python>  
 
 ***第三步:*** 完成一门数据科学课程
 
-[](https://www.coursera.org/professional-certificates/ibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-www.coursera.org](https://www.coursera.org/professional-certificates/ibm-data-science) 
+<https://www.coursera.org/professional-certificates/ibm-data-science>  
 
 ***第四步:*** 了解更多算法
 
-[](https://www.coursera.org/learn/machine-learning#syllabus) [## 机器学习
-
-### 4，499，885 已注册机器学习是让计算机在没有明确…
-
-www.coursera.org](https://www.coursera.org/learn/machine-learning#syllabus) 
+<https://www.coursera.org/learn/machine-learning#syllabus>  
 
 ***第五步:*** 多练习使用 Kaggle
 
-[](/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6) [## 如何开始并充分利用 Kaggle
-
-### 使用 Kaggle 学习数据科学的指南
-
-towardsdatascience.com](/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6) 
+</how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6>  
 
 ***第六步:*** 准备就绪
 
-[](/no-experience-here-is-how-to-get-your-first-data-science-job-6c959bcfaf06) [## 没有经验？以下是如何获得你的第一份数据科学工作
-
-### 帮助你找到工作的简单指南
-
-towardsdatascience.com](/no-experience-here-is-how-to-get-your-first-data-science-job-6c959bcfaf06) [](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) [## 如何打造令人印象深刻的数据科学简历？
-
-### 制作一份引人注目的有影响力的简历的建议
-
-towardsdatascience.com](/how-to-build-an-impressive-data-science-resume-7a9c71f761c5) 
+</no-experience-here-is-how-to-get-your-first-data-science-job-6c959bcfaf06>  </how-to-build-an-impressive-data-science-resume-7a9c71f761c5>  
 
 ***第七步:*** 学会解决问题
 
-[](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) [## 如何用第一性原理思维解决数据科学问题？
+</how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21> [## 如何用第一性原理思维解决数据科学问题？
 
 towardsdatascience.com](/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21) 
 
 ***第八步:*** 保持最新
 
-[](https://towardsdatascience.com) [## 走向数据科学
-
-### 你的数据科学之家。分享概念、想法和准则的媒体出版物。
-
-towardsdatascience.com](https://towardsdatascience.com) 
+<https://towardsdatascience.com>  
 
 # 保持联系
 

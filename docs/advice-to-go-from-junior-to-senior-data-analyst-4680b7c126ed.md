@@ -26,11 +26,7 @@
 
 我把“用数据讲故事”描述为回答一个商业问题并解释为什么它对听众很重要的能力。初级分析师只是提供所需的数据。高级分析师更进一步了解公司的 KPI，以及他们的结果如何与影响业务的 KPI 相关联。了解利益相关者关注的关键绩效指标，并尝试将您的分析结果与这些关键绩效指标联系起来。这将展示你理解业务和像高级分析师一样思考的能力。
 
-[](/how-to-a-tell-story-with-data-3200bfadce6d) [## 如何用数据讲故事
-
-### 有效展示数据结果的技巧
-
-towardsdatascience.com](/how-to-a-tell-story-with-data-3200bfadce6d) 
+</how-to-a-tell-story-with-data-3200bfadce6d>  
 
 ## 学会以清晰的方式传达结果
 
@@ -44,14 +40,6 @@ towardsdatascience.com](/how-to-a-tell-story-with-data-3200bfadce6d)
 
 ## 你可能也会喜欢…
 
-[](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [## 如何应对糟糕的经理
+<https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47>  </how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766> [## 如何成为一名出色的数据分析员工
 
-### 当放弃不是一个选项时——还不是
-
-medium.com](https://medium.com/the-post-grad-survival-guide/how-to-handle-a-bad-manager-e68032e47) [](/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766) [## 如何成为一名出色的数据分析员工
-
-towardsdatascience.com](/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766) [](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537) [## 不良数据分析师的 4 个习惯
-
-### 以及如何避免成为其中一员
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537)
+towardsdatascience.com](/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766) <https://medium.datadriveninvestor.com/4-habits-of-bad-data-analysts-731ec6b7c537> 

@@ -14,11 +14,7 @@ Telegram 成为一个伟大的聊天机器人平台的特征之一是能够创�
 
 首先做一些热身:**玩一个真实的例子**，测试你对世界各国首都的了解😎。使用`/start`命令(*)开始对话。
 
-[](https://t.me/world_capitals_quiz_bot) [## 世界首都测验
-
-### 测试你对世界各国首都的了解🌎
-
-t.me](https://t.me/world_capitals_quiz_bot) 
+<https://t.me/world_capitals_quiz_bot>  
 
 (*)请耐心等待，它会按需运行，可能需要几秒钟才能醒来并开始聊天😊
 
@@ -176,10 +172,6 @@ message = context.bot.send_poll(chat_id=cid, question=q, options=answers, type=P
 
 如果您正在开发电报聊天机器人，您可能会发现这很有用:
 
-[](/bring-your-telegram-chatbot-to-the-next-level-c771ec7d31e4) [## 让你的电报聊天机器人更上一层楼
-
-### 发现可以改变现状的高级功能
-
-towardsdatascience.com](/bring-your-telegram-chatbot-to-the-next-level-c771ec7d31e4) 
+</bring-your-telegram-chatbot-to-the-next-level-c771ec7d31e4>  
 
 如有问题和建议，请在 Twitter 上找到我，如果你创建了一个电报问答聊天机器人，请与我分享！

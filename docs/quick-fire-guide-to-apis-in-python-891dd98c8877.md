@@ -167,11 +167,7 @@ import requestsrequests.**get**(*'https://api_address.com'*)
 
 如果您想直接进入 Python 中的 API 开发，请查看我关于使用 FastAPI 进行 API 开发的文章:
 
-[](https://python.plainenglish.io/build-better-apis-with-python-5b82fabcf8b3) [## 用 Python 构建更好的 API
-
-### 如何用 Python 构建生产就绪的 API
-
-python .平原英语. io](https://python.plainenglish.io/build-better-apis-with-python-5b82fabcf8b3) 
+<https://python.plainenglish.io/build-better-apis-with-python-5b82fabcf8b3>  
 
 [Jupyter 笔记本攻略](https://gist.github.com/jamescalam/20111fa38353630609d875a11445f3a5)
 

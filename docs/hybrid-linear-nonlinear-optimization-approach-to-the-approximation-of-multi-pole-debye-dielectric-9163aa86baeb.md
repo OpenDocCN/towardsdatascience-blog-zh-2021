@@ -117,8 +117,4 @@ gprMax 子包 ***DebyeFit*** 包含两个主要脚本:
 
 [13] D. F. Kelley，T. J. Destan 和 R. J. Luebbers，*使用混合粒子群最小二乘优化方法对复介电常数进行德拜函数展开*，IEEE 天线与传播汇刊，第 55 卷，第 7 期，第 1999–2005 页，2007 年 7 月。
 
-[](https://github.com/gprMax/gprMax/pull/296) [## [GSoC 2021]通过 majsylw 拉动请求#296 gprMax/gprMax 模拟复杂材料
-
-### 这个拉取请求包含了我在 GSoC 2021 期间所做的工作。
-
-github.com](https://github.com/gprMax/gprMax/pull/296)
+<https://github.com/gprMax/gprMax/pull/296> 

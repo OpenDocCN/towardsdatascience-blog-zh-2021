@@ -30,11 +30,7 @@
 
 直到我看到这篇文章:
 
-[](https://www.sharpsightlabs.com/blog/math-for-data-science/) [## 你不需要了解很多数据科学的数学知识
-
-### 关于数据科学需要多少数学知识，有很多错误的信息。大多数人告诉你，你需要的方式…
-
-www.sharpsightlabs.com](https://www.sharpsightlabs.com/blog/math-for-data-science/) 
+<https://www.sharpsightlabs.com/blog/math-for-data-science/>  
 
 # 这个发现。
 

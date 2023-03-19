@@ -38,27 +38,11 @@
 
 下面是演示如何构建基本倾向模型的两个代码演练:
 
-[](https://www.kaggle.com/benpowis/customer-propensity-to-purchase) [## 客户购买倾向
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自客户购买倾向数据集的数据
-
-www.kaggle.com](https://www.kaggle.com/benpowis/customer-propensity-to-purchase) [](https://www.kaggle.com/jalenguzman/marketing-analytics-classification-and-eda#Classification-Algorithms) [## 营销分析、分类和 EDA
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自营销活动的数据
-
-www.kaggle.com](https://www.kaggle.com/jalenguzman/marketing-analytics-classification-and-eda#Classification-Algorithms) 
+<https://www.kaggle.com/benpowis/customer-propensity-to-purchase>  <https://www.kaggle.com/jalenguzman/marketing-analytics-classification-and-eda#Classification-Algorithms>  
 
 这里有两个数据集，你可以用来建立一个倾向模型。记下每个数据集中提供的要素类型:
 
-[](https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data) [## 客户购买倾向数据集
-
-### 记录网上商店购物者互动的数据集
-
-www.kaggle.com](https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data) [](https://www.kaggle.com/rodsaldanha/arketing-campaign?select=marketing_campaign.csv) [## 营销活动
-
-### 提高营销活动的利润
-
-www.kaggle.com](https://www.kaggle.com/rodsaldanha/arketing-campaign?select=marketing_campaign.csv) 
+<https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data>  <https://www.kaggle.com/rodsaldanha/arketing-campaign?select=marketing_campaign.csv>  
 
 > ***一定要*** [***订阅***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学的文章，包括指南、诀窍和技巧、生活经验等！***
 
@@ -78,19 +62,11 @@ www.kaggle.com](https://www.kaggle.com/rodsaldanha/arketing-campaign?select=mark
 
 第一个资源提供了几个时间序列模型的概要:
 
-[](/an-overview-of-time-series-forecasting-models-a2fa7a358fcb) [## 时间序列预测模型综述
-
-### 我们描述了 10 个预测模型，并应用它们来预测工业生产指数的演变
-
-towardsdatascience.com](/an-overview-of-time-series-forecasting-models-a2fa7a358fcb) 
+</an-overview-of-time-series-forecasting-models-a2fa7a358fcb>  
 
 第二个资源提供了使用 Prophet 创建时序模型的分步演练，Prophet 是脸书专门为时序建模构建的 Python 库:
 
-[](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet) [## 使用 Prophet 进行时间序列分析和预测
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用 Rossmann 商店销售数据
-
-www.kaggle.com](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet) 
+<https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet>  
 
 # 3.推荐系统
 
@@ -113,23 +89,7 @@ www.kaggle.com](https://www.kaggle.com/elenapetrova/time-series-analysis-and-for
 
 ## 资源和数据集
 
-[](/introduction-to-recommender-systems-1-971bd274f421) [## 推荐系统介绍- 1:基于内容的过滤和协同过滤
-
-### 像网飞、亚马逊和 Youtube 这样的服务是如何向用户推荐商品的？
-
-towardsdatascience.com](/introduction-to-recommender-systems-1-971bd274f421) [](https://www.kaggle.com/shivamb/netflix-shows) [## 网飞电影和电视节目
-
-### 网飞上的电影和电视节目列表
-
-www.kaggle.com](https://www.kaggle.com/shivamb/netflix-shows) [](https://www.kaggle.com/mrmorj/restaurant-recommendation-challenge?select=orders.csv) [## 餐厅推荐挑战
-
-### 建议质询数据
-
-www.kaggle.com](https://www.kaggle.com/mrmorj/restaurant-recommendation-challenge?select=orders.csv) [](https://www.kaggle.com/bricevergnou/spotify-recommendation?select=yes.py) [## Spotify 推荐
-
-### 200 首歌曲及其统计
-
-www.kaggle.com](https://www.kaggle.com/bricevergnou/spotify-recommendation?select=yes.py) 
+</introduction-to-recommender-systems-1-971bd274f421>  <https://www.kaggle.com/shivamb/netflix-shows>  <https://www.kaggle.com/mrmorj/restaurant-recommendation-challenge?select=orders.csv>  <https://www.kaggle.com/bricevergnou/spotify-recommendation?select=yes.py>  
 
 # 4.深潜分析
 
@@ -147,19 +107,7 @@ www.kaggle.com](https://www.kaggle.com/bricevergnou/spotify-recommendation?selec
 
 以下是几个你可以自己尝试的深度潜水任务:
 
-[](https://www.kaggle.com/ravichaubey1506/healthcare-cost) [## 医疗费用
-
-### 分析威斯康星医院的医疗成本和利用
-
-www.kaggle.com](https://www.kaggle.com/ravichaubey1506/healthcare-cost) [](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) [## IBM HR Analytics 员工流失和绩效
-
-### 预测你有价值的员工的流失
-
-www.kaggle.com](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) [](https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=2986) [## 营销分析
-
-### 运用市场数据进行探索性和统计性分析
-
-www.kaggle.com](https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=2986) 
+<https://www.kaggle.com/ravichaubey1506/healthcare-cost>  <https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset>  <https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=2986>  
 
 # 5.客户细分
 
@@ -179,27 +127,11 @@ www.kaggle.com](https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=298
 
 ## 如何:
 
-[](https://www.kaggle.com/fabiendaniel/customer-segmentation) [## 客户细分
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自电子商务数据的数据
-
-www.kaggle.com](https://www.kaggle.com/fabiendaniel/customer-segmentation) [](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) [## 客户细分(K 均值)|分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自商场客户细分数据的数据
-
-www.kaggle.com](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis) 
+<https://www.kaggle.com/fabiendaniel/customer-segmentation>  <https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis>  
 
 ## 数据集
 
-[](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) [## 商场客户细分数据
-
-### 市场篮子分析
-
-www.kaggle.com](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) [](https://www.kaggle.com/kaushiksuresh147/customer-segmentation) [## 客户细分分类
-
-### 将顾客分为四类
-
-www.kaggle.com](https://www.kaggle.com/kaushiksuresh147/customer-segmentation) 
+<https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python>  <https://www.kaggle.com/kaushiksuresh147/customer-segmentation>  
 
 # 感谢阅读！
 
@@ -211,15 +143,11 @@ www.kaggle.com](https://www.kaggle.com/kaushiksuresh147/customer-segmentation)
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) [## 2022 年你应该知道的 10 个最实用的数据科学技能
-
-### 实际上能让你就业的技能
-
-towardsdatascience.com](/10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a) 
+</10-most-practical-data-science-skills-you-should-know-in-2022-9487d7750e8a>  
 
 **还有一个:**
 
-[](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) [## 六分钟内解释所有概率分布
+</all-probability-distributions-explained-in-six-minutes-fe57b1d49600> [## 六分钟内解释所有概率分布
 
 towardsdatascience.com](/all-probability-distributions-explained-in-six-minutes-fe57b1d49600) 
 

@@ -36,11 +36,7 @@ FooBar 完成截图(图片作者: [Pratick Roy](https://medium.com/u/d0e73ebdbb0
 
 如果你不同意这一点，我强烈建议你读一读我不久前写的一篇文章，即使读完之后，如果你不同意，请随时给我留言/评论，我们可以进一步讨论这个问题。
 
-[](/what-is-good-code-an-actionable-introduction-1cad30551ad4) [## 什么是好代码？
-
-### 10 分钟可操作的介绍。
-
-towardsdatascience.com](/what-is-good-code-an-actionable-introduction-1cad30551ad4) 
+</what-is-good-code-an-actionable-introduction-1cad30551ad4>  
 
 ## 现在回到手头的问题
 
@@ -120,11 +116,7 @@ a — b > 0, if a is larger
 
 在我的下一篇文章中，我将进入第二关的第二个挑战:*准备毁灭。*当我找到时，我会在这里链接它。要获得相同的通知，请考虑在 medium 上关注我，订阅一封相同的电子邮件，直接发送到您的收件箱！
 
- [## 点击此处订阅:)
-
-### 想在我写新东西时得到通知吗？每当我发布时收到电子邮件！
-
-有两种作家，写得多的和写得少的。我是后者。我痴迷于创造价值，回避噪音。如果想看这样的内容，可以考虑订阅。](https://pratickroy.medium.com/subscribe) 
+  
 
 # 来源、脚注和进一步阅读链接
 

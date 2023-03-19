@@ -14,19 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，您可以在以下链接中找到最后三个:
 
-[](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [## Python 中 Matplotlib 绘图简介
-
-### UCL 数据科学学会研讨会 7:创建一个基本的图表，在同一图表上绘制不同的信息…
-
-towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [](/ucl-data-science-society-pandas-8ad28c2b22e5) [## UCL 数据科学学会:熊猫
-
-### 工作坊 6:什么是 Pandas，Pandas 系列，Pandas 数据框架，访问数据和 Pandas 操作
-
-towardsdatascience.com](/ucl-data-science-society-pandas-8ad28c2b22e5) [](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [## UCL 数据科学协会:Numpy 简介
-
-### 工作坊 5:什么是 Numpy，Numpy 数组，数学运算符，随机数
-
-towardsdatascience.com](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) 
+</an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081>  </ucl-data-science-society-pandas-8ad28c2b22e5>  </ucl-data-science-society-introduction-to-numpy-7d962d63f47d>  
 
 ## Git 是什么，为什么？
 
@@ -163,22 +151,10 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership>  
 
 我的其他媒体文章可在以下网址找到:
 
-[](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [## 随机森林分类器简介
+</introduction-to-random-forest-classifiers-9a3b8d8d3fa7>  </introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-### 预测 NBA 球员的位置——我们正在看到一个真正的“无位置”联盟吗？
-
-towardsdatascience.com](/introduction-to-random-forest-classifiers-9a3b8d8d3fa7) [](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
-
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/multi-variate-outlier-detection-in-python-e900a338da10) [## Python 中的多变量异常检测
-
-### 能够检测数据集中异常值/异常值的六种方法
-
-towardsdatascience.com](/multi-variate-outlier-detection-in-python-e900a338da10)
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </multi-variate-outlier-detection-in-python-e900a338da10> 

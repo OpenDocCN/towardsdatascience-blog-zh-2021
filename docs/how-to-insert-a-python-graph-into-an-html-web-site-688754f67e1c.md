@@ -199,14 +199,6 @@ chart.save('chart.html', embed_options={'actions': False})
 
 # 相关文章
 
-[](/how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf) [## 如何将 Observablehq 图形插入 HTML 页面
-
-### 一个快速的教程，用你的观察制作精彩的 HTML 页面。
-
-towardsdatascience.com](/how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf) [](https://codeburst.io/quick-start-with-html-through-bootstrap-bbe6f2f1793) [## 通过 Bootstrap 快速使用 HTML
-
-### 在本教程中，我将向你展示如何用 Bootstrap 构建一个简单的 HTML 页面。Bootstrap 是一个工具包，它允许…
-
-codeburst.io](https://codeburst.io/quick-start-with-html-through-bootstrap-bbe6f2f1793) [](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5) [## 如何改进带注释的 D3.js 图形
+</how-to-insert-an-observablehq-graph-into-a-html-page-57a9f4546ecf>  <https://codeburst.io/quick-start-with-html-through-bootstrap-bbe6f2f1793>  </how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5> [## 如何改进带注释的 D3.js 图形
 
 towardsdatascience.com](/how-to-improve-d3-js-graphs-with-annotations-252fbb9c5bb5)

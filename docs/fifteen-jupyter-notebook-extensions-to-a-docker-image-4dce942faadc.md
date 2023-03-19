@@ -279,14 +279,6 @@ DET 1.3.0 版本的发布经历了几天的曲折和错误。我希望你花更�
 
 我使用的 Docker 实现的更多细节在:
 
-[](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) [## 面向企业的 Docker 解决方案
-
-### 这是一个关于我们公司推出 Docker 的故事。我展示我们的 Docker 和 Docker-Compose 解决方案。被警告…
-
-medium.com](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) [](https://medium.com/@dr.bruce.cottman/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) [## 我们将 Docker 企业解决方案的速度提高了一倍
-
-### 我们收到了大量关于 Docker 解决方案 0.0.2 版本的反馈。反馈有一个共同的主题:只有 R&D…
-
-medium.com](https://medium.com/@dr.bruce.cottman/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11) 
+<https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a>  <https://medium.com/@dr.bruce.cottman/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11>  
 
 注意:你可以从可克隆的 **GitHub** [repo](https://github.com/bcottman/dockerSeasons) 中改编 **Docker** 代码到你的项目中。

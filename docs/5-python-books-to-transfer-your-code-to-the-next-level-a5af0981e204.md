@@ -14,7 +14,7 @@
 
 为了让你的代码漂亮，它需要易于阅读和理解，清晰，平衡。这是一个代码，它的架构、结构和整体形状可以告诉你它的意图，而无需深入挖掘它的应用。漂亮的代码通常被分成坚实的小块，每一块都有自己的用途。
 
-[](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
+</6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61> [## 数据科学应用的 6 个最佳 Python IDEs 和文本编辑器
 
 towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61) 
 
@@ -28,11 +28,7 @@ towardsdatascience.com](/6-best-python-ides-and-text-editors-for-data-science-ap
 
 这本书还介绍了 profilers、正则表达式的魔力，并教您如何利用 22 种编码快捷方式和增强性能的提示和技巧来优化代码执行。简而言之，增压 Python 教你如何更快更有效地编写强大、复杂的 Python 应用程序。
 
-[](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) [## 不包括 Python 或 R 的 5 种数据科学编程语言
-
-### 有比你想象的更多的选择。
-
-towardsdatascience.com](/5-data-science-programming-languages-not-including-python-or-r-3ad111134771) 
+</5-data-science-programming-languages-not-including-python-or-r-3ad111134771>  
 
 # №2: Python 技巧:令人敬畏的 Python 特性自助餐
 
@@ -50,11 +46,7 @@ Python 技巧展示了有价值但经常被忽视的 Python 特性和最佳实�
 
 这本书还深入介绍了如何正确打包代码、编写高效的文档以及管理依赖性和虚拟环境。此外，通过调试、测试和处理内存管理来维护您的包，以实现最佳执行。所以，如果你已经学完了 Python 的基础知识，并且想更深入地学习这门语言，这本书就是为你准备的。
 
-[](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) [## 你应该考虑阅读的 5 本新的数据科学书籍
-
-### 了解这些书的最新情况
-
-towardsdatascience.com](/5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d) 
+</5-new-data-science-books-that-you-should-consider-reading-c90aec1d5b0d>  
 
 # №4:Python Pro 的实践
 
@@ -70,11 +62,7 @@ Python Pro 的实践主要由 4 个部分组成。一个介绍部分和一个结
 
 阅读这本书，你将学会如何在你的代码上运行静态和动态分析工具，在你打包和发布代码之前检测和消除代码中的错误。您还将学习如何下载和运行第三方包，而不影响代码的安全性。此外，您将学习使用 Python 默认调试器和使用其交互式控制台的最有效方法。
 
-[](/5-python-debugging-tools-that-are-better-than-print-1aa02eba35) [## 比“打印”更好的 5 个 Python 调试工具
-
-### 更快更有效地调试代码。
-
-towardsdatascience.com](/5-python-debugging-tools-that-are-better-than-print-1aa02eba35) 
+</5-python-debugging-tools-that-are-better-than-print-1aa02eba35>  
 
 # 最后的想法
 
@@ -84,8 +72,4 @@ towardsdatascience.com](/5-python-debugging-tools-that-are-better-than-print-1aa
 
 如果你能用 Python 写出漂亮、清晰、简洁、可靠的代码，你就能在成千上万的 Python 程序员中脱颖而出，增加你获得工作、晋升或转行的机会。在这篇文章中，我推荐了 5 本书，重点教你如何开发和学习 Python 代码编写技巧，并帮助你将代码提升到一个新的水平。
 
-[](/6-approaches-to-speed-up-your-python-code-37a6da14fca) [## 提高 Python 代码速度的 6 种方法
-
-### 快速编码的简单步骤
-
-towardsdatascience.com](/6-approaches-to-speed-up-your-python-code-37a6da14fca)
+</6-approaches-to-speed-up-your-python-code-37a6da14fca> 

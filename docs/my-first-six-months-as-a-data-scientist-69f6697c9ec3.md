@@ -78,8 +78,4 @@ GIF by [GIPHY](https://giphy.com/gifs/Friends-season-5-friends-tv-s05e02-hrk8ehR
 
 照片由[娜佳·贝尔托尔特·詹森](https://unsplash.com/@naja_bertolt_jensen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/s/photos/mermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 拍摄
 
-[](https://amawest.medium.com/membership) [## 加入我的介绍链接媒体-阿曼达西
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-amawest.medium.com](https://amawest.medium.com/membership)
+<https://amawest.medium.com/membership> 

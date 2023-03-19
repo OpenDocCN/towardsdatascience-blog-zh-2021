@@ -26,11 +26,7 @@ Gradio 是一个免费的开源软件包。它允许人们围绕他们的机器�
 
 要跟进，您可以简单地分叉 Github 存储库:
 
-[](https://github.com/kurtispykes/twitter-sentiment-analysis) [## kurtispykes/twitter 情绪分析
-
-### 推特已经成为紧急时刻的重要沟通渠道。智能手机的普及使得…
-
-github.com](https://github.com/kurtispykes/twitter-sentiment-analysis) 
+<https://github.com/kurtispykes/twitter-sentiment-analysis>  
 
 按照 README.md 文件中的说明来安装需求、数据和模型——参见我的讨论 README 文件的重要性以及如何为您的下一个项目编写一个 ReadME 文件的帖子。这样做将安装您需要的所有必要的软件包。
 
@@ -58,16 +54,4 @@ github.com](https://github.com/kurtispykes/twitter-sentiment-analysis)
 
 ## 相关帖子:
 
-[](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [## 面向 NLP 爱好者的 7 个免费在线资源
-
-### 一定要将它们加入书签
-
-pub.towardsai.net](https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343) [](https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d) [## 为您的数据科学投资组合撰写博客
-
-### 你有什么选择？
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d) [](/3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d) [## 从任何领域过渡到数据科学的 3 个技巧
-
-### 没有确定的路径
-
-towardsdatascience.com](/3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d)
+<https://pub.towardsai.net/7-free-online-resources-for-nlp-lovers-26b1e0bba343>  <https://medium.datadriveninvestor.com/blogging-for-your-data-science-portfolio-61b07da8005d>  </3-tips-to-transition-into-data-science-from-any-field-6baaecdcac2d> 

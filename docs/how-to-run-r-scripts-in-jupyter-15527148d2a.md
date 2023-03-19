@@ -84,16 +84,8 @@ quit()
 
 # 相关文章
 
-[](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
+</how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f> [## 如何在 Android 设备上安装 Python 和 Jupyter Notebook
 
-towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) [](https://alod83.medium.com/how-to-install-xampp-bcb43fb11912) [## 如何安装 XAMPP
-
-### 为了创建一个完整的 web 应用程序，首先要做的是安装一个 Web 服务器。有几个…
-
-alod83.medium.com](https://alod83.medium.com/how-to-install-xampp-bcb43fb11912) [](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) [## 如何在 PhpMyadmin 中导入和导出数据集
-
-### Phpmyadmin
-
-alod83.medium.com](https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3) 
+towardsdatascience.com](/how-to-install-python-and-jupyter-notebook-onto-an-android-device-900009df743f) <https://alod83.medium.com/how-to-install-xampp-bcb43fb11912>  <https://alod83.medium.com/how-to-import-and-export-a-dataset-in-phpmyadmin-b108288a3ca3>  
 
 # 新到中？您可以每月订阅几美元，并解锁无限的文章— [单击此处](https://alod83.medium.com/membership)。

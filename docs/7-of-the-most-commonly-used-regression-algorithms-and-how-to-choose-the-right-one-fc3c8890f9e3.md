@@ -165,11 +165,7 @@ RANSAC 算法:模型构建过程的四次迭代(Min_Samples =2，threshold = 20)
 
 如果你对 boosting 和 bagging(以及 AdaBoost 和 Random Forest)之间的区别感兴趣，你可以在这里找到更详细的介绍:
 
-[](/adaboost-in-7-simple-steps-a89dc41ec4) [## 7 个简单步骤中的 AdaBoost
-
-### AdaBoost 和 Boosting 简单解释
-
-towardsdatascience.com](/adaboost-in-7-simple-steps-a89dc41ec4) 
+</adaboost-in-7-simple-steps-a89dc41ec4>  
 
 ## **高斯过程回归**
 
@@ -466,11 +462,7 @@ sklearn 的实现是通过模块`cross_validate`完成的。以下代码片段�
 
 您可以在此找到超参数优化领域的更详细介绍，以及网格搜索或贝叶斯优化等常用方法:
 
-[](/a-step-by-step-introduction-to-bayesian-hyperparameter-optimization-94a623062fc) [## 超参数调整、网格搜索和贝叶斯优化的逐步介绍
-
-### 使用回归问题的贝叶斯优化的说明性解释
-
-towardsdatascience.com](/a-step-by-step-introduction-to-bayesian-hyperparameter-optimization-94a623062fc) 
+</a-step-by-step-introduction-to-bayesian-hyperparameter-optimization-94a623062fc>  
 
 # 摘要
 
@@ -478,11 +470,7 @@ towardsdatascience.com](/a-step-by-step-introduction-to-bayesian-hyperparameter-
 
 如果您觉得这篇文章很有帮助，您还可以找到一篇关于用于*异常检测*的概念和算法的类似文章:
 
-[](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) [## 异常检测多样化领域的初学者综合指南
-
-### 隔离森林，局部异常因子，一类 SVM，自动编码器，稳健协方差估计和时间序列…
-
-towardsdatascience.com](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) 
+</a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995>  
 
 [如果你还不是中级高级会员并想成为其中一员，你可以通过使用这个推荐链接注册来支持我。](https://dmnkplzr.medium.com/membership)
 

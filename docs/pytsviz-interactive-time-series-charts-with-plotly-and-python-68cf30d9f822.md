@@ -26,11 +26,7 @@
 
 # 使用 pytsviz
 
-[](https://github.com/xtreamsrl/pytsviz) [## GitHub - xtreamsrl/pytsviz:一套快速分析时间序列的实用程序。
-
-### pytsviz 是一套快速分析和可视化时间序列数据的工具。它部分基于 R 包…
-
-github.com](https://github.com/xtreamsrl/pytsviz) 
+<https://github.com/xtreamsrl/pytsviz>  
 
 为了展示 pytsviz 的一些特性，我们将假设在一个类似于文档中所示的[的笔记本上编写代码。](https://pytsviz.readthedocs.io/en/latest/notebooks/data_visualization_examples.html)
 
@@ -90,16 +86,4 @@ pytsviz 由数据科学团队在 [*xtream*](https://xtreamers.io/) *设计和构
 
 如果你喜欢这篇文章，你可能会感兴趣:
 
-[](/stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94) [## 停止复制粘贴笔记本，拥抱 Jupyter 模板！
-
-### jupytemplate 简介:Jupyter 的可配置模板
-
-towardsdatascience.com](/stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94) [](/introducing-tsviz-interactive-time-series-visualization-in-r-studio-a96cde507a14) [## 介绍 tsviz，R Studio 中的交互式时间序列可视化
-
-### 我们为什么以及如何开发 R Studio 插件
-
-towardsdatascience.com](/introducing-tsviz-interactive-time-series-visualization-in-r-studio-a96cde507a14) [](/method-is-all-you-need-7-mistakes-to-avoid-in-data-science-a18bec2c5e99) [## 方法是你所需要的:数据科学中要避免的 7 个错误
-
-### 来自我们经验的精选收藏
-
-towardsdatascience.com](/method-is-all-you-need-7-mistakes-to-avoid-in-data-science-a18bec2c5e99)
+</stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94>  </introducing-tsviz-interactive-time-series-visualization-in-r-studio-a96cde507a14>  </method-is-all-you-need-7-mistakes-to-avoid-in-data-science-a18bec2c5e99> 

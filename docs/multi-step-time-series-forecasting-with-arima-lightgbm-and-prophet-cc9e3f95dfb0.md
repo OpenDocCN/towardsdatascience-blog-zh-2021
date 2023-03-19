@@ -227,15 +227,7 @@ Box-Jenkins 航空公司数据集由 1949-1960 年间国际航空公司乘客的
 
 您可以在下面的 Google Colab 链接或 Github 链接中看到完整的工作代码。
 
-[](https://colab.research.google.com/drive/1Z4zNI_bVXoFQBsCHUtxBDCBno6yhXceB?usp=sharing) [## 谷歌联合实验室
-
-### 用 ARIMA、LightGBM 和 Prophet 进行多步时间序列预测
-
-colab.research.google.com](https://colab.research.google.com/drive/1Z4zNI_bVXoFQBsCHUtxBDCBno6yhXceB?usp=sharing) [](https://github.com/tomonori-masui/time-series-forecasting/blob/main/multi_step_time_series_forecasting.ipynb) [## 时间序列预测
-
-### 使用 ARIMA、LightGBM 和 Prophet-tomonori-masui/时间序列预测进行多步时间序列预测
-
-github.com](https://github.com/tomonori-masui/time-series-forecasting/blob/main/multi_step_time_series_forecasting.ipynb) 
+<https://colab.research.google.com/drive/1Z4zNI_bVXoFQBsCHUtxBDCBno6yhXceB?usp=sharing>  <https://github.com/tomonori-masui/time-series-forecasting/blob/main/multi_step_time_series_forecasting.ipynb>  
 
 # 参考
 

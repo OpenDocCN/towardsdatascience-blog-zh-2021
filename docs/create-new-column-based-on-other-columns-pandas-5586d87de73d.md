@@ -162,16 +162,4 @@ print(df)
 
 **你可能也会喜欢**
 
-[](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大型 Spark 数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c) [## 如何优化你的谷歌搜索并获得更好的结果
-
-### 更智能的谷歌搜索的 12 个技巧
-
-medium.com](https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c)
+</sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  <https://medium.com/geekculture/how-to-refine-your-google-search-and-get-better-results-c774cde9901c> 

@@ -44,11 +44,7 @@
 
 概念都不背，学习还有什么意义？一个很好的记忆方法是使用 Anki**——**一个使用间隔重复的应用程序。
 
-[](/top-5-apps-for-data-scientists-dc8b66886560) [## 数据科学家的五大应用
-
-### 我如何跟上最新的研究？我如何记住领域中的复杂概念？在…的帮助下
-
-towardsdatascience.com](/top-5-apps-for-data-scientists-dc8b66886560) 
+</top-5-apps-for-data-scientists-dc8b66886560>  
 
 # 编程电子书
 
@@ -82,11 +78,7 @@ Pandas 成为 Python 中数据科学的事实上的标准。[学习熊猫](https
 
 要了解更多先进的熊猫技巧，我建议你查看我的熊猫系列进行数据分析:
 
-[](https://medium.com/@romanorac/pandas-data-analysis-series-b8cec5b38b22) [## 熊猫数据分析系列
-
-### 从提示和技巧，如何不指南到与大数据分析相关的提示，熊猫文章的精选列表。
-
-medium.com](https://medium.com/@romanorac/pandas-data-analysis-series-b8cec5b38b22) 
+<https://medium.com/@romanorac/pandas-data-analysis-series-b8cec5b38b22>  
 
 # 机器学习电子书
 
@@ -126,11 +118,7 @@ Viktor Forgacs 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 照片由 [h heyerlein](https://unsplash.com/@heyerlein?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 
-[](https://www.edx.org/course/machine-learning) [## 机器学习
-
-### 机器学习是当今数据分析领域最激动人心的职业的基础。你会学到模型和方法…
-
-www.edx.org](https://www.edx.org/course/machine-learning) 
+<https://www.edx.org/course/machine-learning>  
 
 机器学习是当今数据分析领域最激动人心的职业的基础。您将学习模型和方法，并将它们应用到现实世界中，从识别趋势新闻话题到构建推荐引擎、给运动队排名和绘制电影僵尸的路径。
 
@@ -152,11 +140,7 @@ www.edx.org](https://www.edx.org/course/machine-learning)
 
 [亚历山大·奈特](https://unsplash.com/@agkdesign?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍照
 
-[](https://www.edx.org/course/artificial-intelligence-ai) [## 人工智能
-
-### 自动驾驶汽车、人脸识别、网络搜索、工业机器人、导弹制导、肿瘤检测有什么…
-
-www.edx.org](https://www.edx.org/course/artificial-intelligence-ai) 
+<https://www.edx.org/course/artificial-intelligence-ai>  
 
 自动驾驶汽车、人脸识别、网页搜索、工业机器人、导弹制导、肿瘤检测有什么共同点？
 

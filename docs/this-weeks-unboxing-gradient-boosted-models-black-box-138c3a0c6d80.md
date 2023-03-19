@@ -461,8 +461,4 @@ tree_chart[!is.na(leaf_count),.(sum_leaf_value = sum(leaf_value)), by = leaf_cou
 *   使用某些超参数；
 *   调整泊松目标。
 
-[](https://matepocs.medium.com/membership) [## 加入我的推荐链接-伴侣概念
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-matepocs.medium.com](https://matepocs.medium.com/membership)
+<https://matepocs.medium.com/membership> 

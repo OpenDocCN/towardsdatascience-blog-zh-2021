@@ -99,7 +99,7 @@ print(cross_val_score(lr, X, y, cv=TimeSeriesSplit()))
 # Output: [0.69594303 0.69302285 0.66850729 0.78807363 0.73512387]
 ```
 
-> ***注:*** *我们这里不使用标准的* k *-fold 交叉验证，因为我们处理的是时间序列数据。* `*TimeSeriesSplit*` *是比较合理的做法，可以在这里*[](https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split)**了解更多。**
+> ***注:*** *我们这里不使用标准的* k *-fold 交叉验证，因为我们处理的是时间序列数据。* `*TimeSeriesSplit*` *是比较合理的做法，可以在这里*<https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split>**了解更多。**
 
 *嗯，这看起来已经很合理了，尽管还可以做得更好。但是这种模式让我们可以随心所欲地拆分销售，因为公式很简单*
 
@@ -235,11 +235,7 @@ tv_roi = sales_from_tv / spendings_on_tv
 
 ***你可以在这里找到后续文章:***
 
-*[](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6) [## Python 中升级的营销组合建模
-
-### 让我平庸的营销组合模式更加强大
-
-towardsdatascience.com](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6)* 
+*</an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6> * 
 
 *我希望你今天学到了新的、有趣的、有用的东西。感谢阅读！*
 
@@ -248,7 +244,7 @@ towardsdatascience.com](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1
 1.  ***想支持我多写点机器学习和***
 2.  ***无论如何，计划获得一个中等订阅，***
 
-***为什么不通过此链接**[](https://dr-robert-kuebler.medium.com/membership)****？这将对我帮助很大！😊*****
+***为什么不通过此链接**<https://dr-robert-kuebler.medium.com/membership>****？这将对我帮助很大！😊*****
 
 ****说白了，给你的价格不变，但大约一半的订阅费直接归我。****
 

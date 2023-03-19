@@ -110,32 +110,16 @@
 
 深入了解金融服务领域的联合共享:
 
-[](https://www.weforum.org/whitepapers/the-next-generation-of-data-sharing-in-financial-services-using-privacy-enhancing-techniques-to-unlock-new-value) [## 金融服务中的下一代数据共享:使用隐私增强技术…
-
-### 这份报告探讨了一组被称为“隐私增强技术”(PETs)的新兴技术，以及它们的能力…
-
-www.weforum.org](https://www.weforum.org/whitepapers/the-next-generation-of-data-sharing-in-financial-services-using-privacy-enhancing-techniques-to-unlock-new-value) 
+<https://www.weforum.org/whitepapers/the-next-generation-of-data-sharing-in-financial-services-using-privacy-enhancing-techniques-to-unlock-new-value>  
 
 和医疗保健:
 
-[](https://www.weforum.org/reports/sharing-sensitive-health-data-in-a-federated-data-consortium-model-an-eight-step-guide) [## 在联合数据联盟模型中共享敏感的健康数据:八步指南
-
-### 能够拯救或改善生命的诊断和治疗方法的发现需要访问大型数据集，但这样…
-
-www.weforum.org](https://www.weforum.org/reports/sharing-sensitive-health-data-in-a-federated-data-consortium-model-an-eight-step-guide) 
+<https://www.weforum.org/reports/sharing-sensitive-health-data-in-a-federated-data-consortium-model-an-eight-step-guide>  
 
 在这里可以找到对最近一些道德准则的评论:
 
-[](https://link.springer.com/article/10.1007/s11023-020-09517-8) [## 人工智能伦理学的伦理学:对指南的评价
-
-### 人工智能(AI)系统的研究、开发和应用的当前进展已经产生了一种新的趋势
-
-link.springer.com](https://link.springer.com/article/10.1007/s11023-020-09517-8) 
+<https://link.springer.com/article/10.1007/s11023-020-09517-8>  
 
 深入了解对数据科学家和数据工程师的要求:
 
-[](https://www.kdnuggets.com/2021/02/dont-need-data-scientists-need-data-engineers.html) [## 我们不需要数据科学家，我们需要数据工程师
-
-### 随着越来越多的人进入数据科学领域，越来越多的公司招聘以数据为中心的角色，什么类型的…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2021/02/dont-need-data-scientists-need-data-engineers.html)
+<https://www.kdnuggets.com/2021/02/dont-need-data-scientists-need-data-engineers.html> 

@@ -28,11 +28,7 @@ COUNTIF 是 Excel 的统计函数之一，用于计算符合条件的单元格�
 
 在这篇文章中，我将使用一个与我写的另一篇文章相似的例子，用 5 种语言介绍 SUMIF:
 
-[](/sumif-in-5-languages-vba-sql-python-m-query-dax-powerbi-2ff6ccf205ee) [## 5 种语言的 SUMIF(VBA/SQL/PYTHON/M query/DAX power bi)
-
-### 如何用另一种分析语言制作自己喜欢的 Excel 功能(VBA/SQL/PYTHON/M query/DAX power bi)
-
-towardsdatascience.com](/sumif-in-5-languages-vba-sql-python-m-query-dax-powerbi-2ff6ccf205ee) 
+</sumif-in-5-languages-vba-sql-python-m-query-dax-powerbi-2ff6ccf205ee>  
 
 这将是一个标签与项目的列表在单元格 C2，我们可以把一个 COUNTIF 公式与参数:范围=A2:A8，标准=单元格(A2)。所以基本上我们计算列表中“Item1”的数量。
 

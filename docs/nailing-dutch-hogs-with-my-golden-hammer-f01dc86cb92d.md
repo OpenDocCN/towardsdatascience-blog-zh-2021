@@ -204,11 +204,7 @@ Autodiff 为每个输入值计算一个导数值，统称为*梯度*。它告诉
 
 *自动区分的代码可以从笔的资源中查看。这是一个简单的实现，只支持标量值。你可以在这里读到它:*
 
-*[](/rebuild-the-chain-rule-to-automatic-differentiation-d77afaa361c4) [## 重建链式法则以自动微分
-
-### 从链规则到自动差异有一个链接。让我们跨越从数学到计算机科学的桥梁…
-
-towardsdatascience.com](/rebuild-the-chain-rule-to-automatic-differentiation-d77afaa361c4) 
+*</rebuild-the-chain-rule-to-automatic-differentiation-d77afaa361c4>  
 
 # 额外收获:用蛮力解决
 

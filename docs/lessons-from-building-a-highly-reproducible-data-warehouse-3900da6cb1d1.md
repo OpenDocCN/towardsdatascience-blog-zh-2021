@@ -69,11 +69,7 @@
 
 现在，您已经了解了高层架构，我想深入探讨一下塑造这种架构的原则。我希望它们能帮助你理解我们为什么使用某些工具，以及它们背后的好处。
 
-[](/a-data-warehouse-implementation-on-aws-a96d0e251abd) [## AWS 上的数据仓库实现
-
-### 使用 AWS S3、AWS 胶水、DBT 和 AWS 红移的实现
-
-towardsdatascience.com](/a-data-warehouse-implementation-on-aws-a96d0e251abd) 
+</a-data-warehouse-implementation-on-aws-a96d0e251abd>  
 
 # 原则
 
@@ -95,11 +91,7 @@ towardsdatascience.com](/a-data-warehouse-implementation-on-aws-a96d0e251abd)
 
 特别是，我们已经使用这种实践来改进我们从数据源中提取数据的方式。我们构建了一个框架，使用配置文件来完成这项工作，而不是一个接一个地集成源代码。我们写一个 YAML 文件，然后框架自动生成气流 Dag，允许我们整合所有的资源。
 
-[](/generalizing-data-load-processes-with-airflow-a4931788a61f) [## 用气流概括数据加载过程
-
-### 数据加载过程不应该写两遍，它们应该是通用的
-
-towardsdatascience.com](/generalizing-data-load-processes-with-airflow-a4931788a61f) 
+</generalizing-data-load-processes-with-airflow-a4931788a61f>  
 
 简而言之，通过让 ***一切都像代码*一样，你允许更容易维护**。例如，引入新的更改可能就像更改几行代码一样简单。通过这样做，您还将显著减少需要花费大量时间和精力的手动流程的情况。
 
@@ -129,11 +121,7 @@ towardsdatascience.com](/generalizing-data-load-processes-with-airflow-a4931788a
 
 要了解更多关于函数式数据工程的知识，请查看 Maxime Beauchemin 写的这篇文章，他对此谈了更多。
 
-[](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a) [## 功能数据工程——批量数据处理的现代范例
-
-### 批量数据处理——历史上称为 ETL——极具挑战性。这很耗时，也很脆弱，而且经常…
-
-maximebeauchemin.medium.com](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a) 
+<https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a>  
 
 # 课程
 

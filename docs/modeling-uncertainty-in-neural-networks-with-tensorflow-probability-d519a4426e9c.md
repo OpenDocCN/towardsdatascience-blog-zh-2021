@@ -27,7 +27,7 @@
 
 在[第 2 部分](/modeling-uncertainty-in-neural-networks-with-tensorflow-probability-a706c2274d12)中，我们说过*随机不确定性*与数据生成过程有内在联系，不能通过添加更多数据来减少。
 
-*—另一方面，认知不确定性与我们对数据生成过程的了解(或无知)有关。这个名字来自古希腊语[](https://en.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7)*****/e . pisˇti . mi/*——这个术语被亚里士多德或柏拉图等哲学家广泛使用，大致翻译为“知识”。*认知不确定性*的另一个名称是*模型不确定性*。*****
+*—另一方面，认知不确定性与我们对数据生成过程的了解(或无知)有关。这个名字来自古希腊语<https://en.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7>*****/e . pisˇti . mi/*——这个术语被亚里士多德或柏拉图等哲学家广泛使用，大致翻译为“知识”。*认知不确定性*的另一个名称是*模型不确定性*。*****
 
 *****关于*认知不确定性的一个重要事实是*它**可以通过增加**更多的数据**来**减少**。*******
 
@@ -148,11 +148,7 @@
 
 *****❤️ *对获取更多这样的内容感兴趣吗？使用此链接加入:******
 
-*****[](https://aleksander-molak.medium.com/membership) [## 通过我的推荐链接加入媒体-亚历山大·莫拉克
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-aleksander-molak.medium.com](https://aleksander-molak.medium.com/membership) 
+*****<https://aleksander-molak.medium.com/membership>  
 
 谢谢大家！
 

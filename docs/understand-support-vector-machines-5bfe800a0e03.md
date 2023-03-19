@@ -32,11 +32,7 @@ SVM 是理解监督机器学习的几何观点和巩固向量代数在机器学�
 
 在以前的文章中，我已经给出了一个非常温和的介绍，仅提供几何直观。如果你不太熟悉 SVM 的基本概念(或者对 SVM 与逻辑回归的区别有点生疏)，那么我建议你先读一读我以前关于这个主题的文章。
 
-[](/understand-support-vector-machines-6cc9e4a15e7e) [## 理解支持向量机
-
-### 5 个系列的第 1 部分，提供全面介绍的简短文章；不假设任何先验知识
-
-towardsdatascience.com](/understand-support-vector-machines-6cc9e4a15e7e) 
+</understand-support-vector-machines-6cc9e4a15e7e>  
 
 # 线性可分的两类
 
@@ -224,8 +220,4 @@ SVM 方程(从技术上讲，是一个方程和一个不等式)是:
 
 ***祝贺你，你向成为数据科学专家又迈进了一步！***
 
-*[](https://ahmarshah.medium.com/membership) [## 阅读艾哈迈尔·沙阿博士(牛津)的每一个故事(以及媒体上成千上万的其他作家)
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmarshah.medium.com](https://ahmarshah.medium.com/membership)*
+*<https://ahmarshah.medium.com/membership> *

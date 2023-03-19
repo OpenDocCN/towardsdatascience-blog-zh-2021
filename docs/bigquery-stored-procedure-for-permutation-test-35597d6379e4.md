@@ -14,19 +14,7 @@
 
 我还有几个 BigQuery 教程:
 
-[](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) [## BigQuery SQL 中的高级随机采样
-
-### 了解如何以可重现的方式对 BigQuery 表中的行进行采样
-
-towardsdatascience.com](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) [](/loops-in-bigquery-db137e128d2d) [## BigQuery 中的循环
-
-### 了解如何使用 BigQuery 脚本来计算斐波那契数
-
-towardsdatascience.com](/loops-in-bigquery-db137e128d2d) [](/load-files-faster-into-bigquery-94355c4c086a) [## 将文件更快地加载到 BigQuery 中
-
-### 针对摄取的 CSV、GZIP、AVRO 和拼花文件类型进行基准测试
-
-towardsdatascience.com](/load-files-faster-into-bigquery-94355c4c086a) 
+</advanced-random-sampling-in-bigquery-sql-7d4483b580bb>  </loops-in-bigquery-db137e128d2d>  </load-files-faster-into-bigquery-94355c4c086a>  
 
 > 要获得所有媒体文章的完整访问权限，包括我的文章，请考虑在此订阅。
 

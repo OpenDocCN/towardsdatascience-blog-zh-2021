@@ -226,10 +226,6 @@ log.txt 中该文件的输出:
 
 如果您有任何问题、评论、更正或担忧，请在 LinkedIn 上给我写信。
 
-[](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) [## Kasper Müller -高级顾问，数据和分析，金融服务，技术咨询- EY | LinkedIn
-
-### 编程、数学和教学是我最大的兴趣。数据科学、机器学习和…
-
-www.linkedin.com](https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/) 
+<https://www.linkedin.com/in/kasper-m%C3%BCller-96ba95169/>  
 
 穿衣服快乐。

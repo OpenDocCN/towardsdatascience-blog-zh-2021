@@ -80,7 +80,7 @@
 
 自我注意机制中的词汇表征
 
-多头注意力机制将在更详细的[](https://machinelearningmarvel.in/intuitive-maths-and-code-behind-self-attention-mechanism-of-transformers-for-dummies/)****中讨论。我会写一篇关于它的独立博文，并把它链接到这里。****
+多头注意力机制将在更详细的<https://machinelearningmarvel.in/intuitive-maths-and-code-behind-self-attention-mechanism-of-transformers-for-dummies/>****中讨论。我会写一篇关于它的独立博文，并把它链接到这里。****
 
 ## **2.添加和规范层**
 

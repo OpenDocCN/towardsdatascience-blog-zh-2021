@@ -453,19 +453,7 @@ python_list = list("listing")print(python_list)>>> output:
 
 查看您可能也想阅读的其他文章:
 
-[](/pandas-made-easy-the-guide-i-81834f075893) [## 熊猫变得容易(指南— I)
-
-### 有许多最常用的函数和方法的例子
-
-towardsdatascience.com](/pandas-made-easy-the-guide-i-81834f075893) [](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) [## 描述性统计:期望与现实(探索性数据分析——EDA)
-
-### 一种简单的描述性统计方法来总结集中趋势的措施和传播的措施
-
-towardsdatascience.com](/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b) [](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) [## 关于移动营销活动的 15 个商业问题:ROAS(广告支出回报)
-
-### 探索性营销数据分析，用于监控和评估移动营销活动(EDA)的绩效
-
-towardsdatascience.com](/15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6) 
+</pandas-made-easy-the-guide-i-81834f075893>  </descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b>  </15-business-questions-about-mobile-marketing-campaigns-roas-return-on-ad-spend-ff636a8095b6>  
 
 # 结论
 

@@ -16,11 +16,7 @@
 
 如果我的受众是数据科学初学者，我会分解技术概念，甚至使用隐喻。我解释所有的缩写，我有时制作定制的视觉效果，我保持段落简短，等等。例如，查看我写的一篇关于数据科学初学者的文章:
 
-[](/machine-learning-models-explained-to-a-five-year-old-f2f540d9dcea) [## 向一个五岁的孩子解释机器学习模型
-
-### 尽可能简单地解释 ML 模型是如何工作的
-
-towardsdatascience.com](/machine-learning-models-explained-to-a-five-year-old-f2f540d9dcea) 
+</machine-learning-models-explained-to-a-five-year-old-f2f540d9dcea>  
 
 如果我的文章更适合在数据领域有经验的人，我仍然喜欢清晰透彻地解释技术和方法。你不需要证明你聪明或者有经验——只要写得像你试图帮助学生理解你的想法就行了(不需要过于复杂的语言)。
 
@@ -38,11 +34,7 @@ towardsdatascience.com](/machine-learning-models-explained-to-a-five-year-old-f2
 
 我喜欢认为我在 TDS 上发表的文章是独一无二的。为了被接受，他们至少要有足够的独创性*。我的阅读量最高的文章都有不同的突出标题*。以下是我根据浏览量和掌声数得出的最受欢迎的一个:*
 
-*[](/i-worked-through-500-data-science-interview-questions-51e2e4dead9d) [## 我研究了 500 多个数据科学面试问题
-
-### 以下是我一路走来学到的东西
-
-towardsdatascience.com](/i-worked-through-500-data-science-interview-questions-51e2e4dead9d) 
+*</i-worked-through-500-data-science-interview-questions-51e2e4dead9d>  
 
 *免责声明:你希望你的标题突出而不被点击诱饵。
 
@@ -64,6 +56,6 @@ towardsdatascience.com](/i-worked-through-500-data-science-interview-questions-5
 
 *当然，如果你想知道如何在 TDS 上发表文章的最真实的来源，请直接访问他们的指导方针:*
 
-*[](/questions-96667b06af5) [## 为迈向数据科学而写作
+*</questions-96667b06af5> [## 为迈向数据科学而写作
 
 towardsdatascience.com](/questions-96667b06af5)*

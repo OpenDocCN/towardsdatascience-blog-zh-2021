@@ -174,12 +174,4 @@ Q7。**使用 get 请求读取这个** [**链接**](https://ocw.mit.edu/ans7870/
 
 **你可能也喜欢:**
 
-[](/4-types-of-data-science-interview-questions-part1-d17db4253c69) [## 数据科学面试问题的 4 种类型—第 1 部分
-
-### 具有很强的 ML 焦点的真题
-
-towardsdatascience.com](/4-types-of-data-science-interview-questions-part1-d17db4253c69) [](/4-types-of-data-science-interview-questions-part2-106f5bf7218d) [## 数据科学面试问题的 4 种类型—第 2 部分
-
-### 具有强烈商业焦点的真实问题
-
-towardsdatascience.com](/4-types-of-data-science-interview-questions-part2-106f5bf7218d)
+</4-types-of-data-science-interview-questions-part1-d17db4253c69>  </4-types-of-data-science-interview-questions-part2-106f5bf7218d> 

@@ -48,8 +48,4 @@ Image by Author | Runnable JAR 已经根据用户的输入成功生成。选择�
 
 # 非常感谢你的阅读，希望有人觉得这有用！❤
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)
+<https://geek-cc.medium.com/membership> 

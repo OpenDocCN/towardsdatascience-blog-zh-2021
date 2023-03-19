@@ -192,11 +192,7 @@ kafka-topics.sh --list --zookeeper zookeeper:2181
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 
@@ -204,4 +200,4 @@ medium.com](https://medium.com/@radecicdario/membership)
 *   注册我的[简讯](https://mailchi.mp/46a3d2989d9b/bdssubscribe)
 *   在 [LinkedIn](https://www.linkedin.com/in/darioradecic/) 上连接
 
-*原载于 2021 年 9 月 23 日 https://betterdatascience.com*[](https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/)**。**
+*原载于 2021 年 9 月 23 日 https://betterdatascience.com*<https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/>**。**

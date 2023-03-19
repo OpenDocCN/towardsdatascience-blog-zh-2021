@@ -66,19 +66,7 @@ RDBMS 主要基于三大支柱:
 
 因为该系统可以随着不断发展的数据和需求而发展，所以它非常通用，适合大多数数据库的业务需求。RDBMS 由于其智能化设计，可以说是数据库管理系统的人工智能。
 
-[](/python-vs-r-for-data-science-cf2699dfff4b) [## Python 与 R 在数据科学中的对比
-
-### 为什么你在浪费时间
-
-towardsdatascience.com](/python-vs-r-for-data-science-cf2699dfff4b) [](/3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661) [## 你的机器学习模型表现不佳的 4 个原因
-
-### 建立更好的 ML 模型的图解方法
-
-towardsdatascience.com](/3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661) [](/5-stages-of-learning-data-science-40bca61f11b1) [## 学习数据科学的 5 个阶段
-
-### 以及如何战胜它们
-
-towardsdatascience.com](/5-stages-of-learning-data-science-40bca61f11b1) 
+</python-vs-r-for-data-science-cf2699dfff4b>  </3-reasons-why-your-machine-learning-model-is-garbage-d643e6f0661>  </5-stages-of-learning-data-science-40bca61f11b1>  
 
 ***参考文献:***
 

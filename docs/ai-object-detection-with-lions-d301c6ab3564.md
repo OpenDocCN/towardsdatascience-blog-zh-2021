@@ -30,11 +30,7 @@
 
 几个月前，我发现了一篇关于物体检测的很棒的文章…
 
-[](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc) [## 使用 Google Colab 的 TensorFlow 2 对象检测 API
-
-### 本文将指导您完成对象识别模型训练所需的所有步骤，从收集…
-
-medium.com](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc) 
+<https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc>  
 
 演练大部分工作，但有相当大的差距。我遇到了几个问题，试图让这个工作。我试图联系作者，但没有得到任何答案。我自己解决了问题并改进了代码，现在它运行得非常好。
 
@@ -44,7 +40,7 @@ medium.com](https://medium.com/swlh/tensorflow-2-object-detection-api-with-googl
 
 为了证明这一点，我们需要一些“**商业使用& mods 允许的**”图像用于训练和测试。正如我上面提到的，我已经获得了使用一些“**Waldo**在哪里”图片的许可。我确实在 Flickr 上看了看，但就是找不到一组好的图片。我最终只是用了一些我自己拍的照片，以避免任何潜在的版权问题。
 
-一旦我们准备好了我们的图像，我们将需要使用这个非常神奇的免费开源工具，叫做“[](https://github.com/tzutalin/labelImg)**”。如何安装[的说明可以在这里找到](https://github.com/tzutalin/labelImg/blob/master/README.rst)。为了训练我们的模型，我们首先需要教它“**狮子**在哪里。" [**labelImg**](https://github.com/tzutalin/labelImg) "非常容易地帮你给"**狮子**"加标签，并在它周围加一个边框。保存文件时，它将包含一个 XML 文件，其中包含图像的所有标签信息。图像可以包含一个或多个标签、多个标签，甚至是重叠的标签。在这种情况下，我们只有一个名为“ **lion** ”的标签。**
+一旦我们准备好了我们的图像，我们将需要使用这个非常神奇的免费开源工具，叫做“<https://github.com/tzutalin/labelImg>**”。如何安装[的说明可以在这里找到](https://github.com/tzutalin/labelImg/blob/master/README.rst)。为了训练我们的模型，我们首先需要教它“**狮子**在哪里。" [**labelImg**](https://github.com/tzutalin/labelImg) "非常容易地帮你给"**狮子**"加标签，并在它周围加一个边框。保存文件时，它将包含一个 XML 文件，其中包含图像的所有标签信息。图像可以包含一个或多个标签、多个标签，甚至是重叠的标签。在这种情况下，我们只有一个名为“ **lion** ”的标签。**
 
 **![](img/62c4a3c075eec1dda2aa4ce7fbb9532c.png)**
 
@@ -563,23 +559,7 @@ process_image(
 
 **如果你喜欢这篇文章，我建议你看看下面的文章:**
 
-**[](https://medium.com/geekculture/using-aws-sagemaker-to-solve-machine-learning-ai-problems-3c5896da2b2d) [## 使用 AWS SageMaker 解决机器学习和人工智能问题
-
-### 大规模构建、训练和部署机器学习模型
-
-medium.com](https://medium.com/geekculture/using-aws-sagemaker-to-solve-machine-learning-ai-problems-3c5896da2b2d) [](https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8) [## 用最大似然法预测泰坦尼克号幸存者
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8) [](https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556) [## 用最大似然法预测房价
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556) [](https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e) [## 使用机器学习进行分类
-
-### 我通过荣誉退休一直在哥伦比亚工程学习应用机器学习。这是一个 5 个月的课程，我…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e) [](/spotify-artist-recommender-7950af1fe20a) [## Spotify 艺术家推荐
+**<https://medium.com/geekculture/using-aws-sagemaker-to-solve-machine-learning-ai-problems-3c5896da2b2d>  <https://levelup.gitconnected.com/predicting-titanic-survivors-using-ml-8570ef4e89e8>  <https://levelup.gitconnected.com/predicting-house-sale-prices-using-ml-30b829fd9556>  <https://levelup.gitconnected.com/categorising-using-machine-learning-5601baf9a05e>  </spotify-artist-recommender-7950af1fe20a> [## Spotify 艺术家推荐
 
 towardsdatascience.com](/spotify-artist-recommender-7950af1fe20a) 
 
